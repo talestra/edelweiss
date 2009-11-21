@@ -2,67 +2,67 @@
 
 @254
 <en>{???}\n"Hey-!"
-<es>
+<es>{???}\n"¡Oye...!"
 
 @255
 <en>{???}\n"Wake up!! Kazushi!"
-<es>
+<es>{???}\n"¡¡Despierta!! ¡Kazushi!"
 
 @256
 <en>..................
-<es>
+<es>...
 
 @257
 <en>{???}\n"Are you all right?"
-<es>
+<es>{???}\n"¿Te encuentras bien?"
 
 @258
 <en>{???}\n"......oh...no..."
-<es>
+<es>{???}\n"Oh, no..."
 
 @259
 <en>..................\nwhat is it you want?
-<es>
+<es>...\n¿Qué es lo que quieres?
 
 @260
 <en>{???}\n"It's comming!!"
-<es>
+<es>{???}\n"¡¡Que viene!!"
 
 @261
 <en>..................\nwhat's comming?
-<es>
+<es>...\n¿Qué es lo que viene?
 
 @262
 <en>{???}\n"A guy throwing up"
-<es>
+<es>{???}\n"Un tipo vomitando"
 
 @263
 <en>{???}\n"!!"
-<es>
+<es>{???}\n"¡¡!!"
 
 @264
 <en>{???}\n"Don't throw up here!\nHey Kazushi!!"
-<es>
+<es>{???}\n"¡No vomites ahí!\nOye, ¡¡Kazushi!!"
 
 @265
 <en>{Kazushi}\n"What-?......why are you so noisy?"
-<es>
+<es>{Kazushi}\n"¿Qué...? ¿Por qué hacéis tanto ruido?"
 
 @289
 <en>{Appo-}\n"Throwing up"
-<es>
+<es>{Appo-}\n*Vomitando*
 
 @290
 <en>The very first thing I saw this day was Appo- throwing up.
-<es>
+<es>La primera cosa que vi hoy fue a Appo- vomitando.
 
 @295
 <en>{Pierre}\n"Here, use this bag!!"
-<es>
+<es>{Pierre}\n"Toma, ¡usa esta bolsa!"
 
 @299
 <en>{Appo-}\n"Throwing up"
-<es>
+<es>{Appo-}\n*Vomitando*
 
 @306
 <en>{Daigo}\n"You always carry that bag for this kind of emergency?"
@@ -70,15 +70,15 @@
 
 @309
 <en>{Pierre}\n"No. This is actually Appo-'s"
-<es>
+<es>{Pierre}\n"No. Esta es la de Appo-."
 
 @310
 <en>This is not what you wanna see right when you wake up.
-<es>
+<es>Esto no es lo que le gustaría ver a uno al despertarse.
 
 @331
 <en>There is beautiful sky and endless view of blue sky above us.
-<es>
+<es>Hay un precioso paisaje y una vista initerminable de cielo azul.
 
 @332
 <en>I feel strong sunlight giving me a good tan.
@@ -86,11 +86,11 @@
 
 @333
 <en>Yes, we are on a ship cruising.
-<es>
+<es>Sí, estamos de crucero en un barco.
 
 @334
 <en>Mother ocean makes me feel so relaxed.
-<es>
+<es>El océano hace que me sienta tan relajado...
 
 @335
 <en>{Kazushi}\n"This is so soothing. I love being out here."
@@ -98,35 +98,35 @@
 
 @351
 <en>{Pierre}\n"Stop ignoring what's going on!!\nHelp me out here!!"
-<es>
+<es>{Pierre}\n"¡¡Deja de ignorarnos!!\n¡¡Ayúdame!!"
 
 @355
 <en>{Appo-}\n"Hey Kazushi!\nWhy are you having hard on?\nStill throwing up"
-<es>
+<es>{Appo-}\n"Oye, ¡Kazushi!\n¿Por qué la tienes tiesa?"\n*Todavía vomitando*
 
 @377
 <en>{Pierre}\n"Why are you having hard on?"
-<es>
+<es>{Pierre}\n"¿Por qué la tienes tiesa?"
 
 @378
 <en>{Kazushi}\n"It's just because I just woke up!"
-<es>
+<es>{Kazushi}\n"¡Porque me acabo de levantar!"
 
 @383
 <en>{Daigo}\n"Kazushi always have hard on for some reason."
-<es>
+<es>{Daigo}\n"Por algún motivo, Kazushi siempre la tiene así."
 
 @386
 <en>{Pierre}\n"Why were you sleeping to begin with?"
-<es>
+<es>{Pierre}\n"Para empezar, ¿por qué estabas durmiendo?"
 
 @387
 <en>{Kazushi}\n"I was so excited, I didn't sleep for last three days."
-<es>
+<es>{Kazushi}\n"Estaba tan emocionado, que no había pegado ojo en tres días."
 
 @388
 <en>I only slept about 5 hours total for last week. That's how much I was looking forward to this trip.
-<es>
+<es>Y solo he dormido unas cinco horas en total durante esta semana. Es por lo mucho que estaba esperando este viaje.
 
 @391
 <en>{Daigo}\n"You are so tough."
@@ -134,15 +134,15 @@
 
 @394
 <en>{Pierre}\n"On the other hand......"
-<es>
+<es>{Pierre}\n"Por otro lado..."
 
 @399
 <en>{Appo-}\n"Kill me! ......somebody please just kill me!\n......!!"
-<es>
+<es>{Appo-}\n"¡Matadme! ¡Que alguien me mate...! Por favor...\n¡...!"
 
 @400
 <en>{Kazushi}\n"You don't have to die. You came this far."
-<es>
+<es>{Kazushi}\n"No tienes por qué morirte. Ya has llegado hasta aquí."
 
 @401
 <en>This mother ocean makes me a very kind person.
@@ -150,39 +150,39 @@
 
 @402
 <en>{Kazushi}\n"He's right. We've been working so hard for this trip."
-<es>
+<es>{Kazushi}\n"Tiene razón. Nos hemos esforzado mucho para conseguir este viaje."
 
 @405
 <en>{Appo-}\n"Kazushi......\nThrowing up......!!"
-<es>
+<es>{Appo-}\n"¡Kazushi...!"\n*Vomitando*
 
 @415
 <en>{Kazushi}\n"Don't hug me when you're puking!"
-<es>
+<es>{Kazushi}\n"¡No me abraces mientras vomitas, mamón!"
 
 @416
 <en>{Pierre}\n"Watch out!"
-<es>
+<es>{Pierre}\n"¡Cuidado!"
 
 @417
 <en>{Daigo}\n"At least make him puke into the ocean."
-<es>
+<es>{Daigo}\n"Al menos, haz que vomite en el mar."
 
 @431
 <en>{Panchu-}\n"Guys! Don't stain the ocean!"
-<es>
+<es>{Panchu-}\n"¡Chicos! ¡No ensuciéis el océano!"
 
 @432
 <en>When this big man talks, we can't help to stand straight by conditional reflex.
-<es>
+<es>Cuando este hombretón habla, no podemos evitar erguirnos por mero reflejo.
 
 @433
 <en>{Kazushi}\n"How are you, Mr.Panchu-?"
-<es>
+<es>{Kazushi}\n"¿Qué tal, Panchu-?"
 
 @434
 <en>{Panchu-}\n"Don't stain the ocean.\nDon't throw up the breakfast yor mother made.\nDon't throw up if you're a man."
-<es>
+<es>{Panchu-}\n"No manches el océano.\nNo vomites el almuerzo que te ha hecho tu madre.\nNo vomites si eres un hombre."
 
 @435
 <en>Everybody look up to this man in our school for all the legend he has.
