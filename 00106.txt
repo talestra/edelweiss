@@ -374,19 +374,19 @@
 
 @575
 <en>{Teacher Yagami}\n"You guys clean up this mess before you leave, O.K?"
-<es>
+<es>{Profesor Yagami}\n"Y chicos, no os olvidéis de limpiar esta porquería antes de iros, ¿vale?"
 
 @579
 <en>{Pierre}\n"We have to clean this mess?"
-<es>
+<es>{Pierre}\n"¿Tenemos que limpiar esta mierda?"
 
 @580
 <en>{Teacher Yagami}\n"Friends clean up friend's mess."
-<es>
+<es>{Profesor Yagami}\n"Los amigos limpian la mierda de los amigos."
 
 @581
 <en>{Teacher Yagami}\n"Friendship is a beautiful thing."
-<es>
+<es>{Profesor Yagami}\n"La amistad es algo bonito."
 
 @582
 <en>He's talking as if he is talking to the mother ocean.
@@ -394,19 +394,19 @@
 
 @586
 <en>{Teacher Yagami}\n"Don't you think so?"
-<es>
+<es>{Profesor Yagami}\n"¿No creéis?"
 
 @587
 <en>{Kazushi}\n"I think I do."
-<es>
+<es>{Kazushi}\n"Creo que sí."
 
 @588
 <en>Sometimes, it's really hard to understand what he's talking about.
-<es>
+<es>A veces, resulta bastante difícil entender de qué está hablando.
 
 @589
 <en>{Kazushi}\n"Well, we make sure it gets cleaned up."
-<es>
+<es>{Kazushi}\n"Vale. Nos aseguraremos de que se quede limpio."
 
 @590
 <en>We are actually afraid of this teacher.
@@ -418,7 +418,7 @@
 
 @608
 <en>{Daigo}\n"What is this green stuff?"
-<es>
+<es>{Daigo}\n"¿Qué es esta cosa verde?"
 
 @611
 <en>{Pierre}\n"Ofcourse they are grass! what else do they look like?"
@@ -434,11 +434,11 @@
 
 @614
 <en>{Appo-}\n"Throwing up"
-<es>
+<es>{Appo-}\n*Vomitando*
 
 @617
 <en>{Pierre}\n"Will you stop throwing up now?"
-<es>
+<es>{Pierre}\n"¿Pero vas a parar de vomitar ya?"
 
 @618
 <en>{Kazushi}\n"He's right. We went through a tough test to get here together."
@@ -446,39 +446,39 @@
 
 @621
 <en>{Daigo}\n"Just how we promised to each other."
-<es>
+<es>{Daigo}\n"Tal y como nos prometimos."
 
 @622
 <en>{Appo-}\n"Ofcourse we all passed the exam......\nWho would want to miss an oppoturnity to teach at girls' school?......"
-<es>
+<es>{Appo-}\n"Claro que hemos pasado todos el examen...\n¿Quién iba a perderse la oportunidad de estudiar en la escuela para chicas?..."
 
 @623
 <en>{Kazushi}\n"We are at the beginning of our journey."
-<es>
+<es>{Kazushi}\n"Acabamos de empezar nuestros viaje."
 
 @626
 <en>{Pierre}\n"Yep. We are at the beginning of our legend."
-<es>
+<es>{Pierre}\n"Sí. Acabamos de empezar nuestra leyenda."
 
 @629
 <en>{Daigo}\n"I'm never been popular in my entire life."
-<es>
+<es>{Daigo}\n"Yo no he sido popular en toda mi vida."
 
 @630
 <en>{Kazushi}\n"Me, either."
-<es>
+<es>{Kazushi}\n"Ni yo."
 
 @633
 <en>{Appo-}\n"We've never been popular with girls!"
-<es>
+<es>{Appo-}\n"¡Nunca hemos sido populares entre las chicas!"
 
 @636
 <en>{Pierre}\n"Why are we so proud of this?"
-<es>
+<es>{Pierre}\n"¿Por qué estamos tan orgullosos de algo así?"
 
 @639
 <en>{Appo-}\n"But!! It'll all change!!"
-<es>
+<es>{Appo-}\n"¡¡Pero!! ¡¡Eso va a cambiar!!"
 
 @642
 <en>{Daigo}\n"We'll be working in no man's land."
@@ -486,23 +486,23 @@
 
 @645
 <en>{Pierre}\n"I heard any man will be popular in girls' school."
-<es>
+<es>{Pierre}\n"He oído que cualquier hombre sería popular en la escuela para chicas."
 
 @646
 <en>{Kazushi}\n"Is that true?"
-<es>
+<es>{Kazushi}\n"¿Es cierto eso?"
 
 @649
 <en>{Pierre}\n"Unless you're super ugly. But, we are O.K"
-<es>
+<es>{Pierre}\n"A no ser que seas extremadamente feo. Pero nosotros estamos pasables."
 
 @652
 <en>{Daigo}\n"We're O.K"
-<es>
+<es>{Daigo}\n"Estamos pasables."
 
 @653
 <en>{Kazushi}\n"We're not super ugly for sure."
-<es>
+<es>{Kazushi}\n"Desde luego extremadamente feos no somos."
 
 @656
 <en>{Pierre}\n"You're saying we are just "O.K" looking!"
@@ -514,11 +514,11 @@
 
 @660
 <en>{Kazushi}\n"Why are you so sure?"
-<es>
+<es>{Kazushi}\n"¿Cómo estás tan seguro?"
 
 @663
 <en>{Appo-}\n"Have you heard a term "Pheromone"? Females sense our pheromone!!"
-<es>
+<es>{Appo-}\n"¿Has oído hablar del término 'Feromona'? ¡¡Las hembras perciben nuestras feromonas!!"
 
 @669
 <en>{Pierre}\n"Who is that? He looks......fine......"
@@ -526,7 +526,7 @@
 
 @670
 <en>{Appo-}\n"Hello lady, how can I enter your world?\nKnock, knock!"
-<es>
+<es>{Appo-}\n"Hola preciosa, ¿puedo entrar en tu mundo?\n¡Toc, toc!"
 
 @671
 <en>{Pierre}\n"Oh! Looks like there's a guest coming between my legs......"
@@ -534,7 +534,7 @@
 
 @674
 <en>{Appo-}\n"Knock! knock!"
-<es>
+<es>{Appo-}\n"¡Toc, toc!"
 
 @675
 <en>{Pierre}\n"No! Wait! No one has entered my door yet!\nPlease wait-!"
@@ -542,7 +542,7 @@
 
 @678
 <en>{Appo-}\n"Knock! knock!"
-<es>
+<es>{Appo-}\n"¡Toc, toc!"
 
 @679
 <en>{Pierre}\n"Welcome! You are welcome-!"
@@ -550,11 +550,11 @@
 
 @680
 <en>{Kazushi}\n"......"
-<es>
+<es>{Kazushi}\n"..."
 
 @687
 <en>{Daigo}\n"Are you guys done?"
-<es>
+<es>{Daigo}\n"¿Ya habéis terminado?"
 
 @692
 <en>{Appo-}\n"I guaranty you, that's what it's gonna happen!"
@@ -562,7 +562,7 @@
 
 @695
 <en>{Pierre}\n"He's right."
-<es>
+<es>{Pierre}\n"Tiene razón."
 
 @698
 <en>{Appo-}\n"Look around you. Girls in puberty is locked in an island. You know what that means, right?"
@@ -570,15 +570,15 @@
 
 @699
 <en>{Kazushi}\n"No, I don't."
-<es>
+<es>{Kazushi}\n"No, no lo sé."
 
 @700
 <en>{Appo-}\n"It means we don't have to do anything to get them. They will come to us."
-<es>
+<es>{Appo-}\n"Eso significa que no tenemos que hacer nada para conseguirlas. Ellas vendrán a nosotros."
 
 @701
 <en>{Kazushi}\n"I see!"
-<es>
+<es>{Kazushi}\n"¡Ya veo!"
 
 @704
 <en>{Appo-}\n"We never have to worry about making a wrong move!"
@@ -606,23 +606,23 @@
 
 @720
 <en>{Pierre}\n"There were only two options they had until we arrive. Either they mustervate or they become lilly."
-<es>
+<es>{Pierre}\n"Sólo tenían dos opciones hasta que lleguemos. O se masturbaban o se hacían 'tortis'."
 
 @723
 <en>{Daigo}\n"What is lilly?"
-<es>
+<es>{Daigo}\n"¿Qué es eso de 'tortis'?"
 
 @726
 <en>{Pierre}\n"It means lesbian. According to a survey, 40% of students in girls' school are lesbians."
-<es>
+<es>{Pierre}\n"Tortilleras; lesbianas. Según una encuesta, el 40% de las estudiantes de la escuela para chicas son lesbianas."
 
 @727
 <en>{Pierre}\n"It's almost half of them!!"
-<es>
+<es>{Pierre}\n"¡¡Eso es casi la mitad!!"
 
 @730
 <en>{Daigo}\n"Are you serious?"
-<es>
+<es>{Daigo}\n"¿Hablas en serio?"
 
 @733
 <en>{Pierre}\n"Yeah, I remember some Dr, somebody was writing an article about it."
