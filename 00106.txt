@@ -106,7 +106,7 @@
 
 @377
 <en>{Pierre}\n"Why are you having hard on?"
-<es>{Pierre}\n"¿Por qué la tienes tiesa?"
+<es>{Pierre}\n"Eso. ¿Por qué la tienes tiesa?"
 
 @378
 <en>{Kazushi}\n"It's just because I just woke up!"
@@ -146,7 +146,7 @@
 
 @401
 <en>This mother ocean makes me a very kind person.
-<es>
+<es>El océano me convierte en una persona encantadora.
 
 @402
 <en>{Kazushi}\n"He's right. We've been working so hard for this trip."
@@ -558,7 +558,7 @@
 
 @692
 <en>{Appo-}\n"I guaranty you, that's what it's gonna happen!"
-<es>
+<es>{Appo-}\n"¡Te garantizo que es lo que va a pasar!"
 
 @695
 <en>{Pierre}\n"He's right."
@@ -566,7 +566,7 @@
 
 @698
 <en>{Appo-}\n"Look around you. Girls in puberty is locked in an island. You know what that means, right?"
-<es>
+<es>{Appo-}\n"Mira a tu alrededor. Chicas en la pubertad encerradas en una isla. Sabes lo que significa, ¿no?"
 
 @699
 <en>{Kazushi}\n"No, I don't."
@@ -582,19 +582,19 @@
 
 @704
 <en>{Appo-}\n"We never have to worry about making a wrong move!"
-<es>
+<es>{Appo-}\n"¡No tendremos que preocuparnos por hacer movimientos en falso!"
 
 @707
 <en>{Pierre}\n"Hey Appo-, remember you've been reported to the police for delivering an I.D. to a cute girl she dropped......?"
-<es>
+<es>{Pierre}\n"Oye Appo-, ¿recuerdas cuando llamaron a la policía por entregar un I.D. a una chica guapa a la que se le había caído...?"
 
 @710
 <en>{Daigo}\n"Hey Appo-, remember you wore cologne for the first time and a girl thought you smell......?"
-<es>
+<es>{Daigo}\n"Y oye Appo-, ¿recuerdas la vez que te pusiste colonia por primera vez y una chica pensó que olías...?"
 
 @713
 <en>{Appo-}\n"Enough about me!"
-<es>
+<es>{Appo-}\n"¡Déja de hablar de mí!"
 
 @716
 <en>{Appo-}\n"Look guys! This is like throwing silvervine in a pack of cats."
@@ -642,7 +642,7 @@
 
 @741
 <en>{Pierre}\n"Yes! It is against god's will.\nThey shouldn't waste what they got!"
-<es>{Pierre}\n"¡Sí! Va en contra del deseo de Dios.\n¡No deberían desaprovechar las cosas que tienen!"
+<es>{Pierre}\n"¡Sí! Va en contra de la voluntad de Dios.\n¡No deberían desaprovechar las cosas que tienen!"
 
 @744
 <en>{Appo-}\n"I think this is our mission to rescue them......"
@@ -690,7 +690,7 @@
 
 @770
 <en>{Pierre}\n"Doggie style is always easier!\nLet's practice! Get down on your four Kazushi!"
-<es>
+<es>{Pierre}\n"¡El estilo del perrito es siempre el más fácil!\n¡Practiquemos! ¡Ponte a cuatro patas, Kazushi!"
 
 @771
 <en>{Kazushi}\n"What? Why me?"
@@ -706,11 +706,11 @@
 
 @776
 <en>I'm not sure if this was really a good idea, but I got down on my four anyways.
-<es>
+<es>No tengo nada claro que sea una buena idea, pero aún así, me he puesto a cuatro patas.
 
 @779
 <en>{Pierre}\n"All right, Daigo. Go for it."
-<es>
+<es>{Pierre}\n"Venga, Daigo. Dale."
 
 @780
 <en>{Daigo}\n"I'm getting nervous."
@@ -742,7 +742,7 @@
 
 @795
 <en>{Kazushi}\n"Wait wait-! This is so wrong!!"
-<es>
+<es>{Kazushi}\n"¡Espera, espera...! ¡¡Esto no está bien!!"
 
 @796
 <en>I feel like appologizing to my parents.
@@ -778,7 +778,7 @@
 
 @821
 <en>{Teacher Yagami}\n"I understand that you guys are excited, but......just behave yourselves once we get there."
-<es>{Profesor Yagami}\n"Chicos, comprendo que estéis excitados, pero... sed vosotros mismos cuando lleguéis."
+<es>{Profesor Yagami}\n"Chicos, comprendo que estéis excitados, pero... sed vosotros mismos cuando lleguemos."
 
 @826
 <en>{Daigo}\n"Hey guys, we are almost there."
@@ -790,11 +790,11 @@
 
 @828
 <en>We saw the island fot the first time.
-<es>
+<es>Y vimos la isla por primera vez.
 
 @877
 <en>{Teacher Yagami}\n"Just remember, we are going to teach at\n......is anybody listening to me?"
-<es>
+<es>{Profesor Yagami}\n"Recordad, estamos aquí para enseñar a\n... ¿me está escuchando alguien?"
 
 @881
 <en>{Panchu-}\n"Hey air heads!\nDon't stand on the same side-!\nYou guys are making the boat leaning!!"
@@ -802,7 +802,7 @@
 
 @883
 <en>No one is listening to Panchu- either.
-<es>
+<es>Nadie escucha a Panchu- tampoco.
 
 @886
 <en>{Teacher Yagami}\n"You guys are young and honest.\nI like how you guys are excited to study......"
@@ -810,7 +810,7 @@
 
 @888
 <en>He speaks to us as he lights his cigarette.
-<es>
+<es>Nos habla mientras enciende un cigarrillo.
 
 @898
 <en>{Appo-}\n"That's our paradise island......opps."
@@ -818,51 +818,51 @@
 
 @899
 <en>{Kazushi}\n"Stop throwing up.\nBe a man!! That's how you get a girl out there!"
-<es>
+<es>{Kazushi}\n"Deja de vomitar.\n¡¡Se un hombre!! ¡Así es como se encuentran a las chicas!"
 
 @902
 <en>{Pierre}\n"Shit......I'm getting a hard on."
-<es>
+<es>{Pierre}\n"Mierda... Se me está poniendo dura."
 
 @908
 <en>{Teacher Yagami}\n"You guys should use the energy in some other way."
-<es>
+<es>{Profesor Yagami}\n"Deberíais invertir vuestra energía de otra forma."
 
 @909
 <en>{Kazushi}\n"Sorry, Mr.Yagami."
-<es>
+<es>{Kazushi}\n"Lo siento, señor Yagami."
 
 @911
 <en>Maybe I should use my energy to play Tennis with the girls.
-<es>
+<es>Quizá debería usar mi energía jugando al tennis con las chicas.
 
 @912
 <en>That will be so much fun.
-<es>
+<es>Eso sería muy divertido.
 
 @919
 <en>{Pierre}\n"This was my destiny to be here."
-<es>
+<es>{Pierre}\n"Era mi destino el estar aquí."
 
 @920
 <en>Pierre is so convinced.
-<es>
+<es>Pierre está muy convencido.
 
 @921
 <en>{Kazushi}\n"You are right, Pierre."
-<es>
+<es>{Kazushi}\n"Tienes razón, Pierre."
 
 @922
 <en>Everybody here must think as Pierre thinks.
-<es>
+<es>Todos los aquí presentes deben pensar igual que Pierre.
 
 @923
 <en>Our high-school was going to close and this girls' school accepted us to enroll in.
-<es>
+<es>Nuestro instituto iba a cerrar y esta escuela para chicas aceptó que nos matriculásemos.
 
 @924
 <en>It was hard for us to think this was an accident.
-<es>
+<es>Nos resultaba difícil de creer que era un accidente.
 
 @927
 <en>{Daigo}\n"We are here."
@@ -870,7 +870,7 @@
 
 @931
 <en>We could see a lots of fishermen at the port working.
-<es>
+<es>Podemos ver montones de pescadores trabajando en el puerto.
 
 @932
 <en>{Fisherman A}\n"Today was the last day I wanted my boat to go down!"
@@ -878,15 +878,15 @@
 
 @933
 <en>{Fisherman B}\n"Com'on let's hurry and fix her! Today is "the day"."
-<es>
+<es>{Pescador B}\n"Venga. ¡Date prisa y arréglala! Hoy es 'el día'."
 
 @934
 <en>{Fisherman A}\n"You are right. Today is the day."
-<es>
+<es>{Pescador A}\n"Tienes razón. Hoy es el día."
 
 @935
 <en>I overheard them saying "the day" I wonder what's going on today?
-<es>
+<es>He acertado a oírles decir 'el día'. Me pregunto qué es lo que pasa hoy.
 
 @936
 <en>{Appo-}\n"Look at that smoke coming out from that boat."
@@ -929,32 +929,32 @@
 <es>
 
 @951
-<en>{Teacher Yagami}\n"We are here-!\nDon't rush to get off-!"
+<en>{Profesor Yagami}\n"¡Ya hemos llegado...!\n¡No corráis al bajar...!"
 <es>
 
 @952
 <en>No one was listening to him. We just couldn't wait to get off.
-<es>
+<es>Nadie le estaba escuchando. No podíamos esperar en bajar.
 
 @959
 <en>{Pierre}\n"This may be a small step for mankind but this......"
-<es>
+<es>{Pierre}\n"Puede que sea un pequeño paso para la humanidad, pero es un..."
 
 @964
 <en>{Appo-}\n"Just go!"
-<es>
+<es>{Appo-}\n"¡Baja ya leñe!"
 
 @973
 <en>{Appo-}\n"Yes!!\nI'm here!!"
-<es>
+<es>{Appo-}\n"¡¡Sííí!!\n¡¡Ya estoy aquí!!"
 
 @974
 <en>{Kazushi}\n"Yeah---!!"
-<es>
+<es>{Kazushi}\n"¡¡Síííí!!"
 
 @980
 <en>{Pierre}\n"Hey!......Ouch......"
-<es>
+<es>{Pierre}\n"¡Ey!... Au..."
 
 @986
 <en>{Teacher Yagami}\n"Guys!! You are walking over your friend."
@@ -962,15 +962,15 @@
 
 @994
 <en>{Appo-}\n"Opps."
-<es>
+<es>{Appo-}\n"Ups."
 
 @995
 <en>{Daigo}\n"Sorry."
-<es>
+<es>{Daigo}\n"Lo siento."
 
 @1001
 <en>{Kazushi}\n"Finally! Our new life begin here!"
-<es>
+<es>{Kazushi}\n"¡Al fin! ¡Nuestra nueva vida empieza aquí!"
 
 @1002
 <en>There is a hill right underneath the sun.
@@ -978,39 +978,39 @@
 
 @1003
 <en>The building on top of the hill looks like a castle is the school we'll be enrolling.
-<es>
+<es>El edificio en la cima de la colina que parece un castillo es la escuela donde estamos matriculados.
 
 @1004
 <en>{Kazushi}\n"That is the place my princess is waiting for me."
-<es>
+<es>{Kazushi}\n"Allí es donde me está esperando mi princesa."
 
 @1011
 <en>{Pierre}\n"When did you become a poet."
-<es>
+<es>{Pierre}\n"¿Desde cuando te has hecho poeta?"
 
 @1014
 <en>{Appo-}\n"Kazushi is right! There wait my princess."
-<es>
+<es>{Appo-}\n"¡Kazushi tiene razón! Allí espera mi princesa."
 
 @1017
 <en>{Daigo}\n"My princess......"
-<es>
+<es>{Daigo}\n"Mi princesa..."
 
 @1021
 <en>It was almost like we came to a different country. Everything we saw looked so fresh to us.
-<es>
+<es>Es como si hubiésemos ido a otro país. Todo lo que vimos nos parecía completamente nuevo.
 
 @1022
 <en>{Kazushi}\n"Hey girls---------!!\nI'll be there soon----------!!"
-<es>
+<es>{Kazushi}\n"¡¡Oíd chicas...!!\n¡¡Estaré allí pronto...!!"
 
 @1023
 <en>I couldn't help shouting.
-<es>
+<es>No pude evitar gritar.
 
 @1030
 <en>{Appo-}\n"I'll be there, too-----!!"
-<es>
+<es>{Appo-}\n"¡¡Y yo también...!!"
 
 @1031
 <en>{Pierre}\n"Do you hear me, kittens?!!!!"
@@ -1022,23 +1022,23 @@
 
 @1033
 <en>Our shout echos in the sky.
-<es>
+<es>Nuestros gritos hacen eco en el cielo.
 
 @1039
 <en>{Teacher Yagami}\n"You guys......"
-<es>
+<es>{Profesor Yagami}\n"Chicos..."
 
 @1040
 <en>His emotion surpassed anger and he's more like embarrased about us.
-<es>
+<es>Su emoción sobrepasa el enfado y está casi más avergonzao de nosotros que otra cosa.
 
 @1044
 <en>{Old lady}\n"You boys are so energetic!!"
-<es>
+<es>{Anciana}\n"¡¡Cuánta energía, chicos!!"
 
 @1045
 <en>An old lady with a refined voice walked toward us.
-<es>
+<es>Una anciana con una voz refinada camina hacia nosotros.
 
 @1046
 <en>She was looking at us ever so preciously.
@@ -1050,7 +1050,7 @@
 
 @1050
 <en>I made an eye contact with her.\nShe could be my mom's age.
-<es>
+<es>Le echo un vistazo por encima.\nPodría tener la edad de mi madre.
 
 @1051
 <en>I don't know why, but I couldn't keep looking at her eyes.
@@ -1058,27 +1058,27 @@
 
 @1056
 <en>{Teacher Yagami}\n"Please to meet you.\nMy name is Yagami."
-<es>
+<es>{Profesor Yagami}\n"Encantado de conocerte.\nMe llamo Yagami."
 
 @1057
 <en>The way Mr.Yagami talks to her tells us that she is higher ranked teacher than him.
-<es>
+<es>La forma en la que el señor Yagami se refiere a ella nos da a entender que es una profesora de un rango superior al suyo.
 
 @1060
 <en>{Teacher Yagami}\n"Hey boys, this is your new principal."
-<es>
+<es>{Profesor Yagami}\n"Oíd chicos, esta es vuestra nueva directora."
 
 @1061
 <en>{Boys}\n"Nice to meet you---------!"
-<es>
+<es>{Chicos}\n"Encantados de conocerla...!"
 
 @1062
 <en>Everybody who lives in this island could hear us greeting.
-<es>
+<es>Cualaquiera persona viviendo en la isla, podría oír nuestro saludo. 
 
 @1067
 <en>{Principal}\n"Thanks for coming all the way out here."
-<es>
+<es>{Directora}\n"Gracias por haber venido hasta aquí."
 
 @1068
 <en>{Principal}\n"On behalf of all the teachers and stuffs, I welcome you to our school."
