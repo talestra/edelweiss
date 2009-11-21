@@ -66,7 +66,7 @@
 
 @306
 <en>{Daigo}\n"You always carry that bag for this kind of emergency?"
-<es>
+<es>{Daigo}\n"¿Sueles llevar esa bolsa para este tipo de emergencia?"
 
 @309
 <en>{Pierre}\n"No. This is actually Appo-'s"
@@ -82,7 +82,7 @@
 
 @332
 <en>I feel strong sunlight giving me a good tan.
-<es>
+<es>Puedo sentir la intensa luz bronceándome.
 
 @333
 <en>Yes, we are on a ship cruising.
@@ -94,7 +94,7 @@
 
 @335
 <en>{Kazushi}\n"This is so soothing. I love being out here."
-<es>
+<es>{Kazushi}\n"Es tan confortante. Me encanta estar aquí."
 
 @351
 <en>{Pierre}\n"Stop ignoring what's going on!!\nHelp me out here!!"
@@ -186,23 +186,23 @@
 
 @435
 <en>Everybody look up to this man in our school for all the legend he has.
-<es>
+<es>Todos en nuestra escuela admiran a este hombre por toda la leyenda que hay sobre él.
 
 @436
 <en>It took me almost half a year to understand his unique way of talking..
-<es>
+<es>Me llevó casi medio año comprender la forma tan peculiar que tiene de hablar.
 
 @437
 <en>After one incident, we start looking up to him.
-<es>
+<es>Tras cierto incidente, fue cuando empezamos a admirarle.
 
 @442
 <en>{Appo-}\n"Yes sir!\nI won't......throw......"
-<es>
+<es>{Appo-}\n"¡Sí, señor!\nNo... Vomitaré..."
 
 @445
 <en>{Panchu-}\n"Eat this and be strong."
-<es>
+<es>{Panchu-}\n"Cómete esto y sé fuerte."
 
 @446
 <en>He handed a bread. He carries breads evrywhere he goes.
@@ -214,11 +214,11 @@
 
 @448
 <en>Nobody really knows what he's thinking about.
-<es>
+<es>Nadie sabe qué le pasa por la cabeza.
 
 @451
 <en>{Panchu-}\n"Eat it at once."
-<es>
+<es>{Panchu-}\n"Cómetelo de una vez."
 
 @454
 <en>Panchu- jams the bread into Appo-'s mouth.
@@ -226,23 +226,23 @@
 
 @458
 <en>{Appo-}\n"......NNNNGGGGG......"
-<es>
+<es>{Appo-}\n"NNNNGGGGG..."
 
 @459
 <en>He could be violent sometimes.
-<es>
+<es>Panchu- puede llegar a ser algo violento en ocasiones.
 
 @460
 <en>{Appo-}\n"......NNNGGGG......"
-<es>
+<es>{Appo-}\n"NNNNGGGGG..."
 
 @465
 <en>{Pierre}\n(Please don't throw up again----!)
-<es>
+<es>{Pierre}\n(¡Por favor, no vuelvas a vomitar...!)
 
 @466
 <en>{Kazushi}\n(Show your guts-!!)
-<es>
+<en>{Kazushi}\n(¡Échale un par de cojones...!)
 
 @467
 <en>{Appo-}\n"......!!......"
@@ -254,11 +254,11 @@
 
 @477
 <en>{Daigo}\n"Good job, Appo-......"
-<es>
+<es>{Daigo}\n"Bien hecho, Appo-..."
 
 @478
 <en>{Pierre}\n"What a guts......"
-<es>
+<es>{Pierre}\n"Sí que tiene huevos..."
 
 @483
 <en>{Panchu-}\n"It's good. Isn't it?"
@@ -266,15 +266,15 @@
 
 @487
 <en>{Appo-}\n"!!"
-<es>
+<es>{Appo-}\n"¡¡!!"
 
 @488
 <en>Appo- is covering his mouth.
-<es>
+<es>Appo- se está cubriendo la boca.
 
 @493
 <en>{Panchu-}\n"What's wrong with you now?"
-<es>
+<es>{Panchu-}\n"¿Y ahora qué te pasa?"
 
 @494
 <en>......it was too late.
@@ -286,7 +286,7 @@
 
 @509
 <en>{Daigo}\n"He threw up again......"
-<es>
+<es>{Daigo}\n"Ha vuelto a vomitar..."
 
 @510
 <en>{Pierre}\n"Where did your guts go?"
@@ -294,83 +294,83 @@
 
 @522
 <en>{Appo-}\n"Give me a break! How could I eat that stupid bread when I was throwing up?"
-<es>
+<es>{Appo-}\n"¡Déjame en paz! ¿Cómo iba a poder tomarme ese estúpido pan estando vomitando?"
 
 @527
 <en>{Daigo}\n"Opps, he said it."
-<es>
+<es>{Daigo}\n"Ups... Lo ha dicho."
 
 @528
 <en>You don't want to call that "stupid bread" in front of Panchu-
-<es>
+<es>No querrías llamarlo "estúpido pan" delante de Panchu-.
 
 @533
 <en>{Panchu-}\n"What did you call the bread!?"
-<es>
+<es>{Panchu-}\n"¿¡Cómo has llamado al pan!?"
 
 @534
 <en>See. Appo- is in deeper trouble.
-<es>
+<es>Ajá. Ahora Appo- está en un problema aún mayor.
 
 @539
 <en>{Panchu-}\n"You're saying you didn't like the bread I gave you!?"
-<es>
+<es>{Panchu-}\n"¿¡Estás diciendo que no te gusta el pan que te he dado!?"
 
 @540
 <en>{Appo-}\n"......!!......"
-<es>
+<es>{Appo-}\n"¡¡...!! ¡¡...!!"
 
 @541
 <en>{Kazushi}\n"I'm sorry!\nPlease forgive him!"
-<es>
+<es>{Kazushi}\n"¡Lo siento!\n¡Por favor, perdónale!"
 
 @542
 <en>{Panchu-}\n"What do you know!?"
-<es>
+<es>{Panchu-}\n"¿¡Y tú qué sabrás!?"
 
 @546
 <en>{Panchu-}\n"Have you baked breads before!?"
-<es>
+<es>{Panchu-}\n"¿¡Has hecho pan alguna vez!?"
 
 @547
 <en>{Everybody}\n"Please forgive us!!"
-<es>
+<es>{Todos}\n"¡Por favor, perdónanos!!"
 
 @551
 <en>{Teacher Yagami}\n"What are you guys arguing about?"
-<es>
+<es>{Profesor Yagami}\n"¿Por qué estáis discutiendo, chicos?"
 
 @556
 <en>{Pierre}\n"Mr.Yagami!"
-<es>
+<es>{Pierre}\n"¡Porfesor Yagami!"
 
 @557
 <en>{Kazushi}\n"Hello!"
-<es>
+<es>{Kazushi}\n"¡Hola!"
 
 @561
 <en>This is Mr.Yagami. He is guiding us through out the trip.
-<es>
+<es>Este es el señor Yagami. Él hace de tutor nuestro durante el viaje.
 
 @564
 <en>{Teacher Yagami}\n"Hey Panchu-, I don't know what's going on, but forgive them, all right?"
-<es>
+<es>{Profesor Yagami}\n"Ey Panchu-. No sé lo que ha pasado. Pero perdónales, ¿vale?"
 
 @565
 <en>Mr.Yagami is always smiling.
-<es>
+<es>El señor Yagami siempre está sonriendo.
 
 @570
 <en>{Panchu-}\n"Yes, sir......"
-<es>
+<es>{Panchu-}\n"Sí, señor..."
 
 @571
 <en>I'm glad Panchu- took Mr.Yagami's word.
-<es>
+<es>Me algro de que Panchu- haya escuchado al señor Yagami.
 
 @572
 <en>Mr.Yagami's the only one who Panchu- listens to.
-<es>
+<es>El señor Yagami es el único al que Panchu- escucha.
 
 @575
 <en>{Teacher Yagami}\n"You guys clean up this mess before you leave, O.K?"
