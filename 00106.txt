@@ -34,7 +34,7 @@
 
 @262
 <en>{???}\n"A guy throwing up"
-<es>{???}\n"Un tipo vomitando"
+<es>{???}\n*Un tipo vomitando*
 
 @263
 <en>{???}\n"!!"
@@ -606,7 +606,7 @@
 
 @720
 <en>{Pierre}\n"There were only two options they had until we arrive. Either they mustervate or they become lilly."
-<es>{Pierre}\n"Sólo tenían dos opciones hasta que lleguemos. O se masturbaban o se hacían 'tortis'."
+<es>{Pierre}\n"Sólo tenían dos opciones hasta que llegásemos. O se masturbaban o se hacían 'tortis'."
 
 @723
 <en>{Daigo}\n"What is lilly?"
@@ -614,7 +614,7 @@
 
 @726
 <en>{Pierre}\n"It means lesbian. According to a survey, 40% of students in girls' school are lesbians."
-<es>{Pierre}\n"Tortilleras; lesbianas. Según una encuesta, el 40% de las estudiantes de la escuela para chicas son lesbianas."
+<es>{Pierre}\n"Tortilleras; lesbianas. Según una encuesta, el 40% de las estudiantes de la escuela para chicas lo son."
 
 @727
 <en>{Pierre}\n"It's almost half of them!!"
@@ -630,15 +630,15 @@
 
 @734
 <en>{Kazushi}\n"Wouldn't that be a problem for us?\nThat they like each other......"
-<es>
+<es>{Kazushi}\n"¿Y eso no nos supondrá un problema?\nEso de que se gusten entre ellas..."
 
 @737
 <en>{Appo-}\n"We don't have to worry about that.\nThere is only 10% of them who are truly gay."
-<es>
+<es>{Appo-}\n"No tenemos que preocuparnos por eso.\nSólo un 10% de ellas son realmente homosexuales."
 
 @738
 <en>{Daigo}\n"Thank god!!"
-<es>
+<es>{Daigo}\n"¡¡Gracias a Dios!!"
 
 @741
 <en>{Pierre}\n"Yes! It is against god's will.\nThey shouldn't waste what they got!"
@@ -646,7 +646,7 @@
 
 @744
 <en>{Appo-}\n"I think this is our mission to rescue them......"
-<es>
+<es>{Appo-}\n"Creo que es nuestra misión rescatarlas..."
 
 @745
 <en>{Pierre}\n"Yeah! We should fulfill both of their holes, mentally and physically!"
