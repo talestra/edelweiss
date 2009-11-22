@@ -1894,7 +1894,7 @@
 <es>{Appo-}\n"¡¡Está hablando!!"
 
 @1591
-// fine: multa, peaje?
+# fine: multa, peaje?
 <en>{A sign board}\n"Please pay the fine."
 <es>{Señal}\n"Por favor, pagad la multa."
 
@@ -2431,7 +2431,7 @@
 <es>{Señal}\n"¡¡#$%^&*!!"
 
 @1850
-// Doble sentido de señal :P
+# Doble sentido de señal :P
 <en>The killing machine got up from the ground.\nIsn't this a bad sign?
 <es>La máquina asesina se levantó del suelo. ¿No es esa una mala señal?
 
@@ -2789,7 +2789,7 @@
 
 @2113
 <en>{A girl}\n"I'm Mizuki."
-<es>{Chica}\n"Mizuki."
+<es>{Chica}\n"Me llamo Mizuki. Mizuki Hinata."
 
 @2116
 <en>{Pierre}\n"Mizuki.\nNice name!"
@@ -2853,7 +2853,7 @@
 
 @2156
 <en>{Kazushi}\n"Oh no, it's a dead end!"
-<es>
+<es>{Kazushi}\n"¡Oh no! Es un final sin salida."
 
 @2157
 <en>There is nowhere to go.
@@ -2904,11 +2904,12 @@
 <es>{Ran}\n"No trato de..."
 
 @2175
-// ¿Su corazón, o el de ella?
+# ¿Su corazón, o el de ella?
 <en>She's so close to me.\nI can hear my own heart pounding.
 <es>Está tan cerca de mí que puedo oír mi corazón latir.
 
 @2176
+# "doki doki". Le late el corazón.
 <en>{Ran}\n"Kazushi, are you kind of enjoying this situation?"
 <es>{Ran}\n"Kazushi, ¿acaso estás disfrutando esta situación?"
 
@@ -2921,60 +2922,62 @@
 <es>{Kazushi}\n"Mira dónde estamos ahora..."
 
 @2179
+# "doki doki".
 <en>{Ran}\n"You're right. I'm kind of excited, too."
 <es>{Ran}\n"Tienes razón. Yo también estoy algo excitada."
 
 @2180
+# ¿Gracioso o extraño?
 <en>{Kazushi}\n"Isn't it funny?"
-<es>
+<es>{Kazushi}\n"¿No es gracioso?"
 
 @2181
 <en>{Ran}\n"Hey, do you know what a "Bridge Effect" is?"
-<es>
+<es>{Ran}\n"Oye, ¿conoces el "efecto del puente"?"
 
 @2182
 <en>I think I've heard about it before.
-<es>
+<es>Creo que he oído de hablar de eso con anterioridad.
 
 @2183
 <en>{Kazushi}\n"What was it?"
-<es>
+<es>{Kazushi}\n"¿Qué era eso?"
 
 @2184
 <en>{Ran}\n"Couples mistake the feelings of danger with the excitement of love."
-<es>
+<es>{Ran}\n"Las parejas confunden el sentimiento de peligro con la excitación del amor."
 
 @2185
 <en>{Kazushi}\n"Oh, yeah. Why are we talking about this now?"
-<es>
+<es>{Kazushi}\n"Ah, cierto. ¿Por qué me estás hablando de eso ahora?"
 
 @2186
 <en>{Ran}\n"Well, we are experiencing both of them now."
-<es>
+<es>{Ran}\n"Bueno, ahora estamos experimentando ambos."
 
 @2187
 <en>{Kazushi}\n"That's a good point."
-<es>
+<es>{Kazushi}\n"Ahí le has dado."
 
 @2188
 <en>{Ran}\n"I think I'm feeling that effect now."
-<es>
+<es>{Ran}\n"Creo que estoy sintiendo ese efecto ahora mismo."
 
 @2189
 <en>{Kazushi}\n"What?"
-<es>
+<es>{Kazushi}\n"¿Qué?"
 
 @2190
 <en>When I turned around, I saw her face really close.
-<es>
+<es>Al girarme, veo su cara realmente cerca.
 
 @2191
 <en>{Ran}\n"Hey!! Watch out!"
-<es>
+<es>{Ran}\n"¡¡Ey!! ¡Cuidado!"
 
 @2192
 <en>{A sign board}\n"Do you wanna die!?"
-<es>
+<es>{Señal}\n"¿Queréis morir?"
 
 @2196
 <en>When I turned my head back around, I saw the machine in the air trying to get us.
@@ -2982,19 +2985,19 @@
 
 @2197
 <en>{Kazushi}\n"No!!"
-<es>
+<es>{Kazushi}\n"¡¡No!!"
 
 @2198
 <en>{Ran}\n"Ah!?"
-<es>
+<es>{Ran}\n"¿¡Ah!?"
 
 @2202
 <en>I pushed Ran to the side.\nI received a full tackle from the machine.
-<es>
+<es>Empujo a Ran hacia un lado.\nRecibo completamente un placaje de la máquina.
 
 @2205
 <en>{Kazushi}\n"This position is......!!"
-<es>
+<es>{Kazushi}\n"¡¡Esta posición es...!!"
 
 @2207
 <en>A wheel throw!\nI can use his own force to throw him away.
@@ -3002,7 +3005,7 @@
 
 @2208
 <en>{Kazushi}\n"Take this------------!!"
-<es>
+<es>{Kazushi}\n"¡¡Toma...!!"
 
 @2209
 <en>{A sign board}\n"#$%&* --------!?"
@@ -3010,7 +3013,7 @@
 
 @2210
 <en>{Kazushi}\n"My Judo skill!"
-<es>
+<es>{Kazushi}\n"¡Mi habilidad con el yudo!"
 
 @2212
 <en>I totally utilized its force from a tackle and completed a wheel throw. I threw it over the bridge and it fell all the way to the bottom.
@@ -3018,11 +3021,11 @@
 
 @2216
 <en>{Ran}\n"Hey Kazushi!!"
-<es>
+<es>{Ran}\n"¡Oye, ¡Kazushi!!"
 
 @2217
 <en>{Kazushi}\n"Oh no......"
-<es>
+<es>{Kazushi}\n"Oh, no..."
 
 @2218
 <en>The momentum was so big, I threw myself over the bridge, too.
@@ -3030,11 +3033,11 @@
 
 @2219
 <en>......it was too late.
-<es>
+<es>Era demasiado tarde...
 
 @2222
 <en>{Ran}\n"Kazushi!!"
-<es>
+<es>{Ran}\n"¡¡Kazushi!!"
 
 @2224
 <en>I saw Ran stretched her arm, but it wasn't soon enough.
@@ -3046,27 +3049,27 @@
 
 @2235
 <en>{Ran}\n"......no way......I just met him."
-<es>
+<es>{Ran}\n"No puede ser... Acababa de conocerle."
 
 @2238
 <en>..................
-<es>
+<es>... ... ...
 
 @2239
 <en>............
-<es>
+<es>... ...
 
 @2240
 <en>......
-<es>
+<es>...
 
 @2242
 <en>{Kazushi}\n"..................!?"
-<es>
+<es>{Kazushi}\n"¿¡...!?"
 
 @2246
 <en>{Kazushi}\n"......? What happened to me......?"
-<es>
+<es>{Kazushi}\n"¿...? ¿Qué me ha pasado...?"
 
 @2247
 <en>I tried to lift my heavy eye rids.\nI saw blue sky. I think I'm in the forest.
@@ -3078,79 +3081,79 @@
 
 @2249
 <en>It took me a while to realize that this is not my room.
-<es>
+<es>Me lleva un rato darme cuenta de que no estoy en mi habitación.
 
 @2250
 <en>{Kazushi}\n"Oh yeah, I fell fron the bridge."
-<es>
+<es>{Kazushi}\n"Ah, cierto. Me caí de aquel puente."
 
 @2251
 <en>This must be the forest I saw from on the bridge.
-<es>
+<es>Este debe ser el bosque que vi desde el puente.
 
 @2252
 <en>{Kazushi}\n"I can't believe I'm still alive!"
-<es>
+<es>{Kazushi}\n"¡No puedo creer que siga con vida!"
 
 @2253
 <en>It looks like I'm not severly hurt. I must be someone special.
-<es>
+<es>Parece que no estoy gravemente herido. Debo ser alguien especial.
 
 @2254
 <en>{Kazushi}\n"Ouch......never mind."
-<es>
+<es>{Kazushi}\n"Au... olvídalo."
 
 @2255
 <en>I don't think I have broken bones, though.\nIt is a miracle.
-<es>
+<es>Aunque creo que no tengo ningún hueso roto.\nEs un milagro.
 
 @2256
 <en>{Kazushi}\n"Where am I anyways?"
-<es>
+<es>{Kazushi}\n"En cualquier caso. ¿Dónde estoy?"
 
 @2257
 <en>I saw an apex of a mountain. I decided to walk toward it.
-<es>
+<es>Vi un ápice de una montaña. Decidí andar hacia allí.
 
 @2258
 <en>{Kazushi}\n"As long as I keep my eyes on it, I shouldn't get lost."
-<es>
+<es>{Kazushi}\n"Mientras no la pierda de vista, no debería perderme."
 
 @2262
 <en>{Kazushi}\n"I got lost."
-<es>
+<es>{Kazushi}\n"Me he perdido."
 
 @2263
 <en>It's been a while since I start walking.
-<es>
+<es>Ha pasado un buen rato desde que empecé a caminar.
 
 @2264
 <en>{Kazushi}\n"Is this a no way-out woodland?"
-<es>
+<es>{Kazushi}\n"¿No hay forma de salir de este bosque?"
 
 @2265
 <en>I don't wanna starve to death in here.
-<es>
+<es>No me gustaría morirme de hambre aquí.
 
 @2266
 <en>{Kazushi}\n"I should be fine."
-<es>
+<es>{Kazushi}\n"Debería estar bien."
 
 @2267
 <en>No matter how hard I try to deny it, I felt so lonely.
-<es>
+<es>No importa lo mucho que intente negarlo. Me siento muy solo.
 
 @2268
 <en>{Kazushi}\n"Isn't there someone around here?"
-<es>
+<es>{Kazushi}\n"¿No hay nadie por aquí?"
 
 @2269
 <en>Everywhere looks so alike, I hope I'm not walking circle wise.
-<es>
+<es>Todo me parece igual. Espero no estar dando vueltas.
 
 @2270
 <en>This is like a maze.
-<es>
+<es>Es como un laberinto.
 
 @2272
 <en>{Kazushi}\n"Hey......?"
@@ -3158,15 +3161,15 @@
 
 @2273
 <en>Just before I started to cry, I finally saw an end of the forest.
-<es>
+<es>Nada más empezar a lloriquear, vislumbro el final del bosque.
 
 @2274
 <en>{Kazushi}\n"Yes! Almost there!"
-<es>
+<es>{Kazushi}\n"¡Sí! ¡Ya estoy casi!"
 
 @2276
 <en>I ran toward the end of the forest.
-<es>
+<es>Corrí hacia el final del bosque.
 
 @2280
 <en>{Kazushi}\n"Wow......"
@@ -3178,19 +3181,19 @@
 
 @2282
 <en>{Kazushi}\n"What kind of flowers are these?"
-<es>
+<es>{Kazushi}\n"¿Qué clase de flores son estas?"
 
 @2283
 <en>They were so white. It reminded me of snow.
-<es>
+<es>Son tan blancas. Me recuerda a la nieve.
 
 @2284
 <en>It'll be amazing when all these flowers bloom.
-<es>
+<es>Debe ser increíble verlas en flor.
 
 @2285
 <en>{???}\n".................."
-<es>
+<es>{???}\n"..."
 
 @2286
 <en>Just when I was thinking about that, I heard some voices from far away.
@@ -3198,15 +3201,15 @@
 
 @2287
 <en>Voice of young girl.
-<es>
+<es>La voz de una chica.
 
 @2288
 <en>{Kazushi}\n"Somebody......"
-<es>
+<es>{Kazushi}\n"Alguien..."
 
 @2289
 <en>Is anybody here?
-<es>
+<es>¿Hay alguien ahí?
 
 @2290
 <en>I had to take that question back when I saw it.
