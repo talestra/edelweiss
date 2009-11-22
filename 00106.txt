@@ -130,7 +130,7 @@
 
 @391
 <en>{Daigo}\n"You are so tough."
-<es>
+<es>{Daigo}\n"Sí que aguantas."
 
 @394
 <en>{Pierre}\n"On the other hand......"
@@ -142,7 +142,7 @@
 
 @400
 <en>{Kazushi}\n"You don't have to die. You came this far."
-<es>{Kazushi}\n"No tienes por qué morirte. Ya has llegado hasta aquí."
+<es>{Kazushi}\n"No tienes por qué morirte.\nYa has llegado hasta aquí."
 
 @401
 <en>This mother ocean makes me a very kind person.
@@ -154,7 +154,7 @@
 
 @405
 <en>{Appo-}\n"Kazushi......\nThrowing up......!!"
-<es>{Appo-}\n"¡Kazushi...!"\n*Vomitando*
+<es>{Appo-}\n"Kazushi... ¡Kazushi...!"\n*Vomitando*
 
 @415
 <en>{Kazushi}\n"Don't hug me when you're puking!"
@@ -194,7 +194,7 @@
 
 @437
 <en>After one incident, we start looking up to him.
-<es>Tras cierto incidente, fue cuando empezamos a admirarle.
+<es>Y tras cierto incidente, fue cuando empezamos a admirarle.
 
 @442
 <en>{Appo-}\n"Yes sir!\nI won't......throw......"
@@ -206,11 +206,11 @@
 
 @446
 <en>He handed a bread. He carries breads evrywhere he goes.
-<es>
+<es>Saca un panecillo. Se lleva panecillos a todas partes.
 
 @447
 <en>It's probably why people think he's weired.
-<es>
+<es>Posiblemente sea por eso que la gente lo considera algo raro.
 
 @448
 <en>Nobody really knows what he's thinking about.
@@ -222,7 +222,7 @@
 
 @454
 <en>Panchu- jams the bread into Appo-'s mouth.
-<es>
+<es>Panchu- escasqueta el panecillo en la boca de Appo-.
 
 @458
 <en>{Appo-}\n"......NNNNGGGGG......"
@@ -246,11 +246,11 @@
 
 @467
 <en>{Appo-}\n"......!!......"
-<es>
+<es>{Appo-}\n"¡...! ¡...!"
 
 @471
 <en>Appo- showed his guts. He swallowed it down at once.
-<es>
+<es>Appo- le echó coraje. Se lo tragó del tirón.
 
 @477
 <en>{Daigo}\n"Good job, Appo-......"
@@ -278,31 +278,31 @@
 
 @494
 <en>......it was too late.
-<es>
+<es>Era demasiado tarde...
 
 @499
 <en>{Appo-}\n"..................No-!!"
-<es>
+<es>{Appo-}\n"¡¡Puajj...!!"
 
 @509
 <en>{Daigo}\n"He threw up again......"
-<es>{Daigo}\n"Ha vuelto a vomitar..."
+<es>{Daigo}\n"Otra vez..."
 
 @510
 <en>{Pierre}\n"Where did your guts go?"
-<es>
+<es>{Pierre}\n"¿Dónde están esas agallas?"
 
 @522
 <en>{Appo-}\n"Give me a break! How could I eat that stupid bread when I was throwing up?"
-<es>{Appo-}\n"¡Déjame en paz! ¿Cómo iba a poder tomarme ese estúpido pan estando vomitando?"
+<es>{Appo-}\n"¡Déjame en paz! ¿Cómo iba a poder tomarme ese pan de mierda mientras estando vomitando?"
 
 @527
 <en>{Daigo}\n"Opps, he said it."
-<es>{Daigo}\n"Ups... Estúpido."
+<es>{Daigo}\n"Ahh... Estúpido."
 
 @528
 <en>You don't want to call that "stupid bread" in front of Panchu-
-<es>No querrías llamarlo "estúpido pan" delante de Panchu-.
+<es>No querrías llamarlo "pan de mierda" delante de Panchu-.
 
 @533
 <en>{Panchu-}\n"What did you call the bread!?"
@@ -342,7 +342,7 @@
 
 @556
 <en>{Pierre}\n"Mr.Yagami!"
-<es>{Pierre}\n"¡Porfesor Yagami!"
+<es>{Pierre}\n"¡Profesor Yagami!"
 
 @557
 <en>{Kazushi}\n"Hello!"
@@ -350,7 +350,7 @@
 
 @561
 <en>This is Mr.Yagami. He is guiding us through out the trip.
-<es>Este es el señor Yagami. Él hace de tutor nuestro durante el viaje.
+<es>Este es el señor Yagami. Él nos hace de guía durante el viaje.
 
 @564
 <en>{Teacher Yagami}\n"Hey Panchu-, I don't know what's going on, but forgive them, all right?"
@@ -390,7 +390,7 @@
 
 @582
 <en>He's talking as if he is talking to the mother ocean.
-<es>
+<es>Habla como si se estuviese dirigiendo al océano.
 
 @586
 <en>{Teacher Yagami}\n"Don't you think so?"
@@ -414,7 +414,7 @@
 
 @591
 <en>For the reason that he's the only teacher Panchu- looks up to.
-<es>Debido a que es el único profesor al que Panchu- admira.
+<es>Posiblemente porque es el único profesor que Panchu- admira.
 
 @608
 <en>{Daigo}\n"What is this green stuff?"
@@ -426,11 +426,11 @@
 
 @612
 <en>{Daigo}\n"Appo-, stop eating them."
-<es>
+<es>{Daigo}\n"Appo-, deja de tomar eso."
 
 @613
 <en>{Kazushi}\n"Especially not after throwing up the bread......"
-<es>
+<es>{Kazushi}\n"Especialmente después de haber vomitado el panecillo..."
 
 @614
 <en>{Appo-}\n"Throwing up"
@@ -506,7 +506,7 @@
 
 @656
 <en>{Pierre}\n"You're saying we are just "O.K" looking!"
-<es>¡Así que tenemos un aspecto pasable...!
+<es>{Pierre}\n"¡Así que tenemos un aspecto pasable...!"
 
 @659
 <en>{Appo-}\n"Shut up!! When a O.K looking guy lands on a no man's land, girls will come. That's good enough."
@@ -546,7 +546,7 @@
 
 @679
 <en>{Pierre}\n"Welcome! You are welcome-!"
-<es>
+<es>{Pierre}\n"¡Bienvenido! ¡Eres bienvenido...!"
 
 @680
 <en>{Kazushi}\n"......"
@@ -666,7 +666,7 @@
 
 @756
 <en>{Daigo}\n"Like this?"
-<es>{Daigo}\n"¿Sí?"
+<es>{Daigo}\n"¿Así?"
 
 @759
 <en>{Pierre}\n"No, lower!"
@@ -706,7 +706,7 @@
 
 @776
 <en>I'm not sure if this was really a good idea, but I got down on my four anyways.
-<es>No tengo nada claro que sea una buena idea, pero aún así, me he puesto a cuatro patas.
+<es>No tengo nada claro que sea una buena idea, pero aún así me he puesto a cuatro patas.
 
 @779
 <en>{Pierre}\n"All right, Daigo. Go for it."
@@ -782,7 +782,7 @@
 
 @826
 <en>{Daigo}\n"Hey guys, we are almost there."
-<es>{Daigo}\n"Hey. Ya casi hemos llegado."
+<es>{Daigo}\n"Oid. Ya casi hemos llegado."
 
 @827
 <en>We all rushed down to the deck so that we can see the island.
@@ -794,7 +794,7 @@
 
 @877
 <en>{Teacher Yagami}\n"Just remember, we are going to teach at\n......is anybody listening to me?"
-<es>{Profesor Yagami}\n"Recordad, estamos aquí para que nos enseñen\n... ¿me está escuchando alguien?"
+<es>{Profesor Yagami}\n"Recordad, estamos aquí para que nos enseñen...\n¿me está escuchando alguien?"
 
 @881
 <en>{Panchu-}\n"Hey air heads!\nDon't stand on the same side-!\nYou guys are making the boat leaning!!"
@@ -802,7 +802,7 @@
 
 @883
 <en>No one is listening to Panchu- either.
-<es>Nadie escucha a Panchu- tampoco.
+<es>Nadie escucha tampoco a Panchu-.
 
 @886
 <en>{Teacher Yagami}\n"You guys are young and honest.\nI like how you guys are excited to study......"
@@ -874,7 +874,7 @@
 
 @932
 <en>{Fisherman A}\n"Today was the last day I wanted my boat to go down!"
-<es>
+<es>{Pescador A}\n"¡Hoy era el último día que quería bajar mi barca!"
 
 @933
 <en>{Fisherman B}\n"Com'on let's hurry and fix her! Today is "the day"."
@@ -886,7 +886,7 @@
 
 @935
 <en>I overheard them saying "the day" I wonder what's going on today?
-<es>He acertado a oírles decir 'el día'. Me pregunto qué es lo que pasa hoy.
+<es>He acertado a oírles decir 'el día'. Me pregunto qué es lo que pasará hoy.
 
 @936
 <en>{Appo-}\n"Look at that smoke coming out from that boat."
