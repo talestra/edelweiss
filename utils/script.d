@@ -360,10 +360,11 @@ class BSS {
 						if ((sstack.s[1] !is null) && sstack.s[1].length) {
 							auto tt = explode("\n", text, 2);
 							auto title = strip(tt[0]); text = (tt.length >= 2) ? tt[1] : "";
-							assert(title.length > 2, format("Line(%d): Title length > 2: '%s'", line, title));
-							assert(title[0] == '{', format("Line(%d): Invalid start: '%s'", line, title));
+							assert(title.length > 2, format("ID/Line(%d): Title length > 2", line));
+							assert(title[0] == '{', format("ID/Line(%d): Invalid start", line));
 							assert(title[title.length - 1] == '}');
 							title = title[1..title.length - 1];
+							while (title.length < 5) title ~= " ";
 							//writefln(pushes[1]);
 							pushes[1].s[0] = title;
 						}

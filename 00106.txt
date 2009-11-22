@@ -210,11 +210,11 @@
 
 @447
 <en>It's probably why people think he's weired.
-<es>Posiblemente sea por eso que la gente lo considera algo raro.
+<es>Posiblemente sea por eso que la gente lo considera algo rarito.
 
 @448
 <en>Nobody really knows what he's thinking about.
-<es>Nadie sabe qué le pasa por la cabeza.
+<es>Nadie sabe qué es lo que se le pasa por la cabeza.
 
 @451
 <en>{Panchu-}\n"Eat it at once."
@@ -222,7 +222,7 @@
 
 @454
 <en>Panchu- jams the bread into Appo-'s mouth.
-<es>Panchu- escasqueta el panecillo en la boca de Appo-.
+<es>Panchu- encasqueta el panecillo en la boca de Appo-.
 
 @458
 <en>{Appo-}\n"......NNNNGGGGG......"
@@ -402,7 +402,7 @@
 
 @588
 <en>Sometimes, it's really hard to understand what he's talking about.
-<es>A veces, resulta bastante difícil entender de qué está hablando.
+<es>A veces resulta bastante difícil entender de qué está hablando.
 
 @589
 <en>{Kazushi}\n"Well, we make sure it gets cleaned up."
@@ -410,11 +410,11 @@
 
 @590
 <en>We are actually afraid of this teacher.
-<es>La verdad es que tememos a este profesor
+<es>La verdad es que tememos a este profesor.
 
 @591
 <en>For the reason that he's the only teacher Panchu- looks up to.
-<es>Posiblemente porque es el único profesor que Panchu- admira.
+<es>Posiblemente porque es el único profesor al que Panchu- admira.
 
 @608
 <en>{Daigo}\n"What is this green stuff?"
@@ -422,7 +422,7 @@
 
 @611
 <en>{Pierre}\n"Ofcourse they are grass! what else do they look like?"
-<es>
+<es>{Pierre}\n"¡Es yerba! ¿qué otra cosa te parece?"
 
 @612
 <en>{Daigo}\n"Appo-, stop eating them."
@@ -457,6 +457,7 @@
 <es>{Kazushi}\n"Acabamos de empezar nuestros viaje."
 
 @626
+# En japonés dice "leyenda rosa". Posiblemente por todo el tema de las chicas.
 <en>{Pierre}\n"Yep. We are at the beginning of our legend."
 <es>{Pierre}\n"Sí. Acabamos de empezar nuestra leyenda."
 
@@ -510,7 +511,7 @@
 
 @659
 <en>{Appo-}\n"Shut up!! When a O.K looking guy lands on a no man's land, girls will come. That's good enough."
-<es>{Appo-}\n"¡¡A callar!! Cuando un tipo pasable entra en una tierra sin hombres, las chicas aparecen. Con eso basta."
+<es>{Appo-}\n"¡¡A callar!! Cuando un tipo pasable entra en una tierra sin hombres, las chicas aparecen hasta debajo de las piedras. Con eso basta."
 
 @660
 <en>{Kazushi}\n"Why are you so sure?"
@@ -518,7 +519,7 @@
 
 @663
 <en>{Appo-}\n"Have you heard a term "Pheromone"? Females sense our pheromone!!"
-<es>{Appo-}\n"¿Has oído hablar del término 'Fe-ro-mo-na'? ¡¡Las hembras perciben nuestras feromonas!!"
+<es>{Appo-}\n"'Fe-ro-mo-na', ¿has oído hablar de ese término? ¡¡Las hembras perciben nuestras feromonas!!"
 
 @669
 <en>{Pierre}\n"Who is that? He looks......fine......"
@@ -674,7 +675,7 @@
 
 @760
 <en>{Daigo}\n"How about like this?"
-<es>{Daigo}\n"¿Y así?"
+<es>{Daigo}\n"¿Y así? ¿Así...?"
 
 @763
 <en>{Pierre}\n"That's too low!\nThat's the other hole. They are really close to one another!"
@@ -686,11 +687,11 @@
 
 @767
 <en>{Kazushi}\n"Don't we have to be smooth?\nI don't wanna screw up for that reason."
-<es>{Kazushi}\n"¿No deberíamos ser más dulces?\nNo quiero fastidiarla por eso."
+<es>{Kazushi}\n"¿No deberíamos ser más dulces?\nNo quiero fastidiarla con algo así."
 
 @770
 <en>{Pierre}\n"Doggie style is always easier!\nLet's practice! Get down on your four Kazushi!"
-<es>{Pierre}\n"¡El estilo del perrito es siempre el más fácil!\n¡Practiquemos! ¡Ponte a cuatro patas, Kazushi!"
+<es>{Pierre}\n"¡El estilo del perrito es siempre el más fácil!\n¡Practiquemos! ¡Kazushi, ponte a cuatro patas!"
 
 @771
 <en>{Kazushi}\n"What? Why me?"
@@ -714,7 +715,7 @@
 
 @780
 <en>{Daigo}\n"I'm getting nervous."
-<es>{Daigo}\n"Estoy empezando a ponerme nervioso."
+<es>{Daigo}\n"Estoy empezando a ponerme algo nervioso."
 
 @785
 <en>Daigo was really heavy.
@@ -770,7 +771,7 @@
 
 @814
 <en>{Appo-}\n"You should never entertained them... you make me feel sick again."
-<es>{Appo-}\n"No deberías haberlos entretenido... me habéis hecho volver a encontrarme mal."
+<es>{Appo-}\n"No deberías haberlos entretenido... habéis conseguido que me vuelva a encontrar mal."
 
 @818
 <en>I just realized Teacher Yagami was watching the whole thing.
@@ -794,7 +795,7 @@
 
 @877
 <en>{Teacher Yagami}\n"Just remember, we are going to teach at\n......is anybody listening to me?"
-<es>{Profesor Yagami}\n"Recordad, estamos aquí para que nos enseñen...\n¿me está escuchando alguien?"
+<es>{Profesor Yagami}\n"Recordad, estamos aquí para que nos enseñen...\n... ¿me está escuchando alguien?"
 
 @881
 <en>{Panchu-}\n"Hey air heads!\nDon't stand on the same side-!\nYou guys are making the boat leaning!!"
@@ -1054,7 +1055,7 @@
 
 @1051
 <en>I don't know why, but I couldn't keep looking at her eyes.
-<es>
+<es>No sé por qué, pero no pude seguir mirándola a los ojos.
 
 @1056
 <en>{Teacher Yagami}\n"Please to meet you.\nMy name is Yagami."
@@ -1074,7 +1075,7 @@
 
 @1062
 <en>Everybody who lives in this island could hear us greeting.
-<es>Cualaquiera persona viviendo en la isla, podría oír nuestro saludo. 
+<es>Cualquiera persona viviendo en la isla, podría oír nuestro saludo. 
 
 @1067
 <en>{Principal}\n"Thanks for coming all the way out here."
@@ -1082,163 +1083,163 @@
 
 @1068
 <en>{Principal}\n"On behalf of all the teachers and stuffs, I welcome you to our school."
-<es>
+<es>{Principal}\n"En nombre de todos los profesores os doy la bienvenida a nuestra escuela."
 
 @1069
 <en>She is so different from ladies we know.
-<es>
+<es>Es muy diferente del resto de mujeres que conocemos.
 
 @1070
 <en>Her elegance must come from living in no man's land.
-<es>
+<es>Su elegancia debe ser consecuencia de vivir en una tierra sin hombres.
 
 @1076
 <en>{Appo-}\n"I like her!\nShe's the one I'm gonna mary to!"
-<es>
+<es>{Appo-}\n"¡Me gusta!\n¡Ella es con quien me quiero casar!"
 
 @1077
 <en>{Kazushi}\n"Wait! Think again!\nIsn't she too old for you?"
-<es>
+<es>{Kazushi}\n"¡Espera! ¡Vuelve a pensarlo!\n¿No crees que es un poquito mayor para ti?"
 
 @1078
 <en>{Daigo}\n"Well,she probably has nice looking 16,17 year old grand daughters just like her."
-<es>
+<es>{Daigo}\n"Bueno, pero tiene un bonito aspecto de 16~17."
 
 @1085
 <en>{Teacher Yagami}\n"Be quiet guys, you guys are embarrassing me."
-<es>
+<es>{Profesor Yagami}\n"Callaos chicos, que me estáis dando vergüenza ajena."
 
 @1086
 <en>We got quiet as Teacher Yagami warned us.\nBut, we couldn't help still whispering about what is going to happen from now on.
-<es>
+<es>Nos callamos tras la advertencia del señor Yagami.\nPero aún así, no pudimos evitar susurrar sobre las cosas que pasarían de ahora en adelante.
 
 @1093
 <en>{Pierre}\n(We shouldn't have gotten so excited.)
-<es>
+<es>{Pierre}\n(No deberíamos habernos emocionado tanto.)
 
 @1094
 <en>{Appo-}\n(Now, Mr.Yagami is going to keep his eyes on us.)
-<es>
+<es>{Appo-}\n(Ahora el señor Yagami nos vigilará de cerca.)
 
 @1095
 <en>{Kazushi}\n(Should we leave here and go on our own?)
-<es>
+<es>{Kazushi}\n(¿Deberíamos irnos de aquí y hacer marcha nosotros mismos?)
 
 @1099
 <en>{Daigo}\n(No. I don't think it's a smart move.)
-<es>
+<es>{Daigo}\n(No. No creo que esa sea una buena jugada.)
 
 @1100
 <en>We had to plan our strategy while Principal and Mr.Yagami was talking..
-<es>
+<es>Tuvimos que planear nuestra estrategia mientras la Directora y el señor Yagami estaban hablando...
 
 @1103
 <en>{Appo-}\n(I can't wait anymore.\nWe are gonna be intrduced to the girls now, right?)
-<es>
+<es>{Appo-}\n(No puedo esperar más.\nNos van a presentar a las chicas ya, ¿no?)
 
 @1106
 <en>{Appo-}\n(I have to give them a really good first impression.)
-<es>
+<es>{Appo-}\n(Tengo que conseguir darles una impresionante primera impresión.)
 
 @1107
 <en>{Kazushi}\n(That's right!\nThe first impression is everything!)
-<es>
+<es>{Kazushi}\n(¡Eso es!\n¡La primera impresión lo es todo!)
 
 @1111
 <en>{Pierre}\n"Should we go now?"
-<es>
+<es>{Pierre}\n"¿Nos deberíamos ir ya?"
 
 @1115
 <en>{Daigo}\n"Go?\nGo where?"
-<es>
+<es>{Daigo}\n"¿Ir?\n¿A dónde?"
 
 @1116
 <en>{Kazushi}\n"We are sneaking out to somewhere?\nAre you sure you wanna do this?"
-<es>
+<es>{Kazushi}\n"¿Nos vamos a escabullir a algún sitio?\n¿Estáis seguros de que queréis hacer eso?"
 
 @1120
 <en>{Appo-}\n"We can do it.\nIt's nothing compare to what we have done in the past."
-<es>
+<es>{Appo-}\n"Podemos conseguirlo.\nNo es nada en comparación con las cosas que hemos logrado en el pasado."
 
 @1121
 <en>We looked around.\nEverybody was paying attention to the principal.
-<es>
+<es>Miramos alrededor.\nEstaban todos pendientes de la directora.
 
 @1126
 <en>{Principal}\n"I'm going to guide you to our school."
-<es>
+<es>{Directora}\n"Os voy a guiar a nuestra escuela."
 
 @1127
 <en>There is never a better chance than now.
-<es>
+<es>Nunca habrá una oportunidad mejor ahora.
 
 @1131
 <en>{Teacher Yagami}\n"All right, we are moving. Don't get lost!"
-<es>
+<es>{Profesor Yagami}\n"Está bien, nos vamos. ¡No os perdáis!"
 
 @1133
 <en>We went on the end of the line.
-<es>
+<es>Nos pusimos al final de la cola.
 
 @1140
 <en>{Pierre}\n"Right now is the time. Let's go guys."
-<es>
+<es>{Pierre}\n"Ahora es el momento. Vamos, chicos."
 
 @1141
 <en>{Kazushi}\n"One, two-......now-!"
-<es>
+<es>{Kazushi}\n"Tres, dos, uno... ¡ya!"
 
 @1150
 <en>{Kazushi}\n"This island is doing pretty well. It's actually thriving well."
-<es>
+<es>{Kazushi}\n"Esta isla lo está haciendo bastante bien. Se la ve próspera."
 
 @1151
 <en>There are a lots of people and markets. The first impression we got from this island was a pretty good one.
-<es>
+<es>Había un montón de gente y de tiendas. Fue una buena primera impresión sobre la isla.
 
 @1156
 <en>{Pierre}\n"Is that a bus?"
-<es>
+<es>{Pierre}\n"¿Eso es un autobús?"
 
 @1157
 <en>{Daigo}\n"I think that's a street car."
-<es>
+<es>{Daigo}\n"Yo diría que es un coche."
 
 @1158
 <en>{Kazushi}\n"But look, it's exhaling smoke."
-<es>
+<es>{Kazushi}\n"Pero mira, está echando humo."
 
 @1161
 <en>Even though it says "environment friendly" on its body, it was exhaling a mass amount of black smoke.
-<es>
+<es>Pese a poner "ecológico" en el cuerpo, estaba expulsando un montón de humo negro.
 
 @1164
 <en>{Appo-}\n"Look at that!\nThose are fishes!"
-<es>
+<es>{Appo-}\n"¡Mira eso!\n¡Son peces!"
 
 @1166
 <en>We saw piles of huge tuna on the back of a truck.
-<es>
+<es>Vimos una montaña de atunes inmensos en la parte de atrás de un camión.
 
 @1173
 <en>{Pierre}\n"I'm excited. I think our school lunch will be great!!"
-<es>
+<es>{Pierre}\n"Estoy frenético. ¡¡Estoy convencido de que la comida en la escuela será genial!!"
 
 @1176
 <en>{Daigo}\n"Check out that grocery store."
-<es>
+<es>{Daigo}\n"Mira esa verdulería."
 
 @1178
 <en>We saw tons of fresh fruits and vegetables in the store.
-<es>
+<es>Vimos motañas de verdura y fruta fresca.
 
 @1179
 <en>Onions almost size of a human head.\nWe could see some fresh flowers, too.
-<es>
+<es>Las cebollas tenían prácticamente el tamaño de cabezas humanas.\nTambién pudimos ver flores frescas.
 
 @1180
 <en>{Kazushi}\n"Great mountain and ocean products.\nWe came to a good place."
-<es>
+<es>{Kazushi}\n"Productos excelentes de montaña y océano.\nHemos venido a un sitio estupendo."
 
 @1183
 <en>{Pierre}\n"There are a lots of staff we haven't seen before."
@@ -1254,7 +1255,7 @@
 
 @1193
 <en>{Kazushi}\n"Yes we are. Nice to meet you!"
-<es>
+<es>{Kazushi}\n"Sí, así es. ¡Encantados de conocerle!"
 
 @1194
 <en>{Grocery store worker}\n"I knew it!\nHere, take this!"
@@ -1262,11 +1263,11 @@
 
 @1195
 <en>He threw us some garlics.
-<es>
+<es>Nos lanzó unos cuantos ajos.
 
 @1198
 <en>{Appo-}\n"For us?"
-<es>
+<es>{Appo-}\n"¿Para nosotros?"
 
 @1199
 <en>{Grocery store worker}\n"Sure. Everybody in this island loves that school."
@@ -1278,23 +1279,23 @@
 
 @1201
 <en>{Kazushi}\n"Thank you very much."
-<es>
+<es>{Kazushi}\n"Muchísimas gracias."
 
 @1202
 <en>{Daigo}\n"I wonder why people here loves that school?"
-<es>
+<es>{Daigo}\n"Me pregunto por qué a la gente de aquí le gusta tanto esa escuela."
 
 @1203
 <en>{Kazushi}\n"Maybe there is agricultual major or something in that school."
-<es>
+<es>{Kazushi}\n"Quizá haya alguna asignatura de agricultura o algo en la escuela."
 
 @1204
 <en>{Pierre}\n"Or maybe the school is buying a lots of foods from that grocery store."
-<es>
+<es>{Pierre}\n"O quizá la escuela compre montañas de comida de a esa verdulería."
 
 @1207
 <en>{Appo-}\n"Hey!\nIs there any pretty girls in that school?"
-<es>
+<es>{Appo-}\n"¡Oye!\n¿Y hay chicas monas en esa escuela?"
 
 @1208
 <en>{Grocery store worker}\n"Oh yeah-!! You'll see a bunch."
@@ -1302,7 +1303,7 @@
 
 @1215
 <en>{Boys}\n"Yes------!"
-<es>
+<es>{Chicos}\n"¡Síííí...!"
 
 @1216
 <en>{Grocery store worker}\n"I say the best looking one is the principal.\nShe was truly beautiful."
@@ -1310,11 +1311,11 @@
 
 @1223
 <en>{Pierre}\n"Are we talking about the same principal?"
-<es>
+<es>{Pierre}\n"¿Nos estamos refiriendo a la misma directora?"
 
 @1224
 <en>{Kazushi}\n"Yep. Appo-'s wife."
-<es>
+<es>{Kazushi}\n"Sí. A la esposa de Appo-."
 
 @1227
 <en>{Appo-}\n"Wait!\nI take that back!!"
@@ -1330,7 +1331,7 @@
 
 @1236
 <en>{Pierre}\n"Her grand daughter.........."
-<es>
+<es>{Pierre}\n"Su nieta..."
 
 @1237
 <en>{Daigo}\n"I have a feeling she's wearing a pair of glasses. Which turns me on."
@@ -1338,7 +1339,7 @@
 
 @1238
 <en>{Appo-}\n"Any young sexy teachers?"
-<es>
+<es>{Appo-}\n"¿Y alguna profesora joven y sexy?"
 
 @1239
 <en>{Grocery store worker}\n"Sure. Some of them are just off the college.\nThey used to be the students of that school, came back after the college."
@@ -1350,15 +1351,15 @@
 
 @1243
 <en>{Appo-}\n"Do they have good figures!?"
-<es>
+<es>{Appo-}\n"¿¡Y qué tal están de cuerpo!?"
 
 @1244
 <en>{Grocery store worker}\n"Their breasts are size of the melons in this store."
-<es>
+<es>{Verdulero}\n"Sus pechos tienen el tamaño de los melones de esta tienda."
 
 @1249
 <en>{Kazushi}\n"That's a size of watermelons!!"
-<es>
+<es>{Kazushi}\n"¡¡Tamaño de sandías!!"
 
 @1250
 <en>{Appo-}\n"Wow!! Watermelon!watermelon! Thank you very much!"
