@@ -1359,11 +1359,11 @@
 
 @1249
 <en>{Kazushi}\n"That's a size of watermelons!!"
-<es>{Kazushi}\n"¡¡Tamaño de sandías!!"
+<es>{Kazushi}\n"¡¡Tamaño sandías!!"
 
 @1250
 <en>{Appo-}\n"Wow!! Watermelon!watermelon! Thank you very much!"
-<es>
+<es>{Appo-}\n"¡¡Increíble!! ¡Sandrías! ¡Sandrías! ¡Muchísimas gracias!"
 
 @1251
 <en>{Pierre}\n"Hey!\nYou are not the only one who has a chance......"
@@ -1371,71 +1371,71 @@
 
 @1254
 <en>{Appo-}\n"First come, first serve!"
-<es>
+<es>{Appo-}\n"Primero en llegar, ¡primero en servir!"
 
 @1258
 <en>Appo- starts running.
-<es>
+<es>Appo- empieza a correr.
 
 @1259
 <en>{Pierre}\n"wait!!"
-<es>
+<es>{Pierre}\n"¡¡Espera!!"
 
 @1263
 <en>Pierre starts chasing him.
-<es>
+<es>Pierre empieza a darle caza.
 
 @1264
 <en>{Kazushi}\n"Wait up, guys!"
-<es>
+<es>{Kazushi}\n"¡Esperad, chicos!"
 
 @1265
 <en>{Grocery store worker}\n"That's how young men should be!"
-<es>
+<es>{Verdulero}\n"¡Así es como deben ser los jovenzuelos!"
 
 @1268
 <en>{Daigo}\n"I'm sorry, we are stupid."
-<es>
+<es>{Daigo}\n"Lo siento, somos estúpidos."
 
 @1269
 <en>{Grocery store worker}\n"No worries! That's how boys should be!"
-<es>
+<es>{Verdulero}\n"¡No te preocupes! ¡Se supone que la juventud es así!"
 
 @1272
 <en>{Kazushi}\n"It was nice meeting you!"
-<es>
+<es>{Kazushi}\n"¡Ha sido un placer!"
 
 @1273
 <en>I think I'm gonna like this place a lot.
-<es>
+<es>Tengo la sensación de que me va a encantar este lugar.
 
 @1280
 <en>We had to walk up the hill all the way to the school.\nThe houses around here are pretty old.
-<es>
+<es>Tenemos que subir por la colina hasta llegar a la escuela.\nLas casas de los alrededores son bastante viejas.
 
 @1285
 <en>{Pierre}\n"Are you sure we are on the right way?"
-<es>
+<es>{Pierre}\n"¿Estás seguro de que vamos bien?"
 
 @1286
 <en>{Appo-}\n"Isn't there a short cut?"
-<es>
+<es>{Appo-}\n"¿No hay ningún atajo?"
 
 @1287
 <en>{Kazushi}\n"Hey, do you wanna try this tiny road right here?"
-<es>
+<es>{Kazushi}\n"Ey, ¿qué tal si vamos por el caminito que hay por ahí?"
 
 @1291
 <en>{Daigo}\n"Forget it guys. You will get lost."
-<es>
+<es>{Daigo}\n"Olvidadlo chicos. Solo conseguiréis perderos."
 
 @1296
 <en>{Pierre}\n"Hey guys, what's that?"
-<es>
+<es>{Pierre}\n"Ey, ¿qué es eso?"
 
 @1298
 <en>Pierre was looking at the sky.
-<es>
+<es>Pierre estaba mirando al cielo.
 
 @1299
 <en>We saw a part of a building up on the hill.
@@ -1443,11 +1443,11 @@
 
 @1300
 <en>{Kazushi}\n"Are we here already?"
-<es>
+<es>{Kazushi}\n"¿Ya estamos aquí?"
 
 @1303
 <en>{Daigo}\n"No. The school is that way."
-<es>
+<es>{Daigo}\n"No. La escuela es por allí."
 
 @1304
 <en>Our school is all the way out there still
@@ -1455,11 +1455,11 @@
 
 @1309
 <en>{Appo-}\n"Then what is that building?"
-<es>
+<es>{Appo-}\n"Entonces, ¿qué es ese edificio?"
 
 @1316
 <en>{Pierre}\n"It's kind of weired to see a modern building in here. Let's check it out."
-<es>
+<es>{Pierre}\n"Es un poco extraño ver una construcción moderna aquí. Echemos un vistazo."
 
 @1322
 <en>We could see the whole building after making a turn.
@@ -1467,99 +1467,99 @@
 
 @1323
 <en>{Kazushi}\n"What a......"
-<es>
+<es>{Kazushi}\n"Pero qué..."
 
 @1324
 <en>It was actually a huge gate.
-<es>
+<es>Era un portón enorme.
 
 @1327
 <en>{Appo-}\n"What is this huge gate for?"
-<es>
+<es>{Appo-}\n"¿Y para qué es este portón?"
 
 @1333
 <en>{Pierre}\n"Is this part of our new school?"
-<es>
+<es>{Pierre}\n"¿Es parte de nuestra nueva escuela?"
 
 @1334
 <en>{Daigo}\n"Can't be. It's still a quite way to the school from here."
-<es>
+<es>{Daigo}\n"No puede ser. Hay un buen trecho hasta la escuela desde aquí."
 
 @1335
 <en>Daigo is right. Our school is still far from here.\nThis gare has some weired marks written on it. It's very suspicious.
-<es>
+<es>Daigo tiene razón. La escuela todavía está lejos de aquí.\nEl portón tiene diversas marcas extrañas escritas. Es muy sospechoso.
 
 @1340
 <en>{Appo-}\n"It looks like the gate to the heaven."
-<es>
+<es>{Appo-}\n"Parece como la entrada al cielo."
 
 @1341
 <en>{Kazushi}\n"Or it could be the gate for the hell."
-<es>
+<es>{Kazushi}\n"O quizá sea la entrada al infierno."
 
 @1342
 <en>It looked kind of scary to me.
-<es>
+<es>Me resultaba bastante escalofriante.
 
 @1345
 <en>{Appo-}\n"Yes, I'm the first one-!"
-<es>
+<es>{Appo-}\n"Sí, ¡Soy el primero...!"
 
 @1346
 <en>Appo- went thorugh it without hesitation.
-<es>
+<es>Appo- la atravesó sin vacilar ni un momento.
 
 @1347
 <en>{Appo-}\n"I went through it first so I get to choose a girl first, O.K?"
-<es>
+<es>{Appo-}\n"He sido yo el primero en atravesarla, así que seré yo el primero en elegir una chica, ¿vale?"
 
 @1348
 <en>{Kazushi}\n"Since when we had that rule?"
-<es>
+<es>{Kazushi}\n"¿Y desde cuando tenemos esa regla?"
 
 @1352
 <en>{Pierre}\n"I'm the second---!"
-<es>
+<es>{Pierre}\n"¡Soy el segundo...!"
 
 @1357
 <en>{Daigo}\n"Stop."
-<es>
+<es>{Daigo}\n"Para."
 
 @1358
 <en>Daigo stops Pierre.
-<es>
+<es>Daigo para a Pierre.
 
 @1359
 <en>{Pierre}\n"Let go of me! I'm the second!"
-<es>
+<es>{Pierre}\n"¡Suéltame! ¡Yo soy el segundo!"
 
 @1360
 <en>{Daigo}\n"That's not fair."
-<es>
+<es>{Daigo}\n"Eso no es justo."
 
 @1361
 <en>{Pierre}\n"Tell that to Appo-!"
-<es>
+<es>{Pierre}\n"¡Eso díselo a Appo-!"
 
 @1362
 <en>{Kazushi}\n"We'll start this all over again!"
-<es>
+<es>{Kazushi}\n"¡Empecemos de nuevo!"
 
 @1367
 <en>{Appo-}\n"No, we won't! I'm the first-!"
-<es>
+<es>{Appo-}\n"No, ¡ni hablar! ¡Yo soy el primero...!"
 
 @1368
 <en>Appo- starts running.
-<es>
+<es>Appo- empieza a correr.
 
 @1372
 <en>{Daigo}\n"Hey, wait......"
-<es>
+<es>{Daigo}\n"Ey, espera..."
 
 @1378
 <en>{Appo-}\n"Yes-----!"
-<es>
+<es>{Appo-}\n"¡Sííí...!"
 
 @1379
 <en>Appo- rushes into deep.
@@ -1567,39 +1567,39 @@
 
 @1383
 <en>{Pierre}\n"Stop him!\nHe's gonna get all the girls!"
-<es>
+<es>{Pierre}\n"¡Paradle!\n¡Se va a quedar con todas las chicas!"
 
 @1384
 <en>{Kazushi}\n"Appo---! You stop right there!"
-<es>
+<es>{Kazushi}\n"¡Appo-...! ¡Quieto parado!"
 
 @1395
 <en>{Appo-}\n"...Oh no...\n......I'm getting dizzy......"
-<es>
+<es>{Appo-}\n"Oh, no...\nEstoy empezando a marearme..."
 
 @1396
 <en>He has no endurance and was caught easily.
-<es>
+<es>Sin apenas resistencia, fue cazado con facilidad.
 
 @1401
 <en>{Pierre}\n"You think you could get away from us?"
-<es>
+<es>{Pierre}\n"¿Te creías que ibas a poder alejarte de nosotros?"
 
 @1406
 <en>{Daigo}\n"Hey guys! Come here and take a look at this."
-<es>
+<es>{Daigo}\n"¡Oid chicos! Venid aquí y echad un ojo a esto."
 
 @1408
 <en>Daigo found something.
-<es>
+<es>Daigo encontró algo.
 
 @1409
 <en>{Kazushi}\n"Stairs?\nIt's leading into the ocean."
-<es>
+<es>{Kazushi}\n"¿Escaleras?\nVan directas al océano."
 
 @1410
 <en>Stairs continue to the depth we can't see the end.
-<es>
+<es>Las escaleras siguen por el fondo y no podemos ver el final.
 
 @1415
 <en>{Pierre}\n"Is this leading us to the all the way to the bottom?"
@@ -1607,15 +1607,15 @@
 
 @1416
 <en>{Daigo}\n"You think this is for mermaids?"
-<es>
+<es>{Daigo}\n"¿Creéis que serán para sirenas?"
 
 @1417
 <en>{Kazushi}\n"Are mermaids supposed to be living in the water?"
-<es>
+<es>{Kazushi}\n"¿Se supone que las sirenas viven en el agua?"
 
 @1424
 <en>{Appo-}\n"Then what is this stairs for?"
-<es>
+<es>{Appo-}\n"¿Entonces para qué están estas escaleras?"
 
 @1425
 <en>{Kazushi}\n"Just wait here guys......! Wait a minute, why am I the one going in there."
@@ -1627,7 +1627,7 @@
 
 @1433
 <en>{Appo-}\n"Wait......no......"
-<es>
+<es>{Appo-}\n"Espera... No..."
 
 @1437
 <en>Appo- was carried by Daigo.\nDaigo is so big he can carry him with one arm.
@@ -1639,159 +1639,159 @@
 
 @1439
 <en>{Kazushi}\n"Don't hurt him-!"
-<es>
+<es>{Kazushi}\n"¡No le hagas daño!"
 
 @1440
 <en>{???}\n"Ah!"
-<es>
+<es>{???}\n"¡Ah!"
 
 @1441
 <en>{Kazushi}\n"!?"
-<es>
+<es>{Kazushi}\n"¿¡...!?"
 
 @1442
 <en>I think I heard something......
-<es>
+<es>Creo que he oído algo...
 
 @1446
 <en>{Kazushi}\n"What?"
-<es>
+<es>{Kazushi}\n"¿Qué?"
 
 @1447
 <en>If I'm not dreaming, I'm witnessing a mermaid.
-<es>
+<es>Si no estoy soñando, estoy viendo a una sirena.
 
 @1448
 <en>{Kazushi}\n"Am I dreaming?"
-<es>
+<es>{Kazushi}\n"¿Estoy soñando despierto? ¿Es una alucinación?"
 
 @1450
 <en>{Mermaid?}\n"......"
-<es>
+<es>{¿Sirena?}\n"..."
 
 @1451
 <en>{Kazushi}\n"I must be dreaming......\nand she is naked!!"
-<es>
+<es>{Kazushi}\n"Debo estar soñando...\n¡¡y está desnuda!!"
 
 @1452
 <en>She was completely naked!
-<es>
+<es>¡Completamente desnuda!
 
 @1453
 <en>Aren't mermaids private parts usually covered by shells or something?\nI can see everything.
-<es>
+<es>¿No se supone que las partes nobles de las sirenas suelen estar cubiertas por conchas o similares?\nPuedo verlo todo.
 
 @1454
 <en>{Mermaid?}\n"------!!"
-<es>
+<es>{¿Sirena?}\n"¡¡...!!"
 
 @1459
 <en>{Kazushi}\n"She ran away!"
-<es>
+<es>{Kazushi}\n"¡Ha escapado!"
 
 @1460
 <en>She disappeared into the water.
-<es>
+<es>Ha desaparecido en el agua.
 
 @1461
 <en>{Kazushi}\n"Maybe I was staring at her too much."
-<es>
+<es>{Kazushi}\n"Quizá la estaba mirando demasiado."
 
 @1468
 <en>{Daigo}\n"What happened Kazushi?"
-<es>
+<es>{Daigo}\n"¿Qué ha pasado Kazushi?"
 
 @1469
 <en>{Appo-}\n"What are you doing!?\nHelp me here!"
-<es>
+<es>{Appo-}\n"¿¡Qué estáis haciendo!?\n¡Ayudadme!"
 
 @1470
 <en>{Kazushi}\n"Oh, sorry.\nI was just watching a mermaid."
-<es>
+<es>{Kazushi}\n"Ah, perdona.\nEs que estaba viendo a una sirena."
 
 @1475
 <en>{Daigo}\n"A mermaid? Are you serious?"
-<es>
+<es>{Daigo}\n"¿Una sirena? ¿Estás de guasa?"
 
 @1476
 <en>Daigo finally let Appo- go.
-<es>
+<es>Daigo suelta finalmente a Appo-.
 
 @1481
 <en>{Pierre}\n"Ofcourse he is joking."
-<es>
+<es>{Pierre}\n"Claro que está de guasa."
 
 @1482
 <en>{Kazushi}\n"No, I'm not joking.\nI saw one, without bra, too."
-<es>
+<es>{Kazushi}\n"No, no lo digo en broma.\nHe visto una, y sin sujetador."
 
 @1487
 <en>{Appo-}\n"No bra!?\nYou could see her tits!?"
-<es>
+<es>{Appo-}\n"¿¡Sin sujetador!?\n¿¡Y le pudiste ver las tetas!?"
 
 @1488
 <en>{Kazushi}\n"Yep."
-<es>
+<es>{Kazushi}\n"Sip."
 
 @1491
 <en>{Appo-}\n"Seriously!?\nWhoere is she!?"
-<es>
+<es>{Appo-}\n"¿¡En serio!?\n¿¡Dónde está!?"
 
 @1492
 <en>{Kazushi}\n"She's gone."
-<es>
+<es>{Kazushi}\n"Se ha ido."
 
 @1495
 <en>{Appo-}\n"Idiot!\nWhy didn't you call us!?"
-<es>
+<es>{Appo-}\n"¡Imbécil!\n¿¡Por qué no nos has llamado!?"
 
 @1496
 <en>{Kazushi}\n"It all happened in a second."
-<es>
+<es>{Kazushi}\n"Ha sido todo cuestión de un segundo."
 
 @1503
 <en>{Pierre}\n"Are you sure it was a mermaid?"
-<es>
+<es>{Pierre}\n"¿Estás seguro de que era una sirena?"
 
 @1506
 <en>{Appo-}\n"It could've been a sea lion."
-<es>
+<es>{Appo-}\n"Quizá era un león de mar o una foca."
 
 @1507
 <en>{Kazushi}\n"I swear it was a mermaid."
-<es>
+<es>{Kazushi}\n"Era una sirena, lo juro."
 
 @1510
 <en>{Pierre}\n"Or it could've been just a naked girl."
-<es>
+<es>{Pierre}\n"O quizá simplemente era una chica desnuda."
 
 @1511
 <en>{Kazushi}\n"......well."
-<es>
+<es>{Kazushi}\n"Bueno..."
 
 @1512
 <en>It could've been just a girl. I don't think there are mermaids existing.
-<es>
+<es>Podría haber sido solo una chica. La verdad es que no creo que existan las sirenas.
 
 @1515
 <en>{Appo-}\n"Where did she go anyways?"
-<es>
+<es>{Appo-}\n"De todas formas, ¿adónde ha ido?"
 
 @1516
 <en>{Kazushi}\n"She disappeared into the ocean behind that rock."
-<es>
+<es>{Kazushi}\n"Desapareció en el mar tras esa roca."
 
 @1519
 <en>{Pierre}\n"Where? I don't see her!"
-<es>
+<es>{Pierre}\n"¿Dónde? ¡No la veo!"
 
 @1520
 <en>{Kazushi}\n"She's inside the water."
-<es>
+<es>{Kazushi}\n"Está dentro del agua."
 
 @1521
 <en>{Pierre}\n"A human can't hold breath that long."
-<es>
+<es>{Pierre}\n"Un humano no puede aguantar tanto tiempo la respiración."
 
 @1524
 <en>{Appo-}\n"That's right!\nCome out!"
@@ -1799,31 +1799,31 @@
 
 @1528
 <en>We all stared at the surface of the water.
-<es>
+<es>Nos quedamos todos mirando la superficie del agua.
 
 @1529
 <en>1 minute.
-<es>
+<es>Un minuto.
 
 @1530
 <en>2 minute.
-<es>
+<es>Dos minutos.
 
 @1531
 <en>......no nothing.
-<es>
+<es>Nada...
 
 @1538
 <en>{Pierre}\n"She's not coming up!"
-<es>
+<es>{Pierre}\n"¡No sale!"
 
 @1539
 <en>{Kazushi}\n"This is weired. It must've been 3 minutes already."
-<es>
+<es>{Kazushi}\n"Qué raro. Ya deben haber pasado unos tres minutos."
 
 @1540
 <en>{Appo-}\n"How can you hold your breath so long?"
-<es>
+<es>{Appo-}\n"¿Cómo puede alguien aguantar tanto tiempo la respiración?"
 
 @1541
 <en>{Daigo}\n"She's gotta be real!!"
@@ -1831,15 +1831,15 @@
 
 @1544
 <en>{Pierre}\n"I hope she's not drown."
-<es>
+<es>{Pierre}\n"Espero que no se haya ahogado."
 
 @1545
 <en>{Kazushi}\n"Oh no......"
-<es>
+<es>{Kazushi}\n"Oh, no..."
 
 @1549
 <en>One more minute.\nTwo more--\nIt's been 5 minutes.
-<es>
+<es>Un minuto más.\nDos...\nYa han pasado cinco minutos.
 
 @1556
 <en>{Appo-}\n"This is not good."
@@ -1847,15 +1847,15 @@
 
 @1557
 <en>{Pierre}\n"She must be drown."
-<es>
+<es>{Pierre}\n"Debe haberse ahogado."
 
 @1558
 <en>{Kazushi}\n"On no! We gotta help her!!"
-<es>
+<es>{Kazushi}\n"¡No! ¡¡Tenemos que ayudarla!!"
 
 @1559
 <en>{Daigo}\n"I'll go get help."
-<es>
+<es>{Daigo}\n"Iré yo en su ayuda."
 
 @1563
 <en>As Daigo got ready to dush, he froze right there.
@@ -1867,11 +1867,11 @@
 
 @1567
 <en>We heared Pierre screaming.
-<es>
+<es>Oímos a Pierre gritar.
 
 @1568
 <en>{Kazushi}\n"What's going on......Oh!?"
-<es>
+<es>{Kazushi}\n"Qué es lo que pasa... ¿¡Qué...!?"
 
 @1569
 <en>I was taking off my clothes, getting ready to jump into the water.\nBut, I couldn't.
@@ -1883,267 +1883,268 @@
 
 @1576
 <en>{Kazushi}\n"A sign board?"
-<es>
+<es>{Kazushi}\n"¿Una señal?"
 
 @1577
 <en>{A sign board}\n"Ristricted area. You need to leave."
-<es>
+<es>{Señal}\n"Área restringida. Tenéis que iros."
 
 @1585
 <en>{Appo-}\n"It's talking!!"
-<es>
+<es>{Appo-}\n"¡¡Está hablando!!"
 
 @1591
+// fine: multa, peaje?
 <en>{A sign board}\n"Please pay the fine."
-<es>
+<es>{Señal}\n"Por favor, pagad el peaje."
 
 @1599
 <en>{Pierre}\n"It's walking!!"
-<es>
+<es>{Pierre}\n"¡¡Está andando!!"
 
 @1600
 <en>{Kazushi}\n"What is this place!?"
-<es>
+<es>{Kazushi}\n"¿¡Qué lugar es este!?"
 
 @1601
 <en>There is a living moving sign board!?
-<es>
+<es>¿¡Hay una señal viviente moviéndose!?
 
 @1607
 <en>{A sign board}\n"Get out or pay the fine."
-<es>
+<es>{Pierre}\n"Salid o pagad el peaje."
 
 @1615
 <en>{Appo-}\n"Everybody! Run!"
-<es>
+<es>{Appo-}\n"¡Corred! ¡Todos!"
 
 @1619
 <en>Appo- was running and screaming at the same time.
-<es>
+<es>Appo- corría y gritaba el mismo tiempo.
 
 @1620
 <en>{Pierre}\n"Wait for us!!"
-<es>
+<es>{Pierre}\n"¡¡Esperanos!!"
 
 @1627
 <en>Pierre and Daigo follows Appo-.
-<es>
+<es>Pierre y Daigo siguen a Appo-.
 
 @1630
 <en>{A sign board}\n"Pay the fine."
-<es>
+<es>{Señal}\n"Pagad el peaje."
 
 @1631
 <en>{Kazushi}\n"What does it want------?!!"
-<es>
+<es>{Kazushi}\n"¡¡¿Qué es lo que quiere...?!!"
 
 @1636
 <en>I ran as fast as I could.
-<es>
+<es>Corrí tan rápido como pude.
 
 @1638
 <en>{A sign board}\n"Stop. Stop."
-<es>
+<es>{Señal}\n"Parad. Parad."
 
 @1639
 <en>{Kazushi}\n"It's after us!!"
-<es>
+<es>{Kazushi}\n"¡¡Va tras nosotros!!"
 
 @1640
 <en>Not only it can run, it can run faster than us!
-<es>
+<es>No sólo puede correr, ¡lo hace mas rápido que nosotros!
 
 @1641
 <en>{Appo-}\n"What's going on!?\nWhy are we running from a sign board!?"
-<es>
+<es>{Appo-}\n"¿¡Qué está pasando!?\n¿¡Por qué estamos huyendo de una señal!?"
 
 @1642
 <en>{Daigo}\n"There is something wrong with this island!"
-<es>
+<es>{Daigo}\n"¡Hay algo que no está claro en esta isla!"
 
 @1643
 <en>{Kazushi}\n"Now you guys believe I saw a mermaid, right?"
-<es>
+<es>{Kazushi}\n"Chicos. Ahora creéis que haya visto una sirena, ¿no?"
 
 @1644
 <en>{Appo-}\n"Now, yeah! It sounds more realistic than a living sign board!"
-<es>
+<es>{Appo-}\n"¡Sí, ahora sí! ¡Suena mucho mas realista que una señal viviente!"
 
 @1645
 <en>{Pierre}\n"It's faster than us!\nWe need to split!!"
-<es>
+<es>{Pierre}\n"¡Es mas rápida que nosotros!\n¡¡Tenemos que separarnos!!"
 
 @1646
 <en>{Kazushi}\n"I'm going this way!!"
-<es>
+<es>{Kazushi}\n"¡¡Yo me voy por aquí!!"
 
 @1647
 <en>{A sign board}\n"Stop. Stop."
-<es>
+<es>{Señal}\n"Parad. Parad."
 
 @1648
 <en>{Kazushi}\n"No! not me!"
-<es>
+<es>{Kazushi}\n"¡No! ¡A mí no!"
 
 @1649
 <en>{Appo-}\n"We are going this way-"
-<es>
+<es>{Appo-}\n"Nosotros nos vamos por aquí..."
 
 @1650
 <en>{Daigo}\n"Good luck, Kazushi."
-<es>
+<es>{Daigo}\n"Buena suerte, Kazushi."
 
 @1651
 <en>They went the other way.
-<es>
+<es>Se fueron por el otro camino.
 
 @1658
 <en>{Kazushi}\n"Betrayers----------!!"
-<es>
+<es>{Kazushi}\n"¡¡Traidores...!!"
 
 @1659
 <en>It's closing the gap!
-<es>
+<es>¡Está empezando a acortar distancias!
 
 @1660
 <en>{A sign board}\n"Stop. Wait."
-<es>
+<es>{Señal}\n"Para. Espera."
 
 @1661
 <en>{Kazushi}\n"Oh no-!!\nHelp me, mom!"
-<es>
+<es>{Kazushi}\n"¡¡No...!!\nMami, ¡ayuda...!"
 
 @1662
 <en>There is diffenitely something wrong about this island!
-<es>
+<es>¡Realmente pasa algo muy chungo con esta isla!
 
 @1668
 <en>{Kazushi}\n"Oh my lord!"
-<es>
+<es>{Kazushi}\n"¡Oh, Dios!"
 
 @1669
 <en>{Kazushi}\n"Is it still after me......?"
-<es>
+<es>{Kazushi}\n"¿Todavía me sigue...?"
 
 @1672
 <en>{Kazushi}\n"Yes, it is!"
-<es>
+<es>{Kazushi}\n"Sí, ¡va a ser que sí!"
 
 @1673
 <en>{A sign board}\n"Stop, wait."
-<es>
+<es>{Señal}\n"Para. Espera."
 
 @1674
 <en>{Kazushi}\n"Are you crazy, ofcourse I'm not gonna stop!!"
-<es>
+<es>{Kazushi}\n"¡¡¿Estás de guasa?, claro que no voy a parar!!"
 
 @1675
 <en>I don't know what it's gonna do to me!!\nI'm not gonna let it catch me!
-<es>
+<es>¡¡No sé que es lo que me va a hacer!!\n¡Pero no lo quiero averiguar!
 
 @1682
 <en>{A sign board}\n"Stop, wait."
-<es>
+<es>{Señal}\n"Para. Espera."
 
 @1684
 <en>{Kazushi}\n"Not any more......"
-<es>
+<es>{Kazushi}\n"Ya no..."
 
 @1685
 <en>It's closing the gap.\nI haven't been working out lately.
-<es>
+<es>Está acortando listancias.\nNo he hecho nada de deporte últimamente.
 
 @1686
 <en>{Kazushi}\n"I need to participate in some kind of athletic club!"
-<es>
+<es>{Kazushi}\n"¡Tengo que meterme en algún club atlético!"
 
 @1687
 <en>It's uphill. Even a marathon runner would slow down.
-<es>
+<es>El camino es ascendente. Hasta un corredor de amaratón se ralentizaría.
 
 @1690
 <en>{A sign board}\n"Stop, wait."
-<es>
+<es>{Señal}\n"Para. Espera."
 
 @1691
 <en>{Kazushi}\n"It's a machine, ofcourse it doesn't get tired!"
-<es>
+<es>{Kazushi}\n"Es una máquina, ¡no es de extrañar que no se canse!"
 
 @1692
 <en>Is it really a machine?\nIt looks like a living creature?
-<es>
+<es>¿Es realmente una máquina?\nParece una criatura viviente.
 
 @1694
 <en>{Kazushi}\n"Either way, this is so weired!"
-<es>
+<es>{Kazushi}\n"Sea como fuere, ¡esto es muy extraño!"
 
 @1695
 <en>{???}\n"Hey! Do you need help-?"
-<es>
+<es>{???}\n"¡Ey! ¿Necesitas ayuda...?"
 
 @1696
 <en>{Kazushi}\n"Ofcourse I do!\nCan't you see!!"
-<es>
+<es>{Kazushi}\n"¡Pues clar!\n¡¿Es que no lo ves?!"
 
 @1697
 <en>{???}\n"I can help you."
-<es>
+<es>{???}\n"Puedo ayudarte."
 
 @1698
 <en>{Kazushi}\n"That's great......"
-<es>
+<es>{Kazushi}\n"Eso es fantástico..."
 
 @1699
 <en>Who am I talking to?
-<es>
+<es>¿Con quién estoy hablando?
 
 @1700
 <en>I looked up where the voice is from.
-<es>
+<es>Alcé la cabeza en dirección al origen de la voz.
 
 @1703
 <en>{A girl on the tree}\n"I'm here.\nHe can't climb, you know-"
-<es>
+<es>{Chica del árbol}\n"Aquí.\n¿Sabías?, él no puede trepar."
 
 @1704
 <en>She's telling me to get on the tree.
-<es>
+<es>Me está diciendo que me suba al árbol.
 
 @1705
 <en>{Kazushi}\n"..................who are you!?"
-<es>
+<es>{Kazushi}\n"¡¿Quién eres...?!"
 
 @1706
 <en>It's a girl.\nShe's wearing a school uniform.
-<es>
+<es>Es una chica.\nY lleva un uniforme escolar.
 
 @1707
 <en>Maybe she goes to the school we are gonna go.
-<es>
+<es>Quizá sea de la escuela a donde vamos.
 
 @1708
 <en>{A girl on the tree}\n"Hurry!"
-<es>
+<es>{Chica del árbol}\n"¡Rápido!"
 
 @1709
 <en>{Kazushi}\n"All right!"
-<es>
+<es>{Kazushi}\n"¡Sí!"
 
 @1710
 <en>I grabed her hand she offered to get on the tree.
-<es>
+<es>La agarré de la mano que me tendió para subir al árbol.
 
 @1711
 <en>A small soft hand.\nWhen was the last time I hold a girl's hand?
-<es>
+<es>Una mano pequeña y suave.\n¿Cuándo fue la última vez que cogí de la mano a una chica?
 
 @1712
 <en>{A girl on the tree}\n"There you go--------!"
-<es>
+<es>{Chica del árbol}\n"¡Allá vamos!"
 
 @1713
 <en>{Kazushi}\n"Wow!"
-<es>
+<es>{Kazushi}\n"¡Valla!"
 
 @1716
 <en>I almost fell down, but some how managed to settle inbetween branches.
@@ -2151,11 +2152,11 @@
 
 @1719
 <en>{Kazushi}\n"Thank you so much for your help."
-<es>
+<es>{Kazushi}\n"Muchísimas gracias por la ayuda."
 
 @1722
 <en>{A girl on the tree}\n"No worries."
-<es>
+<es>{Chica del árbol}\n"No te preocupes."
 
 @1723
 <en>She stretched her hand toward me again.\nA soft looking small hand.
@@ -2167,7 +2168,7 @@
 
 @1728
 <en>{A girl on the tree}\n"What are you doing?"
-<es>
+<es>{Chica del árbol}\n"¿Qué estás haciendo?"
 
 @1730
 <en>A girl slaps Kazushi's hand.
@@ -2175,103 +2176,103 @@
 
 @1731
 <en>She shook off my hand.\nShe hurt my feelings.
-<es>
+<es>Se ha librado de mi mano.\nHa herido mis sentimientos.
 
 @1732
 <en>{A girl on the tree}\n"That's not what I meant.\nDo you know, you would've been dead if I didn't offer you help?"
-<es>
+<es>{Chica del árbol}\n"No pretendía nada.\n¿Sabes que estarías muerto si no te hubiese brindado mi ayuda?"
 
 @1733
 <en>{Kazushi}\n"You mean, it was going to kill me!?"
-<es>
+<es>{Kazushi}\n"¿¡Quieres decir que esa cosa iba a matarme!?"
 
 @1736
 <en>{A girl on the tree}\n"Oh sure.\nIt was created to kill anything illegaly enters school property."
-<es>
+<es>{Chica del árbol}\n"Ah, pues claro.\nFue creado para aniquilar a cualquiera que entrase ilegalmente en la propiedad de la escuela."
 
 @1737
 <en>{Kazushi}\n"That sign board is a killing machine?"
-<es>
+<en>{Kazushi}\n"¿Esa señal es una máquina asesina?"
 
 @1738
 <en>{A sign board}\n"Stop, wait."
-<es>
+<es>{Señal}\n"Para, espera."
 
 @1739
 <en>It's looking at us from the ground.
-<es>
+<es>Nos mira desde el suelo.
 
 @1740
 <en>{Kazushi}\n"Why does a school need a killing patrol machine!?"
-<es>
+<es>{Kazushi}\n"¿¡Por qué necesita la escuela una máquina de patruya asesina!?"
 
 @1743
 <en>{A girl on the tree}\n"You don't know?"
-<es>
+<es>{Chica del árbol}\n"¿No lo sabes?"
 
 @1744
 <en>{Kazushi}\n"I don't know!\nWe just arrived in this morning!"
-<es>
+<es>{Kazushi}\n"¡Claro que no lo sé!\n¡He llegado esta misma mañana!"
 
 @1747
 <en>{A girl on the tree}\n"You must be one of the boys enrolling to our school."
-<es>
+<es>{Chica del árbol}\n"Ah. Tu debes ser uno de los chicos matriculados en nuestra escuela."
 
 @1748
 <en>She smiled.\nHow could she smile under this circumstances?
-<es>
+<es>Sonríe.\n¿Cómo puede sonreír en una situación así?
 
 @1751
 <en>{A girl on the tree}\n"Well then, you deffinately need more help from me."
-<es>
+<es>{Chica del árbol}\n"Bien, entonces necesitas más ayuda por mi parte."
 
 @1752
 <en>{Kazushi}\n"what do you mean?"
-<es>
+<es>{Kazushi}\n"¿Qué quieres decir?"
 
 @1755
 <en>{A girl on the tree}\n"I'm ran Kamoike, what's your name?"
-<es>
+<es>{Chica del árbol}\n"Yo soy Ran Kamoike, ¿Cómo te llamas?"
 
 @1756
 <en>{Kazushi}\n"I'm Kazushi Haruma.."
-<es>
+<es>{Kazushi}\n"Me llamo Kazushi Haruma.."
 
 @1757
 <en>I'm not supposed to be enjoying introducing myself, but she's laughing and seems to have good time.
-<es>
+<es>No se supone que disfrute presentándome, pero ella se ríe y parece estar pasándoselo bien.
 
 @1758
 <en>She has a good smile.
-<es>
+<es>Tiene una bonita sonrisa.
 
 @1762
 <en>{Ran}\n"I like your name."
-<es>
+<es>{Ran}\n"Me gusta tu nombre."
 
 @1763
 <en>when she smiles, she's pretty attractive. However..........
-<es>
+<es>Cuando sonríe, es bastante mona. Sin embargo...
 
 @1764
 <en>{Kazushi}\n"It's nice to meet you, but are we supposed to be enjoying introducing ourselves?"
-<es>
+<es>{Kazushi}\n"Un placer. ¿Pero se supone que deberíamos estar aquí de cháchara...?"
 
 @1765
 <en>There is a killing machine right underneath us.
-<es>
+<es>Tenemos una máquina asesina justo debajo de nosotros.
 
 @1768
 <en>{Ran}\n"Call me Ran. I'll call you Kazushi, O.K?"
-<es>
+<es>{Ran}\n"Llámame Ran. Yo te llamaré Kazushi, ¿vale?"
 
 @1769
 <en>She's not listening to me.
-<es>
+<es>No me está escuchando.
 
 @1770
 <en>{Kazushi}\n"Tell me why this school needs a killing machine!?"
-<es>
+<es>{Kazushi}\n"¡Dime por qué la escuela necesita una máquina asesina!"
 
 @1773
 <en>{Ran}\n"This island is government's secret military factory.\nYou speak out this, you'll be erased, O.K?"
@@ -2279,7 +2280,7 @@
 
 @1774
 <en>{Kazushi}\n"Are you serious!?"
-<es>
+<es>{Kazushi}\n"¿¡En serio!?"
 
 @1775
 <en>That's a scary information.\nI didn't want to be involved in this.

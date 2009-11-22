@@ -1,6 +1,7 @@
 @Kazushi
+Protagonista.
 {IMG:meta/kazushi.png}
-Protagonista
+Kazushi Haruma.
 
 @Appo-
 {IMG:meta/appo-.png}
@@ -17,3 +18,10 @@ Protagonista
 @Yagami
 {IMG:meta/yagami.png}
 Profesor.
+
+@(Ran|Kamoike)
+{IMG:meta/ran.png}
+Chica que se encuentra
+el protagonista en un árbol
+mientras escapa de la señal
+viviente.
