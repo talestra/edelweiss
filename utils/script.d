@@ -353,18 +353,23 @@ class BSS {
 					if (acme.has(line)) {
 						char[] text = acme[line].text;
 						
-						if (sstack.s[1] !is null) sstack.s[1] = sstack.s[1].strip();
+						if (sstack.s[1] !is null) {
+							sstack.s[1] = sstack.s[1];
+						}
 						//writefln("::%s::%s::", sstack.s[1], text);
 						
 						// Has title.
-						if ((sstack.s[1] !is null) && sstack.s[1].length) {
+						if ((sstack.s[1] !is null) && sstack.s[1].strip().length) {
 							auto tt = explode("\n", text, 2);
 							auto title = strip(tt[0]); text = (tt.length >= 2) ? tt[1] : "";
 							assert(title.length > 2, format("ID/Line(%d): Title length > 2", line));
 							assert(title[0] == '{', format("ID/Line(%d): Invalid start", line));
 							assert(title[title.length - 1] == '}');
 							title = title[1..title.length - 1];
-							while (title.length < 5) title ~= " ";
+							//while (title.length < 5) title ~= " ";
+							// Ignore current title, and use the original one.
+							// Another title won't work on Edelweiss.
+							title = sstack.s[1];
 							//writefln(pushes[1]);
 							pushes[1].s[0] = title;
 						}

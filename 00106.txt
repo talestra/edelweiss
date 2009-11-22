@@ -34,7 +34,7 @@
 
 @262
 <en>{???}\n"A guy throwing up"
-<es>{???}\n*Un tipo vomitando*
+<es>{???}\n*Tipo vomitando*
 
 @263
 <en>{???}\n"!!"
@@ -919,7 +919,7 @@
 
 @943
 <en>Perhaps that black smoke smells good to them.
-<es>Quizá les guste el olor de ese humo negro.
+<es>Quizá les guste el olor de ese humo.
 
 @944
 <en>{Daigo}\n"...oh..."
@@ -1211,7 +1211,7 @@
 
 @1161
 <en>Even though it says "environment friendly" on its body, it was exhaling a mass amount of black smoke.
-<es>Pese a poner "ecológico" en el cuerpo, estaba expulsando un montón de humo negro.
+<es>Pese a poner "ecológico" en el cuerpo, estaba expulsando un montón de humo.
 
 @1164
 <en>{Appo-}\n"Look at that!\nThose are fishes!"
@@ -1259,7 +1259,7 @@
 
 @1194
 <en>{Grocery store worker}\n"I knew it!\nHere, take this!"
-<es>
+<es>{Verdulero}\n"¡Lo sabía!\nTomad, ¡coged esto!"
 
 @1195
 <en>He threw us some garlics.
@@ -1271,11 +1271,11 @@
 
 @1199
 <en>{Grocery store worker}\n"Sure. Everybody in this island loves that school."
-<es>
+<es>{Verdulero}\n"Claro. Todo el mundo en esta isla adora esa escuela."
 
 @1200
 <en>{Grocery store worker}\n"Eat that garlic and get some energy so you guys can focus on studying."
-<es>
+<es>{Verdulero}\n"Tomaos esos ajos que están repletos de energía y os permitirá centraros en los estudios."
 
 @1201
 <en>{Kazushi}\n"Thank you very much."
@@ -1283,7 +1283,7 @@
 
 @1202
 <en>{Daigo}\n"I wonder why people here loves that school?"
-<es>{Daigo}\n"Me pregunto por qué a la gente de aquí le gusta tanto esa escuela."
+<es>{Daigo}\n"Me pregunto por qué la gente de aquí adora tanto esa escuela."
 
 @1203
 <en>{Kazushi}\n"Maybe there is agricultual major or something in that school."
@@ -1291,7 +1291,7 @@
 
 @1204
 <en>{Pierre}\n"Or maybe the school is buying a lots of foods from that grocery store."
-<es>{Pierre}\n"O quizá la escuela compre montañas de comida de a esa verdulería."
+<es>{Pierre}\n"O quizá la escuela compre montañas de comida a esa verdulería."
 
 @1207
 <en>{Appo-}\n"Hey!\nIs there any pretty girls in that school?"
@@ -1299,7 +1299,7 @@
 
 @1208
 <en>{Grocery store worker}\n"Oh yeah-!! You'll see a bunch."
-<es>
+<es>{Verdulero}\n"Ah, ¡¡desde luego!! Veréis un montón."
 
 @1215
 <en>{Boys}\n"Yes------!"
@@ -1307,7 +1307,7 @@
 
 @1216
 <en>{Grocery store worker}\n"I say the best looking one is the principal.\nShe was truly beautiful."
-<es>
+<es>{Verdulero}\n"La más guapa de todas es la directora.\nEra realmente guapa."
 
 @1223
 <en>{Pierre}\n"Are we talking about the same principal?"
@@ -1319,15 +1319,15 @@
 
 @1227
 <en>{Appo-}\n"Wait!\nI take that back!!"
-<es>
+<es>{Appo-}\n"¡Espera!\n¡¡Retiré eso!!"
 
 @1228
 <en>{Grocery store worker}\n"Her grand daughter goes to that school, too.\nGive her a little time, she's gonna be a hot one just like her grand mother."
-<es>
+<es>{Verdulero}\n"Su nieta también va a esa escuela.\nDadle un poco de tiempo, llegará a ser un bombón como su abuela."
 
 @1229
 <en>He's looking at far away. I think the principal was really beautiful back then.
-<es>
+<es>Está pensando en hace mucho. Supongo que la directora era muy guapa por aquel entonces.
 
 @1236
 <en>{Pierre}\n"Her grand daughter.........."
@@ -1335,7 +1335,7 @@
 
 @1237
 <en>{Daigo}\n"I have a feeling she's wearing a pair of glasses. Which turns me on."
-<es>
+<es>{Daigo}\n"Tengo la sensación de que llevaba gafas. Y eso me pone mucho."
 
 @1238
 <en>{Appo-}\n"Any young sexy teachers?"
@@ -1363,11 +1363,11 @@
 
 @1250
 <en>{Appo-}\n"Wow!! Watermelon!watermelon! Thank you very much!"
-<es>{Appo-}\n"¡¡Increíble!! ¡Sandrías! ¡Sandrías! ¡Muchísimas gracias!"
+<es>{Appo-}\n"¡¡Increíble!! ¡Sandías! ¡Sandías! ¡Muchísimas gracias!"
 
 @1251
 <en>{Pierre}\n"Hey!\nYou are not the only one who has a chance......"
-<es>
+<es>{Pierre}\n"¡Oye!\nQue tu no eres el único que tiene oportunidades..."
 
 @1254
 <en>{Appo-}\n"First come, first serve!"
@@ -1439,7 +1439,7 @@
 
 @1299
 <en>We saw a part of a building up on the hill.
-<es>
+<es>Vimos un trozo de una edificación sobresaliendo por la colina.
 
 @1300
 <en>{Kazushi}\n"Are we here already?"
@@ -1447,11 +1447,11 @@
 
 @1303
 <en>{Daigo}\n"No. The school is that way."
-<es>{Daigo}\n"No. La escuela es por allí."
+<es>{Daigo}\n"No. La escuela está por allí."
 
 @1304
 <en>Our school is all the way out there still
-<es>
+<es>Todavía queda un buen trecho hasta nuestra escuela.
 
 @1309
 <en>{Appo-}\n"Then what is that building?"
@@ -1463,7 +1463,7 @@
 
 @1322
 <en>We could see the whole building after making a turn.
-<es>
+<es>Pudimos ver la edificación entera tras dar una vuelta.
 
 @1323
 <en>{Kazushi}\n"What a......"
@@ -1559,11 +1559,11 @@
 
 @1378
 <en>{Appo-}\n"Yes-----!"
-<es>{Appo-}\n"¡Sííí...!"
+<es>{Appo-}\n"¡Yujuuu...!"
 
 @1379
 <en>Appo- rushes into deep.
-<es>
+<es>Appo- se adentra rápidamente.
 
 @1383
 <en>{Pierre}\n"Stop him!\nHe's gonna get all the girls!"
@@ -1603,7 +1603,7 @@
 
 @1415
 <en>{Pierre}\n"Is this leading us to the all the way to the bottom?"
-<es>
+<es>{Pierre}\n"¿Llevan hasta el fondo del mar?"
 
 @1416
 <en>{Daigo}\n"You think this is for mermaids?"
@@ -1719,7 +1719,7 @@
 
 @1481
 <en>{Pierre}\n"Ofcourse he is joking."
-<es>{Pierre}\n"Claro que está de guasa."
+<es>{Pierre}\n"Tontos. Claro que está de guasa."
 
 @1482
 <en>{Kazushi}\n"No, I'm not joking.\nI saw one, without bra, too."
@@ -1775,7 +1775,7 @@
 
 @1515
 <en>{Appo-}\n"Where did she go anyways?"
-<es>{Appo-}\n"De todas formas, ¿adónde ha ido?"
+<es>{Appo-}\n"De todas formas, ¿a dónde ha ido?"
 
 @1516
 <en>{Kazushi}\n"She disappeared into the ocean behind that rock."
@@ -1795,7 +1795,7 @@
 
 @1524
 <en>{Appo-}\n"That's right!\nCome out!"
-<es>
+<es>{Appo-}\n"¡Eso es!\nRápido, ¡sal, sal!"
 
 @1528
 <en>We all stared at the surface of the water.
@@ -1827,7 +1827,7 @@
 
 @1541
 <en>{Daigo}\n"She's gotta be real!!"
-<es>
+<es>{Daigo}\n"¡¡Tiene que ser real!!"
 
 @1544
 <en>{Pierre}\n"I hope she's not drown."
@@ -1843,11 +1843,11 @@
 
 @1556
 <en>{Appo-}\n"This is not good."
-<es>
+<es>{Appo-}\n"Esto no va bien."
 
 @1557
 <en>{Pierre}\n"She must be drown."
-<es>{Pierre}\n"Debe haberse ahogado."
+<es>{Pierre}\n"Debe haberse ahogado de verdad."
 
 @1558
 <en>{Kazushi}\n"On no! We gotta help her!!"
@@ -1879,7 +1879,7 @@
 
 @1575
 <en>Because there was something there.
-<es>
+<es>Porque había algo allí.
 
 @1576
 <en>{Kazushi}\n"A sign board?"
@@ -1896,7 +1896,7 @@
 @1591
 // fine: multa, peaje?
 <en>{A sign board}\n"Please pay the fine."
-<es>{Señal}\n"Por favor, pagad el peaje."
+<es>{Señal}\n"Por favor, pagad la multa."
 
 @1599
 <en>{Pierre}\n"It's walking!!"
@@ -1912,7 +1912,7 @@
 
 @1607
 <en>{A sign board}\n"Get out or pay the fine."
-<es>{Pierre}\n"Salid o pagad el peaje."
+<es>{Pierre}\n"Salid o pagad la multa."
 
 @1615
 <en>{Appo-}\n"Everybody! Run!"
@@ -1932,7 +1932,7 @@
 
 @1630
 <en>{A sign board}\n"Pay the fine."
-<es>{Señal}\n"Pagad el peaje."
+<es>{Señal}\n"Pagad la multa."
 
 @1631
 <en>{Kazushi}\n"What does it want------?!!"
@@ -1992,7 +1992,7 @@
 
 @1650
 <en>{Daigo}\n"Good luck, Kazushi."
-<es>{Daigo}\n"Buena suerte, Kazushi."
+<es>{Daigo}\n"Lo siento, Kazushi."
 
 @1651
 <en>They went the other way.
@@ -2052,7 +2052,7 @@
 
 @1685
 <en>It's closing the gap.\nI haven't been working out lately.
-<es>Está acortando listancias.\nNo he hecho nada de deporte últimamente.
+<es>Está acortando distancias.\nNo he hecho nada de deporte últimamente.
 
 @1686
 <en>{Kazushi}\n"I need to participate in some kind of athletic club!"
@@ -2060,7 +2060,7 @@
 
 @1687
 <en>It's uphill. Even a marathon runner would slow down.
-<es>El camino es ascendente. Hasta un corredor de amaratón se ralentizaría.
+<es>El camino es ascendente. Hasta un corredor de maratón se ralentizaría.
 
 @1690
 <en>{A sign board}\n"Stop, wait."
@@ -2084,7 +2084,7 @@
 
 @1696
 <en>{Kazushi}\n"Ofcourse I do!\nCan't you see!!"
-<es>{Kazushi}\n"¡Pues clar!\n¡¿Es que no lo ves?!"
+<es>{Kazushi}\n"¡Pues claro!\n¡¿Es que no lo ves?!"
 
 @1697
 <en>{???}\n"I can help you."
@@ -2144,7 +2144,7 @@
 
 @1713
 <en>{Kazushi}\n"Wow!"
-<es>{Kazushi}\n"¡Valla!"
+<es>{Kazushi}\n"¡Vaya!"
 
 @1716
 <en>I almost fell down, but some how managed to settle inbetween branches.
@@ -2172,7 +2172,7 @@
 
 @1730
 <en>A girl slaps Kazushi's hand.
-<es>
+<es>La chica le da un manotazo a Kazushi.
 
 @1731
 <en>She shook off my hand.\nShe hurt my feelings.
@@ -2180,7 +2180,7 @@
 
 @1732
 <en>{A girl on the tree}\n"That's not what I meant.\nDo you know, you would've been dead if I didn't offer you help?"
-<es>{Chica del árbol}\n"No pretendía nada.\n¿Sabes que estarías muerto si no te hubiese brindado mi ayuda?"
+<es>{Chica del árbol}\n"No me refería a eso.\n¿Sabes que estarías muerto si no te hubiese brindado mi ayuda?"
 
 @1733
 <en>{Kazushi}\n"You mean, it was going to kill me!?"
@@ -2288,11 +2288,11 @@
 
 @1778
 <en>{Ran}\n"So?"
-<es>{Ran}\n"¿Y bien?"
+<es>{Ran}\n"Entonces..."
 
 @1781
 <en>She showed me her purse and opened her wallet.
-<es>Me enseño su monedero y abrió su cartera.
+<es>Me enseñó su monedero y abrió la cartera.
 
 @1782
 <en>Why is she showing me this?
@@ -2348,7 +2348,7 @@
 
 @1805
 <en>{Ran}\n"Don't you wanna be saved from that thing underneath us?"
-<es>{Ran}\n"¿No quieres salvarte de la cosa esa que tenemos ahí debajo?"
+<es>{Ran}\n"¿No quieres salvarte de la cosa esa que tenemos ahí abajo?"
 
 @1806
 <en>She points down below.\nIt was still waiting for me to go down.
