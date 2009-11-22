@@ -66,7 +66,7 @@
 
 @306
 <en>{Daigo}\n"You always carry that bag for this kind of emergency?"
-<es>{Daigo}\n"¿Sueles llevar esa bolsa para este tipo de emergencia?"
+<es>{Daigo}\n"¿Sueles llevar esa bolsa para este tipo de emergencias?"
 
 @309
 <en>{Pierre}\n"No. This is actually Appo-'s"
@@ -78,7 +78,7 @@
 
 @331
 <en>There is beautiful sky and endless view of blue sky above us.
-<es>Hay un precioso paisaje y una vista initerminable de cielo azul.
+<es>Hay un precioso paisaje y una vista interminable de cielo azul.
 
 @332
 <en>I feel strong sunlight giving me a good tan.
@@ -254,7 +254,7 @@
 
 @477
 <en>{Daigo}\n"Good job, Appo-......"
-<es>{Daigo}\n"Bien hecho, Appo-..."
+<es>{Daigo}\n"Impresionante, Appo-..."
 
 @478
 <en>{Pierre}\n"What a guts......"
@@ -262,7 +262,7 @@
 
 @483
 <en>{Panchu-}\n"It's good. Isn't it?"
-<es>
+<es>{Panchu-}\n"Está bueno. ¿A que sí?"
 
 @487
 <en>{Appo-}\n"!!"
@@ -270,11 +270,11 @@
 
 @488
 <en>Appo- is covering his mouth.
-<es>Appo- se está cubriendo la boca.
+<es>Appo- se está tapando la boca.
 
 @493
 <en>{Panchu-}\n"What's wrong with you now?"
-<es>{Panchu-}\n"¿Y ahora qué te pasa?"
+<es>{Panchu-}\n"¿Eh? ¿Qué?"
 
 @494
 <en>......it was too late.
@@ -298,7 +298,7 @@
 
 @527
 <en>{Daigo}\n"Opps, he said it."
-<es>{Daigo}\n"Ups... Lo ha dicho."
+<es>{Daigo}\n"Ups... Estúpido."
 
 @528
 <en>You don't want to call that "stupid bread" in front of Panchu-
@@ -334,7 +334,7 @@
 
 @547
 <en>{Everybody}\n"Please forgive us!!"
-<es>{Todos}\n"¡Por favor, perdónanos!!"
+<es>{Todos}\n"¡¡Por favor, perdónanos!!"
 
 @551
 <en>{Teacher Yagami}\n"What are you guys arguing about?"
@@ -366,7 +366,7 @@
 
 @571
 <en>I'm glad Panchu- took Mr.Yagami's word.
-<es>Me algro de que Panchu- haya escuchado al señor Yagami.
+<es>Me alegro de que Panchu- haya escuchado al señor Yagami.
 
 @572
 <en>Mr.Yagami's the only one who Panchu- listens to.
@@ -378,11 +378,11 @@
 
 @579
 <en>{Pierre}\n"We have to clean this mess?"
-<es>{Pierre}\n"¿Tenemos que limpiar esta mierda?"
+<es>{Pierre}\n"¿Tenemos que limpiar este desastre?"
 
 @580
 <en>{Teacher Yagami}\n"Friends clean up friend's mess."
-<es>{Profesor Yagami}\n"Los amigos limpian la mierda de los amigos."
+<es>{Profesor Yagami}\n"Los amigos limpian los desastres de sus amigos."
 
 @581
 <en>{Teacher Yagami}\n"Friendship is a beautiful thing."
@@ -410,11 +410,11 @@
 
 @590
 <en>We are actually afraid of this teacher.
-<es>
+<es>La verdad es que tememos a este profesor
 
 @591
 <en>For the reason that he's the only teacher Panchu- looks up to.
-<es>
+<es>Debido a que es el único profesor al que Panchu- admira.
 
 @608
 <en>{Daigo}\n"What is this green stuff?"
@@ -442,7 +442,7 @@
 
 @618
 <en>{Kazushi}\n"He's right. We went through a tough test to get here together."
-<es>
+<es>{Kazushi}\n"Tiene razón. Pasamos una prueba muy dura para llegar aquí juntos."
 
 @621
 <en>{Daigo}\n"Just how we promised to each other."
@@ -450,7 +450,7 @@
 
 @622
 <en>{Appo-}\n"Ofcourse we all passed the exam......\nWho would want to miss an oppoturnity to teach at girls' school?......"
-<es>{Appo-}\n"Claro que hemos pasado todos el examen...\n¿Quién iba a perderse la oportunidad de enseñar en la escuela para chicas?..."
+<es>{Appo-}\n"Claro que hemos pasado todos el examen...\n¿Quién iba a perderse la oportunidad de estudiar en la escuela para chicas?..."
 
 @623
 <en>{Kazushi}\n"We are at the beginning of our journey."
@@ -482,7 +482,7 @@
 
 @642
 <en>{Daigo}\n"We'll be working in no man's land."
-<es>
+<es>{Daigo}\n"Trabajaremos en una tierra sin hombres."
 
 @645
 <en>{Pierre}\n"I heard any man will be popular in girls' school."
@@ -506,11 +506,11 @@
 
 @656
 <en>{Pierre}\n"You're saying we are just "O.K" looking!"
-<es>
+<es>¡Así que tenemos un aspecto pasable...!
 
 @659
 <en>{Appo-}\n"Shut up!! When a O.K looking guy lands on a no man's land, girls will come. That's good enough."
-<es>
+<es>{Appo-}\n"¡¡A callar!! Cuando un tipo pasable entra en una tierra sin hombres, las chicas aparecen. Con eso basta."
 
 @660
 <en>{Kazushi}\n"Why are you so sure?"
@@ -518,11 +518,11 @@
 
 @663
 <en>{Appo-}\n"Have you heard a term "Pheromone"? Females sense our pheromone!!"
-<es>{Appo-}\n"¿Has oído hablar del término 'Feromona'? ¡¡Las hembras perciben nuestras feromonas!!"
+<es>{Appo-}\n"¿Has oído hablar del término 'Fe-ro-mo-na'? ¡¡Las hembras perciben nuestras feromonas!!"
 
 @669
 <en>{Pierre}\n"Who is that? He looks......fine......"
-<es>
+<es>{Pierre}\n"¿Quién es ese? No está... nada mal..."
 
 @670
 <en>{Appo-}\n"Hello lady, how can I enter your world?\nKnock, knock!"
@@ -530,19 +530,19 @@
 
 @671
 <en>{Pierre}\n"Oh! Looks like there's a guest coming between my legs......"
-<es>
+<es>{Pierre}\n"¡Ah! Parece que hay un amiguito acercándose a mi entrepierna..."
 
 @674
 <en>{Appo-}\n"Knock! knock!"
-<es>{Appo-}\n"¡Toc, toc!"
+<es>{Appo-}\n"¡Toc, toc! ¡Toc, toc!"
 
 @675
 <en>{Pierre}\n"No! Wait! No one has entered my door yet!\nPlease wait-!"
-<es>
+<es>{Pierre}\n"¡No! ¡Espera! ¡Nadie ha atravesado esa puerta nunca!\n¡Por favor, espera!"
 
 @678
 <en>{Appo-}\n"Knock! knock!"
-<es>{Appo-}\n"¡Toc, toc!"
+<es>{Appo-}\n"¡Toc, toc! ¡Toc, toc! ¡Toc, toooc!"
 
 @679
 <en>{Pierre}\n"Welcome! You are welcome-!"
@@ -562,7 +562,7 @@
 
 @695
 <en>{Pierre}\n"He's right."
-<es>{Pierre}\n"Tiene razón."
+<es>{Pierre}\n"Sí. Tiene razón."
 
 @698
 <en>{Appo-}\n"Look around you. Girls in puberty is locked in an island. You know what that means, right?"
@@ -594,15 +594,15 @@
 
 @713
 <en>{Appo-}\n"Enough about me!"
-<es>{Appo-}\n"¡Déja de hablar de mí!"
+<es>{Appo-}\n"¡Dejad de hablar de mí!"
 
 @716
 <en>{Appo-}\n"Look guys! This is like throwing silvervine in a pack of cats."
-<es>
+<es>{Appo-}\n"¡Mirad chicos! Esto es como tirar hierba de gatos en una manada de gatitos."
 
 @717
 <en>{Kazushi}\n"Captain! I think that is really wonderful!!"
-<es>
+<es>{Kazushi}\n"¡Capitán! ¡¡Eso pinta muy bien!!"
 
 @720
 <en>{Pierre}\n"There were only two options they had until we arrive. Either they mustervate or they become lilly."
@@ -626,7 +626,7 @@
 
 @733
 <en>{Pierre}\n"Yeah, I remember some Dr, somebody was writing an article about it."
-<es>
+<es>{Pierre}\n"Sí, recuerdo que algún doctor escribió un artículo sobre eso."
 
 @734
 <en>{Kazushi}\n"Wouldn't that be a problem for us?\nThat they like each other......"
@@ -658,7 +658,7 @@
 
 @752
 <en>{Daigo}\n"I've only seen their holes in a magazine, I'm little worried if I can't find it."
-<es>{Daigo}\n"Yo solo he visto sus agujeros en una revsta, me preocupa un poco no lograr encontrarlo."
+<es>{Daigo}\n"Yo solo he visto sus agujeros en una revista, me preocupa un poco no lograr encontrarlo."
 
 @753
 <en>{Pierre}\n"Don't think! Feel it! Just move your hips as you feel like and you'll be in!!"
@@ -718,7 +718,7 @@
 
 @785
 <en>Daigo was really heavy.
-<es>
+<es>Daigo pesaba bastante.
 
 @788
 <en>{Daigo}\n"Like this?"
@@ -770,7 +770,7 @@
 
 @814
 <en>{Appo-}\n"You should never entertained them... you make me feel sick again."
-<es>
+<es>{Appo-}\n"No deberías haberlos entretenido... me habéis hecho volver a encontrarme mal."
 
 @818
 <en>I just realized Teacher Yagami was watching the whole thing.
@@ -794,11 +794,11 @@
 
 @877
 <en>{Teacher Yagami}\n"Just remember, we are going to teach at\n......is anybody listening to me?"
-<es>{Profesor Yagami}\n"Recordad, estamos aquí para enseñar a\n... ¿me está escuchando alguien?"
+<es>{Profesor Yagami}\n"Recordad, estamos aquí para que nos enseñen\n... ¿me está escuchando alguien?"
 
 @881
 <en>{Panchu-}\n"Hey air heads!\nDon't stand on the same side-!\nYou guys are making the boat leaning!!"
-<es>
+<es>{Panchu-}\n"¡Ey cabezas huecas!\n¡No os quedéis en el mismo lado!\n¡¡Estáis haciendo que se incline la barca!!"
 
 @883
 <en>No one is listening to Panchu- either.
@@ -806,7 +806,7 @@
 
 @886
 <en>{Teacher Yagami}\n"You guys are young and honest.\nI like how you guys are excited to study......"
-<es>
+<es>{Profesor Yagami}\n"Sóis jóvenes y honestos.\nMe gusta lo emocionados que estáis por estudiar..."
 
 @888
 <en>He speaks to us as he lights his cigarette.
@@ -814,11 +814,11 @@
 
 @898
 <en>{Appo-}\n"That's our paradise island......opps."
-<es>
+<es>{Appo-}\n"Esa es nuestra isla de ensueño... Uggg."
 
 @899
 <en>{Kazushi}\n"Stop throwing up.\nBe a man!! That's how you get a girl out there!"
-<es>{Kazushi}\n"Deja de vomitar.\n¡¡Se un hombre!! ¡Así es como se encuentran a las chicas!"
+<es>{Kazushi}\n"Deja de vomitar.\n¡¡Sé un hombre!! ¡Así es como se consiguen a las chicas!"
 
 @902
 <en>{Pierre}\n"Shit......I'm getting a hard on."
@@ -826,7 +826,7 @@
 
 @908
 <en>{Teacher Yagami}\n"You guys should use the energy in some other way."
-<es>{Profesor Yagami}\n"Deberíais invertir vuestra energía de otra forma."
+<es>{Profesor Yagami}\n"Deberíais invertir vuestras energías de otra forma."
 
 @909
 <en>{Kazushi}\n"Sorry, Mr.Yagami."
@@ -834,7 +834,7 @@
 
 @911
 <en>Maybe I should use my energy to play Tennis with the girls.
-<es>Quizá debería usar mi energía jugando al tennis con las chicas.
+<es>Quizá debería usar mi energía jugando al tenis con las chicas.
 
 @912
 <en>That will be so much fun.
@@ -862,11 +862,11 @@
 
 @924
 <en>It was hard for us to think this was an accident.
-<es>Nos resultaba difícil de creer que era un accidente.
+<es>Nos resultaba difícil de creer que fuese por casualidad.
 
 @927
 <en>{Daigo}\n"We are here."
-<es>
+<es>{Daigo}\n"Aquí estamos."
 
 @931
 <en>We could see a lots of fishermen at the port working.
@@ -890,15 +890,15 @@
 
 @936
 <en>{Appo-}\n"Look at that smoke coming out from that boat."
-<es>
+<es>{Appo-}\n"Mira el humo que sale de ese bote."
 
 @937
 <en>The boat is producing enough smoke to contaminate entire island.
-<es>
+<es>El bote está produciendo el humo suficiente como para contaminar la isla entera.
 
 @938
 <en>{Pierre}\n"You can only find an engine that old in countryside like here."
-<es>
+<es>{Pierre}\n"Sólo se puede encontrar un trasto así de viejo en una zona rural como esta."
 
 @939
 <en>{Kazushi}\n"What do you think it runs by?"
@@ -910,15 +910,15 @@
 
 @941
 <en>{Kazushi}\n"Look, there are sea gulls......"
-<es>
+<es>{Kazushi}\n"Mirad, gaviotas..."
 
 @942
 <en>They must be after something in that boat.
-<es>
+<es>Deben estar tras algo del bote.
 
 @943
 <en>Perhaps that black smoke smells good to them.
-<es>
+<es>Quizá les guste el olor de ese humo negro.
 
 @944
 <en>{Daigo}\n"...oh..."
@@ -926,11 +926,11 @@
 
 @950
 <en>After a little bump, our boat came to rest.
-<es>
+<es>Tras una ligera colisión, nuestro bote se queda en reposo.
 
 @951
-<en>{Profesor Yagami}\n"¡Ya hemos llegado...!\n¡No corráis al bajar...!"
-<es>
+<en>{Teacher Yagami}\n"We are here-!\nDon't rush to get off-!"
+<es>{Profesor Yagami}\n"¡Ya hemos llegado...!\n¡No corráis al bajar...!"
 
 @952
 <en>No one was listening to him. We just couldn't wait to get off.
@@ -958,11 +958,11 @@
 
 @986
 <en>{Teacher Yagami}\n"Guys!! You are walking over your friend."
-<es>
+<es>{Profesor Yagami}\n"¡¡Chicos!! Estáis pasando por encima de vuestro amigo."
 
 @994
 <en>{Appo-}\n"Opps."
-<es>{Appo-}\n"Ups."
+<es>{Appo-}\n"Lo siento."
 
 @995
 <en>{Daigo}\n"Sorry."
@@ -1014,11 +1014,11 @@
 
 @1031
 <en>{Pierre}\n"Do you hear me, kittens?!!!!"
-<es>
+<es>{Pierre}\n"¡¡¿Me podéis oír, gatitas?!!"
 
 @1032
 <en>{Daigo}\n"Marry me---------!!"
-<es>
+<es>{Daigo}\n"¡¡Casaos conmigo...!!"
 
 @1033
 <en>Our shout echos in the sky.
@@ -1030,7 +1030,7 @@
 
 @1040
 <en>His emotion surpassed anger and he's more like embarrased about us.
-<es>Su emoción sobrepasa el enfado y está casi más avergonzao de nosotros que otra cosa.
+<es>Su reacción sobrepasa el enfado y está casi más avergonzao de nosotros que otra cosa.
 
 @1044
 <en>{Old lady}\n"You boys are so energetic!!"

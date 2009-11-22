@@ -94,6 +94,69 @@ unittest {
 	assert(stripslashes(addslashes(c)) == c);
 }
 
+// SJIS
+
+// http://msdn.microsoft.com/en-us/library/ms776413(VS.85).aspx
+// http://msdn.microsoft.com/en-us/library/ms776446(VS.85).aspx
+// http://www.microsoft.com/globaldev/reference/dbcs/932.mspx
+
+extern(Windows) {
+	int MultiByteToWideChar(uint CodePage, uint dwFlags, char* lpMultiByteStr, int cbMultiByte, wchar* lpWideCharStr, int cchWideChar);
+	int WideCharToMultiByte(uint CodePage, uint dwFlags, wchar* lpWideCharStr, int cchWideChar, char* lpMultiByteStr, int cbMultiByte, char* lpDefaultChar, int* lpUsedDefaultChar);
+}
+
+wchar[] sjis_convert_utf16(char[] data) { return convert_to_utf16(data, 932); }
+char[] sjis_convert_utf8(char[] data) { return std.utf.toUTF8(sjis_convert_utf16(data)); }
+
+wchar[] convert_to_utf16(char[] data, int codepage) {
+	wchar[] out_data = new wchar[data.length * 4];
+	int len = MultiByteToWideChar(
+		codepage,
+		0,
+		data.ptr,
+		data.length,
+		out_data.ptr,
+		out_data.length
+	);
+	return out_data[0..len];
+}
+
+char[] convert_from_utf16(wchar[] data, uint codepage) {
+	char[] out_data = new char[data.length * 4];
+	int len = WideCharToMultiByte(
+		codepage,
+		0,
+		data.ptr,
+		data.length,
+		out_data.ptr,
+		out_data.length,
+		null,
+		null
+	);
+	return out_data[0..len];
+}
+
+char[] mb_convert_encoding(char[] str, int to_codepage, int from_codepage) {
+	return convert_from_utf16(convert_to_utf16(str, from_codepage), to_codepage);
+}
+
+uint charset_to_codepage(char[] charset) {
+	charset = replace(std.string.tolower(strip(charset)), "-", "_");
+	switch (charset) {
+		case "shift_jis": return 932;
+		case "utf_16": return 1200;
+		case "utf_32": return 12000;
+		case "utf_7": return 65000;
+		case "utf_8": return 65001;
+		case "windows_1252", "latin_1", "iso_8859_1": return 1252;
+		default: throw(new Exception("Unknown charset '" ~ charset ~ "'"));
+	}
+}
+
+char[] mb_convert_encoding(char[] str, char[] to_encoding, char[] from_encoding) {
+       return mb_convert_encoding(str, charset_to_codepage(to_encoding), charset_to_codepage(from_encoding));
+}
+
 class BSS {
 	static class OP {
 		uint ori_pos;
@@ -290,11 +353,14 @@ class BSS {
 					if (acme.has(line)) {
 						char[] text = acme[line].text;
 						
+						if (sstack.s[1] !is null) sstack.s[1] = sstack.s[1].strip();
+						//writefln("::%s::%s::", sstack.s[1], text);
+						
 						// Has title.
-						if (sstack.s[1] !is null) {
+						if ((sstack.s[1] !is null) && sstack.s[1].length) {
 							auto tt = explode("\n", text, 2);
 							auto title = strip(tt[0]); text = (tt.length >= 2) ? tt[1] : "";
-							assert(title.length > 2);
+							assert(title.length > 2, format("Line(%d): Title length > 2: '%s'", line, title));
 							assert(title[0] == '{', format("Line(%d): Invalid start: '%s'", line, title));
 							assert(title[title.length - 1] == '}');
 							title = title[1..title.length - 1];
@@ -376,9 +442,13 @@ class BSS {
 			pos += op.size;
 			//if (op.type == 0x11) op.i[1] = size - pos;
 			foreach (k, t; op.t) {
-				if (t == OP.TYPE.PTR) {
-					op.i[k] = translate[op.i[k]];
-					//writefln("Update!");
+				try {
+					if (t == OP.TYPE.PTR) {
+						op.i[k] = translate[op.i[k]];
+						//writefln("Update!");
+					}
+				} catch (Exception e) {
+					writefln("Error: %s", e);
 				}
 			}
 		}
@@ -473,6 +543,11 @@ class ACME {
 		int id;
 		entries = null;
 		Entry e = new Entry;
+		
+		auto data = s.readString(s.size);
+		data = mb_convert_encoding(data, "latin_1", "utf_8");
+		s = new MemoryStream(data);
+		
 		while (!s.eof) {
 			auto line = s.readLine();
 			char c = line.length ? line[0] : '\0';
@@ -482,11 +557,15 @@ class ACME {
 				case '@': // ID
 					e = new Entry;
 					e.id = std.conv.toInt(line[1..line.length]);
+					e.text = "";
 					entries[e.id] = e;
 				break;
 				case '<': // Text
-					if ((line.length >= 4) && (line[0..4] == "<" ~ lang ~ ">")) {
-						e.text ~= stripslashes(line[4..line.length]);
+					char[] add_text = stripslashes(substr(line, 4)).stripr();
+					if (substr(line, 0, 4) == "<" ~ lang ~ ">") {
+						if (add_text.length) e.text = add_text;
+					} else if (!e.text.length) {
+						e.text = add_text;
 					}
 				break;
 				default: // Ignore.
@@ -621,6 +700,9 @@ void patch(char[] game_folder, char[] acme_folder) {
 	writefln(" - script_folder_in : %s", script_folder_in);
 	writefln(" - script_folder_out: %s", script_folder_out);
 	writefln(" - acme_folder      : %s", acme_folder);
+	
+	try { mkdir(game_folder ~ "/Script"); } catch { }
+	try { mkdir(game_folder ~ "/Script/CVTD"); } catch { }
 
 	foreach (file; listdir(script_folder_in)) {
 		writefln(file);
