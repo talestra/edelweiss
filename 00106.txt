@@ -2276,7 +2276,7 @@
 
 @1773
 <en>{Ran}\n"This island is government's secret military factory.\nYou speak out this, you'll be erased, O.K?"
-<es>
+<es>{Ran}\n"Esta isla es la factoría militar secreta del govierno.\nY si hablas sobre esto, te borrarán del mapa, ¿entendido?"
 
 @1774
 <en>{Kazushi}\n"Are you serious!?"
@@ -2284,115 +2284,115 @@
 
 @1775
 <en>That's a scary information.\nI didn't want to be involved in this.
-<es>
+<es>Esa información es muy peliaguda.\nNo quería involucrarme en eso.
 
 @1778
 <en>{Ran}\n"So?"
-<es>
+<es>{Ran}\n"¿Y bien?"
 
 @1781
 <en>She showed me her purse and opened her wallet.
-<es>
+<es>Me enseño su monedero y abrió su cartera.
 
 @1782
 <en>Why is she showing me this?
-<es>
+<es>¿Por qué me estás enseñando esto?
 
 @1785
 <en>{Ran}\n"Hush money.\nI won't tell anyone that you know."
-<es>
+<es>{Ran}\n"Cobro por el silencio.\nNo le diré a nadie que lo sabes."
 
 @1786
 <en>{Kazushi}\n"I see.\nI understand."
-<es>
+<es>{Kazushi}\n"Ajá.\nEntiendo."
 
 @1787
 <en>{Ran}\n"That's right.\nYou know the rules!"
-<es>
+<es>{Ran}\n"Está bien.\n¡Te sabes las reglas!"
 
 @1788
 <en>Although I don't know the market price for hush money,\nI was willing to give her all the coins I got.
-<es>
+<es>Aunque no tengo ni idea del precio del silencio,\nIba a darle todas las monedas que tenía...
 
 @1791
 <en>{Ran}\n"I prefer papers-"
-<es>
+<es>{Ran}\n"Prefiero billetes..."
 
 @1792
 <en>She talks sweetly all the sudden.
-<es>
+<es>De repente me habla dulcemente.
 
 @1793
 <en>{Kazushi}\n"I see.\nIt's a top secret."
-<es>
+<es>{Kazushi}\n"Ya veo.\nEs top secret."
 
 @1796
 <en>{Ran}\n"Yes, it is!"
-<es>
+<es>{Ran}\n"¡Sí!, ¡eso es!"
 
 @1797
 <en>All right.\nI gave her a big bill.
-<es>
+<es>Está bien.\nLe di un billete de los grandes.
 
 @1800
 <en>{Ran}\n"One more."
-<es>
+<es>{Ran}\n"Otro más."
 
 @1801
 <en>{Kazushi}\n"What? Isn't it too much?"
-<es>
+<es>{Kazushi}\n"¿Qué? ¿No es demasiado?"
 
 @1802
 <en>I don't wanna use up everything I have.
-<es>
+<es>No quiero gastarme todo lo que tengo.
 
 @1805
 <en>{Ran}\n"Don't you wanna be saved from that thing underneath us?"
-<es>
+<es>{Ran}\n"¿No quieres salvarte de la cosa esa que tenemos ahí debajo?"
 
 @1806
 <en>She points down below.\nIt was still waiting for me to go down.
-<es>
+<es>Señala abajo.\nSigue esperando a que baje.
 
 @1807
 <en>{Kazushi}\n"You are right.\nI forgot about that."
-<es>
+<es>{Kazushi}\n"Tienes razón.\nMe olvidé de ese detalle."
 
 @1808
 <en>If money can buy my life. I will be happy to pay.
-<es>
+<es>Si el dinero puede salvarme la vida. Pagaré encantado.
 
 @1811
 <en>Ran can't help smiling after getting two big bills from me.
-<es>
+<es>Ran no puede evitar sonreir tras sacarme dos billetes de los grandes.
 
 @1812
 <en>She must be saving a lot for something.
-<es>
+<es>Debe estar ahorrando mucho para algo.
 
 @1815
 <en>{Ran}\n"Thank you-\nnow, let me go down and talk to that thing."
-<es>
+<es>{Ran}\n"Gracias...\nY ahora, permíteme bajar y hablar con esa cosa."
 
 @1816
 <en>She sounded so easy and start climbing down the tree.
-<es>
+<es>Así de simple. Y empezó a bajar del árbol.
 
 @1817
 <en>{Kazushi}\n"Are you gonna be all right!?"
-<es>
+<es>{Kazushi}\n"¿¡Estarás bien!?"
 
 @1818
 <en>{Ran}\n"Don't worry.\nLet me take care of this."
-<es>
+<es>{Ran}\n"No te preocupes.\nYo me encargo."
 
 @1820
 <en>She smiled and jumped down on the ground.
-<es>
+<es>Sonrió y saltó al suelo.
 
 @1821
 <en>{Kazushi}\n"Hey......"
-<es>
+<es>{Kazushi}\n"Oye..."
 
 @1826
 <en>She gave it a great drop kick as she jumped down onto the ground.\nThe killing machine is now cramping on the ground.
@@ -2400,7 +2400,7 @@
 
 @1829
 <en>{Ran}\n"Opps......are you all right?"
-<es>
+<es>{Ran}\n"Ups... ¿Estás bien?"
 
 @1830
 <en>She finally got off from the machine.
@@ -2412,23 +2412,23 @@
 
 @1838
 <en>I think it's broken.\nI saw Ran's face quickly turns pale.
-<es>
+<es>Creo que está rota.\nLa cara de Ran se pone pálida rápidamente.
 
 @1839
 <en>{Ran}\n"Oh no.\nDid I break it?"
-<es>
+<es>{Ran}\n"Oh no.\n¿Lo he roto?"
 
 @1840
 <en>{Kazushi}\n"You took care of it in a second!!"
-<es>
+<es>{Kazushi}\n"¡¡Te has encargado de ella en un periquete!!"
 
 @1843
 <en>{Ran}\n"No, it's actually......"
-<es>
+<es>{Ran}\n"No, en realidad..."
 
 @1849
 <en>{A sign board}\n"#$%^&*!!"
-<es>
+<es>{Señal}\n"¡¡#$%^&*!!"
 
 @1850
 <en>The killing machine got up from the ground.\nIsn't this a bad sign?
@@ -2436,15 +2436,15 @@
 
 @1854
 <en>{Kazushi}\n"Hey Ran, is everything O.K?"
-<es>
+<es>{Kazushi}\n"Ey Ran, ¿va todo bien?"
 
 @1855
 <en>{Ran}\n"Actually......it's running out of control."
-<es>
+<es>{Ran}\n"La verdad es que... se ha vuelto fuera de control."
 
 @1859
 <en>{A sign board}\n"*&%$#-----!!"
-<es>
+<es>{Señal}\n"¡¡#$%^&*!!"
 
 @1860
 <en>The killing machine jumped over to attack Ran.
@@ -2452,15 +2452,15 @@
 
 @1864
 <en>{Ran}\n"No!"
-<es>
+<es>{Ran}\n"¡No!"
 
 @1865
 <en>It missed Ran by an inch.
-<es>
+<es>No dió a Ran por un centímetro.
 
 @1870
 <en>{Kazushi}\n"Watch out!!"
-<es>
+<es>{Kazushi}\n"¡¡Cuidado!!"
 
 @1871
 <en>It's knocking down trees easily. It's got tremendous power.
@@ -2468,31 +2468,31 @@
 
 @1875
 <en>{A sign board}\n"......#$%^&!"
-<es>
+<es>{Señal}\n"¡¡#$%^&*!!"
 
 @1879
 <en>{Ran}\n"Don't come to me!"
-<es>
+<es>{Ran}\n"¡No te me acerques!"
 
 @1880
 <en>{Kazushi}\n"Watch out!\nDo something!!"
-<es>
+<es>{Kazushi}\n"¡Cuidado!\¡n¡Haz algo!!"
 
 @1883
 <en>{Ran}\n"I didn't expect this to happen......"
-<es>
+<es>{Ran}\n"No pensaba que fuese a pasar esto..."
 
 @1884
 <en>Ran doesn't seem to have any more good ideas.\nThis is not good.
-<es>
+<es>Ran parece no tener ninguna buena idea más.\nEsto no va bien.
 
 @1888
 <en>{A sign board}\n"#$%^& ......!!"
-<es>
+<es>{Señal}\n"¡¡#$%^&*!!"
 
 @1892
 <en>{Ran}\n"No! don't come this way!"
-<es>
+<es>{Ran}\n"¡No! ¡No vengas por aquí!"
 
 @1893
 <en>The killing machine is about to make another jump to attack her!
@@ -2500,35 +2500,35 @@
 
 @1895
 <en>{Kazushi}\n"Stop right there-------!!"
-<es>
+<es>{Kazushi}\n"¡¡Quieto ahí...!!"
 
 @1896
 <en>I jumped off the tree before I thought about it.
-<es>
+<es>Bajé del árbol de un salto sin llegar a pensarlo bien.
 
 @1903
 <en>{Ran}\n"Wow! Kazushi!?"
-<es>
+<es>{Ran}\n"¡Vaya! ¿¡Kazushi!?"
 
 @1904
 <en>{Kazushi}\n"Not her! Come get me!"
-<es>
+<es>{Kazushi}\n"¡A por ella no! ¡Ven a por mí!"
 
 @1905
 <en>{Ran}\n"Why are you shaking?"
-<es>
+<es>{Ran}\n"¿Por qué estás temblando?"
 
 @1906
 <en>{Kazushi}\n"I'm not!"
-<es>
+<es>{Kazushi}\n"¡No lo estoy!"
 
 @1907
 <en>My knees are shaking.
-<es>
+<es>Mis piernas se tambalean.
 
 @1908
 <en>{A sign board}\n"#$%^&*......"
-<es>
+<es>{Señal}\n"¡¡#$%^&*!!"
 
 @1909
 <en>{Kazushi}\n"You are wrong! Your parents must be crying now!!"
@@ -2536,59 +2536,59 @@
 
 @1912
 <en>{Ran}\n"I don't think you can solve this situation by talking."
-<es>
+<es>{Ran}\n"Dudo mucho que puedas solucionar esta situación con palabras."
 
 @1913
 <en>{Kazushi}\n"Ca, Canai herupu U-!!"
-<es>
+<es>{Kazushi}\n"¡¿Ca-Can ai jelp yu?!"
 
 @1914
 <en>{Ran}\n"I don't think talking broken English to it can solve this either."
-<es>
+<es>{Ran}\n"Tampoco creo que hablar inglés robótico pueda solucionar esto."
 
 @1915
 <en>{A sign board}\n"#$%& ......!!"
-<es>
+<es>{Señal}\n"¡¡#$%^&*!!"
 
 @1916
 <en>I don't think it can understand any languages now.
-<es>
+<es>Ahora mismo, no creo que pueda entender ningún idioma.
 
 @1917
 <en>{Kazushi}\n"How can I fight this machine?\nI'm bare handed."
-<es>
+<es>{Kazushi}\n"¿Cómo puedo enfrentarme a esta máquina?\nEstoy con las manos desnudas."
 
 @1920
 <en>{Ran}\n"Then why you jumped off from the tree-?!!"
-<es>
+<es>{Ran}\n"¡Entonces, ¿por qué has saltado de árbol?!"
 
 @1924
 <en>{A sign board}\n"#$%--------!"
-<es>
+<es>{Señal}\n"¡¡#$%^&*!!"
 
 @1925
 <en>{Kazushi}\n"No!!"
-<es>
+<es>{Kazushi}\n"¡¡No!!"
 
 @1938
 <en>{Appo-}\n"We are here-!!\nWhere are you girls?!!"
-<es>
+<es>{Appo-}\n"¡¡Estamos aquí...!!\n¡¿Dónde estáis, chicas?!"
 
 @1945
 <en>{Daigo}\n"I wonder if Kazushi is all right?"
-<es>
+<es>{Daigo}\n"Me preugnto si Kazushi estará bien."
 
 @1946
 <en>{Pierre}\n"He's all right.\nHe went through things a lot worse than that."
-<es>
+<es>{Pierre}\n"No te preocupes, estará bien.\nHa pasado por cosas mucho peores."
 
 @1949
 <en>{Appo-}\n"He was so unlucky. On the other hand, we were so lucky.\nWe climbed over the cliff and look what we found."
-<es>
+<es>{Appo-}\n"Tuvo muy mala pata. Por otra parte, nosotros tuvimos mucha potra.\nTrepamos por el acantilado y mira lo que hemos encontrado."
 
 @1950
 <en>{Pierre}\n"I don't understand why you like that stuff. I rather much prefer what's inside of it."
-<es>
+<es>{Pierre}\n"No entiendo cómo te puede gustar esa cosa. Yo prefiero por mucho lo que hay dentro."
 
 @1953
 <en>{Daigo}\n"This is wonderful. It's like we came to a different country."
@@ -2596,7 +2596,7 @@
 
 @1956
 <en>{Appo-}\n"Do you guys smell what I smell......"
-<es>
+<es>{Appo-}\n"Chicos, ¿oléis lo mismo que yo...?"
 
 @1959
 <en>{Pierre}\n"That's my boy, Appo-,\nI knew you know what this smell means."
@@ -2616,11 +2616,11 @@
 
 @1967
 <en>{Pierre}\n"Daigo, this is the smell of girls."
-<es>
+<es>{Pierre}\n"Daigo, es el olor de las chicas."
 
 @1970
 <en>{Daigo}\n"Girls?!"
-<es>
+<es>{Daigo}\n"¡¿Chicas?!"
 
 @1971
 <en>{Appo-}\n"Why are you opening your mouth?"
