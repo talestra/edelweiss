@@ -2104,7 +2104,7 @@
 
 @1703
 <en>{A girl on the tree}\n"I'm here.\nHe can't climb, you know-"
-<es>{Chica del árbol}\n"Aquí.\n¿Sabías?, él no puede trepar."
+<es>{Chica del árbol}\n"Aquí, aquí.\n¿Sabías?, él no puede trepar."
 
 @1704
 <en>She's telling me to get on the tree.
@@ -2148,7 +2148,7 @@
 
 @1716
 <en>I almost fell down, but some how managed to settle inbetween branches.
-<es>
+<es>Casi me caí, pero me las arreglé para quedarme entre las ramas.
 
 @1719
 <en>{Kazushi}\n"Thank you so much for your help."
@@ -2216,7 +2216,7 @@
 
 @1747
 <en>{A girl on the tree}\n"You must be one of the boys enrolling to our school."
-<es>{Chica del árbol}\n"Ah. Tu debes ser uno de los chicos matriculados en nuestra escuela."
+<es>{Chica del árbol}\n"Ah... Tu debes ser uno de los chicos matriculados en nuestra escuela."
 
 @1748
 <en>She smiled.\nHow could she smile under this circumstances?
@@ -2232,7 +2232,7 @@
 
 @1755
 <en>{A girl on the tree}\n"I'm ran Kamoike, what's your name?"
-<es>{Chica del árbol}\n"Yo soy Ran Kamoike, ¿Cómo te llamas?"
+<es>{Chica del árbol}\n"Yo soy Ran Kamoike, ¿y tú?"
 
 @1756
 <en>{Kazushi}\n"I'm Kazushi Haruma.."
@@ -2240,7 +2240,7 @@
 
 @1757
 <en>I'm not supposed to be enjoying introducing myself, but she's laughing and seems to have good time.
-<es>No se supone que disfrute presentándome, pero ella se ríe y parece estar pasándoselo bien.
+<es>Yo no es que disfrute en esta situación, pero ella se ríe y parece estar pasándoselo en grande.
 
 @1758
 <en>She has a good smile.
@@ -2260,7 +2260,7 @@
 
 @1765
 <en>There is a killing machine right underneath us.
-<es>Tenemos una máquina asesina justo debajo de nosotros.
+<es>Tenemos a una máquina asesina justo debajo de nosotros.
 
 @1768
 <en>{Ran}\n"Call me Ran. I'll call you Kazushi, O.K?"
@@ -2284,7 +2284,7 @@
 
 @1775
 <en>That's a scary information.\nI didn't want to be involved in this.
-<es>Esa información es muy peliaguda.\nNo quería involucrarme en eso.
+<es>Esa información es muy peliaguda.\nNo querría involucrarme en eso.
 
 @1778
 <en>{Ran}\n"So?"
@@ -2300,7 +2300,7 @@
 
 @1785
 <en>{Ran}\n"Hush money.\nI won't tell anyone that you know."
-<es>{Ran}\n"Cobro por el silencio.\nNo le diré a nadie que lo sabes."
+<es>{Ran}\n"Cobro por el silencio.\nEl dinero es el dinero\nNo le diré a nadie que lo sabes."
 
 @1786
 <en>{Kazushi}\n"I see.\nI understand."
@@ -2312,7 +2312,7 @@
 
 @1788
 <en>Although I don't know the market price for hush money,\nI was willing to give her all the coins I got.
-<es>Aunque no tengo ni idea del precio del silencio,\nIba a darle todas las monedas que tenía...
+<es>Aunque no tengo ni idea del precio del silencio.\nIba a darle todas las monedas que tenía...
 
 @1791
 <en>{Ran}\n"I prefer papers-"
@@ -2360,7 +2360,7 @@
 
 @1808
 <en>If money can buy my life. I will be happy to pay.
-<es>Si el dinero puede salvarme la vida. Pagaré encantado.
+<es>Si el dinero puede salvarme la vida, pagaré encantado.
 
 @1811
 <en>Ran can't help smiling after getting two big bills from me.
@@ -2396,11 +2396,11 @@
 
 @1826
 <en>She gave it a great drop kick as she jumped down onto the ground.\nThe killing machine is now cramping on the ground.
-<es>
+<es>Le arreó un buen leñazo a la cosa esa cuando saltó al suelo.\nLa máquina asesina está ahora estampada contra el suelo.
 
 @1829
 <en>{Ran}\n"Opps......are you all right?"
-<es>{Ran}\n"Ups... ¿Estás bien?"
+<es>{Ran}\n"Ups... Lo siento."
 
 @1830
 <en>She finally got off from the machine.
@@ -2408,7 +2408,7 @@
 
 @1834
 <en>{A sign board}\n"$%^&......!!!???......"
-<es>
+<es>{Señal}\n"¿¿¡¡$%^&...!!?? ..."
 
 @1838
 <en>I think it's broken.\nI saw Ran's face quickly turns pale.
@@ -2416,7 +2416,7 @@
 
 @1839
 <en>{Ran}\n"Oh no.\nDid I break it?"
-<es>{Ran}\n"Oh no.\n¿Lo he roto?"
+<es>{Ran}\n"¿Eh? ¿Qué? ¿Me la he cargado?"
 
 @1840
 <en>{Kazushi}\n"You took care of it in a second!!"
@@ -2431,12 +2431,13 @@
 <es>{Señal}\n"¡¡#$%^&*!!"
 
 @1850
+// Doble sentido de señal :P
 <en>The killing machine got up from the ground.\nIsn't this a bad sign?
-<es>
+<es>La máquina asesina se levantó del suelo. ¿No es esa una mala señal?
 
 @1854
 <en>{Kazushi}\n"Hey Ran, is everything O.K?"
-<es>{Kazushi}\n"Ey Ran, ¿va todo bien?"
+<es>{Kazushi}\n"Eh Ran, ¿va todo bien?"
 
 @1855
 <en>{Ran}\n"Actually......it's running out of control."
@@ -2448,7 +2449,7 @@
 
 @1860
 <en>The killing machine jumped over to attack Ran.
-<es>
+<es>La máquina asesina se lanzó a embestir a Ran.
 
 @1864
 <en>{Ran}\n"No!"
@@ -2464,7 +2465,7 @@
 
 @1871
 <en>It's knocking down trees easily. It's got tremendous power.
-<es>
+<es>Está tumbando árboles con facilidad. Tiene un poder tremendo.
 
 @1875
 <en>{A sign board}\n"......#$%^&!"
@@ -2472,11 +2473,11 @@
 
 @1879
 <en>{Ran}\n"Don't come to me!"
-<es>{Ran}\n"¡No te me acerques!"
+<es>{Ran}\n"¡Eh! ¡Espera! ¡No te me acerques!"
 
 @1880
 <en>{Kazushi}\n"Watch out!\nDo something!!"
-<es>{Kazushi}\n"¡Cuidado!\¡n¡Haz algo!!"
+<es>{Kazushi}\n"¡Cuidado! ¡Haz algo!!"
 
 @1883
 <en>{Ran}\n"I didn't expect this to happen......"
@@ -2484,7 +2485,7 @@
 
 @1884
 <en>Ran doesn't seem to have any more good ideas.\nThis is not good.
-<es>Ran parece no tener ninguna buena idea más.\nEsto no va bien.
+<es>Ran parece no tener mas ases sobre la manga.\nEsto no va bien.
 
 @1888
 <en>{A sign board}\n"#$%^& ......!!"
@@ -2492,11 +2493,11 @@
 
 @1892
 <en>{Ran}\n"No! don't come this way!"
-<es>{Ran}\n"¡No! ¡No vengas por aquí!"
+<es>{Ran}\n"¡Ah! ¡Aléjate!"
 
 @1893
 <en>The killing machine is about to make another jump to attack her!
-<es>
+<es>¡La máquina asesina está a punto de embestirla de nuevo!
 
 @1895
 <en>{Kazushi}\n"Stop right there-------!!"
@@ -2508,7 +2509,7 @@
 
 @1903
 <en>{Ran}\n"Wow! Kazushi!?"
-<es>{Ran}\n"¡Vaya! ¿¡Kazushi!?"
+<es>{Ran}\n"Uah! ¿¡Kazushi!?"
 
 @1904
 <en>{Kazushi}\n"Not her! Come get me!"
@@ -2532,7 +2533,7 @@
 
 @1909
 <en>{Kazushi}\n"You are wrong! Your parents must be crying now!!"
-<es>
+<es>{Kazushi}\n"¡Estás cometiendo una equivocación! ¡¡Tus padres deben estar muy tristes ahora!!"
 
 @1912
 <en>{Ran}\n"I don't think you can solve this situation by talking."
@@ -2576,7 +2577,7 @@
 
 @1945
 <en>{Daigo}\n"I wonder if Kazushi is all right?"
-<es>{Daigo}\n"Me preugnto si Kazushi estará bien."
+<es>{Daigo}\n"Me pregunto si Kazushi estará bien."
 
 @1946
 <en>{Pierre}\n"He's all right.\nHe went through things a lot worse than that."
@@ -2588,11 +2589,11 @@
 
 @1950
 <en>{Pierre}\n"I don't understand why you like that stuff. I rather much prefer what's inside of it."
-<es>{Pierre}\n"No entiendo cómo te puede gustar esa cosa. Yo prefiero por mucho lo que hay dentro."
+<es>{Pierre}\n"No entiendo cómo te puede gustar esta cosa. Yo prefiero mucho más lo que hay dentro."
 
 @1953
 <en>{Daigo}\n"This is wonderful. It's like we came to a different country."
-<es>
+<es>{Daigo}\n"Es maravilloso. Es como si estuviésemos en un país diferente."
 
 @1956
 <en>{Appo-}\n"Do you guys smell what I smell......"
@@ -2600,19 +2601,19 @@
 
 @1959
 <en>{Pierre}\n"That's my boy, Appo-,\nI knew you know what this smell means."
-<es>
+<es>{Pierre}\n"Ese es mi Appo-.\nSabía que entenderías lo que significa este olor."
 
 @1962
 <en>{Daigo}\n"What are you guys trying to smell so hard?"
-<es>
+<es>{Daigo}\n"Chicos, ¿qué es lo que estáis olisqueando con tanto empeño?"
 
 @1965
 <en>{Appo-}\n"What!?\nYou don't know what this smell means?!"
-<es>
+<es>{Appo-}\n"¿¡Qué!?\n¡¿No sabes lo que significa este olor?!"
 
 @1966
 <en>{Daigo}\n"I have stuffy nose."
-<es>
+<es>{Daigo}\n"Estoy congestionado."
 
 @1967
 <en>{Pierre}\n"Daigo, this is the smell of girls."
@@ -2624,19 +2625,19 @@
 
 @1971
 <en>{Appo-}\n"Why are you opening your mouth?"
-<es>
+<es>{Appo-}\n"¿Por qué te quedas con la boca abierta?"
 
 @1972
 <en>{Daigo}\n"I told you, I have stuffy nose.\nyes----......\nI smell them."
-<es>
+<es>{Daigo}\n"Ya te lo he dicho, estoy congestionado.\nSííí...\nPuedo olerlas."
 
 @1975
 <en>{Pierre}\n"And what are you doing with a bag Appo-?"
-<es>
+<es>{Pierre}\n"¿Qué estás haciendo con esa bolsa Appo-?"
 
 @1978
 <en>{Appo-}\n"I'm trying to seal this smell in the bag."
-<es>
+<es>{Appo-}\n"Estoy tratando de sellar este olor dentro."
 
 @1979
 <en>{Pierre}\n"If you had it, why didn't you use it in the boat earlier."
@@ -2644,107 +2645,107 @@
 
 @1986
 <en>{A girl}\n"Excuse me......"
-<es>
+<es>{Chica}\n"Disculpad..."
 
 @1994
 <en>{Boys}\n"Wow--------!!"
-<es>
+<es>{Chicos}\n"¡¡Ahhh...!!"
 
 @2000
 <en>{A girl}\n"You boys must be the new students from the main land."
-<es>
+<es>{Chica}\n"Vosotros debéis ser los nuevos estudiantes de la tierra principal."
 
 @2008
 <en>{Appo-}\n"Hey......she started a conversation.\nIs she hitting on us?"
-<es>
+<es>{Appo-}\n"Oíd... ha entablado una conversación.\n¿No se nos está lanzando?"
 
 @2009
 <en>{Daigo}\n"I don't think so."
-<es>
+<es>{Daigo}\n"No lo creo."
 
 @2012
 <en>{Pierre}\n"You never know-. I heard girls from girls' school are aggressive."
-<es>
+<es>{Pierre}\n"Nunca lo sabrás. He oído que las chicas de la escuela para chicas son agresivas."
 
 @2018
 <en>{A girl}\n"Excuse me......"
-<es>
+<es>{Chica}\n"Esto..."
 
 @2024
 <en>{Daigo}\n"Somebody answer her."
-<es>
+<es>{Daigo}\n"Que alguien le conteste."
 
 @2025
-<en>{Appo-}\n"......help may you I #$%^........"
+<en>{Appo-}\n"Ayudarte podemos nosotros #$%^..."
 <es>
 
 @2032
 <en>{A girl}\n"?"
-<es>
+<es>{Chica}\n"¿Vosotros?"
 
 @2036
 <en>{Pierre}\n"Why are you so nervous?"
-<es>
+<es>{Pierre}\n"¿Por qué estás tan nervioso?"
 
 @2039
 <en>{Appo-}\n"You know why!\nI'm talking to a girl!"
-<es>
+<es>{Appo-}\n"¡Ya lo sabes!\n¡Porque estoy hablando con una chica!"
 
 @2042
 <en>{Pierre}\n"All right. I show you how it's done."
-<es>
+<es>{Pierre}\n"Está bien. Te enseñaré cómo se hace."
 
 @2048
 <en>{A girl}\n"Actually......if you guys are busy......"
-<es>
+<es>{Chica}\n"Esto... Si estáis ocupados..."
 
 @2053
 <en>{Pierre}\n"Wait a minute!"
-<es>
+<es>{Pierre}\n"¡Un momento!"
 
 @2054
 <en>{A girl}\n"!?......what do you want!?"
-<es>
+<es>{Chica}\n"¿¡...!?... ¿¡Qué!?"
 
 @2057
 <en>{Pierre}\n"I have a feeling that......you and I will fall in love."
-<es>
+<es>{Pierre}\n"Tengo la sensación de que... tú y yo nos acabaremos enamorando."
 
 @2058
 <en>{A girl}\n"Are you crazy? What makes you think so?"
-<es>
+<es>{Chica}\n"¿Eh? ¿Cómo?"
 
 @2061
 <en>{Pierre}\n"Because it's summer."
-<es>
+<es>{Pierre}\n"Porque es verano."
 
 @2064
 <en>{A girl}\n"I see. Yeah, it's hot.\nDon't worry, you will be able to get your mind straight when it gets cooler at night."
-<es>
+<es>{Chica}\n"Ah, ya veo. Sí, hace calor.\nNo te preocupes, ya podrás pensar con cordura cuando haga más fresquito por la noche."
 
 @2067
 <en>{Pierre}\n"? It's not working?"
-<es>
+<es>{Pierre}\n"¿? ¿No funciona?"
 
 @2074
 <en>{Appo-}\n"I think she thinks you are crazy."
-<es>
+<es>{Appo-}\n"Creo que piensa que estás loco."
 
 @2075
 <en>{A girl}\n"......don't you guys have one more person?"
-<es>
+<es>{Chica}\n"¿No erais uno más...?"
 
 @2079
 <en>{Daigo}\n"? Are you talking about Kazushi?\nDo you know him?"
-<es>
+<es>{Daigo}\n"¿? ¿Te refieres a Kazushi?\n¿Lo conoces?"
 
 @2082
 <en>{A girl}\n"Well......not really."
-<es>
+<es>{Chica}\n"Bueno... en realidad no."
 
 @2083
 <en>{Appo-}\n"Hey Pierre,\nis it just me who thinks this girl is becoming shy?"
-<es>
+<es>{Appo-}\n"Oye Pierre,\n¿soy yo, o se acaba de poner roja?"
 
 @2087
 <en>{Pierre}\n"......dies she know him well!?"
@@ -2752,19 +2753,19 @@
 
 @2092
 <en>{Daigo}\n"Kazushi can't be that lucky......"
-<es>
+<es>{Daigo}\n"Kazushi no puede tener tanta suerte..."
 
 @2093
 <en>{Appo-}\n"Why!?\nWhy is Kazushi gets lucky all the time?!!"
-<es>
+<es>{Appo-}\n"¿¡Por qué!?\n¡¡¿Por qué Kazushi tiene suerte siempre?!!"
 
 @2097
 <en>{A girl}\n"What are you guys talking about?\nI've only met him once."
-<es>
+<es>{Chica}\n"¿De qué estáis hablando?\nSolo me lo he encontrado una vez."
 
 @2102
 <en>{Appo-}\n"I'm glad.\nHe can't have a good start all by himself without us"
-<es>
+<es>{Appo-}\n"Menos mal.\nNo puede tener un buen comienzo sin nosotros."
 
 @2103
 <en>{Daigo}\n"But you have met him once."
@@ -2772,83 +2773,83 @@
 
 @2104
 <en>{A girl}\n"Kazushi, that's his name?\nwhat's his last name?"
-<es>
+<es>{Chica}\n"Kazushi, ¿se llama así?\n¿y cómo se apellida?"
 
 @2107
 <en>{Daigo}\n"It's Haruma."
-<es>
+<es>{Daigo}\n"Haruma."
 
 @2108
 <en>{A girl}\n"Kazushi Haruma......."
-<es>
+<es>{Chica}\n"Kazushi Haruma..."
 
 @2112
 <en>{Pierre}\n"What is your name?"
-<es>
+<es>{Pierre}\n"¿Cómo te llamas?"
 
 @2113
 <en>{A girl}\n"I'm Mizuki."
-<es>
+<es>{Chica}\n"Mizuki."
 
 @2116
 <en>{Pierre}\n"Mizuki.\nNice name!"
-<es>
+<es>{Pierre}\n"Mizuki.\n¡Bonito nombre!"
 
 @2118
 <en>{Mizuki}\n"It's an ordinary name."
-<es>
+<es>{Mizuki}\n"Es un nombre corriente."
 
 @2119
 <en>{Pierre}\n"My friends call me Pierre!"
-<es>
+<es>{Pierre}\n"¡Mis amigos me llaman Pierre!"
 
 @2122
 <en>{Appo-}\n"I'm Appo-!!"
-<es>
+<es>{Appo-}\n"¡¡Yo soy Appo-!!"
 
 @2126
 <en>{Daigo}\n"My name is......"
-<es>
+<es>{Daigo}\n"Yo me llamo..."
 
 @2127
 <en>{Mizuki}\n"So what's Kazushi like?"
-<es>
+<es>{Mizuki}\n"¿Y cómo es Kazushi?"
 
 @2130
 <en>{Daigo}\n"My name......"
-<es>
+<es>{Daigo}\n"Me llamo..."
 
 @2131
 <en>{Mizuki}\n"I'm asking about Kazushi."
-<es>
+<es>{Mizuki}\n"Estoy preguntando por Kazushi."
 
 @2135
 <en>{Pierre}\n"Why him?"
-<es>
+<es>{Pierre}\n"¿Por qué él?"
 
 @2138
 <en>{Appo-}\n"Why is she so interested in Kazushi?"
-<es>
+<es>{Appo-}\n"¿Por qué está tan interesada en Kazushi?"
 
 @2141
 <en>{Mizuki}\n"There is nothing between us......"
-<es>
+<es>{Mizuki}\n"No hay nada entre nosotros..."
 
 @2144
 <en>{Mizuki}\n"Where is he now?"
-<es>
+<es>{Mizuki}\n"¿Dónde está ahora?"
 
 @2147
 <en>{Appo-}\n"See, she's interested in Kazushi......"
-<es>
+<es>{Appo-}\n"Véis, está interesada en él..."
 
 @2150
 <en>{Pierre}\n"Why him?"
-<es>
+<es>{Pierre}\n"¿Por qué él?"
 
 @2151
 <en>{Appo-}\n"I wanna kill him."
-<es>
+<es>{Appo-}\n"Quiero matarle."
 
 @2156
 <en>{Kazushi}\n"Oh no, it's a dead end!"
@@ -2856,71 +2857,72 @@
 
 @2157
 <en>There is nowhere to go.
-<es>
+<es>No hay ningún sitio a donde ir.
 
 @2160
 <en>{Ran}\n"Here he comes!"
-<es>
+<es>{Ran}\n"¡Ahí viene!"
 
 @2165
 <en>{A sign board}\n"I'll kill you!!"
-<es>
+<es>{Señal}\n"¡¡Os mataré!!"
 
 @2166
 <en>{Kazushi}\n"He's ready to murder us!!"
-<es>
+<es>{Kazushi}\n"¡¡Va a matarnos!!"
 
 @2167
 <en>We are on the bridge. It's so high.
-<es>
+<es>Estamos en el puente. Está muy alto.
 
 @2168
 <en>We fall, we die.
-<es>
+<es>Si caemos, nos matamos.
 
 @2169
 <en>{Ran}\n"No-, what should we do?"
-<es>
+<es>{Ran}\n"No... ¿qué podemos hacer?"
 
 @2170
 <en>{Kazushi}\n"Stay back!\nGet behind me!"
-<es>
+<es>{Kazushi}\n"¡Atrás!\n¡Ponte detrás mío!"
 
 @2171
 <en>{Ran}\n"Don't puch me!\nI don't wanna fall-"
-<es>
+<es>{Ran}\n"¡No me empujes!\n¡No quiero caerme...!"
 
 @2172
 <en>She smells good.
-<es>
+<es>Huele bien.
 
 @2173
 <en>{Kazushi}\n"Don't be so close to me."
-<es>
+<es>{Kazushi}\n"No te me acerques tanto."
 
 @2174
 <en>{Ran}\n"I'm not trying to......"
-<es>
+<es>{Ran}\n"No trato de..."
 
 @2175
+// ¿Su corazón, o el de ella?
 <en>She's so close to me.\nI can hear my own heart pounding.
-<es>
+<es>Está tan cerca de mí que puedo oír mi corazón latir.
 
 @2176
 <en>{Ran}\n"Kazushi, are you kind of enjoying this situation?"
-<es>
+<es>{Ran}\n"Kazushi, ¿acaso estás disfrutando esta situación?"
 
 @2177
 <en>Her soft whisper excites me.
-<es>
+<es>Su suave susurro me excita.
 
 @2178
 <en>{Kazushi}\n"Look where we are now......"
-<es>
+<es>{Kazushi}\n"Mira dónde estamos ahora..."
 
 @2179
 <en>{Ran}\n"You're right. I'm kind of excited, too."
-<es>
+<es>{Ran}\n"Tienes razón. Yo también estoy algo excitada."
 
 @2180
 <en>{Kazushi}\n"Isn't it funny?"
