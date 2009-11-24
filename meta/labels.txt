@@ -5,6 +5,7 @@
 {IMG:meta/kazushi.png}
 Protagonista
 
+
 @Ran|Kamoike
 <strong>Ran Kamoike</strong>
 {IMG:meta/ran.png}
@@ -12,6 +13,7 @@ Chica que se encuentra el
 protagonista subida en un árbol
 mientras escapa de una señal
 viviente.
+
 
 @Mizuki|Hinata
 <strong>Mizuki Hinata</strong>
@@ -21,13 +23,17 @@ como si fuese una sirena
 al protagonista al poco de
 llegar a la isla.
 
+
 @Haruka|Aozora
 <strong>Haruka Aozora</strong>
 {IMG:meta/haruka.png}
 Chica que se encuentra el
 protagonista en el bosque
 por primera vez tras escapar
-del ataque de la señal.
+del ataque de la señal y caer
+por el puente.
+Es la hija de la directora.
+
 
 @Mei|Ibuki|Teacher Ibuki|A sexy lady
 <strong>Mei Ibuki</strong>
@@ -50,6 +56,7 @@ porque la forma de cuerpo que
 tiene es semejante a la de
 una manzana.
 
+
 @Pierre
 <strong>Pierre</strong>
 {IMG:meta/pierre.png}
@@ -57,9 +64,11 @@ No es su nombre de verdad.
 Lo tiene porque es <em>"cool"</em>
 tener un nombre extranjero.
 
+
 @Daigo
 <strong>Daigo</strong>
 {IMG:meta/daigo.png}
+
 
 @Panchu-
 <strong>Panchu-</strong>
@@ -68,11 +77,13 @@ Matón de la escuela de los
 chicos. No se le entiende
 cuando habla.
 
+
 @Yagami|Teacher Yagami
 <strong>Profesor Yagami</strong>
 {IMG:meta/yagami.png}
 Profesor.
 Es muy bestia.
+
 
 @Hu-sen
 Hu-sen
@@ -87,6 +98,7 @@ Hu-sen
 @main land
 <strong>Tierra principal.</strong>
 De donde vienen los chicos del crucero.
+
 
 #Eiden|eiden island
 <strong>Eiden Islan</strong>

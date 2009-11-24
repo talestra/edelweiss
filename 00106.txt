@@ -3993,7 +3993,7 @@
 <es>{Appo-}\n"Oye Kazushi.\nNosotros pensando que podrías estar muerto, y te encontramos con un montón de chicas guapas. Nos debes una explicación..."
 
 @2638
-// Pick up. ¿Cautivadas? ¿Recogidas?
+# Pick up. ¿Cautivadas? ¿Recogidas?
 <en>{Pierre}\n"Good job Kazushi. How did you pick them up?"
 <es>{Pierre}\n"Así se hace Kazushi. ¿Cómo las has cautivado?"
 
@@ -4030,7 +4030,7 @@
 <es>{Appo-}\n"¡Yo soy Appo-! Soy el líder."
 
 @2667
-// heartful?
+# heartful?
 <en>{Appo-}\n"I'm not embarrassed to tell you that I'm a heartful guy."
 <es>{Appo-}\n"Y no me da vergüenza decir que soy un chico dulce."
 
@@ -4107,7 +4107,7 @@
 <es>{Appo-}\n"Kazushi, ¡¡tu tranquilidad me pone enfermo!!"
 
 @2733
-// Harem.
+# Harem.
 <en>{Pierre}\n"Is this your harem! Since when you became a king!?"
 <es>{Pierre}\n"¡Es tu harem! ¿¡Desde cuando te has convertido en el Rey!?"
 
@@ -4288,7 +4288,7 @@
 <es>
 
 @2883
-// Crimen sexual/violación.
+# Crimen sexual/violación.
 <en>{Teacher Yagami}\n"Something like sex crime."
 <es>{Profesor Yagami}\n"Algo como algún crimen sexual."
 
@@ -4453,7 +4453,7 @@
 <es>Nos parecía casi como una diosa.
 
 @2956
-// Dice profesora, pero bah.
+# Dice profesora, pero bah.
 <en>We never had such a sexy teacher siding for us before.
 <es>Nunca habíamos tenido a semejante tía buena cubríendonos las espaldas.
 
@@ -4478,7 +4478,7 @@
 <es>{Appo-}\n"A mí me gustaría que abusase verbalmente de mí."
 
 @2970
-// como una cabra/muy mal.
+# como una cabra/muy mal.
 <en>{Kazushi}\n"You guys are all weired."
 <es>{Kazushi}\n"Estáis todos como una cabra."
 
@@ -4703,7 +4703,7 @@
 <es>{Haruka}\n"Lo siento, Kazushi..."
 
 @3149
-// ¿La chica de la cara chunga?
+# ¿La chica de la cara chunga?
 <en>The funny face girl took away our girls.
 <es>
 
@@ -4729,63 +4729,65 @@
 
 @3161
 <en>{Kazushi}\n"Her face was as round as your body, Appo-."
-<es>
+<es>{Kazushi}\n"Tenía la cara tan redonda como tu cuerpo, Appo-."
 
 @3164
 <en>{Appo-}\n"I certainly didn't come all the way here to spend time with someone like her."
-<es>
+<es>{Appo-}\n"Desde luego no he venido hasta aquí para gastar mi tiempo con alguien como ella."
 
 @3165
 <en>{Daigo}\n"You were choosing a lady old enough to be your grand ma when you got here."
-<es>
+<es>{Daigo}\n"Pues fuiste tú el que eligió a una tipa tan vieja que podría ser tu abuela nada más llegar."
 
 @3168
 <en>{Appo-}\n"That's a decade ago. I've met a real woman.\nHer name is......Miss. Ibuki. My Goddess."
-<es>
+<es>{Appo-}\n"Eso fue hace décadas. Ya he conocido a una mujer de verdad.\nSu nombre es... Señoria Ibuki. Mi Diosa."
 
 @3169
 <en>{Kazushi}\n"Miss. Ibuki....... She so sexy. She smells good, too."
-<es>
+<es>{Kazushi}\n"La señorita Ibuki... Es tan sexy. Y también huele muy bien."
 
 @3174
 <en>{Appo-}\n"What!?\nYou smelled my Mei!?"
-<es>
+<es>{Appo-}\n"¿¡Qué!?\n¿¡Has olido a MI Mei!?"
 
 @3175
 <en>{Kazushi}\n"You're already calling her "Mei"?"
-<es>
+<es>{Kazushi}\n"¿Ya la llamas "Mei"?"
 
 @3178
 <en>{Appo-}\n"Hey, by the way guys, check this out."
-<es>
+<es>{Appo-}\n"Ey, por cierto chicos. Mirad esto."
 
 @3179
 <en>He took out a lady's underwear from his pocket.
-<es>
+<es>Se sacó unas bragas del bolsillo.
 
 @3180
 <en>{Kazushi}\n"Where did you get that!?"
-<es>
+<es>{Kazushi}\n"¿¡De dónde has sacado eso!?"
 
 @3183
+# Cleptómano like a Kender.
 <en>{Appo-}\n"It flew into my hand from somewhere."
-<es>
+<es>{Appo-}\n"Apareció en mis manos en algún momento."
 
 @3184
 <en>{Kazushi}\n"Stop lying! You guys stole it from somewhere, right!?"
-<es>
+<es>{Kazushi}\n"¡No mientas! ¡Lo has chorizado de algún sitio, ¿a que sí?!"
 
 @3190
 <en>Pierre and Daigo shook their heads.
-<es>
+<es>Pierre y Daigo agitan la cabeza.
 
 @3191
+# Winrar.
 <en>{Pierre}\n"You know I'm not interested in clean underwears."
-<es>
+<es>{Pierre}\n"Ya sabes que a mí no me interesa la ropa interior limpia."
 
 @3192
 <en>{Daigo}\n"I told him not to do it."
-<es>
+<es>{Daigo}\n"Yo le dije que no lo hiciese."
 
 @3196
 <en>{Appo-}\n"Oh yeah?! Then why do you have a pair of small socks in your pockets?"
@@ -4797,55 +4799,55 @@
 
 @3200
 <en>{Kazushi}\n"Are you serious?\nWhy socks......?"
-<es>
+<es>{Kazushi}\n"Pero tío...\n¿Calcetines...?"
 
 @3203
 <en>{Daigo}\n"They were so small and cute."
-<es>
+<es>{Daigo}\n"Son tan pequeñitos y monos."
 
 @3207
 <en>{Pierre}\n"You guys are so perverted."
-<es>
+<es>{Pierre}\n"Sois unos todos unos cerdos."
 
 @3212
 <en>{Appo-}\n"Mei-!\nMei-!!"
-<es>
+<es>{Appo-}\n"¡Mei...!\n¡¡Mei...!!"
 
 @3213
 <en>Appo- screams her name as she smells the underwear.
-<es>
+<es>Appo- grita su nombre mientras olisquea las bragas.
 
 @3214
 <en>{Kazushi}\n"Hey, keep it down!\nYou will get caught......"
-<es>
+<es>{Kazushi}\n"Ey, ¡tranquilizate!\nQue te van a pillar..."
 
 @3215
 <en>{Appo-}\n"Mei-!\nMei---!!"
-<es>
+<es>{Appo-}\n"¡Mei...!\n¡¡Meiii...!!"
 
 @3216
 <en>He's not listening to me at all.
-<es>
+<es>Está pasando de mí olímpicamente.
 
 @3217
 <en>{Kazushi}\n"Hey, listen to me!\nDon't eat that!"
-<es>
+<es>{Kazushi}\n"¡Oye!, ¡ey!\n¡No te las comas!"
 
 @3220
 <en>{Appo-}\n"Here, I give you one.\nLeave me alone."
-<es>
+<es>{Appo-}\n"Toma, unas para ti.\nDéjame tranquilo."
 
 @3225
 <en>He covered my head with somebody's underwear.
-<es>
+<es>Me cubrió la cabeza con las bragas de alguna.
 
 @3226
 <en>{Kazushi}\n"Stop! I'm not a pervert like you!!"
-<es>
+<es>{Kazushi}\n"¡Para! ¡¡Yo no soy un pervertido como tú!!"
 
 @3231
 <en>{Daigo}\n"Wow-,you look good in it, Kazushi."
-<es>
+<es>{Daigo}\n"Vaya... te quedan muy bien, Kazushi."
 
 @3232
 <en>{Kazushi}\n"Stop."
