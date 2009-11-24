@@ -4907,7 +4907,7 @@
 
 @3273
 <en>{Hu-sen}\n"Rei! I found your favorite underwear!!"
-<es>
+<es>{Hu-sen}\n"¡Rei! ¡¡He encontrado tus braguitas favoritas!!"
 
 @3277
 <en>{A big girl}\n"............"
@@ -4915,131 +4915,131 @@
 
 @3278
 <en>{Kazushi}\n"What a!!"
-<es>
+<es>{Kazushi}\n"¡¡Pero qué!!"
 
 @3286
 <en>{Appo-}\n"A man? An animal?"
-<es>
+<es>{Appo-}\n"¿Es un hombre? ¿Un animal?"
 
 @3287
 <en>{Pierre}\n"......is she some kind of an ape!?"
-<es>
+<es>{Pierre}\n"¿¡Es algún tipo de orangután...!?"
 
 @3288
 <en>{Daigo}\n"She must be a P.E. teacher!"
-<es>
+<es>{Daigo}\n"¡Debe ser la profesora de educación física!"
 
 @3289
 <en>She reminded me of the fighting god statue I saw in a museum.
-<es>
+<es>Me recuerda al Dios de la lucha que ví una vez en un museo.
 
 @3295
 <en>{A big girl}\n"......N."
-<es>
+<es>{Chica enorme}\n"N..."
 
 @3296
 <en>{Kazushi}\n"What's " N"?"
-<es>
+<es>{Kazushi}\n"¿Qué es eso de "N"?"
 
 @3297
 <en>{A big girl}\n"............no"
-<es>
+<es>{Chica enorme}\n"No..."
 
 @3303
 <en>{Ran}\n"Everybody! It's coming!"
-<es>
+<es>{Ran}\n"¡Cuidado todos! ¡que viene!"
 
 @3304
 <en>{Haruka}\n"Cover your ears!!"
-<es>
+<es>{Haruka}\n"¡¡Tapaos los oídos!!"
 
 @3305
 <en>{Kazushi}\n"Ears?"
-<es>
+<es>{Kazushi}\n"¿Oídos?"
 
 @3312
 <en>{A big girl}\n"No-----------------!!!"
-<es>
+<es>{Chica enorme}\n"¡¡¡Noooooooooooooo...!!!"
 
 @3321
 <en>{Boys}\n"#$%&*!!"
-<es>
+<es>{Chicos}\n"¡¡#$%&*!!"
 
 @3322
 <en>Her screram ran thruough the school.
-<es>
+<es>Su grito atravesó la escuela entera.
 
 @3323
 <en>A few days later, students saw a few birds dead on the street.
-<es>
+<es>Unos días más tarde, los estudiantes encontrarían en la calle pájaros muertos en horribles circunstancias.
 
 @3330
 <en>{A big girl}\n"No~~~~~~~~~~~~~~~~~!!"
-<es>
+<es>{Chica enorme}\n"¡¡Noooooooo...!!"
 
 @3331
 <en>......her scream went on for a while.
-<es>
+<es>Su grito prosiguió durante un rato.
 
 @3335
 <en>{A big girl}\n"......this is terrible......"
-<es>
+<es>{Chica enorme}\n"Esto es terrible..."
 
 @3339
 <en>{Appo-}\n"What's terrible is your scream!!"
-<es>
+<es>{Appo-}\n"¡¡Lo que es terrible es tu grito!!"
 
 @3340
 <en>Pierre covered Appo-'s mouth in a hurry.
-<es>
+<es>Pierre se apresuró en taparle la boca a Appo-.
 
 @3344
 <en>{A big girl}\n"My......my favorite!!"
-<es>
+<es>{Chica enorme}\n"¡¡Mis... mis favoritas!!"
 
 @3345
 <en>{Kazushi}\n"Is the one I'm wearing yours, too?"
-<es>
+<es>{Kazushi}\n"¿Son también tuyas las que tengo puestas?"
 
 @3348
 <en>{A big girl}\n"Yes!! I worked so hard to buy them!"
-<es>
+<es>{Chica enorme}\n"¡¡Sí!! ¡Me costó mucho trabajo poder comprarlas!"
 
 @3349
 <en>{Kazushi}\n"......opps!\nI'm sorry!!"
-<es>
+<es>{Kazushi}\n"¡Ups...!\n¡¡Lo siento!!"
 
 @3351
 <en>I took it out from my head in a hurry.
-<es>
+<es>Me las quité de la cabeza rápidamente.
 
 @3356
 <en>{Hu-sen}\n"You are pervert!"
-<es>
+<es>{Hu-sen}\n"¡Eres un cerdo!"
 
 @3357
 <en>{Kazushi}\n"It's not what you think it is......."
-<es>
+<es>{Kazushi}\n"No es lo que os pensáis..."
 
 @3360
 <en>{Hu-sen}\n"How can I trust you now?!\nSee Miss. Ibuki! I told you it was them."
-<es>
+<es>{Hu-sen}\n"¡¿Cómo iba a confiar en ti?!\n¡Ves señorita Ibuki! Ya te dije que habían sido ellos."
 
 @3364
 <en>{Mei}\n"I see........."
-<es>
+<es>{Mei}\n"Ya veo..."
 
 @3365
 <en>She thought about something for a second before she spoke.
-<es>
+<es>Pensó en algo durante un segundo antes de hablar.
 
 @3369
 <en>{Mei}\n"Kazushi, you know you're not supposed to be wearing those on your head, right?"
-<es>
+<es>{Mei}\n"Kazushi, sabes que no deberías llevarlas puestas en la cabeza, ¿no?"
 
 @3374
 <en>{Hu-sen}\n"That's not the point!!"
-<es>
+<es>{Hu-sen}\n"¡¡Eso es lo de menos!!"
 
 @3378
 <en>{Appo-}\n"That big girl is lying!!\nHow can you fit in this small underwear?"
@@ -5047,23 +5047,23 @@
 
 @3379
 <en>He's looking at the girl and the underwear in his hand.
-<es>
+<es>Miró a la chica y a las bragas que tenía entre las manos.
 
 @3380
 <en>{Hu-sen}\n"That's hers!\nShe only wears that one when she has a date!"
-<es>
+<es>{Hu-sen}\n"¡Son de ella!\n¡Únicamente las lleva cuando tiene una cita!"
 
 @3381
 <en>{Kazushi}\n"The date underwear......"
-<es>
+<es>{Kazushi}\n"Las cita-bragas..."
 
 @3384
 <en>{Appo-}\n"A date?\n......you can have a date......?"
-<es>
+<es>{Appo-}\n"¿Una cita?\n... ¿Puedes llegar a tener una cita...?"
 
 @3385
 <en>{Hu-sen}\n"Rei!!\nDon't cry!"
-<es>
+<es>{Hu-sen}\n"¡¡Rei!!\n¡No llores!"
 
 @3390
 <en>{A big girl}\n"I didn't even wash them."
@@ -5071,7 +5071,7 @@
 
 @3394
 <en>As soon as Appo- heard that, his face turned pale.
-<es>
+<es>En cuanto Appo- oyó eso, se puso completamente pálido.
 
 @3397
 <en>{Appo-}\n"Appo- throwing up"
@@ -5079,167 +5079,168 @@
 
 @3403
 <en>{Daigo}\n"He's throwing up again."
-<es>
+<es>{Daigo}\n"Ya está otra vez vomitando."
 
 @3404
 <en>{Pierre}\n"Get him a bag!"
-<es>
+<es>{Pierre}\n"¡Dadle una bolsa!"
 
 @3409
 <en>{Appo-}\n"You big lier-!! You never have to worry about your underwear on date!"
-<es>
+<es>{Appo-}\n"¡¡Mentirosa...!! ¡Nunca tendrías que preocuparte por las bragas en una cita!"
 
 @3410
 <en>{Kazushi}\n"Don't talk while you're throwing up!"
-<es>
+<es>{Kazushi}\n"¡No hables mientras vomitas, so subnormal!"
 
 @3415
 <en>{A big girl}\n"You are so mean......do you think I'm ugly!?"
-<es>
+<es>{Chica enorme}\n"Eres tan cruel... ¿¡Crees que soy fea!?"
 
 @3416
 <en>She was crying.\nUnlike her outside appearance, she may be a sensitive girl.
-<es>
+<es>Estaba llorando.\nPese a su apariencia exterior, debía ser una chica muy sensible.
 
 @3419
 <en>{Appo-}\n"Why are you crying? That's not your character."
-<es>
+<es>{Appo-}\n"¿Por qué estás llorando? Eso no va contigo."
 
 @3422
 <en>{A big girl}\n"I hate you all---!!"
-<es>
+<es>{Chica enorme}\n"¡¡Os odio a todos...!!"
 
 @3423
 <en>She finally got so upset with us.
-<es>
+<es>Al final ha acabado tremendamente enfadada con nosotros.
 
 @3430
 <en>{Daigo}\n"I think you should return them to her, Appo-."
-<es>
+<es>{Daigo}\n"Creo que deberías devolvérselas, Appo-."
 
 @3431
 <en>{Pierre}\n"Daigo is right. Give them back to her."
-<es>
+<es>{Pierre}\n"Daigo tiene razón. Devuélveselas."
 
 @3436
 <en>{Appo-}\n"......here you go."
-<es>
+<es>{Appo-}\n"Toma..."
 
 @3437
 <en>Appo- returned her underwear to the big girl.
-<es>
+<es>Appo- le devolvió las braguitas a la chica enorme.
 
 @3441
 <en>{A big girl}\n"He stained my underwear!!"
-<es>
+<es>{Chica enorme}\n"¡¡Ma manchado mis bragas!!"
 
 @3446
 <en>{Appo-}\n"What?"
-<es>
+<es>{Appo-}\n"¿Qué?"
 
 @3450
 <en>{Hu-sen}\n"What did you do with this!?\nDid you perhaps use my underwear to touch yourself......?"
-<es>
+<es>{Hu-sen}\n"¿¡Qué has hecho con esto!?\n¿Has usado acaso mis bragas para tocarte...?"
 
 @3453
 <en>{Appo-}\n"No!\nI'm actually glad I didn't!\nThey were already stained......"
-<es>
+<es>{Appo-}\n"¡No!\n¡Y menos mal que no lo he hecho!\nYa estaban manchadas..."
 
 @3456
 <en>{Appo-}\n"......opps, I remember licking them......"
-<es>
+<es>{Appo-}\n"Ups... Recuerdo haberlas chupado..."
 
 @3460
 <en>{A big girl}\n"I'll kill you!!"
-<es>
+<es>{Chica enorme}\n"¡¡Te matarééé...!!"
 
 @3461
 <en>{Appo-}\n"No......!!"
-<es>
+<es>{Appo-}\n"¡¡No...!!"
 
 @3464
 <en>{A big girl}\n"I can't wear them anymore!!\nWhat are you thinking?!"
-<es>
+<es>{Chica enorme}\n"¡¡Ya no me las voy a poder volver a poner!!\n¡¿En qué estás pensando?!"
 
 @3467
 <en>{Appo-}\n"Shut up!\nI'd never done that if I knew they belong to you!"
-<es>
+<es>{Appo-}\n"¡Cállate!\n¡Nunca lo habría hecho de haber sabido que eran tuyas!"
 
 @3468
 <en>Appo- must be so disgusted for what he did.
-<es>
+<es>Appo- debe estar muy asqueado de lo que ha hecho.
 
 @3472
 <en>{Hu-sen}\n"Miss. Ibuki! We need to punish them!"
-<es>
+<es>{Hu-sen}\n"¡Señorita Ibuki! ¡Tenemos que castigarles!"
 
 @3477
 <en>{Mei}\n"You guys.\nYou know it's a crime?"
-<es>
+<es>{Mei}\n"Chicos.\n¿Sabéis que es un crimen?"
 
 @3478
 <en>{Kazushi}\n""you guys"?"
-<es>
+<es>{Kazushi}\n¿"Chicos"?"
 
 @3483
 <en>{Hu-sen}\n"You were wearing them!!"
-<es>
+<es>{Hu-sen}\n"¡¡Tú las tenías puestas!!"
 
 @3487
 <en>{A big girl}\n"No-----------!\nI've never been more embarrassed in my entire life!!"
-<es>
+<es>{Chica enorme}\n"¡No...!\n¡¡Nunca había pasado tanta vergüenza en toda mi vida!!"
 
 @3489
 <en>She now looks like a very upset mother bear. Tearing apart her own underwear.
-<es>
+<es>Ahora parece una madre osa tremendamente furiosa. Desgarrando sus propias bragas.
 
 @3490
 <en>{Pierre}\n"She's not a human."
-<es>
+<es>{Pierre}\n"No es humana."
 
 @3491
 <en>{Daigo}\n"Oh no."
-<es>
+<es>{Daigo}\n"Oh, no."
 
 @3492
 <en>Only person who can match her seize is scared, too.
-<es>
+<es>La única persona aquí capaz de comparar su agarre está también asustado.
 
 @3493
 <en>{A big girl}\n"No!!"
-<es>
+<es>{Chica enorme}\n"¡¡No!!"
 
 @3494
 <en>Girls all covered their ears as she screamed.
-<es>
+<es>Todas las chicas se taparon las orejas cuando gritó.
 
 @3495
 <en>{A big girl}\n"This is so unforgivable!!"
-<es>
+<es>{Chica enorme}\n"¡¡Esto es imperdonable!!"
 
 @3496
 <en>{Appo-}\n"Please calm down!\nYou look pretier when you are happy!"
-<es>
+<es>{Appo-}\n"¡Por favor, tranquilízate!\n¡Estás mas guapa contenta!"
 
 @3497
 <en>{Pierre}\n"Good try, Appo-."
-<es>
+<es>{Pierre}\n"Buen intento, Appo-."
 
 @3498
+// Pagarás/Pagaréis.
 <en>{A big girl}\n"You'll pay for this!!"
-<es>
+<es>{Chica enorme}\n"¡¡Pagaréis por esto!!"
 
 @3504
 <en>{Appo-}\n"No---------!!"
-<es>
+<es>{Appo-}\n"¡¡Nooo....!!"
 
 @3506
 <en>{Pierre}\n"Wow!?\nIs it Appo- flying!?"
-<es>
+<es>{Pierre}\n"¿¡Qué!?\n¿Está volando Appo-!?"
 
 @3507
 <en>{A big girl}\n"Take it!!"
-<es>
+<es>{Chica enorme}\n"¡¡Toma!!"
 
 @3511
 <en>{Pierre}\n"WO-----------!!"
@@ -5255,67 +5256,67 @@
 
 @3521
 <en>{Daigo}\n"No--------!!"
-<es>
+<es>{Daigo}\n"¡¡No...!!"
 
 @3524
 <en>{Kazushi}\n"Why me---------!?"
-<es>
+<es>{Kazushi}\n"¿¡Por qué yo...!?"
 
 @3529
 <en>{A big girl}\n"They deserve that......"
-<es>
+<es>{Chica enorme}\n"Se lo merecen..."
 
 @3535
 <en>{A big girl}\n"I can't take this-------!!"
-<es>
+<es>{Chica enorme}\n"¡¡No puedo aguantarlo...!!"
 
 @3540
 <en>{Hu-sen}\n"Don't cry, Rei! Accidents happen!"
-<es>
+<es>{Hu-sen}\n"¡No llores, Rei! ¡Los accidentes pasan!"
 
 @3547
 <en>{Haruka}\n"You think they're still alive?"
-<es>
+<es>{Haruka}\n"¿Crees que seguirán con vida?"
 
 @3548
 <en>{Ran}\n"They came to nurse's office to get killed."
-<es>
+<es>{Ran}\n"Han ido a la enfermería para que los matasen."
 
 @3553
 <en>{Mei}\n"It's gonna be tough teaching boys......"
-<es>
+<es>{Mei}\n"Van a ser unos chicos muy difíciles de enseñar..."
 
 @3558
 <en>{Teacher Yagami}\n"You idiots......"
-<es>
+<es>{Profesor Yagami}\n"Imbéciles..."
 
 @3559
 <en>He was so shocked that he didn't have energy to punch us.
-<es>
+<es>Estaba tan conmocionado que no tenía ni fuerzas para golpearnos.
 
 @3560
 <en>{Kazushi}\n"I understand Mr.Yagami.\nWe are all regretting."
-<es>
+<es>{Kazushi}\n"Lo comprendo señor Yagami.\nNos arrepentimos todos."
 
 @3565
 <en>{Appo-}\n"I'm sorry."
-<es>
+<es>{Appo-}\n"Lo siento."
 
 @3566
 <en>{Teacher Yagami}\n"No dinner for you guys tonight."
-<es>
+<es>{Profesor Yagami}\n"Os quedáis sin cenar esta noche."
 
 @3574
 <en>{Pierre}\n"No way......"
-<es>
+<es>{Pierre}\n"No puede ser..."
 
 @3575
 <en>{Kazushi}\n"Are you serious......?"
-<es>
+<es>{Kazushi}\n"¿En serio...?"
 
 @3576
 <en>{Daigo}\n"Fresh fishes......mountain products......"
-<es>
+<es>{Daigo}\n"Pescado fresco... Productos de montaña..."
 
 @3582
 <en>{Teacher Yagami}\n"You guys come back to me with statements of regret, O.K?"
@@ -5323,11 +5324,11 @@
 
 @3583
 <en>{Kazushi}\n"Yes sir......"
-<es>
+<es>{Kazushi}\n"Sí, señor..."
 
 @3584
 <en>No dinner......
-<es>
+<es>Sin cenar...
 
 @3587
 <en>All the girls look at us cold as we walk through the school hall.
@@ -5335,59 +5336,59 @@
 
 @3588
 <en>{Girl A}\n"They are the underwear theif."
-<es>
+<es>{Chica A}\n"Son los ladrones de braguitas."
 
 @3589
 <en>{Girl B}\n"I heard they even look thorugh trash can for something good."
-<es>
+<es>{Chica B}\n"He oído que hasta rebuscan en el cubo de la basura para encontrar algo bueno."
 
 @3590
 <en>{Girl C}\n"They must be mentally sick-"
-<es>
+<es>{Chica C}\n"Deben estar mal de la azotea..."
 
 @3591
 <en>{Kazushi}\n".................."
-<es>
+<es>{Kazushi}\n"..."
 
 @3592
 <en>{Girl D}\n"We gotta watch out. They might sneak into our rooms at night."
-<es>
+<es>{Chica D}\n"Tenemos que ir concuidado. Podrían espiarnos en nuestras habitaciones por la noche."
 
 @3593
 <en>{Girl E}\n"I heard some of us got pregnated already."
-<es>
+<es>{Chica E}\n"He oído que ya han dejado a una de nosotras preñada."
 
 @3600
 <en>{Appo-}\n"How is it possible......?"
-<es>
+<es>{Appo-}\n"¿Cómo puede ser...?"
 
 @3601
 <en>{Pierre}\n"I don't have energy to talk back at them."
-<es>
+<es>{Pierre}\n"No tengo energías para replicarles."
 
 @3605
 <en>He's right. His voice was so powerless.
-<es>
+<es>Y así es. Su voz no tenía apenas energía.
 
 @3606
 <en>It's true that rumors grow.
-<es>
+<es>Es cierto que los rumores aumentan.
 
 @3607
 <en>No one wants to make an eye contact with us.
-<es>
+<es>Nadie quiere cruzar la mirada con nosotros.
 
 @3610
 <en>{Pierre}\n"Can anyone tell me where the boys bathrooom is-?"
-<es>
+<es>{Pierre}\n"¿Me puede alguien decir dónde está el servicio de los chicos...?"
 
 @3611
 <en>{Girl A}\n"Don't talk to me......"
-<es>
+<es>{Chica A}\n"No me hables..."
 
 @3614
 <en>A step we take toward them, they run away.
-<es>
+<es>Con un simple paso hacia ellas, salen corriendo.
 
 @3617
 <en>{Pierre}\n"How can we possibly get girls like this."
@@ -5395,7 +5396,7 @@
 
 @3618
 <en>{Kazushi}\n"That will be impossible for a while."
-<es>
+<es>{Kazushi}\n"Será imposible durante algún tiempo."
 
 @3619
 <en>I finally understand what it's like to be a boy who gets picked on.
@@ -5403,27 +5404,27 @@
 
 @3623
 <en>{Daigo}\n"What are we gonna do now?"
-<es>
+<es>{Daigo}\n"¿Y qué vamos a hacer ahora?"
 
 @3624
 <en>Daigo asks me with anxiety.\nHe's actually a very sensitive guy.
-<es>
+<es>Me pregunta Daigo con ansiedad.\nLa verdad es que es un chico muy sensible.
 
 @3625
 <en>{Kazushi}\n"Don't worry too much!\nIt was just as bad when we entered the last school!"
-<es>
+<es>{Kazushi}\n"¡No te preocupes demasiado!\n¡No es peor que la vez que entramos en la última escuela!"
 
 @3632
 <en>{Appo-}\n"People forget easily."
-<es>
+<es>{Appo-}\n"La gente olvida con facilidad."
 
 @3633
 <en>{Pierre}\n"This is nothing."
-<es>
+<es>{Pierre}\n"Esto no es nada."
 
 @3636
 <en>{Daigo}\n"You're right. We'll be fine, right?"
-<es>
+<es>{Daigo}\n"Tenéis razón. Todo irá bien, ¿no?"
 
 @3637
 <en>{Kazushi}\n"Why don't we keep our head up and take a look around the new environment!"
@@ -5431,35 +5432,35 @@
 
 @3640
 <en>{Pierre}\n"That's right! We should check out our new environment!"
-<es>
+<es>{Pierre}\n"¡Tienes razón! ¡Deberíamos echar un vistazo al nuevo entorno!"
 
 @3643
 <en>{Appo-}\n"We haven't even seen our dorm!\nLet's go!"
-<es>
+<es>{Appo-}\n"¡Todavía no hemos visto nuestra habitación!\n¡Vamos!"
 
 @3644
 <en>{Kazushi}\n"Talking about our dorm, where is it?"
-<es>
+<es>{Kazushi}\n"Y hablando de eso... ¿dónde está?"
 
 @3645
 <en>None of us had a clue.
-<es>
+<es>Nadie nos ha dado ni una pista.
 
 @3648
 <en>{Appo-}\n"Let me ask her."
-<es>
+<es>{Appo-}\n"Deja que le pregunte."
 
 @3652
 <en>{A girl}\n"Get away from me---!"
-<es>
+<es>{Chica}\n"¡Aléjate de mí!"
 
 @3654
 <en>Another one ran away.
-<es>
+<es>Otra que sale corriendo.
 
 @3658
 <en>{Appo-}\n"I didn't say a word!!"
-<es>
+<es>{Appo-}\n"¡¡No he llegado a decir ni una palabra!!"
 
 @3659
 <en>Appo-'s flipping off.
@@ -5467,23 +5468,23 @@
 
 @3664
 <en>Somebody threw a rock to us.
-<es>
+<es>Alguien nos lanzó una piedra.
 
 @3669
 <en>{Appo-}\n"Ouch!"
-<es>
+<es>{Appo-}\n"¡Au!"
 
 @3677
 <en>{Pierre}\n"Stop throwing rocks to us!"
-<es>
+<es>{Pierre}\n"¡Deja de lanzarnos piedras!"
 
 @3679
 <en>{Daigo}\n"I can't take this anymore!"
-<es>
+<es>{Daigo}\n"¡No puedo aguantarlo más!"
 
 @3681
 <en>{Kazushi}\n"Take it easy, Daigo."
-<es>
+<es>{Kazushi}\n"Tranquilízate, Daigo."
 
 @3683
 <en>We are completely treated as "away team".
@@ -5491,27 +5492,27 @@
 
 @3689
 <en>{Haruka}\n"Everybody!"
-<es>
+<es>{Haruka}\n"¡Todas!"
 
 @3690
 <en>Haruka wanted to make a statement.
-<es>
+<es>Haruka quería decir algo.
 
 @3691
 <en>{Haruka}\n"That's enough for speaking their back!\nIf you have something to say, say it in their face!"
-<es>
+<es>{Haruka}\n"¡Ya basta de hablar a sus espaldas!\nSi tenéis algo que decir, ¡decídselo a la cara!"
 
 @3692
 <en>Haruka stands in front of us and gives a glare to the students.
-<es>
+<es>Haruka se pone delante de nosotros y lanza una mirada a las estudiantes.
 
 @3693
 <en>She might be feeling little bit of guilt for us.
-<es>
+<es>Debe sentirse un poco culpable por nosotros.
 
 @3699
 <en>{A student}\n"Haruka is right."
-<es>
+<es>{Estudiante}\n"Haruka tiene razón."
 
 @3700
 <en>Two students came out from the crowd.
@@ -5523,27 +5524,27 @@
 
 @3702
 <en>They must know each other.
-<es>
+<es>Deben conocerse.
 
 @3711
 <en>{Pierre}\n"Wow, they are pretty, too."
-<es>
+<es>{Pierre}\n"Vaya, esas tampoco están mal."
 
 @3712
 <en>{Appo-}\n"You think so? I think they are flat chested."
-<es>
+<es>{Appo-}\n"¿Eso crees? Yo opino que están demasiado planas."
 
 @3713
 <en>{Kazushi}\n"No, they are fine."
-<es>
+<es>{Kazushi}\n"No, están bien."
 
 @3721
 <en>They are not super- beautiful, but they are pretty enough.
-<es>
+<es>No son ultra-guapas, pero no están mal.
 
 @3723
 <en>{Sakura}\n"I agree with Haruka, I don't think it's fair."
-<es>
+<es>{Sakura}\n"Estoy de acuerdo Haruka, no creo que sea justo."
 
 @3724
 <en>{Rin}\n"It's not like all the new students are pervert, right?"
@@ -5551,27 +5552,27 @@
 
 @3725
 <en>{Sakura}\n"That's right.\nOnly the few of them."
-<es>
+<es>{Sakura}\n"Eso es.\nSolo algunos de ellos."
 
 @3726
 <en>{Kazushi}\n"We could be the "them"."
-<es>
+<es>{Kazushi}\n"Nosotros podríamos ser esos "ellos"."
 
 @3731
 <en>Opps, I shouldn't have said that. It froze everyone.
-<es>
+<es>Ups. No debería haber dicho eso. Todos se quedan parados.
 
 @3734
 <en>{Rin}\n"Is it true?"
-<es>
+<es>{Rin}\n"¿Es eso verdad?"
 
 @3738
 <en>{Pierre}\n"Kazushi, you idiot."
-<es>
+<es>{Pierre}\n"Kazushi, imbécil."
 
 @3741
 <en>{Sakura}\n"You are too honest-"
-<es>
+<es>{Sakura}\n"Eres demasiado honesto."
 
 @3742
 <en>She was pointing at me and laughing. She's a funny girl.
@@ -5579,7 +5580,7 @@
 
 @3747
 <en>{Haruka}\n"Anyways!\nNo more speaking behind their back, everybody, O.K?"
-<es>
+<es>{Haruka}\n"¡De todas formas!\nYa no mas cuchicheos a sus espaldas, ¿vale?"
 
 @3750
 <en>{Haruka}\n"If you guys need someone to talk to, let me know, O.K?"
@@ -5591,59 +5592,59 @@
 
 @3755
 <en>{Pierre}\n"Wow, she saved our ass."
-<es>
+<es>{Pierre}\n"Increíble, nos ha salvado la vida."
 
 @3761
 <en>{Sakura}\n"Lucky you guys."
-<es>
+<es>{Sakura}\n"Sois unos chicos con suerte."
 
 @3762
 <en>Sakura tries to get along with us.
-<es>
+<es>Sakura trata de conversar con nosotros.
 
 @3763
 <en>The other girl, Rin is still hiding behind Sakura.
-<es>
+<es>La otra chica, Rin, todavía está escondida detrás de Sakura.
 
 @3764
 <en>{Sakura}\n"You never knew girls could be scary once we become a pack, huh?"
-<es>
+<es>{Sakura}\n"No sabíais que las chicas podrían dar miedo en manda, ¿eh?"
 
 @3765
 <en>{Kazushi}\n"You're right. I got scared when we were surrounded by them."
-<es>
+<es>{Kazushi}\n"Tienes razón. Yo me asusté cuando nos rodearon."
 
 @3766
 <en>{Sakura}\n"I tell you, don't make us upset."
-<es>
+<es>{Sakura}\n"Ya te aviso. No nos enfadéis."
 
 @3770
 <en>{Daigo}\n"I think we already have a reputation of being perverts."
-<es>
+<es>{Daigo}\n"Creo que ya tenemos la reputación de ser unos pervertidos."
 
 @3774
 <en>{Haruka}\n"Girls loves gossip. Rumors run really fast here."
-<es>
+<es>{Haruka}\n"A las chicas les gustan los chismorreos. Los rumores corren que vuelan aquí."
 
 @3781
 <en>{Sakura}\n"Yep. I already heard about what happened."
-<es>
+<es>{Sakura}\n"Sip. Yo ya me he enterado de lo que ha pasado."
 
 @3782
 <en>{Rin}\n"Is that true one of you were wearing Rei's underwear......?"
-<es>
+<es>{Rin}\n"¿Es verdad que uno de vosotros llevaba puestas las bragas de Rin...?"
 
 @3786
 <en>{Appo-}\n"That's Kazushi."
-<es>
+<es>{Appo-}\n"Ese es Kazushi."
 
 @3787
 <en>{Rin}\n"...no way..."
-<es>
+<es>{Rin}\n"No puede ser..."
 
 @3788
 <en>{Kazushi}\n"You made me wear that!!"
-<es>
+<es>{Kazushi}\n"¡¡Fuiste tú el que me las puso!!"
 
 @3792
 <en>{Haruka}\n"That was little too much.\nThat was kind of disgusting."
@@ -5655,15 +5656,15 @@
 
 @3800
 <en>{Pierre}\n"Nobody wants to tell us where our dorm is."
-<es>
+<es>{Pierre}\n"Nobody quiere decirnos dónde está nuestra habitación."
 
 @3803
 <en>{Haruka}\n"All right, I will guide you there."
-<es>
+<es>{Haruka}\n"Está bien, yo os llevaré."
 
 @3807
 <en>{Appo-}\n"Are you sure?"
-<es>
+<es>{Appo-}\n"¿Estás segura?"
 
 @3808
 <en>{Kazushi}\n"I don't want people to start treating you like one of us."
@@ -5671,51 +5672,51 @@
 
 @3812
 <en>{Rin}\n"That won't happen."
-<es>
+<es>{Rin}\n"Eso no pasará."
 
 @3816
 <en>{Sakura}\n"Remember, she's the grand daughter of our principal."
-<es>
+<es>{Sakura}\n"Recuerda que es la nieta de nuestra directora."
 
 @3820
 <en>{Haruka}\n"Beside, I've been told from her to show you around."
-<es>
+<es>{Haruka}\n"Además, me han pedido que os enseñe los alrededores."
 
 @3823
 <en>{Sakura}\n"No one would mess with her in this school."
-<es>
+<es>{Sakura}\n"Nadie se metería con ella en esta escuela."
 
 @3824
 <en>{Kazushi}\n"Is that true?"
-<es>
+<es>{Kazushi}\n"¿Es eso verdad?"
 
 @3825
 <en>That is awesome. Now we have a strong partner.
-<es>
+<es>Increíble. Tenemos un fuerte aliado.
 
 @3829
 <en>{Haruka}\n"She's right. You don't have to worry about me. Let me take you guys to your dorm."
-<es>
+<es>{Haruka}\n"Así es. No os preocupéis por mí. Permitidme acompañaros a vuestra habitación."
 
 @3830
 <en>{Kazushi}\n"Thanks."
-<es>
+<es>{Kazushi}\n"Gracias."
 
 @3831
 <en>{Haruka}\n"Let's go."
-<es>
+<es>{Haruka}\n"Vamos."
 
 @3834
 <en>As we follow Haruka, a gorgeous building came into our view.
-<es>
+<es>Mientras seguimos a Haruka, una bellísima construcción aparece delante de nosotros.
 
 @3835
 <en>{Kazushi}\n"Is that it?"
-<es>
+<es>{Kazushi}\n"¿Es ese?"
 
 @3838
 <en>{Haruka}\n"That's girls' dorm."
-<es>
+<es>{Haruka}\n"Ese es el dormitorio de las chicas."
 
 @3846
 <en>{Pierre}\n"No kidding!!"
@@ -5731,19 +5732,19 @@
 
 @3854
 <en>{Haruka}\n"We 're almost there."
-<es>
+<es>{Haruka}\n"Ya casi hemos llegado."
 
 @3862
 <en>{Appo-}\n"Let's hurry!"
-<es>
+<es>{Appo-}\n"¡Démonos prisa!"
 
 @3863
 <en>{Pierre}\n"I can't wait!"
-<es>
+<es>{Pierre}\n"¡No puedo esperar!"
 
 @3864
 <en>{Daigo}\n"Me, either!"
-<es>
+<es>{Daigo}\n"¡No yo!"
 
 @3876
 <en>{Haruka}\n"Guys......\nI think you should lower your expectations......they are gone."
@@ -5759,7 +5760,7 @@
 
 @3887
 <en>{Appo-}\n"Do you see anything?"
-<es>
+<es>{Appo-}\n"¿Veis algo?"
 
 @3888
 <en>{Pierre}\n"It could be little further away. Let's keep going."
