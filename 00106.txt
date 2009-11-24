@@ -3854,7 +3854,7 @@
 
 @2547
 <en>{Ran}\n"That's right.\nThis side of school is her......."
-<es>
+<es>{Ran}\n"Es verdad.\nEn esta parte de la escuela está su..."
 
 @2550
 <en>{Haruka}\n"I'm in charge of that department. It's a pain in the ass."
@@ -4056,11 +4056,11 @@
 
 @2690
 <en>{Ran}\n"Pierre? Are you half?"
-<es>
+<es>{Ran}\n"¿Pierre? ¿Eres medio extranjero?"
 
 @2691
 <en>{Haruka}\n"You are? I haven't met one before!"
-<es>
+<es>{Haruka}\n"¿Lo eres? ¡Nunca he conocido a ninguno!"
 
 @2696
 <en>{Pierre}\n"I'm 100% Japanese......"
@@ -4076,11 +4076,11 @@
 
 @2708
 <en>{Ran}\n"......you just think it's cool to have a western name, don't you?"
-<es>
+<es>{Ran}\n"Simplemente es porque crees que queda guay tener un nombre occidental, ¿eh...?"
 
 @2711
 <en>{Pierre}\n"So what----?!!"
-<es>
+<es>{Pierre}\n"¡¡¿Y qué...?!!"
 
 @2712
 <en>{Kazushi}\n"Ran, are you a psychic?"
@@ -4088,25 +4088,26 @@
 
 @2717
 <en>{Daigo}\n"I'm Daigo. Plea-se-to-mee-t-u."
-<es>
+<es>{Daigo}\n"Yo soy Daigo. Encan-ta-do de co-no-ce-ros."
 
 @2723
 <en>{Haruka}\n"Is he a robot?"
-<es>
+<es>{Haruka}\n"¿Es un robot?"
 
 @2724
 <en>{Mizuki}\n"His eyes look scary......"
-<es>
+<es>{Mizuki}\n"Me dan miedo sus ojos..."
 
 @2725
 <en>{Kazushi}\n"He's just nervous. He hasn't talked to girls before."
-<es>
+<es>{Kazushi}\n"Simplemente es que está nervioso. No había hablado con chicas antes."
 
 @2732
 <en>{Appo-}\n"Kazushi, your calmness makes me sick!!"
-<es>
+<es>{Appo-}\n"Kazushi, ¡¡tu tranquilidad me pone enfermo!!"
 
 @2733
+// Harem.
 <en>{Pierre}\n"Is this your harem! Since when you became a king!?"
 <es>
 
@@ -4120,51 +4121,51 @@
 
 @2746
 <en>{Kazushi}\n"Wow----!! Look at this building!\nThis is our school!?"
-<es>
+<es>{Kazushi}\n"¡¡Vaya...!! ¡Mira este edificio!\n¿¡Esto es nuestra escuela!?"
 
 @2747
 <en>I've never been to a school this fashionable.
-<es>
+<es>Nunca había estado en una escuela tan a la última.
 
 @2753
 <en>{Teacher Yagami}\n"You guys-......!"
-<es>
+<es>{Profesor Yagami}\n"¡Chicos...!"
 
 @2754
 <en>It was not just our school waiting for us to arrive.
-<es>
+<es>La escuela no era lo único que nos estaba esperando.
 
 @2755
 <en>{Kazushi}\n"...Mr.Yagami..."
-<es>
+<es>{Kazushi}\n"Señor Yagami..."
 
 @2759
 <en>{Appo-}\n"......oh shit......"
-<es>
+<es>{Appo-}\n"Mierda..."
 
 @2760
 <en>It's been a while we see him getting really upset.
-<es>
+<es>Hacía bastante que no lo veíamos tan enfadado.
 
 @2764
 <en>{Haruka}\n"Who is that scary looking old man?"
-<es>
+<es>{Haruka}\n"¿Quién es ese señor que da tanto miedo?"
 
 @2769
 <en>{Pierre}\n"That's our teacher.\nHe's usually really kind."
-<es>
+<es>{Pierre}\n"Es nuestro profesor.\nDe normal es muy amable."
 
 @2773
 <en>{Daigo}\n"This is not good."
-<es>
+<es>{Daigo}\n"Esto no va bien."
 
 @2774
 <en>He's walking toward us with an authority.
-<es>
+<es>Está andando hacia nosotros con autoridad.
 
 @2779
 <en>{Teacher Yagami}\n"What a hell you guys are thinking? This is your very first day."
-<es>
+<es>{Profesor Yagami}\n"¿En qué demonios estábais pensando? Es vuestro primer día."
 
 @2780
 <en>{Kazushi}\n"We just got into a little misunderstanding......"
@@ -4176,15 +4177,15 @@
 
 @2784
 <en>{Kazushi}\n"Yes sir......!"
-<es>
+<es>{Kazushi}\n"¡Sí, señor...!"
 
 @2787
 <en>His eyes are open as wide as they can be.
-<es>
+<es>Tiene los ojos completamente abiertos.
 
 @2788
 <en>{Teacher Yagami}\n"You guys know why I'm angry, right?"
-<es>
+<es>{Profesor Yagami}\n"Sabéis por qué estoy enfadado, ¿no?"
 
 @2792
 <en>{Appo-}\n"Yes!\nBecause we didn't follow the rules!"
@@ -4196,7 +4197,7 @@
 
 @2797
 <en>{Kazushi}\n"Yes!"
-<es>
+<es>{Kazushi}\n"¡Sí!"
 
 @2798
 <en>Teacher Yagami winds up his fist.
@@ -4208,7 +4209,7 @@
 
 @2807
 <en>{Kazushi}\n"Ouch!!"
-<es>
+<es>{Kazushi}\n"¡¡Au!!"
 
 @2812
 <en>{Pierre}\n"Ou!"
@@ -4236,15 +4237,15 @@
 
 @2838
 <en>{Haruka}\n"......is this legal?"
-<es>
+<es>{Haruka}\n"¿Eso es legal...?"
 
 @2839
 <en>{Mizuki}\n"Are they still alive?"
-<es>
+<es>{Mizuki}\n"¿Siguen con vida?"
 
 @2840
 <en>Ran was the only girl who took this as an entertainment.
-<es>
+<es>Ran fue la única chica que se tomó eso como una diversión.
 
 @2850
 <en>{Appo-}\n"Wow-----!\nThat hurt!!"
@@ -4252,7 +4253,7 @@
 
 @2851
 <en>{Pierre}\n"I don't think I'll ever get used to this."
-<es>
+<es>{Pierre}\n"No creo que llegue nunca a acostumbrarme a esto."
 
 @2857
 <en>{Teacher Yagami}\n"Ofcourse not!\nYou guys need to grow up before I ruin my fist."
@@ -4260,43 +4261,44 @@
 
 @2858
 <en>{Kazushi}\n"If you're so worried about your fist. Will you hit us little softer?"
-<es>
+<es>{Kazushi}\n"Si te preocupa tanto tu puño. ¿Por qué no nos golpeas con un poquito más de delicadeza?"
 
 @2861
 <en>{Teacher Yagami}\n"I am hitting you soft."
-<es>
+<es>{Profesor Yagami}\n"Os estoy pegando flojo."
 
 @2869
 <en>{Pierre}\n"Are you serious?"
-<es>
+<es>{Pierre}\n"¿En serio?"
 
 @2870
 <en>{Appo-}\n"I don't wanna know his 100%."
-<es>
+<es>{Appo-}\n"No quiero imaginarme cómo debe de ser al 100%."
 
 @2876
 <en>{Teacher Yagami}\n"I hope I never have to show you."
-<es>
+<es>{Profesor Yagami}\n"Espero no tener que enseñároslo nunca."
 
 @2877
 <en>{Kazushi}\n"Yes sir......"
-<es>
+<es>{Kazushi}\n"Sí, señor..."
 
 @2882
 <en>{Pierre}\n"How bad do we have to be to pull out your 100%?"
 <es>
 
 @2883
+// Crimen sexual/violación.
 <en>{Teacher Yagami}\n"Something like sex crime."
-<es>
+<es>{Profesor Yagami}\n"Algo como algún crimen sexual."
 
 @2887
 <en>{Appo-}\n"Opps......"
-<es>
+<es>{Appo-}\n"Ups..."
 
 @2888
 <en>{Kazushi}\n"What do you mean "opps"?"
-<es>
+<es>{Kazushi}\n"¿Qué quieres decir con ese "ups"?"
 
 @2889
 <en>I really have to keep my eyes on him.
@@ -4304,15 +4306,15 @@
 
 @2894
 <en>{Haruka}\n"Can you get up?"
-<es>
+<es>{Haruka}\n"¿Puedes levantarte?"
 
 @2895
 <en>The girls didn't know what to do.
-<es>
+<es>Las chicas no sabían qué hacer.
 
 @2896
 <en>{Kazushi}\n"We are all right. We are used to this."
-<es>
+<es>{Kazushi}\n"Estamos bien. Ya estamos acostumbrados a esto."
 
 @2901
 <en>{Pierre}\n"I don't mind you giving me a hand, though."
@@ -4320,19 +4322,19 @@
 
 @2907
 <en>{Pierre}\n"Ouch......!"
-<es>
+<es>{Pierre}\n"¡Auch...!"
 
 @2908
 <en>{Teacher Yagami}\n"You get up on your own."
-<es>
+<es>{Profesor Yagami}\n"Os levantáis solitos."
 
 @2916
 <en>{A sexy lady}\n"Hey!\nWhat's going on!?"
-<es>
+<es>{Mujer sexy}\n"¡Ey!\n¿¡Qué está pasando aquí!?"
 
 @2917
 <en>All the sudden, a sexy lady showed up.\nShe gave a mean look at Mr.Yagami after seeing us on the floor.
-<es>
+<es>De repente aparece una mujer sexy.\nY lanza una mirada vil al señor Yagami tras vernos tirados en el suelo.
 
 @2918
 <en>{A sexy lady}\n"Explain to me what's going on?"
@@ -4340,15 +4342,15 @@
 
 @2919
 <en>She sounded so upset.
-<es>
+<es>Parecía muy enfadada.
 
 @2920
 <en>{Teacher Yagami}\n"I'm sorry Miss. Ibuki.\nIt's all over now."
-<es>
+<es>{Profesor Yagami}\n"Lo siento señorita Ibuki.\nYa ha terminado todo."
 
 @2922
 <en>{Teacher Ibuki}\n"What do you mean it's over......?"
-<es>
+<es>{Profesora Ibuki}\n"¿A qué te refieres con terminado...?"
 
 @2923
 <en>She seems like not knowing what she can do to let her anger go. But anyways, she looks so sexy.
@@ -4356,19 +4358,19 @@
 
 @2924
 <en>{Appo-}\n"Oh my god--------......"
-<es>
+<es>{Appo-}\n"Oh, Dios mío..."
 
 @2925
 <en>Appo- is in heaven just by watching her.
-<es>
+<es>Appo- está en el cielo por el simple hecho de mirarla.
 
 @2926
 <en>{Teacher Ibuki}\n"What happened here?"
-<es>
+<es>{Profesora Ibuki}\n"¿Qué ha pasado aquí?"
 
 @2927
 <en>{Teacher Yagami}\n"I just had to punish them a little."
-<es>
+<es>{Profesor Yagami}\n"Simplemente que tuve que darles su merecido."
 
 @2928
 <en>Mr.Yagami was all smiling.\nOn the other hand, Miss Ibuki still looked upset.
@@ -4376,19 +4378,19 @@
 
 @2929
 <en>{Teacher Ibuki}\n"......was this a physical punishment?"
-<es>
+<es>{Profesora Ibuki}\n"¿Ha sido un castigo físico...?"
 
 @2930
 <en>{Teacher Yagami}\n"I guess you can say that."
-<es>
+<es>{Profesor Yagami}\n"Sí. Algo así."
 
 @2931
 <en>{Teacher Ibuki}\n"What do you mean "you can say that".\nIt was a physical punishment from any point of view!"
-<es>
+<es>{Profesora Ibuki}\n"¿Cómo que "algo así"?\n¡Era una agresión física lo mires como lo mires!"
 
 @2932
 <en>She raised her voice.
-<es>
+<es>Alzó la voz.
 
 @2933
 <en>{Pierre}\n"Hey guys, isn't she the beautiful teacher that old man from the grocery store mentioned?"
@@ -4400,7 +4402,7 @@
 
 @2935
 <en>{Pierre}\n"Who said so?!\nShe could be my wife, too."
-<es>
+<es>{Pierre}\n"¿¡Y quién ha dicho eso?!\nPodría acabar siendo mi esposa también."
 
 @2936
 <en>{Daigo}\n"You guys are both dreaming."
