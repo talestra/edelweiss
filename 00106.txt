@@ -4406,83 +4406,85 @@
 
 @2936
 <en>{Daigo}\n"You guys are both dreaming."
-<es>
+<es>{Daigo}\n"Otra vez soñando..."
 
 @2937
 <en>{Appo-}\n"Miss Ibuki!\nPlease tell me your first name!"
-<es>
+<es>{Appo-}\n"¡Señorita Ibuki!\n¡Por favor, dígame su nombre de pila!"
 
 @2938
 <en>{Teacher Ibuki}\n"My name? \nI'm Mei Ibuki."
-<es>
+<es>{Profesora Ibuki}\n"¿Mi nombre? \nMe llamo Ibuki."
 
 @2939
 <en>{Appo-}\n"Mei! Mei! My Mei!"
-<es>
+<es>{Appo-}\n"¡Mei! ¡Mei! ¡Mi Mei!"
 
 @2940
 <en>{Pierre}\n"What a pretty name."
-<es>
+<es>{Pierre}\n"Qué nombre mas bonito."
 
 @2942
 <en>{Mei}\n"......you guys are tough."
-<es>
+<es>{Mei}\n"Sí que sois fuertes..."
 
 @2943
 <en>She must be surprised to see us getting all energetic again so soon.
-<es>
+<es>Debe haberse quedado sorprendida al vernos tan energéticos de nuevo.
 
 @2949
 <en>{Teacher Yagami}\n"I told you they are fine."
-<es>
+<es>{Profesor Yagami}\n"Ya te dije que estaban bien."
 
 @2950
 <en>{Mei}\n"That doesn't mean you can punish them physically. Physical punishment is prohibitted in our school."
-<es>
+<es>{Mei}\n"Eso no quiere decir que puedas castigarles físicamente. El castigo físico está prohibido en nuestra escuela."
 
 @2953
 <en>{Teacher Yagami}\n"Do you have any better idea when nothing else works for them?"
-<es>
+<es>{Profesor Yagami}\n"¿Alguna otra idea que pueda funcionar con estos cazurros?"
 
 @2954
 <en>{Mei}\n"They will understand if you talk to their heart."
-<es>
+<es>{Mei}\n"Te comprenderán si les hablas llegándoles al corazón."
 
 @2955
 <en>She looked like a goddess to us.
-<es>
+<es>Nos parecía casi como una diosa.
 
 @2956
+// Dice profesora, pero bah.
 <en>We never had such a sexy teacher siding for us before.
-<es>
+<es>Nunca habíamos tenido a semejante tía buena cubríendonos las espaldas.
 
 @2965
 <en>{Daigo}\n"I would love to be stepped on by her."
-<es>
+<es>{Daigo}\n"Me encantaría ser pisoteado por ella."
 
 @2966
 <en>{Kazushi}\n"Don't start saying perverted things all the sudden."
-<es>
+<es>{Kazushi}\n"No te pongas a decir guarradas así de repente."
 
 @2967
 <en>{Pierre}\n"No, he's right. I feel you Daigo."
-<es>
+<es>{Pierre}\n"No, tiene razón. Te comprendo Daigo."
 
 @2968
 <en>{Kazushi}\n"You do?"
-<es>
+<es>{Kazushi}\n"¿En serio?"
 
 @2969
 <en>{Appo-}\n"I want her to verbally abuse me."
-<es>
+<es>{Appo-}\n"A mí me gustaría que abusase verbalmente de mí."
 
 @2970
+// como una cabra/muy mal.
 <en>{Kazushi}\n"You guys are all weired."
-<es>
+<es>{Kazushi}\n"Estáis todos como una cabra."
 
 @2978
 <en>{Mei}\n"......what are you guys talking about?"
-<es>
+<es>{Mei}\n"¿De qué estáis hablando, chicos...?"
 
 @2979
 <en>{Teacher Yagami}\n"Now you know what I mean, right. They won't listen to you."
@@ -4490,19 +4492,19 @@
 
 @2982
 <en>{Mei}\n"That's not true.\nYou can not give up on them."
-<es>
+<es>{Mei}\n"Eso no es verdad.\nNo puedes rendirte con ellos."
 
 @2985
 <en>{Teacher Yagami}\n"You don't understand."
-<es>
+<es>{Profesor Yagami}\n"No lo comprendes."
 
 @2988
 <en>{Mei}\n"What do I not understand?"
-<es>
+<es>{Mei}\n"¿Qué es lo que no comprendo?"
 
 @2991
 <en>{Teacher Yagami}\n"They knew they would get physically punished. But they still did it anyways."
-<es>
+<es>{Profesor Yagami}\n"Ya sabían que iban a acabar muy mal, pero lo hicieron de todas formas."
 
 @2992
 <en>{Teacher Yagami}\n"It's more like a communication between them and me."
@@ -4510,99 +4512,99 @@
 
 @2993
 <en>{Mei}\n"I'm still strongly against physical punishment."
-<es>
+<es>{Mei}\n"Me opongo enérgicamente al castigo físico."
 
 @2996
 <en>{Teacher Yagami}\n"If I don't love them I won't punish them!"
-<es>
+<es>{Profesor Yagami}\n"¡Si no los quisiese ni me precupase por ellos, no les castigaría!"
 
 @2997
 <en>Mr.Yagami raised his voice.
-<es>
+<es>El señor Yagami ha alzado la voz.
 
 @3000
 <en>They are still staring at each other.
-<es>
+<es>Todavía se siguen mirando cara a cara.
 
 @3001
 <en>{Appo-}\n"That's my wife. She doesn't back up."
-<es>
+<es>{Appo-}\n"¡Esa es mi esposa! ¡Ella nunca recula!"
 
 @3002
 <en>{Pierre}\n"She's kind of scary."
-<es>
+<es>{Pierre}\n"Da algo de miedo."
 
 @3005
 <en>Miss. Ibuki finally let go.
-<es>
+<es>La señorita Ibuki finalmente lo deja estar.
 
 @3006
 <en>{Mei}\n"Fine.\nAnyways, I'm taking them to the nurse's office."
-<es>
+<es>{Mei}\n"Está bien.\nDe todas formas, me los llevo a la enfermería."
 
 @3009
 <en>{Teacher Yagami}\n"They don't need to see a doctor."
-<es>
+<es>{Profesor Yagami}\n"No tienen necesidad de ver a un médico."
 
 @3013
 <en>{Mei}\n"Can you get up?\nFollow me."
-<es>
+<es>{Mei}\n"¿Os podéis levantar?\nSeguidme."
 
 @3014
 <en>She ignored Mr.Yagami and gets ready to take us to the nurse's office.
-<es>
+<es>Ignorando al señor Yagami, se prepara para llevarnos a la enfermería.
 
 @3015
 <en>{Mei}\n"Let's go."
-<es>
+<es>{Mei}\n"Vamos."
 
 @3020
 <en>{Haruka}\n"Wait, let me help you."
-<es>
+<es>{Haruka}\n"Espera, déjame ayudarte."
 
 @3025
 <en>{Teacher Yagami}\n"Hey boys, behave yourselves, O.K?"
-<es>
+<es>{Profesor Yagami}\n"Oid chicos, sed vosotros mismos, ¿vale?"
 
 @3033
 <en>{Boys}\n"Yes sir!"
-<es>
+<es>{Chicos}\n"¡Sí, señor!"
 
 @3039
 <en>{Mei}\n"Let's get going."
-<es>
+<es>{Mei}\n"Venga, vamos."
 
 @3042
 <en>Even the nurse's office looks so much better than our old school.
-<es>
+<es>Hasta la enfermería parece mucho mejor que la de nuestra antigua escuela.
 
 @3045
 <en>{Pierre}\n"I've never been to nurse's office for actual treatment. I thought this place is for guys wanna take a nap."
-<es>
+<es>{Pierre}\n"Vaya, nunca había estado en la enfermería para un tratamiento de verdad. Pensaba que este sitio era para venir a echar una cabezadita."
 
 @3050
 <en>{Appo-}\n"Guys! This bed smells like girls!"
-<es>
+<es>{Appo-}\n"¡Chicos! ¡Esta cama huele a chica!"
 
 @3051
 <en>Appo- is enjoying himself on the bed.
-<es>
+<es>Appo- lo está gozando en la cama.
 
 @3052
 <en>{Kazushi}\n"Hey, behave yourself."
-<es>
+<es>{Kazushi}\n"Ey, compórtate."
 
 @3053
 <en>All the girls were watching him.
-<es>
+<es>Todas las chicas lo estaban mirando.
 
 @3060
 <en>{Mei}\n"O.K who's first?"
-<es>
+<es>{Mei}\n"Vale, ¿quién es el primero?"
 
 @3061
 <en>{Haruka}\n"I think we should ice wherever they got hurt......"
-<es>
+<es>{Haruka}\n"Creo que deberíamos ponerles hielo en las heridas..."
 
 @3068
 <en>{Funny face girl}\n"There you are Miss. Ibuki-"
@@ -4610,7 +4612,7 @@
 
 @3069
 <en>A student came in.
-<es>
+<es>Una estudiante entró.
 
 @3070
 <en>She's gotta great body. It is so mis-matched with her funny face.
@@ -4630,11 +4632,11 @@
 
 @3083
 <en>{Mei}\n"What is so disgusting?"
-<es>
+<es>{Mei}\n"¿Qué es eso tan desagradable?"
 
 @3086
 <en>{Hu-sen}\n"Please just come with me."
-<es>
+<es>{Hu-sen}\n"Por favor, ven conmigo."
 
 @3087
 <en>She's trying to pull out Miss. Ibuki from this room.
@@ -4642,23 +4644,23 @@
 
 @3090
 <en>{Mei}\n"O.K O.K Give me one second."
-<es>
+<es>{Mei}\n"Vale, vale... Dame un momento."
 
 @3091
 <en>She turns around. Her face is saying she's sorry to us.
-<es>
+<es>Se da media vuelta. Su cara trata de expresarnos que lo siente mucho.
 
 @3095
 <en>{Mei}\n"I'm sorry boys, but I have to get this. I'll be right back, O.K?"
-<es>
+<es>{Mei}\n"Lo siento chicos, pero tengo que atender a esto. Vuelvo enseguida, ¿vale?"
 
 @3096
 <en>{Kazushi}\n"Oh, we are fine. Take your time."
-<es>
+<es>{Kazushi}\n"Ah, no te preocupes, estaremos bien. Tómate tu tiempo."
 
 @3102
 <en>{Appo-}\n"You idiot. We want her back soon!"
-<es>
+<es>{Appo-}\n"Imbécil. ¡Lo que queremos es que vuelva pronto!"
 
 @3103
 <en>{Pierre}\n"Miss. Ibuki-,please come back soon-"
@@ -4666,41 +4668,42 @@
 
 @3108
 <en>{Mei}\n"I promise I'll be back soon."
-<es>
+<es>{Mei}\n"Os prometo que volveré en un periquete."
 
 @3112
 <en>{Haruka}\n"No worrys, I'll take good care of them!"
-<es>
+<es>{Haruka}\n"No te preocupes. ¡Yo me ocuparé de ellos!"
 
 @3117
 <en>{Hu-sen}\n"I'm sorry, but you need to come with us, too, girls."
-<es>
+<es>{Hu-sen}\n"Lo siento, pero me temo que vosotras también tenéis que venir, chicas."
 
 @3124
 <en>{Mizuki}\n"Us, too?"
-<es>
+<es>{Mizuki}\n"¿También nosotras?"
 
 @3131
 <en>{Mei}\n"Tell us what's going on?"
-<es>
+<es>{Mei}\n"Díme, ¿qué ha pasado?"
 
 @3132
 <en>{Hu-sen}\n"I rather not do that here."
-<es>
+<es>{Hu-sen}\n"Será mejor no hacerlo aquí."
 
 @3133
 <en>She says that as she gives a glance at us.
-<es>
+<es>Lo dice mientras nos da un repaso con la mirada.
 
 @3136
 <en>{Mei}\n"Well you heard her boys, we'll be back soon."
-<es>
+<es>{Mei}\n"Pues nada. Ya habéis oído chicos. Volvemos enseguida."
 
 @3143
 <en>{Haruka}\n"Sorry, Kazushi-"
-<es>
+<es>{Haruka}\n"Lo siento, Kazushi..."
 
 @3149
+// ¿La chica de la cara chunga?
 <en>The funny face girl took away our girls.
 <es>
 
@@ -4714,15 +4717,15 @@
 
 @3158
 <en>{Daigo}\n"I wish her face was as beautiful as her figure."
-<es>
+<es>{Daigo}\n"Ojalá su cara fuese tan bonita com su cuerpo."
 
 @3159
 <en>{Kazushi}\n"I thought about the same thing."
-<es>
+<es>{Kazushi}\n"Estaba yo pensando lo mismo..."
 
 @3160
 <en>She was looking at us cold before she left.
-<es>
+<es>Nos lanzó una mirada fría ants de irse.
 
 @3161
 <en>{Kazushi}\n"Her face was as round as your body, Appo-."
