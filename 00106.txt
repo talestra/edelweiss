@@ -4015,15 +4015,15 @@
 
 @2657
 <en>{Pierre}\n"Appo- is right! Stop being a pimp!"
-<es>
+<es>{Pierre}\n"¡Appo- tiene razón! ¡Deja de ser un egoísta!"
 
 @2658
 <en>{Daigo}\n"Kazushi, you know we don't like this!"
-<es>
+<es>{Daigo}\n"Kazushi, ¡sabes que no nos gusta esa actitud!"
 
 @2659
 <en>{Kazushi}\n"O.K O.K Girls, these are my buddies......"
-<es>
+<es>{Kazushi}\n"Vale, vale... Chicas, estos son mis colegas..."
 
 @2664
 <en>{Appo-}\n"I'm Appo-! I'm the leader."
@@ -4048,7 +4048,7 @@
 
 @2680
 <en>{Appo-}\n"Nice to meet you! I'm truly pleased to meet you! I'm honored to meet you!"
-<es>{Appo-}\n"¡Encantado! ¡Estoy realmente complacido de conoceros! ¡Estoy honrado de conoceros!"
+<es>{Appo-}\n"¡Encantado! ¡Es un placer! ¡Un verdadero placer!"
 
 @2684
 <en>{Pierre}\n"I'm next......I'm Pierre......"
@@ -4084,7 +4084,7 @@
 
 @2712
 <en>{Kazushi}\n"Ran, are you a psychic?"
-<es>
+<es>{Kazushi}\n"Ran, ¿puedes leer la mente?"
 
 @2717
 <en>{Daigo}\n"I'm Daigo. Plea-se-to-mee-t-u."
@@ -4109,15 +4109,15 @@
 @2733
 // Harem.
 <en>{Pierre}\n"Is this your harem! Since when you became a king!?"
-<es>
+<es>{Pierre}\n"¡Es tu harem! ¿¡Desde cuando te has convertido en el Rey!?"
 
 @2734
 <en>{Kazushi}\n"I met them accidently. Hey, shouldn't we get going?"
-<es>
+<es>{Kazushi}\n"Me las encontré por casualidad. Ey, ¿no deberíamos ir tirando?"
 
 @2743
 <en>{Haruka}\n"We'll take you guys there-\njust follow us!"
-<es>
+<es>{Haruka}\n"Nosotras os guiamos, chicos.\n¡Seguidnos!"
 
 @2746
 <en>{Kazushi}\n"Wow----!! Look at this building!\nThis is our school!?"
@@ -4125,7 +4125,7 @@
 
 @2747
 <en>I've never been to a school this fashionable.
-<es>Nunca había estado en una escuela tan a la última.
+<es>Nunca había estado en una escuela tan guay.
 
 @2753
 <en>{Teacher Yagami}\n"You guys-......!"

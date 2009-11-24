@@ -1,31 +1,46 @@
+# Personajes principales
+
 @Kazushi
-Kazushi Haruma
+<strong>Kazushi Haruma</strong>
 {IMG:meta/kazushi.png}
 Protagonista
 
 @Appo-
-Appo-
+<strong>Appo-</strong>
 {IMG:meta/appo-.png}
+Chico regordete muy salido.
+Appo- es su nick. Viene del
+parecido a la palabra <i>"apple"</i>
+porque la forma de cuerpo que
+tiene es semejante a la de
+una manzana.
 
 @Pierre
-Pierre
+<strong>Pierre</strong>
 {IMG:meta/pierre.png}
+No es su nombre de verdad.
+Lo tiene porque es <i>"cool"</i>
+tener un nombre extranjero.
 
 @Daigo
-Daigo
+<strong>Daigo</strong>
 {IMG:meta/daigo.png}
 
 @Panchu-
-Panchu-
+<strong>Panchu-</strong>
 {IMG:meta/panchu-.png}
+Matón de la escuela de los
+chicos. No se le entiende
+cuando habla.
 
 @Yagami
-Profesor Yagami
+<strong>Profesor Yagami</strong>
 {IMG:meta/yagami.png}
 Profesor.
+Es muy bestia.
 
 @Ran|Kamoike
-Ran Kamoike
+<strong>Ran Kamoike</strong>
 {IMG:meta/ran.png}
 Chica que se encuentra el
 protagonista subida en un árbol
@@ -33,19 +48,15 @@ mientras escapa de una señal
 viviente.
 
 @Mizuki|Hinata
-Mizuki Hinata
+<strong>Mizuki Hinata</strong>
 {IMG:meta/mizuki.png}
 Chica que se aparece desnuda
 como si fuese una sirena
 al protagonista al poco de
 llegar a la isla.
 
-@main land
-Tierra principal.
-De donde vienen los chicos del crucero.
-
 @Haruka|Aozora
-Haruka Aozora
+<strong>Haruka Aozora</strong>
 {IMG:meta/haruka.png}
 Chica que se encuentra el
 protagonista en el bosque
@@ -53,6 +64,20 @@ por primera vez tras escapar
 del ataque de la señal.
 
 @Mei|Ibuki
-Mei Ibuki
+<strong>Mei Ibuki</strong>
 {IMG:meta/mei.png}
 Profesora.
+
+# Personajes secundarios
+
+# Lugares
+
+@main land
+<strong>Tierra principal.</strong>
+De donde vienen los chicos del crucero.
+
+#Eiden|eiden island
+<strong>Eiden Islan</strong>
+La isla donde transcurre la historia.
+En ella únicamente hay
+chicas jóvenes y gente mayor.
