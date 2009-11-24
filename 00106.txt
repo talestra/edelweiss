@@ -5748,15 +5748,15 @@
 
 @3876
 <en>{Haruka}\n"Guys......\nI think you should lower your expectations......they are gone."
-<es>
+<es>{Haruka}\n"Chicos...\nCreo que deberíais relajar un poco esas expectativas... Vaya, se han ido."
 
 @3881
 <en>We ran straight ahead for a while, but only thing we saw was an old shack.
-<es>
+<es>Corrimos en líne recta durante un rato, pero lo único que vimos fue una vieja chabola.
 
 @3882
 <en>{Kazushi}\n"This is weired.\nIt was just one way, right?"
-<es>
+<es>{Kazushi}\n"Qué raro.\nEra de una sola dirección, ¿no?"
 
 @3887
 <en>{Appo-}\n"Do you see anything?"
@@ -5764,27 +5764,27 @@
 
 @3888
 <en>{Pierre}\n"It could be little further away. Let's keep going."
-<es>
+<es>{Pierre}\n"Puede que esté un poco más adelante. Sigamos."
 
 @3893
 <en>{Daigo}\n"It's a dead end. Is this shack perhaps it?"
-<es>
+<es>{Daigo}\n"Más adelante no hay salida. ¿Quizá sea esta chabola?"
 
 @3900
 <en>Our expectation went sky rocketed high and now it's going down.
-<es>
+<es>Nuestras expectativas dieron un subidón espectacular para acabar estrellándose estrepitosamente.
 
 @3909
 <en>{Haruka}\n"......you guys slow down for me-"
-<es>
+<es>{Haruka}\n"Chicos... Esperadme..."
 
 @3910
 <en>We knew this shack is it by her sad face.
-<es>
+<es>Supimos que realmente era ésta chabola solo con ver su cara de tristeza.
 
 @3913
 <en>{Haruka}\n"I'm sorry.\nWe just didn't have enough time to build a good one."
-<es>
+<es>{Haruka}\n"Lo siento.\nNo hemos tenido tiempo suficiente para construir un buen dormitorio."
 
 @3918
 <en>{Pierre}\n"Still, isn't this too sad?"
@@ -5792,47 +5792,47 @@
 
 @3919
 <en>{Kazushi}\n"At least it's got air-conditioning, right?"
-<es>
+<es>{Kazushi}\n"Al menos tendrá aire acondicionado, ¿no??"
 
 @3920
 <en>{Haruka}\n"I'm sorry. They said it wouldn't make a difference in a shack."
-<es>
+<es>{Haruka}\n"Lo siento. Dijeron que no habría mucha diferencia en una choza."
 
 @3921
 <en>{Kazushi}\n"I see."
-<es>
+<es>{Kazushi}\n"Ya veo."
 
 @3925
 <en>{Appo-}\n"What do you mean "I see"!? Can't you see the difference?!!"
-<es>
+<es>{Appo-}\n"¡¿Qué quieres decir con "ya veo"?! ¡¡¿Es que no puedes ver la diferencia?!!"
 
 @3928
 <en>{Haruka}\n"I'm terribly sorry-"
-<es>
+<es>{Haruka}\n"Lo siento muchísimo..."
 
 @3929
 <en>{Kazushi}\n"Stop blaming her. It's not her fault."
-<es>
+<es>{Kazushi}\n"Dejad de decir esas cosas. No es culpa suya."
 
 @3933
 <en>{Pierre}\n"I know, but......"
-<es>
+<es>{Pierre}\n"Lo sé, pero aún así..."
 
 @3936
 <en>We shouldn't have seen the girls' dorm first.
-<es>
+<es>No deberíamos haber visto el dormitorio para chicas antes.
 
 @3943
 <en>{Daigo}\n"I'm not sure if that was a good idea to move to this island anymore......"
-<es>
+<es>{Daigo}\n"Ahora ya no tengo tan claro que haya sido una buena idea venirnos a esta isla..."
 
 @3944
 <en>{Kazushi}\n"Don't be overly sensitive, Daigo."
-<es>
+<es>{Kazushi}\n"No te pongas tan sensible, Daigo."
 
 @3945
 <en>{Pierre}\n"We'll get through anything............"
-<es>
+<es>{Pierre}\n"Pasaremos por cualquier cosa..."
 
 @3946
 <en>I tried not to see the shack just to maintain my confidence level for upcoming life in this island.
@@ -5840,67 +5840,67 @@
 
 @3952
 <en>{Haruka}\n"I'll try to tell my grand ma to improve your dorm, O.K?"
-<es>
+<es>{Haruka}\n"Probaré a decirle a mi abuela que mejore vuestro dormitorio, ¿vale?"
 
 @3953
 <en>{Kazushi}\n"Thank you, but don't think this is your fault, O.K?"
-<es>
+<es>{Kazushi}\n"Gracias. Pero no pienses que es culpa tuya, ¿vale?"
 
 @3956
 <en>{Haruka}\n"Thanks. I didn't expect I'll be the one to be encouraged."
-<es>
+<es>{Haruka}\n"Gracias. No pensé que fuese a ser yo a la que diesen ánimos."
 
 @3957
 <en>She tried to smile to cheer up.
-<es>
+<es>Trató de sonreir para animar.
 
 @3958
 <en>I had to say something to change the atmosphere, but I didn't know what to say.
-<es>
+<es>Tenía que decir algo para cambiar el ambiente, pero no sabía qué decir.
 
 @3961
 <en>{Haruka}\n"Do you want me to show you around somewhere else?"
-<es>
+<es>{Haruka}\n"¿Queréis que os enseñe algo de los alrededores?"
 
 @3962
 <en>Everyone was so down, nobody answered her question.
-<es>
+<es>Todos estaban tan decaídos que nadie respondió a su pregunta.
 
 @3963
 <en>{Kazushi}\n"Hey guys, let's just drop our luggages first."
-<es>
+<es>{Kazushi}\n"Ey chicos, dejemos el equipaje primero."
 
 @3966
 <en>{Haruka}\n"That's a good idea. If you ever need something, just let me know, O.K?"
-<es>
+<es>{Haruka}\n"Es una buena idea. Si necesitáis cualquier cosa, decídmelo, ¿vale?"
 
 @3967
 <en>{Kazushi}\n"Thanks."
-<es>
+<es>{Kazushi}\n"Gracias."
 
 @3972
 <en>She left.\nWe felt stranded all the sudden.
-<es>
+<es>Se fue.\nNos sentimos desamparados de repente.
 
 @3979
 <en>{Pierre}\n"You think we'll get used to living in this shack?"
-<es>
+<es>{Pierre}\n"¿Crees que nos acostumbraremos a vivir en esta chabola?"
 
 @3980
 <en>Everyone seems not sure.
-<es>
+<es>Nadie lo tiene nada claro.
 
 @3981
 <en>{Daigo}\n"Should we go in?"
-<es>
+<es>{Daigo}\n"¿Deberíamos entrar?"
 
 @3982
 <en>{Kazushi}\n"I'm kind of reluctant to go in there."
-<es>
+<es>{Kazushi}\n"Soy algo reticente a entrar ahí."
 
 @3983
 <en>{Appo-}\n"I'll go drop off my stuff."
-<es>
+<es>{Appo-}\n"Dejaré mis cosas."
 
 @3989
 <en>He came right back from there.
@@ -5908,19 +5908,19 @@
 
 @3994
 <en>{Appo-}\n"This is so not fair! It's like a sauna inside!!"
-<es>
+<es>{Appo-}\n"¡No es justo! ¡¡El interior es como una sauna!!"
 
 @4001
 <en>{Pierre}\n"It's the hottest time of the day."
-<es>
+<es>{Pierre}\n"Es el momento más caluroso del día."
 
 @4002
 <en>{Daigo}\n"Do you guys see how thin the roof is? Ofcourse it becomes like a sauna."
-<es>
+<es>{Daigo}\n"¿Habéis visto lo fino que es el techo? Es normal que acabe como una sauna."
 
 @4003
 <en>{Kazushi}\n"......at least, we have a roof."
-<es>
+<es>{Kazushi}\n"Al menos... tenemos tejado..."
 
 @4007
 <en>I didn't make any sense.
@@ -5928,23 +5928,23 @@
 
 @4014
 <en>{Daigo}\n"Is it just me hungry......?"
-<es>
+<es>{Daigo}\n"¿Soy yo el único que tiene hambre...?"
 
 @4015
 <en>{Pierre}\n"Remember we didn't get to eat?"
-<es>
+<es>{Pierre}\n"¿Recuerdas que no pudimos pegar bocado?"
 
 @4016
 <en>{Appo-}\n"Stop. I don't want to remember I skipped my dinner.\nHow many hours do we have till the break fast?"
-<es>
+<es>{Appo-}\n"Calla. No me recuerdes que me he perdido la cena.\n¿Cuántas horas quedan hasta el desayuno?"
 
 @4017
 <en>He must be so hungry after throwing up all the way to get here in the boat.
-<es>
+<es>Debe estar súper hambriento después de haber vomitado en el bote todo el camino hasta aquí.
 
 @4018
 <en>{Kazushi}\n"Guys, it's no use staying here. Let's take a walk."
-<es>
+<es>{Kazushi}\n"Chicos, no tiene sentido quedarse aquí. Vayamos a dar una vuelta."
 
 @4027
 <en>{Pierre}\n"I thought we are supposed to be grounded."
@@ -5956,19 +5956,19 @@
 
 @4029
 <en>{Daigo}\n"I'm hungry......"
-<es>
+<es>{Daigo}\n"Tengo hambre..."
 
 @4030
 <en>{Appo-}\n"I was so lookingforward to eating and having sex. We're not getting anything!!"
-<es>
+<es>{Appo-}\n"Tenía tantas ganas de comer y de tener sexo. ¡¡Y no tenemos nada!!"
 
 @4031
 <en>Everyone was so not constructive.
-<es>
+<es>Nadie estaba muy constructivo.
 
 @4036
 <en>Even the ocean breeze we felt so good when we got here now feels annoying.
-<es>
+<es>Hasta la brisa del océano que rsultaba tan reconfortante cuando vinimos, ahora resulta molesta.
 
 @4037
 <en>We took a walk to where we could see a harbor.
@@ -5976,35 +5976,35 @@
 
 @4040
 <en>{Pierre}\n"It's so quiet now."
-<es>
+<es>{Pierre}\n"Ahora está todo muy calmado."
 
 @4045
 <en>{Appo-}\n"It was like a festival-like when we got here."
-<es>
+<es>{Appo-}\n"Cuando llegamos era casi como un festival."
 
 @4052
 <en>We couldn't imagine it will get this quiet at night.
-<es>
+<es>Eramos incapaces de imaginar que estaría así de tranquilo durante la noche.
 
 @4053
 <en>We lost all the hope we had in the beginning of the day.
-<es>
+<es>Perdimos toda la esperanza que habíamos tenido al principio del día.
 
 @4054
 <en>Nobody knew what to from that point.
-<es>
+<es>Nadie sabía qué hacer a partir de ese momento.
 
 @4055
 <en>{Kazushi}\n"Maybe we deserve this for what we did."
-<es>
+<es>{Kazushi}\n"Quizá nos merezcamos esto por lo que hicimos."
 
 @4056
 <en>We felt like we ruined the party.
-<es>
+<es>Nos sentimos como si hubiésemos arruinado la fiesta.
 
 @4057
 <en>{Pierre}\n"I thought I could get any woman I wanted once I get here."
-<es>
+<es>{Pierre}\n"Pensé que podría tener a cualquier chica que quisiese al llegar aquí."
 
 @4058
 <en>{Appo-}\n"I didn't make any sense."
@@ -6012,63 +6012,63 @@
 
 @4059
 <en>{Kazushi}\n"Take it easy on yourself. Good things will happen."
-<es>
+<es>{Kazushi}\n"Tranquilízate. Ya pasarán cosas buenas."
 
 @4060
 <en>{Daigo}\n"Everybody out there thinks we are pervert."
-<es>
+<es>{Daigo}\n"Todo el mundo se piensa que somos unos pervertidos."
 
 @4061
 <en>{Pierre}\n"We sure left a bad first impression."
-<es>
+<es>{Pierre}\n"Desde luego no hemos dejado una muy buena impresión inicial."
 
 @4062
 <en>{Kazushi}\n"That was a big mistake we made."
-<es>
+<es>{Kazushi}\n"Aquello fue un gran error por nuestra parte."
 
 @4063
 <en>{Appo-}\n"I'm sorry."
-<es>
+<es>{Appo-}\n"Lo siento."
 
 @4064
 <en>That surprised us. We've never seen Appo- being this honest. He must be really weak now.
-<es>
+<es>Aquello nos pilló por sorpresa. Nunca habíamos visto a Appo- ser así de honesto. Debe sentirse realmente débil ahora.
 
 @4065
 <en>Actually, not just Appo-, evrybody was really weak.
-<es>
+<es>En realidad no solo Appo-. Todo el mundo estaba realmente débil.
 
 @4066
 <en>We were dreaming without any solid reasons.
-<es>
+<es>Esstábamos todos con nuestras ensoñaciones sin tener razones sólidas.
 
 @4067
 <en>But for some reason, I still had some hope for our upcoming life in this island.
-<es>
+<es>Pero por algún motivo, to todavía tenía alguna esperanza de la futura vida en esta isla.
 
 @4068
 <en>I don't know why, though.
-<es>
+<es>Aunque no sé por qué.
 
 @4069
 <en>{Kazushi}\n"What should we do now?"
-<es>
+<es>{Kazushi}\n"¿Qué deberíamos hacer ahora?"
 
 @4070
 <en>I looked aroud their faces waiting for somebody to answer me.
-<es>
+<es>Les miré a la cara sucesivamente en busca de una respuesta.
 
 @4073
 <en>{Pierre}\n"Do you think something good will happen to us in this island?"
-<es>
+<es>{Pierre}\n"¿De verdad crees que nos pasarán cosas buenas en esta isla?"
 
 @4074
 <en>{Appo-}\n"I don't think I'm gonna get any girls in this place eithier-."
-<es>
+<es>{Appo-}\n"Yo tampoco creo que vaya a conseguir a ninguna chica en este lugar."
 
 @4077
 <en>{Daigo}\n"I'm not used to real weman."
-<es>
+<es>{Daigo}\n"Yo no estoy acostumbrado a las mujeres de verdad."
 
 @4080
 <en>{Pierre}\n"Hey Daigo, you seriously sounded like a lunatic right there."
@@ -6076,15 +6076,15 @@
 
 @4083
 <en>{Daigo}\n"What we are doing here doesn't look healthy, either."
-<es>
+<es>{Daigo}\n"Aunque lo que estamos haciendo aquí tampoco parece muy saludable."
 
 @4086
 <en>{Pierre}\n"Yeay."
-<es>
+<es>{Pierre}\n"Pozi."
 
 @4087
 <en>{Kazushi}\n"You are right......"
-<es>
+<es>{Kazushi}\n"Tienes razón..."
 
 @4091
 <en>We were long for where we came from already.
@@ -6096,43 +6096,43 @@
 
 @4093
 <en>{Kazushi}\n"Well......"
-<es>
+<es>{Kazushi}\n"Bueno..."
 
 @4094
 <en>I took a few deep breath so I could clear my head.
-<es>
+<es>Respiro hondo un par de veces para aclarar mi cabeza un poco.
 
 @4095
 <en>Well, there some intersting people I would love to get to know, but
-<es>
+<es>Bueno. Hay unas cuantas personas interesantes que me encantaría conocer, pero...
 
 @4096
 <en>......maybe this island wasn't for us.
-<es>
+<es>quizá esta isla no era para nosotros.
 
 @4097
 <en>{Kazushi}\n"Should we go back?!"
-<es>
+<es>{Kazushi}\n"¡¿Deberíamos volver?!"
 
 @4104
 <en>They raised their head as if they didn't understand me.
-<es>
+<es>Levantaron la cabeza como si no llegasen a entenderme.
 
 @4105
 <en>{Daigo}\n"Go back where?"
-<es>
+<es>{Daigo}\n"¿Volver a dónde?"
 
 @4106
 <en>{Pierre}\n"We have no boat."
-<es>
+<es>{Pierre}\n"No tenemos ningún bote."
 
 @4107
 <en>{Kazushi}\n"Let's steal one."
-<es>
+<es>{Kazushi}\n"Robemos uno."
 
 @4108
 <en>{Appo-}\n"Are you serious?"
-<es>
+<es>{Appo-}\n"¿Hablas en serio?"
 
 @4109
 <en>{Pierre}\n"We studied so hard to pass the exam so we could all be here......"
@@ -6148,55 +6148,55 @@
 
 @4114
 <en>{Kazushi}\n"Hey guys! Let's do something extraordinary. Let's steal a boat!!"
-<es>
+<es>{Kazushi}\n"¡Ey chicos! Hagamos algo extraordinario. ¡¡Robemos un bote!!"
 
 @4117
 <en>{Appo-}\n"......all right.\nI'm gonna surprise all the girls who laughed at me."
-<es>
+<es>{Appo-}\n"...Está bien.\nVoy a dejar anonadadas a todas las chicas que se rieron de mí."
 
 @4118
 <en>{Pierre}\n"Let's show them what we are capable of!"
-<es>
+<es>{Pierre}\n"¡Enseñémosles de lo que somos capaces!"
 
 @4121
 <en>{Daigo}\n"But, who can operate a boat?"
-<es>
+<es>{Daigo}\n"Pero, ¿quién podría hacer funcionar un bote?"
 
 @4122
 <en>{Kazushi}\n"We'll figure out somehow!"
-<es>
+<es>{Kazushi}\n"¡Ya averiguaremos cómo!"
 
 @4125
 <en>{Pierre}\n"All right!\nLet's do it!"
-<es>
+<es>{Pierre}\n"¡Está bien!\n¡Hagámoslo!"
 
 @4128
 <en>{Appo-}\n"Everybody pack your bags! Meet up in 5 minutes!"
-<es>
+<es>{Appo-}\n"¡Haced todos las maletas! ¡Reunión en 5 minutos!"
 
 @4129
 <en>{Kazushi}\n"We'll show them what we can do!"
-<es>
+<es>{Kazushi}\n"¡Les enseñaremos lo que podemos hacer!"
 
 @4132
 <en>{Boys}\n"Yeah!!"
-<es>
+<es>{Chicos}\n"¡¡Sííí!!"
 
 @4133
 <en>That's right. We're gonna re-start our new life somewhere else.
-<es>
+<es>Está bien. Reempezaremos nuestra vida en cualquier otro sitio.
 
 @4137
 <en>{Kazushi}\n"No one's here, right?\nLet's go!!"
-<es>
+<es>{Kazushi}\n"No hay nadie por aquí, ¿no?\n¡¡Vamos!!"
 
 @4143
 <en>The harbor is so quiet at night.
-<es>
+<es>El puerto estaba muy tranquilo por la noche.
 
 @4144
 <en>We could hear every steps of our own.
-<es>
+<es>Podíamos oír todos y cada uno de nuestros pasos.
 
 @4150
 <en>{Daigo}\n"Hey, is it supposed to be this quiet?"
@@ -6204,87 +6204,88 @@
 
 @4157
 <en>{Pierre}\n"Fishermen goes to bed super early."
-<es>
+<es>{Pierre}\n"Los pescadores se van a dormir super temprano."
 
 @4158
 <en>{Appo-}\n"Which makes our job really easy."
-<es>
+<es>{Appo-}\n"Lo que hace que nuestro trabajo sea extremadamente fácil."
 
 @4159
 <en>{Daigo}\n"Which boat should we steal?"
-<es>
+<es>{Daigo}\n"¿Qué bote deberíamos robar?"
 
 @4162
 <en>{Appo-}\n"Let's get the coolest one!"
-<es>
+<es>{Appo-}\n"¡Cojamos el más molón!"
 
 @4163
 <en>{Kazushi}\n"That will be that one!"
-<es>
+<es>{Kazushi}\n"¡Que será, ese!"
 
 @4167
 <en>We spotted a cool one and dashed toward it.
-<es>
+<es>Divisamos uno molón y nos lanzamos hacia él.
 
 @4182
 <en>All the sudden, we hear something coming up from the surface of the ocean.
-<es>
+<es>De repente, oímos algo proveniente de la superficie del océano.
 
 @4183
 <en>{Appo-}\n"What is it!?"
-<es>
+<es>{Appo-}\n"¿¡Qué ocurre!?"
 
 @4191
 <en>The wave got bigger and bigger.
-<es>
+<es>La ola se fue volviendo cada vez más grande.
 
 @4196
 <en>{Pierre}\n"There's got to be something wrong with this island!"
-<es>
+<es>{Pierre}\n"¡Tiene que pasar algo muy chungo con esta isla!"
 
 @4197
 <en>{Kazushi}\n"Keep running!\nWe are almost there......"
-<es>
+<es>{Kazushi}\n"¡Seguid corriendo!\nYa casi estamos..."
 
 @4203
 <en>All the sudden, all the boat start sinking.
-<es>
+<es>De repente, todos los botes empiezan a hindirse.
 
 @4210
 <en>{Kazushi}\n"The boats are sinking!!"
-<es>
+<es>{Kazushi}\n"¡¡Los botes se están hundiendo!!"
 
 @4211
 <en>{Daigo}\n"No......the surface is getting low."
-<es>
+<es>{Daigo}\n"No... Es la superficie la que está bajando."
 
 @4218
 <en>Is it the surface of the ocean getting low? Or is it this island floating up?
-<es>
+<es>¿Es la superficie del océano la que está bajando? ¿O es que esta isla está flotando?
 
 @4219
 <en>Either way, there is deffinitely something wrong is happening.
-<es>
+<es>Sea como fuere, está pasando algo muy extraño.
 
 @4336
 <en>{Kazushi}\n"The boats......"
-<es>
+<es>{Kazushi}\n"Los botes..."
 
 @4337
 <en>{Appo-}\n"No way......"
-<es>
+<es>{Appo-}\n"No puede ser..."
 
 @4338
 <en>{Pierre}\n"What's going on!?"
-<es>
+<es>{Pierre}\n"¿¡Qué está pasando!?"
 
 @4339
 <en>We couldn't do anything but just watch......
-<es>
+<es>No pudimos hacer nada con mirar...
 
 @4353
+// TODO: Cambiar yardas a kilómetros o metros.
 <en>The shore line was pulled back a couple hundred yards.
-<es>
+<es>La línea de la playa bajó un par de cientos de yardas.
 
 @4354
 <en>How are we going to sail off?!!
@@ -6292,5 +6293,5 @@
 
 @4355
 <en>{Boys}\n"This is unreal-----------!!"
-<es>
+<es>{Chicos}\n"¡¡No puede ser verdad....!!"
 
