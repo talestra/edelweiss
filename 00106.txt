@@ -4905,15 +4905,15 @@
 
 @3265
 <en>{Appo-}\n"....................................oh no?"
-<es>
+<es>{Appo-}\n"...¿Ups...?"
 
 @3266
 <en>{Pierre}\n"Who's Rei?"
-<es>
+<es>{Pierre}\n"¿Quién es Rei?"
 
 @3267
 <en>The funny face girl kept screaming.
-<es>
+<es>La chica de la cara rara sigue gritando.
 
 @3273
 <en>{Hu-sen}\n"Rei! I found your favorite underwear!!"
@@ -4921,11 +4921,11 @@
 
 @3277
 <en>{A big girl}\n"............"
-<es>
+<es>{Chica enorme}\n"..."
 
 @3278
 <en>{Kazushi}\n"What a!!"
-<es>{Kazushi}\n"¡¡Pero qué!!"
+<es>{Kazushi}\n"¡¿Pero qué...?!"
 
 @3286
 <en>{Appo-}\n"A man? An animal?"
@@ -5053,7 +5053,7 @@
 
 @3378
 <en>{Appo-}\n"That big girl is lying!!\nHow can you fit in this small underwear?"
-<es>
+<es>{Appo-}\n"¡¡Esa tiparraca está mintiendo!!\n¿Cómo iban a venirle esas braguitas?"
 
 @3379
 <en>He's looking at the girl and the underwear in his hand.
@@ -5077,7 +5077,7 @@
 
 @3390
 <en>{A big girl}\n"I didn't even wash them."
-<es>
+<es>{Chica enorme}\n"Nunca llegué a lavarlas."
 
 @3394
 <en>As soon as Appo- heard that, his face turned pale.
@@ -5085,7 +5085,7 @@
 
 @3397
 <en>{Appo-}\n"Appo- throwing up"
-<es>
+<es>{Appo-}\n*Appo- vomitando*
 
 @3403
 <en>{Daigo}\n"He's throwing up again."
@@ -5141,7 +5141,7 @@
 
 @3441
 <en>{A big girl}\n"He stained my underwear!!"
-<es>{Chica enorme}\n"¡¡Ma manchado mis bragas!!"
+<es>{Chica enorme}\n"¡¡Ha manchado mis bragas!!"
 
 @3446
 <en>{Appo-}\n"What?"
@@ -5254,7 +5254,7 @@
 
 @3511
 <en>{Pierre}\n"WO-----------!!"
-<es>
+<es>{Pierre}\n"¡¡Ooohh...!!"
 
 @3513
 <en>{Kazushi}\n"Oh my god!?\nShe just made two men into a star!?"
@@ -5262,7 +5262,7 @@
 
 @3514
 <en>{A big girl}\n"You're next---------------!!"
-<es>
+<es>{Chica enorme}\n"¡¡Y tú eres el siguiente...!!"
 
 @3521
 <en>{Daigo}\n"No--------!!"
@@ -5313,8 +5313,9 @@
 <es>{Appo-}\n"Lo siento."
 
 @3566
+# Hay que ver si era comida o cena. Viendo la hora del día que parece, parece más comida, así que he cambiado todo un poco.
 <en>{Teacher Yagami}\n"No dinner for you guys tonight."
-<es>{Profesor Yagami}\n"Os quedáis sin cenar esta noche."
+<es>{Profesor Yagami}\n"Os quedáis sin comer hoy."
 
 @3574
 <en>{Pierre}\n"No way......"
@@ -5338,7 +5339,7 @@
 
 @3584
 <en>No dinner......
-<es>Sin cenar...
+<es>Sin comer...
 
 @3587
 <en>All the girls look at us cold as we walk through the school hall.
@@ -5486,7 +5487,7 @@
 
 @3677
 <en>{Pierre}\n"Stop throwing rocks to us!"
-<es>{Pierre}\n"¡Deja de lanzarnos piedras!"
+<es>{Pierre}\n"¡No nos lancéis piedras!"
 
 @3679
 <en>{Daigo}\n"I can't take this anymore!"
@@ -5526,11 +5527,11 @@
 
 @3700
 <en>Two students came out from the crowd.
-<es>
+<es>Dos estudiantes salen de la muchedumbre.
 
 @3701
 <en>{Haruka}\n"Sakura and Rin!!"
-<es>
+<es>{Haruka}\n"¡¡Sakura y Rin!!"
 
 @3702
 <en>They must know each other.
@@ -5558,7 +5559,7 @@
 
 @3724
 <en>{Rin}\n"It's not like all the new students are pervert, right?"
-<es>
+<es>{Rin}\n"Eso no quiere decir que todos los estudiantes nuevos sean unos pervertidos, ¿no?"
 
 @3725
 <en>{Sakura}\n"That's right.\nOnly the few of them."
@@ -5585,8 +5586,9 @@
 <es>{Sakura}\n"Eres demasiado honesto."
 
 @3742
+# ¿Chica rara?
 <en>She was pointing at me and laughing. She's a funny girl.
-<es>
+<es>Me apuntaba con el dedo y se reía. Es una chica divertida.
 
 @3747
 <en>{Haruka}\n"Anyways!\nNo more speaking behind their back, everybody, O.K?"
@@ -5594,11 +5596,11 @@
 
 @3750
 <en>{Haruka}\n"If you guys need someone to talk to, let me know, O.K?"
-<es>
+<es>{Haruka}\n"Si necesitáis a alguien con quién hablar, hacédmelo saber, ¿vale?"
 
 @3751
 <en>She is so kind. The crowd was gone before we knew it.
-<es>
+<es>Es muy amable. La muchedumbre se había disuelto antes de que nos diésemos cuenta.
 
 @3755
 <en>{Pierre}\n"Wow, she saved our ass."
@@ -5658,15 +5660,15 @@
 
 @3792
 <en>{Haruka}\n"That was little too much.\nThat was kind of disgusting."
-<es>
+<es>{Haruka}\n"Aquello fue demasiado.\nFue bastante desagradable."
 
 @3796
 <en>{Sakura}\n"I guess you guys deserve how you've been treated so far."
-<es>
+<es>{Sakura}\n"Supongo que sí os merecéis cómo os han tratado."
 
 @3800
 <en>{Pierre}\n"Nobody wants to tell us where our dorm is."
-<es>{Pierre}\n"Nobody quiere decirnos dónde está nuestra habitación."
+<es>{Pierre}\n"Nadie quiere decirnos dónde está nuestra habitación."
 
 @3803
 <en>{Haruka}\n"All right, I will guide you there."
@@ -5678,7 +5680,7 @@
 
 @3808
 <en>{Kazushi}\n"I don't want people to start treating you like one of us."
-<es>
+<es>{Kazushi}\n"No me gustaría que la gente empezase a tratarte como a uno de nosotros."
 
 @3812
 <en>{Rin}\n"That won't happen."
@@ -5722,7 +5724,7 @@
 
 @3835
 <en>{Kazushi}\n"Is that it?"
-<es>{Kazushi}\n"¿Es ese?"
+<es>{Kazushi}\n"¿Es aquí?"
 
 @3838
 <en>{Haruka}\n"That's girls' dorm."
@@ -5730,15 +5732,15 @@
 
 @3846
 <en>{Pierre}\n"No kidding!!"
-<es>
+<es>{Pierre}\n"¡¡Vaya!!"
 
 @3847
 <en>{Appo-}\n"Ours is a newer building, so it could be just as good right?"
-<es>
+<es>{Appo-}\n"El nuestro es más nuevo, así que debe estar así de bien, ¿no?"
 
 @3848
 <en>{Kazushi}\n"That's right!\nI can't wait to see it, where is it?"
-<es>
+<es>{Kazushi}\n"¡Sí!\nNo puedo esperar a verlo, ¿dónde está?"
 
 @3854
 <en>{Haruka}\n"We 're almost there."
@@ -5754,7 +5756,7 @@
 
 @3864
 <en>{Daigo}\n"Me, either!"
-<es>{Daigo}\n"¡No yo!"
+<es>{Daigo}\n"¡Ni yo!"
 
 @3876
 <en>{Haruka}\n"Guys......\nI think you should lower your expectations......they are gone."
@@ -5802,7 +5804,7 @@
 
 @3919
 <en>{Kazushi}\n"At least it's got air-conditioning, right?"
-<es>{Kazushi}\n"Al menos tendrá aire acondicionado, ¿no??"
+<es>{Kazushi}\n"Al menos tendrá aire acondicionado, ¿no?"
 
 @3920
 <en>{Haruka}\n"I'm sorry. They said it wouldn't make a difference in a shack."
@@ -5846,7 +5848,7 @@
 
 @3946
 <en>I tried not to see the shack just to maintain my confidence level for upcoming life in this island.
-<es>
+<es>Traté de no mirar la choza para lograr mantener mi nivel de confianza en la vida que me esperaba en la isla.
 
 @3952
 <en>{Haruka}\n"I'll try to tell my grand ma to improve your dorm, O.K?"
@@ -5946,7 +5948,7 @@
 
 @4016
 <en>{Appo-}\n"Stop. I don't want to remember I skipped my dinner.\nHow many hours do we have till the break fast?"
-<es>{Appo-}\n"Calla. No me recuerdes que me he perdido la cena.\n¿Cuántas horas quedan hasta el desayuno?"
+<es>{Appo-}\n"Calla. No me recuerdes que me he perdido la comida.\n¿Cuántas horas quedan hasta la siguiente comida?"
 
 @4017
 <en>He must be so hungry after throwing up all the way to get here in the boat.
@@ -5978,11 +5980,11 @@
 
 @4036
 <en>Even the ocean breeze we felt so good when we got here now feels annoying.
-<es>Hasta la brisa del océano que rsultaba tan reconfortante cuando vinimos, ahora resulta molesta.
+<es>Hasta la brisa del océano que resultaba tan reconfortante cuando vinimos, ahora resulta molesta.
 
 @4037
 <en>We took a walk to where we could see a harbor.
-<es>
+<es>Dimos una vuelta hasta donde pudimos ver el puerto.
 
 @4040
 <en>{Pierre}\n"It's so quiet now."
@@ -5994,7 +5996,7 @@
 
 @4052
 <en>We couldn't imagine it will get this quiet at night.
-<es>Eramos incapaces de imaginar que estaría así de tranquilo durante la noche.
+<es>Eramos incapaces de imaginar que estaría así de tranquilo por la tarde.
 
 @4053
 <en>We lost all the hope we had in the beginning of the day.
@@ -6050,11 +6052,11 @@
 
 @4066
 <en>We were dreaming without any solid reasons.
-<es>Esstábamos todos con nuestras ensoñaciones sin tener razones sólidas.
+<es>Estábamos todos con nuestras ensoñaciones sin tener razones sólidas.
 
 @4067
 <en>But for some reason, I still had some hope for our upcoming life in this island.
-<es>Pero por algún motivo, to todavía tenía alguna esperanza de la futura vida en esta isla.
+<es>Pero por algún motivo, yo todavía tenía alguna esperanza de la futura vida en esta isla.
 
 @4068
 <en>I don't know why, though.
@@ -6082,7 +6084,7 @@
 
 @4080
 <en>{Pierre}\n"Hey Daigo, you seriously sounded like a lunatic right there."
-<es>
+<es>{Pierre}\n"Ey Daigo. Eso ha sonado como la frase de un tarado."
 
 @4083
 <en>{Daigo}\n"What we are doing here doesn't look healthy, either."
@@ -6098,11 +6100,11 @@
 
 @4091
 <en>We were long for where we came from already.
-<es>
+<es>Ya estábamos muy lejos de nuestro punto de partida.
 
 @4092
 <en>This is the summer we've been waiting for a long time--\nIt's gone.
-<es>
+<es>El verano que estuvimos esperando durante tanto tiempo... se ha esfumado.
 
 @4093
 <en>{Kazushi}\n"Well......"
@@ -6146,15 +6148,15 @@
 
 @4109
 <en>{Pierre}\n"We studied so hard to pass the exam so we could all be here......"
-<es>
+<es>{Pierre}\n"Estudiamos todos tanto para aprobar el examen para que pudiésemos estar todos aquí..."
 
 @4110
 <en>Pierre didn't continue.
-<es>
+<es>Pierre no continuó.
 
 @4113
 <en>{Pierre}\n"Well.\nI don't care anymore."
-<es>
+<es>{Pierre}\n"Bueno.\nYa me da igual."
 
 @4114
 <en>{Kazushi}\n"Hey guys! Let's do something extraordinary. Let's steal a boat!!"
@@ -6202,7 +6204,7 @@
 
 @4143
 <en>The harbor is so quiet at night.
-<es>El puerto estaba muy tranquilo por la noche.
+<es>El puerto estaba muy tranquilo por la tarde.
 
 @4144
 <en>We could hear every steps of our own.
@@ -6210,11 +6212,11 @@
 
 @4150
 <en>{Daigo}\n"Hey, is it supposed to be this quiet?"
-<es>
+<es>{Daigo}\n"Ey, ¿se supone que tendría que estar tan tranquilo?"
 
 @4157
 <en>{Pierre}\n"Fishermen goes to bed super early."
-<es>{Pierre}\n"Los pescadores se van a dormir super temprano."
+<es>{Pierre}\n"Los pescadores dejan de faenar super temprano."
 
 @4158
 <en>{Appo-}\n"Which makes our job really easy."
@@ -6258,7 +6260,7 @@
 
 @4203
 <en>All the sudden, all the boat start sinking.
-<es>De repente, todos los botes empiezan a hindirse.
+<es>De repente, todos los botes empiezan a hundirse.
 
 @4210
 <en>{Kazushi}\n"The boats are sinking!!"
@@ -6293,13 +6295,13 @@
 <es>No pudimos hacer nada con mirar...
 
 @4353
-// TODO: Cambiar yardas a kilómetros o metros.
+// TODO: Cambiar yardas a metros. 1 yarda = 0.914 metros.
 <en>The shore line was pulled back a couple hundred yards.
-<es>La línea de la playa bajó un par de cientos de yardas.
+<es>La línea de la playa bajó un par de cientos de metro.
 
 @4354
 <en>How are we going to sail off?!!
-<es>
+<es>¡¿Cómo vamos a salir de aquí?!
 
 @4355
 <en>{Boys}\n"This is unreal-----------!!"
