@@ -2749,7 +2749,7 @@
 
 @2087
 <en>{Pierre}\n"......dies she know him well!?"
-<es>
+<es>{Pierre}\n"Maldición, ¿¡lo conoce bien!?"
 
 @2092
 <en>{Daigo}\n"Kazushi can't be that lucky......"
@@ -2769,7 +2769,7 @@
 
 @2103
 <en>{Daigo}\n"But you have met him once."
-<es>
+<es>{Daigo}\n"Pero ya te lo has encontrado una vez."
 
 @2104
 <en>{A girl}\n"Kazushi, that's his name?\nwhat's his last name?"
@@ -2785,7 +2785,7 @@
 
 @2112
 <en>{Pierre}\n"What is your name?"
-<es>{Pierre}\n"¿Cómo te llamas?"
+<es>{Pierre}\n"¿T tú cómo te llamas?"
 
 @2113
 <en>{A girl}\n"I'm Mizuki."
@@ -2797,7 +2797,7 @@
 
 @2118
 <en>{Mizuki}\n"It's an ordinary name."
-<es>{Mizuki}\n"Es un nombre corriente."
+<es>{Mizuki}\n"Es un nombre normal y corriente."
 
 @2119
 <en>{Pierre}\n"My friends call me Pierre!"
@@ -2906,7 +2906,7 @@
 @2175
 # ¿Su corazón, o el de ella?
 <en>She's so close to me.\nI can hear my own heart pounding.
-<es>Está tan cerca de mí que puedo oír mi corazón latir.
+<es>Está muy cerca de mí. Puedo sentir mi corazón latir.
 
 @2176
 # "doki doki". Le late el corazón.
@@ -2941,7 +2941,7 @@
 
 @2183
 <en>{Kazushi}\n"What was it?"
-<es>{Kazushi}\n"¿Qué era eso?"
+<es>{Kazushi}\n"¿Qué era?"
 
 @2184
 <en>{Ran}\n"Couples mistake the feelings of danger with the excitement of love."
@@ -2949,7 +2949,7 @@
 
 @2185
 <en>{Kazushi}\n"Oh, yeah. Why are we talking about this now?"
-<es>{Kazushi}\n"Ah, cierto. ¿Por qué me estás hablando de eso ahora?"
+<es>{Kazushi}\n"Ah, cierto. Pero, ¿por qué me estás hablando de eso ahora?"
 
 @2186
 <en>{Ran}\n"Well, we are experiencing both of them now."
@@ -2993,15 +2993,16 @@
 
 @2202
 <en>I pushed Ran to the side.\nI received a full tackle from the machine.
-<es>Empujo a Ran hacia un lado.\nRecibo completamente un placaje de la máquina.
+<es>Empujo a Ran hacia un lado.\nRecibo completamente el placaje de la máquina.
 
 @2205
 <en>{Kazushi}\n"This position is......!!"
 <es>{Kazushi}\n"¡¡Esta posición es...!!"
 
 @2207
+// Wheel throw? ¿LLave?
 <en>A wheel throw!\nI can use his own force to throw him away.
-<es>
+<es>¡Una llave!\nPuedo usar su propia fuerza para tirarlo.
 
 @2208
 <en>{Kazushi}\n"Take this------------!!"
@@ -3009,7 +3010,7 @@
 
 @2209
 <en>{A sign board}\n"#$%&* --------!?"
-<es>
+<es>{Señal}\n"¿¡#$%&*...!?"
 
 @2210
 <en>{Kazushi}\n"My Judo skill!"
@@ -3017,7 +3018,7 @@
 
 @2212
 <en>I totally utilized its force from a tackle and completed a wheel throw. I threw it over the bridge and it fell all the way to the bottom.
-<es>
+<es>Utilicé completamente la fuerza de su placaje y le hice una llave. Lo lancé por el puente y cayó hasta abajo del todo.
 
 @2216
 <en>{Ran}\n"Hey Kazushi!!"
@@ -3029,7 +3030,7 @@
 
 @2218
 <en>The momentum was so big, I threw myself over the bridge, too.
-<es>
+<es>El impulso fue tan grande que me lancé también a mí mismo por el puente.
 
 @2219
 <en>......it was too late.
@@ -3041,15 +3042,15 @@
 
 @2224
 <en>I saw Ran stretched her arm, but it wasn't soon enough.
-<es>
+<es>Ran estiró su brazo para cogerme pero no lo suficientemente rápido.
 
 @2226
 <en>{Kazushi}\n"......no-----------!!"
-<es>
+<es>{Kazushi}\n"¡¡Noooo...!!"
 
 @2235
 <en>{Ran}\n"......no way......I just met him."
-<es>{Ran}\n"No puede ser... Acababa de conocerle."
+<es>{Ran}\n"No puede ser... Acababa de conocerle..."
 
 @2238
 <en>..................
@@ -3072,12 +3073,13 @@
 <es>{Kazushi}\n"¿...? ¿Qué me ha pasado...?"
 
 @2247
+// ¿El/un bosque? Luego pregunta dónde está. Queda raro.
 <en>I tried to lift my heavy eye rids.\nI saw blue sky. I think I'm in the forest.
-<es>
+<es>Traté de levantar mis pesados párpados.\nVi un cielo azul. Creo que estoy en un bosque.
 
 @2248
 <en>{Kazushi}\n"Where am I?"
-<es>
+<es>{Kazushi}\n"¿Dónde estoy?"
 
 @2249
 <en>It took me a while to realize that this is not my room.
@@ -3157,7 +3159,7 @@
 
 @2272
 <en>{Kazushi}\n"Hey......?"
-<es>
+<es>{Kazushi}\n"Anda..."
 
 @2273
 <en>Just before I started to cry, I finally saw an end of the forest.
@@ -3165,7 +3167,7 @@
 
 @2274
 <en>{Kazushi}\n"Yes! Almost there!"
-<es>{Kazushi}\n"¡Sí! ¡Ya estoy casi!"
+<es>{Kazushi}\n"¡Sí! ¡Ya casi estoy!"
 
 @2276
 <en>I ran toward the end of the forest.
@@ -3173,11 +3175,12 @@
 
 @2280
 <en>{Kazushi}\n"Wow......"
-<es>
+<es>{Kazushi}\n"Vaya..."
 
 @2281
+// flower bed | Cuadro, Macizo, Reata 
 <en>I ended up getting out to a flower bed.
-<es>
+<es>Acabé saliendo a un cuadro floral.
 
 @2282
 <en>{Kazushi}\n"What kind of flowers are these?"
@@ -3185,7 +3188,7 @@
 
 @2283
 <en>They were so white. It reminded me of snow.
-<es>Son tan blancas. Me recuerda a la nieve.
+<es>Son tan blancas. Me recuerdan a la nieve.
 
 @2284
 <en>It'll be amazing when all these flowers bloom.
@@ -3281,7 +3284,7 @@
 
 @2313
 <en>I don't think she could hear my voice in my head, but she turned around and spotted me.
-<es>No creo que haya podido oír la voz de mi cabeza, pero se giró y me descubrió.
+<es>No creo que pudiese oír la voz de mi cabeza, pero se giró y me descubrió.
 
 @2314
 <en>{Kazushi}\n"Hi."
@@ -3353,7 +3356,7 @@
 
 @2333
 <en>{Kazushi}\n"It's O.K!\nPlease calm down!\nI'm not a bad guy!"
-<es>{Kazushi}\n"¡No pasa nada!\n¡Tranquilízate!\n¡No soy un mal chico!"
+<es>{Kazushi}\n"¡No pasa nada!\n¡Tranquilízate!\n¡No soy malo!"
 
 @2334
 <en>{Naked girl}\n"Bad guys always say that!"
@@ -3365,7 +3368,7 @@
 
 @2336
 <en>Why am I convinced?!!
-<es>¡¡¿Por qué estoy convencido?!!
+<es>¡¿Por qué estoy convencido?!
 
 @2337
 <en>{Naked girl}\n"How did you get here!?"
@@ -3457,7 +3460,7 @@
 
 @2366
 <en>I'm so glad she started to talk to me. I can use this time to calm down my other half.
-<es>Menos mal que me ha empezado a hablar ella. Puedo aprovechar este tiempo para que se tranquilice mi amiguito.
+<es>Menos mal que me ha empezado a hablar ella. Puedo aprovechar este tiempo para que mi amiguito se tranquilice.
 
 @2367
 <en>{Kazushi}\n"Yep. I told you I'm not a bad guy."
@@ -3473,7 +3476,7 @@
 
 @2370
 <en>I can't blame her. We haven't met before.
-<es>No puedo culparla. No nos conocíamos de antes.
+<es>No puedo culparla. Me acaba de conocer.
 
 @2371
 <en>Well then, I have to come up with something to prove I'm not a bad guy.
@@ -3517,7 +3520,7 @@
 
 @2382
 <en>{Haruka}\n"They are so old. And there are not many children in this island, either. That's why there is only one school in this island."
-<es>{Haruka}\n"Son todos muy viejos. Y tampoco hay muchos niños en la isla. Por eso hay una única escuela en la isla."
+<es>{Haruka}\n"Son todos muy viejos. Y tampoco hay muchos niños en la isla. Por eso hay solo una escuela."
 
 @2383
 <en>She's right.\nI haven't seen a child since I got here.
@@ -3569,7 +3572,7 @@
 
 @2403
 <en>She noticed that I couldn't keep my eyes off her.
-<es>Se dio cuenta de que no podía quitarle el ojo de encima.
+<es>Se dió cuenta de que no podía quitarle el ojo de encima.
 
 @2404
 <en>{Kazushi}\n"I'm sorry.\nI'm just......not used to being with a girl."
@@ -3589,7 +3592,7 @@
 
 @2410
 <en>She laughed for a second before she looks down.
-<es>
+<es>Se rió durante un segundo justo antes de ponerse roja.
 
 @2413
 <en>{Haruka}\n"Will you please erace what you saw earlier?\nOr else I can't look at your face straight."
@@ -3613,7 +3616,7 @@
 
 @2420
 <en>{Kazushi}\n"Nice to meet you\n......Ms, Aozora."
-<es>{Kazushi}\n"Encantado de conocerla\n... Señorita Aozora."
+<es>{Kazushi}\n"Encantado de conocerla... Señorita Aozora."
 
 @2423
 <en>{Haruka}\n"Call me Haruka."
@@ -3623,13 +3626,17 @@
 <en>Haruka's hands were as soft as the white flowers around us.
 <es>Las manos de Haruka son tan suaves como las flores blancas que nos rodean.
 
+
+## Cambio de escena. Salen del bosque.
+
+
 @2429
 <en>{Haruka}\n"Here, we are."
-<es>
+<es>{Haruka}\n"Aquí estamos."
 
 @2430
 <en>{Kazushi}\n"This is no fair-?\nI walked forever trying to get back here."
-<es>
+<es>{Kazushi}\n"No es justo...\nYo había andado un montón para llegar aquí..."
 
 @2431
 <en>{Haruka}\n"This place is like my backyard."
@@ -3637,7 +3644,7 @@
 
 @2433
 <en>Thanks to Haruka.\nIt is only one way up the hill to the school.
-<es>
+<es>Gracias a Haruka ahora sólo hay un camino para llegar a la colina donde está la escuela.
 
 @2436
 <en>{Ran}\n"There you are!"
@@ -3645,7 +3652,7 @@
 
 @2437
 <en>I saw Ran running toward me.\nShe dived into my arms.
-<es>Vi a Ran corriendo hacia mí.\nSe lanzó hacia mis brazos.
+<es>Vi a Ran corriendo hacia mí.\nSe lanzó a mis brazos.
 
 @2456
 <en>{Haruka}\n"What is this!?"
@@ -3661,7 +3668,7 @@
 
 @2463
 <en>She was so worried about me. Her feelings touched my heart.
-<es>Estaba muy preocupada por mí. Eso es algo que llegó al alma.
+<es>Estaba muy preocupada por mí. Eso es algo que me llegó al alma.
 
 @2464
 <en>{Kazushi}\n"Thanks for worrying about me.\nI'm all right."
@@ -3685,11 +3692,11 @@
 
 @2475
 <en>Haruka just stood there and trying to find out what was going on.
-<es>
+<es>Haruka estaba ahí, tratando de averiguar qué estaba pasando.
 
 @2476
 <en>{Haruka}\n"Hey Ran, what kind of dramatic event did I miss?"
-<es>{Haruka}\n"Ey Ran, ¿qué clase de situación tan dramática me he perdido?"
+<es>{Haruka}\n"Oye Ran, ¿qué clase de situación tan dramática me he perdido?"
 
 @2479
 <en>{Ran}\n"What?"
@@ -3697,7 +3704,7 @@
 
 @2480
 <en>Ran finally reallized there is Haruka with us.
-<es>Ran se da cuenta al fin de que Haruka está junto a nosotros.
+<es>Ran se da cuenta al fin de que Haruka está aquí también.
 
 @2481
 <en>{Ran}\n"Hey Ran-,what are you doing here?"
@@ -3729,8 +3736,7 @@
 
 @2496
 <en>Haruka looks at me with a surprise face.\nEverybody knows that bridge would give me the same face.
-<es>
-#<es>Haruka me mira con una cara de sorpresa.\nEverybody knows that bridge would give me the same face.
+<es>Haruka me mira con una cara de sorpresa.\nCualquiera que conociese ese puente me miraría con la misma cara.
 
 @2497
 <en>{Haruka}\n"You guys are joking, right?"
@@ -3786,7 +3792,7 @@
 
 @2520
 <en>{Ran}\n"We ran into each other by an accident."
-<es>{Ran}\n"Nos cruzamos por un accidente."
+<es>{Ran}\n"Nos cruzamos por 'accidente'."
 
 @2521
 <en>{Haruka}\n"An accident?"
@@ -3814,7 +3820,7 @@
 
 @2531
 <en>{Kazushi}\n"You were born and raised here and that's why you know your way around here so well."
-<es>{Kazushi}\n"Naciste y te criaste aquí. Por eso que conoces tan bien los alrededores."
+<es>{Kazushi}\n"Naciste y te criaste aquí. Por eso conoces tan bien los alrededores, ¿no?"
 
 @2534
 <en>{Haruka}\n"That's right.\nAnd if you have any questions about this island, I'm the one you should look for."
@@ -3834,19 +3840,20 @@
 
 @2540
 <en>{Haruka}\n""YO-SORO-"!"
-<es>
+<es>{Haruka}\n"¡"YO-SORO-"!"
 
 @2541
 <en>{Kazushi}\n"YO-SORO-?"
-<es>
+<es>{Kazushi}\n"¿YO-SORO-?"
 
 @2542
+// Forzado.
 <en>What is "YO-SORO-"?\nAnyways, I already like hanging out with Haruka.
-<es>
+<es>¿Qué es eso de "YO-SORO-"?\nDe todas formas ya me gusta pasar el rato con Haruka.
 
 @2543
 <en>{Ran}\n"So, what were you doing here?"
-<es>
+<es>{Ran}\n"¿Y qué hacías por aquí?"
 
 @2546
 <en>{Haruka}\n"I had to see my grand ma......I mean principal."
@@ -3862,11 +3869,12 @@
 
 @2551
 <en>Haruka makes a complain.\nI think she meant about the flower bed.
-<es>
+<es>Se queja Haruka.\nImagino que se refería al cuadro floral.
 
 @2554
+// ???
 <en>{Ran}\n"Like a grand ma, like a grand daughter.\nI sure can't take care of that."
-<es>
+<es>{Ran}\n"Abuela y nieta. La una para la otra.\nSeguro que no se puede encargarse de eso."
 
 @2555
 <en>I don't know what a hell they are talking about.
@@ -3882,11 +3890,11 @@
 
 @2571
 <en>{Appo-}\n"We came to rescue you- finally."
-<es>{Appo-}\n"Hemos venido finalmente a tu rescate."
+<es>{Appo-}\n"Hemos venido finalmente a rescatarte."
 
 @2572
 <en>Here comes my boys.\nAlong with the girls I don't know.
-<es>
+<es>Ahí vienen mis chicos.\nJunto con las chicas que no conozco.
 
 @2578
 <en>{Mizuki}\n"Ah......!?"
@@ -3898,7 +3906,7 @@
 
 @2584
 <en>{Ran}\n"What are you doing here, Mizuki?\nYou girls got picked up by the boys here?"
-<es>
+<es>{Ran}\n"¿Qué estáis haciendo aquí, Mizuki?\nChicas, ¿os han recogido los chicos estos?"
 
 @2587
 <en>{Mizuki}\n"Ofcourse not!!"
@@ -3910,7 +3918,7 @@
 
 @2595
 <en>{Mizuki}\n"Hey, Haruka?\nWhy are you with them?"
-<es>{Mizuki}\n"Oye, ¿Haruka?\n¿Qué haces con ellos?"
+<es>{Mizuki}\n"Eh, ¿Haruka?\n¿Qué haces con ellos?"
 
 @2596
 <en>{Haruka}\n"It's a long story."
@@ -3934,7 +3942,7 @@
 
 @2607
 <en>She can not be any more reluctant to meet me.\nShe seems to be upset with me.
-<es>
+<es>Complicado es que estuviese más indispuesta a presentarse.\nParece estar molesta conmigo.
 
 @2608
 <en>{Kazushi}\n"Have we met before?"
@@ -3970,11 +3978,11 @@
 
 @2625
 <en>She's not trying to shake my hand.
-<es>
+<es>No parece tener intención de estrecharme la mano.
 
 @2626
 <en>{Kazushi}\n"Opps, sorry. Am I being pushey?"
-<es>
+<es>{Kazushi}\n"Ups, lo siento. ¿Te estoy presionando?"
 
 @2629
 <en>{Mizuki}\n"No.\nit's just, I'm not used to shake hand with anyone......"
@@ -3982,7 +3990,7 @@
 
 @2630
 <en>She tried shaking my hand.\nI have a feeling I've met her before.
-<es>
+<es>Trató de estrecharme la mano\nTengo la sensación de haberla visto antes.
 
 @2631
 <en>But, she said we haven't met.
@@ -4040,7 +4048,7 @@
 
 @2674
 <en>{Kazushi}\n"Sounds like an "apple" right, look at his figure."
-<es>{Kazushi}\n"Suena como a "apple" ¿no? Mira su figura."
+<es>{Kazushi}\n"Suena como a "apple" ¿no? Mira su silueta."
 
 @2675
 <en>{Ran}\n"I see."
@@ -4107,7 +4115,7 @@
 <es>{Appo-}\n"Kazushi, ¡¡tu tranquilidad me pone enfermo!!"
 
 @2733
-# Harem.
+# Harem. En los juegos H es un final donde un chico acaba con todas las chicas a la vez.
 <en>{Pierre}\n"Is this your harem! Since when you became a king!?"
 <es>{Pierre}\n"¡Es tu harem! ¿¡Desde cuando te has convertido en el Rey!?"
 
@@ -4169,11 +4177,11 @@
 
 @2780
 <en>{Kazushi}\n"We just got into a little misunderstanding......"
-<es>
+<es>{Kazushi}\n"Todo es un pequeño malentendido..."
 
 @2783
 <en>{Teacher Yagami}\n"Get your ass over here in front of me!!"
-<es>
+<es>{Profesor Yagami}\n"¡¡Ven aquí ahora mismo!!"
 
 @2784
 <en>{Kazushi}\n"Yes sir......!"
@@ -4189,11 +4197,11 @@
 
 @2792
 <en>{Appo-}\n"Yes!\nBecause we didn't follow the rules!"
-<es>
+<es>{Appo-}\n"¡Sí!\n¡Porque no hemos seguido las reglas!"
 
 @2796
 <en>{Teacher Yagami}\n"Well then, you guys close your eyes."
-<es>
+<es>{Profesor Yagami}\n"Vale. Entonces, cerrad los ojos."
 
 @2797
 <en>{Kazushi}\n"Yes!"
@@ -4201,11 +4209,11 @@
 
 @2798
 <en>Teacher Yagami winds up his fist.
-<es>
+<es>El profesor Yagami prepara sus puños.
 
 @2802
 <en>{Mizuki}\n"What is he gonna do......?"
-<es>
+<es>{Mizuki}\n"¿Qué es lo que va a hacer...?"
 
 @2807
 <en>{Kazushi}\n"Ouch!!"
@@ -4213,27 +4221,27 @@
 
 @2812
 <en>{Pierre}\n"Ou!"
-<es>
+<es>{Pierre}\n"¡Au!"
 
 @2818
 <en>{Appo-}\n"Ouch!!"
-<es>
+<es>{Appo-}\n"¡¡Auch!!"
 
 @2824
 <en>{Daigo}\n"Oh!"
-<es>
+<es>{Daigo}\n"¡Oh!"
 
 @2828
 <en>We all must flew agout 10 feet.
-<es>
+<es>Debemos haber volado algo así como unos tres metros.
 
 @2831
 <en>{Ran}\n"Wow!"
-<es>
+<es>{Ran}\n"¡Vaya!"
 
 @2832
 <en>That hurt. I don't think we can get up for a while.
-<es>
+<es>Qué daño. No creo que podamos levantarnos durante un buen rato.
 
 @2838
 <en>{Haruka}\n"......is this legal?"
@@ -4249,7 +4257,7 @@
 
 @2850
 <en>{Appo-}\n"Wow-----!\nThat hurt!!"
-<es>
+<es>{Appo-}\n"¡Au...!\n¡¡Eso duele!!"
 
 @2851
 <en>{Pierre}\n"I don't think I'll ever get used to this."
@@ -4257,7 +4265,7 @@
 
 @2857
 <en>{Teacher Yagami}\n"Ofcourse not!\nYou guys need to grow up before I ruin my fist."
-<es>
+<es>{Profesor Yagami}\n"¡Claro que no!\nTenéis que madurar antes para llegar a arruinarme los puños de verdad."
 
 @2858
 <en>{Kazushi}\n"If you're so worried about your fist. Will you hit us little softer?"
@@ -4285,7 +4293,7 @@
 
 @2882
 <en>{Pierre}\n"How bad do we have to be to pull out your 100%?"
-<es>
+<es>{Pierre}\n"¿Qué tendríamos que hacer para que nos dieses al 100%?"
 
 @2883
 # Crimen sexual/violación.
@@ -4302,11 +4310,12 @@
 
 @2889
 <en>I really have to keep my eyes on him.
-<es>
+<es>Creo que voy a tener vigilarle de cerca.
 
 @2894
+# ¿Singular o plural? En singular queda más dedicado al personaje. Pero no está claro.
 <en>{Haruka}\n"Can you get up?"
-<es>{Haruka}\n"¿Puedes levantarte?"
+<es>{Haruka}\n"¿Podéis levantaros?"
 
 @2895
 <en>The girls didn't know what to do.
@@ -4318,7 +4327,7 @@
 
 @2901
 <en>{Pierre}\n"I don't mind you giving me a hand, though."
-<es>
+<es>{Pierre}\n"Aunque no me importaría que tú me tendieses una mano."
 
 @2907
 <en>{Pierre}\n"Ouch......!"
@@ -4338,7 +4347,7 @@
 
 @2918
 <en>{A sexy lady}\n"Explain to me what's going on?"
-<es>
+<es>{Mujer sexy}\n"¡Explícame qué está pasando!"
 
 @2919
 <en>She sounded so upset.
@@ -4354,7 +4363,7 @@
 
 @2923
 <en>She seems like not knowing what she can do to let her anger go. But anyways, she looks so sexy.
-<es>
+<es>Parece no saber qué hacer para controlar su furia. Pero de todas formas, es muy sexy.
 
 @2924
 <en>{Appo-}\n"Oh my god--------......"
@@ -4374,7 +4383,7 @@
 
 @2928
 <en>Mr.Yagami was all smiling.\nOn the other hand, Miss Ibuki still looked upset.
-<es>
+<es>El señor Yagami estaba sonriendo.\nPor otro lado, la señorita Ibuki seguía cabreada.
 
 @2929
 <en>{Teacher Ibuki}\n"......was this a physical punishment?"
@@ -4394,11 +4403,11 @@
 
 @2933
 <en>{Pierre}\n"Hey guys, isn't she the beautiful teacher that old man from the grocery store mentioned?"
-<es>
+<es>{Pierre}\n"Ey chicos, ¿no será esa la profesora guapa que nos mencionó aquel viejales de la verdulería?"
 
 @2934
 <en>{Appo-}\n"Oh! The one supposed to be my wife in the future!!"
-<es>
+<es>{Appo-}\n"¡Oh! ¡¡La que acabará siendo mi esposa!!"
 
 @2935
 <en>{Pierre}\n"Who said so?!\nShe could be my wife, too."
@@ -4414,7 +4423,7 @@
 
 @2938
 <en>{Teacher Ibuki}\n"My name? \nI'm Mei Ibuki."
-<es>{Profesora Ibuki}\n"¿Mi nombre? \nMe llamo Ibuki."
+<es>{Profesora Ibuki}\n"¿Mi nombre? \nMe llamo Mei Ibuki."
 
 @2939
 <en>{Appo-}\n"Mei! Mei! My Mei!"
@@ -4430,7 +4439,7 @@
 
 @2943
 <en>She must be surprised to see us getting all energetic again so soon.
-<es>Debe haberse quedado sorprendida al vernos tan energéticos de nuevo.
+<es>Debe haberse quedado sorprendida al vernos tan enérgicos de nuevo.
 
 @2949
 <en>{Teacher Yagami}\n"I told you they are fine."
@@ -4450,7 +4459,7 @@
 
 @2955
 <en>She looked like a goddess to us.
-<es>Nos parecía casi como una diosa.
+<es>Nos parecía casi como una Diosa.
 
 @2956
 # Dice profesora, pero bah.
@@ -4488,7 +4497,7 @@
 
 @2979
 <en>{Teacher Yagami}\n"Now you know what I mean, right. They won't listen to you."
-<es>
+<es>{Profesor Yagami}\n"Ahora ya sabes a lo que me refiero, ¿No? No te van a escuchar."
 
 @2982
 <en>{Mei}\n"That's not true.\nYou can not give up on them."
@@ -4508,7 +4517,7 @@
 
 @2992
 <en>{Teacher Yagami}\n"It's more like a communication between them and me."
-<es>
+<es>{Profesor Yagami}\n"Es más como una forma de comunicarnos entre ellos y yo."
 
 @2993
 <en>{Mei}\n"I'm still strongly against physical punishment."
@@ -4559,6 +4568,7 @@
 <es>{Mei}\n"Vamos."
 
 @3020
+# ¿Refiriéndose a Mei?
 <en>{Haruka}\n"Wait, let me help you."
 <es>{Haruka}\n"Espera, déjame ayudarte."
 
@@ -4580,7 +4590,7 @@
 
 @3045
 <en>{Pierre}\n"I've never been to nurse's office for actual treatment. I thought this place is for guys wanna take a nap."
-<es>{Pierre}\n"Vaya, nunca había estado en la enfermería para un tratamiento de verdad. Pensaba que este sitio era para venir a echar una cabezadita."
+<es>{Pierre}\n"Vaya, nunca había estado en la enfermería para un tratamiento de verdad. Pensaba que este sitio únicamente servía para venir a echar una cabezadita."
 
 @3050
 <en>{Appo-}\n"Guys! This bed smells like girls!"
@@ -4608,7 +4618,7 @@
 
 @3068
 <en>{Funny face girl}\n"There you are Miss. Ibuki-"
-<es>
+<es>{Chica de cara chunga}\n"¡Ahí estás señorita Ibuki-!"
 
 @3069
 <en>A student came in.
@@ -4616,19 +4626,19 @@
 
 @3070
 <en>She's gotta great body. It is so mis-matched with her funny face.
-<es>
+<es>Tiene un buen cuerpo. Muy contrastado con su cara chunga.
 
 @3075
 <en>{Mei}\n"Hi Miss. Hu-sen. What do you need?"
-<es>
+<es>{Mei}\n"Hola señorita Hu-sen. ¿Qué ocurre?"
 
 @3076
 <en>I see. Her name is Miss. Hu-sen.
-<es>
+<es>Ya veo. Se llama señorita Hu-sen.
 
 @3080
 <en>{Hu-sen}\n"Can you help us? There is something so disgusting."
-<es>
+<es>{Hu-sen}\n"¿Puedes ayudarnos? Ha pasado algo muy desagradable."
 
 @3083
 <en>{Mei}\n"What is so disgusting?"
@@ -4640,11 +4650,11 @@
 
 @3087
 <en>She's trying to pull out Miss. Ibuki from this room.
-<es>
+<es>Trata de llevarse a la señorita Ibuki de la habitación.
 
 @3090
 <en>{Mei}\n"O.K O.K Give me one second."
-<es>{Mei}\n"Vale, vale... Dame un momento."
+<es>{Mei}\n"Vale, vale... Dame un segundo."
 
 @3091
 <en>She turns around. Her face is saying she's sorry to us.
@@ -4664,7 +4674,7 @@
 
 @3103
 <en>{Pierre}\n"Miss. Ibuki-,please come back soon-"
-<es>
+<es>{Pierre}\n"Señorita Ibuki-, por favor, vuelve pronto..."
 
 @3108
 <en>{Mei}\n"I promise I'll be back soon."
@@ -4705,15 +4715,15 @@
 @3149
 # ¿La chica de la cara chunga?
 <en>The funny face girl took away our girls.
-<es>
+<es>La chica de la cara chunga se lleva a nuestras chicas.
 
 @3156
 <en>{Appo-}\n"That funny face girl must belong to the bad guys we saw earlier."
-<es>
+<es>{Appo-}\n"La chica de la cara chunga debe ser de los tipos malos que vimos antes."
 
 @3157
 <en>{Pierre}\n"At least she's not harmful."
-<es>
+<es>{Pierre}\n"Al menos no es dañina."
 
 @3158
 <en>{Daigo}\n"I wish her face was as beautiful as her figure."
@@ -4725,7 +4735,7 @@
 
 @3160
 <en>She was looking at us cold before she left.
-<es>Nos lanzó una mirada fría ants de irse.
+<es>Nos lanzó una mirada fría antes de irse.
 
 @3161
 <en>{Kazushi}\n"Her face was as round as your body, Appo-."
@@ -4791,11 +4801,11 @@
 
 @3196
 <en>{Appo-}\n"Oh yeah?! Then why do you have a pair of small socks in your pockets?"
-<es>
+<es>{Appo-}\n"¡¿Ah, sí?! Entonces, ¿por qué tienes unos calcetines pequeños en los bolsillos?"
 
 @3199
 <en>{Daigo}\n"You were watching?!"
-<es>
+<es>{Daigo}\n"¡¿Me viste?!"
 
 @3200
 <en>{Kazushi}\n"Are you serious?\nWhy socks......?"
@@ -4823,7 +4833,7 @@
 
 @3215
 <en>{Appo-}\n"Mei-!\nMei---!!"
-<es>{Appo-}\n"¡Mei...!\n¡¡Meiii...!!"
+<es>{Appo-}\n"¡Mei...!\n¡¡Meeeei...!!"
 
 @3216
 <en>He's not listening to me at all.
@@ -4851,47 +4861,47 @@
 
 @3232
 <en>{Kazushi}\n"Stop."
-<es>
+<es>{Kazushi}\n"Parad."
 
 @3234
 <en>{Mei}\n"That's weired. You guys looked for everywhere, right?"
-<es>
+<es>{Mei}\n"Qué extraño. Y mirasteis por todas partes, ¿no?"
 
 @3235
 <en>{Hu-sen}\n"Yes, we did. They are gone as soon as those guys got here!"
-<es>
+<es>{Hu-sen}\n"Sí, así es. ¡Desaparecieron justo cuanto esos chicos llegaron aquí!"
 
 @3236
 <en>{Kazushi}\n"Oh no......"
-<es>
+<es>{Kazushi}\n"Oh, no..."
 
 @3246
 <en>It was too late. The door opened and girls came back.
-<es>
+<es>Demasiado tarde. La puerta se abrió y las chicas entraron.
 
 @3247
 <en>And we got their full attention.
-<es>
+<es>Y yo fui el foco completo y absoluto de toda la atención.
 
 @3248
 <en>{Haruka}\n"......what a!?"
-<es>
+<es>{Haruka}\n"¿¡Pero qué...!?"
 
 @3249
 <en>{Ran}\n"Kazushi......you did it?"
-<es>
+<es>{Ran}\n"Kazushi... ¿fuiste tú?"
 
 @3250
 <en>{Kazushi}\n"No! I can explain this......!"
-<es>
+<es>{Kazushi}\n"¡No! ¡Puedo explicarlo...!"
 
 @3256
 <en>{Hu-sen}\n"Hey!! That's Rei's underwear!!"
-<es>
+<es>{Hu-sen}\n"¡¡Ey!! ¡¡Esas son las bragas de Rei!!"
 
 @3257
 <en>She pointed at the one I was wearing on my head.
-<es>
+<es>Lo dijo mientras apuntaba a las que llevaba puestas en la cabeza.
 
 @3265
 <en>{Appo-}\n"....................................oh no?"

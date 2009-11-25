@@ -1,6 +1,6 @@
 # Personajes principales
 
-@Kazushi
+@Kazushi|Haruma|Kazushi Haruma
 <strong>Kazushi Haruma</strong>
 {IMG:meta/kazushi.png}
 Protagonista
@@ -42,7 +42,7 @@ Es la nieta de la directora.
 @Mei|Ibuki|Teacher Ibuki|A sexy lady
 <strong>Mei Ibuki</strong>
 {IMG:meta/mei.png}
-Profesora sexy de la escuela Eiden.
+Mujer sexy. Profesora sexy de la escuela Eiden.
 Es muy amable y está en contra del castigo físico.
 
 
@@ -56,7 +56,7 @@ Es muy amable y está en contra del castigo físico.
 Chico regordete muy salido.
 Appo- es su nick. Viene del
 parecido a la palabra <em>"apple"</em>
-porque la forma de cuerpo que
+porque la silueta del cuerpo que
 tiene es semejante a la de
 una manzana.
 
@@ -93,11 +93,25 @@ Es muy bestia.
 ## Mujeres terciarias
 
 
-@Hu-sen|funny face girl|
-Hu-sen?
+@Hu-sen|funny face girl
+<strong>Hu-sen?</strong>
+Funny face girl = Chica de cara chunga/rara
 
 @Rei|a big girl
-Rei?
+<strong>Rei?</strong>
+
+
+
+## Cosas
+
+@A sign board
+<strong>Señal</strong>
+Señal viviente que ataca
+a los chicos. Posteriormente
+sigue a Kazushi y luego a
+Ran y a Kazushi hasta que
+se caen la señal y Kazushi
+por un puente.
 
 
 
