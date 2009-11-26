@@ -1,4 +1,23 @@
-# Comments for '00106'
+# Comentarios de '00106'
+# Principio del juego. Es el script que hay antes del vídeo del opening.
+# El protagonista y sus amigos están de crucero viajando a la isla Eiden.
+# Allí están matriculados en una escuela solo para chicas. Están todos con muchas ganas de llegar.
+# Cuando llegan, se escapan para explorar por su cuenta.
+# En la exploración el protagonista se encuentra con Mizuki desnuda creyendo que es una sirena.
+# Luego el protagonista y sus amigos son atacados por una señal viviente.
+# La señal persigue al protagonista y Kazushi se encuentra con Ran. Que por dinero, trata de ayudarle.
+# En un desafortunado incidente en el que Kazushi trata de ayudarla, acaba cayendo por un puente.
+# Habiendo salido ileso milagrosamente, el protagonista se encuentra perdido en un bosque.
+# Tras tratar de salir del bosque, se encuentra conoce a Haruka, que también está desnuda.
+# Se la encuentra haciendo algo que no está muy claro en un cuadro floral.
+# Luego Haruka y Kazushi se encuentran con Ran, con el resto de chicos y con Mizuki.
+# Los chicos acaban siendo castigados por su profesor, Yagami, por haberse saltado las normas.
+# Es un castigo físico y la profesora Mei se los lleva a la enfermería.
+# Appo-, uno de los chicos, le coloca unas bragas robadas al protagonista en la cabeza.
+# Tras el malentendido todas las chicas empiezan a mirarles mal. Además se enteran de que
+# les tocará dormir en una choza en muy precarias condiciones.
+# Tras toda la desilusión el protagonista y sus amigos deciden escapar de la isla.
+# Pero justo en ese momento la isla empieza a flotar impidiéndoles salir.
 
 @254
 <en>{???}\n"Hey-!"
@@ -3000,7 +3019,7 @@
 <es>{Kazushi}\n"¡¡Esta posición es...!!"
 
 @2207
-// Wheel throw? ¿LLave?
+# Wheel throw? ¿LLave?
 <en>A wheel throw!\nI can use his own force to throw him away.
 <es>¡Una llave!\nPuedo usar su propia fuerza para tirarlo.
 
@@ -3073,7 +3092,7 @@
 <es>{Kazushi}\n"¿...? ¿Qué me ha pasado...?"
 
 @2247
-// ¿El/un bosque? Luego pregunta dónde está. Queda raro.
+# ¿El/un bosque? Luego pregunta dónde está. Queda raro.
 <en>I tried to lift my heavy eye rids.\nI saw blue sky. I think I'm in the forest.
 <es>Traté de levantar mis pesados párpados.\nVi un cielo azul. Creo que estoy en un bosque.
 
@@ -3178,7 +3197,7 @@
 <es>{Kazushi}\n"Vaya..."
 
 @2281
-// flower bed | Cuadro, Macizo, Reata 
+# flower bed | Cuadro, Macizo, Reata 
 <en>I ended up getting out to a flower bed.
 <es>Acabé saliendo a un cuadro floral.
 
@@ -3847,7 +3866,7 @@
 <es>{Kazushi}\n"¿YO-SORO-?"
 
 @2542
-// Forzado.
+# Forzado.
 <en>What is "YO-SORO-"?\nAnyways, I already like hanging out with Haruka.
 <es>¿Qué es eso de "YO-SORO-"?\nDe todas formas ya me gusta pasar el rato con Haruka.
 
@@ -3872,7 +3891,7 @@
 <es>Se queja Haruka.\nImagino que se refería al cuadro floral.
 
 @2554
-// ???
+# ???
 <en>{Ran}\n"Like a grand ma, like a grand daughter.\nI sure can't take care of that."
 <es>{Ran}\n"Abuela y nieta. La una para la otra.\nSeguro que no se puede encargarse de eso."
 
@@ -5236,7 +5255,7 @@
 <es>{Pierre}\n"Buen intento, Appo-."
 
 @3498
-// Pagarás/Pagaréis.
+# Pagarás/Pagaréis.
 <en>{A big girl}\n"You'll pay for this!!"
 <es>{Chica enorme}\n"¡¡Pagaréis por esto!!"
 
@@ -6296,7 +6315,7 @@
 <es>No pudimos hacer nada con mirar...
 
 @4353
-// TODO: Cambiar yardas a metros. 1 yarda = 0.914 metros.
+# TODO: Cambiar yardas a metros. 1 yarda = 0.914 metros.
 <en>The shore line was pulled back a couple hundred yards.
 <es>La línea de la playa bajó un par de cientos de metro.
 
