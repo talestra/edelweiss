@@ -45,6 +45,12 @@ Es la nieta de la directora.
 Mujer sexy. Profesora sexy de la escuela Eiden.
 Es muy amable y está en contra del castigo físico.
 
+@Natsume|Amemiya
+<strong>Natsume Amemiya</strong>
+{IMG:meta/natsume.png}
+Chica de primero. Es bastante violenta.
+El protagonista y ella se dan su primer
+beso por accidente.
 
 
 
@@ -67,11 +73,16 @@ una manzana.
 No es su nombre de verdad.
 Lo tiene porque es <em>"cool"</em>
 tener un nombre extranjero.
+Se las da de ligón, pero no consigue
+nunca nada. Risueño y muy cafre.
 
 
 @Daigo
 <strong>Daigo</strong>
 {IMG:meta/daigo.png}
+Chico grandote y muy sensible.
+No está acostumbrado a tratar con
+chicas.
 
 
 @Panchu-
@@ -80,6 +91,7 @@ tener un nombre extranjero.
 Matón de la escuela de los
 chicos. No se le entiende
 cuando habla.
+Lleva panecillos a todas partes.
 
 
 @Yagami|Teacher Yagami
@@ -87,7 +99,8 @@ cuando habla.
 {IMG:meta/yagami.png}
 Profesor.
 Es muy bestia.
-
+Castiga físicamente a sus almnos.
+Aunque lo hace porque los quiere.
 
 
 ## Mujeres terciarias
@@ -96,10 +109,14 @@ Es muy bestia.
 @Hu-sen|funny face girl
 <strong>Hu-sen?</strong>
 Funny face girl = Chica de cara chunga/rara
+Amiga de Rei. Tiene la cara rara.
 
 @Rei|a big girl
 <strong>Rei?</strong>
-
+Chica enorme y muy poco femenina.
+Tiene unas bragas que usa en las citas que Appo-
+pone en la cabeza del protagonista.
+Tras ese incidente se arma la de Dios.
 
 
 ## Cosas
@@ -123,13 +140,13 @@ por un puente.
 De donde vienen los chicos del crucero.
 
 
-#Eiden|eiden island
+@Eiden|eiden island
 <strong>Eiden Islan</strong>
 La isla donde transcurre la historia.
 En ella únicamente hay
 chicas jóvenes y gente mayor.
 
-#shack
+@shack
 <strong>Chabola</strong>
 O choza.
 El dormitorio para chicos.
