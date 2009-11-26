@@ -1233,155 +1233,157 @@
 
 @598
 <en>{Kazushi}\n"I said I'm sorry. You have bad personality, do you have any friends?"
-<es>
+<es>{Kazushi}\n"Ya te he dicho que lo siento. Tienes una personalidad muy fuerte, ¿tienes amigos?"
 
 @601
 <en>{Natsume}\n"It's none of your buisiness. I got plenty."
-<es>
+<es>{Natsume}\n"No es asunto tuyo. Y tengo muchos."
 
 @602
 <en>{Kazushi}\n"That's good."
-<es>
+<es>{Kazushi}\n"Eso está bien."
 
 @603
 <en>I bet she's lying.
-<es>
+<es>Apuesto a que está mintiendo.
 
 @604
 <en>{Kazushi}\n"Then why don't we become friends?"
-<es>
+<es>{Kazushi}\n"Entonces, ¿por qué no nos hacemos amigos?"
 
 @607
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @608
 <en>My proposal froze her.
-<es>
+<es>Mi propuesta la dejó de piedra.
 
 @609
 <en>{Kazushi}\n"Natsume?"
-<es>
+<es>{Kazushi}\n"¿Natsume?"
 
 @610
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @611
 <en>She seems little surprised.
-<es>
+<es>Parece estar algo sorprendida.
 
 @614
 <en>{Natsume}\n"I don't think so."
-<es>
+<es>{Natsume}\n"No lo creo."
 
 @615
 <en>My offer was declined.
-<es>
+<es>Mi oferta fue rechazada.
 
 @616
 <en>{Kazushi}\n"I'm not good enough?"
-<es>
+<es>{Kazushi}\n"¿No soy lo suficientemente bueno?"
 
 @617
 <en>{Natsume}\n"Absolutely not."
-<es>
+<es>{Natsume}\n"Pues claro que no."
 
 @618
 <en>{Kazushi}\n"O.K......\nyou know, sometimes, you shouldn't speak so honestly."
-<es>
+<es>{Kazushi}\n"Vale...\n¿Sabes?, en ocasiones no deberías ser tan honesta."
 
 @619
 <en>{Natsume}\n"I told you I got plenty of friends."
-<es>
+<es>{Natsume}\n"Ya te he dicho que tengo un montón de amigos."
 
 @620
 <en>{Kazushi}\n"What's my name?"
-<es>
+<es>{Kazushi}\n"¿Cómo me llamo?"
 
 @621
 <en>{Natsume}\n"Kazushi."
-<es>
+<es>{Natsume}\n"Kazushi."
 
 @622
 <en>{Kazushi}\n"Well, I'm glad you now know my name."
-<es>
+<es>{Kazushi}\n"Vaya. Me alegro de que te acuerdes de mi nombre."
 
 @625
 <en>{Natsume}\n"......what is your point?"
-<es>
+<es>{Natsume}\n"¿A dónde quieres llegar...?"
 
 @626
 <en>{Kazushi}\n"Just add one more name on your friend list, O.K?"
-<es>
+<es>{Kazushi}\n"Simplemente a que añadas un nombre más a tu lista de amigos, ¿vale?"
 
 @627
 <en>{Natsume}\n"I'll think about it."
-<es>
+<es>{Natsume}\n"Lo pensaré."
 
 @628
 <en>{Kazushi}\n"Will you try?"
-<es>
+<es>{Kazushi}\n"¿Lo harás?"
 
 @631
 <en>{Natsume}\n"......fine."
-<es>
+<es>{Natsume}\n"Está bien..."
 
 @632
 <en>She turned around.
-<es>
+<es>Dio media vuelta.
 
 @633
 <en>{Kazushi}\n"You are my friend already."
-<es>
+<es>{Kazushi}\n"Tu ya estás en la mía."
 
 @634
 <en>I put her name on my list.
-<es>
+<es>Puse su nombre en mi lista.
 
 @637
 <en>{Natsume}\n"You should go back."
-<es>
+<es>{Natsume}\n"Debería volver."
 
 @638
 <en>She said that to me as she left.
-<es>
+<es>Me lo dijo mientras se marchaba.
 
 @639
 <en>{Kazushi}\n"All right.\nSee you around."
-<es>
+<es>{Kazushi}\n"Está bien.\nNos vemos."
 
 @640
 <en>I talked to her back.
-<es>
+<es>Le respondí.
 
 @643
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @644
 <en>She didn't reply. Well, I'm sure I'll see her around.
-<es>
+<es>No hubo respuesta. En fin, supongo que la veré por ahí.
 
 @646
 <en>I went back to my room, too.
-<es>
+<es>Yo también volví a mi habitación.
+
+## ¿De día?
 
 @651
 <en>{Kazushi}\n[Kazushi yawning]
-<es>
+<es>{Kazushi}\n*Bostezando*
 
 @652
 <en>I woke up by the sound of birds singing.
-<es>
+<es>Me desperté con el sonido de los pájaros piando.
 
 @653
 <en>{Kazushi}\n"I slept so well."
-<es>
+<es>{Kazushi}\n"He dormido muy bien."
 
 @656
 <en>{Appo-}\n"Good morning......"
-<es>
+<es>{Appo-}\n"Buenos días..."
 
 @657
 <en>{Kazushi}\n"Wow!?"
@@ -1389,75 +1391,76 @@
 
 @658
 <en>I was so surprised that Appo- was up already.
-<es>
+<es>Estaba muy sorprendido de ver que Appo- ya estaba levantado.
 
 @659
 <en>{Kazushi}\n"So early.\nDid you sleep well?"
-<es>
+<es>{Kazushi}\n"Qué pronto.\n¿Has dormido bien?"
 
 @660
 <en>{Appo-}\n"I couldn't sleep at all. This happens whenever I change my pillow."
-<es>
+<es>{Appo-}\n"No he podido dormir nada. Me pasa siempre al cambiar de almohada."
 
 @661
+# Hay que cambiar posiblemente todo lo de sensitive/insensitive por algo acorde con la situación.
 <en>Unlike his appearance, he's pretty sensitive.
-<es>
+<es>A pesar de su apariencia, es bastante sensible.
 
 @662
 <en>He's probably the most sensitive guy around me.
-<es>
+<es>Es posiblemente el más sensible del grupo.
 
 @663
 <en>{Appo-}\n"How could you sleep so well.\nI'm envious of insensitive people."
-<es>
+<es>{Appo-}\n"¿Cómo has podido dormir tan bien?\nCómo envidio a la gente insensible."
 
 @666
 <en>{Appo-}\n"I think it's gonna get hot so soon without air-conditioning."
-<es>
+<es>{Appo-}\n"Creo que va a hacer mucho calor dentro de nada sin aire acondicionado."
 
 @667
 <en>{Kazushi}\n"Probably."
-<es>
+<es>{Kazushi}\n"Probablemente."
 
 @668
 <en>Looking at the thin roof of this dorm, he's probably right.
-<es>
+<es>Teniendo en cuenta el techo tan fino que tiene el dormitorio, posiblemente tenga razón.
 
 @669
 <en>Besides, it's a super nice day outside.
-<es>
+<es>Además hace un día estupendo fuera.
 
 @670
 <en>{Kazushi}\n"Hey guys, let's go eat breakfast!!"
-<es>
+<es>{Kazushi}\n"Ey chicos, ¡¡vamos a desayunar!!"
 
 @673
 <en>{Appo-}\n"I don't have appetite-"
-<es>
+<es>{Appo-}\n"Yo no tengo hambre..."
 
 @674
 <en>He's still so nervous. He's not hungry.
-<es>
+<es>Todavía está tan nervioso que no tiene hambre.
 
 @679
 <en>{Pierre}\n"What-?\nWhere are we?"
-<es>
+<es>{Pierre}\n"¿Qué...?\n¿Dónde estamos?"
 
 @680
 <en>Pierre can't figure out where we moved to.
-<es>
+<es>Pierre no logra a acertar a dónde nos hemos ido.
 
 @681
 <en>By the way, his room supposed to be next room.
-<es>
+<es>Por cierto, su habitación se supone que está al lado.
 
 @682
 <en>{Pierre}\n"Why am I here?"
-<es>
+<es>{Pierre}\n"¿Qué hago aquí?"
 
 @683
 <en>{Kazushi}\n"That's what I'd like to know, why were you sleeping here?"
-<es>
+<es>{Kazushi}\n"Eso me gustaría a mí saber, ¿qué haces durmiendo aquí?"
 
 @684
 <en>{Daigo}\n"Nnnn-......"
@@ -1465,59 +1468,59 @@
 
 @685
 <en>{Kazushi}\n"What?"
-<es>
+<es>{Kazushi}\n"¿Qué?"
 
 @686
 <en>I think I just heard Daigo between my legs......
-<es>
+<es>Me ha parecido oir a Daigo entre mis piernas...
 
 @691
 <en>{Kazushi}\n"Hey!?"
-<es>
+<es>{Kazushi}\n"¿¡Eh!?"
 
 @692
 <en>He was sleeping right underneath my legs.
-<es>
+<es>Estaba durmiendo justo debajo de mis piernas.
 
 @693
 <en>{Kazushi}\n"What are you doing!?\nWhy are you sleeping here?!!"
-<es>
+<es>{Kazushi}\n"¿¡Qué estás haciendo!?\n¡¡¿Qué haces durmiendo ahí?!!"
 
 @694
 <en>I had to wake him up and imvestigate.
-<es>
+<es>Tuve que despertarle e investigar.
 
 @695
 <en>{Daigo}\n"What is this place......where am I?"
-<es>
+<es>{Daigo}\n"¿Qué es este sitio...? ¿Dónde estamos?"
 
 @696
 <en>{Kazushi}\n"What do you mean "where are we?"-!\nWhat are you doing in my bed!?"
-<es>
+<es>{Kazushi}\n"¡Qué quieres decir con "¿dónde estamos?"!\n¿¡Qué haces en mi cama!?"
 
 @701
 <en>{Pierre}\n"Oh, I remember. We were so tired to go even to the next room, so we slept here."
-<es>
+<es>{Pierre}\n"Ah, ya recuerdo. Estábamos tan rendidos hasta para ir a la otra habitación, que nos quedamos fritos aquí."
 
 @702
 <en>{Kazushi}\n"You guys were here the whole night?"
-<es>
+<es>{Kazushi}\n"¿Habéis estado aquí toda la noche?"
 
 @703
 <en>I didn't realized that when I woke up in the middle of the night.
-<es>
+<es>No me di cuenta de ese detalle cuando me desperté en mitad de la noche.
 
 @706
 <en>{Daigo}\n"4 boys were sleeping in this room?"
-<es>
+<es>{Daigo}\n"¿Han dormido cuatro hombres en esta habitación?"
 
 @707
 <en>{Kazushi}\n"Wait. Say no more. That sounds so wrong."
-<es>
+<es>{Kazushi}\n"Espera. No hace falta que digas nada más. Solo eso ya suena MUY mal."
 
 @710
 <en>{Daigo}\n"Does it?"
-<es>
+<es>{Daigo}\n"¿Sí?"
 
 @711
 <en>I have a feeling Daigo might not be straight.
@@ -1525,19 +1528,19 @@
 
 @712
 <en>......I rather not think about it now.
-<es>
+<es>Será mejor que no piense ahora sobre eso...
 
 @715
 <en>{Pierre}\n"It was so cold.\nHe must wanted to feel your body warmth."
-<es>
+<es>{Pierre}\n"Hacía mucho frío.\nDebe haber querido sentir el calor humano de tu cuerpo."
 
 @716
 <en>{Kazushi}\n"Stop.\nFrom tonight on, I make sure you guys sleep on your own bed."
-<es>
+<es>{Kazushi}\n"Shhh.\nA partir de esta noche, cada uno en su cama."
 
 @723
 <en>{Appo-}\n"You guys are bundh of insensitive people."
-<es>
+<es>{Appo-}\n"Sois todos una panda de insensibles."
 
 @726
 <en>{Pierre}\n"Daigo,\nstop waking me up in the middle of the night asking me to go to the restroom together."
