@@ -779,7 +779,7 @@
 
 @821
 <en>{Teacher Yagami}\n"I understand that you guys are excited, but......just behave yourselves once we get there."
-<es>{Profesor Yagami}\n"Chicos, comprendo que estéis excitados, pero... sed vosotros mismos cuando lleguemos."
+<es>{Profesor Yagami}\n"Chicos, comprendo que estéis excitados, pero... comportaos cuando lleguemos."
 
 @826
 <en>{Daigo}\n"Hey guys, we are almost there."
@@ -4574,7 +4574,7 @@
 
 @3025
 <en>{Teacher Yagami}\n"Hey boys, behave yourselves, O.K?"
-<es>{Profesor Yagami}\n"Oid chicos, sed vosotros mismos, ¿vale?"
+<es>{Profesor Yagami}\n"Oid chicos, comportaos, ¿vale?"
 
 @3033
 <en>{Boys}\n"Yes sir!"
@@ -5314,6 +5314,7 @@
 
 @3566
 # Hay que ver si era comida o cena. Viendo la hora del día que parece, parece más comida, así que he cambiado todo un poco.
+# 00206@435 aquí se confirman las sospechas.
 <en>{Teacher Yagami}\n"No dinner for you guys tonight."
 <es>{Profesor Yagami}\n"Os quedáis sin comer hoy."
 
