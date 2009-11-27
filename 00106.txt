@@ -1,23 +1,27 @@
-# Comentarios de '00106'
 # Principio del juego. Es el script que hay antes del vídeo del opening.
-# El protagonista y sus amigos están de crucero viajando a la isla Eiden.
-# Allí están matriculados en una escuela solo para chicas. Están todos con muchas ganas de llegar.
-# Cuando llegan, se escapan para explorar por su cuenta.
-# En la exploración el protagonista se encuentra con Mizuki desnuda creyendo que es una sirena.
+# El protagonista (Kazushi) y sus amigos (Appo-, Pierre y Daigo) están de crucero viajando a la isla Eiden.
+# Allí están matriculados en una escuela solo para chicas porque la escuela de elos iba a cerrar. Están todos con muchas ganas de llegar.
+# Cuando llegan, en vez de seguir a su profesor y a la directora hasta la escuela, se escapan para explorar por su cuenta.
+# En la exploración el protagonista se encuentra con Mizuki, a la que todavía no conocía, desnuda creyendo que era una sirena.
 # Luego el protagonista y sus amigos son atacados por una señal viviente.
 # La señal persigue al protagonista y Kazushi se encuentra con Ran. Que por dinero, trata de ayudarle.
-# En un desafortunado incidente en el que Kazushi trata de ayudarla, acaba cayendo por un puente.
+# En un desafortunado incidente en el que Kazushi trata de ayudarla por no haber podido controlar a la señal, acaba cayendo por un puente.
 # Habiendo salido ileso milagrosamente, el protagonista se encuentra perdido en un bosque.
 # Tras tratar de salir del bosque, se encuentra conoce a Haruka, que también está desnuda.
 # Se la encuentra haciendo algo que no está muy claro en un cuadro floral.
-# Luego Haruka y Kazushi se encuentran con Ran, con el resto de chicos y con Mizuki.
+# Luego Haruka y Kazushi salen del bosque y se encuentran con Ran, con el resto de chicos y con Mizuki.
 # Los chicos acaban siendo castigados por su profesor, Yagami, por haberse saltado las normas.
-# Es un castigo físico y la profesora Mei se los lleva a la enfermería.
-# Appo-, uno de los chicos, le coloca unas bragas robadas al protagonista en la cabeza.
-# Tras el malentendido todas las chicas empiezan a mirarles mal. Además se enteran de que
-# les tocará dormir en una choza en muy precarias condiciones.
-# Tras toda la desilusión el protagonista y sus amigos deciden escapar de la isla.
-# Pero justo en ese momento la isla empieza a flotar impidiéndoles salir.
+# Es un castigo físico y la profesora Mei, que se encuentan en ese momento, se los lleva a la enfermería.
+# Appo-, uno de los chicos, le coloca unas bragas robadas (de la Chica Enorme y buscadas por Hu-sen) al protagonista en la cabeza.
+# Tras el malentendido, todas las chicas empiezan a mirarles mal. Los chicos, además se enteran de que
+# les tocará dormir en una choza en muy precarias condiciones y encima se habían quedado castigados sin comer por el incidente.
+# Tras toda la desilusión, el protagonista y sus amigos deciden escapar de la isla.
+# Pero justo en ese momento, la isla empieza a flotar impidiéndoles salir de allí.
+# --
+# Notas:
+# No será hasta 00206 cuando aparezca Natsume. La otra de las chicas principales que no había salido todavía.
+# El nombre de Edelweiss es el de una flor, posiblemente el del banco floral: http://en.wikipedia.org/wiki/Edelweiss
+# Sakura y Rin son dos chicas guapas que aparecen. Aunque en este juego no tienen tanta importancia, aunque la cobran en la secuela.
 
 @254
 <en>{???}\n"Hey-!"
