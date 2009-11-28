@@ -1548,7 +1548,7 @@
 
 @729
 <en>{Daigo}\n"I will try."
-<es>
+<es>{Daigo}\n"Lo intentaré."
 
 @730
 <en>No matter where we are, this is our usual morning.
@@ -1556,27 +1556,27 @@
 
 @731
 <en>{Kazushi}\n"I'm starving.\nLet's go eat."
-<es>
+<es>{Kazushi}\n"Me estoy muriendo de hambre.\nVayamos a tomar algo."
 
 @734
 <en>{Daigo}\n"We hardly eat anything last night."
-<es>
+<es>{Daigo}\n"A penas tomamos nada anoche."
 
 @735
 <en>We haven't had a decent meal since we got to this island.
-<es>
+<es>No hemos comido nada en condiciones desde que llegamos a la isla.
 
 @738
 <en>{Appo-}\n"I heard last night's menu was Sushi and Steak."
-<es>
+<es>{Appo-}\n"He oído que el menú de anoche fue sushi y filete."
 
 @739
 <en>{Daigo}\n"Oh yeah, remember we saw big fishes piled up in the bihind of a truck?"
-<es>
+<es>{Daigo}\n"Ah sí, ¿recordáis que vimos montañas de peces apilados en la parte de atrás de aquel camión?"
 
 @742
 <en>{Pierre}\n"Don't tell me that-!"
-<es>
+<es>{Pierre}\n"¡No me digas que...!"
 
 @743
 <en>{Kazushi}\n"All right!\nWe'll get back what we missed yesterday!"
@@ -1584,71 +1584,71 @@
 
 @744
 <en>It's the start of our new school life!!
-<es>
+<es>¡¡Es el inicio de nuestra nueva vida en la escuela!
 
 @752
 <en>{Kazushi}\n"Wow-! Look at this!"
-<es>
+<es>{Kazushi}\n"¡Vaya! ¡Mirad eso!"
 
 @753
 <en>This is not a cafeteria. This is a restaurant.
-<es>
+<es>Esto no es una cafetería, es casi un restaurante.
 
 @756
 <en>{Pierre}\n"This is what I'm talking about!!"
-<es>
+<es>{Pierre}\n"¡¡Es a eso a lo que me refería!!"
 
 @761
 <en>{Appo-}\n"Hey! Check this out!"
-<es>
+<es>{Appo-}\n"¡Ey, mirad esto!"
 
 @768
 <en>{Daigo}\n"What is it?"
-<es>
+<es>{Daigo}\n"¿Qué pasa?"
 
 @769
 <en>{Appo-}\n"Girls are eating!!"
-<es>
+<es>{Appo-}\n"¡¡Las chicas están comiendo!!"
 
 @772
 <en>{Pierre}\n"What's so dramatic about that? Ofcourse they do."
-<es>
+<es>{Pierre}\n"¿Y eso que tiene de especial? Claro que lo están."
 
 @773
 <en>But we've never seen this amount of girls eating at one place.
-<es>
+<es>Pero nunca habíamos visto semejante cantidad de chicas comiendo en un mismo sitio.
 
 @776
 <en>{Appo-}\n"This is so confusing. Is it sex appetite I have of food appetite I have?"
-<es>
+<es>{Appo-}\n"Estoy muy confundido. ¿Tengo hambre de comida o de chicas?"
 
 @777
 <en>{Kazushi}\n"Watch out. We have to behave ourselves, you know?"
-<es>
+<es>{Kazushi}\n"Cuidadito. Tenemos que comportarnos, ¿recuerdas?"
 
 @778
 <en>{Appo-}\n"But watching their mouth getting busy makes me horny......"
-<es>
+<es>{Appo-}\n"Pero mirar lo ocupadas que tienen sus boquitas me pone caliente..."
 
 @779
 <en>He's touching his thing in public.
-<es>
+<es>Se está tocando sus partes en público.
 
 @780
 <en>{Kazushi}\n"Just behave yourself, O.K?"
-<es>
+<es>{Kazushi}\n"Limítate a comportarte, ¿vale?"
 
 @781
 <en>{Pierre}\n"I only see girls. Where are the boys besides us?"
-<es>
+<es>{Pierre}\n"Solo veo chicas. ¿Dónde están los chicos que vinieron con nosotros?"
 
 @785
 <en>......we spotted them in the corner of the cafeteria.
-<es>
+<es>Los localizamos en una esquina de la cafetería...
 
 @786
 <en>They seemed so uncomfortable.
-<es>
+<es>Parecían muy incómodos.
 
 @789
 <en>{Appo-}\n"Come on guys. Be a man. Eat at the center of the cafeteria!!"
@@ -1660,11 +1660,11 @@
 
 @799
 <en>We saw a man in the middle of the cafeteria.
-<es>
+<es>Vimos a un tipo en mitad de la cafetería.
 
 @800
 <en>He's by himself eating bread.
-<es>
+<es>Se está comiendo sus panecillos.
 
 @801
 <en>{Daigo}\n"Some girls are checking him out."
@@ -1684,11 +1684,11 @@
 
 @805
 <en>Some girls finally commited to make a move on him.
-<es>
+<es>Algunas chicas se atrevieron finalmente a acercarse a él.
 
 @806
 <en>{Pierre}\n"Are they going to "hi" him?"
-<es>
+<es>{Pierre}\n"¿Van a decirle "hola"?"
 
 @807
 <en>{Kazushi}\n"Wow. Go girls."
@@ -1700,11 +1700,11 @@
 
 @809
 <en>{Girl 1}\n"Excuse me, can I eat with you?"
-<es>
+<es>{Chica 1}\n"Disculpa, ¿te importa si como contigo?"
 
 @812
 <en>{Panchu-}\n"What do you want?"
-<es>
+<es>{Panchu-}\n"¿Qué es lo que quieres?"
 
 @813
 <en>He gave her a mean glare. But instead of getting scared, the girls went crazy.
@@ -1732,11 +1732,11 @@
 
 @819
 <en>{Girl 2}\n"The bread you're eating is not from here, right? Where did you get that?"
-<es>
+<es>{Chica 2}\n"El pan que te estás tomando no es de aquí, ¿verdad? ¿De dónde lo has sacado?"
 
 @822
 <en>{Panchu-}\n"This is from my house. My parents run a bakery."
-<es>
+<es>{Panchu-}\n"Es de mi casa. Mis padres tienen una panadería."
 
 @823
 <en>The girls found out talking about breads makes him a lot easier to talk to
@@ -1748,15 +1748,15 @@
 
 @825
 <en>{Panchu-}\n"......I guess."
-<es>
+<es>{Panchu-}\n"Supongo..."
 
 @826
 <en>{Girl 2}\n"That's awesome!"
-<es>
+<es>{Chica 2}\n"¡Eso es increíble!"
 
 @827
 <en>Whatever Panchu- says, the girls goes crazy anyways.
-<es>
+<es>Diga lo que diga Panchu-, las chicas se vuelven loquitas.
 
 @828
 <en>The crowed is getting bigger, too.
@@ -1764,15 +1764,15 @@
 
 @829
 <en>{Girl 1}\n"Can you actually bake?"
-<es>
+<es>{Chica 1}\n"¿Y sabes hornear?"
 
 @830
 <en>{Panchu-}\n"Ofcourse."
-<es>
+<es>{Panchu-}\n"Claro."
 
 @831
 <en>{Girl 2}\n"Oh my god! I love man who can cook!"
-<es>
+<es>{Chica 2}\n"¡Oh Dios mío! ¡Me encantan los hombres que saben cocinar!"
 
 @832
 <en>They are getting along better and better.
@@ -1780,7 +1780,7 @@
 
 @833
 <en>As long as they are talking about breads, Panchu- will stay happy.
-<es>
+<es>Mientras hablen sobre pan, Panchu- estará contento.
 
 @841
 <en>{Kazushi}\n"Girls are tough.\nThey are not scared of anything."
@@ -1788,11 +1788,11 @@
 
 @844
 <en>{Appo-}\n"Besides, Panchu- will never get violent with girls."
-<es>
+<es>{Appo-}\n"Además, Panchu- nunca se pondrá violento con las chicas."
 
 @847
 <en>{Daigo}\n"I wanna be like him."
-<es>
+<es>{Daigo}\n"Me gustaría ser como el."
 
 @848
 <en>{Pierre}\n"Good luck. He belongs to the next level as a man."
@@ -1812,67 +1812,67 @@
 
 @854
 <en>{Kazushi}\n"What is it?"
-<es>
+<es>{Kazushi}\n"¿Qué ocurre?"
 
 @860
 <en>This time, it's Teacher Yagami. He's also surrounded by a few girls.
-<es>
+<es>Esta vez es el profesor Yagami. También está rodeado de unas cuantas chicas.
 
 @861
 <en>{Appo-}\n"......there are 6 girls surrounding him."
-<es>
+<es>{Appo-}\n"Tiene a 6 chicas alrededor..."
 
 @862
 <en>He's a teacher. He has much more experience than us about talking to girls.
-<es>
+<es>Es un profesor. Tiene mucha más experiencia hablando con chicas que nosotros.
 
 @863
 <en>{Girl 4}\n"Do you have a girl friend?"
-<es>
+<es>{Chica 4}\n"¿Y tienes novia?"
 
 @866
 <en>{Teacher Yagami}\n"I'm happily married."
-<es>
+<es>{Profesor Yagami}\n"Estoy felizmente casado."
 
 @867
 <en>{Girl 5}\n"You're married-!?\nOh no!!"
-<es>
+<es>{Chica 5}\n"¿¡Estás casado...!?\n¡¡No...!!"
 
 @868
 <en>{Girl 6}\n"You look still young, you must got married early."
-<es>
+<es>{Chica 6}\n"Todavía pareces joven, debiste casarte muy pronto."
 
 @871
 <en>{Teacher Yagami}\n"I was 18 when I got married."
-<es>
+<es>{Profesor Yagami}\n"Me casé cuando tenía 18 años."
 
 @872
 <en>{Girl 6}\n"What!?\nThat's super early!?"
-<es>
+<es>{Chica 6}\n"¿¡Qué!?\n¡Eso es super pronto!"
 
 @873
 <en>{Girl 4}\n"?\nHow old was your wife?"
-<es>
+<es>{Chica 4}\n"?\n¿Y cuantos años tenía tu esposa?"
 
 @874
 <en>{Teacher Yagami}\n"She was 2 years older."
-<es>
+<es>{Profesor Yagami}\n"Ella tenía dos más que yo."
 
 @875
 <en>{Girls}\n"Let us guess. You made her pregnant!"
-<es>
+<es>{Chicas}\n"Déjanos adivinar. ¡La dejaste embarazada!"
 
 @876
 <en>Girls love this kind of stuff.
-<es>
+<es>A las chicas les encanta este tipo de cosas.
 
 @877
 <en>{Kazushi}\n"I wonder if that's the way they want to get married."
-<es>
+<es>{Kazushi}\n"Me pregunto si es así como les gustaría acabar casadas."
 
 @878
 <en>{Pierre}\n"I bet they don't. They just love gossips."
-<es>
+<es>{Pierre}\n"Apuesto a que no. Simplemente es que les encantan los cotilleos."
 
 @879
 <en>{Girl 5}\n"You have kids, too!......"
@@ -1884,111 +1884,113 @@
 
 @883
 <en>He carries that picture of his kids everywhere he goes.
-<es>
+<es>Lleva esa foto de sus niños a todos sitios.
 
 @884
 <en>{Girl 6}\n"Oh my god, they are so cute!"
-<es>
+<es>{Chica 6}\n"¡Mirad, son monísimos!"
 
 @885
 <en>{Girl 4}\n"You have three. Your wife is beautiful, too-"
-<es>
+<es>{Chica 4}\n"Así que tenéis tres... Y tu esposa también es muy guapa."
 
 @893
 <en>{Appo-}\n"How can they have so much fun just talking about his family?"
-<es>
+<es>{Appo-}\n"¿Cómo pueden estar pasándoselo tan bien simplemente con hablar de su familia?"
 
 @896
 <en>{Pierre}\n"They are going crazy over a married man. They should do that to us instead."
-<es>
+<es>{Pierre}\n"Están loquitas perdidas con un hombre casado. Eso deberían hacerlo con nosotros."
 
 @899
 <en>{Daigo}\n"This world is so not fair. A loser will always lose no matter where you go."
-<es>
+<es>{Daigo}\n"Este es un mundo muy injusto. Un perdedor va a perder siempre vaya a donde vaya."
 
 @900
 <en>{Kazushi}\n"Don't be so negative."
-<es>
+<es>{Kazushi}\n"No seas tan negativo."
 
 @901
 <en>We were not confident group of guys. I can tell you that.
-<es>
+<es>No eramos un grupo de chicos muy seguro. Eso por descontado.
 
 @902
 <en>{Kazushi}\n"Anyways, let's eat!\nGood things will happen when we eat!"
-<es>
+<es>{Kazushi}\n"De todas formas, ¡vamos a comer!\n¡Ya nos pasarán cosas buenas cuando empecemos a comer!"
 
 @905
 <en>{Pierre}\n"That's right!\nWe might even get to eat with girls-!"
-<es>
+<es>{Pierre}\n"¡Tienes razón!\n¡Puede que hasta podamos comer con chicas...!"
 
 @906
 <en>We tried to find seats next to pack of girls.
-<es>
+<es>Tratamos de encontrar un asiento junto a la pila de chicas.
 
 @914
+# TODO: Fix pickels.
 <en>{Hu-sen}\n"Hey Rei!\nDon't steal my pickels!"
-<es>
+<es>{Hu-sen}\n"¡Ey Rei!\n¡No me robes mis pickels!"
 
 @915
 <en>{Rei}\n[Eating like a pig]
-<es>
+<es>{Rei}\n[Comiendo como un cerdo]
 
 @916
 <en>{Kazushi}\n".................."
-<es>
+<es>{Kazushi}\n"..."
 
 @917
 <en>Two girls we met in the nurse's office yesterday.
-<es>
+<es>Son las dos chicas que nos encontramos en la enfermería ayer.
 
 @918
 <en>{Daigo}\n"A pig......there is a pig......"
-<es>
+<es>{Daigo}\n"Un cerdo... es un cerdo..."
 
 @919
+# Derramarlo/derramarla.
 <en>{Hu-sen}\n"Will you hand me that sauce!\nOpps, sorry, I didn't mean to spill it!"
-<es>
+<es>{Hu-sen}\n"¿Me pasas esa salsa?\nUps, lo siento, ¡no quería derramarlo!"
 
 @920
 <en>We learned that there are some girls eat like a man......
-<es>
+<es>Hemos descubierto que algunas chicas comen como los hombres...
 
 @921
 <en>{Appo-}\n"That's not how a girl should eat-!"
-<es>
+<es>{Appo-}\n"¡Se supone que las chicas no deberían comer así!"
 
 @924
 <en>{Hu-sen}\n"Who is looking at me?!!"
-<es>
+<es>{Hu-sen}\n"¡¿Quién me está mirando?!"
 
 @925
 <en>Her mouth was stuffed with all kinds of foods.
-<es>
+<es>Su boca estaba repleta de todo tipo de cosas.
 
 @928
 <en>{Hu-sen}\n"What are you guys looking at now!?"
-<es>
+<es>{Hu-sen}\n"¿¡Y ahora a qué estáis mirando!?"
 
 @937
 <en>{Appo-}\n"We don't want to look!\nYou! Eat like a girl!"
-<es>
+<es>{Appo-}\n"¡No queríamos mirar!\n¡Y tú! ¡Come como las chicas!"
 
 @938
 <en>{Rei}\n[Rei licking dishes]
-<es>
+<es>{Rei}\n*Chupando platos*
 
 @941
 <en>{Daigo}\n"She's licking dishes......"
-<es>
+<es>{Daigo}\n"Está chupando los platos..."
 
 @944
 <en>{Pierre}\n"That girl is an exception.\nThere is always an exception to everything."
-<es>
+<es>{Pierre}\n"Esa chica es una excepción.\nEs la excepción que confirma la regla."
 
 @948
 <en>We had hard time finding an empty table. We didn't expect breakfast to be this busy......
-<es>
+<es>Nos resultó difícil encontrar una mesa vacía. No pensábamos que el desayuno estuviese así de concurrido...
 
 @949
 <en>Some of them still look like they are sleeping, too.
@@ -2004,15 +2006,15 @@
 
 @958
 <en>{Ran}\n"Hey, Kazushi-!!"
-<es>
+<es>{Ran}\n"Oye, ¡¡Kazushi!!"
 
 @964
 <en>Rei spotted us.
-<es>
+<es>Rei nos localizó.
 
 @965
 <en>{Ran}\n"This way-!\nLet's eat together!"
-<es>
+<es>{Ran}\n"¡Por aquí!\n¡Comamos juntos!"
 
 @973
 <en>{Pierre}\n"Yes!\nWe finally got a chance to get to know girls!"
