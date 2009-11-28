@@ -1098,7 +1098,7 @@
 
 @1062
 <en>Everybody who lives in this island could hear us greeting.
-<es>Cualquiera persona viviendo en la isla, podría oír nuestro saludo. 
+<es>Cualquiera persona viviendo en la isla, podría oír nuestro saludo.
 
 @1067
 <en>{Principal}\n"Thanks for coming all the way out here."
@@ -3201,7 +3201,7 @@
 <es>{Kazushi}\n"Vaya..."
 
 @2281
-# flower bed | Cuadro, Macizo, Reata 
+# flower bed | Cuadro, Macizo, Reata
 <en>I ended up getting out to a flower bed.
 <es>Acabé saliendo a un cuadro floral.
 
