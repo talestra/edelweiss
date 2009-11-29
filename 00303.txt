@@ -2,15 +2,15 @@
 
 @8
 <en>{Kazushi}\n\t"That was tiring."
-<es>
+<es>{Kazushi}\n\t"Qué cansancio."
 
 @9
 <en>......it was a long class.
-<es>
+<es>Ha sido una clase muy larga...
 
 @13
 <en>{Ran}\n"You didn't learn that part in your old school?"
-<es>
+<es>{Ran}\n"¿No habías aprendido eso en tu anterior escuela?"
 
 @14
 <en>{Kazushi}\n"My only hope is that our summer break is coming up soon."
@@ -18,11 +18,11 @@
 
 @15
 <en>Although there will be a final exam before the break.
-<es>
+<es>Aunque habrá un examen final antes de las vacaciones.
 
 @16
 <en>{Kazushi}\n"......our summer break."
-<es>
+<es>{Kazushi}\n"Las vacaciones de verano..."
 
 @17
 <en>I just realized something very important.
@@ -30,19 +30,19 @@
 
 @18
 <en>{Kazushi}\n"Do you guys leave this island and go back to your home during the break?"
-<es>
+<es>{Kazushi}\n"¿Dejáis la isla y volvéis a casa durante las vacaciones?"
 
 @19
 <en>If everyone leaves this island, there is no point for me to stay here.
-<es>
+<es>Si todo el mundo deja la isla, no tiene sentido quedarme aquí.
 
 @20
 <en>{Ran}\n"Not me."
-<es>
+<es>{Ran}\n"Yo no."
 
 @25
 <en>{Sakura}\n"I stay here, too."
-<es>
+<es>{Sakura}\n"Yo también me quedo."
 
 @26
 <en>Sakura turned around and told us.
@@ -50,15 +50,15 @@
 
 @27
 <en>{Kazushi}\n"How about everyone else?"
-<es>
+<es>{Kazushi}\n"¿Y el resto?"
 
 @28
 <en>{Ran}\n"I say most girls just stay here."
-<es>
+<es>{Ran}\n"Diría que la mayoría de chicas se quedan aquí."
 
 @29
 <en>{Kazushi}\n"I see."
-<es>
+<es>{Kazushi}\n"Ajá."
 
 @30
 <en>Yes. Now I have something to look forward to.
