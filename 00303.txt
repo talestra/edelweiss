@@ -61,24 +61,26 @@
 <es>{Kazushi}\n"Ajá."
 
 @30
+# TODO: Revisar.
 <en>Yes. Now I have something to look forward to.
-<es>
+<es>Genial. Ahora ya tengo un motivo para aguantar.
 
 @31
 <en>{Kazushi}\n"But don't most parents want their girls to come back?"
-<es>
+<es>{Kazushi}\n"¿Pero la mayoría de padres no quieren que vuelvan sus niñas?"
 
 @34
 <en>{Ran}\n"It's not so cheap to come back and forth. Most students just go back once a year."
-<es>
+<es>{Ran}\n"No resulta barato ir y venir. La mayoría de estudiantes vuelven una sola vez al año."
 
 @37
+# TODO. Revisar.
 <en>{Sakura}\n"Your idea always revolves around money, Ran."
-<es>
+<es>{Sakura}\n"Ran, tus ideas siempre están relacionadas con el dinero."
 
 @40
 <en>{Ran}\n"Yep. I only trust money."
-<es>
+<es>{Ran}\n"Sip. El dinero es lo único en lo que confío."
 
 @41
 <en>{Kazushi}\n"It's not funny."
@@ -86,7 +88,7 @@
 
 @44
 <en>{Sakura}\n"Kazushi, you know how she is now."
-<es>
+<es>{Sakura}\n"Kazushi, ya sabes cómo es."
 
 @48
 <en>{Haruka}\n"That's right, Kazushi.\nWatch out for Ran. She will chew you up till you lose all your hair on your ass."
@@ -102,7 +104,7 @@
 
 @51
 <en>{Haruka}\n"Hi, guys."
-<es>
+<es>{Haruka}\n"Hola."
 
 @52
 <en>She pokes her head into our class so often.\nI hope she's getting along with her own class.
@@ -126,15 +128,15 @@
 
 @63
 <en>{Sakura}\n"Hey, behave! We can see your underwear."
-<es>
+<es>{Sakura}\n"¡Eh, no hagas eso! Que se te ven las bragas."
 
 @64
 <en>Sakura pulls down Haruka's skirt in a hurry.
-<es>
+<es>Sakura le baja la falda a Haruka rápidamente.
 
 @67
 <en>Haruka is embarrased.
-<es>
+<es>Haruka está avergonzada.
 
 @70
 <en>{Haruka}\n"......opps......did anyone see my underwear?"
@@ -142,23 +144,23 @@
 
 @71
 <en>{Kazushi}\n"Not at all!"
-<es>
+<es>{Kazushi}\n"¡Para nada!"
 
 @72
 <en>Actually, I did. It was blue.
-<es>
+<es>La verdad es que sí. Las tenía azules.
 
 @75
 <en>{Sakura}\n"You are so ignorant. That's so you."
-<es>
+<es>{Sakura}\n"Eres muy inocente. Es muy propio de ti."
 
 @82
 <en>{Ran}\n"Remember? We now have boys in this school.\nIf you gonna show them your underwear, at least charge them."
-<es>
+<es>{Ran}\n"¿Recuerdas? Ahora hay chicos en la escuela.\nSi les vas a enseñar las braguitas, al menos cóbrales."
 
 @83
 <en>{Kazushi}\n"......they are right. Your ideas do revolve around money."
-<es>
+<es>{Kazushi}\n"Sí que tienen razón... Todas tus ideas tienen que ver con el dinero."
 
 @86
 <en>{Haruka}\n"Who started talking about hair on the ass."
@@ -166,11 +168,11 @@
 
 @87
 <en>{Kazushi}\n"You did."
-<es>
+<es>{Kazushi}\n"Tú."
 
 @90
 <en>{Haruka}\n"That's not true."
-<es>
+<es>{Haruka}\n"Eso no es cierto."
 
 @91
 <en>{Kazushi}\n"Is she serious?"
@@ -178,43 +180,43 @@
 
 @94
 <en>{Ran}\n"That's Haruka."
-<es>
+<es>{Ran}\n"Así es Haruka."
 
 @95
 <en>She's hard to understand.
-<es>
+<es>Le cuesta pillar las cosas.
 
 @98
 <en>{Sakura}\n"We didn't talk about hair on your ass. We were talking about summer break."
-<es>
+<es>{Sakura}\n"No nos estábamos refiriendo a ti. Hablábamos de las vacaciones de verano."
 
 @101
 <en>{Haruka}\n"That's right! Summer break!\nAnd this year, we have boys."
-<es>
+<es>{Haruka}\n"¡Ah, sí! ¡Las vacaciones de verano!\nY este año tenemos chicos aquí."
 
 @102
 <en>She looks at us all smiling.
-<es>
+<es>Nos mira sonriendo.
 
 @105
 <en>{Ran}\n"You are ofcourse staying here."
-<es>
+<es>{Ran}\n"Y tú por descontado te quedas aquí."
 
 @108
 <en>{Haruka}\n"Sure. This is my home here."
-<es>
+<es>{Haruka}\n"Claro. Este es mi hogar."
 
 @109
 <en>{Kazushi}\n"That's right."
-<es>
+<es>{Kazushi}\n"Es cierto."
 
 @110
 <en>Haruka was born and raised here on this island
-<es>
+<es>Haruka nació y creció en la isla.
 
 @111
 <en>{Haruka}\n"Everyone stays here for the break, right.\nThe shoreline doesn't reach the harbor anyways."
-<es>
+<es>{Haruka}\n"Y todos se quedan aquí durante las vacaciones.\nDe todas formas, la línea costera no está a la altura del puerto."
 
 @112
 <en>{Kazushi}\n"What about shoreline?"
@@ -222,19 +224,19 @@
 
 @113
 <en>{Sakura}\n"You guys saw how it is, right?\nSea level stays low this time around the year."
-<es>
+<es>{Sakura}\n"Ya lo visteis, ¿no?\nEl nivel del mar desciende por esta época del año."
 
 @114
 <en>{Kazushi}\n"Oh yeah, we did see that!\nThat was scary!"
-<es>
+<es>{Kazushi}\n"Ah, sí, ¡desde luego que lo vimos!\n¡Fue espeluznante!"
 
 @115
 <en>{Sakura}\n"When the sea level is low and shoreline is far away from the coast,\nthere is no way out from this island."
-<es>
+<es>{Sakura}\n"Cuando el nivel del mar desciende y la línea costera está lejos de la costa,\nno hay forma de salir de la isla."
 
 @116
 <en>{Kazushi}\n"I see."
-<es>
+<es>{Kazushi}\n"Entiendo."
 
 @117
 <en>Ships will be sitting on the dried up coast line and no one can leave this island.
@@ -242,11 +244,11 @@
 
 @118
 <en>This is truly an isolated island.
-<es>
+<es>Es una isla completamente aislada.
 
 @119
 <en>{Haruka}\n"Nature is amazing."
-<es>
+<es>{Haruka}\n"La naturaleza es sorprendente."
 
 @120
 <en>{Kazushi}\n"I know. We all got so scared last night."
