@@ -2,23 +2,23 @@
 
 @10
 <en>{Kazushi}\n"This wind makes me feel good."
-<es>
+<es>{Kazushi}\n"Este viento me reconforta."
 
 @11
 <en>I had to take a nap, because I couldn't fall sleep last night.
-<es>
+<es>He tenido que darme una siesta porque anoche no pude dormirme.
 
 @12
 <en>{Kazushi}\n"Her underwear still comes up in my mind everytime I close my eyes."
-<es>
+<es>{Kazushi}\n"Cada vez que cierro los ojos, recuerdo su ropa interior."
 
 @13
 <en>I made an eye contact with her, too.
-<es>
+<es>Y también tuve contacto visual con ella.
 
 @14
 <en>{Kazushi}\n"I wonder why she doesn't accuse us?"
-<es>
+<es>{Kazushi}\n"Me pregunto por qué no nos acosará."
 
 @15
 <en>{Mei}\n"Me, Kazushi."
@@ -30,7 +30,7 @@
 
 @19
 <en>{Kazushi}\n"......Miss. Ibuki!!"
-<es>
+<es>{Kazushi}\n"¡¡Señorita Ibuki...!!"
 
 @20
 <en>I was just thinking about her!?
@@ -38,43 +38,43 @@
 
 @23
 <en>{Mei}\n"Don't talk so loud. You don't wanna wake up everybody, do you?"
-<es>
+<es>{Mei}\n"No grites tanto. No querrás despertar a todo el mundo, ¿no?"
 
 @24
 <en>{Kazushi}\n"S, sorry......"
-<es>
+<es>{Kazushi}\n"L-Lo siento..."
 
 @25
 <en>She doesn't seem to be upset with me.
-<es>
+<es>No parece estar enfadada conmigo.
 
 @26
 <en>She doesn't seem like she's going to accuse me of something.
-<es>
+<es>No tiene pinta de ir a acusarme o algo así.
 
 @27
 <en>Maybe I should appologize before she starts talking about it.
-<es>
+<es>Quizá debería disculparme antes de que empiece a hablar sobre eso.
 
 @30
 <en>{Mei}\n"What are you doing here so late?"
-<es>
+<es>{Mei}\n"¿Qué haces aquí tan tarde?"
 
 @31
 <en>{Kazushi}\n"Taking a walk."
-<es>
+<es>{Kazushi}\n"Dando un paseo."
 
 @34
 <en>{Mei}\n"Do you have time?"
-<es>
+<es>{Mei}\n"¿Tienes un rato?"
 
 @35
 <en>{Kazushi}\n"Now?"
-<es>
+<es>{Kazushi}\n"¿Ahora?"
 
 @36
 <en>I wonder what she needs me for......
-<es>
+<es>Me pregunto para qué me necesitará...
 
 @39
 <en>[Mei and Kazushi eating noodles]
@@ -110,27 +110,27 @@
 
 @53
 <en>What are we doing here......?
-<es>
+<es>¿Qué estamos haciendo aquí...?
 
 @54
 <en>{Kazushi}\n"Miss Ibuki......"
-<es>
+<es>{Kazushi}\n"Señorita Ibuki..."
 
 @57
 <en>{Mei}\n"Kazushi, do you have anything that worries you?"
-<es>
+<es>{Mei}\n"Kazushi, ¿hay algo que te preocupa?"
 
 @58
 <en>{Kazushi}\n"Anything that worries me?"
-<es>
+<es>{Kazushi}\n"¿Algo que me preocupe?"
 
 @59
 <en>{Mei}\n"You know, if you need somebody to talk to, I'll listen to you."
-<es>
+<es>{Mei}\n"Ya sabes. Si necesitas a alguien con quien hablar, yo puedo escuchartes."
 
 @60
 <en>Why is she asking me this, all the sudden?
-<es>
+<es>¿Por qué me dice esto así de sopetón?
 
 @63
 <en>{Mei}\n"Boys in puberty always have some kind of trouble in their life. And that sometimes make them commit sexual crimes."
@@ -150,11 +150,11 @@
 
 @71
 <en>{Mei}\n"But, I'll do my best to understand you boys, O.K?"
-<es>
+<es>{Mei}\n"Pero haré todo lo posible para comprenderos, ¿vale?"
 
 @72
 <en>{Kazushi}\n"Miss Ibuki......"
-<es>
+<es>{Kazushi}\n"Señorita Ibuki..."
 
 @73
 <en>I think she is thinking too much......
@@ -174,7 +174,7 @@
 
 @79
 <en>Why am I confessing this?
-<es>
+<es>¿Por qué le estoy confesando esto?
 
 @82
 <en>{Mei}\n"My body? So you have nothing to worry about in your life?"
@@ -190,35 +190,35 @@
 
 @85
 <en>{Kazushi}\n"I'm really sorry!!"
-<es>
+<es>{Kazushi}\n"¡¡Lo siento mucho, de verdad!!"
 
 @86
 <en>I couldn't do anything but applogizing.
-<es>
+<es>No podía hacer otra cosa más que disculparme.
 
 @89
 <en>{Mei}\n"That's enough. It's O.K"
-<es>
+<es>{Mei}\n"Ya es suficiente. Está bien."
 
 @90
 <en>She's smiling. I think my appology was accepted.
-<es>
+<es>Está sonriendo. Creo que ha aceptado mis disculpas.
 
 @91
 <en>{Mei}\n"You are good boy. It's hard to appologize sometimes."
-<es>
+<es>{Mei}\n"Eres un buen chico. A veces resulta difícil disculparse."
 
 @92
 <en>{Kazushi}\n"......are you mad at me?"
-<es>
+<es>{Kazushi}\n"¿Estás enfadada conmigo...?"
 
 @95
 <en>{Mei}\n"Ofcourse I am."
-<es>
+<es>{Mei}\n"Claro que sí."
 
 @96
 <en>But she doesn't look like she is.
-<es>
+<es>Aunque no aparenta estarlo.
 
 @99
 <en>{Mei}\n"I just wanted to know why you guys did that."
@@ -226,23 +226,23 @@
 
 @100
 <en>{Kazushi}\n"Sorry for having no reason......"
-<es>
+<es>{Kazushi}\n"Siento no tener ninguna razón..."
 
 @103
 <en>{Mei}\n"Promise me don't do that again, O.K?"
-<es>
+<es>{Mei}\n"¿Me prometes que no volverás a hacerlo?"
 
 @104
 <en>{Kazushi}\n"I promise."
-<es>
+<es>{Kazushi}\n"Lo prometo."
 
 @105
 <en>I appologized her once again.
-<es>
+<es>Volví a disculparme.
 
 @108
 <en>{Mei}\n"All right. No more of this subject."
-<es>
+<es>{Mei}\n"Está bien. Pues tema zanjado."
 
 @109
 <en>She let me go this time.
