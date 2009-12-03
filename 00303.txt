@@ -1050,15 +1050,15 @@
 
 @647
 <en>Ran still ended up looking inside the room anyways.
-<es>
+<es>Aunque Ran acabó mirando de todas formas.
 
 @648
 <en>{Ran}\n"Yeah, she's sexy......"
-<es>
+<es>{Ran}\n"Sí, es sexy..."
 
 @649
 <en>{Appo-}\n"Wow......"
-<es>
+<es>{Appo-}\n"Guau..."
 
 @650
 <en>{Pierre}\n"Show me your tits......"
@@ -1066,7 +1066,7 @@
 
 @651
 <en>{Ran}\n"You should see how your face look like right now, boys."
-<es>{Ran}\n"Tendríais que veros la cara que tenéis ahora."
+<es>{Ran}\n"Tendríais que veros la cara que ponéis ahora."
 
 @652
 <en>Ran seems to be little jealous.
@@ -1082,15 +1082,15 @@
 
 @655
 <en>{Boys}\n(......!!)
-<es>
+<es>{Chicos}\n(¡¡...!!)
 
 @656
 <en>We all stopped breathing to wait for her next move.
-<es>
+<es>Dejamos todos de respirar en espera del siguiente movimiento.
 
 @657
 <en>But for some reason, she stopeed moving and froze.
-<es>
+<es>Pero por algún motivo, paró de moverse y se quedó congelada.
 
 @658
 <en>{Mei}\n".................."
@@ -1098,19 +1098,19 @@
 
 @659
 <en>She is thinking something.
-<es>Está pensando algo.
+<es>Está pensando en algo.
 
 @660
 <en>We couldn't move either. We kept silence.
-<es>
+<es>Tampoco nos podíamos mover. Permanecimos en silencio.
 
 @661
 <en>She's looking at herself inside a mirror.
-<es>
+<es>Se está mirando por el espejo.
 
 @662
 <en>{Mei}\n"......maybe I'm from outer space."
-<es>
+<es>{Mei}\n"Quizá sea del espacio exterior..."
 
 @663
 <en>{Boys}\n(What......!?)
@@ -1130,7 +1130,7 @@
 
 @667
 <en>{Appo-}\n"But she thinks she is."
-<es>
+<es>{Appo-}\n"Pero ella lo cree."
 
 @668
 <en>{Kazushi}\n"She is an alien......?"
@@ -1142,7 +1142,7 @@
 
 @670
 <en>She looks serious in the mirror.
-<es>
+<es>Mira con seriedad por el espejo.
 
 @671
 <en>And she spoke out with a serious face.
@@ -1159,11 +1159,11 @@
 
 @675
 <en>{Mei}\n"I can use this. I should write this down."
-<es>
+<es>{Mei}\n"Puede servir. Lo escribiré."
 
 @676
 <en>She looks for a memo.
-<es>
+<es>Busca un bloc de notas.
 
 @679
 <en>{Daigo}\n"Mei in black......?"
@@ -1174,12 +1174,14 @@
 <es>
 
 @681
+# Por lo que dicen después, parece que se refiere a lo que dice más que de a ella.
 <en>{Appo-}\n"She's so cute......"
-<es>
+<es>{Appo-}\n"Pero es muy gracioso..."
 
 @682
+# Cambiado por lo que comento antes.
 <en>Appo- was the only guy who thought that was cute......
-<es>
+<es>Creo que Appo- era el único que pensaba que tenía gracia...
 
 @683
 <en>{Daigo}\n"Hey......"
@@ -1191,15 +1193,15 @@
 
 @686
 <en>{Appo-}\n"Shit!"
-<es>
+<es>{Appo-}\n"¡Joder!"
 
 @687
 <en>{Pierre}\n"No!"
-<es>
+<es>{Pierre}\n"¡No!"
 
 @688
 <en>{Ran}\n"Too bad, boys."
-<es>
+<es>{Ran}\n"Una lástima, chicos."
 
 @689
 <en>{Daigo}\n"I like her black bras, too."
@@ -1211,19 +1213,20 @@
 
 @691
 <en>{Appo-}\n"......"
-<es>
+<es>{Appo-}\n"..."
 
 @692
 <en>{Pierre}\n"I lost it......"
-<es>
+<es>{Pierre}\n"Me lo he perdido..."
 
 @693
+# Estoy inspirada. Estoy que me salgo. Tengo mucha chispa. Estoy aguda. Quizá por lo de gracioso sería mejor otro (quizá chispa).
 <en>{Mei}\n"I'm sharp today."
-<es>
+<es>{Mei}\n"Hoy estoy con chispa."
 
 @694
 <en>She thinks it's a funny joke.
-<es>
+<es>Debe pensarse que era un chiste gracioso.
 
 @695
 <en>{Kazushi}\n"Hey......"
@@ -1235,55 +1238,56 @@
 
 @697
 <en>{Mei}\n".................."
-<es>
+<es>{Mei}\n"..."
 
 @698
 <en>Is she looking at us?\nNo way......
-<es>
+<es>¿Nos está mirando?\nNo puede ser...
 
 @699
 <en>{Kazushi}\n"......how about this?"
 <es>
 
 @700
+# Le puse una cara rara. Puse una cara larga.
 <en>I made a funny face just to see if she knows we are here.
-<es>
+<es>Le puse una cara rara para ver si sabía que estábamos aquí.
 
 @701
 <en>{Mei}\n(She laughs)
-<es>
+<es>{Mei}\n(Se ríe)
 
 @702
 <en>Oh shit!\nShe knows we are here!
-<es>
+<es>¡Joder!\n¡Lo sabe!
 
 @703
 <en>{Appo-}\n"Oh yeah, where is my camera?"
-<es>
+<es>{Appo-}\n"Ah sí, ¿dónde tengo la cámara?"
 
 @704
 <en>{Pierre}\n"That's right. We paid 50 bucks."
-<es>
+<es>{Pierre}\n"Eso. Que hemos pagado 5000 yenes."
 
 @705
 <en>My guys don't know that she knows we are here.
-<es>
+<es>Mis colegas no sabían que ella sabía que estábamos aquí.
 
 @706
 <en>{Mei}\n".................."
-<es>
+<es>{Mei}\n"..."
 
 @707
 <en>We should leave here while she's pretending she doesn't know.
-<es>
+<es>Deberíamos marcharnos mientras finje que no sabe que estamos aquí.
 
 @708
 <en>{Kazushi}\n"Hey guys, I think we should leave now."
-<es>
+<es>{Kazushi}\n"Chicos. Creo que deberíamos irnos."
 
 @709
 <en>{Appo-}\n"Are you crazy?"
-<es>
+<es>{Appo-}\n"¿Estás loco?"
 
 @710
 <en>{Pierre}\n"Remember?, it's during class hour."
@@ -1291,27 +1295,27 @@
 
 @711
 <en>Taking pictures will make Ms.Ibuki stop pretending.
-<es>
+<es>Sacar fotos hará que la señorita Ibuki deje de finjir.
 
 @712
 <en>{Appo-}\n"Smile......"
-<es>
+<es>{Appo-}\n"Sonríe..."
 
 @713
 <en>{Kazushi}\n"Stupid!"
-<es>
+<es>{Kazushi}\n"¡Estúpido!"
 
 @714
 <en>I covered his camera.
-<es>
+<es>Le tapé la cámara.
 
 @720
 <en>{Appo-}\n"What are you doing?"
-<es>
+<es>{Appo-}\n"¿Pero qué haces?"
 
 @721
 <en>{Kazushi}\n"We should really get going now."
-<es>
+<es>{Kazushi}\n"Tenemos que irnos ya."
 
 @726
 <en>{Ran}\n"This is not a good idea. You forgot to shut off the flush that time, too."
@@ -1327,7 +1331,7 @@
 
 @738
 <en>{Ran}\n"Opps. I think we got caught."
-<es>
+<es>{Ran}\n"Ups. Creo que nos han pillado."
 
 @739
 <en>{Kazushi}\n"......oh no!?"
@@ -1339,7 +1343,7 @@
 
 @752
 <en>{Pierre}\n"What is that!?"
-<es>
+<es>{Pierre}\n"¿¡Qué es eso!?"
 
 @753
 <en>It's plant. It's trying to catch us like snake.
@@ -1355,31 +1359,31 @@
 
 @760
 <en>{Kazushi}\n"You call this a security system!?"
-<es>
+<es>{Kazushi}\n"¿¡Y llamas a esto sistema de seguridad!?"
 
 @761
 <en>Is this part of Alchemy?
-<es>
+<es>¿Es alquimia?
 
 @762
 <en>{Ran}\n"Shut up and just run!"
-<es>
+<es>{Ran}\n"¡Calla y corre!"
 
 @767
 <en>{Daigo}\n"Run to where?"
-<es>
+<es>{Daigo}\n"¿Correr? ¿A dónde?"
 
 @768
 <en>The plant is coming from all directions.
-<es>
+<es>La planta viene de todas las direcciones.
 
 @773
 <en>{Ran}\n"Jump thorough the window. Jump!"
-<es>
+<es>{Ran}\n"Saltad por la ventana. ¡Saltad!"
 
 @774
 <en>Ran opened the window telling us to jump.
-<es>
+<es>Ran abrió la ventana mientras nos decía que saltásemos.
 
 @775
 <en>{Kazushi}\n"Git it! Jump guys!"
@@ -1387,29 +1391,31 @@
 
 @777
 <en>{Pierre}\n"Ahhhhhh!!"
-<es>
+<es>{Pierre}\n"¡¡Ahhhhhh!!"
 
 @779
+# Cambiar quizá lo de "convirtiéndonos en pájaros".
 <en>We jumped through the window. We became birds.
-<es>
+<es>Saltamos por la ventana convirtiéndonos en pájaros.
 
 @781
 <en>{Pierre}\n"This is 3rd floor!!!"
-<es>
+<es>{Pierre}\n"¡¡Es el tercer piso!!"
 
 @783
 <en>{Appo-}\n"No!!"
-<es>
+<es>{Appo-}\n"¡¡No!!"
 
 @792
 <en>{Ran}\n"Are you guys all right......?"
-<es>
+<es>{Ran}\n"¿Estáis bien...?"
 
 @793
 <en>{Kazushi}\n"What do you think?"
-<es>
+<es>{Kazushi}\n"¿Tú qué crees?"
 
 @794
+# ¿Plural o singular?
 <en>{Ran}\n"You are still alive! That's good!!"
-<es>
+<es>{Ran}\n"¡Seguís con vida! ¡¡Qué bien!!"
 
