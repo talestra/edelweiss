@@ -169,8 +169,9 @@
 <es>
 
 @78
+# desnuda, o "en bolas". Quizá no esté chisposo si está realmente arrepentido.
 <en>{Kazushi}\n"We don't have any trouble in our lives......we simply just wanted to see you naked......"
-<es>
+<es>{Kazushi}\n"No tenemos ningún problema... Simplemente queríamos verte desnuda..."
 
 @79
 <en>Why am I confessing this?
@@ -178,11 +179,11 @@
 
 @82
 <en>{Mei}\n"My body? So you have nothing to worry about in your life?"
-<es>
+<es>{Mei}\n"¿Ver mi cuerpo? ¿Así que no tenéis ninguna preocupación en la vida?"
 
 @83
 <en>She understood she was thinking too deep.
-<es>
+<es>Comprendió que le estaba dando demasiada importancia.
 
 @84
 <en>{Mei}\n"Boys your age should be interested."
@@ -222,7 +223,7 @@
 
 @99
 <en>{Mei}\n"I just wanted to know why you guys did that."
-<es>
+<es>{Mei}\n"Solo quería saber por qué lo hicisteis."
 
 @100
 <en>{Kazushi}\n"Sorry for having no reason......"
@@ -246,23 +247,24 @@
 
 @109
 <en>She let me go this time.
-<es>
+<es>Esta vez lo ha dejado estar.
 
 @110
+# ¿Voy a recibir algún castigo?
 <en>{Kazushi}\n"Would I get any kind of penalty?"
-<es>
+<es>{Kazushi}\n"¿Vas a castigarme?"
 
 @113
 <en>{Mei}\n"No. This is over. Eat your noodles."
-<es>
+<es>{Mei}\n"No. Ya está. Tómate los fideos."
 
 @114
 <en>I was expecting a couple of slaps from her.
-<es>
+<es>Me esperaba un par de sopapos.
 
 @117
 <en>{Mei}\n"It's still hot and tasty."
-<es>
+<es>{Mei}\n"Todavía están calientes y muy buenos."
 
 @118
 <en>I couldn't keep my eyes off from her face.
@@ -270,15 +272,15 @@
 
 @119
 <en>She's like a kind elder sister.
-<es>
+<es>Es como una especie de hermana mayor.
 
 @120
 <en>Any man would love to have her.
-<es>
+<es>Cualquier hombre desearía tenerla.
 
 @121
 <en>{Kazushi}\n".................."
-<es>
+<es>{Kazushi}\n"..."
 
 @122
 <en>I kind of wanted to see her explode......
@@ -290,167 +292,169 @@
 
 @126
 <en>{Mei}\n"What's wrong? You're not hungry?"
-<es>
+<es>{Mei}\n"¿Qué pasa? ¿No tienes hambre?"
 
 @127
 <en>{Kazushi}\n"Oh no. I'll eat."
-<es>
+<es>{Kazushi}\n"Ah, no. Voy a comer."
 
 @128
 <en>Maybe she only shows human side of her to some one special.
-<es>
+<es>Quizá solo muestra su parte humana a alguien especial.
 
 @129
+# Entre esta frase y la anterior. Se separa el one del some. Quizá se refiera "AL" especial. A una única persona especial. La más especial de todas.
+# Habría que revisarlo y cambiarlo si hace falta.
 <en>Her some one special.......
-<es>
+<es>A alguien especial...
 
 @130
 <en>I wonder what kind of man she likes?
-<es>
+<es>Me pregunto qué tipo de hombres le gustarán...
 
 @133
 <en>{Mei}\n"That was delicious."
-<es>
+<es>{Mei}\n"Estaba buenísimo."
 
 @134
 <en>She looks up to the sky.
-<es>
+<es>Mira al cielo.
 
 @136
 <en>There are handful of stars in the sky.
-<es>
+<es>Se ven un buen puñado de estrellas.
 
 @137
 <en>We could never see this at where we came from.
-<es>
+<es>De donde venimos nunca hubiésemos podido ver esto.
 
 @138
 <en>{Mei}\n"Beautiful moon tonight."
-<es>
+<es>{Mei}\n"Hoy hay una luna muy bonita."
 
 @139
 <en>To me, she was whole lot more beautiful than all the stars in the sky combined.
-<es>
+<es>Para mí, era mucho más bella que todas las estrellas del firmamento juntas.
 
 @151
 <en>Lunch break.
-<es>
+<es>Descanso para comer.
 
 @154
 <en>{Mizuki}\n".................."
-<es>
+<es>{Mizuki}\n"..."
 
 @155
 <en>She doesn't talk to me lately. She seems to be avoiding me.
-<es>
+<es>Últimamente no me habla. Parece estar evitándome.
 
 @158
 <en>{Mizuki}\n".................."
-<es>
+<es>{Mizuki}\n"..."
 
 @159
 <en>She leave away from her seat as soon as class finishes.
-<es>
+<es>Se va de su sitio en cuanto terminan las clases.
 
 @160
 <en>I need to talk to her and ask her what's going on.
-<es>
+<es>Siendo la necesidad de hablar con ella y preguntarle qué está pasando.
 
 @161
 <en>{Kazushi}\n"Hey Mizuki......"
-<es>
+<es>{Kazushi}\n"Oye Mizuki..."
 
 @164
 <en>{Mizuki}\n"What?"
-<es>
+<es>{Mizuki}\n"¿Qué?"
 
 @165
 <en>She didn't expect me to talk to her and she seems little surprised.
-<es>
+<es>No esperaba que le hablase, y parece algo sorprendida.
 
 @168
 <en>{Mizuki}\n"What do you need?"
-<es>
+<es>{Mizuki}\n"¿Qué quieres?"
 
 @169
 <en>{Kazushi}\n"I just wanted to talk to you."
-<es>
+<es>{Kazushi}\n"Solo quería hablar contigo."
 
 @172
 <en>{Mizuki}\n"Talk about what?"
-<es>
+<es>{Mizuki}\n"¿Sobre qué?"
 
 @173
 <en>{Kazushi}\n"......anything."
-<es>
+<es>{Kazushi}\n"Nada..."
 
 @176
 <en>{Mizuki}\n"......did you perhaps remembered something?"
-<es>
+<es>{Mizuki}\n"¿Quizá has recordado algo...?"
 
 @177
 <en>{Kazushi}\n"Remembered something? What do you mean?"
-<es>
+<es>{Kazushi}\n"¿Recordar algo? ¿Qué quieres decir?"
 
 @180
 <en>Mizuki was staring at me for a few seconds for some reason.
-<es>
+<es>Mizuki se me queda mirando unos cuantos segundos por alguna razón.
 
 @181
 <en>{Kazushi}\n"What do you mean?"
-<es>
+<es>{Kazushi}\n"¿Qué quieres decir?"
 
 @184
 <en>{Mizuki}\n"No, nothing. I'll see you around."
-<es>
+<es>{Mizuki}\n"No, nada. Nos vemos."
 
 @189
 <en>She starts running to somewhere.
-<es>
+<es>Se marcha corriendo a algún sitio.
 
 @190
 <en>{Kazushi}\n"She seems to be an athlete."
-<es>
+<es>{Kazushi}\n"Parece una atleta."
 
 @193
 <en>{Pierre}\n"What are you looking at?\nYou like her?"
-<es>
+<es>{Pierre}\n"¿A dónde estás mirando?\n¿Te gusta?"
 
 @194
 <en>Pierre caught me watching her.
-<es>
+<es>Pierre me pilló mirándola.
 
 @195
 <en>{Kazushi}\n"Hey pierre."
-<es>
+<es>{Kazushi}\n"Anda, Pierre."
 
 @202
 <en>There is Appo- and Daigo as well. They are smiling. They must have caught me staring at Mizuki.
-<es>
+<es>También están Appo- y Daigo. Están sonriendo. Deben haberse fijado que me que quedado mirando a Mizuki.
 
 @203
 <en>{Daigo}\n"You guys are not getting along, are you?"
-<es>
+<es>{Daigo}\n"No os lleváis bien todavía, ¿no?"
 
 @204
 <en>{Kazushi}\n"I don't know. She seems to stay away from me."
-<es>
+<es>{Kazushi}\n"No sé. Parece como si me evitase."
 
 @205
 <en>{Appo-}\n"Maybe she doesn't like you. Everygirl has bad compatible man."
-<es>
+<es>{Appo-}\n"Quizá no le caigas bien. Toda slas chicas tienen incompatibilidades con algún chico."
 
 @206
 <en>{Kazushi}\n"It's bad when you need to sit next to each other everyday."
-<es>
+<es>{Kazushi}\n"Pues no mola cuando te toca sentarte junto a ella todos los días."
 
 @209
 <en>{Pierre}\n"We should have seat change soon. I'm going right front of Mei."
-<es>
+<es>{Pierre}\n"Nos cambiaremos pronto de sitio. Y yo me voy a poner justo enfrente de Mei."
 
 @212
 <en>{Appo-}\n"Me, too."
-<es>
+<es>{Appo-}\n"Yo también."
 
 @215
 <en>{Daigo}\n"You guys should sit next to each other."
@@ -458,7 +462,7 @@
 
 @216
 <en>{Kazushi}\n"Seat change......."
-<es>
+<es>{Kazushi}\n"Cambio de asiento..."
 
 @217
 <en>I hope to get along with her before that happens.
