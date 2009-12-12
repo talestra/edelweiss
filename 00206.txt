@@ -1142,11 +1142,11 @@
 
 @557
 <en>{Kazushi}\n"Oh my!?"
-<es>
+<es>{Kazushi}\n"Dios..."
 
 @558
 <en>That was an impressive throw!
-<es>
+<es>¡Qué golpe más impresionante!
 
 @559
 <en>{???}\n"Shit."
@@ -1158,7 +1158,7 @@
 
 @561
 <en>{Kazushi}\n"You know this is too much for a joke."
-<es>
+<es>{Kazushi}\n"Creo que te lo estás tomando demasiado en serio para ser una broma."
 
 @562
 <en>{???}\n"I'm serious."
@@ -1207,11 +1207,11 @@
 
 @580
 <en>{Kazushi}\n"......Are you a senior?"
-<es>
+<es>{Kazushi}\n"¿Eres de segundo?"
 
 @581
 <en>She shook her head.
-<es>
+<es>Agita la cabeza.
 
 @584
 <en>{Natsume}\n"I'm a freshman."
@@ -1239,11 +1239,11 @@
 
 @594
 <en>{Natsume}\n"It wasn't dangerous to hang out at night till you showed up."
-<es>
+<es>{Natsume}\n"No era peligroso salir de noche hasta que has aparecido."
 
 @597
 <en>She gives me a mean glare.
-<es>
+<es>Me lanza una mirada de odio.
 
 @598
 <en>{Kazushi}\n"I said I'm sorry. You have bad personality, do you have any friends?"
@@ -1323,7 +1323,7 @@
 
 @625
 <en>{Natsume}\n"......what is your point?"
-<es>{Natsume}\n"¿A dónde quieres llegar...?"
+<es>{Natsume}\n"¿Adónde quieres llegar...?"
 
 @626
 <en>{Kazushi}\n"Just add one more name on your friend list, O.K?"
@@ -1401,7 +1401,7 @@
 
 @657
 <en>{Kazushi}\n"Wow!?"
-<es>
+<es>{Kazushi}\n"¿¡Eh!?"
 
 @658
 <en>I was so surprised that Appo- was up already.
@@ -1478,7 +1478,7 @@
 
 @684
 <en>{Daigo}\n"Nnnn-......"
-<es>
+<es>{Daigo}\n"Uhm..."
 
 @685
 <en>{Kazushi}\n"What?"
@@ -1538,7 +1538,7 @@
 
 @711
 <en>I have a feeling Daigo might not be straight.
-<es>
+<es>Tengo la sensación de que Daigo no lo pilla.
 
 @712
 <en>......I rather not think about it now.
@@ -1558,7 +1558,7 @@
 
 @726
 <en>{Pierre}\n"Daigo,\nstop waking me up in the middle of the night asking me to go to the restroom together."
-<es>
+<es>{Pierre}\n"Daigo,\ndeja de ir a por mí por la noche pidiéndome que te acompañe al servicio."
 
 @729
 <en>{Daigo}\n"I will try."
@@ -1566,7 +1566,7 @@
 
 @730
 <en>No matter where we are, this is our usual morning.
-<es>
+<es>Estemos donde estemos, es la misma mañana de siempre.
 
 @731
 <en>{Kazushi}\n"I'm starving.\nLet's go eat."
@@ -1594,11 +1594,13 @@
 
 @743
 <en>{Kazushi}\n"All right!\nWe'll get back what we missed yesterday!"
-<es>
+<es>{Kazushi}\n"¡Está bien!\n¡Recuperaremos lo que nos perdimos ayer!"
 
 @744
 <en>It's the start of our new school life!!
 <es>¡¡Es el inicio de nuestra nueva vida en la escuela!
+
+# Cambio de escena a la cafetería donde están todas las chicas.
 
 @752
 <en>{Kazushi}\n"Wow-! Look at this!"
@@ -1666,11 +1668,11 @@
 
 @789
 <en>{Appo-}\n"Come on guys. Be a man. Eat at the center of the cafeteria!!"
-<es>
+<es>{Appo-}\n"Venga. Sed hombres. ¡¡Comed en el centro de la cafetería!!"
 
 @794
 <en>{Pierre}\n"Hey guys, is that Panchu-?"
-<es>
+<es>{Pierre}\n"Eh chicos, ¿no es ese Panchu-?"
 
 @799
 <en>We saw a man in the middle of the cafeteria.
@@ -1682,19 +1684,19 @@
 
 @801
 <en>{Daigo}\n"Some girls are checking him out."
-<es>
+<es>{Daigo}\n"Hay algunas chicas con él."
 
 @802
 <en>They seem to find a way to get to know him.
-<es>
+<es>Parecen estar buscando una forma de conocerle.
 
 @803
 <en>{Pierre}\n"I wouldn't get near him when he's eating like that."
-<es>
+<es>{Pierre}\n"Yo no me acercaría a él estando comiendo así."
 
 @804
 <en>{Appo-}\n"He's the man-. No girl can get close to him."
-<es>
+<es>{Appo-}\n"Él es 'el hombre'. No hay chica que se le pueda acercar."
 
 @805
 <en>Some girls finally commited to make a move on him.
@@ -1706,11 +1708,12 @@
 
 @807
 <en>{Kazushi}\n"Wow. Go girls."
-<es>
+<es>{Kazushi}\n"Increíble. Venga chicas."
 
 @808
+# Cambiar reunión por algo más apropiado.
 <en>After a realy short meeting, one of them stepped out to talk to him.
-<es>
+<es>Tras una breve reunión, una de ellas da un paso para hablarle.
 
 @809
 <en>{Girl 1}\n"Excuse me, can I eat with you?"
@@ -1722,11 +1725,11 @@
 
 @813
 <en>He gave her a mean glare. But instead of getting scared, the girls went crazy.
-<es>
+<es>La mira mal. Pero en vez de asustarse, las chicas se volvieron locas.
 
 @814
 <en>{Pierre}\n"Aren't they scared?"
-<es>
+<es>{Pierre}\n"¿No están asustadas?"
 
 @815
 <en>{Appo-}\n"Do they understand Japanese to begin with?"
