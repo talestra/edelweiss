@@ -230,7 +230,7 @@
 
 @109
 <en>I mean it's very delicious.
-<es>
+<es>Y lo decía muy en serio.
 
 @110
 <en>{Haruka}\n"See, it's all right."
@@ -238,307 +238,312 @@
 
 @111
 <en>{Kazushi}\n"I didn't know you can use alchemy for cooking."
-<es>
+<es>{Kazushi}\n"No sabía que se pudiese usar la alquímia para cocinar."
 
 @112
+# Revisar.
 <en>{Haruka}\n"Alchemy is to improve something to its perfection.\nMy ordinary lunch can be delicious like this-"
-<es>
+<es>{Haruka}\n"La alquimia sirve para perfeccionar algo al límite.\nMi ordinaria comida no podría estar así de buena."
 
 @113
 <en>{Kazushi}\n"It's really useful."
-<es>
+<es>{Kazushi}\n"Sí que es útil..."
 
 @114
+# Revisar.
 <en>{Haruka}\n"Alchemy we study in this school is very practical. It's nothing like witchcraft."
-<es>
+<es>{Haruka}\n"La alquimia que estudiamos en la escuela es muy práctica. Nada que ver con la brujería."
 
 @115
 <en>{Kazushi}\n"Witchcraft was actually exactly what I imagined when I first heard alchemy."
-<es>
+<es>{Kazushi}\n"La verdad es que lo primero en lo que pensé sobre la alquimia fue en la brujería."
 
 @116
 <en>I had an image of a witch making some kind of soup in a basement.
-<es>
+<es>Me imaginaba a una bruja haciendo algún tipo de brebaje en una marmita.
 
 @117
 <en>{Haruka}\n"Everybody thinks that way in the beginning. Are you getting intersted now?"
-<es>
+<es>{Haruka}\n"Todo el mundo piensa eso al principio. Entonces, ¿estás ahora un poco más interesado?"
 
 @118
 <en>{Kazushi}\n"Actually, I am."
-<es>
+<es>{Kazushi}\n"La verdad es que sí."
 
 @119
 <en>If it's practical, I don't mind studying it.
-<es>
+<es>Si es práctico, no me importa estudiar.
 
 @120
 <en>{Haruka}\n"I knew you would be interested in it."
-<es>
+<es>{Haruka}\n"¡Sabía que te interesaría!"
 
 @121
 <en>She sounded like she was trying hard to make me interested in alchemy.
-<es>
+<es>Tal y como lo ha dicho parece como si quisiese que me interesase en la alquimia.
 
 @122
 <en>{Haruka}\n"Eat more. You can soon be able to use alchemy to make lunch like this."
-<es>
+<es>{Haruka}\n"Come más. Pronto tu también serás capaz de usar la alquimia así."
 
 @123
+# Normal, no le queda un duro... :P
 <en>{Kazushi}\n"That's great......"
-<es>
+<es>{Kazushi}\n"Eso es fantástico...."
 
 @124
 <en>Is it?\nI still can't believe how it's possible.
-<es>
+<es>¿Lo es?\nTodavía me resulta increíble pensar que sea posible.
 
 @125
 <en>Besides, if you wanna be good at cooking, you can simply learn how to cook.
-<es>
+<es>Además, si quieres ser bueno cocinando. Basta simplemente con aprender a cocinar.
 
 @129
 <en>{Haruka}\n"What's wrong?"
-<es>
+<es>{Haruka}\n"¿Qué ocurre?"
 
 @130
 <en>She looks at me worried.
-<es>
+<es>Me mira con cara de preocupación.
 
 @131
 <en>{Haruka}\n"Something didn't taste right?"
-<es>
+<es>{Haruka}\n"¿Hay algo que no sabía bien?"
 
 @132
 <en>{Kazushi}\n"No no. Everything tastes so good."
-<es>
+<es>{Kazushi}\n"No, no. Todo sabe divinamente."
 
 @133
 <en>They are really good. But for some reason, the more I eat the less the taste gets.
-<es>
+<es>Está todo realmente bueno. Pero por algún motivo, cuanto más como, menos sabor tiene.
 
 @134
 <en>{Kazushi}\n".................."
-<es>
+<es>{Kazushi}\n"..."
 
 @137
 <en>{Haruka}\n"Did I say something wrong......?"
-<es>
+<es>{Haruka}\n"¿He dicho algo malo...?"
 
 @138
 <en>She's worried because I closed my mouth and start thinking.
-<es>
+<es>Se ha preocupado porque he cerrado la boca y me he puesto a pensar.
 
 @139
 <en>Well then......
-<es>
+<es>Bueno, entonces...
 
 @140
 <en>{Kazushi}\n"Do you think we can use the kitchen in cafeteria?"
-<es>
+<es>{Kazushi}\n"¿Crees que podemos usar la cocina de la cafetería?"
 
 @141
 <en>{Haruka}\n"The one in cafeteria?now?"
-<es>
+<es>{Haruka}\n"¿La de la cafetería? ¿Ahora?"
 
 @142
 <en>{Kazushi}\n"Yep. The lunch hour is almost over right?"
-<es>
+<es>{Kazushi}\n"Sip. La comida ya ha terminado casi, ¿no?"
 
 @145
 <en>{Haruka}\n"I think they don't mind, but why you need to use a kitchen?"
-<es>
+<es>{Haruka}\n"No creo que les importase. Pero, ¿para qué quieres usar la cocina?"
 
 @146
 <en>{Kazushi}\n"Because your lunch was so good.\nI feel like cooking."
-<es>
+<es>{Kazushi}\n"Porque tu comida estaba tan buena, que me han entrado ganas de cocinarte algo."
 
 @149
 <en>{Haruka}\n"For me?"
-<es>
+<es>{Haruka}\n"¿Para mí?"
 
 @150
 <en>{Kazushi}\n"Come with me."
-<es>
+<es>{Kazushi}\n"Ven conmigo."
 
 @157
 <en>{Haruka}\n"Kazushi.\nI think the lunch time is over now."
-<es>
+<es>{Haruka}\n"Kazushi.\nCreo que la hora de la comida ya ha terminado."
 
 @158
 <en>{Kazushi}\n"Yes, I made it in time!"
-<es>
+<es>{Kazushi}\n"Sí. ¡Me ha dado tiempo!"
 
 @160
 <en>I jumped out from the kitchen with a dish I prepared for her.
-<es>
+<es>Salté de la cocina con un plato preparado para ella.
 
 @161
 <en>{Haruka}\n"Actually you didn't make it in time-\nLunch break is over."
-<es>
+<es>{Haruka}\n"En realidad no lo has hecho a tiempo, la hora de la comida ya ha terminado."
 
 @162
 <en>{Kazushi}\n"But you're still hungry, right?"
-<es>
+<es>{Kazushi}\n"Pero todavía tienes hambre, ¿no?"
 
 @163
 <en>I prepared egg-rice for her.
-<es>
+<es>Preparé arroz con huevo para ella.
 
 @166
+# Otra vez con lo mismo, pero ahora al revés :P
 <en>{Haruka}\n"Wow!?\nYou made this?"
-<es>
+<es>{Haruka}\n"¡Vaya!\n¿Lo has hecho tú?"
 
 @167
 <en>{Kazushi}\n"You will like it."
-<es>
+<es>{Kazushi}\n"Te gustará."
 
 @170
 <en>{Haruka}\n"It looks so good-!\nBut I don't have time to eat-"
-<es>
+<es>{Haruka}\n"¡Tiene una pinta deliciosa!\nPero no tengo tiempo para comer..."
 
 @171
 <en>She's really an earnest student.
-<es>
+<es>Realmente es una estudiante modelo.
 
 @172
 <en>{Kazushi}\n"It's O.K to be late sometimes. We are not perfect."
-<es>
+<es>{Kazushi}\n"No pasa nada por llegar tarde alguna vez. Nadie es perfecto."
 
 @173
 <en>I forced her to taste my dish.
-<es>
+<es>La forcé a que probase mi plato.
 
 @174
 <en>{Kazushi}\n"Please start."
-<es>
+<es>{Kazushi}\n"Por favor, empieza."
 
 @175
 <en>She gave up insisting to go to the class.
-<es>
+<es>Se rindió en intentar insistir en ir a clase.
 
 @178
 <en>{Haruka}\n"All right. I didn't know you are aggressive sometimes."
-<es>
+<es>{Haruka}\n"Está bien. No sabía que te pusieses así de agresivo a veces."
 
 @179
 <en>{Kazushi}\n"You will find out a lot about me in the future."
-<es>
+<es>{Kazushi}\n"Ya te enterarás de más cosasde mí más adelante."
 
 @182
 <en>{Haruka}\n"O.k. I'll first find out how good you are as a cook."
-<es>
+<es>{Haruka}\n"Vale. Pero primero averiguaré qué tal se te da la cocina."
 
 @183
 <en>She took a big bite.
-<es>
+<es>Le pegó un buen mordisco.
 
 @184
 <en>{Haruka}\n"Haruka eating"
-<es>
+<es>{Haruka}\n*Haruka comiendo*
 
 @185
 <en>{Kazushi}\n"How is it?"
-<es>
+<es>{Kazushi}\n"¿Qué tal está?"
 
 @188
 <en>She gave me a surprising face.
-<es>
+<es>Me mira con cara de sorpresa.
 
 @191
 <en>{Haruka}\n"Wow!\nYou really made this?"
-<es>
+<es>{Haruka}\n"¡Vaya!\n¿Has hecho tú esto?"
 
 @192
 <en>{Kazushi}\n"It's so good that now you're doubting me?"
-<es>
+<es>{Kazushi}\n"Qué, ¿está tan bueno que dudas de mí?"
 
 @195
 <en>{Haruka}\n"Sorry.\nbut......this is so good-!"
-<es>
+<es>{Haruka}\n"Lo siento. pero... ¡es que está buenísimo!"
 
 @198
 <en>She starts eating more and more.
-<es>
+<es>Empieza a comer más y más.
 
 @199
 <en>The way she eat made me really proud of myself.
-<es>
+<es>Se lo come de una forma que no puedo evitar sentirme realmente orgulloso.
 
 @200
 <en>{Haruka}\n"You are such a good cook.\nI'm impressed."
-<es>
+<es>{Haruka}\n"Eres un gran cocinero.\nEstoy impresionada."
 
 @201
 <en>{Kazushi}\n"Actually that is the only dish I can cook. But all my family loves it."
-<es>
+<es>{Kazushi}\n"La verdad es que es el único plato que sé cocinar. Pero a toda mi familia le encanta."
 
 @202
 <en>{Kazushi}\n"I'm gald you liked it too."
-<es>
+<es>{Kazushi}\n"Y me alegro de que te gustase a ti también."
 
 @205
+# Hay que cambiar esta frase o la anterior para mantener la coherencia.
 <en>{Haruka}\n"Your family's favorite? I can believe that."
-<es>
+<es>{Haruka}\n"¿El plato favorito de tu familia? Y no es de extrañar..."
 
 @206
 <en>{Kazushi}\n"They didn't mind eating it everyday."
-<es>
+<es>{Kazushi}\n"No les importaba comerlo todos los días."
 
 @209
 <en>{Haruka}\n"You were cooking everyday?"
-<es>
+<es>{Haruka}\n"¿Lo hacías todos los días?"
 
 @210
 <en>She starts throwing questions.
-<es>
+<es>Empieza a lanzar preguntas.
 
 @211
 <en>{Kazushi}\n"We had a problem in family one time...that's when I used to cook..."
-<es>
+<es>{Kazushi}\n"Tuvimos problemas en mi casa una vez... ahí fue cuando solía cocinar..."
 
 @212
 <en>My little sister lost appetite from the problem we had.
-<es>
+<es>Mi hermanita perdió el apetito por los problemas.
 
 @213
 <en>That's when I thought about cooking egg-rice hoping she will gain back her appetite.
-<es>
+<es>Fue entonces cuando pensé en cocinar arroz con huevo con la esperanza de que lo recuperase.
 
 @214
 <en>{Kazushi}\n"She starts getting back her appetite as I get better at cooking it."
-<es>
+<es>{Kazushi}\n"Empezó a recuperar el apetito conforme me hacía mejor cocinándolo."
 
 @215
 <en>I'm confident I did a lots of practice on cooking that dish.
-<es>
+<es>Tengo mucha seguridad porque practiqué mucho cocinando ese plato.
 
 @216
 <en>My little sister took my egg-rice over any expensive food.
-<es>
+<es>Mi hermanita elegía mi arroz con huevo por encima de comida más cara.
 
 @219
 <en>{Haruka}\n"I see."
-<es>
+<es>{Haruka}\n"Ya veo."
 
 @220
 <en>I'm glad she didn't ask further details about the problems we had.
-<es>
+<es>Me alegro de que no haya preguntado más detalles sobre los problemas que teníamos.
 
 @221
 <en>{Haruka}\n"I can tell you practiced a lot for this."
-<es>
+<es>{Haruka}\n"Así que practicaste un montón."
 
 @222
 <en>{Kazushi}\n"I wanted to make my little sister happy."
-<es>
+<es>{Kazushi}\n"Quería que mi hermana pequeña estuviese contenta."
 
 @225
 <en>{Haruka}\n"I see your point......"
-<es>
+<es>{Haruka}\n"Entiendo..."
 
 @226
 <en>She got my point.
-<es>
+<es>Me ha entendido.
 
 @227
 <en>{Haruka}\n"This, you can't with alchemy......"
@@ -546,51 +551,52 @@
 
 @228
 <en>{Kazushi}\n"I think you can make good food without alchemy."
-<es>
+<es>{Kazushi}\n"Yo creo que se puede hacer buena comida sin usar alquimia."
 
 @231
 <en>{Haruka}\n"You are right. You can add the taste of love with alchemy."
-<es>
+<es>{Haruka}\n"Tienes razón. No se puede añadir el sabor del amor con la alquimia."
 
 @234
 <en>{Haruka}\n"Maybe I was depending too much on alchemy whatever I do."
-<es>
+<es>{Haruka}\n"Quizá he estado dependiendo demasiado de la alquimia con todas las cosas."
 
 @235
 <en>She's looking at her own hands.
-<es>
+<es>Se queda mirando la palma de sus manos.
 
 @238
 <en>{Haruka}\n"I'm actually not good at cooking.\nI learned alchemy before cooking."
-<es>
+<es>{Haruka}\n"La verdad es que no se me da bien cocinar.\nAprendí alquimia antes que a cocinar."
 
 @239
 <en>{Haruka}\n"It was so easy to change my bad dishes to good one with alchemy."
-<es>
+<es>{Haruka}\n"Y resultaba mucho mas fácil cambiar mis horrendos platos con la alquimia."
 
 @240
+# Gran frase aplicada a muchos ámbitos.
 <en>{Haruka}\n"That's why I never learned what really makes food great taste."
-<es>
+<es>{Haruka}\n"Es por eso que nunca aprendí lo que hace que la comida sepa realmente bien."
 
 @241
 <en>{Kazushi}\n"I had to struggle so much to come up with just one menu."
-<es>
+<es>{Kazushi}\n"Yo tuve que esforzarme muchísimo con un único plato."
 
 @244
 <en>{Haruka}\n"I think that's how it supposed to be."
-<es>
+<es>{Haruka}\n"Creo que así es como debe de ser."
 
 @245
 <en>She smiles with lonely face.
-<es>
+<es>Me sonríe con una cara solitaria.
 
 @246
 <en>{Kazushi}\n"I'm not criticizing you, you know?"
-<es>
+<es>{Kazushi}\n"No te estoy criticando. Lo sabes, ¿no?"
 
 @247
 <en>{Kazushi}\n"Your way of learning cooking is probably very normal around here."
-<es>
+<es>{Kazushi}\n"La forma en la que aprendiste a cocinar es probablemente muy normal por aquí."
 
 @250
 <en>{Haruka}\n"No, I'm glad you gave me a good lesson."
@@ -598,27 +604,27 @@
 
 @251
 <en>She showed me a good smile.
-<es>
+<es>Me ofrece una radiante sonrisa.
 
 @254
 <en>Her sincere look and soft lips caught my eyes.
-<es>
+<es>Su mirada sincera y sus dulces labios me cautivan.
 
 @255
 <en>{Haruka}\n"What is your favorite food?"
-<es>
+<es>{Haruka}\n"¿Cuál es tu comida preferida?"
 
 @256
 <en>{Kazushi}\n"Me......?\nCurry rice and noodles."
-<es>
+<es>{Kazushi}\n"¿La mía...?\nArroz con curry y fideos."
 
 @259
 <en>{Haruka}\n"That's something a 3-year old would like!"
-<es>
+<es>{Haruka}\n"¡Eso es lo que le gustaría a un niño de tres años!"
 
 @260
 <en>{Kazushi}\n"You're right.\nBut most boys are like me, though."
-<es>
+<es>{Kazushi}\n"Tienes razón.\nAunque la mayoría de chicos son como yo."
 
 @261
 <en>{Haruka}\n"Kazushi, you have to give another try."
@@ -630,15 +636,16 @@
 
 @265
 <en>{Kazushi}\n"Don't get me wrong, it was delicious."
-<es>
+<es>{Kazushi}\n"No me malinterpretes. Estaba muy bueno."
 
 @266
 <en>That's not a lie. And I think she knows it was.
-<es>
+<es>No es mentira. Y creo que ella lo sabe.
 
 @269
+# Revisar.
 <en>{Haruka}\n"Ofcourse. I did put on my best alchemy spell on that lunch."
-<es>
+<es>{Haruka}\n"Claro. Usé mi mejor habilidad alquémica en ese plato."
 
 @270
 <en>As soon as she said that she stopped her mouth.
@@ -646,21 +653,22 @@
 
 @273
 <en>{Haruka}\n"But don't expect too much next time, O.K? I'm not really good at cooking."
-<es>
+<es>{Haruka}\n"Pero no esperes demasiado la próxima vez, ¿vale? No se me da nada bien cocinar."
 
 @274
 <en>{Kazushi}\n"Don't worry. I'll be happy just by the fact you cooked for me."
-<es>
+<es>{Kazushi}\n"No te preocupes. Me alegraré por el simple hecho de que lo hayas hecho para mí."
 
 @275
 <en>{Haruka}\n"All right. Then, expect me to bring your lunch without high expectation, O.K?"
 <es>
 
 @276
+# Revisar.
 <en>{Kazushi}\n"I'm looking forward to it."
-<es>
+<es>{Kazushi}\n"Lo estoy deseando."
 
 @277
 <en>I will eat her cooking no matter how bad it turns out to be
-<es>
+<es>Me comeré lo que cocine para mí sin importar lo malo que esté.
 
