@@ -596,12 +596,12 @@
 
 @247
 <en>{Kazushi}\n"Your way of learning cooking is probably very normal around here."
-<es>{Kazushi}\n"La forma en la que aprendiste a cocinar es probablemente muy normal por aquí."
+<es>{Kazushi}\n"La forma en la que aprendiste a cocinar, es probablemente muy normal por aquí."
 
 @250
 # Revisar.
 <en>{Haruka}\n"No, I'm glad you gave me a good lesson."
-<es>{Haruka}\n"No, me alegro de que me hayas enseñado una buena lección."
+<es>{Haruka}\n"No. Estoy contenta de que me hayas enseñado una gran lección."
 
 @251
 <en>She showed me a good smile.
