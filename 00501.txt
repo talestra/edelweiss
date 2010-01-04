@@ -2,15 +2,15 @@
 
 @11
 <en>I'd love to take Haruka's offer.
-<es>Me encantar�a aceptar la oferta de Haruka.
+<es>Me encantaría aceptar la oferta de Haruka.
 
 @12
 <en>{Kazushi}\n"Are you sure I can have your lunch box?"
-<es>{Kazushi}\n"�Est�s segura de que puedo tomarme tu comida?"
+<es>{Kazushi}\n"¿Estás segura de que puedo tomarme tu comida?"
 
 @15
 <en>She looked delighted when I asked to make sure.
-<es>Parec�a encantada cuando le pregunt� para asegurarme.
+<es>Parecía encantada cuando le pregunté para asegurarme.
 
 @16
 <en>{Haruka}\n"Ofcourse. I'm happy that you're taking my offer-"
@@ -18,23 +18,23 @@
 
 @19
 <en>{Mei}\n"That's nice of you, Haruka. You guys have good lunch, O.K?"
-<es>{Mei}\n"Muy amable por tu parte, Haruka. Que teng�is una agradable comida, �vale?"
+<es>{Mei}\n"Muy amable por tu parte, Haruka. Que tengáis una agradable comida, ¿vale?"
 
 @20
 <en>This is great. Haruka and I will be eating together like a couple.
-<es>Es fant�stico. Haruka y yo comeremos juntos como una pareja.
+<es>Es fantástico. Haruka y yo comeremos juntos como una pareja.
 
 @29
 <en>{Pierre}\n"Kazushi-!\nAre you sure you planed this?"
-<es>
+<es>{Pierre}\n"¡Kazushi!\n¿¡Seguro que no lo habías planeado todo!?"
 
 @30
 <en>{Appo-}\n"Somebody check his wallet."
-<es>
+<es>{Appo-}\n"Que alguien le mire la cartera."
 
 @31
 <en>{Daigo}\n"Kazushi, was this your strategy?"
-<es>
+<es>{Daigo}\n"Kazushi, ¿era todo un plan?"
 
 @32
 <en>{Kazushi}\n"Stop guys,\nI really don't have money."
@@ -42,27 +42,27 @@
 
 @35
 <en>{Appo-}\n"Why don't let those two loving birds go eat their own lunch-. Meanwhile, why don't you and I eat lunch together, Mei?!"
-<es>
+<es>{Appo-}\n"Vale, dejad a esos tortolitos que se coman su comidita juntos. Mientras tanto, ¡¿qué tal si comemos juntos, Mei?!"
 
 @42
 <en>{Mei}\n"I'll think about it.\nBy the way, you need to call me Miss. Ibuki in school."
-<es>{Mei}\n"Lo pensar�.\nPor cierto, debes llamarme se�orita Ibuki en esta escuela."
+<es>{Mei}\n"Lo pensaré.\nPor cierto, en esta escuela debes llamarme señorita Ibuki."
 
 @46
 <en>{Pierre}\n"Hey Appo-, Mei is just not yours!\nWe should all eat together!"
-<es>
+<es>{Pierre}\n"Oye Appo-, ¡Mei no es solo tuya!\n¡Deberíamos comer todos juntos!"
 
 @49
 <en>{Mei}\n"You need to call me with my last name too......\nAm I acting too friendly around you guys?"
-<es>
+<es>{Mei}\n"Vosotros también tenéis llamarme por mi apellido...\n¿Tan amistosamente os estoy tratando?"
 
 @54
 <en>Everyone went to the cafeteria. That left two of us alone.
-<es>Se fueron todos a la cafeter�a. Lo que nos dej� solos a Haruka y a m�.
+<es>Se fueron todos a la cafetería. Lo que nos dejó solos a Haruka y a mí.
 
 @55
 <en>{Haruka}\n"Let's go this way."
-<es>{Haruka}\n"Vamos por aqu�."
+<es>{Haruka}\n"Vamos por aquí."
 
 @56
 <en>This is so like a date. I didn't expect to get this lucky.
@@ -78,15 +78,15 @@
 
 @65
 <en>{Kazushi}\n"Do you always eat your lunch outside?"
-<es>{Kazushi}\n"�Siempre te comes la comida fuera?"
+<es>{Kazushi}\n"¿Siempre comes fuera?"
 
 @68
 <en>{Haruka}\n"I like eating outside. Doesn't it make you feel good?"
-<es>{Haruka}\n"Me gusta comer fuera. �No te sientes bien?"
+<es>{Haruka}\n"Me gusta comer fuera. ¿A ti no te hace sentir bien?"
 
 @69
 <en>It's a beautiful day outside. Not a single cloud can be seen.
-<es>Hace un d�a fant�stico fuera. No se ve ni una sola nube.
+<es>Hace un día fantástico fuera. No se ve ni una sola nube.
 
 @70
 <en>Although, in return, we get direct sun light.
@@ -94,7 +94,7 @@
 
 @73
 <en>{Haruka}\n"Let's eat under that tree."
-<es>{Haruka}\n"Comamos bajo ese �rbol."
+<es>{Haruka}\n"Comamos bajo ese árbol."
 
 @74
 <en>We spotted a perfect place to hide us from the sun light.
@@ -102,7 +102,7 @@
 
 @78
 <en>{Kazushi}\n"It's nice and cool in the shade."
-<es>{Kazushi}\n"Se est� muy bien aqu� a la sombra."
+<es>{Kazushi}\n"Se está muy bien aquí a la sombra."
 
 @79
 <en>It's surprising how much difference it can make.
@@ -110,95 +110,99 @@
 
 @80
 <en>{Haruka}\n"This island is not humid. If you can find a shade, you'll feel perfect."
-<es>{Haruka}\n"Esta isla no es h�meda. As� que si encuentras una sombra, se est� perfectamente."
+<es>{Haruka}\n"Esta isla no es húmeda. Así que si encuentras una sombra, se está perfectamente."
 
 @81
+# Hay un montón de comida/tiene una pinta estupenda.
 <en>She opened up her lunch box.\nIt's a pretty lunch.
-<es>
+<es>Abrió su bento.\nHay un montón de comida.
 
 @82
 <en>{Kazushi}\n"You actually prepared a lots of foods. I was expecting something more of a light meal."
-<es>
+<es>{Kazushi}\n"Has preparado un montón de comida. No sé por qué, pero me esperaba algo más ligero."
 
 @83
+# Revisar.
 <en>{Haruka}\n"I told you, you don't have to worry about taking away my food."
-<es>
+<es>{Haruka}\n"Ya te lo había dicho. No tienes que preocuparte por tomar de mi comida."
 
 @84
 <en>All the foods make it so colorful and looks appealing.
-<es>
+<es>Toda la comida tiene una pinta estupenda y parece muy apetitosa.
 
 @85
 <en>{Kazushi}\n"Wow! Did you make all this?"
-<es>
+<es>{Kazushi}\n"¡Increíble! ¿Has hecho tú todo esto?"
 
 @86
 <en>{Haruka}\n"Yep. Don't expect too much about the taste, O.K?"
-<es>
+<es>{Haruka}\n"Sip. Pero no esperes que esté demasiado bueno, ¿vale?"
 
 @87
 <en>With a lunch like this, she can be as confident as she wants.
-<es>
+<es>Con una comida así, puede sentirse todo lo segura que quiera.
 
 @88
 <en>{Kazushi}\n"I can tell they are delicious by just looking at them."
-<es>
+<es>{Kazushi}\n"Solo con mirarlo ya sé que está todo buenísimo."
 
 @89
 <en>{Haruka}\n"I hope they are."
-<es>
+<es>{Haruka}\n"Espero que así sea."
 
 @90
+# Siendo un juego para adultos, cuanto más modosita y más servicial ('ofrece'), mejor.
 <en>She hands me a pair of chop sticks.
-<es>
+<es>Me ofrece un par de palillos.
 
 @91
 <en>{Kazushi}\n"Can I start?"
-<es>
+<es>{Kazushi}\n"¿Puedo empezar?"
 
 @92
 <en>{Haruka}\n"Please do-"
-<es>
+<es>{Haruka}\n"Por favor..."
 
 @93
 <en>I put food in my mouth.
-<es>
+<es>Me llevo un bocado a la boca.
 
 @94
 <en>{Kazushi}\n"Kazushi eating"
-<es>
+<es>{Kazushi}\n*Kazushi comiendo*
 
 @95
 <en>{Haruka}\n"How is it?"
-<es>
+<es>{Haruka}\n"¿Qué tal?"
 
 @96
 <en>{Kazushi}\n"Mmmmm.................."
-<es>
+<es>{Kazushi}\n"Mmm..."
 
 @97
 <en>{Haruka}\n"Is there something wrong?"
-<es>
+<es>{Haruka}\n"¿No está bueno...?"
 
 @98
 <en>{Kazushi}\n"Delicious!!"
-<es>
+<es>{Kazushi}\n"¡¡Está buenísimo!!"
 
 @99
 <en>This is so delicious!\nI've tasted anything like this before.
-<es>
+<es>¡Está exquisito!\nNo había probado nada parecido nunca.
 
 @100
+# Hay que revisar cuando dicen sobre vender comida para que quede más natural.
 <en>{Kazushi}\n"Did you really make this?\nI mean you can sale this!"
-<es>
+<es>{Kazushi}\n"¿De verdad que lo has hecho tú?\n¡Podrías venderlo!"
 
 @101
 <en>{Haruka}\n"I'm glad you liked it-\nI actually used alchemy to cook this-"
-<es>
+<es>{Haruka}\n"Me alegro de que te guste.\nLa verdad es que usé la alquimia para cocinarlo."
 
 @102
 <en>{Kazushi}\n"What? Alchemy?"
-<es>
+<es>{Kazushi}\n"¿Qué? ¿Alquímia?"
 
 @103
 <en>I had to stop my hands.
@@ -206,11 +210,11 @@
 
 @104
 <en>{Kazushi}\n"It looks like a real food."
-<es>
+<es>{Kazushi}\n"Parece comida de verdad."
 
 @105
 <en>{Haruka}\n"Ofcourse they are-"
-<es>
+<es>{Haruka}\n"Y es que lo es."
 
 @106
 <en>What if she is using some kind of medicine to cook this?
@@ -218,11 +222,11 @@
 
 @107
 <en>I tried one more bite.
-<es>
+<es>Probé un bocado más.
 
 @108
 <en>{Kazushi}\n"It's delicious......"
-<es>
+<es>{Kazushi}\n"Está delicioso..."
 
 @109
 <en>I mean it's very delicious.
