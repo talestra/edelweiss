@@ -2,59 +2,60 @@
 
 @7
 <en>That happened on one night.
-<es>
+<es>Eso ocurrió una noche.
 
 @10
 <en>{Appo-}\n"Hey, Kazushi."
-<es>
+<es>{Appo-}\n"Oye, Kazushi."
 
 @11
 <en>He looks like he has some kind of trouble.
-<es>
+<es>Parece como si tuviese algún problema.
 
 @12
 <en>{Kazushi}\n"What's up?"
-<es>
+<es>{Kazushi}\n"¿Qué pasa?"
 
 @15
+# 'mamar alguna teta', 'chupar alguna teta', 'morder algunos pezones'
 <en>{Appo-}\n"Don't you wanna suck some tits?"
-<es>
+<es>{Appo-}\n"¿No te gustaría mamar alguna teta?"
 
 @16
 <en>{Kazushi}\n"......What!?"
-<es>
+<es>{Kazushi}\n"¿¡Qué...!?"
 
 @17
 <en>{Appo-}\n"I'm dying to suck tits."
-<es>
+<es>{Appo-}\n"Yo me muero por hacerlo."
 
 @18
 <en>What is he talking about?
-<es>
+<es>¿De qué está hablando?
 
 @21
 <en>{Appo-}\n"I'm sick of just watching them around me since we got here."
-<es>
+<es>{Appo-}\n"Estoy harto de limitarme a mirarlas desde que llegamos."
 
 @22
 <en>{Kazushi}\n"......have you lost your mind?"
-<es>
+<es>{Kazushi}\n"¿Has perdido la cabeza...?"
 
 @25
 <en>{Appo-}\n"I can't take it anymore!\nI want tits!"
-<es>
+<es>{Appo-}\n"¡Ya no puedo aguantarlo más!\n¡Quiero tetas!"
 
 @26
 <en>He's just like a spoiled child in toy store.
-<es>
+<es>Es como un niño mimado en una juguetería.
 
 @27
 <en>{Kazushi}\n"Calm down!"
-<es>
+<es>{Kazushi}\n"¡Tranquilízate!"
 
 @30
 <en>{Appo-}\n"We are room mate, right?"
-<es>
+<es>{Appo-}\n"Somos compañeros de habitación, ¿no?"
 
 @31
 <en>He asks me a meaningless question.
@@ -62,71 +63,71 @@
 
 @32
 <en>{Kazushi}\n"So what?"
-<es>
+<es>{Kazushi}\n"¿Y qué?"
 
 @35
 <en>{Appo-}\n"Show me your tits."
-<es>
+<es>{Appo-}\n"Enséñame tus tetas."
 
 @36
 <en>{Kazushi}\n"What......?"
-<es>
+<es>{Kazushi}\n"¿Qué...?"
 
 @37
 <en>{Appo-}\n".................."
-<es>
+<es>{Appo-}\n"..."
 
 @38
 <en>He's scaring me.
-<es>
+<es>Está empezando a asustarme.
 
 @39
 <en>{Kazushi}\n"I don't have tits. I'm a guy."
-<es>
+<es>{Kazushi}\n"Yo no tengo tetas. Soy un tío."
 
 @42
 <en>{Appo-}\n"....................................I see.\nYou're right."
-<es>
+<es>{Appo-}\n"Ya veo...\nTienes razón."
 
 @43
 <en>{Kazushi}\n"......are you back now?"
-<es>
+<es>{Kazushi}\n"¿Ya has vuelto...?"
 
 @44
 <en>{Appo-}\n"I'm going to go ask Daigo."
-<es>
+<es>{Appo-}\n"Voy a pedírselo a Daigo."
 
 @45
 <en>{Kazushi}\n"What?"
-<es>
+<es>{Kazushi}\n"¿Qué?"
 
 @48
 <en>He gets up and headed for the next room.
-<es>
+<es>Se levantó y se dirigió a la habitación de al lado.
 
 @50
 <en>{Kazushi}\n"Is he serious?"
-<es>
+<es>{Kazushi}\n"¿Lo dice en serio?"
 
 @51
 <en>{Daigo}\n"......what's up Appo-!?\nWhat are you doing!?"
-<es>
+<es>{Daigo}\n"¿¡Qué pasa Appo-!?\n¿¡Qué estás haciendo!?"
 
 @52
 <en>I heard Daigo screaming.
-<es>
+<es>Oí a Daigo gritar.
 
 @53
 <en>{Kazushi}\n"This is hell."
-<es>
+<es>{Kazushi}\n"Estoy en el infierno."
 
 @54
 <en>I covered my ears and went inside my bed.
-<es>
+<es>Me tapé los oídos y me metí en la cama.
 
 @55
 <en>{Kazushi}\n"Kazushi yawning"
-<es>
+<es>{Kazushi}\n*Bostezando*
 
 @56
 <en>I've been sleepy in the middle of the day ever since I got here.
@@ -134,75 +135,75 @@
 
 @57
 <en>{Kazushi}\n"Maybe I'm tired."
-<es>
+<es>{Kazushi}\n"Quizá esté cansado."
 
 @58
 <en>I think I'm mentaly tired trying to get used to the new environment.
-<es>
+<es>Creo que estoy agotado por el esfuerzo de acostumbrarme al nuevo entorno.
 
 @59
 <en>{Kazushi}\n"I should go to bed early tonight."
-<es>
+<es>{Kazushi}\n"Hoy debería acostarme temprano."
 
 @62
 <en>I closed my eyes.
-<es>
+<es>Cerré los ojos.
 
 @66
 <en>{Kazushi}\n"!?"
-<es>
+<es>{Kazushi}\n"¿¡!?"
 
 @67
 <en>I think I heard footsteps from outside.
-<es>
+<es>Me ha parecido oír pasos afuera.
 
 @68
 <en>Somebody's outside.
-<es>
+<es>Hay alguien fiera.
 
 @69
 <en>It's not late at night still, but the sound of it made me wonder who that is.
-<es>
+<es>Todavía no es muy tarde, pero el sonido hace que me pregunte quién es.
 
 @70
 <en>{Kazushi}\n"Who would that be?"
-<es>
+<es>{Kazushi}\n"¿Quién podría ser?"
 
 @71
 <en>I looked outside through a window.
-<es>
+<es>Miré al exterior por la ventana.
 
 @72
 <en>{Kazushi}\n"That's......"
-<es>
+<es>{Kazushi}\n"Es..."
 
 @73
 <en>What is she doing there around this time again?
-<es>
+<es>¿Qué está haciendo por aquí otra vez?
 
 @77
 <en>{Kazushi}\n"Natsume?"
-<es>
+<es>{Kazushi}\n"¿Natsume?"
 
 @80
 <en>I went outside to see what she is doing.
-<es>
+<es>Fui fuera a ver qué estaba haciendo.
 
 @83
 <en>{Natsume}\n"It's you again.\nI'm tired of watching your face."
-<es>
+<es>{Natsume}\n"Eres tú otra vez.\nEstoy cansada de verte la cara."
 
 @84
 <en>That was her first voice.
-<es>
+<es>Eso fue lo primero que dijo.
 
 @85
 <en>{Kazushi}\n"Already? We've seen each other only a few times."
-<es>
+<es>{Kazushi}\n"¿Ya? Si solo nos hemos visto en contadas ocasiones."
 
 @86
 <en>{Natsume}\n"That's enough to get bored of you."
-<es>
+<es>{Natsume}\n"Las suficientes para cansarme de ti."
 
 @87
 <en>{Kazushi}\n"......now that's too fast."
@@ -210,233 +211,233 @@
 
 @88
 <en>That's all she said to me and she started to continue her night time walk.
-<es>
+<es>Eso es todo lo que me dijo antes de continuar su andadura nocturna.
 
 @89
 <en>{Kazushi}\n"Why are you taking a walk at this time of the day, anyways?"
-<es>
+<es>{Kazushi}\n"De todas formas, ¿qué haces paseando a esta hora del día?"
 
 @90
 <en>{Natsume}\n"No reason."
-<es>
+<es>{Natsume}\n"No hay motivo."
 
 @91
 <en>{Kazushi}\n"There's got to be a reason."
-<es>
+<es>{Kazushi}\n"Tiene que haber algún motivo."
 
 @94
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @95
 <en>She continues to ignore me.
-<es>
+<es>Continúa ignorándome.
 
 @96
 <en>{Kazushi}\n"It was this time of the day when I first met you. Can you get up in the morning O.K?"
-<es>
+<es>{Kazushi}\n"Era sobre esta hora cuando te conocí. ¿No te cuesta levantarte por las mañanas?"
 
 @97
 <en>She turned around.
-<es>
+<es>Se giró.
 
 @100
 <en>{Natsume}\n"Shut up, Kazushi."
-<es>
+<es>{Natsume}\n"Cállate, Kazushi."
 
 @101
 <en>I guess she doen't wanna be lectured.
-<es>
+<es>Supongo que no quieren que le den ningún sermón.
 
 @102
 <en>{Kazushi}\n"Are you perhaps looking for something?"
-<es>
+<es>{Kazushi}\n"¿Quizá es que estás buscando algo?"
 
 @103
 <en>That's the only thing I can think of her doing.
-<es>
+<es>Es lo único que se me ocurre que pueda estar haciendo.
 
 @104
 <en>{Kazushi}\n"Do you want me to help?"
-<es>
+<es>{Kazushi}\n"¿Quieres que te ayude?"
 
 @107
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @108
 <en>She stopped and looked at me.
-<es>
+<es>Se paró y me miró.
 
 @111
 <en>......and takes a big sigh.
-<es>
+<es>Y exhaló un largo suspiro...
 
 @112
 <en>{Kazushi}\n"I don't remember doing anything to make you sigh."
-<es>
+<es>{Kazushi}\n"No creo haber hecho nada para que suspires."
 
 @113
 <en>{Natsume}\n"That's why you're stupid."
-<es>
+<es>{Natsume}\n"Es por eso por lo que eres tan estúpido."
 
 @114
 <en>She's nodding her head.
-<es>
+<es>Está asintiendo con la cabeza.
 
 @115
 <en>{Kazushi}\n"Stop talking to me like that!\nI'm older than you , show some respect!"
-<es>
+<es>{Kazushi}\n"¡Deja de hablarme así!\nSoy más mayor que tú, ¡muestra algo de respeto!"
 
 @118
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @119
 <en>I didn't mean to raise my voice.
-<es>
+<es>No pretendía alzar la voz.
 
 @122
 <en>{Natsume}\n"..................!?"
-<es>
+<es>{Natsume}\n"¿¡...!?"
 
 @123
 <en>She starts shaking.
-<es>
+<es>Ha empezado a temblar.
 
 @124
 <en>{Natsume}\n"Natsume about to cry"
-<es>
+<es>{Natsume}\n*A punto de llorar*
 
 @125
 <en>Oh no, she's about to cry.
-<es>
+<es>Oh, no... Está a punto de llorar.
 
 @126
 <en>{Kazushi}\n"You're not going to cry, right?"
-<es>
+<es>{Kazushi}\n"No vas a llorar, ¿no?"
 
 @127
 <en>{Natsume}\n"I'm not......crying......"
-<es>
+<es>{Natsume}\n"No estoy... llorando..."
 
 @128
 <en>She's already half crying.
-<es>
+<es>Ya está medio llorando.
 
 @129
 <en>I hope no one's watching this.
-<es>
+<es>Espero que nadie esté presenciando esto.
 
 @130
 <en>{Kazushi}\n"Please don't cry.\nI promise I won't raise my voice again."
-<es>
+<es>{Kazushi}\n"Por favor, no llores.\nTe prometo que no volveré a levantarte la voz."
 
 @131
 <en>{Natsume}\n"I'm not crying......don't treat me like a kid......stupid......"
-<es>
+<es>{Natsume}\n"No estoy llorando... No me trates como a un niño... estúpido..."
 
 @132
 <en>She's crying so hard, her eyes are all red.
-<es>
+<es>Está llorando un montón, tiene los ojos rojos.
 
 @133
 <en>{Kazushi}\n"I'm sorry."
-<es>
+<es>{Kazushi}\n"Lo siento."
 
 @134
 <en>{Natsume}\n"Don't appologize, because I didn't cry."
-<es>
+<es>{Natsume}\n"No te disculpes, porque no he llorado."
 
 @135
 <en>What a subborn girl she is.
-<es>
+<es>Menuda niña más cabezota.
 
 @136
 <en>{Kazushi}\n"Here, let me help you find what you're looking for."
-<es>
+<es>{Kazushi}\n"Venga, deja que te ayude a encontrar lo que estás buscando."
 
 @137
 <en>I don't know what she's looking for, but I start looking around.
-<es>
+<es>No sé lo que está buscando, pero empiezo a buscar por los alrededores.
 
 @138
 <en>{Kazushi}\n"Hey, you have to tell me at least what you dropped."
-<es>
+<es>{Kazushi}\n"Oye. Me tendrías que decir al menos lo que se te ha caído."
 
 @141
 <en>She gave me a big sigh again.
-<es>
+<es>Vuelve a exhalar un largo suspiro.
 
 @142
 <en>{Natsume}\n"If you really want to help me......"
-<es>
+<es>{Natsume}\n"Si de verdad quieres ayudarme..."
 
 @145
 <en>Her pure eyes caught my eyes.
-<es>
+<es>Sus ojos puros cautivan los míos.
 
 @146
 <en>{Natsume}\n"Find me."
-<es>
+<es>{Natsume}\n"Encuéntrame."
 
 @147
 <en>I didn't understand what she meant, but her eys are telling she's serious.
-<es>
+<es>No entendí lo que quería decir, pero sus ojos me decían que lo decía en serio.
 
 @148
 <en>What did she mean by "find me"?
-<es>
+<es>¿Qué quieres decir con "encuéntrame"?
 
 @149
 <en>{Kazushi}\n"Find you what?"
-<es>
+<es>{Kazushi}\n"¿Encontrarte el qué?"
 
 @152
 <en>{Natsume}\n"Me. What else."
-<es>
+<es>{Natsume}\n"A mí. Qué si no."
 
 @153
 <en>{Kazushi}\n"Well, you are here......"
-<es>
+<es>{Kazushi}\n"Bueno. Ahí estás..."
 
 @154
 <en>She is right in front of me.
-<es>
+<es>Está justo delante de mí.
 
 @155
 <en>I didn't say it, because I thought she meant some sort of metaphor.
-<es>
+<es>No lo dije, porque pensé que se refería a algún tipo de metáfora.
 
 @158
 <en>{Natsume}\n"If you don't understand what I meant, don't bother."
-<es>
+<es>{Natsume}\n"Si no puedes comprender a lo que me refiero, no te molestes."
 
 @159
 <en>She sounded so disappointed.
-<es>
+<es>Parece decepcionada.
 
 @160
 <en>But I didn't understand what she meant.
-<es>
+<es>Pero no entendí a lo que se refería.
 
 @161
 <en>{Kazushi}\n"All right."
-<es>
+<es>{Kazushi}\n"Está bien."
 
 @162
 <en>I'll figure out later.
-<es>
+<es>Ya lo averiguaré más adelante.
 
 @165
 <en>{Natsume}\n"You can forget about it."
-<es>
+<es>{Natsume}\n"Puedes olvidarlo."
 
 @166
 <en>{Kazushi}\n"No. I'll figure out what you meant."
-<es>
+<es>{Kazushi}\n"No. Averiguaré lo que querías decir."
 
 @167
 <en>There will be a day I would understand what she meant.
-<es>
+<es>Algún día entender'a lo que se refería.
 

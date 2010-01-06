@@ -2,215 +2,216 @@
 
 @11
 <en>I think it won't be a problem, because I know I can return it next month.
-<es>
+<es>No creo que sea un problema porque sé que podré devolverlo el mes que viene.
 
 @12
 <en>{Kazushi}\n"Are you really sure I can borrow some money?"
-<es>
+<es>{Kazushi}\n"¿Seguro que no te importa dejarme dinero?"
 
 @16
 <en>{Mei}\n"Sure."
-<es>
+<es>{Mei}\n"Seguro."
 
 @17
 <en>She smiled and looked at me and hand me a bill.
-<es>
+<es>Me sonrió, me miró, y me ofreció un billete.
 
 @18
 <en>{Kazushi}\n"Miss. Ibuki, this is $100 bill!"
-<es>
+<es>{Kazushi}\n"Señorita Ibuki, ¡es un billete de 10.000 yenes!"
 
 @21
 <en>{Mei}\n"That should be enough, right?"
-<es>
+<es>{Mei}\n"Con eso será suficiente, ¿no?"
 
 @22
 <en>{Kazushi}\n"Ofcourse it's enough......I don't need this much......"
-<es>
+<es>{Kazushi}\n"Claro que será suficiente... Pero es que no necesito tanto..."
 
 @23
 <en>I'm not used to carrying such a big amount in my wallet.
-<es>
+<es>No estoy acostumbrado a llevar tanto dinero en la cartera.
 
 @26
 <en>{Mei}\n"It's not just today you need money. You need for rest of this month."
-<es>
+<es>{Mei}\n"No solo vas a necesitar dinero hoy. Vas a necesitar todo lo que queda de mes."
 
 @27
 <en>{Kazushi}\n"That's true......"
-<es>
+<es>{Kazushi}\n"Es cierto..."
 
 @28
 <en>She's right. I need money for lunch everyday.
-<es>
+<es>Tiene razón. Necesito dinero para comer todos los días.
 
 @29
 <en>{Kazushi}\n"I was going to borrow only about $20 or so."
-<es>
+<es>{Kazushi}\n"Me bastaba con unos 2.000 yenes o así."
 
 @32
 <en>{Mei}\n"Don't worry, I trust you to pay me back."
-<es>
+<es>{Mei}\n"No te preocupes. Confío en que me lo devolverás."
 
 @33
 <en>{Kazushi}\n"Thanks but......\nare you really sure?"
-<es>
+<es>{Kazushi}\n"Muchas gracias, pero...\n¿estás segura?"
 
 @36
 <en>{Mei}\n"I'm abusolutely sure.\nBesides, there is not really much to spend money in this island."
-<es>
+<es>{Mei}\n"Completamente.\nAdemás, no hay muchas cosas en las que gastarse el dinero en esta isla."
 
 @37
+# Revisar.
 <en>She's an attractive young woman. I'm sure she needs money to buy clothes or cosmetic stuff or so on.
-<es>
+<es>Es una mujer jóven y atractiva. Estoy convencido de que invierte el dinero en comprar ropa, cosméticos y cosas así.
 
 @38
 <en>I didn't ask her anymore, because I really needed this money.
-<es>
+<es>No le pregunté nada más porque realmente necesito el dinero.
 
 @39
 <en>{Kazushi}\n"Thanks you Miss. Ibuki.\nI'll pay you back as soon as I can."
-<es>
+<es>{Kazushi}\n"Muchas gracias señorita Ibuki.\nTe lo devolveré en cuanto pueda."
 
 @42
 <en>{Mei}\n"All right."
-<es>
+<es>{Mei}\n"Perfecto."
 
 @43
 <en>It is actually a big pressure to borrow such amount of money.
-<es>
+<es>La verdad es que es una gran presión tomar prestado tanto dinero.
 
 @47
 <en>{Appo-}\n"Kazushi-\nyou shouldn't borrow money from a woman. Be a man."
-<es>
+<es>{Appo-}\n"Kazushi,\nno deberías tomar prestado dinero de una mujer. Sé un hombre."
 
 @48
 <en>{Kazushi}\n"Shut up. I'm well aware of that."
-<es>
+<es>{Kazushi}\n"Cállate. Soy bien consciente."
 
 @53
 <en>{Pierre}\n"But if you think about it, this is a good strategy. You just made a special bond with Mei."
-<es>
+<es>{Pierre}\n"Pero si lo piensas, es una buena estrategia. Acabas de crear un vínculo especial con Mei."
 
 @56
 <en>{Appo-}\n"That's true---!"
-<es>
+<es>{Appo-}\n"¡Eso es verdad...!"
 
 @63
 <en>{Daigo}\n"He's right. Borrowing money from a teacher is not an ordinary relationship."
-<es>
+<es>{Daigo}\n"Tiene razón. Tomar prestado dinero de una profesora no es una relación normal."
 
 @64
 <en>{Kazushi}\n"I don't understand you guys make such a big deal out of it."
-<es>
+<es>{Kazushi}\n"No entiendo por qué le estáis dando tanta importancia."
 
 @65
 <en>{Appo-}\n"Kazushi......\nyou planned this didn't you?"
-<es>
+<es>{Appo-}\n"Kazushi...\nLo tenías todo planeado, ¿verdad?"
 
 @66
 <en>{Kazushi}\n"Ofcourse not......"
-<es>
+<es>{Kazushi}\n"Claro que no..."
 
 @69
 <en>{Pierre}\n"Let's do the same thing!"
-<es>
+<es>{Pierre}\n"¡Hagamos lo mismo!"
 
 @72
 <en>{Appo-}\n"We wanna special relationship with her too!"
-<es>
+<es>{Appo-}\n"¡Nosotros también queremos una relación especial con ella!"
 
 @73
 <en>Appo- and Pierre start taking money from their wallet and......
-<es>
+<es>Appo- y Pierre empiezan a sacar dinero de su cartera y...
 
 @79
 <en>{Kazushi}\n"What are you guys..........?"
-<es>
+<es>{Kazushi}\n"¿Que estáis...?"
 
 @81
 <en>Appo- starts tearing them.
-<es>
+<es>Appo- empieza a romper billetes.
 
 @85
 <en>{Pierre}\n"Pierre swallowing bills"
-<es>
+<es>{Pierre}\n*Pierre tragando billetes*
 
 @86
 <en>Pierre tries to swallow bills he folded in half......
-<es>
+<es>Pierre trata de tragarse billetes que había roto en dos...
 
 @87
 <en>{Kazushi}\n"What are you guys doing?"
-<es>
+<es>{Kazushi}\n"¿Qué estáis haciendo?"
 
 @91
 <en>{Appo-}\n"I don't have money, either!"
-<es>
+<es>{Appo-}\n"¡Yo tampoco tengo dinero!"
 
 @96
 <en>{Pierre}\n"Me too!\nPlease lend us some money!"
-<es>
+<es>{Pierre}\n"¡No yo!\n¡Por favor, déjanos algo de dinero!"
 
 @97
 <en>{Kazushi}\n"Idiots."
-<es>
+<es>{Kazushi}\n"Imbéciles."
 
 @98
 <en>Everyone was watching them hopelessly, except Miss Ibuki. She was looking at them with strict face.
-<es>
+<es>Todo el mundo los mira con desesperación excepto la señorita Ibuki. Ella los miraba con una cara estricta.
 
 @103
 <en>{Mei}\n"You should never treat money that way.\nI don't lend money to who doesn't appreciate money."
-<es>
+<es>{Mei}\n"Nunca deberíais tratar el dinero así.\nYo no presto dinero a aquellos que no lo aprecian."
 
 @110
 <en>{Appo-}\n"No......"
-<es>
+<es>{Appo-}\n"No..."
 
 @117
 <en>{Daigo}\n"She's right. You idiot."
-<es>
+<es>{Daigo}\n"Tiene razón. Estúpidos."
 
 @120
 <en>{Pierre}\n"Wait----\nI'm going to throw up my money now!"
-<es>
+<es>{Pierre}\n"Espera...\n¡Que voy a vomitar los billetes ahora mismo!"
 
 @123
 <en>{Appo-}\n"If I tape them, I can still use them, right?"
-<es>
+<es>{Appo-}\n"Si los pego con celo todavía podría usarlos, ¿no?"
 
 @124
 <en>Pierre is busy putting his fingers deep in his throat.
-<es>
+<es>Pierre está ocupado metiéndose los dedos todo lo hondo que puede en la garganta.
 
 @125
 <en>They say you can never be too careful to choose your friend. I guess it's right.
-<es>
+<es>Se dice que nunca se toman las suficientes precauciones eligiendo a las amistades. Y yo estoy completamente de acuerdo.
 
 @126
 <en>Anyways, I need to eat.
-<es>
+<es>En cualquier caso, he de comer.
 
 @130
 <en>{Kazushi}\n"Thank you once again. I'll make the best use out of this."
-<es>
+<es>{Kazushi}\n"Gracias nuevamente. Lo usaré lo mejor que pueda."
 
 @133
 <en>{Mei}\n"Wait, I'll go with you."
-<es>
+<es>{Mei}\n"Espera. Iré contigo."
 
 @134
 <en>She follows me.
-<es>
+<es>Me sigue.
 
 @135
 <en>{Kazushi}\n"I thought you are finished with your lunch."
-<es>
+<es>{Kazushi}\n"Pensaba que ya habías terminado de comer."
 
 @136
 <en>I thought I saw her eating earlier.
-<es>
+<es>Me había parecido viéndola comer antes.
 
 @137
 <en>{Kazushi}\n"Oh, you must be going for desert. Am I right?"
@@ -222,59 +223,59 @@
 
 @141
 <en>{Mei}\n"I'm actually still hungry."
-<es>
+<es>{Mei}\n"La verdad es que todavía tengo hambre."
 
 @142
 <en>She starts looking at the menu again.
-<es>
+<es>Empieza a mirar el menú de nuevo.
 
 @143
 <en>{Kazushi}\n"Are you eating again?"
-<es>
+<es>{Kazushi}\n"¿Vas a comer otra vez?"
 
 @146
 <en>{Mei}\n"Why? Is it bad for a girl to be hungry?"
-<es>
+<es>{Mei}\n"¿Por qué? ¿Pasa algo porque una chica tenga hambre?"
 
 @147
 <en>{Kazushi}\n"I thought You were just eating."
-<es>
+<es>{Kazushi}\n"Pensaba que acabas de comer."
 
 @150
 <en>{Mei}\n"It's not how many times you eat. It's how much you eat right?"
-<es>
+<es>{Mei}\n"No tiene que ver con las veces que comas. Sino la cantidad que comes, ¿no?"
 
 @151
 <en>{Kazushi}\n"So, you're like 80% full now?"
-<es>
+<es>{Kazushi}\n"¿Así que estás sobre el 80% ahora?"
 
 @154
 <en>{Mei}\n"I would say about 30%."
-<es>
+<es>{Mei}\n"Diría que más bien sobre el 30%."
 
 @155
 <en>{Kazushi}\n"30%......"
-<es>
+<es>{Kazushi}\n"30%..."
 
 @156
 <en>I'm pretty sure I saw her eating a big bowl earlier.
-<es>
+<es>Estoy casi seguro de haberla visto comer un bol enorme antes.
 
 @157
 <en>That's 30% for her?
-<es>
+<es>¿Eso es el 30% para ella?
 
 @160
 <en>{Mei}\n"Let's see......I'll get my special bowl again.\nOne special bowl please-!"
-<es>
+<es>{Mei}\n"Veamos... Tomaré mi bol especial de nuevo.\n¡Un bol especial, por favoor!"
 
 @161
 <en>{Cafeteria lady}\n"All right-\nyour usual, right?"
-<es>
+<es>{Cocinera}\n"Oído cocina.\nEl de siembre, ¿no?"
 
 @162
 <en>They too know that Miss Ibuki eats a lot.
-<es>
+<es>Parece que ellos ya saben que la señorita Ibuki come mucho.
 
 @163
 <en>{Mei}\n"You sound like I eat a lot."
@@ -282,35 +283,35 @@
 
 @164
 <en>She doesn't know she eats a lot.
-<es>
+<es>Parece que no es consciente de que come mucho.
 
 @165
 <en>{Kazushi}\n"What is special bowl anyways?"
-<es>
+<es>{Kazushi}\n"De todas formas, ¿cuál es el bol especial?"
 
 @168
 <en>{Mei}\n"You don't know special bowl?"
-<es>
+<es>{Mei}\n"¿No sabes cual es el bol especial?"
 
 @169
 <en>I guess it's supposed to be a famous menu here.
-<es>
+<es>Imagino que será un menú famoso por aquí.
 
 @170
 <en>{Kazushi}\n"This is my first day to order food here."
-<es>
+<es>{Kazushi}\n"Hoy es el primer día que pido aquí."
 
 @173
 <en>{Cafeteria lady}\n"She's the founder of the bowl.\nIt's just a daily selected bowl with extra large portion."
-<es>
+<es>{Cocinera}\n"Ella es la creadora del bol.\nEs simplemente el bol del día en versión extra grande."
 
 @174
 <en>{Kazushi}\n"It doesn't sound like it's for the ladies."
-<es>
+<es>{Kazushi}\n"No suena como algo para señoritas."
 
 @177
 <en>{Mei}\n"Hey, I'm very aware of what I eat."
-<es>
+<es>{Mei}\n"Oye. Soy muy consciente de lo que como."
 
 @178
 <en>She's right. She has great figure.
@@ -318,67 +319,67 @@
 
 @179
 <en>{Cafeteria lady}\n"Here is your special bowl-"
-<es>
+<es>{Cocinera}\n"Aquí tienes tu bol especial."
 
 @181
 <en>It's really big. Foods are about to fall off from the bowl.
-<es>
+<es>Es enorme. La comida sobresale y parece que se vaya a caer del bol.
 
 @182
 <en>{Kazushi}\n"Can you actually finish that?"
-<es>
+<es>{Kazushi}\n"¿Te vas a poder acabar eso?"
 
 @185
 <en>{Mei}\n"Sure.\nYou should get this, too. Just add 50 cents and she will give me like this much."
-<es>
+<es>{Mei}\n"Claro.\nTu también deberías pedírtelo. Por 50 yenes más te pondrán todo esto."
 
 @186
 <en>I wonder where in her body can she store all this food.
-<es>
+<es>Me pregunto en qué parte de su cuerpo podrá almacenar toda esa comida.
 
 @187
 <en>{Kazushi}\n"I'll have the same please."
-<es>
+<es>{Kazushi}\n"Por favor, lo mismo."
 
 @188
 <en>I'm starving.
-<es>
+<es>Me estoy muriendo de hambre.
 
 @193
 <en>{Mei}\n"I never get bored of special bowl-"
-<es>
+<es>{Mei}\n"Nunca me canso del bol especial."
 
 @194
 <en>She's eating that huge bowl again.
-<es>
+<es>Está comiéndose otra vez ese bol enorme.
 
 @195
 <en>It's like watching eating contest
-<es>
+<es>Es como presenciar un concurso de comida.
 
 @196
 <en>{Appo-}\n"You eat a lot, Mei.."
-<es>
+<es>{Appo-}\n"Comes un montón, Mei..."
 
 @197
 <en>{Pierre}\n"Where do all that food go in your tiny body?"
-<es>
+<es>{Pierre}\n"¿A dónde va a parar toda esa comida en tu esbelto cuerpo?"
 
 @198
 <en>They are in awe of her appetite.
-<es>
+<es>Están atónitos por su apetito.
 
 @199
 <en>{Daigo}\n"............beautiful."
-<es>
+<es>{Daigo}\n"Bello...."
 
 @200
 <en>One guy even thinks it's beautiful that she eats a lot.
-<es>
+<es>Uno hasta piensa que es bello que coma tanto.
 
 @201
 <en>{Mei}\n"There is not much to enjoy besides eating in this lone island."
-<es>
+<es>{Mei}\n"No hay demasiadas cosas para disfrutar en esta solitaria isla además de comer."
 
 @202
 <en>{Rin}\n"......it's like cheating that she doesn't get fat."
@@ -386,39 +387,39 @@
 
 @203
 <en>{Sakura}\n"Rin watches her diet like supermodels. And that's why she has a great body, guys."
-<es>
+<es>{Sakura}\n"Rin cuida su dieta como las supermodelos. Por eso tiene ese cuerpazo, chicos."
 
 @204
 <en>{Rin}\n"Stop, Sakura!"
-<es>
+<es>{Rin}\n"¡Para ya, Sakura!"
 
 @205
 <en>{Sakura}\n"Miss. Ibuki, you have to tell us your secret to stay in shape."
-<es>
+<es>{Sakura}\n"Señorita Ibuki, tienes que contarnos tu secreto para mantenerte en línea."
 
 @206
 <en>{Rin}\n"Please......"
-<es>
+<es>{Rin}\n"Por favor..."
 
 @207
 <en>Girls love this stuff.
-<es>
+<es>A las chicas les encanta estas cosas.
 
 @208
 <en>{Mei}\n"Secret...nI guess to excercize."
-<es>
+<es>{Mei}\n"El secreto...\nImagino que hacer ejercicio."
 
 @209
 <en>She gave them a simple answer.
-<es>
+<es>Les ha dado una respuesta bien sencilla.
 
 @210
 <en>{Mei}\n"If you don't burn all the calories you took, ofcourse you get fat."
-<es>
+<es>{Mei}\n"Si no quemas todas las calorías que te tomas, es normal que engordes."
 
 @211
 <en>{Sakura}\n"I didn't know you're big in excercize."
-<es>
+<es>{Sakura}\n"No sabía que fueses buena haciendo ejercicio."
 
 @212
 <en>{Mei}\n"It's not working out I do. It's teaching. Teaching takes a lots of physical work."
@@ -426,11 +427,11 @@
 
 @213
 <en>{Pierre}\n"So, you're not going to gym or anything."
-<es>
+<es>{Pierre}\n"Así que no vas al gimnasio ni nada."
 
 @214
 <en>{Rin}\n"See, it's not fair.\nI gain weight really easily......"
-<es>
+<es>{Rin}\n"¿Véis? No es justo.\nYo gano peso con tantísima facilidad..."
 
 @215
 <en>Rin pinches and shows how much fat she has on her belly.
@@ -438,119 +439,120 @@
 
 @216
 <en>{Sakura}\n"Rin's good at cooking as well as eating."
-<es>
+<es>{Sakura}\n"Rin es tan buena cocinando como comiendo."
 
 @217
 <en>{Rin}\n"I'm not proud of eating part though."
-<es>
+<es>{Rin}\n"Aunque no estoy orgullosa de la parte de comer."
 
 @218
 <en>{Mei}\n"You guys are so young still.\nYou should eat whatever you want as much as you want."
-<es>
+<es>{Mei}\n"Chicas, todavía sois jóvenes.\nDeberíais comer lo que queráis."
 
 @220
 <en>She keeps eating.
-<es>
+<es>Continúa comiendo.
 
 @221
 <en>{Kazushi}\n"How about you Miss. Ibuki? How much do you used to eat when you were young?"
-<es>
+<es>{Kazushi}\n"¿Y tú, señorita Ibuki? ¿Cuánto solías comer cuando eras jóven?"
 
 @222
 <en>The way she eats now, I wonder how much she used to eat before.
-<es>
+<es>Por cómo come, me pregunto cuánto olía comer antes.
 
 @223
 <en>{Mei}\n"Hey."
-<es>
+<es>{Mei}\n"Ey."
 
 @224
 <en>She gives me a mean look.
-<es>
+<es>Me mira disgustada.
 
 @225
 <en>{Pierre}\n"Kazushi, you idiot."
-<es>
+<es>{Pierre}\n"Kazushi, estúpido."
 
 @226
 <en>{Kazushi}\n"Did I say something wrong?"
-<es>
+<es>{Kazushi}\n"¿He dicho algo malo?"
 
 @227
 <en>{Mei}\n"In your opinion, I'm not young anymore."
-<es>
+<es>{Mei}\n"Por lo que has dicho, ya no soy jóven."
 
 @228
 <en>{Kazushi}\n"......I absolutely didn't mean that......"
-<es>
+<es>{Kazushi}\n"... De ninguna manera quería decir eso..."
 
 @229
 <en>{Pierre}\n"Kazushi, you never talk about age with women."
-<es>
+<es>{Pierre}\n"Kazushi. Nunca. Nunca hables con una mujer sobre su edad."
 
 @230
 <en>{Appo-}\n"Especially with a woman around Mei's age."
-<es>
+<es>{Appo-}\n"Especialmente con una mujer con la edad de Mei."
 
 @231
 <en>{Mei}\n"What do you mean?"
-<es>
+<es>{Mei}\n"¿Qué quieres decir?"
 
 @232
 <en>{Appo-}\n"Opps......I said it too loud."
-<es>
+<es>{Appo-}\n"Ups... Lo he dicho en voz alta."
 
 @233
 <en>{Mei}\n"You guys all need to learn manners.\nI'm still young, I can eat whatever and as much as I want."
-<es>
+<es>{Mei}\n"Tenéis que aprender todos modales.\nTodavía soy jóven. Y puedo comer todo lo que quiera."
 
 @234
 <en>{Mei}\n"I remember I used to be hungry and sleepy all the time in my puberty."
-<es>
+<es>{Mei}\n"Recuerdo que estaba todo el día con sueño y con hambre en la pubertad."
 
 @235
 <en>{Sakura}\n"You are joking with us, right-?"
-<es>
+<es>{Sakura}\n"Lo dices en broma, ¿verdad?"
 
 @236
 <en>{Mei}\n"I'm serious. By the way, I'm going to eat some more."
-<es>
+<es>{Mei}\n"Es en serio. Por cierto. Voy a comer un poco más."
 
 @237
 <en>{Appo-}\n"You are still hungry?"
-<es>
+<es>{Appo-}\n"¿Todavía tienes hambre?"
 
 @239
 <en>{Mei}\n"Tastes so good."
-<es>
+<es>{Mei}\n"Es que está tan bueno..."
 
 @240
 <en>This is her..........\nHow many bowls are there?......they are piled up high.
-<es>
+<es>Estos son sus...\n¿Cuantos boles hay?... Hay una pila de ellos.
 
 @241
 <en>{Pierre}\n"Do you eat this much everyday?"
-<es>
+<es>{Pierre}\n"¿Comes todo esto cada día?"
 
 @242
 <en>{Sakura}\n"Yes, she does.\nI just love watching her eat."
-<es>
+<es>{Sakura}\n"Sí, así es.\nMe encanta verla comer."
 
 @243
+# Revisar.
 <en>{Kazushi}\n"You are right. It's quite enjoyable watching her eat."
-<es>
+<es>{Kazushi}\n"Tienes razón. Se disfruta mucho viéndola comer."
 
 @244
 <en>I get full just by watching her eat.
-<es>
+<es>Me siento lleno con el simple hecho de verla comer.
 
 @245
 <en>{Daigo}\n"Beautiful......"
-<es>
+<es>{Daigo}\n"Bello..."
 
 @246
 <en>One guy even finds it beautiful.
-<es>
+<es>Uno de nosotros hasta lo encuentra bello.
 
 @247
 <en>{Rin}\n"Seriously, where do all the foods go?"
@@ -565,24 +567,25 @@
 <es>
 
 @250
+# Revisar.
 <en>{Mei}\n"......I'm so satisfied."
-<es>
+<es>{Mei}\n"Ya me he quedado muy satisfecha..."
 
 @251
 <en>She finally finished her long lunch.
-<es>
+<es>Ya ha terminado su larga comida.
 
 @255
 <en>{Mei}\n"I'm full. I'm going back to my room to get some rest."
-<es>
+<es>{Mei}\n"Estoy llena. Voy a volver a mi habitación a descansar un rato."
 
 @256
 <en>{Kazushi}\n"......are you going to take a nap?"
-<es>
+<es>{Kazushi}\n"¿Vas a pegarte una siesta...?"
 
 @260
 <en>{Sakura}\n"That's what she does after lunch everyday."
-<es>
+<es>{Sakura}\n"Eso es lo que hace tras la comida cada día."
 
 @265
 <en>{Pierre}\n"She's not burning any calories like how she said earlier."
@@ -598,5 +601,5 @@
 
 @279
 <en>I can't believe how she maintains her figure.
-<es>
+<es>Me resulta impensable que pueda mantener su figura.
 
