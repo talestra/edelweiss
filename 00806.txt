@@ -1,4 +1,4 @@
-# Comments for '00806'
+# http://es.wikipedia.org/wiki/Alquimia
 
 @6
 <en>{Kazushi}\n"Well guys, this is it."
@@ -6,11 +6,11 @@
 
 @7
 <en>It's our first Alchemy class.
-<es>
+<es>Nuestra primera clase de Alquímia.
 
 @8
 <en>{Kazushi}\n"I'm getting nervous."
-<es>
+<es>{Kazushi}\n"Me estoy poniendo nervioso."
 
 @11
 <en>{Mizuki}\n"You guys will be all right."
@@ -18,39 +18,39 @@
 
 @12
 <en>It was a surprise that Mizuki encouraged me,
-<es>
+<es>Me sorprendió que Mizuki me animase.
 
 @13
 <en>{Kazushi}\n"The principal is going to observe us, you know."
-<es>
+<es>{Kazushi}\n"La directora va a observarnos, ya sabes."
 
 @14
 <en>{Mizuki}\n"Just pay attention to the class. You guys will be all right."
-<es>
+<es>{Mizuki}\n"Basta con que prestéis atención a clase, y os irá todo bien."
 
 @15
 <en>{Kazushi}\n"I hope so."
-<es>
+<es>{Kazushi}\n"Eso espero."
 
 @25
 <en>{Pierre}\n"Let's go, Kazushi!"
-<es>
+<es>{Pierre}\n"¡Vamos, Kazushi!"
 
 @26
 <en>The class will be held at laboratory.
-<es>
+<es>La clase se dará en el laboratorio.
 
 @27
 <en>{Appo-}\n"What should we bring?"
-<es>
+<es>{Appo-}\n"¿Qué tenemos que llevar?"
 
 @28
 <en>{Daigo}\n"We weren't provided any books, right?"
-<es>
+<es>{Daigo}\n"No nos han dado ningún libro, ¿no?"
 
 @34
 <en>{Mizuki}\n"The text book will be provided later."
-<es>
+<es>{Mizuki}\n"El libro os lo darán más adelante."
 
 @35
 <en>{Kazushi}\n"I see.\nWell then, shall we?"
@@ -58,11 +58,11 @@
 
 @36
 <en>We headed to the laboratory.
-<es>
+<es>Nos dirigimos al laboratorio.
 
 @42
 <en>The laboratory seemed very much like the one we had in our old school.
-<es>
+<es>El laboratorio se parecía bastante al que teníamos en nuestra vieja escuela.
 
 @47
 <en>{Pierre}\n"Is this it?\nI can sense there has been a lot of things happened in here."
@@ -70,43 +70,44 @@
 
 @48
 <en>{Appo-}\n"Where should we sit?"
-<es>
+<es>{Appo-}\n"¿Dónde nos sentamos?"
 
 @52
 <en>{Mizuki}\n"Anywhere you want."
-<es>
+<es>{Mizuki}\n"Donde queráis."
 
 @56
+# Revisar: Siéntate/Sentaos
 <en>{Ran}\n"Just sit with me."
-<es>
+<es>{Ran}\n"Siéntate conmigo."
 
 @57
 <en>We made our own group of seats and sat down.
-<es>
+<es>Nos creamos nuestro propio grupo de asientos y nos sentamos.
 
 @61
 <en>{Ran}\n"Well, good luck-"
-<es>
+<es>{Ran}\n"Pues nada. Buena suerte."
 
 @63
 <en>Ran starts sleeping.
-<es>
+<es>Ran empieza a dormirse.
 
 @64
 <en>{Kazushi}\n"Hey, don't sleep. You need to stay awake and help us out."
-<es>
+<es>{Kazushi}\n"Ey, ¡no te duermas! Tienes que permanecer despierta para ayudarnos."
 
 @67
 <en>{Pierre}\n"We need to show the principal that we are here to study. We need your help."
-<es>
+<es>{Pierre}\n"Tenemos que demostrar a la directora que estamos aquí para estudiar. Necesitamos tu ayuda."
 
 @72
 <en>{Ran}\n"That's right. All right. I stay awake for you guys."
-<es>
+<es>{Ran}\n"Está bien, está bien. Permaneceré despierta por vosotros, chicos."
 
 @73
 <en>{Kazushi}\n"Please teach us."
-<es>
+<es>{Kazushi}\n"Por favor, enseñanos."
 
 @76
 <en>{Ran}\n"That, I don't know.\nI'm so not good at this class."
@@ -114,171 +115,172 @@
 
 @77
 <en>{Kazushi}\n"......seriously?"
-<es>
+<es>{Kazushi}\n"... ¿En serio?"
 
 @80
 <en>{Ran}\n"I've never had any success in this class."
-<es>
+<es>{Ran}\n"Nunca he tenido éxito alguno en esta clase."
 
 @84
 <en>{Appo-}\n"Should we change our tutor?"
-<es>
+<es>{Appo-}\n"¿Deberíamos cambiarnos de tutor?"
 
 @85
 <en>{Pierre}\n"Maybe."
-<es>
+<es>{Pierre}\n"Quizá."
 
 @86
 <en>{Kazushi}\n"But, Haruka was telling me it shouldn't be so hard."
-<es>
+<es>{Kazushi}\n"Pero Haruka me dijo que no debería ser demasiado difícil."
 
 @90
 <en>{Ran}\n"I'm an exception-\nI have absolutely no talent on Alchemy."
-<es>
+<es>{Ran}\n"Yo soy una excepción.\nTengo talento cero con la Alquímia."
 
 @93
 <en>{Ran}\n"As matter of a fact, I hate this class."
-<es>
+<es>{Ran}\n"Y de hecho, odio esta clase."
 
 @94
 <en>We are convinced that we chose a wrong partner.
-<es>
+<es>Ahora estamos realmente convencidos de que hemos elegido a la compañera equivocada.
 
 @98
 <en>{Appo-}\n"Who else can help us-......?"
-<es>
+<es>{Appo-}\n"¿Quién más podría ayudarnos...?"
 
 @101
 <en>We looked around, but we couldn't find anyone who seems to be willing to help us.
-<es>
+<es>Miramos alrededor, pero no encontramos a nadie que fuese a ayudarnos.
 
 @104
 <en>{Pierre}\n"Hey Rin, do you want to sit with us-?"
-<es>
+<es>{Pierre}\n"Oye Rin. ¿Te gustaría sentarte con nosotros?"
 
 @110
 <en>{Rin}\n"Me......?"
-<es>
+<es>{Rin}\n"¿Yo...?"
 
 @111
 <en>{Sakura}\n"Sorry guys, Rin gets really nervous in front of the principal. I don't think she will be a help."
-<es>
+<es>{Sakura}\n"Lo siento chicos, Rin se pone muy nerviosa delante de la directora. No creo que fuese de mucha ayuda."
 
 @112
 <en>We are under big pressure.
-<es>
+<es>Estamos bajo una gran presión.
 
 @113
 <en>{Kazushi}\n"No worrys guys. This is our problem."
-<es>
+<es>{Kazushi}\n"No os preocupéis, chicas. Es problema nuestro."
 
 @118
 <en>{Pierre}\n"That's right. Thanks anyways-"
-<es>
+<es>{Pierre}\n"Es cierto. Gracias de todas formas."
 
 @122
 <en>{Rin}\n"Sorry, next time."
-<es>
+<es>{Rin}\n"Lo siento. La próxima vez."
 
 @126
 <en>{Pierre}\n""next time"-\nshe's so cute."
-<es>
+<es>{Pierre}\n""La próxima vez".\nEs TAN mona..."
 
 @131
 <en>{Appo-}\n"She makes me wanna talk to her more."
-<es>
+<es>{Appo-}\n"Hace que me entren ganas de hablar más con ella."
 
 @138
 <en>{Rin}\n"!!......!?"
-<es>
+<es>{Rin}\n"¿¡¡...!!?"
 
 @139
 <en>{Sakura}\n"What's wrong?"
-<es>
+<es>{Sakura}\n"¿Qué ocurre?"
 
 @140
 <en>{Rin}\n"I sensed something scary......"
-<es>
+<es>{Rin}\n"He notado algo espeluznante..."
 
 @144
 <en>{Appo-}\n[In love with Rin]
-<es>
+<es>{Appo-}\n*Enamorado de Rin*
 
 @145
 <en>{Kazushi}\n"Stop undressing her with your eyes."
-<es>
+<es>{Kazushi}\n"Deja de desvestirla con los ojos."
 
 @152
 <en>{Daigo}\n"You are always doing that."
-<es>
+<es>{Daigo}\n"Siempre lo estás haciendo."
 
 @153
 <en>{Pierre}\n"I think we are on our own, boys."
-<es>
+<es>{Pierre}\n"Chicos, creo que estamos solos."
 
 @154
 <en>{Kazushi}\n"Looks like it."
-<es>
+<es>{Kazushi}\n"Eso parece."
 
 @155
 <en>We should thank Ran for just being with us here.
-<es>
+<es>Deberíamos agradecer a Ran por estar aquí con nosotros.
 
 @158
 <en>{Ran}\n[Ran sleeping]
-<es>
+<es>{Ran}\n*Durmiendo*
 
 @159
 <en>Although she's sleeping.
-<es>
+<es>Aunque esté durmiendo...
 
 @160
 <en>{Kazushi}\n"Hey Ran, please at least stay awake."
-<es>
+<es>{Kazushi}\n"Oye Ran. Venga, mantente despierta, por favor."
 
 @163
 <en>{Ran}\n"What......?\nSorry, sorry."
-<es>
+<es>{Ran}\n"¿Eh...?\nAh. Lo siento, lo siento."
 
 @164
 <en>{Kazushi}\n"It is supposed to be easy like Haruka said?"
-<es>
+<es>{Kazushi}\n"¿Se supone que será fácil como dijo Haruka?"
 
 @168
 <en>{Pierre}\n"I don't think so. It's like learning magic, right?"
-<es>
+<es>{Pierre}\n"La verdad, no lo creo. Es como aprender magia, ¿no?"
 
 @169
 <en>I can't imagine us being good at such stuff.
-<es>
+<es>Soy incapaz de imaginar que se nos diese bien algo así.
 
 @173
 <en>{Ran}\n"You guys think too much.\nAlchemy is nothing like magic. It's more like technology."
-<es>
+<es>{Ran}\n"Pues pensáis demasiado.\nLa Alquímia no tiene nada que ver con la magia. Es más parecido a la tecnología."
 
 @174
 <en>{Kazushi}\n"Does that mean you don't need special talent?"
-<es>
+<es>{Kazushi}\n"¿Eso quiere decir que no se necesita ningún tipo de talento?"
 
 @175
 <en>{Ran}\n"I don't think so. The more you study, the more you become good at it."
-<es>
+<es>{Ran}\n"No creo. Cuanto más estudias, más mejoras."
 
 @178
 <en>{Ran}\n"Not that I had many success before though."
-<es>
+<es>{Ran}\n"Aunque yo no he tenido mucho éxito con ello."
 
 @179
 <en>Even though she's laughing, deep inside her mind, I'm sure she wishes she's goog at it.
-<es>
+<es>Aunque se está riendo, estoy seguro que por dentro, desearía que se le diese bien.
 
 @180
+# Revisar.
 <en>I'm sure "money"is what she's going to make if she had talent in Alchemy.
-<es>
+<es>Estoy seguro de que si tuviese talento en la Alquímia lo usaría para fabricar dinero.
 
 @186
 <en>{Appo-}\n"You think we can master it?"
-<es>
+<es>{Appo-}\n"¿Crees que podremos dominarla?"
 
 @187
 <en>{Pierre}\n"I'm going to be good at it to wipe off out disgrace."
@@ -286,155 +288,158 @@
 
 @191
 <en>{Ran}\n"You guys will be fine. I'm the only one in this class who is failing."
-<es>
+<es>{Ran}\n"Os irá bien. Yo soy la única de la clase a la que se le da mal."
 
 @194
 <en>{Pierre}\n"Seriously?\nSo we might be good at this and make a lots of money?"
-<es>
+<es>{Pierre}\n"¿En serio?\nEntonces, ¿si se nos diese bien podríamos usarlo para fabricar montañas de dinero?"
 
 @197
 <en>{Ran}\n"The Alchemy they teach in this school is not something you guys would hope it to be......"
-<es>
+<es>{Ran}\n"La Alquímia que se enseña en esta escuela probablemente no sea lo que os esperaríais..."
 
 @198
 <en>{Haruka}\n"The purpose of out study is to improve a substance to its perfect form."
-<es>
+<es>{Haruka}\n"La finalidad del estudio es la de perfeccionar a una sustancia al límite."
 
 @199
 <en>Haruka answered instead of Ran
-<es>
+<es>Haruka respondió en lugar de Ran.
 
 @206
 <en>{Kazushi}\n"Haruka, what are you doing here?"
-<es>
+<es>{Kazushi}\n"Haruka, ¿qué estás haciendo aquí?"
 
 @209
 <en>{Haruka}\n"I misst you guys."
-<es>
+<es>{Haruka}\n"Os echaba de menos."
 
 @210
 <en>She knows Miss Ibuki won't accept her here.
-<es>
+<es>Sabe que la señorita Ibuki no la aceptará aquí.
 
 @215
+# Con estar / con venir
 <en>{Ran}\n"Why are you so obssesed to be in our class?"
-<es>
+<es>{Ran}\n"¿Por qué estás tan obsesionada con venir en nuestra clase?"
 
 @218
 <en>{Haruka}\n"Today is an exception.\nThe princioal is coming to observe, right?"
-<es>
+<es>{Haruka}\n"Hoy es una excepción.\nLa directora ha venido a observar, ¿no?"
 
 @222
 <en>{Appo-}\n"That's why we are nervous.\nSo please go out with me!!"
-<es>
+<es>{Appo-}\n"Por eso mismo es por lo que estamos tan nerviosos.\n¡¡Por favor, sal conmigo!!"
 
 @225
+# No entiendo lo que quieres decir. No he entendido lo que has dicho.
 <en>{Haruka}\n"What? I don't understand what you said."
-<es>
+<es>{Haruka}\n"¿Qué? No sé a qué te refieres."
 
 @229
 <en>{Pierre}\n"Don't bother what he says. He goes wrong some times."
-<es>
+<es>{Pierre}\n"No te preocupes por lo que dice. Hay veces que se le va la pinza."
 
 @233
 <en>{Daigo}\n"He has mental issues, you know."
-<es>
+<es>{Daigo}\n"Tiene problemas mentales, ¿sabías?"
 
 @236
 <en>{Haruka}\n"Shouldn't you see a doctor?"
-<es>
+<es>{Haruka}\n"¿No deberías ir a ver a un médico?"
 
 @240
 <en>She sat down to join our group.
-<es>
+<es>Se sentó junto a nosotros.
 
 @241
 <en>{Haruka}\n"Can I join you guys?"
-<es>
+<es>{Haruka}\n"¿Puedo sentarme con vosotros, chicos?"
 
 @246
 <en>{Pierre}\n"You are more than welcome!"
-<es>
+<es>{Pierre}\n"¡Eres más que bienvenida!"
 
 @250
 <en>{Daigo}\n"Four boys and two girls.\nWe need two more girls to balance out."
-<es>
+<es>{Daigo}\n"Cuatro chicos y dos chicas.\nNecesitamos dos chicas más para equilibrarlo."
 
 @255
 <en>{Haruka}\n"Let's see......\nHey Mizuki, come join us-."
-<es>
+<es>{Haruka}\n"Veamos...\nEy Mizuki, vente aquí con nosotros."
 
 @256
 <en>Haruka spotted Mizuki and asked her to join us.
-<es>
+<es>Haruka divisó a Mizuki y le pidió que se uniese a nosotros.
 
 @261
 <en>{Mizuki}\n"Me?"
-<es>
+<es>{Mizuki}\n"¿Yo?"
 
 @264
 <en>{Haruka}\n"We need more girls to balance out."
-<es>
+<es>{Haruka}\n"Necesitamos dos chicas más para equlibrarlo."
 
 @265
 <en>{Mizuki}\n"Does it have to be me?"
-<es>
+<es>{Mizuki}\n"¿Y tengo que ser yo?"
 
 @266
 <en>I don't think Mizuki wants to be in our group.
-<es>
+<es>No creo que Mizuki quiera estar en nuestro grupo.
 
 @269
 <en>{Haruka}\n"Don't worry too much.\nYou are more than welcome!"
-<es>
+<es>{Haruka}\n"No te preocupes.\n¡Eres más que bienvenia!"
 
 @272
 <en>{Mizuki}\n"I'm not worriying if you guys like me or not......"
-<es>
+<es>{Mizuki}\n"No me preocupa que los chicos me quieran o no en el grupo..."
 
 @273
 <en>{Haruka}\n"Come join us!"
-<es>
+<es>{Haruka}\n"¡Venga, vente!"
 
 @276
 <en>Haruka actually went and grabed Mizuki to our seats.
-<es>
+<es>Al final Haruka ha acabado arrastrando a Mizuki a nuestros asientos.
 
 @281
 <en>{Haruka}\n"Boys be nice to her, O.K?-"
-<es>
+<es>{Haruka}\n"Chicos, tratadla bien, ¿vale?"
 
 @282
+# Revisar.
 <en>{Mizuki}\n"I'm not trying to get along with them-"
-<es>
+<es>{Mizuki}\n"No tengo intención de llevarme bien con ellos."
 
 @286
 <en>{Ran}\n"Mizuki, it's no use trying to make Haruka understand, you know."
-<es>
+<es>{Ran}\n"Mizuki. Es inútil hacer que Haruka entre en razón, ya lo sabes."
 
 @289
 <en>{Mizuki}\n"All right. It's easy to study with Haruka anyways."
-<es>
+<es>{Mizuki}\n"Está bien. En cualquier caso es fácil estudiar con Haruka."
 
 @290
 <en>According to what Mizuki just said, Haruka seems to be good at Alchemy.
-<es>
+<es>Según lo que acaba de decir Mizuki, Haruka parece ser buena con la Alquímia.
 
 @293
 <en>{Kazushi}\n"Oh yeah,"
-<es>
+<es>{Kazushi}\n"Ah, sí."
 
 @294
 <en>What did Haruka said about Alchemy earlier?\nSomething about perfectioning a substance--?
-<es>
+<es>¿Qué es lo que dijo Haruka antes sobre la Alquímia?\n¿Algo sobre perfeccionar una substancia...?
 
 @295
 <en>I've never heard anything like that.
-<es>
+<es>Nunca había escuchado algo así.
 
 @298
 <en>{Ran}\n"Haruka, tell them what Alchemy is."
-<es>
+<es>{Ran}\n"Haruka, explícales qué es la Alquímia."
 
 @304
 <en>{Appo-}\n"You just sounded so bossy."
@@ -446,63 +451,63 @@
 
 @309
 <en>{Ran}\n"At least I have tried before."
-<es>
+<es>{Ran}\n"Al menos yo ya lo había intentado antes."
 
 @313
 <en>{Haruka}\n"Just relax and try to enjoy."
-<es>
+<es>{Haruka}\n"Relajaos y tratad de disfrutarlo."
 
 @314
 <en>{Kazushi}\n"We can do that."
-<es>
+<es>{Kazushi}\n"Podemos hacerlo."
 
 @316
 <en>{Haruka}\n"Here comes our teacher."
-<es>
+<es>{Haruka}\n"Ahí viene la profesora."
 
 @324
 <en>It's Miss Ibuki. I didn't know she was an Alchemy teacher.
-<es>
+<es>Es la señorita Ibuki. No sabía que fuese también profesora de Alquímia.
 
 @330
 <en>And here come out principal.
-<es>
+<es>Y ahí viene la directora.
 
 @337
 <en>{Appo-}\n"Here she is."
-<es>
+<es>{Appo-}\n"Ahí está."
 
 @338
 <en>{Daigo}\n"She is already looking at us."
-<es>
+<es>{Daigo}\n"Ya está mirándonos."
 
 @343
 <en>She was looking around the class room to spot us.
-<es>
+<es>Estuvo ojeando por la clase para localizarnos.
 
 @344
 <en>{Principal}\n".................."
-<es>
+<es>{Directora}\n"..."
 
 @345
 <en>{Kazushi}\n"!!......?"
-<es>
+<es>{Kazushi}\n"¿¡...!?"
 
 @346
 <en>I don't like when she stares at me.
-<es>
+<es>No me gusta cuando se me queda mirando.
 
 @347
 <en>Why is she looking at me anyways?
-<es>
+<es>Y de todas formas, ¿por qué me está mirando a mí?
 
 @351
 <en>{Haruka}\n".................."
-<es>
+<es>{Haruka}\n"..."
 
 @352
 <en>Maybe she's looking at Haruka.
-<es>
+<es>Quizá esté mirando a Haruka.
 
 @356
 <en>{Appo-}\n"Isn't she looking at Kazushi?\n Maybe she thinks you're hot."
@@ -510,31 +515,33 @@
 
 @357
 <en>{Kazushi}\n"I thought she was your woman."
-<es>
+<es>{Kazushi}\n"Pensaba que era tu mujer."
 
 @360
+# Revisar.
 <en>{Appo-}\n"I gave up. I don't think I can win her over you."
-<es>
+<es>{Appo-}\n"Yo ya me rendí. No creo que pueda ganar sobre ti."
 
 @361
+# Revisar.
 <en>{Kazushi}\n"I don't think I can win her over you either, Appo-."
-<es>
+<es>{Kazushi}\n"Y yo tampoco creo que pueda ganar sobre ti, Appo-."
 
 @362
 <en>{Appo-}\n"I switched my target to Mei already. Hey Daigo, I thought you like elder ladies."
-<es>
+<es>{Appo-}\n"Yo ya cambié mi objetivo a Mei. Oye Daigo, pensaba que te gustaban las maduritas."
 
 @367
 <en>{Daigo}\n"She's way too old."
-<es>
+<es>{Daigo}\n"Ella es demasiado mayor."
 
 @372
 <en>{Mei}\n"All right, everybody. Let's get started. As you know, we have our principal watching today, so do your best, O.K?"
-<es>
+<es>{Mei}\n"Está bien. Empecemos. Como ya sabéis todos, la directora estará observando hoy, así que hacedlo lo mejor que podáis, ¿vale?"
 
 @376
 <en>{Principal}\n"Just do how you normaly would do, class."
-<es>
+<es>{Directora}\n"Limitaos a hacerlo como siempre."
 
 @377
 <en>She switched her attention to us.
@@ -546,7 +553,7 @@
 
 @382
 <en>{Boys}\n"Yes!"
-<es>
+<es>{Chicos}\n"¡Sí!"
 
 @385
 <en>{Mei}\n"Wow, you boys are excited, aren't you?"
@@ -558,27 +565,27 @@
 
 @395
 <en>{Daigo}\n"We can make money?"
-<es>
+<es>{Daigo}\n"¿Podemos fabricar dinero?"
 
 @396
 <en>{Haruka}\n"Not today. We do something different today."
-<es>
+<es>{Haruka}\n"Hoy no. Hoy hacemos algo diferente."
 
 @400
 <en>{Appo-}\n"Oh yeah?"
-<es>
+<es>{Appo-}\n"¿Ah, sí?"
 
 @403
 <en>{Daigo}\n"It's the first class of the semester, Appo-."
-<es>
+<es>{Daigo}\n"Es la primera clase del semestre, Appo-."
 
 @408
 <en>{Mei}\n"Let's start the class."
-<es>
+<es>{Mei}\n"Empecemos la clase."
 
 @409
 <en>{Mei}\n"Let me explain what we are going to study in this class for the boys."
-<es>
+<es>{Mei}\n"Permitidme volver a explicar para los chicos, qué estudiaremos en esta clase."
 
 @410
 <en>So far, this is nothing different from any other subject.
@@ -586,11 +593,11 @@
 
 @413
 <en>She wrote down "Alchemy"on the chalk board.
-<es>
+<es>Escribió Alquímia en la pizarra.
 
 @418
 <en>{Mei}\n"I'm sure you all have heard of "Alchemy ". Its started as a study to change lead into gold."
-<es>
+<es>{Mei}\n"Estoy segura de que todos habéis oído hablar de la "Alquimia". Empezó como un estudio para transmutar el plomo en oro."
 
 @419
 <en>The class rang with boys' surprised reaction.
@@ -598,23 +605,23 @@
 
 @420
 <en>It sounded so strange to us.
-<es>
+<es>Nos sonaba muy extraño.
 
 @423
 <en>{Mei}\n"But over the years, we have changed its purpose to many different use."
-<es>
+<es>{Mei}\n"Pero con los años, hemos cambiado su propósito para diversos usos."
 
 @428
 <en>{Appo-}\n"Excuse me!\nI didn't understand a word of what you just said-!"
-<es>
+<es>{Appo-}\n"¡Disculpa!\n¡No he entendido lo que acabas de decir!"
 
 @429
 <en>Appo- stood up and spoke out honestly.
-<es>
+<es>Appo- se levantó y habló con honestidad.
 
 @433
 <en>{Rei}\n"What is he doing?\n Is he stupid."
-<es>
+<es>{Rei}\n"¿Qué está haciendo?\nEs estúpido."
 
 @434
 <en>{Appo-}\n"Please use easier words!"
@@ -625,36 +632,37 @@
 <es>
 
 @439
+# Revisar.
 <en>{Mei}\n"All right......in another words, we are trying to use same formula for not only changing lead into gold but for so many other purposes."
-<es>
+<es>{Mei}\n"Está bien... En otras palabras, tratamos de usar la misma fórmula para no únicamente convertir el plomo en oro, sino para otros diversos usos."
 
 @443
 <en>{Pierre}\n"Like what-?"
-<es>
+<es>{Pierre}\n"¿Como qué?"
 
 @444
 <en>{Mei}\n"In our school, we are trying to use Alchemy to improve our everyday life."
-<es>
+<es>{Mei}\n"En nuestra escuela, tratamos de usar la Alquimia para mejorar nuestra vida diaria."
 
 @448
 <en>{Daigo}\n"Improving everyday life?"
-<es>
+<es>{Daigo}\n"¿Mejorar la vida diaria?"
 
 @452
 <en>{Mei}\n"Did you take a look at some of the grocery stores in this island?\nAll those vegetables are product of our Alchemy."
-<es>
+<es>{Mei}\n"¿Habéis echado un vistazo a alguna tienda de la isla?\nToda esa verdura es producto de nuestra Alquimia."
 
 @455
 <en>{Mei}\n"That's why our vegetables are big and fresh."
-<es>
+<es>{Mei}\n"Por eso nuestras verduras son grandes y frescas."
 
 @459
 <en>{Daigo}\n"Oh yeah, I remember."
-<es>
+<es>{Daigo}\n"Ah sí, lo recuerdo."
 
 @460
 <en>I remember their onions were as big as my head.
-<es>
+<es>Recuerdo las cebollas que eran tan grandes como mi cabeza.
 
 @464
 <en>{Mei}\n"I think watching would be a lot easier for you to understand than hearing."
@@ -662,19 +670,19 @@
 
 @466
 <en>She took out a flask and a ordinary tomato.
-<es>
+<es>Sacó un frasco y un tomate normal y corriente.
 
 @467
 <en>{Mei}\n"If you spill this liquid over this tomato......"
-<es>
+<es>{Mei}\n"Si vertís este líquido sobre este tomate..."
 
 @468
 <en>She does exactly what she said.
-<es>
+<es>Hace exáctamente lo que dice.
 
 @476
 <en>{Appo-}\n"Oh my god!"
-<es>
+<es>{Appo-}\n"¡Dios mío!"
 
 @477
 <en>There was a tiny explosion. Appo- freaked out.
@@ -682,83 +690,84 @@
 
 @483
 <en>{Hu-sen}\n"Such a coward.\nI wonder if he's got a penis."
-<es>
+<es>{Hu-sen}\n"Menudo cobarde.\nMe pregunto si tendrá pene."
 
 @486
 <en>{Rei}\n"Probably a tiny one."
-<es>
+<es>{Rei}\n"Probablemente uno muy pequeño."
 
 @487
 <en>{Hu-sen}\n"I can imagine that."
-<es>
+<es>{Hu-sen}\n"Puedo imaginármelo."
 
 @492
 <en>{Appo-}\n"I've got a good one!\nDo you wanna see?!!"
-<es>
+<es>{Appo-}\n"¡Tengo uno bien hermoso!\n¡¡¿Queréis verlo?!!"
 
 @493
 <en>Appo- starts taking off his clothes.
-<es>
+<es>Appo- empieza a bajarse los pantalones.
 
 @497
 <en>{Mizuki}\n"What are you doing!?\nstop!!"
-<es>
+<es>{Mizuki}\n"¿¡Que estás haciendo!?\n¡¡Para!!"
 
 @501
 <en>{Appo-}\n"I need to show them my manhood!!"
-<es>
+<es>{Appo-}\n"¡¡He de demostrar mi virilidad!!"
 
 @506
 <en>{Pierre}\n"Hey, it's out!\nWe can see it!"
-<es>
+<es>{Pierre}\n"¡Oye, que está fuera!\n¡Te la podemos ver!"
 
 @513
 <en>{Haruka}\n"No!?"
-<es>
+<es>{Haruka}\n"¿¡No!?"
 
 @514
+# Graciosos o raros.
 <en>{Ran}\n"What a funny underwear!"
-<es>
+<es>{Ran}\n"¡Qué calzoncillos más graciosos!"
 
 @518
 <en>{Hu-sen}\n"Your penis is what needs Alchemy!"
-<es>
+<es>{Hu-sen}\n"¡Tu pene es por lo que hace falta la Alquimia!"
 
 @522
 <en>{Appo-}\n"Shut up!!"
-<es>
+<es>{Appo-}\n"¡¡Cállate!!"
 
 @526
 <en>{Pierre}\n"Don't cry."
-<es>
+<es>{Pierre}\n"No llores."
 
 @530
 <en>{Daigo}\n"We got your point."
-<es>
+<es>{Daigo}\n"Te entendemos."
 
 @533
 <en>{Appo-}\n"I hate that girl!\nCan we change her into a pig with Alchemy!?"
-<es>
+<es>{Appo-}\n"¡Odio a esa chica!\n¿¡La podemos convertir en un cerdo con la Alquimia!?"
 
 @536
 <en>{Daigo}\n"Wear you clothes."
-<es>
+<es>{Daigo}\n"Ponte los pantalones."
 
 @540
 <en>{Mizuki}\n"I can't believe what you just did......"
-<es>
+<es>{Mizuki}\n"No puedo creer lo que acabas de hacer..."
 
 @541
 <en>Mizuki seems not familiar to this kind of stuff.
-<es>
+<es>Mizuki no parece estar acostumbrada a este tipo de cosas.
 
 @546
 <en>{Mei}\n"Quiet everyone!\nIt's so rude to make fun of what one is born with, O.K?"
-<es>
+<es>{Mei}\n"¡Callaos todos!\nEs muy grosero reírse con lo que uno ha nacido, ¿vale?"
 
 @547
 <en>{Mei}\n"Going back to this tomato......."
-<es>
+<es>{Mei}\n"Y volviendo a este tomate..."
 
 @548
 <en>She made everyone quiet with a rude comment.
@@ -766,95 +775,97 @@
 
 @550
 <en>{Kazushi}\n"Wow!?\nLook at that tomato!!"
-<es>
+<es>{Kazushi}\n"¡Increíble!\n¡¡Mirad ese tomate!!"
 
 @551
 <en>It's so big just like what we saw in the grocery store.
-<es>
+<es>Es tan grande como los que vimos en la verdulería aquella.
 
 @552
 <en>{Mei}\n"Just like this, we can use Alchemy to improve our life."
-<es>
+<es>{Mei}\n"Y así es como podemos usar la Alquimia para mejorar nuestras vidas."
 
 @556
 <en>{Haruka}\n"All the vegetables and fruits are so big and juicy-. They are sold very expensively outside this island."
-<es>
+<es>{Haruka}\n"Todas las verduras y frutas son muy grandes y jugosas. Se venden muy caras fuera de la isla."
 
 @557
 <en>{Kazushi}\n"That's owesome!"
-<es>
+<es>{Kazushi}\n"¡Eso es increíble!"
 
 @562
 <en>{Ran}\n"We can make money that way!"
-<es>
+<es>{Ran}\n"¡Así podemos sacar dinero!"
 
 @565
 <en>{Haruka}\n"Is there anything besides money that you are interested?"
-<es>
+<es>{Haruka}\n"¿Te interesa algo más a parte del dinero?"
 
 @568
 <en>{Ran}\n"But that's how this whole Alchemy thing started, right?"
-<es>
+<es>{Ran}\n"Pero así es como comenzó la Alquimia, ¿no?"
 
 @571
 <en>{Haruka}\n"I know, but......"
-<es>
+<es>{Haruka}\n"Lo sé, pero..."
 
 @576
+# Revisar. ¿Medicina del amor? ¿Elixir amoroso? ¿Drogas del amor?
 <en>{Pierre}\n"Can we make love drugs?"
-<es>
+<es>{Pierre}\n"¿Y se pueden fabricar elixir del amor?"
 
 @577
 <en>{Kazushi}\n"Good idea!!\n......I mean there are girls here Pierre, you know."
-<es>
+<es>{Kazushi}\n"¡¡Buena idea!!\n... Quiero decir... Hay chicas aquí, Pierre, ¿sabías?"
 
 @583
 <en>The girls must have over heard us. They are giving us disgusting look.
-<es>
+<es>Las chicas deben habernos mirado. Nos están mirando con cara de asco.
 
 @584
 <en>{Rei}\n"Men are horrible."
-<es>
+<es>{Rei}\n"Los hombres son horribles."
 
 @585
 <en>{Ran}\n"I'm not eating anything you guys made-"
-<es>
+<es>{Ran}\n"No pienso comerme nada que hagáis."
 
 @590
 <en>{Appo-}\n"How about glasses that can see through clothes."
-<es>
+<es>{Appo-}\n"¿Y gafas que permitan ver a través de la ropa?"
 
 @591
 <en>{Kazushi}\n"Save your ideas, Appo-."
-<es>
+<es>{Kazushi}\n"Guárdate las ideas, Appo-."
 
 @597
 <en>{Daigo}\n"Sorry girls, but they are not bad guys, you know."
-<es>
+<es>{Daigo}\n"Lo siento chicas. No son malos chicos, de verdad."
 
 @598
 <en>{Haruka}\n[Haruka laughing]
-<es>
+<es>{Haruka}\n*Riendo*
 
 @599
 <en>Haruka was the only girl who was thought we are funny.
-<es>
+<es>Haruka es la única chica a la que le resulta gracioso.
 
 @604
 <en>{Mei}\n"Be quiet!\nNow, I'm going to explain what would not work."
-<es>
+<es>{Mei}\n"¡Callaos!\nAhora voy a explicar cómo no funciona."
 
 @605
+# Revisar.
 <en>{Mei}\n"Every substances has its features and if you try to chage into something against their features, it won't work."
-<es>
+<es>{Mei}\n"Cada sustancia tiene sus características y, si tratáis de cambiar algo en contra de eso, no funcionará."
 
 @606
 <en>{Mei}\n"If you try to force it, sometimes it explodes. You have to be careful, O.K?"
-<es>
+<es>{Mei}\n"Si tratáis de forzarlo, en ocasiones os acabará explotando. Tenéis que ir con cuidado, ¿vale?"
 
 @609
 <en>I'm sure she said the last sentence especially for Appo-.
-<es>
+<es>Estoy convencido de que eso último lo ha dicho especialmente por Appo-.
 
 @610
 <en>{Kazushi}\n"See, you have to watch out."
@@ -862,191 +873,191 @@
 
 @615
 <en>{Appo-}\n"I promise I will."
-<es>
+<es>{Appo-}\n"Prometo que lo tendré."
 
 @619
 <en>{Ran}\n"Don't worry-. It's not going to be that easy."
-<es>
+<es>{Ran}\n"No te preocupes. No va a ser tan fácil."
 
 @623
 <en>{Mizuki}\n"It won't be anything drastic when you just started to learn. At most, you see cnanges in colors or something like that."
-<es>
+<es>{Mizuki}\n"No habrán cosas extraordinarias al empezar. Como mucho, veréis cambios de color y cosas por el estilo."
 
 @624
 <en>{Kazushi}\n"But it sounds fun! I wanna get started."
-<es>
+<es>{Kazushi}\n"¡Pero suena divertido! Me gustaría empezar."
 
 @625
 <en>I'm getting excited for a new challenge.
-<es>
+<es>Me estoy emocionando por el nuevo reto.
 
 @630
 <en>{Haruka}\n"You like it already?\nI'm glad."
-<es>
+<es>{Haruka}\n"¿Ya te está empezando a gustar?\nMe alegro."
 
 @631
 <en>{Kazushi}\n"It sure sounds fun.\nI wanna give it a try."
-<es>
+<es>{Kazushi}\n"Desde luego divertido suena.\nVoy a intentarlo."
 
 @634
 <en>{Haruka}\n"It might be complicated in the beginning, but I'm sure you'll get it down."
-<es>
+<es>{Haruka}\n"Puede que resulte complicado al principio, pero estoy segura de que se te acabará dando bien."
 
 @635
 <en>{Kazushi}\n"I hope so."
-<es>
+<es>{Kazushi}\n"Eso espero yo también."
 
 @637
 <en>I can't wait to try something.
-<es>
+<es>Estoy impaciente por probar algo.
 
 @638
 <en>It's been a while for me to face a new challenge.
-<es>
+<es>Ha pasado ya bastante tiempo desde que afronté algún nuevo reto.
 
 @639
 <en>It reminded of my first day at elementary school.
-<es>
+<es>Me recuerda a mi primer día en el colegio.
 
 @642
 <en>{Mei}\n"Let's have a group experiment today.\nGirls, please help out boys."
-<es>
+<es>{Mei}\n"Hoy hagamos experimentos en grupo.\nChicas, por favor, ayudad a los chicos."
 
 @643
 <en>{Kazushi}\n"Let's do it!"
-<es>
+<es>{Kazushi}\n"¡Venga!"
 
 @645
 <en>Every group is provided with flask and stove.
-<es>
+<es>A cada grupo le dieron un fasco y un fogón.
 
 @646
 <en>And a cut flower for a some reason.
-<es>
+<es>Y una flor cortada por algún motivo.
 
 @647
 <en>{Kazushi}\n"What is this cut flower for?"
-<es>
+<es>{Kazushi}\n"¿Para qué es la flor cortada?"
 
 @648
 <en>It seems like the flower we picked on the other day.
-<es>
+<es>Se parecen a las flores que cogimos el otro día.
 
 @651
 <en>{Haruka}\n"That cut flower is the secret for success of Alchemy."
-<es>
+<es>{Haruka}\n"Esa flor cortada es el secreto del éxito de la Alquimia."
 
 @656
 <en>{Pierre}\n"A secret?"
-<es>
+<es>{Pierre}\n"¿Secreto?"
 
 @661
 <en>{Mei}\n"Let me explain."
-<es>
+<es>{Mei}\n"Permitid que os lo explique."
 
 @662
 <en>Miss Ibuki sounded like this is very important.
-<es>
+<es>Tal y como lo dijo la señorita Ibuki parecía algo muy importante.
 
 @663
 <en>{Mei}\n"Basicly, you mix two different substances to create a new substance in Alchemy."
-<es>
+<es>{Mei}\n"Básicamente, en la Alquimia se juntan dos sustancias diferentes para crear una nueva."
 
 @664
 <en>{Mei}\n"But in our school, we found that adding that flower as a third substance drasticly improve the outcome."
-<es>
+<es>{Mei}\n"Pero en nuestra escuela nos dimos cuenta de que añadiendo esa flor como tercera sustancia, hacía que mejorase drásticamente el resultado."
 
 @669
 <en>{Daigo}\n"So it works to mix the other two better."
-<es>
+<es>{Daigo}\n"Así que sirve para mezclar las otras dos mejor."
 
 @673
 <en>{Rin}\n"It works just like a glue."
-<es>
+<es>{Rin}\n"Funciona como si fuese pegamento."
 
 @677
 <en>{Mei}\n"That's a good example."
-<es>
+<es>{Mei}\n"Es un buen ejemplo, sí."
 
 @681
 <en>{Mei}\n"But we have yet to found out why."
-<es>
+<es>{Mei}\n"Pero todavía no hemos averigüado el por qué."
 
 @685
 <en>{Principal}\n"We believe this flower is the reason why Alchemy evolved in this island."
-<es>
+<es>{Directora}\n"Cremos que esta flor es la razón por la que la Alquimia ha evolucionado en esta isla."
 
 @686
 <en>The principal opened her mouth for the first time in a while.
-<es>
+<es>La directora abrió la boca por primera vez desde hace un buen rato.
 
 @687
 <en>{Principal}\n"Anyways, by using that flower, we are capable of mass production of our product."
-<es>
+<es>{Directora}\n"De todas formas, usando esa flor, somos capaces de tener una producción en masa."
 
 @691
 <en>{Haruka}\n"Without those flowers, Alchemy takes so much time for such a tiny amount."
-<es>
+<es>{Haruka}\n"Sin estas flores, la Alquimia requiere mucho tiempo para un efecto muy pequeño."
 
 @692
 <en>{Kazushi}\n"I see......"
-<es>
+<es>{Kazushi}\n"Ya veo..."
 
 @693
 <en>We understood the importance of this flower.
-<es>
+<es>Hemos comprendido la importancia de esa flor.
 
 @697
 <en>{Pierre}\n"I see.These flowers makes it so easy for us amateurs."
-<es>
+<es>{Pierre}\n"Ya veo. Esas flores hace qu sea todo mucho mas fácil para nosotros los novatos."
 
 @702
 <en>{Mei}\n"But you still need to study and practice."
-<es>
+<es>{Mei}\n"Pero aún así tenéis que estudiar y practicar mucho."
 
 @706
 <en>{Appo-}\n"Please teach us something!"
-<es>
+<es>{Appo-}\n"¡Por favor, enséñanos algo!"
 
 @710
 <en>{Mei}\n"Let's start with a very easy one today. Everyone start working with what you see on the table."
-<es>
+<es>{Mei}\n"Empecemos con algo muy sencillo por hoy. Empezad todos a trabajar con lo que tenéis en la mesa."
 
 @711
 <en>{Kazushi}\n"What are we making today-?"
-<es>
+<es>{Kazushi}\n"¿Qué es lo que vamos a hacer hoy?"
 
 @714
 <en>{Mei}\n"It's a surprise. If you do it right, you'ii find out."
-<es>
+<es>{Mei}\n"Es una sorprensa. Si lo hacéis bien, lo averiguaréis."
 
 @715
 <en>{Kazushi}\n"All right!"
-<es>
+<es>{Kazushi}\n"¡Entendido!"
 
 @721
 <en>{Appo-}\n"I can't wait to see the result!"
-<es>
+<es>{Appo-}\n"¡Estoy impaciente por ver el resultado!"
 
 @722
 <en>{Daigo}\n"Put these in here?"
-<es>
+<es>{Daigo}\n"¿Poner estas aquí?"
 
 @726
 <en>{Haruka}\n"Yep, mix those two in the flask."
-<es>
+<es>{Haruka}\n"Sip, mézclalos en el recipiente."
 
 @730
 <en>{Pierre}\n"What do we do with the flower?"
-<es>
+<es>{Pierre}\n"¿Y qué hacemos con la flor?"
 
 @731
 <en>It's the flower works as a glue.
-<es>
+<es>Es la flor que funciona como pegamento.
 
 @735
 <en>{Mizuki}\n"We don't use that yet. You have put it in with a right timing."
-<es>
+<es>{Mizuki}\n"No la vamos a usar todavía. Hay que colocarla en el momento oportuno."
 
 @736
 <en>{Kazushi}\n"This is deep."
@@ -1062,11 +1073,11 @@
 
 @748
 <en>{Daigo}\n"That sounds scary."
-<es>
+<es>{Daigo}\n"Eso suena peliagudo."
 
 @752
 <en>{Pierre}\n"I like putting fire on a girl's heart."
-<es>
+<es>{Pierre}\n"A mí me gusta encender la llama del corazón de una chica."
 
 @756
 <en>{Appo-}\n"..................\nMe too!\nPierre, you stole my line!"
@@ -1074,7 +1085,7 @@
 
 @757
 <en>{Kazushi}\n"Hurry up, guys."
-<es>
+<es>{Kazushi}\n"Rápido, chicos."
 
 @762
 <en>They finally put on a fire on the stove.
@@ -1082,11 +1093,11 @@
 
 @765
 <en>{Haruka}\n"Little bit stronger."
-<es>
+<es>{Haruka}\n"Un poco más fuerte."
 
 @767
 <en>The magical liquid inside the flask start boiling.
-<es>
+<es>El líquido mágico del interior del recipiente está hirviendo.
 
 @772
 <en>{Pierre}\n"This is looking more and more like it."
@@ -1094,99 +1105,99 @@
 
 @773
 <en>{Haruka}\n"Let's put in the flower."
-<es>
+<es>{Haruka}\n"Introduzcamos la flor."
 
 @774
 <en>I picked up the flower and threw it in the flask.
-<es>
+<es>Recogí la flor y la introduje en el recipiente.
 
 @779
 <en>{Mei}\n"You will see three stages of changing. You'll know them by the color changes."
-<es>
+<es>{Mei}\n"Veréis tres estados de cambio. Lo sabréis por el cambio de color."
 
 @780
 <en>Everyone is paying attention to the flask as Miss Ibuki explains.
-<es>
+<es>Todos están atentos al recipiente mientras la señorita Ibuki lo explica.
 
 @784
 <en>{Daigo}\n"Oh......"
-<es>
+<es>{Daigo}\n"Oh..."
 
 @785
 <en>Pink liquid starts changing into black.
-<es>
+<es>El líquido rosa empieza a hacerse negro.
 
 @789
 <en>{Mei}\n"Now pay attention, this is when you need to adjust the temperature."
-<es>
+<es>{Mei}\n"Ahora prestad atención. Ahí es cuando tenéis que ajustar la temperatura."
 
 @790
 <en>We need to change the temperature as we see the change in colors.
-<es>
+<es>Tenemos que cambiar la temperatura conforme veamos los cambios de color.
 
 @791
 <en>{Mei}\n"One mistake can totally alter the result, so pay attention class!"
-<es>
+<es>{Mei}\n"Un pequeño error puede alterar por completo el resultado, ¡así que prestad todos atención!"
 
 @792
 <en>{Mei}\n"Everytime we have an experiment, there is a chance of new discovery, class."
-<es>
+<es>{Mei}\n"Cada vez que hacemos un experimento, existe la posibilidad de hacer un descubrimiento nuevo."
 
 @798
 <en>{Pierre}\n"That's exciting.\nwe might come up with a new discovery."
-<es>
+<es>{Pierre}\n"Qué emocionante.\nHasta podríamos acabar descubriendo algo nuevo."
 
 @799
 <en>{Ran}\n"What if we find a cure for cancer! We could be rich!"
-<es>
+<es>{Ran}\n"¿Y si descubrimos la cura para el cancer? ¡Nos haríamos ricos!"
 
 @803
 <en>{Mizuki}\n"There she goes about money again."
-<es>
+<es>{Mizuki}\n"Ya estamos otra vez con el dinero."
 
 @807
 <en>{Appo-}\n"It's her dream."
-<es>
+<es>{Appo-}\n"Es su sueño."
 
 @811
 <en>{Daigo}\n"But Miss Ibuki already knows what we are making, right?"
-<es>
+<es>{Daigo}\n"Pero la señorita Ibuki ya sabe lo que estamos haciendo, ¿n?"
 
 @812
 <en>{Kazushi}\n"Well, this is our first time, she had to make it easy."
-<es>
+<es>{Kazushi}\n"Bueno, esta es nuestra primera vez, tiene que ponérnoslo fácil."
 
 @815
 <en>{Appo-}\n"That's no fun.\nWhy don't we putting in something extra."
-<es>
+<es>{Appo-}\n"Eso no es divertido.\n¿Por qué no le ponemos algún extra?"
 
 @818
 <en>Appo- whispers to us.
-<es>
+<es>Nos susurra Appo-.
 
 @819
 <en>{Daigo}\n"We shouldn't mess around today."
-<es>
+<es>{Daigo}\n"No deberíamos liarla hoy."
 
 @823
 <en>{Pierre}\n""Boys be ambitious"right?\nCome on guys, let's do it!"
-<es>
+<es>{Pierre}\n""Los chicos son ambiciosos" ¿no?\nVenga chicos, ¡hagámoslo!"
 
 @824
 <en>{Appo-}\n"Let's be a man!"
-<es>
+<es>{Appo-}\n"¡Seamos hombres!"
 
 @828
 <en>{Daigo}\n"That's right. I need to be a man. I want my virginity to go away by the end of this year."
-<es>
+<es>{Daigo}\n"Sí. Tengo que ser un hombre. Me gustaría acabar con mi virginidad antes de que acabe el año."
 
 @829
 <en>{Kazushi}\n"Me, too."
-<es>
+<es>{Kazushi}\n"Y yo."
 
 @833
 <en>{Pierre}\n"That's easy.\nJust don't listen to what they say."
-<es>
+<es>{Pierre}\n"Eso es fácil.\nLimitemonos a no escuchar lo que dicen."
 
 @834
 <en>{Appo-}\n"It doesn't matter what era it is. The outlaws always get more weman."
@@ -1194,7 +1205,7 @@
 
 @835
 <en>{Kazushi}\n"That's so true."
-<es>
+<es>{Kazushi}\n"Una verdad como un templo."
 
 @839
 <en>{Daigo}\n"I'll go off the rules!\nI'll go off the rules for getting a woman!"
@@ -1202,15 +1213,15 @@
 
 @843
 <en>{Pierre}\n"That's my boys-"
-<es>
+<es>{Pierre}\n"¡Esos son mis chicos!"
 
 @844
 <en>{Kazushi}\n"What should we mix?"
-<es>
+<es>{Kazushi}\n"¿Qué deberíamos mezclar?"
 
 @845
 <en>{Appo-}\n"What do we have?"
-<es>
+<es>{Appo-}\n"¿Qué es lo que tenemos?"
 
 @848
 <en>We looked around, but we coulcn't find anything.
