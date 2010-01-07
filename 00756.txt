@@ -2,35 +2,35 @@
 
 @8
 <en>{Kazushi}\n"Can I ask you a question?"
-<es>
+<es>{Kazushi}\n"¿Puedo hacerte una pregunta?"
 
 @11
 <en>{Mei}\n"Sure. What is it?"
-<es>
+<es>{Mei}\n"Claro. ¿El qué?"
 
 @12
 <en>{Kazushi}\n"Is there anything you want now?"
-<es>
+<es>{Kazushi}\n"¿Hay alguna cosa que quieras ahora?"
 
 @15
 <en>{Mei}\n"Nothing particulary"
-<es>
+<es>{Mei}\n"Nada en particular."
 
 @16
 <en>That was fast.
-<es>
+<es>Qué rapidez.
 
 @17
 <en>{Kazushi}\n"Nothing?"
-<es>
+<es>{Kazushi}\n"¿Nada?"
 
 @18
 <en>{Mei}\n"Why are you asking me this?"
-<es>
+<es>{Mei}\n"¿Por qué me lo preguntas?"
 
 @19
 <en>I was hoping she would give us good ideas.
-<es>
+<es>Esperaba que nos pudiese dar alguna buena idea.
 
 @20
 <en>{Kazushi}\n"Nothing? Brand bags or jewerlys?"
@@ -38,117 +38,119 @@
 
 @23
 <en>{Mei}\n"I'm not into those stuff."
-<es>
+<es>{Mei}\n"No me van esas cosas."
 
 @24
 <en>{Kazushi}\n"I see......"
-<es>
+<es>{Kazushi}\n"Ya veo..."
 
 @27
+# Soy una firme creyente de que las cosas materiales nunca satisfacen el corazón.
+# Creo firmemente en que las cosas materiales no pueden satisfacer el corazón.
 <en>{Mei}\n"I'm a big believer that material stuff never satisfy your heart."
-<es>
+<es>{Mei}\n"Creo firmemente en que las cosas materiales no pueden satisfacer el corazón."
 
 @28
 <en>{Kazushi}\n"All right......"
-<es>
+<es>{Kazushi}\n"Está bien..."
 
 @29
 <en>She could be a nun.
-<es>
+<es>Podría hacerse monja.
 
 @30
 <en>Opps, I'm here to get some good ideas.
-<es>
+<es>Ups. Estoy aquí para conseguir alguna buena idea.
 
 @31
 <en>{Kazushi}\n"It doesn't have to be materials, it could be spiritual, too."
-<es>
+<es>{Kazushi}\n"No tiene por qué ser algo material. Puede ser también algo espiritual."
 
 @34
 <en>{Mei}\n"Let's see......"
-<es>
+<es>{Mei}\n"Veamos..."
 
 @35
 <en>{Kazushi}\n"Anything?"
-<es>
+<es>{Kazushi}\n"¿Alguna cosa?"
 
 @36
 <en>{Mei}\n".................."
-<es>
+<es>{Mei}\n"..."
 
 @39
 <en>{Mei}\n"......I'm sorry. It's not something you can receive from somebody."
-<es>
+<es>{Mei}\n"Lo siento... No es algo que pueda recibirse de alguien."
 
 @40
 <en>{Kazushi}\n"What do you mean by that?"
-<es>
+<es>{Kazushi}\n"¿A qué te refieres con eso?"
 
 @41
 <en>{Mei}\n"No, nothing. I'm sorry I could only give you boring answers."
-<es>
+<es>{Mei}\n"No, nada. Siento no poder darte otra cosa que respuestas aburridas."
 
 @42
 <en>{Kazushi}\n"......no. I think you're terrific."
-<es>
+<es>{Kazushi}\n"No... Creo que eres estupenda."
 
 @45
 <en>{Mei}\n"Thanks,\nyou're terrific, too."
-<es>
+<es>{Mei}\n"Gracias,\nyo también creo que tu eres estupendo."
 
 @46
 <en>{Kazushi}\n"Thanks......"
-<es>
+<es>{Kazushi}\n"Gracias..."
 
 @47
 <en>Oh no, I can feel my face is turning all red.
-<es>
+<es>Oh, no. Creo que me he puesto rojo como un tomate.
 
 @48
 <en>I think she's truly a good person.
-<es>
+<es>De verdad pienso que es una buena persona.
 
 @49
 <en>I wonder what she meant earlier.
-<es>
+<es>Me pregunto a qué se refería con lo de antes.
 
 @52
 <en>{Mei}\n"Why are you asking me this?\nWere you going to give me a present?"
-<es>
+<es>{Mei}\n"¿Por qué me preguntas eso?\n¿Ibas a hacerme un regalo?"
 
 @53
 <en>{Kazushi}\n"I'm going to use it as a reference."
-<es>
+<es>{Kazushi}\n"Voy a usarlo como referencia."
 
 @56
 <en>{Mei}\n"You made a girlfriend?"
-<es>
+<es>{Mei}\n"¿Te has echado novia?"
 
 @57
 <en>{Kazushi}\n"No! it's nothing like that."
-<es>
+<es>{Kazushi}\n"¡No! No es eso."
 
 @60
 <en>{Mei}\n"I tell you what, it's not what you get that makes you happy."
-<es>
+<es>{Mei}\n"Te diré una cosa: No es lo que recibes lo que te hace feliz."
 
 @63
 <en>{Mei}\n"It's who you get it from."
-<es>
+<es>{Mei}\n"Sino quién es quien te lo da."
 
 @64
 <en>{Kazushi}\n"I see."
-<es>
+<es>{Kazushi}\n"Ya veo."
 
 @65
 <en>Only a good person like her would think that way.
-<es>
+<es>Solo una buena persona como ella podría pensar así.
 
 @66
 <en>She's truly a good person.
-<es>
+<es>Es realmente una buena persna.
 
 @67
 <en>......although, she didn't give me any good ideas.
-<es>
+<es>Aunque no me ha dado ninguna buena idea.
 

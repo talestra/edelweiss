@@ -2,15 +2,15 @@
 
 @5
 <en>{Kazushi}\n"She didn't give me any good ideas."
-<es>
+<es>{Kazushi}\n"No me ha dado ninguna buena idea."
 
 @8
 <en>{Appo-}\n"Are you serious?"
-<es>
+<es>{Appo-}\n"¿En serio?"
 
 @9
 <en>{Kazushi}\n"Sorry guys."
-<es>
+<es>{Kazushi}\n"Lo siento chicos."
 
 @12
 <en>{Appo-}\n"Daigo, can you make Prada's or LV's?"
@@ -18,127 +18,127 @@
 
 @17
 <en>{Daigo}\n"Impossible."
-<es>
+<es>{Daigo}\n"Imposible."
 
 @24
 <en>{Pierre}\n"......how about flowers?"
-<es>
+<es>{Pierre}\n"¿Y flores...?"
 
 @27
 <en>{Appo-}\n"Flowers? You think they would like flowers?"
-<es>
+<es>{Appo-}\n"¿Flores? ¿Creéis que les gustarían flores?"
 
 @28
 <en>{Kazushi}\n"That's a good idea!\nWhen you watch dramas in TV, they are getting flowers!"
-<es>
+<es>{Kazushi}\n"¡Es una buena idea!\n¡En los doramas de la tele, siempre les dan flores!"
 
 @31
 <en>{Daigo}\n"We can pick them up just about anywhere right?"
-<es>
+<es>{Daigo}\n"Las podemos coger de cualquier sitio, ¿no?"
 
 @32
 <en>{Kazushi}\n"Flowers............oh yeah!"
-<es>
+<es>{Kazushi}\n"Flores... ¡Pues claro!"
 
 @39
 <en>I remember where we can pick up beautiful flowers.
-<es>
+<es>Sé dónde podemos conseguir flores bonitas.
 
 @40
 <en>It's where I met Haruka.
-<es>
+<es>Donde conocí a Haruka.
 
 @51
 <en>{Kazushi}\n"I know a good spot!\nThey were beautiful. I'm sure all the girls would love them."
-<es>
+<es>{Kazushi}\n"¡Sé un buen sitio!\nEran preciosas. Estoy convencido de que les encantarían a todas las chicas."
 
 @54
 <en>{Appo-}\n"Show us where they are!"
-<es>
+<es>{Appo-}\n"¡Enséñanos el lugar!"
 
 @55
 <en>{Pierre}\n"Hold on. It's late at night. I don't want to walk around at night in this island."
-<es>
+<es>{Pierre}\n"Esperad. Es ya de noche, y muy tarde. No me gustaría ir por esta isla de noche."
 
 @56
 <en>{Daigo}\n"Besides, they won't stay fresh till tomorrow."
-<es>
+<es>{Daigo}\n"Además, no se mantendrían frescas hasta mañana."
 
 @59
 <en>{Appo-}\n"Then let's go tomorrow right before the party starts!"
-<es>
+<es>{Appo-}\n"Entonces, ¡vayamos mañana antes de que empiece la fiesta!"
 
 @62
 <en>{Pierre}\n"Are you sure it's enough for all the girls?"
-<es>
+<es>{Pierre}\n"¿Creéis que será suficiente para todas las chicas?"
 
 @63
 <en>{Kazushi}\n"You don't have to worry about that."
-<es>
+<es>{Kazushi}\n"No tienes que preocuparte por eso."
 
 @66
 <en>{Appo-}\n"I can't wait to see how much girls would appreciate it!"
-<es>
+<es>{Appo-}\n"¡No puedo esperar a ver cuánto lo apreciarán las chicas!"
 
 @67
 <en>{Pierre}\n"Guys, we can't tell this to anyome till tomorrow, O.K?!"
-<es>
+<es>{Pierre}\n"Chicos. No se lo podemos contar a nadie hasta mañana, ¿¡vale?!"
 
 @68
 <en>Everyone's agreed and seemed excited.
-<es>
+<es>Todos asienten emocionados.
 
 @75
 <en>{Principal}\n"We are here to host a welcome party for all of our new friends!"
-<es>
+<es>{Directora}\n"¡Estamos aquí todos presentes para celebrar una fiesta de bienvenida a nuestros nuevos amigos!"
 
 @76
 <en>Our principal kicks off the party with welcome speech.
-<es>
+<es>Nuestra directora da comienzo a la fiesta con un discurso de bienvenida.
 
 @79
 <en>{Principal}\n"There is plenty food and drinks. There is alchol drinks, too, but don't drink too much, O.K?"
-<es>
+<es>{Directora}\n"Hay comida y bebidas en abundancia. También hay bebidas alcoholicas, pero no bebáis mucho, ¿vale?"
 
 @83
 <en>{Kazushi}\n"She meant liqueurs?"
-<es>
+<es>{Kazushi}\n"¿Se refiere a licor?"
 
 @84
 <en>{Pierre}\n"I think so."
-<es>
+<es>{Pierre}\n"Eso parece."
 
 @85
 <en>The girls stay normal. It seems like it's not unusual for students to drink alchol here.
-<es>
+<es>Las chicas permanecen impasivas. Parece que no es algo extraño por aquí que los estudiantes tomen alcohol.
 
 @91
 <en>{Appo-}\n"Wow. They drink alchol at shool party?"
-<es>
+<es>{Appo-}\n"Guau. ¿Beben alcohol en las fiestas de la escuela?"
 
 @92
 <en>{Daigo}\n"Is it legal?"
-<es>
+<es>{Daigo}\n"¿Y es legal?"
 
 @97
 <en>{Mei}\n"This is alchemy school. It's not an ordinary school."
-<es>
+<es>{Mei}\n"Esta es una escuela de alquimia, no una escuela normal."
 
 @98
 <en>Miss. Ibuki thinks it's fine.
-<es>
+<es>La señorita Ibuki piensa que está bien.
 
 @99
 <en>{Mei}\n"The process of making alchol drinks is very similar to that of alchemy."
-<es>
+<es>{Mei}\n"El proceso de fabricación de las bebidas acoholicas es similar al de la alquimia."
 
 @100
 <en>{Kazushi}\n"Oh, that's why."
-<es>
+<es>{Kazushi}\n"Ah, así que es por eso."
 
 @106
 <en>{Pierre}\n"Then we should feel free to drink-"
-<es>
+<es>{Pierre}\n"Entonces podemos sentirnos libres de beber..."
 
 @107
 <en>{Daigo}\n"Guys remember, we are here to wipe off our disgrace."
@@ -146,7 +146,7 @@
 
 @108
 <en>{Kazushi}\n"I'm more worried about you, Daigo. You have bad drinking habit."
-<es>
+<es>{Kazushi}\n"Yo estoy más preocupado por ti, Daigo. Tienes un hábito bebedor bastante chungo."
 
 @111
 <en>Everyone has galss in their hands getting ready for cheers.
@@ -154,27 +154,27 @@
 
 @114
 <en>{Principal}\n"Everyone cheers!"
-<es>
+<es>{Directora}\n"¡Brindemos todos!"
 
 @117
 <en>{Everybody}\n"Cheers!"
-<es>
+<es>{Todos}\n"¡Salud!"
 
 @118
 <en>Evryone's touching each others glasses.
-<es>
+<es>Todos entrechocan las copas de los demás.
 
 @122
 <en>{Pierre}\n"Cheers!\ncutie."
-<es>
+<es>{Pierre}\n"¡Salud\n, preciosa!."
 
 @123
 <en>{Girl A}\n"Cheers-"
-<es>
+<es>{Chica A}\n"¡Salud!"
 
 @125
 <en>Cheers has the power to break ice even with strangers.
-<es>
+<es>Los brindis tienen el poder de romper el hielo hasta con extraños.
 
 @130
 <en>{Rei}\n"I don't like how they think they are welcomed."
@@ -182,77 +182,78 @@
 
 @131
 <en>{Hu-sen}\n"We'll leave them alone today."
-<es>
+<es>{Hu-sen}\n"Les dejaremos estar por hoy."
 
 @132
 <en>Even the mean girls leaves us alone, because there is principal.
-<es>
+<es>Hasta las chicas malas nos dejan tranquilos porque está la directora.
 
 @139
 <en>{Appo-}\n"I'm gonna say hi to the girls!"
-<es>
+<es>{Appo-}\n"¡Voy a saludar a las chicas!"
 
 @140
 <en>{Pierre}\n"I'll go check out the girl from the next class room!"
-<es>
+<es>{Pierre}\n"¡Voy a ver a la chica de la otra clase!"
 
 @143
 <en>{Appo-}\n"See you guys later."
-<es>
+<es>{Appo-}\n"Nos vemos luego chicos."
 
 @146
 <en>Pierre and Appo- is off to have a good start.
-<es>
+<es>Pierre y Appo- se han ido a tener un buen comienzo.
 
 @147
 <en>{Kazushi}\n"Are you staying here, Daigo?"
-<es>
+<es>{Kazushi}\n"¿Te quedas aquí, Daigo?"
 
 @150
+# Revisar.
 <en>{Daigo}\n"I need to get drunk a little before I make my moves."
-<es>
+<es>{Daigo}\n"Tengo que beber un poco y ponerme a tono antes de hacer ningún movimiento."
 
 @151
 <en>He already seems pretty drunk to me.
-<es>
+<es>Pues a mí ya me parece bastante borracho.
 
 @152
 <en>Unlike his big body, he is so shy. He needs to get drunk to talk to a girl.
-<es>
+<es>Pese a su cuerpo grande, es muy vergonzoso. Tiene que estar borracho para ser capaz de hablar con una chica.
 
 @153
 <en>{Kazushi}\n"Don't drink too much. O.k? It's hard to stop you when you start getting wild."
-<es>
+<es>{Kazushi}\n"No bebas demasiado, ¿vale? Resulta difícil pararte cuando te pones cafre por la borrachera."
 
 @154
 <en>{Daigo}\n"I, I k, kk k-n-o-w......"
-<es>
+<es>{Daigo}\n"Y-Ya seeee..."
 
 @155
 <en>{Kazushi}\n"Are you sure you're O.K??"
-<es>
+<es>{Kazushi}\n"¿¿Estás seguro de que estás bien??"
 
 @157
 <en>{Kazushi}\n"Well, what should I do?"
-<es>
+<es>{Kazushi}\n"En fin. ¿Qué debería hacer?"
 
 @158
 <en>I looked around.
-<es>
+<es>Eché un vistazo.
 
 @159
 <en>{Kazushi}\n"Wow......"
-<es>
+<es>{Kazushi}\n"Guau..."
 
 @160
 <en>I was surprised to see boys are doing good job getting mingled with girls.
-<es>
+<es>Me sorprendía ver que los chicos están haciendo un buen trabajo hablando con las chicas.
 
 @161
 <en>{Kazushi}\n"I'm becoming a loner here!"
-<es>
+<es>{Kazushi}\n"¡Estoy plantando raíces aquí!"
 
 @162
 <en>I need to look for a girl who would talk to me.
-<es>
+<es>Tengo que encontrar a una chica que vaya a hablarme.
 

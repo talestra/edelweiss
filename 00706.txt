@@ -2,47 +2,47 @@
 
 @7
 <en>{Teacher Yagami}\n"I will sure put this question on your next test."
-<es>
+<es>{Profesor Yagami}\n"Podéis estar seguros de que pondré esta pregunta en el próximo examen."
 
 @13
 <en>{Ran}\n"Wow!\nThanks for telling us!"
-<es>
+<es>{Ran}\n"¡Gaua!\n¡Gracias por decirlo!"
 
 @14
 <en>{Sakura}\n"I like him. He's so open......"
-<es>
+<es>{Sakura}\n"Me gusta. Es tan abierto..."
 
 @15
 <en>However, there is still a big gap between girls and boys.
-<es>
+<es>Aún así, persiste un gran vacío entre los chicos y las chicas.
 
 @20
 <en>{Mizuki}\n".................."
-<es>
+<es>{Mizuki}\n"..."
 
 @21
 <en>The biggest gap between girls and boys would be right here, between me and Mizuki.
-<es>
+<es>El mayor vacío entre los chicos y las chicas debe estar aquí, entre mí y Mizuki.
 
 @22
 <en>I haven't talked to her for a while.
-<es>
+<es>Hace tiempo que no hablo con ella.
 
 @28
 <en>{Teacher Yagami}\n"All right, that's it for today. Anybody who doesn't study for the next test will be punished!"
-<es>
+<es>{Profesor Yagami}\n"Está bien, eso es todo por hoy. ¡Y cualquiera que no estudie para el siguiente examen será castigado!"
 
 @34
 <en>{Rei}\n"I don't mind him punishing me......"
-<es>
+<es>{Rei}\n"No me importaría que él me castigase..."
 
 @35
 <en>{Hu-sen}\n"Is he your type?"
-<es>
+<es>{Hu-sen}\n"¿Es tu tipo?"
 
 @36
 <en>{Rei}\n"I like man who looks manly."
-<es>
+<es>{Rei}\n"Me gustan los hombres varoniles."
 
 @37
 <en>Teacher Yagami recognized that Rei looks at him suductively.
@@ -54,99 +54,99 @@
 
 @50
 <en>Teacher Yagami leaves from class room quickly. Some girls are even following him. He's getting really popular.
-<es>
+<es>El profesor Yagami sale de clase rápidamente. Algunas chicas hasta le siguen. Se está volviendo muy popular.
 
 @51
 <en>On the other side......
-<es>
+<es>Por otro lado...
 
 @54
 <en>{Mizuki}\n".................."
-<es>
+<es>{Mizuki}\n"..."
 
 @55
 <en>She seems to be ignoring me.
-<es>
+<es>Ella parece que me ignora.
 
 @56
 <en>What did I do wrong?
-<es>
+<es>¿Qué he hecho mal?
 
 @57
 <en>{Kazushi}\n".................."
-<es>
+<es>{Kazushi}\n"..."
 
 @58
 <en>I can't think of anything!\nI'll just ask her!
-<es>
+<es>¡Soy incapaz de pensar en otra cosa!\n¡Le preguntaré!
 
 @59
 <en>{Kazushi}\n"Hey, Mizuki......"
-<es>
+<es>{Kazushi}\n"Oye, Mizuki..."
 
 @62
 <en>{Mizuki}\n"What do you want!?"
-<es>
+<es>{Mizuki}\n"¿¡Qué quieres!?"
 
 @63
 <en>{Kazushi}\n"I just......"
-<es>
+<es>{Kazushi}\n"Solo..."
 
 @64
 <en>Why is she so upset with me?
-<es>
+<es>¿Por qué está tan enfadada conmigo?
 
 @65
 <en>{Kazushi}\n"Why are you ignoring me?"
-<es>
+<es>{Kazushi}\n"¿Por qué me ignoras?"
 
 @68
 <en>{Mizuki}\n"I'm not ignoring you. This is how I am."
-<es>
+<es>{Mizuki}\n"No te ignoro. Yo soy así."
 
 @69
 <en>I don't believe that.
-<es>
+<es>No me lo creo.
 
 @70
 <en>Our desks are attached together, but she sits as far as she can from me.
-<es>
+<es>Nuestros escritorios están juntos, pero se sienta tan lejos de mí como puede.
 
 @71
 <en>She sometimes looks at me to see if I'm looking at her. What does she want?
-<es>
+<es>A veces me mira de reojo para ver si la estoy mirando. ¿Qué es lo que quiere?
 
 @78
 <en>{Sakura}\n"Mizuki, you don't like sitting next to Kazushi?"
-<es>
+<es>{Sakura}\n"Mizuki, ¿no te gusta sentarte junto a Kazushi?"
 
 @79
 <en>Even Sakura makes fun of her ignoring me.
-<es>
+<es>Hasta Sakura se burla de que me ignore.
 
 @82
 <en>{Mizuki}\n"It's not that."
-<es>
+<es>{Mizuki}\n"No es eso."
 
 @83
 <en>{Kazushi}\n"You can tell me if you have a problem with me."
-<es>
+<es>{Kazushi}\n"Si tienes algún problema conmigo, puedes decírmelo."
 
 @86
 <en>{Mizuki}\n"Did you do something to owe an appology?"
-<es>
+<es>{Mizuki}\n"¿Es que has hecho algo que requiera una disculpa?"
 
 @87
 <en>{Kazushi}\n"I don't think so."
-<es>
+<es>{Kazushi}\n"No lo creo."
 
 @88
 <en>I don't think we talked enough to upset each other.
-<es>
+<es>No creo que hayamos hablado lo suficiente para enfadarnos.
 
 @91
 <en>{Mizuki}\n"Then you don't have to worry so much."
-<es>
+<es>{Mizuki}\n"Entonces no tienes por qué preocuparte tanto."
 
 @92
 <en>{Kazushi}\n"Are you sure we are good?"
@@ -158,7 +158,7 @@
 
 @96
 <en>{Kazushi}\n"You think so too, right?"
-<es>
+<es>{Kazushi}\n"¿Tu también lo piensas?"
 
 @99
 <en>{Sakura}\n"Deffintitely."
@@ -170,11 +170,11 @@
 
 @103
 <en>{Mizuki}\n"When did you two become friends?"
-<es>
+<es>{Mizuki}\n"¿Desde cuando sois amigos?"
 
 @106
 <en>{Sakura}\n"We both have same letter in our last name."
-<es>
+<es>{Sakura}\n"Ambos tenemos el mismo carácter en el apellido."
 
 @107
 <en>{Kazushi}\n"You're right! We have good chemistry."
@@ -186,7 +186,7 @@
 
 @111
 <en>{Kazushi}\n"Sure!"
-<es>
+<es>{Kazushi}\n"¡Claro!"
 
 @112
 <en>{Sakura}\n"I've always wanted to have a boy "buddy"."
@@ -194,19 +194,20 @@
 
 @113
 <en>She's so friendly.
-<es>
+<es>Es muy amigable.
 
 @114
 <en>She's one of the only few female friends I made since I got here.
-<es>
+<es>Ella es una de las pocas amigas que tengo desde que llegué aquí.
 
 @115
 <en>I look at her as a friend, nothing more.
-<es>
+<es>Aunque la veo solo como amiga, nada más.
 
 @118
+# Hay que asegurarse que se refiera a novio y no a "male friend".
 <en>{Mizuki}\n"I didn't know you are good at making boyfriends."
-<es>
+<es>{Mizuki}\n"No sabía que se te diese tan bien echarte novio."
 
 @121
 <en>{Sakura}\n"I went to a coed junior high, remember?"
@@ -226,31 +227,31 @@
 
 @131
 <en>{Mizuki}\n"What are you saying......?"
-<es>
+<es>{Mizuki}\n"¿Qué estás diciendo...?"
 
 @132
 <en>{Kazushi}\n"Are you lesbian!?"
-<es>
+<es>{Kazushi}\n"¿¡Eres lesbiana!?"
 
 @135
 <en>{Mizuki}\n"Who said I am!?"
-<es>
+<es>{Mizuki}\n"¿¡Quién ha dicho que lo fuera!?"
 
 @136
 <en>{Kazushi}\n"It's such a waste that you're a lesbian. You're pretty."
-<es>
+<es>{Kazushi}\n"Es una lástima que seas lesbiana. Eres muy guapa."
 
 @139
 <en>{Mizuki}\n"!!"
-<es>
+<es>{Mizuki}\n"¡¡...!!"
 
 @142
 <en>{Sakura}\n"He thinks you're pretty-."
-<es>
+<es>{Sakura}\n"Cree que eres guapa."
 
 @145
 <en>{Mizuki}\n"Shut up!"
-<es>
+<es>{Mizuki}\n"¡Calla!"
 
 @146
 <en>{Kazushi}\n"If you ever decide to go straight, I can introduce you some good looking guys, O.K?"
@@ -258,15 +259,15 @@
 
 @147
 <en>{Mizuki}\n"I don't need that!!"
-<es>
+<es>{Mizuki}\n"¡¡No necesito eso!!"
 
 @152
 <en>She got so shy and left the class room.
-<es>
+<es>Se ha puesto como un tomate y se ha salido de clase.
 
 @153
 <en>{Kazushi}\n"Did I say something wrong?"
-<es>
+<es>{Kazushi}\n"¿He dicho algo malo?"
 
 @156
 <en>{Sakura}\n"You shouldn't have made her so aware of herself-"
@@ -274,87 +275,88 @@
 
 @157
 <en>Sakura's laughing for some reason.
-<es>
+<es>Por algún motivo, Sakura se está riendo.
 
 @158
 <en>{Kazushi}\n"I didn't make her upset, did I?"
-<es>
+<es>{Kazushi}\n"¿He hecho que se enfade?"
 
 @161
 <en>{Sakura}\n"You need to learn how to read girls' mind. Maybe you said something wrong to her before."
-<es>
+<es>{Sakura}\n"Deberías aprender a leer el pensamiento de las chicas. Quizá dijiste algo malo antes."
 
 @162
 <en>{Kazushi}\n"You think so?"
-<es>
+<es>{Kazushi}\n"¿Eso crees?"
 
 @163
 <en>I must have. Otherwise, I don't understand why she ignores me.
-<es>
+<es>Debe ser. Porque si no, no entiendo por qué me ignora.
 
 @164
 <en>{Kazushi}\n"I can't leave this matter alone, because we are sitting next to each other."
-<es>
+<es>{Kazushi}\n"No puedo ignorar este asunto porque nos sentamos al lado."
 
 @172
 <en>{Appo-}\n"You worry too much."
-<es>
+<es>{Appo-}\n"Te preocupas demasiado."
 
 @173
 <en>Mu buddied came to see me.
-<es>
+<es>Mis colegas han venido a verme.
 
 @174
 <en>{Kazushi}\n"Do you guys have a good idea for me to get along with that girl?"
-<es>
+<es>{Kazushi}\n"¿Alguna sugerencia para que pueda llevarme bien con esa chica?"
 
 @177
 <en>{Pierre}\n"Think, what's tomorrow?"
-<es>
+<es>{Pierre}\n"Piensa. ¿Qué es mañana?"
 
 @178
 <en>{Kazushi}\n"Tomorrow?"
-<es>
+<es>{Kazushi}\n"¿Mañana?"
 
 @179
 <en>Tomorrow is Saturday......
-<es>
+<es>Mañana es sábado...
 
 @180
 <en>{Kazushi}\n"Tomorrow is half day."
-<es>
+<es>{Kazushi}\n"Mañana solo vamos por la mañana."
 
 @181
 <en>{Appo-}\n"That's right, and what's in the afternoon?"
-<es>
+<es>{Appo-}\n"Sí. ¿Y qué pasa por la tarde?"
 
 @182
 <en>{Kazushi}\n"Afternoon?"
-<es>
+<es>{Kazushi}\n"¿Por la tarde?"
 
 @185
 <en>{Pierre}\n"You forgot?"
-<es>
+<es>{Pierre}\n"¿Te has olvidado?"
 
 @188
 <en>{Daigo}\n"Hey guys, what should I wear?"
-<es>
+<es>{Daigo}\n"Ey chicos, ¿qué debería ponerme?"
 
 @191
+# ¿Ropa casual?
 <en>{Appo-}\n"Just wear casual clothes."
-<es>
+<es>{Appo-}\n"Lleva ropa normal."
 
 @194
 <en>{Pierre}\n"That's right, we go casual!"
-<es>
+<es>{Pierre}\n"Eso, ¡iremos con ropa normal!"
 
 @195
 <en>My guys are so excited. What's tomorrow?
-<es>
+<es>Mis colegas están súper emocionados. ¿Qué pasa mañana?
 
 @196
 <en>{Kazushi}\n"......I give up.\nJust tell me what's going on tomorrow."
-<es>
+<es>{Kazushi}\n"Me rindo...\nDecidme ya qué es lo que pasa mañana."
 
 @203
 <en>They look at me with pity look.
@@ -362,15 +364,15 @@
 
 @204
 <en>{Appo-}\n"Did you seriously forget?"
-<es>
+<es>{Appo-}\n"¿De verdad que te has olvidado?"
 
 @205
 <en>{Kazushi}\n"Guys, what is it?"
-<es>
+<es>{Kazushi}\n"Chicos, ¿qué pasa?"
 
 @208
 <en>{Pierre}\n"I can't believe you forgot!"
-<es>
+<es>{Pierre}\n"¡No puedo creer que te hayas olvidado!"
 
 @211
 <en>{Daigo}\n"That's why we need to look after him."
@@ -378,83 +380,83 @@
 
 @212
 <en>They seriously think I'm an idiot?
-<es>
+<es>¿Es que se piensan que soy subnormal de verdad?
 
 @218
 <en>{Sakura}\n"Even I was looking forward to it, too."
-<es>
+<es>{Sakura}\n"Hasta yo estaba ansiosa de que llegase."
 
 @219
 <en>{Kazushi}\n"You, too?"
-<es>
+<es>{Kazushi}\n"¿Tú también?"
 
 @224
 <en>{Pierre}\n"Sakura, please tell this idiot what's going on tomorrow."
-<es>
+<es>{Pierre}\n"Sakura, por favor, dile a este imbécil que es lo que pasa mañana."
 
 @227
 <en>{Sakura}\n"All right. Tomorrow, there is a welcome party for you boys."
-<es>
+<es>{Sakura}\n"Vale. Mañana hay una fiesta de bienvenida para vosotros, chicos."
 
 @228
 <en>{Kazushi}\n"Welcome party?"
-<es>
+<es>{Kazushi}\n"¿Una fiesta de bienvenida?"
 
 @229
 <en>...............
-<es>
+<es>...
 
 @230
 <en>........................
-<es>
+<es>... ...
 
 @231
 <en>{Kazushi}\n"......oh yeah!"
-<es>
+<es>{Kazushi}\n"... ¡Ah, sí!"
 
 @235
 <en>{Appo-}\n"How could you forget?!!"
-<es>
+<es>{Appo-}\n"¡¡¿Cómo habías podido olvidarlo?!!"
 
 @236
 <en>I remember Miss. Ibuki was telling us about that.
-<es>
+<es>Recuerdo a la señorita Ibuki hablándonos sobre eso.
 
 @237
 <en>{Pierre}\n"You should know, girls love partying."
-<es>
+<es>{Pierre}\n"Deberías saber que a las chicas les encantan las fiestas."
 
 @240
 <en>{Appo-}\n"And they also like anniversaries...... the first date anniversary, the first kiss anniversary, the first sex anniversary.........."
-<es>
+<es>{Appo-}\n"Y también les encantan los aniversarios... el aniversario de la primera cita, el del primer beso, el de la primera relación sexual..."
 
 @241
 <en>{Kazushi}\n"That's like everything."
-<es>
+<es>{Kazushi}\n"Eso es como todo."
 
 @242
 <en>{Pierre}\n"They make every occasion an anniversary, and they'll hate you when you forget."
-<es>
+<es>{Pierre}\n"Convierten cualquier ocasión en un aniversario, y te odiarán por siempre si te olvidas."
 
 @243
 <en>{Kazushi}\n"Are you serious......?"
-<es>
+<es>{Kazushi}\n"¿Lo dices en serio...?"
 
 @247
 <en>{Daigo}\n"They love romance."
-<es>
+<es>{Daigo}\n"Aman el romance."
 
 @248
 <en>{Kazushi}\n"Even you knew that, Daigo......?"
-<es>
+<es>{Kazushi}\n"¿Hasta tú sabías eso, Daigo...?"
 
 @253
 <en>{Ran}\n"That's not all that true!"
-<es>
+<es>{Ran}\n"¡Eso no es verdad para todas!"
 
 @254
 <en>She thinks that doesn't apply to all the girls.
-<es>
+<es>Piensa que eso no aplica a todas las chicas.
 
 @255
 <en>{Ran}\n"I have yet to have met anybody like that."
@@ -462,19 +464,19 @@
 
 @260
 <en>{Appo-}\n"No! All the girls love anniversaries!"
-<es>
+<es>{Appo-}\n"¡No! ¡A todas las chicas les encantan los aniversarios!"
 
 @264
 <en>{Sakura}\n"I can't remember all the details."
-<es>
+<es>{Sakura}\n"No puedo recordar todos los detalles."
 
 @267
 <en>{Ran}\n"See. She's same with me."
-<es>
+<es>{Ran}\n"Véis. Ella es como yo."
 
 @268
 <en>Turns out to be that was some guys illusion.
-<es>
+<es>Resulta que era la imaginación de ciertos chicos.
 
 @269
 <en>{Kazushi}\n"You think we get to eat at the party?"
@@ -482,43 +484,43 @@
 
 @274
 <en>{Pierre}\n"Who cares about eating. We are going there to get some girls!"
-<es>
+<es>{Pierre}\n"A quién le importa la comida. ¡Vamos allí a por chicas!"
 
 @278
 <en>{Ran}\n"I think you guys are expecting way too much out of this."
-<es>
+<es>{Ran}\n"Creo que os estáis creando demasiadas expectativas de esto."
 
 @279
 <en>She looked sorry to tell us that.
-<es>
+<es>Parecía apenada por tener que decirnos eso.
 
 @280
 <en>{Ran}\n"Most girls are there just because it's a mandatory attendance."
-<es>
+<es>{Ran}\n"La mayoría de las chicas irán únicamente porque es de asistencia obligatoria."
 
 @285
 <en>{Appo-}\n"I wish you didn't tell me that!"
-<es>
+<es>{Appo-}\n"¡Ojalá no me hubieses dicho eso!"
 
 @288
 <en>{Ran}\n"I only said that so that you won't get severe damages."
-<es>
+<es>{Ran}\n"Solo os lo he dicho para que no acabéis realmente heridos."
 
 @291
 <en>{Appo-}\n"It's O.K to have a dream sometimes!"
-<es>
+<es>{Appo-}\n"¡No pasa nada por soñar de vez en cuando!"
 
 @295
 <en>{Pierre}\n"But maybe this event will trigger both boys and girls to get along a lot better in the future."
-<es>
+<es>{Pierre}\n"Pero quizá este evento haga que los chicos y las chicas se acaben llevando mejor más adelante."
 
 @296
 <en>{Ran}\n"You're right. I have a good idea for tomorrow."
-<es>
+<es>{Ran}\n"Tienes razón. Y se me ocurre una buena idea para mañana."
 
 @300
 <en>{Appo-}\n"What is that?"
-<es>
+<es>{Appo-}\n"¿Qué ocurre?"
 
 @303
 <en>{Ran}\n"Let me tell you boys what girls would love from the boys-!!"
@@ -526,23 +528,23 @@
 
 @310
 <en>{Pierre}\n"How much!? How much do you want!?"
-<es>
+<es>{Pierre}\n"¿¡Cuánto!? ¿¡Cuánto quieres!?"
 
 @311
 <en>{Kazushi}\n"Hold on."
-<es>
+<es>{Kazushi}\n"Para el carro."
 
 @312
 <en>I did want any help.
-<es>
+<es>Yo no quería ninguna ayuda.
 
 @317
 <en>{Ran}\n"What's wrong?\nDon't you want to be popular?"
-<es>
+<es>{Ran}\n"¿Qué pasa?\n¿Es que no quieres ser popular?"
 
 @318
 <en>{Kazushi}\n"This is something you should think by yourself."
-<es>
+<es>{Kazushi}\n"Esto es una de esas cosas que deberías pensar por ti mismo."
 
 @319
 <en>As of today, there is a big gap between boys and girls.
@@ -562,7 +564,7 @@
 
 @330
 <en>{Daigo}\n"Wait. I think Kazushi's right."
-<es>
+<es>{Daigo}\n"Espera. Creo que Kazushi tiene razón."
 
 @331
 <en>{Pierre}\n"Appo-, let's just listen to Kazushi this time and try to get along with girls from our own mind."
@@ -570,19 +572,20 @@
 
 @334
 <en>{Appo-}\n"All right."
-<es>
+<es>{Appo-}\n"Está bien."
 
 @335
 <en>Ran was looking at us interestingly.
-<es>
+<es>Ran nos miraba con interés.
 
 @341
+# Revisar.
 <en>{Ran}\n"You guys have weired team chemistry."
-<es>
+<es>{Ran}\n"Sois una mezcla de chicos muy rara."
 
 @346
 <en>{Daigo}\n"It's hard for a girl to understand."
-<es>
+<es>{Daigo}\n"Es algo difícil de entender para una chica."
 
 @347
 <en>{Kazushi}\n"All right. We wipe our disgrace by our way!"
@@ -594,51 +597,52 @@
 
 @353
 <en>{Ran}\n"Good luck."
-<es>
+<es>{Ran}\n"Buena suerte."
 
 @358
 <en>Here we are at strategy meeting.
-<es>
+<es>Aquí estamos; en una reunión estratégica.
 
 @365
 <en>{Daigo}\n"So, what we should do?"
-<es>
+<es>{Daigo}\n"Y bien, ¿qué deberíamos hacer?"
 
 @366
 <en>{Kazushi}\n"What would girls like?"
-<es>
+<es>{Kazushi}\n"¿Qué es lo que le gusta a las chicas?"
 
 @369
 <en>{Daigo}\n"Any idea, anyone?"
-<es>
+<es>{Daigo}\n"¿Alguna idea, alguien?"
 
 @372
+# Revisar.
 <en>{Pierre}\n"......how about proposing?"
-<es>
+<es>{Pierre}\n"... ¿Qué tal una declaración?"
 
 @373
 <en>{Kazushi}\n"We each need to go out with one of them to do that."
-<es>
+<es>{Kazushi}\n"Tenemos que quedar cada uno de nosotros con una chica y hacer eso."
 
 @376
 <en>{Pierre}\n"Girls like to cry......maybe we take them out from the party and go somewhere romantic."
-<es>
+<es>{Pierre}\n"A las chicas les gusta llorar... Quizá si las sacamos de la fiesta y las llevamos a algún sitio romántico."
 
 @377
 <en>{Appo-}\n"Where, th g-spot?"
-<es>
+<es>{Appo-}\n"¿Dónde? ¿Al punto 'G'?"
 
 @382
 <en>{Kazushi}\n"That's not a place, Appo-."
-<es>
+<es>{Kazushi}\n"Ahí no, Appo-."
 
 @385
 <en>{Appo-}\n"Girls cry in joy when you please their g-spot, I heard."
-<es>
+<es>{Appo-}\n"He oído que las chicas lloran del placer cuando vas al punto G."
 
 @386
 <en>{Daigo}\n"You read too much of that stuff, Appo-."
-<es>
+<es>{Daigo}\n"Tú lees demasiado de esas cosas, Appo-."
 
 @387
 <en>I know we have to do something to wipe off our disgrace, but I don't know how to do that.
@@ -646,19 +650,20 @@
 
 @390
 <en>{Appo-}\n"Hey pieere, You always say you know everything about girls, any ideas?"
-<es>
+<es>{Appo-}\n"Ey Pieere. Tú siempre dices saber todo sobre las chicas, ¿alguna idea?"
 
 @393
 <en>{Pierre}\n"......something girls would like......\na surprise?"
-<es>
+<es>{Pierre}\n"... Algo que le gustaría a las chicas...\n¿Una sorpresa?"
 
 @394
+# Revisar.
 <en>{Kazushi}\n"That's a good stuff?"
-<es>
+<es>{Kazushi}\n"¿Eso es algo bueno?"
 
 @397
 <en>{Appo-}\n"How about we dance naked?"
-<es>
+<es>{Appo-}\n"¿Y un baile desnudos?"
 
 @400
 <en>{Daigo}\n"That won't wipe off our disgrace."
@@ -666,23 +671,23 @@
 
 @403
 <en>{Pierre}\n"Not that kind of surprise.......how about presents?"
-<es>
+<es>{Pierre}\n"No ese tipo de sorpresas... ¿y regalos?"
 
 @408
 <en>{Boys}\n"Presents!!!"
-<es>
+<es>{Chicos}\n"¡¡¡Regalos!!!"
 
 @409
 <en>That was the best idea of the day.
-<es>
+<es>Esa fue la mejor idea del día.
 
 @410
 <en>{Kazushi}\n"Wait, I forgot I don't have any money."
-<es>
+<es>{Kazushi}\n"Esperad. He olvidado que no tengo dinero."
 
 @411
 <en>I can't even afford my lunch.
-<es>
+<es>No he podido ni permitirme la comida.
 
 @414
 <en>{Appo-}\n"If I think about it carefully, I don't think we can get anything they'd like in this island."
@@ -698,7 +703,7 @@
 
 @419
 <en>{Kazushi}\n"We can never afford that."
-<es>
+<es>{Kazushi}\n"No podemos permitirnos eso."
 
 @422
 <en>{Appo-}\n"Hey Daigo, can't you make big brand bags with your handy hands?"
@@ -706,33 +711,33 @@
 
 @425
 <en>{Daigo}\n"Impossible."
-<es>
+<es>{Daigo}\n"Imposible."
 
 @430
 <en>I thought we came up with a great idea.
-<es>
+<es>Y yo que pensaba que habíamos conseguido una gran idea.
 
 @433
 <en>{Appo-}\n"Pierre, come up with a better idea."
-<es>
+<es>{Appo-}\n"Pierre. Saca alguna idea aún mejor."
 
 @434
 <en>{Pierre}\n"Me again......?"
-<es>
+<es>{Pierre}\n"¿Yo otra vez...?"
 
 @435
 <en>After a few seconds, he came up with a good idea.
-<es>
+<es>Tras unos segundos, sacó con otra buena idea.
 
 @438
 <en>{Pierre}\n"Why don't we ask them?"
-<es>
+<es>{Pierre}\n"¿Por qué no le preguntamos a ellas?"
 
 @439
 <en>{Kazushi}\n"I guess we have to. It won't be a surprise though."
-<es>
+<es>{Kazushi}\n"Imagino que nos tocará. Aunque así ya no será sorpresa."
 
 @440
 <en>I wonder who should I ask to.
-<es>
+<es>¿A quién debería preguntarle?
 
