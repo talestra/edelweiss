@@ -2,15 +2,15 @@
 
 @7
 <en>{Teacher Yagami}\n"Hey everybody!\nIt's time to finish the party-"
-<es>
+<es>{Profesor Yagami}\n"¡Escuchad todos!\nEs hora de terminar la fiesta."
 
 @8
 <en>It's almost nine o'clock. It's been three hours since the party started.
-<es>
+<es>Ya casi son las nueve. Han pasado ya tres horas desde que empezara la fiesta.
 
 @12
 <en>{Principal}\n"Yes, we should finish up......"
-<es>
+<es>{Directora}\n"Sí, deberíamos ir terminando..."
 
 @18
 <en>{Appo-}\n"----hold on----!!"
@@ -18,43 +18,43 @@
 
 @19
 <en>We all went up on the stage. Pierre took away microphone from Mr.Yagami.
-<es>
+<es>Nos subimos todos al escenario. Pierre le quitó el micrófono al señor Yagami.
 
 @23
 <en>{Teacher Yagami}\n"What are you guys doing!?"
-<es>
+<es>{Profesor Yagami}\n"¿¡Que estáis haciendo!?"
 
 @24
 <en>{Kazushi}\n"It's a little surprise!"
-<es>
+<es>{Kazushi}\n"¡Es una pequeña sorpresa!"
 
 @27
 <en>{Teacher Yagami}\n"What? Are you guys going to make more troubles?"
-<es>
+<es>{Profesor Yagami}\n"¿Qué? ¿Ya váis a causar más problemas?"
 
 @28
 <en>I don't blame him bding suspicious of us.
-<es>
+<es>No le culpo por sospechar de nosotros.
 
 @32
 <en>{Pierre}\n"Test, test!"
-<es>
+<es>{Pierre}\n"Probando... Probando..."
 
 @33
 <en>Pierre is testing the microphone.
-<es>
+<es>Pierre está probando el micrófono.
 
 @36
 <en>{Pierre}\n"Thank you for hosting a party for us new students!"
-<es>
+<es>{Pierre}\n"¡Muchas gracias por hacer una fiesta para nosotros, los nuevos estudiantes!"
 
 @37
 <en>Pierre thinks he just became an idol..
-<es>
+<es>Pierre se cree que acaba de convertirse en un ídolo o algo así.
 
 @44
 <en>{Daigo}\n"Wow, he's doing well."
-<es>
+<es>{Daigo}\n"Vaya, lo está haciendo bien."
 
 @45
 <en>{Kazushi}\n"It's his stage now."
@@ -62,67 +62,70 @@
 
 @46
 <en>{Appo-}\n"I can't wait to see how happy girls get."
-<es>
+<es>{Appo-}\n"No puedo esperar a ver lo contentas que se ponen las chicas."
 
 @49
 <en>The girls have no idea what's going on.
-<es>
+<es>Las chicas no tienen ni idea de lo que está pasando.
 
 @52
 <en>{Pierre}\n"I don't know how to thank all of you enough."
-<es>
+<es>{Pierre}\n"No sé cómo agradeceroslo lo suficiente."
 
 @53
 <en>{Pierre}\n"And that's why we brought you presents!"
-<es>
+<es>{Pierre}\n"¡Y es por eso por lo que os hemos traído regalos!"
 
 @57
 <en>{Ran}\n"Presents!!\nReally!?"
-<es>
+<es>{Ran}\n"¡¡Regalos!!\n¿¡En serio!?"
 
 @58
+# Revisar.
 <en>Ran is junping up and down.
-<es>
+<es>Ran está dando saltitos.
 
 @59
 <en>{Kazushi}\n"Ran, I'm sorry, it's not money this time."
-<es>
+<es>{Kazushi}\n"Ran, lo siento. Esta vez no es dinero."
 
 @62
 <en>{Ran}\n"No-."
-<es>
+<es>{Ran}\n"No..."
 
 @67
 <en>{Appo-}\n"Ofcourse not. Do we look rich?"
-<es>
+<es>{Appo-}\n"Claro que no. ¿Te parecemos ricos?"
 
 @68
 <en>{Ran}\n"All right. I shouln't expect much."
-<es>
+<es>{Ran}\n"Está bien. No esperaré demasiado."
 
 @69
 <en>{Kazushi}\n"I show you money doesn't mean everything."
-<es>
+<es>{Kazushi}\n"Te enseñaré que el dinero no significa nada."
 
 @72
+# El dinero no significará nada para ti...
 <en>{Ran}\n"Money doesn't mean everything to you?"
-<es>
+<es>{Ran}\n"¿El dinero no significa nada para ti?"
 
 @73
 <en>I don't think she will ever understand.
-<es>
+<es>Dudo que sea capaz de entenderlo alguna vez.
 
 @78
+# Revisar.
 <en>{Pierre}\n"It's not expensive, but we prepared this from bottom of our hearts."
-<es>
+<es>{Pierre}\n"No es algo caro, pero lo hemos preparado con todo el corazón."
 
 @81
 <en>{Pierre}\n"Please accept our hearts!"
-<es>
+<es>{Pierre}\n"Por favor, ¡aceptad nuestros corazones!"
 
 @87
 <en>{Hu-sen}\n"He thinks he's a star."
-<es>
+<es>{Hu-sen}\n"Se cree que es una estrella."
 
 @88
 <en>{Rei}\n"I don't think I've ever received a present from boys."
@@ -134,59 +137,59 @@
 
 @94
 <en>{Pierre}\n"Here you are!"
-<es>
+<es>{Pierre}\n"¡Allá vamos!"
 
 @98
 <en>Pierre makes a sound with his fingers as a sign.
-<es>
+<es>Pierre chasquea los dedos como señal.
 
 @100
 <en>We pulled the rope to show the presents.
-<es>
+<es>Tiramos de la cuerda para mostrar los regalos.
 
 @106
 <en>{Haruka}\n"Hey......"
-<es>
+<es>{Haruka}\n"Ey..."
 
 @107
 <en>Petals falling......
-<es>
+<es>*Petalos cayendo...*
 
 @111
 <en>{Mizuki}\n"What is this......?"
-<es>
+<es>{Mizuki}\n"¿Qué es esto...?"
 
 @113
 <en>Petals falling......
-<es>
+<es>*Petalos cayendo...*
 
 @114
 <en>It was like snowing......
-<es>
+<es>Es como si estuviese nevando...
 
 @115
 <en>Petals falling......
-<es>
+<es>*Petalos cayendo...*
 
 @116
 <en>Soon entire cafeteria was filled with white petals.
-<es>
+<es>En poco tiempo, la cafetería entera estaba llena de pétalos blancos.
 
 @121
 <en>{Sakura}\n"It's like snowing-!"
-<es>
+<es>{Sakura}\n"¡Es como si nevase...!"
 
 @122
 <en>{Rin}\n"So beautiful......"
-<es>
+<es>{Rin}\n"Qué bonito..."
 
 @129
 <en>{Hu-sen}\n"This is not bad from idiots!"
-<es>
+<es>{Hu-sen}\n"¡No está mal para los imbéciles!"
 
 @130
 <en>{Rei}\n"This is so romantic."
-<es>
+<es>{Rei}\n"Qué romántico."
 
 @131
 <en>The girls are in awe of our idea......
@@ -206,11 +209,11 @@
 
 @141
 <en>We were afraid it was going too well.
-<es>
+<es>Estábamos asustados de que estuviese yendo todo demasiado bien.
 
 @142
 <en>Nothing we did in the past never went so smooth.
-<es>
+<es>Nada que hubiésemos hecho en el pasado había ido tan bien.
 
 @148
 <en>{Haruka}\n"......hey isn't this......?"
@@ -218,7 +221,7 @@
 
 @149
 <en>It was Haruka who recognized the kind of flower first.
-<es>
+<es>Fue Haruka la que reconoció el tipo de floar al principio.
 
 @152
 <en>{Haruka}\n"It is that flower......"
@@ -234,7 +237,7 @@
 
 @160
 <en>{Sakura}\n"You are right......"
-<es>
+<es>{Sakura}\n"Tienes razón..."
 
 @162
 <en>The girls start getting panic.
@@ -242,7 +245,7 @@
 
 @169
 <en>{Appo-}\n"What's wrong everybody?"
-<es>
+<es>{Appo-}\n"¿Qué ocurre?"
 
 @170
 <en>{Pierre}\n"Did you see disgusting bugs on the petals or somnething?"
@@ -254,27 +257,27 @@
 
 @178
 <en>{Principal}\n"Oh no......"
-<es>
+<es>{Directora}\n"Oh no..."
 
 @179
 <en>Her body was shaking from the anger.
-<es>
+<es>Su cuerpo estaba temblando de la furia.
 
 @182
 <en>{Principal}\n"Stop!\nStop it right now!!"
-<es>
+<es>{Directora}\n"¡Parad!\n¡¡Parad ahora mismo!!"
 
 @183
 <en>She screamed.
-<es>
+<es>Gritó.
 
 @192
 <en>{Daigo}\n"What is going on?"
-<es>
+<es>{Daigo}\n"¿Qué ocurre?"
 
 @193
 <en>{Pierre}\n"Did we do something wrong?"
-<es>
+<es>{Pierre}\n"¿Hemos hecho algo malo?"
 
 @194
 <en>{Appo-}\n"I knew something wrong was coming. It never went so smooth."
@@ -294,35 +297,35 @@
 
 @206
 <en>{Haruka}\n"I knew it......"
-<es>
+<es>{Haruka}\n"Lo sabía..."
 
 @207
 <en>Haruka seemed so disappointed to hear that.
-<es>
+<es>Haruka parecía tremendamente decepcionada de escuchar eso.
 
 @211
 <en>{Principal}\n"No......"
-<es>
+<es>{Directora}\n"No..."
 
 @216
 <en>The principal fainted on the ground.
-<es>
+<es>La directora se desmayó y cayó al suelo.
 
 @217
 <en>{Kazushi}\n"Principal!!"
-<es>
+<es>{Kazushi}\n"¡¡Directora!!"
 
 @218
 <en>She was passed out.
-<es>
+<es>Se ha desmayado.
 
 @221
 <en>{Haruka}\n"Principal! Grand ma!!"
-<es>
+<es>{Haruka}\n"¡Directora! ¡¡Abuelita!!"
 
 @222
 <en>Haruka slaps principal's cheeks to wake her up.
-<es>
+<es>Haruka abofetea la mejilla de la directora para despertarla.
 
 @226
 <en>{Teacher Yagami}\n"Are you all right?nWe should take you to the nurse's offce......"
@@ -334,7 +337,7 @@
 
 @231
 <en>{Kazushi}\n"Yes."
-<es>
+<es>{Kazushi}\n"Sí."
 
 @234
 <en>{Principal}\n"Oh no......\nHow much are there left still in that place?"
@@ -346,19 +349,19 @@
 
 @236
 <en>{Principal}\n"Oh no......"
-<es>
+<es>{Directora}\n"Oh, no..."
 
 @240
 <en>{Kazushi}\n"Principal?"
-<es>
+<es>{Kazushi}\n"¿Directora?"
 
 @241
 <en>She passed out again.
-<es>
+<es>Se ha vuelto a desmayar.
 
 @246
 <en>{Haruka}\n"Grand ma!"
-<es>
+<es>{Haruka}\n"¡Abuelita!"
 
 @247
 <en>{Teacher Yagami}\n"Let's bring her to nurse's office."
@@ -366,51 +369,52 @@
 
 @248
 <en>{Kazushi}\n"Yes!"
-<es>
+<es>{Kazushi}\n"¡Sí!"
 
 @253
 <en>We took her to the nurse's office.
-<es>
+<es>La llevamos a la enfermería.
 
 @260
 <en>{Appo-}\n"Something if going reaaly bad."
-<es>
+<es>{Appo-}\n"Algo va realmente mal."
 
 @261
 <en>{Pierre}\n"I know.\nWe did something bad enough to make principal pass out."
-<es>
+<es>{Pierre}\n"Lo sé.\nHemos hecho algo suficiente mal como para hacer que la directora se desmayase."
 
 @262
 <en>{Daigo}\n"All we did was picking the flowers though."
-<es>
+<es>{Daigo}\n"Aunque lo único que hemos hecho ha sido recolectar las flores."
 
 @263
+# Revisar.
 <en>{Kazushi}\n"I think we're going to get busted......"
-<es>
+<es>{Kazushi}\n"Creo que nos van a expulsar..."
 
 @270
 <en>{Mei}\n"We know you guys didn't know, but......"
-<es>
+<es>{Mei}\n"Somos conscientes de que no lo sabíais, pero..."
 
 @271
 <en>Miss Ibuki doesn't know what to say.
-<es>
+<es>La señorita Ibuki no sabe qué decir.
 
 @274
 <en>{Mei}\n"She's still passed out?"
-<es>
+<es>{Mei}\n"¿Sigue desmayada?"
 
 @279
 <en>{Teacher Yagami}\n"She's still in shock."
-<es>
+<es>{Profesor Yagami}\n"Sigue conmocionada."
 
 @280
 <en>Teacher Yagami doesn't seem to know what is going on either.
-<es>
+<es>El profesor Yagami tampoco sabe qué está pasando.
 
 @283
 <en>{Mei}\n"I'm going to try my best, but......I'm not sure if I can protect your boys this time."
-<es>
+<es>{Mei}\n"Haré todo lo que pueda, pero... No sé si os podré proteger esta vez, chicos."
 
 @287
 <en>{Haruka}\n"Wait!\nThat ristricted area was under my responsibility!\nThis is my fault, too!"
@@ -418,15 +422,15 @@
 
 @290
 <en>{Mei}\n"Haruka......"
-<es>
+<es>{Mei}\n"Haruka..."
 
 @291
 <en>We had no idea what they are talking about.
-<es>
+<es>No teníamos ni idea de qué estaban hablando.
 
 @300
 <en>{Appo-}\n"What did we do wrong?"
-<es>
+<es>{Appo-}\n"¿Qué hemos hecho mal?"
 
 @301
 <en>{Pierre}\n"Why were those flowers so special to the principal?"
@@ -442,7 +446,7 @@
 
 @304
 <en>This time, it seems more serious for some reason.
-<es>
+<es>Por algún motivo, esta vez parece algo mucho más serio.
 
 @310
 <en>{Mei}\n"You guys can go back to your dorm.\nYou will hear from the principal tomorrow......"
@@ -458,7 +462,7 @@
 
 @319
 <en>{Haruka}\n"Kazushi?"
-<es>
+<es>{Haruka}\n"¿Kazushi?"
 
 @320
 <en>I could tell it was Haruka under the moonlight.
@@ -470,7 +474,7 @@
 
 @324
 <en>{Haruka}\n"I couldn't sleep."
-<es>
+<es>{Haruka}\n"No podía dormir."
 
 @325
 <en>She looks around almost empty flower bed.
@@ -478,7 +482,7 @@
 
 @326
 <en>{Kazushi}\n"I feel bad now for messing up this place."
-<es>
+<es>{Kazushi}\n"Ahora me siento mal por haber echado a perder este lugar."
 
 @327
 <en>I could tell we did horrible thing to this land.
@@ -486,7 +490,7 @@
 
 @328
 <en>The place looked like it was hit by a tyhoon.
-<es>
+<es>El lugar parecía como si hubiese sido azotado por un huracán.
 
 @329
 <en>{Kazushi}\n"This place must have been special to the principal.\nI'll applogize her tomorrow."
@@ -494,7 +498,7 @@
 
 @330
 <en>{Kazushi}\n"I'm not sure if she will forgive me, though."
-<es>
+<es>{Kazushi}\n"Aunque no estoy seguro de que me vaya a perdonar."
 
 @331
 <en>I should've asked her if it was O.K to take flowers from here.
@@ -502,7 +506,7 @@
 
 @334
 <en>{Haruka}\n"This was the place my grand pa proposed her."
-<es>
+<es>{Haruka}\n"Aquí es donde mi abuelo se le declaró."
 
 @335
 <en>Haruka told me something spcial to her family.
@@ -510,7 +514,7 @@
 
 @336
 <en>{Kazushi}\n"Right here?"
-<es>
+<es>{Kazushi}\n"¿Justo aquí?"
 
 @337
 <en>The importance of that slowly gets into my head.
@@ -518,15 +522,15 @@
 
 @338
 <en>{Kazushi}\n"I didn't know this place meant so much to her......"
-<es>
+<es>{Kazushi}\n"No sabía que este lugar significase tanto para ella..."
 
 @339
 <en>No wonder the principal got so shocked.
-<es>
+<es>No es de extrañar que la directora se quedase tan conmocionada.
 
 @340
 <en>{Haruka}\n"They came to this island together for the reseach of Alchemy."
-<es>
+<es>{Haruka}\n"Ambos vinieron a esta isla juntos para investigar la Alquímia."
 
 @341
 <en>{Haruka}\n"The presence of this magical island has always been informed among my grand ma's family--"
@@ -534,15 +538,15 @@
 
 @342
 <en>She continues as she picks up the petals on the ground.
-<es>
+<es>Continúa mientras recoge pétalos del suelo.
 
 @345
 <en>{Haruka}\n"This flower is the key to Alchemy."
-<es>
+<es>{Haruka}\n"Esta flor es la clave de la Alquímia."
 
 @346
 <en>{Kazushi}\n"These flowers?"
-<es>
+<es>{Kazushi}\n"¿Esas flores?"
 
 @347
 <en>I knew they were beautiful, but I didn't know they meant so much to the school and Haruka's family.
