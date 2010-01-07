@@ -2,331 +2,335 @@
 
 @8
 <en>I need to get to know her better. We will be sitting next to each other for a while.
-<es>
+<es>Tengo que conocerla mejor. Nos seguiremos sentado juntos algún tiempo más.
 
 @9
 <en>{Kazushi}\n"Where is Mizuki......?"
-<es>
+<es>{Kazushi}\n"¿Dónde está Mizuki...?"
 
 @10
 <en>I can't find her.
-<es>
+<es>No la veo.
 
 @11
 <en>{Kazushi}\n"She could be......"
-<es>
+<es>{Kazushi}\n"Podría estar..."
 
 @12
 <en>I have a feeling she's outside.
-<es>
+<es>Tengo el presentimiento de que está fuera.
 
 @20
 <en>{Kazushi}\n"Yep."
-<es>
+<es>{Kazushi}\n"Sip."
 
 @21
 <en>She was there outside all by herself.
-<es>
+<es>Estaba sola fuera.
 
 @23
 <en>{Mizuki}\n"!!......"
-<es>
+<es>{Mizuki}\n"¡¡...!!"
 
 @24
+# Revisar.
 <en>She recognized me and turned her head away.
-<es>
+<es>Me ha reconocido y me ha evadido con la cabeza.
 
 @27
 <en>{Kazushi}\n"What are you doing here?"
-<es>
+<es>{Kazushi}\n"¿Qué haces aquí?"
 
 @28
 <en>{Mizuki}\n"......taking a break."
-<es>
+<es>{Mizuki}\n"...Tomarme un respiro."
 
 @29
 <en>She answered me reluctantly.
-<es>
+<es>Me ha respondido a regañadientes.
 
 @30
 <en>{Kazushi}\n"Are you drunk?"
-<es>
+<es>{Kazushi}\n"¿Estás bebida?"
 
 @31
+# Hay que ver si se refiere a que no ha bebido antes o a que no bebe.
+# El japonés es muy ambigüo y los traductores al inglés no se esmeraron mucho.
 <en>{Mizuki}\n"I didn't drink."
-<es>
+<es>{Mizuki}\n"No he bebido."
 
 @32
 <en>{Kazushi}\n"Yeah? Because your face is red."
-<es>
+<es>{Kazushi}\n"¿Ah sí? Es que tienes la cara roja."
 
 @35
 <en>{Mizuki}\n"It's because of the sunset."
-<es>
+<es>{Mizuki}\n"Es por el sol."
 
 @38
 <en>She turned her head away again.
-<es>
+<es>Ha vuelto a girar la cabeza para evitarme.
 
 @39
 <en>{Mizuki}\n".................."
-<es>
+<es>{Mizuki}\n"..."
 
 @40
 <en>{Kazushi}\n"Hey, I'm sorry about earlier."
-<es>
+<es>{Kazushi}\n"Oye... Siento lo de antes."
 
 @43
 <en>{Mizuki}\n"What do you mean?"
-<es>
+<es>{Mizuki}\n"¿Qué quieres decir?"
 
 @44
 <en>{Kazushi}\n"That I thought you're lesbian."
-<es>
+<es>{Kazushi}\n"Lo de que eras lesbiana."
 
 @45
 <en>I must've been crazy to tell her that.
-<es>
+<es>Debo estar como una cabra por decirle eso.
 
 @48
 <en>{Mizuki}\n"How could you say such a stuff?"
-<es>
+<es>{Mizuki}\n"¿Cómo has podido decir algo así?"
 
 @49
 <en>Opps, I didn't mean to recall her anger back.
-<es>
+<es>Ups, no quería hacer que se volviese a enfadar.
 
 @50
 <en>{Kazushi}\n"Sorry.\nI heard that's not unusual in girls' school."
-<es>
+<es>{Kazushi}\n"Lo siento.\nHabía oído que no era algo inusual en la escuela para chicas."
 
 @53
 <en>{Mizuki}\n"Where did you hear that from......?"
-<es>
+<es>{Mizuki}\n"¿Dónde has oído eso...?"
 
 @54
 <en>{Kazushi}\n"I was told girls do a lots of stuff with each other......"
-<es>
+<es>{Kazushi}\n"Me habían dicho que las chicas hacían muchas cosas entre ellas..."
 
 @57
 <en>{Mizuki}\n"Stop!\nThat's enough!"
-<es>
+<es>{Mizuki}\n"¡Para!\n¡Ya es suficiente!"
 
 @58
 <en>{Kazushi}\n"All right."
-<es>
+<es>{Kazushi}\n"Está bien."
 
 @59
 <en>Opps, I made her even more upset.
-<es>
+<es>Ups. La he enfadado todavía más.
 
 @60
 <en>{Kazushi}\n"Are you upset because you didn't want any boys to enroll this school?"
-<es>
+<es>{Kazushi}\n"¿Estás enfadada porque no querías que ningún chico se apuntase a esta escuela?"
 
 @61
 <en>That was my first guess why she's ignoring me.
-<es>
+<es>Era lo primero que se me había ocurrido de por qué me ignoraba.
 
 @64
 <en>{Mizuki}\n"I don't care about that......"
-<es>
+<es>{Mizuki}\n"Eso no me importa..."
 
 @65
 <en>{Kazushi}\n"Are you on your period?"
-<es>
+<es>{Kazushi}\n"¿Estás con la regla?"
 
 @68
 <en>{Mizuki}\n"............!"
-<es>
+<es>{Mizuki}\n"¡...!"
 
 @69
 <en>{Kazushi}\n"I mean nothing."
-<es>
+<es>{Kazushi}\n"No he dicho nada."
 
 @70
 <en>I think I should stop trying to talk to her.
-<es>
+<es>Creo que debería dejar de intentar hablar con ella.
 
 @73
 <en>{Mizuki}\n"I don't like periods. I can't swim when I have one."
-<es>
+<es>{Mizuki}\n"No me gusta la regla. No puedo nadar cuando la tengo."
 
 @74
 <en>{Kazushi}\n"I see......"
-<es>
+<es>{Kazushi}\n"Ya veo..."
 
 @75
 <en>I thought she got upset with me, not the period itself.
-<es>
+<es>Ya imaginaba que estaba enfadada conmigo y que no tenía nada que ver con la regla.
 
 @78
 <en>{Mizuki}\n"I haven't swam as much as I want for a long time."
-<es>
+<es>{Mizuki}\n"Llevo sin nadar todo lo que me gustaría desde hace bastante tiempo."
 
 @79
 <en>She streches herself.
-<es>
+<es>Se estira.
 
 @80
 <en>{Kazushi}\n"Why haven't you swam for a while?"
-<es>
+<es>{Kazushi}\n"¿Y cómo es eso?"
 
 @83
 <en>{Mizuki}\n"Because of you guys!"
-<es>
+<es>{Mizuki}\n"¡Por vosotros!"
 
 @84
 <en>{Kazushi}\n"Us?\nWhy you can't swim because of us?"
-<es>
+<es>{Kazushi}\n"¿Nosotros?\n¿Por qué no puedes nadar por nosotros?"
 
 @85
 <en>She makes an angry face like in cartoons.
-<es>
+<es>Pone una cara de enfado como en los dibujos.
 
 @86
+# Revisar.
 <en>Made me laugh.
-<es>
+<es>Hace que me entre la risa tonta.
 
 @89
 <en>{Mizuki}\n"We used to be able to swim any time we want."
-<es>
+<es>{Mizuki}\n"Solíamos poder nadar siempre que quisiésemos."
 
 @90
 <en>{Kazushi}\n"And?"
-<es>
+<es>{Kazushi}\n"¿Y?"
 
 @91
 <en>This island is a perfect place to enjoy swimming.
-<es>
+<es>Esta isla es un lugar ideal para disfrutar nadando.
 
 @93
 <en>{Mizuki}\n"We could just change into swimwear anywhere on the beach."
-<es>
+<es>{Mizuki}\n"Nos podíamos poner el bañador en cualquier parte de la playa."
 
 @96
 <en>{Mizuki}\n"Now you boys are here."
-<es>
+<es>{Mizuki}\n"Ahora hay chicos por aquí."
 
 @97
 <en>{Kazushi}\n"I see."
-<es>
+<es>{Kazushi}\n"Ya veo."
 
 @98
 <en>I got her point.
-<es>
+<es>Ahora la entiendo.
 
 @99
 <en>{Kazushi}\n"We didn't know we took away your hobby."
-<es>
+<es>{Kazushi}\n"No éramos conscientes de que te hubiésemos fastidiado el hobby."
 
 @102
 <en>{Mizuki}\n"I'm not seriously angry, you know.\nI just wish I can swim more often---"
-<es>
+<es>{Mizuki}\n"No estoy realmente enfadada, ¿sabes?\nTan solo es que me gustaría poder nadar más amenudo..."
 
 @103
 <en>Maybe that's why she was angry.
-<es>
+<es>Quizá estaba enfadada por eso.
 
 @104
 <en>{Kazushi}\n"You like swimming."
-<es>
+<es>{Kazushi}\n"Te gusta nadar."
 
 @107
 <en>{Mizuki}\n"I love swimming!"
-<es>
+<es>{Mizuki}\n"¡Me encanta nadar!"
 
 @108
 <en>She finally showed me a smile.
-<es>
+<es>Al final me ha mostrado una sonrisa.
 
 @109
 <en>{Kazushi}\n"!!......"
-<es>
+<es>{Kazushi}\n"¡¡...!!"
 
 @116
 <en>We heard a thunder. Rain started fall.
-<es>
+<es>Oímos un trueno. La lluvia empezó a caer.
 
 @117
 <en>It's a strong rain.
-<es>
+<es>Es una lluvia densa.
 
 @118
 <en>{Kazushi}\n"Let's go back in!"
-<es>
+<es>{Kazushi}\n"¡Volvamos dentro!"
 
 @121
 <en>But she refused to move.
-<es>
+<es>Se negó a moverse.
 
 @122
 <en>{Kazushi}\n"Are you coming?"
-<es>
+<es>{Kazushi}\n"¿Vienes?"
 
 @123
 <en>We became soaking wet.
-<es>
+<es>Nos empapamos completamente.
 
 @124
 <en>{Mizuki}\n"This feels great--------!"
-<es>
+<es>{Mizuki}\n"¡Se siente genial...!"
 
 @125
 <en>She screamed.
-<es>
+<es>Gritó.
 
 @126
 <en>{Kazushi}\n"But you're soaking wet!?"
-<es>
+<es>{Kazushi}\n"¡Pero si estás empapada!"
 
 @127
 <en>{Mizuki}\n"It's just rain."
-<es>
+<es>{Mizuki}\n"Solo es lluvia."
 
 @128
 <en>{Kazushi}\n"I know......but"
-<es>
+<es>{Kazushi}\n"Ya lo sé, pero..."
 
 @129
 <en>She's right. We get wet when we swim.
-<es>
+<es>Tiene razón. Nos mojamos cuando nadamos.
 
 @130
 <en>{Mizuki}\n"We are already soaking wet. We can't get anymore wet."
-<es>
+<es>{Mizuki}\n"Ya estamos completamente empapados. Ya no nos podemos mojar más."
 
 @131
 <en>She looks up the sky.
-<es>
+<es>Mira al cielo.
 
 @132
 <en>{Mizuki}\n"Pour harder--------!!"
-<es>
+<es>{Mizuki}\n"¡¡Con más fuerza...!!"
 
 @134
 <en>Rain actually got harder.
-<es>
+<es>Y empezó a llover con más intensidad.
 
 @135
 <en>{Mizuki}\n"See! It listened to me!"
-<es>
+<es>{Mizuki}\n"¿¡Ves!? ¡Me ha escuchado!"
 
 @136
 <en>She's smiling having good time.
-<es>
+<es>Sonríe y disfruta.
 
 @137
 <en>{Mizuki}\n"Kazushi, join me to get more wet!"
-<es>
+<es>{Mizuki}\n"Kazushi, ¡mojémosnos más!"
 
 @138
 <en>{Kazushi}\n"I've never been asked from a girl to get wet."
-<es>
+<es>{Kazushi}\n"Nunca me había pedido una chica que me mojase."
 
 @139
 <en>{Mizuki}\n"Come on, aren't you a man?!!"
-<es>
+<es>{Mizuki}\n"Venga, ¡¿o es que no eres un hombre?!"
 
 @140
 <en>She pulled me out from underneath the tree.
@@ -334,47 +338,47 @@
 
 @141
 <en>{Kazushi}\n"Wow......"
-<es>
+<es>{Kazushi}\n"Guau..."
 
 @142
 <en>It's like taking a shower, makes me feel so good.
-<es>
+<es>Es como pegarse una ducha. Hace que me sienta muy bien.
 
 @143
 <en>{Mizuki}\n"How is it!?"
-<es>
+<es>{Mizuki}\n"¿¡Qué tal!?"
 
 @144
 <en>Her voice is saying "I told you!".
-<es>
+<es>Su tono me está diciendo: "¡te lo dije!".
 
 @149
 <en>{Kazushi}\n"!!......"
-<es>
+<es>{Kazushi}\n"¡¡...!!"
 
 @150
 <en>The rain is getting weak quickly.
-<es>
+<es>La lluvia amaina con presteza.
 
 @153
 <en>{Mizuki}\n"Oh no, that's it?"
-<es>
+<es>{Mizuki}\n"¿Qué? ¿Ya?"
 
 @154
 <en>She looks like a child not having enough fun.
-<es>
+<es>Lo dice como un niño que no ha tenido suficiente entretenimiento.
 
 @155
 <en>{Kazushi}\n"Sorry."
-<es>
+<es>{Kazushi}\n"Lo siento."
 
 @158
 <en>{Mizuki}\n"Well-\nI had enough."
-<es>
+<es>{Mizuki}\n"Bueno.\nCon eso ha sido suficiente."
 
 @159
 <en>She's still wet and smiling.
-<es>
+<es>Sigue mojada y sonriendo.
 
 @160
 <en>{Kazushi}\n"That's right you did."
@@ -382,33 +386,33 @@
 
 @161
 <en>I replied her smile with my smile.
-<es>
+<es>Respondí a su sonrisa con otra sonrisa.
 
 @164
 <en>{Mizuki}\n"!!......"
-<es>
+<es>{Mizuki}\n"¡¡...!!"
 
 @165
 <en>She finally recognized that she was smiling at me and turned away.
-<es>
+<es>Al final se ha dado cuenta de que me estaba sonriendo y se gira.
 
 @166
 <en>{Kazushi}\n"You don't have to turn away."
-<es>
+<es>{Kazushi}\n"No tienes por qué girarte."
 
 @167
 <en>{Mizuki}\n"I'm not smiling at you!"
-<es>
+<es>{Mizuki}\n"¡No te estoy sonriendo!"
 
 @168
 <en>We heard sound of joy from cafeteria.
-<es>
+<es>Oíamos de fondo el alboroto de la cafetería.
 
 @169
 <en>{Kazushi}\n"Let's get back in there."
-<es>
+<es>{Kazushi}\n"Volvamos dentro."
 
 @172
 <en>{Mizuki}\n"All right."
-<es>
+<es>{Mizuki}\n"Está bien."
 
