@@ -2,99 +2,102 @@
 
 @5
 <en>Maybe I can use this opportunity to get along with Mizuki.
-<es>
+<es>Quizá sea una buena oportunidad de llevarme mejor con Mizuki.
 
 @6
 <en>{Kazushi}\n"Can you be my partner, Mizuki?"
-<es>
+<es>{Kazushi}\n"¿Puedes ser mi compañera, Mizuki?"
 
 @9
 <en>{Mizuki}\n"Me!?"
-<es>
+<es>{Mizuki}\n"¿¡Yo!?"
 
 @10
 <en>She seems really surprised.
-<es>
+<es>Parece muy sorprendida.
 
 @13
 <en>{Mizuki}\n"I guess......"
-<es>
+<es>{Mizuki}\n"Supongo..."
 
 @14
 <en>{Kazushi}\n"Yes!!"
-<es>
+<es>{Kazushi}\n"¡¡Sí!!"
 
 @15
+# Entiendo que se refiere a chocar el puño con la mano en plan: ¡Lo he conseguido!
 <en>Before I knew it, I was pumping my fist.
-<es>
+<es>Antes de ser consciente, ya estaba chocando el puño.
 
 @20
 <en>{Ran}\n"Wow, you're happy."
-<es>
+<es>{Ran}\n"Vaya, si que estás contento."
 
 @21
 <en>{Kazushi}\n"I thought she was going to refuse me."
-<es>
+<es>{Kazushi}\n"Pensaba que iba a rechazarme."
 
 @28
 <en>{Haruka}\n"What makes you think that?"
-<es>
+<es>{Haruka}\n"¿Qué te hace pensar eso?"
 
 @32
 <en>{Pierre}\n"What did you do to her?"
-<es>
+<es>{Pierre}\n"¿Qué es lo que le hiciste?"
 
 @33
 <en>Everyone thinks I did something wrong to her.
-<es>
+<es>Todos se piensan que le hice algo malo.
 
 @36
 <en>{Mizuki}\n"There is nothing between us.\nWe hardly ever talked before."
-<es>
+<es>{Mizuki}\n"No hay nada entre nosotros.\nApenas hemos hablado antes."
 
 @43
 <en>{Ran}\n"That's the thing. You guys sit next to each other everyday and you guys don't talk at all."
-<es>
+<es>{Ran}\n"Ese es el problema. Os sentáis juntos todos los días y no os habláis para nada."
 
 @50
 <en>{Appo-}\n"Kazushi, did you attack her or something?"
-<es>
+<es>{Appo-}\n"Kazushi, ¿la has agredido o algo?"
 
 @51
 <en>{Kazushi}\n"Are you guys crazy?"
-<es>
+<es>{Kazushi}\n"¿Estáis locos?"
 
 @55
 <en>{Pierre}\n"But it's obvious that Mizuki is treating you differently."
-<es>
+<es>{Pierre}\n"Pero es obvio que Mizuki que trata de forma diferente."
 
 @59
+# ¿Es? ¿Está?
 <en>{Haruka}\n"She is......?"
-<es>
+<es>{Haruka}\n"¿Ella está...?"
 
 @63
 <en>{Ran}\n"You are, Mizuki?"
-<es>
+<es>{Ran}\n"¿Lo estás, Mizuki?"
 
 @66
 <en>{Mizuki}\n"I'm not!\nThere is absolutely nothing going on between us, O.K?"
-<es>
+<es>{Mizuki}\n"¡Claro que no!\nNo hay absolutamente nada entre nosotros, ¿vale?"
 
 @67
+# No hace falta que me rechaces con tanta energía...
 <en>{Kazushi}\n"You don't have to deny it so clearly......"
-<es>
+<es>{Kazushi}\n"No hace falta que lo niegues tan enérgicamente..."
 
 @68
 <en>She sounded like she's disgusted with me.
-<es>
+<es>Ha sonado como si estuviese enfadada conmigo.
 
 @74
 <en>{Pierre}\n"Don't be so disappointed, Kazushi."
-<es>
+<es>{Pierre}\n"No estés tan decepcionado, Kazushi."
 
 @79
 <en>{Appo-}\n"Nice try Kazushi, but she seems like she's absolutely not interested in you."
-<es>
+<es>{Appo-}\n"Buen intento Kazushi, pero parece que no tiene absolutamente ningún interés por ti."
 
 @80
 <en>{Kazushi}\n"Why do you guys have to laugh when you encourage me?"
@@ -102,43 +105,43 @@
 
 @87
 <en>{Mizuki}\n"I din't say that either......"
-<es>
+<es>{Mizuki}\n"Yo tampoco he dicho eso..."
 
 @88
 <en>{Appo-}\n"You did all right.\nIt's best to say "no"when you're not interested."
-<es>
+<es>{Appo-}\n"Si lo has hecho bien.\nEs mejor decir que "no" cuando no estás interesada."
 
 @89
 <en>{Kazushi}\n"Don't worry about me!\nI'm used to being rejected!"
-<es>
+<es>{Kazushi}\n"¡No te preocupes por mí!\n¡Ya estoy acostumbrado a que me rechacen!"
 
 @95
 <en>{Haruka}\n"He's used to getting rejected......\npoor Kazushi."
-<es>
+<es>{Haruka}\n"Acostumbrado a que le rechacen...\nPobre Kazushi."
 
 @100
 <en>{Ran}\n"Don't worry, Haruka.\nKazushi has me."
-<es>
+<es>{Ran}\n"No te preocupes, Haruka.\nKazushi me tiene a mí."
 
 @103
 <en>{Haruka}\n"What?\nYou guys are.......?"
-<es>
+<es>{Haruka}\n"¿Qué?\n¿Estáis...?"
 
 @110
 <en>{Appo-}\n"What!?\nSince when!?"
-<es>
+<es>{Appo-}\n"¿¡Qué!?\n¿¡Desde cuando!?"
 
 @111
 <en>{Kazushi}\n"That's not true!\nI don't know any of what she just......"
-<es>
+<es>{Kazushi}\n"¡Eso no es verdad!\nNo sé que está diciendo..."
 
 @114
 <en>{Ran}\n"It's O.K Kazushi.\nWe can tell them."
-<es>
+<es>{Ran}\n"No pasa nada Kazushi.\nPuedes contarlo."
 
 @118
 <en>{Pierre}\n"Wow Ran, you're aggressive."
-<es>
+<es>{Pierre}\n"Vaya Ran. Vas muy directa."
 
 @122
 <en>{Haruka}\n"Wait a minute.\nAre you guys serious?"
@@ -146,43 +149,43 @@
 
 @123
 <en>{Kazushi}\n"Calm down, you guys."
-<es>
+<es>{Kazushi}\n"Tranquilizaos."
 
 @124
 <en>This joke is getting out of hands.
-<es>
+<es>La broma se está desbocando.
 
 @130
 <en>{Mizuki}\n".................."
-<es>
+<es>{Mizuki}\n"..."
 
 @131
 <en>Mizuki got upset waiting for us to finish chatting.
-<es>
+<es>Mizuki ha acabado mosqueada por esperar a que terminásemos de hablar.
 
 @134
 <en>{Mizuki}\n"Hey, Kazushi,\nAre we doing it or not?"
-<es>
+<es>{Mizuki}\n"Eh, Kazushi,\n¿Vamos a hacerlo o no?"
 
 @135
 <en>She sounds seriously upset-.
-<es>
+<es>Parece realmente mosqueada.
 
 @136
 <en>{Kazushi}\n"Yes, we are!\nPlease!"
-<es>
+<es>{Kazushi}\n"Sí, ¡claro!\n¡Por favor!"
 
 @137
 <en>{Mizuki}\n"Well then, why don't we get started.\nI don't like fooling around."
-<es>
+<es>{Mizuki}\n"Bueno pues, ¿qué tal si empezamos?\nNo me gusta estar haciendo la tonta."
 
 @138
 <en>{Kazushi}\n"Yes!"
-<es>
+<es>{Kazushi}\n"¡Sí!"
 
 @139
 <en>I think I just gave her another reason to get annoyed of me.
-<es>
+<es>Creo que acabo de darle otro motivo para estar enfadada conmigo.
 
 @143
 <en>{Mei}\n"Please remember that the class is still proceeding."
@@ -190,75 +193,75 @@
 
 @144
 <en>{Kazushi}\n"I'm sorry......"
-<es>
+<es>{Kazushi}\n"Lo siento..."
 
 @146
 <en>Not only Mizuki, Miss. Ibuki was upset, too.
-<es>
+<es>No solo Mizuki, también la señorita Ibuki está enfada.
 
 @149
 <en>{Principal}\n[Smiling]
-<es>
+<es>{Directora}\n*Sonriendo*
 
 @150
 <en>The principal was the only one who was smiling. Well, I'll do my best!
-<es>
+<es>La directora era la única sonriendo. Está bien, ¡lo haré lo mejor que pueda!
 
 @154
 <en>{Kazushi}\n"Just like the last time, right?"
-<es>
+<es>{Kazushi}\n"Como la última vez, ¿vale?"
 
 @157
 <en>{Mizuki}\n"That's right.\nPut the flask on the stove."
-<es>
+<es>{Mizuki}\n"Está bien.\nPon el frasco la fuego."
 
 @159
 <en>{Kazushi}\n"Got it."
-<es>
+<es>{Kazushi}\n"Entendido."
 
 @160
 <en>Just put the materials in the flask and turn on the stove.\nA child can do this.
-<es>
+<es>Ponr los materiales en el frasco y encender el fuego.\nHasta un niño podría hacerlo.
 
 @161
 <en>{Mizuki}\n"Remember, adjusting heat is the most important part, O.K?"
-<es>
+<es>{Mizuki}\n"Y recuerda, ajustar el fuego es la parte más importante, ¿entendido?"
 
 @162
 <en>{Kazushi}\n"All right."
-<es>
+<es>{Kazushi}\n"Entendido."
 
 @163
 <en>She tells me what to do, but she sounds somewhat cold.
-<es>
+<es>Me dice lo que tengo que hacer, aunque noto su tono algo frío.
 
 @164
 <en>I think the level of the heat was about this much.
-<es>
+<es>Creo que la temperatura debería llegar hasta aquí.
 
 @167
 <en>{Mizuki}\n".................."
-<es>
+<es>{Mizuki}\n"..."
 
 @168
 <en>She doesn't say anything. I hope that means it's about right.
-<es>
+<es>No dice nada. Espero que eso signifique que está bien.
 
 @172
 <en>{Haruka}\n"Turn the heat on little harder."
-<es>
+<es>{Haruka}\n"Sube un poco la temperatura."
 
 @173
 <en>Haruka came in and helped me.
-<es>
+<es>Haruka vino a ayudarme.
 
 @174
 <en>{Kazushi}\n"Little harder?\nLike this?"
-<es>
+<es>{Kazushi}\n"¿Un poco más?\n¿Así?"
 
 @176
 <en>I turned on the fire little harder.
-<es>
+<es>Subí el fuego un poco más.
 
 @177
 <en>{Haruka}\n"That's about right. You have to adjust it time to time, O.K?"
@@ -270,11 +273,11 @@
 
 @179
 <en>The ingredients are getting mixed and turning into black.
-<es>
+<es>Los ingredientes se están mezclando y convirtiéndose en una masa negra.
 
 @182
 <en>{Haruka}\n"There you go.\nIt should chage its colors a couple of times more."
-<es>
+<es>{Haruka}\n"Así es.\nDebería cambiar el color un par de veces más."
 
 @183
 <en>{Kazushi}\n"You know Alchemy indeed."
@@ -282,101 +285,101 @@
 
 @186
 <en>{Haruka}\n"Thanks. I grew up learning this."
-<es>
+<es>{Haruka}\n"Gracias. Crecí aprendiéndolo."
 
 @187
 <en>{Kazushi}\n"Oh!"
-<es>
+<es>{Kazushi}\n"¡Ah!"
 
 @189
 <en>It changed its color again.
-<es>
+<es>Ha vuelto a cambiar de color.
 
 @193
 <en>{Mizuki}\n".................."
-<es>
+<es>{Mizuki}\n"..."
 
 @194
 <en>Opps.\nI forgot my partner was Mizuki, not Haruka.
-<es>
+<es>Ups.\nMe he olvidado de que mi compañera era Mizuki y no Haruka.
 
 @195
 <en>{Kazushi}\n"......are we doing all right, so far?"
-<es>
+<es>{Kazushi}\n"¿Lo estamos haciendo bien por ahora?"
 
 @196
 <en>I tried talking to her.
-<es>
+<es>Traté de hablar con ella.
 
 @199
 <en>{Mizuki}\n"I don't know.\nWhy don't you ask Haruka."
-<es>
+<es>{Mizuki}\n"No sé.\n¿Por qué no le preguntas a Haruka?"
 
 @201
 <en>Opps......\nI think she's upset.
-<es>
+<es>Ups...\nParece que está mosca.
 
 @204
 <en>{Haruka}\n"Oh no......"
-<es>
+<es>{Haruka}\n"Ohm no..."
 
 @205
 <en>Haruka looks at the flask disappointedly.
-<es>
+<es>Haruka mira al frasco decepcionada.
 
 @207
 <en>{Kazushi}\n"What......?"
-<es>
+<es>{Kazushi}\n"¿Qué...?"
 
 @209
 <en>[The flask shattering]
-<es>
+<es>*Frasco derritiéndose*
 
 @212
 <en>{Mizuki}\n"No......"
-<es>
+<es>{Mizuki}\n"No..."
 
 @215
 <en>The flask was shattered and inside liquid is all over the table.
-<es>
+<es>El frasco se ha roto y el líquio de dentro se ha acabado desparramando por toda la mesa.
 
 @216
 <en>{Kazushi}\n"Is this a failure?"
-<es>
+<es>{Kazushi}\n"¿Hemos fallado?"
 
 @217
 <en>{Mizuki}\n"Looks like it."
-<es>
+<es>{Mizuki}\n"Pinta tiene."
 
 @218
 <en>It was over quickly.
-<es>
+<es>Ha terminado enseguida.
 
 @219
 <en>{Kazushi}\n"How did it happen?"
-<es>
+<es>{Kazushi}\n"¿Cómo ha pasado?"
 
 @224
 <en>{Principal}\n"The god of the Alchemy is actually goddess.\nWhen you make your female partner upset, it won't work."
-<es>
+<es>{Directora}\n"El Dios de la Alquimia es en realidad una diosa.\nSi enfadas a tu compañera, no funcionará."
 
 @225
 <en>{Kazushi}\n"I see......"
-<es>
+<es>{Kazushi}\n"Ya veo..."
 
 @228
 <en>The principal is still smiling.\nI'm not sure if she just made fun of my failure or she's serious about the goddess effect.
-<es>
+<es>La directora sigue sonriendo.\nNo estoy seguro si está mofando de mi fracaso o si decía en serio lo del efecto de la diosa.
 
 @229
 <en>{Kazushi}\n"The reason of the failure was making Mizuki upset.......?"
-<es>
+<es>{Kazushi}\n"¿El motivo del fracaso fue enfadar a Mizuki...?"
 
 @232
 <en>{Mizuki}\n"What do you mean?\nIt's not my fault."
-<es>
+<es>{Mizuki}\n"¿Qué quieres decir?\nNo es culpa mía."
 
 @233
 <en>I keep making her upset.
-<es>
+<es>Sigo enfadándola.
 

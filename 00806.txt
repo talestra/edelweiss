@@ -1229,147 +1229,151 @@
 
 @851
 <en>{Ran}\n"Why are you guys whispering each other for?"
-<es>
+<es>{Ran}\n"¿Por qué estáis susurrando cosas entre vosotros?"
 
 @852
 <en>{Kazushi}\n"Nothing......"
-<es>
+<es>{Kazushi}\n"Nada..."
 
 @857
 <en>{Mizuki}\n"Are you guys looking for a trouble again?"
-<es>
+<es>{Mizuki}\n"¿Ya estáis otra vez buscandoos problemas?"
 
 @861
 <en>{Pierre}\n"Ofcourse not-\nwe are good boys."
-<es>
+<es>{Pierre}\n"Claro que no.\nSomos unos buenos chicos."
 
 @866
 <en>{Haruka}\n"Hey, it's changing the color again. We need to adjust the heat."
-<es>
+<es>{Haruka}\n"Ey, está volviendo a cambiar de color. Tenemos que reajustar la temperatura."
 
 @867
 <en>{Kazushi}\n"I got it."
-<es>
+<es>{Kazushi}\n"Entendido."
 
 @868
 <en>Now the liquid is turning white.
-<es>
+<es>Ahora el líquido se está volviendo blanco.
 
 @873
 <en>{Pierre}\n(Pretend you're adjusting the heat and throw in something)
-<es>
+<es>{Pierre}\n(Finje estar ajustando la temperatura y aprovecha para tirar algo.)
 
 @874
 <en>{Kazushi}\n(Got it)
-<es>
+<es>{Kazushi}\n(Lo sé.)
 
 @875
 <en>But, what should I throw in there?
-<es>
+<es>Pero, ¿qué debería tirar dentro?
 
 @879
 <en>{Haruka}\n"Right now!"
-<es>
+<es>{Haruka}\n"¡Ahora!"
 
 @880
 <en>{Kazushi}\n"What? Oh yeah!\nGot it!"
-<es>
+<es>{Kazushi}\n"¿Qué? ¡Ah, sí!\n¡Entendido!"
 
 @885
 <en>{Appo-}\n(Kazushi, here throw this in!)
-<es>
+<es>{Appo-}\n(Kazushi, toma, ¡tira esto!)
 
 @886
 <en>Appo- handed me something looks like a string.
-<es>
+<es>Appo- me pasó algo que parecía como una especie de cuerda.
 
 @887
 <en>{Kazushi}\n(Thanks!)
-<es>
+<es>{Kazushi}\n(¡Gracias!)
 
 @890
 <en>Without taking a close look at it, I threw it into the flask.
-<es>
+<es>Sin examinarlo más detenidamente, lo introduje en el frasco.
 
 @896
 <en>{Kazushi}\n"What a ......!?"
-<es>
+<es>{Kazushi}\n"¿¡Pero qué...!?"
 
 @902
 <en>[An explosion]
-<es>
+<es>*Explosión*
 
 @911
 <en>{Appo-}\n"What happened?"
-<es>
+<es>{Appo-}\n"¿Qué ha pasado?"
 
 @912
 <en>{Kazushi}\n"I thought I died."
-<es>
+<es>{Kazushi}\n"Pensaba que había muerto."
 
 @914
 <en>The explosion reached out to the ceiling and left a black mark on it.
-<es>
+<es>La explosión llegó al techo y dejó una marca negra en él.
 
 @919
 <en>{Ran}\n"Wow, the Alchemy is scary."
-<es>
+<es>{Ran}\n"Guau. La Alquimia es espeluznante."
 
 @920
 <en>{Mizuki}\n"I've never seen that before, what did you guys do?"
-<es>
+<es>{Mizuki}\n"Nunca había visto algo así, ¿qué habéis hecho?"
 
 @921
 <en>It's definitly because of what I put in.
-<es>
+<es>Desde luego tiene que haber sido lo que hemos puesto.
 
 @922
 <en>{Kazushi}\n"What did you hand me?"
-<es>
+<es>{Kazushi}\n"¿Qué es lo que me has pasado?"
 
 @926
+# Hay that me lol.
+# Pelo de mis cojones.
+# Pelo de mis pelotas.
+# Pelo de los huevos.
 <en>{Appo-}\n"My pubic hair"
-<es>
+<es>{Appo-}\n"Pelo de mis cojones."
 
 @927
 <en>{Mizuki}\n"What a ......!?"
-<es>
+<es>{Mizuki}\n"¿¡Pero qué...!?"
 
 @930
 <en>The girls overheard what we said.
-<es>
+<es>Parece que las chicas han llegado a escuchar lo que he dicho.
 
 @935
 <en>{Mei}\n"You guys......"
-<es>
+<es>{Mei}\n"Vosotros..."
 
 @936
 <en>{Ran}\n"That's disgusting."
-<es>
+<es>{Ran}\n"Qué desagradable."
 
 @937
 <en>{Kazushi}\n"You put your pubic hair in my hands!?"
-<es>
+<es>{Kazushi}\n"¿¡Me has colocado pelo de los cojones en las manos!?"
 
 @942
 <en>{Daigo}\n"You should go wash your hands."
-<es>
+<es>{Daigo}\n"Deberías ir a lavártelas."
 
 @943
 <en>{Kazushi}\n"I'm going to the bathroom......"
-<es>
+<es>{Kazushi}\n"Voy al servicio..."
 
 @955
 <en>{Appo-}\n"You don't have to wash your hands just because you touched my pubic hair......"
-<es>
+<es>{Appo-}\n"No tienes por qué lavarte las manos solo por haber tocado mi pelo de ahí..."
 
 @956
 <en>{Kazushi}\n"I can believe you made me grab your bubic hair."
-<es>
+<es>{Kazushi}\n"No puedo creer que me hayas hecho coger pelo de ahí."
 
 @958
 <en>I washed my hands till they smell like soap.
-<es>
+<es>Me lavé violentamente las manos hasta que olían casi como jabón.
 
 @961
 <en>{Mei}\n"You guys are keeping me very busy. I'll give you one more chance."
@@ -1377,15 +1381,16 @@
 
 @969
 <en>{Boys}\n"Thank you!"
-<es>
+<es>{Chicos}\n"¡Gracias!"
 
 @975
+# Por lo que se ve luego lo debieron interpretar mal.
 <en>{Principal}\n"This time, make a group of 2 boys and 2 girls."
-<es>
+<es>{Directora}\n"Esta vez, haz grupos de 2 personas, un chico y una chica."
 
 @976
 <en>{Kazushi}\n"What......?"
-<es>
+<es>{Kazushi}\n"¿Qué...?"
 
 @977
 <en>The principal came up with an funny idea.
@@ -1393,19 +1398,20 @@
 
 @981
 <en>{Mei}\n"You want to see boys and girls work together?"
-<es>
+<es>{Mei}\n"¿Quieres ver cómo trabajan juntos las chicas y los chicos?"
 
 @985
+# ¿Compañera? ¿Compañeros?
 <en>{Principal}\n"Mr.Haruma, why don't you choose your partner."
-<es>
+<es>{Directora}\n"Haruma, ¿Por qué no eliges a tu compañera?"
 
 @986
 <en>{Kazushi}\n"Me?"
-<es>
+<es>{Kazushi}\n"¿Yo?"
 
 @987
 <en>{Principal}\n"Choose some one you think who would have good affinity to you."
-<es>
+<es>{Principal}\n"Elige a alguien con quien creas que tienes suficiente afinidad."
 
 @988
 <en>Why does she want me to start this idea......?
@@ -1413,13 +1419,13 @@
 
 @992
 <en>{Mei}\n"Choose somebody, Mr.Haruma."
-<es>
+<es>{Mei}\n"Elije a alguien, Haruma."
 
 @993
 <en>{Kazushi}\n"Yes."
-<es>
+<es>{Kazushi}\n"Sí."
 
 @995
 <en>All right. Let's see.
-<es>
+<es>Está bien. Veamos.
 

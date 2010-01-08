@@ -2,19 +2,19 @@
 
 @5
 <en>I think I'll pick Ran. She's easy to talk to.
-<es>
+<es>Creo que elegiré a Ran. Me resulta fácil hablar con ella.
 
 @6
 <en>{Kazushi}\n"Ran, can you be my partner?"
-<es>
+<es>{Kazushi}\n"Ran, ¿puedes ser mi compañera?"
 
 @9
 <en>{Ran}\n"Me? I don't mind, but you know I'm not good at Alchemy, right?"
-<es>
+<es>{Ran}\n"¿Yo? No me importa. Pero ya sabes que no se me da nada bien la Alquimia, ¿no?"
 
 @10
 <en>{Kazushi}\n"At least you know better than me."
-<es>
+<es>{Kazushi}\n"Al menos sabes más que yo."
 
 @13
 <en>{Ran}\n"I don't know about that-\nWhen I say I'm not good at something, I mean I'm not good at it."
@@ -22,11 +22,11 @@
 
 @14
 <en>{Kazushi}\n"Don't worry.\nWe'll help out each other."
-<es>
+<es>{Kazushi}\n"No te preocupes.\nNos ayudaremos mútuamente."
 
 @17
 <en>{Ran}\n"All right-\nwhy not."
-<es>
+<es>{Ran}\n"Está bien.\n¿Por qué no?"
 
 @21
 <en>{Kazushi}\n"Start with putting all these in, right?"
@@ -34,31 +34,31 @@
 
 @23
 <en>Just like the last time.
-<es>
+<es>Como la última vez.
 
 @27
 <en>{Ran}\n"Good job. You don't need me anymore."
-<es>
+<es>{Ran}\n"Buen trabajo. Ya no me necesitas."
 
 @28
 <en>{Kazushi}\n"I just did this ten minutes ago."
-<es>
+<es>{Kazushi}\n"Acabo de hacer esto hace diez minutos."
 
 @31
 <en>{Ran}\n"You remembered how it goes.\nGood job. Just wake me up when you're done......"
-<es>
+<es>{Ran}\n"Y has recordado cómo va.\nBien hecho. Recuerda despertarme cuando termines..."
 
 @32
 <en>{Kazushi}\n"Hey, wake up!"
-<es>
+<es>{Kazushi}\n"Oye, ¡despierta!"
 
 @34
 <en>I can't believe she's trying to sleep in front of the principal.
-<es>
+<es>No puedo creer que trate de dormirse delante de la directora.
 
 @37
 <en>For some reason, The principal is smiling.
-<es>
+<es>Por algún motivo, la directora está sonriendo.
 
 @38
 <en>She's looking over to what we are doing.
@@ -66,23 +66,23 @@
 
 @42
 <en>{Ran}\n"What was next?"
-<es>
+<es>{Ran}\n"¿Qué iba luego?"
 
 @43
 <en>{Kazushi}\n"You have absolutely no interest in doing this."
-<es>
+<es>{Kazushi}\n"No tienes ningún interés en hacer esto..."
 
 @44
 <en>{Ran}\n"What did I tell you when you first picked me."
-<es>
+<es>{Ran}\n"¿Y qué es lo que te dije cuando me elegiste?"
 
 @45
 <en>{Kazushi}\n"Didn't I say we will help out each other?"
-<es>
+<es>{Kazushi}\n"¿No dije que nos ayudaríamos mútuamente?"
 
 @48
 <en>{Ran}\n"I'll think, you do the rest."
-<es>
+<es>{Ran}\n"Yo pensaré. Tú haz el resto."
 
 @49
 <en>This is a lone battle now.
@@ -90,19 +90,19 @@
 
 @51
 <en>{Kazushi}\n"Next, I should turn on the fire......"
-<es>
+<es>{Kazushi}\n"Ahora, debo encender el fuego..."
 
 @53
 <en>[Kazushi turning on stove]
-<es>
+<es>*Kazushi encendiendo el fuego*
 
 @54
 <en>{Kazushi}\n"Opps!"
-<es>
+<es>{Kazushi}\n"¡Ups!"
 
 @55
 <en>I almost knocked down the stove.
-<es>
+<es>Casi tumbo el fogón.
 
 @58
 <en>{Ran}\n"Be careful-\nYou are so not dependable."
@@ -110,63 +110,64 @@
 
 @59
 <en>{Kazushi}\n"Please help me out, Ran."
-<es>
+<es>{Kazushi}\n"Por favor, ayúdame, Ran."
 
 @62
+# Revisar.
 <en>{Ran}\n"All right.\nI thought no one would be more unreliable than me."
-<es>
+<es>{Ran}\n"Está bien.\nMe resultaba difícil de creer que alguien puediese ser menos de fiar que yo misma."
 
 @63
 <en>She finally agreed to help me out.
-<es>
+<es>Finalmente accedió a ayudarme.
 
 @66
 <en>{Ran}\n"I'm not sure if you really want my help."
-<es>
+<es>{Ran}\n"No tengo claro que realmente quieras mi ayuda."
 
 @67
 <en>{Kazushi}\n"Are you goint to explode something like how we did?"
-<es>
+<es>{Kazushi}\n"¿Vas a causar alguna explosión o algo como hicimos nosotros?"
 
 @70
 <en>{Ran}\n"Put this in there for me."
-<es>
+<es>{Ran}\n"Mete esto ahí por mí."
 
 @71
 <en>She handed me a bottle. The label says "Don't meix this".
-<es>
+<es>Me pasó una botella. En la etiqueta ponía "No mezclar esto".
 
 @72
 <en>{Kazushi}\n"Isn't it saying not to mix this with anything?"
-<es>
+<es>{Kazushi}\n"¿No pone claramente en la etiqueta que no se debe mezclar con nada?"
 
 @73
 <en>{Ran}\n"Who cares!\nThis kind of stuff should be done with your first instinct!"
-<es>
+<es>{Ran}\n"¡Qué más da!\n¡Estas cosas se deben hacer por instinto!"
 
 @74
 <en>{Kazushi}\n"Are you sure? It's specificly saying "Don't mix"."
-<es>
+<es>{Kazushi}\n"¿Estás segura? Pone explícitamente "no mezclar"."
 
 @77
 <en>{Ran}\n"Hesitating is the worst enemy! Let's just put it in."
-<es>
+<es>{Ran}\n"¡La duda es tu peor enemigo! Limítate a meterlo."
 
 @78
 <en>{Kazushi}\n"All right."
-<es>
+<es>{Kazushi}\n"Está bien."
 
 @79
 <en>I opened the bottle and poured it inside the flask.
-<es>
+<es>Abrí la botella y vertí el contenido en el frasco.
 
 @82
 <en>{Ran}\n"There you go."
-<es>
+<es>{Ran}\n"Allá vamos."
 
 @83
 <en>{Kazushi}\n"All right."
-<es>
+<es>{Kazushi}\n"Venga."
 
 @84
 <en>I gave up thinking.
@@ -174,31 +175,31 @@
 
 @85
 <en>{Kazushi}\n"What's next?"
-<es>
+<es>{Kazushi}\n"¿Y ahora qué?"
 
 @88
 <en>{Ran}\n"We'll boil it."
-<es>
+<es>{Ran}\n"Haremos que llegue el apunto de ebullición."
 
 @89
 <en>{Kazushi}\n"O.K"
-<es>
+<es>{Kazushi}\n"Vale."
 
 @90
 <en>I turned on the fire.
-<es>
+<es>Encendí el fuego.
 
 @93
 <en>{Ran}\n"What are you doing?\nWhen I say turn on the fire. I mean really turn it on!"
-<es>
+<es>{Ran}\n"¿Qué estás haciendo?\nCuando digo que lo enciendas. ¡Me refiero a que lo ENCIENDAS!"
 
 @94
 <en>{Kazushi}\n"Got it!"
-<es>
+<es>{Kazushi}\n"¡Entendido!"
 
 @96
 <en>I turned the nob to its maximum.
-<es>
+<es>Giré la rueda al máximo.
 
 @99
 <en>{Ran}\n"There you go.\nNow we are talking."
@@ -206,47 +207,47 @@
 
 @100
 <en>{Kazushi}\n"This is so like you, Ran.\nLet's burn it."
-<es>
+<es>{Kazushi}\n"Es tan propio de ti, Ran.\n¡Que se queme!"
 
 @101
 <en>{Ran}\n"Yes, we'll burn it!"
-<es>
+<es>{Ran}\n"Sí, ¡lo quemaremos!"
 
 @103
 <en>With the stove on its maximum, the liquid inside the flask is boiling hard.
-<es>
+<es>Con el fogón al máximo, el líquido de dentro está hirviendo con fuerza.
 
 @104
 <en>{Kazushi}\n"It's boiling good."
-<es>
+<es>{Kazushi}\n"Está hirviendo bien."
 
 @105
 <en>{Ran}\n"Yep,"
-<es>
+<es>{Ran}\n"Sip."
 
 @106
 <en>{Kazushi}\n"What's next?"
-<es>
+<es>{Kazushi}\n"¿Y qué es lo siguiente?"
 
 @109
 <en>{Ran}\n"There is next."
-<es>
+<es>{Ran}\n"Ya no hay siguiente."
 
 @110
 <en>{Kazushi}\n"Just watch?That's it?"
-<es>
+<es>{Kazushi}\n"¿Mirar? ¿Y ya?"
 
 @111
 <en>{Ran}\n"That's right, that's it."
-<es>
+<es>{Ran}\n"Así es. Eso es."
 
 @115
 <en>{Mei}\n"Stop right there, you guys!"
-<es>
+<es>{Mei}\n"¡Parad inmediatamente!"
 
 @116
 <en>We turned around, and there was Miss Ibuki standing all upset.
-<es>
+<es>Nos giramos y nos encontramos a la señorita Ibuki de pie muy enfadada.
 
 @121
 <en>{Mei}\n"What are you two doing? You are not done, yet."
@@ -258,7 +259,7 @@
 
 @125
 <en>{Mei}\n"Adjusting heat is the most important part.\nThere is no "just watch the rest"in Alchemy."
-<es>
+<es>{Mei}\n"Ajustar el fuego es la parte más importante.\nEn Alquimia no hay un "limitarse a mirar el resto"."
 
 @128
 <en>{Ran}\n"Sorry, it was troublesome-"
@@ -266,11 +267,11 @@
 
 @129
 <en>{Kazushi}\n"So there was something to do."
-<es>
+<es>{Kazushi}\n"Así que sí había algo que hacer."
 
 @130
 <en>I shouldn't have believed everything she said.
-<es>
+<es>No debería haberme creído todo lo que decía.
 
 @133
 <en>{Mei}\n"Troublesome? Ran, you know better than that."
@@ -278,11 +279,12 @@
 
 @136
 <en>{Ran}\n"My personality is not suit to this kind of stuff."
-<es>
+<es>{Ran}\n"Mi personalidad no encaja para este tipo de cosas."
 
 @139
+# ¿Nunca lo consigues en esta clase?
 <en>{Mei}\n"That's why you always fail in this class. You need to be more patient."
-<es>
+<es>{Mei}\n"Eso es por lo que siempre suspendes esta asignatura. Tienes que ser más paciente."
 
 @140
 <en>Miss Ibuki is making harsh comment on Ran.
@@ -290,7 +292,7 @@
 
 @141
 <en>{Ran}\n"I don't see myself getting rich by mastering Alchemy."
-<es>
+<es>{Ran}\n"No me veo haciéndome rica dominando la Alquimia."
 
 @142
 <en>She's trying to smell money like a dog.
@@ -298,43 +300,43 @@
 
 @145
 <en>{Ran}\n"Can we really turn lead into gold by mastering this?"
-<es>
+<es>{Ran}\n"¿De verdad que vamos a poder convertir plomo en oro dominando esto?"
 
 @148
 <en>{Mei}\n"It dosen't go so easy.\nIt's one of the hardest technique in Alchemy."
-<es>
+<es>{Mei}\n"La cosa no es tan sencilla.\nEs una de las técnicas más difíciles de la Alquimia."
 
 @149
 <en>{Ran}\n"I don't care the rest of the technique. I just want to learn that."
-<es>
+<es>{Ran}\n"Me dan igual el resto de técnicas. Yo solo quiero aprender eso."
 
 @152
 <en>{Mei}\n"You need to start from step one to be able to do that."
-<es>
+<es>{Mei}\n"Tienes que aprender paso a paso para ser capaz de hacer eso."
 
 @153
 <en>Miss Ibuki is begging Ran to study Alchemy harder.
-<es>
+<es>La señorita Ibuki está rogando a Ran que estudie más la Alquimia.
 
 @156
 <en>{Ran}\n"All right. I'll do my best."
-<es>
+<es>{Ran}\n"Está bien. Lo haré lo mejor que pueda."
 
 @157
 <en>{Kazushi}\n"Wow, you are treated special."
-<es>
+<es>{Kazushi}\n"Vaya. Te tratan de forma especial."
 
 @158
 <en>{Mei}\n"Please, Ran."
-<es>
+<es>{Mei}\n"Por favor, Ran."
 
 @160
 <en>Miss Ibuki begged one more time and left.
-<es>
+<es>La señorita Ibuki le rogó una vez más antes de marcharse.
 
 @163
 <en>{Ran}\n"Adjusting heat.........."
-<es>
+<es>{Ran}\n"Ajustar la temperatura..."
 
 @164
 <en>Ran seems to be thinking something while watching burning fire.
@@ -350,11 +352,11 @@
 
 @169
 <en>I don't know anything about adjusting heat.
-<es>
+<es>No sé nada sobre el ajuste de la temperatura.
 
 @171
 <en>{Kazushi}\n"Miss. Ibuki......"
-<es>
+<es>{Kazushi}\n"Señorita Ibuki..."
 
 @174
 <en>{Mei}\n"Hold on!\n That part should be......"
@@ -362,39 +364,39 @@
 
 @175
 <en>She's busy helping other groups.
-<es>
+<es>Está ocupada ayudando a otros grupos.
 
 @179
 <en>{Principal}\n"Turn down the fire little bit."
-<es>
+<es>{Directora}\n"Baja la temperatura un poco."
 
 @180
 <en>{Kazushi}\n"Yes."
-<es>
+<es>{Kazushi}\n"Sí."
 
 @184
 <en>The principal came and gave us an advice.
-<es>
+<es>La directora vino y nos dió un consejo.
 
 @185
 <en>I was so surprised that she is willing to help me.
-<es>
+<es>Estaba realmente sorprendido de que fuese a ayudarme.
 
 @186
 <en>{Principal}\n"That's about right.\nYou need to concedntrate."
-<es>
+<es>{Directora}\n"Ya está casi.\nTienes que concentrarte."
 
 @187
 <en>{Kazushi}\n"The concentration changes the result?"
-<es>
+<es>{Kazushi}\n"¿La concentración cambia el resultado?"
 
 @190
 <en>{Principal}\n"Sure."
-<es>
+<es>{Principal}\n"Así es."
 
 @191
 <en>I can't figure out how my concentration is going to affect the result.
-<es>
+<es>Soy incapaz de imaginar cómo puede ser que mi concentración vaya a afectar al resultado.
 
 @196
 <en>{Ran}\n(Are you two pretty close?)
@@ -402,195 +404,196 @@
 
 @197
 <en>Ran whispers to me.
-<es>
+<es>Me susurra Ran.
 
 @198
 <en>{Kazushi}\n(Not at all)
-<es>
+<es>{Kazushi}\n(Para nada.)
 
 @201
 <en>{Ran}\n(Then why is she giving you an advice? I've never seen her giving amyone an advice.)
-<es>
+<es>{Ran}\n(¿Entonces por qué te está aconsejando? Nunca la había visto dar un consejo a nadie.)
 
 @202
 <en>{Kazushi}\n(Oh yeah?)
-<es>
+<es>{Kazushi}\n(¿Ah sí?)
 
 @203
 <en>I don't know why she's so nice to me.
-<es>
+<es>No sé por qué es tan amable conmigo.
 
 @204
 <en>{Kazushi}\n(Maybe she likes young boys)
-<es>
+<es>{Kazushi}\n(Quizá le gusten los jovenzuelos.)
 
 @207
 <en>{Ran}\n(She could be your grand ma)
-<es>
+<es>{Ran}\n(Podría ser tu abuela.)
 
 @208
 <en>Ran's right. I don't think that's the reason.
-<es>
+<es>Ran tiene razón. No creo que sea por eso.
 
 @212
 <en>{Principal}\n"Pay attention."
-<es>
+<es>{Directora}\n"Presta atención."
 
 @213
 <en>The liquid inside the flask is changing its color.
-<es>
+<es>El líquido dentro del frasco está cambiando de color.
 
 @218
 <en>{Ran}\n"Kazushi!Adjust the fire!"
-<es>
+<es>{Ran}\n"¡Kazushi! ¡Ajusta el fuego!"
 
 @219
 <en>Ran orders me, instead of doing it by herself.
-<es>
+<es>Me ordena Ran en vez de hacerlo ella misma.
 
 @220
 <en>{Kazushi}\n"I know. I know......"
-<es>
+<es>{Kazushi}\n"Lo sé, lo sé..."
 
 @221
 <en>I tried to adjust the heat even though I hardly know what I'm doing.
-<es>
+<es>Traté de ajustar el fuego pese a que apenas sé lo que estoy haciendo.
 
 @222
 <en>{Kazushi}\n"This reminds me of cooking rice in the camp."
-<es>
+<es>{Kazushi}\n"Esto me recuerda a cuando hacía arroz en el campamento."
 
 @225
 <en>{Principal}\n"That's right.\nYou should do exact the same here."
-<es>
+<es>{Directora}\n"Así es.\nTienes que hacer exáctamente lo mismo aquí."
 
 @226
 <en>She smiled.\nMaybe I'm doing it right.
-<es>
+<es>Sonrió.\nQuizá lo esté haciendo hasta bien.
 
 @227
 <en>{Ran}\n"Hey, it's turning white now!!"
-<es>
+<es>{Ran}\n"Ey, ¡¡se está volviendo blanco ahora!!"
 
 @228
+# Alterada. Agitada. Emocionada.
 <en>Ran's all excited now.
-<es>
+<es>Ran está realmente excitada.
 
 @229
 <en>{Kazushi}\n"Is this a good sign?"
-<es>
+<es>{Kazushi}\n"¿Es una buena señal?"
 
 @230
 <en>{Ran}\n"I've never gotten this far before!"
-<es>
+<es>{Ran}\n"¡Nunca había llegado tan lejos antes!"
 
 @231
 <en>{Kazushi}\n"You haven't?"
-<es>
+<es>{Kazushi}\n"¿En serio?"
 
 @232
 <en>She's never turned anything white yet. I beat her on my first time.
-<es>
+<es>Nunca había conseguido que nada se volviese blanco. La he superado en mi primera vez.
 
 @235
 <en>{Ran}\n"We might be just fine-!\n What if it turns out to be money!"
-<es>
+<es>{Ran}\n"¡Debemos ir por el buen camino!\n¡¿Y si se convierte en dinero?!"
 
 @236
 <en>{Kazushi}\n"Money?seriously?"
-<es>
+<es>{Kazushi}\n"¿En dinero? ¿En serio?"
 
 @237
 <en>I looked at the principal. She's still smiling.
-<es>
+<es>Miré a la directora. Sigue sonriendo.
 
 @238
 <en>{Principal}\n"We'll find out."
-<es>
+<es>{Directora}\n"Ya lo veremos."
 
 @241
 <en>{Ran}\n"I have a good feeling on this!\n I think you and I have good chemistry!"
-<es>
+<es>{Ran}\n"¡Tengo un buen presentimiento de todo esto!\n¡Creo que entre nosotros hay química!"
 
 @242
 <en>{Kazushi}\n"Does it matter?"
-<es>
+<es>{Kazushi}\n"¿Y eso importa?"
 
 @245
 <en>{Principal}\n"Yes it does.\nEverything matters."
-<es>
+<es>{Directora}\n"Sí, importa.\nTodo importa."
 
 @246
 <en>{Kazushi}\n"Everything?"
-<es>
+<es>{Kazushi}\n"¿Todo?"
 
 @247
 <en>That means even if we all use same materials, the outcome would be different.
-<es>
+<es>¿Eso quiere decir que aunque usemos todos los mismos materiales, el resultado será diferente?
 
 @251
 <en>{Ran}\n"Hey!Hey!"
-<es>
+<es>{Ran}\n"¡Ey! ¡Ey!"
 
 @252
 <en>Ran raised her voice.
-<es>
+<es>Ran alzó la voz.
 
 @253
 <en>{Ran}\n"IT's turning red!!"
-<es>
+<es>{Ran}\n"¡¡Se está volviendo rojo!!"
 
 @254
 <en>It's the first time to see Ran getting all excited.
-<es>
+<es>Es la primera vez que veo a Ran así de emocionada.
 
 @257
 <en>{Ran}\n"What is coming out!?\nIf it's money, we share, remember?!!"
-<es>
+<es>{Ran}\n"¿¡Qué saldrá!?\n¡¡Si es dinero, lo compartimos, ¿recuerdas?!!"
 
 @258
 <en>{Kazushi}\n"We don't know that yet."
-<es>
+<es>{Kazushi}\n"Todavía no lo sabemos."
 
 @263
 <en>{Principal}\n"Watch the temperature."
-<es>
+<es>{Directora}\n"Vigila la temperatura."
 
 @264
 <en>{Ran}\n"That's right!!"
-<es>
+<es>{Ran}\n"¡¡Es cierto!!"
 
 @265
 <en>This time, instead of ordering me, she's doing it by herself.
-<es>
+<es>Esta vez, en vez de ordenármelo, lo está haciendo ella misma.
 
 @266
 <en>And......
-<es>
+<es>Y...
 
 @270
 <en>{Ran}\n"Opps......"
-<es>
+<es>{Ran}\n"Ups..."
 
 @273
 <en>[Ran knocks down the stove]
-<es>
+<es>*Ran tumba el fogón*
 
 @274
 <en>Ran knocks down the stove.
-<es>
+<es>Ran tumba el fogón.
 
 @277
 <en>{Ran}\n"No------------------!!!"
-<es>
+<es>{Ran}\n"¡¡¡Nooooooo...!!!"
 
 @278
 <en>The flask was shattered and what was inside evaporated.
-<es>
+<es>El frasco se ha roto y el contenido evaporado.
 
 @281
 <en>{Ran}\n"My money......"
-<es>
+<es>{Ran}\n"Mi dinero..."
 
 @282
 <en>{Kazushi}\n"This is not so cool."
@@ -602,13 +605,13 @@
 
 @288
 <en>{Ran}\n"I can't help it.\nThis is my personality."
-<es>
+<es>{Ran}\n"No puedo evitarlo.\nEstá inherente en mi personalidad."
 
 @289
 <en>{Kazushi}\n"You really need to be patient, Ran."
-<es>
+<es>{Kazushi}\n"De verdad que tienes que ser paciente, Ran."
 
 @290
 <en>Now I see why she has no talent for Alchemy.
-<es>
+<es>Ahora ya entiendo por qué no tiene talento con la Alquimia.
 
