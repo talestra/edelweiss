@@ -150,7 +150,7 @@
 
 @111
 <en>Everyone has galss in their hands getting ready for cheers.
-<es>
+<es>Todos están con las copas en las manos preparándose para un brindis.
 
 @114
 <en>{Principal}\n"Everyone cheers!"
@@ -166,7 +166,7 @@
 
 @122
 <en>{Pierre}\n"Cheers!\ncutie."
-<es>{Pierre}\n"¡Salud\n, preciosa!."
+<es>{Pierre}\n"¡Salud, preciosa!"
 
 @123
 <en>{Girl A}\n"Cheers-"

@@ -2,63 +2,63 @@
 
 @5
 <en>There are more boys than girls anyways......
-<es>
+<es>De todas formas hay más chicos que chicas...
 
 @6
 <en>{Kazushi}\n"Can you be my partner, Miss Ibuki?"
-<es>
+<es>{Kazushi}\n"¿Puedes ser tú mi compañera, señorita Ibuki?"
 
 @7
 <en>I know she's going to say no, but I tried asking her anyways.
-<es>
+<es>Ya sé que me va a decir que no, pero lo quería intentar de todas formas.
 
 @10
 <en>{Mei}\n"Me?"
-<es>
+<es>{Mei}\n"¿Yo?"
 
 @15
 <en>{Appo-}\n"Kazushi-!\nYou slick!"
-<es>
+<es>{Appo-}\n"¡Kazushi-!\n¡Zorro astuto!"
 
 @16
 <en>{Mei}\n"Slick?"
-<es>
+<es>{Mei}\n"¿Astuto?"
 
 @17
 <en>{Kazushi}\n"Don't listen to him, Miss Ibuki!"
-<es>
+<es>{Kazushi}\n"¡No le escuches, señorita Ibuki!"
 
 @22
 <en>{Kazushi}\n(It's not my idea to partner up with a girl!)
-<es>
+<es>{Kazushi}\n(¡No ha sido idea mía lo de buscar una compañera!)
 
 @25
 <en>{Appo-}\n"I was going to ask her to partner up with me!"
-<es>
+<es>{Appo-}\n"¡Era yo quién iba a pedirle que fuese mi compañera!"
 
 @32
 <en>Appo- is head batting the wall.
-<es>
+<es>Appo- está golpeando la pared con su cabeza.
 
 @37
 <en>{Pierre}\n"Hey Appo-!\nStop hurting yourself!"
-<es>
+<es>{Pierre}\n"¡Oye Appo-!\n¡Deja de hacerte daño a ti mismo!"
 
 @38
 <en>{Daigo}\n"You're bleeding......!"
-<es>
+<es>{Daigo}\n"¡Estás sangrando...!"
 
 @39
 <en>{Kazushi}\n"Daigo got fainted!"
-<es>
+<es>{Kazushi}\n"¡Daigo se ha desmayado!"
 
 @47
 <en>{Appo-}\n"Shit!shit!"
-<es>
+<es>{Appo-}\n"¡Joder! ¡Joder!"
 
 @48
 <en>{Kazushi}\n"Stop!\nEverybody's watching you!"
-<es>
+<es>{Kazushi}\n"¡Para!\n¡Te están todos viendo!"
 
 @49
 <en>{Appo-}\n"Watch me! I wanted her to watch me!"
@@ -66,99 +66,103 @@
 
 @55
 <en>{Daigo}\n"Blood--......"
-<es>
+<es>{Daigo}\n"Sangre..."
 
 @58
 <en>{Pierre}\n"Hey! Daigo fell down!"
-<es>
+<es>{Pierre}\n"Ey! ¡Daigo se ha caído!"
 
 @64
+# Qué entrentenido.
 <en>{Ran}\n"This is fun to watch-"
-<es>
+<es>{Ran}\n"Qué divertido."
 
 @65
 <en>{Mizuki}\n"I'm not sure if it's funny ......"
-<es>
+<es>{Mizuki}\n"Yo no tengo claro que lo sea..."
 
 @73
 <en>{Appo-}\n"Watch me everybody!\nI'm starting to feel better!"
-<es>
+<es>{Appo-}\n"¡Miradme todas!\n¡Ya empiezo a sentirme mejor!"
 
 @78
+# Está mal de la cabeza.
 <en>{Rei}\n"He's weired."
-<es>
+<es>{Rei}\n"Está ido."
 
 @82
 <en>{Pierre}\n"Hey, calm down now."
-<es>
+<es>{Pierre}\n"Ey, tranquilízate."
 
 @86
 <en>Pierre presses down the top part of Appo-'s hair.
-<es>
+<es>Pierre pulsa la parte de arriba del pelo de Appo-.
 
 @89
 <en>{Appo-}\n"!!!?"
-<es>
+<es>{Appo-}\n"¿¡...!?"
 
 @90
 <en>Appo- settled down quickly.
-<es>
+<es>Appo- se tranquilizó al poco.
 
 @97
 <en>{Hu-sen}\n"What was that?"
-<es>
+<es>{Hu-sen}\n"¿Qué ha sido eso?"
 
 @98
 <en>{Kazushi}\n"Appo- settles down when we press down that part."
-<es>
+<es>{Kazushi}\n"Appo- se tranquiliza cuando le pulsan ahí."
 
 @99
+# Revisar con la frase anterior.
 <en>{Rei}\n"Now that's really weired."
 <es>
 
 @102
 <en>{Hu-sen}\n"You think so? I actually think it's cute."
-<es>
+<es>{Hu-sen}\n"¿Eso crees? Yo lo veo algo mono."
 
 @103
 <en>{Kazushi}\n"You do!?"
-<es>
+<es>{Kazushi}\n"¿¡En serio!?"
 
 @104
 <en>Hu-sen looks at Appo- and smiles at him.\nThis is probably the first time I've seen her laugh.
-<es>
+<es>Hu-sen mira a Appo- y le sonríe.\nProbablemente sea la primera vez que la veo reír.
 
 @109
 <en>{Appo-}\n"Oh no!\nWhy am I bleeding?!!"
-<es>
+<es>{Appo-}\n"¡Ohm no!\n¡¿Por qué estoy sangrando?!"
 
 @110
 <en>Appo- gets panic as he gains back his conciousness.
-<es>
+<es>A Appo- le entra el pánico en cuanto recupera la conciencia.
 
 @115
 <en>{Pierre}\n"You did that to yourself."
-<es>
+<es>{Pierre}\n"Te lo has hecho tú solo."
 
 @116
 <en>{Appo-}\n"Abduction!\nI think I just got abducted by aliens!!"
-<es>
+<es>{Appo-}\n"¡Abducido!\n¡¡He debido ser abducido por extra terrestres!!"
 
 @119
 <en>{Kazushi}\n"Calm down."
-<es>
+<es>{Kazushi}\n"Tranquilízate."
 
 @126
 <en>{Hu-sen}\n"Come on. You are a guy.\nJust spit over the cut, it'll heal. Here!"
-<es>
+<es>{Hu-sen}\n"Venga. Eres un chico.\nEscupe en la herida y sanará. ¡Mira!"
 
 @129
+# Qué grotesco.
 <en>{Pierre}\n"That's disgusting!"
-<es>
+<es>{Pierre}\n"¡Qué desagradable!"
 
 @132
 <en>{Appo-}\n"What are you.................."
-<es>
+<es>{Appo-}\n"¿Qué estás...?"
 
 @136
 <en>{Kazushi}\n"Watch out guys!\nHe's gonna lose his mind again!!"
@@ -170,15 +174,15 @@
 
 @140
 <en>{Kazushi}\n"?"
-<es>
+<es>{Kazushi}\n"¿...?"
 
 @141
 <en>He actually didn't lose his temper.
-<es>
+<es>No ha perdido la compostura.
 
 @146
 <en>{Daigo}\n"Appo-?\nAppo-?"
-<es>
+<es>{Daigo}\n"¿Appo-?\n¿Appo-?"
 
 @149
 <en>{Appo-}\n"..................what!?"
@@ -186,35 +190,36 @@
 
 @153
 <en>{Mizuki}\n"He's back."
-<es>
+<es>{Mizuki}\n"Ha vuelto."
 
 @154
 <en>{Appo-}\n"What happened to me!?\nWhat was I doing!?"
-<es>
+<es>{Appo-}\n"¿¡Qué me ha pasado!?\n¿¡Qué estaba haciendo!?"
 
 @158
+# Revisar.
 <en>{Pierre}\n"Hu-sen spat on you."
-<es>
+<es>{Pierre}\n"Hu-sen te escupió."
 
 @161
 <en>{Appo-}\n"What!?\nWhy did you do that for!"
-<es>
+<es>{Appo-}\n"¿¡Qué!?\n¡¿Por qué has hecho eso?!"
 
 @162
 <en>{Kazushi}\n"But you seemed to be liking it."
-<es>
+<es>{Kazushi}\n"Pero parecía que te gustaba."
 
 @163
 <en>{Appo-}\n"Who would like to be spit on?!"
-<es>
+<es>{Appo-}\n"¡¿A quién le iba a gustar que le escupan?!"
 
 @168
 <en>{Hu-sen}\n"Shut up. Here!"
-<es>
+<es>{Hu-sen}\n"Cállate. ¡Toma!"
 
 @175
 <en>{Pierre}\n"Oh not again!"
-<es>
+<es>{Pierre}\n"¡Otra vez no...!"
 
 @178
 <en>{Appo-}\n"...!!..."
@@ -222,7 +227,7 @@
 
 @179
 <en>{Pierre}\n"See, he likes it!"
-<es>
+<es>{Pierre}\n"Mira, ¡le gusta!"
 
 @180
 <en>Hu-sen spat all ove his face and Appo- seems to enjoy it.\nWhat is this?
@@ -230,115 +235,116 @@
 
 @181
 <en>{Appo-}\n"Yes-----......"
-<es>
+<es>{Appo-}\n"Sí..."
 
 @182
 <en>{Kazushi}\n"Appo-?\nAppo-?"
-<es>
+<es>{Kazushi}\n"¿Appo-?\n¿Appo-?"
 
 @185
 <en>{Appo-}\n"..................!?\nDid I lose my conciousness again!?"
-<es>
+<es>{Appo-}\n"¿¡...!?\n¿¡He vuelto a perder la conciencia!?"
 
 @188
 <en>{Hu-sen}\n"See. You are not bleeding any more."
-<es>
+<es>{Hu-sen}\n"¿Ves? Ya no sangras."
 
 @191
 <en>{Appo-}\n"That's right.\nwhy?"
-<es>
+<es>{Appo-}\n"Es cierto.\n¿Por qué?"
 
 @194
 <en>{Pierre}\n"Thank her.\nShe stopped your bleeding."
-<es>
+<es>{Pierre}\n"Gracias a ella.\nHa hecho que dejases de sangrar."
 
 @197
 <en>{Appo-}\n"How?\nWhat did she do to me!?"
-<es>
+<es>{Appo-}\n"¿Cómo?\n¿¡Qué es lo que me ha hecho!?"
 
 @201
 <en>He can't figured out how she helped him stop bleeding.
-<es>
+<es>No logra adivinar cómo ha hecho que dejase de sangrar.
 
 @204
 <en>{Mei}\n"Well......let's get back to where we are.\nI'll help you, Kazushi."
-<es>
+<es>{Mei}\n"Bueno... Volvamos a lo que íbamos.\nTe ayudaré, Kazushi."
 
 @205
 <en>{Kazushi}\n"Yes. Thank you."
-<es>
+<es>{Kazushi}\n"Sí, gracias."
 
 @206
 <en>Enough for disgusting stuff. I'm going to have Miss Ibuki heal me.
-<es>
+<es>Se acabaron las cosas desagradables. Y ahora voy a tener a la señorita Ibuki para que me ayude a olvidarme de ellas.
 
 @214
 <en>{Mei}\n"We should keep consistant heat level here......."
-<es>
+<es>{Mei}\n"Aquí debemos mantener la temperatura constante..."
 
 @215
 <en>{Kazushi}\n"Yes."
-<es>
+<es>{Kazushi}\n"Sí."
 
 @216
 <en>I'm in charge of the heat adjusting again.
-<es>
+<es>Vuelvo a estar a cargo del ajuste de la temperatura.
 
 @217
 <en>Miss. Ibuki came really close next to me looking into the flask.
-<es>
+<es>La señorita Ibuki se ha acercado mucho a mí para mirar en el frasco.
 
 @220
 <en>I can smell her goo scent.
-<es>
+<es>Puedo oler su perfume.
 
 @221
 <en>Do all matured lady smell this good?
-<es>
+<es>¿Todas las mujeres maduritas huelen así de bien?
 
 @224
+# Revisar.
 <en>{Mei}\n"Wow, this was fast.\nThe ingredients are already responding to one another."
-<es>
+<es>{Mei}\n"Vayam qué rápido.\nLas sustancias ya están interactuando entre sí."
 
 @225
 <en>{Kazushi}\n"I can see that."
-<es>
+<es>{Kazushi}\n"Sí, es verdad."
 
 @226
 <en>It's turning black already.
-<es>
+<es>Ya se está volviendo negro.
 
 @229
 <en>{Mei}\n"Let's adjust the heat."
-<es>
+<es>{Mei}\n"Ajusta la temperatura."
 
 @230
 <en>{Kazushi}\n"Got it!"
-<es>
+<es>{Kazushi}\n"¡Entendido!"
 
 @231
 <en>I wanna show her I can do this.
-<es>
+<es>Quiero enseñarle que soy capaz de hacerlo.
 
 @235
 <en>{Principal}\n"You can do it."
-<es>
+<es>{Directora}\n"Puedes hacerlo."
 
 @236
 <en>{Kazushi}\n"I'll do my best......"
-<es>
+<es>{Kazushi}\n"Lo haré lo mejor que pueda..."
 
 @237
 <en>I'm not trying to impress the principal though.
-<es>
+<es>Aunque mi intención no es impresionar a la directora.
 
 @239
 <en>I'm really aware of how Miss. Ibiuki watches me.
-<es>
+<es>Soy realmente consciente de cómo me mira la señorita Ibuki.
 
 @242
 <en>{Mei}\n"There.\nMaybe little more......"
-<es>
+<es>{Mei}\n"Venga.\nQuizá un poquito más..."
 
 @243
 <en>Her hand reached out from my back.
@@ -350,15 +356,15 @@
 
 @247
 <en>She smells really good.\nHer breasts are touching my arm.
-<es>
+<es>Huele realmente bien, y sus tetas están en contacto con mi brazo.
 
 @250
 <en>{Mei}\n"This is about right."
-<es>
+<es>{Mei}\n"Ya está casi."
 
 @251
 <en>{Kazushi}\n"Yes......"
-<es>
+<es>{Kazushi}\n"Sí..."
 
 @254
 <en>{Mei}\n"Are you all right?\nWhy do you sound funny?"
@@ -366,43 +372,43 @@
 
 @255
 <en>{Kazushi}\n"No!\nnothing!"
-<es>
+<es>{Kazushi}\n"¡No!\n¡No es nada!"
 
 @258
 <en>{Mei}\n"Are you sure?"
-<es>
+<es>{Mei}\n"¿Estás seguro?"
 
 @259
 <en>{Kazushi}\n"Ofcourse!"
-<es>
+<es>{Kazushi}\n"¡Por supuesto!"
 
 @260
 <en>I can't concentrate.\nHer breasts feel so soft!
-<es>
+<es>No puedo concentrarme.\n¡Sus tetas son tan suaves!
 
 @263
 <en>{Mei}\n"Why is your face all turned red?\nDo you have fever?"
-<es>
+<es>{Mei}\n"¿Por qué se te ha puesto la cara roja?\n¿Tienes fiebre?"
 
 @264
 <en>[Miss. Ibuki puts her forehead on Kazushi's forehead]
-<es>
+<es>*La señorita ibuki coloca su frente sobre la frente de Kazushi*
 
 @265
 <en>{Kazushi}\n"......!?"
-<es>
+<es>{Kazushi}\n"¿¡...!?"
 
 @266
 <en>Her forehead is on my forehead!
-<es>
+<es>Nuestras frentes están en contacto.
 
 @267
 <en>{Kazushi}\n"Oh my god!"
-<es>
+<es>{Kazushi}\n"¡Joder, joder!"
 
 @270
 <en>{Mei}\n"What......hey!?"
-<es>
+<es>{Mei}\n"¿Qué...? ¿¡Ey...!?"
 
 @271
 <en>{Kazushi}\n"!!......"
@@ -418,7 +424,7 @@
 
 @278
 <en>{Daigo}\n"Calm down, Kazushi."
-<es>
+<es>{Daigo}\n"Tranquilízate, Kazushi."
 
 @279
 <en>{Appo-}\n"Sorry, people.\nJust give us a minute."
@@ -426,7 +432,7 @@
 
 @284
 <en>{Mei}\n"What's going on?"
-<es>
+<es>{Mei}\n"¿Qué ocurre?"
 
 @288
 <en>[Boys slapping on Kazushi's cheeks outside]
@@ -434,27 +440,27 @@
 
 @295
 <en>{Mizuki}\n"What was that sound?"
-<es>
+<es>{Mizuki}\n"¿Qué ha sido ese ruido?"
 
 @296
 <en>{Rei}\n"Sounds like somebody is getting slapped."
-<es>
+<es>{Rei}\n"Ha sonado como si alguien estuviese siendo abofeteado."
 
 @307
 <en>{Pierre}\n"Thanks for waiting-"
-<es>
+<es>{Pierre}\n"Gracias por esperar."
 
 @311
 <en>{Kazushi}\n"Sorry guys!\nI'm all right now!"
-<es>
+<es>{Kazushi}\n"¡Lo sientom chicos!\n¡Ya estoy bien!"
 
 @314
 <en>{Mei}\n"Sure?\nYou surprised us for falling down on the floor all the sudden."
-<es>
+<es>{Mei}\n"¿Seguro?\nNos hemos quedado muy preocupadas al verte caer al suelo de repente."
 
 @315
 <en>{Kazushi}\n"Sorry guys."
-<es>
+<es>{Kazushi}\n"Lo siento."
 
 @316
 <en>I think my safty lock was unlocked by Miss. Ibuki's forehead.
@@ -462,49 +468,49 @@
 
 @317
 <en>{Kazushi}\n"Where were we......?"
-<es>
+<es>{Kazushi}\n"¿Dónde estamos...?"
 
 @318
 <en>When I returned to the room, our flask was turned into green.
-<es>
+<es>Cuando regresé a la habitación, nuestro frasco ya estaba verde.
 
 @321
 <en>{Mei}\n"It looks like we didn't succeed this time."
-<es>
+<es>{Mei}\n"Parece que no lo hemos conseguido esta vez."
 
 @322
 <en>{Kazushi}\n"Opps......\nmy mistake."
-<es>
+<es>{Kazushi}\n"Ups...\nMea culpa."
 
 @323
 <en>It must have happened because I left the room for a minute.
-<es>
+<es>Debe haber pasado por el rato que he estado "ausente".
 
 @327
 <en>{Principal}\n"You need to be able to control your mind to be successful in Alchemy."
-<es>
+<es>{Directora}\n"Debes ser capaz de controlar tu mente para tener éxito con la Alquimia."
 
 @328
 <en>{Kazushi}\n"My mind......"
-<es>
+<es>{Kazushi}\n"Mi mente..."
 
 @329
 <en>It tells that I'm still not matured enough.
-<es>
+<es>Lo que significa que todavía no he madurado lo suficiente.
 
 @333
 <en>{Mei}\n"This was only your first time. You'll do better next time."
-<es>
+<es>{Mei}\n"Era tu primera vez. Lo harás mejor a la próxima."
 
 @334
 <en>{Kazushi}\n"I'll try!"
-<es>
+<es>{Kazushi}\n"¡Lo intentaré!"
 
 @335
 <en>She is so generous.
-<es>
+<es>Es tan generosa...
 
 @336
 <en>I think I'm falling in love with her.
-<es>
+<es>Creo que me estoy enamorando de ella.
 
