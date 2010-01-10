@@ -1,28 +1,29 @@
 # Comments for '01203'
 
 @3
+# Pricy? Waht!
 <en>It might be pricy, but I have no other choice.
-<es>
+<es>Puede que sea egoísta, pero no tengo elección.
 
 @10
 <en>{Ran}\n"You want me to be nice to you?\nYou know what it takes, right?"
-<es>
+<es>{Ran}\n"¿Queréis que sea buena con vosotros?\n¿Sabéis lo que eso requiere, no?"
 
 @11
 <en>I knew it. I've already collected money from my guys.
-<es>
+<es>Ya lo sabía. Ya ha erecogido el dinero de mis colegas.
 
 @12
 <en>{Kazushi}\n"Here it is."
-<es>
+<es>{Kazushi}\n"Toma."
 
 @13
 <en>I handed her the money.
-<es>
+<es>Le di el dinero.
 
 @16
 <en>{Ran}\n"You know me very well."
-<es>
+<es>{Ran}\n"Me conoces muy bien."
 
 @19
 <en>She geve me a unsatisfied look. I guess it wasn't enough to make her happy.
@@ -34,91 +35,91 @@
 
 @23
 <en>She put the money in her purse.
-<es>
+<es>Mete el dinero en su bolso.
 
 @24
 <en>{Ran}\n"What exactly do you want me to do to be "nice"to you guys?"
-<es>
+<es>{Ran}\n"¿Qué es lo que queréis exáctamente para que sea "buena" con vosotros?"
 
 @25
 <en>{Kazushi}\n"I leave it up to you."
-<es>
+<es>{Kazushi}\n"Te lo dejo a ti."
 
 @30
 <en>{Pierre}\n"We've lost all the confidence."
-<es>
+<es>{Pierre}\n"Hemos perdido toda la confianza."
 
 @34
 <en>{Appo-}\n"Can you give me a kiss?"
-<es>
+<es>{Appo-}\n"¿Puedes darme un beso?"
 
 @37
 <en>{Ran}\n"A kiss? With this amount?"
-<es>
+<es>{Ran}\n"¿Un beso? ¿Por esta cantidad?"
 
 @38
 <en>{Kazushi}\n"It's the matter of amount of money?"
-<es>
+<es>{Kazushi}\n"¿Es cosa de la cantidad de dinero?"
 
 @39
 <en>I hope she's not selling her body to someone.
-<es>
+<es>Espero que no venda su cuerpo a nadie.
 
 @40
 <en>{Kazushi}\n"Hey, Ran."
-<es>
+<es>{Kazushi}\n"Oye, Ran."
 
 @44
 <en>{Ran}\n"What?"
-<es>
+<es>{Ran}\n"¿Qué?"
 
 @45
 <en>I beckon her to me.
-<es>
+<es>Le hago señas para que venga.
 
 @46
 <en>{Kazushi}\n"......you're not doing anything touches the law, right?"
-<es>
+<es>{Kazushi}\n"No estarás haciendo nada ilegal... ¿No?"
 
 @47
 <en>She smiled at me.
-<es>
+<es>Me sonrió.
 
 @48
 <en>{Ran}\n"You care about me?"
-<es>
+<es>{Ran}\n"¿Te preocupas por mí?"
 
 @49
 <en>{Kazushi}\n"I trust you."
-<es>
+<es>{Kazushi}\n"Confío en ti."
 
 @52
 <en>{Ran}\n"If you're so worried, why don't you buy me and make me yours."
-<es>
+<es>{Ran}\n"Si estás tan preocupado, ¿por qué no me compras y me haces tuyo?"
 
 @53
 <en>{Kazushi}\n"Me?"
-<es>
+<es>{Kazushi}\n"¿Yo?"
 
 @54
 <en>{Ran}\n"If I ever want to sell my body to some one, I'll call you."
-<es>
+<es>{Ran}\n"Si alguna vez quiero vender mi cuerpo a alguien, te llamaré."
 
 @55
 <en>{Kazushi}\n"I just wanted to make sure you're not doing anything stupid."
-<es>
+<es>{Kazushi}\n"Solo quería saber que no estabas haciendo ninguna estupidez."
 
 @56
 <en>She got me excited for a second.
-<es>
+<es>Me ha excitado por un momento.
 
 @60
 <en>{Appo-}\n"What are you two doing!\nI thought she's here to be nice to all of us!"
-<es>
+<es>{Appo-}\n"¿¡Qué estáis haciendo vosotros dos!?\n¡Pensaba que estaba aquí para ser buena con todos nosotros!"
 
 @65
 <en>{Ran}\n"All right.\nI'll start with you, Appo-."
-<es>
+<es>{Ran}\n"Está bien.\nEmpezaré contigo, Appo-."
 
 @66
 <en>{Appo-}\n"Please do so!"
@@ -129,12 +130,13 @@
 <es>
 
 @70
+# Revisar.
 <en>{Ran}\n"You have so much fat."
-<es>
+<es>{Ran}\n"Creo que estás muy gordo."
 
 @73
 <en>{Appo-}\n"What?"
-<es>
+<es>{Appo-}\n"¿Qué?"
 
 @74
 <en>{Ran}\n"And stop staring at girl's breasts."
@@ -146,85 +148,85 @@
 
 @79
 <en>{Ran}\n"Just keep that in your mind.\nYou're next Pierre!"
-<es>
+<es>{Ran}\n"Tenlo presente.\n¡Tú eres el siguiente Pierre!"
 
 @83
 <en>She pointed at Pierre.
-<es>
+<es>Señaló a Pierre.
 
 @84
 <en>{Pierre}\n"Me!?"
-<es>
+<es>{Pierre}\n"¿¡Yo!?"
 
 @87
 <en>{Ran}\n"Change your hairstyle."
-<es>
+<es>{Ran}\n"Cámbiate el estilo de pelo."
 
 @90
 <en>{Pierre}\n"You're joking, right!?"
-<es>
+<es>{Pierre}\n"¡Estás de guasa, ¿no?!"
 
 @91
 <en>{Ran}\n"Stop calling yourself Pierre. You're Japanese.\nAnd at last and for most, you smell!"
-<es>
+<es>{Ran}\n"Y deja de autollamarte Pierre. Eres japonés.\n¡Y por último...! ¡hueles!"
 
 @95
 <en>{Pierre}\n"I don't smell!"
-<es>
+<es>{Pierre}\n"¡No huelo!"
 
 @96
 <en>Actually, she's right about that.
-<es>
+<es>La verdad es que tiene razón en eso.
 
 @99
 <en>{Ran}\n"Daigo, you're next."
-<es>
+<es>{Ran}\n"Daigo, ahora te toca a ti."
 
 @103
 <en>Ran steps closer to Daigo.
-<es>
+<es>Ran da un paso hacia Daigo.
 
 @106
 <en>{Ran}\n"You look really old!\nStop wearing the same clothes over and over again."
-<es>
+<es>{Ran}\n"¡Pareces muy viejo!\nY deja de llevar la misma ropa siempre."
 
 @109
 <en>{Daigo}\n"It's comfortable."
-<es>
+<es>{Daigo}\n"Es cómoda."
 
 @110
 <en>{Ran}\n"And stop staring at girls-"
-<es>
+<es>{Ran}\n"Y deja de mirar a las chicas..."
 
 @114
 <en>{Daigo}\n"They knew it......"
-<es>
+<es>{Daigo}\n"Lo sabían..."
 
 @115
 <en>I thought she's here to be nice to us?
-<es>
+<es>Pensaba que iba a ser buena con nosotros...
 
 @119
 <en>{Kazushi}\n"What are you doing?"
-<es>
+<es>{Kazushi}\n"¿Qué estás haciendo?"
 
 @122
 <en>{Ran}\n"The real kindness is to point out your friends' weakness."
-<es>
+<es>{Ran}\n"La verdadera amabilidad consiste en decirles a tus amigos sus 'debilidades'."
 
 @123
 <en>{Kazushi}\n"We didn't look for that kind of kindness today."
-<es>
+<es>{Kazushi}\n"Hoy no estábamos buscando 'ese tipo' de amabilidad."
 
 @126
 <en>{Ran}\n"It's your turn now, Kazushi......"
-<es>
+<es>{Ran}\n"Ahora es tu turno, Kazushi..."
 
 @127
 <en>{Kazushi}\n"I don't wanna hear it."
-<es>
+<es>{Kazushi}\n"No quiero oírlo."
 
 @128
 <en>I shouldn't have asked her.
-<es>
+<es>No debería haberle preguntado.
 
