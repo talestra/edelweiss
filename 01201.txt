@@ -2,19 +2,19 @@
 
 @3
 <en>Haruka would still be nice to us.
-<es>
+<es>Haruka seguirá siendo amable con nosotros.
 
 @10
 <en>{Haruka}\n"What's wrong, guys?"
-<es>
+<es>{Haruka}\n"¿Qué ocurre, chicos?"
 
 @11
 <en>{Kazushi}\n"We need love!"
-<es>
+<es>{Kazushi}\n"¡Necesitamos amor!"
 
 @19
 <en>{Appo-}\n"We do!!"
-<es>
+<es>{Appo-}\n"¡¡Lo necesitamos!!"
 
 @20
 <en>We lined up and begged her.
@@ -22,7 +22,7 @@
 
 @26
 <en>{Haruka}\n"Sure-"
-<es>
+<es>{Haruka}\n"Claro-"
 
 @27
 <en>Yes!\nI knew she would say yes!
@@ -30,23 +30,23 @@
 
 @30
 <en>{Haruka}\n"What do you guys want me to do?"
-<es>
+<es>{Haruka}\n"¿Qué queréis que haga?"
 
 @35
 <en>{Pierre}\n"Kiss me! Kiss me!!"
-<es>
+<es>{Pierre}\n"¡Bésame! ¡¡Bésame!!"
 
 @38
 <en>{Haruka}\n"A kiss?"
-<es>
+<es>{Haruka}\n"¿Que os bese?"
 
 @45
 <en>{Appo-}\n"Me too! Kiss me!!"
-<es>
+<es>{Appo-}\n"¡A mí también! ¡¡Bésame!!"
 
 @49
 <en>{Daigo}\n"I wanna save my first kiss to someone I love......\nbut today is an exception......"
-<es>
+<es>{Daigo}\n"Yo quería reservarme mi primer beso para alguien a quien amase...\nPero hoy haré una excepción..."
 
 @56
 <en>Three men stick out their face to her.
@@ -54,169 +54,170 @@
 
 @62
 <en>{Haruka}\n"I can't do this......."
-<es>
+<es>{Haruka}\n"No puedo hacerlo..."
 
 @65
 <en>Haruka slowly retreats.
-<es>
+<es>Haruka se retira lentamente.
 
 @66
 <en>{Kazushi}\n"Stop it guys!\nYou 're scaring her."
-<es>
+<es>{Kazushi}\n"¡Parad chicos!\nLa estáis asustando."
 
 @71
 <en>{Pierre}\n"No kissing?\nThat would totally revive me."
-<es>
+<es>{Pierre}\n"¿No hay beso?\nEso me habría revivido completamente."
 
 @74
+# Ver si conviene más poner amado o amante.
 <en>{Haruka}\n"Sorry guys. I'll save it to my lover."
-<es>
+<es>{Haruka}\n"Lo siento chicos. Pero creo que lo guardaré para mi amado."
 
 @81
 <en>{Appo-}\n"Then, let me be your lover!"
-<es>
+<es>{Appo-}\n"Entonces, ¡permíteme ser tu amado!"
 
 @84
 <en>{Pierre}\n"Me too!"
-<es>
+<es>{Pierre}\n"¡A mí también!"
 
 @87
 <en>{Haruka}\n"I can't do that either-"
-<es>
+<es>{Haruka}\n"Tampoco puedo hacer eso."
 
 @91
 <en>Haruka hides behind my back.
-<es>
+<es>Haruka se oculta detrás de mí.
 
 @96
 <en>{Daigo}\n"......she chose Kazushi!"
-<es>
+<es>{Daigo}\n"¡Ha elegido a Kazushi...!"
 
 @97
 <en>{Kazushi}\n"Me?\nI got chosen?"
-<es>
+<es>{Kazushi}\n"¿Yo?\n¿Elegido?"
 
 @101
 <en>{Haruka}\n"I didn't say that."
-<es>
+<es>{Haruka}\n"Yo no he dicho eso."
 
 @102
 <en>{Kazushi}\n"You didn't......"
-<es>
+<es>{Kazushi}\n"No lo has hecho..."
 
 @103
 <en>Ofcourse not. She just hid behind me.
-<es>
+<es>Claro que no. Lo único que ha hecho ha sido esconderse detrás de mí.
 
 @109
 <en>{Appo-}\n"Kiss him!!"
-<es>
+<es>{Appo-}\n"¡¡Bésale!!"
 
 @110
 <en>{Pierre}\n"Kiss him!"
-<es>
+<es>{Pierre}\n"¡Bésale!"
 
 @111
 <en>My guys just wanna see her kiss somebody.
-<es>
+<es>Mis colegas solo querían verla besar a alguien.
 
 @116
 <en>{Haruka}\n"I can't kiss him-"
-<es>
+<es>{Haruka}\n"No puedo besarle."
 
 @117
 <en>{Kazushi}\n"Stop guys."
-<es>
+<es>{Kazushi}\n"Parad, chicos."
 
 @123
 <en>{Appo-}\n"Kiss him!"
-<es>
+<es>{Appo-}\n"¡Bésale!"
 
 @124
 <en>{Pierre}\n"Kiss him!"
-<es>
+<es>{Pierre}\n"¡Bésale!"
 
 @125
 <en>They don't stop trying.
-<es>
+<es>No dejan de intentarlo.
 
 @130
 <en>{Haruka}\n"What should I do......?"
-<es>
+<es>{Haruka}\n"¿Qué debería hacer...?"
 
 @131
 <en>{Kazushi}\n"Hey guys, that's enough......"
-<es>
+<es>{Kazushi}\n"Ey, chicos. Ya es suficiente..."
 
 @134
 <en>{Haruka}\n"......here!!"
-<es>
+<es>{Haruka}\n"... ¡¡Toma!!"
 
 @137
 <en>Haruka put her hand on my shoulder and jumped.
-<es>
+<es>Haruka apoyó su mano sobre mi hombro y saltó.
 
 @139
 <en>[Haruka kissing]
-<es>
+<es>*Haruka besando*
 
 @140
 <en>{Kazushi}\n"!?"
-<es>
+<es>{Kazushi}\n"¿¡...!?"
 
 @141
 <en>I felt something on my cheek.
-<es>
+<es>Sentí algo en la mejilla.
 
 @144
 <en>Haruka stares at boys.
-<es>
+<es>Haruka se queda mirando a los chicos.
 
 @145
 <en>{Haruka}\n"I did it!"
-<es>
+<es>{Haruka}\n"¡Lo he hecho!"
 
 @149
 <en>{Pierre}\n"I want one too!"
-<es>
+<es>{Pierre}\n"¡Yo también quiero uno!"
 
 @153
 <en>{Haruka}\n"No more---!!"
-<es>
+<es>{Haruka}\n"¡¡Ya no hay más!!"
 
 @157
 <en>She got shy and left. I still feel her kiss on my cheek.
-<es>
+<es>Se puso roja como un tomate y se fue. Yo todavía siento su beso en mi mejilla.
 
 @160
 <en>{Daigo}\n"Why you......?"
-<es>
+<es>{Daigo}\n"¿Por qué a ti...?"
 
 @165
 <en>{Appo-}\n"Let me taste her lips---!"
-<es>
+<es>{Appo-}\n"¡Deja que pruebe sus labios...!"
 
 @172
 <en>{Pierre}\n"Me too!!"
-<es>
+<es>{Pierre}\n"¡¡Yo también!!"
 
 @173
 <en>Kiss starving boys started to attack my cheek.
-<es>
+<es>Los chicos hambrientos por besos empezaron a atacar mi mejilla.
 
 @180
 <en>{Kazushi}\n"Hey, guys......"
-<es>
+<es>{Kazushi}\n"Eh, chicos..."
 
 @185
 <en>{Daigo}\n[Daigo licking Kazushi's cheek]
-<es>
+<es>{Daigo}\n*Chupando la mejilla de Kazushi*
 
 @186
 <en>{Kazushi}\n"Stop!!"
-<es>
+<es>{Kazushi}\n"¡¡Parad!!"
 
 @187
 <en>Nothing fronm Haruka is left on my cheek.
-<es>
+<es>No queda nada de Haruka en mi mejilla.
 
