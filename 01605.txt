@@ -2,71 +2,71 @@
 
 @5
 <en>{Kazushi}\n"I can't believe how lucky I am!"
-<es>
+<es>{Kazushi}\n"¡No puedo creer la suerte que tengo!"
 
 @6
 <en>Life is so interesting.
-<es>
+<es>La vida es tan interesante...
 
 @7
 <en>{Kazushi}\n"Life is good!"
-<es>
+<es>{Kazushi}\n"¡La vida es buena!"
 
 @8
 <en>{Kazushi}\n"Maybe I should stop laughing now."
-<es>
+<es>{Kazushi}\n"Quizá ya debería dejar de reirme."
 
 @9
 <en>I need to solve this situation.
-<es>
+<es>Tengo que solucionar esta situación.
 
 @12
 <en>{Kazushi}\n"......!!"
-<es>
+<es>{Kazushi}\n"¡¡...!!"
 
 @18
 <en>{Daigo}\n"Where is Kazushi?"
-<es>
+<es>{Daigo}\n"¿Dónde está Kazushi?"
 
 @23
 <en>{Mizuki}\n"He said he is going to the restroom."
-<es>
+<es>{Mizuki}\n"Ha dicho que iba al servicio."
 
 @30
 <en>{Teacher Yagami}\n"Let's start-, everyone get seated!"
-<es>
+<es>{Profesor Yagami}\n"Empecemos. ¡Sentaos todos!"
 
 @34
 <en>{Mizuki}\n"The class is starting."
-<es>
+<es>{Mizuki}\n"La clase acaba de empezar."
 
 @38
 <en>{Teacher Yagami}\n"......?\nWhere is Kazushi?"
-<es>
+<es>{Profesor Yagami}\n"¿...?\n¿Dónde está Kazushi?"
 
 @43
 <en>{Ran}\n"......I think he ditched-"
-<es>
+<es>{Ran}\n"Creo que se ha saltado la clase..."
 
 @46
 <en>{Teacher Yagami}\n"What!?"
-<es>
+<es>{Profesor Yagami}\n"¿¡Qué!?"
 
 @50
 <en>{Mizuki}\n"Where did he go?"
-<es>
+<es>{Mizuki}\n"¿A dónde ha ido?"
 
 @57
 <en>{Kazushi}\n"I can't believe I got lost in my own school."
-<es>
+<es>{Kazushi}\n"Me resulta increíble que haya sido capaz de perderme en mi propia escuela."
 
 @58
 <en>I just stepped out from my class for a restroom.
-<es>
+<es>Acababa de salir de clase para ir al servicio.
 
 @59
 <en>{Kazushi}\n"Shit!!\nIt's teacher Yagami's class next......"
-<es>
+<es>{Kazushi}\n"¡¡Joder!!\nY la siguiente clase la da el profesor Yagami..."
 
 @60
 <en>I don't know what I would get from him......
@@ -74,39 +74,42 @@
 
 @61
 <en>{Kazushi}\n"..................shit!"
-<es>
+<es>{Kazushi}\n"... ¡Joder!"
 
 @62
 <en>I need to go back as soon as possible.
-<es>
+<es>Tengo que llegar cuanto antes.
 
 @69
 <en>{Kazushi}\n"I'm even more lost now."
-<es>
+<es>{Kazushi}\n"Y ahora estoy hasta más perdido."
 
 @70
 <en>I never knew this school was so huge.
-<es>
+<es>No sabía que esta escuela fuese tan grande.
 
 @71
 <en>{Kazushi}\n"Shit-......\nI'm definitely late now."
-<es>
+<es>{Kazushi}\n"Mierda...\nYa llego tarde seguro."
 
 @72
 <en>At this point, I think it's better off not going back now. I don't know what Teacher Yagami's going to do to me in front of everybody.
-<es>
+<es>Llegados a este punto, creo que será mejor no volver. No sé lo que me haría el profesor Yagami delante de todos.
 
 @73
 <en>He will make me cry in front of everybody.
-<es>
+<es>Hará que me ponga a llorar delante de toda la clase.
 
 @74
+# Me pelaré la clase.
+# Haré campana.
+# Me saltaré la clase.
 <en>{Kazushi}\n"..................I'll ditch it."
-<es>
+<es>{Kazushi}\n"Me saltaré la clase..."
 
 @75
 <en>Since I'm going to ditch the class, I might as well utilize this time to explore this school land.
-<es>
+<es>Ya que voy a escaquearme, podría aprovechar el tiempo para explorar un poco la escuela.
 
 @76
 <en>{Kazushi}\n"I'm actually good at resetting my mind."
@@ -114,27 +117,27 @@
 
 @77
 <en>I started to wonder around school facility.
-<es>
+<es>Empecé a vagar por la escuela.
 
 @83
 <en>This looks like a library here.
-<es>
+<es>Aquí parece que hay una biblioteca.
 
 @84
 <en>{Kazushi}\n"It's a nice building for library."
-<es>
+<es>{Kazushi}\n"Es un buen edificio."
 
 @85
 <en>Yep, I see many books.
-<es>
+<es>Sip. Y tiene un montón de libros.
 
 @86
 <en>{Kazushi}\n"I wonder if there is comic books?"
-<es>
+<es>{Kazushi}\n"Me pregunto si tendrán comics."
 
 @87
 <en>If not, maybe I can find magazines at least.
-<es>
+<es>Si no, igual puedo encontrar al menos revistas.
 
 @88
 <en>{Kazushi}\n"I wonder if I can ever go back there."
@@ -146,23 +149,23 @@
 
 @90
 <en>{Kazushi}\n"Where are the comic books-?\nI don't mind porn either......"
-<es>
+<es>{Kazushi}\n"¿Dónde están los comics?\nY tampoco estaría mal un poco de porno..."
 
 @93
 <en>{Mei}\n"Is it you, Kazushi?"
-<es>
+<es>{Mei}\n"¿Eres tú, Kazushi?"
 
 @94
 <en>{Kazushi}\n"Wow!?"
-<es>
+<es>{Kazushi}\n"¿¡Guau!?"
 
 @97
 <en>{Mei}\n"Hey!?"
-<es>
+<es>{Mei}\n"¿¡Ey!?"
 
 @98
 <en>My voice echoed in empty library.
-<es>
+<es>Mi voz resonó en la vacía biblioteca.
 
 @99
 <en>Miss. Ibuki was surprised by that loud voice of mine.
@@ -170,7 +173,7 @@
 
 @102
 <en>{Kazushi}\n"Miss. Ibuki?"
-<es>
+<es>{Kazushi}\n"¿Señorita Ibuki?"
 
 @105
 <en>{Mei}\n"You surprised me!\nMy heart stopped for a second."
@@ -182,11 +185,11 @@
 
 @109
 <en>{Mei}\n"I think so.\nDo you wanna touch and check?"
-<es>
+<es>{Mei}\n"Eso creo.\n¿Quieres tocar para comprobarlo?"
 
 @110
 <en>{Kazushi}\n"......what!?"
-<es>
+<es>{Kazushi}\n"... ¿¡Qué!?"
 
 @113
 <en>I can see her big breasts still pounding.
@@ -194,67 +197,67 @@
 
 @114
 <en>{Kazushi}\n"Can I really touch it?"
-<es>
+<es>{Kazushi}\n"¿De verdad que puedo tocarlo?"
 
 @118
 <en>{Mei}\n"You didn't think I was serious, did you?"
-<es>
+<es>{Mei}\n"No creerás que lo decía en serio, ¿no?"
 
 @119
 <en>{Kazushi}\n"You were joking!?\nYou just broke my dream!"
-<es>
+<es>{Kazushi}\n"¿¡Así que era una broma!?\n¡Has hundido mis esperanzas!"
 
 @122
 <en>{Mei}\n"Don't be so dramatic about it. I guess I shouldn't joke around with you."
-<es>
+<es>{Mei}\n"No te pongas tan dramático. Supongo que no debería bromear contigo."
 
 @125
 <en>{Mei}\n"You are so difficult."
-<es>
+<es>{Mei}\n"Eres muy difícil."
 
 @126
 <en>{Kazushi}\n".................."
-<es>
+<es>{Kazushi}\n"..."
 
 @129
 <en>{Mei}\n"You really are difficult."
-<es>
+<es>{Mei}\n"Eres realmente difícil."
 
 @130
 <en>I was just so disappointed. I became speechless for a while.
-<es>
+<es>Estaba muy desilusionado. Me quedé sin habla durante un rato.
 
 @131
 <en>{Kazushi}\n"All right, then."
-<es>
+<es>{Kazushi}\n"Está bien."
 
 @134
 <en>{Mei}\n"Come on, don't be so naive......"
-<es>
+<es>{Mei}\n"Venga, no seas tan ingenuo..."
 
 @135
 <en>{Kazushi}\n"By the way, what are you doing here?"
-<es>
+<es>{Kazushi}\n"Por cierto. ¿Qué haces aquí?"
 
 @138
 <en>{Mei}\n"That's what I want to know. By the way, I'm also a librarian."
-<es>
+<es>{Mei}\n"Eso era lo mismo que iba a preguntarte. Por cierto, soy la bibliotecaria."
 
 @139
 <en>{Kazushi}\n"You arewhat?"
-<es>
+<es>{Kazushi}\n"¿Que eres qué?"
 
 @140
 <en>What is a librarian? I'm embarrassed to ask her.
-<es>
+<es>¿Qué es una 'bibliotecaria'? Me da vergüenza preguntarle.
 
 @143
 <en>{Mei}\n"Aren't you supposed to be in class now?"
-<es>
+<es>{Mei}\n"¿No se supone que deberías estar en clase?"
 
 @144
 <en>{Kazushi}\n"I should be."
-<es>
+<es>{Kazushi}\n"Debería."
 
 @145
 <en>If I think about it, it was not a good timing to see her here.
@@ -262,47 +265,47 @@
 
 @148
 <en>{Mei}\n"Are you perhaps ditching?"
-<es>
+<es>{Mei}\n"¿Acaso estás saltándote la clase?"
 
 @149
 <en>{Kazushi}\n"I can explain."
-<es>
+<es>{Kazushi}\n"Puedo explicarlo."
 
 @152
 <en>{Mei}\n"Go ahead."
-<es>
+<es>{Mei}\n"Adelante."
 
 @153
 <en>I told her honestly that I got lost.
-<es>
+<es>Le conté con honestidad que me había perdido.
 
 @154
 <en>It was embarrassing.
-<es>
+<es>Fue muy bochornoso.
 
 @157
 <en>{Mei}\n"You got lost?\nThat's so funny......"
-<es>
+<es>{Mei}\n"¿Qué te has perdido?\nQué divertido..."
 
 @158
 <en>See. I knew she'd laugh at me.
-<es>
+<es>¿Ves? Sabía que se reiría de mí.
 
 @159
 <en>She laughed at me like a little girl
-<es>
+<es>Se rió de mí como una niñita.
 
 @162
 <en>{Mei}\n"Well, I don't blame you. You are still new here."
-<es>
+<es>{Mei}\n"Bueno, no te culpo. Todavía eres nuevo."
 
 @163
 <en>{Kazushi}\n"How could I get lost just going to a restroom?"
-<es>
+<es>{Kazushi}\n"¿Cómo he podido perderme yendo al servicio?"
 
 @164
 <en>That's what I would like to know.
-<es>
+<es>Eso es lo que me gustaría saber.
 
 @167
 <en>{Mei}\n"You know in this school, sometimes, time and place gets mingled."
@@ -314,7 +317,7 @@
 
 @169
 <en>I don't understand a word of what she said.
-<es>
+<es>No entiendo una palabra de lo que me está diciendo.
 
 @172
 <en>{Mei}\n"I think it's got a lot to do with how we study Alchemy here."
