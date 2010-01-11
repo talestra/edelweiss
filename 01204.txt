@@ -18,63 +18,63 @@
 
 @15
 <en>[Kazushi sinking into bathtub]
-<es>
+<es>*Kazushi hundiéndose en la bañera*
 
 @17
 <en>{Kazushi}\n"......opps!\nThat was dangerous-"
-<es>
+<es>{Kazushi}\n"... ¡Ups!\nQué peligro."
 
 @18
 <en>I almost fell asleep in bathtub.
-<es>
+<es>Casi me quedo dormido en la bañera.
 
 @19
 <en>{Kazushi}\n"I heard people actually get drown in bathtub."
-<es>
+<es>{Kazushi}\n"He oído hablar sobre gente que se ha acabado ahogando en la bañera."
 
 @20
 <en>I need someone to talk to so I won't fall sleep in here.
-<es>
+<es>Tengo que encontrar a alguien con quien hablar para no quedarme dormido.
 
 @22
 <en>[Door opens]
-<es>
+<es>*La puerta se abre*
 
 @23
 <en>Oh, just when I needed a partner.
-<es>
+<es>Ah, mira qué bien. Justo cuando necesitaba un compañero.
 
 @25
 <en>[sound of footsteps]
-<es>
+<es>*Pasos*
 
 @26
 <en>For some reason, he looks really small.
-<es>
+<es>Por algún motivo, me parece realmente pequeño.
 
 @27
 <en>{???}\n"Ha!"
-<es>
+<es>{???}\n"¡Já!"
 
 @28
 <en>{Kazushi}\n"What a!?"
-<es>
+<es>{Kazushi}\n"¿¡Pero qué!?"
 
 @30
 <en>He jumped into the bathtub.
-<es>
+<es>Saltó a la bañera.
 
 @32
 <en>[Water splashing]
-<es>
+<es>*Agua salpicando*
 
 @33
 <en>{Kazushi}\n"Oh!!"
-<es>
+<es>{Kazushi}\n"¡¡Ah!!"
 
 @34
 <en>Splash got my face.
-<es>
+<es>Me ha salpicado en la cara.
 
 @35
 <en>{Kazushi}\n"What are you doing---------?!!\nYou're not supposed to do that!!"
@@ -86,47 +86,47 @@
 
 @38
 <en>[Water splashing]
-<es>
+<es>*Agua salpicando*
 
 @44
 <en>{Natsume}\n[Natsume taking a deep breath]
-<es>
+<es>{Natsume}\n*Respirando profundamente*
 
 @45
 <en>{Kazushi}\n"What......?"
-<es>
+<es>{Kazushi}\n"¿Qué...?"
 
 @46
 <en>It was Natsume.
-<es>
+<es>Era Natsume.
 
 @47
 <en>{Natsume}\n"Oh, hey Kazushi."
-<es>
+<es>{Natsume}\n"Ah. Ey, Kazushi."
 
 @48
 <en>{Kazushi}\n"Natsume!?\nWhat are you doing here!?"
-<es>
+<es>{Kazushi}\n"¿¡Natsume!?\n¿¡Qué estás haciendo aquí!?"
 
 @49
 <en>{Natsume}\n"What's wrong with me taking a bath?\nI take bath everyday."
-<es>
+<es>{Natsume}\n"¿Qué pasa porque me de un baño?\nMe baño todos los días."
 
 @50
 <en>{Kazushi}\n"I mean this is not girls' shower room!"
-<es>
+<es>{Kazushi}\n"¡Me refiero a que esta no es la ducha de las chicas!"
 
 @51
 <en>{Natsume}\n"???\nDoes it matter?"
-<es>
+<es>{Natsume}\n"¿¿...??\n¿Y importa?"
 
 @52
 <en>{Kazushi}\n"Ofcourse it does!\n!!"
-<es>
+<es>{Kazushi}\n"¡¡Claro que importa!!"
 
 @53
 <en>{Natsume}\n"I don't care."
-<es>
+<es>{Natsume}\n"Me da igual."
 
 @54
 <en>{Kazushi}\n"I do----!"
@@ -134,47 +134,50 @@
 
 @55
 <en>I don't think she'll get it.
-<es>
+<es>No creo que lo fuese a entender.
 
 @56
 <en>I just hope that no one sees us taking a bath together.
-<es>
+<es>Tan solo espero que nadie nos vea bañándonos juntos.
 
 @57
 <en>{Natsume}\n"Who cares......"
-<es>
+<es>{Natsume}\n"Qué más da..."
 
 @58
+# Revisar.
 <en>{Kazushi}\n"All right!\nJust remember some of us do care taking bath together with girls!"
-<es>
+<es>{Kazushi}\n"¡Está bien!\n¡Pero recuerda que a algunos de nosotros sí que nos importa bañarnos con chicas!"
 
 @59
 <en>I hope she understands.
-<es>
+<es>Espero que lo entienda.
 
 @60
 <en>{Natsume}\n"Really?\nI never thought this would be a problem."
-<es>
+<es>{Natsume}\n"¿En serio?\nNunca pensé que pudiera ser un problema."
 
 @61
+# Revisar.
 <en>{Kazushi}\n"Some of us can do really nasty stuff to you."
-<es>
+<es>{Kazushi}\n"Algunos de nosotros te podríamos hacer cosas muy malas."
 
 @62
+# Quizá convendría poner 'violado', aunque igual quedaría demasiado fuerte.
 <en>I can't believe she hasn't been attacked yet.
-<es>
+<es>Espero que no la hayan atacado ya.
 
 @63
 <en>{Kazushi}\n"Didn't you see the sign it says "men"on the door?"
-<es>
+<es>{Kazushi}\n"¿No has visto la señal 'Hombres' que hay en la entrada?"
 
 @64
 <en>How did she not see the sign before she entered.
-<es>
+<es>¿Cómo puede ser que no haya visto la señal al entrar?
 
 @65
 <en>{Natsume}\n"There is?"
-<es>
+<es>{Natsume}\n"¿La hay?"
 
 @66
 <en>{Kazushi}\n"How could you miss that?"
@@ -182,7 +185,7 @@
 
 @68
 <en>[Bubbles came up from the water]
-<es>
+<es>*Burbujas saliendo del agua*
 
 @69
 <en>{Kazushi}\n"What a!?"
@@ -194,7 +197,7 @@
 
 @71
 <en>{Natsume}\n"You farted."
-<es>
+<es>{Natsume}\n"Te has tirado un pedo."
 
 @72
 <en>{Kazushi}\n"No, I didn't."
@@ -202,7 +205,7 @@
 
 @73
 <en>{Natsume}\n"You farted, Kazushi."
-<es>
+<es>{Natsume}\n"Te has tirado un pedo, Kazushi."
 
 @74
 <en>{Kazushi}\n"No, I didn't. Did I?"
@@ -210,7 +213,7 @@
 
 @75
 <en>{Natsume}\n"Then why are you in panic?"
-<es>
+<es>{Natsume}\n"Entonces, ¿por qué estás preocupado?"
 
 @76
 <en>She finally revealed the trick. She was holding a basin.
@@ -218,11 +221,11 @@
 
 @77
 <en>{Kazushi}\n"You......"
-<es>
+<es>{Kazushi}\n"Tú..."
 
 @78
 <en>She fooled me.
-<es>
+<es>Me ha tomado el pelo.
 
 @79
 <en>{Kazushi}\n"That's so childish."
@@ -230,7 +233,7 @@
 
 @80
 <en>{Natsume}\n"I did it only to cheer you up."
-<es>
+<es>{Natsume}\n"Lo he hecho para animarte."
 
 @81
 <en>{Kazushi}\n"You did......?"
@@ -238,7 +241,7 @@
 
 @82
 <en>She noticed I had such a tough day and I was down?
-<es>
+<es>¿Se había percatado de que tenía un día difícil y de que estaba decaído?
 
 @83
 <en>{Natsume}\n"You're no fun."
@@ -250,15 +253,15 @@
 
 @85
 <en>{Natsume}\n"I see. Yeah, I can tell you're not the popular one among the girls."
-<es>
+<es>{Natsume}\n"Ya veo. Sí. No pareces ser muy popular entre las chicas."
 
 @86
 <en>Sometimes, she's too honest.
-<es>
+<es>A veces es demasiado honesta.
 
 @87
 <en>{Natsume}\n"I see.\nSo you're down now."
-<es>
+<es>{Natsume}\n"Ya veo.\nAsí que ahora estás de bajón."
 
 @88
 <en>{Kazushi}\n"I am.\nCan you be nice to me?"
@@ -266,7 +269,7 @@
 
 @89
 <en>{Natsume}\n"Sure."
-<es>
+<es>{Natsume}\n"Claro."
 
 @90
 <en>She reached out her hands over to my head.
@@ -274,19 +277,19 @@
 
 @91
 <en>{Kazushi}\n"Hey......"
-<es>
+<es>{Kazushi}\n"Ey..."
 
 @92
 <en>{Natsume}\n"Good boy......."
-<es>
+<es>{Natsume}\n"Buen chico..."
 
 @93
 <en>It's been a while someone patted my head.
-<es>
+<es>Había pasado mucho tiempo desde la últiam vez que alguien me dio palmaditas en la cabeza.
 
 @94
 <en>{Natsume}\n"Good boy......."
-<es>
+<es>{Natsume}\n"Buen chico..."
 
 @95
 <en>I have lost this feeling for a long time.
@@ -294,7 +297,7 @@
 
 @96
 <en>{Natsume}\n"Do you feel better?"
-<es>
+<es>{Natsume}\n"¿Te encuentras mejor ahora?"
 
 @97
 <en>{Kazushi}\n"I do.\nI remember my mom used to pat my head like this when I was little."
@@ -302,23 +305,23 @@
 
 @98
 <en>{Natsume}\n"Your mom?\nShe looks like me?"
-<es>
+<es>{Natsume}\n"¿Tu madre?\n¿Se parecía a mí?"
 
 @99
 <en>{Kazushi}\n"You guys don't look alike.\nBut you guys pat me the same way."
-<es>
+<es>{Kazushi}\n"No os parecéis.\nPero tenéis la misma forma de dar palmaditas."
 
 @100
 <en>{Natsume}\n"I see......"
-<es>
+<es>{Natsume}\n"Ya veo..."
 
 @101
 <en>{Kazushi}\n"Did you used to get patted like this from your mom, too?"
-<es>
+<es>{Kazushi}\n"¿A ti también te daba palmaditas en la cabeza tu madre?"
 
 @102
 <en>{Natsume}\n"............this is my dad's way."
-<es>
+<es>{Natsume}\n"... Es la forma en la que lo hacía mi padre."
 
 @103
 <en>{Kazushi}\n"Oh, this way is your dad's way?"
@@ -326,7 +329,7 @@
 
 @104
 <en>If I think about it, she's right, it's the father who usually pats the daughters.
-<es>
+<es>Si lo piensas un poco tiene su lógica. Son los padres los que suelen dar palmaditas a las hijas.
 
 @105
 <en>{Kazushi}\n"Do you like your father?"
@@ -334,11 +337,11 @@
 
 @106
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @107
 <en>{Kazushi}\n"Natume, are you listening?"
-<es>
+<es>{Kazushi}\n"Natume, ¿me estás escuchando?"
 
 @108
 <en>{Natsume}\n"......if you feel so good, you can fall sleep."
@@ -354,13 +357,14 @@
 
 @111
 <en>It seems like she got upset all the sudden after I mentioned about her father.
-<es>
+<es>Parece que se ha mosqueado repentinamente en cuanto he mencionado a su padre.
 
 @112
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @113
+# Revisar.
 <en>I reflained from asking her too much about her father.
-<es>
+<es>Evité preguntarle más sobre su padre.
 

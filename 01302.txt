@@ -2,19 +2,19 @@
 
 @5
 <en>{Kazushi}\n"It's so much cooler outside."
-<es>
+<es>{Kazushi}\n"Hace mucho más frío fuera."
 
 @6
 <en>Since our dorm doesn't have air conditioning, it becomes like sauna late in the afternoon.
-<es>
+<es>Como nuestro dormitorio no tiene aire acondicionado, acaba como una sauna por la tarde.
 
 @7
 <en>It's better to stay outside untill sun sets and it gets cooler.
-<es>
+<es>Lo mejor es quedarse fuera hasta que anochece y hace un poco más de frío.
 
 @8
 <en>{Kazushi}\n"I guess I'm gradually getting used to living here."
-<es>
+<es>{Kazushi}\n"Supongo que poco a poco me estoy acostumbrando a vivir aquí."
 
 @9
 <en>It feels like home when I come back to my dorm room.
@@ -22,7 +22,7 @@
 
 @11
 <en>{Kazushi}\n"What is that noise?"
-<es>
+<es>{Kazushi}\n"¿Qué es ese ruido?"
 
 @12
 <en>I hear sound of water flow.
@@ -30,7 +30,7 @@
 
 @13
 <en>{Kazushi}\n"It's a swimming pool."
-<es>
+<es>{Kazushi}\n"Es una piscina."
 
 @14
 <en>I heard flow of water from the area surrounded by fences.\nIt's got to be a swimming pool.
@@ -38,19 +38,19 @@
 
 @15
 <en>The sound of water flow attracted me.
-<es>
+<es>El sonido del agua fluyendo me ha atraído.
 
 @16
 <en>{Kazushi}\n"Maybe somebody is swimming."
-<es>
+<es>{Kazushi}\n"Quizá haya alguien nadando."
 
 @17
 <en>I'm glad I found a swimming pool. From now on, I can swim on the day I can't take the heat.
-<es>
+<es>Qué bien que haya encontrado una piscina. A partir de ahora podré nadar los días que no aguante el calor.
 
 @18
 <en>{Kazushi}\n"I wanna take a look at it."
-<es>
+<es>{Kazushi}\n"Voy a echar un vistazo."
 
 @22
 <en>I peeped inside the fence from a gap. ......
@@ -58,19 +58,21 @@
 
 @26
 <en>{Kazushi}\n"Oh my.................."
-<es>
+<es>{Kazushi}\n"Madre mía..."
 
 @29
+# Revisar.
 <en>I got speechless.\nSomebody was swimming naked under the blue sky.
-<es>
+<es>Me he quedado sin palabras.\nHabía alguien nadando desnuda bajo el cielo azul.
 
 @30
 <en>She was so beautiful to the point she didn't make me think of anything naughty.
-<es>
+<es>Era tan guapa que no me hacía pensar ninguna obscenidad.
 
 @31
+# Revisar.
 <en>I couldn't keep my eyes off her healthy looking body.
-<es>
+<es>No podía quitar mis ojos de su saludable cuerpo.
 
 @32
 <en>All of a sudden, my mind recalled a de javu.\nNot too long ago, I've encountered this body......
@@ -78,27 +80,28 @@
 
 @35
 <en>{Mizuki}\n"......!!"
-<es>
+<es>{Mizuki}\n"¡¡...!!"
 
 @36
 <en>She noticed I'm watching her.
-<es>
+<es>Se ha dado cuenta de que la estaba mirando.
 
 @37
+# Revisar. 'No es lo que te piensas.'
 <en>{Kazushi}\n"Hey, this is not what you think. I wasn't peeping."
-<es>
+<es>{Kazushi}\n"Oye, no es lo que parece. No estaba espiando."
 
 @40
 <en>I made up an excuse which probably made her more suspicious of me.
-<es>
+<es>Salí con una excusa que probablemente me hizo parecer aún más sospechoso.
 
 @41
 <en>{Kazushi}\n"I'm sorry!\nI didn't mean to......"
-<es>
+<es>{Kazushi}\n"¡Lo siento!\nNo pretendía..."
 
 @42
 <en>{Mizuki}\n".................."
-<es>
+<es>{Mizuki}\n"..."
 
 @43
 <en>{Kazushi}\n"Oh hey......"
@@ -114,11 +117,11 @@
 
 @46
 <en>A mermaid......?
-<es>
+<es>¿Una sirena...?
 
 @49
 <en>{Kazushi}\n"Oh yeah!"
-<es>
+<es>{Kazushi}\n"¡Ah, sí!"
 
 @50
 <en>I found the missing piece of my memory!
@@ -126,11 +129,11 @@
 
 @51
 <en>{Kazushi}\n"Now I remembered!"
-<es>
+<es>{Kazushi}\n"¡Acabo de recordarlo!"
 
 @56
 <en>{Mizuki}\n"What did you remember?"
-<es>
+<es>{Mizuki}\n"¿Qué acabas de recordar?"
 
 @57
 <en>{Kazushi}\n"The day we got to this island!\nWeren't you swimming in the ocean!?"
@@ -138,51 +141,53 @@
 
 @60
 <en>{Mizuki}\n"......!!"
-<es>
+<es>{Mizuki}\n"¡¡...!!"
 
 @61
 <en>I already know that was her.\nThat wasn't a mermaid. That was Mizuki.
 <es>
 
 @64
+# Revisar. Hay que ver si pregunta a que si lo acaba de recordar o que si lo había recordado todo este tiempo.
 <en>{Mizuki}\n"You remembered everything?"
-<es>
+<es>{Mizuki}\n"¿Lo recuerdas todo?"
 
 @65
+# Revisar. Sirena/Sirenita.
 <en>{Kazushi}\n"Sure I do!\nThat was you!\nI knew there is no mermaid."
-<es>
+<es>{Kazushi}\n"¡Claro que sí!\n'Eras tú!\nYa sabía que no existían las sirenitas."
 
 @68
 <en>{Mizuki}\n"What?\nWhat are you talking about?"
-<es>
+<es>{Mizuki}\n"¿Qué?\n¿De qué estás hablando?"
 
 @69
 <en>{Kazushi}\n"When I first saw you, I thought there was a mermaid. I never thought that was you!"
-<es>
+<es>{Kazushi}\n"La primera vez que te vi, pensé que eras una sirenita. ¡Nunca pensé que fueras tú!"
 
 @70
 <en>......besides, I didn't really pay attention of her face. My attention was at somewhere else.
-<es>
+<es>Además... No me fijé mucho en la cara. Mis ojos estaban centrados en otros sitios.
 
 @71
 <en>{Mizuki}\n"You thought I was a mermaid?"
-<es>
+<es>{Mizuki}\n"¿Pensabas que era una sirenita?"
 
 @72
 <en>{Kazushi}\n"Well because, you didn't come to the surface of the water for a while. We were waiting for you to come to the surface of the water."
-<es>
+<es>{Kazushi}\n"Bueno, no saliste a la superficie del agua durante un buen rato. Nos quedamos esperando a que salieses."
 
 @75
 <en>{Mizuki}\n"Yeah, I remember hiding inside the water as long as I could. I can do it for like 5 minutes."
-<es>
+<es>{Mizuki}\n"Sí, recuerdo que me escondí en el agua todo lo que pude. Puedo aguantar hasta cinco minutos."
 
 @76
 <en>{Kazushi}\n"minutes? Wow."
-<es>
+<es>{Kazushi}\n"¿Minutos? Increíble."
 
 @79
 <en>{Mizuki}\n"I'm good at swimming."
-<es>
+<es>{Mizuki}\n"Soy buena nadando."
 
 @80
 <en>She showed me her attractive smile as she continued. I can't keep my eyes off her.
@@ -190,7 +195,7 @@
 
 @83
 <en>{Mizuki}\n"Hey......"
-<es>
+<es>{Mizuki}\n"Ey..."
 
 @84
 <en>I didn't recognized I was staring at her.
@@ -222,27 +227,27 @@
 
 @93
 <en>{Kazushi}\n"Oh......"
-<es>
+<es>{Kazushi}\n"Ah..."
 
 @94
 <en>She's right. I took a very good look at her naked body.
-<es>
+<es>Tiene razón. Le pegué un buen vistazo a su cuerpo desnudo.
 
 @97
 <en>{Mizuki}\n"How well could you see me?"
-<es>
+<es>{Mizuki}\n"¿Cómo de bien pudiste verme?"
 
 @98
 <en>{Kazushi}\n"Not lower body. I didn't see anything below your waist."
-<es>
+<es>{Kazushi}\n"No pude ver la parte inferior. No vi nada por debajo de la cintura."
 
 @101
 <en>{Mizuki}\n"Honestly?"
-<es>
+<es>{Mizuki}\n"¿De verdad?"
 
 @102
 <en>{Kazushi}\n"I promise!\nIf I did, I wouldn't have mistaken you as a mermaid, right?"
-<es>
+<es>{Kazushi}\n"¡Lo prometo!\nAdemás, si lo hubiese visto, no te habría confundido con una sirenita, ¿no?"
 
 @105
 <en>{Mizuki}\n"You are right.\n......is that it?"
@@ -250,75 +255,76 @@
 
 @106
 <en>{Kazushi}\n"Nothing else......"
-<es>
+<es>{Kazushi}\n"Nada más..."
 
 @107
 <en>I tried to recall my memory from that day.
-<es>
+<es>Traté de recordar aquel día.
 
 @112
 <en>Yeah, that was definitely Maizuki.
-<es>
+<es>Sí, definitivamente era Mizuki.
 
 @113
+# Revisar. Pechos.
 <en>And I clearly remembered I was in awe of her breasts.
-<es>
+<es>Y recuerdo claramente lo impresionado que estaba de sus tetas.
 
 @114
 <en>I could see everything including her nipples!
-<es>
+<es>¡Le pude ver hasta los pezones!
 
 @117
 <en>{Kazushi}\n".................."
-<es>
+<es>{Kazushi}\n"..."
 
 @120
 <en>{Mizuki}\n"Hey......Kazushi......?"
-<es>
+<es>{Mizuki}\n"Ey... ¿Kazushi...?"
 
 @121
 <en>{Kazushi}\n"Sorry! I saw your breasts!"
-<es>
+<es>{Kazushi}\n"¡Lo siento! ¡Te vi las tetas!"
 
 @124
 <en>{Mizuki}\n"You did......?"
-<es>
+<es>{Mizuki}\n"¿Me las viste...?"
 
 @125
 <en>{Kazushi}\n"......yes, I did."
-<es>
+<es>{Kazushi}\n"... Sí, así es."
 
 @128
 <en>{Mizuki}\n"--------!!"
-<es>
+<es>{Mizuki}\n"¡¡...!!"
 
 @129
 <en>She's speechless. Maybe I should've lied.
-<es>
+<es>No sé qué decir. Quizá debería haberle mentido.
 
 @130
 <en>I should appologize again!
-<es>
+<es>¡Me volví a disculpar!
 
 @131
 <en>{Kazushi}\n"I'm sorry!"
-<es>
+<es>{Kazushi}\n"¡Lo siento!"
 
 @134
 <en>{Mizuki}\n"It was my fault, too.\nI totally forgot that was the day you guys are arriving......"
-<es>
+<es>{Mizuki}\n"También fue mi culpa.\nMe olvidé por completo que ese día era cuando veníais..."
 
 @135
 <en>{Kazushi}\n"Does that mean you always swim naked?"
-<es>
+<es>{Kazushi}\n"¿Quieres decir que nadas siempre desnuda?"
 
 @136
 <en>{Mizuki}\n"Remember, untill you guys come, this place belonged to girls only......"
-<es>
+<es>{Mizuki}\n"Recuerda que hasta que vinísteis, este lugar era únicamente para chicas..."
 
 @137
 <en>Then, I must have been very lucky that day.
-<es>
+<es>Entonces, debí estar de suerte aquel día.
 
 @138
 <en>{Kazushi}\n"Sorry, we must have arrived on the wrong time."
@@ -326,27 +332,27 @@
 
 @141
 <en>{Mizuki}\n"No. It's O.K now. It was just a small accident."
-<es>
+<es>{Mizuki}\n"No. Ya no pasa nada. Fue un pequeño accidente."
 
 @142
 <en>Now I know why she's been cold to me.
-<es>
+<es>Ahora comprendo por qué ha sido tan fría conmigo.
 
 @143
 <en>I'm glad we had this talk.
-<es>
+<es>Me alegro de que hayamos tenido esta charla.
 
 @146
 <en>{Mizuki}\n"You seem to be a trust worthy guy. I trust you."
-<es>
+<es>{Mizuki}\n"Pareces ser un chico de fiar. Me fío de ti."
 
 @147
 <en>She showed me the attractive smile again.
-<es>
+<es>Volvió a mostrarme su atractiva sonrisa.
 
 @150
 <en>{Mizuki}\n"......!!"
-<es>
+<es>{Mizuki}\n"¡¡...!!"
 
 @151
 <en>She rememberede something and put off that smile from her face.
@@ -354,15 +360,15 @@
 
 @152
 <en>{Mizuki}\n"It was just you, right? Your friends didn't see me, did they?"
-<es>
+<es>{Mizuki}\n"Solo fuiste tú, ¿no? Tus amigos no llegaron a verme, ¿verdad?"
 
 @153
 <en>{Kazushi}\n"I can promise you they didn't.\nThey didn't trust my mermaid story."
-<es>
+<es>{Kazushi}\n"Te prometo que no.\nNo se creyeron mi historia sobre la sirenita."
 
 @156
 <en>{Mizuki}\n"Good."
-<es>
+<es>{Mizuki}\n"Bien."
 
 @157
 <en>She put her arms in front of her breasts as she feels safer.
