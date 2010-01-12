@@ -2,27 +2,28 @@
 
 @6
 <en>{Principal}\n"We will clean up the entire school today."
-<es>
+<es>{Directora}\n"Hoy limpiaremos la escuela entera."
 
 @7
 <en>That was the first thing she said today.
-<es>
+<es>Esa es la primera cosa que escuchamos hoy.
 
 @11
 <en>{Pierre}\n"Having a cleaning day on a offday-!?\nIt's so not cool-"
-<es>
+<es>{Pierre}\n"¿¡Tener que invertir el día en limpiar siendo fiesta!?\nNo tiene ninguna gracia."
 
 @16
 <en>{Daigo}\n"I heard we do this before summer break every year."
-<es>
+<es>{Daigo}\n"He oído que se hace todos los años antes de las vacaciones de verano."
 
 @17
 <en>{Kazushi}\n"We still have 10 days till the break, don't we?"
-<es>
+<es>{Kazushi}\n"Todavía faltan 10 días hasta las vacaciones, ¿no?"
 
 @21
+# exámenes finales
 <en>{Ran}\n"I know, I can't believe this.\nWe have finals next week."
-<es>
+<es>{Ran}\n"Ya. No me lo puedo creer.\nY tenemos los finales la semana que viene."
 
 @22
 <en>{Pierre}\n"That's right.\nWhy is there such thing as "finals"anyways?"
@@ -34,55 +35,56 @@
 
 @31
 <en>{Sakura}\n"Hey guys, why don't we all study together?"
-<es>
+<es>{Sakura}\n"Ey chicos. ¿Por qué no estudiamos todos juntos?"
 
 @32
 <en>She seems proud of her idea.
-<es>
+<es>Parece orgullosa de su idea.
 
 @37
 <en>{Pierre}\n"That's a good idea.\nI've always wanted to study with girls-"
-<es>
+<es>{Pierre}\n"Es una buena idea.\nSiempre he querido estudiar con chicas."
 
 @41
 <en>{Appo-}\n"And we can study something else together, too, you know?"
-<es>
+<es>{Appo-}\n"Y tambén podemos estudiar otras cosas juntos. Ya sabes..."
 
 @44
 <en>{Sakura}\n"What? What else do we study besides finals?"
-<es>
+<es>{Sakura}\n"¿Qué? ¿Qué otra cosa podríamos estudiar además de los finales?"
 
 @48
 <en>{Hu-sen}\n"Hey, Sakura."
-<es>
+<es>{Hu-sen}\n"Oye, Sakura."
 
 @52
 <en>{Sakura}\n"......what!?"
-<es>
+<es>{Sakura}\n"... ¿¡Qué!?"
 
 @56
+# (O la boca, si es que le tapa la boca.)
 <en>Out from nowhere, Rei's hand reached out and grabbed Sakura's face.
-<es>
+<es>De la nada, la mano de Rei alcanzó la cara de Sakura.
 
 @57
 <en>{Sakura}\n"@#$%^&-?"
-<es>
+<es>{Sakura}\n"¿@#$%^&-?"
 
 @61
 <en>{Hu-sen}\n"We are still in morning assembly, be quiet."
-<es>
+<es>{Hu-sen}\n"Seguimos en la asamblea matutina, mantente en silencio."
 
 @65
 <en>{Rei}\n"That's right!"
-<es>
+<es>{Rei}\n"¡Tiene razón!"
 
 @66
 <en>{Sakura}\n[Sakura laughing]
-<es>
+<es>{Sakura}\n*Riéndose*
 
 @71
 <en>{Hu-sen}\n"Shut up!"
-<es>
+<es>{Hu-sen}\n"¡Cállate!"
 
 @73
 <en>We gave two girls a mean look as they turned their head back to the front.
@@ -98,11 +100,11 @@
 
 @82
 <en>{Kazushi}\n"Daigo's right."
-<es>
+<es>{Kazushi}\n"Daigo tiene razón."
 
 @83
 <en>Nobody wants fight. It's always best to ignore mean people.
-<es>
+<es>Nadie quiere pelea. La mejor idea es siempre ignorar a la gente mala.
 
 @88
 <en>{Principal}\n"You may go back to your home room."
@@ -110,7 +112,7 @@
 
 @89
 <en>The morning assembly was over before we knew it.
-<es>
+<es>La asamblea matutina había terminado antes de que nos diésemos cuenta.
 
 @97
 <en>{Appo-}\n"I think we are good!\nGo ahead and drop it!"
