@@ -474,19 +474,19 @@
 
 @369
 <en>We saw black smoke coming out from a window.
-<es>
+<es>Vimos una especie de humo negro saliendo por la ventana.
 
 @372
 <en>{Appo-}\n"Is that a fire?"
-<es>
+<es>{Appo-}\n"¿Ha habido un incendio?"
 
 @373
 <en>My instinct was telling there is something terribly wrong.
-<es>
+<es>Mi instinto me decía que había pasado algo muy malo.
 
 @374
 <en>{Kazushi}\n"Let's go check it out!"
-<es>
+<es>{Kazushi}\n"¡Vayamos a investigar!"
 
 @379
 <en>{Kazushi}\n"Is everything all right?"
@@ -494,19 +494,19 @@
 
 @380
 <en>Enormous amount came out from the room as I opened the door.
-<es>
+<es>Salió una gran cantidad de humo en cuanto abrí la puerta.
 
 @383
 <en>{Mizuki}\n"So much smoke!"
-<es>
+<es>{Mizuki}\n"¡Cuánto humo!"
 
 @388
 <en>{Ran}\n"Something is burning!"
-<es>
+<es>{Ran}\n"¡Se está quemando algo!"
 
 @394
 <en>{Haruka}\n"Oh no......"
-<es>
+<es>{Haruka}\n"Oh, no..."
 
 @397
 <en>I saw two shadows over the smoke.
@@ -518,67 +518,68 @@
 
 @399
 <en>It's everymen's instinct to rescue girls.
-<es>
+<es>Es un instinto masculino la necesidad de rescatar chicas.
 
 @402
 <en>{Ran}\n"We need to get them out-!"
-<es>
+<es>{Ran}\n"¡Tenemos que sacarlas!"
 
 @407
+# Revisar.
 <en>{Mizuki}\n"I go get water hose!"
-<es>
+<es>{Mizuki}\n"¡Yo voy a por la manguera del agua!"
 
 @411
 <en>{Haruka}\n"I know there is fire extinguisher somewhere around here!"
-<es>
+<es>{Haruka}\n"¡Debe haber un extintor cerca de aquí!"
 
 @414
 <en>{Ran}\n"I will go get teachers!"
-<es>
+<es>{Ran}\n"¡Yo voy a buscar a los profesores!"
 
 @419
 <en>Rest of us have to figure out a way to get to them.
-<es>
+<es>El resto de nosotros tenemos que ver cómo las sacamos de allí.
 
 @422
 <en>{Appo-}\n"Hang in there!\nWe'll be right over!"
-<es>
+<es>{Appo-}\n"¡Aguantad!\n¡Enseguida estamos ahí!"
 
 @424
 <en>Appo- jumped into the smoke.
-<es>
+<es>Appo- saltó a la humareda.
 
 @425
 <en>{Kazushi}\n"I'm going in there, too!"
-<es>
+<es>{Kazushi}\n"¡Yo también voy!"
 
 @428
 <en>{Appo-}\n"No! Kazushi, you stay there and wait for my call!"
-<es>
+<es>{Appo-}\n"¡No! Kazushi, ¡espera ahí a que te avise!"
 
 @429
 <en>Appo- stopped me.
-<es>
+<es>Appo- me paró.
 
 @430
 <en>{Appo-}\n"Let me go take a look!"
-<es>
+<es>{Appo-}\n"¡Deja que vaya a echar un vistazo!"
 
 @432
 <en>I never knew he was so courageous.
-<es>
+<es>No sabía que fuese tan valiente.
 
 @433
 <en>{Appo-}\n"Are you guys all right!?"
-<es>
+<es>{Appo-}\n"¿¡Os encontráis bien!?"
 
 @434
 <en>I'm here to help you guys!
-<es>
+<es>¡Estoy aquí para ayudaros!
 
 @436
 <en>{???}\n"Ouch......"
-<es>
+<es>{???}\n"Au..."
 
 @437
 <en>One of them seemed to gained back conciousness as Appo- tried to talk to them.
@@ -586,23 +587,23 @@
 
 @438
 <en>{Appo-}\n"Are you hurt?"
-<es>
+<es>{Appo-}\n"¿Estás herida?"
 
 @439
 <en>He reached out to lift one of the girl.
-<es>
+<es>Llegó y levantó a una de las chicas.
 
 @440
 <en>{Appo-}\n"I don't mean to touch your private part, O.K?"
-<es>
+<es>{Appo-}\n"No pretendo tocarte ninguna de las partes, ¿eh?"
 
 @441
 <en>Dispite what he said, it seems like he's touching her......
-<es>
+<es>A pesar de lo que ha dicho, parece que la está tocando...
 
 @443
 <en>{???}\n"No, not there......"
-<es>
+<es>{???}\n"No. Ahí no..."
 
 @444
 <en>The girl sounded like she's pillow talking.......
