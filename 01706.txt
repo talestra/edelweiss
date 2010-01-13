@@ -120,23 +120,23 @@
 
 @98
 <en>{Kazushi}\n"One, two!"
-<es>
+<es>{Kazushi}\n"Preparados... Listos..."
 
 @103
 <en>{Daigo}\n"Three!"
-<es>
+<es>{Daigo}\n"¡Ya!"
 
 @105
 <en>Mass amount of dust gets up in the air as we lifted a heavy book shelf.
-<es>
+<es>Un montón de polvo se extiende por el aire en cuanto levatantamos la pesada estantería.
 
 @108
 <en>{Rin}\n"Wow!\nBoys are so strong!"
-<es>
+<es>{Rin}\n"¡Increíble!\n¡Chicos, sois muy fuertes!"
 
 @113
 <en>{Sakura}\n"We've always wanted to move that bookshelf-"
-<es>
+<es>{Sakura}\n"Siempre habíamos querido mover esa estantería."
 
 @117
 <en>{Pierre}\n"We finally start understanding the needs of each other, don't we?"
@@ -144,31 +144,31 @@
 
 @120
 <en>{Pierre}\n"We should know each other more-"
-<es>
+<es>{Pierre}\n"Deberíamos conocernos mutuamente mejor."
 
 @125
 <en>{Teacher Yagami}\n"Stop picking up your classmates!"
-<es>
+<es>{Profesor Yagami}\n"¡Deja de tontear con tus compañeras!"
 
 @126
 <en>{Kazushi}\n"Give us some time to be proud of ourselves!"
-<es>
+<es>{Kazushi}\n"¡Danos algo más de tiempo para sentirnos orgullosos!"
 
 @127
 <en>We haven't being able to show the class how we can help them.
-<es>
+<es>No hemos tenido tiempo de enseñar a la clase cómo podemos ayudar.
 
 @131
 <en>{Appo-}\n"I feel like crying, I never thought they'd appreciate us so much......"
-<es>
+<es>{Appo-}\n"Tengo gana de llorar.  Nunca pensé que nos fuesen a apreciar tanto..."
 
 @132
 <en>{Kazushi}\n"Go ahead. Cry as much as you want."
-<es>
+<es>{Kazushi}\n"Adelante. Llora lo que quieras."
 
 @137
 <en>{Pierre}\n"Kazushi, are you already crying?"
-<es>
+<es>{Pierre}\n"Kazushi, ¿tú ya estás llorando?"
 
 @140
 <en>{Appo-}\n"Pierre, you never know what it's like to be treated nice from amateurs!"
@@ -180,11 +180,12 @@
 
 @148
 <en>{Daigo}\n"Anything else we can help?"
-<es>
+<es>{Daigo}\n"¿Alguna otra cosa en la que podamos ayudar?"
 
 @153
+# Considerar cambiar 'haré' por 'haremos'.
 <en>{Appo-}\n"Anything!\nI'll do anything!!"
-<es>
+<es>{Appo-}\n"¡Cualquier cosa!\n¡¡Haré cualquier cosa!!"
 
 @157
 <en>{Rin}\n"Then, can you get rid of all those disgusting green caterpillars in the field......?"
@@ -192,27 +193,27 @@
 
 @161
 <en>{Daigo}\n"I can do that. I've even nurtured them into butterflys."
-<es>
+<es>{Daigo}\n"Yo puedo hacerlo. Hasta los he cuidado hasta convertirse en mariposas."
 
 @164
 <en>{Rin}\n"What?\nThey become butterflies?"
-<es>
+<es>{Rin}\n"¿Qué?\n¿Se convierten en mariposas?"
 
 @165
 <en>I never knew girls are ignorant about those stuff.
-<es>
+<es>No sabía que las chicas fuesen tan ignorantes sobre estos temas.
 
 @172
 <en>{Pierre}\n"Daigo, teach her what you know."
-<es>
+<es>{Pierre}\n"Daigo, enséñales lo que tú ya sabes."
 
 @175
 <en>{Daigo}\n"I'll teach you nicely even a monkey would understand."
-<es>
+<es>{Daigo}\n"Lo explicaré tan bien que hasta un mono podría entenderlo."
 
 @178
 <en>{Rin}\n"You don't have to compare us with a monkey.\nSakura, you wanna come with us?"
-<es>
+<es>{Rin}\n"No hacía falta que nos comparases con monos.\n¿Sakura, te vienes con nosotras?"
 
 @185
 <en>{Sakura}\n"You want me to go with you guys?\nYou want me to throw those disgusting creature at you?"
@@ -232,7 +233,7 @@
 
 @197
 <en>{Daigo}\n"We'll be back soon......"
-<es>
+<es>{Daigo}\n"Volveremos pronto..."
 
 @198
 <en>He's already nervous.
@@ -248,23 +249,23 @@
 
 @208
 <en>{Pierre}\n"Who else wants go and take a lecture from Daigo-?"
-<es>
+<es>{Pierre}\n"¿Quién más quiere ir a que Daigo le de clases?"
 
 @209
 <en>{Girl 1}\n"I wanna go!"
-<es>
+<es>{Chica 1}\n"¡Yo quiero ir!"
 
 @210
 <en>{Girl 2}\n"Me, too-"
-<es>
+<es>{Chica 2}\n"Yo también."
 
 @212
 <en>Few more girls showed interest.\nDaigo and Pierre were happy as they could be.
-<es>
+<es>Unas cuantas chicas más mostraron interés.\nDaigo y Pierre estaban rebosantes de felicidad.
 
 @213
 <en>{Kazushi}\n"I didn't expect that."
-<es>
+<es>{Kazushi}\n"No me lo esperaba."
 
 @216
 <en>{Haruka}\n"It's great. Everyone is getting along."
@@ -272,31 +273,32 @@
 
 @217
 <en>{Kazushi}\n"Maybe we are not so disliked anymore?"
-<es>
+<es>{Kazushi}\n"¿Quizá ya no nos odian?"
 
 @218
 <en>I'd like to believe so.
-<es>
+<es>Me gustaría creerlo.
 
 @222
 <en>{Ran}\n"We've never disliked you guys, have we?"
-<es>
+<es>{Ran}\n"Nunca os habíamos odiado. ¿No?"
 
 @227
+# <es>{Mizuki}\n"Lo que pasaba es que no sabíamos cómo llevarnos bien con vosotros."
 <en>{Mizuki}\n"We just didn't know how we should get along with you guys."
-<es>
+<es>{Mizuki}\n"Lo que pasaba es que no sabíamos cómo trataros."
 
 @231
 <en>{Appo-}\n"I should've worked harder on cleaning days just to show what I'm capable of."
-<es>
+<es>{Appo-}\n"Debería haberme esforzado más los días de limpieza para enseñaros de lo que era capaz."
 
 @234
 <en>{Mizuki}\n"So you didn't do your part before......"
-<es>
+<es>{Mizuki}\n"Así que no solías hacer tu parte..."
 
 @238
 <en>{Ran}\n"Appo-, you shouldn't have said anything."
-<es>
+<es>{Ran}\n"Appo-, no deberías haber dicho nada."
 
 @241
 <en>{Appo-}\n"Well anyways, from now on, let us do the manual labor."
@@ -308,11 +310,11 @@
 
 @249
 <en>There, two girls, who always looks down on us.
-<es>
+<es>Ahí están las dos chicas que siempre nos menosprecian.
 
 @253
 <en>{Appo-}\n"Hey, Hu-sen."
-<es>
+<es>{Appo-}\n"Ey, Hu-sen."
 
 @254
 <en>Unlikely, Appo- didn't show unfriendly face to Hu-sen like how he usually does. That just shows how happy he is.
@@ -328,15 +330,15 @@
 
 @259
 <en>{Hu-sen}\n"What do you want?\nLeave us alone."
-<es>
+<es>{Hu-sen}\n"¿Qué es lo que quieres?\nDéjanos en paz."
 
 @263
 <en>{Rei}\n"That's right. We don't need your help."
-<es>
+<es>{Rei}\n"Eso. No necesitamos ayuda tuya."
 
 @267
 <en>{Hu-sen}\n"Be happy while you can."
-<es>
+<es>{Hu-sen}\n"Permanece contento mientras puedas."
 
 @270
 <en>They left as they winessed us boys having good time.
@@ -344,47 +346,47 @@
 
 @273
 <en>{Haruka}\n"They need to be more frienly-"
-<es>
+<es>{Haruka}\n"Deberían ser mas amistosas."
 
 @274
 <en>{Kazushi}\n"Well, we have history between them from day 1."
-<es>
+<es>{Kazushi}\n"Bueno. El primer día ya tuvimos un follón con ellas.."
 
 @277
 <en>{Haruka}\n"You wanna know something?\nThey were the one who was excited about having boys in our school."
-<es>
+<es>{Haruka}\n"¿Queréis saber una cosa?\nEran ellas las que estaban emocionadas por tener a chicos en la escuela."
 
 @282
 <en>{Appo-}\n"They were?"
-<es>
+<es>{Appo-}\n"¿Ellas?"
 
 @283
 <en>{Haruka}\n"I don't know why they are acting like they don't care."
-<es>
+<es>{Haruka}\n"No sé por qué están actuando como si no les importase."
 
 @284
 <en>{Kazushi}\n"Those two......were excited to have us?"
-<es>
+<es>{Kazushi}\n"¿Ellas... emocionadas por tenernos aquí?"
 
 @285
 <en>We could never imagine that.
-<es>
+<es>Nunca lo habríamos dicho.
 
 @288
 <en>{Appo-}\n"Well, forget them. Does anyone need a hand-?"
-<es>
+<es>{Appo-}\n"Bueno, olvidémoslas. ¿Alguien más necesita que le echen una mano?"
 
 @291
 <en>{Haruka}\n"Hey, can you change the light bulb in the principal's room?"
-<es>
+<es>{Haruka}\n"Oye. ¿Podrías cambiar una bombilla del despacho de la directora?"
 
 @292
 <en>{Kazushi}\n"Sure."
-<es>
+<es>{Kazushi}\n"Claro."
 
 @296
 <en>{Mizuki}\n"Oh! Can you change the one in girls' dorm, too?"
-<es>
+<es>{Mizuki}\n"¡Ah! ¿Y podrías cambiar también la del dormitorio de las chicas?"
 
 @299
 <en>{Appo-}\n"The one in girls' dorm!?\nI might get hard on just going in there!"
@@ -392,15 +394,15 @@
 
 @302
 <en>{Mizuki}\n"Hard on......!\nNever mind!"
-<es>
+<es>{Mizuki}\n"¡Empalmarte...!\n¡Olvídalo!"
 
 @305
 <en>{Appo-}\n"Did I say something wrong?"
-<es>
+<es>{Appo-}\n"¿He dicho algo malo?"
 
 @306
 <en>{Kazushi}\n"You are too honest sometimes."
-<es>
+<es>{Kazushi}\n"A veces eres demasiado honesto."
 
 @311
 <en>{Haruka}\n"But I need that changed-\nI'm too scared to go to the restroom at night."
@@ -412,23 +414,23 @@
 
 @317
 <en>{Mizuki}\n"All right......"
-<es>
+<es>{Mizuki}\n"Está bien..."
 
 @320
 <en>{Haruka}\n"Let's go get a ladder."
-<es>
+<es>{Haruka}\n"Vayamos a por una escalera."
 
 @324
 <en>{Appo-}\n"Let's go!"
-<es>
+<es>{Appo-}\n"¡Vamos!"
 
 @333
 <en>{Hu-sen}\n"It makes me mad whenever I see them happy."
-<es>
+<es>{Hu-sen}\n"Me pone enferma verlas contentos."
 
 @334
 <en>{Rei}\n"Those stupid perverts!"
-<es>
+<es>{Rei}\n"¡Estúpidos pervertidos!"
 
 @337
 <en>{Hu-sen}\n"That's why I never wanted it to be co-ed!"
@@ -436,7 +438,7 @@
 
 @340
 <en>{Rei}\n"Hu-sen, watch out!"
-<es>
+<es>{Rei}\n"Hu-sen, ¡cuidado!"
 
 @347
 <en>I heard something shuttering.
@@ -444,15 +446,15 @@
 
 @350
 <en>{Mizuki}\n"What was that?"
-<es>
+<es>{Mizuki}\n"¿Qué ha sido eso?"
 
 @355
 <en>{Haruka}\n"We heard it from inside!"
-<es>
+<es>{Haruka}\n"¡Venía del interior!"
 
 @356
 <en>{Kazushi}\n"I think so, too."
-<es>
+<es>{Kazushi}\n"Sí. Es cierto."
 
 @357
 <en>We could hear some one is in panic.
