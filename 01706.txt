@@ -611,47 +611,47 @@
 
 @445
 <en>{???}\n"Are you sure you need to touch me there?\nAhh!"
-<es>
+<es>{???}\n"¿Seguro que tienes que tocarme ahí?\n¡Ahh!"
 
 @446
 <en>Isn't this a crime?
-<es>
+<es>¿Eso no es un crimen?
 
 @447
 <en>{Kazushi}\n"I need to go in to stop Appo-."
-<es>
+<es>{Kazushi}\n"Tengo que parar a Appo-."
 
 @448
 <en>I jumped into the smoke.
-<es>
+<es>Me introduje de un salto en la humareda.
 
 @451
 <en>{Appo-}\n"Wow......\nyou have a nice body.\nI wanna see your face......"
-<es>
+<es>{Appo-}\n"Guau...\nTienes un buen cuerpo.\nMe gustaría verte la cara..."
 
 @452
 <en>Appo- helped her to stand up.
-<es>
+<es>Appo- la ayudó a levantarse.
 
 @458
 <en>{Hu-sen}\n"..................you?"
-<es>
+<es>{Hu-sen}\n"... ¿Tú?"
 
 @466
 <en>I clearly saw her face.\nI think my heart stopped for good one minute.
-<es>
+<es>Le vi claramente la cara.\nDiría que se me paró el corazón durante un buen rato.
 
 @475
 <en>{Appo-}\n"Hu-sen!?"
-<es>
+<es>{Appo-}\n"¿¡Hu-sen!?"
 
 @476
 <en>Appo- came back to reality.
-<es>
+<es>Appo- volvió a la realidad.
 
 @479
 <en>{Hu-sen}\n"That was you?"
-<es>
+<es>{Hu-sen}\n"¿Eras tú?"
 
 @482
 <en>{Appo-}\n"Oh my god-!\nYou shouldn't have such a sexy back!!"
@@ -659,35 +659,37 @@
 
 @483
 <en>Appo- thinks it's her fault.
-<es>
+<es>Appo- cree que es culpa de ella.
 
 @486
+# Revisar.
 <en>On the other hand, Hu-sen is unexpectedly in the romantic mood.
-<es>
+<es>Por otra parte, Hu-sen se ha puesto bastante romántica.
 
 @487
 <en>{Hu-sen}\n"......you put your life on risk to save me?"
-<es>
+<es>{Hu-sen}\n"... ¿Has arriesgado tu vida para salvarme?"
 
 @490
 <en>{Appo-}\n"......!?"
-<es>
+<es>{Appo-}\n"¿¡...!?"
 
 @491
+# Héroe/Salvador.
 <en>Hu-sen looks at Appo- as if she's looking at her hero.
-<es>
+<es>Hu-sen mira a Appo- como si estuviese mirando a su héroe.
 
 @492
 <en>{Hu-sen}\n"You came into this smoke to save me?"
-<es>
+<es>{Hu-sen}\n"¿Te has metido en la humareda para salvarme?"
 
 @493
 <en>Hu-sen for the first time showing her "woman"aspect to Appo-.
-<es>
+<es>Es la primera vez que Hu-sen muestra su lado "femenino" a Appo-.
 
 @494
 <en>{Appo-}\n"What are you talking about......?"
-<es>
+<es>{Appo-}\n"¿De qué estás hablando...?"
 
 @495
 <en>Appo- is getting goose bump all over his body.
@@ -695,83 +697,84 @@
 
 @496
 <en>{Appo-}\n"Why are you getting close to me?"
-<es>
+<es>{Appo-}\n"¿Por qué te estás acercando tanto a mí?"
 
 @497
+# Revisar. ¿"Que siempre había esperado"?
 <en>{Hu-sen}\n"......are you the prince I've always waited for?"
-<es>
+<es>{Hu-sen}\n"... ¿Eres tú el príncipe que llevo tanto tiempo esperando?"
 
 @498
 <en>{Appo-}\n"What? What prince......?"
-<es>
+<es>{Appo-}\n"¿Qué? ¿Qué príncipe...?"
 
 @503
 <en>Right at that moment, a cardboard box started to burn.
-<es>
+<es>Justo en ese momento, empezó a quemarse una caja de cartón.
 
 @507
 <en>{Appo-}\n"Watch out!!"
-<es>
+<es>{Appo-}\n"¡¡Cuidado!!"
 
 @512
 <en>{Hu-sen}\n"@#$%^!?"
-<es>
+<es>{Hu-sen}\n"¿¡@#$%^!?"
 
 @515
 <en>I'm sure Appo- saved her once again by the conditional reflex, but that was enough to make Hu-sen fall for him.
-<es>
+<es>Estoy seguro de que Appo- la volvió a salvar por el reflejo condicional. Pero fue suficiente para que Hu-sen acabase por él.
 
 @518
 <en>{Hu-sen}\n"My darling......"
-<es>
+<es>{Hu-sen}\n"Mi amado..."
 
 @523
 <en>{Appo-}\n"What did you just call me!?"
-<es>
+<es>{Appo-}\n"¿¡Qué acabas de llamarme!?"
 
 @524
 <en>Hu-sen looks at Appo- the way she's never looked him before.
-<es>
+<es>Hu-sen mira a Appo- con la misma mirada que antes.
 
 @525
 <en>{Hu-sen}\n"I'm in love! I feel my heart is burning."
-<es>
+<es>{Hu-sen}\n"¡Estoy enamorada! Mi corazón está en llamas."
 
 @526
 <en>{Kazushi}\n"You guys are indeed surrounded by fire-! Just get out from there!"
-<es>
+<es>{Kazushi}\n"¡¡Pero es que estáis rodeados por llamas de verdad!! ¡Salid de ahí! ¡¡Rápido!!"
 
 @529
 <en>The fire is growing bigger.
-<es>
+<es>El fuego se está propagando.
 
 @530
 <en>We can hardly see them now.
-<es>
+<es>Ya casi no los veo.
 
 @531
 <en>{Kazushi}\n"Guys!!\nYou need to leave there now!"
-<es>
+<es>{Kazushi}\n"¡¡Chicos!!\n¡Tenéis que salir ya!"
 
 @532
 <en>{Hu-sen}\n"......wait!\nRei is in the next room......"
-<es>
+<es>{Hu-sen}\n"¡Esperad...!\nRei está en la otra habitación..."
 
 @533
 <en>{Kazushi}\n"Let me get her out from there!\nYou guys just go!"
-<es>
+<es>{Kazushi}\n"¡Dejad que yo la saque!\n¡Vosotros salid de ahí!"
 
 @534
 <en>{Appo-}\n"All right!"
-<es>
+<es>{Appo-}\n"¡Está bien!"
 
 @535
 <en>Appo- replied.......
-<es>
+<es>Respondió Appo-...
 
 @538
 <en>{Hu-sen}\n"@#$%^!?"
-<es>
+<es>{Hu-sen}\n"¿¡@#$%^!?"
 
 @539
 <en>and a second later, I heard something else.
@@ -783,7 +786,7 @@
 
 @541
 <en>Appo- came out from smoke.
-<es>
+<es>Appo- salió de la humareda.
 
 @544
 <en>{Appo-}\n"So much smoke there! Remember one time we threw smoke bomb into our previous school? It was just like that over there."
@@ -791,71 +794,74 @@
 
 @545
 <en>Appo- is carrying Hu-sen on his back. She seems to be uncouncious.
-<es>
+<es>Appo- lleva a Hu-sen a sus espaldas. Parece estar inconsciente.
 
 @546
 <en>{Kazushi}\n"Is she all right?"
-<es>
+<es>{Kazushi}\n"¿Se encuentra bien?"
 
 @547
+# Revisar.
 <en>{Appo-}\n"I knocked her cold.\nI don't wanna be her prince."
-<es>
+<es>{Appo-}\n"La he dejado inconsciente vilmente.\nNo me apetece ser su príncipe."
 
 @548
+# Claro, así se queda él las buenas :P
 <en>{Kazushi}\n"Why not?"
-<es>
+<es>{Kazushi}\n"¿Por qué no?"
 
 @549
 <en>{Appo-}\n"Shut up and just go get Rei!"
-<es>
+<es>{Appo-}\n"¡Cállate y ve a por Rei!"
 
 @550
 <en>{Kazushi}\n"Got it!"
-<es>
+<es>{Kazushi}\n"¡Entendido!"
 
 @552
 <en>Appo- and Hu-sen disappeared into outside the smoke area.
 <es>
 
 @553
+# Quizá mejor hasta "monstruo" o "monstruosa", "gigantesca" o "enorme".
 <en>{Kazushi}\n"Hey Rei!\nGiant!!"
-<es>
+<es>{Kazushi}\n"¡Ey Rei!\n¡¡Gigantesca!!"
 
 @554
 <en>{Rei}\n"Who just called me a gaiant?!"
-<es>
+<es>{Rei}\n"¡¿Quién acaba de llamarme gigantesca?!"
 
 @555
 <en>I heard her from the back of the room.
-<es>
+<es>La escuché por la parte de atrás de la habitación.
 
 @558
 <en>She came out from the smoke carrying two bottles of fire extinguisher.
-<es>
+<es>Salió del humo llevando extintores en las manos.
 
 @559
 <en>{Kazushi}\n"We got to get out from here!"
-<es>
+<es>{Kazushi}\n"¡Tenemos que salir de aquí!"
 
 @562
 <en>{Rei}\n"What happened to Hu-sen!?"
-<es>
+<es>{Rei}\n"¿¡Qué le ha pasado a Hu-sen!?"
 
 @563
 <en>{Kazushi}\n"Appo- got her already!\nWe need to go now!"
-<es>
+<es>{Kazushi}\n"¡Appo- ya se ha encargado de ella!\n¡Tenemos que irnos ya!"
 
 @564
 <en>{Rei}\n"Appo- did?"
-<es>
+<es>{Rei}\n"¿Appo-?"
 
 @565
 <en>She seems a bit surprised.
-<es>
+<es>Parece algo sorprendida.
 
 @568
 <en>{Rei}\n"Appo- saved her......?\nI don't accept that!!"
-<es>
+<es>{Rei}\n"¿Appo- la ha salvado...?\n¡¡Me niego a aceptarlo!!"
 
 @569
 <en>Her big hands uncoiled the fire extinguisher.
@@ -863,111 +869,113 @@
 
 @572
 <en>[ Liquid comes out from fire extinguisher]
-<es>
+<es>*Líquido saliendo del extintor*
 
 @573
 <en>The nozzle of fire extinguisher was torn apart by her.
-<es>
+<es>Ha hecho trizas la boquilla del extintor.
 
 @576
 <en>She destroyed the other bottle and sprinkled the liquid to put out the fire.
-<es>
+<es>Destruyó la otra botella y roció el líquido para apagar el fuego.
 
 @577
 <en>{Rei}\n"Let's go!"
-<es>
+<es>{Rei}\n"¡Vamos!"
 
 @580
 <en>She grabbed my body and put me on her shoulder.
-<es>
+<es>Me agarró el cuerpo entero y me colocó sobre su hombro.
 
 @581
 <en>I was so shoked how high my eyes were from the floor.
-<es>
+<es>Estaba atónito por lo lejos que estaba el suelo de mis ojos.
 
 @582
 <en>{Kazushi}\n"Hey, Rei?"
-<es>
+<es>{Kazushi}\n"¿Oye... Rei?"
 
 @585
 <en>{Rei}\n"Sjut up, not now!!"
-<es>
+<es>{Rei}\n"¡¡Calla, ahora no!!"
 
 @588
 <en>[Sound of destruction]
-<es>
+<es>*Sonido de caos y destrucción*
 
 @589
 <en>{Kazushi}\n"My chest......!!"
-<es>
+<es>{Kazushi}\n"¡¡Mi pecho...!!"
 
 @590
 <en>I think my ribs are breaking......
-<es>
+<es>Creo que se me están rompiendo las costillas...
 
 @591
 <en>{Rei}\n"Stay still, O.K?"
-<es>
+<es>{Rei}\n"Quédate quieto, ¿vale?"
 
 @592
 <en>{Kazushi}\n"Yes......"
-<es>
+<es>{Kazushi}\n"Sí..."
 
 @602
 <en>{Teacher Yagami}\n"You guys are saying this was an accident?"
-<es>
+<es>{Profesor Yagami}\n"¿Me estáis diciendo que fue un accidente?"
 
 @603
 <en>We had a hearing at the nurse's office while we were getting treated.
-<es>
+<es>Tuvimos un discursito en la enfermería mientras nos trataban.
 
 @608
 <en>{Haruka}\n"Some of the medicine bottles which fell on the floor had to be highly flammable."
-<es>
+<es>{Haruka}\n"Algunos frascos que se cayeron al suelo eran altamente inflamables."
 
 @609
 <en>Which was the truth.
-<es>
+<es>Lo que era verdad.
 
 @614
 <en>{Mizuki}\n".......and that caused a fire."
-<es>
+<es>{Mizuki}\n"... Y eso fue lo que causó el fuego."
 
 @615
 <en>{Kazushi}\n"I'm so glad it didn't turn out to be a big one."
-<es>
+<es>{Kazushi}\n"Me alegro mucho de que acabase siendo uno aún mayor."
 
 @616
 <en>A fire itself was not as big as we thought considering the amount of smoke we saw.
-<es>
+<es>El fuego en sí no era tan grande en proporción a todo el humo que vimos.
 
 @620
 <en>{Pierre}\n"But now we have another problem."
-<es>
+<es>{Pierre}\n"Pero ahora tenemos otro problema..."
 
 @626
 <en>{Appo-}\n[Appo- shaking from fear]
-<es>
+<es>{Appo-}\n*Temblando del miedo*
 
 @627
 <en>Appo- is covering himself with a blanket as Hu-sen sits next to him to nurse him.
-<es>
+<es>Appo- se está cubriendo con una mantita mientras Hu-sen se sienta junto a él para cuidarle.
 
 @628
+# Jur jur.
 <en>......Appo- is now getting special attention from Hu-sen.
-<es>
+<es>... Ahora Appo- está siendo atendido especialmente por Hu-sen.
 
 @629
+# Como si estuviese temblando por eso...
 <en>{Hu-sen}\n"There is nothing to worry about anymore."
-<es>
+<es>{Hu-sen}\n"Ya no hay de qué preocuparse."
 
 @630
 <en>{Appo-}\n[Appo- screams in fear]
-<es>
+<es>{Appo-}\n*Gritando de terror*
 
 @631
 <en>Hu-sen looked somewhat cute trying to nurse the man she loves.
-<es>
+<es>A Hu-sen le resultó de alguna forma conmovedor mientras trataba de cuidar al hombre que amaba.
 
 @632
 <en>{Kazushi}\n"Hey, Hu-sen actually looks not bad."
@@ -975,95 +983,95 @@
 
 @637
 <en>{Pierre}\n"It's easy for you to say that.\nPut yourself in Appo-'s position, you'll go crazy."
-<es>
+<es>{Pierre}\n"A ti te puede resultar fácil decirlo.\nPero ponte en la piel de Appo-. Acabarías loco."
 
 @642
 <en>{Daigo}\n"We should hide everything that has shrpe edge from around Appo-."
-<es>
+<es>{Daigo}\n"Deberíamos esconderle a Appo- cualquier cosa afilada y cualquier canto sin pulir."
 
 @643
 <en>{Kazushi}\n"We should worry about him killing himself, too."
-<es>
+<es>{Kazushi}\n"Y también deberíamos tener cuidado de que no se suicide."
 
 @650
 <en>{Hu-sen}\n"Don't worry honey.\nI will be here all night long."
-<es>
+<es>{Hu-sen}\n"No te preocupes cielín.\nMe quedaría aquí toooda la noche cuidando de ti."
 
 @651
 <en>{Appo-}\n[Appo- screams in fear]
-<es>
+<es>{Appo-}\n*Gritando de terror*
 
 @652
 <en>Appo- is still covering himself in the blanket. This is like a scene from a horror movie.
-<es>
+<es>Appo- sigue cubriéndose con la manta. Parece una escena de una película de terror.
 
 @657
 <en>{Teacher Yagami}\n"This is great. Those two finally getting along."
-<es>
+<es>{Profesor Yagami}\n"Es fantástico. Al fin esos dos se llevan bien."
 
 @658
 <en>Mr.Yagami thinks this is a happy thing fot those two.
-<es>
+<es>El profesor Yagami está contento por los dos.
 
 @665
 <en>{Mei}\n"Excuse me, Mr.Yagami."
-<es>
+<es>{Mei}\n"Disculpe, señor Yagami."
 
 @666
 <en>Miss. Ibuki was calling him from outside asking him to step out so they can talk privately.
-<es>
+<es>La señorita Ibuki lo llamaba desde fuera con intención de poder hablar con él en privado.
 
 @667
 <en>I had a foreboding.
-<es>
+<es>Y tuve un presentimiento.
 
 @670
 <en>{Teacher Yagami}\n"What is it, Miss. Ibuki?"
-<es>
+<es>{Profesor Yagami}\n"¿Qué ocurre, señorita Ibuki?"
 
 @673
 <en>From the tone of their voice, I could tell something serious was going on.
-<es>
+<es>Por el tono de su voz, sabía que estaba pasando algo grave.
 
 @676
 <en>{Daigo}\n"I wonder what are they gonna talk about?"
-<es>
+<es>{Daigo}\n"Me pregunto de qué irán a hablar."
 
 @677
 <en>{Kazushi}\n"I don't know......"
-<es>
+<es>{Kazushi}\n"No lo sé..."
 
 @681
 <en>{Teacher Yagami}\n"Hey girls......"
-<es>
+<es>{Profesor Yagami}\n"Eh, chicas..."
 
 @682
 <en>Teacher Yagami is telling Hu-sen and Rei to come over.
-<es>
+<es>El profesor Yagami les estaba pidiendo a Hu-sen y a Rei que fuesen.
 
 @686
 <en>{Mei}\n"The principal is calling you girls. You know what that means, right?"
-<es>
+<es>{Mei}\n"La directora quiere que vayáis. Sabéis lo que eso significa, ¿no?"
 
 @691
 <en>{Hu-sen}\n"I think so......"
-<es>
+<es>{Hu-sen}\n"Imagino..."
 
 @695
 <en>{Rei}\n"Hu-sen......"
-<es>
+<es>{Rei}\n"Hu-sen..."
 
 @696
 <en>{Mei}\n"Let's go."
-<es>
+<es>{Mei}\n"Vamos."
 
 @699
 <en>The two girls seemed to know exactly why they are being called over.
-<es>
+<es>Las dos chicas parecen saber exáctamente por qué las han convocado.
 
 @702
 <en>{Appo-}\n[Appo- sighing]
-<es>
+<es>{Appo-}\n*Suspirando*
 
 @707
 <en>{Pierre}\n"Are you sure you gonna leave them alone?"
@@ -1079,7 +1087,7 @@
 
 @713
 <en>{Daigo}\n"Did they break anything valuable?"
-<es>
+<es>{Daigo}\n"¿Han roto algo valioso?"
 
 @714
 <en>{Kazushi}\n"I don't think so......\nI hope they are not getting kicked out."
@@ -1087,19 +1095,19 @@
 
 @715
 <en>{Pierre}\n"Getting kicked out!?"
-<es>
+<es>{Pierre}\n"¿¡Expulsadas!?"
 
 @716
 <en>{Kazushi}\n"That happened to us a year ago."
-<es>
+<es>{Kazushi}\n"Eso fue lo que nos pasó a nosotros hace un año."
 
 @719
 <en>{Daigo}\n"I remember my mom was crying."
-<es>
+<es>{Daigo}\n"Recuerdo a mi madre llorando."
 
 @724
 <en>{Appo-}\n".................."
-<es>
+<es>{Appo-}\n"..."
 
 @725
 <en>Appo- stood up all the sudden.\nTrying to leave without talking to us.
@@ -1107,7 +1115,7 @@
 
 @730
 <en>{Daigo}\n"Where are you going?"
-<es>
+<es>{Daigo}\n"¿A dónde vas?"
 
 @731
 <en>{Appo-}\n"I'manna go take a leak."
@@ -1119,47 +1127,50 @@
 
 @741
 <en>{Pierre}\n"What should we do?"
-<es>
+<es>{Pierre}\n"¿Qué deberíamos hacer?"
 
 @742
 <en>{Kazushi}\n"Well-......"
-<es>
+<es>{Kazushi}\n"Bueno..."
 
 @745
+# Quizá convendría cambiar lo de "hacerse" por "hacer". Porque mas o menos sí que lo ha sido.
 <en>{Daigo}\n"He tries to be hero sometimes."
-<es>
+<es>{Daigo}\n"A veces le gusta hacerse el héroe."
 
 @746
 <en>{Kazushi}\n"We shouldn't let him go by himself."
-<es>
+<es>{Kazushi}\n"No deberíamos dejarle ir solo."
 
 @752
 <en>{Principal}\n"You got it girls......?"
-<es>
+<es>{Directora}\n"¿Lo entendéis, chicas...?"
 
 @758
 <en>{Hu-sen}\n"Yes......"
-<es>
+<es>{Hu-sen}\n"Sí..."
 
 @759
 <en>{Rei}\n"We are truly sorried."
-<es>
+<es>{Rei}\n"Estamos realmente arrepentidas."
 
 @761
 <en>[Door opened]
-<es>
+<es>*Puerta abriéndose*
 
 @767
+# *Casi como si fuese una boda y alguien entrase para impedir el matrimonio.*
+# ¡Objection!
 <en>{Appo-}\n"Wait a minute!"
-<es>
+<es>{Appo-}\n"¡Un momento!"
 
 @768
 <en>We jumped into the principal's office.
-<es>
+<es>Irrumpimos en el despacho de la directora.
 
 @769
 <en>{Appo-}\n"I'll take the punishment instead of them!"
-<es>
+<es>{Appo-}\n"¡Asumiré yo el castigo en lugar de ellas!"
 
 @770
 <en>Appo- bursted out as he jumped into the room.
@@ -1167,7 +1178,7 @@
 
 @774
 <en>{Hu-sen}\n"What are you talking about?\nWhy you......?"
-<es>
+<es>{Hu-sen}\n"¿Qué estás diciendo?\n¿Qué estás...?"
 
 @778
 <en>{Pierre}\n"We've already got close to getting kicked out!\nWe are not afraid of anything!"
@@ -1179,11 +1190,11 @@
 
 @783
 <en>{Appo-}\n"And please forgive them!"
-<es>
+<es>{Appo-}\n"¡Y perdónalas!"
 
 @787
 <en>{Hu-sen}\n"Appo-......Jinnai......"
-<es>
+<es>{Hu-sen}\n"Appo-... Jinnai..."
 
 @788
 <en>First time ever I heard Hu-sen called\nAppo- by the last name?\nShe did remember his last name.
@@ -1199,39 +1210,40 @@
 
 @794
 <en>She told us that without hesitation.
-<es>
+<es>Nos lo dijo sin vacilar.
 
 @798
 <en>{Appo-}\n"Really?"
-<es>
+<es>{Appo-}\n"¿En serio?"
 
 @802
 <en>{Daigo}\n"Are we getting kicked out?"
-<es>
+<es>{Daigo}\n"¿Nos van a expulsar?"
 
 @803
 <en>{Kazushi}\n"What is the punishment?"
-<es>
+<es>{Kazushi}\n"¿Cuál es el castigo?"
 
 @812
 <en>{Appo-}\n"What!?\nCleaning bathrooms!? That's it!?"
-<es>
+<es>{Appo-}\n"¿¡Qué!?\n¿¡Limpiar los baños!? ¿¡Solo eso!?"
 
 @813
 <en>{Kazushi}\n"That's it!?"
-<es>
+<es>{Kazushi}\n"¿¡Solo eso!?"
 
 @818
 <en>{Pierre}\n"Why is it so generous for them?"
-<es>
+<es>{Pierre}\n"¿Por qué es tan generosa con ellas?"
 
 @822
 <en>{Daigo}\n"Stop talking guys.\nLet's get it over with."
-<es>
+<es>{Daigo}\n"Dejad de hablar.\nY pongámonos con ello."
 
 @827
+#<es>{Appo-}\n"Me siento estúpido por haberme preocupado por ellas.\nI'manna take a dump!"
 <en>{Appo-}\n"I feel stupid worried for them.\nI'manna take a dump!"
-<es>
+#<es>
 
 @830
 <en>He locked himself in a cell.
@@ -1243,19 +1255,19 @@
 
 @842
 <en>{Appo-}\n"Shit!\nWhy are we doing this for them......?"
-<es>
+<es>{Appo-}\n"¡Joder!\n¿Por qué estamos haciendo esto por ellas...?"
 
 @847
 <en>{Pierre}\n"Shit, it smells in here.\nWhat kind of a punishment is this?\nThey shoud've just kicked them out."
-<es>
+<es>{Pierre}\n"Joder, qué peste.\n¿Qué clase de castigo es este?\nDeberían haberlas expulsado."
 
 @852
 <en>{Daigo}\n"I'm hungry.\nIt's getting late."
-<es>
+<es>{Daigo}\n"Tengo hambre.\nSe está haciendo tarde."
 
 @853
 <en>We could see sunlight getting orange.
-<es>
+<es>Podemos ver el cielo tiñéndose de naranja.
 
 @857
 <en>{Appo-}\n"I wonder if the girls really appreciate us?\nShouldn't they be thanking us now?"
@@ -1263,11 +1275,11 @@
 
 @858
 <en>{Kazushi}\n"I think Hu-sen is falling in love with you."
-<es>
+<es>{Kazushi}\n"Creo que Hu-sen se está enamorando de ti."
 
 @861
 <en>{Appo-}\n"That's not funny......"
-<es>
+<es>{Appo-}\n"No tiene gracia..."
 
 @865
 <en>{Pierre}\n"They should be helping us."
@@ -1275,31 +1287,31 @@
 
 @870
 <en>{Daigo}\n"Don't expect too much.\nYou get more depressed later on."
-<es>
+<es>{Daigo}\n"No te esperes demasiado.\nO te deprimirás más luego."
 
 @871
 <en>{Kazushi}\n"Don't be so realistic, Daigo."
-<es>
+<es>{Kazushi}\n"No seas tan realista, Daigo."
 
 @872
 <en>{Daigo}\n"I don't expect much from a dream."
-<es>
+<es>{Daigo}\n"No espero demasiado de un sueño."
 
 @873
 <en>He's really realistic.\nAnd he's right most of the time.
-<es>
+<es>Es muy realista.\nY acierta casi siempre.
 
 @874
 <en>{Kazushi}\n"Well, you're right...We shouldn't expect their help."
-<es>
+<es>{Kazushi}\n"Bueno. Tienes razón... No deberíamos esperar que nos ayudasen."
 
 @879
 <en>{Appo-}\n"Ofcourse we should expect their help!"
-<es>
+<es>{Appo-}\n"¡Claro que deberíamos esperar que nos ayudasen!"
 
 @880
 <en>{Kazushi}\n"You were expecting them to help us!?"
-<es>
+<es>{Kazushi}\n"¿¡Tú esperabas que lo hiciesen!?"
 
 @881
 <en>{Appo-}\n"I was even trying to get attention from other girls, too!"
@@ -1307,27 +1319,29 @@
 
 @882
 <en>{Kazushi}\n"You such a ......"
-<es>
+<es>{Kazushi}\n"Pedazo de..."
 
 @886
 <en>{Pierre}\n"Well, I have to admit that I was thinking the same thing."
-<es>
+<es>{Pierre}\n"Bueno. He de admitir que yo estaba pensando en lo mismo."
 
 @891
 <en>{Daigo}\n"Me too......"
-<es>
+<es>{Daigo}\n"Y yo..."
 
 @892
+# <es>{Kazushi}\n"Menudos mendrugos..."
 <en>{Kazushi}\n"You guys......."
-<es>
+<es>{Kazushi}\n"..."
 
 @897
 <en>{Appo-}\n"There is nothing wrong with that!\nThey should even bring underwears for sign of appreciation."
-<es>
+<es>{Appo-}\n"¿¡Qué hay de malo en eso!?\nHasta deberían traernos braguitas como muestra de aprecio."
 
 @898
+# ¿Cambar 'braguitas' por 'ropa interior'?
 <en>{Kazushi}\n"I thought you already paid penalty for that.\nYou still want their underwears?"
-<es>
+<es>{Kazushi}\n"Pensaba que ya habías aprendido la lección con eso.\n¿Y aún así sigues queriendo braguitas?"
 
 @902
 <en>{Pierre}\n"Just ignore him.\nLet's hurry back.\nI wanna take a shower."
