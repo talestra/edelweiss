@@ -1463,55 +1463,57 @@
 
 @1003
 <en>{Pierre}\n"I dont know......let's just follow them."
-<es>
+<es>{Pierre}\n"No lo sé... Pero sigámoslas a ver."
 
 @1006
 <en>Appo- and Hu-sen headed to the edge of the island.
-<es>
+<es>Appo- y Hu-sen se han dirigido al borde de la islad.
 
 @1007
 <en>{Kazushi}\n"Where are they?"
-<es>
+<es>{Kazushi}\n"¿Dónde están?"
 
 @1010
 <en>{Haruka}\n"Behind that hill."
-<es>
+<es>{Haruka}\n"Tras esa colina."
 
 @1015
 <en>{Pierre}\n"What's over there?"
-<es>
+<es>{Pierre}\n"¿Y qué es lo que hay ahí?"
 
 @1019
 <en>{Mizuki}\n"You will find out."
-<es>
+<es>{Mizuki}\n"Ya lo veréis."
 
 @1020
+# <es>Se limitan a sonreirnos sin decir nada.\n
 <en>They just smile at us and don't tell us.\nWe just had to go over and see it ourselves.
 <es>
 
 @1026
 <en>It was a breath-taking view.
-<es>
+<es>Era una vista sobrecogedora.
 
 @1027
 <en>{Pierre}\n"Wow......"
-<es>
+<es>{Pierre}\n"Guau..."
 
 @1028
 <en>{Daigo}\n"What a sunset......"
-<es>
+<es>{Daigo}\n"Qué puesta de sol..."
 
 @1029
 <en>Orange sun is setting itself over horizon.\nAnd there are people watching this great view.
-<es>
+<es>El dorado sol se ponía por el horizonte.\nY aquí estábamos nosotros contemplando su esplendor.
 
 @1030
 <en>{Ran}\n"Hey, Kazushi!"
-<es>
+<es>{Ran}\n"¡Ey, Kazushi!"
 
 @1031
+# Revisar.
 <en>Ran was one of them.\nShe waved at me.
-<es>
+<es>Ran era uno de los que estábamos contemplando la hermosa vista.\nY me saludó.
 
 @1032
 <en>{Ran}\n"They removed the ban to watch this view from today.\nYou had to see this"
@@ -1519,7 +1521,7 @@
 
 @1033
 <en>{Kazushi}\n"You're right."
-<es>
+<es>{Kazushi}\n"Tienes razón."
 
 @1034
 <en>I couldn't even understand what she was saying.\nI couldn't think of anything but this view.
@@ -1527,43 +1529,44 @@
 
 @1035
 <en>{Mizuki}\n"Isn't this great?\nIt's the best season to watch now."
-<es>
+<es>{Mizuki}\n"¿No es precioso?\nEs la mejor estación para contemplarlo."
 
 @1036
 <en>{Haruka}\n"When it's sunny, we come here and watch this.\nThis is the best place in this island to watch this."
-<es>
+<es>{Haruka}\n"Los días soleados, venimos aquí a contemplarlo.\nEste es el mejor sitio de la isla para verlo."
 
 @1037
 <en>{Kazushi}\n"I see."
-<es>
+<es>{Kazushi}\n"Ajá."
 
 @1038
 <en>{Haruka}\n"I'm sorry we couldn't tell you boys earlier."
-<es>
+<es>{Haruka}\n"Siendo que no hubiésemos podido decíroslo antes."
 
 @1039
 <en>{Mizuki}\n"Some girls didn't want any boys here."
-<es>
+<es>{Mizuki}\n"Algunas chicas no querían a ningún chico aquí."
 
 @1040
 <en>We saw Hu-sen and Appo- by themselves.\nThey are standing very close to one another.
-<es>
+<es>Vimos a Hu-sen y a Appo- juntos, muy pegados el uno del otro.
 
 @1041
 <en>They might even be holding each others hands.
-<es>
+<es>Podrían hasta estar estrechándose las manos.
 
 @1042
 <en>I doubt it.\nBut this view makes it so romantic anyways.
-<es>
+<es>Lo dudo.\nPero semejante vista lo hace todo muy romántico.
 
 @1043
 <en>{Mizuki}\n"Isn't it beautiful?"
-<es>
+<es>{Mizuki}\n"¿No es bello?"
 
 @1044
+# Revisar.
 <en>{Kazushi}\n"I can't be more surprised......"
-<es>
+<es>{Kazushi}\n"Es imposible que esté más sorprendido..."
 
 @1045
 <en>The view really touched my heart.
@@ -1571,11 +1574,11 @@
 
 @1046
 <en>Everyone's face has turned orange from the reflection.
-<es>
+<es>La cara de todos se había vuelto narajan a causa del reflejo.
 
 @1047
 <en>The water surface has turned orange, too.\nIt looks like it's filled with jewelry.
-<es>
+<es>Hasta la superficie del agua.\nParecía como si estuviese repleta de joyas.
 
 @1048
 <en>Everyone is in awe of this view.
@@ -1583,11 +1586,11 @@
 
 @1049
 <en>{Haruka}\n"This maybe our favorite view of the island."
-<es>
+<es>{Haruka}\n"Esta puede que sea mi vista favorita de la isla."
 
 @1050
 <en>{Mizuki}\n"Certainly my favorite.\nWe don't need to talk when we watch this view."
-<es>
+<es>{Mizuki}\n"Sin duda la mía sí.\nNo hay necesidad de hablar contemplando esto."
 
 @1051
 <en>{Kazushi}\n"I think this will be my favorite, too.\nMaybe already has."
@@ -1611,11 +1614,11 @@
 
 @1056
 <en>{Kazushi}\n"It's so you."
-<es>
+<es>{Kazushi}\n"Muy propio de ti."
 
 @1057
 <en>{Ran}\n"It really does look like real jewelry."
-<es>
+<es>{Ran}\n"Realmente parece como si fuesen joyas de verdad."
 
 @1058
 <en>{Haruka}\n"Then there won't be any water left, would there?"
@@ -1631,7 +1634,7 @@
 
 @1061
 <en>{Daigo}\n[Daigo crying]
-<es>
+<es>{Daigo}\n*Llorando*
 
 @1062
 <en>I heard someone sniffing.\nIt's Daigo crying.
@@ -1639,27 +1642,27 @@
 
 @1063
 <en>{Mizuki}\n"Why are you crying?"
-<es>
+<es>{Mizuki}\n"¿Por qué estás llorando?"
 
 @1064
 <en>{Ran}\n"Look at this guy, he's crying-"
-<es>
+<es>{Ran}\n"Mírale. Está llorando."
 
 @1065
 <en>{Kazushi}\n"Don't laugh at him!"
-<es>
+<es>{Kazushi}\n"¡No te burles!"
 
 @1066
 <en>Daigo is actually a very romantic guy.
-<es>
+<es>Daigo es un chico muy romántico.
 
 @1067
 <en>{Daigo}\n"Beautiful......it's so beautiful."
-<es>
+<es>{Daigo}\n"Es muy bonito... Es precioso."
 
 @1068
 <en>{Haruka}\n"You don't have to cry-"
-<es>
+<es>{Haruka}\n"No tienes que llorar."
 
 @1069
 <en>{Daigo}\n"......thank you-------!"
