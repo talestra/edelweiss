@@ -1345,7 +1345,7 @@
 
 @902
 <en>{Pierre}\n"Just ignore him.\nLet's hurry back.\nI wanna take a shower."
-<es>
+<es>{Pierre}\n"Ignorale y ya está.\nDémonos prisa en terminar que me gustaría pegarme una ducha luego."
 
 @904
 <en>Just when we picked up our pace,\nwe saw a few people ahead.
@@ -1353,67 +1353,69 @@
 
 @907
 <en>{Haruka}\n"Hey! Kazushi!!"
-<es>
+<es>{Haruka}\n"¡Ey! ¡¡Kazushi!!"
 
 @912
 <en>{Mizuki}\n"Hey guys-!"
-<es>
+<es>{Mizuki}\n"¡Eh, chicos!"
 
 @913
 <en>Two girls waved at us.
-<es>
+<es>Las dos chicas nos saludaban.
 
 @914
 <en>{Kazushi}\n"Oh hey-!\nWhat are you guys doing?"
-<es>
+<es>{Kazushi}\n"¡Ey, anda!\n¿Qué estáis haciendo aquí?"
 
 @918
 <en>{Haruka}\n"Are you guys done with cleaning-?"
-<es>
+<es>{Haruka}\n"¿Ya habéis terminado de limpiar?"
 
 @922
 <en>{Pierre}\n"Yes we are-.\nYou guys worried for us-?"
-<es>
+<es>{Pierre}\n"Sí, ya hemos terminado.\n¿Estabais preocupadas por nosotros?"
 
 @926
 <en>{Mizuki}\n"It's not just us......"
-<es>
+<es>{Mizuki}\n"No solo nosotras..."
 
 @928
 <en>They waved at somebody behind them.
-<es>
+<es>Saludaron a alguien detrás de ellas.
 
 @937
 <en>{Appo-}\n"Oh no!\nNot those two!"
-<es>
+<es>{Appo-}\n"¡Oh, no!\n¡Esas dos no!"
 
 @943
 <en>Two girls stepped closer to us.\nThey seemed too sorried to even look at us.
-<es>
+<es>Las chicas dieron un paso hacia nosotros.\nParecían demasiado avergonzadas hasta para mirarnos.
 
 @948
 <en>{Mizuki}\n"Go for it."
-<es>
+<es>{Mizuki}\n"Adelante."
 
 @953
+# Hay que ver si ese you es singular o plural.
+# <es>{Haruka}\n"Nos habíais prometido que se lo diríais.\nVenga."
 <en>{Haruka}\n"You promised me to tell them.\nGo for it."
-<es>
+<es>{Haruka}\n"Nos habías prometido que se lo diríais.\nVenga."
 
 @958
 <en>{Hu-sen}\n"I know!"
-<es>
+<es>{Hu-sen}\n"¡Ya lo sé!"
 
 @959
 <en>Hu-sen was finally convinced by Haruka.\nShe stared at Appo- and opend her mouth.
-<es>
+<es>Hu-sen parece que se ha dejado convencer finalmente por Haruka.\nMiró a Appo- y abrió la boca.
 
 @962
 <en>{Hu-sen}\n"Appo-......come with me."
-<es>
+<es>{Hu-sen}\n"Appo-... Ven conmigo."
 
 @966
 <en>{Appo-}\n"What?\nAre you ordering me?"
-<es>
+<es>{Appo-}\n"¿Qué?\n¿Me estás dando órdenes?"
 
 @971
 <en>{Haruka}\n"No, she's not.\nShe's asking you out."
@@ -1425,11 +1427,11 @@
 
 @978
 <en>{Hu-sen}\n"Just shut up and come with me!"
-<es>
+<es>{Hu-sen}\n"¡Cállate y ven conmigo!"
 
 @979
 <en>{Appo-}\n"Hey......!?"
-<es>
+<es>{Appo-}\n"¿¡Ey...!?"
 
 @982
 <en>Hu-sen pulls Appo-'s arm.\nShe was really pulling him away.
@@ -1437,19 +1439,19 @@
 
 @985
 <en>{Pierre}\n"What's going on?"
-<es>
+<es>{Pierre}\n"¿Qué está pasando?"
 
 @989
 <en>{Mizuki}\n"We should all go.\nI show you guys something interesting."
-<es>
+<es>{Mizuki}\n"Deberíamos ir todos.\nOs enseñaremos algo muy interesante."
 
 @990
 <en>{Kazushi}\n"All of us?"
-<es>
+<es>{Kazushi}\n"¿A todos nosotros?"
 
 @994
 <en>{Haruka}\n"Just come with us!"
-<es>
+<es>{Haruka}\n"¡Limitaos a venir con nostoras!"
 
 @996
 <en>Haruka pushed our back.\nMizuki is leading us on the way.
@@ -1457,7 +1459,7 @@
 
 @999
 <en>{Daigo}\n"What's going on?"
-<es>
+<es>{Daigo}\n"¿Qué está pasando?"
 
 @1003
 <en>{Pierre}\n"I dont know......let's just follow them."
