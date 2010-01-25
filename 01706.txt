@@ -1662,57 +1662,60 @@
 
 @1068
 <en>{Haruka}\n"You don't have to cry-"
-<es>{Haruka}\n"No tienes que llorar."
+<es>{Haruka}\n"No tienes que llorar. Toma."
 
 @1069
 <en>{Daigo}\n"......thank you-------!"
-<es>
+<es>{Daigo}\n"... ¡Gracias...!"
 
 @1070
 <en>Daigo blew his nose with her handkerchief.\nThe sound of it killed the mood.
-<es>
+<es>Daigo se sonó con el pañuelo que le acababa de dar Haruka.\nEse sonido rompió por completo el ambiente.
 
 @1071
 <en>{Haruka}\n"You can keep the handkachief......"
-<es>
+<es>{Haruka}\n"Puedes quedarte el pañuelo..."
 
 @1072
 <en>{Daigo}\n"......it's so beautiful......"
-<es>
+<es>{Daigo}\n"Es tan bello..."
 
 @1073
 <en>{Kazushi}\n"Stop crying Daigo.\nYou 're making me cry."
-<es>
+<es>{Kazushi}\n"Deja de llorar Daigo.\nEstás haciendo que me entren ganas de llorar a mí también."
 
 @1074
 <en>I don't know why, but this view makes me cry.
-<es>
+<es>No sé por qué, pero esta vista hace que me entren ganas de llorar.
 
 @1075
+# TODO: Hay que ver si se puede poner {Kazushi} o si se rompería el juego.
 <en>Kazushi\t[Kazushi crying]
-<es>
+<es>Kazushi\t*Llorando*
 
 @1076
 <en>{Ran}\n"Wow.\nAre you crying too, Kazushi?"
-<es>
+<es>{Ran}\n"Increíble.\n¿También te has puesto a llorar tú, Kazushi?"
 
 @1077
+# Revisar.
 <en>{Pierre}\n"You guys are such girls.\nI like that aspect of you guys though."
-<es>
+<es>{Pierre}\n"Sois unas nenazas.\nAunque me gusta el aspecto que tenéis."
 
 @1078
 <en>{Haruka}\n"I never knew boys are so romantic.\n......makes me wanna cry, too."
-<es>
+<es>{Haruka}\n"Nunca imaginé que los chicos fuesen tan románticos...\nMe entran ganas de llorar a mí también."
 
 @1079
+# Rima :D
 <en>{Kazushi}\n"This is so beautiful.\nThe beauty of nature."
-<es>
+<es>{Kazushi}\n"Es tan bonito.\nLa belleza de la naturaleza."
 
 @1080
 <en>We kept watching the sun till it disappeared in horizon.
-<es>
+<es>Seguimos contemplando el sol hasta que desapareció por el horizonte.
 
 @1081
 <en>For the first time, I felt I became a resident of this island.
-<es>
+<es>Por primera vez, sentí que era un habitante de esta isla.
 

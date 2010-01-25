@@ -1,202 +1,207 @@
-# Comments for '01804'
+# Aquí se empieza a averiguar la historia detrás de Natsume.
+# La desaparición de su padre.
 
 @9
 <en>{Kazushi}\n"mmmm......"
-<es>
+<es>{Kazushi}\n"Mmm..."
 
 @10
 <en>I did not know why but I stoped walking , but then again I wasn't sure if I was really walking .
-<es>
+<es>No se por qué, pero he dejado de andar. Aunque la verdad no tengo claro siquiera que estuviese realmente andando.
 
 @11
 <en>{Kazushi}\n"Wait a minute, where am I going?"
-<es>
+<es>{Kazushi}\n"Un momento. ¿Adónde estoy yendo?"
 
 @12
 <en>First of all why am I even here.As I was walking I figured that I didn't know where I was going
-<es>
+<es>Y para empezar, ¿qué hago aquí? Mientras caminaba me di cuenta de que no sabía adónde estaba yendo.
 
 @13
 <en>{Kazushi}\n"Damn, I'm really out of it."
-<es>
+<es>{Kazushi}\n"Joder. ."
 
 @14
 <en>I looked around once more.
-<es>
+<es>Mire alrededor una vez más.
 
 @15
 <en>{Kazushi}\n"hm?"
-<es>
+<es>{Kazushi}\n"¿Uhm?"
 
 @16
 <en>That's......
-<es>
+<es>Esa es...
 
 @17
 <en>{Kazushi}\n"Natsume"
-<es>
+<es>{Kazushi}\n"Natsume."
 
 @20
+# Revisar.
 <en>When I called her name Natsume slowly waved. When she waves at me she some what looks like a doll. She's really cute if she doesn't say anything.
-<es>
+<es>Cuando la llamé por su nombre, me saludó débilmente. Cuando me saluda, parece casi como una muñequita. Es muy mona si no dice nada.
 
 @21
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @22
 <en>Even when she sees me she doesn't really say anything to me as usual.
-<es>
+<es>Aún habiéndome visto y como de costumbre, no me dice nada.
 
 @23
 <en>{Kazushi}\n"What are you doing all alone here?"
-<es>
+<es>{Kazushi}\n"¿Qué estás haciendo aquí tú sola?"
 
 @24
 <en>She's always by herself. I'm worried if she really has friends. I can't let her be alone.
-<es>
+<es>Siempre va sola. Me preocupa que realmente no tenga maigos. No puedo dejarla sola.
 
 @27
 <en>{Natsume}\n"Its you again, why do you come here? Do you choose to come here Haruma? Or......"
-<es>
+<es>{Natsume}\n"Eres tú otra vez. ¿Por qué has venido? ¿Has elegido venir aquí Haruma? O..."
 
 @28
 <en>I can tell she is really trying to figure something out of me when she looks into my eyes. It makes me uncomfortable
-<es>
+<es>Por su mirada, parece que esté tratando de averiguar algo sobre mí. Me resulta incómodo.
 
 @29
 <en>{Kazushi}\n"What should I say, its an small island and we both live here. I'm pretty sure we'll see each other somehow right?"
-<es>
+<es>{Kazushi}\n"Bueno. Es una isla pequeña y los dos vivimos en ella. ¿Es bastante probable encontrarnos, no?"
 
 @32
 <en>{Natsume}\n"...............boriiiing, your conversations are always boring haruma."
-<es>
+<es>{Natsume}\n"...Me aburres. Tos conversaciones son siempre muy aburridas, Haruma."
 
 @33
 <en>{Kazushi}\n"Well I wasn't trying to be funny"
-<es>
+<es>{Kazushi}\n"Bueno, tampoco es que pretendiese resultar gracioso."
 
 @34
 <en>{Natsume}\n"I see"
-<es>
+<es>{Natsume}\n"Ajá."
 
 @36
 <en>Seems like she didn't care much and starts to walk away.
-<es>
+<es>Parece que no le importa mucho y empieza a caminar de nuevo.
 
 @38
 <en>{Kazushi}\n"Where are you going?"
-<es>
+<es>{Kazushi}\n"¿Adónde vas?"
 
 @41
 <en>{Natsume}\n"Why are you following me? Don't mind about me"
-<es>
+<es>{Natsume}\n"¿Por qué me estás siguiendo? No te preocupes por mí."
 
 @42
 <en>{Kazushi}\n"Don't say that, if you keep that attitude where you try to avoid people, one day nobody will be around you"
-<es>
+<es>{Kazushi}\n"No digas eso. Si sigues con esa actitud, evitando a la gente, llegará un día en que no habrá nadie a tu alrededor."
 
 @45
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @48
 <en>I don't know if the things I said did anything to her but it defitnitely made her stop walking.
-<es>
+<es>No sé si las cosas que le he dicho han hecho algo, pero desde luego ha servido para que se parase.
 
 @49
 <en>{Kazushi}\n"huh? Natsume?"
-<es>
+<es>{Kazushi}\n"¿Eh? ¿Natsume?"
 
 @50
 <en>She hasn't turned around and looked at me yet, it seems like she's mad.
-<es>
+<es>Todavía no se ha girado a mirarme. Parece que se ha enfadado.
 
 @51
+# Revisar. ¿Cambiar "brusca" por "haberlo dicho de una forma que te haya molestado"?
 <en>{Kazushi}\n"I'm sorry, I think I said it in a way that made you upset. I apologize."
-<es>
+<es>{Kazushi}\n"Lo siento. Creo que lo he dicho de una forma un tanto brusca. Lo siento."
 
 @54
 <en>{Natsume}\n"No its okay, maybe your right."
-<es>
+<es>{Natsume}\n"No, no pasa nada. Quizá tengas razón."
 
 @55
 <en>I was surprised. Usually she wouldn't accept what I say, Its really not like her.
-<es>
+<es>Estaba sorprendido. Generalmente no habría tolerado lo que he dicho. No es propio de ella.
 
 @56
 <en>Maybe I said something that I should not have said.
-<es>
+<es>Quizá he dicho algo que no debería haber dicho.
 
 @57
 <en>{Kazushi}\n"Um, Im really sorry for what I said. Aren't you mad?"
-<es>
+<es>{Kazushi}\n"Eh... Siento de veras lo que he dicho. ¿No estás enfadada?"
 
 @60
 <en>{Natsume}\n"I'am not mad but......"
-<es>
+<es>{Natsume}\n"No estoy enfadada, pero..."
 
 @61
 <en>{Kazushi}\n"But?"
-<es>
+<es>{Kazushi}\n"¿Pero?"
 
 @62
 <en>{Natsume}\n"You were right for what you said, maybe that's the reason why my father disapeared in front of me."
-<es>
+<es>{Natsume}\n"Tenías razón en lo que has dicho. Quizá es por eso que mi padre desapareció delante de mí."
 
 @63
 <en>{Kazushi}\n"Father?"
-<es>
+<es>{Kazushi}\n"¿Padre?"
 
 @64
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @65
 <en>After hearing about Natsume's father for the first time , It seemed like Natsume was somewhere far away from me but then again she was right in front of me.
-<es>
+<es>Tras escuchar lo del padre de Natsume por primera vez, parecía como si Natsume estuviese muy lejos de mí pese a estar justo delante mío.
 
 @66
 <en>I didn't know what was going on but I was sure that I hurt Natsume's feelings some how.
-<es>
+<es>No sabía exáctamente lo que estaba pasando, pero estaba seguro de que había herido los sentimientos de Natsume de alguna forma.
 
 @67
 <en>{Kazushi}\n"Natsume......"
-<es>
+<es>{Kazushi}\n"Natsume..."
 
 @71
 <en>{Natsume}\n"Don't worry about it, I'm okay alone"
-<es>
+<es>{Natsume}\n"No te preocupes por eso. Estoy bien sola."
 
 @73
 <en>She started walking again so I chased after her
-<es>
+<es>Empezó a caminar de nuevo, así que fuí tras ella.
 
 @76
 <en>{Natsume}\n"Nothing is going to happen even if you follow me."
-<es>
+<es>{Natsume}\n"No va a pasar nada aunque me sigas."
 
 @77
+#<es>{Kazushi}\n"No. Iré contigo. Do you think I would let people that who says that their alrite alone go?"
 <en>{Kazushi}\n"No, I will go with you. Do you think I would let people that who says that their alrite alone go?"
 <es>
 
 @80
 <en>{Natsume}\n"I told you, I'm okay. Stop being nosy."
-<es>
+<es>{Natsume}\n"Ya te lo he dicho. Estoy bien. Deja de fisgonear."
 
 @81
 <en>{Kazushi}\n"I don't care if I'm nosy, matter of fact may I ask you a nosy question then? Where is your father?"
-<es>
+<es>{Kazushi}\n"Me da igual ser un entrometido. Y por eso, ¿puedo hacerte una pregunta entrometida? ¿Dónde está tu padre?"
 
 @84
 <en>I know it was a personal question.\nBut, I just couldn't help trying to find more about her.
-<es>
+<es>Sabía que era una pregunta muy personal, pero no pude evitar querer saber más de ella.
 
 @87
+# Revisar. ¿Cambiar "preocupas" por "querer saber"?
 <en>{Natsume}\n"You really are nosy. Why do you care so much about me?"
-<es>
+<es>{Natsume}\n"Eres un fisgón de verdad. ¿Por qué te preocupas tanto por mí?"
 
 @88
 <en>{Kazushi}\n"what do you mean why......"
-<es>
+<es>{Kazushi}\n"¿A qué te refieres con "por qué"...?"
 
