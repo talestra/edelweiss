@@ -2,81 +2,87 @@
 
 @5
 <en>{Kazushi}\n"Because you're my friend Natsume."
-<es>
+<es>{Kazushi}\n"Porque eres mi amiga, Natsume."
 
 @8
 <en>Stops
-<es>
+<es>Se para
 
 @9
 <en>Again, she stops and turns around with a wondered face.
-<es>
+<es>De nuevo, se para y se gira con una cara de extraño.
 
 @10
 <en>{Kazushi}\n"Um, did I say something wrong again?"
-<es>
+<es>{Kazushi}\n"Eh... ¿He dicho algo malo?"
 
 @13
 <en>{Natsume}\n"Are you my friend Haruma?"
-<es>
+<es>{Natsume}\n"¿Eres mi amigo, Haruma?"
 
 @14
 <en>{Kazushi}\n"oh, atleast I thought I was your friend. Is that bad?"
-<es>
+<es>{Kazushi}\n"Ah. Al menos eso creía. ¿Tan malo es?"
 
 @15
 <en>{Natsume}\n"Since when are we friends?"
-<es>
+<es>{Natsume}\n"¿Desde cuando somos amigos?"
 
 @16
 <en>{Kazushi}\n"Well if you ask that I can't point out exacly when but, I thought I became your friend when I meet you the second time."
-<es>
+<es>{Kazushi}\n"Bueno, si lo que quieres es una fecha exácta, pues no sé. Pero supongo que me volví tu amigo la seguna vez que nos vimos."
 
 @19
 <en>{Natsume}\n"How did we become friends? Is it because we kissed?"
-<es>
+<es>{Natsume}\n"¿Cómo nos hemos hecho amigos? ¿Es porque nos besamos?"
 
 @20
 <en>{Kazushi}\n"Not exacly......only ture couples are suppose to do that"
-<es>
+<es>{Kazushi}\n"No exáctamente... Se supone que solo las parejas hacen eso."
 
 @21
+# REVISAR.
 <en>When I try to think about that, it makes me bluss. Come to think of it, that was my first kiss and Natsume was my first person to do it with.
-<es>
+<es>Al intentar pensar sobre eso, me pongo rojo. Ahora que lo pienso, ese fue mi primer beso. Y Natsume fue la primera persona con la que lo hice.
 
 @24
 <en>{Natsume}\n"I see, friends eh."
-<es>
+<es>{Natsume}\n"Ya veo. Así que amigos, ¿eh?"
 
 @25
 <en>{Kazushi}\n"yup friends, I'll introduce you to all my friends. I'm sure that they'll all like you."
-<es>
+<es>{Kazushi}\n"Sip, amigos. Te presentaré a mis otros amigos. Estoy seguro de que les gustarás a todos."
 
 @28
+# Revisar.
 <en>{Natsume}\n"But I'm really not a girl that you could introduce to people."
-<es>
+<es>{Natsume}\n"Pero la verdad es que no soy una chica a la que puedas presentar a gente."
 
 @29
+# Revisar.
 <en>{Kazushi}\n"Don't worry about it, there's nothing to be afraid of. All my friends are older then you so it might be boring."
-<es>
+<es>{Kazushi}\n"No te preocupes. Todos mis amigos son mayores que sú, así que podría ser aburrido."
 
 @32
 <en>{Natsume}\n"But it would be rude if you just introduce me."
 <es>
 
 @33
+# Revisar. ¿Violento/Maleducado?
 <en>{Kazushi}\n"Why would it be rude? I don't get it."
-<es>
+<es>{Kazushi}\n"¿Por qué sería violento? No lo entiendo."
 
 @37
 <en>{Natsume}\n".................."
-<es>
+<es>{Natsume}\n"..."
 
 @38
 <en>Natsume is looking at me like an idiot. Was I suppose to know?
 <es>
 
 @41
+# TODO: ¿Cambia "Haruno" a propósito para burlarse, o ida de pinza de los traductores?
+# Revisar Haruno -> Haruma.
 <en>{Natsume}\n"you're stupid Haruno."
-<es>
+<es>{Natsume}\n"Eres tonto, Haruno."
 

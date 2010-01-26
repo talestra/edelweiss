@@ -2,19 +2,19 @@
 
 @5
 <en>{Kazushi}\n"Because I care about you Natsume."
-<es>
+<es>{Kazushi}\n"Porque me preocupo por ti, Natsume."
 
 @8
 <en>When I said that her face looked kinda upset.
-<es>
+<es>Al decirlo, una expresión de enfado se trazó sobre su cara.
 
 @9
 <en>{Natsume}\n"hmp......you are treating me like a kid Haruma."
-<es>
+<es>{Natsume}\n"Uhmm... Me estrás tratando como a una cría, Haruma."
 
 @10
 <en>{Kazushi}\n"Did I say something wrong?"
-<es>
+<es>{Kazushi}\n"¿He dicho algo malo?"
 
 @11
 <en>{Natsume}\n"I havnt lost that much luck yet."
@@ -26,9 +26,9 @@
 
 @15
 <en>{Natsume}\n"well its okay since your stupid Haruma."
-<es>
+<es>{Natsume}\n"Bueno, no pasa nada, porque eres un tonto, Haruma."
 
 @16
 <en>{Kazushi}\n"wow, thanks a lot."
-<es>
+<es>{Kazushi}\n"Vaya. Muchas gracias."
 

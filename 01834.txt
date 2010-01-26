@@ -6,19 +6,20 @@
 
 @6
 <en>{Kazushi}\n"Well yea I know that I'm stupid but don't say that in person."
-<es>
+<es>{Kazushi}\n"Vale. Ya sé que soy estúpido, pero no me lo digas a la cara..."
 
 @9
+# REVISAR. <es>{Natsume}\n"Ya veo... Empiezas a parecerme mono."
 <en>{Natsume}\n"I see......your starting to look cute Haruma."
 <es>
 
 @10
 <en>Is it because I'm stupid? It made me feel sad when she kinda treated me like a kid
-<es>
+<es>¿Es porque soy estúpido? Me entriste un poco cuando me trata como a un niño.
 
 @11
 <en>{Kazushi}\n"Don't treat me like a kid infront of everyone."
-<es>
+<es>{Kazushi}\n"No me trates como a un niño delante de todo el mundo."
 
 @14
 <en>{Natsume}\n"You don't want to be treated like a kid? Did your parents treat you like a kid"
@@ -26,15 +27,15 @@
 
 @15
 <en>{Kazushi}\n"Well yea when I was a kid, how about your parents......"
-<es>
+<es>{Kazushi}\n"Bueno, claro. Cuando era un niño. ¿Y tus padres...?"
 
 @16
 <en>I was going to say something but I remembered we just had this conversation about Natsume's father
-<es>
+<es>Iba a decir algo, pero he recordado la conversación sobre el padre de Natsume.
 
 @17
 <en>{Kazushi}\n"Where is your father right now?"
-<es>
+<es>{Kazushi}\n"¿Dónde está tu padre ahora mismo?"
 
 @18
 <en>Where would this guy be? Leaving his cute daughter in this island
@@ -42,27 +43,28 @@
 
 @19
 <en>{Natsume}\n"He's in this island."
-<es>
+<es>{Natsume}\n"Está en esta isla."
 
 @20
 <en>{Kazushi}\n"What? He's in this island?"
-<es>
+<es>{Kazushi}\n"¿Qué? ¿Que está en esta isla?"
 
 @21
 <en>That was an unexpected answer. Then there shouldn't be any problem.
-<es>
+<es>Esa ha sido una respuesta bastante inesperada. Entonces no debería haber problema alguno.
 
 @22
 <en>{Kazushi}\n"Then you should be able to see him anytime right?"
-<es>
+<es>{Kazushi}\n"Entonces deberías poder verle en cualquier momento, ¿no?"
 
 @23
 <en>It's an small island, and hell, they live in the same island. They should be able to see each other.
 <es>
 
 @26
+# Revisar. ¿Podría/querría?
 <en>{Natsume}\n"But, he wouldn't see me."
-<es>
+<es>{Natsume}\n"Pero. Él no podría verme."
 
 @27
 <en>{Kazushi}\n"Wha?Why? You went to go see him right?"
@@ -78,7 +80,7 @@
 
 @32
 <en>{Natsume}\n"I don't know, maybe he just hates me."
-<es>
+<es>{Natsume}\n"No lo sé. Quizá es simplemente que me odia."
 
 @33
 <en>Natsume seems to be sulky The usual Natsume always looks like the person who would be on top, but the Natsume that I see rite now is just a ordinarily girl.
