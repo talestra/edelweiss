@@ -737,12 +737,17 @@ void extract_all2(char[] game_folder, char[] acme_folder) {
 	writefln(" - script_folder: %s", script_folder_in);
 	writefln(" - acme_folder  : %s", acme_folder);
 
-	foreach (file; listdir(script_folder_in)) {
-		if (file[0] == '.') continue;
-		writefln("%s", file);
-		bss.parse(script_folder_in ~ "/" ~ file);
-		auto acme = bss.extract;
-		acme.writeForm2(std.string.format("%s/%s.txt", acme_folder, file), file);
+	auto file_list = listdir(script_folder_in);
+	if (file_list.length) {
+		foreach (file; file_list) {
+			if (file[0] == '.') continue;
+			writefln("%s", file);
+			bss.parse(script_folder_in ~ "/" ~ file);
+			auto acme = bss.extract;
+			acme.writeForm2(std.string.format("%s/%s.txt", acme_folder, file), file);
+		}
+	} else {
+		writefln("No files detected.");
 	}
 }
 
