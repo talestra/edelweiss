@@ -1,40 +1,55 @@
-# Comments for '01906'
+# '01906'
+# Escena 1:
+# Las chicas convocan a Kazushi para decirle que Hu-sen está enamorada de Appo-
+# Rei, la mejor amiga de Hu-sen y casi su alma gemela, está en contra.
+# Le preguntan a Kazushi si se puede enterar de los sentimientos de Appo- hacia Hu-sen.
+# Kazushi está convencido de que Appo- no podría sentir nunca nada por ella.
+# Las chicas tratan de convencer a Kazushi de que le pregunte.
+# Kazushi también piensa que la gente parecida como ellos forman las mejores parejas.
+# Finalmente Kazushi accede.
+#
+# Escena 2:
+
+## --------
+## Escena 1
+## --------
 
 @7
 <en>{Kazushi}\n"......what do you guys need?"
-<es>
+<es>{Kazushi}\n"¿Qué es lo que queréis, chicas...?"
 
 @14
 <en>I got a summons from the girls.\nI wonder what they need from me.\nIt's making me nervous.
-<es>
+<es>Me han convocado las chicas.\nMe pregunto qué querrán de mí.\nMe estoy poniendo nervioso.
 
 @15
 <en>{Kazushi}\n"Whatever I did......I'm really sorry!"
-<es>
+<es>{Kazushi}\n"No sé lo que he hecho, pero... ¡Lo siento mucho!"
 
 @16
 <en>I should appologize first for whatever I did.
-<es>
+<es>Debería disculparme primero por lo que haya podido hacer.
 
 @17
 <en>{Haruka}\n"? Why are you appologizing?"
-<es>
+<es>{Haruka}\n"¿...? ¿Por qué te disculpas?"
 
 @18
 <en>{Kazushi}\n"I don't know either."
-<es>
+<es>{Kazushi}\n"No sé."
 
 @19
 <en>{Rei}\n"You don't know what you are appologizing for?"
-<es>
+<es>{Rei}\n"¿No sabes por qué te estás disculpando?"
 
 @20
+# Revisar.
 <en>What kind of a man are you?
 <es>
 
 @21
 <en>{Kazushi}\n"What do you guys need?"
-<es>
+<es>{Kazushi}\n"¿Qué es lo que necesitáis entonces?"
 
 @24
 <en>{Ran}\n"Actually,\nwe are bringing you a buisiness."
@@ -46,219 +61,228 @@
 
 @29
 <en>{Kazushi}\n"What are you guys talking about?"
-<es>
+<es>{Kazushi}\n"¿De qué estáis hablando?"
 
 @35
+# ¿Favor -> Ayuda?
 <en>{Sakura}\n"We are here to ask for your help."
-<es>
+<es>{Sakura}\n"Lo que queremos es pedirte un favor."
 
 @36
 <en>{Kazushi}\n"You need my help?"
-<es>
+<es>{Kazushi}\n"¿Necesitáis un favor?"
 
 @37
 <en>I thought they called me over to beat me up or something.
-<es>
+<es>Pensaba que me habían llamado para apalizarme o algo.
 
 @38
 <en>What else these girls ever called me over for?
-<es>
+<es>¿Para qué más iban a haberme llamado?
 
 @39
 <en>{Rei}\n"Are you listening?"
-<es>
+<es>{Rei}\n"¿Estás escuchando?"
 
 @40
 <en>{Kazushi}\n"Yes, I'm listening.\nHow can I help you girls?"
-<es>
+<es>{Kazushi}\n"Sí, sí. Estoy escuchando.\n¿En qué puedo ayudaros?"
 
 @41
 <en>{Rei}\n"It's about Hu-sen."
-<es>
+<es>{Rei}\n"Se trata de Hu-sen."
 
 @42
 <en>{Kazushi}\n"What about her?"
-<es>
+<es>{Kazushi}\n"¿Qué le pasa?"
 
 @43
 <en>What would Hu-sen need me for?\nI have no idea.
-<es>
+<es>¿Para qué me podría necesitar Hu-sen? No tengo ni idea.
 
 @49
 <en>{Haruka}\n"She's in love."
-<es>
+<es>{Haruka}\n"Está enamorada."
 
 @50
 <en>{Kazushi}\n"She's in love?"
-<es>
+<es>{Kazushi}\n"¿Enamorada?"
 
 @51
 <en>{Kazushi}\n"......!?\nWith me!?"
-<es>
+<es>{Kazushi}\n"¿¡...!?\n¿¡De mí!?"
 
 @54
+# Revisar.
 <en>I almost fainted.\nIt was like getting a death sentence.
-<es>
+<es>Casi me desmayo.\nEra algo así como ser sentenciado a muerte.
 
 @57
 <en>{Haruka}\n"No!\nNot you."
-<es>
+<es>{Haruka}\n"¡No!\nDe ti no."
 
 @62
 <en>{Mizuki}\n"It's Appo-."
-<es>
+<es>{Mizuki}\n"De Appo-."
 
 @64
 <en>{Kazushi}\n"It's Appo- ."
-<es>
+<es>{Kazushi}\n"Ah, de Appo-."
 
 @67
 <en>Thank god......
-<es>
+<es>Gracias a Dios...
 
 @68
 <en>If I think about it, she's been crazy about him since that accident.
-<es>
+<es>En realidad, si lo pienso, anda loquita por él desde aquel accidente.
 
 @69
+# Revisar.
 <en>Appo- on the other hand,\nhe's been hiding away from her.
-<es>
+<es>Por otra parte, Appo-,\nha estado evitándola.
 
 @70
 <en>{Kazushi}\n"I kind of knew it, but how can I help you guys with it?"
-<es>
+<es>{Kazushi}\n"Mas o menos me lo imaginaba. ¿Pero en qué puedo ayudaros con eso?"
 
 @71
 <en>It's about them.\nNot about me.
-<es>
+<es>Es cosa de ellos, no mía.
 
 @74
 <en>{Rei}\n"I still can't believe she wants to go out with him."
-<es>
+<es>{Rei}\n"Todavía me resulta increíble que quiera salir con él."
 
 @75
 <en>For some reason,\nRei is against them going out.
-<es>
+<es>Por algún motivo, Rei está en contra de que salgan.
 
 @80
 <en>{Haruka}\n"Rei doesn't like how Hu-sen falls in love with a boy."
-<es>
+<es>{Haruka}\n"A Rei no le hace ni pizca de gracia que Hu-sen se enamore de un chico."
 
 @84
 <en>{Ran}\n"Rei, you just don't wanna be left alone, do you?"
-<es>
+<es>{Ran}\n"Rei. No quieres quedarte sola. Es eso, ¿verdad?"
 
 @85
 <en>{Rei}\n"It's not that!\nIt's just that we've always been together!"
-<es>
+<es>{Rei}\n"¡No es eso!\n¡Es que hemos estado juntas siempre!"
 
 @90
 <en>{Mizuki}\n"You guys grew up together."
-<es>
+<es>{Mizuki}\n"Habéis crecido juntas."
 
 @91
 <en>{Kazushi}\n"You did?"
-<es>
+<es>{Kazushi}\n"¿En serio?"
 
 @93
 <en>No wonder they are so tight all the time.
-<es>
+<es>No es de extrañar entonces que estén tan juntas todo el tiempo.
 
 @94
 <en>{Kazushi}\n"So you guys always went to the same school?"
-<es>
+<es>{Kazushi}\n"¿Así que habéis ido a la misma escuela siempre?"
 
 @97
 <en>{Rei}\n"Not just schools.\nWe even had first love together."
-<es>
+<es>{Rei}\n"No solo la escuela.\nHasta nos enamoramos por primera vez juntas."
 
 @98
 <en>{Kazushi}\n"You guys are like twins."
-<es>
+<es>{Kazushi}\n"Por lo que dices sois casi gemelas."
 
 @101
 <en>{Rei}\n"Yes, we are!\n I'm not jealous!I'm just worried!"
-<es>
+<es>{Rei}\n"¡Pues sí!\n¡Y no estoy celosa! ¡Lo que estoy es preocupada!"
 
 @102
 <en>She stares at me as she makes a statement.
-<es>
+<es>Me mira fijamente mientras hace la afirmación.
 
 @103
 <en>{Kazushi}\n"Don't stare at me!\nWhat do you want me to do?"
-<es>
+<es>{Kazushi}\n"¡No me mires a mí!\n¿Qué quieres que haga yo?"
 
 @107
 <en>{Mizuki}\n"Can you ask Appo- how he thinks about Hu-sen?"
-<es>
+<es>{Mizuki}\n"¿Puedes preguntarle a Appo- qué opina sobre Hu-sen?"
 
 @108
 <en>{Kazushi}\n"I think I already know how he thinks about her......"
-<es>
+<es>{Kazushi}\n"Creo que eso ya me lo imagino..."
 
 @111
 <en>{Mizuki}\n"Did you say something?"
-<es>
+<es>{Mizuki}\n"¿Has dicho algo?"
 
 @112
 <en>{Kazushi}\n"No, nothing."
-<es>
+<es>{Kazushi}\n"No. Nada..."
 
 @113
+# Revisar.
 <en>There is no way Appo- is falling for Hu-sen.\nHe's so picky even if he doesn't get any attention from women.
-<es>
+<es>Es imposible que Appo- se acabe enamorando de Hu-sen.\nPor mucho que las chicas pasen de él, es así de exigente.
 
 @117
 <en>{Haruka}\n"Kazushi, can you cooperate?\nI want them to be happy."
-<es>
+<es>{Haruka}\n"Kazushi, ¿podrías cooperar?\nMe gustaría verles felices."
 
 @118
 <en>{Kazushi}\n"That will be best if it happens that way."
-<es>
+<es>{Kazushi}\n"Sería genial si fuese así."
 
 @119
 <en>But, I'm not sure if that'll make Appo- happy.
-<es>
+<es>Pero no estoy seguro de que eso fuese a hacer feliz a Appo-.
 
 @122
 <en>{Haruka}\n"I'm confident they'll make a great couple."
-<es>
+<es>{Haruka}\n"Estoy convencida de que serían una muy buena pareja."
 
 @123
 <en>{Kazushi}\n"Are you sure?"
-<es>
+<es>{Kazushi}\n"¿Estás segura?"
 
 @128
 <en>{Mizuki}\n"Sure they will."
-<es>
+<es>{Mizuki}\n"Desde luego."
 
 @129
 <en>{Kazushi}\n"I don't know......"
-<es>
+<es>{Kazushi}\n"No sé yo..."
 
 @130
+# Revisar.
 <en>They are alike.\nI heard similar people make best couples.
-<es>
+<es>Son muy parecidos.\nHe oído que la gente similar son las que forman las mejores parejas.
 
 @135
 <en>{Rei}\n"She's sighing all day long..\nThat's all she does all day.\nWill you find out how he thinks about her."
-<es>
+<es>{Rei}\n"Se pasa el día suspirando...\nEs lo único que hace.\n¿Averigurarás lo que siente él por ella?"
 
 @136
 <en>{Kazushi}\n"All right. All right."
-<es>
+<es>{Kazushi}\n"Está bien. Está bien."
 
 @137
 <en>I can't imagine Hu-sen sighing all day long.
-<es>
+<es>Me resulta difícil imaginar a Hu-sen suspirando todo el día.
 
 @138
 <en>That tells me she's serious.
-<es>
+<es>Lo que me advierte de que va en serio.
 
 @139
 <en>I guess I'll ask Appo- how he feels about Hu-sen.
-<es>
+<es>Supongo que le preguntaré a Appo- sobre sus sentimientos hacia ella.
+
+## --------
+## Escena 2
+## --------
 
 @147
 <en>{Kazushi}\n"What do you think about Hu-sen?"
