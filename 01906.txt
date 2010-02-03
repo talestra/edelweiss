@@ -286,107 +286,108 @@
 
 @147
 <en>{Kazushi}\n"What do you think about Hu-sen?"
-<es>
+<es>{Kazushi}\n"¿Qué opinas de Hu-sen?"
 
 @148
 <en>I gave him a hint.
-<es>
+<es>Lo he dejado caer.
 
 @149
 <en>{Appo-}\n"I think she should be in the recycle trash."
-<es>
+<es>{Appo-}\n"Opino que debería estar en un cubo de la basura."
 
 @150
 <en>He seems to have absolutely no feelings for Hu-sen.
-<es>
+<es>Parece que no siente absolutamente nada por ella.
 
 @155
 <en>{Pierre}\n"That's what I wanted to talk about.\nDid you notice how she looks at him lately?"
-<es>
+<es>{Pierre}\n"Ya quería yo hablar de eso.\n¿Os habéis fijado cómo le mira a Appo- últimamente?"
 
 @162
 <en>{Daigo}\n"The way she looks at him?"
-<es>
+<es>{Daigo}\n"¿Cómo le mira?"
 
 @165
 <en>{Pierre}\n"She's falling for Appo-."
-<es>
+<es>{Pierre}\n"Está coladita por Appo-."
 
 @168
 <en>{Appo-}\n"Will you guys stop?\nBesides, what are we doing?"
-<es>
+<es>{Appo-}\n"¿Paráis ya o qué?\nAdemás. ¿Qué es lo que estamos haciendo?"
 
 @169
 <en>{Daigo}\n"What do you mean?"
-<es>
+<es>{Daigo}\n"¿Qué quieres decir?"
 
 @170
 <en>{Appo-}\n"It's been half a year already.\nHow come none of us got a girlfriend yet?"
-<es>
+<es>{Appo-}\n"Ya ha pasado medio año.\n¿Cómo es que ninguno de nosotros tiene novia ya?"
 
 @171
 <en>{Appo-}\n"This island is filled with girls!\nHow come no one's got even a chance!?"
-<es>
+<es>{Appo-}\n"¡La isla está a rebosar de chicas!\n¿¡Cómo puede ser que ninguno haya tenido siquiera una oportunidad!?"
 
 @174
 <en>{Daigo}\n"Somebody's got a chance."
-<es>
+<es>{Daigo}\n"Alguien sí que la tiene."
 
 @175
 <en>{Kazushi}\n"That's right.\nRight in front of us."
-<es>
+<es>{Kazushi}\n"Eso es cierto.\nY está justo delante de nosotros."
 
 @176
 <en>Everybody stared at Appo-.
-<es>
+<es>Todos nos quedamos mirando a Appo-.
 
 @179
 <en>{Appo-}\n"Why are you guys staring at me?"
-<es>
+<es>{Appo-}\n"¿Por qué me miráis amí?"
 
 @182
 <en>{Pierre}\n"Because you're the one who's got a chance."
-<es>
+<es>{Pierre}\n"Precisamente porque eres tú ese que tiene una oportundidad."
 
 @183
+# Revisar.
 <en>{Appo-}\n"Stop.\nI rather die than talk about Hu-sen."
-<es>
+<es>{Appo-}\n"Parad el carro.\nPreferiría morir antes que hablar sobre Hu-sen."
 
 @184
 <en>{Pierre}\n"Come on.\nDon't be such an asshole.\nBe nice to her."
-<es>
+<es>{Pierre}\n"Venga.\nNo seas tan terco.\nSé bueno con ella."
 
 @185
 <en>It seems like everyone's rooting for Hu-sen.
-<es>
+<es>Parece que todos apoyan lo de Hu-sen.
 
 @188
 <en>{Appo-}\n"Shut up!\nPut yourselves in my position!"
-<es>
+<es>{Appo-}\n"¡A callar!\n¡Poneos en mi posición!"
 
 @189
 <en>He got mad.\nNo one's got balls to talk back to him.
-<es>
+<es>Se ha enfadado.\nNadie tiene cojones para replicarle.
 
 @190
 <en>{Appo-}\n"What did I tell you."
-<es>
+<es>{Appo-}\n"¿Qué os he dicho?"
 
 @191
 <en>He's right.\nWe couldn't say anything.
-<es>
+<es>Tenía razón.\nNo podíamos decir nada.
 
 @192
 <en>{Kazushi}\n"But it's not such a bad feeling to be liked by a girl, is it?"
-<es>
+<es>{Kazushi}\n"Pero no es tan malo gustarle a una chica, ¿no?"
 
 @193
 <en>{Appo-}\n"Have you seen her face?"
-<es>
+<es>{Appo-}\n"¿Pero le has visto la cara?"
 
 @196
 <en>{Pierre}\n"Hey, that's not nice.\nIt's her heart what counts the most."
-<es>
+<es>{Pierre}\n"Ey, eso es muy vil.\nEs el corazón lo que de verdad importa."
 
 @197
 <en>{Appo-}\n"Stop making a beautiful love story!!"
@@ -394,15 +395,15 @@
 
 @200
 <en>{Appo-}\n[Appo- crying]
-<es>
+<es>{Appo-}\n*Llorando*
 
 @201
 <en>{Kazushi}\n"You don't have to cry!!"
-<es>
+<es>{Kazushi}\n"¡¡No tienes que llorar!!"
 
 @206
 <en>{Appo-}\n"She shows up in my dream everynight!\nShe rapes me everynight!!"
-<es>
+<es>{Appo-}\n"¡Me la encuentro en sueños cada noche!\n¡¡Y todas las noches acaba violándome!!"
 
 @207
 <en>{Kazushi}\n"......is that why you're washing your underwear every morning?"
@@ -410,7 +411,7 @@
 
 @212
 <en>{Daigo}\n"You're actually coming......!?"
-<es>
+<es>{Daigo}\n"¿¡Te acabas corriendo...!?"
 
 @213
 <en>{Appo-}\n"It actually feels really good!\nMakes me wanna kill myself!"
@@ -418,19 +419,19 @@
 
 @220
 <en>{Pierre}\n"Don't be so exaggerated.\nConsider yourself a lucky guy."
-<es>
+<es>{Pierre}\n"No seas tan exagerado.\nConsiderate un chico con suerte."
 
 @223
 <en>{Daigo}\n"Pierre is right. So far,\nyou're the only one getting hit on by a girl."
-<es>
+<es>{Daigo}\n"Pierre tiene razón. Además, tú has sido el único en atraer a una chica."
 
 @226
 <en>{Appo-}\n"......only me!?"
-<es>
+<es>{Appo-}\n"¿¡Solo yo...!?"
 
 @227
 <en>He responded to the word "only one".
-<es>
+<es>Ha respondido a la parte de 'el único'.
 
 @230
 <en>{Pierre}\n"That's right. You're the only one so far.\nYou gotta lead us the way to the happiness."

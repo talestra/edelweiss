@@ -18,7 +18,7 @@
 
 @10
 <en>Is it because I'm stupid? It made me feel sad when she kinda treated me like a kid
-<es>¿Es porque soy estúpido? Me entriste un poco cuando me trata como a un niño.
+<es>¿Es porque soy estúpido? Me entristezvo un poco cuando me trata como a un niño.
 
 @11
 <en>{Kazushi}\n"Don't treat me like a kid infront of everyone."
@@ -51,7 +51,7 @@
 
 @20
 <en>{Kazushi}\n"What? He's in this island?"
-<es>{Kazushi}\n"¿Qué? ¿Que está en esta isla?"
+<es>{Kazushi}\n"¿Qué? ¿Que está en la isla?"
 
 @21
 <en>That was an unexpected answer. Then there shouldn't be any problem.
@@ -68,7 +68,7 @@
 @26
 # Revisar. ¿Podría/querría?
 <en>{Natsume}\n"But, he wouldn't see me."
-<es>{Natsume}\n"Pero. Él no querría verme."
+<es>{Natsume}\n"Pero... Él no querría verme."
 
 @27
 <en>{Kazushi}\n"Wha?Why? You went to go see him right?"
@@ -89,7 +89,7 @@
 @33
 # REVISAR! (especialmenet la parte de "por encima del hombro")
 <en>Natsume seems to be sulky The usual Natsume always looks like the person who would be on top, but the Natsume that I see rite now is just a ordinarily girl.
-<es>Natsume parece resentida. La Natsume de siempre, siempre mira a las personas por encima del hombro, pero la Natsume que veo ahora es como cualquier chica ordinaria.
+<es>Natsume parece resentida. La Natsume de siempre, mira siempre a las personas por encima del hombro, pero la Natsume que veo ahora es como cualquier chica ordinaria.
 
 @36
 <en>{Natsume}\n"My father hates me. That's why he went away from me. That's why he wouldn't see me even if I went."
@@ -105,17 +105,18 @@
 
 @41
 <en>{Natsume}\n"What do you know about me, you don't know anything."
-<es>{Natsume}\n"¿Y tú que sabse de mí? Nada. No sabes nada."
+<es>{Natsume}\n"¿Y tú que sabes de mí? Nada. No sabes nada."
 
 @42
 <en>{Kazushi}\n"That is true but, he is your only father. There isn't a father that wouldn't care about their own child."
-<es>{Kazushi}\n"Eso es cierto, pero él es tu único padre. No hay ningún padre en el mundo que no se preocupase por su propia hija."
+<es>{Kazushi}\n"Eso es cierto, pero él es tu único padre. No hay ningún padre en el mundo que no se preocupase por su hija."
 
 @45
 <en>{Natsume}\n"Then why wouldn't he see me? Why would he run away?"
 <es>{Natsume}\n"¿Entonces por qué no quería verme? ¿Por qué huyó?"
 
 @46
+# Revisar.
 <en>It looked like we were going back in times because Natsume was acting like a little girl
 <es>Era como si estuviésemos viajando al pasado por la forma en la que Natsume actuaba como una niñita.
 
@@ -129,7 +130,7 @@
 
 @49
 <en>{Kazushi}\n"Seriously, I mean it. Let's go see your father one more time, I will go with you this time."
-<es>{Kazushi}\n"En serio. Lo creo ed verdad. Ves a ver a tu padre una vez más. Esta vez iré contigo."
+<es>{Kazushi}\n"En serio. Lo creo de verdad. Ves a ver a tu padre una vez más. Esta vez iré contigo."
 
 @52
 # Otra vez Haruno en vez de Haruma.
@@ -168,7 +169,7 @@
 @65
 # Revisar. ¿Qué tiene que ver?
 <en>But, I just can't think this guy is a bad guy because he's Natsume's only father
-<es>Pero me resulta difícil de creer que sea un mal tipo, siendo el único hijo de Natsume.
+<es>Pero me resulta difícil de creer que sea un mal tipo, siendo el único padre de Natsume.
 
 @66
 <en>I must help them out
