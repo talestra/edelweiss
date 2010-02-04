@@ -1399,27 +1399,27 @@
 
 @893
 <en>{Kazushi}\n"......you're so right......!"
-<es>
+<es>{Kazushi}\n"¡Cuanta razón tienes...!"
 
 @894
 <en>{Pierre}\n"You are like one of us just till yesterday!\nWhat makes you so different from us now!?"
-<es>
+<es>{Pierre}\n"¡Tú eras como nosotros hasta ayer!\n¿¡Qué te hace tan diferente de nosotros ahora!?"
 
 @895
 <en>{Appo-}\n"I don't know who she had sex with before and I don't care.\nI just don't wanna go out sith a slut......"
-<es>
+<es>{Appo-}\n"Yo no sabía que ya lo había hecho antes, peor es que me da igual.\nMe niego a salir con semejante puta..."
 
 @899
 <en>{Daigo}\n"Appo--!!"
-<es>
+<es>{Daigo}\n"¡¡Appo-...!!"
 
 @900
 <en>[Daigo stood up]
-<es>
+<es>Daigo se levantó.
 
 @907
 <en>[Daigo threw a big punch on Appo-]
-<es>
+<es>Y le arreó un puñetazo a Appo-.
 
 @911
 <en>{Appo-}\n"!?"
@@ -1431,7 +1431,7 @@
 
 @922
 <en>{Daigo}\n"That's enough-!!"
-<es>
+<es>{Daigo}\n"¡¡Ya está bien!!"
 
 @925
 <en>{Daigo}\n"......?\nWhere are you?"
@@ -1443,11 +1443,11 @@
 
 @931
 <en>{Pierre}\n"Is he all right?"
-<es>
+<es>{Pierre}\n"¿Está bien?"
 
 @932
 <en>{Kazushi}\n"Appo-!!"
-<es>
+<es>{Kazushi}\n"¡¡Appo-!!"
 
 @936
 <en>Everybody in the boy's dorm came out by the noise we made.
@@ -1455,7 +1455,7 @@
 
 @939
 <en>{Appo-}\n"O, O, Ouch......"
-<es>
+<es>{Appo-}\n"A-A-Au..."
 
 @940
 <en>There he was surrounded by the onlookers.
@@ -1463,15 +1463,15 @@
 
 @941
 <en>{Kazushi}\n"Are you all right?\nDo you know you're bleeding?"
-<es>
+<es>{Kazushi}\n"¿Te encuentras bien?\n¿Sabes que estás sangrando?"
 
 @946
 <en>{Pierre}\n"Just lick his scar, he'll be all right."
-<es>
+<es>{Pierre}\n"Que alguien le chupe la herida, se pondrá bien."
 
 @953
 <en>{Daigo}\n"I did it.\nLet me do it!!"
-<es>
+<es>{Daigo}\n"Ha sido por mi culpa.\n¡¡Yo lo haré!!"
 
 @956
 <en>{Appo-}\n"Stop!\nI don't need that!"
@@ -1479,187 +1479,187 @@
 
 @957
 <en>He tries to escape.
-<es>
+<es>Trata de escapar.
 
 @962
 <en>{Appo-}\n"why do I have to go through this?!!"
-<es>
+<es>{Appo-}\n"¡¿Por qué tengo que pasar por esto?!"
 
 @963
 <en>{Kazushi}\n"For you being so childish!"
-<es>
+<es>{Kazushi}\n"¡Por tu actitud tan infantil!"
 
 @966
 <en>{Appo-}\n"What did I do wrong!?"
-<es>
+<es>{Appo-}\n"¿¡Qué he hecho mal yo!?"
 
 @971
 <en>{Pierre}\n"You were just being jealous, right?"
-<es>
+<es>{Pierre}\n"Estabas celoso. ¿Verdad?"
 
 @974
 <en>{Appo-}\n"No, I wasn't......"
-<es>
+<es>{Appo-}\n"No. No lo estaba..."
 
 @978
 <en>{Daigo}\n"Come on, be honest.\nYou don't wanna make your love one cry, do you?"
-<es>
+<es>{Daigo}\n"Venga, se honesto.\nNo te gustaría que la chica que quieres llorase, ¿verdad?"
 
 @979
 <en>{Kazushi}\n"Daigo's right.\nYou don't wanna lose her, do you?"
-<es>
+<es>{Kazushi}\n"Daigo tiene razón.\n¿Acaso quieres perderla?"
 
 @986
 <en>{Appo-}\n"..................ofcourse not."
-<es>
+<es>{Appo-}\n"...Claro que no..."
 
 @987
 <en>He finally became honest.
-<es>
+<es>Al final ha dicho la verdad.
 
 @990
 <en>{Appo-}\n"You guys are right!\nI fell in love with her!\ni'm jealous of her ex!"
-<es>
+<es>{Appo-}\n"¡Tenéis razón!\n¡Me enamoré de ella!\n¡Y estoy celoso de su ex!"
 
 @993
 <en>{Appo-}\n"She is not exactly my type!!\nWhy am I falling for her-?!"
-<es>
+<es>{Appo-}\n"¡¡Y es que ella no es exáctamente mi tipo!!\n¡¿Por qué me he enamorado?!"
 
 @996
 <en>{Appo-}\n"It's funny, right?!\nGo ahead and laugh at me!"
-<es>
+<es>{Appo-}\n"¡Tiene gracia, ¿no?!\nVenga, ¡reíros de mí!"
 
 @997
 <en>He screamed, but no body laughed at him.
-<es>
+<es>Lo dijo chillando, pero nadie se rió de él.
 
 @998
 <en>{Kazushi}\n"Ofcourse no body is going to laugh at you.\nYou just share with us your honest feeling."
-<es>
+<es>{Kazushi}\n"Nadie se va a reír de ti.\nAcabas de compartir con nosotros tus sentimientos sinceros."
 
 @1002
 <en>{Daigo}\n"If you truly love her.\nWho cares about her past."
-<es>
+<es>{Daigo}\n"Si de verdad la quieres.\n¿A quién le importa su pasado?"
 
 @1007
 <en>{Pierre}\n"Yopu don't wanna lose her, do you?"
-<es>
+<es>{Pierre}\n"No quieres perderla, ¿no?"
 
 @1008
 <en>We all looked at sky.
-<es>
+<es>Nos quedamos todos mirando al cielo.
 
 @1013
 <en>{Appo-}\n"Ofcourse not."
-<es>
+<es>{Appo-}\n"Claro que no."
 
 @1016
 <en>He started to run to get her.
-<es>
+<es>Appo- empezó a correr para ir a buscarla.
 
 @1023
 <en>{Appo-}\n[Appo- catching breath]
-<es>
+<es>{Appo-}\n*Sin aliento*
 
 @1024
 <en>He was running so fast to Hu-sen.
-<es>
+<es>Corría todo lo rápido que podía hacia Hu-sen.
 
 @1025
 <en>We' ve never seen him run like this.
-<es>
+<es>Nunca lo habíamos visto correr así.
 
 @1027
 <en>{Appo-}\n"Hu-sen!!\nHu-sen!!"
-<es>
+<es>{Appo-}\n"¡¡Hu-sen!!\n¡¡Hu-sen!!"
 
 @1028
 <en>Everybody in the girls' dorm opened the window.
-<es>
+<es>Todas las chicas del dormitorio de las chicas abrieron las ventanas.
 
 @1029
 <en>{Appo-}\n"Hu-sen!!"
-<es>
+<es>{Appo-}\n"¡¡Hu-sen!!"
 
 @1031
 <en>[Another window opened]
-<es>
+<es>Se abrió otra ventana.
 
 @1032
 <en>There she was.
-<es>
+<es>Allí estaba ella.
 
 @1033
 <en>{Hu-sen}\n"Appo-......"
-<es>
+<es>{Hu-sen}\n"Appo-..."
 
 @1034
 <en>{Appo-}\n"Hu-sen!!!"
-<es>
+<es>{Appo-}\n"¡¡Hu-sen!!"
 
 @1036
 <en>He jusmped on the tree that leads to her window.
-<es>
+<es>Se subió al árbol que daba a su ventana.
 
 @1039
 <en>He climbed up all the way to reach her.
-<es>
+<es>Trepó hasta que la alcanzó.
 
 @1040
 <en>{Appo-}\n[Appo- catching breath]
-<es>
+<es>{Appo-}\n*Casi sin respiración*
 
 @1041
 <en>They are looking at each other in the eyes.
-<es>
+<es>Se están mirando fijamente a los ojos.
 
 @1042
 <en>{Appo-}\n"I'm sorry did I wake you up?"
-<es>
+<es>{Appo-}\n"Lo siento. ¿Te he despertado?"
 
 @1043
 <en>{Hu-sen}\n"I knew you'd come for me."
-<es>
+<es>{Hu-sen}\n"Sabía que vendrías a por mí."
 
 @1044
 <en>Appo- looks into her eyes like a man.
-<es>
+<es>Appo- la mira a los ojos como un hombre.
 
 @1045
 <en>{Appo-}\n"I'm sorry!\nI love you no matter what!"
-<es>
+<es>{Appo-}\n"¡Lo siento!\n¡Te quiero!, ¡no me importa nada más!"
 
 @1046
 <en>{Hu-sen}\n"...!!...?"
-<es>
+<es>{Hu-sen}\n"¡¡...!! ¿...?"
 
 @1047
 <en>{Appo-}\n"Please go out with me!!"
-<es>
+<es>{Appo-}\n"Por favor, ¡¡sal conmigo!!"
 
 @1048
 <en>He reached out his right hand as if he was praying.
-<es>
+<es>Extendió su brazo derecho como si estuviese suplicando.
 
 @1049
 <en>That was a wrong move.
-<es>
+<es>Fue un movimiento muy desafortunado.
 
 @1051
 <en>[Tree branch braking]
-<es>
+<es>*Rama rompiéndose*
 
 @1052
 <en>{Daigo}\n"Watch out......!"
-<es>
+<es>{Daigo}\n"¡Cuidado...!"
 
 @1053
 <en>The branch which was holding Appo-'s weight finally lost its endurance.
-<es>
+<es>LA rama que aguantaba el peso de Appo- acabó por perder toda la resistencia que ofrecía.
 
 @1054
 <en>{Appo-}\n"...!!..."
-<es>
+<es>{Appo-}\n"¡¡...!!"
 
 @1055
 <en>Appo- was thrown in the air.
@@ -1679,97 +1679,97 @@
 
 @1063
 <en>{Hu-sen}\n"......you' re safe."
-<es>
+<es>{Hu-sen}\n"Estás a salvo..."
 
 @1064
 <en>Hu-sen was holding him ever so preciously.
-<es>
+<es>Hu-sen lo estaba sujetando con sumo cuidado.
 
 @1065
 <en>{Hu-sen}\n"Climb up to by window."
-<es>
+<es>{Hu-sen}\n"Trepa por la ventana."
 
 @1066
 <en>Hu-sen tries to pull up Appo- with everything she got.
-<es>
+<es>Hu-sen trata de enderezar a Appo- como puede.
 
 @1067
 <en>She finally pulled him up safely and gave him a big hug.
-<es>
+<es>Finalmente se las arregló para ponerlo a salvo y le dio un fuerte abrazo.
 
 @1068
 <en>{Appo-}\n"......\nHu-sen?"
-<es>
+<es>{Appo-}\n"...\n¿Hu-sen?"
 
 @1069
 <en>{Hu-sen}\n"I wanna hear it again."
-<es>
+<es>{Hu-sen}\n"Me encantaría volverlo a escuchar."
 
 @1070
 <en>She begged.
-<es>
+<es>Suplicó Hu-sen.
 
 @1071
 <en>{Appo-}\n"Sure!"
-<es>
+<es>{Appo-}\n"¡Por supuesto!"
 
 @1072
 <en>{Appo-}\n"I love you!!\nPlease go out with me!!"
-<es>
+<es>{Appo-}\n"¡¡Te quiero!!\n¡¡Por favor, sal conmigo!!"
 
 @1073
 <en>{Hu-sen}\n"Yes......\nI love to."
-<es>
+<es>{Hu-sen}\n"Sí...\nYo también te quiero."
 
 @1074
 <en>She replied to Appo-.
-<es>
+<es>Respondió a Appo-.
 
 @1079
 <en>{Pierre}\n"Yes-!"
-<es>
+<es>{Pierre}\n"¡Sí!"
 
 @1080
 <en>{Kazushi}\n"Great job, Appo-."
-<es>
+<es>{Kazushi}\n"¡Bien hecho, Appo-!"
 
 @1081
 <en>This was like watching a movie.
-<es>
+<es>Era casi como estar viendo una película.
 
 @1086
 <en>{Daigo}\n"Damn Appo-.\nHe should've done this long time ago."
-<es>
+<es>{Daigo}\n"Maldito Appo-.\nDebió haber hecho esto hace mucho tiempo."
 
 @1087
 <en>{Kazushi}\n"Oh well, this is more like Appo-."
-<es>
+<es>{Kazushi}\n"Ya, pero bueno. Así es mucho más propio de Appo-."
 
 @1094
 <en>{Appo-}\n[Appo- crying]
-<es>
+<es>{Appo-}\n*Llorando*
 
 @1095
 <en>{Hu-sen}\n"......you don't need to cry."
-<es>
+<es>{Hu-sen}\n"No llores..."
 
 @1096
 <en>Hu-sen cradles crying Appo-.\n......I was kind of envious of them.
-<es>
+<es>Hu-sen acunaba al lloroso Appo-.\n...Me daban un poco de envidia.
 
 @1103
 <en>{Pierre}\n"They put up a quite of a show."
-<es>
+<es>{Pierre}\n"Menudo espectáculo que han hecho."
 
 @1104
 <en>{Daigo}\n"Made me wanna girlfriend......"
-<es>
+<es>{Daigo}\n"Hace que sienta que necesito novia..."
 
 @1105
 <en>{Kazushi}\n"I felt the same way."
-<es>
+<es>{Kazushi}\n"A mí me pasa igual."
 
 @1108
 <en>We have our first couple of the school.
-<es>
+<es>Ya tenemos la primera pareja es la escuela.
 
