@@ -738,337 +738,337 @@
 <en>We could hardly spot an open seat.
 <es>Apenas veíamos sitios vacíos.
 
-@402
+@403
 <en>{Haruka}\n"It's either buying lunch from a vending machine or come here and eat. It'll always be crowded like this."
 <es>{Haruka}\n"Es o comer aquí o comprar algo en una máquina expendedora. Siempre está de lleno."
 
-@403
+@405
 # ¿Cambiar tapper por bento?
 <en>{Kazushi}\n"Or we can make our own lunch box."
 <es>{Kazushi}\n"O también nos podemos hacer y traer un tapper."
 
-@405
+@407
 <en>That's actually the first thing I'd ask, making lunch box for me when I get a girlfriend......
 <es>La verdad es que sería la primera cosa que pediría: que me hiciesen la comida cuando tuviese novia...
 
-@406
+@408
 <en>{Kazushi}\n"It's a must."
 <es>{Kazushi}\n"Es casi obligatorio."
 
-@412
+@414
 # Revisar.
 <en>{Haruka}\n"Guys, it seems like Kazushi lost his mind."
 <es>{Haruka}\n"Chicos, parece que Kazushi ha perdido la cabeza."
 
-@413
+@415
 <en>{Appo-}\n"Please leave him alone. That's his desease."
 <es>{Appo-}\n"Anda, déjale solo. Es su enfermedad."
 
-@414
+@416
 <en>{Haruka}\n"He looks scary."
 <es>{Haruka}\n"Me da miedo."
 
-@415
+@417
 <en>{Kazushi}\n"What is it, guys?"
 <es>{Kazushi}\n"¿Qué pasa, chicos?"
 
-@416
+@418
 <en>Every one was looking at me weired.
 <es>Todos me estaban mirando con caras raras.
 
-@419
+@421
 <en>{Haruka}\n"You need to take better care of yourself-"
 <es>{Haruka}\n"Tienes que cuidarte..."
 
-@420
+@422
 <en>{Kazushi}\n"What are you talking about???"
 <es>{Kazushi}\n"¿¿De qué estás hablando??"
 
-@425
+@427
 <en>{Pierre}\n"All right! Let's order some food-"
 <es>{Pierre}\n"¡Está bien! ¡Pidamos algo de comida"
 
-@429
+@431
 <en>{Appo-}\n"Hey! There is Mei!"
 <es>{Appo-}\n"¡Ey! ¡Ahí está Mei!"
 
-@433
+@435
 <en>She was eating lunch with few girls.
 <es>Estaba comiendo con unas cuantas chicas.
 
-@434
+@436
 <en>{Kazushi}\n"Stop calling her Mei."
 <es>{Kazushi}\n"Deja de llamarla Mei."
 
-@438
+@440
 <en>{Appo-}\n"She's popular among students. That's my girl."
 <es>{Appo-}\n"Es popular entre los estudiantes. Esa es mi chica."
 
-@443
+@445
 <en>{Haruka}\n"What? She's your girl?"
 <es>{Haruka}\n"¿Qué? '¿Esa es tu chica?'"
 
-@444
+@446
 <en>{Kazushi}\n"Please leave him alone. That's his desease."
 <es>{Kazushi}\n"Anda, déjale solo. Esa es su enfermedad."
 
-@447
+@449
 <en>{Haruka}\n"It seems like everybody's got some kind of desease."
 <es>{Haruka}\n"Parece que tenéis todos algún tipo de enfermedad."
 
-@450
+@452
 <en>{Appo-}\n"I'll sit next her! Let me eat my lunch with my Mei!"
 <es>{Appo-}\n"¡Me sentaré junto a ella! ¡Voy a comer con mi Mei!"
 
-@454
+@456
 <en>{Pierre}\n"I'm still debating what I should get."
 <es>{Pierre}\n"Yo todavía estoy pensando qué coger."
 
-@458
+@460
 <en>{Daigo}\n"Sea food pizza, BLT sandwich, ceaser salad,.......... They are light meals."
 <es>{Daigo}\n"Pizza de marisco, sandwich BLT, ensalada,... Es todo ligero."
 
-@462
+@464
 <en>{Haruka}\n"Yeah, this used to be girls' school, you know."
 <es>{Haruka}\n"Sí, solía ser la escuela para chicas, ¿recuerdas?"
 
-@463
+@465
 <en>It seems like all the menus are girls' favorite.
 <es>Parece que todos los menús son los favoritos de las chicas.
 
-@466
+@468
 <en>{Daigo}\n"I'm going to have noodle and chicken cutlet bowl."
 <es>
 
-@470
+@472
 <en>{Pierre}\n"I'll take beef B.B.Q set."
 <es>{Pierre}\n"Yo creo que me pediré el conjunto de barbacoa."
 
-@475
+@477
 <en>{Haruka}\n"Wow. Boys eat a lot from lunch. What are you going to get, Kazushi?"
 <es>{Haruka}\n"Vaya. Si que coméis durante la comida, chicos. ¿Y tú qué vas a tomar, Kazushi?"
 
-@476
+@478
 <en>{Kazushi}\n"Let's see......"
 <es>{Kazushi}\n"Veamos..."
 
-@477
+@479
 <en>They are all reasonably cheap......
 <es>Todo tiene precios bastante razonables...
 
-@478
+@480
 <en>{Kazushi}\n"Oh!"
 <es>{Kazushi}\n"¡Anda!"
 
-@479
+@481
 <en>I fogot. I actually spend most of my money already.
 <es>Me había olvidado. La verdad es que ya me he gastado casi todo el dinero.
 
-@480
+@482
 <en>{Kazushi}\n"Oh no......"
 <es>{Kazushi}\n"Oh, no..."
 
-@483
+@485
 <en>{Haruka}\n"What's wrong?"
 <es>{Haruka}\n"¿Qué pasa?"
 
-@484
+@486
 <en>I was spending good amount money on peeping and all that other stuff.......
 <es>
 
-@485
+@487
 <en>I have to leave some to survive rest of the semester.
 <es>Tengo que ahorrar algo para sobrevivir lo que queda de semestre.
 
-@490
+@492
 <en>{Pierre}\n"What's wrong? You need money?"
 <es>{Pierre}\n"¿Qué ocurre? ¿Necesitas dinero?"
 
-@491
+@493
 <en>{Kazushi}\n"I forgot. I don't have much left."
 <es>{Kazushi}\n"Me había olvidado. No me queda mucho."
 
-@495
+@497
 <en>{Daigo}\n"We just got here in this island? What did you spend on so much for?"
 <es>
 
-@496
+@498
 <en>{Kazushi}\n"I actually spend on a lots of stuff."
 <es>{Kazushi}\n"La verdad es que lo he gastado en un montón de cosas."
 
-@499
+@501
 <en>What should I do?
 <es>¿Qué debería hacer?
 
-@500
+@502
 <en>This is just my 2nd day in this school.
 <es>Es tan solo mi segundo día en esta escuela.
 
-@501
+@503
 <en>I should leave more than enough for upcoming life.
 <es>
 
-@502
+@504
 <en>I think I should go get bread or something from a vending machine and save money.
 <es>Creo que debería ir a por algún sandwich o algo en alguna máquina expendedora y ahorrar dinero,
 
-@503
+@505
 <en>{Kazushi}\n"Sorry, guys. Let me go get something from a vending machine."
 <es>{Kazushi}\n"Lo siento chicos. Creo que me cogeré algo de alguna máquina expendedora."
 
-@506
+@508
 <en>{Appo-}\n"Are you serious?"
 <es>{Appo-}\n"¿Lo dices en serio?"
 
-@507
+@509
 <en>{Kazushi}\n"Yep."
 <es>{Kazushi}\n"Sí."
 
-@512
+@514
 <en>{Daigo}\n"Would that be enough for you?"
 <es>{Daigo}\n"¿Y tendrás suficiente con eso?"
 
-@513
+@515
 <en>{Kazushi}\n"I can survive."
 <es>{Kazushi}\n"Sobreviviré."
 
-@514
+@516
 <en>Although, I know I will be starving later on.
 <es>Aunque tengo claro que luego voy a pasar hambre.
 
-@519
+@521
 <en>{Haruka}\n"If you want, you can have some of my lunch."
 <es>{Haruka}\n"Si quieres, puedes tomar un poco de mi comida."
 
-@520
+@522
 <en>{Kazushi}\n"You brought your own lunch box?"
 <es>{Kazushi}\n"¿Te has traído tu propia comida?"
 
-@523
+@525
 <en>{Haruka}\n"I make my lunch everyday. I came here just to eat with you guys."
 <es>{Haruka}\n"Yo me hago la comida todos los días. He venido solo para comer con vosotros."
 
-@524
+@526
 <en>{Kazushi}\n"Are you sure I can have some of yours?"
 <es>{Kazushi}\n"¿Estás segura de que puedo tomar un poco de la tuya?"
 
-@525
+@527
 <en>{Haruka}\n"Sure. I'm not that hungry anyways."
 <es>{Haruka}\n"Claro. Además, no tengo demasiada hambre."
 
-@526
+@528
 <en>{Kazushi}\n"I feel bad."
 <es>{Kazushi}\n"Me sabe mal."
 
-@527
+@529
 <en>I feel bad to take away her food. I just met her yesterday.
 <es>Me sabe mal cogerle de su comida. La conocí ayer.
 
-@531
+@533
 <en>{Mei}\n"Any problems?"
 <es>{Mei}\n"¿Algún problema?"
 
-@532
+@534
 <en>{Kazushi}\n"Miss. Ibuki."
 <es>{Kazushi}\n"Señorita Ibuki."
 
-@533
+@535
 <en>Miss Ibuki was standing in front of me with her wallet. She must be here to buy something.
 <es>La señorita Ibuki estaba en frente de mí con su cartera. Debe haber venido a comprar algo.
 
-@534
+@536
 <en>{Mei}\n"What is the problem?"
 <es>{Mei}\n"¿Qué problema hay?"
 
-@539
+@541
 <en>{Appo-}\n"Don't even bother Mei, Kazushi is used up all his money so he has to stay hungry. Why don't you and I go somewhere else and have a nice lunch?"
 <es>
 
-@543
+@545
 <en>{Pierre}\n"Wow, you really are calling her Mei."
 <es>{Pierre}\n"Vaya, realmente la estás llamando Mei."
 
-@546
+@548
 <en>{Appo-}\n"What? Was I doing it again?\nI was in my own world......"
 <es>
 
-@547
+@549
 <en>Condition of Appo-'s desease was getting a lot worse.
 <es>
 
-@552
+@554
 <en>{Mei}\n"What are you going to do, Kazushi?"
 <es>{Mei}\n"¿Qué vas a hacer, Kazushi?"
 
-@553
+@555
 <en>It's kind of embarrassing to have everybody worry about me for money reason.
 <es>
 
-@558
+@560
 <en>{Appo-}\n"You are not worrying about me, Miss Ibuki?"
 <es>
 
-@562
+@564
 <en>{Pierre}\n"Kazushi is good at getting attention from elder women. You are not."
 <es>{Pierre}\n"A Kazushi se le da bien atraer la atención de las mujeres mayores. A ti no."
 
-@565
+@567
 <en>{Appo-}\n"Oh no! My Mei!"
 <es>{Appo-}\n"¡Oh no! ¡Mi Mei!"
 
-@570
+@572
 <en>{Mei}\n"You are young and you need to eat. Save money in different area."
 <es>{Mei}\n"Eres jóven y tienes que comer. Ahorra dinero en otras cosas."
 
-@571
+@573
 <en>I was happy that she was worrying about me.
 <es>Me conmovía que estuviese preocupada por mí.
 
-@572
+@574
 <en>{Kazushi}\n"Well, I was thinking about buying bread from a vending machine."
 <es>{Kazushi}\n"Bueno, la verdad es que estaba pensando en comprar un sandwich en una máquina expendedora."
 
-@575
+@577
 <en>{Mei}\n"Would that be enough?"
 <es>{Mei}\n"¿Tendrías bastante con eso?"
 
-@580
+@582
 <en>{Haruka}\n"Just eat my lunch box. I don't mind, really."
 <es>{Haruka}\n"Cómete mi comida. De verdad que no me importa."
 
-@581
+@583
 <en>{Kazushi}\n"What are you going to eat? I can't make you spend money buying lunch for you."
 <es>
 
-@584
+@586
 <en>{Haruka}\n"That's O.K-"
 <es>{Haruka}\n"No te preocupes."
 
-@587
+@589
 <en>{Mei}\n"I can lend you some money."
 <es>{Mei}\n"Te puedo dejar dinero."
 
-@588
+@590
 <en>{Kazushi}\n"Lend me money? You?"
 <es>{Kazushi}\n"¿Dejarme dinero? ¿Tú?"
 
-@589
+@591
 <en>{Mei}\n"You can pay me back next month."
 <es>{Mei}\n"Puedes devolvérmelo el mes que viene."
 
-@590
+@592
 <en>{Kazushi}\n"I appreciate it......"
 <es>{Kazushi}\n"Te lo agradezco..."
 
-@591
+@593
 <en>Borrowing money from a teacher on the 2nd day of school.......
 <es>Aceptar dinero de una profesora el segundo día de clase...
 
-@594
+@596
 <en>{Haruka}\n"You don't have to borrow any money, just eat my lunch."
 <es>{Haruka}\n"No tienes que coger prestado dinero, cómete mi comida."
 
-@595
+@597
 <en>She's telling me this......
 <es>Me dice eso...
 

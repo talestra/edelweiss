@@ -836,79 +836,79 @@
 <en>{Kazushi}\n"What are you talking about?"
 <es>
 
-@418
+@417
 <en>{Ran}\n"I am talking about our experiment with gold refinement! That may take long time to complete. It will definitely cost a lot of attention and work, you know."
 <es>
 
-@420
+@418
 <en>{Ran}\n"Starting tomorrow, we will stay overnight in the lab building."
 <es>
 
-@421
+@419
 <en>{Kazushi}\n"Staying overnight? Will it take that long?"
 <es>
 
-@424
+@422
 <en>{Ran}\n"Of course. What we are trying to do is to invent the secret elixir to change lead into gold."
 <es>
 
-@425
+@423
 <en>{Ran}\n"That mission is very difficult. Because if this is easy, this world is full of gold by now."
 <es>
 
-@426
+@424
 <en>{Kazushi}\n"That makes sense."
 <es>
 
-@427
+@425
 <en>There are very few alchemists that made it successful to make gold.
 <es>
 
-@428
+@426
 <en>Only a few could make it so far.
 <es>
 
-@429
+@427
 <en>{Kazushi}\n"Can we really do it, only us?"
 <es>
 
-@430
+@428
 <en>Besides, Ran has no talent for alchemy and I know nothing about it.
 <es>
 
-@431
+@429
 <en>So it can be more realistic to make our goal rather reachable. The first thing to do is for Ran to succeed in experiments.
 <es>
 
-@434
+@432
 <en>{Ran}\n"What is Important is to have a challenge spirit. Higher our goal is, harder we try."
 <es>
 
-@435
+@433
 <en>{Kazushi}\n"I see. And I like that."
 <es>
 
-@436
+@434
 <en>Making money can be a big motivation for her.
 <es>
 
-@439
+@437
 <en>{Ran}\n"I know nothing ordinary will work. So I am going to try something new."
 <es>
 
-@440
+@438
 <en>{Kazushi}\n"Something new? Do you have some kind of a secret plan?"
 <es>
 
-@441
+@439
 <en>{Ran}\n"Watch me. If I make gold, I will give you a little."
 <es>
 
-@442
+@440
 <en>{Kazushi}\n"Only a little?"
 <es>
 
-@443
+@441
 <en>Not dividing it fifty-fifty? It seems Ran looks confident in her plan. What is she up to? I'm a little worried...
 <es>
 

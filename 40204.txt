@@ -164,7 +164,7 @@
 <en>Then I just thought maybe he closed the store yesterday on purpose, because I was with Natsume.
 <es>
 
-@64
+@66
 <en>Am I thinking too far? But I just can't let go of the doubt.
 <es>
 
@@ -196,7 +196,7 @@
 <en>It sounds like he knows her very well from the statement he just made. Why would he say I shouldn't get involved if he didn't know her.
 <es>
 
-@74
+@76
 <en>{Kazushi}\n"Miya, you do know about her, don't you?"
 <es>
 
@@ -212,7 +212,7 @@
 <en>{Mr.Miya}\n"....."
 <es>
 
-@80
+@82
 <en>Miya didn't say anything and looked at the dinnerware at the store. And he reached over to one of the bowl.
 <es>
 
@@ -224,7 +224,7 @@
 <en>It was a bowl with a cute cat design on it.
 <es>
 
-@85
+@87
 <en>{Kazushi}\n"Why did you pick this out?"
 <es>
 
@@ -236,7 +236,7 @@
 <en>But, he didn't say anything at all. I wonder why he looks lonely as he kept silence.
 <es>
 
-@90
+@94
 <en>I couldn't ask him anymore than that.
 <es>
 
@@ -264,7 +264,7 @@
 <en>Where she came from and why she appeared like that.
 <es>
 
-@101
+@105
 <en>{Kazushi}\n"I can find out about it later. Well, I should give this to her."
 <es>
 
@@ -272,27 +272,27 @@
 <en>{Kazushi}\n"Have you seen Natsume?"
 <es>
 
-@107
+@111
 <en>I brought the gift to the cafeteria, but I can't find Natsume.
 <es>
 
-@112
+@114
 <en>{Pierre}\n"Mm... I haven't seen her."
 <es>
 
-@115
+@118
 <en>{Daigo}\n"Is she taking a nap? Maybe still sleeping."
 <es>
 
-@119
+@122
 <en>{Rin}\n"That's so cute. Do you think she has her belly out?"
 <es>
 
-@123
+@124
 <en>{Sakura}\n"Shouldn't we wake her up? I'll go find her. And maybe attack her."
 <es>
 
-@125
+@127
 <en>Bang!
 <es>
 
@@ -300,7 +300,7 @@
 <en>{Sakura}\n"Ouch!"
 <es>
 
-@129
+@132
 <en>{Kazushi}\n"No attacking. Can't be real."
 <es>
 
@@ -308,7 +308,7 @@
 <en>{Daigo}\n"Maybe you should wait for a while."
 <es>
 
-@134
+@136
 <en>{Kazushi}\n"I guess..."
 <es>
 
@@ -320,7 +320,7 @@
 <en>....
 <es>
 
-@139
+@143
 <en>But, Natsume didn't show up.
 <es>
 
@@ -332,7 +332,7 @@
 <en>{Kazushi}\n"Is she sleeping?"
 <es>
 
-@146
+@148
 <en>There was no lights in her room. Is she not feeling well? It was a hot day today, so maybe she's dehydrated?
 <es>
 
@@ -348,7 +348,7 @@
 <en>{Kazushi}\n"Hey. Just came out of a shower?"
 <es>
 
-@152
+@154
 <en>Haruka smiled with a clean boiled egg like smooth skin.
 <es>
 
@@ -360,7 +360,7 @@
 <en>She likes summer because of the ice cream... That is so Haruka like, but I didn't feel like chatting.
 <es>
 
-@157
+@159
 <en>{Kazushi}\n"Look, have you seen Natsume?"
 <es>
 
@@ -368,7 +368,7 @@
 <en>{Haruka}\n"Natsume? No. I haven't seen her. What happened?"
 <es>
 
-@161
+@163
 <en>{Kazushi}\n"She didn't come to the dinner. And the lights are off in her room."
 <es>
 
@@ -376,11 +376,11 @@
 <en>{Haruka}\n"What? She skipped dinner? That's not right."
 <es>
 
-@165
+@167
 <en>She looked up to Natsume's room worried. The curtains were open, but the room was too dark to see inside of it.
 <es>
 
-@168
+@171
 <en>{Haruka}\n"Well, I'll go to her room, and see what's going on. Hold this."
 <es>
 
@@ -404,11 +404,11 @@
 <en>{Haruka}\n"I don't know. Let me check."
 <es>
 
-@177
+@178
 <en>Haruka disappeared.
 <es>
 
-@179
+@182
 <en>Haruka came out from the main entrance in a while.
 <es>
 
@@ -432,7 +432,7 @@
 <en>{Haruka}\n"Let's look around, then."
 <es>
 
-@188
+@194
 <en>{Kazushi}\n"OK..."
 <es>
 
@@ -448,7 +448,7 @@
 <en>{Haruka}\n"What was that?"
 <es>
 
-@198
+@200
 <en>{Kazushi}\n"It sounded like a glass window breaking. Where is it?"
 <es>
 
@@ -464,11 +464,11 @@
 <en>{Kazushi}\n"Let's go."
 <es>
 
-@204
+@208
 <en>I felt uneasy.
 <es>
 
-@209
+@210
 <en>{Kazushi}\n"Where is it?"
 <es>
 
@@ -476,7 +476,7 @@
 <en>The sound of glass breaking
 <es>
 
-@212
+@214
 <en>That noise again. This time is more closer.
 <es>
 
@@ -484,7 +484,7 @@
 <en>{Haruka}\n"Over there!"
 <es>
 
-@216
+@220
 <en>{Kazushi}\n"Is it in the lab?"
 <es>
 
@@ -496,7 +496,7 @@
 <en>{Kazushi}\n"Did it really come from here?"
 <es>
 
-@223
+@225
 <en>It was really quiet. Maybe it was too quiet, if I could say.
 <es>
 
@@ -508,7 +508,7 @@
 <en>{Kazushi}\n"The air?"
 <es>
 
-@228
+@230
 <en>I stroked the air around me. It didn't seem to be any different than usual to me.
 <es>
 
@@ -516,7 +516,7 @@
 <en>{Haruka}\n"I'm sure there is someone in here."
 <es>
 
-@232
+@234
 <en>{Kazushi}\n"Is it Natsume?"
 <es>
 
@@ -528,7 +528,7 @@
 <en>{Kazushi}\n"How many people?"
 <es>
 
-@237
+@239
 <en>There are few people inside. And they are doing something to break the window? Is Natsume in trouble?
 <es>
 
@@ -544,11 +544,11 @@
 <en>{Kazushi}\n"Shouldn't you wait here, Haruka?"
 <es>
 
-@243
+@245
 <en>I don't want her to be involved in anything dangerous. But Haruka laugh it out.
 <es>
 
-@246
+@249
 <en>{Haruka}\n"You don't have to worry about me, Kazushi. OK, Let's go."
 <es>
 
@@ -560,11 +560,11 @@
 <en>The lab was very dark like a night. The curtain was open, but it seems like the light from outside was shut out for some reason.
 <es>
 
-@252
+@254
 <en>It was too dark to see.
 <es>
 
-@255
+@256
 <en>{Haruka}\n"Somebody is there..."
 <es>
 
@@ -572,7 +572,7 @@
 <en>Haruka sounded nervous. I try to see as hard as I could. Then, I saw a figure of a person in the dark.
 <es>
 
-@258
+@260
 <en>{Kazushi}\n"Natsume?"
 <es>
 
@@ -580,7 +580,7 @@
 <en>{Principal}\n"Is it Haruka and Kazushi?"
 <es>
 
-@262
+@265
 <en>It was not a voice of Natsume. But it was the principal.
 <es>
 
@@ -588,7 +588,7 @@
 <en>{Haruka}\n"I thought it was you, grandma."
 <es>
 
-@267
+@269
 <en>Haruka sounded like she knew. We felt little bit better as we walked inside. Then our eyes got used to the darkness. Now we could see much better.
 <es>
 
@@ -596,7 +596,7 @@
 <en>{Haruka}\n"Oh!"
 <es>
 
-@271
+@272
 <en>Haruka found it little bit faster than I did. I was looking at it as she made a sound.
 <es>
 
@@ -788,7 +788,7 @@
 <en>She made a last smile with her lips and eyes.
 <es>
 
-@320
+@321
 <en>{Natsume}\n"Kazushi. Bye"
 <es>
 
@@ -980,11 +980,11 @@
 <en>{Kazushi}\n"No, no! But..."
 <es>
 
-@369
+@373
 <en>Where did Natsume go? And that dream... What is fishy about it?
 <es>
 
-@374
+@378
 <en>Next day
 <es>
 
@@ -996,7 +996,7 @@
 <en>{Haruka}\n"I'm telling you..."
 <es>
 
-@381
+@389
 <en>Haruka explained to everyone about what happened to Natsume. I'm not sure what she said exactly, because I wasn't listening.
 <es>
 
@@ -1012,7 +1012,7 @@
 <en>{Daigo}\n"Is she coming back by next semester?"
 <es>
 
-@393
+@395
 <en>{Kazushi}\n"I'm not sure..."
 <es>
 
@@ -1020,27 +1020,27 @@
 <en>{Pierre}\n"What? You don't even know? It's so not like you, Kazushi!"
 <es>
 
-@397
+@402
 <en>{Kazushi}\n"Sorry. I'm thinking about something else."
 <es>
 
-@403
+@407
 <en>{Sakura}\n"Hold on, you guys! Leave him alone."
 <es>
 
-@408
+@411
 <en>{Appo-}\n"Well, we want to understand it too. What does it mean, Kazuko?"
 <es>
 
-@412
+@415
 <en>{Hu-sen}\n"That means...."
 <es>
 
-@416
+@419
 <en>{Ran}\n"You guys are such an idiot. They won't understand anyway."
 <es>
 
-@420
+@423
 <en>{Daigo}\n"Well, Kazushi said..."
 <es>
 
@@ -1048,7 +1048,7 @@
 <en>{Mizuki}\n"I'm saying "leave him alone!"."
 <es>
 
-@425
+@427
 <en>{Kazushi}\n"Oh, sorry. I need to think about something."
 <es>
 
@@ -1060,7 +1060,7 @@
 <en>...
 <es>
 
-@430
+@434
 <en>...
 <es>
 
@@ -1068,47 +1068,47 @@
 <en>{Rin}\n"Kazushi is gone."
 <es>
 
-@436
+@439
 <en>{Mizuki}\n"He really took it hard. I feel sorry for him."
 <es>
 
-@440
+@443
 <en>{Sakura}\n"Do you think I should go out with him to make it better?"
 <es>
 
-@444
+@447
 <en>{Ran}\n"What? What are you talking about? When did that happened?"
 <es>
 
-@448
+@451
 <en>{Pierre}\n"So, what happened to Natsume?"
 <es>
 
-@452
+@459
 <en>{Mizuki}\n"Oh my god... You really don't get it, do you?"
 <es>
 
-@460
+@462
 <en>{Daigo}\n"Well... Kazushi is not saying anything."
 <es>
 
-@463
+@465
 <en>{Appo-}\n"He may take more time, because he's an idiot."
 <es>
 
-@466
+@471
 <en>{Pierre}\n"Then, there is nothing we can do for him now. Let's go out."
 <es>
 
-@472
+@474
 <en>{Ran}\n"Don't you have a mercy for your friend?"
 <es>
 
-@475
+@476
 <en>The time is passing by weather you are playing or just standing still.
 <es>
 
-@477
+@488
 <en>Especially the hot summer day pass by so fast.
 <es>
 
@@ -1120,31 +1120,31 @@
 <en>{Daigo}\n"We only have a week left of summer break."
 <es>
 
-@491
+@497
 <en>{Pierre}\n"What do you want to do tomorrow? Do you want to go to the mountains to get some bugs?"
 <es>
 
-@498
+@501
 <en>{Ran}\n"That sounds great! If we catch a lot of beetles, we can sell it in the department stores in Tokyo!"
 <es>
 
-@502
+@504
 <en>{Mizuki}\n"Ran, is that all you think about?"
 <es>
 
-@505
+@508
 <en>{Ran}\n"I know a good place for that. I'll tell you for five thousand yen a head. Anyone interested? You can pay for that in no time!"
 <es>
 
-@509
+@512
 <en>{Sakura}\n"I see. That's how you make money."
 <es>
 
-@513
+@515
 <en>{Rin}\n"I don't like bugs."
 <es>
 
-@516
+@518
 <en>{Kazushi}\n"....."
 <es>
 
@@ -1152,7 +1152,7 @@
 <en>{Daigo}\n"What about Kazushi?"
 <es>
 
-@520
+@523
 <en>{Kazushi}\n"Huh? Oh, I'll go. What about tomorrow? Are we going fishing?"
 <es>
 
@@ -1160,7 +1160,7 @@
 <en>{Haruka}\n"Well, fishing sounds good too."
 <es>
 
-@525
+@528
 <en>{Kazushi}\n"What? It's not fishing? Sorry, I wasn't listening."
 <es>
 
@@ -1168,7 +1168,7 @@
 <en>{Pierre}\n"Don't worry about it. What are you thinking about?"
 <es>
 
-@530
+@533
 <en>{Kazushi}\n"Well, you know..."
 <es>
 
@@ -1188,7 +1188,7 @@
 <en>{Kazushi}\n"Yeah, sure."
 <es>
 
-@538
+@542
 <en>The summer break is ending soon. And have not found a way to get Natsume back.
 <es>
 
@@ -1224,7 +1224,7 @@
 <en>A dream? A dream...
 <es>
 
-@551
+@562
 <en>{Kazushi}\n"....."
 <es>
 
@@ -1252,7 +1252,7 @@
 <en>It's not unusual to see a dream of someone you like. Maybe I saw a dream of Natsume and just remembered that now.
 <es>
 
-@569
+@571
 <en>But...
 <es>
 
@@ -1268,7 +1268,7 @@
 <en>{Appo-}\n"Huh? What happened?"
 <es>
 
-@575
+@576
 <en>{Kazushi}\n"....I'm going to sleep."
 <es>
 
@@ -1276,11 +1276,11 @@
 <en>I covered myself in a comforter.
 <es>
 
-@578
+@580
 <en>{Kazushi}\n"Good night!"
 <es>
 
-@581
+@586
 <en>{Appo-}\n"Huh? Good night..."
 <es>
 
@@ -1912,1323 +1912,1323 @@
 <en>{Kazushi}\n"What is this rock?"
 <es>
 
-@859
+@858
 <en>{Amamiya}\n"I think it is a philosopher's stone or something like that. It is the highest material the alchemy can make. It gives an eternal life to human being. Such a mystical existence."
 <es>
 
-@861
+@859
 <en>{Kazushi}\n"The eternal life?"
 <es>
 
-@862
+@860
 <en>Something like eternal youth? But, it is ridiculous.
 <es>
 
-@864
+@862
 <en>{Amamiya}\n"It is a never ending dream which the human beings has been chasing since the beginning of the history. The dream is to make a material called a philosopher's stone in alchemy, and kin-tan in Chinese Buddhism."
 <es>
 
-@866
+@864
 <en>{Amamiya}\n"That was the purpose of our experiment."
 <es>
 
-@867
+@865
 <en>I just thought he was an alchemist in the middle of his explanation. He doesn't seem so sharp usually, but this story is way over my head.
 <es>
 
-@868
+@866
 <en>{Kazushi}\n"Do you really believe in eternal youth?"
 <es>
 
-@869
+@867
 <en>{Amamiya}\n"It's not about if it exist or not. You have to start from "it does exist". Otherwise, you can't understand what we as an alchemists are doing."
 <es>
 
-@870
+@868
 <en>I can't understand that. I don't believe in eternal life, and I don't even want that.
 <es>
 
-@871
+@869
 <en>{Amamiya}\n"The reason why I was called out to this island was to make this mysterious material by our self."
 <es>
 
-@873
+@871
 <en>{Amamiya}\n"I was invited by Hisae to this island as her co-researcher. I was caught by attractive island."
 <es>
 
-@875
+@872
 <en>{Amamiya}\n"This island has a magical power, and it was very interesting. I was sure that I'll be able to accomplish what I have never done here in this island."
 <es>
 
-@877
+@873
 <en>{Amamiya}\n"I planned to stay for 6 month, and then it was one year, and then two years. I lost the count of time, and concentrated on my experiment. Of course, my wife gave up on me."
 <es>
 
-@879
+@874
 <en>{Amamiya}\n"I can understand that. I never thought about my family. And the time has passed by so quickly."
 <es>
 
-@884
+@879
 <en>Natsume came to the island after so many years on this island, and his memory about the past was so far away.
 <es>
 
-@885
+@880
 <en>{Amamiya}\n"When I found out that Natsume...my daughter came to the island, I was so surprised. And then I heard that she was looking for me."
 <es>
 
-@886
+@881
 <en>{Kazushi}\n"But you avoided her. Why didn't you see her?"
 <es>
 
-@887
+@882
 <en>{Amamiya}\n"I thought about it. But I was a chicken. I was scared."
 <es>
 
-@890
+@885
 <en>{Amamiya}\n"I told myself I'll go see her after this experiment, or after this experiment goes well, and I stayed in the lab."
 <es>
 
-@891
+@886
 <en>{Kazushi}\n"How can a father be scared to see his own daughter?"
 <es>
 
-@892
+@887
 <en>That is such a sad story. Miya is smiling cynically.
 <es>
 
-@893
+@888
 <en>{Amamiya}\n"You are right. I hate myself for that."
 <es>
 
-@894
+@889
 <en>{Kazushi}\n"Why did the experiment failed? It was about to finish, right?"
 <es>
 
-@895
+@890
 <en>{Amamiya}\n"The mixing was going almost perfect and it was about to be completed. But it was taken away before it finished."
 <es>
 
-@896
+@891
 <en>{Kazushi}\n"Who took it away?"
 <es>
 
-@900
+@895
 <en>{Amamiya}\n"Natsume did and the rock is inside of Natsume now."
 <es>
 
-@901
+@896
 <en>{Kazushi}\n"What?"
 <es>
 
-@902
+@897
 <en>{Amamiya}\n"Natsume ate the incomplete philosopher's rock."
 <es>
 
-@903
+@898
 <en>{Kazushi}\n"She ate it? Is it OK to eat it?"
 <es>
 
-@904
+@899
 <en>{Amamiya}\n"The rock she ate was not a regular rock. The philosopher's rock is a somewhat liquid material."
 <es>
 
-@905
+@900
 <en>{Kazushi}\n"A liquid rock?"
 <es>
 
-@906
+@901
 <en>I can't imagine. But, if it was a liquid, maybe it's easier to eat it than regular rock.
 <es>
 
-@907
+@902
 <en>Can her body take that?
 <es>
 
-@908
+@903
 <en>{Kazushi}\n"Why did Natsume do such a thing?"
 <es>
 
-@911
+@906
 <en>{Amamiya}\n"She hated alchemy. I think she wanted to take alchemy away from me. Because I never had time for her."
 <es>
 
-@912
+@907
 <en>Miya said he never thought about his family. Natsume thought the alchemy took her father away from her.
 <es>
 
-@915
+@910
 <en>{Amamiya}\n"The rock she ate was then absorbed from inside-out and it became her blood and bones."
 <es>
 
-@916
+@911
 <en>{Amamiya}\n"Therefore, she maybe the closest human being to the mystery of the alchemy."
 <es>
 
-@917
+@912
 <en>I can't believe she had such a important accomplishment. She didn't look like that.
 <es>
 
-@918
+@913
 <en>{Kazushi}\n"But, where is Natsume now? What happened to Natsume after that?"
 <es>
 
-@921
+@916
 <en>{Amamiya}\n"Natsume has been sleeping."
 <es>
 
-@922
+@917
 <en>{Kazushi}\n"Sleeping?"
 <es>
 
-@923
+@918
 <en>I knew it. That's why we met in my dream. Is she still dreaming now?
 <es>
 
-@924
+@919
 <en>{Kazushi}\n"But, how did it happen? Isn't she waking up?"
 <es>
 
-@925
+@920
 <en>{Amamiya}\n"She is put to sleep."
 <es>
 
-@926
+@921
 <en>{Kazushi}\n"By whom? Why is she put to sleep?"
 <es>
 
-@927
+@922
 <en>Maybe it was something Miya didn't want to talk about. He looked sad.
 <es>
 
-@930
+@925
 <en>{Amamiya}\n"Maybe because of the rock. Natsume attacked Hisae right after she ate the rock."
 <es>
 
-@931
+@926
 <en>{Kazushi}\n"What?"
 <es>
 
-@932
+@927
 <en>Natsume attacked the principal?
 <es>
 
-@933
+@928
 <en>{Amamiya}\n"Hisae said she felt scared for her life. Natsume's power was overwhelming."
 <es>
 
-@934
+@929
 <en>{Kazushi}\n"That Natsume? No way!"
 <es>
 
-@935
+@930
 <en>Could it be an influence of the rock?
 <es>
 
-@936
+@931
 <en>{Amamiya}\n"It could be a shock reaction for taking some foreign object into her body. Sometimes the antibody reaction happens."
 <es>
 
-@940
+@934
 <en>{Amamiya}\n"I think the rock became familiar with her body by now. I don't think she will be dangerous like that anymore. But, I'm not sure if we should test that again."
 <es>
 
-@942
+@935
 <en>The result is she is still too dangerous.
 <es>
 
-@943
+@936
 <en>{Kazushi}\n"Then, what are you going to do about Natsume? Are you going to put her to sleep forever?"
 <es>
 
-@946
+@939
 <en>{Amamiya}\n"This was Hisae's decision. She has her own plan."
 <es>
 
-@947
+@940
 <en>{Kazushi}\n"What happens to Natsume now?"
 <es>
 
-@948
+@941
 <en>I notice myself yelling. I can't accept that even if it is the decision by the principal.
 <es>
 
-@952
+@944
 <en>{Amamiya}\n"That is why I have tried to make a use of alchemy to the field of medicine. I'm trying to think of a way to get the rock out of Natsume. But I haven't been successful."
 <es>
 
-@954
+@945
 <en>He said that the rock melted inside of Natsume and became her blood and bones. Can you get that out of her?
 <es>
 
-@955
+@946
 <en>That sounds so vague.
 <es>
 
-@956
+@947
 <en>{Kazushi}\n"When would you be able to save Natsume? I can't wait that long."
 <es>
 
-@957
+@948
 <en>Miya seems to understand that, and he looked in distress.
 <es>
 
-@958
+@949
 <en>{Amamiya}\n"The rock she ate is a special rock. It is said that the rock controls the death and regeneration."
 <es>
 
-@959
+@950
 <en>The eternal youth stuff again. I really can't believe it.
 <es>
 
-@962
+@953
 <en>{Amamiya}\n"That means, the rock gives an eternal life, and makes the dead be alive again."
 <es>
 
-@963
+@954
 <en>{Kazushi}\n"The dead be alive again?"
 <es>
 
-@964
+@955
 <en>That is ridiculous. And I'm scared of Miya and the principal for believing in that.
 <es>
 
-@965
+@956
 <en>{Amamiya}\n"At least we were aiming for that. But the rock was taken by Natsume before the completion. We don't know how it affects people."
 <es>
 
-@966
+@957
 <en>Because Natsume ate it before it was completed. How does this uncompleted rock affect on people?
 <es>
 
-@967
+@958
 <en>And the fact that Natsume attacked on the principal with overwhelming power.
 <es>
 
-@970
+@961
 <en>{Amamiya}\n"The legend say that the god who controls the eternal youth was a god who gives death to the people."
 <es>
 
-@971
+@962
 <en>{Kazushi}\n"What? That is completely opposite."
 <es>
 
-@973
+@963
 <en>{Amamiya}\n"People thought if you pray to the god of death, then he may save you from it. And then, that lead to the belief that if you pray for this god, then he will give you an eternal life."
 <es>
 
-@975
+@964
 <en>The god who controls the eternal life originally was a god of destruction and creation.
 <es>
 
-@976
+@965
 <en>The god who destroy everything, and create totally new world. So, it also leads to the regeneration beliefs.
 <es>
 
-@977
+@966
 <en>{Amamiya}\n"Hisae thinks the way Natsume acted is linked to this belief."
 <es>
 
-@978
+@967
 <en>{Kazushi}\n"So you think Natsume harms other people? That is nonsense! Natsume will not do that!"
 <es>
 
-@981
+@970
 <en>{Amamiya}\n"I know she is not like that. But, the power which lies inside of her may not be able to controlled by Natsume."
 <es>
 
-@982
+@971
 <en>{Amamiya}\n"I'm not sure if I can stop her in case the power of the rock exceeds her will. I can't let Natsume become a murder."
 <es>
 
-@983
+@972
 <en>Of course, I don't want Natsume to harm anyone. I understand his feeling.
 <es>
 
-@984
+@973
 <en>But, the Natsume I know will never do that. I can't believe that there is a possibility of that.
 <es>
 
-@985
+@974
 <en>He doesn't know about how Natsume is now. He could not know her. Because he have not seen her for a long time.
 <es>
 
-@986
+@975
 <en>That is why he can't believe in her, even if he wants to.
 <es>
 
-@987
+@976
 <en>{Amamiya}\n"I want her to lead a normal and peaceful life. That is why we need to be cautious about this."
 <es>
 
-@988
+@977
 <en>Miya did not show tears. But, he looked like he was crying to me.
 <es>
 
-@989
+@978
 <en>This is not right. This is not a good situation for Miya or Natsume.
 <es>
 
-@990
+@979
 <en>{Kazushi}\n"We need to go get Natsume."
 <es>
 
-@991
+@980
 <en>I can say so. Natsume will never harm other people. I know something Miya does not know.
 <es>
 
-@992
+@981
 <en>I know how she is now. Natsume is just lonely in the empty world she's put in.
 <es>
 
-@993
+@982
 <en>{Kazushi}\n"Natsume is all alone now! Don't you need to protect her as a father?"
 <es>
 
-@994
+@983
 <en>I yelled out unconsciously. Miya looked down sadly.
 <es>
 
-@996
+@985
 <en>{Amamiya}\n"....."
 <es>
 
-@997
+@986
 <en>{Amamiya}\n"I have no power. I can't do anything for her. Do I have a right to say that I'm her father?"
 <es>
 
-@998
+@987
 <en>He poured it out bitterly. I see he's in agony about something. But I didn't feel sympathy for him.
 <es>
 
-@999
+@988
 <en>{Amamiya}\n"I avoided her, when she came to visit me, and I can't wake her up from sleep she's put in. I'm not sure if I have a right to claim that I'm her father?"
 <es>
 
-@1000
+@989
 <en>{Kazushi}\n"I don't know much, but if you say you don't have a right, then maybe you should get that right, don't you?"
 <es>
 
-@1003
+@992
 <en>{Amamiya}\n"What?"
 <es>
 
-@1004
+@993
 <en>{Kazushi}\n"See? If you are not licensed doctor, then maybe you need to quit being a doctor, but you can't quit being a parent."
 <es>
 
-@1007
+@996
 <en>{Amamiya}\n"I guess..."
 <es>
 
-@1008
+@997
 <en>{Kazushi}\n"Then, you just need to get the right. You are the only father Natsume have, and no one can replace you."
 <es>
 
-@1009
+@998
 <en>{Amamiya}\n"...."
 <es>
 
-@1010
+@999
 <en>I'm not sure what kind effect I had on him. But, Miya seems to lost words.
 <es>
 
-@1011
+@1000
 <en>{Amamiya}\n"....."
 <es>
 
-@1012
+@1001
 <en>Miya became silent for a long time. The sound of the clock was the only sound we could hear, and it was loud. Then, Miya inhaled suddenly.
 <es>
 
-@1015
+@1004
 <en>{Amamiya}\n"... Natsume was so sickly as a little girl. She was getting cold all the time and we were so worried about her all year around."
 <es>
 
-@1016
+@1005
 <en>He started to chat.
 <es>
 
-@1017
+@1006
 <en>{Amamiya}\n"I stayed home until she was four or five. I had a lab at home."
 <es>
 
-@1018
+@1007
 <en>{Amamiya}\n"Natsume was in the lab all the time. She liked to see me working in the lab."
 <es>
 
-@1019
+@1008
 <en>{Amamiya}\n"She was using the furnace by the age of three. Maybe she learned by looking at me. I may sound stupid, but I think she has a talent in alchemy."
 <es>
 
-@1022
+@1011
 <en>{Amamiya}\n"The three of us were always together. Maybe it was the happiest time in my life."
 <es>
 
-@1023
+@1012
 <en>{Kazushi}\n"I'm sure you can go back to that life. So, let's go get Natsume."
 <es>
 
-@1026
+@1015
 <en>{Amamiya}\n"Kazushi, you are right. If I don't have a right to be a parent, then I have to get it."
 <es>
 
-@1027
+@1016
 <en>He smiled cynically.
 <es>
 
-@1030
+@1019
 <en>{Amamiya}\n"You can't quit being a parent, just because you don't have a right. That is so true. I wonder why I didn't think of that before."
 <es>
 
-@1031
+@1020
 <en>{Kazushi}\n"Smart people thinks too hard. Alchemist sounds like a smart people."
 <es>
 
-@1032
+@1021
 <en>{Amamiya}\n"I'm sure I'm the most idiot on this earth."
 <es>
 
-@1033
+@1022
 <en>{Kazushi}\n"The idiots acts without thinking."
 <es>
 
-@1034
+@1023
 <en>That is me. And I make so many mistakes doing that.
 <es>
 
-@1037
+@1026
 <en>{Amamiya}\n"Really... I guess I need to be more idiot to make people happy."
 <es>
 
-@1038
+@1027
 <en>He smiled sadly. But it was not in careless manner at all. It was more stronger than before.
 <es>
 
-@1039
+@1028
 <en>The stronger smile looked at me.
 <es>
 
-@1040
+@1029
 <en>{Amamiya}\n"OK. Let's go get Natsume."
 <es>
 
-@1041
+@1030
 <en>{Kazushi}\n"Really?"
 <es>
 
-@1042
+@1031
 <en>{Amamiya}\n"I have made my decision. As her father I'll protect Natsume no matter what happens."
 <es>
 
-@1043
+@1032
 <en>Miya looked like a father already.
 <es>
 
-@1044
+@1033
 <en>Natsume! The father you were looking for is right here.
 <es>
 
-@1045
+@1034
 <en>I'll bring him to you now.
 <es>
 
-@1052
+@1041
 <en>The narrow stairs were leading into the darkness.
 <es>
 
-@1053
+@1042
 <en>{Kazushi}\n"Natsume is here??"
 <es>
 
-@1054
+@1043
 <en>{Amamiya}\n"The place has been sealed severely. I'm not sure if we could open it..."
 <es>
 
-@1055
+@1044
 <en>{Kazushi}\n"We need to get her. We can't be whining now."
 <es>
 
-@1056
+@1045
 <en>{Amamiya}\n"You are right."
 <es>
 
-@1057
+@1046
 <en>I'm loosing the sense of time because of the darkness. And the spiral staircase confused me about the sense of distance.
 <es>
 
-@1058
+@1047
 <en>I'm not sure how far we have came down. It felt like it was leading to hell.
 <es>
 
-@1061
+@1050
 <en>Sound of foot step
 <es>
 
-@1062
+@1051
 <en>The sound of Miya's foot step changed. He has stepped on something different. Miya stopped.
 <es>
 
-@1063
+@1052
 <en>{Kazushi}\n"Miya?"
 <es>
 
-@1064
+@1053
 <en>{Amamiya}\n"This is it."
 <es>
 
-@1065
+@1054
 <en>He raised the lamp in his hand. There was a stone door. And we saw a huge lock hanging on the bar.
 <es>
 
-@1066
+@1055
 <en>{Amamiya}\n"Don't worry."
 <es>
 
-@1067
+@1056
 <en>He noticed me and nodded. He took out the huge ring full of keys. He picked one of them and put it into the lock.
 <es>
 
-@1069
+@1058
 <en>The sound of keys
 <es>
 
-@1070
+@1059
 <en>We heard a sound of the key opened.
 <es>
 
-@1071
+@1060
 <en>{Amamiya}\n"Let's go."
 <es>
 
-@1072
+@1061
 <en>{Kazushi}\n"OK."
 <es>
 
-@1079
+@1068
 <en>We found her as soon as we entered the room.
 <es>
 
-@1080
+@1069
 <en>{Kazushi}\n"Natsume!!"
 <es>
 
-@1081
+@1070
 <en>I found her! It is Natsume! I found her at last.
 <es>
 
-@1082
+@1071
 <en>This is a real Natsume, not in a dream or a shadow.
 <es>
 
-@1083
+@1072
 <en>{Kazushi}\n"Natsume!!"
 <es>
 
-@1084
+@1073
 <en>I shook her shoulders. But she is not waking up.
 <es>
 
-@1086
+@1075
 <en>Slap. Slap.
 <es>
 
-@1087
+@1076
 <en>I slapped her cheeks.
 <es>
 
-@1088
+@1077
 <en>{Kazushi}\n"Natsume! Wake up! We came to get you!!"
 <es>
 
-@1089
+@1078
 <en>{Amamiya}\n"Natsume! Wake up!"
 <es>
 
-@1091
+@1080
 <en>{Natsume}\n"......."
 <es>
 
-@1092
+@1081
 <en>She is not waking up. No response at all.
 <es>
 
-@1093
+@1082
 <en>{Kazushi}\n"Why?"
 <es>
 
-@1094
+@1083
 <en>{Amamiya}\n"She is no just sleeping. She is put in a state of apparent death to suspend the power of the rock."
 <es>
 
-@1095
+@1084
 <en>{Kazushi}\n"Then, how can we wake her up?"
 <es>
 
-@1096
+@1085
 <en>{Amamiya}\n"Maybe some kind of a shock will do."
 <es>
 
-@1097
+@1086
 <en>{Kazushi}\n"We have to punch her?"
 <es>
 
-@1098
+@1087
 <en>{Amamiya}\n"Not so violent..."
 <es>
 
-@1099
+@1088
 <en>That's right. I need calm down. I know. I have a better plan.
 <es>
 
-@1100
+@1089
 <en>{Kazushi}\n"Miya, can you close your eyes?"
 <es>
 
-@1101
+@1090
 <en>{Amamiya}\n"What? My eyes?"
 <es>
 
-@1102
+@1091
 <en>{Kazushi}\n"Hurry!!"
 <es>
 
-@1103
+@1092
 <en>{Amamiya}\n"Oh, OK..."
 <es>
 
-@1104
+@1093
 <en>Miya closed his eyes. I watched out for him and looked into the face of Natsume.
 <es>
 
-@1105
+@1094
 <en>I was thinking about the time I first met her in my dream.
 <es>
 
-@1106
+@1095
 <en>This time, it was totally opposite. Was she looking into my face like this?
 <es>
 
-@1107
+@1096
 <en>And then....
 <es>
 
-@1108
+@1097
 <en>{Kazushi}\n"Natsume."
 <es>
 
-@1109
+@1098
 <en>I called out for Natsume with all my heart. And got closed to her face.
 <es>
 
-@1110
+@1099
 <en>Haruka said Natsume and I have some kind of contract.
 <es>
 
-@1111
+@1100
 <en>Is that contract still in effect? I kissed her red lips. It looks like a red flower in her pale face.
 <es>
 
-@1112
+@1101
 <en>{Kazushi}\n"......"
 <es>
 
-@1113
+@1102
 <en>I kissed her praying to blow my life into her.
 <es>
 
-@1117
+@1106
 <en>I felt the wind.
 <es>
 
-@1120
+@1109
 <en>{Kazushi}\n"What?"
 <es>
 
-@1121
+@1110
 <en>{Kazushi}\n"Natsume!!"
 <es>
 
-@1124
+@1113
 <en>Natsume was standing alone in a middle of the windy field filled with flowers. Her long hair was blown by the wind. Are we in heaven?
 <es>
 
-@1125
+@1114
 <en>{Kazushi}\n"Natsume!"
 <es>
 
-@1126
+@1115
 <en>Natsume turned around.
 <es>
 
-@1129
+@1118
 <en>{Natsume}\n"Kazushi. You again? So persistent."
 <es>
 
-@1130
+@1119
 <en>I understand now. I met her here long time ago. And I promised her here.
 <es>
 
-@1131
+@1120
 <en>{Kazushi}\n"I came to find you, just like I promised."
 <es>
 
-@1132
+@1121
 <en>I walked to Natsume.
 <es>
 
-@1133
+@1122
 <en>{Kazushi}\n"Let's go home with me."
 <es>
 
-@1136
+@1125
 <en>{Natsume}\n"......."
 <es>
 
-@1137
+@1126
 <en>Natsume was just standing there. Not moving at all.
 <es>
 
-@1138
+@1127
 <en>{Kazushi}\n"What?"
 <es>
 
-@1139
+@1128
 <en>{Natsume}\n"Can I leave here?"
 <es>
 
-@1140
+@1129
 <en>{Kazushi}\n"Yeah, sure. Let's go back to the world you came from."
 <es>
 
-@1143
+@1132
 <en>{Natsume}\n"Oh....."
 <es>
 
-@1144
+@1133
 <en>But she is not moving.
 <es>
 
-@1145
+@1134
 <en>{Kazushi}\n"What is it?"
 <es>
 
-@1146
+@1135
 <en>Natsume is shaking little.
 <es>
 
-@1149
+@1138
 <en>{Natsume}\n"I'm little bit scared of leaving here."
 <es>
 
-@1150
+@1139
 <en>{Kazushi}\n"Why? What do you mean?"
 <es>
 
-@1151
+@1140
 <en>{Natsume}\n"That weird rock is inside of me. That powerful rock. I'm not sure what I will do with that rock."
 <es>
 
-@1152
+@1141
 <en>{Natsume}\n"And my dad may reject me again."
 <es>
 
-@1153
+@1142
 <en>{Kazushi}\n"You sound like a wimp for once."
 <es>
 
-@1154
+@1143
 <en>Natsume looked up and pouted her lips.
 <es>
 
-@1157
+@1146
 <en>{Natsume}\n"I'll be scared when I have to decide something important."
 <es>
 
-@1158
+@1147
 <en>She looks more girlish than usual. It made me smile.
 <es>
 
-@1161
+@1150
 <en>{Natsume}\n"What are you smiling about?"
 <es>
 
-@1162
+@1151
 <en>{Kazushi}\n"I'm glad to find out you are a regular girl."
 <es>
 
-@1165
+@1154
 <en>That surprised Natsume for some reason.
 <es>
 
-@1166
+@1155
 <en>{Natsume}\n"Do you think I'm a regular girl?"
 <es>
 
-@1167
+@1157
 <en>{Kazushi}\n"Sure. At first I was kind of worried that you might be this great girl everyone was talking about,then I have no chance but you are an ordinary girl."
 <es>
 
-@1168
+@1159
 <en>Natsume is so small. I'm not sure if she has this great power or not, but she still is an ordinary girl in her age.
 <es>
 
-@1169
+@1160
 <en>I want to protect her. The strong will was coming up inside of me.
 <es>
 
-@1170
+@1161
 <en>{Kazushi}\n"Don't worry. Nobody is going to harm you, and you are not going to harm anyone."
 <es>
 
-@1171
+@1162
 <en>{Kazushi}\n"You know everybody, don't you? Appo-, Pierre and Daigo. Haruka and Mizuki and other girls."
 <es>
 
-@1172
+@1163
 <en>{Kazushi}\n"They all helped me and supported me. They are all waiting for you. So, I have to bring you back to where we came from."
 <es>
 
-@1173
+@1164
 <en>{Kazushi}\n"And Miya... your dad swore he'll protect you as well."
 <es>
 
-@1176
+@1167
 <en>{Natsume}\n"My dad?"
 <es>
 
-@1177
+@1168
 <en>{Kazushi}\n"Yeah. He said he wants to be your father for real this time. So, Let's go."
 <es>
 
-@1180
+@1171
 <en>I took her hand. Natsume looked up as I pulled her hand.
 <es>
 
-@1181
+@1172
 <en>{Kazushi}\n"Let's go."
 <es>
 
-@1182
+@1173
 <en>I smiled to her.
 <es>
 
-@1185
+@1176
 <en>{Natsume}\n"...... OK."
 <es>
 
-@1187
+@1178
 <en>The wind blew on us hard again.
 <es>
 
-@1192
+@1183
 <en>I was still kissing Natsume while Miya continued to close his eyes. Maybe everything happened in a second.
 <es>
 
-@1193
+@1184
 <en>{Natsume}\n"....Mm."
 <es>
 
-@1194
+@1185
 <en>Natsume's lips moved a little. It felt like her breath was coming into me from where our lips met.
 <es>
 
-@1195
+@1186
 <en>{Natsume}\n"Mm... Mm..."
 <es>
 
-@1196
+@1187
 <en>Her cold body was becoming warmer. It seemed like the life came out from somewhere and filled her little body with it.
 <es>
 
-@1198
+@1189
 <en>{Natsume}\n"Ha...."
 <es>
 
-@1199
+@1190
 <en>She let her breath out from a lip which looked like a rose. I let my lips go.
 <es>
 
-@1200
+@1191
 <en>{Kazushi}\n"Natsume!!"
 <es>
 
-@1201
+@1192
 <en>{Amamiya}\n"Natsume? Natsume?"
 <es>
 
-@1202
+@1193
 <en>Miya opened his eyes and called for Natsume. Her long eye lashes moved a little.
 <es>
 
-@1203
+@1194
 <en>{Natsume}\n"....."
 <es>
 
-@1204
+@1195
 <en>Then, she opened her eyes.
 <es>
 
-@1205
+@1196
 <en>{Kazushi}\n"Natsume!!"
 <es>
 
-@1206
+@1197
 <en>I called her name. Natsume frowned.
 <es>
 
-@1207
+@1198
 <en>{Natsume}\n"Kazushi, you are too loud."
 <es>
 
-@1208
+@1199
 <en>{Kazushi}\n"What? Sorry."
 <es>
 
-@1209
+@1200
 <en>She is mad at me. Natsume is rubbing her eyes like she is still sleepy.
 <es>
 
-@1210
+@1201
 <en>{Kazushi}\n"How do you feel? Is anything different?"
 <es>
 
-@1211
+@1202
 <en>{Natsume}\n"What is different?"
 <es>
 
-@1212
+@1203
 <en>She placed her hand on her chest.
 <es>
 
-@1213
+@1204
 <en>{Natsume}\n"Ouch!"
 <es>
 
-@1214
+@1205
 <en>{Amamiya}\n"Natsume?"
 <es>
 
-@1215
+@1206
 <en>{Kazushi}\n"Natsume??"
 <es>
 
-@1216
+@1207
 <en>{Natsume}\n"Blood.... Blood!"
 <es>
 
-@1217
+@1208
 <en>{Kazushi}\n"What? Blood?"
 <es>
 
-@1218
+@1209
 <en>Is she controlled by the power of the rock?
 <es>
 
-@1219
+@1210
 <en>{Amamiya}\n"Kazushi, step back."
 <es>
 
-@1220
+@1211
 <en>Miya stepped in front of me.
 <es>
 
-@1221
+@1212
 <en>{Amamiya}\n"I'll save you no matter what."
 <es>
 
-@1222
+@1213
 <en>The air became tense. Natsume!!
 <es>
 
-@1223
+@1214
 <en>{Natsume}\n"Aha! I'm just joking!"
 <es>
 
-@1224
+@1215
 <en>{Amamiya}\n"What?"
 <es>
 
-@1225
+@1216
 <en>{Kazushi}\n"Joking?"
 <es>
 
-@1226
+@1217
 <en>Natsume stuck her tongue out. That was Natsume I knew... or little bit more mischievous?
 <es>
 
-@1227
+@1218
 <en>{Natsume}\n"I feel fine. Maybe my boobs are bigger."
 <es>
 
-@1228
+@1219
 <en>{Amamiya}\n"Are you sure? How do you feel?"
 <es>
 
-@1229
+@1220
 <en>{Natsume}\n"I'm fine. I'm not going to be a murder."
 <es>
 
-@1230
+@1221
 <en>{Amamiya}\n"Oh, good."
 <es>
 
-@1231
+@1222
 <en>I felt relaxed. That is the Natsume I know. For sure.
 <es>
 
-@1232
+@1223
 <en>{Kazushi}\n"Man. You scared me."
 <es>
 
-@1233
+@1224
 <en>{Natsume}\n"Kazushi, it's because you took so long to get here. It has been half a month since then."
 <es>
 
-@1234
+@1225
 <en>She glared at me with sleepy eyes. She had tears in her eyes, so it was not as scary.
 <es>
 
-@1235
+@1226
 <en>{Kazushi}\n"Sorry. But I did find you at last."
 <es>
 
-@1236
+@1227
 <en>I only knew her in my dream, and the shadow of her. But I finally met with real Natsume.
 <es>
 
-@1237
+@1228
 <en>{Natsume}\n"Yes. Finally."
 <es>
 
-@1238
+@1229
 <en>Natsume laughed. Her smile made me so happy I hugged her in front of Miya.
 <es>
 
-@1239
+@1230
 <en>{Kazushi}\n"Natsume!!"
 <es>
 
-@1240
+@1231
 <en>{Natsume}\n"Ouch! I can't breath."
 <es>
 
-@1241
+@1232
 <en>{Kazushi}\n"Oh, sorry."
 <es>
 
-@1242
+@1233
 <en>Maybe it was too hard. She looked up in my arms. And her eyes stopped at once place.
 <es>
 
-@1246
+@1237
 <en>{Amamiya}\n"Oh...."
 <es>
 
-@1251
+@1242
 <en>Miya froze as Natsume looks at him. She withered him instantly, it's hard to believe he was so brave a second ago.
 <es>
 
-@1252
+@1243
 <en>{Natsume}\n"....."
 <es>
 
-@1253
+@1244
 <en>{Amamiya}\n"Well....."
 <es>
 
-@1254
+@1245
 <en>{Kazushi}\n"Miya, you got to say something."
 <es>
 
-@1257
+@1248
 <en>{Amamiya}\n"Well... Ah..."
 <es>
 
-@1260
+@1251
 <en>{Natsume}\n".....!!"
 <es>
 
-@1261
+@1252
 <en>Natsume jumped suddenly as she glare at Miya.
 <es>
 
-@1262
+@1253
 <en>{Natsume}\n"Stupid! Daddy!"
 <es>
 
-@1263
+@1254
 <en>She cling to his neck and yelled out.
 <es>
 
-@1264
+@1255
 <en>{Natsume}\n"Stupid! Worthless man! That's why mommy ran away from you."
 <es>
 
-@1267
+@1258
 <en>{Amamiya}\n"Sorry. Well, I'm sure it's not enough."
 <es>
 
-@1270
+@1261
 <en>{Natsume}\n"Mommy died."
 <es>
 
-@1273
+@1264
 <en>{Amamiya}\n"What?"
 <es>
 
-@1274
+@1265
 <en>{Natsume}\n"I came here to tell you that."
 <es>
 
-@1277
+@1268
 <en>{Amamiya}\n"Is that so?"
 <es>
 
-@1278
+@1269
 <en>Miya gave Natsume a hug.
 <es>
 
-@1279
+@1270
 <en>{Amamiya}\n"I'm sorry. I'm sorry Natsume."
 <es>
 
-@1282
+@1273
 <en>{Natsume}\n"Stupid. I can't breath. You stink."
 <es>
 
-@1283
+@1274
 <en>Natsume wiggles in Miya's arms. She is crying but trying to hide it by acting mad.
 <es>
 
-@1284
+@1275
 <en>But, Miya didn't let her go, and Natsume was in his arms.
 <es>
 
-@1285
+@1276
 <en>I don't know how long it went on...
 <es>
 
-@1288
+@1279
 <en>{Natsume}\n"....."
 <es>
 
-@1291
+@1282
 <en>Natsume looked up and our eyes met.
 <es>
 
-@1292
+@1283
 <en>{Kazushi}\n"Welcome back."
 <es>
 
-@1293
+@1284
 <en>It just came out naturally. Natsume looked surprised at first, but then smiled.
 <es>
 
-@1294
+@1285
 <en>It was a first time to see her smile like that.
 <es>
 
-@1297
+@1288
 <en>{Natsume}\n"yeah. I'm back."
 <es>
 
-@1298
+@1289
 <en>That was how we met for the first time, but it was a second time around.
 <es>
 
-@1305
+@1296
 <en>{Appo-}\n"There they are!"
 <es>
 
-@1306
+@1297
 <en>{Haruka}\n"Kazushi!"
 <es>
 
-@1307
+@1298
 <en>Everybody was waiting for us to come out.
 <es>
 
-@1311
+@1302
 <en>{Ran}\n"Wow, that is the real Natsume?"
 <es>
 
-@1315
+@1306
 <en>{Sakura}\n"Oh my god! She is 35% more plumper than the fake one."
 <es>
 
-@1320
+@1311
 <en>{Natsume}\n"Hey, don't touch my cheeks. Don't come close to me."
 <es>
 
-@1322
+@1313
 <en>Everybody surrounded Natsume in a second.
 <es>
 
-@1325
+@1316
 <en>{Natsume}\n"I can't see. Daddy!"
 <es>
 
-@1330
+@1321
 <en>{Amamiya}\n"What?"
 <es>
 
-@1332
+@1323
 <en>Natsume jumped on Miya's back and climbed up to his shoulder like a monkey. She is riding on his shoulder.
 <es>
 
-@1333
+@1324
 <en>{Amamiya}\n"Wow! Natsume, you are heavy."
 <es>
 
-@1334
+@1325
 <en>{Natsume}\n"Yes. I can see better. Come on. Go. Hurry."
 <es>
 
-@1335
+@1326
 <en>{Amamiya}\n"Oh, OK..."
 <es>
 
-@1336
+@1327
 <en>Miya is skinny and he is staggering. But you can tell he is concentrating on not to let go Natsume as hard as he can.
 <es>
 
-@1337
+@1328
 <en>It was like he was trying to be the best dad he can be.
 <es>
 
-@1338
+@1329
 <en>{Kazushi}\n"Man. I'm jealous."
 <es>
 
-@1339
+@1330
 <en>I felt silly being jealous to her dad.
 <es>
 
-@1340
+@1331
 <en>{Kazushi}\n"Oh...."
 <es>
 
-@1341
+@1332
 <en>I looked up for no reason, and found a silhouette of a person by the window of the lab building.
 <es>
 
-@1342
+@1333
 <en>It was the principal. She had a smile on her face and looking down on Natsume and everybody else.
 <es>
 
-@1343
+@1334
 <en>Is she happy about the father and daughter reunion?
 <es>
 
-@1344
+@1335
 <en>Is that all?
 <es>
 
-@1345
+@1336
 <en>It seems like everything came too easy, now I think about it.
 <es>
 
-@1346
+@1337
 <en>What is the principal thinking about? The quiet gaze she has looked somehow scary to me.
 <es>
 

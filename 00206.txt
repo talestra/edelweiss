@@ -304,361 +304,361 @@
 <en>{Appo-}\n"Looks great!\nThanks!"
 <es>{Appo-}\n"¡Tiene una pinta estupenda!\n¡Gracias!"
 
-@205
+@206
 <en>Ran slaped Daigo's hand.
 <es>Ran abofeteó la mano de Daigo.
 
-@212
+@213
 <en>{Appo-}\n"Ouch. What did you do that for?"
 <es>{Appo-}\n"Au. ¿Por qué has hecho eso?"
 
-@213
+@214
 <en>{Ran}\n"You don't know the manner before you eat?"
 <es>{Ran}\n"¿No sabes lo que hay que hacer antes de comer?"
 
-@216
+@217
 <en>{Appo-}\n"What do you mean?"
 <es>{Appo-}\n"¿Qué quieres decir?"
 
-@219
+@220
 <en>{Ran}\n"You know, it's this."
 <es>{Ran}\n"Ya sabes, esto."
 
-@220
+@221
 <en>Ran makes a circle with her fingers.
 <es>Ran hizo un círculo con los dedos.
 
-@227
+@228
 <en>{Daigo}\n"Money?"
 <es>{Daigo}\n"¿Dinero?"
 
-@230
+@231
 <en>{Ran}\n"You got it!!!"
 <es>{Ran}\n"¡¡¡Eso es!!!"
 
-@233
+@234
 <en>{Appo-}\n"What?!\nYou are charging me!?"
 <es>{Appo-}\n"¡¿Qué?!\n¿¡Me estás cobrando!?"
 
-@236
+@237
 <en>{Ran}\n"Ofcourse.\nWhy do I have to prepare you a free food."
 <es>{Ran}\n"Pues claro.\n¿Por qué iba a tener que prepararte la comida gratis?"
 
-@240
+@241
 <en>{Pierre}\n"She smells like milk!"
 <es>{Pierre}\n"¡Huele a leche rancia!"
 
-@241
+@242
 <en>{Ran}\n"You guys want it or not?"
 <es>{Ran}\n"¿Queréis o no?"
 
-@244
+@245
 <en>{Pierre}\n"Fine!\nHow much!!?"
 <es>{Pierre}\n"¡Está bien!\n¡¡¿Cuánto?!!"
 
-@247
+@248
 <en>{Ran}\n"10 bucks a head."
 <es>{Ran}\n"1000 yenes por cabeza."
 
-@250
+@251
 <en>{Appo-}\n"That's expensive!"
 <es>{Appo-}\n"¡Eso es caro!"
 
-@256
+@257
 <en>{Pierre}\n"I don't like girls!"
 <es>{Pierre}\n"¡Odio a las chicas!"
 
-@262
+@263
 <en>{Ran}\n"Wow, boys!\nYou guys were really starving!"
 <es>{Ran}\n"¡Vaya, chicos!\n¡Sí que os estábais muriendo de hambre!"
 
-@270
+@271
 <en>{Appo-}\n"Shit!\nIt's delicious-------!!"
 <es>{Appo-}\n"¡Joder!\n¡¡Esto está de muerte...!!"
 
-@272
+@273
 <en>[Empty stomatch making hungry sound]
 <es>[Mi estómago vacío empieza a rugir]
 
-@273
+@274
 <en>I don't blame my stomatch. I haven't eaten anything since I got here.
 <es>Y no le culpo. No he pegado bocado desde que llegué.
 
-@279
+@280
 <en>{Ran}\n"You're not hungry, Kazushi?"
 <es>{Ran}\n"¿Tú no tienes hambre, Kazushi?"
 
-@280
+@281
 <en>{Kazushi}\n"......I'll eat."
 <es>{Kazushi}\n"Comeré..."
 
 ### Cambio de escena. En la habitación.
 
-@281
+@282
 <en>I'll think about our situation after I feed myself.
 <es>Ya pensaré sobre nuestra situación después de comer algo.
 
-@290
+@291
 <en>{Kazushi}\n"So we came back."
 <es>{Kazushi}\n"Así que hemos vuelto."
 
-@291
+@292
 <en>It's an empty room.
 <es>Es una habitación vacía.
 
-@298
+@299
 <en>{Pierre}\n"Both rooms are made same."
 <es>{Pierre}\n"Las dos habitaciones son iguales."
 
-@299
+@300
 <en>Me and Appo- share the room.\nPierre and Daigo is next room.
 <es>Yo y Appo- compartimos la habitación.\nMientras que Pierre y Daigo están en la de al lado.
 
-@300
+@301
 <en>Although we like to look at it as a one big room 4 of us share.
 <es>Aunque nos gusta verlo como una única habitación que compartimos los 4.
 
-@303
+@304
 <en>{Appo-}\n"I still can't believe what I saw."
 <es>{Appo-}\n"Todavía no puedo creer en lo que he visto."
 
-@306
+@307
 <en>{Pierre}\n"How can entire shore line be pulled back a few hundreds yards in a minute?"
 <es>{Pierre}\n"¿Cómo puede ser que toda la línea costera haya bajado varios cientos de metros en un solo minuto?"
 
-@309
+@310
 <en>{Daigo}\n"I think we are locked."
 <es>{Daigo}\n"Creo que estamos atrapados."
 
-@310
+@311
 <en>{Kazushi}\n"I think so, too."
 <es>{Kazushi}\n"Yo también lo creo."
 
-@311
+@312
 <en>This island is weired.\nThe mermaid, moving sign board..........everything.
 <es>Esta isla es muy extraña.\nLa sirena, la señal viviente... todo.
 
-@312
+@313
 <en>I'm sure there are plenty more.
 <es>Y estoy convencido de que hay un montón más.
 
-@313
+@314
 <en>{Kazushi}\n"I wanna call it a good night. I'm tired."
 <es>{Kazushi}\n"Me gustaría poder decir ¡buenas noches'. Estoy hecho polvo."
 
-@317
+@318
 <en>I wanna get some rest.
 <es>Quiero descansar.
 
-@320
+@321
 <en>{Pierre}\n"What is this!?"
 <es>{Pierre}\n"¿¡Qué...!?"
 
-@321
+@322
 <en>Just as I prayed, Pierre had to scream for some reason.
 <es>Nada más decir eso, Pierre grió por algún motivo.
 
-@322
+@323
 <en>{Kazushi}\n"What is it now?"
 <es>{Kazushi}\n"¿Y ahora qué pasa?"
 
-@323
+@324
 <en>{Pierre}\n"Look at that......"
 <es>{Pierre}\n"Mira eso..."
 
-@324
+@325
 <en>His shaking finger is pointing behind me.
 <es>Su tembloroso dedo está apuntando detrás de mí.
 
-@329
+@330
 <en>{Appo-}\n"......oh my god!?"
 <es>{Appo-}\n"¡Dios...!"
 
-@330
+@331
 <en>{Kazushi}\n"You too, Appo-?\nWhat is it......?"
 <es>{Kazushi}\n"¿Tu también, Appo-?\n¿Qué ocurre...?"
 
-@334
+@335
 <en>{Kazushi}\n"What a!?"
 <es>{Kazushi}\n"¿¡Pero qué...!?"
 
-@335
+@336
 <en>{Daigo}\n"No!!"
 <es>{Daigo}\n"¡¡No!!"
 
-@336
+@337
 <en>{Pierre}\n"A ghost!!"
 <es>{Pierre}\n"¡¡Un fantasma!!"
 
-@337
+@338
 <en>A soaking wet lady is watching our room from the window!
 <es>¡Una chica empapada está mirando nuestra habitación desde la ventana!
 
-@338
+@339
 <en>{Haruka}\n"You guys are here."
 <es>{Haruka}\n"Estáis aquí..."
 
-@339
+@340
 <en>{Kazushi}\n"Is it Haruka......?"
 <es>{Kazushi}\n"¿Es Haruka...?"
 
-@340
+@341
 <en>It's Haruka.\nWhy is she soaking wet?
 <es>Es Haruka.\n¿Qué hace empapada?
 
-@341
+@342
 <en>She looks exactly like a ghost.
 <es>Parece exáctamente un fantasma.
 
-@342
+@343
 <en>{Haruka}\n"I didn't know you guys at dorm. I had to get into ocean searching for you guys."
 <es>{Haruka}\n"No sabía que estábais en el dormitorio. Me tuve que meter en el mar para buscaros."
 
-@343
+@344
 <en>{Kazushi}\n"What......?\nIs that why you are wet?"
 <es>{Kazushi}\n"¿Qué...?\n¿Estás empapada por eso?"
 
-@344
+@345
 <en>{Pierre}\n"You thought we fell into the ocean?"
 <es>{Pierre}\n"¿Pensaste que nos habíamos caído en el mar?"
 
-@345
+@346
 <en>{Appo-}\n"Why would we do such thing?"
 <es>{Appo-}\n"¿Por qué íbamos a hacer eso?"
 
-@346
+@347
 <en>{Haruka}\n"I'm glad you guys are safe."
 <es>{Haruka}\n"Me alegro mucho de que estéis bien."
 
-@347
+@348
 <en>The fact she worried about us that much really touched my heart.
 <es>El hecho de que estuviese tan preocupada por nosotros, me llegó al alma.
 
-@348
+@349
 <en>{Kazushi}\n"Haruka, do you want us in this island?"
 <es>{Kazushi}\n"Haruka, ¿nos queréis en esta isla?"
 
-@349
+@350
 <en>I was starting to get worried that maybe nobody wants us here......
 <es>Había empezado a preocuparme de que quizá nadie nos quería aquí...
 
-@350
+@351
 <en>{Haruka}\n"Ofcourse!\nPlease don't leave this island so soon, O.K?!"
 <es>{Haruka}\n"¡Pues claro!\nPor favor, ¡no os marchéis de la isla tan pronto, ¿vale?!"
 
-@351
+@352
 <en>{Kazushi}\n".................."
 <es>{Kazushi}\n"..."
 
-@352
+@353
 <en>I guess it's not just me. She touched everyone's heart.
 <es>Supongo que no soy el único. Ha llegado al corazón de todos.
 
-@353
+@354
 <en>{Pierre}\n"Did you guys hear that?"
 <es>{Pierre}\n"¿Habéis oído eso?"
 
-@354
+@355
 <en>{Daigo}\n"......yep."
 <es>{Daigo}\n"Sip..."
 
-@355
+@356
 <en>{Appo-}\n"Well, if she insists......."
 <es>{Appo-}\n"Bueno, si insiste..."
 
-@356
+@357
 <en>{Kazushi}\n"She left us no choice."
 <es>{Kazushi}\n"No nos deja elección."
 
-@357
+@358
 <en>We're not locked in here. We choose to be here.
 <es>No estamos encerrados, sino que elegimos permanecer aquí.
 
-@358
+@359
 <en>{Haruka}\n"Did I say something to offend you guys......?"
 <es>{Haruka}\n"¿Os he dicho algo que os haya ofendido...?"
 
-@359
+@360
 <en>{Kazushi}\n"No. We don't mind being here, either."
 <es>{Kazushi}\n"No. No nos importa estar aquí."
 
-@360
+@361
 <en>{Haruka}\n"Besides, it's kind of hard to leave from this island, you know."
 <es>{Haruka}\n"Además, es un pelín difícil dejar la isla..."
 
-@361
+@362
 <en>{Kazushi}\n"Did you actually get in the ocean to search for us?"
 <es>{Kazushi}\n"¿De verdad que te has metido en el mar para buscarnos?"
 
-@362
+@363
 <en>{Haruka}\n"Yep."
 <es>{Haruka}\n"Sip."
 
-@363
+@364
 <en>{Pierre}\n"She's soaking wet. I can see her bra."
 <es>{Pierre}\n"Está realmente empapada. Puedo verle el sujetador."
 
-@364
+@365
 <en>{Appo-}\n"Really?!"
 <es>{Appo-}\n"¡¿En serio?!"
 
-@365
+@366
 <en>{Kazushi}\n"Wow......"
 <es>{Kazushi}\n"Vaya..."
 
-@366
+@367
 <en>Pierre was right. She was wearing a fancy bra.
 <es>Pierre tenía razón. Llevaba un sujetador muy sugerente.
 
-@367
+@368
 <en>{Haruka}\n"What......no!?"
 <es>{Haruka}\n"¡¿Qué...?! ¡no!"
 
-@369
+@370
 <en>She quickly covers herself.
 <es>Se cubre rápidamente.
 
-@370
+@371
 <en>{Appo-}\n"We shouldn't have told her."
 <es>{Appo-}\n"No deberíamos haberselo dicho."
 
-@371
+@372
 <en>{Daigo}\n"It's securely saved in my memory."
 <es>{Daigo}\n"Está guardado con celo en mis recuerdos."
 
-@372
+@373
 <en>{Pierre}\n"Really!?\nDraw her for me later!"
 <es>{Pierre}\n"¿¡En serio!?\n¡Sácalo de ahí luego para mí!"
 
-@373
+@374
 <en>{Haruka}\n"You're kidding right?!!"
 <es>{Haruka}\n"¡¿Lo decís en broma, no?!"
 
-@374
+@375
 <en>{Kazushi}\n"Ofcourse he's joking."
 <es>{Kazushi}\n"Claro que lo dice en broma."
 
-@375
+@376
 <en>{Kazushi}\n(Later, O.K?)
 <es>{Kazushi}\n(¿Luego, eh?)
 
-@376
+@377
 <en>{Boys}\n(Nodding head.)
 <es>{Chicos}\n(Asintiendo con la cabeza.)
 
-@377
+@378
 <en>{Haruka}\n"I don't trust you guys.\nJust keep in your mind that my grand ma is principal here."
 <es>{Haruka}\n"No os creo.\nRecordad que mi abuela es la directora."
 
-@378
+@379
 <en>{Kazushi}\n"You're not gonna kick us out for that reason, right......?"
 <es>{Kazushi}\n"No iréis a expulsarnos por eso, ¿no...?"
 
-@379
+@380
 <en>{Pierre}\n"Wow, you have power."
 <es>{Pierre}\n"Vaya, sí que tienes poder."
 
-@380
+@383
 <en>{Haruka}\n"Also, from now on, no more perverted stuffs, O.K?"
 <es>{Haruka}\n"Y también de ahora en adelante, no más guarradas, ¿vale?"
 
@@ -666,2994 +666,2994 @@
 <en>{Haruka}\n"Some girls here have lived a sheltered life and never been around boys."
 <es>
 
-@381
+@386
 <en>She's right. Many girls here are not immuned to boys' nature.
 <es>Tiene razón. Muchas chicas de aquí no son inmunes a la naturaleza de los chicos.
 
-@382
+@387
 <en>{Pierre}\n"We were just trying to get along with them."
 <es>{Pierre}\n"Solo tratábamos de llevarnos bien con ellas."
 
-@383
+@388
 <en>{Kazushi}\n"We got it. We'll behave ourselves."
 <es>{Kazushi}\n"Entendido. Nos comportaremos."
 
-@384
+@389
 <en>{Haruka}\n"Please do.\nActually, a lots of girls were excited to have you guys."
 <es>{Haruka}\n"Hacedlo por favor.\nLa verdad es que había un montón de chicas entusiasmadas por teneros aquí."
 
-@385
+@390
 <en>{Haruka}\n"Including me."
 <es>{Haruka}\n"Incluyéndome a mí."
 
-@386
+@391
 <en>{Kazushi}\n"Really?"
 <es>{Kazushi}\n"¿En serio?"
 
-@387
+@392
 <en>We never knew that they were actually happy to have us here.
 <es>No podíamos siquiera imaginarnos que estuviesen contentas de tenernos aquí.
 
-@388
+@393
 <en>{Haruka}\n"You guys want to get along with them and have a good summer too, right?"
 <es>{Haruka}\n"Vosotros también queréis llevaros bien con ellas y pasar un buen verano también, ¿no?"
 
-@389
+@394
 <en>{Kazushi}\n"Sure."
 <es>{Kazushi}\n"Claro."
 
-@390
+@395
 <en>All my buddies are nodding.
 <es>Todos mis colegas están asintiendo.
 
-@391
+@396
 <en>{Haruka}\n"Good. We'll be just fine."
 <es>{Haruka}\n"Vale. Todo irá bien entonces."
 
-@392
+@397
 <en>She gave us a big smile.
 <es>Nos ofrece una amplia sonrisa.
 
-@393
+@398
 <en>{Haruka}\n"All right. I should get back. See you boys tomorrow."
 <es>{Haruka}\n"Muy bien. Debería volver ya. Nos vemos mañana, chicos."
 
-@394
+@399
 <en>{Kazushi}\n"Good night."
 <es>{Kazushi}\n"Buenas noches."
 
-@395
+@400
 <en>{Appo-}\n"Have a good night!"
 <es>{Appo-}\n"¡Buenas noches!"
 
-@396
+@401
 <en>She waved to us as she left.
 <es>Se despidió con la mano mientras se marchaba.
 
-@404
+@409
 <en>{Pierre}\n""good night"......\nwhat a nice sound."
 <es>{Pierre}\n""Buenas noches"...\nQué frase mas agradable."
 
-@405
+@410
 <en>{Appo-}\n"I've never said good night to a girl......"
 <es>{Appo-}\n"Nunca había dicho buenas noches a una chica..."
 
-@408
+@413
 <en>{Appo-}\n"oh my----!What should I do!?"
 <es>{Appo-}\n"¡Dios...! ¿¡Qué debería hacer!?"
 
-@409
+@414
 <en>{Kazushi}\n"I think you should sleep."
 <es>{Kazushi}\n"Diría que dormir."
 
-@410
+@415
 <en>{Pierre}\n"I saw something wonderful. I like this island."
 <es>{Pierre}\n"Acabo de ver algo maravilloso. Me gusta esta isla."
 
-@411
+@416
 <en>{Daigo}\n"..................oh yeah."
 <es>{Daigo}\n"Sí..."
 
-@412
+@417
 <en>{Kazushi}\n"Hey Daigo, stop picturing her naked."
 <es>{Kazushi}\n"Oye Daigo, deja de imaginártela desnuda."
 
-@415
+@420
 <en>{Pierre}\n"I think we're gonna have a lot of happy accidents like tonight in the future."
 <es>{Pierre}\n"Estoy convencido de que vamos a tener un montón de felices accidentes como el de esta noche en el futuro."
 
-@418
+@423
 <en>{Appo-}\n"It was bra today. Who knows what we would get to see next?"
 <es>{Appo-}\n"Hoy ha sido un sujetador. Quién sabe qué será lo siguiente..."
 
-@421
+@426
 <en>{Daigo}\n"You are right."
 <es>{Daigo}\n"Tienes razón."
 
-@424
+@429
 <en>{Pierre}\n"I'm gald our escape attempt was failed!"
 <es>{Pierre}\n"¡Me alegro de que nuestro intento de escapar fracasase!"
 
-@425
+@430
 <en>It's hard to remember we were thinking about escaping.
 <es>Resulta difícil recordar que estábamos pensando en escapar.
 
-@426
+@431
 <en>This might be the good aspect of us.
 <es>Esa debe de ser una de nuestras virtudes.
 
-@430
+@435
 <en>{Kazushi}\n[Sleep talking]
 <es>{Kazushi}\n*Hablando en la cama*
 
-@431
+@436
 <en>I couldn't fall sleep for some reason.
 <es>Por algún motivo, no podía dormirme.
 
-@432
+@437
 <en>{Kazushi}\n"What time is it......?"
 <es>{Kazushi}\n"¿Qué hora es...?"
 
-@433
+@438
 <en>It's 2 am in the morning.
 <es>Son las 2 de la madrugada.
 
-@434
+@439
 <en>{Kazushi}\n"It's middle of the night."
 <es>{Kazushi}\n"Estamos en mitad de la noche."
 
-@435
+@440
 <en>It's cold in here. Hard to imagine from the afternoon with all that heat.
 <es>Hace frío. Es difícil creerlo con el calorazo que hacía por la tarde.
 
-@436
+@441
 <en>{Kazushi}\n"I'm so awake. I'manna take a walk outside."
 <es>{Kazushi}\n"Estoy completamente despierto. Creo que voy a dar una vuelta."
 
-@439
+@444
 <en>{Kazushi}\n"It really is cold here."
 <es>{Kazushi}\n"Aquí hace más frío todavía."
 
-@440
+@445
 <en>The temperture changes in this island like in a mountain.
 <es>Los cambios de temperatura de esta isla son como los de una montaña.
 
-@442
+@447
 <en>I could see unbelievable amout of stars from this island.
 <es>Puedo ver una cantidad increíble de estrellas desde aquí.
 
-@443
+@448
 <en>It's like I'm thrown out in the space.
 <es>Es como si estuviese en el espacio.
 
-@444
+@449
 <en>{Kazushi}\n"Wow, I think I just saw a falling star."
 <es>{Kazushi}\n"Vaya. Creo que acabo de ver una estrella fugaz."
 
-@445
+@450
 <en>I actually got to see two of them in a really short time.
 <es>En realidad he llegado a ver dos en un lapso muy pequeño de tiempo.
 
-@446
+@451
 <en>{Kazushi}\n"I didn't know there are so many."
 <es>{Kazushi}\n"No sabía que hubiese tantas."
 
-@447
+@452
 <en>I could never get bored watching the stars.
 <es>Creo que no me cansaría nunca de ver las estrellas.
 
-@448
+@453
 <en>{Kazushi}\n"Ouch......my neck......"
 <es>{Kazushi}\n"Au, mi cuello..."
 
-@449
+@454
 <en>I lied down on the ground facing up, so I could still see stars.
 <es>Me tumbé hacia arriba para poder ver las estrellas.
 
-@450
+@455
 <en>I couldn't see nothing but the stars.
 <es>No veía otra cosa que no fuesen las estrellas.
 
-@451
+@456
 <en>{Kazushi}\n"This is amazing......"
 <es>{Kazushi}\n"Es increíble..."
 
-@452
+@457
 <en>I felt like there is just me and the stars in this world.
 <es>Tenía la sensación de que solo estábamos yo y las estrellas en este mundo.
 
-@453
+@458
 <en>It was so quiet, I could see my own heart beating.
 <es>Tan tranquilo... Podía hasta sentir el latido de mi corazón.
 
-@457
+@462
 <en>{Kazushi}\n"...!!...?"
 <es>{Kazushi}\n"¡¡...!! ¿...?"
 
-@458
+@463
 <en>I thinks I just heard someone walking toward me.
 <es>Creo que acabo de oír a alguien acercándose a mí.
 
-@459
+@464
 <en>{???}\n"Is he dead?"
 <es>{???}\n"¿Está muerto?"
 
-@460
+@465
 <en>It's a girl.
 <es>Es una chica.
 
-@461
+@466
 <en>{???}\n"Let's see-"
 <es>{???}\n"Veamos..."
 
-@462
+@467
 <en>I could tell they are looking into my face from above.
 <es>Creo que me están mirando la cara desde arriba.
 
-@463
+@468
 <en>{???}\n"He is dead."
 <es>{???}\n"Está muerto."
 
-@464
+@469
 <en>Who left a dead body here?
 <es>¿Quién ha dejado un cadáver aquí?
 
-@465
+@470
 <en>{???}\n"I think we should throw him into the ocean."
 <es>{???}\n"Deberíamos tirarlo al mar."
 
-@466
+@471
 <en>What?
 <es>¿Qué?
 
-@467
+@472
 <en>[Girls grab Kzaushi's arms]
 <es>*Chica cogiendo los brazos de Kazushi*
 
-@468
+@473
 <en>Are they really going to trash me into the ocean?
 <es>¿Van a tirarme al mar de verdad?
 
-@469
+@474
 <en>{Kazushi}\n"Hey wait......"
 <es>{Kazushi}\n"Oye, espera..."
 
-@470
+@475
 <en>I had to stop pretending.
 <es>Tuve que dejar de fingir...
 
-@472
+@477
 <en>[Colliding]
 <es>*Colisión*
 
-@473
+@478
 <en>{Kazushi}\n"!?"
 <es>{Kazushi}\n"¿¡!?"
 
-@478
+@483
 <en>{???}\n"......!?"
 <es>{???}\n"¿¡...!?"
 
-@479
+@484
 <en>I felt something on my lips.
 <es>Sentí algo en los labios.
 
-@480
+@485
 <en>It was too close to see what I touched with my lips.
 <es>Estaba demasiado cerca para ver lo que había tocado con los labios.
 
-@481
+@486
 <en>{Kazushi}\n"What!?"
 <es>{Kazushi}\n"¿¡Qué!?"
 
-@482
+@487
 <en>It's a face. Someone I don't know.
 <es>Es una cara. La cara de alguien que no conozco.
 
-@483
+@488
 <en>That means my lips are touching......
 <es>Eso quiere decir que mis labios están tocando...
 
-@484
+@489
 <en>{Kazushi}\n"......what!?"
 <es>{Kazushi}\n"¿¡Qué...!?"
 
-@485
+@490
 <en>I had to jump away from her.
 <es>
 
-@493
+@498
 <en>{Kazushi}\n"Sorry!!"
 <es>{Kazushi}\n"¡¡Lo siento!!"
 
-@495
+@500
 <en>I accidently kissed her!!
 <es>¡¡La he besado por accidente!!
 
-@496
+@501
 <en>I've never kissed a girl before. This is great!!
 <es>Nunca había besado antes a una chica. ¡¡Ha sido genial!!
 
-@497
+@502
 <en>Wait! I'm happy, but I'm not sure about her.
 <es>¡Espera! Yo estoy contento, pero no tengo claro que ella piense lo mismo.
 
-@500
+@505
 <en>{???}\n".................."
 <es>{???}\n"..."
 
-@501
+@506
 <en>I think she is one of the student. She looks so young.
 <es>Creo que es una de las estudiantes. Parece muy jóven.
 
-@502
+@507
 <en>She must be stunned from giving a kiss to a stranger.
 <es>Debe estar conmocionada por haber sido besada por un extraño.
 
-@503
+@508
 <en>{Kazushi}\n"......are you all right?......"
 <es>{Kazushi}\n"¿Te encuentras bien...?"
 
-@504
+@509
 <en>{???}\n".................."
 <es>{???}\n"..."
 
-@505
+@510
 <en>I realized that there is blood on my lips.
 <es>Me di cuenta de que tenía sangre en mis labios.
 
-@506
+@511
 # ¿Mordido? ¿Cortado?
 <en>{Kazushi}\n"Sorry!\nDid I cut your lips, too?"
 <es>{Kazushi}\n"¡Lo siento!\n¿Te he mordido los labios también?"
 
-@507
+@512
 <en>I touched my lips again. There is blood.
 <es>Me toqué los labios otra vez. Tenía sangre.
 
-@508
+@513
 <en>Both of our lips were cut.
 <es>Nos cortamos labios los dos.
 
-@509
+@514
 <en>{???}\n"It hurts."
 <es>{???}\n"Duele."
 
-@510
+@515
 <en>{Kazushi}\n"Are you all right?"
 <es>{Kazushi}\n"¿Estás bien?"
 
-@511
+@516
 <en>Both of us are bleeding.
 <es>Los dos estábamos sangrando.
 
-@512
+@517
 <en>{Kazushi}\n"I don't know what to say......"
 <es>{Kazushi}\n"No sé qué decir..."
 
-@513
+@518
 <en>Not only I hurt her, I cut her lips, too.
 <es>No sólo le he hecho daño, sino que también le he cortado los labios.
 
-@514
+@519
 <en>I'm just hoping it wasn't her first kiss.
 <es>Solo espero que al menos no fuese su primer beso.
 
-@515
+@520
 <en>{???}\n".................."
 <es>{???}\n"..."
 
-@516
+@521
 <en>She took out a handkerchief from her pocket and start wiping her lips.
 <es>Se sacó un pañuelo del bolsillo y empezó a limpiarse los labios.
 
-@517
+@522
 <en>{Kazushi}\n"......I'm really sorry!\nBut I think you shouldn't wipe your lips so hard."
 <es>{Kazushi}\n"¡Lo siento muchísimo...!\nPero creo que no deberías limpiarte los labios tan fuerte."
 
-@518
+@523
 <en>Her handkerchief is now turned all red.
 <es>Su pañuelo se volvió completamente rojo.
 
-@521
+@526
 <en>{???}\n".................."
 <es>{???}\n"..."
 
-@522
+@527
 <en>She picked up a tree branch without a word.
 <es>Cogió la rama de un árbol sin decir palabra.
 
-@523
+@528
 <en>{???}\n"......!!"
 <es>{???}\n"¡¡...!!"
 
-@524
+@529
 <en>[She throws it to Kazushi]
 <es>*La lanza contra Kazushi*
 
-@528
+@533
 <en>{Kazushi}\n"What a!?"
 <es>{Kazushi}\n"¿¡Pero qué...!?"
 
-@529
+@534
 <en>She starts attacking me.
 <es>Empieza a atacarme.
 
-@531
+@536
 <en>[The girl throwing punches]
 <es>*La chica lanza puñetazos*
 
-@535
+@540
 <en>{Kazushi}\n"Wait! Stop! We can talk this out!"
 <es>{Kazushi}\n"¡Espera! ¡Para! ¡Podemos hablar de esto!"
 
-@536
+@541
 <en>What a violent girl.
 <es>Qué chica más violenta.
 
-@537
+@542
 <en>{???}\n"That was my first."
 <es>{???}\n"Ha sido mi primer."
 
-@538
+@543
 <en>Her entiore body is shaking from the anger.
 <es>Su cuerpo entero se convulsiona por la ira.
 
-@539
+@544
 <en>{Kazushi}\n"That was your first?"
 <es>{Kazushi}\n"¿Era tu primero?"
 
-@540
+@545
 <en>I kind of knew.
 <es>Me lo podía imaginar.
 
-@541
+@546
 <en>{Kazushi}\n"I'm really sorry......"
 <es>{Kazushi}\n"Lo siento mucho..."
 
-@544
+@549
 # TODO: Reestructurar frase.
 <en>{???}\n"Who wants to have the memory of first kiss as the taste of blood?"
 <es>{???}\n"¿Quién querría tener de recuerdo el primer beso con sabor a sangre?"
 
-@545
+@550
 <en>She's giving me a mean look.
 <es>Me lanza una mirada de odio.
 
-@546
+@551
 <en>{Kazushi}\n"Why don't we erase this from our momory!"
 <es>{Kazushi}\n"¿¡Por qué no borras el recuerdo de eso!?"
 
-@547
+@552
 <en>{Kazushi}\n"Have you heard of "five second rule"?!"
 <es>{Kazushi}\n"¡¿Has oído hablar sobre "la regla de los cinco segundos"?!"
 
-@550
+@555
 <en>{???}\n".................."
 <es>{???}\n"..."
 
-@551
+@556
 <en>She ignored my proposal and start winding up her arm again for next attack.
 <es>Ignoró mi propuesta y empezó a mover su brazo preparando el siguiente ataque.
 
-@552
+@557
 <en>{Kazushi}\n"How about you fool your brain, like you got your lips bit by a dog or something!"
 <es>{Kazushi}\n"¡¿Y si te autoengañas pensando que lo de los labios ha sido la mordedura de un perro o algo?!"
 
-@553
+@558
 <en>[The girl continues to attack]
 <es>*La chica continúa atacando*
 
-@557
+@562
 <en>{Kazushi}\n"Oh my!?"
 <es>{Kazushi}\n"Dios..."
 
-@558
+@563
 <en>That was an impressive throw!
 <es>¡Qué golpe más impresionante!
 
-@559
+@564
 <en>{???}\n"Shit."
 <es>{???}\n"Mierda."
 
-@560
+@565
 <en>What a violent girl.
 <es>Qué chica más violenta.
 
-@561
+@566
 <en>{Kazushi}\n"You know this is too much for a joke."
 <es>{Kazushi}\n"Creo que te lo estás tomando demasiado en serio para ser una broma."
 
-@562
+@567
 <en>{???}\n"I'm serious."
 <es>{???}\n"Voy en serio."
 
-@563
+@568
 <en>She is seriously a dangerous person.
 <es>Es de verdad una persona muy peligrosa.
 
-@564
+@569
 <en>{Kazushi}\n"By the way, what is your name?\nI'm Kazushi. I'm a new sophmore."
 <es>{Kazushi}\n"Por cierto, ¿cómo te llamas?\nYo me llamo Kazushi. Soy de segundo."
 
-@567
+@572
 # Igual le han hablado de él las otras chicas como el chico más decente, y por eso para.
 <en>{???}\n"Kazushi?"
 <es>{???}\n"¿Kazushi?"
 
-@568
+@573
 <en>{Kazushi}\n"Yep, what's yours?"
 <es>{Kazushi}\n"Sí, ¿cómo te llamas tú?"
 
-@571
+@576
 <en>{???}\n"I'm Natsume Amemiya."
 <es>{???}\n"Yo soy Natsume Amemiya."
 
-@572
+@577
 <en>I'm glad she asnwered.
 <es>Me alegro de que haya contestado.
 
-@573
+@578
 <en>{Kazushi}\n"Cab I call you Natsume."
 <es>{Kazushi}\n"¿Puedo llamarte Natsume?"
 
-@577
+@582
 <en>{Natsume}\n"Don't talk to me so so familiar, Kazushi."
 <es>{Natsume}\n"No te tomes tantas confianzas, Kazushi."
 
-@578
+@583
 <en>{Kazushi}\n"You are already calling me with my first name."
 <es>{Kazushi}\n"Tu ya me estás llamando por mi nombre de pila."
 
-@579
+@584
 <en>Maybe she's older than me.
 <es>Quizá sea mayor que yo.
 
-@580
+@585
 <en>{Kazushi}\n"......Are you a senior?"
 <es>{Kazushi}\n"¿Eres de segundo?"
 
-@581
+@586
 <en>She shook her head.
 <es>Agita la cabeza.
 
-@584
+@589
 <en>{Natsume}\n"I'm a freshman."
 <es>{Natsume}\n"Soy de primero."
 
-@585
+@590
 <en>{Kazushi}\n"Then I'm older."
 <es>{Kazushi}\n"Entonces soy yo el mayor."
 
-@588
+@593
 <en>{Natsume}\n"So what?"
 <es>{Natsume}\n"¿Y qué?"
 
-@589
+@594
 <en>She's a difficult girl.
 <es>Es una chica muy difícil.
 
-@590
+@595
 <en>I guess any girl around her age is difficult to handle.
 <es>Imagino que las chicas de su edad son muy difíciles de tratar.
 
-@591
+@596
 <en>{Kazushi}\n"What were you doing so late outside?"
 <es>{Kazushi}\n"¿Qué hacías fuera tan tarde?"
 
-@594
+@599
 <en>{Natsume}\n"It wasn't dangerous to hang out at night till you showed up."
 <es>{Natsume}\n"No era peligroso salir de noche hasta que has aparecido."
 
-@597
+@602
 <en>She gives me a mean glare.
 <es>Me lanza una mirada de odio.
 
-@598
+@603
 <en>{Kazushi}\n"I said I'm sorry. You have bad personality, do you have any friends?"
 <es>{Kazushi}\n"Ya te he dicho que lo siento. Tienes una personalidad muy fuerte, ¿tienes amigos?"
 
-@601
+@606
 <en>{Natsume}\n"It's none of your buisiness. I got plenty."
 <es>{Natsume}\n"No es asunto tuyo. Y tengo muchos."
 
-@602
+@607
 <en>{Kazushi}\n"That's good."
 <es>{Kazushi}\n"Eso está bien."
 
-@603
+@608
 <en>I bet she's lying.
 <es>Apuesto a que está mintiendo.
 
-@604
+@609
 <en>{Kazushi}\n"Then why don't we become friends?"
 <es>{Kazushi}\n"Entonces, ¿por qué no nos hacemos amigos?"
 
-@607
+@612
 <en>{Natsume}\n".................."
 <es>{Natsume}\n"..."
 
-@608
+@613
 <en>My proposal froze her.
 <es>Mi propuesta la dejó de piedra.
 
-@609
+@614
 <en>{Kazushi}\n"Natsume?"
 <es>{Kazushi}\n"¿Natsume?"
 
-@610
+@615
 <en>{Natsume}\n".................."
 <es>{Natsume}\n"..."
 
-@611
+@616
 <en>She seems little surprised.
 <es>Parece estar algo sorprendida.
 
-@614
+@619
 <en>{Natsume}\n"I don't think so."
 <es>{Natsume}\n"No lo creo."
 
-@615
+@620
 <en>My offer was declined.
 <es>Mi oferta fue rechazada.
 
-@616
+@621
 <en>{Kazushi}\n"I'm not good enough?"
 <es>{Kazushi}\n"¿No soy lo suficientemente bueno?"
 
-@617
+@622
 <en>{Natsume}\n"Absolutely not."
 <es>{Natsume}\n"Pues claro que no."
 
-@618
+@623
 <en>{Kazushi}\n"O.K......\nyou know, sometimes, you shouldn't speak so honestly."
 <es>{Kazushi}\n"Vale...\n¿Sabes?, en ocasiones no deberías ser tan honesta."
 
-@619
+@624
 <en>{Natsume}\n"I told you I got plenty of friends."
 <es>{Natsume}\n"Ya te he dicho que tengo un montón de amigos."
 
-@620
+@625
 <en>{Kazushi}\n"What's my name?"
 <es>{Kazushi}\n"¿Cómo me llamo?"
 
-@621
+@626
 <en>{Natsume}\n"Kazushi."
 <es>{Natsume}\n"Kazushi."
 
-@622
+@627
 <en>{Kazushi}\n"Well, I'm glad you now know my name."
 <es>{Kazushi}\n"Vaya. Me alegro de que te acuerdes de mi nombre."
 
-@625
+@630
 <en>{Natsume}\n"......what is your point?"
 <es>{Natsume}\n"¿Adónde quieres llegar...?"
 
-@626
+@631
 <en>{Kazushi}\n"Just add one more name on your friend list, O.K?"
 <es>{Kazushi}\n"Simplemente a que añadas un nombre más a tu lista de amigos, ¿vale?"
 
-@627
+@632
 <en>{Natsume}\n"I'll think about it."
 <es>{Natsume}\n"Lo pensaré."
 
-@628
+@633
 <en>{Kazushi}\n"Will you try?"
 <es>{Kazushi}\n"¿Lo harás?"
 
-@631
+@636
 <en>{Natsume}\n"......fine."
 <es>{Natsume}\n"Está bien..."
 
-@632
+@637
 <en>She turned around.
 <es>Dio media vuelta.
 
-@633
+@638
 <en>{Kazushi}\n"You are my friend already."
 <es>{Kazushi}\n"Tu ya estás en la mía."
 
-@634
+@639
 <en>I put her name on my list.
 <es>Puse su nombre en mi lista.
 
-@637
+@642
 <en>{Natsume}\n"You should go back."
 <es>{Natsume}\n"Debería volver."
 
-@638
+@643
 <en>She said that to me as she left.
 <es>Me lo dijo mientras se marchaba.
 
-@639
+@644
 <en>{Kazushi}\n"All right.\nSee you around."
 <es>{Kazushi}\n"Está bien.\nNos vemos."
 
-@640
+@645
 <en>I talked to her back.
 <es>Le respondí.
 
-@643
+@648
 <en>{Natsume}\n".................."
 <es>{Natsume}\n"..."
 
-@644
+@649
 <en>She didn't reply. Well, I'm sure I'll see her around.
 <es>No hubo respuesta. En fin, supongo que la veré por ahí.
 
-@646
+@651
 <en>I went back to my room, too.
 <es>Yo también volví a mi habitación.
 
 ## ¿De día?
 
-@651
+@656
 <en>{Kazushi}\n[Kazushi yawning]
 <es>{Kazushi}\n*Bostezando*
 
-@652
+@657
 <en>I woke up by the sound of birds singing.
 <es>Me desperté con el sonido de los pájaros piando.
 
-@653
+@658
 <en>{Kazushi}\n"I slept so well."
 <es>{Kazushi}\n"He dormido muy bien."
 
-@656
+@661
 <en>{Appo-}\n"Good morning......"
 <es>{Appo-}\n"Buenos días..."
 
-@657
+@662
 <en>{Kazushi}\n"Wow!?"
 <es>{Kazushi}\n"¿¡Eh!?"
 
-@658
+@663
 <en>I was so surprised that Appo- was up already.
 <es>Estaba muy sorprendido de ver que Appo- ya estaba levantado.
 
-@659
+@664
 <en>{Kazushi}\n"So early.\nDid you sleep well?"
 <es>{Kazushi}\n"Qué pronto.\n¿Has dormido bien?"
 
-@660
+@665
 <en>{Appo-}\n"I couldn't sleep at all. This happens whenever I change my pillow."
 <es>{Appo-}\n"No he podido dormir nada. Me pasa siempre al cambiar de almohada."
 
-@661
+@666
 # Hay que cambiar posiblemente todo lo de sensitive/insensitive por algo acorde con la situación.
 <en>Unlike his appearance, he's pretty sensitive.
 <es>A pesar de su apariencia, es bastante sensible.
 
-@662
+@667
 <en>He's probably the most sensitive guy around me.
 <es>Es posiblemente el más sensible del grupo.
 
-@663
+@668
 <en>{Appo-}\n"How could you sleep so well.\nI'm envious of insensitive people."
 <es>{Appo-}\n"¿Cómo has podido dormir tan bien?\nCómo envidio a la gente insensible."
 
-@666
+@671
 <en>{Appo-}\n"I think it's gonna get hot so soon without air-conditioning."
 <es>{Appo-}\n"Creo que va a hacer mucho calor dentro de nada sin aire acondicionado."
 
-@667
+@672
 <en>{Kazushi}\n"Probably."
 <es>{Kazushi}\n"Probablemente."
 
-@668
+@673
 <en>Looking at the thin roof of this dorm, he's probably right.
 <es>Teniendo en cuenta el techo tan fino que tiene el dormitorio, posiblemente tenga razón.
 
-@669
+@674
 <en>Besides, it's a super nice day outside.
 <es>Además hace un día estupendo fuera.
 
-@670
+@675
 <en>{Kazushi}\n"Hey guys, let's go eat breakfast!!"
 <es>{Kazushi}\n"Ey chicos, ¡¡vamos a desayunar!!"
 
-@673
+@678
 <en>{Appo-}\n"I don't have appetite-"
 <es>{Appo-}\n"Yo no tengo hambre..."
 
-@674
+@679
 <en>He's still so nervous. He's not hungry.
 <es>Todavía está tan nervioso que no tiene hambre.
 
-@679
+@684
 <en>{Pierre}\n"What-?\nWhere are we?"
 <es>{Pierre}\n"¿Qué...?\n¿Dónde estamos?"
 
-@680
+@685
 <en>Pierre can't figure out where we moved to.
 <es>Pierre no logra a acertar a dónde nos hemos ido.
 
-@681
+@686
 <en>By the way, his room supposed to be next room.
 <es>Por cierto, su habitación se supone que está al lado.
 
-@682
+@687
 <en>{Pierre}\n"Why am I here?"
 <es>{Pierre}\n"¿Qué hago aquí?"
 
-@683
+@688
 <en>{Kazushi}\n"That's what I'd like to know, why were you sleeping here?"
 <es>{Kazushi}\n"Eso me gustaría a mí saber, ¿qué haces durmiendo aquí?"
 
-@684
+@689
 <en>{Daigo}\n"Nnnn-......"
 <es>{Daigo}\n"Uhm..."
 
-@685
+@690
 <en>{Kazushi}\n"What?"
 <es>{Kazushi}\n"¿Qué?"
 
-@686
+@691
 <en>I think I just heard Daigo between my legs......
 <es>Me ha parecido oir a Daigo entre mis piernas...
 
-@691
+@696
 <en>{Kazushi}\n"Hey!?"
 <es>{Kazushi}\n"¿¡Eh!?"
 
-@692
+@697
 <en>He was sleeping right underneath my legs.
 <es>Estaba durmiendo justo debajo de mis piernas.
 
-@693
+@698
 <en>{Kazushi}\n"What are you doing!?\nWhy are you sleeping here?!!"
 <es>{Kazushi}\n"¿¡Qué estás haciendo!?\n¡¡¿Qué haces durmiendo ahí?!!"
 
-@694
+@699
 <en>I had to wake him up and imvestigate.
 <es>Tuve que despertarle e investigar.
 
-@695
+@700
 <en>{Daigo}\n"What is this place......where am I?"
 <es>{Daigo}\n"¿Qué es este sitio...? ¿Dónde estamos?"
 
-@696
+@701
 <en>{Kazushi}\n"What do you mean "where are we?"-!\nWhat are you doing in my bed!?"
 <es>{Kazushi}\n"¡Qué quieres decir con "¿dónde estamos?"!\n¿¡Qué haces en mi cama!?"
 
-@701
+@706
 <en>{Pierre}\n"Oh, I remember. We were so tired to go even to the next room, so we slept here."
 <es>{Pierre}\n"Ah, ya recuerdo. Estábamos tan rendidos hasta para ir a la otra habitación, que nos quedamos fritos aquí."
 
-@702
+@707
 <en>{Kazushi}\n"You guys were here the whole night?"
 <es>{Kazushi}\n"¿Habéis estado aquí toda la noche?"
 
-@703
+@708
 <en>I didn't realized that when I woke up in the middle of the night.
 <es>No me di cuenta de ese detalle cuando me desperté en mitad de la noche.
 
-@706
+@711
 <en>{Daigo}\n"4 boys were sleeping in this room?"
 <es>{Daigo}\n"¿Han dormido cuatro hombres en esta habitación?"
 
-@707
+@712
 <en>{Kazushi}\n"Wait. Say no more. That sounds so wrong."
 <es>{Kazushi}\n"Espera. No hace falta que digas nada más. Solo eso ya suena MUY mal."
 
-@710
+@715
 <en>{Daigo}\n"Does it?"
 <es>{Daigo}\n"¿Sí?"
 
-@711
+@716
 <en>I have a feeling Daigo might not be straight.
 <es>Tengo la sensación de que Daigo no lo pilla.
 
-@712
+@717
 <en>......I rather not think about it now.
 <es>Será mejor que no piense ahora sobre eso...
 
-@715
+@720
 <en>{Pierre}\n"It was so cold.\nHe must wanted to feel your body warmth."
 <es>{Pierre}\n"Hacía mucho frío.\nDebe haber querido sentir el calor humano de tu cuerpo."
 
-@716
+@721
 <en>{Kazushi}\n"Stop.\nFrom tonight on, I make sure you guys sleep on your own bed."
 <es>{Kazushi}\n"Shhh.\nA partir de esta noche, cada uno en su cama."
 
-@723
+@728
 <en>{Appo-}\n"You guys are bundh of insensitive people."
 <es>{Appo-}\n"Sois todos una panda de insensibles."
 
-@726
+@731
 <en>{Pierre}\n"Daigo,\nstop waking me up in the middle of the night asking me to go to the restroom together."
 <es>{Pierre}\n"Daigo,\ndeja de ir a por mí por la noche pidiéndome que te acompañe al servicio."
 
-@729
+@734
 <en>{Daigo}\n"I will try."
 <es>{Daigo}\n"Lo intentaré."
 
-@730
+@735
 <en>No matter where we are, this is our usual morning.
 <es>Estemos donde estemos, es la misma mañana de siempre.
 
-@731
+@736
 <en>{Kazushi}\n"I'm starving.\nLet's go eat."
 <es>{Kazushi}\n"Me estoy muriendo de hambre.\nVayamos a tomar algo."
 
-@734
+@739
 <en>{Daigo}\n"We hardly eat anything last night."
 <es>{Daigo}\n"A penas tomamos nada anoche."
 
-@735
+@740
 <en>We haven't had a decent meal since we got to this island.
 <es>No hemos comido nada en condiciones desde que llegamos a la isla.
 
-@738
+@743
 <en>{Appo-}\n"I heard last night's menu was Sushi and Steak."
 <es>{Appo-}\n"He oído que el menú de anoche fue sushi y filete."
 
-@739
+@744
 <en>{Daigo}\n"Oh yeah, remember we saw big fishes piled up in the bihind of a truck?"
 <es>{Daigo}\n"Ah sí, ¿recordáis que vimos montañas de peces apilados en la parte de atrás de aquel camión?"
 
-@742
+@747
 <en>{Pierre}\n"Don't tell me that-!"
 <es>{Pierre}\n"¡No me digas que...!"
 
-@743
+@748
 <en>{Kazushi}\n"All right!\nWe'll get back what we missed yesterday!"
 <es>{Kazushi}\n"¡Está bien!\n¡Recuperaremos lo que nos perdimos ayer!"
 
-@744
+@749
 <en>It's the start of our new school life!!
 <es>¡¡Es el inicio de nuestra nueva vida en la escuela!
 
 # Cambio de escena a la cafetería donde están todas las chicas.
 
-@752
+@757
 <en>{Kazushi}\n"Wow-! Look at this!"
 <es>{Kazushi}\n"¡Vaya! ¡Mirad eso!"
 
-@753
+@758
 <en>This is not a cafeteria. This is a restaurant.
 <es>Esto no es una cafetería, es casi un restaurante.
 
-@756
+@761
 <en>{Pierre}\n"This is what I'm talking about!!"
 <es>{Pierre}\n"¡¡Es a eso a lo que me refería!!"
 
-@761
+@766
 <en>{Appo-}\n"Hey! Check this out!"
 <es>{Appo-}\n"¡Ey, mirad esto!"
 
-@768
+@773
 <en>{Daigo}\n"What is it?"
 <es>{Daigo}\n"¿Qué pasa?"
 
-@769
+@774
 <en>{Appo-}\n"Girls are eating!!"
 <es>{Appo-}\n"¡¡Las chicas están comiendo!!"
 
-@772
+@777
 <en>{Pierre}\n"What's so dramatic about that? Ofcourse they do."
 <es>{Pierre}\n"¿Y eso que tiene de especial? Claro que lo están."
 
-@773
+@778
 <en>But we've never seen this amount of girls eating at one place.
 <es>Pero nunca habíamos visto semejante cantidad de chicas comiendo en un mismo sitio.
 
-@776
+@781
 <en>{Appo-}\n"This is so confusing. Is it sex appetite I have of food appetite I have?"
 <es>{Appo-}\n"Estoy muy confundido. ¿Tengo hambre de comida o de chicas?"
 
-@777
+@782
 <en>{Kazushi}\n"Watch out. We have to behave ourselves, you know?"
 <es>{Kazushi}\n"Cuidadito. Tenemos que comportarnos, ¿recuerdas?"
 
-@778
+@783
 <en>{Appo-}\n"But watching their mouth getting busy makes me horny......"
 <es>{Appo-}\n"Pero mirar lo ocupadas que tienen sus boquitas me pone caliente..."
 
-@779
+@784
 <en>He's touching his thing in public.
 <es>Se está tocando sus partes en público.
 
-@780
+@785
 <en>{Kazushi}\n"Just behave yourself, O.K?"
 <es>{Kazushi}\n"Limítate a comportarte, ¿vale?"
 
-@781
+@786
 <en>{Pierre}\n"I only see girls. Where are the boys besides us?"
 <es>{Pierre}\n"Solo veo chicas. ¿Dónde están los chicos que vinieron con nosotros?"
 
-@785
+@790
 <en>......we spotted them in the corner of the cafeteria.
 <es>Los localizamos en una esquina de la cafetería...
 
-@786
+@791
 <en>They seemed so uncomfortable.
 <es>Parecían muy incómodos.
 
-@789
+@794
 <en>{Appo-}\n"Come on guys. Be a man. Eat at the center of the cafeteria!!"
 <es>{Appo-}\n"Venga. Sed hombres. ¡¡Comed en el centro de la cafetería!!"
 
-@794
+@799
 <en>{Pierre}\n"Hey guys, is that Panchu-?"
 <es>{Pierre}\n"Eh chicos, ¿no es ese Panchu-?"
 
-@799
+@804
 <en>We saw a man in the middle of the cafeteria.
 <es>Vimos a un tipo en mitad de la cafetería.
 
-@800
+@805
 <en>He's by himself eating bread.
 <es>Se está comiendo sus panecillos.
 
-@801
+@806
 <en>{Daigo}\n"Some girls are checking him out."
 <es>{Daigo}\n"Hay algunas chicas con él."
 
-@802
+@807
 <en>They seem to find a way to get to know him.
 <es>Parecen estar buscando una forma de conocerle.
 
-@803
+@808
 <en>{Pierre}\n"I wouldn't get near him when he's eating like that."
 <es>{Pierre}\n"Yo no me acercaría a él estando comiendo así."
 
-@804
+@809
 <en>{Appo-}\n"He's the man-. No girl can get close to him."
 <es>{Appo-}\n"Él es 'el hombre'. No hay chica que se le pueda acercar."
 
-@805
+@810
 <en>Some girls finally commited to make a move on him.
 <es>Algunas chicas se atrevieron finalmente a acercarse a él.
 
-@806
+@811
 <en>{Pierre}\n"Are they going to "hi" him?"
 <es>{Pierre}\n"¿Van a decirle "hola"?"
 
-@807
+@812
 <en>{Kazushi}\n"Wow. Go girls."
 <es>{Kazushi}\n"Increíble. Venga chicas."
 
-@808
+@813
 # Cambiar reunión por algo más apropiado.
 <en>After a realy short meeting, one of them stepped out to talk to him.
 <es>Tras una breve reunión, una de ellas da un paso para hablarle.
 
-@809
+@814
 <en>{Girl 1}\n"Excuse me, can I eat with you?"
 <es>{Chica 1}\n"Disculpa, ¿te importa si como contigo?"
 
-@812
+@817
 <en>{Panchu-}\n"What do you want?"
 <es>{Panchu-}\n"¿Qué es lo que quieres?"
 
-@813
+@818
 <en>He gave her a mean glare. But instead of getting scared, the girls went crazy.
 <es>La mira mal. Pero en vez de asustarse, las chicas se volvieron locas.
 
-@814
+@819
 <en>{Pierre}\n"Aren't they scared?"
 <es>{Pierre}\n"¿No están asustadas?"
 
-@815
+@820
 <en>{Appo-}\n"Do they understand Japanese to begin with?"
 <es>
 
-@816
+@821
 <en>{Kazushi}\n"I think so......"
 <es>
 
-@817
+@822
 <en>{Daigo}\n"It actually took two monthes to get to know him......"
 <es>
 
-@818
+@823
 <en>The girls continue to stay aggressive getting to know Panchu-
 <es>
 
-@819
+@824
 <en>{Girl 2}\n"The bread you're eating is not from here, right? Where did you get that?"
 <es>{Chica 2}\n"El pan que te estás tomando no es de aquí, ¿verdad? ¿De dónde lo has sacado?"
 
-@822
+@827
 <en>{Panchu-}\n"This is from my house. My parents run a bakery."
 <es>{Panchu-}\n"Es de mi casa. Mis padres tienen una panadería."
 
-@823
+@828
 <en>The girls found out talking about breads makes him a lot easier to talk to
 <es>
 
-@824
+@829
 <en>{Girl 3}\n"Does that mean you're gonna run the bakery in the future?"
 <es>
 
-@825
+@830
 <en>{Panchu-}\n"......I guess."
 <es>{Panchu-}\n"Supongo..."
 
-@826
+@831
 <en>{Girl 2}\n"That's awesome!"
 <es>{Chica 2}\n"¡Eso es increíble!"
 
-@827
+@832
 <en>Whatever Panchu- says, the girls goes crazy anyways.
 <es>Diga lo que diga Panchu-, las chicas se vuelven loquitas.
 
-@828
+@833
 <en>The crowed is getting bigger, too.
 <es>
 
-@829
+@834
 <en>{Girl 1}\n"Can you actually bake?"
 <es>{Chica 1}\n"¿Y sabes hornear?"
 
-@830
+@835
 <en>{Panchu-}\n"Ofcourse."
 <es>{Panchu-}\n"Claro."
 
-@831
+@836
 <en>{Girl 2}\n"Oh my god! I love man who can cook!"
 <es>{Chica 2}\n"¡Oh Dios mío! ¡Me encantan los hombres que saben cocinar!"
 
-@832
+@837
 <en>They are getting along better and better.
 <es>
 
-@833
+@838
 <en>As long as they are talking about breads, Panchu- will stay happy.
 <es>Mientras hablen sobre pan, Panchu- estará contento.
 
-@841
+@846
 <en>{Kazushi}\n"Girls are tough.\nThey are not scared of anything."
 <es>
 
-@844
+@849
 <en>{Appo-}\n"Besides, Panchu- will never get violent with girls."
 <es>{Appo-}\n"Además, Panchu- nunca se pondrá violento con las chicas."
 
-@847
+@852
 <en>{Daigo}\n"I wanna be like him."
 <es>{Daigo}\n"Me gustaría ser como el."
 
-@848
+@853
 <en>{Pierre}\n"Good luck. He belongs to the next level as a man."
 <es>
 
-@849
+@854
 <en>This is so not fair. Of all people, we crave for girls the most.\nPanchu- doesn't even care for the girls
 <es>
 
-@850
+@855
 <en>The god didn't make us equal.
 <es>
 
-@853
+@858
 <en>{Pierre}\n"Hey guys, check that out."
 <es>
 
-@854
+@859
 <en>{Kazushi}\n"What is it?"
 <es>{Kazushi}\n"¿Qué ocurre?"
 
-@860
+@865
 <en>This time, it's Teacher Yagami. He's also surrounded by a few girls.
 <es>Esta vez es el profesor Yagami. También está rodeado de unas cuantas chicas.
 
-@861
+@866
 <en>{Appo-}\n"......there are 6 girls surrounding him."
 <es>{Appo-}\n"Tiene a 6 chicas alrededor..."
 
-@862
+@867
 <en>He's a teacher. He has much more experience than us about talking to girls.
 <es>Es un profesor. Tiene mucha más experiencia hablando con chicas que nosotros.
 
-@863
+@868
 <en>{Girl 4}\n"Do you have a girl friend?"
 <es>{Chica 4}\n"¿Y tienes novia?"
 
-@866
+@871
 <en>{Teacher Yagami}\n"I'm happily married."
 <es>{Profesor Yagami}\n"Estoy felizmente casado."
 
-@867
+@872
 <en>{Girl 5}\n"You're married-!?\nOh no!!"
 <es>{Chica 5}\n"¿¡Estás casado...!?\n¡¡No...!!"
 
-@868
+@873
 <en>{Girl 6}\n"You look still young, you must got married early."
 <es>{Chica 6}\n"Todavía pareces joven, debiste casarte muy pronto."
 
-@871
+@876
 <en>{Teacher Yagami}\n"I was 18 when I got married."
 <es>{Profesor Yagami}\n"Me casé cuando tenía 18 años."
 
-@872
+@877
 <en>{Girl 6}\n"What!?\nThat's super early!?"
 <es>{Chica 6}\n"¿¡Qué!?\n¡Eso es super pronto!"
 
-@873
+@878
 <en>{Girl 4}\n"?\nHow old was your wife?"
 <es>{Chica 4}\n"?\n¿Y cuantos años tenía tu esposa?"
 
-@874
+@879
 <en>{Teacher Yagami}\n"She was 2 years older."
 <es>{Profesor Yagami}\n"Ella tenía dos más que yo."
 
-@875
+@880
 <en>{Girls}\n"Let us guess. You made her pregnant!"
 <es>{Chicas}\n"Déjanos adivinar. ¡La dejaste embarazada!"
 
-@876
+@881
 <en>Girls love this kind of stuff.
 <es>A las chicas les encanta este tipo de cosas.
 
-@877
+@882
 <en>{Kazushi}\n"I wonder if that's the way they want to get married."
 <es>{Kazushi}\n"Me pregunto si es así como les gustaría acabar casadas."
 
-@878
+@883
 <en>{Pierre}\n"I bet they don't. They just love gossips."
 <es>{Pierre}\n"Apuesto a que no. Simplemente es que les encantan los cotilleos."
 
-@879
+@884
 <en>{Girl 5}\n"You have kids, too!......"
 <es>
 
-@882
+@887
 <en>{Teacher Yagami}\n"Do you wanna see their pictures?\nThey are so cute-"
 <es>
 
-@883
+@888
 <en>He carries that picture of his kids everywhere he goes.
 <es>Lleva esa foto de sus niños a todos sitios.
 
-@884
+@889
 <en>{Girl 6}\n"Oh my god, they are so cute!"
 <es>{Chica 6}\n"¡Mirad, son monísimos!"
 
-@885
+@890
 <en>{Girl 4}\n"You have three. Your wife is beautiful, too-"
 <es>{Chica 4}\n"Así que tenéis tres... Y tu esposa también es muy guapa."
 
-@893
+@898
 <en>{Appo-}\n"How can they have so much fun just talking about his family?"
 <es>{Appo-}\n"¿Cómo pueden estar pasándoselo tan bien simplemente con hablar de su familia?"
 
-@896
+@901
 <en>{Pierre}\n"They are going crazy over a married man. They should do that to us instead."
 <es>{Pierre}\n"Están loquitas perdidas con un hombre casado. Eso deberían hacerlo con nosotros."
 
-@899
+@904
 <en>{Daigo}\n"This world is so not fair. A loser will always lose no matter where you go."
 <es>{Daigo}\n"Este es un mundo muy injusto. Un perdedor va a perder siempre vaya a donde vaya."
 
-@900
+@905
 <en>{Kazushi}\n"Don't be so negative."
 <es>{Kazushi}\n"No seas tan negativo."
 
-@901
+@906
 <en>We were not confident group of guys. I can tell you that.
 <es>No eramos un grupo de chicos muy seguro. Eso por descontado.
 
-@902
+@907
 <en>{Kazushi}\n"Anyways, let's eat!\nGood things will happen when we eat!"
 <es>{Kazushi}\n"De todas formas, ¡vamos a comer!\n¡Ya nos pasarán cosas buenas cuando empecemos a comer!"
 
-@905
+@910
 <en>{Pierre}\n"That's right!\nWe might even get to eat with girls-!"
 <es>{Pierre}\n"¡Tienes razón!\n¡Puede que hasta podamos comer con chicas...!"
 
-@906
+@911
 <en>We tried to find seats next to pack of girls.
 <es>Tratamos de encontrar un asiento junto a la pila de chicas.
 
-@914
+@919
 # TODO: Fix pickels.
 <en>{Hu-sen}\n"Hey Rei!\nDon't steal my pickels!"
 <es>{Hu-sen}\n"¡Ey Rei!\n¡No me robes mis pickels!"
 
-@915
+@920
 <en>{Rei}\n[Eating like a pig]
 <es>{Rei}\n[Comiendo como un cerdo]
 
-@916
+@921
 <en>{Kazushi}\n".................."
 <es>{Kazushi}\n"..."
 
-@917
+@922
 <en>Two girls we met in the nurse's office yesterday.
 <es>Son las dos chicas que nos encontramos en la enfermería ayer.
 
-@918
+@923
 <en>{Daigo}\n"A pig......there is a pig......"
 <es>{Daigo}\n"Un cerdo... es un cerdo..."
 
-@919
+@924
 # Derramarlo/derramarla.
 <en>{Hu-sen}\n"Will you hand me that sauce!\nOpps, sorry, I didn't mean to spill it!"
 <es>{Hu-sen}\n"¿Me pasas esa salsa?\nUps, lo siento, ¡no quería derramarlo!"
 
-@920
+@925
 <en>We learned that there are some girls eat like a man......
 <es>Hemos descubierto que algunas chicas comen como los hombres...
 
-@921
+@926
 <en>{Appo-}\n"That's not how a girl should eat-!"
 <es>{Appo-}\n"¡Se supone que las chicas no deberían comer así!"
 
-@924
+@929
 <en>{Hu-sen}\n"Who is looking at me?!!"
 <es>{Hu-sen}\n"¡¿Quién me está mirando?!"
 
-@925
+@930
 <en>Her mouth was stuffed with all kinds of foods.
 <es>Su boca estaba repleta de todo tipo de cosas.
 
-@928
+@933
 <en>{Hu-sen}\n"What are you guys looking at now!?"
 <es>{Hu-sen}\n"¿¡Y ahora a qué estáis mirando!?"
 
-@937
+@942
 <en>{Appo-}\n"We don't want to look!\nYou! Eat like a girl!"
 <es>{Appo-}\n"¡No queríamos mirar!\n¡Y tú! ¡Come como las chicas!"
 
-@938
+@943
 <en>{Rei}\n[Rei licking dishes]
 <es>{Rei}\n*Chupando platos*
 
-@941
+@946
 <en>{Daigo}\n"She's licking dishes......"
 <es>{Daigo}\n"Está chupando los platos..."
 
-@944
+@949
 <en>{Pierre}\n"That girl is an exception.\nThere is always an exception to everything."
 <es>{Pierre}\n"Esa chica es una excepción.\nEs la excepción que confirma la regla."
 
-@948
+@953
 <en>We had hard time finding an empty table. We didn't expect breakfast to be this busy......
 <es>Nos resultó difícil encontrar una mesa vacía. No pensábamos que el desayuno estuviese así de concurrido...
 
-@949
+@954
 <en>Some of them still look like they are sleeping, too.
 <es>
 
-@956
+@961
 <en>{Pierre}\n"It's a breakfast. I guess it doesn't have to be elegant dining."
 <es>
 
-@957
+@962
 <en>The image we had of elegant breakfast in girls' school was shattered......
 <es>
 
-@958
+@963
 <en>{Ran}\n"Hey, Kazushi-!!"
 <es>{Ran}\n"Oye, ¡¡Kazushi!!"
 
-@964
+@969
 <en>Rei spotted us.
 <es>Rei nos localizó.
 
-@965
+@970
 <en>{Ran}\n"This way-!\nLet's eat together!"
 <es>{Ran}\n"¡Por aquí!\n¡Comamos juntos!"
 
-@973
+@978
 <en>{Pierre}\n"Yes!\nWe finally got a chance to get to know girls!"
 <es>{Pierre}\n"¡Sí!\n¡Al fin tenemos una oportunidad de conocer chicas!"
 
-@974
+@979
 <en>{Appo-}\n"Yes, we'll eat with you guys!\nI like to eat you guys, too-!"
 <es>{Appo-}\n"Sí, ¡comeremos con vosotras chicas!\n¡Yo también quiero comer con vosotras!"
 
-@977
+@982
 <en>{Pierre}\n"Hey, Appo- behave!\nSay sorry to my deserts-!"
 <es>
 
-@978
+@983
 <en>Ran was with her friends.
 <es>Ran estaba con sus amigas.
 
-@984
+@989
 <en>{Mizuki}\n"......good morning......"
 <es>{Mizuki}\n"Buenos días..."
 
-@985
+@990
 <en>{Kazushi}\n"Hey!"
 <es>{Kazushi}\n"¡Ey!"
 
-@986
+@991
 <en>{Mizuki}\n".................."
 <es>{Mizuki}\n"..."
 
-@987
+@992
 <en>I tried to sound as happy as I can be to see her, but she was reluctant to reply.
 <es>Traté de sonar todo lo alegre posible al verla, pero era reticente a contestarme.
 
-@988
+@993
 <en>Maybe she's having constipation.
 <es>
 
-@993
+@998
 # TODO: Cambiar cosas.
 <en>{Ran}\n"She's not a morning person."
 <es>{Ran}\n"No suele tener buen despertar."
 
-@994
+@999
 <en>{Kazushi}\n"I see."
 <es>{Kazushi}\n"Ya veo."
 
-@995
+@1000
 <en>{Mizuki}\n"Sorry......"
 <es>{Mizuki}\n"Lo siento..."
 
-@996
+@1001
 <en>{Kazushi}\n"No worrys!"
 <es>{Kazushi}\n"¡No pasa nada, no te preocupes!"
 
-@997
+@1002
 <en>{Mizuki}\n".................."
 <es>{Mizuki}\n"..."
 
-@998
+@1003
 <en>She really does look tired and irritated.
 <es>Parecía realmente cansada e irritada.
 
-@1002
+@1007
 <en>{Ran}\n"Sit, you guys.\nKazushi, you sit next to me!"
 <es>{Ran}\n"Sentaos chicos.\nKazushi, ¡siéntate junto a mí!"
 
-@1003
+@1008
 <en>{Kazushi}\n"All right......"
 <es>{Kazushi}\n"Vale..."
 
-@1004
+@1009
 # TODO: Hay que ver si aquí también se cambia.
 <en>On the other hand, Ran seems to be a morning person.\nI feel like we are friends fot a long time, even though we just met yesterday for the first time.
 <es>Ran en cambio, sí que estaba muy animada.\nTenía la sensación como si fuésemos amigos desde hace mucho tiempo pese a haberla conocido ayer.
 
-@1005
+@1010
 <en>It was a long day yesterday, though.
 <es>Aunque ayer fue un día muy largo.
 
-@1006
+@1011
 <en>{Kazushi}\n"Oh, hey."
 <es>{Kazushi}\n"Ah, oye."
 
-@1007
+@1012
 <en>I whispered to Ran.
 <es>Susurré a Ran.
 
-@1008
+@1013
 <en>{Kazushi}\n"Are you sure it's O.K for me to be here?"
 <es>{Kazushi}\n"¿Estás segura de que está bien que esté yo aquí?"
 
-@1011
+@1016
 <en>{Ran}\n"What are you talking about?"
 <es>{Ran}\n"¿A qué te refieres?"
 
-@1012
+@1017
 # TODO: Cambiar 'top secrets'.
 <en>{Kazushi}\n"Remember, I know all the top secrets about this island. The government's top secret stuff.........."
 <es>{Kazushi}\n"Recuerda que sé los secretos más profundos de la isla. Lo del gobierno y todo eso..."
 
-@1013
+@1018
 <en>I have to be careful no one's hearing this.
 <es>Tengo que tener cuidado de que nadie escuche eso.
 
-@1016
+@1021
 <en>{Ran}\n"What......?"
 <es>{Ran}\n"¿Qué...?"
 
-@1017
+@1022
 <en>She didn't know what I was talking about for a second.
 <es>Por un momento, no sabía muy bien de qué le estaba hablando.
 
-@1020
+@1025
 <en>{Ran}\n[Ran laughing hard]
 <es>{Ran}\n*Riéndo a carcajadas*
 
-@1021
+@1026
 <en>She starts laughing hard.
 <es>Empieza a reirse a carcajadas.
 
-@1022
+@1027
 <en>{Kazushi}\n"What?\nWhat's so funny?"
 <es>{Kazushi}\n"¿Qué?\n¿Qué es lo que tiene tanta gracia?"
 
 # He cambiado joke por creerse eso.
 
-@1023
+@1028
 <en>{Ran}\n"I can't believe you bought that joke!"
 <es>{Ran}\n"¡No puedo creer que te creyeses eso!"
 
-@1024
+@1029
 <en>{Kazushi}\n"What do you mean?\nWhat do you mean it's a joke?"
 <es>{Kazushi}\n"¿Qué quieres decir?\n¿A qué te refieres con "creemer eso"?"
 
-@1025
+@1030
 <en>{Ran}\n"Ofcourse it's a joke!\nYou are so funny!"
 <es>{Ran}\n"¡Pues que era una broma!\n¡Eres muy raro!"
 
-@1026
+@1031
 <en>{Kazushi}\n"It's a joke?"
 <es>{Kazushi}\n"¿Era una broma?"
 
-@1027
+@1032
 <en>{Kazushi}\n"You were kidding!?"
 <es>{Kazushi}\n"¿¡Que estabas de broma!?"
 
-@1030
+@1035
 <en>{Ran}\n"Ofcourse-. How could it be real?"
 <es>{Ran}\n"Pues claro. ¿Cómo iba a ser eso real?"
 
-@1033
+@1038
 <en>Ofcourse I once thought it was a joke.\nBut I believed her story anyways.
 <es>
 
-@1034
+@1039
 <en>But......
 <es>Pero...
 
-@1035
+@1040
 <en>{Kazushi}\n"Oh yeah! Then what was that thing chasing me to the bridge?"
 <es>{Kazushi}\n"¡Ah, claro! Entonces, ¿qué era esa cosa que nos estuvo siguiendo hasta el puente?"
 
-@1036
+@1041
 <en>That's why I had to believe her story.
 <es>Es por eso que tuve que creerme su historia.
 
-@1039
+@1044
 <en>{Ran}\n"That was just a sign board."
 <es>{Ran}\n"Era simplemente una señal."
 
-@1040
+@1045
 <en>{Kazushi}\n"How can a sign board run?!!"
 <es>{Kazushi}\n"¿Y cómo iba a poder correr una señal?!"
 
-@1041
+@1046
 <en>{Ran}\n"It just runs in this island."
 <es>{Ran}\n"En esta isla puede."
 
-@1046
+@1051
 <en>{Pierre}\n"What are you guys talking about?"
 <es>{Pierre}\n"¿De qué estáis hablando?"
 
-@1047
+@1052
 <en>He just said that so that he could sit next to Ran.
 <es>Ha sido eso por el simple hecho de poder sentarse junto a Ran.
 
-@1054
+@1059
 <en>{Appo-}\n"All right!\nI sit here!"
 <es>{Appo-}\n"¡Está bien!\n¡Yo me siento aquí!"
 
-@1057
+@1062
 <en>{Pierre}\n"Why don't we sit mixed!\nThat way we can get along faster!"
 <es>{Pierre}\n"¿Qué tal si nos sentamos mezclados?\n¡Así nos podremos conocer mas rápido!"
 
-@1060
+@1065
 <en>{Ran}\n"You boys are so energetic from morning."
 <es>{Ran}\n"Si que estáis con energía de buena mañana."
 
-@1061
+@1066
 <en>Appo- and Pierre did good job mixing girls and boys.
 <es>Appo- y Pierre hicieron un buen trabajo mezclando chicos y chicas.
 
-@1062
+@1067
 <en>{Appo-}\n"Yes, this is like a cabaret!!"
 <es>
 
-@1068
+@1073
 <en>{Mizuki}\n"You call this a cabaret......?"
 <es>{Mizuki}\n"¿Llamas a esto cabaret...?"
 
-@1073
+@1078
 <en>{Ran}\n"That means we get tips, right?"
 <es>
 
-@1077
+@1082
 <en>{Appo-}\n"Sure."
 <es>{Appo-}\n"Sí."
 
-@1084
+@1089
 <en>{Pierre}\n"They do......?"
 <es>
 
-@1091
+@1096
 <en>{Mizuki}\n"Hey Ran,\nthat's enough."
 <es>{Mizuki}\n"Ey Ran,\nya basta."
 
-@1094
+@1099
 <en>{Ran}\n"Hey, we're about to get some money."
 <es>
 
-@1098
+@1103
 <en>{Appo-}\n"I'll give you tip, too-"
 <es>
 
-@1099
+@1104
 <en>{Mizuki}\n"Why are you talking to me like I'm a baby......?"
 <es>
 
-@1106
+@1111
 <en>{Pierre}\n"This is getting fun.\nI'll give you girls tip, too-"
 <es>
 
-@1107
+@1112
 <en>This is getting more and more like a real cabaret.\nBut, it weems like it's only the boys who's having fun.
 <es>
 
-@1108
+@1113
 <en>{Kazushi}\n"Hey guys, we should behave ourselves."
 <es>{Kazushi}\n"Chicos. Tenemos que comportarnos."
 
-@1111
+@1116
 <en>{Appo-}\n"It's O.K, Kazushi, I'll pay them."
 <es>{Appo-}\n"No pasa nada, Kazushi, les pagaré."
 
-@1114
+@1119
 <en>{Mizuki}\n"I don't want any tip.\nCan you guys be more quiet in the morning?"
 <es>
 
-@1118
+@1123
 <en>{Ran}\n"Come on Mizuki, have some fun."
 <es>
 
-@1121
+@1126
 <en>{Pierre}\n"She's right.\nDon't be so naive-"
 <es>
 
-@1124
+@1129
 <en>{Mizuki}\n"Stop talking to me like I'm a baby......"
 <es>
 
-@1125
+@1130
 <en>They are showing off money, I wonder if they are drunk......
 <es>
 
-@1129
+@1134
 <en>{Daigo}\n"All right, that's enough. We should stop before they sue us."
 <es>
 
-@1130
+@1135
 <en>{Mizuki}\n"We won't sue you......"
 <es>
 
-@1134
+@1139
 <en>{Appo-}\n"You try this, Daigo. It's fun."
 <es>
 
-@1137
+@1142
 <en>{Daigo}\n"We put the bill between their breasts, right?"
 <es>
 
-@1138
+@1143
 <en>{Kazushi}\n"Hey, come on. That's enough."
 <es>{Kazushi}\n"Eh, venga. Ya está bien."
 
-@1139
+@1144
 <en>I should really stop them before it gets out of hands.
 <es>Debería pararles antes de que se nos escape de las manos.
 
-@1142
+@1147
 <en>{Appo-}\n"Fine."
 <es>{Appo-}\n"Vaale."
 
-@1143
+@1148
 <en>Appo- looked like a child who just got his toy taken away.
 <es>Appo- parecía como un niño al que le acaban de quitar un juguete.
 
-@1146
+@1151
 <en>{Appo-}\n"I'm sorry, Mizuki.\nI see you next time-"
 <es>
 
-@1149
+@1154
 <en>{Mizuki}\n"There is no next time."
 <es>{Mizuki}\n"No habrá próxima vez."
 
-@1153
+@1158
 <en>{Ran}\n"You should've taken his tip at least."
 <es>
 
-@1156
+@1161
 <en>{Mizuki}\n"I can't take someone's money for no reason."
 <es>{Mizuki}\n"Yo no puedo coger el dinero de alguien sin haber algún motivo."
 
-@1160
+@1165
 <en>{Pierre}\n"I give you a good reason."
 <es>{Pierre}\n"Yo te daré un buen motivo."
 
-@1161
+@1166
 <en>Pierre got everyone's attention.
 <es>Pierre consiguió la atención de todos.
 
-@1164
+@1169
 <en>{Pierre}\n"Your beauty worth getting that tip."
 <es>
 
-@1165
+@1170
 <en>He missed up "the winning shot" wink by closing both eyes.
 <es>
 
-@1168
+@1173
 <en>{Mizuki}\n".................."
 <es>{Mizuki}\n"..."
 
-@1171
+@1176
 <en>{Ran}\n"So you're saying her beauty only worth 10 bucks?"
 <es>{Ran}\n"¿Estás diciendo que su belleza solo vale 1000 yenes?"
 
-@1174
+@1179
 <en>{Pierre}\n"No, that's not my point.\nHer beauty is price less!"
 <es>{Pierre}\n"No, no me refería a eso.\n¡Su belleza no tiene precio!"
 
-@1175
+@1180
 <en>{Mizuki}\n"You guys are all so noisy......"
 <es>
 
-@1176
+@1181
 <en>She really is a low blood pressure person.
 <es>
 
-@1182
+@1187
 <en>{Haruka}\n"You guys sound having good time-\ncan I join?"
 <es>{Haruka}\n"Parece que os lo estáis pasando bien\n¿puedo unirme a vosotros?"
 
-@1183
+@1188
 <en>Haruka showed up and joined us. She's smiling.
 <es>Haruka apareció y se unió a nosotros. Está sonriendo.
 
-@1184
+@1189
 <en>Haruka seems to be a morning person.
 <es>Haruka parece tener un buen despertar.
 
-@1189
+@1194
 <en>{Ran}\n"Ofcourse, sit anywhere you like."
 <es>{Ran}\n"Claro, siéntate donde quieras."
 
-@1190
+@1195
 <en>{Haruka}\n"Thanks......"
 <es>{Haruka}\n"Gracias..."
 
-@1191
+@1196
 <en>She walked straight toward my seat.
 <es>Andó directa hasta mi sitio.
 
-@1195
+@1200
 <en>{Haruka}\n"Can I sit next to you?"
 <es>{Haruka}\n"¿Puedo sentarme a tu lado?"
 
-@1196
+@1201
 <en>{Kazushi}\n"me?\nSure."
 <es>{Kazushi}\n"¿A mi lado?\nClaro."
 
-@1197
+@1202
 <en>{Haruka}\n"Thanks."
 <es>{Haruka}\n"Gracias."
 
-@1198
+@1203
 <en>Ran on my right. Haruka on my left. I'm getting nervous.
 <es>Ran a la derecha, Haruka a la izquierda. Estoy empezando a ponerme nervioso.
 
-@1199
+@1204
 <en>I told myself I'm no longer a junior high school kid. Be a man. Stay patient.
 <es>
 
-@1202
+@1207
 <en>{Haruka}\n"I'm so happy to see you-"
 <es>{Haruka}\n"Me alegro mucho de verte."
 
-@1203
+@1208
 <en>{Kazushi}\n"Don't worry, we won't try escaping again."
 <es>{Kazushi}\n"No te preocupes, no volveremos a tratar de escapar."
 
-@1206
+@1211
 <en>{Haruka}\n"Remember, if you have any questions, come see me, O.K?"
 <es>{Haruka}\n"Recuerda, si tenéis cualqueir duda, venid a verme, ¿vale?"
 
-@1207
+@1212
 <en>{Kazushi}\n"I know. You have to promise me you won't do crazy stuff like last night, O.K?"
 <es>{Kazushi}\n"Ya, ya. Pero tienes que prometerme que no volverás a hacer ninguna locura como la de anoche, ¿vale?"
 
-@1208
+@1213
 <en>I remember her getting soaking wet searching around to find us. I also remember her wet body.
 <es>Recuerdo que acabó empapada por buscarnos. También puedo recordar su cuerpo mojado.
 
-@1209
+@1214
 <en>That piece of memory made me stare at her breasts area.
 <es>Ese recuerdo me hizo quedarme mirando a sus pechos.
 
-@1212
+@1217
 <en>{Haruka}\n"!?......"
 <es>{Haruka}\n"¿¡...!?"
 
-@1213
+@1218
 <en>Haruka covers her front with her jacket noticing me staring at her breasts area.
 <es>
 
-@1214
+@1219
 <en>{Kazushi}\n"Sorry......"
 <es>{Kazushi}\n"Lo siento..."
 
-@1217
+@1222
 <en>{Haruka}\n"It's O.K I'm just embarrassed."
 <es>{Haruka}\n"No te preocupes. Es que me da vergüenza."
 
-@1218
+@1223
 <en>I should stay away from her private life.
 <es>Debería alejarme de su vida privada.
 
-@1223
+@1228
 <en>{Ran}\n"Why is she embarrassed?\nKazushi, did you peep her or something?"
 <es>{Ran}\n"¿Vergüenza por qué?\nKazushi, ¿es que la has espiado o algo?"
 
-@1230
+@1235
 <en>{Mizuki}\n"Peep? Who's peeping?"
 <es>{Mizuki}\n"¿Espiar? ¿Quién?"
 
-@1231
+@1236
 <en>Mizuki was so sensitive about that word for some reason.
 <es>Mizuki estaba muy sensible a esa palabra por algún motivo.
 
-@1239
+@1244
 <en>{Pierre}\n"Hey Kazushi,\nI'm telling you to behave yourself everyday."
 <es>
 
-@1240
+@1245
 <en>{Kazushi}\n"I'm not peeping anybody."
 <es>{Kazushi}\n"Eh, que yo no espío a nadie."
 
-@1241
+@1246
 <en>{Appo-}\n"Sometimes you're too honest to your desires."
 <es>{Appo-}\n"En ocasiones eres demasiado honesto para tus deseos."
 
-@1244
+@1249
 <en>{Appo-}\n(Why are you getting all the attention from the girls?)
 <es>
 
-@1245
+@1250
 <en>{Kazushi}\n"It's not funny."
 <es>{Kazushi}\n"No tiene gracia."
 
-@1250
+@1255
 <en>{Mizuki}\n".................."
 <es>{Mizuki}\n"..."
 
-@1251
+@1256
 <en>Mizuki is watching me suspiciously.
 <es>Mizuki me está mirando sospechosamente.
 
-@1257
+@1262
 <en>{Sakura}\n"You guys haven't start eating yet-?"
 <es>{Sakura}\n"¿No habéis empezado a comer todavía?"
 
-@1258
+@1263
 <en>Sakura and Rin showed up.
 <es>Sakura y Rin aparecieron.
 
-@1259
+@1264
 <en>Those two looked disappointed to look at our table for some reason.
 <es>Ambas parecían decepcionadas al mirar a nuestra mesa por algún motivo.
 
-@1262
+@1267
 <en>{Rin}\n"It was our group to serve breakfast this morning.\nBoys didn't like our cooking?"
 <es>{Rin}\n"Le tocaba a nuestro grupo servir el desayuno esta mañana.\n¿No os gusta nuestra cocina?"
 
-@1263
+@1268
 <en>{Kazushi}\n"Students take turns to cook?"
 <es>{Kazushi}\n"¿Las estudiantes se turnan para cocinar?"
 
-@1264
+@1269
 <en>{Sakura}\n"Only for breakfasts."
 <es>{Sakura}\n"Solo en los desayunos."
 
-@1265
+@1270
 <en>{Rin}\n"Can you eat and tell us how it is?"
 <es>{Rin}\n"¿Podéis comer y decirnos qué tal está?"
 
-@1268
+@1273
 <en>{Sakura}\n"Rin is so into cooking. Try her cooking, you'll love it."
 <es>{Sakura}\n"Rin es muy buena cocinando. Probad lo suyo, os encantará."
 
-@1275
+@1280
 <en>{Mizuki}\n"I love Rin's cooking. I wish it's your turn every morning."
 <es>{Mizuki}\n"A mí me encanta la comida de Rin. Ojalá fuese su turno todos los días."
 
-@1276
+@1281
 <en>{Rin}\n"I don't mind, but you will get boad."
 <es>{Rin}\n"No me importaría, pero os acabaríais aburriendo."
 
-@1280
+@1285
 <en>{Haruka}\n"No way we get sick of your cooking!\nI love your cooking, too."
 <es>{Haruka}\n"¡Es imposible cansarse de tu cocina!\nA mí también me encanta."
 
-@1283
+@1288
 <en>{Rin}\n"You guys are flattering me."
 <es>
 
-@1284
+@1289
 <en>It sounds like it's true.
 <es>
 
-@1294
+@1299
 <en>{Appo-}\n"I got hungry hearing about it."
 <es>{Appo-}\n"Me ha entrado mucha hambre al oír todo eso."
 
-@1295
+@1300
 <en>{Kazushi}\n"All right, let's eat!"
 <es>{Kazushi}\n"Está bien, ¡comamos!"
 
-@1296
+@1301
 <en>{Daigo}\n"Let's see......"
 <es>{Daigo}\n"Veamos..."
 
-@1301
+@1306
 <en>It's fresh sea food bowl this morning.
 <es>Esta mañana había un bol de marisco fresco.
 
-@1302
+@1307
 <en>What a gorgeous breakfast.
 <es>Qué desayuno más exquisito.
 
-@1303
+@1308
 <en>{Kazushi}\n[Kazushi eating]
 <es>{Kazushi}\n*Comiendo*
 
-@1304
+@1309
 <en>{Pierre}\n"......wow!\nThis is great!!"
 <es>{Pierre}\n"¡Increíble...!\n¡¡Está genial!!"
 
-@1305
+@1310
 <en>{Appo-}\n"Did you actually make this, Rin?"
 <es>{Appo-}\n"¿Has ehcho tú esto, Rin?"
 
-@1306
+@1311
 <en>{Rin}\n"Why are you calling me so familiar already?"
 <es>
 
-@1307
+@1312
 <en>{Pierre}\n"Because we don't know your last name."
 <es>{Pierre}\n"Porque no sabemos tu apellido."
 
-@1308
+@1313
 <en>{Sakura}\n"I see.\nI'm Takase.\nHer last name is Fujisaki."
 <es>{Sakura}\n"Ya veo.\nYo me apellido Takase.\nEl de Rin es Fujisaki."
 
-@1309
+@1314
 <en>{Sakura}\n"To answer your question, Mr.Appo-, yes Rin did make all this."
 <es>{Sakura}\n"Y respondiendo a su pregunta, señor Appo-, sí Rin hizo todo esto."
 
-@1310
+@1315
 <en>{Daigo}\n"You are genius......"
 <es>{Daigo}\n"Eres formidable..."
 
-@1311
+@1316
 <en>Daigo is so impresed.
 <es>Daigo está gratamente sorprendido.
 
-@1312
+@1317
 <en>{Kazushi}\n"You really might be genius at this."
 <es>
 
-@1313
+@1318
 <en>{Rin}\n"Stop, you guys......"
 <es>{Rin}\n"Parad chicos..."
 
-@1314
+@1319
 <en>{Pierre}\n"No really. You can sell this."
 <es>
 
-@1315
+@1320
 <en>{Rin}\n"Seriously-? The cost for this is 50 cents a bowl."
 <es>{Rin}\n"¿En serio? El coste de esto son unos 50 yenes el bol."
 
-@1316
+@1321
 <en>{Ran}\n"Seriously?\nHow did you come up with such a number. That is unbelievable."
 <es>
 
-@1317
+@1322
 <en>{Pierre}\n"You would make a good house wife."
 <es>{Pierre}\n"Serías una gran ama de casa."
 
-@1318
+@1323
 <en>{Rin}\n"......don't flatter me......"
 <es>{Rin}\n"No me halagueis..."
 
-@1319
+@1324
 <en>{Sakura}\n"Rin, it's your dream to be a good house wife, right-?"
 <es>
 
-@1320
+@1325
 <en>{Kazushi}\n"Very traditional girl."
 <es>{Kazushi}\n"Una chica muy tradicional."
 
-@1321
+@1326
 <en>{Rin}\n"Thanks guys."
 <es>{Rin}\n"Gracias."
 
-@1322
+@1327
 <en>She couldn't take any more compliment.
 <es>
 
-@1323
+@1328
 <en>{Appo-}\n"Rin......\nI'll keep my eyes on her from now on."
 <es>
 
-@1324
+@1329
 <en>Her impression went up so high after this breakfast.
 <es>
 
-@1328
+@1333
 <en>{Rin}\n"By the way, what can you boys make for us?"
 <es>
 
-@1334
+@1339
 <en>{Appo-}\n"You talking about us?"
 <es>
 
-@1335
+@1340
 <en>{Pierre}\n"Do we have to cook, too?"
 <es>{Pierre}\n"¿También tenemos que cocinar?"
 
-@1339
+@1344
 <en>{Sakura}\n"Yep. Every home room take turns."
 <es>{Sakura}\n"Sip. Todas las habitaciones hacen turnos."
 
-@1340
+@1345
 <en>{Kazushi}\n"......what can we make?"
 <es>
 
-@1344
+@1349
 <en>{Pierre}\n"I've never cooked in my entire life."
 <es>{Pierre}\n"Yo no he cocinado en toda mi vida."
 
-@1347
+@1352
 <en>{Appo-}\n"I've made some instant noodles before......"
 <es>{Appo-}\n"Yo he ehcho algunos fideos instantáneos alguna vez..."
 
-@1348
+@1353
 <en>{Kazushi}\n"Me, too."
 <es>{Kazushi}\n"Y yo."
 
-@1349
+@1354
 <en>That the only thing we can make.
 <es>Eso es lo único que sabemos hacer.
 
-@1353
+@1358
 <en>{Sakura}\n"It will be interesting."
 <es>{Sakura}\n"Será interesante."
 
-@1357
+@1362
 <en>{Mizuki}\n"We shouldn't expect much from you guys."
 <es>
 
-@1361
+@1366
 # Hay que ver la palabra correcta para 'stomatch medicine'.
 <en>{Ran}\n"That will be my good chance to make some money by selling stomatch medicine!"
 <es>{Ran}\n"¡Eso me dará una buena oportunidad de vender medicamentos para el estómago!"
 
-@1362
+@1367
 <en>{Kazushi}\n"I think you just challenged us."
 <es>{Kazushi}\n"Supongo que nos acabáis de retar."
 
-@1363
+@1368
 <en>Now I feel like cooking. I think they are underestimating our talent.
 <es>Ahora tengo ganas de cocinar. Creo que están infravalorando nuestro talento.
 
-@1368
+@1373
 <en>{Daigo}\n"We'll be fine.\nI can cook little bit."
 <es>{Daigo}\n"No pasará nada.\nYo puedo cocinar algo."
 
-@1369
+@1374
 <en>{Kazushi}\n"Oh yeah, we have you, Daigo!"
 <es>{Kazushi}\n"Es cierto, ¡te tenemos a ti, Daigo!"
 
-@1370
+@1375
 <en>He's good at cooking curry.
 <es>Se le da bien hacer curry.
 
-@1375
+@1380
 <en>{Appo-}\n"I just try not to be on your way, Daigo."
 <es>
 
-@1376
+@1381
 <en>{Kazushi}\n"You do that......"
 <es>
 
-@1377
+@1382
 <en>I'm glad we figured out something.
 <es>
 
-@1383
+@1388
 <en>After the breakfast, we went back to our room. We're now heading to our class room with the girls.
 <es>Tras el desayuno volvimos a nuestra habitación. Y ahora nos dirigimos a la clase con las chicas.
 
-@1384
+@1389
 <en>Just walking with the girls makes us feel special.
 <es>El mero hecho de andar con las chicas nos hace sentirnos especiales.
 
-@1385
+@1390
 <en>We are still in mixed mind of anxiety and hope.
 <es>Todavía estamos con una mezcla entre ansiedad y esperanza.
 
-@1386
+@1391
 <en>It seems like the girls are feeling funny to have boys in their school as well.
 <es>Parece que a las chicas también les resulta extraño tener a chicos en la escuela.
 
-@1389
+@1394
 <en>{Appo-}\n(Hey, talk to them. Break the ice.)
 <es>{Appo-}\n(Ey, habla con ellas. Rompe el hielo.)
 
-@1390
+@1395
 <en>Appo- whispers to me.
 <es>Me susurra Appo-.
 
-@1391
+@1396
 <en>{Kazushi}\n(I know, but I don't know what to talk about.)
 <es>{Kazushi}\n(Ya, ya. Pero es que no sé qué decir.)
 
-@1396
+@1401
 <en>{Pierre}\n(Anything! Don't we have any questions since we are new?)
 <es>{Pierre}\n(¡Lo uqe sea! ¿Acaso no tenemos preguntas siendo nuevos?)
 
-@1397
+@1402
 <en>Good idea.\nLet's see. A question......
 <es>Gran idea.\nVeamos. Alguna pregunta...
 
-@1398
+@1403
 <en>{Kazushi}\n"Hey girls, why do we see weeds growing out from walls and hall ways?"
 <es>
 
-@1401
+@1406
 <en>We do actually see weeds everywhere in the building.
 <es>
 
-@1404
+@1409
 <en>{Pierre}\n"I was thinking the same thing. It's clean everywhere."
 <es>
 
-@1405
+@1410
 <en>I wonder why they don't terminate them.
 <es>
 
-@1409
+@1414
 <en>{Haruka}\n"I heard they decided to build a school here, because they thought when they saw the weeds, the power is coming out from this point."
 <es>{Haruka}\n"Yo escuché que decidieron hacer la escuela aquí porque vieron los hierbajos, el poder proviene de aquí."
 
-@1410
+@1415
 <en>{Kazushi}\n"???"
 <es>{Kazushi}\n"¿¿??"
 
-@1411
+@1416
 <en>What is she talking about?
 <es>¿De qué está hablando?
 
-@1416
+@1421
 <en>{Daigo}\n"What power?"
 <es>{Daigo}\n"¿Qué poder?"
 
-@1417
+@1422
 <en>{Haruka}\n"They thought this island has the power of alchemy."
 <es>{Haruka}\n"Pensaron que esta isla tiene el poder de la alquimia."
 
-@1418
+@1423
 <en>{Kazushi}\n"???"
 <es>{Kazushi}\n"¿¿¿???"
 
-@1419
+@1424
 <en>I still don't understand.
 <es>Sigo sin entender.
 
-@1423
+@1428
 <en>{Appo-}\n"What's alchemy?"
 <es>{Appo-}\n"¿Qué alquimia?"
 
-@1424
+@1429
 <en>{Daigo}\n"Is that the power to change metal into gold?"
 <es>{Daigo}\n"¿Ese no era el poder de convertir metal en oro?"
 
-@1425
+@1430
 <en>{Kazushi}\n"You guys got to be kidding?"
 <es>{Kazushi}\n"Estáis de guasa, ¿no?"
 
-@1429
+@1434
 <en>{Haruka}\n"Our school is the alchemy school."
 <es>{Haruka}\n"Nuestra escuela es la escuela de la alquimia."
 
-@1433
+@1438
 <en>{Ran}\n"You didn't know?"
 <es>{Ran}\n"¿No lo sabíais?"
 
-@1434
+@1439
 <en>{Kazushi}\n"We didn't."
 <es>{Kazushi}\n"Pues no."
 
-@1438
+@1443
 <en>{Appo-}\n"What's alchemy? Is it erotic?"
 <es>{Appo-}\n"¿Qué es la alquimia? ¿Es algo erótico?"
 
-@1442
+@1447
 <en>{Mizuki}\n"Oh my god, you guys really didn't know.\nDidn't anyone tell you before you enrolled?"
 <es>{Mizuki}\n"Dios mío, ¿de verdad que no lo sabéis?.\n¿No os lo dijo nadie antes de que os matriculáseis?"
 
-@1443
+@1448
 <en>{Kazushi}\n"There might have been an orientation."
 <es>{Kazushi}\n"Puede que hubiese alguna orientación."
 
-@1444
+@1449
 <en>Our mind was just so occupied about going to girls' school.
 <es>Estábamos demasiado ocupados pensando en que iríamos a la escuela para chicas.
 
-@1445
+@1450
 <en>We didn't care as long as it was a girls' school.
 <es>No nos importaba nada más con tal de que fuese la escuela para chicas.
 
-@1450
+@1455
 <en>{Haruka}\n"You guys will have tough time going through exams."
 <es>
 
-@1456
+@1461
 <en>{Daigo}\n"You think we can do it?"
 <es>
 
-@1457
+@1462
 <en>{Pierre}\n"Is it some kind of magic?"
 <es>{Pierre}\n"¿Es algún tipo de magia?"
 
-@1462
+@1467
 <en>{Haruka}\n"No worrys.\nI'm sure you guys will love the class."
 <es>
 
-@1463
+@1468
 <en>It's hard to believe that.
 <es>Resulta difícil de creer.
 
-@1469
+@1474
 <en>{Kazushi}\n"How lucky can we be?!!"
 <es>{Kazushi}\n"¡¡¿Cómo podemos tener tanta suerte?!!"
 
-@1470
+@1475
 <en>Us 4 boys happened to be in the same class.
 <es>Resulta que nosotros cuatro estamos en la misma clase.
 
-@1473
+@1478
 <en>{Pierre}\n"I know."
 <es>{Pierre}\n"Lo sé."
 
 # TODO: ¿Los secretos? ¿El secreto?
 
-@1478
+@1483
 <en>{Appo-}\n"We are destine to stay together! I know Kazushi's secret."
 <es>{Appo-}\n"¡Estamos destinados a permanecer juntos! Sé los secretos de Kazushi."
 
-@1479
+@1484
 <en>{Kazushi}\n"I know yours, too."
 <es>{Kazushi}\n"Y yo también sé los tuyos."
 
-@1482
+@1487
 <en>{Pierre}\n"We all know each other's secrets."
 <es>{Pierre}\n"Todos conocemos nuestros secretos."
 
-@1489
+@1494
 <en>{Daigo}\n"I'm so glad we are in the same class. Otherwise, I would have to be quiet all day."
 <es>
 
-@1490
+@1495
 <en>{Kazushi}\n"I know. You are super shy guy."
 <es>{Kazushi}\n"Ya imagino. Eres un chico super vergonzoso."
 
-@1496
+@1501
 <en>{Ran}\n"You think this is destiny, too?"
 <es>
 
-@1501
+@1506
 <en>{Mizuki}\n"Oh my god, me, too."
 <es>
 
-@1502
+@1507
 <en>Ran and Mizuki are with us......and
 <es>Ran y Mizuki están con nosotros, y...
 
-@1509
+@1514
 <en>{Haruka}\n"Wow. This must be destiny."
 <es>{Haruka}\n"Vaya. Debe ser cosa del destino."
 
-@1510
+@1515
 <en>Haruka is with us, too.
 <es>Haruka también.
 
-@1513
+@1518
 <en>{Haruka}\n"We all have a good time this semester!"
 <es>{Haruka}\n"¡Nos lo pasaremos en grande este semestre!"
 
-@1516
+@1521
 <en>{Ran}\n"Wait a minute. I thought you are in class room next to us."
 <es>{Ran}\n"Espera un momento. Yo creía que estabas en la clase de al lado."
 
-@1517
+@1522
 <en>{Kazushi}\n"You are not with us?"
 <es>{Kazushi}\n"¿No estás con nosotros?"
 
-@1521
+@1526
 <en>{Pierre}\n"Haruka, I thought you are with us?"
 <es>
 
-@1524
+@1529
 <en>{Haruka}\n"Really?\nI thought I belonged to the same class room as you guys."
 <es>
 
-@1534
+@1539
 <en>{Rin}\n"That's funny......"
 <es>{Rin}\n"Qué raro..."
 
-@1535
+@1540
 <en>{Sakura}\n"Hey, Haruka.\nWhat are you doing here-?"
 <es>{Sakura}\n"Ey, Haruka.\n¿Qué haces aquí?"
 
-@1536
+@1541
 <en>Sakura and Rin didn't know Haruka was in our class.
 <es>Sakura y Rin no sabían que Haruka estaba en nuestra clase.
 
-@1540
+@1545
 <en>{Haruka}\n"Hey Sakura!\nI was in this class right?"
 <es>{Haruka}\n"¡Ey Sakura!\nYo estaba en esta clase, ¿verdad?"
 
-@1543
+@1548
 <en>{Sakura}\n"You? Umm......"
 <es>{Sakura}\n"¿Tú? Eh..."
 
-@1546
+@1551
 <en>{Haruka}\n(Haruka staring at Sakura)
 <es>{Haruka}\n*Haruka mirando a Sakura*
 
-@1551
+@1556
 <en>{Sakura}\n"!?\nAre you sending me a message?"
 <es>{Sakura}\n"¿¡!?\n¿Me estás tratando de mandar algún mensaje?"
 
-@1552
+@1557
 <en>She seems to be.
 <es>La verdad es que parece eso.
 
-@1553
+@1558
 <en>{Haruka}\n(Haruka sending signal to Sakura)
 <es>
 
-@1556
+@1561
 <en>{Sakura}\n"Umm......I believe so."
 <es>{Sakura}\n"Mmm... Eso creo."
 
-@1560
+@1565
 <en>{Pierre}\n"Message was delivered."
 <es>{Pierre}\n"Mensaje enviado satisfactoriamente."
 
-@1563
+@1568
 <en>{Haruka}\n"See, Sakura knew I was in this class."
 <es>{Haruka}\n"Veis, Sakura ya sabía que estaba en esta clase."
 
-@1567
+@1572
 <en>{Rin}\n"What's going on?"
 <es>{Rin}\n"¿Qué está pasando?"
 
-@1571
+@1576
 <en>{Ran}\n"Sometimes, it's hard to understand what Haruka wants."
 <es>{Ran}\n"A veces resulta difícil de saber qué es lo que quiere Haruka."
 
-@1578
+@1583
 <en>{Mei}\n"Good morning everyone, please be seated-"
 <es>{Mei}\n"Buenos días a todos, por favor, sentaos."
 
-@1581
+@1586
 <en>The entire class got quiet all that sudden by showing up of a beautiful teacher.
 <es>
 
-@1585
+@1590
 <en>{Pierre}\n"Mei's our teacher! yes!\nWe are so lucky!"
 <es>{Pierre}\n"¡Mei es nuestra profesora! ¡toma ya!\n¡Menuda suerte!"
 
-@1590
+@1595
 <en>{Appo-}\n"Miss Mei, what is your opinion regarding declining birth rate!?\nI think girls should be pregnated more often!"
 <es>
 
-@1597
+@1602
 <en>{Daigo}\n"What is he talking about?"
 <es>{Daigo}\n"¿De qué está hablando?"
 
-@1600
+@1605
 <en>{Pierre}\n"His way of appealing love."
 <es>
 
-@1601
+@1606
 <en>{Kazushi}\n"He's hitting on his teacher!?"
 <es>
 
-@1602
+@1607
 <en>The girls are looking at him disgustingly.
 <es>
 
-@1610
+@1615
 <en>{Rei}\n"What is he doing?"
 <es>{Rei}\n"¿Qué está haciendo?"
 
-@1611
+@1616
 <en>{Hu-sen}\n"That's why I can't stand losers."
 <es>
 
-@1618
+@1623
 <en>{Appo-}\n"You guys are no better than me-!"
 <es>
 
-@1621
+@1626
 <en>{Hu-sen}\n"You are making me sick.\nWhat is that thing on your head!?"
 <es>{Hu-sen}\n"Me pones enferma.\n¿¡Qué es esa cosa que tienes en la cabeza!?"
 
-@1622
+@1627
 <en>{Appo-}\n"It's not "thing"!\nIt's a hair style!!"
 <es>{Appo-}\n"¡No es una "cosa"!\n¡¡Es un estilo de pelo!!"
 
-@1625
+@1630
 <en>{Rei}\n"Your hair looks like an apple."
 <es>{Rei}\n"Tu pelo parece como una manzana."
 
-@1626
+@1631
 <en>{Appo-}\n"Shut up!"
 <es>{Appo-}\n"¡A callar!"
 
-@1629
+@1634
 # Coña de la manzana de Blancanieves.
 <en>{Hu-sen}\n"By the way, people call me "Snow White". No wonder we don't get along."
 <es>{Hu-sen}\n"Por  cierto, la gene me llama "Blancanieves". No me extraña que no nos llevemos bien."
 
-@1630
+@1636
 <en>{Appo-}\n"Listen to yourself!"
 <es>
 
-@1637
+@1643
 <en>{Pierre}\n"Calm down, you two."
 <es>{Pierre}\n"Tranquilizaos."
 
-@1638
+@1644
 <en>{Daigo}\n"Trust me. You don't wanna upset Appo-."
 <es>{Daigo}\n"Creéme. No querríais enfadar a Appo-."
 
-@1641
+@1647
 <en>{Pierre}\n"Hey, Appo-. Just leave the sad lonely girl alone, O.K?"
 <es>
 
-@1645
+@1651
 <en>{Hu-sen}\n"Who are you talking about?!"
 <es>
 
-@1646
+@1652
 <en>{Kazushi}\n"Hey, that's mean.\nYou shouldn't say such a thing even though you think she is."
 <es>
 
-@1647
+@1653
 <en>{Hu-sen}\n"I'm not lonely!"
 <es>
 
-@1651
+@1657
 <en>{Haruka}\n"Come on you two. This is our first day at school."
 <es>{Haruka}\n"Venga, por favor, que hoy es nuestro primer día de clase."
 
-@1652
+@1658
 <en>Everybody stared at Haruka as she trys to stop the fight.
 <es>Todos miraban a Haruka mientras trataba de parar la pelea.
 
-@1655
+@1661
 <en>{Haruka}\n"What's wrong everybody?"
 <es>{Haruka}\n"¿Qué pasa con todo el mundo?"
 
-@1662
+@1668
 <en>{Mei}\nBy the way, why are you here Haruka? You belong to the next room."
 <es>{Mei}\nPor cierto, ¿qué haces aquí, Haruka? Tu estás en la otra clase."
 
-@1665
+@1671
 <en>{Haruka}\n"......oh yeah!\nI transferred from the next room!"
 <es>{Haruka}\n"¡Ah, sí...!\n¡Me han cambiado a esta!"
 
-@1672
+@1678
 <en>{Mizuki}\n"Is there such thing as transfering class?"
 <es>
 
-@1673
+@1679
 <en>{Ran}\n"Ofcourse not.\nHaruka, what are you doing?"
 <es>{Ran}\n"Claro que no.\nHaruka, ¿qué estás haciendo?"
 
-@1678
+@1684
 <en>{Haruka}\n"Um-?"
 <es>{Haruka}\n"¿Eh?"
 
-@1685
+@1692
 <en>{Appo-}\n"Who cares.\nEveryclass needs a heroin."
 <es>{Appo-}\n"Qué mas da.\nTodas las clases necesitan una heroina."
 
-@1686
+@1693
 <en>{Pierre}\n"He's right-\nlet her into our class-"
 <es>{Pierre}\n"Tiene razón,\ndejad que se quede en nuestra clase."
 
-@1689
+@1696
 <en>{Haruka}\n"Will you?\nThanks I'd love to take that offer!"
 <es>
 
-@1693
+@1700
 <en>{Mizuki}\n"Is it supposed to be this easy?"
 <es>{Mizuki}\n"¿Se supone que es así de fácil?"
 
-@1700
+@1707
 <en>{Mei}\n"Ofcourse not. You need to go back to your own room."
 <es>{Mei}\n"Claro que no. Tienes que volver a tu clase."
 
-@1703
+@1710
 <en>Haruka didn't back off easily.
 <es>
 
-@1709
+@1716
 <en>{Haruka}\n"......you know who my grand ma is, right?"
 <es>{Haruka}\n"Recuerdas quién es mi abuela, ¿no?"
 
-@1710
+@1717
 <en>{Mei}\n"So what?"
 <es>{Mei}\n"¿Y qué?"
 
-@1713
+@1720
 <en>It didn't work.
 <es>No ha funcionado.
 
-@1714
+@1721
 <en>{Haruka}\n"......all right......"
 <es>{Haruka}\n"Está bien..."
 
-@1716
+@1723
 <en>She went back to where she belong to reluctantly.
 <es>
 
-@1720
+@1727
 <en>{Pierre}\n"What made her wanna stay so bad?"
 <es>{Pierre}\n"¿Por qué quería tanto quedarse?"
 
-@1725
+@1732
 <en>{Ran}\n"I don't know-"
 <es>{Ran}\n"No sé."
 
-@1730
+@1738
 <en>{Mei}\n"Sorry for the little accident. That was Haruka. She is grand daughter of our principal. She's actually a nice girl. Everyone please be friendly to her."
 <es>
 
-@1731
+@1740
 <en>{Everybody}\n"Yes!"
 <es>{Todos}\n"¡Sí!"
 
-@1734
+@1743
 <en>{Mei}\n"Let's start our class."
 <es>{Mei}\n"Empecemos la clase."
 
-@1735
+@1744
 <en>Mei put the incident back really fast and started the class.
 <es>Mei dejó estar el incidente rápidamente y empezó la clase.
 
-@1736
+@1745
 <en>{Mei}\n"Right now, you are seated alphabeticaly, but we'll change that later."
 <es>{Mei}\n"Ahora mismo estáis sentados por orden alfabético, pero ya cambiaremos mas tarde."
 
-@1740
+@1749
 <en>{Appo-}\n"Yes!\nMay I sit in the front row where I can see you better?!"
 <es>{Appo-}\n"¡Sí!\n¡¿Puedo sentarme en primera fila para verte mejor?!"
 
-@1745
+@1754
 <en>{Pierre}\n"Me, too!"
 <es>{Pierre}\n"¡Yo también!"
 
-@1750
+@1759
 <en>{Mei}\n"Not today. Give me some time."
 <es>{Mei}\n"Hoy no. Dadme algo de tiempo."
 
-@1756
+@1765
 # TODO: Refactorizar.
 <en>{Appo-}\n"If you tell me "give me some time" then, ofcourse I will."
 <es>{Appo-}\n"Si me pides "algo de tiempo", puedes dar por sentado que te lo daré."
 
-@1757
+@1766
 <en>{Pierre}\n"I wanna be scold at for coming too soon-"
 <es>
 
-@1762
+@1771
 <en>{Mei}\n"What are you talking about?"
 <es>{Mei}\n"¿De qué estáis hablando?"
 
-@1763
+@1772
 <en>The girls are looking at them disgustingly again.
 <es>Las chicas vuelven a mirarlos con asco.
 
-@1766
+@1775
 <en>{Kazushi}\n"......this would be my seat."
 <es>
 
-@1767
+@1776
 <en>Right in the middle of the class room.
 <es>En mitad de la clase.
 
-@1770
+@1779
 <en>{Mizuki}\n"Hey......"
 <es>{Mizuki}\n"Ey..."
 
-@1771
+@1780
 <en>{Kazushi}\n"Are you my next?"
 <es>
 
-@1774
+@1783
 <en>{Mizuki}\n"Our alphabetical order should be close."
 <es>
 
-@1775
+@1784
 <en>{Kazushi}\n"Oh yeah, my last name starts just one letter behind yours."
 <es>{Kazushi}\n"Ah, es cierto. Mi apellido empieza por la letra siguiente al del tuyo."
 
-@1776
+@1785
 <en>She seems to be little nervous sitting next to me for some reason.
 <es>Por algún motivo, parece estar un poco nerviosa por sentarse a mi lado.
 
-@1777
+@1786
 <en>{Kazushi}\n"Well, this way we can help each other all the time!"
 <es>
 
-@1782
+@1791
 <en>{Pierre}\n"Don't forget guys, I'm here, too-"
 <es>
 
-@1783
+@1792
 <en>Pierre happened to be sitting right behind me.
 <es>
 
-@1784
+@1793
 <en>{Mizuki}\n"Sure. Thanks guys."
 <es>
 
-@1789
+@1798
 <en>{Hu-sen}\n"Hey, Mizuki.\nI don't think it's good for you to get along with them too well."
 <es>
 
-@1790
+@1799
 <en>There is Hu-sen sitting right behind her.
 <es>
 
-@1795
+@1804
 <en>{Pierre}\n"Shit, you're my next."
 <es>{Pierre}\n"Mierda, tú estás a mi lado."
 
-@1798
+@1807
 <en>{Hu-sen}\n"What do you mean "shit"?!\nThat's what I wanna say to you."
 <es>{Hu-sen}\n"¿Qué quieres decir con "mierda"?!\nEso lo tendría que decir yo."
 
-@1799
+@1808
 <en>They are staring at each other.
 <es>
 
-@1800
+@1809
 <en>{Mei}\n"Guys!"
 <es>{Mei}\n"¡Chicos!"
 
-@1805
+@1814
 <en>She got in the middle of the two.
 <es>Se puso entre los dos.
 
-@1812
+@1821
 <en>{Mei}\n"Nothing is mor wasting than not getting along with your class mate. Got it?"
 <es>
 
-@1815
+@1824
 <en>{Hu-sen}\n"I don't need to get along with men."
 <es>{Hu-sen}\n"No tengo necesidad de llevarme bien con los hombres."
 
-@1822
+@1831
 # TODO: Quizá "chorreando" sea muy fuerte.
 <en>{Appo-}\n"Liar. You are starving to get a man."
 <es>{Appo-}\n"Mentirosa. Estás chorreando por tener a un hombre."
 
-@1825
+@1834
 <en>{Hu-sen}\n"Shut up!"
 <es>{Hu-sen}\n"¡Cállate!"
 
-@1828
+@1837
 <en>Mizuki is now staring at Appo-.
 <es>Ahora Mizuki está mirando a Appo-.
 
-@1833
+@1842
 # ¿Menudos críos?
 <en>{Mei}\n"Such babies. We should start this class from introducing to each other."
 <es>
 
-@1835
+@1844
 <en>She came up with a good idea.
 <es>Ha tenido una buena idea.
 
-@1838
+@1847
 <en>{Appo-}\n"I will, I will!"
 <es>
 
-@1843
+@1852
 <en>{Pierre}\n"I wanna introduce myself!!"
 <es>{Pierre}\n"¡¡Yo quiero presentarme!!"
 
-@1844
+@1853
 <en>Those two always try to be the center of attention.
 <es>Esos dos tratan siempre de ser el centro de atención.
 
-@1849
+@1858
 <en>{Mei}\n"All right......Mr.Jin-nai, you start."
 <es>
 
-@1853
+@1862
 <en>{Appo-}\n"Yes! Mr.Jin-nai, that's my name!"
 <es>
 
-@1854
+@1863
 <en>Even I forgot his last name was Jin-nai.
 <es>Hasta yo me olvidé de que se llamaba así.
 
-@1857
+@1866
 <en>{Appo-}\n"My name is Toshiaki Jin-nai! My hobby is......"
 <es>{Appo-}\n"¡Me llamo Toshiaki Jin-nai! Y mi hobby es..."
 
-@1861
+@1870
 <en>{Rei}\n"Stealing underwears."
 <es>{Rei}\n"Robar braguitas."
 
-@1865
+@1874
 <en>{Appo-}\n"Yes, that's my hobby! I prefer ones not washed but I don't mind clean ones!"
 <es>{Appo-}\n"¡Sí, ese es mi hobby! ¡Prefiero las usadas, pero no me importa que estén limpias!"
 
-@1868
+@1877
 <en>{Appo-}\n"............. hey!"
 <es>{Appo-}\n"¡Ey...!"
 
-@1872
+@1881
 <en>{Pierre}\n"That was easy."
 <es>{Pierre}\n"Qué fácil ha sido."
 
-@1873
+@1882
 <en>{Kazushi}\n"You made a big mistake there."
 <es>{Kazushi}\n"La acabas de liar parda."
 
-@1874
+@1883
 <en>All the girls will be looking at him as pervert.
 <es>Todas las chicas la verán como un pervertido.
 
-@1880
+@1889
 <en>{Hu-sen}\n"What makes you wanna steal girls' underwears?\nYou are seriously sick!"
 <es>
 
-@1883
+@1892
 <en>{Appo-}\n"I, I'm not into those stuff."
 <es>
 
-@1887
+@1896
 <en>{Pierre}\n"Oh yes, you do."
 <es>{Pierre}\n"Sí, si que lo estás."
 
-@1890
+@1899
 <en>{Appo-}\n"Don't remind me of that! I didn't think that huge thing was an underwear!"
 <es>
 
-@1891
+@1900
 <en>{Kazushi}\n"Idiot......\nI think you just poured oil into a fire......"
 <es>
 
-@1895
+@1904
 <en>{Rei}\n"That huge thing!? What do you mean!?"
 <es>{Rei}\n"¿¡Esa cosa enorme!? ¿¡A qué te refieres!?"
 
-@1898
+@1907
 <en>{Appo-}\n"Ofcourse it meant your underwear-----......"
 <es>{Appo-}\n"Me refería a tus bragas, por supuesto..."
 
-@1905
+@1914
 <en>{Hu-sen}\n"Miss. Ibuki!\nCan I use him as a target of my archery club!?"
 <es>{Hu-sen}\n"¡Señorita Ibuki!\n¿¡Puedo usarlo como diana en mi club de arco!?"
 
-@1908
+@1917
 <en>{Appo-}\n"I'm not an apple!!"
 <es>{Appo-}\n"¡¡No soy una manzana!!"
 
-@1911
+@1920
 <en>{Rei}\n"No-------!\nI don't wanna be embarrassed anymore from this weired midget!!"
 <es>
 
-@1912
+@1921
 <en>The huge girl started to cry again.
 <es>La chica enorme empezó a llorar de nuevo.
 
-@1915
+@1924
 <en>{Appo-}\n"Don't cry. You are making me a bad guy here."
 <es>
 
-@1916
+@1925
 <en>{Rei}\n[Rei crying loud]
 <es>{Rei}\n*Llorando intensamente*
 
-@1922
+@1931
 <en>{Mei}\n"All right. Let's move on. Mr.Horikawa, your turn."
 <es>{Mei}\n"Está bien. Siguiente. Horikawa, te toca."
 
-@1926
+@1935
 <en>{Pierre}\n"Me?\nnow?"
 <es>{Pierre}\n"¿Yo?\n¿ahora?"
 
-@1931
+@1940
 # TODO: Reescribir.
 <en>{Appo-}\n"Go ahead. I changed the atomsphere for you."
 <es>{Appo-}\n"Adelante. Ya te he preparado el ambiente para ti."
 
-@1934
+@1943
 <en>{Pierre}\n"No you didn't!"
 <es>
 
-@1938
+@1947
 <en>He seems not knowing what to say now under the situation.
 <es>No parece saber qué decir en esta situación.
 
-@1941
+@1950
 # ¿Componer, escribir (letra)?
 <en>{Pierre}\n"I'm Masao Horikawa.\nMy hobby is playing guitar.\nI write songs, too."
 <es>{Pierre}\n"Me llamo Masao Horikawa.\nMi hobby es tocar la guitarra.\nTambién compongo canciones."
 
-@1945
+@1954
 <en>{Hu-sen}\n"A lots of guys play guitar just to attract girls."
 <es>{Hu-sen}\n"Muchos chicos tocan la guitarra para atraer a las chicas."
 
-@1949
+@1958
 <en>{Pierre}\n"...!?..."
 <es>{Pierre}\n"¿¡...!?"
 
-@1950
+@1959
 <en>She pointed out the truth.
 <es>Ha sacado la verdad a relucir.
 
-@1955
+@1964
 <en>{Hu-sen}\n"Look at your sideburns. Have you ever washed it?"
 <es>
 
-@1958
+@1967
 <en>{Pierre}\n"I shampoo my hair everyday!"
 <es>{Pierre}\n"¡Me lavo la cabeza todos los días!"
 
-@1965
+@1974
 <en>{Mei}\n"Hey people. We are doing this to get along with each other. Come on."
 <es>
 
-@1966
+@1975
 <en>{Pierre}\n"She started it-"
 <es>
 
-@1969
+@1978
 <en>{Mei}\n"You guys are making me wanna cry.."
 <es>
 
-@1982
+@1991
 <en>{Pierre}\n"What......?"
 <es>
 
-@1985
+@1994
 <en>{Hu-sen}\n"...............here she goes."
 <es>
 
-@1989
+@1998
 <en>Entire class got quiet all the sudden......
 <es>La clase entera enmudeció de repente...
 
-@1992
+@2001
 <en>{Mei}\n"All right. Let me introduce myself first......"
 <es>
 
-@1999
+@2008
 # Jajaja... xd
 <en>{Mei}\n"I'm Mei Ibuki. I'm made in Japan."
 <es>{Mei}\n"Soy Mei Ibuki. Soy producto nacional japonés."
 
-@2005
+@2014
 <en>[Class not replying to her joke]
 <es>*La clase no le ríe la broma*
 
-@2006
+@2015
 <en>{Kazushi}\n"Why is everyone so cold?"
 <es>
 
-@2007
+@2016
 <en>The girls are not even listening to her.
 <es>Las chicas ni siquiera están escuchándola.
 
-@2010
+@2019
 <en>{Mei}\n"I think it was my dad you named me."
 <es>{Mei}\n"Creo que fue mi padre quién me puso mi nombre."
 
-@2011
+@2020
 <en>{Kazushi}\n".................."
 <es>{Kazushi}\n"..."
 
-@2012
+@2021
 <en>Something is funny.\nThe students are not paying any attention to her.
 <es>Hay algo extraño.\nLas estudiantes no están prestándole atención.
 
-@2016
+@2025
 <en>{Mei}\n"Hey guys, are you listening to me!?"
 <es>
 
-@2017
+@2026
 <en>She gives me a mean glare.
 <es>
 
-@2018
+@2027
 <en>{Kazushi}\n"Me?"
 <es>{Kazushi}\n"¿Yo?"
 
-@2021
+@2030
 <en>{Mei}\n"Here!!"
 <es>
 
-@2022
+@2031
 <en>She threw me a kiss!?
 <es>¿¡Me ha lanzado un beso!?
 
-@2023
+@2032
 <en>I'm supposed to be reiceiving a kiss.
 <es>
 
-@2026
+@2035
 <en>{Mei}\n"Did you get it? Did you?"
 <es>
 
-@2027
+@2036
 <en>{Kazushi}\n"I guess."
 <es>{Kazushi}\n"Supongo."
 
-@2030
+@2039
 <en>{Mei}\n"Good!"
 <es>{Mei}\n"¡Bien!"
 
-@2031
+@2040
 <en>{Kazushi}\n"We are in class, Miss Ibuki!!"
 <es>{Kazushi}\n"¡¡Estamos en clase, señorita Ibuki!!"
 
-@2034
+@2043
 <en>{Mei}\n"It's O.K I'm in a good mood!!"
 <es>{Mei}\n"No pasa nada. ¡¡Estoy de buen humor!!"
 
-@2036
+@2045
 <en>I guess everyone knew this childish aspect of her and didn't want to get her started.
 <es>Supongo que todos conocerían esa característica infantil suya y no querrían que empezase.
 
-@2039
+@2048
 <en>{Mizuki}\n"She's a good teacher except of this aspect."
 <es>{Mizuki}\n"Es una buena profesora. A excepción de por eso."
 
-@2040
+@2049
 <en>Her charm completly changed the bad atomsphere of the class from the fight earlier.
 <es>
 
-@2046
+@2055
 <en>{Mei}\n"Oh, time goes by so fast."
 <es>{Mei}\n"Ah, el tiempo pasa rápido."
 
-@2047
+@2056
 <en>[Class still silent]
 <es>*La clase sigue en silencio*
 
-@2048
+@2057
 <en>Wow, she was talking pretty much the whole time.
 <es>
 
-@2051
+@2060
 <en>{Mei}\n"Well,\ntry to get along with everyone, O.K class?"
 <es>
 
-@2052
+@2061
 # TODO: O "lo intentaremos". O "lo haremos lo mejor que podamos".
 <en>{Kazushi}\n"We will do our best."
 <es>{Kazushi}\n"Haremos lo que podamos."
 
-@2053
+@2062
 <en>She's doing her best. So should we.
 <es>Ella se está esforzando al máximo. Nosotros deberíamos hacer lo mismo.
 
-@2057
+@2066
 <en>{Daigo}\n"She was talking the whole time, I didn't even get my turn......"
 <es>{Daigo}\n"Ha estado hablando todo el rato, ni siquiera me ha llegado el turno..."
 

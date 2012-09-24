@@ -188,343 +188,343 @@
 <en>{Principal}\n"Sacrifice?\nNow, you're really exaggerating."
 <es>
 
-@100
+@101
 <en>{Haruka}\n"When I saw the list for the experiment,\nI knew there is something wrong."
 <es>
 
-@103
+@105
 <en>{Haruka}\n"I was just physically there and couldn't help ......"
 <es>
 
-@106
+@108
 <en>{Principal}\n"If you really want to help,\nremember this,\nyou always need to be a observer."
 <es>
 
-@109
+@111
 <en>{Principal}\n"You learned a good lesson."
 <es>
 
-@112
+@114
 <en>{Haruka}\n"How can you say that?\nIn your mind, is dead people more important than people who are alive?"
 <es>
 
-@113
+@115
 <en>Haruka 's statement was a very strong one.
 <es>
 
-@116
+@118
 <en>{Principal}\n".................."
 <es>
 
-@117
+@119
 <en>The principal seems to have lost her confidence.\nShe can't speak back to Haruka.
 <es>
 
-@120
+@122
 <en>{Principal}\n"You can think about this whatever the way you want."
 <es>
 
-@123
+@125
 <en>Haruka looks at her with pitty.
 <es>
 
-@124
+@126
 <en>{Haruka}\n"I don't think I can follow your way anymore."
 <es>
 
-@125
+@127
 <en>Haruka's quiet protest.
 <es>
 
-@126
+@128
 <en>The principal couldn't do anything but sighing.
 <es>
 
-@129
+@131
 <en>{Principal}\n"You don't understand,\nbecause you've never lost anyting important."
 <es>
 
-@132
+@134
 <en>{Haruka}\n"Fine. I don't want to know."
 <es>
 
-@133
+@135
 <en>I thought these two are understanding each other.
 <es>
 
-@134
+@136
 <en>{Haruka}\n"Would something like that happen again?"
 <es>
 
-@137
+@139
 <en>{Principal}\n"As long as you don't show the improvement,\nit will happen again."
 <es>
 
-@140
+@142
 <en>{Haruka}\n"......I understand.\nI will get the result you want."
 <es>
 
-@141
+@143
 <en>{Principal}\n"You do that."
 <es>
 
-@145
+@147
 <en>The tensed conversation was finally finished.
 <es>
 
-@146
+@148
 <en>{Haruka}\n"Good bye."
 <es>
 
-@148
+@150
 <en>Opps,\nHaruka's coming out......
 <es>
 
-@150
+@152
 <en>[Door opens up]
 <es>
 
-@151
+@153
 <en>it was too late......
 <es>
 
-@154
+@156
 <en>{Haruka}\n"......!!"
 <es>
 
-@155
+@157
 <en>We are right in front of each other.
 <es>
 
-@156
+@158
 <en>{Kazushi}\n"Umm......"
 <es>
 
-@157
+@159
 <en>It was a long one second.......
 <es>
 
-@158
+@160
 <en>{Principal}\n"What's wrong?"
 <es>
 
-@159
+@161
 <en>The principal noticed something is wrong just outside the door.\nHaruka steps in front of me to hide me.
 <es>
 
-@162
+@164
 <en>{Haruka}\n"It's nothing.\nGood bye."
 <es>
 
-@164
+@166
 <en>[Door closed]
 <es>
 
-@165
+@167
 <en>Haruka closed the door.\nI can tell she's still tensed.
 <es>
 
-@166
+@168
 <en>{Kazushi}\n"Hey......"
 <es>
 
-@169
+@171
 <en>{Haruka}\n"Quiet!"
 <es>
 
-@170
+@172
 <en>She covers my mouth.
 <es>
 
-@171
+@173
 <en>{Haruka}\n(She can still hear you)
 <es>
 
-@172
+@174
 <en>{Kazushi}\n"! ............"
 <es>
 
-@173
+@175
 <en>{Haruka}\n(Let's get out of here)
 <es>
 
-@176
+@178
 <en>{Kazushi}\n".................."
 <es>
 
-@179
+@181
 <en>{Haruka}\n".........it's O.K now."
 <es>
 
-@180
+@182
 <en>I took a deep breath.
 <es>
 
-@181
+@183
 <en>{Kazushi}\n"That was scary."
 <es>
 
-@186
+@188
 <en>{Haruka}\n"What were you doing there?"
 <es>
 
-@187
+@189
 <en>I forgot why I went to the school.
 <es>
 
-@188
+@190
 <en>{Kazushi}\n"Oh yeah!\nI went back there to get my stuff."
 <es>
 
-@190
+@192
 <en>I ended up not getting what I went for.
 <es>
 
-@193
+@195
 <en>{Haruka}\n"You went back there to get something you forgot?\nSo you were there accidently?"
 <es>
 
-@194
+@196
 <en>{Kazushi}\n"Ofcourse."
 <es>
 
-@197
+@199
 <en>{Haruka}\n"I didn't do anything suspeciously, did I?"
 <es>
 
-@198
+@200
 <en>It's hard to understand what she's saying today.
 <es>
 
-@199
+@201
 <en>Including what she was saying to the principal.
 <es>
 
-@200
+@202
 <en>{Kazushi}\n"What was the conversation with the principal about......?"
 <es>
 
-@203
+@205
 <en>{Haruka}\n"It's nothing important-"
 <es>
 
-@204
+@206
 <en>The fact she's trying to fool me makes me more worried.
 <es>
 
-@205
+@207
 <en>{Kazushi}\n"It is?"
 <es>
 
-@206
+@208
 <en>{Haruka}\n"Sure it is-"
 <es>
 
-@207
+@209
 <en>I think she's fooling me.
 <es>
 
-@210
+@212
 <en>{Haruka}\n"Does it have to be today to go get what you forgot?"
 <es>
 
-@211
+@213
 <en>{Kazushi}\n"No.\nI thought I just go get it as I remembered about it."
 <es>
 
-@214
+@216
 <en>{Haruka}\n"Oh yeah?\nWell then, why don't we go out somewhere together?"
 <es>
 
-@215
+@217
 <en>She's definitely trying to change the subject.\nHowever, I don't mind going out with her......
 <es>
 
-@216
+@218
 <en>{Kazushi}\n"Sure!"
 <es>
 
-@219
+@221
 <en>{Haruka}\n"Yes, let's go!"
 <es>
 
-@220
+@222
 <en>{Kazushi}\n"Where should we go?\nOh hey, let me go get the boys first."
 <es>
 
-@223
+@225
 <en>{Haruka}\n"Wait! Hold on!"
 <es>
 
-@224
+@226
 <en>She made me tap on the sudden brake.
 <es>
 
-@225
+@227
 <en>{Kazushi}\n"What is it?"
 <es>
 
-@228
+@230
 <en>{Haruka}\n"Why are you getting your friends?"
 <es>
 
-@229
+@231
 <en>{Kazushi}\n"What do you mean why?\nI thought we gonna go out and have fun."
 <es>
 
-@230
+@232
 <en>{Kazushi}\n"Am I missing something here?"
 <es>
 
-@231
+@233
 <en>Am I missing something here?\nHaruka seems to be sad.
 <es>
 
-@234
+@236
 <en>{Haruka}\n"Do you prefer going out with everybody?"
 <es>
 
-@235
+@237
 <en>She makes my heart stop.
 <es>
 
-@236
+@238
 <en>{Kazushi}\n"Did you mean......we go out by just ourselves?"
 <es>
 
-@239
+@241
 <en>{Haruka}\n"Ofcourse I did."
 <es>
 
-@240
+@242
 <en>She said ofcourse!\nJust by two of us.
 <es>
 
-@241
+@243
 <en>All the sudden,\nI'm feeling a big pressure.
 <es>
 
-@244
+@246
 <en>{Haruka}\n"Don't tell me you are actually busy all the sudden."
 <es>
 
-@245
+@247
 <en>Maybe my vague attitude is making her nervous.\nKazushi, be a man!!
 <es>
 
-@246
+@248
 <en>{Kazushi}\n"My day is wide open!"
 <es>
 
-@249
+@251
 <en>{Haruka}\n"Are we still good to go?"
 <es>
 
-@250
+@252
 <en>{Kazushi}\n"Ofcourse we are!\nIs there some place you wanna go?"
 <es>
 
-@251
+@253
 <en>Haruka answered my question by nodding her head.
 <es>
 

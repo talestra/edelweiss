@@ -1,103 +1,103 @@
 # Comments for '00736'
 
-@8
+@10
 <en>I think I already know what she would say.
 <es>Creo que ya me puedo imaginar lo que dirá.
 
-@9
+@11
 <en>{Kazushi}\n"Can I ask you?"
 <es>{Kazushi}\n"¿Puedo preguntarte algo?"
 
-@12
+@14
 <en>{Ran}\n"Me?\nDo you want to know about me?"
 <es>{Ran}\n"¿A mí?\n¿Quieres saber algo sobre mí?"
 
-@13
+@15
 <en>{Kazushi}\n"Kind of."
 <es>{Kazushi}\n"Algo así."
 
-@14
+@16
 <en>It's little different though.
 <es>Aunque es un poco diferente.
 
-@17
+@19
 <en>{Ran}\n"All right, I will tell you my secret."
 <es>{Ran}\n"Está bien. Te contaré mi secreto."
 
-@18
+@20
 <en>{Kazushi}\n"Your secret?"
 <es>{Kazushi}\n"¿Tu secreto?"
 
-@19
+@21
 <en>What's her secret?
 <es>¿Cuál es su secreto?
 
-@20
+@22
 <en>She sounded kind of naughty way.
 <es>Lo ha dicho con un tono algo lascivo.
 
-@21
+@23
 <en>{Ran}\n"What do you want to know about me?\nOr is this that?"
 <es>{Ran}\n"¿Qué es lo que quieres saber sobre mí?\n¿O es "eso"?"
 
-@22
+@24
 # Revisar secreto travieso. ¿Obsceno? ¿Lascivo?
 <en>{Kazushi}\n"What's "that"?\nWhat kind of naughty secret do you have?"
 <es>{Kazushi}\n"¿Qué es "eso"?\n¿Qué clase de secreto lascivo tienes?"
 
-@25
+@27
 <en>{Ran}\n"What? It's nothing naughty about it."
 <es>{Ran}\n"¿Qué? No tiene nada de lascivo."
 
-@26
+@28
 <en>{Kazushi}\n"Yeah?\n..Sorry!"
 <es>{Kazushi}\n"¿Ah sí?\n...¡Lo siento!"
 
-@29
+@31
 <en>She wasn't upset.
 <es>No estaba enfadada.
 
-@30
+@32
 <en>{Ran}\n"I see. Do you want to know naughty aspect of me? I don't blame you. We are in our puberty."
 <es>{Ran}\n"Ya veo. ¿Quieres saber alguna obscenidad sobre mí? No te culpo. Estamos en la pubertad."
 
-@31
+@33
 <en>{Kazushi}\n"Thanks for understanding."
 <es>{Kazushi}\n"Gracias por tu compresión."
 
-@32
+@34
 <en>She's a very understanding girl.
 <es>Es una chica muy comprensiva.
 
-@33
+@35
 <en>{Kazushi}\n"Is there something you like to have?"
 <es>{Kazushi}\n"¿Hay algo que te gustaría tener?"
 
-@36
+@38
 <en>{Ran}\n"Money."
 <es>{Ran}\n"Dinero."
 
-@37
+@39
 <en>I knew it.
 <es>Lo sabía.
 
-@38
+@40
 <en>{Kazushi}\n"I thought so."
 <es>{Kazushi}\n"Eso pensaba."
 
-@39
+@41
 <en>It was a waste of time.
 <es>Era una pérdida de tiempo.
 
-@42
+@44
 <en>{Ran}\n"Are you giving me money?"
 <es>{Ran}\n"¿Me vas a dar dinero?"
 
-@43
+@45
 <en>{Kazushi}\n"Sorry."
 <es>{Kazushi}\n"Lo siento."
 
-@44
+@46
 <en>I think I should ask someone else.
 <es>Creo que debería preguntarle a otra persona.
 

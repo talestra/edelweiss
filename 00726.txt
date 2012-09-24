@@ -1,114 +1,114 @@
 # Comments for '00726'
 
-@8
+@10
 <en>It's so hard to talk to her.
 <es>Es tan difícil hablar con ella.
 
-@9
+@11
 <en>{Kazushi}\n"Hi, Mizuki,"
 <es>{Kazushi}\n"Hola, Mizuki,"
 
-@12
+@14
 <en>{Mizuki}\n"......!?"
 <es>{Mizuki}\n"¿¡...!?"
 
-@13
+@15
 <en>I wonder why she has to get so surprised just by talking to me.
 <es>Me pregunto por qué se sorprende tanto por el mero hecho de hablarle.
 
-@14
+@16
 <en>{Kazushi}\n"Can I ask you a question?"
 <es>{Kazushi}\n"¿Puedo preguntarte algo?"
 
-@17
+@19
 <en>{Mizuki}\n"What do you want......?"
 <es>{Mizuki}\n"¿Qué es lo que quieres...?"
 
-@18
+@20
 <en>She seems so annoyed. Maybe she's still upset from me calling her lesbian.
 <es>Parece molesta. Quizá aún esté enfadada conmigo por llamarla lesbiana.
 
-@19
+@21
 <en>{Kazushi}\n"I'm sorry if I offended you earlier......"
 <es>{Kazushi}\n"Siento si te he ofendido antes..."
 
-@22
+@24
 <en>{Mizuki}\n"Earlier?"
 <es>{Mizuki}\n"¿Antes?"
 
-@23
+@25
 <en>{Kazushi}\n"That I said you like girls."
 <es>{Kazushi}\n"Cuando dije lo de que te gustaban las chicas."
 
-@24
+@26
 <en>Now she's upset about it.
 <es>Ahora está enfadada por eso.
 
-@27
+@29
 <en>{Mizuki}\n"I'm not a lesbian."
 <es>{Mizuki}\n"No soy lesbiana."
 
-@28
+@30
 <en>{Kazushi}\n"I know. I know."
 <es>{Kazushi}\n"Ya lo sé. Lo sé."
 
-@29
+@31
 <en>{Mizuki}\n"Don't you ever say that again to me."
 <es>{Mizuki}\n"No me vuelvas a llamar así."
 
-@30
+@32
 <en>{Kazushi}\n"Ofcourse not! You like boys!"
 <es>{Kazushi}\n"¡Claro que no! ¡Te gustan los chicos!"
 
-@33
+@35
 <en>{Mizuki}\n"Just leave me alone."
 <es>{Mizuki}\n"Déjame tranquila."
 
-@34
+@36
 <en>{Kazushi}\n"Sorry......"
 <es>{Kazushi}\n"Lo siento..."
 
-@35
+@37
 <en>Now she seems really annoyed of me.
 <es>Ahora parece realmente enfadada conmigo.
 
-@36
+@38
 <en>{Mizuki}\n"Is that all you need?\nI need to go."
 <es>{Mizuki}\n"¿Era eso lo que querías?\nTengo que irme."
 
-@37
+@39
 <en>{Kazushi}\n"Wait, wait!\nI wanted to ask you if you want something?"
 <es>{Kazushi}\n"¡Espera, espera!\nQuería preguntarte si querías algo."
 
-@40
+@42
 <en>{Mizuki}\n"Do I want something? why?"
 <es>{Mizuki}\n"¿Que si quería algo? ¿Por qué?"
 
-@41
+@43
 <en>{Kazushi}\n"No particular reason."
 <es>{Kazushi}\n"Por nada en concreto."
 
-@44
+@46
 <en>{Mizuki}\n"What is it?\nJust tell me. You're making me sick."
 <es>{Mizuki}\n"¿El qué?\nDímelo. Me pones enferma."
 
-@45
+@47
 <en>{Kazushi}\n"Making you sick......"
 <es>{Kazushi}\n"Ponerte enferma..."
 
-@46
+@48
 <en>I knew she didn't like me.
 <es>Sabía que no le gustaba.
 
-@47
+@49
 <en>{Kazushi}\n"I see......"
 <es>{Kazushi}\n"Ya veo..."
 
-@50
+@52
 <en>{Mizuki}\n"Why are you so disappointed?"
 <es>{Mizuki}\n"¿Por qué estás tan decepcionado?"
 
-@51
+@53
 <en>{Kazushi}\n"No., nothing. Sorry to bother you."
 <es>{Kazushi}\n"No, nada. Siento haberte molestado."
 

@@ -1,1674 +1,1674 @@
 # Comments for '007z6'
 
-@7
+@9
 <en>{Teacher Yagami}\n"Hey everybody!\nIt's time to finish the party-"
 <es>{Profesor Yagami}\n"¡Escuchad todos!\nEs hora de terminar la fiesta."
 
-@8
+@10
 <en>It's almost nine o'clock. It's been three hours since the party started.
 <es>Ya casi son las nueve. Han pasado ya tres horas desde que empezara la fiesta.
 
-@12
+@14
 <en>{Principal}\n"Yes, we should finish up......"
 <es>{Directora}\n"Sí, deberíamos ir terminando..."
 
-@18
+@20
 <en>{Appo-}\n"----hold on----!!"
 <es>
 
-@19
+@21
 <en>We all went up on the stage. Pierre took away microphone from Mr.Yagami.
 <es>Nos subimos todos al escenario. Pierre le quitó el micrófono al señor Yagami.
 
-@23
+@25
 <en>{Teacher Yagami}\n"What are you guys doing!?"
 <es>{Profesor Yagami}\n"¿¡Que estáis haciendo!?"
 
-@24
+@26
 <en>{Kazushi}\n"It's a little surprise!"
 <es>{Kazushi}\n"¡Es una pequeña sorpresa!"
 
-@27
+@29
 <en>{Teacher Yagami}\n"What? Are you guys going to make more troubles?"
 <es>{Profesor Yagami}\n"¿Qué? ¿Ya váis a causar más problemas?"
 
-@28
+@30
 <en>I don't blame him bding suspicious of us.
 <es>No le culpo por sospechar de nosotros.
 
-@32
+@34
 <en>{Pierre}\n"Test, test!"
 <es>{Pierre}\n"Probando... Probando..."
 
-@33
+@35
 <en>Pierre is testing the microphone.
 <es>Pierre está probando el micrófono.
 
-@36
+@38
 <en>{Pierre}\n"Thank you for hosting a party for us new students!"
 <es>{Pierre}\n"¡Muchas gracias por hacer una fiesta para nosotros, los nuevos estudiantes!"
 
-@37
+@39
 <en>Pierre thinks he just became an idol..
 <es>Pierre se cree que acaba de convertirse en un ídolo o algo así.
 
-@44
+@46
 <en>{Daigo}\n"Wow, he's doing well."
 <es>{Daigo}\n"Vaya, lo está haciendo bien."
 
-@45
+@47
 <en>{Kazushi}\n"It's his stage now."
 <es>
 
-@46
+@48
 <en>{Appo-}\n"I can't wait to see how happy girls get."
 <es>{Appo-}\n"No puedo esperar a ver lo contentas que se ponen las chicas."
 
-@49
+@51
 <en>The girls have no idea what's going on.
 <es>Las chicas no tienen ni idea de lo que está pasando.
 
-@52
+@54
 <en>{Pierre}\n"I don't know how to thank all of you enough."
 <es>{Pierre}\n"No sé cómo agradeceroslo lo suficiente."
 
-@53
+@55
 <en>{Pierre}\n"And that's why we brought you presents!"
 <es>{Pierre}\n"¡Y es por eso por lo que os hemos traído regalos!"
 
-@57
+@59
 <en>{Ran}\n"Presents!!\nReally!?"
 <es>{Ran}\n"¡¡Regalos!!\n¿¡En serio!?"
 
-@58
+@60
 # Revisar.
 <en>Ran is junping up and down.
 <es>Ran está dando saltitos.
 
-@59
+@61
 <en>{Kazushi}\n"Ran, I'm sorry, it's not money this time."
 <es>{Kazushi}\n"Ran, lo siento. Esta vez no es dinero."
 
-@62
+@64
 <en>{Ran}\n"No-."
 <es>{Ran}\n"No..."
 
-@67
+@69
 <en>{Appo-}\n"Ofcourse not. Do we look rich?"
 <es>{Appo-}\n"Claro que no. ¿Te parecemos ricos?"
 
-@68
+@70
 <en>{Ran}\n"All right. I shouln't expect much."
 <es>{Ran}\n"Está bien. No esperaré demasiado."
 
-@69
+@71
 <en>{Kazushi}\n"I show you money doesn't mean everything."
 <es>{Kazushi}\n"Te enseñaré que el dinero no significa nada."
 
-@72
+@74
 # El dinero no significará nada para ti...
 <en>{Ran}\n"Money doesn't mean everything to you?"
 <es>{Ran}\n"¿El dinero no significa nada para ti?"
 
-@73
+@75
 <en>I don't think she will ever understand.
 <es>Dudo que sea capaz de entenderlo alguna vez.
 
-@78
+@80
 # Revisar.
 <en>{Pierre}\n"It's not expensive, but we prepared this from bottom of our hearts."
 <es>{Pierre}\n"No es algo caro, pero lo hemos preparado con todo el corazón."
 
-@81
+@83
 <en>{Pierre}\n"Please accept our hearts!"
 <es>{Pierre}\n"Por favor, ¡aceptad nuestros corazones!"
 
-@87
+@89
 <en>{Hu-sen}\n"He thinks he's a star."
 <es>{Hu-sen}\n"Se cree que es una estrella."
 
-@88
+@90
 <en>{Rei}\n"I don't think I've ever received a present from boys."
 <es>
 
-@89
+@91
 <en>I think this is going to work, because I can tell the girls' faces are delighted.
 <es>
 
-@94
+@96
 <en>{Pierre}\n"Here you are!"
 <es>{Pierre}\n"¡Allá vamos!"
 
-@98
+@100
 <en>Pierre makes a sound with his fingers as a sign.
 <es>Pierre chasquea los dedos como señal.
 
-@100
+@102
 <en>We pulled the rope to show the presents.
 <es>Tiramos de la cuerda para mostrar los regalos.
 
-@106
+@108
 <en>{Haruka}\n"Hey......"
 <es>{Haruka}\n"Ey..."
 
-@107
+@109
 <en>Petals falling......
 <es>*Petalos cayendo...*
-
-@111
-<en>{Mizuki}\n"What is this......?"
-<es>{Mizuki}\n"¿Qué es esto...?"
 
 @113
-<en>Petals falling......
-<es>*Petalos cayendo...*
-
-@114
-<en>It was like snowing......
-<es>Es como si estuviese nevando...
+<en>{Mizuki}\n"What is this......?"
+<es>{Mizuki}\n"¿Qué es esto...?"
 
 @115
 <en>Petals falling......
 <es>*Petalos cayendo...*
 
 @116
+<en>It was like snowing......
+<es>Es como si estuviese nevando...
+
+@117
+<en>Petals falling......
+<es>*Petalos cayendo...*
+
+@118
 <en>Soon entire cafeteria was filled with white petals.
 <es>En poco tiempo, la cafetería entera estaba llena de pétalos blancos.
 
-@121
+@123
 <en>{Sakura}\n"It's like snowing-!"
 <es>{Sakura}\n"¡Es como si nevase...!"
 
-@122
+@124
 <en>{Rin}\n"So beautiful......"
 <es>{Rin}\n"Qué bonito..."
 
-@129
+@131
 <en>{Hu-sen}\n"This is not bad from idiots!"
 <es>{Hu-sen}\n"¡No está mal para los imbéciles!"
 
-@130
+@132
 <en>{Rei}\n"This is so romantic."
 <es>{Rei}\n"Qué romántico."
 
-@131
+@133
 <en>The girls are in awe of our idea......
 <es>
 
-@134
+@136
 <en>{Kazushi}\n"I think they are loving it."
 <es>
 
-@139
+@141
 <en>{Pierre}\n"We got their attention!"
 <es>
 
-@140
+@142
 <en>{Appo-}\n"Tonight might be my first night!"
 <es>
 
-@141
+@143
 <en>We were afraid it was going too well.
 <es>Estábamos asustados de que estuviese yendo todo demasiado bien.
 
-@142
+@144
 <en>Nothing we did in the past never went so smooth.
 <es>Nada que hubiésemos hecho en el pasado había ido tan bien.
 
-@148
+@150
 <en>{Haruka}\n"......hey isn't this......?"
 <es>
 
-@149
+@151
 <en>It was Haruka who recognized the kind of flower first.
 <es>Fue Haruka la que reconoció el tipo de floar al principio.
 
-@152
+@154
 <en>{Haruka}\n"It is that flower......"
 <es>
 
-@153
+@155
 <en>She picked up one petal on the floor and now convinced.
 <es>
 
-@159
+@161
 <en>{Rin}\n"Hey! This flower is......!"
 <es>
 
-@160
+@162
 <en>{Sakura}\n"You are right......"
 <es>{Sakura}\n"Tienes razón..."
 
-@162
+@164
 <en>The girls start getting panic.
 <es>
 
-@169
+@171
 <en>{Appo-}\n"What's wrong everybody?"
 <es>{Appo-}\n"¿Qué ocurre?"
 
-@170
+@172
 <en>{Pierre}\n"Did you see disgusting bugs on the petals or somnething?"
 <es>
 
-@171
+@173
 <en>Our high expectation for the rest of the night lasted in a few seconds.
 <es>
 
-@178
+@180
 <en>{Principal}\n"Oh no......"
 <es>{Directora}\n"Oh no..."
 
-@179
+@181
 <en>Her body was shaking from the anger.
 <es>Su cuerpo estaba temblando de la furia.
 
-@182
+@184
 <en>{Principal}\n"Stop!\nStop it right now!!"
 <es>{Directora}\n"¡Parad!\n¡¡Parad ahora mismo!!"
 
-@183
+@185
 <en>She screamed.
 <es>Gritó.
 
-@192
+@194
 <en>{Daigo}\n"What is going on?"
 <es>{Daigo}\n"¿Qué ocurre?"
 
-@193
+@195
 <en>{Pierre}\n"Did we do something wrong?"
 <es>{Pierre}\n"¿Hemos hecho algo malo?"
 
-@194
+@196
 <en>{Appo-}\n"I knew something wrong was coming. It never went so smooth."
 <es>
 
-@200
+@202
 <en>{Mei}\n"It's not good time to chat boys......where did you get these flowers?"
 <es>
 
-@201
+@203
 <en>Miss Ibuki too was shaking from anxiety.
 <es>
 
-@202
+@204
 <en>{Kazushi}\n"The flowers?\nRemember the place we first met?"
 <es>
 
-@206
+@208
 <en>{Haruka}\n"I knew it......"
 <es>{Haruka}\n"Lo sabía..."
 
-@207
+@209
 <en>Haruka seemed so disappointed to hear that.
 <es>Haruka parecía tremendamente decepcionada de escuchar eso.
 
-@211
+@213
 <en>{Principal}\n"No......"
 <es>{Directora}\n"No..."
 
-@216
+@218
 <en>The principal fainted on the ground.
 <es>La directora se desmayó y cayó al suelo.
 
-@217
+@219
 <en>{Kazushi}\n"Principal!!"
 <es>{Kazushi}\n"¡¡Directora!!"
 
-@218
+@220
 <en>She was passed out.
 <es>Se ha desmayado.
 
-@221
+@223
 <en>{Haruka}\n"Principal! Grand ma!!"
 <es>{Haruka}\n"¡Directora! ¡¡Abuelita!!"
 
-@222
+@224
 <en>Haruka slaps principal's cheeks to wake her up.
 <es>Haruka abofetea la mejilla de la directora para despertarla.
 
-@226
+@228
 <en>{Teacher Yagami}\n"Are you all right?nWe should take you to the nurse's offce......"
 <es>
 
-@230
+@232
 <en>{Principal}\n"Wait!\nBefore you take me there, please tell me something.\nAre these flowers all from that place?"
 <es>
 
-@231
+@233
 <en>{Kazushi}\n"Yes."
 <es>{Kazushi}\n"Sí."
 
-@234
+@236
 <en>{Principal}\n"Oh no......\nHow much are there left still in that place?"
 <es>
 
-@235
+@237
 <en>{Kazushi}\n"......I think we picked pretty much everything."
 <es>
 
-@236
+@238
 <en>{Principal}\n"Oh no......"
 <es>{Directora}\n"Oh, no..."
 
-@240
+@242
 <en>{Kazushi}\n"Principal?"
 <es>{Kazushi}\n"¿Directora?"
 
-@241
+@243
 <en>She passed out again.
 <es>Se ha vuelto a desmayar.
 
-@246
+@248
 <en>{Haruka}\n"Grand ma!"
 <es>{Haruka}\n"¡Abuelita!"
 
-@247
+@249
 <en>{Teacher Yagami}\n"Let's bring her to nurse's office."
 <es>
 
-@248
+@250
 <en>{Kazushi}\n"Yes!"
 <es>{Kazushi}\n"¡Sí!"
 
-@253
+@255
 <en>We took her to the nurse's office.
 <es>La llevamos a la enfermería.
 
-@260
+@262
 <en>{Appo-}\n"Something if going reaaly bad."
 <es>{Appo-}\n"Algo va realmente mal."
 
-@261
+@263
 <en>{Pierre}\n"I know.\nWe did something bad enough to make principal pass out."
 <es>{Pierre}\n"Lo sé.\nHemos hecho algo suficiente mal como para hacer que la directora se desmayase."
 
-@262
+@264
 <en>{Daigo}\n"All we did was picking the flowers though."
 <es>{Daigo}\n"Aunque lo único que hemos hecho ha sido recolectar las flores."
 
-@263
+@265
 # Revisar.
 <en>{Kazushi}\n"I think we're going to get busted......"
 <es>{Kazushi}\n"Creo que nos van a expulsar..."
 
-@270
+@272
 <en>{Mei}\n"We know you guys didn't know, but......"
 <es>{Mei}\n"Somos conscientes de que no lo sabíais, pero..."
 
-@271
+@273
 <en>Miss Ibuki doesn't know what to say.
 <es>La señorita Ibuki no sabe qué decir.
 
-@274
+@276
 <en>{Mei}\n"She's still passed out?"
 <es>{Mei}\n"¿Sigue desmayada?"
 
-@279
+@281
 <en>{Teacher Yagami}\n"She's still in shock."
 <es>{Profesor Yagami}\n"Sigue conmocionada."
 
-@280
+@282
 <en>Teacher Yagami doesn't seem to know what is going on either.
 <es>El profesor Yagami tampoco sabe qué está pasando.
 
-@283
+@285
 <en>{Mei}\n"I'm going to try my best, but......I'm not sure if I can protect your boys this time."
 <es>{Mei}\n"Haré todo lo que pueda, pero... No sé si os podré proteger esta vez, chicos."
 
-@287
+@289
 <en>{Haruka}\n"Wait!\nThat ristricted area was under my responsibility!\nThis is my fault, too!"
 <es>{Haruka}\n"¡Espera!\n¡Aquella área restringida era responsabilidad mía!\n¡También es mi culpa!"
 
-@290
+@292
 <en>{Mei}\n"Haruka......"
 <es>{Mei}\n"Haruka..."
 
-@291
+@293
 <en>We had no idea what they are talking about.
 <es>No teníamos ni idea de qué estaban hablando.
 
-@300
+@302
 <en>{Appo-}\n"What did we do wrong?"
 <es>{Appo-}\n"¿Qué hemos hecho mal?"
 
-@301
+@303
 <en>{Pierre}\n"Why were those flowers so special to the principal?"
 <es>{Pierre}\n"¿Por qué eran esas flores tan especiales para la directora?"
 
-@302
+@304
 <en>{Daigo}\n"We did something like this before, right?\n......"
 <es>{Daigo}\n"¿Ya habíamos hecho algo así antes, verdad?\n..."
 
-@303
+@305
 # Revisar lo que dijeron con anterioridad.
 <en>{Kazushi}\n"All we had to do was to write statement of regret."
 <es>{Kazushi}\n"Y todo lo que tuvimos que hacer fue escribir una carta de arrepentimiento."
 
-@304
+@306
 <en>This time, it seems more serious for some reason.
 <es>Por algún motivo, esta vez parece algo mucho más serio.
 
-@310
+@312
 <en>{Mei}\n"You guys can go back to your dorm.\nYou will hear from the principal tomorrow......"
 <es>{Mei}\n"Chicos, volved al dormitorio.\nYa oiréis a la directora mañana..."
 
-@311
+@313
 <en>Just when we thought we're getting used to the new life here, we might be sending back to where we were before.
 <es>Justo cuando pensábamos que nos estábamos acostumbrado a nuestra nueva vida aquí, puede que nos manden de vuelta a donde veníamos.
 
-@316
+@318
 <en>I couldn't sleep, so I went back to that place. There was Haruka.
 <es>No podía dormirme, así que fui a aquel lugar. Allí estaba Haruka.
 
-@319
+@321
 <en>{Haruka}\n"Kazushi?"
 <es>{Haruka}\n"¿Kazushi?"
 
-@320
+@322
 <en>I could tell it was Haruka under the moonlight.
 <es>Haruka bajo la luz de la luna.
 
-@321
+@323
 <en>{Kazushi}\n"You came here, too?"
 <es>{Kazushi}\n"¿Tú también has venido?"
 
-@324
+@326
 <en>{Haruka}\n"I couldn't sleep."
 <es>{Haruka}\n"No podía dormir."
 
-@325
+@327
 <en>She looks around almost empty flower bed.
 <es>Mira alrededor del casi vacío cuadro floral.
 
-@326
+@328
 <en>{Kazushi}\n"I feel bad now for messing up this place."
 <es>{Kazushi}\n"Ahora me siento mal por haber echado a perder este lugar."
 
-@327
+@329
 <en>I could tell we did horrible thing to this land.
 <es>Parece que hicimos algo horrible a esta isla.
 
-@328
+@330
 <en>The place looked like it was hit by a tyhoon.
 <es>El lugar parecía como si hubiese sido azotado por un huracán.
 
-@329
+@331
 <en>{Kazushi}\n"This place must have been special to the principal.\nI'll applogize her tomorrow."
 <es>{Kazushi}\n"Este lugar debe habre sido especial para la directora.\nMe disculparé mañana."
 
-@330
+@332
 <en>{Kazushi}\n"I'm not sure if she will forgive me, though."
 <es>{Kazushi}\n"Aunque no estoy seguro de que me vaya a perdonar."
 
-@331
+@333
 <en>I should've asked her if it was O.K to take flowers from here.
 <es>Debí haberle preguntado si estaba bien que cogiésemos flores de aquí.
 
-@334
+@336
 <en>{Haruka}\n"This was the place my grand pa proposed her."
 <es>{Haruka}\n"Aquí es donde mi abuelo se le declaró."
 
-@335
+@337
 <en>Haruka told me something spcial to her family.
 <es>Haruka me acababa de contar algo muy especial para su familia.
 
-@336
+@338
 <en>{Kazushi}\n"Right here?"
 <es>{Kazushi}\n"¿Justo aquí?"
 
-@337
+@339
 <en>The importance of that slowly gets into my head.
 <es>La importancia de ese detalle iba calando lentamente en mi cabeza.
 
-@338
+@340
 <en>{Kazushi}\n"I didn't know this place meant so much to her......"
 <es>{Kazushi}\n"No sabía que este lugar significase tanto para ella..."
 
-@339
+@341
 <en>No wonder the principal got so shocked.
 <es>No es de extrañar que la directora se quedase tan conmocionada.
 
-@340
+@342
 <en>{Haruka}\n"They came to this island together for the reseach of Alchemy."
 <es>{Haruka}\n"Ambos vinieron a esta isla juntos para investigar la Alquímia."
 
-@341
+@343
 # La existencia de esta isla mágica había sido 
 <en>{Haruka}\n"The presence of this magical island has always been informed among my grand ma's family--"
 <es>
 
-@342
+@344
 <en>She continues as she picks up the petals on the ground.
 <es>Continúa mientras recoge pétalos del suelo.
 
-@345
+@347
 <en>{Haruka}\n"This flower is the key to Alchemy."
 <es>{Haruka}\n"Esta flor es la clave de la Alquímia."
 
-@346
+@348
 <en>{Kazushi}\n"These flowers?"
 <es>{Kazushi}\n"¿Esas flores?"
 
-@347
+@349
 <en>I knew they were beautiful, but I didn't know they meant so much to the school and Haruka's family.
 <es>Sabía que eran bonitas, pero no sabía que significasen tanto para la escuela y para la familia de Haruka.
 
-@350
+@352
 <en>{Haruka}\n"These flowers were essential to the study of Alchemy."
 <es>{Haruka}\n"Estas flores fueron esenciales para el estudio de la Alquímia."
 
-@351
+@353
 <en>I can't understand everything what she's talking about,\nbut......
 <es>No entiendo todo lo que está diciendo,\npero...
 
-@352
+@354
 <en>{Kazushi}\n"I understood how much these flowers meant for a lots of people.\nWhat can I do to make it up?"
 <es>{Kazushi}\n"He comprendido lo mucho que significan estas flores para mucha gente.\n¿Qué puedo hacer para arreglarlo?"
 
-@355
+@357
 <en>{Haruka}\n"To make it up......?"
 <es>{Haruka}\n"¿Para arreglarlo...?"
 
-@356
+@358
 <en>She looks down trying to come up with a good idea. But she can't figure out.
 <es>Mira al suelo tratando de lograr hacerse con una idea, pero no se le ocurre nada.
 
-@357
+@359
 <en>This might be it for us in this island.
 <es>
 
-@360
+@362
 <en>{Haruka}\n"Anyways, I'll appologize to her with you guys tomorrow. I have a feeling she will forgive you guys, because you are......"
 <es>
 
-@361
+@363
 <en>She didn't continue.
 <es>
 
-@362
+@364
 <en>{Kazushi}\n"What? I'm what?"
 <es>{Kazushi}\n"¿Qué? ¿Qué soy?"
 
-@363
+@365
 <en>She shook her head as if it was nothing important.
 <es>Agita la cabeza como restándole importancia.
 
-@366
+@368
 <en>{Haruka}\n"Nothing special.\nI think we should get back."
 <es>{Haruka}\n"Nada en especial.\nCreo que deberíamos volver."
 
-@367
+@369
 <en>{Kazushi}\n"All right......\nGood night."
 <es>{Kazushi}\n"Está bien...\nBuenas noches."
 
-@373
+@375
 <en>She waved as she goes back to her room.
 <es>
 
-@374
+@376
 # ¿Cuadro floral de los recuerdos?
 <en>{Kazushi}\n"Memorial flower bed......."
 <es>
 
-@375
+@377
 <en>We messed up an important place for Haruka's family.......
 <es>Hemos echado a perder un lugar importante para la familia de Haruka...
 
-@376
+@378
 <en>{Kazushi}\n"What should we do?"
 <es>{Kazushi}\n"¿Qué deberíamos hacer?"
 
-@377
+@379
 <en>We would never figured out picking flowers as a present would lead us to a big mess.
 <es>Nunca nos habríamos imagino que recoger flores para un regalo pudiese llevarnos a semejante berenjenal.
 
-@378
+@380
 # Revisar.
 <en>{Kazushi}\n"I don't care for getting wuthdrawal, but I still wanna clean up this mess."
 <es>{Kazushi}\n"No me importa que me expulsen. Pero aún así me gustaría arreglar el destrozo."
 
-@379
+@381
 <en>I can at least clean up this place little bit.
 <es>Al menos podría limpiar el sitio un poco.
 
-@380
+@382
 <en>{Kazushi}\n"Let's do it!"
 <es>{Kazushi}\n"¡Allá vamos!"
 
-@381
+@383
 <en>I told my self to bring out some energy.
 <es>Me lo dije a mí mismo para obtener fuerzas.
 
-@382
+@384
 <en>Just when I was about to start, I saw three men walking toward me.
 <es>Justo cuando iba a empezar, vi a tres hombres caminando en mi dirección.
 
-@389
+@391
 <en>{Pierre}\n"Kazushi!?"
 <es>{Pierre}\n"¿¡Kazushi!?"
 
-@390
+@392
 <en>{Appo-}\n"There you are."
 <es>{Appo-}\n"Estabas ahí."
 
-@391
+@393
 <en>{Daigo}\n"We could've gotten here sooner with you. This place is hard to find."
 <es>{Daigo}\n"Habríamos podido llegar antes contigo. Este sitio es difícil de encontrar."
 
-@392
+@394
 <en>{Kazushi}\n"What are you guys doing here?"
 <es>{Kazushi}\n"¿Qué estáis haciendo aquí, chicos?"
 
-@393
+@395
 <en>They are here with all the gardening tools.
 <es>Están todos con instrumental de jardinería.
 
-@394
+@396
 <en>{Appo-}\n"Oh my god.\nWho made all this mess?"
 <es>{Appo-}\n"Dios mío.\n¿Quién ha hecho este desastre?"
 
-@397
+@399
 <en>{Pierre}\n"That will be us."
 <es>{Pierre}\n"Pues va a ser que nosotros."
 
-@400
+@402
 <en>{Daigo}\n"Do you really think we can fix this?"
 <es>{Daigo}\n"¿De verdad penstáis que vamos a poder arreglar esto?"
 
-@401
+@403
 <en>{Kazushi}\n"What? Is that you guys are here for?"
 <es>{Kazushi}\n"¿Qué? ¿Estáis aquí para eso?"
 
-@402
+@404
 <en>{Appo-}\n"What are you talking about?\nYou're not here for that?"
 <es>{Appo-}\n"¿De qué estás hablando?\n¿Es que tú no estás aquí para lo mismo?"
 
-@403
+@405
 <en>{Kazushi}\n"Sure, I am."
 <es>{Kazushi}\n"Claro que sí."
 
-@406
+@408
 <en>{Pierre}\n"We know you.\nThat's why we brought these tools."
 <es>{Pierre}\n"Ya te conocemos.\nPor eso hemos traído estas herramientas."
 
-@407
+@409
 <en>{Kazushi}\n"You guys......"
 <es>{Kazushi}\n"Chicos..."
 
-@408
+@410
 <en>They figured out what I was going to do before I figured out myself. I thought about cleaning up this mess just a minute ago.
 <es>Se imaginaron lo que iba a hacer incluso antes de que yo lo supiera. Pensé en limpiar este desastre hace tan solo un minuto.
 
-@411
+@413
 <en>{Appo-}\n"This is so much work. Are you guys sure you are up to this? We'll get will get kicked out from this school anyways."
 <es>{Appo-}\n"Va a ser mucho trabajo. ¿Estáis seguros de hacerlo? Nos van a expulsar de la escuela de todas formas."
 
-@412
+@414
 <en>{Kazushi}\n"At least, we would get kicked out clean."
 <es>
 
-@415
+@417
 <en>{Pierre}\n"Let's just get it over with."
 <es>{Pierre}\n"Pues empecemos con esto."
 
-@418
+@420
 <en>{Daigo}\n"Good news is tomorrow is Sunday."
 <es>{Daigo}\n"Menos mal que mañana es domingo."
 
-@419
+@421
 # Revisar.
 <en>{Kazushi}\n"Let's do it guys!"
 <es>{Kazushi}\n"¡Al lío!"
 
-@431
+@433
 # Lo mismo que el script del juego este :P
 <en>{Pierre}\n"This is endless......"
 <es>{Pierre}\n"Esto no tiene fin..."
 
-@433
+@435
 <en>It seems like we didn't do anything after 2 hours.
 <es>Es como si después de dos horas no hubiésemos hecho nada.
 
-@434
+@436
 <en>We covered the holes. We planted stalks if they still look alive.
 <es>Hemos cubierto los agujros. Hemos plantado tallos si es que todavía siguen con vida.
 
-@435
+@437
 <en>It was a lot more work than we expected.
 <es>Ha sido mucho más trabajo del que pensábamos.
 
-@436
+@438
 <en>{Appo-}\n"This is not doing anything-"
 <es>{Appo-}\n"No estamos consiguiendo nada."
 
-@437
+@439
 <en>{Daigo}\n"I learned this. This is called "there is no use of spit over a milk"."
 <es>
 
-@438
+@440
 <en>{Kazushi}\n"Come on guys!\nIt's too early to give up!"
 <es>{Kazushi}\n"¡Venga chicos!\n¡Es pronto aún para rendirse!"
 
-@439
+@441
 <en>{Pierre}\n"I'm getting sleepy."
 <es>{Pierre}\n"Me está entrando sueño."
 
-@440
+@442
 <en>{Appo-}\n"I'm getting hungry."
 <es>{Appo-}\n"Y a mí hambre."
 
-@441
+@443
 <en>{Kazushi}\n"We can do it guys-"
 <es>{Kazushi}\n"Podemos lograrlo..."
 
-@442
+@444
 <en>{Daigo}\n"Let's take a break."
 <es>{Daigo}\n"Descansemos un poco."
 
-@443
+@445
 <en>{Kazushi}\n"All right!\nWe will get back to this after a break, O.K guys?!"
 <es>{Kazushi}\n"¡Está bien!\n¡Seguiremos después de un descanso, ¿vale?!"
 
-@447
+@449
 <en>{Panchu-}\n"If you wanna finish it before the sunrise, you better work your ass off now."
 <es>{Panchu-}\n"Si queréis terminarlo antes de que amanezca, será mejor que no paréis."
 
-@450
+@452
 <en>All the sudden, Panchu- showed up.
 <es>De repente, apareció Panchu-.
 
-@451
+@453
 <en>{Kazushi}\n"Panchu-!?"
 <es>{Kazushi}\n"¿¡Panchu-!?"
 
-@455
+@457
 <en>{Appo-}\n"What are you doing here!?"
 <es>{Appo-}\n"¿¡Qué haces tú aquí!?"
 
-@456
+@458
 <en>We got our ass up from the ground. Panchu- handed us a black bag.
 <es>
 
-@460
+@462
 <en>{Panchu-}\n"Eat these breads."
 <es>{Panchu-}\n"Comed estos panes."
 
-@461
+@463
 <en>There were so many breads in that bag.
 <es>Habían muchísimos panes en esa bolsa.
 
-@465
+@467
 <en>{Pierre}\n"This is just what we needed......"
 <es>{Pierre}\n"Justo lo que necesitábamos..."
 
-@469
+@471
 <en>{Panchu-}\n"Eat them quick."
 <es>{Panchu-}\n"Comedlos rápido."
 
-@477
+@479
 <en>{Kazushi}\n"Thanks!"
 <es>{Kazushi}\n"¡Gracias!"
 
-@482
+@484
 <en>While we were eating, he started to work alone.
 <es>Mientras comíamos, él empezó a trabajar solo.
 
-@483
+@485
 <en>{Kazushi}\n"Panchu-!?"
 <es>{Kazushi}\n"¿¡Panchu-!?"
 
-@486
+@488
 <en>{Pierre}\n"You don't have to do that!\nBringing breads for us is more than enough!"
 <es>{Pierre}\n"¡No tienes por qué hacer eso!\n¡Traernos panes ha sido más que suficiente!"
 
-@490
+@492
 <en>{Panchu-}\n"Shut up. Just take a rest."
 <es>{Panchu-}\n"Cállate. Limítate a descansar."
 
-@491
+@493
 <en>Panchu- continued to get dirty to work. It hit our heart.
 <es>Panchu- continuó nuestro sucio trabajo. Nos llegó al corazón.
 
-@495
+@497
 <en>{Daigo}\n"I'm done resting!"
 <es>{Daigo}\n"¡Ya he terminado de descansar!"
 
-@497
+@499
 <en>Daigo puched last piece of bread into his mouth and start working again.
 <es>Daigo se llevó el último pedazo de pan a la boca y empezó a trabajar de nuevo.
 
-@500
+@502
 <en>{Pierre}\n"I'll take that side!"
 <es>{Pierre}\n"¡Yo me encargaré de esa parte!"
 
-@504
+@506
 <en>{Appo-}\n"I got enough break.\nHey Kazushi."
 <es>{Appo-}\n"Ya he descansado suficiente.\nEy, Kazushi."
 
-@505
+@507
 <en>{Kazushi}\n"I got it.\nWe'll do this side."
 <es>{Kazushi}\n"Entendido.\nYo haré este lado."
 
-@507
+@509
 <en>Panchu- never turned his head around. He was so devoted into the work.
 <es>Panchu- no giró la cabeza ni un instante. Estaba completamente centrado en el trabajo.
 
-@513
+@515
 <en>{Kazushi}\n"What do you guys think?"
 <es>{Kazushi}\n"¿Qué pensáis chicos?"
 
-@516
+@518
 <en>{Pierre}\n"I think it's much better."
 <es>{Pierre}\n"Creo que ahora está mucho mejor."
 
-@517
+@519
 <en>Right before the sunrise, we somehow finished fixing the mess.
 <es>Justo antes del amanecer terminamos de "arreglar" en cierta manera el desastre.
 
-@525
+@527
 <en>{Appo-}\n"What do you think, Panchu-?"
 <es>{Appo-}\n"¿Qué opinas, Panchu-?"
 
-@526
+@528
 <en>{Panchu-}\n"It's all right, I guess."
 <es>{Panchu-}\n"Está bien, imagino."
 
-@527
+@529
 <en>{Daigo}\n"We did it......"
 <es>{Daigo}\n"Lo hemos conseguido..."
 
-@528
+@530
 <en>Daigo couldn't keep standing anymore. It pulled the trigger and we all sat down.
 <es>Daigo ya no podía mantenerse en pie. Y tras él, todos nos sentamos.
 
-@532
+@534
 <en>The ground was little cold and it felt so good to us.
 <es>El suelo estaba algo frío y eso nos resultaba muy agradable.
 
-@533
+@535
 <en>{Kazushi}\n"I don't wanna move anymnore-"
 <es>{Kazushi}\n"Ya no quiero volver a moverme."
 
-@536
+@538
 <en>{Pierre}\n""don't want to"? I can't move-"
 <es>{Pierre}\n"¿"No quiero"? Yo soy INCAPAZ."
 
-@540
+@542
 <en>{Panchu-}\n"Good job guys, I'll see you around."
 <es>{Panchu-}\n"Buen trabajo, chicos. Nos vemos."
 
-@544
+@546
 <en>Panchu- turned around and left as if it was nothing hard for him.
 <es>Panchu- se giró y se fue como si nada pese a todo el esfuerzo.
 
-@545
+@547
 <en>{Kazushi}\n"Thank you very much for helping us!!"
 <es>{Kazushi}\n"¡¡Muchas gracias por ayudarnos!!"
 
-@546
+@548
 <en>He looked so cool just like when he showed up here last night.
 <es>
 
-@553
+@555
 <en>{Pierre}\n"He's an iron man."
 <es>{Pierre}\n"Es un hombre de hierro."
 
-@554
+@556
 <en>{Daigo}\n"He was working harder than any of us, too."
 <es>{Daigo}\n"Y también trabajaba mucho más que ninguno de nosotros."
 
-@557
+@559
 <en>{Appo-}\n"He's so cool. I'm turning gay on him."
 <es>
 
-@558
+@560
 <en>{Pierre}\n"What......?"
 <es>{Pierre}\n"¿Qué...?"
 
-@559
+@561
 <en>We were too tired to even ask Appo- if he was serious or not.
 <es>Estábamos demasiado cansados hasta para preguntarle a Appo- si lo decía en serio o no.
 
-@560
+@562
 <en>{Kazushi}\n"Well, we did everything we could."
 <es>{Kazushi}\n"En fin. Hemos hecho todo lo que hemos podido."
 
-@567
+@569
 <en>{Pierre}\n"Yep. Let's leave everything up to our fate."
 <es>{Pierre}\n"Sí. Ahora estamos en manos del destino."
 
-@568
+@570
 <en>{Appo-}\n"We went through a lots of things before. We'll be fine."
 <es>{Appo-}\n"Ya hemos pasado por multitud de cosas. Nos irá bien."
 
-@576
+@578
 <en>{Principal}\n"You guys will be dismissed from our school."
 <es>{Directora}\n"Estáis expulsados de nuestra escuela."
 
-@577
+@579
 <en>That was fast!
 <es>¡Qué rápido!
 
-@583
+@585
 <en>{Pierre}\n"Where did our luck go?"
 <es>
 
-@584
+@586
 <en>{Daigo}\n"That sounds right."
 <es>
 
-@589
+@591
 <en>{Mei}\n"You guys applogize once again!"
 <es>{Mei}\n"¡Volved a disculparos!"
 
-@590
+@592
 <en>{Kazushi}\n"She's right......\nWe are really sorreid for what we have done!!"
 <es>{Kazushi}\n"Tiene razón...\n¡¡Estamos realmente arrepentidos de lo que hemos hecho!!"
 
-@598
+@600
 <en>{Pierre}\n"I'm sorry!!"
 <es>{Pierre}\n"¡¡Lo siento!!"
 
-@599
+@601
 <en>{Boys}\n"Me, too!!"
 <es>{Chicos}\n"¡¡Yo también!!"
 
-@605
+@607
 <en>We lowered our head as much as we could.
 <es>Inclinamos la cabeza todo lo que pudimos.
 
-@606
+@608
 <en>{Principal}\n"I know you are regretting, but I won't change my decision."
 <es>{Directora}\n"Sé que estáis arrepentidos, pero no voy a cambiar mi decisión."
 
-@607
+@609
 <en>{Kazushi}\n"No......"
 <es>{Kazushi}\n"No..."
 
-@608
+@610
 <en>......\nI can't blame her.
 <es>...\nNo puedo culparla.
 
-@614
+@616
 <en>{Mei}\n"Principal!\nWe should give them a second chance!"
 <es>{Mei}\n"¡Directora!\n¡Deberíamos darles una segunda oportunidad!"
 
-@615
+@617
 <en>{Teacher Yagami}\n"Can you at least take a look at the site?\nThey showed how much they are regretting......"
 <es>
 
-@619
+@621
 <en>{Principal}\n"Well, it is back to normal?"
 <es>
 
-@620
+@622
 <en>Her cold voice stopped Mr.Yagami.
 <es>Su fría voz interrumpió al profesor Yagami.
 
-@621
+@623
 # Revisar. ¿De todas formas?
 <en>{Teacher Yagami}\n"Well......\nbut you should take a look......"
 <es>{Profesor Yagami}\n"Bueno...\nPero deberías echar un vistazo de todas formas..."
 
-@622
+@624
 <en>{Principal}\n"I don't need any process. I need result."
 <es>
 
-@625
+@627
 <en>{Teacher Yagami}\n"Principal......"
 <es>{Profesor Yagami}\n"Directora..."
 
-@629
+@631
 <en>The principal now looks at Miss. Ibuki.
 <es>La directora mira ahora a la señorita Ibuki.
 
-@630
+@632
 <en>{Principal}\n"Miss. Ibuki.\nYou are well aware of the importance of those flowers for our school."
 <es>{Directora}\n"Señorita Ibuki.\nEres bien consciente de la importancia de esas flores para nuestra escuela."
 
-@633
+@635
 <en>{Mei}\n"Yes......"
 <es>{Mei}\n"Sí..."
 
-@634
+@636
 <en>Miss. Ibuki doesn't know what to say anymore.
 <es>La señorita Ibuki ya no sabe qué decir.
 
-@635
+@637
 <en>We still don't know how those flowers are related to Alchemy.
 <es>Nosotros seguimos sin saber la relación que tienen esas flores con la Alquímia.
 
-@636
+@638
 <en>{Principal}\n"There is nothing more I want to say to you boys."
 <es>
 
-@640
+@642
 <en>{Teacher Yagami}\n"Principal, please wait!"
 <es>
 
-@641
+@643
 <en>It's seriously bad this time.
 <es>
 
-@644
+@646
 <en>{Teacher Yagami}\n"They shlouldn't be dismissed from the school!?"
 <es>
 
-@648
+@650
 # Echarlos únicamente un tiempo en vez de permanentemente.
 <en>{Mei}\n"He's right!\nThey appologized sencerly. How about suspention instead of dismissal?!"
 <es>{Mei}\n"¡Tiene razón!\nSe han disculpado sinceramente. ¡¿Por qué no los suspendes un tiempo en vez de expulsarlos?!"
 
-@651
+@653
 <en>{Mei}\n"Everybody makes mistakes!\nIt's our job to teach them what's right instead of kicking them out......"
 <es>{Mei}\n"¡Todo el mundo comete errores!\nEs nuestro deber enseñarles lo que está bien y lo que no en vez de expulsarlos..."
 
-@652
+@654
 <en>Mr.Yagami and Miss. Ibuki was desperate to save us.
 <es>El profesor Yagami y la señorita Ibuki estaban desesperados por salvarnos.
 
-@657
+@659
 <en>{Principal}\n"Be quiet, you two."
 <es>{Directora}\n"Silencio."
 
-@658
+@660
 <en>The principal stopped them with an authority.
 <es>La directora los acalló con autoridad.
 
-@659
+@661
 <en>It seemed like she even stopped the time.
 <es>Parece hasta como si hubiese parado el tiempo.
 
-@660
+@662
 <en>{Principal}\n"Listen carefully all of you.\nThey stole flowers from our sanctualy. These boys lost their eligibility to learn at our school."
 <es>
 
-@661
+@663
 <en>{Principal}\n"They shouldn't belong here."
 <es>
 
-@666
+@668
 <en>{Haruka}\n"But they didn't know!\nIt was more of my fault ......"
 <es>{Haruka}\n"¡Pero ellos no lo sabían!\nEs más culpa mía..."
 
-@667
+@669
 <en>{Principal}\n"Ofcourse you are responsible for leaving our sanctuary unguarded."
 <es>{Directora}\n"Claro que es responsabilidad tuya por dejar el santuario desprotegido."
 
-@668
+@670
 <en>Haruka couldn't say no more.
 <es>
 
-@669
+@671
 <en>{Kazushi}\n"Excuse me.\nIt was our fault, not hers."
 <es>{Kazushi}\n"Disculpa.\nFue nuestra culpa, no la de ella."
 
-@670
+@672
 <en>The principal responded to me with a mean glare.
 <es>La directora me respondió con una mirada de odio.
 
-@671
+@673
 <en>{Kazushi}\n"!!......"
 <es>{Kazushi}\n"¡¡...!!"
 
-@672
+@674
 <en>Once you get this mean look from her eyes, you can't talk anymore.
 <es>Una vez que tus ojos te miran con ese odio, eres incapaz de articular palabra.
 
-@673
+@675
 <en>{Principal}\n"Ofcourse it is her fault, too.\nShe is in charge of protecting our sanctuary.\nThat's what we call "responsibility"."
 <es>
 
-@677
+@679
 # Culpa/castigo. Quizá mejor castigo, pero todavía no se sabía nada de ningún castigo hacia ella, ¿no?
 <en>{Pierre}\n"But if we didn't do this. She didn't have to get any punishment!"
 <es>{Pierre}\n"Pero si no hubiésemos hecho eso, ¡ella no tendría ninguna culpa!"
 
-@678
+@680
 <en>{Principal}\n"We all live in a same community in this school.\nShe needs to learn how someone else's action can affect everyone else."
 <es>
 
-@679
+@681
 <en>{Kazushi}\n"That's too harsh......"
 <es>{Kazushi}\n"Eso es demasiado cruel..."
 
-@683
+@685
 <en>{Daigo}\n"How exactly are you going to punish her?"
 <es>
 
-@686
+@688
 <en>{Principal}\n"Well, you boys are dismissal,\nshe would be......"
 <es>
 
-@691
+@693
 <en>{Haruka}\n"Please kick me off, too!"
 <es>
 
-@692
+@694
 <en>Haruka all the sudden took a step closer to the principal and yelled at her.
 <es>
 
-@693
+@695
 <en>{Haruka}\n"I want to be dismissed with them!"
 <es>{Haruka}\n"¡Quiero que me expulses como a ellos!"
 
-@694
+@696
 <en>{Kazushi}\n"What are you talking about?"
 <es>{Kazushi}\n"¿Qué estás diciendo?"
 
-@699
+@701
 <en>{Appo-}\n"You don't have to feel sorry for us, you know?"
 <es>{Appo-}\n"No tienes por qué compadecerte de nosotros, ¿sabías?"
 
-@703
+@705
 <en>{Principal}\n"They are right. What are you going to do if you really get dismissal from this school?"
 <es>
 
-@706
+@708
 <en>{Haruka}\n"What am I going to do......?"
 <es>
 
-@707
+@709
 <en>{Principal}\n"You need to think about your future when you make a statement."
 <es>
 
-@708
+@710
 <en>{Haruka}\n"But......"
 <es>{Haruka}\n"Pero..."
 
-@709
+@711
 <en>Haruka's mumbling. She doesn't know what to say.
 <es>Haruka está balbuceando. No sabe qué decir.
 
-@710
+@712
 <en>{Principal}\n"You have no other choice than learning at our school in this island."
 <es>{Directora}\n"No te queda otra opción que aprender en la escuela de esta isla."
 
-@713
+@715
 <en>{Principal}\n"Beside, no one will hire a child like you in this island."
 <es>{Principal}\n"Además, nadie contrataría a una chiquilla como tú en esta isla."
 
-@716
+@718
 <en>{Haruka}\n".................."
 <es>{Haruka}\n"..."
 
-@717
+@719
 <en>Everybody in this room is completely speechless.
 <es>Todos en la sala están completamente estupefactos.
 
-@718
+@720
 <en>{Principal}\n"Do you have anything more to say?\nYou're still a child, just listen to what I say."
 <es>
 
-@719
+@721
 <en>The way she said was very well-mannered, but the things she said to her was unacceptable.
 <es>
 
-@728
+@730
 <en>{Pierre}\n(The principal is actually a mean lady)
 <es>
 
-@729
+@731
 <en>{Daigo}\n(Are they really blood-related)
 <es>
 
-@730
+@732
 <en>{Appo-}\n(Now, I'm not so into marrying her.)
 <es>{Appo-}\n(Ahora ya no tengo tantas ganas de casarme con ella.)
 
-@736
+@738
 <en>{Haruka}\n".................."
 <es>{Haruka}\n"..."
 
-@737
+@739
 <en>Haruka looks down don't know what to say back to the principal.
 <es>Haruka agacha la cabeza. No sabe cómo replicarle a la directora.
 
-@738
+@740
 # Revisar.
 <en>It's so not like Haruka we know who always put smiles on everyone's face.
 <es>No es propio de la Haruka que conocemos, que siempre saca una sonrisa a todo el mundo.
 
-@739
+@741
 <en>I don't want to see her like this.
 <es>No quiero vela así.
 
-@740
+@742
 <en>{Kazushi}\n"Haruka,\nsay something back to her."
 <es>{Kazushi}\n"Haruka,\ndile algo."
 
-@743
+@745
 # Igual mejor "abuela".
 <en>{Haruka}\n"I can't...... grand ma is right."
 <es>{Haruka}\n"No puedo... La abuelita tiene razón."
 
-@744
+@746
 <en>{Kazushi}\n"That's not true.\nYou are capable of a lots of things."
 <es>{Kazushi}\n"Eso no es cierto.\nTú eres capaz de hacer un montón de cosas."
 
-@747
+@749
 <en>{Haruka}\n"But I don't know anything besides Alchemy and things in this island......"
 <es>{Haruka}\n"Pero yo no sé nada además de la Alquimia y cosas de esta isla..."
 
-@748
+@750
 # Frágil/débil.
 <en>I didn't know she was such a weak person.
 <es>No sabía que fuese una persona tan frágil.
 
-@749
+@751
 <en>It's hard to imagine her being like this.
 <es>Me resulta difícil de aceptar que esté así.
 
-@753
+@755
 <en>{Principal}\n"Haruka, make up your decision.\nDo you still want to be dismissed?\nOr you promise to listen to me from now on?"
 <es>{Directora}\n"Haruka, decide.\n¿Sigues queriendo que te eche?\n¿O prometes escucharme de ahora en adelante?"
 
-@757
+@759
 <en>{Haruka}\n"I......I......"
 <es>{Haruka}\n"Yo... Yo..."
 
-@758
+@760
 <en>I couldn't watch this anymore.
 <es>Ya no puedo aguantarlo más.
 
-@761
+@763
 <en>{Kazushi}\n"Haruka, come with us."
 <es>{Kazushi}\n"Haruka, ven con nosotros."
 
-@762
+@764
 <en>Before I knew it, those words came out from my mouth.
 <es>Antes de que me diese cuenta, las palabras emergieron de mi boca.
 
-@763
+@765
 <en>{Haruka}\n"......go with you guys?"
 <es>{Haruka}\n"... ¿Ir con vosotros?"
 
-@764
+@766
 <en>{Kazushi}\n"You never stepped out from this island, right?\nJust come with us."
 <es>{Kazushi}\n"Nunca has salido de esta isla, ¿no?\nVen con nosotros."
 
-@767
+@769
 <en>{Haruka}\n"What?"
 <es>{Haruka}\n"¿Qué?"
 
-@768
+@770
 <en>{Kazushi}\n"We will be kicked out from this island.\nYou can come with us."
 <es>
 
-@769
+@771
 <en>She's surprised by my offer. I'm even more surprised to offer this to her.
 <es>Estaba sorprendida de mi oferta. Y yo estoy todavía más sorprendido de habérselo dicho.
 
-@770
+@772
 <en>But, I couldn't stop myself.
 <es>Pero no pude contenerme.
 
-@771
+@773
 <en>{Kazushi}\n"You should try yourself outside this island.\nWe are old enough to try."
 <es>{Kazushi}\n"Deberías probar a salir de la isla.\nYa eres lo bastante mayor para intentarlo."
 
-@774
+@776
 <en>{Haruka}\n"But......I don't know anything outside of this island......I won't be able to do anything......"
 <es>{Haruka}\n"Pero... No sé nada que no sea de esta isla... Sería incapaz de hacer nada..."
 
-@775
+@777
 <en>{Kazushi}\n"That's why you're coming with us. We'll help out each other."
 <es>{Kazushi}\n"Pero si vienes con nosotros, nos ayudaremos mútuamente."
 
-@776
+@778
 <en>{Haruka}\n"Help out each other......?"
 <es>{Haruka}\n"¿Ayudarnos mútuamente...?"
 
-@782
+@784
 <en>{Principal}\n"What are you boys talking about?"
 <es>{Directora}\n"¿Qué estáis diciendo?"
 
-@783
+@785
 # Revisar.
 <en>{Teacher Yagami}\n"She's right, Kazushi.\nYou're not old enough to offer that to Haruka."
 <es>{Profesor Yagami}\n"Tiene razón, Kazushi.\nNo sois lo bastante mayores para ofrecer eso a Haruka."
 
-@784
+@786
 # Yes we can!
 # Revisar.
 <en>{Kazushi}\n"Yes we can!\nShe will be just a few hours away from this island."
 <es>{Kazushi}\n"¡Sí que podemos!\nEstará a unas pocas horas de esta isla."
 
-@785
+@787
 <en>{Kazushi}\n"She's never stepped out from this island?\nThat's rediculous!"
 <es>
 
-@790
+@792
 <en>{Mei}\n"Who is going to look after her?"
 <es>{Mei}\n"¿Y quién cuidará de ella?"
 
-@791
+@793
 <en>{Kazushi}\n"I will."
 <es>{Kazushi}\n"Yo lo haré."
 
-@794
+@796
 <en>{Mei}\n"......\nstop being childish."
 <es>{Mei}\n"...\nDeja de comportarte como un crío."
 
-@799
+@801
 <en>{Principal}\n"That's enough."
 <es>{Directora}\n"Ya es suficiente."
 
-@800
+@802
 <en>Everybody thought I'm crazy except for Mr.Yagami.
 <es>Todos creen que estoy loco excepto el profesor Yagami.
 
-@804
+@806
 <en>{Teacher Yagami}\n"Actually......he might be able to look after her......"
 <es>{Profesor Yagami}\n"La verdad... Él podría ser capaz de cuidar de ella..."
 
-@808
+@810
 <en>{Mei}\n"Mr.Yagami, what are you saying......?"
 <es>{Mei}\n"Profesor Yagami, ¿qué estás diciendo?"
 
-@817
+@819
 <en>{Pierre}\n"That's right.\nKazushi will be able to look after her."
 <es>{Pierre}\n"Es verdad.\nKazushi será capaz de cuidar de ella."
 
-@818
+@820
 <en>{Appo-}\n"Don't encourage him too much Pierre. He's going to depend on us."
 <es>
 
-@819
+@821
 <en>{Daigo}\n"It's better to stop Kazushi now."
 <es>{Daigo}\n"Será mejor parar a Kazushi ahora."
 
-@825
+@827
 <en>{Mei}\n"Wait a minute......"
 <es>{Mei}\n"Esperad un momento..."
 
-@826
+@828
 <en>Miss. Ibuki starts getting panic as she sees my friends reaction.
 <es>A la señorita Ibuki empieza a entrarle el pánico conforme ve la reacción de mis amigos.
 
-@830
+@832
 <en>{Principal}\n".................."
 <es>{Directora}\n"..."
 
-@831
+@833
 <en>The principal quietly observes what everyone is thinking about.
 <es>La directora observa en silencio lo que opina cada uno.
 
-@835
+@837
 <en>{Teacher Yagami}\n"Kazushi, you need to calm down, too.\nCan you really take dismissal so easily?"
 <es>
 
-@836
+@838
 <en>{Kazushi}\n"Do I have a choice?\nThe principal is kicking me out from this island.\nHaruka, make up your mind."
 <es>{Kazushi}\n"¿Acaso tengo elección?\nLa directora está expulsándome de esta isla.\nHaruka, decide."
 
-@840
+@842
 <en>{Haruka}\n"Me? Leaving this island......?"
 <es>{Haruka}\n"¿Yo? ¿Dejar esta isla...?"
 
-@845
+@847
 <en>{Principal}\n".................."
 <es>{Directora}\n"..."
 
-@846
+@848
 <en>I can tell Haruka's wondering about new world outside this island.
 <es>Haruka debe estar preguntándose sobre el mundo fuera de la isla.
 
-@847
+@849
 <en>{Kazushi}\n"Don't linit yourself. It might be easier than you think?"
 <es>{Kazushi}\n"No te autolimites. Puede ser más fácil de lo que piensas."
 
-@848
+@850
 <en>{Kazushi}\n"People don't know what they are capable of untill they try hard."
 <es>{Kazushi}\n"La gente no conoce sus límites hasta que lo intentan."
 
-@849
+@851
 <en>{Haruka}\n"Me? Leaving this island?"
 <es>{Haruka}\n"¿Yo? ¿Dejar esta isla?"
 
-@850
+@852
 <en>{Kazushi}\n"Make up your mind.\nIt's you who make the decision, not your grand ma."
 <es>{Kazushi}\n"Decide tú.\nEres tú la que tiene que tomar la decisión, no tu abuela."
 
-@851
+@853
 <en>{Haruka}\n"Me......? decide......?"
 <es>{Haruka}\n"¿Yo...? ¿Decidir...?"
 
-@852
+@854
 <en>She's confused.
 <es>Está confundida.
 
-@855
+@857
 <en>{Haruka}\n"......I ......"
 <es>{Haruka}\n"... Yo..."
 
-@861
+@863
 <en>Right when Haruka was about to make a decision, the door opened with a strong force.
 <es>Justo cuando Haruka estaba a punto de decidir, la puerta se abrió con gran fuerza.
 
-@866
+@868
 <en>{Mizuki}\n"Principal!\nPlease hold off making any decisions yet!"
 <es>{Mizuki}\n"¡Directora!\n¡Por favor, no tome ninguna decisión todavía!"
 
-@867
+@869
 <en>Mizuki and Sakura rushed into the room.\n......rest of the girls are here, too.
 <es>Mizuki y Sakura irrumpieron en la habitación...\n El resto de chicas también van con ellas.
 
-@876
+@878
 <en>{Pierre}\n"Hey, everyone is here!"
 <es>{Pierre}\n"Anda, ¡ha venido todo el mundo!"
 
-@877
+@879
 <en>{Appo-}\n"You guys miss me already?"
 <es>{Appo-}\n"¿Ya me echábais de menos?"
 
-@878
+@880
 <en>{Daigo}\n"I don't think we ever been liked to begin with."
 <es>
 
-@886
+@888
 <en>The girls who just came in stood inbetween us and the principal.
 <es>Las chicas que acababan de entrar se colocaron de pie entre nosotros y la directora.
 
-@887
+@889
 <en>{Sakura}\n"Principal!\nWe don't agree with you that you are kicking them out!"
 <es>{Sakura}\n"¡Directora!\n¡No nos parece bien que los expulséis!"
 
-@891
+@893
 <en>{Ran}\n"All they did was stealing flowers.\nThat's nothing comparing what I have done before."
 <es>{Ran}\n"Lo único que hicieron fue robar flores.\nNo es nada en comparación con lo que yo había hecho ya."
 
-@895
+@897
 <en>{Rin}\n"Ran, are you stealing stuff from school?"
 <es>{Rin}\n"Ran, ¿robabas cosas de la escuela?"
 
-@899
+@901
 <en>{Mizuki}\n"I disagree with you, too!\nThe boys didn't know what those flowers meant to this school!"
 <es>{Mizuki}\n"¡Yo también estoy disconforme!\n¡Los chicos desconocían lo que significaban esas flores para la escuela!"
 
-@900
+@902
 <en>{Kazushi}\n"Are they protecting us?"
 <es>{Kazushi}\n"¿Nos estáis protegiendo?"
 
-@909
+@911
 <en>{Pierre}\n"They are not telling the principal to kick us out, at least."
 <es>{Pierre}\n"Al menos no le están pidiendo que nos expulsen."
 
-@912
+@914
 <en>{Appo-}\n"I can't believe this many girls are siding us."
 <es>{Appo-}\n"No puedo creer que todas estas chicas estén de nuestro lado."
 
-@915
+@917
 <en>{Daigo}\n"They are making me cry."
 <es>{Daigo}\n"Van a hacer que me ponga a llorar."
 
-@921
+@923
 <en>The principal looks little surprised.
 <es>La directora parece algo sorprendida.
 
-@924
+@926
 <en>{Principal}\n"You people want them to stay?"
 <es>{Directora}\n"¿Queréis que se queden?"
 
-@925
+@927
 # Revisar.
 <en>The principal start looking at this interestingly.
 <es>La directora empieza a mirar la situación con interés.
 
-@926
+@928
 <en>The girls are making this whole thing quite interesting for the principal.
 <es>
 
-@930
+@932
 <en>{Rin}\n"We admit that what they've done to our fowers is wrong, but we still want to get to know them."
 <es>{Rin}\n"Admitimos que lo que han hecho con nuestras flores está mal, pero aún así nos gustaría conocerles."
 
-@935
+@937
 <en>{Appo-}\n"Sure-!\nI want to get along with you girls, too!"
 <es>{Appo-}\n"¡Claro!\n¡A mí también me gustaría conoceros más, chicas!"
 
-@939
+@941
 <en>{Teacher Yagami}\n"Appo-, you better be quiet."
 <es>{Profesor Yagami}\n"Appo-, será mejor que te quedes calladito."
 
-@948
+@950
 <en>{Sakura}\n"I think we'll get along just fine."
 <es>
 
-@949
+@951
 <en>{Mizuki}\n"Besides, we are responsible for what happened, too."
 <es>{Mizuki}\n"Además, nosotras también somos responsables por lo que ha pasado."
 
-@950
+@952
 <en>{Ran}\n"They thought that would touch our heart to get along better."
 <es>{Ran}\n"Ellos pensaban que eso nos conmovería y haría que nos llevásemos mejor."
 
-@951
+@953
 <en>I saw smiles on all the girls' face.
 <es>Puedo ver sonrisas en todas las caras de las chicas.
 
-@961
+@963
 <en>{Appo-}\n"This is unbelievable.\nI don't mind dying today."
 <es>{Appo-}\n"Es increíble.\nYa puedo morir feliz."
 
-@962
+@964
 <en>{Pierre}\n"Don't die.\nWe still have a slight chance of staying in this school."
 <es>{Pierre}\n"No te mueras.\nTodavía tenemos una ligera esperanza de permanecer en la escuela."
 
-@963
+@965
 <en>They might help us change principal's mind.
 <es>Podrían ayudarnos a hacer cambiar a la directora de parecer.
 
-@973
+@975
 <en>{Mizuki}\n"We'll help them rebuilt flower bed."
 <es>{Mizuki}\n"Los ayudaremos a reconstruir el cuadro floral."
 
-@974
+@976
 <en>{Rin}\n"If we start today, we can see flowers bloom by next year!"
 <es>{Rin}\n"¡Si empezamos hoy mismo, podremos ver florecer las flores el año que viene!"
 
-@977
+@979
 <en>{Sakura}\n"Rin's pro at gardening, too."
 <es>{Sakura}\n"A Rin se le da también bien la jardinería."
 
-@983
+@985
 <en>{Haruka}\n"I'll take better care of it!\nI promise this won't happen again!"
 <es>{Haruka}\n"¡Yo me encargaré de eso!\n¡Prometo que no volverá a pasar otra vez!"
 
-@988
+@990
 <en>{Principal}\n".................."
 <es>{Directora}\n"..."
 
-@989
+@991
 <en>The principal is crossing her arms thinking again......
 <es>La directora está con los brazos cruzados y pensando nuevamente...
 
-@993
+@995
 # Revisar. Parece que más que quiera replantearlo diga que se lo ha pensado ya (por lo que pasa luego).
 <en>{Principal}\n"All right.\nLet me think about their status once again."
 <es>{Directora}\n"Está bien.\nDejad que piense en la situación otra vez."
 
-@994
+@996
 <en>We barely survived this time. We will be staying here for more.
 <es>Apenas hemos sobrevivido esta vez. Permaneceremos aquí algo más.
 
-@998
+@1000
 <en>{Pierre}\n"Yes!"
 <es>{Pierre}\n"¡Sí!"
 
-@1003
+@1005
 <en>{Sakura}\n"Congratulations, you guys-!"
 <es>{Sakura}\n"¡Felicidades, chicos!"
 
-@1008
+@1010
 <en>{Haruka}\n"......thank you principal!"
 <es>{Haruka}\n"¡Gracias directora!"
 
-@1014
+@1016
 <en>{Teacher Yagami}\n"That was close."
 <es>{Profesor Yagami}\n"Ha estado cerca."
 
-@1015
+@1017
 <en>{Mei}\n"Good job, girls......"
 <es>{Mei}\n"Buen trabajo, chicas..."
 
-@1016
+@1018
 <en>Mr.Yagami and Miss. Ibuki seemed to have gotten more tired than us.
 <es>El profesor Yagami y la señorita Ibuki parecen haber acabado más agotados que nosotros.
 
-@1021
+@1023
 # Revisar. Revisar.
 <en>{Ran}\n"But principal didn't announce the official status of you guys?"
 <es>{Ran}\n"Pero la directora no ha dictado ninguna resolución final sobre vosotros, ¿no?"
 
-@1027
+@1029
 # Anachemy?
 <en>{Principal}\n"I believe there is your first Anachemy class tomorrow."
 <es>{Directora}\n"Diría que mañana es vuestra primera clase de Alquimia."
 
-@1028
+@1030
 <en>The principal opened her mouth again.
 <es>La directora volvió a hablar.
 
-@1031
+@1033
 <en>{Mei}\n"Yes, there is."
 <es>{Mei}\n"Sí, así es."
 
-@1034
+@1036
 <en>{Principal}\n"I will attend and observe the class."
 <es>{Directora}\n"Asistiré para observar la clase."
 
-@1035
+@1037
 <en>It seems like her soft mood is back.
 <es>Parece que ha vuelto a su humor de siempre.
 
-@1038
+@1040
 <en>{Principal}\n"Let me think about their status again after I observe the class."
 <es>{Directora}\n"Tomaré una decisión final tras observar la clase."
 
-@1047
+@1049
 <en>{Pierre}\n"We don't know anything about Alchemy."
 <es>{Pierre}\n"Yo no sé nada sobre la Alquímia."
 
-@1048
+@1050
 <en>{Appo-}\n"Me, too."
 <es>{Appo-}\n"Ni yo."
 
-@1049
+@1051
 <en>{Daigo}\n"Same here......"
 <es>{Daigo}\n"Yo tampoco..."
 
-@1053
+@1055
 # Por lo que dicen antes he reescrito la frase. 
 <en>Ofcourse, me either.\nNone of us knew we were going to learn Alchemy.
 <es>Y por supuesto yo menos.\nNinguno de nosotros sabía nada sobre la Alquímia.
 
-@1056
+@1058
 <en>{Principal}\n"I'll be looking forward to it."
 <es>{Directora}\n"Estoy deseando ver la clase."
 
-@1057
+@1059
 <en>We are not.
 <es>Nosotros no.
 

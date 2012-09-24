@@ -1,661 +1,661 @@
 # Comments for '01106'
 
-@12
+@14
 <en>{Sakura}\n"It's O.K Let's ask them."
 <es>
 
-@13
+@15
 <en>{Mizuki}\n"I'm not sure......"
 <es>{Mizuki}\n"No lo tengo claro..."
 
-@14
+@16
 <en>{Hu-sen}\n"I don't want to ask boys......"
 <es>{Hu-sen}\n"Yo no quiero preguntarles a los chicos..."
 
-@15
+@17
 <en>What is it?\nGirls are looking at us and whispering.
 <es>¿Qué es lo que pasa?\nLas chicas están mirándonos y cuchicheando.
 
-@23
+@25
 <en>{Pierre}\n"What do they want?"
 <es>{Pierre}\n"¿Qué es lo que quieren?"
 
-@24
+@26
 # Tú/vosotros
 <en>{Kazushi}\n"You've noticed, too?"
 <es>{Kazushi}\n"¿Tú también te has dado cuenta?"
 
-@27
+@29
 <en>{Daigo}\n"What are you guys talking about?"
 <es>{Daigo}\n"¿De qué estáis hablando?"
 
-@28
+@30
 <en>{Pierre}\n"Daigo, why are you so dull?"
 <es>
 
-@31
+@33
 <en>They pretended like they were not talking about us, when we looked at them.
 <es>Hacían como que no estaban hablando de nosotros cuando las miramos.
 
-@32
+@34
 <en>{Kazushi}\n"Did we do something wrong again?"
 <es>{Kazushi}\n"¿Ya hemos vuelto a hacer algo mal?"
 
-@35
+@37
 <en>{Daigo}\n"No we didn't.\nWe should act more magnificently."
 <es>
 
-@40
+@42
 # Me estoy excitando/Me esty poniendo cachondo.
 <en>{Pierre}\n"The girls are watching me......\nI'm getting excited."
 <es>{Pierre}\n"Las chicas me están mitando...\nMe estoy excitando."
 
-@41
+@43
 # No seas cerdo/No te comportes como un pervertido.
 <en>{Kazushi}\n"Are you all right?\nDon't be a pervert."
 <es>{Kazushi}\n"¿Te encuentras bien?\nNo seas cerdo."
 
-@49
+@51
 # Revisar "Puedo/Podemos".
 <en>{Sakura}\n"Can I talk to you guys for a second?"
 <es>{Sakura}\n"¿Podemos hablar con vosotros un momento?"
 
-@50
+@52
 <en>They finally approached to us.
 <es>Al final se nos acercaron.
 
-@51
+@53
 <en>{Kazushi}\n"Sure, what's up?"
 <es>{Kazushi}\n"Claro, ¿qué pasa?"
 
-@52
+@54
 <en>{Mizuki}\n"We need to ask you guys a big favor......"
 <es>{Mizuki}\n"Os tenemos que pedir un favor muy grande..."
 
-@53
+@55
 <en>Sakura and Mizuki seem to be asking us a favor on be half of other girls.
 <es>
 
-@60
+@62
 <en>{Pierre}\n"A favor? From us?"
 <es>{Pierre}\n"¿Haceros un favor? ¿Nosotros?"
 
-@61
+@63
 # Revisar. ¿Broma/Broma pesada?
 <en>We've never been asked a favor from girls. Pierre is doubting if this is some kind of joke from the girls.
 <es>Las chicas nunca nos habían pendido ningún favor. Pierre está planteándose que puede ser algún tipo de broma de las chicas.
 
-@66
+@68
 <en>{Pierre}\n(Are they trying to fool us into something?)
 <es>{Pierre}\n(¿Quieren tomarnos el pelo o algo?)
 
-@67
+@69
 <en>{Kazushi}\n(Hey, be nice to them. We are classmates.)
 <es>{Kazushi}\n(Oye. Trátalas bien. Que son compañeras nuestras.)
 
-@68
+@70
 <en>{Daigo}\n(But we've never been asked a favor from girls.)
 <es>{Daigo}\n(Pero nunca nos habían pedido ningún favor.)
 
-@69
+@71
 <en>I hope my guys are wrong......
 <es>Espero que las sospechas de mis colegas no sean verdad...
 
-@76
+@78
 # Revisar.
 <en>{Mizuki}\n"What are you guys talking behind doors?\nAll we're asking is a favor."
 <es>{Mizuki}\n"¿Qué estáis cuchicheando?\nSólo os estamos pidiendo un favor."
 
-@79
+@81
 <en>{Sakura}\n"Can you just give us a chance to ask?"
 <es>{Sakura}\n"¿Nos vais a dar la oportunidad de pedirlo al menos?"
 
-@80
+@82
 <en>{Kazushi}\n"Sure.\nGo ahead."
 <es>{Kazushi}\n"Claro, adelante."
 
-@81
+@83
 <en>We'll just listen to what they have in their mind.
 <es>Escucharemos lo que tengan que decirnos.
 
-@84
+@86
 <en>{Sakura}\n"Do you guys believe in spirits?"
 <es>{Sakura}\n"¿Creéis en fantasmas?"
 
-@85
+@87
 <en>{Kazushi}\n"Spirits!?"
 <es>{Kazushi}\n"¿¡Fantasmas!?"
 
-@86
+@88
 <en>What do they mean?
 <es>¿Qué quieren decir?
 
-@87
+@89
 <en>{Sakura}\n"Maybe you guys wouldn't believe what I'm going to tell you......"
 <es>{Sakura}\n"Quizá no os vayais a creer lo que vamos a deciros..."
 
-@88
+@90
 <en>{Mizuki}\n"There is ghost in our dorm."
 <es>{Mizuki}\n"Hay un fantasma en nuestro dormitorio."
 
-@89
+@91
 <en>I knew it.
 <es>Lo sabía.
 
-@95
+@97
 <en>I wish I didn't hear that.
 <es>Ojalá no lo hubiese oído.
 
-@96
+@98
 <en>{Kazushi}\n"Oh no-I'm scared-"
 <es>
 
-@101
+@103
 <en>{Pierre}\n"I told you I didn't wanna listen."
 <es>{Pierre}\n"Ya te dije que no quería escucharlo."
 
-@102
+@104
 <en>The favor they were going to ask us was simple story.
 <es>
 
-@103
+@105
 <en>They want us to find out why the ghost appears and make it go away.
 <es>Querían que averiguásemos por qué aparecía el fantasma y hacerle desaparecer.
 
-@104
+@106
 <en>That's what they want.
 <es>Eso es lo que querían.
 
-@105
+@107
 <en>{Daigo}\n"How are we supposed to find out why it shows up?"
 <es>{Daigo}\n"¿Y cómo se supone que vamos a averiguar por qué aparece?"
 
-@106
+@108
 <en>{Pierre}\n"It's impossible to get rid of ghosts.\nCan we just pretend we are working on it and instead, peep their rooms?"
 <es>{Pierre}\n"Es imposible deshacerse de los fantasmas.\n¿Y si fingimos estar investigando el asunto y aprovechamos para espiar en sus habitaciones?"
 
-@107
+@109
 <en>{Kazushi}\n"Come on guys.\nWe said we'll do it. We should take care of it.\nWhere did Appo- go anyways?"
 <es>{Kazushi}\n"Venga chicos.\nYa hemos dicho que lo haremos. Deberíamos encargarnos de ello.\nPor cierto, ¿A dónde ha ido Appo-?"
 
-@108
+@110
 # Revisar si sería la comida o la cena. Si dicen que son las 2 de la mañana...
 <en>We haven't seen him after the lunch.
 <es>No lo hemos visto desde después de la comida.
 
-@111
+@113
 <en>{Pierre}\n"He probably thought it's a pain in the ass and just took off.\nHey, it's time to go."
 <es>
 
-@112
+@114
 <en>They said the ghost shows up around 2 in the morning.\nIt's almost 2 o'clock now.
 <es>Han dicho que el fantasma aparece sobre las dos de la mañana.\nY ya son casi las 2.
 
-@115
+@117
 <en>{Daigo}\n"The ghost is woman, right?\nYou think she's beautiful?"
 <es>{Daigo}\n"¿Es UNA fantasma, verdad?\n¿Creéis que será guapa?"
 
-@116
+@118
 <en>{Pierre}\n"Make sure you don't fall for her, O.K?"
 <es>{Pierre}\n"No se te ocurre enamorarte de ella, ¿eh?"
 
-@119
+@121
 <en>{Daigo}\n"If she's really hot, I don't know."
 <es>{Daigo}\n"Si me pone, no puedo asegurártelo."
 
-@120
+@122
 <en>{Kazushi}\n"Are you serious?!!"
 <es>{Kazushi}\n"¡¿Pero os estáis escuchando?!"
 
-@121
+@123
 <en>I think I need to not only look out for the ghost but also for Daigo.
 <es>Creo que además de tener cuidado del fantasma, tocará tener cuidado de Daigo.
 
-@123
+@125
 <en>[sound of a footstep]
 <es>*Pisada*
 
-@129
+@131
 <en>{Kazushi}\n"Did you guys heat that......?"
 <es>{Kazushi}\n"¿Habéis oído eso...?"
 
-@131
+@133
 <en>[sound of a footstep]
 <es>*Pisada*
 
-@132
+@134
 <en>We all heard it.
 <es>Lo hemos oído todos.
 
-@137
+@139
 <en>{Pierre}\n"We told girls to stay in their rooms, right?\nThen there really is a ghost?"
 <es>{Pierre}\n"Les hemos dicho a las chicas que se queden en sus habitaciones, ¿no?\n¿Será entonces un fantasma de verdad?"
 
-@138
+@140
 <en>{Daigo}\n"You think she's pretty?"
 <es>{Daigo}\n"¿Crees que es guapa?"
 
-@139
+@141
 <en>{Kazushi}\n"You are not going to really fall for her, are you?\nDon't make me quit being your friend."
 <es>{Kazushi}\n"No irás a enamorarte de ella de verdad, ¿no?\nNo hagas que reconsidere nuestra amistad."
 
-@142
+@144
 # ¿Singular, plural?
 <en>[sound of foot steps]
 <es>*Pasos*
 
-@143
+@145
 <en>{Pierre}\n"It's coming this way."
 <es>{Pierre}\n"Viene de ahí."
 
-@144
+@146
 <en>We can tell she's just around the corner.
 <es>Parece que viene de aquella esquina.
 
-@145
+@147
 <en>{Kazushi}\n"Please don't come this way......"
 <es>{Kazushi}\n"Por favor, no vengas por aquí..."
 
-@146
+@148
 <en>{Pierre}\n"What are we going to do?\nShould we capture her?"
 <es>{Pierre}\n"¿Qué es lo que vamos a hacer?\n¿Deberíamos capturarla?"
 
-@147
+@149
 <en>{Daigo}\n"It's O.K to molest a ghost, right?"
 <es>{Daigo}\n"No pasa nada por meterse con un fantasma, ¿no?"
 
-@148
+@150
 <en>{Kazushi}\n"What are you thinking!?\nThrow that away from your mind."
 <es>{Kazushi}\n"¿¡En qué estás pensando!?\nQuítate eso de la cabeza."
 
-@149
+@151
 <en>{Daigo}\n[Daigo getting turned on]
 <es>{Daigo}\n*Encendiéndose*
 
-@150
+@152
 <en>Daigo is all excited like a bull.
 <es>
 
-@152
+@154
 <en>[sound of foot steps]
 <es>*Pisadas*
 
-@153
+@155
 <en>{Kazushi}\n"...!!..."
 <es>{Kazushi}\n"¡¡...!!"
 
-@154
+@156
 <en>She's really close!
 <es>¡Está muy cerca!
 
-@155
+@157
 <en>{Pierre}\n"She's coming......!"
 <es>{Pierre}\n"¡Que viene...!"
 
-@156
+@158
 <en>{Kazushi}\n"Let's get......"
 <es>
 
-@160
+@162
 <en>{Daigo}\n"#$%^&*-------!!"
 <es>{Daigo}\n"¡¡#$%^&*...!!"
 
-@162
+@164
 <en>Daigo's big body flew into the dark!
 <es>
 
-@164
+@166
 <en>He was lightning fast. He captured the suspecious lady before we blinked.
 <es>Ha sido tan rápido como el rayo. Capturó a la mujer sospechosa antes de que nos diese tiempo a pestañear.
 
-@169
+@171
 <en>{Pierre}\n"We got her!!\nWe captured the ghost!!"
 <es>{Pierre}\n"¡¡La tenemos!!\n¡¡Hemos capturado al fantasma!!"
 
-@173
+@175
 <en>{Daigo}\n"#$%^&*-!"
 <es>{Daigo}\n"¡#$%^&*!"
 
-@175
+@177
 <en>{Ghost}\n"Get away from me---!\nHe's got hard on!!\nHe's gonna rape me-----!!"
 <es>{Fantasma}\n"¡Aléjate de mí...!\n¡¡La tiene empalmada!!\n¡¡Me va a violar...!!"
 
-@176
+@178
 <en>{Kazushi}\n"Daigo!\nYou 're making a big mistake!!"
 <es>{Kazushi}\n"¡Daigo!\n¡¡Estás cometiendo un grave error!!"
 
-@179
+@181
 <en>{Pierre}\n"Hey hold on.\nDoesn't her voice sound familiar?"
 <es>
 
-@181
+@183
 <en>{Ghost}\n"Get away from me------!!"
 <es>{Fantasma}\n"¡¡Aléjate de mí...!!"
 
-@182
+@184
 <en>{Kazushi}\n"You are right......\nI think I hear this voice everyday."
 <es>{Kazushi}\n"Tienes razón...\nTengo la sensación de escuchar esta voz todos los días."
 
-@183
+@185
 <en>{Ghost}\n"Daigo......stop, No!!!"
 <es>{Fantasma}\n"Daigo... Para... ¡¡No!!"
 
-@184
+@186
 <en>It was clearly Appo- who was screaming.
 <es>Era claramente Appo- el que estaba gritando.
 
-@187
+@189
 <en>{Kazushi}\n"Appo-, what are you doing here......?"
 <es>{Kazushi}\n"Appo-, ¿qué estás haciendo aquí...?"
 
-@188
+@190
 <en>Appo- was wearing a wig and woman's clothes.
 <es>
 
-@193
+@195
 <en>{Daigo}\n"Appo-?"
 <es>{Daigo}\n"¿Appo-?"
 
-@194
+@196
 <en>{Kazushi}\n"What are you doing here?\nWhy are you wearing those?"
 <es>{Kazushi}\n"¿Qué estás haciendo aquí?\n¿Y por qué llevas puesto eso?"
 
-@201
+@203
 <en>{Pierre}\n"You are the ghost!?\nStop fooling around!"
 <es>{Pierre}\n"¿¡Eras tú el fantasma!?\n¡Deja de hacer el subnormal!"
 
-@205
+@207
 <en>{Appo-}\n"I'm not fooling around!\nI'm dead serious!"
 <es>{Appo-}\n"¡No estoy haciendo el subnormal!\n¡De verdad que estoy muerto!"
 
-@206
+@208
 <en>I don't know what kind of reason he has to be dead serious sneaking into girls' dorm wearing a wig.
 <es>
 
-@207
+@209
 <en>{Appo-}\n"I found out it's so easy getting in here disguising into a girl!"
 <es>{Appo-}\n"¡He descubierto que es facilísimo extrar aquí disfrazándose de chica!"
 
-@208
+@210
 <en>{Pierre}\n"Then why didn't you ask us to join?!"
 <es>{Pierre}\n"¡Entonces, ¿por qué no nos dijiste que viniésemos contigo?!"
 
-@211
+@213
 <en>{Appo-}\n"Well......\nI wanted to enjoy my idea all to myself."
 <es>{Appo-}\n"Bueno...\nQuería disfrutar de la idea yo solito."
 
-@214
+@216
 <en>{Daigo}\n"What a big heart you got."
 <es>{Daigo}\n"Muy amable por tu parte."
 
-@215
+@217
 <en>{Appo-}\n"I was going to share this idea once I enjoyed enough."
 <es>{Appo-}\n"Tenía intención de compartirla en cuanto hubiese disfrutado lo suficiente."
 
-@216
+@218
 <en>{Kazushi}\n"That's enough."
 <es>{Kazushi}\n"Ya está bien."
 
-@217
+@219
 <en>We found out it was Appo-.\nThe problem is......
 <es>Ya hemos descubierto que era Appo-.\nEl problema es...
 
-@218
+@220
 <en>{Kazushi}\n"What should we tell to girls?"
 <es>{Kazushi}\n"¿Qué vamos a decirles a las chicas?"
 
-@221
+@223
 <en>{Appo-}\n"Please!\nDon't turn me in!\nI don't want to lose my clean image!"
 <es>{Appo-}\n"¡Por favor!\n¡No me delatéis!\n¡No quiero perder mi inmaculada imagen!"
 
-@222
+@224
 <en>{Kazushi}\n"I don't think you have clean image among them."
 <es>{Kazushi}\n"Dudo mucho que ellas tengan una imagen inmaculada sobre ti."
 
-@225
+@227
 <en>{Pierre}\n"We can just make up a story.\nLet's tell them we took care of it or something."
 <es>{Pierre}\n"Nos podemos inventar algo.\nDecirles que nos hemos encargado de ello o algo."
 
-@228
+@230
 <en>{Daigo}\n"But......"
 <es>{Daigo}\n"Pero..."
 
-@229
+@231
 <en>{Kazushi}\n"But what?"
 <es>{Kazushi}\n"¿Pero qué?"
 
-@232
+@234
 <en>{Daigo}\n"I think they already found out."
 <es>{Daigo}\n"Creo que ya se han enterado."
 
-@235
+@237
 <en>{Pierre}\n"What? ......Shit!?"
 <es>{Pierre}\n"¿Qué...? Joder."
 
-@245
+@247
 <en>Before we know it, we were surrounded by the girls.
 <es>Antes de que nos diésemos cuenta, estábamos rodeado de chicas.
 
-@246
+@248
 <en>{Pierre}\n"Since when?"
 <es>{Pierre}\n"¿Desde cuando?"
 
-@247
+@249
 <en>{Hu-sen}\n"I knew it was you guys!!"
 <es>{Hu-sen}\n"¡¡Sabía que era cosa vuestra!!"
 
-@248
+@250
 <en>{Kazushi}\n""you guys"!?"
 <es>{Kazushi}\n"¿¡"Vuestra"!?"
 
-@257
+@259
 <en>{Pierre}\n"Not us!\nIt's Appo- who......"
 <es>{Pierre}\n"¡Nuestra no!\nEra Appo- el que..."
 
-@260
+@262
 <en>{Appo-}\n"Yes, we all did it!"
 <es>{Appo-}\n"¡Sí, éramos nosotros!"
 
-@261
+@263
 <en>{Kazushi}\n"You betrayer!!"
 <es>{Kazushi}\n"¡¡Traidor!!"
 
-@262
+@264
 <en>{Appo-}\n"I thought we are friends!!"
 <es>{Appo-}\n"¡¡Pensaba que érais mis amigos!!"
 
-@263
+@265
 <en>{Daigo}\n"It's not a good time to argue guys."
 <es>{Daigo}\n"No es un buen momento para discutir, chicos."
 
-@273
+@275
 <en>It seems like more girls are now awake surrounding us.
 <es>Parece que ahora hay hasta más chicas despiertas rodeándonos.
 
-@274
+@276
 # Revisar.
 <en>{Kazushi}\n"Why don't we all calm down.\nWe should sit down and talk."
 <es>{Kazushi}\n"¿Por qué no nos tranquilizamos todos un poquito?\nPodemos relajarnos y hablarlo tranquilamente."
 
-@277
+@279
 <en>{Hu-sen}\n"You guys are dead meat."
 <es>{Hu-sen}\n"Estáis muertos."
 
-@278
+@280
 <en>{Kazushi}\n"We can explain!"
 <es>{Kazushi}\n"¡Podemos explicarlo!"
 
-@283
+@285
 <en>{Hu-sen}\n"Rei! Take care of them!"
 <es>{Hu-sen}\n"¡Rei! ¡Encárgate de ellos!"
 
-@288
+@290
 <en>Big Rei steps out from the crowd.
 <es>La Gran Rei sale de la muchedumbre.
 
-@289
+@291
 <en>{Kazushi}\n"Hear us out---!"
 <es>{Kazushi}\n"¡Escuchadnos...!"
 
-@293
+@295
 # Revisar.
 <en>{Appo-}\n"Big Rei is coming to kill us!\nHer huge arms are about to get us!"
 <es>{Appo-}\n"¡La Gran Rei ha venido a matarnos!\n¡Sus enormes brazos nos aplastarán!"
 
-@296
+@298
 <en>{Appo-}\n"She grabed me like a fork-lift!\nI'm floating in the air!\nWhat a massive power she's got!"
 <es>
 
-@297
+@299
 <en>{Rei}\n"Shut up!\nYou deserve this!"
 <es>{Rei}\n"¡Cállate!\n¡Te lo mereces!"
 
-@306
+@308
 <en>[Appo- getting smashed]
 <es>*Appo- siendo aplastado*
 
-@308
+@310
 <en>{Kazushi}\n"Appo-!!"
 <es>{Kazushi}\n"¡¡Appo-!!"
 
-@311
+@313
 <en>{Rei}\n"Who is next?\nYou!?"
 <es>{Rei}\n"¿Quién es el siguiente?\n¿¡Tú!?"
 
-@315
+@317
 <en>{Pierre}\n"No......please......"
 <es>{Pierre}\n"No... Por favor..."
 
-@321
+@323
 <en>[Pierre getting smashed]
 <es>*Pierre siendo aplastado*
 
-@323
+@325
 <en>{Kazushi}\n"What a!!?"
 <es>
 
-@333
+@335
 <en>{Kazushi}\n"Ouch......"
 <es>{Kazushi}\n"Au..."
 
-@334
+@336
 <en>My head hurts like hell.\nWe all got our ass kicked by Big Rei.
 <es>Me duele la cabeza una barbaridad.\nLa Gran Rei nos dio una gran paliza a todos.
 
-@337
+@339
 <en>{Appo-}\n"Shame on you guys."
 <es>{Appo-}\n"Vergüenza debería daros."
 
-@342
+@344
 <en>{Pierre}\n"You were the first one to get your ass kicked.\nAnd We god this because of you."
 <es>{Pierre}\n"Tú has sido el primero en recibir.\nY nosotros también hemos recibido por tu culpa."
 
-@343
+@345
 <en>{Appo-}\n"I know......sorry......"
 <es>{Appo-}\n"Lo sé... Lo siento..."
 
-@350
+@352
 <en>{Daigo}\n"I think they hate us once again."
 <es>{Daigo}\n"Creo que ya vuelven a odiarnos."
 
-@351
+@353
 <en>{Kazushi}\n"Deffinately."
 <es>{Kazushi}\n"Seguro."
 
-@352
+@354
 # "Culpa mía."/"Mea culpa..."
 <en>{Appo-}\n"My fault guys."
 <es>{Appo-}\n"Culpa mía."
 
-@353
+@355
 <en>{Kazushi}\n"Well, what's done is done."
 <es>{Kazushi}\n"Bueno. Lo hecho, hecho está."
 
-@354
+@356
 <en>Although, it's going to be tough to face them from tomorrow on.
 <es>Aunque va a resultar duro mirarles a la cara a partir de mañana.
 
-@355
+@357
 <en>{Kazushi}\n"I'm so scard to see them tomorrow."
 <es>{Kazushi}\n"Tengo miedo de verlas mañana."
 
-@363
+@365
 <en>Just like how we expected, it was like hell in the class.
 <es>
 
-@370
+@372
 <en>{Pierre}\n"I wanna go home......"
 <es>{Pierre}\n"Quiero ir a casa..."
 
-@371
+@373
 <en>{Daigo}\n"......my stomach is hurting......"
 <es>{Daigo}\n"Me duele el estómago..."
 
-@374
+@376
 <en>{Appo-}\n"Hey!\nWhat are you guys looking ar-?!"
 <es>
 
-@375
+@377
 <en>{Kazushi}\n"Stop!!\nDon't yell at them!!"
 <es>{Kazushi}\n"¡¡Para!!\n¡¡No les grites!!"
 
-@376
+@378
 <en>I feel him. He needs to put up a bluff to stay strong.
 <es>
 
-@383
+@385
 <en>{Hu-sen}\n"What a loser."
 <es>{Hu-sen}\n"Menudo perdedor."
 
-@386
+@388
 <en>{Appo-}\n"You call me a loser----!?"
 <es>{Appo-}\n"¿¡Me estás llamando perdedor...!?"
 
-@390
+@392
 <en>{Rei}\n"Is there a problem!?"
 <es>{Rei}\n"¿¡Algún problema!?"
 
-@393
+@395
 <en>{Appo-}\n"No!\nThere is absolutely no problem!!"
 <es>
 
-@398
+@400
 <en>{Daigo}\n"Yes, he is a loser."
 <es>{Daigo}\n"Sí. Es un perdedor."
 
-@399
+@401
 <en>After last night, we can wet out pants just by hearing Rei raise her voice.
 <es>Después de lo de anoche, nos hacemos caquita con el mero hecho de oír a Rei alzar la voz.
 
-@411
+@413
 <en>{Appo-}\n"We need to receive more love."
 <es>{Appo-}\n"Necesitamos recibir más amor."
 
-@412
+@414
 <en>{Pierre}\n"It could be from anyone.\nI need love from girls."
 <es>{Pierre}\n"Tal y como lo has dicho podría ser de cualquiera.\n¡Yo necesito amor de chicas!"
 
-@413
+@415
 <en>{Daigo}\n"We lost all the confidence in the world."
 <es>{Daigo}\n"Hemos perdido toda la confianza que se podía perder en nosotros."
 
-@414
+@416
 <en>{Kazushi}\n"We did."
 <es>{Kazushi}\n"Pues sí."
 
-@415
+@417
 <en>Isn't there anyone who can still be nice to us?
 <es>
 
-@432
+@434
 <en>I don't think so......
 <es>No lo creo...
 
-@433
+@435
 <en>{Kazushi}\n"Day like this, we should go back to our room and sleep."
 <es>{Kazushi}\n"Los días así, deberíamos pasarlos en cama durmiendo."
 
-@439
+@441
 <en>{Pierre}\n"Yeah, we should."
 <es>{Pierre}\n"Eso mismo."
 

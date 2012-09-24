@@ -1,402 +1,402 @@
 # Comments for '00956'
 
-@7
+@9
 <en>{Principal}\n"Let me try it with you this time."
 <es>{Directora}\n"Déjame intentarlo ahora contigo."
 
-@8
+@10
 <en>The principal sat down next to me.
 <es>La directora se sentó junto a mí.
 
-@9
+@11
 <en>{Kazushi}\n"With me?"
 <es>{Kazushi}\n"¿Conmigo?"
 
-@12
+@14
 <en>{Principal}\n"Yes."
 <es>{Directora}\n"Sí."
 
-@13
+@15
 <en>Even though she's smiling, she's making me really nervous.
 <es>Pese a que esté sonriendo, me está poniendo realmente nervioso.
 
-@16
+@18
 <en>{Principal}\n"Just follow the same steps you just learned."
 <es>{Directora}\n"Limítate a seguir los pasos que acabas de aprender."
 
-@17
+@19
 <en>{Kazushi}\n"Yes."
 <es>{Kazushi}\n"Sí."
 
-@19
+@21
 <en>I think I can handle that.
 <es>Creo que podré conseguirlo.
 
-@20
+@22
 <en>{Kazushi}\n"Like this?"
 <es>{Kazushi}\n"¿Así?"
 
-@22
+@24
 <en>The liquid inside a flask is beginning to boil.
 <es>El líquido del interior del frasco está empezando a hervir.
 
-@23
+@25
 <en>{Principal}\n"You need to relax.\nIf you are tense, the result wouldn't come out good."
 <es>{Directora}\n"Tienes que relajarte.\nSi estás tenso, el resultado no podrá ser bueno."
 
-@24
+@26
 <en>{Kazushi}\n"Yes."
 <es>{Kazushi}\n"Vale."
 
-@25
+@27
 <en>I took a few big breath.
 <es>Respiro hondo varias veces.
 
-@26
+@28
 <en>{Kazushi}\n[Kazushi taking deep breath]
 <es>{Kazushi}\n*Respirando hondo*
 
-@29
+@31
 <en>When I inhaled, I smelled something really good.
 <es>Al inhalar, olí algo muy bueno.
 
-@30
+@32
 <en>It's the flowers.
 <es>Son las flores.
 
-@33
+@35
 <en>{Principal}\n"Very good.\nYou 're much better now."
 <es>{Directora}\n"Muy bien.\nAhora estás mucho mejor."
 
-@34
+@36
 <en>The principal looked into the flask and smiled.
 <es>La directora miró al frasco y sonrió.
 
-@37
+@39
 <en>{Principal}\n"Two substances has we are trying to mix are called "king"and "queen"."
 <es>{Principal}\n"Las dos sustancias que estamos intentando mezclar se llaman "rey" y "reina"."
 
-@38
+@40
 <en>{Kazushi}\n""king"and "queen"?"
 <es>{Kazushi}\n"¿"Rey" y "reina"?"
 
-@39
+@41
 <en>They named "king"and "queen"?\nThe Alchemy is romantic.
 <es>¿Los llaman "rey" y "reina"?\nLa alquimia es muy romántica.
 
-@42
+@44
 <en>{Principal}\n"This goes in next."
 <es>{Directora}\n"Esto es lo siguiente."
 
-@43
+@45
 <en>It's the flowers. I've come this far last time, too.
 <es>La flor. Antes también había llegado a este punto.
 
-@44
+@46
 <en>{Kazushi}\n"Here it goes."
 <es>{Kazushi}\n"Allá vamos."
 
-@45
+@47
 <en>I grabbed the flower.
 <es>Cogí la flor.
 
-@46
+@48
 <en>{Kazushi}\n"...!?..."
 <es>{Kazushi}\n"¿¡...!?"
 
-@47
+@49
 <en>I felt a sharp pain at the tip of my fingers.
 <es>Sentí un dolor intenso en la yema de los dedos.
 
-@48
+@50
 <en>I didn't want that to stop our experiment, so I didn't tell anyone that.
 <es>No quería parar el experimento, así que no se lo dije a nadie.
 
-@49
+@51
 <en>Inside the flask is turning black.
 <es>El interior del frasco se está volviendo negro.
 
-@52
+@54
 <en>{Principal}\n"This means that the substances are dying once."
 <es>
 
-@53
+@55
 <en>{Kazushi}\n"Dying......"
 <es>{Kazushi}\n"¿Muriendo...?"
 
-@54
+@56
 <en>{Principal}\n"Yes, death.\nThe substances die for once and......"
 <es>
 
-@55
+@57
 <en>The liquid is changing its color once again.
 <es>El líquido está cambiando de color de nuevo.
 
-@56
+@58
 <en>{Principal}\n"They rise again."
 <es>
 
-@57
+@59
 <en>It's changing into white now.\nIt's a perfect image of life and death.
 <es>Está cambiando a blanco ahora.\nEs una imagen perfecta sobre la vida y la muerte.
 
-@58
+@60
 <en>It's the color of funerals.
 <es>
 
-@59
+@61
 <en>{Principal}\n"The king and the queen die once and rise again."
 <es>
 
-@60
+@62
 <en>{Principal}\n"We call this stage. Th engagement of the king and the queen."
 <es>
 
-@61
+@63
 <en>{Kazushi}\n"Engagement?\nThe terms are so romantic."
 <es>
 
-@64
+@66
 <en>{Principal}\n"They should be.\nThe Alchemy is study of Romance."
 <es>
 
-@65
+@67
 <en>{Kazushi}\n"I see-"
 <es>{Kazushi}\n"Ya veo."
 
-@66
+@68
 <en>I'm impressed.
 <es>Estoy impresionado.
 
-@67
+@69
 <en>As matter of a fact, changing lead into gold is kind of romantic.
 <es>La verdad es que transmutar el plomo en oro es bastante romántico.
 
-@68
+@70
 <en>{Principal}\n"The king and the queen will mix and rise as a blessing new life."
 <es>
 
-@69
+@71
 <en>After it turned into red, golden sun appeared in the middle of the flask
 <es>
 
-@70
+@72
 <en>{Kazushi}\n"Something came up in the middle."
 <es>
 
-@71
+@73
 <en>It's like a little rock.\nShining gold in the middle of red liquid.
 <es>
 
-@74
+@76
 <en>{Principal}\n"This is the completion."
 <es>
 
-@77
+@79
 <en>The principal turned off the fire.\nShe reaches inside the flask and picked the golden rock.
 <es>La directora apagó el fuego y sacó la roca dorada del interior con la mano.
 
-@78
+@80
 <en>{Kazushi}\n"Isn't it hot?"
 <es>{Kazushi}\n"¿No quema?"
 
-@81
+@83
 <en>{Principal}\n"Go ahead and touch it."
 <es>{Directora}\n"Adelante, tócalo."
 
-@82
+@84
 <en>She offered me to touch the rock.
 <es>Me ofreció tocar la roca.
 
-@83
+@85
 <en>{Kazushi}\n"All right......"
 <es>
 
-@84
+@86
 <en>I expected it to be burning hot.
 <es>Esperaba que estuviese quemando.
 
-@85
+@87
 <en>{Kazushi}\n"It's not hot at all."
 <es>{Kazushi}\n"No está para nada caliente."
 
-@86
+@88
 <en>Not only it's not hot, it's not hard either.\nIt felt like it is a living thing.
 <es>
 
-@93
+@95
 <en>{Haruka}\n"Great job, Kazushi. You did it well."
 <es>{Haruka}\n"Bien hecho, Kazushi. Lo has conseguido."
 
-@94
+@96
 <en>{Kazushi}\n"This is the completion?"
 <es>{Kazushi}\n"¿Este es el estado completo?"
 
-@95
+@97
 <en>I didn't know the final stage of the experiment.
 <es>No sabía cual era la última parte del experimento.
 
-@96
+@98
 <en>{Kazushi}\n"What is this by the way?"
 <es>{Kazushi}\n"Y por cierto, ¿qué es eso?"
 
-@97
+@99
 <en>It's shining bright, but it sure is not gold.
 <es>Está brillando, pero desde luego oro no es.
 
-@101
+@103
 <en>{Mei}\n"Here you go, Principal."
 <es>
 
-@102
+@104
 <en>Miss. Ibuki brought a pot.
 <es>
 
-@103
+@105
 <en>The principal planted the golden rock in a pot.
 <es>
 
-@107
+@109
 <en>{Principal}\n"This is......"
 <es>{Directora}\n"Esto es..."
 
-@108
+@110
 <en>She waters the pot as she continues to explain.\nBefore she finish explaining what it is, we saw a plant growing.
 <es>
 
-@109
+@111
 <en>{Kazushi}\n"Wow!"
 <es>
 
-@110
+@112
 <en>It was like magic......
 <es>Era casi como magia...
 
-@111
+@113
 <en>{Kazushi}\n"A seed?"
 <es>{Kazushi}\n"¿Una semilla?"
 
-@114
+@116
 <en>{Principal}\n"We can say it is.\nI will have all of you make this and plant them."
 <es>
 
-@115
+@117
 <en>{Kazushi}\n"I see."
 <es>
 
-@116
+@118
 <en>We can fix the flower bed.
 <es>Podemos arreglar el cuadro floral.
 
-@117
+@119
 <en>{Principal}\n"One day, that place will be filled with flowers once again."
 <es>
 
-@118
+@120
 <en>{Kazushi}\n"That's a good idea."
 <es>
 
-@119
+@121
 <en>We can fix our mess.
 <es>Podemos corregir nuestro error.
 
-@127
+@129
 <en>{Pierre}\n"We're going to make a lot of seeds!"
 <es>{Pierre}\n"¡Vamos a hacer un montón de semillas!"
 
-@128
+@130
 <en>{Daigo}\n"But, can we really make them?"
 <es>{Daigo}\n"Pero, ¿de verdad que podemos hacerlas?"
 
-@129
+@131
 <en>{Appo-}\n"Just don't give up till you make one."
 <es>
 
-@139
+@141
 <en>{Haruka}\n"I'll help you guys-"
 <es>{Haruka}\n"Yo os ayudaré, chicos."
 
-@140
+@142
 <en>{Mizuki}\n"I guess I should help, too."
 <es>
 
-@141
+@143
 <en>{Hu-sen}\n"I'm in this class, so I guess I'm going to do it, too."
 <es>
 
-@142
+@144
 <en>Whether willing to or not willing to, the girl are going to help us.
 <es>
 
-@143
+@145
 <en>{Kazushi}\n"Thanks girls!\nLet's do it."
 <es>
 
-@148
+@150
 <en>{Kazushi}\n"Is this all?"
 <es>
 
-@149
+@151
 <en>Afterschool, I planted all the seeds everyone made.
 <es>
 
-@152
+@154
 <en>{Daigo}\n"Do you think that's enough?"
 <es>
 
-@153
+@155
 <en>We couldn't make as many as I was hoping to.
 <es>No pudimos hacer todas las que me hubiese gustado.
 
-@158
+@160
 <en>{Haruka}\n"That should do it."
 <es>{Haruka}\n"Con eso debería bastar."
 
-@159
+@161
 <en>{Kazushi}\n"Really?"
 <es>{Kazushi}\n"¿En serio?"
 
-@160
+@162
 <en>{Haruka}\n"Those are actually not seeds."
 <es>{Haruka}\n"En realidad no son semillas."
 
-@167
+@169
 <en>{Pierre}\n"Then why are we planting those?"
 <es>{Pierre}\n"¿Entonces por qué las estamos plantando?"
 
-@168
+@170
 <en>{Haruka}\n"Those rocks actually work as fertilizer to let those flowers to bloom."
 <es>
 
-@169
+@171
 <en>{Haruka}\n"The flowers sense the power of the rocks and start blooming."
 <es>
 
-@170
+@172
 <en>{Kazushi}\n"Sounds interesting."
 <es>
 
-@173
+@175
 <en>{Haruka}\n"I'm sure we will see a lots of flowers soon."
 <es>{Haruka}\n"Estoy convencida de que podremos ver un montón de flores muy pronto."
 
-@174
+@176
 <en>I can't wait to see this place gets filled with the flowers once again.
 <es>Estoy deseando ver de nuevo este lugar repleto de flores.
 
-@177
+@179
 <en>{Daigo}\n"Whenever I have free time, I will make them again."
 <es>
 
-@178
+@180
 <en>{Kazushi}\n"Yeah, we should."
 <es>
 
-@179
+@181
 <en>{Haruka}\n"I will help you guys, too-"
 <es>{Haruka}\n"Yo también os ayudaré."
 
-@180
+@182
 # Revisar.
 <en>It's probably our will than anything else which will let the flowers bloom in the end.
 <es>Probablemente sea nuestro deseo y no otra cosa lo que hará que las flores florezcan al final.
