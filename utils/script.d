@@ -235,14 +235,18 @@ class BSS {
 			}
 
 			char[] pushStr() {
-				char *ptr = cast(char *)data.ptr + cast(int)*(++op_ptr);
+				int pos = cast(int)*(++op_ptr);
+				//writefln("    : %08X", pos);
+				char *ptr = cast(char *)data.ptr + pos;
 				if (cast(uint *)ptr < cast(uint *)op_end) op_end = cast(uint *)ptr;
 
 				char[] v = std.string.toString(ptr);
+				//writefln("      '%s'", v);
 				op.push(v);
 				return v;
 			}
 			
+			//writefln("%08X", op.type);
 			switch (op.type) {
 				case 0x0_00: pushInt(); break; // PUSH_INT
 				case 0x0_01: pushPtr(); break; // PUSH_ADDR?
@@ -472,14 +476,20 @@ class BSS {
 					line_pos = pos + 1;
 					sstack = OP(-1);
 				break;
-				case 0x00: sstack.push(op.i[0]); break;
-				case 0x03: sstack.push(op.s[0]); break;
+				case 0x00:
+					sstack.push(op.i[0]);
+				break;
+				case 0x03:
+					//writefln("%s", op.s[0]);
+					sstack.push(op.s[0]);
+				break;
 				case 0x1_40: // TEXT_WRITE
 					//writefln("TEXT_WRITE");
 					char[] r;
-					char[] title = sstack.s[1].strip();
+					char[] title = sstack.s[$ - 2].strip();
 					if (title.length) r ~= "{" ~ title ~ "}\n";
-					r ~= sstack.s[0];
+					r ~= sstack.s[$ - 1];
+					//writefln(" ## %s", title);
 					acme.add(line, r);
 				break;
 				default:
