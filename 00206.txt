@@ -392,11 +392,11 @@
 <en>{Kazushi}\n"......I'll eat."
 <es>{Kazushi}\n"Comeré..."
 
+### Cambio de escena. En la habitación.
+
 @281
 <en>I'll think about our situation after I feed myself.
 <es>Ya pensaré sobre nuestra situación después de comer algo.
-
-### Cambio de escena. En la habitación.
 
 @290
 <en>{Kazushi}\n"So we came back."
@@ -661,6 +661,10 @@
 @380
 <en>{Haruka}\n"Also, from now on, no more perverted stuffs, O.K?"
 <es>{Haruka}\n"Y también de ahora en adelante, no más guarradas, ¿vale?"
+
+@385
+<en>{Haruka}\n"Some girls here have lived a sheltered life and never been around boys."
+<es>
 
 @381
 <en>She's right. Many girls here are not immuned to boys' nature.

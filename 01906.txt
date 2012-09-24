@@ -51,12 +51,8 @@
 <en>{Rei}\n"You don't know what you are appologizing for?"
 <es>{Rei}\n"¿No sabes por qué te estás disculpando?"
 
-@20
-# Revisar.
-<en>What kind of a man are you?
-<es>
-
 @21
+# Revisar.
 <en>{Kazushi}\n"What do you guys need?"
 <es>{Kazushi}\n"¿Qué es lo que necesitáis entonces?"
 

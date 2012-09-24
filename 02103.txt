@@ -96,10 +96,6 @@
 <en>Someone came?
 <es>
 
-@47
-<en>A girl's voice......Is it Rin?
-<es>
-
 @50
 <en>{Ran}\n"They came.Hide."
 <es>
@@ -158,10 +154,6 @@
 
 @70
 <en>{Kazushi}\n"Re, really?"
-<es>
-
-@71
-<en>I want to see.
 <es>
 
 @72
@@ -233,11 +225,7 @@
 <es>
 
 @91
-<en>......I started getting dizzy. The conversatition is getting more realistic.
-<es>
-
-@92
-<en>If this kind of conversation continues, I can't keep my mind straight.
+<en>......I started getting dizzy. The conversatition is getting more realistic. If this kind of conversation continues, I can't keep my mind straight.
 <es>
 
 @93

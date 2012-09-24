@@ -444,6 +444,10 @@
 <en>All of a sudden, I am pulled down.
 <es>
 
+@184
+<en>Splash!!
+<es>
+
 @185
 <en>Wooow!?
 <es>
@@ -1098,10 +1102,6 @@
 
 @439
 <en>We push the fish boat all together at once. We are gonna make it once we just push along with the current of waves.
-<es>
-
-@440
-<en>Then the wave should take it from there naturally.
 <es>
 
 @445
@@ -4529,11 +4529,7 @@
 <es>
 
 @1763
-<en>But in my case, something noisy always happen - - like blowing up flasks.
-<es>
-
-@1764
-<en>Such visible effects come about at each experiment I conduct, but truthfully, they are bit scary.
+<en>But in my case, something noisy always happen - - like blowing up flasks. Such visible effects come about at each experiment I conduct, but truthfully, they are bit scary.
 <es>
 
 @1767

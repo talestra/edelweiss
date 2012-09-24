@@ -696,10 +696,6 @@
 <en>Ms.Mei makes sulky face. Does she do that because she wanna show emotional dependency to him as an adult?
 <es>
 
-@408
-<en>I envy Miya who gets that kind of dependency from Ms.Mei.
-<es>
-
 @411
 <en>{Mr.Miya}\n"But I still think you must have a reason why you chose Kazushi. As an alchemist, you should count on your intuition."
 <es>
@@ -870,10 +866,6 @@
 
 @487
 <en>{Mr.Miya}\n"Is something wrong with Hisae?"
-<es>
-
-@488
-<en>I think Ms.Mei calls her the same way he does. Hisae is the principal's first name. Hisae Aozora.
 <es>
 
 @489
@@ -2332,10 +2324,6 @@
 <en>I acted crazily without thinking due to the typhoon.
 <es>
 
-@1366
-<en>But, if you think back now, I guess I did very dangerous thing. If Panchu wasn't there, I could be the worst situation now.
-<es>
-
 @1372
 <en>{Mizuki}\n"But, it's very rare Ms. Mei got very emotional like this. I've never seen it in her before."
 <es>
@@ -2788,10 +2776,6 @@
 <en>There is a soft conversation going on in a facaulty office that looks very cozy and relaxing at the midday.
 <es>
 
-@1647
-<en>I listened to their conversation cocking up my ears.
-<es>
-
 @1650
 <en>{Teacher Yagami}\n"I never expected you raised hand to a student."
 <es>
@@ -2976,10 +2960,6 @@
 <en>The library in the rainy day looks very dark and gloomy.
 <es>
 
-@1757
-<en>I showed up first in the morning as I pomised with her, but nothing I can do here but looking outside the window with Ms.Mei.
-<es>
-
 @1758
 <en>{Kazushi}\n"Too much rain, isn't it? We can't go outside again."
 <es>
@@ -3154,14 +3134,6 @@
 
 @1823
 <en>Well, if you think about that I never won the sweet deal before, so, it could be somebody else, not me.
-<es>
-
-@1824
-<en>I wish I was more stupid and simple! Then, I could've enjoyed pretending I was the right person she was talking about.
-<es>
-
-@1825
-<en>That could make me happier than now for sure.
 <es>
 
 @1826
@@ -3454,10 +3426,6 @@
 
 @1938
 <en>I slid into where Ms.Mei would land with her unbalance position and caught her in my arms.
-<es>
-
-@1939
-<en>After sliding along about three meters holding her in my arms, I finally stopped.
 <es>
 
 @1940
