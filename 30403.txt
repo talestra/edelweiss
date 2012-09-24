@@ -1,63 +1,63 @@
 # Comments for '30403'
 
 @11
-<en>{Teacher Yagami}\n"We sincerely apologize."
+<en>{Yagami}\n"We're truly sorry!"
 <es>
 
 @12
-<en>Mr.Yagami is apologizing for us.
+<en>Yagami-sensei was apologizing for us.
 <es>
 
 @15
-<en>{Teacher Yagami}\n"Hey! You guys should do the same!"
+<en>{Yagami}\n"Hey! You apologize too!"
 <es>
 
 @16
-<en>{Kazushi}\n"Oh, me too?"
+<en>{Kazushi}\n"Oh, we're bowing our heads too?"
 <es>
 
 @17
-<en>{Teacher Yagami}\n"Of course!"
+<en>{Yagami}\n"Of course!"
 <es>
 
 @18
-<en>We've been caught by Mr.Yagami, because of the tumult. And we were dragged to the staff room.
+<en>Because of the big commotion, we were caught by Yagami-sensei and dragged into the faculty room.
 <es>
 
 @21
-<en>{Teacher Yagami}\n"I'm really sorry."
+<en>{Yagami}\n"We really are sorry."
 <es>
 
 @22
-<en>Mr.Yagami apologized once again. Ms. Mei looked perplexed and looked down on Mr.Yagami who bowed his head low.
+<en>Yagami-sensei bowed his head deeply once again. Mei-sensei looked perplexed as Yagami didn't even move with his head bowed.
 <es>
 
 @25
-<en>{Mei}\n"Mr.Yagami, please look up. It is not your fault."
+<en>{Mei}\n"Yagami-sensei, please look up. This isn't your fault."
 <es>
 
 @26
-<en>{Mei}\n"I'm in charge of them. It is part of my job to manage the science lab as well."
+<en>{Mei}\n"I'm in charge of them as their teacher, and it's also part of my job to keep an eye on the alchemy labs."
 <es>
 
 @27
-<en>{Mei}\n"Mr.Yagami has nothing to feel guilty about this matter."
+<en>{Mei}\n"You have nothing to feel responsible about in this matter, Yagami-sensei."
 <es>
 
 @30
-<en>Mr.Yagami finally looked up as Ms. Mei comforted him. But he looked serious.
+<en>Yagami-sensei finally looked up as Mei-sensei comforted him. His expression was still stern.
 <es>
 
 @31
-<en>{Teacher Yagami}\n"But, Kazushi is my student. What Kazushi did is same as what I did. I'm taking all the responsibility for this!"
+<en>{Yagami}\n"No, Kazushi is my student. What Kazushi's done is the same as what I've done. I am taking full responsibility for this!"
 <es>
 
 @34
-<en>{Mei}\n"Mr.Yagami, please... My responsibility is heavier than yours."
+<en>{Mei}\n"Yagami-sensei, please don't. My responsibility is greater than yours."
 <es>
 
 @39
-<en>{Ran}\n"Ha Ha! They are fighting for the responsibility. Adult must like taking responsibility!"
+<en>{Ran}\n"Ahaha, they're fighting for responsibility. Adults must love taking responsibility."
 <es>
 
 @40
@@ -69,15 +69,15 @@
 <es>
 
 @51
-<en>{Kazushi}\n"Wow!?"
+<en>{Kazushi}\n"Ow?!"
 <es>
 
 @52
-<en>{Ran}\n"Ouch!?"
+<en>{Ran}\n"Ngah?!"
 <es>
 
 @53
-<en>A star came out of my eyes. I felt the shock like a meteorite hit my head, and I thought my head will be buried into my body.
+<en>I saw stars shooting out of my eyes and felt a shock like a meteorite through my head. I was afraid that my head was being buried in my body.
 <es>
 
 @56
@@ -85,55 +85,55 @@
 <es>
 
 @61
-<en>{Teacher Yagami}\n"You guys should be sorry for what you did!!"
+<en>{Yagami}\n"You two should think about what you've done!"
 <es>
 
 @62
-<en>Mr.Yagami usually never gives a knuckle to a girl, but I could tell it was pretty serious this time.
+<en>Yagami-sensei would usually never smack a girl around, but I could tell he was pretty serious.
 <es>
 
 @63
-<en>Ms. Mei is against corporal punishment, but she didn't say anything this time.
+<en>Mei-sensei may have been against corporal punishment, but even she didn't say anything this time.
 <es>
 
 @66
-<en>{Ran}\n"Hey! I lost everything myself. So, make it even!"
+<en>{Ran}\n"Hmph! I took heavy losses myself, so call it even!"
 <es>
 
 @69
-<en>{Teacher Yagami}\n"What?"
+<en>{Yagami}\n"Huhh?"
 <es>
 
 @70
-<en>Oh, shit. Mr.Yagami is going back to his "I used to be a bad ass"mode!?
+<en>Oh, shit! Yagami-sensei just went into Hammer Mode!
 <es>
 
 @71
-<en>{Ran}\n"What!!"
+<en>{Ran}\n"What?!!"
 <es>
 
 @72
-<en>Ran did not show her weak side as she was stared by Mr.Yagami, and she stared back at Mr.Yagami.
+<en>Ran victoriously glared right back at Hammer Mode Yagami-sensei.
 <es>
 
 @73
-<en>In the shock of being penniless, Ran is acting up.
+<en>Ran was getting defiant now that she was penniless.
 <es>
 
 @77
-<en>{Mei}\n"Ms. Kamoike, I really want you to understand what you did."
+<en>{Mei}\n"Kamoike-san. Please take time to think about what you've done."
 <es>
 
 @78
-<en>{Ran}\n"I'm not sorry for what I did. I'm not looking back my past! I'm always looking forward!"
+<en>{Ran}\n"I'm not going to think about it at all. Thinking about it would be dwelling on the past! I'm always looking at the future!"
 <es>
 
 @79
-<en>{Mei}\n"You don't grow as a person, if you don't reflect back on your past."
+<en>{Mei}\n"You can't grow as a person if you don't reflect upon your past."
 <es>
 
 @82
-<en>{Ran}\n"I want to die if I look back in the past and remember all the money I lost!"
+<en>{Ran}\n"But if I dwell on the past, I'll recall my money and want to die!"
 <es>
 
 @83
@@ -141,23 +141,23 @@
 <es>
 
 @84
-<en>I thought about how much is "all the money"she has lost, but I felt scared to know the exact amount. I decided not to ask her.
+<en>I kind of wanted to know how much she'd lost, but I felt too scared to actually ask her.
 <es>
 
 @85
-<en>I have lost 1,000,000 Yen myself... I'd rather be vanished than crying.
+<en>Given that I lost a million yen myself, I'd rather disappear from existence than cry.
 <es>
 
 @88
-<en>{Mei}\n"Well, I can't understand how the lab was burned down like that."
+<en>{Mei}\n"Sheesh, how did you manage to burn down the entire lab?"
 <es>
 
 @89
-<en>{Ran}\n"That is what I want to know."
+<en>{Ran}\n"That's what I want to know."
 <es>
 
 @90
-<en>I don't know how it happened. I can't understand few things.
+<en>I didn't know how it happened, either. I couldn't understand much about it.
 <es>
 
 @93
@@ -169,19 +169,19 @@
 <es>
 
 @97
-<en>I told her what we did in order from the beginning. I made few things blur, like when we had sex and stuff.
+<en>I told her what we'd done, starting from the beginning. I did gloss over a few things, like when we had sex and stuff.
 <es>
 
 @100
-<en>{Mei}\n"Oh my..."
+<en>{Mei}\n"You two..."
 <es>
 
 @105
-<en>{Teacher Yagami}\n"You guys have such a guts to have illicit sexual relationship on campus."
+<en>{Yagami}\n"You two sure have guts, having illicit sexual relations on campus."
 <es>
 
 @106
-<en>{Kazushi}\n"Huh? How did you know?"
+<en>{Kazushi}\n"Huh? I thought I glossed over that?"
 <es>
 
 @111
@@ -193,75 +193,75 @@
 <es>
 
 @113
-<en>We were stared by two teachers.
+<en>The two teachers couldn't do anything but stare at us.
 <es>
 
 @117
-<en>{Mei}\n"Body fluid of a man and a woman... That kind of method does exist. But it is too early for you guys to do."
+<en>{Mei}\n"A man and woman's bodily fluid, huh? That kind of method does exist, but it was too early for you guys to use it."
 <es>
 
 @122
-<en>{Ran}\n"Oh well. I guess we are typical teenager of these days."
+<en>{Ran}\n"Oh well. I guess we're just typical teenagers for these days."
 <es>
 
 @127
-<en>{Teacher Yagami}\n"Kazushi, I need to talk to you later."
+<en>{Yagami}\n"Kazushi, you're paying for this later."
 <es>
 
 @128
-<en>{Kazushi}\n"Sure."
+<en>{Kazushi}\n"R-right."
 <es>
 
 @129
-<en>I should prepare to be at least half dead.
+<en>I should prepare to spend the rest of summer break in hospital.
 <es>
 
 @133
-<en>{Ran}\n"But, I didn't do anything wrong, right? It's not my fault."
+<en>{Ran}\n"But I didn't do anything wrong, right? This isn't my fault."
 <es>
 
 @138
-<en>{Mei}\n"You can't do anything if the engineer is immature. Even if the method was right."
+<en>{Mei}\n"Nothing will happen when the practitioner is unskilled, even if the steps were right."
 <es>
 
 @139
-<en>{Kazushi}\n"What was the weird lake and stuff?"
+<en>{Kazushi}\n"But what was that weird pond?"
 <es>
 
 @140
-<en>It felt like we wondered into a different world. What was it all about?
+<en>It felt like we had wandered into a different world. What was that all about?
 <es>
 
 @143
-<en>{Mei}\n"It could be a world reflected by both of your unconsciousness. Some scholar says, a lot of phenomena happens during the process of alchemy are reflections of alchemist's unconsciousness."
+<en>{Mei}\n"That was a world that reflected your subconscious. Some scholars say that many of the phenomenon that occur through alchemy are a reflection of the alchemist's subconscious."
 <es>
 
 @144
-<en>{Kazushi}\n"So, it was our unconsciousness? That's deep."
+<en>{Kazushi}\n"So it was our subconscious mind? That's surreal."
 <es>
 
 @147
-<en>{Mei}\n"It maybe because of the weird drug you took. If you guys knew how to control your spirit little better, the result could have been 180 degree different."
+<en>{Mei}\n"It may be because you two were high at the time. If you knew how to control yourselves a bit better, the results could have been 180 degrees from where they ended up."
 <es>
 
 @150
-<en>{Ran}\n"What about the result??"
+<en>{Ran}\n"What, you mean a completely different result?"
 <es>
 
 @153
-<en>{Mei}\n"The mental world projection is the thing which is popular for a phenomenon to be caused by a process of alchemy. In other words it may be said that the experiment succeeds to here."
+<en>{Mei}\n"The projection of a mental world is a popular phenomenon caused through alchemical processes. In other words, you could call the experiment a success up to that point."
 <es>
 
 @156
-<en>{Ran}\n"Really?"
+<en>{Ran}\n"Huh? Really?"
 <es>
 
 @157
-<en>{Kazushi}\n"So, we were not wrong about that."
+<en>{Kazushi}\n"So we were actually doing things right?"
 <es>
 
 @158
-<en>Ms. Mei nodded. Hey, we were pretty good.
+<en>Mei-sensei nodded. Hey, we were pretty good.
 <es>
 
 @161
@@ -269,55 +269,55 @@
 <es>
 
 @164
-<en>{Mei}\n"But, In your case, the problem starts way before that. You guys did not have a permission to use the lab."
+<en>{Mei}\n"But in your case the problem starts way before that! You guys didn't have permission to use the lab!"
 <es>
 
 @167
-<en>Ran shrugged her shoulder as she was stared by Ms. Mei. She was pouting her lips.
+<en>Ran shrugged her shoulders as Mei-sensei stared at her. She pouted her lips.
 <es>
 
 @168
-<en>{Ran}\n"Because you didn't give me a permission..."
+<en>{Ran}\n"But you didn't give me permission."
 <es>
 
 @169
-<en>{Mei}\n"Yes, because I thought it was too dangerous for you two to use the lab yourself. Sure enough, this happened. A little bit...no, it went way over my expectations."
+<en>{Mei}\n"That's because I thought it would be dangerous for just the two of you. Lo and behold, this happened. Though it went a bit... no, quite beyond my predictions."
 <es>
 
 @172
-<en>Everybody sigh deeply. Because the whole lab was blown away, and it is a nucleus of our school.
+<en>Everybody sighed deeply. We'd blown the lab to smithereens and it was the nucleus for our school.
 <es>
 
 @173
-<en>Perhaps the reason why they only nag about it is because teachers don't know what kind of punishment to give us at this point.
+<en>I wondered if the reason why they were still nagging us about this is because the teachers didn't even know where to begin punishing us.
 <es>
 
 @176
-<en>{Teacher Yagami}\n"Ms. Mei, did you report this to the principal?"
+<en>{Yagami}\n"Ibuki-sensei, have you reported this to the principal?"
 <es>
 
 @181
-<en>{Mei}\n"No, not yet. The principal is out of campus today."
+<en>{Mei}\n"No, not yet. The principal's off campus today."
 <es>
 
 @185
-<en>{Ran}\n"That is why we decided to act on it today!"
+<en>{Ran}\n"That's why we decided to act on it today!"
 <es>
 
 @188
-<en>{Mei}\n"You are very smart when it comes down to planning a trick. Well, it worked best for all of us for now."
+<en>{Mei}\n"You're very smart when it comes to breaking the rules. Well, at least that's worked out best for everybody at the moment."
 <es>
 
 @192
-<en>{Teacher Yagami}\n"Maybe we should discuss about what we can do before you report to the principal."
+<en>{Yagami}\n"Maybe we should discuss what we can do before you report to the principal."
 <es>
 
 @195
-<en>Teachers started to talk in whispers.
+<en>The teachers started whispering to each other.
 <es>
 
 @198
-<en>{Ran}\n"Ahh... I have a concern..."
+<en>{Ran}\n"Umm, I have one concern..."
 <es>
 
 @199
@@ -329,15 +329,15 @@
 <es>
 
 @205
-<en>{Ran}\n"Well, you are not going to tell me to pay for the damages are you? I have no money at all."
+<en>{Ran}\n"Well, you're not going to make me pay for the damages, are you? I don't have any money..."
 <es>
 
 @208
-<en>{Mei}\n"You don't have to worry about it. But you better be sorry."
+<en>{Mei}\n"You don't have to worry about that, but you'd better think about what you've done."
 <es>
 
 @209
-<en>{Ran}\n"Are you sure? I'll be sorry if you won't make me pay for it."
+<en>{Ran}\n"Really, please? I'll think about it as much as you want."
 <es>
 
 @210
@@ -349,23 +349,23 @@
 <es>
 
 @217
-<en>{Teacher Yagami}\n"It depends on what the Principal will say."
+<en>{Yagami}\n"It all depends on what the principal says."
 <es>
 
 @221
-<en>Ring, Ring!
+<en>*RING! RING!*
 <es>
 
 @224
-<en>The phone in the staff room rang. No, it is a fax.
+<en>The phone in the staff room rang.\n...no, it was the fax machine.
 <es>
 
 @226
-<en>fax receiving signal.
+<en>*Bzzzz...bzzzzz...*
 <es>
 
 @227
-<en>The phone stopped ringing and the machine started to send a paper out.
+<en>The phone stopped ringing, and the fax machine started spitting out papers.
 <es>
 
 @230
@@ -373,11 +373,11 @@
 <es>
 
 @233
-<en>Ms. Mei picked up the sheet from the machine.
+<en>Mei-sensei picked up the printout.
 <es>
 
 @234
-<en>{Mei}\n"Oh, it's for you, Ms. Kamoike."
+<en>{Mei}\n"Oh, it's for you, Kamoike-san."
 <es>
 
 @239
@@ -385,7 +385,7 @@
 <es>
 
 @240
-<en>{Mei}\n"What are they talking about? Freezing of a property?"
+<en>{Mei}\n"What are they talking about? Freezing assets?"
 <es>
 
 @243
@@ -393,7 +393,7 @@
 <es>
 
 @247
-<en>{Teacher Yagami}\n"This one says...The cancellation of a patent contract? What are they talking about?"
+<en>{Yagami}\n"This one says...\nCancellation of patent contract? What's that mean?"
 <es>
 
 @250
@@ -401,11 +401,11 @@
 <es>
 
 @254
-<en>Ring, Ring!
+<en>*RING! RING!*
 <es>
 
 @257
-<en>The phone is ringing this time. Ran answers the phone.
+<en>This time it was the phone ringing. Ran answered it.
 <es>
 
 @260
@@ -413,19 +413,19 @@
 <es>
 
 @263
-<en>{Ran}\n"Huh? A reform fraud!? They took your money? Why!!"
+<en>{Ran}\n"Huh? Reform fraud? They took your money? Why!!"
 <es>
 
 @264
-<en>It sounds like all the problem attacking Ran is about the money.
+<en>It sounded like every problem that could hit Ran's finances was striking now.
 <es>
 
 @265
-<en>{Ran}\n"No! How can it be? I'm really a penniless now!!"
+<en>{Ran}\n"No! How can it be? Now I really am penniless!!"
 <es>
 
 @266
-<en>All her property are gone in a moment.
+<en>All her assets were gone in an instant.
 <es>
 
 @269
@@ -433,31 +433,31 @@
 <es>
 
 @272
-<en>Ring, Ring!
+<en>*RING! RING!*
 <es>
 
 @273
-<en>The phone rang again. Ran startled, but not answering the phone. She is scared of additional bad news.
+<en>The phone rang again. Ran was startled, but didn't answer the phone - she was scared of any more bad news.
 <es>
 
 @276
-<en>Mr.Yagami answered the phone.
+<en>Yagami-sensei answered the phone for her.
 <es>
 
 @279
-<en>{Teacher Yagami}\n"Hello, Eiden Gakuin. Oh!! Is this ...!?"
+<en>{Yagami}\n"Hello, Eiden Academy. ......Oh!! Sempai?!"
 <es>
 
 @282
-<en>Mr.Yagami straightens posture. I have never seen him this nervous, and serious.
+<en>Yagami-sensei snapped to attention. I'd never seen him this nervous or serious.
 <es>
 
 @283
-<en>{Teacher Yagami}\n"Yes! I'm doing fine! Oh, no, I'm sorry it has been too long... Is everything going well for you, sir?"
+<en>{Yagami}\n"Yes! I'm doing fine! Oh, no, I'm sorry it has been too long. Is everything going well for you?"
 <es>
 
 @287
-<en>{Ran}\n"It must be an acquaintance. Mr.Yagami seems nervous. Who could he be talking to?"
+<en>{Ran}\n"Must be someone he knows. Yagami-sensei seems really nervous. Who could he be talking to?"
 <es>
 
 @288
@@ -465,7 +465,7 @@
 <es>
 
 @292
-<en>{Teacher Yagami}\n"Kazushi! Kazushi!"
+<en>{Yagami}\n"Kazushi! Kazushi!"
 <es>
 
 @293
@@ -473,11 +473,11 @@
 <es>
 
 @294
-<en>Mr.Yagami is calling me for some reason.
+<en>Why was Yagami-sensei calling me to the phone?
 <es>
 
 @295
-<en>{Teacher Yagami}\n"It's for you. Your father."
+<en>{Yagami}\n"It's for you. It's your father."
 <es>
 
 @296
@@ -485,7 +485,7 @@
 <es>
 
 @302
-<en>{Kazushi}\n"Ouch... My ear is still hurting... That ass hole. How could he be yelling that much over the phone?"
+<en>{Kazushi}\n"Owww... my ear's still ringing... That damn old man, yelling his ass off over the phone."
 <es>
 
 @303
@@ -493,15 +493,15 @@
 <es>
 
 @306
-<en>{Ran}\n"Your dad knows Mr.Yagami?"
+<en>{Ran}\n"Your dad knows Yagami-sensei?"
 <es>
 
 @307
-<en>{Kazushi}\n"I guess they went to school together. And Mr.Yagami was my dad's junior."
+<en>{Kazushi}\n"Apparently they went to school together and Yagami-sensei was my dad's kohai."
 <es>
 
 @308
-<en>Actually, that is all I know about them. I don't understand why Mr.Yagami is so afraid of my dad.
+<en>Actually, that's all I know about them. I've never found out why Yagami-sensei was so afraid of my dad.
 <es>
 
 @311
@@ -509,11 +509,11 @@
 <es>
 
 @312
-<en>Ran seems to be worrying about me. I'm sure she could hear him yelling over the phone.
+<en>Ran seemed worried about me. I'm sure she could hear him yelling over the phone.
 <es>
 
 @313
-<en>{Kazushi}\n"He was furious. Well, I knew he would be. But, there is a problem."
+<en>{Kazushi}\n"He was furious. Well, I knew he would be, but there's a more serious problem."
 <es>
 
 @314
@@ -521,7 +521,7 @@
 <es>
 
 @315
-<en>{Kazushi}\n"He told me to come home if I'm only making the troubles."
+<en>{Kazushi}\n"He told me to come home if all I'm doing is making trouble."
 <es>
 
 @316
@@ -541,11 +541,11 @@
 <es>
 
 @322
-<en>I was ready to be beaten but I didn't expect him to tell me to quit school.
+<en>I was ready to get beaten to a pulp, but I didn't expect him to tell me to quit school.
 <es>
 
 @325
-<en>{Ran}\n"Oh my god. You are not going to quit, are you?"
+<en>{Ran}\n"Oh my god. You're not actually going to quit, are you?"
 <es>
 
 @326
@@ -553,7 +553,7 @@
 <es>
 
 @327
-<en>{Kazushi}\n"I don't want to. But, if he wants me to quit school for real, he'll come and take me home physically."
+<en>{Kazushi}\n"I don't want to, but if he wants me to quit school for real, he'll come and take me home by force."
 <es>
 
 @330
@@ -565,7 +565,7 @@
 <es>
 
 @332
-<en>I'm willing to fight against it, but if my dad gets serious, I'm not sure how much I can hold against him.
+<en>I'm willing to fight against him, but if my dad gets serious, I'm not sure how long I can hold out against him.
 <es>
 
 @333
@@ -577,23 +577,23 @@
 <es>
 
 @337
-<en>I have never seen Ran so depressed, and it moved me to see her like that.
+<en>I'd never seen Ran so depressed. It moved me to see her like that.
 <es>
 
 @338
-<en>{Kazushi}\n"Don't be sad. It's not like I can't see you for rest of my life. I'll fight against him."
+<en>{Kazushi}\n"Don't be sad. It's not like I won't be able to see you for the rest of my life. I'll fight him for that."
 <es>
 
 @339
-<en>Ran looked sad even if I said that to her. Then she tightens her lips with some kind of determination.
+<en>Ran still looked sad despite my encouragement. Then she tightened her lips with determination.
 <es>
 
 @342
-<en>{Ran}\n"Three days... No, give me two days! I'll do something about it!"
+<en>{Ran}\n"Three days... No, give me two days! I'll find us a way out of this!"
 <es>
 
 @343
-<en>She sound definite.
+<en>She sounded confident.
 <es>
 
 @344
@@ -605,15 +605,15 @@
 <es>
 
 @349
-<en>As she said that, Ran started to run.
+<en>Ran started to run as she said that.
 <es>
 
 @351
-<en>{Kazushi}\n"What!? What is your plan!?"
+<en>{Kazushi}\n"What!? What's your plan!?"
 <es>
 
 @352
-<en>Ran disappeared so fast.
+<en>Ran disappeared before my words could reach her.
 <es>
 
 @353
@@ -621,15 +621,15 @@
 <es>
 
 @354
-<en>What is she going to do? I hope its not something stupid.
+<en>What was she going to do?\n...I hope it's not something stupid.
 <es>
 
 @358
-<en>Ran disappeared for two days for real.
+<en>Then Ran really disappeared for two days.
 <es>
 
 @361
-<en>Two days later --
+<en>Two days later...
 <es>
 
 @365
@@ -637,7 +637,7 @@
 <es>
 
 @369
-<en>{Kazushi}\n"Huh?"
+<en>{Kazushi}\n"Fugah?!"
 <es>
 
 @370
@@ -645,7 +645,7 @@
 <es>
 
 @374
-<en>{Ran}\n"Duh! Don't be a sleepyhead. Wake up!"
+<en>{Ran}\n"What do you mean, 'Fugah?!' Quit sleeping and wake up!"
 <es>
 
 @375
@@ -653,11 +653,11 @@
 <es>
 
 @376
-<en>{Kazushi}\n"I'm up... Don't jump on people like that. You are not a kid anymore, you know?"
+<en>{Kazushi}\n"I'm up, I'm up...\nJeez, don't jump on people like that. You're not a kid anymore, you know?"
 <es>
 
 @379
-<en>{Ran}\n"What ever! I found a way to make a fortune at one swoop!"
+<en>{Ran}\n"No time for that. I found a way to make a fortune in one fell swoop!"
 <es>
 
 @380
@@ -665,23 +665,23 @@
 <es>
 
 @381
-<en>Oh, this sound very bad. My very accurate sixth sense is telling me as well.
+<en>Uh oh. This sounds bad - very bad. My spider sense is tingling at how bad this is going to be.
 <es>
 
 @382
-<en>I really don't want to listen if I have a choice.
+<en>I really don't want to hear this, but I don't think I have a choice.
 <es>
 
 @387
-<en>{Kazushi}\n"I'm not doing anything illegal. Not even stealing."
+<en>{Kazushi}\n"You shouldn't commit any crimes. Don't go stealing anything."
 <es>
 
 @388
-<en>What she came up was a stealing. This school has a rumor that some fortune is buried on campus. She wants to find that fortune and make is ours.
+<en>Of course her plan involved theft. There was a rumor that our school had a treasure buried somewhere on campus. She wanted to find the treasure and claim it for us.
 <es>
 
 @391
-<en>{Ran}\n"It is not stealing. A gold made by an alchemy does not belong to anyone, don't you think?"
+<en>{Ran}\n"It's not theft. Gold made by alchemy doesn't belong to anyone, right?"
 <es>
 
 @392
@@ -689,7 +689,7 @@
 <es>
 
 @395
-<en>{Ran}\n"If you say that, then the gold in a gold mine and the gold dust belong to the nature! It's all belong to the earth! Hurray to the earth!!"
+<en>{Ran}\n"If you say that then the gold in mines and the dust in rivers belong to nature. It all belongs to the Earth! Hooray for the Earth!!"
 <es>
 
 @396
@@ -697,39 +697,39 @@
 <es>
 
 @399
-<en>{Ran}\n"Does 10,000 Yen bill belong to the Mint Bureau? No, it does not! Therefore, it is OK for us to take it!"
+<en>{Ran}\n"Does a 10,000 yen bill belong to the mint? No, it doesn't! So it's OK for us to take it!"
 <es>
 
 @400
-<en>I think it is a stealing, if you take 10,000 Yen bill from the Mint Bureau.
+<en>I beg to disagree - I absolutely think it's theft to steal a 10,000 yen bill from the mint.
 <es>
 
 @401
-<en>{Kazushi}\n"You better calm down and think about this. They say "you may be wearing a rag, but your heart wears a brocade". You know?"
+<en>{Kazushi}\n"You'd better calm down and think this over. They say 'You may be wearing rags, but your heart wears brocade', you know?"
 <es>
 
 @404
-<en>{Ran}\n"Your heart wears a brocade? I don't understand. I don't mind the ragged cloth, but I need money!"
+<en>{Ran}\n"Your heart wears brocade? I don't understand. I don't mind the ragged cloth, but I need money!"
 <es>
 
 @405
-<en>{Kazushi}\n"I can't believe you."
+<en>{Kazushi}\n"You're pretty blunt."
 <es>
 
 @408
-<en>{Ran}\n"Well, why are you sounding like it doesn't concern you! You might have to quit school if you don't do anything about this!"
+<en>{Ran}\n"Well, why are you talking like this isn't your problem? You might have to quit school if we don't do something about this!"
 <es>
 
 @409
-<en>{Kazushi}\n"You are right."
+<en>{Kazushi}\n"...you're right."
 <es>
 
 @410
-<en>My dad hasn't called me since. It is weird. But, I don't think he will let it go like this. He is very stubborn.
+<en>My dad hadn't called me since. It was weird, especially since I didn't think he'd let it go like this. Dad tends to get very stubborn...
 <es>
 
 @413
-<en>{Ran}\n"Don't worry. I called him. We still have some time."
+<en>{Ran}\n"Well, don't worry. I called him. We still have some time."
 <es>
 
 @414
@@ -737,7 +737,7 @@
 <es>
 
 @417
-<en>{Ran}\n"Your dad. I told him we will give his bike back, so we need some time."
+<en>{Ran}\n"Your dad. I told him that we'll get his bike back, but we'll need some time."
 <es>
 
 @418
@@ -745,7 +745,7 @@
 <es>
 
 @421
-<en>{Ran}\n"He is very understanding for your dad. He said he'll wait, when I asked him."
+<en>{Ran}\n"He's very understanding... for your dad. I asked and he said he'll wait."
 <es>
 
 @422
@@ -753,7 +753,7 @@
 <es>
 
 @425
-<en>{Ran}\n"He wanted to know who I was, so I made things up, you know?"
+<en>{Ran}\n"He wanted to know who I was, so I made a few things up, you know?"
 <es>
 
 @426
@@ -769,23 +769,23 @@
 <es>
 
 @431
-<en>{Ran}\n"He said "I'll kill Kazushi!"like he really mean it. And then your sister said "I need to talk to him next time"."
+<en>{Ran}\n"He said 'I'm going to kill him' like he really meant it, and your sister said that she needed to have a few words with you as well."
 <es>
 
 @432
-<en>{Kazushi}\n"OK..."
+<en>{Kazushi}\n"I see..."
 <es>
 
 @433
-<en>I can't go home anymore...
+<en>I can never go home again.
 <es>
 
 @436
-<en>{Ran}\n"So, don't worry. I'll save you, Kazushi. I won't let you quit school."
+<en>{Ran}\n"So don't worry. I'll save you, Kazushi. I won't let you quit school."
 <es>
 
 @439
-<en>Ran hold me softly. The hug was like a goddess, but what she is saying and doing are so different, it didn't move me emotionally.
+<en>Ran held me softly. The hug felt like it was from a goddess, but what she was saying and doing were so different that it didn't move me emotionally.
 <es>
 
 @440
@@ -793,43 +793,43 @@
 <es>
 
 @441
-<en>{Kazushi}\n"Really?"
+<en>{Kazushi}\n"S-sex?"
 <es>
 
 @444
-<en>{Ran}\n"See? It is getting hard. If everything goes well tonight, then let's fuck all day tomorrow."
+<en>{Ran}\n"See? You're getting hard. If everything goes well tonight then we can have fun all day tomorrow."
 <es>
 
 @445
-<en>{Kazushi}\n"Oh, OK! Sure!"
+<en>{Kazushi}\n"Y-yeah! Let's! Let's!"
 <es>
 
 @446
-<en>Wait a minute. Why am so excited? Maybe I should have a second thought about it?
+<en>Wait a minute... Why am I getting so excited? Maybe I should be having second thoughts...
 <es>
 
 @449
-<en>{Kazushi}\n"...."
+<en>{Kazushi}\n"..."
 <es>
 
 @450
-<en>I've been here at night few times before, but it sure is spooky at night. Maybe because of the European architecture.
+<en>I'd been here at night a few times before, but it sure did get spooky in the dark. Maybe because of the European architecture...
 <es>
 
 @451
-<en>{Kazushi}\n"Are you sure about the treasure? You better have some lead."
+<en>{Kazushi}\n"Are you sure about the treasure? You'd better have some solid info..."
 <es>
 
 @452
-<en>She seems reliable somehow tonight. Ran turned around and gave me a smile.
+<en>Ran seemed strangely reliable tonight. She turned around and gave me a smile.
 <es>
 
 @455
-<en>{Ran}\n"The husband of the principal was an alchemist. And he was the one who taught alchemy to the principal."
+<en>{Ran}\n"The principal's husband was an alchemist. And he's the one who taught her alchemy."
 <es>
 
 @456
-<en>{Kazushi}\n"The principal married her teacher? That is OK?"
+<en>{Kazushi}\n"The principal married her teacher? What a tantalizing relationship."
 <es>
 
 @457
@@ -837,39 +837,39 @@
 <es>
 
 @458
-<en>{Ran}\n"Well, doesn't it sound common?"
+<en>{Ran}\n"Really? I thought it was common?"
 <es>
 
 @459
-<en>{Kazushi}\n"Not really. It's like me and Ms. Mei... You know?"
+<en>{Kazushi}\n"Not really. It would be like me and Mei-sensei... you know?"
 <es>
 
 @462
-<en>{Ran}\n"Ha ha! That is not happening."
+<en>{Ran}\n"Ahaha! That is SO not happening!"
 <es>
 
 @463
-<en>She was convinced easily. I guess it's not happening, but I have a mixed feelings about that.
+<en>She was easily convinced. I guess it wasn't happening, but I had mixed feelings about that...
 <es>
 
 @466
-<en>{Ran}\n"So, the principal established the school here to have her husband work on the alchemy. It was an alchemistic gift, you know?"
+<en>{Ran}\n"Anyway, the principal established the academy so her husband could work on alchemy. It was an alchemic gift."
 <es>
 
 @467
-<en>{Kazushi}\n"A gift? It seems way too much than a gift."
+<en>{Kazushi}\n"A gift? That seems like way too much to be a mere gift."
 <es>
 
 @468
-<en>I looked around in a dark room. How much money and time does it take to make something like this? And then to give it away like that?
+<en>I looked around the dark room. How much time and money did it take to create something like this? And then to give it away like that?
 <es>
 
 @469
-<en>I've heard of people buying a condo for a lover, but this is like buying a whole building or something.
+<en>I've heard of rich businessmen buying condos for their mistresses, but this was like buying her a whole apartment building.
 <es>
 
 @470
-<en>{Ran}\n"Well, the president is rich. They say this island belongs to the Aozora family. She must be wealthy."
+<en>{Ran}\n"Well, the president's loaded. They say that the entire island belongs to the Aozora family, so she must be wealthy."
 <es>
 
 @471
@@ -885,19 +885,19 @@
 <es>
 
 @476
-<en>What kind of source does she have? It is an obsession.
+<en>What kind of sources did she have? It bordered on the obsessive.
 <es>
 
 @477
-<en>{Kazushi}\n"So, you want to say that the Aozora family established their wealth by alchemy?"
+<en>{Kazushi}\n"So what you're saying is that the Aozora family established their wealth using alchemy?"
 <es>
 
 @480
-<en>{Ran}\n"That is correct. It's kind of like having own mint bureau in your house. You can get all the money you ever wish for."
+<en>{Ran}\n"You got it. It's kind of like having your own personal mint inside the house. You can make all the money you ever wished for."
 <es>
 
 @481
-<en>{Ran}\n"In that case, we can steal a little bit. Don't you think?"
+<en>{Ran}\n"In that case, nobody will mind if we take a little bit, don't you think?"
 <es>
 
 @482
@@ -905,55 +905,55 @@
 <es>
 
 @483
-<en>I still think stealing is a no, no. But, knowing they can create more on their own lifts some guilt off of my shoulders.
+<en>I still think stealing is a no-no, but knowing that they can create more to replace it lifted some of the guilt off of my shoulders.
 <es>
 
 @484
-<en>... no, it doesn't. Ran is poisoning me. I have to watch her not to go too far.
+<en>...no it didn't.\nRan's way of thinking was starting to poison me. I had to watch out and make sure she didn't go too far.
 <es>
 
 @487
-<en>{Ran}\n"I don't know if there are treasures for real, but there is something underground for sure."
+<en>{Ran}\n"I don't know if there's really a treasure here, but there's definitely SOMETHING underground for sure."
 <es>
 
 @488
-<en>She kicks the floor with her toes.
+<en>She kicked the floor with her toes.
 <es>
 
 @489
-<en>{Kazushi}\n"Is there an underground on this campus? I've never heard of that."
+<en>{Kazushi}\n"Is there a secret underground lair on this campus? I've never heard of that."
 <es>
 
 @492
-<en>{Ran}\n"Yes, there is. No one knows about it, but it is on a plan."
+<en>{Ran}\n"Yes, there is. No one knows about it, but it's on the blueprints."
 <es>
 
 @493
-<en>{Kazushi}\n"You investigated the plan?"
+<en>{Kazushi}\n"You examined the blueprints?"
 <es>
 
 @494
-<en>I was impressed, rather than shocked. Can she use this kind of energy to something else?
+<en>I was impressed, rather than shocked. Couldn't she use this kind of energy for something positive?
 <es>
 
 @495
-<en>{Ran}\n"I don't know what kind of treasure lies ahead, but it must be a lot of them. It will be enough to cover my loss and your One hundred thousand yen, and still some left."
+<en>{Ran}\n"I don't know what kind of treasure lies ahead, but it's got to be massive. It'll be enough to cover my losses and your million yen and still have something left over."
 <es>
 
 @496
-<en>Ran is so excited about this treasures on campus.
+<en>Ran was so excited by our school's treasure.
 <es>
 
 @497
-<en>{Ran}\n"Kazushi, you better be ready! We'll be so rich by tomorrow morning!"
+<en>{Ran}\n"You better be ready, Kazushi! We are gonna be RICH by tomorrow morning!"
 <es>
 
 @498
-<en>{Kazushi}\n"I hope everything goes as we plan."
+<en>{Kazushi}\n"I just hope everything goes as planned..."
 <es>
 
 @501
-<en>{Ran}\n"What are you talking about? I'll make it go as we plan. I'll take care of it!"
+<en>{Ran}\n"What're you talking about? I'll make it go as planned. Don't you worry about that!"
 <es>
 
 @504
@@ -961,35 +961,35 @@
 <es>
 
 @506
-<en>Ran started to walk. I have no idea what awaits us.
+<en>Ran started to walk bravely. I had no idea what lay up ahead.
 <es>
 
 @511
-<en>{Kazushi}\n"Oh my god..."
+<en>{Kazushi}\n"Wow..."
 <es>
 
 @512
-<en>I can't believe this space underground.
+<en>I couldn't believe there was a space like this under the academy.
 <es>
 
 @513
-<en>{Ran}\n"See? I told you so. This looks so real, don't you think?"
+<en>{Ran}\n"See? I told you so. Don't you think they've got to be hiding something down here?"
 <es>
 
 @514
-<en>{Kazushi}\n"Yeah. We might have some ghost too."
+<en>{Kazushi}\n"Yeah. There might be some ghosts down here too..."
 <es>
 
 @515
-<en>I felt warm, humid air blowing on us. Where is it coming from? It is spooky.
+<en>I felt warm, humid air blowing on us. Where's it coming from? Spooky...
 <es>
 
 @516
-<en>{Ran}\n"Never mind about the ghosts. Look for treasures. Treasures."
+<en>{Ran}\n"Never mind about the ghosts. Look for treasure. Treasure."
 <es>
 
 @517
-<en>Ran seems so excited she is almost ready to skip.
+<en>Ran seemed so excited that she was almost skipping along the path.
 <es>
 
 @518
@@ -1001,11 +1001,11 @@
 <es>
 
 @521
-<en>.....
+<en>............
 <es>
 
 @522
-<en>....
+<en>.........
 <es>
 
 @523
@@ -1013,15 +1013,15 @@
 <es>
 
 @524
-<en>{Ran}\n"Kazushi!!"
+<en>{Ran}\n"K-Kazushiiiiiiii!!"
 <es>
 
 @525
-<en>I heard her upset voice. From underneath?
+<en>I heard a pathetic voice coming from below.
 <es>
 
 @526
-<en>{Kazushi}\n"Hey, Ran!?"
+<en>{Kazushi}\n"H-hey, Ran!?"
 <es>
 
 @527
@@ -1029,7 +1029,7 @@
 <es>
 
 @528
-<en>I heard the voice coming out from the bottom of the earth. Sure enough, Ran was hanging onto the edge of a big hole on the ground.
+<en>I heard her voice reverberating against the floor. Sure enough, Ran was hanging onto the edge of a big hole.
 <es>
 
 @529
@@ -1037,11 +1037,11 @@
 <es>
 
 @530
-<en>She was barely hanging onto the edge of the hole.
+<en>She was barely hanging onto the edge.
 <es>
 
 @531
-<en>{Kazushi}\n"Wait! I'll help you!!"
+<en>{Kazushi}\n"H-hold on! I'll pull you up!!"
 <es>
 
 @532
@@ -1049,7 +1049,7 @@
 <es>
 
 @537
-<en>{Ran}\n"What is this hole!?"
+<en>{Ran}\n"What's with this hole!?"
 <es>
 
 @538
@@ -1057,7 +1057,7 @@
 <es>
 
 @540
-<en>We looked into the hole. There is a huge frog looking mountains of swords, and bones of something dead...
+<en>We looked into the hole. There was a huge forest of spears and the bleached bones of some corpse...
 <es>
 
 @543
@@ -1065,11 +1065,11 @@
 <es>
 
 @544
-<en>{Kazushi}\n"Mm, maybe a dog or a cat. Well, it is big enough to be like a small bear?"
+<en>{Kazushi}\n"Mmm...maybe a dog or a cat? Though it's big enough that it could even be a small bear..."
 <es>
 
 @547
-<en>{Ran}\n"The shape is kind of like a monkey. Ha-ha..."
+<en>{Ran}\n"It's shaped kinda like a monkey. Ahahahahaha..."
 <es>
 
 @548
@@ -1077,7 +1077,7 @@
 <es>
 
 @551
-<en>{Ran}\n"...."
+<en>{Ran}\n"..."
 <es>
 
 @552
@@ -1085,59 +1085,59 @@
 <es>
 
 @555
-<en>{Ran}\n"Are you scared? Don't you want money? Which is more important to you, money or your life!?"
+<en>{Ran}\n"A-are you scared? Don't you want money? Which is more important to you, money or your life!?"
 <es>
 
 @556
-<en>{Kazushi}\n"I think your life is more important to me, Ran."
+<en>{Kazushi}\n"You're more important to me, Ran."
 <es>
 
 @557
-<en>{Ran}\n"What a wuss! How do you suppose to fight against all the competitions in the real world..."
+<en>{Ran}\n"You're such a wuss! How do you expect to get by in this dog eat dog world?"
 <es>
 
 @560
-<en>{Ran}\n"What? What did you say? Did you say my life is more important to you?"
+<en>{Ran}\n"Wait? What did you say? Did you say I'm more important?"
 <es>
 
 @561
-<en>{Kazushi}\n"We don't need money. We should go back if you are going to be in danger like that one more time."
+<en>{Kazushi}\n"We don't need the money. We should go back if you're going to be in danger like that again."
 <es>
 
 @564
-<en>{Ran}\n"Oh, your lip service is good! How much you want from me!?"
+<en>{Ran}\n"O-oh, your lip service is good! How much are you trying to swindle out of me!?"
 <es>
 
 @565
-<en>{Kazushi}\n"No, no. I don't need any money from you."
+<en>{Kazushi}\n"No, I'm not trying to take anything..."
 <es>
 
 @568
-<en>{Ran}\n"Well, 500 yen, no, maybe I can pay one thousand yen for that. Oh, I remembered! I am penniless!!"
+<en>{Ran}\n"Well, 500 yen, no, maybe I can pay one thousand yen for that. Oh, I remembered! I'm penniless!!"
 <es>
 
 @570
-<en>She looked into her purse and she was depressed. But, was she really going to pay me for that?
+<en>She looked into her purse and was depressed all over again. But was she really going to pay me for that?
 <es>
 
 @573
-<en>{Ran}\n"Oh, I hate this! Not having money at all is so hard! I really need this treasures."
+<en>{Ran}\n"Argh, I hate this! It's such a pain to not have any money at all! I really need this treasure!"
 <es>
 
 @576
-<en>{Ran}\n"OK, Let's go, Kazushi!"
+<en>{Ran}\n"OK. Let's go, Kazushi!"
 <es>
 
 @578
-<en>Ran became even more excited, and took my hand and started to walk.
+<en>Ran became even more excited, took my hand, and started to walk.
 <es>
 
 @579
-<en>{Kazushi}\n"I'm telling you, it is dangerous."
+<en>{Kazushi}\n"I'm telling you, it's too dangerous."
 <es>
 
 @582
-<en>{Ran}\n"It is your job to save me. Come on! Hurry up!"
+<en>{Ran}\n"Then it'll be your job to protect me. Now come on! Hurry up!"
 <es>
 
 @583
@@ -1145,27 +1145,27 @@
 <es>
 
 @584
-<en>She is not listening to me. I have to save her if something happens, just like she says.
+<en>She wasn't listening to me. I'd just have to protect her if something happens, just like she said.
 <es>
 
 @588
-<en>sound of footsteps
+<en>*Step step step*
 <es>
 
 @589
-<en>How long did we walk? I can hear the footsteps repeating over and over.
+<en>How long have we been walking for?\nI could hear our footsteps repeating over and over.
 <es>
 
 @592
-<en>{Ran}\n"How far is it going?"
+<en>{Ran}\n"How far does this tunnel lead?"
 <es>
 
 @593
-<en>{Kazushi}\n"Are we lost? It seems like we are going in circles."
+<en>{Kazushi}\n"Are we lost? It seems like we're going round in circles."
 <es>
 
 @594
-<en>{Ran}\n"Are you sure? Well, we can't reach anywhere like this. It is strange."
+<en>{Ran}\n"Are you sure? Well, we can't reach anywhere like this. It's strange."
 <es>
 
 @597
@@ -1173,35 +1173,35 @@
 <es>
 
 @600
-<en>{Ran}\n"Well... let me try something before that."
+<en>{Ran}\n"Well... Let me try something before that."
 <es>
 
 @601
-<en>Ran stopped and looking at the wall.
+<en>Ran stopped and started running her hands against the wall.
 <es>
 
 @602
-<en>{Kazushi}\n"What did you see?"
+<en>{Kazushi}\n"What're you looking for?"
 <es>
 
 @605
-<en>{Ran}\n"It's common to find a hidden door, or a hidden switch. Let me try some."
+<en>{Ran}\n"It's common to find a hidden door or a hidden switch. Let me give it a try."
 <es>
 
 @606
-<en>{Kazushi}\n"It's only in movies..."
+<en>{Kazushi}\n"That's only in the movies..."
 <es>
 
 @608
-<en>{Ran}\n"Wow..."
+<en>{Ran}\n"Ah..."
 <es>
 
 @609
-<en>The hand of Ran disappeared into a wall.
+<en>Ran's hand slid into the wall up to her wrist.
 <es>
 
 @613
-<en>{Ran}\n"I pushed something!"
+<en>{Ran}\n"I-I pushed something!"
 <es>
 
 @614
@@ -1213,11 +1213,11 @@
 <es>
 
 @618
-<en>The sound of ground shaking
+<en>Rrrrrrumble...
 <es>
 
 @619
-<en>It sounds like an earthquake.
+<en>It sounded like the ground was shaking.
 <es>
 
 @622
@@ -1225,7 +1225,7 @@
 <es>
 
 @624
-<en>Ran got her hand out of the wall and hang onto my arm.
+<en>Ran pulled her hand out of the wall and grabbed my arm.
 <es>
 
 @625
@@ -1241,15 +1241,15 @@
 <es>
 
 @633
-<en>{Ran}\n"I knew this was going to happen!!"
+<en>{Ran}\n"Here it comes!!"
 <es>
 
 @638
-<en>We saw a wave coming to us after the breeze as we expected. Waves of water was gushing to us through the hallway.
+<en>We saw a wave coming towards us after the breeze as we expected. Waves of water were torrenting towards us through the corridor.
 <es>
 
 @639
-<en>{Kazushi}\n"We got to run!!"
+<en>{Kazushi}\n"R-run!!"
 <es>
 
 @642
@@ -1261,11 +1261,11 @@
 <es>
 
 @646
-<en>{Ran}\n"Oh!"
+<en>{Ran}\n"Ah!!"
 <es>
 
 @649
-<en>Her hand was pulled out of my hand with a strong force.
+<en>Her hand was pulled out of mine by a strong force.
 <es>
 
 @650
@@ -1273,11 +1273,11 @@
 <es>
 
 @651
-<en>I stopped to look back. Ran was falling on the ground face down. I saw a tidal wave gushing so close to her.
+<en>I stopped to look back. Ran hit the ground face down. I saw a tidal wave gushing so close to her..."
 <es>
 
 @655
-<en>{Ran}\n"Ouch...I hit my face..."
+<en>{Ran}\n"Ouch... I hit my face..."
 <es>
 
 @656
@@ -1285,11 +1285,11 @@
 <es>
 
 @658
-<en>I could only lay on top to cover her. The next moment, gushing water came over us and we disappeared into the water.
+<en>I threw myself on top of her to cover her from the impact. Next thing I knew, the rushing water slammed into us and we disappeared beneath the wave.
 <es>
 
 @665
-<en>Drip... Drip...
+<en>*drip drip*
 <es>
 
 @666
@@ -1297,7 +1297,7 @@
 <es>
 
 @667
-<en>I woke up to the sound of dripping water.
+<en>I woke up to the sound of steadily dripping water.
 <es>
 
 @668
@@ -1305,7 +1305,7 @@
 <es>
 
 @669
-<en>I can't see around, because it is so dark.
+<en>I couldn't see anything because it was so dark.
 <es>
 
 @670
@@ -1313,15 +1313,15 @@
 <es>
 
 @671
-<en>I looked for Ran in the darkness, but I remembered that she was in my arms all this time.
+<en>I looked for Ran in the darkness, but I remembered that she was in my arms the whole time.
 <es>
 
 @672
-<en>{Kazushi}\n"Oh... thank god."
+<en>{Kazushi}\n"Phew... Thank god."
 <es>
 
 @673
-<en>I guess I didn't let her go in all that turmoil.
+<en>I guess I didn't let go of Ran as the flood washed over us.
 <es>
 
 @674
@@ -1333,7 +1333,7 @@
 <es>
 
 @676
-<en>She is unconscious, but her breathing was fine. I can't decide if she is just sleeping, but I can hear her rhythmic breathing.
+<en>She was unconscious, but her breathing was fine. I couldn't tell if she was just asleep or worse, but I could hear the rhythm of her breathing.
 <es>
 
 @677
@@ -1341,7 +1341,7 @@
 <es>
 
 @678
-<en>I felt relieved that we are both fine. Then, anxiety comes back. Where are we?
+<en>I felt relieved that we were both fine. Then my anxiety returned.\nWhere are we?
 <es>
 
 @679
@@ -1349,7 +1349,7 @@
 <es>
 
 @681
-<en>Slap. Slap.
+<en>*Slap slap*
 <es>
 
 @682
@@ -1361,7 +1361,7 @@
 <es>
 
 @684
-<en>{Kazushi}\n"The unit is wrong. It should be minutes."
+<en>{Kazushi}\n"Wrong unit. You're thinking of minutes."
 <es>
 
 @685
@@ -1369,7 +1369,7 @@
 <es>
 
 @686
-<en>Ran opened her eyes. But, we can't see anything because of the darkness.
+<en>Ran opened her eyes, but we couldn't see anything because of the darkness.
 <es>
 
 @687
@@ -1381,7 +1381,7 @@
 <es>
 
 @689
-<en>{Ran}\n"Is this Kazushi? Are you?"
+<en>{Ran}\n"Is that you, Kazushi? Is it you?"
 <es>
 
 @690
@@ -1393,39 +1393,39 @@
 <es>
 
 @692
-<en>I felt for her tits. Of course on purpose.
+<en>I grabbed her tits. On purpose, of course.
 <es>
 
 @693
-<en>{Ran}\n"Wow! Hey, don't touch it!"
+<en>{Ran}\n"Ah!\nHey, don't touch those!"
 <es>
 
 @695
-<en>Slap!
+<en>*SLAP!*
 <es>
 
 @696
-<en>She slapped my hand.
+<en>She slapped my hand away.
 <es>
 
 @697
-<en>{Ran}\n"You are so sneaky for a peasant."
+<en>{Ran}\n"Just because we're penniless doesn't mean you can sneak a feel."
 <es>
 
 @698
-<en>{Kazushi}\n"Is that what the problem?"
+<en>{Kazushi}\n"Is that what the problem is?"
 <es>
 
 @699
-<en>{Ran}\n"I'll make you pay for this when we find the treasures. We should do something we've never done for an additional charge!"
+<en>{Ran}\n"I'll make you pay for this when we find the treasure. We should do something we haven't done before for an additional charge as well!"
 <es>
 
 @700
-<en>{Kazushi}\n"What is that? I'm not sure what it is, but are you sure?"
+<en>{Kazushi}\n"What could that be? I don't even know what it is, but are you sure?"
 <es>
 
 @701
-<en>I'm fantasying...
+<en>I began fantasizing.
 <es>
 
 @702
@@ -1433,19 +1433,19 @@
 <es>
 
 @703
-<en>{Kazushi}\n"Wow! So, it does come down to money."
+<en>{Kazushi}\n"Wow! So it all comes down to money!"
 <es>
 
 @704
-<en>{Ran}\n"Of course! It's all about the money."
+<en>{Ran}\n"Of course! You can do anything with money."
 <es>
 
 @705
-<en>I can do anything I want if I find the treasures and come back alive. My dreams colored the darkness.
+<en>I could do anything I wanted if I found the treasure and made it back alive. My dreams lit the darkness in a rainbow of colors.
 <es>
 
 @706
-<en>{Kazushi}\n"But, I we can't do anything in this darkness. We need some light."
+<en>{Kazushi}\n"But we can't do anything in this darkness. We need some light."
 <es>
 
 @707
@@ -1453,15 +1453,15 @@
 <es>
 
 @708
-<en>{Kazushi}\n"No, but I got a match. I try to get a lighter at the cafeteria, but I got caught and gave me a match."
+<en>{Kazushi}\n"No, but I've got a match. I tried to snag a lighter from the cafeteria, but I got caught and they gave me a match instead."
 <es>
 
 @709
-<en>I put it in a plastic bag, so it did not get wet. That was a lucky thing.
+<en>Good thing I put it in a plastic bag so it wouldn't get wet.
 <es>
 
 @710
-<en>{Ran}\n"A match? Who use a match in these days? It'll go out in a second."
+<en>{Ran}\n"A match? Who uses a match these days? It'll go out in a second."
 <es>
 
 @711
@@ -1469,15 +1469,15 @@
 <es>
 
 @713
-<en>Noise.
+<en>*Rustle*
 <es>
 
 @714
-<en>{Kazushi}\n"Mm?"
+<en>{Kazushi}\n"Hmm?"
 <es>
 
 @715
-<en>I felt a dry paper touching my finger tip as I reached out. Is this a trash bin? I felt more paper in stacks.
+<en>I reached out and felt some dry paper with my fingertip. Is this a rubbish bin? I felt more paper in neat stacks.
 <es>
 
 @716
@@ -1489,15 +1489,15 @@
 <es>
 
 @719
-<en>I struck a match. A small flame lights up the room. But the flame is too small, we can't see too far.
+<en>I struck the match. A small flame lit up the room, but it was too small and we couldn't see very far.
 <es>
 
 @720
-<en>{Kazushi}\n"Stay away from me."
+<en>{Kazushi}\n"Give me some distance."
 <es>
 
 @722
-<en>I picked up more trash and burn them also. The flame became larger and started to light the room.
+<en>I picked up more litter and started burning it as well. The flame grew larger and started to light the room.
 <es>
 
 @723
@@ -1505,15 +1505,15 @@
 <es>
 
 @731
-<en>The flame was getting bigger and we can now see inside the room.
+<en>The flame grew bigger before we knew it and lit up the room.
 <es>
 
 @734
-<en>{Ran}\n"That's nice to find a trash..."
+<en>{Ran}\n"Good thing we found some rub-..."
 <es>
 
 @737
-<en>Ran shut up all the sudden.
+<en>Ran suddenly fell silent.
 <es>
 
 @738
@@ -1521,55 +1521,55 @@
 <es>
 
 @739
-<en>{Kazushi}\n"Huh? It's a trash.... Oh shit!"
+<en>{Kazushi}\n"Huh? It's just some ru - Gyah!"
 <es>
 
 @740
-<en>I'm caught by surprise again. I thought it was a trash, but it was a bill. A ten thousand yen bill.
+<en>I'm caught by surprise again. I thought it was some litter, but it was a wad of bills - 10,000 yen bills!
 <es>
 
 @743
-<en>{Ran}\n"That is a ten thousand yen bill, if I'm not mistaking!"
+<en>{Ran}\n"That's a 10,000 yen bill if I'm not mistaken!"
 <es>
 
 @744
-<en>{Kazushi}\n"What? What's going on? Why are all these money doing here?"
+<en>{Kazushi}\n"What the--? What's going on? What's all this money doing here?"
 <es>
 
 @745
-<en>You can only laugh now. All these money are catching on fire and they are burning good.
+<en>I could only laugh at this point. All this money was catching on fire and burning well.
 <es>
 
 @746
-<en>{Kazushi}\n"Ha ha ha"
+<en>{Kazushi}\n"Ahahahahahaha."
 <es>
 
 @747
-<en>{Ran}\n"....!"
+<en>{Ran}\n"...!!"
 <es>
 
 @748
-<en>{Kazushi}\n"Oh shit!?"
+<en>{Kazushi}\n"Hhhhh?!"
 <es>
 
 @749
-<en>The devil! That devil again! Is this hell?
+<en>The devil! The devil is here! Am in hell?!
 <es>
 
 @750
-<en>{Kazushi}\n"I couldn't see at all in the dark! It's not my fault! Ran didn't notice it either!"
+<en>{Kazushi}\n"I couldn't see at all in the dark! It's not my fault! Ran, you didn't notice it either!"
 <es>
 
 @753
-<en>{Ran}\n"No, no!! Money is burning!! No!!"
+<en>{Ran}\n"No, no!! We're burning money!! No!!"
 <es>
 
 @754
-<en>She regressed mentally for a moment. Ran started baling and threw a tantrum on the ground. It was like a kid in a toy store.
+<en>She regressed mentally for a moment. Ran started bawling and threw a tantrum on the ground like a kid being told no in a toy store.
 <es>
 
 @755
-<en>{Kazushi}\n"Ran, we should think positive! If all this money are all over the place like this here, we should have some more over there!"
+<en>{Kazushi}\n"Ran! We need to think positive! If there's all this money scattered over here, we should be able to find some more over there!"
 <es>
 
 @758
@@ -1577,7 +1577,7 @@
 <es>
 
 @759
-<en>Ran looked up with tears in her eyes. Her face looked like a devil a moment ago, but now looked like a small child.
+<en>Ran looked up with tears in her eyes. Her face looked like the devil incarnate a moment ago, but now resembled a small innocent child.
 <es>
 
 @760
@@ -1589,11 +1589,11 @@
 <es>
 
 @762
-<en>{Kazushi}\n"Well then, this is just a start of it. There must be more treasures somewhere else."
+<en>{Kazushi}\n"Well then, this is just the start of it. There must be more treasure somewhere else."
 <es>
 
 @765
-<en>{Ran}\n"Do you think so?"
+<en>{Ran}\n"You think? ...You're right."
 <es>
 
 @766
@@ -1605,31 +1605,31 @@
 <es>
 
 @773
-<en>She found a piece of wood, and she put it in a flame. She made an instant torch.
+<en>Ran found a piece of wood and put it to the flame, making an instant torch.
 <es>
 
 @774
-<en>{Ran}\n"Treasures, here we come!"
+<en>{Ran}\n"Alright! Treasure, here we come!"
 <es>
 
 @776
-<en>She stepped forward, but stopped suddenly. Ran raised the torch and looking into something. It seems to be a dead-end.
+<en>She stepped forward, but stopped suddenly. Ran raised the torched and peered into something. It appeared to be a dead-end.
 <es>
 
 @779
-<en>{Ran}\n"Kazushi! Kazushi!"
+<en>{Ran}\n"Kazushi... Kazushi!"
 <es>
 
 @780
-<en>She reached out her hand looking forward.
+<en>She reached her hand back to me while looking forward.
 <es>
 
 @781
-<en>{Kazushi}\n"What?"
+<en>{Kazushi}\n"What is it?"
 <es>
 
 @782
-<en>The torch shined her face, and it looked pale like a paper. I wonder what she is looking at?
+<en>The torch shined on her face and it looked as pale as paper.\nI wonder what she's looking at...
 <es>
 
 @783
@@ -1641,15 +1641,15 @@
 <es>
 
 @786
-<en>It was displayed along the wall. And it seems to be swaying by the light of the torch.
+<en>They were all lined up along the wall, flickering in the light of the torch.
 <es>
 
 @790
-<en>There was a shelf along the wall, and many glass jar was placed in it. It looked like a specimen.
+<en>There was a shelf along the wall with a series of glass jars on it. It looked like lab specimens.
 <es>
 
 @791
-<en>A small dead animal, some kind of intestinal parts... It was something you see in a science lab, but the numbers were outrageous.
+<en>Inside the jars were corpses of small animals, organs from something... just what you'd expect from a biology lab, but in frightening supply.
 <es>
 
 @792
@@ -1657,7 +1657,7 @@
 <es>
 
 @793
-<en>Ran hid behind my back. She usually doesn't get emotional, but this was too much for her.
+<en>Ran hid behind my back. She didn't usually get emotional, but this was too creepy for her.
 <es>
 
 @794
@@ -1665,51 +1665,51 @@
 <es>
 
 @795
-<en>I've seen something like this before. That was when we went to the local temple for the visit.
+<en>I've seen something like this before. It was when we went to visit the graveyard at our local temple.
 <es>
 
 @796
-<en>I saw numerous gravestones lined up for people without any relatives to pray for their soul.
+<en>There had been countless Buddhist statues for the dead with no one to pay their respects.
 <es>
 
 @797
-<en>The glass jars lined up made me bring back that memory.
+<en>The glass jars lined up like that made me recall that memory.
 <es>
 
 @800
-<en>{Ran}\n"So, this is it? Where is the fortune?"
+<en>{Ran}\n"This is a dead end, right? So, where's the treasure?"
 <es>
 
 @801
-<en>{Kazushi}\n"This can't be a fortune..."
+<en>{Kazushi}\n"This can't be the treasure..."
 <es>
 
 @804
-<en>{Ran}\n"Stop it. This can't be a fortune. But, wait. Will some maniac person buy this for a lot of money?"
+<en>{Ran}\n"Stop it. This can't be treasure. Or do you think I could sell it at a premium to some maniac?"
 <es>
 
 @805
-<en>{Kazushi}\n"Hey, calm down. I don't like that kind of way of thinking..."
+<en>{Kazushi}\n"Hey, don't get worked up over that. I don't like the idea that anything's alright so long as you profit..."
 <es>
 
 @808
-<en>{Ran}\n"Yeah, yeah, I know. I'm joking. You sound like a mother-in-law."
+<en>{Ran}\n"Yeah, yeah, I know. I'm joking. Jeez, you sound like someone's mother-in-law."
 <es>
 
 @809
-<en>It sounds serious when she talks like that.
+<en>Because it sounds serious when she says it.
 <es>
 
 @810
-<en>{Ran}\n"I hope the treasure was not that money burning over there."
+<en>{Ran}\n"I really hope the treasure isn't the money burning over there."
 <es>
 
 @811
-<en>{Kazushi}\n"Is this an alchemy facility or something? If so, maybe we can find something made with alchemy here."
+<en>{Kazushi}\n"Is this an alchemy lab or something? If so, maybe we can find something made with alchemy hidden here."
 <es>
 
 @814
-<en>{Ran}\n"That's right. We shouldn't be too far off, don't you think?"
+<en>{Ran}\n"Yeah, you're right. We shouldn't be that far off the mark, right?"
 <es>
 
 @815
@@ -1725,11 +1725,11 @@
 <es>
 
 @818
-<en>Ran is looking into some whole in a rocky wall.
+<en>Ran was peering into a hole in the rocky wall.
 <es>
 
 @821
-<en>{Ran}\n"See? There is some written message."
+<en>{Ran}\n"See? There's something written in there."
 <es>
 
 @822
@@ -1737,31 +1737,31 @@
 <es>
 
 @824
-<en>We lighted up the wall with a torch. I can see some script engraved there.
+<en>We lit up the wall with a torch. I could see something written up there.
 <es>
 
 @825
-<en>{Kazushi}\n"A, I, shi, te, ru...?"
+<en>{Kazushi}\n"I l o v e y o u...?"
 <es>
 
 @826
-<en>{Kazushi}\n"What is it?"
+<en>{Kazushi}\n"What's that supposed to mean?"
 <es>
 
 @829
-<en>{Ran}\n"I think it says I love you."
+<en>{Ran}\n"I love you, right?"
 <es>
 
 @830
-<en>{Kazushi}\n"Oh, yeah. It sure is."
+<en>{Kazushi}\n"Oh, yeah. It sure does."
 <es>
 
 @833
-<en>{Ran}\n"Hold on. There are more underneath."
+<en>{Ran}\n"Hold on. There's more underneath."
 <es>
 
 @834
-<en>{Kazushi}\n"What? Hi, sa... It's blur. I can't see it well."
+<en>{Kazushi}\n"What? Hi...sa...it's blurry, I can't see it all."
 <es>
 
 @835
@@ -1769,7 +1769,7 @@
 <es>
 
 @836
-<en>{Kazushi}\n"So, it is a message to some one."
+<en>{Kazushi}\n"So it's a message to someone."
 <es>
 
 @837
@@ -1777,7 +1777,7 @@
 <es>
 
 @838
-<en>This message doesn't match the environment. I wonder who left it here.
+<en>The message doesn't match the environment at all. I wonder who left it here.
 <es>
 
 @841
@@ -1789,31 +1789,31 @@
 <es>
 
 @844
-<en>We kept lighting around with the torch. We didn't see anything worthy, but then, we found it.
+<en>We kept wandering around and lighting things up with the torch. We didn't see anything worthy, but then we found it.
 <es>
 
 @852
-<en>{Ran}\n"Wow! A treasure box?"
+<en>{Ran}\n"Wow! A treasure chest!"
 <es>
 
 @853
-<en>It looked like a treasure box you see in a book. It looks unreal because it looks just like the one you imagine of a treasure box.
+<en>It looked like a treasure chest out of a pirate novel. It looked so unreal because it was an exact mirror of the stereotypical image.
 <es>
 
 @856
-<en>{Ran}\n"What is it? What do you think is in this?"
+<en>{Ran}\n"What is it? What do you think's in there?"
 <es>
 
 @857
-<en>Ran is opening the box without thinking.
+<en>Ran started opening the box without thinking.
 <es>
 
 @858
-<en>{Kazushi}\n"Wait! We better take it slow..."
+<en>{Kazushi}\n"Wait! We'd better take it slow--"
 <es>
 
 @861
-<en>{Ran}\n"Here!"
+<en>{Ran}\n"Ei!"
 <es>
 
 @862
@@ -1825,7 +1825,7 @@
 <es>
 
 @868
-<en>The strong beams of light came out of the box at that moment.
+<en>At that moment, light so strong I thought it would melt everything came shining out of the box.
 <es>
 
 @869
@@ -1837,7 +1837,7 @@
 <es>
 
 @871
-<en>I felt something weird, and try to grab Ran. But, the light is too bright I couldn't see anything.
+<en>I felt something weird and tried to grab Ran, but the light was too bright! I couldn't see anything!
 <es>
 
 @872
@@ -1861,7 +1861,7 @@
 <es>
 
 @890
-<en>{Lake Fairy}\n"Did you drop this gold Kazushi? Or this silver Kazushi?"
+<en>{Fairy of the Spring}\n"Is the item you dropped this Golden Kazushi? Or this Silver Kazushi?"
 <es>
 
 @891
@@ -1869,7 +1869,7 @@
 <es>
 
 @897
-<en>{Ran}\n"Huh! I know how it goes now. I want the real Kazushi back!"
+<en>{Ran}\n"Hahan! I'm on to your tricks now! Give me back the real Kazushi!!"
 <es>
 
 @898
@@ -1877,23 +1877,23 @@
 <es>
 
 @902
-<en>{Lake Fairy}\n"Then, this gold Kazushi, and this three hundred million yen. Which did you drop?"
+<en>{Fairy of the Spring}\n"Then this gold Kazushi and this 300,000,000 yen? Which one did you drop?"
 <es>
 
 @906
-<en>{Ran}\n"What! Three hundred million yen?"
+<en>{Ran}\n"What!? 300,000,000 yen?"
 <es>
 
 @907
-<en>She is responding to that! A gold Kazushi and three hundred million? Where am I?
+<en>She was responding to that!\nA Golden Kazushi and 300,000,000 yen? Where am I in this equation?
 <es>
 
 @910
-<en>{Ran}\n"Three hundred million yen... I wonder how much this gold Kazushi be in cash. What was the rate for the gold now?"
+<en>{Ran}\n"300,000,000 yen... I wonder how much the gold Kazushi would go for in cash. What's the commodities rate for gold right now?"
 <es>
 
 @911
-<en>She is calculating? And she is comparing Gold Kazushi and the cash.
+<en>She's doing the math? And she's comparing the Golden Kazushi with the money?
 <es>
 
 @912
@@ -1901,7 +1901,7 @@
 <es>
 
 @915
-<en>{Ran}\n"... Oh!?"
+<en>{Ran}\n"...Ah!"
 <es>
 
 @916
@@ -1909,15 +1909,15 @@
 <es>
 
 @917
-<en>{Ran}\n"Duh! I won't make a same mistake twice!"
+<en>{Ran}\n"J-just kidding! I won't make the same mistake twice!"
 <es>
 
 @918
-<en>It was shaky but she did it. I'm proud of my girlfriend!!
+<en>It was shaky, but she did it. I'm proud of my girlfriend!!
 <es>
 
 @921
-<en>{Ran}\n"You can't fool me! Where is Kazushi? I want Kazushi back!!"
+<en>{Ran}\n"You can't fool me! Where's Kazushi? I want Kazushi back!!"
 <es>
 
 @922
@@ -1929,11 +1929,11 @@
 <es>
 
 @925
-<en>She threw the rock as hard as she can. The rock flew straight to the Lake Fairy, and hit her.
+<en>She threw the rock as hard as she could. The rock flew straight at the Fairy of the Spring, hitting her in the face.
 <es>
 
 @932
-<en>{Ran}\n"Wow!!?"
+<en>{Ran}\n"Kyah?!"
 <es>
 
 @933
@@ -1953,7 +1953,7 @@
 <es>
 
 @946
-<en>She found herself in a underground room. The Lake Fairy is gone. The bonfire we made is still burning and shining around.
+<en>Ran found herself in an underground room. The Fairy of the Spring was gone. The bonfire we made was still burning and shining in the corner.
 <es>
 
 @947
@@ -1961,11 +1961,11 @@
 <es>
 
 @950
-<en>{Ran}\n"Kazushi? Where are you?"
+<en>{Ran}\n"Huh? Kazushi? Where are you?"
 <es>
 
 @951
-<en>She looked around and noticed. The treasure box was placed there.
+<en>She looked around and noticed it. The treasure chest was still there.
 <es>
 
 @952
@@ -1989,23 +1989,23 @@
 <es>
 
 @959
-<en>She found a mountains of treasures inside. There are precious stones and gold. It sure was dazzling treasures.
+<en>She found a mountain of treasure inside. There were enough gemstones and gold to make one gasp and become dizzy.
 <es>
 
 @960
-<en>{Ran}\n"Why? Oh! Is because I made a honest answer?"
+<en>{Ran}\n"Why? Oh! Is this because I made a honest answer?"
 <es>
 
 @962
-<en>I told her it wasn't either gold or silver Kazushi honestly. Oh yes. The honest person gets reward.
+<en>I honestly told her that I hadn't left the gold or silver Kazushi behind.\nThat's right. The honest person gets rewarded in the stories.
 <es>
 
 @964
-<en>{Ran}\n"But, this is not right! Where is Kazushi? Kazushi??"
+<en>{Ran}\n"But this isn't right! Where's Kazushi? Kazushi??"
 <es>
 
 @965
-<en>The treasures did not please her now. She can't find Kazushi. And that is making her worry.
+<en>The treasure didn't please her now. She couldn't find Kazushi, and that was making her worry.
 <es>
 
 @966
@@ -2013,43 +2013,43 @@
 <es>
 
 @967
-<en>She walked around. She is almost breaking into tears, and walking around. It looked like a lost child.
+<en>She walked around. She was on the verge of breaking into tears as she wandered around the room, looking like a lost child.
 <es>
 
 @968
-<en>{Ran}\n"Oh shit. He is gone. Where is Kazushi? Don't leave me here alone."
+<en>{Ran}\n"No, he's gone! Where's Kazushi!? Don't leave me here alone!"
 <es>
 
 @969
-<en>{Ran}\n"Kazushi! Kazushi!! Where are you? Kazushi!!"
+<en>{Ran}\n"Kazushi! Kazushi!! Hey, Kazushi!!"
 <es>
 
 @970
-<en>Kazushi didn't come back. And the treasure box was left to replace Kazushi.
+<en>But no matter how much she called, he didn't respond. In his place remained the treasure chest.
 <es>
 
 @971
-<en>{Ran}\n"Such a crap..."
+<en>{Ran}\n"Such crap..."
 <es>
 
 @972
-<en>How much would this be in cash? But it did not make Ran happy.
+<en>How much would this be in cash? But even that didn't make Ran happy.
 <es>
 
 @973
-<en>{Ran}\n"Kazushi! I found the treasure! Look! You never seen this much of treasures before! Kazushi, look at this!"
+<en>{Ran}\n"Kazushi! I found the treasure! Look! You've never seen so much treasure before! Kazushi, look at this!"
 <es>
 
 @974
-<en>The person she wants to show it is not here. The person she wants to share this happiness is not here.
+<en>The person she wanted to show it to wasn't there. The person she wanted to share this happiness with wasn't there.
 <es>
 
 @975
-<en>{Ran}\n"What a crap..."
+<en>{Ran}\n"What crap..."
 <es>
 
 @976
-<en>She put her hand into the treasure box. She grabbed the treasures like a trash and kept emptying the box.
+<en>She thrust her hand into the treasure chest. She grabbed the coins and jewels like they were garbage and started emptying the box.
 <es>
 
 @977
@@ -2057,15 +2057,15 @@
 <es>
 
 @978
-<en>She scooped out a big diamond and a gold bar, throwing everything out of the box.
+<en>She scooped a massive diamond and full gold bar out and threw them away, along with everything else in the box.
 <es>
 
 @979
-<en>{Ran}\n"I will give it all back, so give Kazushi back to me!"
+<en>{Ran}\n"I'll give it all back, so give Kazushi back to me!"
 <es>
 
 @980
-<en>She emptied the whole box and threw it all around shaking the box upside down.
+<en>She emptied the entire chest and scattered the contents everywhere until she shook the empty chest up and down.
 <es>
 
 @981
@@ -2073,11 +2073,11 @@
 <es>
 
 @982
-<en>Nothing happen. She threw the empty box away, and sat on the ground.
+<en>Nothing happened. She threw the empty chest away and sat feebly on the ground.
 <es>
 
 @983
-<en>{Ran}\n"Kazushi..."
+<en>{Ran}\n"Kazushi... *sniff*... wah, wah..."
 <es>
 
 @984
@@ -2085,15 +2085,15 @@
 <es>
 
 @989
-<en>Crying sound
+<en>Wahh, wahh...
 <es>
 
 @990
-<en>Who is crying?
+<en>Someone was crying?
 <es>
 
 @991
-<en>Crying sound
+<en>Wahh, wahh...
 <es>
 
 @992
@@ -2105,19 +2105,19 @@
 <es>
 
 @994
-<en>{Kazushi}\n"What?"
+<en>{Kazushi}\n"H-huh?"
 <es>
 
 @995
-<en>What is this? I see something shining in the dark. It is round and copper color.
+<en>What's this?\nI could see something shining in the dark. It was round and copper colored.
 <es>
 
 @997
-<en>{Kazushi}\n"Ten yen coin?"
+<en>{Kazushi}\n"A ten yen coin?"
 <es>
 
 @998
-<en>Crying sound
+<en>Wahh, wahh...
 <es>
 
 @999
@@ -2125,7 +2125,7 @@
 <es>
 
 @1000
-<en>Is Ran crying? Yes, it is. Where is she?
+<en>Is that Ran crying? Yes, it is. Where is she?
 <es>
 
 @1001
@@ -2137,31 +2137,31 @@
 <es>
 
 @1006
-<en>{Kazushi}\n"Wow!"
+<en>{Kazushi}\n"I-it's her!!"
 <es>
 
 @1007
-<en>That bitch again!! She took everything from Ran and still not enough? Is she trying to take more money from me?
+<en>That bitch again!! She'd taken everything from Ran, but it still wasn't enough?\nIs she trying to take even more money from me?
 <es>
 
 @1008
-<en>{Kazushi}\n"Too bad. I don't have any. You took my hundred thousand yen from me."
+<en>{Kazushi}\n"Well too bad for you! I don't have any. You even took my million yen away from me."
 <es>
 
 @1009
-<en>I touched my pocket. I felt the cold coin on my fingertips.
+<en>I felt my pocket and felt the cold coin on my fingertips.
 <es>
 
 @1010
-<en>{Kazushi}\n"See! I only have a coin!"
+<en>{Kazushi}\n"See!? This coin is all I've got!"
 <es>
 
 @1012
-<en>{Lake Fairy}\n"....."
+<en>{Fairy of the Spring}\n"..."
 <es>
 
 @1013
-<en>But she is still staring at me.
+<en>But she was still staring at me.
 <es>
 
 @1014
@@ -2169,27 +2169,27 @@
 <es>
 
 @1015
-<en>{Lake Fairy}\n"...Kazushi"
+<en>{Fairy of the Spring}\n"...Kazushi."
 <es>
 
 @1016
-<en>{Kazushi}\n"What? Don't call me like that."
+<en>{Kazushi}\n"What? Don't talk to me like that."
 <es>
 
 @1017
-<en>{Lake Fairy}\n"Kazu, shi... Kazushi..."
+<en>{Fairy of the Spring}\n"Kazu...shi...Kazushi..."
 <es>
 
 @1018
-<en>{Kazushi}\n"What is it?"
+<en>{Kazushi}\n"What do you... huh?"
 <es>
 
 @1019
-<en>Something is not right. The face looked like she was about to cry, and she looked like a lost child.
+<en>Something's not right. Her face looked like she was about to cry, like a lost child.
 <es>
 
 @1020
-<en>That face remained me of someone.
+<en>That face reminded me of someone.
 <es>
 
 @1021
@@ -2197,19 +2197,19 @@
 <es>
 
 @1022
-<en>{Lake Fairy}\n"Kazushi..."
+<en>{Fairy of the Spring}\n"Kazushi..."
 <es>
 
 @1023
-<en>She calls my name. It is Ran. Ran is overlapping with the Lake Fairy.
+<en>She called my name. It was Ran. Ran was overlapping with the Fairy of the Spring.
 <es>
 
 @1024
-<en>{Lake Fairy}\n"Kazushi...money..."
+<en>{Fairy of the Spring}\n"Kazushi... money..."
 <es>
 
 @1025
-<en>She can't be happy with all that money? She probably can't be happy forever.
+<en>She still wasn't satisfied after taking all that money? She probably never would be.
 <es>
 
 @1026
@@ -2217,7 +2217,7 @@
 <es>
 
 @1027
-<en>I clinched a coin in my pocket. This is the coin which saved her when she was a child and lost.
+<en>I clenched onto the coin in my pocket. It's the coin that saved her when she was lost as a child.
 <es>
 
 @1028
@@ -2225,11 +2225,11 @@
 <es>
 
 @1029
-<en>I threw the coin into the fountain. The coin disappeared into the fountain.
+<en>I threw the coin into the spring and it disappeared in the water.
 <es>
 
 @1032
-<en>The fountain flashed a bright light at that moment.
+<en>The spring flashed a bright light at that moment.
 <es>
 
 @1033
@@ -2241,15 +2241,15 @@
 <es>
 
 @1037
-<en>The lights disappeared and I found myself in a dark space. Where did that fountain and the spirit go?
+<en>The lights disappeared and I found myself in a dark space. Where did the spring and the fairy go?
 <es>
 
 @1038
-<en>{Kazushi}\n"Mm?"
+<en>{Kazushi}\n"Hmm?"
 <es>
 
 @1039
-<en>I found a small treasure box at my feet.
+<en>I found a small treasure chest at my feet and opened it up.
 <es>
 
 @1040
@@ -2257,31 +2257,31 @@
 <es>
 
 @1041
-<en>A bankbook? It says Ran Kamoike. And more bankbooks.
+<en>A bank book? It said "Kamoike Ran" on the front - and there were a lot of them.
 <es>
 
 @1042
-<en>They are all in Ran's name. I opened it and surprised.
+<en>They were all in Ran's name. I opened one of them and my jaw hit the floor in shock.
 <es>
 
 @1043
-<en>{Kazushi}\n"Wow... She have a lot..."
+<en>{Kazushi}\n"Wow... she's loaded."
 <es>
 
 @1044
-<en>I should marry her. But why is her bankbooks here? I thought all of her money was gone...
+<en>The numbers made me want to marry her. But why were her bank books here? I thought she was penniless...
 <es>
 
 @1045
-<en>{Kazushi}\n"Oh, is this the money the spirit took from Ran?"
+<en>{Kazushi}\n"Oh, is this the money the fairy took from Ran?"
 <es>
 
 @1046
-<en>Did the spirit gave it back to Ran? I'm not sure if it is all the money, but I'm sure Ran will be happy.
+<en>Had the fairy given it back to her? I wasn't sure if this is all her money, but I was sure Ran would be happy about it.
 <es>
 
 @1047
-<en>{Kazushi}\n"Oh, yeah. I have to find Ran."
+<en>{Kazushi}\n"Oh yeah. I have to find Ran."
 <es>
 
 @1048
@@ -2313,15 +2313,15 @@
 <es>
 
 @1064
-<en>Ran was breaking everything she can put her hands on calling Kazushi's name.
+<en>Ran went around breaking everything she saw as she called his name.
 <es>
 
 @1065
-<en>It looked like a hurricane hit because of that.
+<en>It felt like a hurricane hitting because of that.
 <es>
 
 @1066
-<en>{Kazushi}\n"Hey!"
+<en>{Kazushi}\n"Hey!!"
 <es>
 
 @1069
@@ -2329,11 +2329,11 @@
 <es>
 
 @1070
-<en>{Ran}\n"Kazushi? Kazushi??"
+<en>{Ran}\n"Kazushi? Kazushi?!"
 <es>
 
 @1071
-<en>She looked around, but no one is there.
+<en>She looked around, but no one was there.
 <es>
 
 @1074
@@ -2345,15 +2345,15 @@
 <es>
 
 @1076
-<en>She looked around trying to find where the voice is coming from and she found it.
+<en>She looked around, trying to find where the voice was coming from, and located it.
 <es>
 
 @1077
-<en>{Ran}\n"In the box?"
+<en>{Ran}\n"In the chest?"
 <es>
 
 @1078
-<en>Under the upside down box. That is where his voice was coming from.
+<en>Under the upside-down treasure chest. That's where his voice was coming from.
 <es>
 
 @1079
@@ -2361,7 +2361,7 @@
 <es>
 
 @1080
-<en>Ran jumped onto the box. She picked up the box and looked inside of it.
+<en>Ran jumped onto the chest. She flipped it over and looked inside.
 <es>
 
 @1083
@@ -2369,7 +2369,7 @@
 <es>
 
 @1084
-<en>She found Kazushi.
+<en>Kazushi was inside.
 <es>
 
 @1085
@@ -2377,11 +2377,11 @@
 <es>
 
 @1086
-<en>He was in the box, but not crammed into the box. Kazushi was in a dark, square room.
+<en>He was in the chest, but not crammed into the chest. Kazushi was in a dark, square room.
 <es>
 
 @1087
-<en>The reduced scale is wrong. Kazushi looks so small and far in the box.
+<en>The reduced perspective was wrong. Kazushi looked so small and far away in the chest.
 <es>
 
 @1088
@@ -2389,7 +2389,7 @@
 <es>
 
 @1094
-<en>I heard her voice. It's Ran. And the voice is coming from above.
+<en>I heard her voice. It was Ran, and her voice was coming from above.
 <es>
 
 @1095
@@ -2397,7 +2397,7 @@
 <es>
 
 @1096
-<en>I looked up and surprised. The ceiling was dark but now, Ran is looking into the room from above.
+<en>I looked up and was surprised. The ceiling was dark, but now Ran was looking into the room from above.
 <es>
 
 @1097
@@ -2405,11 +2405,11 @@
 <es>
 
 @1098
-<en>Ran is calling me, but the scale is wrong. It feels like the giant is looking into the room.
+<en>Ran was calling me, but the scale was off. It's like a giant was looking into my room.
 <es>
 
 @1099
-<en>But, it sure is Ran over there.
+<en>But it was definitely Ran up there.
 <es>
 
 @1100
@@ -2417,7 +2417,7 @@
 <es>
 
 @1101
-<en>I reached my hand above my head. Ran should be able to catch me.
+<en>I reached my hand above my head. Ran should be able to pull me out.
 <es>
 
 @1102
@@ -2425,7 +2425,7 @@
 <es>
 
 @1103
-<en>Ran knew what I was trying to do. She was hesitant, but reached her hand toward me.
+<en>Ran figured out what I was trying to do. She was hesitant, but reached out her hand towards me.
 <es>
 
 @1104
@@ -2433,7 +2433,7 @@
 <es>
 
 @1105
-<en>Ran's hand came close. The strange thing was that she looked like a giant before, but now her hands are same as my size.
+<en>Ran's hand came close. The strange thing was, she may have looked like a giant before, but now her hands were the same size as mine.
 <es>
 
 @1106
@@ -2445,7 +2445,7 @@
 <es>
 
 @1108
-<en>I grabbed her hand. It made me relaxed to feel the familiar warms.
+<en>I grabbed her hand. It made me relaxed, feeling that familiar warmth.
 <es>
 
 @1109
@@ -2453,19 +2453,19 @@
 <es>
 
 @1110
-<en>She grabbed my hand tight, and pulled as hard as she could. I felt my body lift up.
+<en>She grabbed on tightly to my hand and pulled as hard as she could. I felt my body lifting up.
 <es>
 
 @1111
-<en>{Ran}\n"Kazushi! Wow!!"
+<en>{Ran}\n"Kaaazuuuushiii! Hyaaaaaaaahhh!!"
 <es>
 
 @1112
-<en>My body was lifted up, and the ceiling came closer and closer.
+<en>My body rose up towards the bright ceiling.
 <es>
 
 @1113
-<en>{Kazushi}\n"Wow!"
+<en>{Kazushi}\n"Oooooooh!"
 <es>
 
 @1114
@@ -2477,7 +2477,7 @@
 <es>
 
 @1125
-<en>Ran catch my body I was coming out. But I was too heavy, we both fell on the ground.
+<en>Ran caught my body as I popped out, but I was too heavy and we both hit the ground.
 <es>
 
 @1128
@@ -2485,7 +2485,7 @@
 <es>
 
 @1129
-<en>Ran held me tight as we lay on the ground.
+<en>Ran held me tightly as we lay on the ground.
 <es>
 
 @1130
@@ -2517,7 +2517,7 @@
 <es>
 
 @1139
-<en>She touched her face, and surprised. She looked at her wet fingertips confusedly.
+<en>She touched her face and became surprised. She looked at her wet fingertips with confusion.
 <es>
 
 @1140
@@ -2525,7 +2525,7 @@
 <es>
 
 @1141
-<en>Her tears were gushing out after another. It was beautiful. I thought her tears are more beautiful than any precious stones.
+<en>Her tears were gushing out one after another. It was beautiful. I thought her tears were more beautiful than any gemstone.
 <es>
 
 @1142
@@ -2549,11 +2549,11 @@
 <es>
 
 @1149
-<en>I opened the box I found before.
+<en>I opened the chest I found before.
 <es>
 
 @1150
-<en>{Ran}\n"This... is mine! Oh my god! It's my money!!"
+<en>{Ran}\n"This... it's my...!! Yay! Yay! It's my money!!"
 <es>
 
 @1151
@@ -2565,15 +2565,15 @@
 <es>
 
 @1156
-<en>{Kazushi}\n"Yeah.. You know..."
+<en>{Kazushi}\n"Yeah. You know..."
 <es>
 
 @1162
-<en>Ground shaking
+<en>Rrrrrrumble...
 <es>
 
 @1163
-<en>I was about to explain what happened, and then we heard the sound of ground shaking. A moment later, the ground started to shake.
+<en>I was about to explain what happened, but then we heard the ground start rumbling. A moment later, those rumbles turned into violent shaking.
 <es>
 
 @1164
@@ -2585,23 +2585,23 @@
 <es>
 
 @1167
-<en>The shaking of the ground became bigger and bigger. The rocks started to fall from the ceiling.
+<en>The shaking of the ground grew more and more intense. Rocks started falling from the ceiling.
 <es>
 
 @1170
-<en>{Ran}\n"Oh my god!"
+<en>{Ran}\n"W-we're in danger!"
 <es>
 
 @1171
-<en>{Kazushi}\n"It's going to crush!"
+<en>{Kazushi}\n"It's going to collapse!"
 <es>
 
 @1172
-<en>I stood up in a second still holding Ran. It is hard to stand up like this but this is not the time to complain.
+<en>I bolted to my feet, still holding Ran. It was hard to stand up like this, but this wasn't exactly the moment to complain.
 <es>
 
 @1173
-<en>{Kazushi}\n"We got to get out of here!"
+<en>{Kazushi}\n"We're running!"
 <es>
 
 @1174
@@ -2609,19 +2609,19 @@
 <es>
 
 @1176
-<en>I held a box under my arm on one side, and held Ran's hand on other side, and we started to run.
+<en>I held the chest under my arm to one side and Ran's hand from the other as we started to run.
 <es>
 
 @1177
-<en>The rocks small and large are falling on us from above. The rock ceiling is falling apart.
+<en>Rocks, small and large, were falling on us from above. The rock ceiling was falling apart.
 <es>
 
 @1178
-<en>{Kazushi}\n"We going to get buried alive!!"
+<en>{Kazushi}\n"We're going to get buried alive!!"
 <es>
 
 @1181
-<en>{Ran}\n"Hey, kazushi! Look down! Down!!"
+<en>{Ran}\n"Hey, Kazushi! Look down! DOWN!"
 <es>
 
 @1184
@@ -2629,35 +2629,35 @@
 <es>
 
 @1185
-<en>Ran called me to stop as I was looking up and running. She pulled on my hand.
+<en>Ran ordered me to stop as I was looking up and running. She yanked on my hand.
 <es>
 
 @1186
-<en>{Kazushi}\n"What?"
+<en>{Kazushi}\n"Wha-? Hey?!"
 <es>
 
 @1187
-<en>It felt like my arm would come off or something. Ran pulled my hand as hard as she can. But I see why she did that.
+<en>It felt like my arm was going to come off or something. Ran pulled on my hand as hard as she could, but I could see why she did it.
 <es>
 
 @1188
-<en>The ground in front of us was cracking huge.
+<en>The ground in front of us was splitting with a huge crack.
 <es>
 
 @1189
-<en>{Kazushi}\n"Wow!"
+<en>{Kazushi}\n"Uwah? Waaaaah?!"
 <es>
 
 @1190
-<en>The crack became a huge hole in the ground, and we saw a blue color. A sea.
+<en>The crack became a massive sinkhole in the ground, and we saw a mass of blue: the sea.
 <es>
 
 @1191
-<en>{Kazushi}\n"Wow! Shit!!"
+<en>{Kazushi}\n"Hey, uwah, aaaah!"
 <es>
 
 @1192
-<en>I was running as hard as I could for my life, it's impossible to stop suddenly. I couldn't stop in time and jumped into the sea...
+<en>I was running for my life as hard as I could. It was impossible to suddenly stop. I couldn't stop in time and fell towards the water...
 <es>
 
 @1195
@@ -2665,27 +2665,27 @@
 <es>
 
 @1198
-<en>{Kazushi}\n"Wow!?"
+<en>{Kazushi}\n"Woah?!"
 <es>
 
 @1203
-<en>I felt the ground falling apart and my body was in the air. There is a sea underneath. But, my body was stopped up in the air.
+<en>I felt the ground falling apart, and my body was in the air. The sea was underneath, but my body stopped, hanging in the air.
 <es>
 
 @1204
-<en>{Ran}\n"Kazushi!!"
+<en>{Ran}\n"K-Kazushi!!"
 <es>
 
 @1205
-<en>Ran did not let go of my hand.
+<en>Ran wouldn't let go of my hand.
 <es>
 
 @1206
-<en>{Ran}\n"Kazushi! Come on! Climb up!!"
+<en>{Ran}\n"K-Kazushi! Come on! Climb up!!"
 <es>
 
 @1207
-<en>She was holding onto my hand with both hand. But it was the most she could do with her power.
+<en>She was holding onto my hand with both of hers. But it was the most she could do with her power.
 <es>
 
 @1208
@@ -2693,63 +2693,63 @@
 <es>
 
 @1209
-<en>I lifted the box I held in my left hand. It was a box with all of her money.
+<en>I lifted the chest I held in my left hand. It was the chest with all of her money.
 <es>
 
 @1210
-<en>{Ran}\n"No! I can't reach it! Let it go and climb up!"
+<en>{Ran}\n"No! I can't reach it! Just let go of it and climb up."
 <es>
 
 @1211
-<en>I can't believe she was saying that.
+<en>I can't believe she said that.
 <es>
 
 @1212
-<en>{Kazushi}\n"But, this is yours! I can swim in the worst case scenario. You got to take this now!"
+<en>{Kazushi}\n"But this is yours! In the worst case scenario I can always swim. You've got to take this now!"
 <es>
 
 @1213
-<en>In a real life, I can't swim, but oh well.
+<en>OK so I lied. I can't really swim, but oh well.
 <es>
 
 @1214
-<en>{Ran}\n"Idiot! You know how high we are? If you drop, you'll be dead!!"
+<en>{Ran}\n"You idiot! Do you know how high up we are? If I drop you, then you'll die!"
 <es>
 
 @1215
-<en>{Kazushi}\n"Well, I survived that bridge..."
+<en>{Kazushi}\n"Well, I did survive the bridge..."
 <es>
 
 @1216
-<en>{Ran}\n"Idiot! Do you know how I felt seeing you falling from that bridge?"
+<en>{Ran}\n"You idiot! Do you know how I felt, seeing you fall from that bridge?"
 <es>
 
 @1217
-<en>{Ran}\n"I'm not letting you go this time. If you are going to fall, then I go with you!"
+<en>{Ran}\n"I'm not letting you go this time. If you're going to fall then I'm going with you!"
 <es>
 
 @1218
-<en>{Kazushi}\n"Don't say that! Do you know what happen if you fall from this height?"
+<en>{Kazushi}\n"Don't say that! Do you know what'll happen if you fell from this height?"
 <es>
 
 @1219
-<en>{Ran}\n"That's why I'm telling you to let that box go and climb up."
+<en>{Ran}\n"That's why I'm telling you to let go of the damn box and climb back up!"
 <es>
 
 @1220
-<en>Ran is calling her money a "that box"?
+<en>...Ran called her money "the damn box"?
 <es>
 
 @1221
-<en>{Kazushi}\n"OK. Then I'll let it go. Are you sure?"
+<en>{Kazushi}\n"OK. Then I'll let go. Are you sure?"
 <es>
 
 @1222
-<en>{Ran}\n"Hurry!"
+<en>{Ran}\n"Hurry!!"
 <es>
 
 @1223
-<en>It is just a small box I need to let go, but my fingers were frozen with the tension. I moved the fingers as hard as I can.
+<en>The chest was tiny, barely larger than my hand, but my fingers were frozen with tension at the thought of letting it go. I had to move my fingers with all my might.
 <es>
 
 @1224
@@ -2757,7 +2757,7 @@
 <es>
 
 @1225
-<en>The box fell out of my hand. And the box disappeared fast.
+<en>The chest fell out of my hand and disappeared quickly.
 <es>
 
 @1226
@@ -2769,35 +2769,35 @@
 <es>
 
 @1228
-<en>Splash!
+<en>SPLASH!
 <es>
 
 @1229
-<en>I thought I heard the splash of the box as I climbed up the hole.
+<en>I thought I heard the chest splashing into the water as I climbed up the hole.
 <es>
 
 @1230
-<en>{Ran}\n"Here! Hang on!"
+<en>{Ran}\n"Here! Grab on!"
 <es>
 
 @1231
-<en>I grabbed onto the rock with left hand to stable my body. My body was not in the air anymore.
+<en>I grabbed into a rock with my left hand to stabilize my body. I wasn't hanging in the air anymore.
 <es>
 
 @1232
-<en>{Ran}\n"Ok, I'll pull now! Here!!"
+<en>{Ran}\n"Okay, I'm going to pull! One, two!!"
 <es>
 
 @1233
-<en>{Kazushi}\n"Mm....."
+<en>{Kazushi}\n"Nnnnnnngh!!"
 <es>
 
 @1234
-<en>Ran pulled as hard as she could. I climbed as hard as I could. And I finally was able to get out of that hole.
+<en>Ran pulled as hard as she could. I climbed as hard as I could. And finally, I was able to get out of that hole.
 <es>
 
 @1244
-<en>{Ran}\n"Oh my god. I thought we would be dead."
+<en>{Ran}\n"Phew. I thought we were going to die."
 <es>
 
 @1245
@@ -2805,23 +2805,23 @@
 <es>
 
 @1246
-<en>I looked into the sea. I couldn't find Ran's small box anywhere.
+<en>I looked into the sea. I couldn't find the chest with Ran's money anywhere.
 <es>
 
 @1247
-<en>{Kazushi}\n"Are you sure about that? It came back, you know?"
+<en>{Kazushi}\n"Are you okay with that? It finally came back?"
 <es>
 
 @1250
-<en>{Ran}\n"I am not sure about it!! But what else could I do? Anyway, it is not relevant right now!!"
+<en>{Ran}\n"Of course I'm not okay! But I couldn't help it! Anyway, this isn't the time for that!!"
 <es>
 
 @1251
-<en>The falling of the ceiling continued. We'll be buried alive if we don't get out right now.
+<en>The ceiling continued on with its collapse. We'd be buried alive if we didn't get out of there immediately!
 <es>
 
 @1252
-<en>{Ran}\n"Let's go!"
+<en>{Ran}\n"Let's run!"
 <es>
 
 @1253
@@ -2829,31 +2829,31 @@
 <es>
 
 @1262
-<en>We were in underground of the campus, but when we came out, it was at the entrance of a cave.
+<en>We were under the academy, but when we emerged it was at the entrance of a cave.
 <es>
 
 @1263
-<en>{Kazushi}\n"This is where it was connected?"
+<en>{Kazushi}\n"This is where it led out too?"
 <es>
 
 @1267
-<en>{Ran}\n"Oh my god. We are saved."
+<en>{Ran}\n"Phew. We're safe somehow."
 <es>
 
 @1268
-<en>{Kazushi}\n"At least we are alive."
+<en>{Kazushi}\n"At least we're alive."
 <es>
 
 @1269
-<en>Our knees were shaking. And we both sad down on the ground.
+<en>Our knees were shaking and we both sat down on the ground.
 <es>
 
 @1270
-<en>We couldn't get the treasure. But at least we are still alive.
+<en>We couldn't recover the treasure, but at least we were still alive.
 <es>
 
 @1271
-<en>{Kazushi}\n"It sure was "great pains but all in vain". Don't you think?"
+<en>{Kazushi}\n"Talk about a real vain effort."
 <es>
 
 @1274
@@ -2861,27 +2861,27 @@
 <es>
 
 @1275
-<en>Ran opened her coin purse. I saw a precious stone in there. It's pretty big.
+<en>Ran opened her coin purse. I saw one pretty big gemstone in there.
 <es>
 
 @1278
-<en>{Ran}\n"There was more than this, but I threw it out."
+<en>{Ran}\n"There was more than this, but I threw them all out."
 <es>
 
 @1279
-<en>{Kazushi}\n"You threw it out? These precious stones?"
+<en>{Kazushi}\n"You threw it out? You threw away gemstones?"
 <es>
 
 @1280
-<en>I can't imagine her doing that.
+<en>I couldn't imagine her doing that.
 <es>
 
 @1283
-<en>{Ran}\n"There was precious stones, gold, and cash also. Too bad."
+<en>{Ran}\n"There were stones, gold, and some cash too. Too bad."
 <es>
 
 @1284
-<en>She said so, and threw a precious stone to me. I barely caught it. It was heavier than I thought it would be.
+<en>She threw the gemstone at me as she said that. I barely caught it, but it was heavier than it looked.
 <es>
 
 @1287
@@ -2893,11 +2893,11 @@
 <es>
 
 @1289
-<en>This was only one she got. If she gave it to me, then it really is "great pains but all in vain"for her.
+<en>This was the only thing she got. If she gave it to me, then it really was all in vain for her.
 <es>
 
 @1292
-<en>{Ran}\n"Sure. You can get one hundred thousand yen out of it, can't you? Then, you don't have to quit school."
+<en>{Ran}\n"Sure. You can get a million yen out of it, can't you? Then you won't have to quit school."
 <es>
 
 @1293
@@ -2905,35 +2905,35 @@
 <es>
 
 @1294
-<en>{Ran}\n"No buts. I promised your dad. I have to keep my promise."
+<en>{Ran}\n"No buts. I promised your dad, and I always keep my promises."
 <es>
 
 @1295
-<en>Ran looked refreshed, although she did not make any money out of it. It feels weird.
+<en>Ran looked content, even though she hadn't made any money out of it. It felt weird.
 <es>
 
 @1296
-<en>{Kazushi}\n"How about you?"
+<en>{Kazushi}\n"What about you, Ran?"
 <es>
 
 @1299
-<en>{Ran}\n"Never mind about me. I don't care that much anymore."
+<en>{Ran}\n"Never mind me. I don't really care anymore."
 <es>
 
 @1300
-<en>The result was not what we have expected, but Ran looked refreshed. She grab onto my arm with a happy smile.
+<en>The results were unexpected, but Ran looked satisfyingly refreshed. She grabbed onto my arm with a happy smile.
 <es>
 
 @1303
-<en>{Ran}\n"I haven't felt so excited for a while. And I found out that I had something more important than money."
+<en>{Ran}\n"I haven't felt so excited for ages. And I found out that there was something more important to me than money."
 <es>
 
 @1304
-<en>She was looking at me with an eyes reflecting a sunrise. It make me feel embarrassed.
+<en>She looked at me with the sunrise reflecting in her eyes. It made me feel embarrassed.
 <es>
 
 @1305
-<en>{Kazushi}\n"What is it?"
+<en>{Kazushi}\n"What's more important than money?"
 <es>
 
 @1306
@@ -2941,43 +2941,43 @@
 <es>
 
 @1309
-<en>{Ran}\n"That 10 yen coin was not just a ten yen. It was so valuable because it brought the person I wanted to see."
+<en>{Ran}\n"That ten yen coin wasn't just ten yen. The reason it was so valuable is that it brought me the person I wanted to see."
 <es>
 
 @1310
-<en>I heard that before. That story about when she became lost.
+<en>I'd heard that before. The story about when she became lost...
 <es>
 
 @1313
-<en>{Ran}\n"That time was my parent, but now..."
+<en>{Ran}\n"That time it was my father, but now..."
 <es>
 
 @1315
-<en>She grabbed my arm hard, and she got closer to me.
+<en>She clenched my arm and snuggled up closer to me.
 <es>
 
 @1316
-<en>{Kazushi}\n"What?"
+<en>{Kazushi}\n"W-what?"
 <es>
 
 @1317
-<en>{Ran}\n"I'll never let you go. I realized that I can't compare you with cash. It was nice thing to notice."
+<en>{Ran}\n"I'll never let you go. I realized that I can't compare you with cash. That alone is a reward."
 <es>
 
 @1318
-<en>{Kazushi}\n"You should have known that."
+<en>{Kazushi}\n"You should have known that from the start."
 <es>
 
 @1319
-<en>{Ran}\n"Oh, at least I did!"
+<en>{Ran}\n"Ahaha, oh well."
 <es>
 
 @1320
-<en>She laughed and came even closer to me. I felt ticklish, but it did feel relaxing. We'll be fine together...
+<en>She laughed and came even closer to me. I felt ticklish, but it did feel comforting. We'll be fine together.
 <es>
 
 @1321
-<en>I really feel so.
+<en>I could really feel it.
 <es>
 
 @1322
@@ -2985,19 +2985,19 @@
 <es>
 
 @1323
-<en>We only have one precious stone out of all this. And Ran gave it to me, so she doesn't have anything left.
+<en>We only scored a single gemstone out of all this, and Ran gave it to me, so she didn't earn a single coin.
 <es>
 
 @1324
-<en>{Ran}\n"We have to make money. But, it's all right. I feel like I can make millions with you, Kazushi."
+<en>{Ran}\n"We have to earn some money. But it's fine, I feel like I can make millions with you, Kazushi."
 <es>
 
 @1325
-<en>She smiles strongly. Her eyes were filled with confidence.
+<en>She smiles strongly, eyes beaming with confidence.
 <es>
 
 @1326
-<en>{Ran}\n"But, I'm penniless for time being..."
+<en>{Ran}\n"But, I'm broke for the time being..."
 <es>
 
 @1327
@@ -3005,15 +3005,15 @@
 <es>
 
 @1328
-<en>{Kazushi}\n"What? So sudden?"
+<en>{Kazushi}\n"What? What's that for?"
 <es>
 
 @1329
-<en>{Ran}\n"Aha! Thank you!"
+<en>{Ran}\n"Heh, heh. Thank you, come again!"
 <es>
 
 @1330
-<en>{Kazushi}\n"What? Are you??"
+<en>{Kazushi}\n"Geh?! Is that kiss...?"
 <es>
 
 @1331
@@ -3021,26 +3021,26 @@
 <es>
 
 @1332
-<en>I smiled wryly for her indomitable comment. I really think she'll be fine.
+<en>I smiled wryly at her indomitable comment. I think she's going to be just fine.
 <es>
 
 @1333
-<en>{Ran}\n"Don't worry! We'll do just fine!"
+<en>{Ran}\n"Don't worry. We're gonna be great!"
 <es>
 
 @1334
-<en>Ran looks straight at the sea. She may be looking at the shine of the surface as a jewels she'll have in a future.
+<en>Ran looked straight out over the ocean. She was looking at how it shone like the surface of the jewels she was certain to have in the future.
 <es>
 
 @1335
-<en>Is our future shine as this ocean?
+<en>Would our future shine as brightly as this ocean?
 <es>
 
 @1336
-<en>{Kazushi}\n"I guess you're right. We'll be fine."
+<en>{Kazushi}\n"I guess you're right. We'll be fine together."
 <es>
 
 @1337
-<en>{Ran}\n"Yeah. Absolutely!"
+<en>{Ran}\n"Yeah! Definitely!"
 <es>
 

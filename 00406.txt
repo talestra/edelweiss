@@ -13,75 +13,75 @@
 # 6 - Neutral
 
 @10
-<en>{Kazushi}\n"This wind makes me feel good."
+<en>{Kazushi}\n"What a nice breeze..."
 <es>{Kazushi}\n"Este viento me reconforta."
 
 @11
-<en>I had to take a nap, because I couldn't fall sleep last night.
+<en>I couldn't fall asleep because of this afternoon, so I decided to go for a walk.
 <es>He tenido que darme una siesta porque anoche no pude dormirme.
 
 @12
-<en>{Kazushi}\n"Her underwear still comes up in my mind everytime I close my eyes."
+<en>{Kazushi}\n"I still see her panties every time I close my eyes."
 <es>{Kazushi}\n"Cada vez que cierro los ojos, recuerdo su ropa interior."
 
 @13
-<en>I made an eye contact with her, too.
+<en>I made eye contact with her too.
 <es>Y también tuve contacto visual con ella.
 
 @14
-<en>{Kazushi}\n"I wonder why she doesn't accuse us?"
+<en>{Kazushi}\n"Why did sensei stay quiet after she noticed us?"
 <es>{Kazushi}\n"Me pregunto por qué no nos acusará."
 
 @15
-<en>{Mei}\n"Me, Kazushi."
+<en>{Mei}\n"Haruma-kun."
 <es>{Mei}\n"Eh, Kazushi."
 
 @16
-<en>{Kazushi}\n"Yes? ......!!"
+<en>{Kazushi}\n"Yes? Ah!"
 <es>{Kazushi}\n"¿Sí? ¡¡...!!"
 
 @19
-<en>{Kazushi}\n"......Miss. Ibuki!!"
+<en>{Kazushi}\n"M-M-Mei-sensei!!"
 <es>{Kazushi}\n"¡¡Señorita Ibuki...!!"
 
 @20
-<en>I was just thinking about her!?
+<en>I couldn't help but shout, and my voice echoed in the night sky. Her timing was perfect.
 <es>
 
 @23
-<en>{Mei}\n"Don't talk so loud. You don't wanna wake up everybody, do you?"
+<en>{Mei}\n"You shouldn't shout someone's name so loudly. It's already late at night. You'll wake the others and they'll come to check on us."
 <es>{Mei}\n"No grites tanto. No querrás despertar a todo el mundo, ¿no?"
 
 @24
-<en>{Kazushi}\n"S, sorry......"
+<en>{Kazushi}\n"S-sorry..."
 <es>{Kazushi}\n"L-Lo siento..."
 
 @25
-<en>She doesn't seem to be upset with me.
+<en>Mei-sensei was acting the same as usual. Her tone was calm and gentle.
 <es>No parece estar enfadada conmigo.
 
 @26
-<en>She doesn't seem like she's going to accuse me of something.
+<en>I'm surprised she can talk like this to the guy who snuck in and peeped on her while changing this afternoon.
 <es>No tiene pinta de ir a acusarme o algo así.
 
 @27
-<en>Maybe I should appologize before she starts talking about it.
+<en>Oh yeah. I haven't apologized for that. Maybe that's why I don't feel right about it.
 <es>Quizá debería disculparme antes de que empiece a hablar sobre eso.
 
 @30
-<en>{Mei}\n"What are you doing here so late?"
+<en>{Mei}\n"What are you doing so late? Out for a walk?"
 <es>{Mei}\n"¿Qué haces aquí tan tarde?"
 
 @31
-<en>{Kazushi}\n"Taking a walk."
+<en>{Kazushi}\n"Um, yes."
 <es>{Kazushi}\n"Dando un paseo."
 
 @34
-<en>{Mei}\n"Do you have time?"
+<en>{Mei}\n"Oh? So you have a moment? Could I have you come with me then?"
 <es>{Mei}\n"¿Tienes un rato?"
 
 @35
-<en>{Kazushi}\n"Now?"
+<en>{Kazushi}\n"Huh? Now?"
 <es>{Kazushi}\n"¿Ahora?"
 
 @36
@@ -89,23 +89,23 @@
 <es>Me pregunto para qué me necesitará...
 
 @39
-<en>[Mei and Kazushi eating noodles]
+<en>*SLURP*
 <es>*Mei y Kazushi comiendo fideos*
 
 @40
-<en>I can't resist pork taste noodle soup.
+<en>The sound of us slurping up noodles and the delicious smell of pork sauce filled the garden.
 <es>No puedo resistirme a los fideos de pollo.
 
 @43
-<en>{Mei}\n"I wonder why noodle tastes so much better late at night?"
+<en>{Mei}\n"Hahh...I wonder why ramen tastes so much better late at night."
 <es>{Mei}\n"Me preguntó por qué los fideos saben mucho mejor a altas horas de la noche."
 
 @44
-<en>We made noodles at cafeteria and brought here.
+<en>Sensei carried her ramen bowl in happiness. We looked quite the odd couple. We fixed it the cafeteria and brought it out here.
 <es>Hicimos fideos en la cafetería y nos los trajimos aquí.
 
 @47
-<en>{Mei}\n"Are you doing O.K?"
+<en>{Mei}\n"Haruma-kun, are you eating yours?"
 <es>
 
 @48
@@ -113,183 +113,183 @@
 <es>
 
 @51
-<en>{Mei}\n"It's so good. Isn't it?"
+<en>{Mei}\n"It's really good, isn't it? Make sure you eat it."
 <es>
 
 @52
-<en>{Kazushi}\n"yes......"
+<en>{Kazushi}\n"Yes......"
 <es>{Kazushi}\n"Sí..."
 
 @53
-<en>What are we doing here......?
+<en>Why am I eating ramen with sensei at this hour? What's she trying to do?
 <es>¿Qué estamos haciendo aquí...?
 
 @54
-<en>{Kazushi}\n"Miss Ibuki......"
+<en>{Kazushi}\n"Umm..."
 <es>{Kazushi}\n"Señorita Ibuki..."
 
 @57
-<en>{Mei}\n"Kazushi, do you have anything that worries you?"
+<en>{Mei}\n"Haruma-kun, there's something bothering you, right?"
 <es>{Mei}\n"Kazushi, ¿hay algo que te preocupa?"
 
 @58
-<en>{Kazushi}\n"Anything that worries me?"
+<en>{Kazushi}\n"Huh? Bothering...me?"
 <es>{Kazushi}\n"¿Algo que me preocupe?"
 
 @59
-<en>{Mei}\n"You know, if you need somebody to talk to, I'll listen to you."
+<en>{Mei}\n"It's causing you to build up stress, isn't it? I'm here to listen if you need somebody to talk to."
 <es>{Mei}\n"Ya sabes. Si necesitas a alguien con quien hablar, yo puedo escuchartes."
 
 @60
-<en>Why is she asking me this, all the sudden?
+<en>Why is she asking me this all of a sudden?
 <es>¿Por qué me dice esto así de sopetón?
 
 @63
 # Cambiar crimen sexual.
-<en>{Mei}\n"Boys in puberty always have some kind of trouble in their life. And that sometimes make them commit sexual crimes."
+<en>{Mei}\n"You're a boy in puberty, after all. I think it's only natural for you to have things bothering you. That pent up stress is what's driving you boys to sexual crimes, right?"
 <es>{Mei}\n"Los adolescentes siempre tienen algún problema en sus vidas. Y eso les lleva a veces a cometer algún crimen sexual."
 
 @64
-<en>{Kazushi}\n"Sexual crime!!"
+<en>{Kazushi}\n"Sexual crimes!!"
 <es>{Kazushi}\n"¡¡Crimen sexual!!"
 
 @65
-<en>Is she perhaps talking about what we did earlier?
+<en>Is she talking about our peeping this afternoon? I can't argue with it being a crime, but sensei, I think you're reading too deeply?
 <es>¿Quizá se esté refiriendo a lo que hicimos antes?
 
 @68
-<en>{Mei}\n"You know, I've never been in charge of teaching boys before."
+<en>{Mei}\n"I've never been in charge of teaching boys before, so honestly, I'm not sure what to do. I grew up in an all girls' academy."
 <es>{Mei}\n"Verás. Nunca había enseñado a chicos..."
 
 @71
-<en>{Mei}\n"But, I'll do my best to understand you boys, O.K?"
+<en>{Mei}\n"But I'll do my best to understand you boys, so I'd like you to be more open with me."
 <es>{Mei}\n"Pero haré todo lo posible para comprenderos, ¿vale?"
 
 @72
-<en>{Kazushi}\n"Miss Ibuki......"
+<en>{Kazushi}\n"Uhh..."
 <es>{Kazushi}\n"Señorita Ibuki..."
 
 @73
 # Cambiar: Que piensa que es más complicado de lo que en verdad es.
-<en>I think she is thinking too much......
+<en>What should I say? The first thing sensei is misunderstanding is...
 <es>Creo que se está complicando más de la cuenta...
 
 @74
-<en>{Kazushi}\n"I don't have any trouble in my life.\nI'm sorry about peeping your room earlier!"
+<en>{Kazushi}\n"Umm, you don't need to think about it too hard. What we did this afternoon, well...... I'm truly sorry!"
 <es>{Kazushi}\n"No tnego ningún problema en mi vida.\n¡Siento haberte espiado antes en tu habitación!"
 
 @77
-<en>I sencerly appologized her.
+<en>I bowed my head low in apology.
 <es>Me disculpé sinceramente.
 
 @78
 # desnuda, o "en bolas". Quizá no esté chisposo si está realmente arrepentido.
-<en>{Kazushi}\n"We don't have any trouble in our lives......we simply just wanted to see you naked......"
+<en>{Kazushi}\n"But we weren't peeping on you to let off steam or because something was bothering us. We, well... we were just interested in your naked body..."
 <es>{Kazushi}\n"No tenemos ningún problema... Simplemente queríamos verte desnuda..."
 
 @79
-<en>Why am I confessing this?
+<en>Why am I confessing such embarrassing details? But, if I don't make it clear, she'll continue to misunderstand.
 <es>¿Por qué le estoy confesando esto?
 
 @82
-<en>{Mei}\n"My body? So you have nothing to worry about in your life?"
+<en>{Mei}\n"My naked body? Ohh, so that's what it was."
 <es>{Mei}\n"¿Ver mi cuerpo? ¿Así que no tenéis ninguna preocupación en la vida?"
 
 @83
-<en>She understood she was thinking too deep.
+<en>Sensei nodded in understanding.
 <es>Comprendió que le estaba dando demasiada importancia.
 
 @84
-<en>{Mei}\n"Boys your age should be interested."
+<en>{Mei}\n"I suppose all boys your age are most interested in sex."
 <es>{Mei}\n"Supongo que es normal que los chicos de tu edad estén interesados en esas cosas."
 
 @85
-<en>{Kazushi}\n"I'm really sorry!!"
+<en>{Kazushi}\n"To be perfectly clear, that's it...... I'm truly sorry!"
 <es>{Kazushi}\n"¡¡Lo siento mucho, de verdad!!"
 
 @86
-<en>I couldn't do anything but applogizing.
+<en>I felt extremely embarrassed to have her put it so calmly. I bowed my head to her once again.
 <es>No podía hacer otra cosa más que disculparme.
 
 @89
-<en>{Mei}\n"That's enough. It's O.K"
+<en>{Mei}\n"It's alright. Chin up."
 <es>{Mei}\n"Ya es suficiente. Está bien."
 
 @90
-<en>She's smiling. I think my appology was accepted.
+<en>Sensei spoke to me with a gentle voice. When I raised my head, I was greeted with her gentle smile.
 <es>Está sonriendo. Creo que ha aceptado mis disculpas.
 
 @91
-<en>{Mei}\n"You are good boy. It's hard to appologize sometimes."
+<en>{Mei}\n"You're a good kid, Haruma-kun. It seems easy, but it's actually quite hard to admit your mistakes and apologize."
 <es>{Mei}\n"Eres un buen chico. A veces resulta difícil disculparse."
 
 @92
-<en>{Kazushi}\n"......are you mad at me?"
+<en>{Kazushi}\n"I'm not very good at all. But sensei... Aren't you mad at us?"
 <es>{Kazushi}\n"¿Estás enfadada conmigo...?"
 
 @95
-<en>{Mei}\n"Ofcourse I am."
+<en>{Mei}\n"That's an odd question. Of course I am."
 <es>{Mei}\n"Claro que sí."
 
 @96
-<en>But she doesn't look like she is.
+<en>That's what she said, but she didn't look it. She continue to wear her gentle smile.
 <es>Aunque no aparenta estarlo.
 
 @99
-<en>{Mei}\n"I just wanted to know why you guys did that."
+<en>{Mei}\n"But most of all, I wanted to know why you boys did such a thing. I was sure there had to be a reason for it."
 <es>{Mei}\n"Solo quería saber por qué lo hicisteis."
 
 @100
-<en>{Kazushi}\n"Sorry for having no reason......"
+<en>{Kazushi}\n"I'm sorry there wasn't a better reason."
 <es>{Kazushi}\n"Siento no tener ninguna razón..."
 
 @103
-<en>{Mei}\n"Promise me don't do that again, O.K?"
+<en>{Mei}\n"No, I'm glad there isn't something bothering you all. Now, I know you're young boys and you can't help but be interested, but don't do that again, alright?"
 <es>{Mei}\n"¿Me prometes que no volverás a hacerlo?"
 
 @104
-<en>{Kazushi}\n"I promise."
+<en>{Kazushi}\n"I won't. I really do feel bad about it."
 <es>{Kazushi}\n"Lo prometo."
 
 @105
-<en>I appologized her once again.
+<en>I bowed my head to her once again. Then I felt sensei's soft hand reach over and rub it.
 <es>Volví a disculparme.
 
 @108
-<en>{Mei}\n"All right. No more of this subject."
+<en>{Mei}\n"If you feel bad for what you've done, then that's enough. What's important is not to make the same mistake twice. Now, that's the end of this discussion."
 <es>{Mei}\n"Está bien. Pues tema zanjado."
 
 @109
-<en>She let me go this time.
+<en>She took her hand off of my head. I kind of wish she hadn't.
 <es>Esta vez lo ha dejado estar.
 
 @110
 # ¿Voy a recibir algún castigo?
-<en>{Kazushi}\n"Would I get any kind of penalty?"
+<en>{Kazushi}\n"Umm, that's it? No punishment?"
 <es>{Kazushi}\n"¿Vas a castigarme?"
 
 @113
-<en>{Mei}\n"No. This is over. Eat your noodles."
+<en>{Mei}\n"No, that's it. Look, your noodles are starting to go limp. Hurry up and eat."
 <es>{Mei}\n"No. Ya está. Tómate los fideos."
 
 @114
-<en>I was expecting a couple of slaps from her.
+<en>We were forgiven so easily. Yagami-sensei would've given us a few good blows each. I was almost let down by how easily we got off.
 <es>Me esperaba un par de sopapos.
 
 @117
-<en>{Mei}\n"It's still hot and tasty."
+<en>{Mei}\n"They're a little soft, but they're still good, aren't they?"
 <es>{Mei}\n"Todavía están calientes y muy buenos."
 
 @118
-<en>I couldn't keep my eyes off from her face.
+<en>I couldn't take my eyes off her face.
 <es>No podía quitarle los ojos de la cara.
 
 @119
-<en>She's like a kind elder sister.
+<en>Mei-sensei really was like a kind older sister. No wonder she was well liked by both the guys and the girls.
 <es>Es como una especie de hermana mayor.
 
 @120
-<en>Any man would love to have her.
+<en>She really was an ideal woman.
 <es>Cualquier hombre desearía tenerla.
 
 @121
@@ -298,11 +298,11 @@
 
 @122
 # WAHT?
-<en>I kind of wanted to see her explode......
+<en>But something was missing. I wanted to see Mei-sensei acting more angry, or shy, or something else.
 <es>En cierto modo quería verla explotar...
 
 @123
-<en>Maybe I didn't.
+<en>Maybe I'm just being picky.
 <es>O quizá no.
 
 @126
@@ -310,21 +310,21 @@
 <es>{Mei}\n"¿Qué pasa? ¿No tienes hambre?"
 
 @127
-<en>{Kazushi}\n"Oh no. I'll eat."
+<en>{Kazushi}\n"Oh, no, it's nothing. I'll eat them now."
 <es>{Kazushi}\n"Ah, no. Voy a comer."
 
 @128
-<en>Maybe she only shows human side of her to some one special.
+<en>I bet those are the kinds of expressions Mei-sensei only shows to someone special to her.
 <es>Quizá solo muestra su parte humana a alguien especial.
 
 @129
 # Entre esta frase y la anterior. Se separa el one del some. Quizá se refiera "AL" especial. A una única persona especial. La más especial de todas.
 # Habría que revisarlo y cambiarlo si hace falta.
-<en>Her some one special.......
+<en>To someone special...
 <es>A alguien especial...
 
 @130
-<en>I wonder what kind of man she likes?
+<en>I wonder what kind of man a mature woman like Mei-sensei likes?
 <es>Me pregunto qué tipo de hombres le gustarán...
 
 @133
@@ -332,27 +332,27 @@
 <es>{Mei}\n"Estaba buenísimo."
 
 @134
-<en>She looks up to the sky.
+<en>She looked up at the sky with satisfaction after finishing her ramen.
 <es>Mira al cielo.
 
 @136
-<en>There are handful of stars in the sky.
+<en>The night sky was filled with a blanket of stars and a waning moon.
 <es>Se ven un buen puñado de estrellas.
 
 @137
-<en>We could never see this at where we came from.
+<en>We could never see this in the city.
 <es>En donde venimos nunca hubiésemos podido ver esto.
 
 @138
-<en>{Mei}\n"Beautiful moon tonight."
+<en>{Mei}\n"The moon's beautiful tonight."
 <es>{Mei}\n"Hoy la luna está muy bonita."
 
 @139
-<en>To me, she was whole lot more beautiful than all the stars in the sky combined.
+<en>To me, Mei-sensei was far more beautiful than the moon and all the stars in the sky combined.
 <es>Para mí, ella era mucho más bella que todas las estrellas del firmamento juntas.
 
 @151
-<en>Lunch break.
+<en>Morning classes ended and it was time for lunch.
 <es>*Descanso para comer.*
 
 @154
@@ -360,7 +360,7 @@
 <es>{Mizuki}\n"..."
 
 @155
-<en>She doesn't talk to me lately. She seems to be avoiding me.
+<en>Hinata-san sits next to me, but we still haven't really had a chance to talk. I think it's because she's avoiding me.
 <es>Últimamente no me habla. Parece estar evitándome.
 
 @158
@@ -368,270 +368,270 @@
 <es>{Mizuki}\n"..."
 
 @159
-<en>She leave away from her seat as soon as class finishes.
+<en>Hinata-san left her seat without a word. She does that every time class ends - immediately going somewhere else.
 <es>Se va de su sitio en cuanto terminan las clases.
 
 @160
-<en>I need to talk to her and ask her what's going on.
+<en>That's why I've never had a proper conversation with her.
 <es>Siendo la necesidad de hablar con ella y preguntarle qué está pasando.
 
 @161
-<en>{Kazushi}\n"Hey Mizuki......"
+<en>{Kazushi}\n"Hey, Hinata-san..."
 <es>{Kazushi}\n"Oye Mizuki..."
 
 @164
-<en>{Mizuki}\n"What?"
+<en>{Mizuki}\n"Huh? What?"
 <es>{Mizuki}\n"¿Qué?"
 
 @165
-<en>She didn't expect me to talk to her and she seems little surprised.
+<en>She didn't expect me to talk to her and seemed a little surprised.
 <es>No se esperaba que le hablase, y parece algo sorprendida.
 
 @168
-<en>{Mizuki}\n"What do you need?"
+<en>{Mizuki}\n"What can I do for you?"
 <es>{Mizuki}\n"¿Qué quieres?"
 
 @169
-<en>{Kazushi}\n"I just wanted to talk to you."
+<en>{Kazushi}\n"Nothing. I just wanted to talk to you."
 <es>{Kazushi}\n"Solo quería hablar contigo."
 
 @172
-<en>{Mizuki}\n"Talk about what?"
+<en>{Mizuki}\n"What's there to talk about?"
 <es>{Mizuki}\n"¿Sobre qué?"
 
 @173
-<en>{Kazushi}\n"......anything."
+<en>{Kazushi}\n"Well... just to chat."
 <es>{Kazushi}\n"Nada..."
 
 @176
-<en>{Mizuki}\n"......did you perhaps remembered something?"
+<en>{Mizuki}\n"......Did you remember something, by chance?"
 <es>{Mizuki}\n"¿Quizá has recordado algo...?"
 
 @177
-<en>{Kazushi}\n"Remembered something? What do you mean?"
+<en>{Kazushi}\n"Remember something? What do you mean?"
 <es>{Kazushi}\n"¿Recordar algo? ¿Qué quieres decir?"
 
 @180
-<en>Mizuki was staring at me for a few seconds for some reason.
+<en>Hinata-san stared at me for a few seconds, and then averted her eyes in relief.
 <es>Mizuki se me queda mirando unos cuantos segundos por alguna razón.
 
 @181
-<en>{Kazushi}\n"What do you mean?"
+<en>{Kazushi}\n"What's that look for?"
 <es>{Kazushi}\n"¿Qué quieres decir?"
 
 @184
-<en>{Mizuki}\n"No, nothing. I'll see you around."
+<en>{Mizuki}\n"Nothing, really. Sorry, but I need to be somewhere. Later."
 <es>{Mizuki}\n"No, nada. Nos vemos."
 
 @189
-<en>She starts running to somewhere.
+<en>After that, she dashed off. I was fascinated by the animal-like nimbleness and supple movements of her body.
 <es>Se marcha corriendo a vete tú a saber dónde.
 
 @190
-<en>{Kazushi}\n"She seems to be an athlete."
+<en>{Kazushi}\n"Amazing, it's like her legs are made of springs. I wonder if she's an athlete."
 <es>{Kazushi}\n"Parece una atleta."
 
 @193
-<en>{Pierre}\n"What are you looking at?\nYou like her?"
+<en>{Pierre}\n"What are you staring at? Are you interested in Mizuki-chan?"
 <es>{Pierre}\n"¿A dónde estás mirando?\n¿Te gusta?"
 
 @194
-<en>Pierre caught me watching her.
+<en>Pierre piped in with a chiding tone and a broad grin.
 <es>Pierre me pilló mirándola.
 
 @195
-<en>{Kazushi}\n"Hey pierre."
+<en>{Kazushi}\n"Hey, Pierre."
 <es>{Kazushi}\n"Anda, Pierre."
 
 @202
-<en>There is Appo- and Daigo as well. They are smiling. They must have caught me staring at Mizuki.
+<en>Appo and Daigo were with him. They were all smiling, which means they must have caught me staring at Mizuki.
 <es>También están Appo- y Daigo. Están sonriendo. Deben haberse fijado que me he quedado mirando a Mizuki.
 
 @203
-<en>{Daigo}\n"You guys are not getting along, are you?"
+<en>{Daigo}\n"You two aren't getting along, are you?"
 <es>{Daigo}\n"No os lleváis bien todavía, ¿no?"
 
 @204
-<en>{Kazushi}\n"I don't know. She seems to stay away from me."
+<en>{Kazushi}\n"Well, I don't quite think that's it. I feel like she's being a little awkward or trying to keep her distance."
 <es>{Kazushi}\n"No sé. Parece como si me evitase."
 
 @205
-<en>{Appo-}\n"Maybe she doesn't like you. Everygirl has bad compatible man."
+<en>{Appo}\n"Maybe she just hates you, physically speaking. Some people are compatible, so some have to be incompatible too."
 <es>{Appo-}\n"Quizá no le caigas bien. Todas las chicas tienen incompatibilidades con algún chico."
 
 @206
-<en>{Kazushi}\n"It's bad when you need to sit next to each other everyday."
+<en>{Kazushi}\n"Physically? It's bad, though, when you need to sit next to each other in class every day."
 <es>{Kazushi}\n"Pues no mola cuando te toca sentarte junto a ella todos los días."
 
 @209
-<en>{Pierre}\n"We should have seat change soon. I'm going right front of Mei."
+<en>{Pierre}\n"We should be changing our seats, soon. I'm going to sit right in front of Mei-chan."
 <es>{Pierre}\n"Nos cambiaremos pronto de sitio. Y yo me voy a poner justo enfrente de Mei."
 
 @212
-<en>{Appo-}\n"Me, too."
+<en>{Appo}\n"Right, except I'm the one in front of Mei-chan."
 <es>{Appo-}\n"Yo también."
 
 @215
-<en>{Daigo}\n"You guys should sit next to each other."
+<en>{Daigo}\n"You can both sit in front of her."
 <es>{Daigo}\n"Entonces deberíais sentaros juntos."
 
 @216
-<en>{Kazushi}\n"Seat change......."
+<en>{Kazushi}\n"Seat changes..."
 <es>{Kazushi}\n"Cambio de asiento..."
 
 @217
-<en>I hope to get along with her before that happens.
+<en>I hoped to get along with Mizuki before that happened.
 <es>Espero llevarme bien con ella antes de que eso ocurra.
 
 @220
-<en>{Appo-}\n"Hey guys, let's go eat. There is plenty of girls in cafeteria."
+<en>{Appo}\n"Getting down over it won't help. Let's go grab lunch. There's bound to be plenty of girls in the cafeteria."
 <es>{Appo-}\n"Eh, vamos a comer. Está a rebosar de chicas en la cafetereía."
 
 @223
  ???
-<en>{Pierre}\n"I wanna meet pretty girls. I wanna pick up their handkachieves when they drop one."
+<en>{Pierre}\n"Like mature, upper class girls. When I think they drop their handkerchief, I'll pick it up and go after them."
 <es>{Pierre}\n"Quiero conocer chicas guapas. Quiero recogerles los pañuelos cuando se les caigan."
 
 @224
-<en>{Daigo}\n"What's the chance of that to be happened?"
+<en>{Daigo}\n"You want to play drop the handkerchief?"
 <es>{Daigo}\n"¿Qué probabilidades hay de que pase eso?"
 
 @227
-<en>{Appo-}\n"Anyways, let's go!"
+<en>{Appo}\n"Come on, let's go!"
 <es>{Appo-}\n"¡Da igual!, ¡vamos!"
 
 @234
-<en>{Haruka}\n"Wow!?"
+<en>{Haruka}\n"Kyah!"
 <es>{Haruka}\n"¡Ah!"
 
 @241
-<en>{Kazushi}\n"Hey!?"
+<en>{Kazushi}\n"Uwah!?"
 <es>{Kazushi}\n"¡¿Eh?!"
 
 @242
-<en>I collided into some one as I stepped out from a class room.
+<en>I bumped into someone as soon as I stepped out of the classroom.
 <es>Me choqué contra alguien en cuanto di un paso para salir de la clase.
 
 @245
-<en>{Haruka}\n"......my nose."
+<en>{Haruka}\n"Owww... I hit my nose."
 <es>{Haruka}\n"Au... Mi nariz."
 
 @246
-<en>She must hit her nose.
+<en>She must have hit her nose on my chest. She had tears in her eyes.
 <es>Debe haberse golpeado en la nariz.
 
 @247
-<en>{Kazushi}\n"Sorry, are you all right?"
+<en>{Kazushi}\n"Ah, sorry! Your nose isn't bleeding is it?"
 <es>{Kazushi}\n"Lo siento, ¿te encuentras bien?"
 
 @250
-<en>{Haruka}\n"...hey Kazushi.\nDo I have a bloody nose?"
+<en>{Haruka}\n"Ah... Oh, Kazushi-kun. No, I don't think my nose is bleeding."
 <es>{Haruka}\n"Oye Kazushi...\n¿Me sangra la nariz?"
 
 @251
-<en>I don't think she has bloody nose.
+<en>She rubbed her nose, but there wasn't any blood.
 <es>No me parece que tenga sangre en la nariz.
 
 @256
-<en>{Appo-}\n"Were you visiting our class again?"
+<en>{Appo}\n"Haruka-chan, you came to visit our class AGAIN?"
 <es>{Appo-}\n"¿Venías otra vez de visita a nuestra clase?"
 
 @263
 # Verificar si es gustar
-<en>{Pierre}\n"Why do you like our class so much? Do you have any guy you're trying to hit on in our class?"
+<en>{Pierre}\n"Why do you like our class so much? Don't tell me there's a guy you're interested in?"
 <es>{Pierre}\n"¿Cómo es que te gusta tanto nuestra clase? ¿Acaso hay algún chico que te guste en nuestra clase?"
 
 @266
-<en>{Haruka}\n"......kind of?"
+<en>{Haruka}\n"...kind of?"
 <es>{Haruka}\n"¿Quizá...?"
 
 @271
-<en>That was a surprising answer.
+<en>They were joking, but her answer was a surprise. Haruka's interested in some guy in our class?
 <es>Esa respuesta ha sido muy sorprendente.
 
 @276
-<en>{Appo-}\n"I knew you were looking at me all the time."
+<en>{Appo}\n"Ah, I knew it. Girls who've lived in a boarding school without any male contact are helpless before my pheromones."
 <es>{Appo-}\n"Sabía que me mirabas todo el tiempo."
 
 @281
-<en>{Daigo}\n"I don't think it's you Appo-. I can bet a million bucks on that."
+<en>{Daigo}\n"I don't think it's you, Appo. I'd even go so far as to bet 1,000,000 yen on that."
 <es>{Daigo}\n"No creo que seas tú, Appo-. Me apostaría un millón de llenes."
 
 @284
-<en>{Appo-}\n"What!?\nI don't wanna get on that bet, though......"
+<en>{Appo}\n"What?! But the fact that I can't accept that bet makes me ashamed of myself."
 <es>
 
 @289
-<en>{Haruka}\n"Even myself is not sure. I want to find out if I really like him or not."
+<en>{Haruka}\n"Hmm, but I'm not sure yet. I need to find out whether or not it's true."
 <es>{Haruka}\n"Ni siquiera yo lo tengo claro. Quería averiguar si me gusta realmente o no."
 
 @294
-<en>{Pierre}\n"I see. A true love should be like that. Take your time."
+<en>{Pierre}\n"I see. You need to discern whether or not it's true love for you?"
 <es>{Pierre}\n"Ya veo. El amor de verdad es así. Tómate tu tiempo."
 
 @295
-<en>{Kazushi}\n"I don't think so.\nA true love should be the one you become uncontrollable."
+<en>{Kazushi}\n"Hmm, that's cautious. But if it was true love, wouldn't you be unable to think about it or stop yourself?"
 <es>{Kazushi}\n"Yo no lo creo.\nEl amor de verdad debería ser uno que te impide controlarte."
 
 @298
-<en>{Haruka}\n"You think so?"
+<en>{Haruka}\n"Huh? Love?"
 <es>{Haruka}\n"¿Eso crees?"
 
 @301
-<en>{Pierre}\n"Good point Kazushi. I think you're not really thinking anything when you fall in love."
+<en>{Pierre}\n"Good point, Kazushi. Love is something you feel. I don't think falling in love is something you really think about when it happens."
 <es>{Pierre}\n"Tienes razón Kazushi. No creo que pienses en nada cuando te enamoras."
 
 @304
-<en>{Haruka}\n"I'm not sure if this is love I'm feeling......"
+<en>{Haruka}\n"Uhh, umm, I didn't mean love... but you might be right about feeling things. Yeah, I feel it..."
 <es>{Haruka}\n"No estoy segura de si es amor lo que siento..."
 
 @305
-<en>Haruka is mumbling after receiving our lecture.
+<en>Haruka trailed off, mumbling to herself. I wonder what kind of guy she's into? It'd be nice if I could find my destined partner by feeling.
 <es>Haruka murmulla algo tras nuestro discurso.
 
 @309
-<en>{Daigo}\n"Hey guys, I'm starving."
+<en>{Daigo}\n"Anyways, food. I'm getting in a foul mood."
 <es>{Daigo}\n"Eh chicos. Me estoy muriendo de hambre."
 
 @310
-<en>{Pierre}\n"All right."
+<en>{Pierre}\n"Alright, hold on a little longer."
 <es>{Pierre}\n"Vale."
 
 @311
-<en>{Kazushi}\n"Do you wanna join us, Haruka?"
+<en>{Kazushi}\n"Oh yeah, we're heading down for food. Did you want to join us, Haruka?"
 <es>{Kazushi}\n"¿Te vienes con nosotros, Haruka?"
 
 @315
-<en>{Haruka}\n"Sure. I'm coming with you guys."
+<en>{Haruka}\n"Oh, sure, I'm coming, I'm coming. I was thinking of getting lunch too."
 <es>{Haruka}\n"Claro. Iré con vosotros."
 
 @322
-<en>{Appo-}\n"Can you say that again?!"
+<en>{Appo}\n"Did you hear? 'I'm coming.' Say it again!"
 <es>{Appo-}\n"¿¡Puedes repetirlo?!"
 
 @323
-<en>{Haruka}\n"? sure......\nI'm coming with you-!"
+<en>{Haruka}\n"Hmm? Sure... I'm coming, I'm coming!"
 <es>{Haruka}\n"¿? Claro...\n¡Voy con vosotros~!"
 
 @324
-<en>{Pierre}\n"Sounds good!"
+<en>{Pierre}\n"Ooh! So good!"
 <es>{Pierre}\n"¡Eso suena bien!"
 
 @325
 # Revisar. Va a estar jodido.
-<en>{Appo-}\n"What do you say when some one knocks on your door?"
+<en>{Appo}\n"Th-then, hey, what's another word for cat?"
 <es>{Appo-}\n"¿Y qué es lo que dices cuando alguien esperando en tu puerta?"
 
 @326
-<en>{Kazushi}\n"Hey Appo-......"
+<en>{Kazushi}\n"Huh? Hey, you're not..."
 <es>{Kazushi}\n"Oye Appo-..."
 
 @327
-<en>Is he really going to make her say that?
+<en>Is he really going to make her say it?
 <es>¿Va a hacerle decir eso?
 
 @330
-<en>{Haruka}\n"......I'm coming!?"
+<en>{Haruka}\n"Umm... A pussy?"
 <es>{Haruka}\n"¿¡Entra...!?"
 
 @331
@@ -639,95 +639,95 @@
 <es>¡Lo ha dicho!
 
 @332
-<en>{Pierre}\n"One more time!"
+<en>{Pierre}\n"Again! Without the 'a'!"
 <es>{Pierre}\n"¡Otra vez!"
 
 @333
-<en>{Haruka}\n"......I'm coming?"
+<en>{Haruka}\n"Without 'a'? Umm... pussy?"
 <es>{Haruka}\n"¿Entra?"
 
 @336
-<en>{Appo-}\n"Keep going!"
+<en>{Appo}\n"Keep it coming! Pussy, pussy!"
 <es>{Appo-}\n"¡Sigue!"
 
 @339
-<en>{Haruka}\n"Coming, coming, coming-!"
+<en>{Haruka}\n"Pussy, pussy? Pussy! Pussy!"
 <es>{Haruka}\n"¡Entra, entra, entra~!"
 
 @342
-<en>{Pierre}\n"Louder!"
+<en>{Pierre}\n"Now say it like it's your cat!"
 <es>{Pierre}\n"¡Más fuerte!"
 
 @345
-<en>{Haruka}\n"I'm coming-"
+<en>{Haruka}\n"My pussy! My pussy!"
 <es>{Haruka}\n"Entra~"
 
 @351
-<en>{Pierre}\n"That's wonderful, Haruka!"
+<en>{Pierre}\n"Ohhh!! Amazing! That was amazing, Haruka-chan!"
 <es>{Pierre}\n"Haruka, ¡eres fantástica!"
 
 @352
-<en>{Appo-}\n"Haruka, you're my angel!"
+<en>{Appo}\n"Haruka-chan, you're my angel!"
 <es>{Appo-}\n"Haruka, ¡eres mi diosa!"
 
 @353
-<en>Appo- and Pierre were so happy.
+<en>The two of them were both moved to tears.
 <es>Appo- y Pierre estaban muy felices.
 
 @360
-<en>{Daigo}\n"No class......"
+<en>{Daigo}\n"You guys are terrible."
 <es>
 
 @361
-<en>{Haruka}\n"What was that?\nWhy are they so happy?"
+<en>{Haruka}\n"Hey, what's going on? Why did that make them so happy?"
 <es>{Haruka}\n"¿Qué pasa?\n¿Por qué estaban tan contentos?"
 
 @362
-<en>{Kazushi}\n"Don't worry about that."
+<en>{Kazushi}\n"Don't think about it. Also, you should never mention it to anybody else."
 <es>{Kazushi}\n"No le des importancia."
 
 @363
-<en>I hope she doesn't tell this to anybody.
+<en>We'd be even more infamous if she does.
 <es>Espero que no se lo cuente a nadie.
 
 @371
-<en>{Pierre}\n"I love Haruka. She is so friendly."
+<en>{Pierre}\n"I love Haruka. She plays along so well."
 <es>{Pierre}\n"Me encanta Haruka. Es tan amable."
 
 @372
-<en>{Appo-}\n"Me, too! I like her a lot!"
+<en>{Appo}\n"Me too! I'm so touched!"
 <es>{Appo-}\n"¡Y yo! ¡La adoro!"
 
 @375
-<en>{Haruka}\n"I don't know why, but thanks!"
+<en>{Haruka}\n"What? Really? I don't know why, but thank you."
 <es>{Haruka}\n"No sé por qué, ¡pero gracias!"
 
 @376
-<en>Her voice saying " coming. Coming" echoes in my head.
+<en>She's even thanking us. I couldn't get my mind off of Haruka's 'pussy'. She is definitely not a girl who can be safely left alone.
 <es>Su voz diciendo "entra... entra..." resuena en mi cabeza.
 
 @383
-<en>{Daigo}\n"I wonder what we get to eat for luch?"
+<en>{Daigo}\n"I wonder what there is to eat for lunch today."
 <es>{Daigo}\n"Me pregunto qué habrá para comer..."
 
 @388
-<en>{Haruka}\n"Catering staff cooks the lunch. They have good menu for our lunch."
+<en>{Haruka}\n"The cafeteria ladies come to cook lunch, so it's just like any other school lunch. There's a shop too, so there's a lot of variety for lunch."
 <es>{Haruka}\n"La personal del catering se encarga de la comida. Y suelen haber muy buenos menús."
 
 @389
-<en>{Kazushi}\n"That sounds good."
+<en>{Kazushi}\n"Sounds good."
 <es>{Kazushi}\n"Eso suena bien."
 
 @390
-<en>The munu was posted on the counter.
+<en>The menu was posted on the counter.
 <es>El menú de hoy estaba en el mostrador.
 
 @394
-<en>{Pierre}\n"She's right. So many varieties."
+<en>{Pierre}\n"She's right. There's so much to choose from."
 <es>{Pierre}\n"Tiene razón. Y hay mucha variedad."
 
 @395
-<en>They have chinese, too.
+<en>Just as Haruka said, there was a wide variety of options. There was Western food, Chinese food, and various donburi too.
 <es>También hay comida china.
 
 @396
@@ -735,20 +735,20 @@
 <es>{Kazushi}\n"No me extraña que esté abarrotado."
 
 @397
-<en>We could hardly spot an open seat.
+<en>We could barely spot any free seats.
 <es>Apenas veíamos sitios vacíos.
 
 @403
-<en>{Haruka}\n"It's either buying lunch from a vending machine or come here and eat. It'll always be crowded like this."
+<en>{Haruka}\n"Our only choice is to buy bread from the shop or get lunch here. Even on breaks, we're forbidden to leave the academy during school. Also, there are some girls who make their own lunches."
 <es>{Haruka}\n"Es o comer aquí o comprar algo en una máquina expendedora. Siempre está de lleno."
 
 @405
 # ¿Cambiar tapper por bento?
-<en>{Kazushi}\n"Or we can make our own lunch box."
+<en>{Kazushi}\n"Bento boxes?"
 <es>{Kazushi}\n"O también nos podemos hacer y traer un tapper."
 
 @407
-<en>That's actually the first thing I'd ask, making lunch box for me when I get a girlfriend......
+<en>If I had a girlfriend, I wonder if she'd make one for me? We could eat together in the shade of a tree, and once we're done, I could fall asleep on her lap...
 <es>La verdad es que sería la primera cosa que pediría: que me hiciesen la comida cuando tuviese novia...
 
 @408
@@ -757,95 +757,95 @@
 
 @414
 # Revisar.
-<en>{Haruka}\n"Guys, it seems like Kazushi lost his mind."
+<en>{Haruka}\n"Um... guys... It looks like Kazushi-kun's brain shut off."
 <es>{Haruka}\n"Chicos, parece que Kazushi ha perdido la cabeza."
 
 @415
-<en>{Appo-}\n"Please leave him alone. That's his desease."
+<en>{Appo}\n"Just leave him alone. It's a pretty popular disease."
 <es>{Appo-}\n"Anda, déjale solo. Es su enfermedad."
 
 @416
-<en>{Haruka}\n"He looks scary."
+<en>{Haruka}\n"It's infectious? That's scary."
 <es>{Haruka}\n"Me da miedo."
 
 @417
-<en>{Kazushi}\n"What is it, guys?"
+<en>{Kazushi}\n"Huh? What's wrong?"
 <es>{Kazushi}\n"¿Qué pasa, chicos?"
 
 @418
-<en>Every one was looking at me weired.
+<en>Everyone was looking at me weird.
 <es>Todos me estaban mirando con caras raras.
 
 @421
-<en>{Haruka}\n"You need to take better care of yourself-"
+<en>{Haruka}\n"You need to take better care of yourself."
 <es>{Haruka}\n"Tienes que cuidarte..."
 
 @422
-<en>{Kazushi}\n"What are you talking about???"
+<en>{Kazushi}\n"What are you talking about?"
 <es>{Kazushi}\n"¿¿De qué estás hablando??"
 
 @427
-<en>{Pierre}\n"All right! Let's order some food-"
+<en>{Pierre}\n"All right! Let's order up some grub!"
 <es>{Pierre}\n"¡Está bien! ¡Pidamos algo de comida"
 
 @431
-<en>{Appo-}\n"Hey! There is Mei!"
+<en>{Appo}\n"Hey! There's Mei."
 <es>{Appo-}\n"¡Ey! ¡Ahí está Mei!"
 
 @435
-<en>She was eating lunch with few girls.
+<en>We saw Mei-sensei eating in the corner with a few other girls around her.
 <es>Estaba comiendo con unas cuantas chicas.
 
 @436
-<en>{Kazushi}\n"Stop calling her Mei."
+<en>{Kazushi}\n"Stop calling her just Mei."
 <es>{Kazushi}\n"Deja de llamarla Mei."
 
 @440
-<en>{Appo-}\n"She's popular among students. That's my girl."
+<en>{Appo}\n"Mei's popular with the ladies too. That's my woman."
 <es>{Appo-}\n"Es popular entre los estudiantes. Esa es mi chica."
 
 @445
-<en>{Haruka}\n"What? She's your girl?"
+<en>{Haruka}\n"Huh? Your woman? Mei-chan is?"
 <es>{Haruka}\n"¿Qué? '¿Esa es tu chica?'"
 
 @446
-<en>{Kazushi}\n"Please leave him alone. That's his desease."
+<en>{Kazushi}\n"Don't mind him, that's his imagination running rampant. It's a pretty popular disease."
 <es>{Kazushi}\n"Anda, déjale solo. Esa es su enfermedad."
 
 @449
-<en>{Haruka}\n"It seems like everybody's got some kind of desease."
+<en>{Haruka}\n"It seems like everybody's got some kind of disease."
 <es>{Haruka}\n"Parece que tenéis todos algún tipo de enfermedad."
 
 @452
-<en>{Appo-}\n"I'll sit next her! Let me eat my lunch with my Mei!"
+<en>{Appo}\n"I'm going to sit next to her! Let me eat lunch with my Mei!"
 <es>{Appo-}\n"¡Me sentaré junto a ella! ¡Voy a comer con mi Mei!"
 
 @456
-<en>{Pierre}\n"I'm still debating what I should get."
+<en>{Pierre}\n"First, let's buy our lunch. What should I get?"
 <es>{Pierre}\n"Yo todavía estoy pensando qué coger."
 
 @460
-<en>{Daigo}\n"Sea food pizza, BLT sandwich, ceaser salad,.......... They are light meals."
+<en>{Daigo}\n"Seafood pizza, BLT sandwich, caesar salad... These are all barely snacks."
 <es>{Daigo}\n"Pizza de marisco, sandwich BLT, ensalada,... Es todo ligero."
 
 @464
-<en>{Haruka}\n"Yeah, this used to be girls' school, you know."
+<en>{Haruka}\n"Of course. This used to be an all-girls' school, you know."
 <es>{Haruka}\n"Sí, solía ser la escuela para chicas, ¿recuerdas?"
 
 @465
-<en>It seems like all the menus are girls' favorite.
+<en>There were a lot of items on the menu for the girls. That means the bowls, ramen, fried rice, and such at the end of the menu must have been added for the guys.
 <es>Parece que todos los menús son los favoritos de las chicas.
 
 @468
-<en>{Daigo}\n"I'm going to have noodle and chicken cutlet bowl."
+<en>{Daigo}\n"I'm going with ramen and katsudon."
 <es>
 
 @472
-<en>{Pierre}\n"I'll take beef B.B.Q set."
+<en>{Pierre}\n"Treating ramen as a side of soup? I'll take a BBQ beef meal."
 <es>{Pierre}\n"Yo creo que me pediré el conjunto de barbacoa."
 
 @477
-<en>{Haruka}\n"Wow. Boys eat a lot from lunch. What are you going to get, Kazushi?"
+<en>{Haruka}\n"Wow. Boys eat a lot for lunch. What're you going to get, Kazushi-kun?"
 <es>{Haruka}\n"Vaya. Si que coméis durante la comida, chicos. ¿Y tú qué vas a tomar, Kazushi?"
 
 @478
@@ -853,7 +853,7 @@
 <es>{Kazushi}\n"Veamos..."
 
 @479
-<en>They are all reasonably cheap......
+<en>I looked at the prices. Everything was reasonably priced. It's my first meal, so I can be a little extravagant.
 <es>Todo tiene precios bastante razonables...
 
 @480
@@ -861,7 +861,7 @@
 <es>{Kazushi}\n"¡Anda!"
 
 @481
-<en>I fogot. I actually spend most of my money already.
+<en>I suddenly remembered something terrible. I quickly pulled out my wallet and looked inside. Just as I thought, it was nearly empty."
 <es>Me había olvidado. La verdad es que ya me he gastado casi todo el dinero.
 
 @482
@@ -873,27 +873,27 @@
 <es>{Haruka}\n"¿Qué pasa?"
 
 @486
-<en>I was spending good amount money on peeping and all that other stuff.......
+<en>Because I had to pay Ran hush money and other expenses, I had used up a lot of it. I didn't have any leeway now.
 <es>
 
 @487
-<en>I have to leave some to survive rest of the semester.
+<en>I'm not completely out yet, but I have to last the month on what's left inside. I can't afford much.
 <es>Tengo que ahorrar algo para sobrevivir lo que queda de semestre.
 
 @492
-<en>{Pierre}\n"What's wrong? You need money?"
+<en>{Pierre}\n"What's wrong? You broke?"
 <es>{Pierre}\n"¿Qué ocurre? ¿Necesitas dinero?"
 
 @493
-<en>{Kazushi}\n"I forgot. I don't have much left."
+<en>{Kazushi}\n"Not quite, but I forgot that I'm getting close."
 <es>{Kazushi}\n"Me había olvidado. No me queda mucho."
 
 @497
-<en>{Daigo}\n"We just got here in this island? What did you spend on so much for?"
+<en>{Daigo}\n"Even though we just got here? Kazushi, what have you been spending it on?"
 <es>
 
 @498
-<en>{Kazushi}\n"I actually spend on a lots of stuff."
+<en>{Kazushi}\n"I've actually had to lay out for quite a bit."
 <es>{Kazushi}\n"La verdad es que lo he gastado en un montón de cosas."
 
 @501
@@ -901,23 +901,23 @@
 <es>¿Qué debería hacer?
 
 @502
-<en>This is just my 2nd day in this school.
+<en>We live in dorms, so I don't think I'll need money for anything other than food, but it's only our second day, so I don't know how much I'll need.
 <es>Es tan solo mi segundo día en esta escuela.
 
 @503
-<en>I should leave more than enough for upcoming life.
+<en>There might be some point where we go to the town to hang out, and I'd like to go for those kinds of events. If I ever get a date, I'll need to have money or I'll look stupid.
 <es>
 
 @504
-<en>I think I should go get bread or something from a vending machine and save money.
+<en>I think I'll save a few yen and get some bread or something from the vending machine.
 <es>Creo que debería ir a por algún sandwich o algo en alguna máquina expendedora y ahorrar dinero,
 
 @505
-<en>{Kazushi}\n"Sorry, guys. Let me go get something from a vending machine."
+<en>{Kazushi}\n"Sorry, guys. I'm gonna grab some bread from the machines."
 <es>{Kazushi}\n"Lo siento chicos. Creo que me cogeré algo de alguna máquina expendedora."
 
 @508
-<en>{Appo-}\n"Are you serious?"
+<en>{Appo}\n"You're that hard up?"
 <es>{Appo-}\n"¿Lo dices en serio?"
 
 @509
@@ -925,15 +925,15 @@
 <es>{Kazushi}\n"Sí."
 
 @514
-<en>{Daigo}\n"Would that be enough for you?"
+<en>{Daigo}\n"Is that going to be enough?"
 <es>{Daigo}\n"¿Y tendrás suficiente con eso?"
 
 @515
-<en>{Kazushi}\n"I can survive."
+<en>{Kazushi}\n"I'm a man. I'll survive."
 <es>{Kazushi}\n"Sobreviviré."
 
 @516
-<en>Although, I know I will be starving later on.
+<en>I'm a liar. I knew I'd be starving later on.
 <es>Aunque tengo claro que luego voy a pasar hambre.
 
 @521
@@ -941,111 +941,111 @@
 <es>{Haruka}\n"Si quieres, puedes tomar un poco de mi comida."
 
 @522
-<en>{Kazushi}\n"You brought your own lunch box?"
+<en>{Kazushi}\n"Huh? Your lunch?"
 <es>{Kazushi}\n"¿Te has traído tu propia comida?"
 
 @525
-<en>{Haruka}\n"I make my lunch everyday. I came here just to eat with you guys."
+<en>{Haruka}\n"I make my lunch every day. I came here just to eat with you guys."
 <es>{Haruka}\n"Yo me hago la comida todos los días. He venido solo para comer con vosotros."
 
 @526
-<en>{Kazushi}\n"Are you sure I can have some of yours?"
+<en>{Kazushi}\n"Really? But I'd feel bad."
 <es>{Kazushi}\n"¿Estás segura de que puedo tomar un poco de la tuya?"
 
 @527
-<en>{Haruka}\n"Sure. I'm not that hungry anyways."
+<en>{Haruka}\n"It's fine, it's fine. It doesn't bother me. I usually don't eat much anyways, and I'm not that hungry either."
 <es>{Haruka}\n"Claro. Además, no tengo demasiada hambre."
 
 @528
-<en>{Kazushi}\n"I feel bad."
+<en>{Kazushi}\n"Yeah, but..."
 <es>{Kazushi}\n"Me sabe mal."
 
 @529
-<en>I feel bad to take away her food. I just met her yesterday.
+<en>I felt bad taking food away from her. We'd just met yesterday.
 <es>Me sabe mal cogerle de su comida. La conocí ayer.
 
 @533
-<en>{Mei}\n"Any problems?"
+<en>{Mei}\n"You look like you're having some trouble."
 <es>{Mei}\n"¿Algún problema?"
 
 @534
-<en>{Kazushi}\n"Miss. Ibuki."
+<en>{Kazushi}\n"Ah, sensei."
 <es>{Kazushi}\n"Señorita Ibuki."
 
 @535
-<en>Miss Ibuki was standing in front of me with her wallet. She must be here to buy something.
+<en>Mei-sensei was standing in front of me, holding her purse. She must be here to buy something.
 <es>La señorita Ibuki estaba en frente de mí con su cartera. Debe haber venido a comprar algo.
 
 @536
-<en>{Mei}\n"What is the problem?"
+<en>{Mei}\n"What's the problem?"
 <es>{Mei}\n"¿Qué problema hay?"
 
 @541
-<en>{Appo-}\n"Don't even bother Mei, Kazushi is used up all his money so he has to stay hungry. Why don't you and I go somewhere else and have a nice lunch?"
+<en>{Appo}\n"Oh, it's nothing for you to worry about, Mei: Kazushi's just a poor fool. Now why don't we leave them and eat together."
 <es>
 
 @545
-<en>{Pierre}\n"Wow, you really are calling her Mei."
+<en>{Pierre}\n"He's got great nerve to drop the honorific in front of her."
 <es>{Pierre}\n"Vaya, realmente la estás llamando Mei."
 
 @548
-<en>{Appo-}\n"What? Was I doing it again?\nI was in my own world......"
+<en>{Appo}\n"What? Was I doing it again?\nI was in my own world......"
 <es>
 
 @549
-<en>Condition of Appo-'s desease was getting a lot worse.
+<en>Appo's sickness was getting a lot worse.
 <es>
 
 @554
-<en>{Mei}\n"What are you going to do, Kazushi?"
+<en>{Mei}\n"Haruma-kun, you don't have any lunch money? What are you planning to do?"
 <es>{Mei}\n"¿Qué vas a hacer, Kazushi?"
 
 @555
-<en>It's kind of embarrassing to have everybody worry about me for money reason.
+<en>It was rather embarrassing to have everybody worrying about me because of money.
 <es>
 
 @560
-<en>{Appo-}\n"You are not worrying about me, Miss Ibuki?"
+<en>{Appo}\n"Am I just being ignored?"
 <es>
 
 @564
-<en>{Pierre}\n"Kazushi is good at getting attention from elder women. You are not."
+<en>{Pierre}\n"You started acting like you were the king. Kazushi is in a position to trigger her maternal instincts. My conclusion is that Mei-chan goes for younger men."
 <es>{Pierre}\n"A Kazushi se le da bien atraer la atención de las mujeres mayores. A ti no."
 
 @567
-<en>{Appo-}\n"Oh no! My Mei!"
+<en>{Appo}\n"Oh no! My Mei!"
 <es>{Appo-}\n"¡Oh no! ¡Mi Mei!"
 
 @572
-<en>{Mei}\n"You are young and you need to eat. Save money in different area."
+<en>{Mei}\n"You're young and hungry, right? You shouldn't skip lunch. You're a growing boy who needs his nutrition."
 <es>{Mei}\n"Eres jóven y tienes que comer. Ahorra dinero en otras cosas."
 
 @573
-<en>I was happy that she was worrying about me.
+<en>I don't know if she likes younger men, but I was happy that she was concerned about me.
 <es>Me conmovía que estuviese preocupada por mí.
 
 @574
-<en>{Kazushi}\n"Well, I was thinking about buying bread from a vending machine."
+<en>{Kazushi}\n"It's fine. I was thinking I'd just get some bread from the vending machine."
 <es>{Kazushi}\n"Bueno, la verdad es que estaba pensando en comprar un sandwich en una máquina expendedora."
 
 @577
-<en>{Mei}\n"Would that be enough?"
+<en>{Mei}\n"Oh? Will that be enough?"
 <es>{Mei}\n"¿Tendrías bastante con eso?"
 
 @582
-<en>{Haruka}\n"Just eat my lunch box. I don't mind, really."
+<en>{Haruka}\n"Just have my bento. I don't mind, really."
 <es>{Haruka}\n"Cómete mi comida. De verdad que no me importa."
 
 @583
-<en>{Kazushi}\n"What are you going to eat? I can't make you spend money buying lunch for you."
+<en>{Kazushi}\n"Then what're you going to eat? I'd feel bad if you had to spend money buying lunch when you already brought one."
 <es>
 
 @586
-<en>{Haruka}\n"That's O.K-"
+<en>{Haruka}\n"It's OK."
 <es>{Haruka}\n"No te preocupes."
 
 @589
-<en>{Mei}\n"I can lend you some money."
+<en>{Mei}\n"I can lend you some money, if you'd like?"
 <es>{Mei}\n"Te puedo dejar dinero."
 
 @590
@@ -1053,22 +1053,22 @@
 <es>{Kazushi}\n"¿Dejarme dinero? ¿Tú?"
 
 @591
-<en>{Mei}\n"You can pay me back next month."
+<en>{Mei}\n"I'd only be lending it. You can pay me back next month when your allowance comes in. You won't feel bad about that, will you?"
 <es>{Mei}\n"Puedes devolvérmelo el mes que viene."
 
 @592
-<en>{Kazushi}\n"I appreciate it......"
+<en>{Kazushi}\n"Well if that's the case..."
 <es>{Kazushi}\n"Te lo agradezco..."
 
 @593
-<en>Borrowing money from a teacher on the 2nd day of school.......
+<en>Borrowing money from a teacher on the second day of school...
 <es>Aceptar dinero de una profesora el segundo día de clase...
 
 @596
-<en>{Haruka}\n"You don't have to borrow any money, just eat my lunch."
+<en>{Haruka}\n"You don't have to borrow any money, you can just eat my bento. Really, I don't mind."
 <es>{Haruka}\n"No tienes que coger prestado dinero, cómete mi comida."
 
 @597
-<en>She's telling me this......
+<en>That's what she says. As for me, which should I choose...
 <es>Me dice eso...
 

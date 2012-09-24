@@ -9,7 +9,7 @@
 <es>La directora se sentó junto a mí.
 
 @11
-<en>{Kazushi}\n"With me?"
+<en>{Kazushi}\n"Try it with you?"
 <es>{Kazushi}\n"¿Conmigo?"
 
 @14
@@ -17,19 +17,19 @@
 <es>{Directora}\n"Sí."
 
 @15
-<en>Even though she's smiling, she's making me really nervous.
+<en>She gave me a gentle smile. She seems kind, but she makes me uncomfortable. Now I'm nervous too.
 <es>Pese a que esté sonriendo, me está poniendo realmente nervioso.
 
 @18
-<en>{Principal}\n"Just follow the same steps you just learned."
+<en>{Principal}\n"Just follow the same steps as you learned before."
 <es>{Directora}\n"Limítate a seguir los pasos que acabas de aprender."
 
 @19
-<en>{Kazushi}\n"Yes."
+<en>{Kazushi}\n"Yes, ma'am."
 <es>{Kazushi}\n"Sí."
 
 @21
-<en>I think I can handle that.
+<en>I went through the same steps one more time. I put the ingredients in and lit the flame.
 <es>Creo que podré conseguirlo.
 
 @22
@@ -37,51 +37,51 @@
 <es>{Kazushi}\n"¿Así?"
 
 @24
-<en>The liquid inside a flask is beginning to boil.
+<en>The liquid inside the flask began to boil. Bubbles shook the surface of the water as if they were reflecting my tension.
 <es>El líquido del interior del frasco está empezando a hervir.
 
 @25
-<en>{Principal}\n"You need to relax.\nIf you are tense, the result wouldn't come out good."
+<en>{Principal}\n"You need to relax more. If you're too tense, it will be harder to fuse the ingredients."
 <es>{Directora}\n"Tienes que relajarte.\nSi estás tenso, el resultado no podrá ser bueno."
 
 @26
-<en>{Kazushi}\n"Yes."
+<en>{Kazushi}\n"Yes, ma'am."
 <es>{Kazushi}\n"Vale."
 
 @27
-<en>I took a few big breath.
+<en>I took a few big breaths. Deep breaths. Deep breaths are what I needed.
 <es>Respiro hondo varias veces.
 
 @28
-<en>{Kazushi}\n[Kazushi taking deep breath]
+<en>{Kazushi}\n"Ahhh, uhhhn."
 <es>{Kazushi}\n*Respirando hondo*
 
 @31
-<en>When I inhaled, I smelled something really good.
+<en>I smelled something pretty as I inhaled.
 <es>Al inhalar, olí algo muy bueno.
 
 @32
-<en>It's the flowers.
+<en>It was the flowers.
 <es>Son las flores.
 
 @35
-<en>{Principal}\n"Very good.\nYou 're much better now."
+<en>{Principal}\n"Very good. You're doing much better now."
 <es>{Directora}\n"Muy bien.\nAhora estás mucho mejor."
 
 @36
-<en>The principal looked into the flask and smiled.
+<en>The principal looked into the flask and smiled. The liquid inside displayed signs of intense convection, but only gentle waves appeared on the surface.
 <es>La directora miró al frasco y sonrió.
 
 @39
-<en>{Principal}\n"Two substances has we are trying to mix are called "king"and "queen"."
+<en>{Principal}\n"The two ingredients we used hold 'shadow' and 'light', or 'male' and 'female' properties. In alchemy we call this 'King' and 'Queen'."
 <es>{Principal}\n"Las dos sustancias que estamos intentando mezclar se llaman "rey" y "reina"."
 
 @40
-<en>{Kazushi}\n""king"and "queen"?"
+<en>{Kazushi}\n"'King' and 'Queen'?"
 <es>{Kazushi}\n"¿"Rey" y "reina"?"
 
 @41
-<en>They named "king"and "queen"?\nThe Alchemy is romantic.
+<en>The name comes from people? That's an interesting way to name them, but I can see where they get it from.
 <es>¿Los llaman "rey" y "reina"?\nLa alquimia es muy romántica.
 
 @44
@@ -89,11 +89,11 @@
 <es>{Directora}\n"Esto es lo siguiente."
 
 @45
-<en>It's the flowers. I've come this far last time, too.
+<en>It's the flowers. I made it this far last time, too.
 <es>La flor. Antes también había llegado a este punto.
 
 @46
-<en>{Kazushi}\n"Here it goes."
+<en>{Kazushi}\n"Here goes."
 <es>{Kazushi}\n"Allá vamos."
 
 @47
@@ -101,67 +101,67 @@
 <es>Cogí la flor.
 
 @48
-<en>{Kazushi}\n"...!?..."
+<en>{Kazushi}\n"Ow..."
 <es>{Kazushi}\n"¿¡...!?"
 
 @49
-<en>I felt a sharp pain at the tip of my fingers.
+<en>I felt a shock, like static electricity, in my fingertips.
 <es>Sentí un dolor intenso en la yema de los dedos.
 
 @50
-<en>I didn't want that to stop our experiment, so I didn't tell anyone that.
+<en>I nearly stopped myself, but I felt the principal's eyes on me so I put it in.
 <es>No quería parar el experimento, así que no se lo dije a nadie.
 
 @51
-<en>Inside the flask is turning black.
+<en>The solution was turning black inside the flask.
 <es>El interior del frasco se está volviendo negro.
 
 @54
-<en>{Principal}\n"This means that the substances are dying once."
+<en>{Principal}\n"This is the stage where the substances each meet their death."
 <es>
 
 @55
-<en>{Kazushi}\n"Dying......"
+<en>{Kazushi}\n"Death..."
 <es>{Kazushi}\n"¿Muriendo...?"
 
 @56
-<en>{Principal}\n"Yes, death.\nThe substances die for once and......"
+<en>{Principal}\n"Yes, death. The substances die inside this flask, and then..."
 <es>
 
 @57
-<en>The liquid is changing its color once again.
+<en>I watched the solution change color like watching a video on fast forward.
 <es>El líquido está cambiando de color de nuevo.
 
 @58
-<en>{Principal}\n"They rise again."
+<en>{Principal}\n"They are born anew."
 <es>
 
 @59
-<en>It's changing into white now.\nIt's a perfect image of life and death.
+<en>Its turning white, now.\nIt's the perfect image of life and death.
 <es>Está cambiando a blanco ahora.\nEs una imagen perfecta sobre la vida y la muerte.
 
 @60
-<en>It's the color of funerals.
+<en>Born anew from the colour of a funeral.
 <es>
 
 @61
-<en>{Principal}\n"The king and the queen die once and rise again."
+<en>{Principal}\n"The King and Queen die and are rise again. This is the stage at which they melt and blend together to create a new life."
 <es>
 
 @62
-<en>{Principal}\n"We call this stage. Th engagement of the king and the queen."
+<en>{Principal}\n"We call this stage the philosophical marriage of the King and Queen."
 <es>
 
 @63
-<en>{Kazushi}\n"Engagement?\nThe terms are so romantic."
+<en>{Kazushi}\n"Marriage? The terms are quite romantic."
 <es>
 
 @66
-<en>{Principal}\n"They should be.\nThe Alchemy is study of Romance."
+<en>{Principal}\n"Yes they are. Alchemy is full of romance."
 <es>
 
 @67
-<en>{Kazushi}\n"I see-"
+<en>{Kazushi}\n"I see."
 <es>{Kazushi}\n"Ya veo."
 
 @68
@@ -173,27 +173,27 @@
 <es>La verdad es que transmutar el plomo en oro es bastante romántico.
 
 @70
-<en>{Principal}\n"The king and the queen will mix and rise as a blessing new life."
+<en>{Principal}\n"And so the new life that they create will be able to shine on its own."
 <es>
 
 @71
-<en>After it turned into red, golden sun appeared in the middle of the flask
+<en>The liquid inside began to turn red, like the dawning sky. At the center of the liquid, a gold sun began to appear.
 <es>
 
 @72
-<en>{Kazushi}\n"Something came up in the middle."
+<en>{Kazushi}\n"Something's been solidified."
 <es>
 
 @73
-<en>It's like a little rock.\nShining gold in the middle of red liquid.
+<en>It was like a little rock. The liquid glowed a transparent red, but it was more golden closer to the center.
 <es>
 
 @76
-<en>{Principal}\n"This is the completion."
+<en>{Principal}\n"Now, it is complete."
 <es>
 
 @79
-<en>The principal turned off the fire.\nShe reaches inside the flask and picked the golden rock.
+<en>The principal turned off the flame.\nShe stuck her fingers into the flask and picked up the golden rock.
 <es>La directora apagó el fuego y sacó la roca dorada del interior con la mano.
 
 @80
@@ -205,7 +205,7 @@
 <es>{Directora}\n"Adelante, tócalo."
 
 @84
-<en>She offered me to touch the rock.
+<en>She held it out in the palm of her hand.
 <es>Me ofreció tocar la roca.
 
 @85
@@ -213,7 +213,7 @@
 <es>
 
 @86
-<en>I expected it to be burning hot.
+<en>I carefully touched it.
 <es>Esperaba que estuviese quemando.
 
 @87
@@ -221,27 +221,27 @@
 <es>{Kazushi}\n"No está para nada caliente."
 
 @88
-<en>Not only it's not hot, it's not hard either.\nIt felt like it is a living thing.
+<en>Not only was it cool, but it wasn't hard as a rock, either. It was neither soft, nor hard, and held a living warmth.
 <es>
 
 @95
-<en>{Haruka}\n"Great job, Kazushi. You did it well."
+<en>{Haruka}\n"Amazing, Kazushi-kun. It's a great success!"
 <es>{Haruka}\n"Bien hecho, Kazushi. Lo has conseguido."
 
 @96
-<en>{Kazushi}\n"This is the completion?"
+<en>{Kazushi}\n"This is the result?"
 <es>{Kazushi}\n"¿Este es el estado completo?"
 
 @97
-<en>I didn't know the final stage of the experiment.
+<en>I didn't know what the outcome of the experiment was supposed to be.
 <es>No sabía cual era la última parte del experimento.
 
 @98
-<en>{Kazushi}\n"What is this by the way?"
+<en>{Kazushi}\n"By the way...what is this?"
 <es>{Kazushi}\n"Y por cierto, ¿qué es eso?"
 
 @99
-<en>It's shining bright, but it sure is not gold.
+<en>It appeared to be golden, but it sure wasn't gold.
 <es>Está brillando, pero desde luego oro no es.
 
 @103
@@ -249,11 +249,11 @@
 <es>
 
 @104
-<en>Miss. Ibuki brought a pot.
+<en>Mei-sensei brought over a pot. There was no flower in it; only dirt.
 <es>
 
 @105
-<en>The principal planted the golden rock in a pot.
+<en>The principal planted the golden orb in the dirt.
 <es>
 
 @109
@@ -261,7 +261,7 @@
 <es>{Directora}\n"Esto es..."
 
 @110
-<en>She waters the pot as she continues to explain.\nBefore she finish explaining what it is, we saw a plant growing.
+<en>She poured some water in the pot as she continued her explanation.\nBefore she could finish, we saw a plant begin to sprout.
 <es>
 
 @111
@@ -269,7 +269,7 @@
 <es>
 
 @112
-<en>It was like magic......
+<en>It was like watching magic. But then that orb is...
 <es>Era casi como magia...
 
 @113
@@ -277,7 +277,7 @@
 <es>{Kazushi}\n"¿Una semilla?"
 
 @116
-<en>{Principal}\n"We can say it is.\nI will have all of you make this and plant them."
+<en>{Principal}\n"That's exactly what it is.\nEverybody's assignment is to synthesize these and sow them in the garden."
 <es>
 
 @117
@@ -285,19 +285,19 @@
 <es>
 
 @118
-<en>We can fix the flower bed.
+<en>We're going to sow new seeds in the garden we ruined.
 <es>Podemos arreglar el cuadro floral.
 
 @119
-<en>{Principal}\n"One day, that place will be filled with flowers once again."
+<en>{Principal}\n"I doubt they'll bloom soon, but if everyone wishes for it, then I'm sure they'll bloom again one day."
 <es>
 
 @120
-<en>{Kazushi}\n"That's a good idea."
+<en>{Kazushi}\n"They will?"
 <es>
 
 @121
-<en>We can fix our mess.
+<en>Then we can make that garden full of blooming flowers once again.
 <es>Podemos corregir nuestro error.
 
 @129
@@ -309,27 +309,27 @@
 <es>{Daigo}\n"Pero, ¿de verdad que podemos hacerlas?"
 
 @131
-<en>{Appo-}\n"Just don't give up till you make one."
+<en>{Appo}\n"If at first you don't succeed..."
 <es>
 
 @141
-<en>{Haruka}\n"I'll help you guys-"
+<en>{Haruka}\n"I'll help you guys."
 <es>{Haruka}\n"Yo os ayudaré, chicos."
 
 @142
-<en>{Mizuki}\n"I guess I should help, too."
+<en>{Mizuki}\n"I guess I have to."
 <es>
 
 @143
-<en>{Hu-sen}\n"I'm in this class, so I guess I'm going to do it, too."
+<en>{Fuusen}\n"Well, it is for class."
 <es>
 
 @144
-<en>Whether willing to or not willing to, the girl are going to help us.
+<en>Whether by choice or force, the girls were going to help us out.
 <es>
 
 @145
-<en>{Kazushi}\n"Thanks girls!\nLet's do it."
+<en>{Kazushi}\n"Thanks, girls!\nLet's do it!"
 <es>
 
 @150
@@ -337,7 +337,7 @@
 <es>
 
 @151
-<en>Afterschool, I planted all the seeds everyone made.
+<en>After school, we all sowed the seeds we made together.
 <es>
 
 @154
@@ -345,11 +345,11 @@
 <es>
 
 @155
-<en>We couldn't make as many as I was hoping to.
+<en>We couldn't make hundreds of them, only about one per person in the class.
 <es>No pudimos hacer todas las que me hubiese gustado.
 
 @160
-<en>{Haruka}\n"That should do it."
+<en>{Haruka}\n"It'll be alright."
 <es>{Haruka}\n"Con eso debería bastar."
 
 @161
@@ -357,47 +357,47 @@
 <es>{Kazushi}\n"¿En serio?"
 
 @162
-<en>{Haruka}\n"Those are actually not seeds."
+<en>{Haruka}\n"Those flowers don't actually have seeds. They just grow up straight out of the ground. We don't really know how they do it."
 <es>{Haruka}\n"En realidad no son semillas."
 
 @169
-<en>{Pierre}\n"Then why are we planting those?"
+<en>{Pierre}\n"Then what did we just sow in the ground? Weren't those seeds?"
 <es>{Pierre}\n"¿Entonces por qué las estamos plantando?"
 
 @170
-<en>{Haruka}\n"Those rocks actually work as fertilizer to let those flowers to bloom."
+<en>{Haruka}\n"Those orbs aren't seeds; they're actually something of a fertilizer. They fertilize the soil and make it easier for the flowers to bloom."
 <es>
 
 @171
-<en>{Haruka}\n"The flowers sense the power of the rocks and start blooming."
+<en>{Haruka}\n"The flowers tend to grow near places where alchemical power gathers."
 <es>
 
 @172
-<en>{Kazushi}\n"Sounds interesting."
+<en>{Kazushi}\n"Huh, that's a weird flower."
 <es>
 
 @175
-<en>{Haruka}\n"I'm sure we will see a lots of flowers soon."
+<en>{Haruka}\n"It's alright. I'm sure they'll bloom again."
 <es>{Haruka}\n"Estoy convencida de que podremos ver un montón de flores muy pronto."
 
 @176
-<en>I can't wait to see this place gets filled with the flowers once again.
+<en>I looked over the neatly patted garden. I can't wait to see this place covered in flowers again.
 <es>Estoy deseando ver de nuevo este lugar repleto de flores.
 
 @179
-<en>{Daigo}\n"Whenever I have free time, I will make them again."
+<en>{Daigo}\n"I will make some more and sow them whenever I have free time."
 <es>
 
 @180
-<en>{Kazushi}\n"Yeah, we should."
+<en>{Kazushi}\n"Good idea."
 <es>
 
 @181
-<en>{Haruka}\n"I will help you guys, too-"
+<en>{Haruka}\n"I'll help you guys, too!"
 <es>{Haruka}\n"Yo también os ayudaré."
 
 @182
 # Revisar.
-<en>It's probably our will than anything else which will let the flowers bloom in the end.
+<en>It's probably going to be our will more than anything else which will ultimately bring the flowers back into bloom.
 <es>Probablemente sea nuestro deseo y no otra cosa lo que hará que las flores florezcan al final.
 

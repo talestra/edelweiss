@@ -1,71 +1,71 @@
 # Comments for '02006'
 
 @9
-<en>{Appo-}\n"You think I became abnormal?"
+<en>{Appo}\n"You think I've become abnormal?"
 <es>
 
 @10
-<en>{Kazushi}\n"You've never been normal in your entire life."
+<en>{Kazushi}\n"You're not abnormal. Well, I mean, you've never been normal in your entire life, but aside from that you're not."
 <es>
 
 @13
-<en>{Appo-}\n"So, I haven't changed or anything, right?"
+<en>{Appo}\n"That's hard to understand. Well, so long as I haven't changed or anything."
 <es>
 
 @18
-<en>{Pierre}\n"Are you sure you wanted us to come along?"
+<en>{Pierre}\n"Are you sure you wanted us to come along? Wouldn't you rather be alone with her?"
 <es>
 
 @21
-<en>{Appo-}\n"Ofcourse!\nDon't leave me alone with her!"
+<en>{Appo}\n"You idiot! Are you going to abandon me?! And you call yourself a friend?!"
 <es>
 
 @28
-<en>{Daigo}\n"We are just thinking maybe you two wanted to be alone."
+<en>{Daigo}\n"It's because we're your friends that we're trying to be considerate."
 <es>
 
 @29
-<en>{Appo-}\n"No!\nI don't know what to talk about if you guys left me alone with her."
+<en>{Appo}\n"No!\nI wouldn't know what to talk to her about if you guys left us alone."
 <es>
 
 @30
-<en>{Kazushi}\n"All right. Just for today, O.K?"
+<en>{Kazushi}\n"All right. Just for today, OK?"
 <es>
 
 @31
-<en>Today is the first weekend since they started going out.
+<en>Today is the first Sunday since they started going out.
 <es>
 
 @32
-<en>This is their first date.
+<en>This is their first proper date.
 <es>
 
 @33
-<en>{Pierre}\n"I don't understand why you have to be so nervous."
+<en>{Pierre}\n"I didn't know you were such a scaredy cat, Appo. You should meet up for a date by yourself."
 <es>
 
 @34
-<en>{Appo-}\n"Come on!\nShow me your friendship!!"
+<en>{Appo}\n"Don't act so cold! You're a friend, aren't you?! You're killing me!!"
 <es>
 
 @37
-<en>{Pierre}\n"Don't be so mad."
+<en>{Pierre}\n"Why are you getting so mad?"
 <es>
 
 @40
-<en>{Daigo}\n"It's only Hu-sen.\nRelax."
+<en>{Daigo}\n"His head's all full. With Fuusen."
 <es>
 
 @43
-<en>{Appo-}\n"Ms, Hu-sen is running late.\nI hope she isn't getting into an accident or anything like that."
+<en>{Appo}\n"Kazuko-san is running late.\nI hope she hasn't gotten into an accident or anything like that."
 <es>
 
 @44
-<en>{Kazushi}\n"Ms, Hu-sen......!?"
+<en>{Kazushi}\n"Kazuko-san?!"
 <es>
 
 @47
-<en>{Pierre}\n"What a big change."
+<en>{Pierre}\n"Talk about a total 180."
 <es>
 
 @48
@@ -73,43 +73,43 @@
 <es>
 
 @49
-<en>Untill just a few days ago,\nhe didn't even treat her as a human being.
+<en>Until just a few days ago, Appo didn't even treat her like a human being. Now he worshipped her like a goddess.
 <es>
 
 @55
-<en>{Hu-sen}\n"I'm sorry, I'm late."
+<en>{Fuusen}\n"I'm sorry, I'm late."
 <es>
 
 @59
-<en>{Appo-}\n"!!"
+<en>{Appo}\n"Ah!"
 <es>
 
 @64
-<en>Here she is.
+<en>Appo froze at Fuusen's graceful voice. Hearing her sound like that certainly gave me the shivers too.
 <es>
 
 @65
-<en>{Appo-}\n"Good morning, Ms, Hu-sen!"
+<en>{Appo}\n"Good morning, Kazuko-san!"
 <es>
 
 @68
-<en>{Hu-sen}\n"Good morning.\nDid I make you wait?"
+<en>{Fuusen}\n"Good morning.\nDid I make you wait?"
 <es>
 
 @69
-<en>{Appo-}\n"Not at all!\nWe just got here, too!"
+<en>{Appo}\n"Not at all!\nWe just got here, too!"
 <es>
 
 @70
-<en>Appo- is so tense.
+<en>Silly Appo, getting panicky over Fuusen. The girls who came along with her were laughing from behind her.
 <es>
 
 @79
-<en>{Haruka}\n"Good morning.\nIt's a perfect day fot......"
+<en>{Haruka}\n"Good morning.\nIt's a perfect day for......"
 <es>
 
 @80
-<en>{Ran}\n"Stop. This is not a arranged marriage meeting."
+<en>{Ran}\n"Stop that greeting. This isn't some marriage interview."
 <es>
 
 @81
@@ -117,107 +117,107 @@
 <es>
 
 @89
-<en>{Hu-sen}\n"This is not just our date.\nWe are going out for shopping, too."
+<en>{Fuusen}\n"A date? Our main goal today is shopping. Nothing wrong with everyone going."
 <es>
 
 @90
-<en>{Appo-}\n"Yep. Ms, Hu-sen is going to show us around the island."
+<en>{Appo}\n"And Kazuko-san is going to show us around the island."
 <es>
 
 @99
-<en>{Haruka}\n"There are somethings you can't buy in the school, right?"
+<en>{Haruka}\n"You haven't really been shown around yet after all. There are some things you can't buy at school, right?"
 <es>
 
 @100
-<en>{Daigo}\n"Yeah, I wanna go to a book store."
+<en>{Daigo}\n"Yeah, I want to go to a bookstore."
 <es>
 
 @101
-<en>{Pierre}\n"Me, too."
+<en>{Pierre}\n"Oh yeah, I've just about gone through all the ones I brought too. There is a bookstore, right?"
 <es>
 
 @105
-<en>{Mizuki}\n"Wow, you guys actually read?"
+<en>{Mizuki}\n"Wow, I would've never guessed you were all avid readers."
 <es>
 
 @106
-<en>They don't read. They just wanna magazines.
+<en>Except the books they're buying are just pin-up magazines. I should probably grab one too.
 <es>
 
 @114
-<en>{Hu-sen}\n"Shall we?"
+<en>{Fuusen}\n"Shall we?"
 <es>
 
 @115
-<en>{Appo-}\n"Let's go."
+<en>{Appo}\n"Let's go."
 <es>
 
 @116
-<en>They already look good walking together.
+<en>Appo and Fuusen walked off side-by-side. They looked scarily good together.
 <es>
 
 @123
-<en>{Ran}\n"It's surprising that those two look great together."
+<en>{Ran}\n"From back here, they look like a perfect match."
 <es>
 
 @124
-<en>{Mizuki}\n"It's amazing."
+<en>{Mizuki}\n"I know. It's like destiny."
 <es>
 
 @129
-<en>They took me to an ordinary store.
+<en>The first store they led us to was an ordinary looking store we'd never been to. The signboard read "Belly-Splitter". What the hell kind of name is that.
 <es>
 
 @134
-<en>{Appo-}\n"What kind of a store is this?"
+<en>{Appo}\n"What kind of a store is this?"
 <es>
 
 @135
-<en>{Hu-sen}\n"This place has everything.\nIncluding Alchemy stuff."
+<en>{Fuusen}\n"A general store, I guess? You can buy anything from daily goods to Alchemy supplies."
 <es>
 
 @140
-<en>{Haruka}\n"This place used to be exclusively for Alchemy goods."
+<en>{Haruka}\n"Originally this store sold exclusively Alchemy supplies, but at some point they started carrying other things too."
 <es>
 
 @141
-<en>{Kazushi}\n"Is that right?"
+<en>{Kazushi}\n"Wow, alchemy supplies?"
 <es>
 
 @142
-<en>This old looking store for Alchemy!?
+<en>This store did? It didn't look like it.
 <es>
 
 @146
-<en>{Ran}\n"Let's go in."
+<en>{Ran}\n"Let's go in. Hello! Pops, you in?"
 <es>
 
 @150
-<en>Old looking man came out from the back as we entered.
+<en>A man came out from the back room as we entered. I probably shouldn't say it, but he was a dull-looking, middle aged man.
 <es>
 
 @155
-<en>{Store owner}\n"Oh, hey Ran!"
+<en>{Store Owner}\n"Oh, Ran-chan, hello. Oh? Quite a few with you today."
 <es>
 
 @158
-<en>{Ran}\n"I brought you some buisiness- give me some mergin, O.K?"
+<en>{Ran}\n"I've brought you some business, so give me a cut, OK?"
 <es>
 
 @161
-<en>{Store owner}\n[Store owner laughing]
+<en>{Store Owner}\n"Hahaha, I can't compete with you, Ran-chan."
 <es>
 
 @169
-<en>He's smiling. He looks like a very kind man.
+<en>He turned towards us as he scratched his head. Beneath his glasses rested a pair of thin eyes and a gentle smile.
 <es>
 
 @170
-<en>{Store owner}\n"You boys must be the new students."
+<en>{Store Owner}\n"You must be the new boys. I'm really glad to have more men on the island. There's not much to talk about with just young women."
 <es>
 
 @171
-<en>{Pierre}\n"Yes, we are."
+<en>{Pierre}\n"Hello."
 <es>
 
 @172
@@ -225,183 +225,183 @@
 <es>
 
 @173
-<en>{Store owner}\n"Nice to meet you, too.\nHow can I help you today."
+<en>{Store Owner}\n"Nice to meet you too.\nHow can I help you today? We have just about everything you could need."
 <es>
 
 @180
-<en>{Hu-sen}\n"Actually......"
+<en>{Fuusen}\n"Miya-san, actually......"
 <es>
 
 @181
-<en>Hu-sen whispers to the store owner.
+<en>Fuusen leaned up close and whispered in his ear. I guess his name's Miya-san.
 <es>
 
 @184
-<en>{Hu-sen}\n"......do you have it?"
+<en>{Fuusen}\n"...do you have any?"
 <es>
 
 @187
-<en>For some reason, the store owner's face has turned red.
+<en>For some reason, the store owner's face turned red.
 <es>
 
 @188
-<en>{Store owner}\n"......are you gonna be using it?"
+<en>{Miya}\n"Yes, but... are you going to use them?"
 <es>
 
 @189
-<en>{Hu-sen}\n"Yes, it's for him......"
+<en>{Fuusen}\n"Yes, they're for him..."
 <es>
 
 @196
-<en>Hu-sen introduces Appo- to the owner.
+<en>Fuusen grabbed Appo by the arm.
 <es>
 
 @197
-<en>{Hu-sen}\n"He's really healthy."
+<en>{Fuusen}\n"He's really healthy."
 <es>
 
 @200
-<en>{Appo-}\n"Yes, I am very healthy!"
+<en>{Appo}\n"Yes, I am very healthy!"
 <es>
 
 @201
-<en>{Store owner}\n"I see.\n......good luck to you two."
+<en>{Miya}\n"I-I see. Good. Umm... have fun."
 <es>
 
 @202
-<en>I wonder what she was asking him for.
+<en>Miya-san was acting weird. What did Fuusen order from him?
 <es>
 
 @208
-<en>{Store owner}\n"How many do you need?"
+<en>{Miya}\n"Umm, well. I'll go wrap them up. How many did you need?"
 <es>
 
 @211
-<en>{Hu-sen}\n"......\ncan I have a dozen?"
+<en>{Fuusen}\n"Hmmm... We'll use a lot anyways, so give us a dozen."
 <es>
 
 @214
-<en>{Store owner}\n"A dozen......\neach box has 12?\nYou want 12 boxes?"
+<en>{Miya}\n"A dozen boxes...\nEach box has 12...\nYou really want 12 boxes!?"
 <es>
 
 @215
-<en>{Hu-sen}\n"144 of them.\nShould be enough for a month."
+<en>{Fuusen}\n"Yup, 144 should be enough for a month."
 <es>
 
 @216
-<en>{Store owner}\n"Only for a month!?"
+<en>{Miya}\n"Enough for a MONTH!?"
 <es>
 
 @220
-<en>For some reason, the store owner is staring at Appo-.
+<en>For some reason the store owner was looking jealously at Appo.
 <es>
 
 @221
-<en>{Store owner}\n"I'm envious of your young power."
+<en>{Miya}\n"How wonderful to be young..."
 <es>
 
 @222
-<en>{Appo-}\n"???"
+<en>{Appo}\n"Huh?"
 <es>
 
 @225
-<en>{Store owner}\n"I'll be right back."
+<en>{Miya}\n"I'll go get them, so please wait a moment."
 <es>
 
 @228
-<en>The store owner disapeared to the back.
+<en>The store owner disappeared into the back room.
 <es>
 
 @233
-<en>{Haruka}\n"What are you going to buy, Hu-sen?"
+<en>{Haruka}\n"Hey, Kazuko-chan, what'd you buy?"
 <es>
 
 @236
-<en>{Hu-sen}\n"An essential stuff for a couple."
+<en>{Fuusen}\n"Something in great demand amongst couples."
 <es>
 
 @240
-<en>{Mizuki}\n"Is it perhaps......?"
+<en>{Mizuki}\n"Huh? You mean..."
 <es>
 
 @241
-<en>Mizuki's face is turned red.
+<en>Mizuki's face turned bright red. For someone who doesn't like dirty topics, she always picked up on them.
 <es>
 
 @248
-<en>{Pierre}\n"Are you sure you're going to buy it on your first date?"
+<en>{Pierre}\n"Are you really going to buy those on your first date? I can't tell if that's sexy or not."
 <es>
 
 @249
-<en>{Daigo}\n"Appo-, are you really doing to have 144 times?"
+<en>{Daigo}\n"Appo, are you really going to do it 144 times in a month? I'm jealous."
 <es>
 
 @250
-<en>{Kazushi}\n"We should get ourselve a girlfriend before this summer is over."
+<en>{Kazushi}\n"It's almost summer, too. We need to try harder."
 <es>
 
 @253
-<en>{Pierre}\n"I agree."
+<en>{Pierre}\n"Yeah. Better find a partner soon so we don't end up wasting our summer."
 <es>
 
 @256
-<en>{Daigo}\n"I'm going to fine one."
+<en>{Daigo}\n"I-I'll find one. I'll find one."
 <es>
 
 @261
-<en>{Store owner}\n"Thanks for waiting."
+<en>{Miya}\n"Thanks for waiting."
 <es>
 
 @262
-<en>He came back from the back.
+<en>He returned from the storeroom. He looked like just a regular merchant.
 <es>
 
 @263
-<en>{Kazushi}\n"Are you good at Alchemy, too?"
+<en>{Kazushi}\n"Are you an alchemist, too?"
 <es>
 
 @264
-<en>He must be. If he owns an Alchemy store.
+<en>It was bugging me, so I asked. He must be if he owns an alchemy store.
 <es>
 
 @267
-<en>{Store owner}\n"I'm all right."
+<en>{Miya}\n"Well, just a small-time one. I'm not very knowledgeable either, so please don't ask me much when you're shopping."
 <es>
 
 @268
-<en>He doesn't look so confident.
+<en>He scratched his head with a pained smile. No offense, but he doesn't really look like a good one either.
 <es>
 
 @273
-<en>{Haruka}\n"You are so modest."
+<en>{Haruka}\n"Miya-san, you're so modest."
 <es>
 
 @274
-<en>Haruka tells the truth.
+<en>Haruka teased him.
 <es>
 
 @275
-<en>{Kazushi}\n"He is good?"
+<en>{Kazushi}\n"He's good, then?"
 <es>
 
 @278
-<en>{Haruka}\n"Ofcourse. He is the......"
+<en>{Haruka}\n"Of course. He's the--"
 <es>
 
 @281
-<en>{Store owner}\n"You don't have to tell him.\nIs there anything else I can help you guys with?"
+<en>{Miya}\n"You don't have to tell him.\nIs there anything else I can help you guys with?"
 <es>
 
 @282
-<en>He seems not want to talk about it.
+<en>He didn't seem to want to talk about it. He looked like an average person, but maybe he wasn't?
 <es>
 
 @286
-<en>{Kazushi}\n"?"
+<en>{Kazushi}\n"Huh?"
 <es>
 
 @287
-<en>His face looks so familiar.
+<en>His face looked so familiar.
 <es>
 
 @288
@@ -409,43 +409,43 @@
 <es>
 
 @289
-<en>I have a feeling we have met......
+<en>I had a sense of deja vu, like we'd met before...
 <es>
 
 @290
-<en>{Store owner}\n"Have we?\n......"
+<en>{Miya}\n"Have we?...I don't recall it?"
 <es>
 
 @291
-<en>{Kazushi}\n"Maybe I am mistaking with some one else."
+<en>{Kazushi}\n"I suppose you're right. I don't recall it either."
 <es>
 
 @294
-<en>{Store owner}\n"You probably are."
+<en>{Miya}\n"Huh? What's with that?"
 <es>
 
 @295
-<en>He's laughing.\nBut ... ...I still feel that I have met him before.
+<en>He started laughing.\nBut... I still felt like I'd met him before somewhere.
 <es>
 
 @296
-<en>Maybe he looks someone I know.
+<en>Maybe he looks someone I know. But who?
 <es>
 
 @300
-<en>{Ran}\n"Kazushi-! Haruka-!\nLet's go-!"
+<en>{Ran}\n"Kazushi! Haruka!\nLet's go!"
 <es>
 
 @305
-<en>{Haruka}\n"Sorry girls. I have to go see my grand ma."
+<en>{Haruka}\n"Sorry, girls. I have to go visit grandma."
 <es>
 
 @306
-<en>{Kazushi}\n"All right. See you."
+<en>{Kazushi}\n"Oh, okay. That's a shame."
 <es>
 
 @307
-<en>{Haruka}\n"We will do this again."
+<en>{Haruka}\n"We'll do this again sometime!"
 <es>
 
 @308
@@ -453,15 +453,15 @@
 <es>
 
 @313
-<en>I should appologize to the store owner.
+<en>I turned back to the store owner.
 <es>
 
 @314
-<en>{Kazushi}\n"I'm sorry for confusing you."
+<en>{Kazushi}\n"Sorry for saying something so strange."
 <es>
 
 @315
-<en>{Store owner}\n"It's been a while I talked to young people.\nIt was fun."
+<en>{Miya}\n"It's OK. It's been a while since I've talked to some young guys. Come back again some time."
 <es>
 
 @316
@@ -469,31 +469,31 @@
 <es>
 
 @321
-<en>{Haruka}\n"Bye-"
+<en>{Haruka}\n"Bye."
 <es>
 
 @322
-<en>They walked me out as I left the store.
+<en>After Haruka's bright goodbye, Miya-san saw us off with a gentle smile.
 <es>
 
 @323
-<en>His name was Mr.Miya.
+<en>Miya-san, huh?
 <es>
 
 @326
-<en>He definitely reminds me of some one I know.
+<en>He's a strange man.
 <es>
 
 @333
-<en>{Appo-}\n"Sorry guys.\nI actually have something to take care of."
+<en>{Appo}\n"Sorry, guys. We've actually got something to take care of."
 <es>
 
 @334
-<en>{Hu-sen}\n"I have to leave now, too."
+<en>{Fuusen}\n"You'll have to excuse us."
 <es>
 
 @335
-<en>Appo- and Hu-sen remembered something they had to take care.
+<en>For two people who said they had to head back, they sure were acting fidgety.
 <es>
 
 @340
@@ -501,35 +501,35 @@
 <es>
 
 @346
-<en>{Hu-sen}\n"Actually we have to take care of it together."
+<en>{Fuusen}\n"Actually, we have to take care of it together."
 <es>
 
 @347
-<en>Hu-sen's hand is holding what she just bought.
+<en>Fuusen was holding her new purchase in her hand. I guess they were already in the mood.
 <es>
 
 @350
-<en>{Appo-}\n"See you guys!"
+<en>{Appo}\n"See you, guys! Alright, let's go."
 <es>
 
 @353
-<en>{Hu-sen}\n"I can't wait!"
+<en>{Fuusen}\n"I can't wait any longer!"
 <es>
 
 @356
-<en>{Appo-}\n"Let's do it around here!!"
+<en>{Appo}\n"Then let's do it somewhere close!!"
 <es>
 
 @359
-<en>They disappeared into the back street.
+<en>They quickly disappeared into a back street.
 <es>
 
 @362
-<en>{Pierre}\n"I hope they won't get arrested."
+<en>{Pierre}\n"I hope they get caught finishing their business and arrested."
 <es>
 
 @367
-<en>{Mizuki}\n"......unbelievable."
+<en>{Mizuki}\n"Finish their business? ...Hey, cut that out!"
 <es>
 
 @370
@@ -541,19 +541,19 @@
 <es>
 
 @375
-<en>Daigo is holding magazines he just bought.
+<en>Daigo was hugging the bag of stuff he bought from the bookstore. I guess he's in the mood too.
 <es>
 
 @376
-<en>{Pierre}\n"Are you turned on already?"
+<en>{Pierre}\n"Why are you getting excited already? Where they selling something that amazing?"
 <es>
 
 @379
-<en>{Daigo}\n"You won't believe what you see in this one."
+<en>{Daigo}\n"Y-yeah, they were. You won't believe it."
 <es>
 
 @380
-<en>{Kazushi}\n"That good?"
+<en>{Kazushi}\n"Really? That good?"
 <es>
 
 @383
@@ -561,15 +561,15 @@
 <es>
 
 @388
-<en>{Ran}\n"Everyone's going home."
+<en>{Ran}\n"What? Everyone's going home."
 <es>
 
 @393
-<en>{Mizuki}\n"Why don't we call it dismissal?\nI wanna stop by somewhere."
+<en>{Mizuki}\n"Why don't we call it a day, then?\nThere's somewhere I want to stop on my way back."
 <es>
 
 @394
-<en>{Kazushi}\n"All right."
+<en>{Kazushi}\n"All right. Then let's call it a day."
 <es>
 
 @399

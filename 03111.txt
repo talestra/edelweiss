@@ -5,39 +5,39 @@
 <es>
 
 @6
-<en>I sneaked up quietly and looked inside the door.
+<en>I snuck up quietly and peeked inside the door.
 <es>
 
 @12
-<en>{Haruka}\n"I want to know what was the experiment for?"
+<en>{Haruka}\n"I want to know what that experiment was for! Why won't you answer me?"
 <es>
 
 @13
-<en>What experiment is she talking about?
+<en>I could hear them without even pressing my ear to the door. Haruka pressed in on the principal...\nWhat did she mean by experiment?
 <es>
 
 @17
-<en>{Principal}\n"Why do you need to know?"
+<en>{Principal}\n"I don't see the reason why I should even be hearing that question from you."
 <es>
 
 @22
-<en>{Haruka}\n"I've been telling you why!"
+<en>{Haruka}\n"Because!"
 <es>
 
 @23
-<en>She seems very upset.\nThis is very rare for her to be this upset.
+<en>Haruka seemed very upset. It was rare to see her so angry.
 <es>
 
 @24
-<en>{Principal}\n"I don't appreciate you've been there.\nWhat were you doing there?"
+<en>{Principal}\n"I still don't appreciate the fact that you were there.\nWhat were you doing with that class to begin with?"
 <es>
 
 @25
-<en>{Haruka}\n"I can be whereever I wanna be.\nI'm not your doll."
+<en>{Haruka}\n"Whatever I choose to do is up to me. I'm not some puppet who follows your commands, Grandma."
 <es>
 
 @28
-<en>Haruka made a strong statement.\nBut, for some reason, the principal starts laughing.
+<en>Haruka made a strong statement, but for some reason, the principal starts laughing.
 <es>
 
 @29
@@ -45,31 +45,31 @@
 <es>
 
 @32
-<en>{Principal}\n"You start to liking him?"
+<en>{Principal}\n"You like him, don't you?"
 <es>
 
 @35
-<en>{Haruka}\n"......!!"
+<en>{Haruka}\n"...ah!"
 <es>
 
 @36
-<en>Who's him?
+<en>Haruka was lost for words. Who's "him"?
 <es>
 
 @37
-<en>{Principal}\n"You are captured by your own trap."
+<en>{Principal}\n"You've been suckered by a fool."
 <es>
 
 @40
-<en>{Haruka}\n"I don't understand what you're talking about."
+<en>{Haruka}\n"I don't get what you're talking about."
 <es>
 
 @43
-<en>{Principal}\n"I'm not criticizing you.\nIt proves that you're maturing."
+<en>{Principal}\n"I'm not criticizing you. This proves you're maturing."
 <es>
 
 @44
-<en>{Haruka}\n"I thought you're going to let me take care of Kazushi!?"
+<en>{Haruka}\n"I thought you were going to let me take care of Kazushi-kun!"
 <es>
 
 @45
@@ -81,71 +81,71 @@
 <es>
 
 @47
-<en>{Haruka}\n"Why didn't you let me hadle it by myself?"
+<en>{Haruka}\n"Why didn't you let me handle it myself? Wouldn't everything be ruined if something had happened to him?!"
 <es>
 
 @50
-<en>{Principal}\n"Because, you haven't shown any improvement after an entire month."
+<en>{Principal}\n"Because it was better than nothing. You haven't shown any progress after an entire month."
 <es>
 
 @51
-<en>{Principal}\n"What have you been doing this entire month?"
+<en>{Principal}\n"What have you been doing this whole time?"
 <es>
 
 @54
-<en>{Haruka}\n"It's only been a month.\nWhy are we in such a hurry?"
+<en>{Haruka}\n"It's only been a month. Why are we in such a hurry?"
 <es>
 
 @55
-<en>{Principal}\n"We are not in a hurry.\nI'm just saying there is no reason to take such a long time."
+<en>{Principal}\n"We aren't in a hurry. I'm just saying that there's no reason to take longer than necessary."
 <es>
 
 @58
-<en>{Haruka}\n"But we need more data......"
+<en>{Haruka}\n"But we need more data. If we don't observe......"
 <es>
 
 @61
-<en>{Principal}\n"You can not collect more data just by keep watching him."
+<en>{Principal}\n"That's why I gathered more data. You can't collect any more data just by watching him."
 <es>
 
 @64
-<en>{Haruka}\n"......still!\nThat experiment was too risky."
+<en>{Haruka}\n"Well... Still! That experiment was too risky! What were you planning to do with everyone there?!"
 <es>
 
 @65
-<en>{Kazushi}\n"What experiment...\n.........!!"
+<en>{Kazushi}\n"What experiment?\n...AH!"
 <es>
 
 @68
-<en>She must be talking about the experiment when we all had to keep our eyes on the principal's fire.
+<en>She must be talking about the experiment where we all had to keep watch over the principal's fire. There was something weird about it...
 <es>
 
 @69
-<en>That experiment was sure weired.\nIn the end even Natume came out from the flask.
+<en>No, that experiment was full of weird things. In the end, Natsume-chan popped out of that flask.
 <es>
 
 @74
-<en>{Haruka}\n"I was actually so scared.\nWhat if Natume didn't show up?"
+<en>{Haruka}\n"I was terrified when I realized it after the fact! What if Natsume-chan hadn't shown up?"
 <es>
 
 @75
-<en>Why was she scared?\nShe sounds like Natsume showed up to save us.
+<en>Why had she been scared? She made it sound like Natsume-chan had showed up to save us...
 <es>
 
 @76
-<en>{Haruka}\n"You didn't expect her to come out, did you?"
+<en>{Haruka}\n"Natsume-chan's appearance was a miscalculation on your part, wasn't it, Grandma?"
 <es>
 
 @79
-<en>{Principal}\n"I sure didn't expect her to come out to interrupt me."
+<en>{Principal}\n"Yes. I certainly never expected her to interfere with it. I wonder what brought about such a change of heart."
 <es>
 
 @80
-<en>I thought Natsume came out accidently.\nwhat was happening on that day?
+<en>I thought Natsume-chan simply appeared. What did she do? What happened without us noticing?
 <es>
 
 @81
-<en>{Haruka}\n"What would have happened if Natsume didn't decide to show up?"
+<en>{Haruka}\n"What would have happened if Natsume-chan hadn't decided to show up?"
 <es>
 
 @84
@@ -157,31 +157,31 @@
 <es>
 
 @88
-<en>Haruka screamed in disblief.
+<en>Haruka screamed in disbelief.
 <es>
 
 @89
-<en>{Haruka}\n"Were you trying to kill us all......?"
+<en>{Haruka}\n"Then what about all of us?! Were you just going to watch us all die?!"
 <es>
 
 @90
-<en>Kill us?\nThis is a violent topic.
+<en>Watch us die? This is a surprisingly violent topic.
 <es>
 
 @91
-<en>{Principal}\n"You are overexaggerating.\nThat experiment was not a huge one."
+<en>{Principal}\n"You're over-exaggerating. That was not a large enough experiment to cause such an impact."
 <es>
 
 @92
-<en>{Principal}\n"It was only big enough for one person."
+<en>{Principal}\n"It was only an average sized large flask. Altering the spatiality for one person is all it could do."
 <es>
 
 @95
-<en>{Haruka}\n"If Natsume didn't show up, who was going to be sacrifised?"
+<en>{Haruka}\n"Even one person makes it a human experiment! Who would have been sacrificed if Natsume-chan hadn't stopped it?!"
 <es>
 
 @96
-<en>Sacrifice?\nWhat a hell are they talking about?
+<en>Sacrificed? What the hell are they talking about?
 <es>
 
 @99
@@ -189,15 +189,15 @@
 <es>
 
 @101
-<en>{Haruka}\n"When I saw the list for the experiment,\nI knew there is something wrong."
+<en>{Haruka}\n"I knew there was something wrong as soon as I saw the list of equipment. You wouldn't normally leave that in the care of students without at least being guided by their teacher, Mei-chan."
 <es>
 
 @105
-<en>{Haruka}\n"I was just physically there and couldn't help ......"
+<en>{Haruka}\n"Even I wasn't much help after slipping in there..."
 <es>
 
 @108
-<en>{Principal}\n"If you really want to help,\nremember this,\nyou always need to be a observer."
+<en>{Principal}\n"If you really want to help then remember this: you must never get taken in. You always need to remain a passive observer."
 <es>
 
 @111
@@ -205,11 +205,11 @@
 <es>
 
 @114
-<en>{Haruka}\n"How can you say that?\nIn your mind, is dead people more important than people who are alive?"
+<en>{Haruka}\n"How can you say that? Are dead people more important to you than those who are still alive, Grandma?"
 <es>
 
 @115
-<en>Haruka 's statement was a very strong one.
+<en>Haruka's statement was brutal.
 <es>
 
 @118
@@ -217,47 +217,47 @@
 <es>
 
 @119
-<en>The principal seems to have lost her confidence.\nShe can't speak back to Haruka.
+<en>The principal lost her calm composure and fell silent. It looked like Haruka's words hurt her more than I'd imagined.
 <es>
 
 @122
-<en>{Principal}\n"You can think about this whatever the way you want."
+<en>{Principal}\n"You can think whatever you want about this."
 <es>
 
 @125
-<en>Haruka looks at her with pitty.
+<en>Haruka looked at her with pity.
 <es>
 
 @126
-<en>{Haruka}\n"I don't think I can follow your way anymore."
+<en>{Haruka}\n"Then I don't think I can follow your path any longer."
 <es>
 
 @127
-<en>Haruka's quiet protest.
+<en>Haruka protested quietly. I could hear the sadness in her voice.
 <es>
 
 @128
-<en>The principal couldn't do anything but sighing.
+<en>The principal couldn't do anything but sigh. She looked like someone who had given up on everything.
 <es>
 
 @131
-<en>{Principal}\n"You don't understand,\nbecause you've never lost anyting important."
+<en>{Principal}\n"You don't understand how I feel because you've never lost anything important."
 <es>
 
 @134
-<en>{Haruka}\n"Fine. I don't want to know."
+<en>{Haruka}\n"Fine. And I don't want to know."
 <es>
 
 @135
-<en>I thought these two are understanding each other.
+<en>Their two opinions clashed directly with each other. And here I thought they got along great.
 <es>
 
 @136
-<en>{Haruka}\n"Would something like that happen again?"
+<en>{Haruka}\n"...Could something like that happen again?"
 <es>
 
 @139
-<en>{Principal}\n"As long as you don't show the improvement,\nit will happen again."
+<en>{Principal}\n"So long as you fail to produce results, then I will play my hand as I wish. Otherwise, what was the point in making this school co-ed?"
 <es>
 
 @142
@@ -269,31 +269,31 @@
 <es>
 
 @147
-<en>The tensed conversation was finally finished.
+<en>Their tense conversation was finally over.
 <es>
 
 @148
-<en>{Haruka}\n"Good bye."
+<en>{Haruka}\n"Excuse me."
 <es>
 
 @150
-<en>Opps,\nHaruka's coming out......
+<en>Oops. Haruka's leaving...
 <es>
 
 @152
-<en>[Door opens up]
+<en>*SLAM*
 <es>
 
 @153
-<en>it was too late......
+<en>The door opened before I could hide.
 <es>
 
 @156
-<en>{Haruka}\n"......!!"
+<en>{Haruka}\n"Ah!"
 <es>
 
 @157
-<en>We are right in front of each other.
+<en>We were right in front of each other.
 <es>
 
 @158
@@ -301,7 +301,7 @@
 <es>
 
 @159
-<en>It was a long one second.......
+<en>It was a very long and awkward moment.
 <es>
 
 @160
@@ -309,19 +309,19 @@
 <es>
 
 @161
-<en>The principal noticed something is wrong just outside the door.\nHaruka steps in front of me to hide me.
+<en>The principal noticed that something was wrong just outside her door. Haruka stepped in front of me so that I couldn't be seen.
 <es>
 
 @164
-<en>{Haruka}\n"It's nothing.\nGood bye."
+<en>{Haruka}\n"It's nothing. Excuse me."
 <es>
 
 @166
-<en>[Door closed]
+<en>*SLAM*
 <es>
 
 @167
-<en>Haruka closed the door.\nI can tell she's still tensed.
+<en>Haruka closed the door. I could see that she was still worked up.
 <es>
 
 @168
@@ -329,23 +329,23 @@
 <es>
 
 @171
-<en>{Haruka}\n"Quiet!"
+<en>{Haruka}\n"Shh!"
 <es>
 
 @172
-<en>She covers my mouth.
+<en>She covered my mouth.
 <es>
 
 @173
-<en>{Haruka}\n(She can still hear you)
+<en>{Haruka}\n(Be quiet. She can still hear you.)
 <es>
 
 @174
-<en>{Kazushi}\n"! ............"
+<en>{Kazushi}\n"Ah!"
 <es>
 
 @175
-<en>{Haruka}\n(Let's get out of here)
+<en>{Haruka}\n(Let's get out of here.)
 <es>
 
 @178
@@ -353,7 +353,7 @@
 <es>
 
 @181
-<en>{Haruka}\n".........it's O.K now."
+<en>{Haruka}\n".........it's OK now."
 <es>
 
 @182
@@ -365,11 +365,11 @@
 <es>
 
 @188
-<en>{Haruka}\n"What were you doing there?"
+<en>{Haruka}\n"That's my line. What were you doing there?"
 <es>
 
 @189
-<en>I forgot why I went to the school.
+<en>Her question finally reminded me why I'd went there in the first place.
 <es>
 
 @190
@@ -377,23 +377,23 @@
 <es>
 
 @192
-<en>I ended up not getting what I went for.
+<en>I ended up not getting what I came for.
 <es>
 
 @195
-<en>{Haruka}\n"You went back there to get something you forgot?\nSo you were there accidently?"
+<en>{Haruka}\n"You went back there to pick up something you forgot? So you were there by coincidence?"
 <es>
 
 @196
-<en>{Kazushi}\n"Ofcourse."
+<en>{Kazushi}\n"Of course it was only a coincidence. You sure ask weird questions."
 <es>
 
 @199
-<en>{Haruka}\n"I didn't do anything suspeciously, did I?"
+<en>{Haruka}\n"I didn't say anything suspicious, did I?"
 <es>
 
 @200
-<en>It's hard to understand what she's saying today.
+<en>It's hard to work out what she's talking about today.
 <es>
 
 @201
@@ -405,31 +405,31 @@
 <es>
 
 @205
-<en>{Haruka}\n"It's nothing important-"
+<en>{Haruka}\n"It's nothing important. And not something you should worry about."
 <es>
 
 @206
-<en>The fact she's trying to fool me makes me more worried.
+<en>The fact that she was trying to lie to me only made me more worried.
 <es>
 
 @207
-<en>{Kazushi}\n"It is?"
+<en>{Kazushi}\n"It isn't?"
 <es>
 
 @208
-<en>{Haruka}\n"Sure it is-"
+<en>{Haruka}\n"Nope. Uh-huh."
 <es>
 
 @209
-<en>I think she's fooling me.
+<en>I know she's lying to me. My name came up in their conversation too.
 <es>
 
 @212
-<en>{Haruka}\n"Does it have to be today to go get what you forgot?"
+<en>{Haruka}\n"Do you need to get what you forgot today, or can it wait?"
 <es>
 
 @213
-<en>{Kazushi}\n"No.\nI thought I just go get it as I remembered about it."
+<en>{Kazushi}\n"No, it can wait. I just thought I'd pick it up before I forgot about it."
 <es>
 
 @216
@@ -437,7 +437,7 @@
 <es>
 
 @217
-<en>She's definitely trying to change the subject.\nHowever, I don't mind going out with her......
+<en>She's definitely trying to change the subject. However, I don't mind going out with her......
 <es>
 
 @218
@@ -445,11 +445,11 @@
 <es>
 
 @221
-<en>{Haruka}\n"Yes, let's go!"
+<en>{Haruka}\n"Right, let's go!"
 <es>
 
 @222
-<en>{Kazushi}\n"Where should we go?\nOh hey, let me go get the boys first."
+<en>{Kazushi}\n"OK, where do you want to head off to? And hey, let me get the rest of the guys first."
 <es>
 
 @225
@@ -457,7 +457,7 @@
 <es>
 
 @226
-<en>She made me tap on the sudden brake.
+<en>I hit the brakes before I really got running.
 <es>
 
 @227
@@ -469,7 +469,7 @@
 <es>
 
 @231
-<en>{Kazushi}\n"What do you mean why?\nI thought we gonna go out and have fun."
+<en>{Kazushi}\n"What do you mean "why"? I thought we were all going to head into the village and have some fun."
 <es>
 
 @232
@@ -477,7 +477,7 @@
 <es>
 
 @233
-<en>Am I missing something here?\nHaruka seems to be sad.
+<en>AM I missing something here? Haruka looked at me with a troubled smile, and then lowered her long eyelashes.
 <es>
 
 @236
@@ -485,31 +485,31 @@
 <es>
 
 @237
-<en>She makes my heart stop.
+<en>She made my heart stop.
 <es>
 
 @238
-<en>{Kazushi}\n"Did you mean......we go out by just ourselves?"
+<en>{Kazushi}\n"Did you mean...you wanted to go out just by ourselves?"
 <es>
 
 @241
-<en>{Haruka}\n"Ofcourse I did."
+<en>{Haruka}\n"Of course I did."
 <es>
 
 @242
-<en>She said ofcourse!\nJust by two of us.
+<en>She said "Of course"! Just the two of us!
 <es>
 
 @243
-<en>All the sudden,\nI'm feeling a big pressure.
+<en>All of a sudden, I'm feeling pressure drop on me.
 <es>
 
 @246
-<en>{Haruka}\n"Don't tell me you are actually busy all the sudden."
+<en>{Haruka}\n"Don't tell me you're actually busy or doing your homework all of a sudden."
 <es>
 
 @247
-<en>Maybe my vague attitude is making her nervous.\nKazushi, be a man!!
+<en>She asked reluctantly.\nMaybe my relaxed attitude was making her nervous...\nBe a man, Kazushi!
 <es>
 
 @248
@@ -517,11 +517,11 @@
 <es>
 
 @251
-<en>{Haruka}\n"Are we still good to go?"
+<en>{Haruka}\n"Really? Then we're good to go?"
 <es>
 
 @252
-<en>{Kazushi}\n"Ofcourse we are!\nIs there some place you wanna go?"
+<en>{Kazushi}\n"Of course we are! Is there some place you wanna go?"
 <es>
 
 @253

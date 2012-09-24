@@ -1,123 +1,123 @@
 # Comments for '30103'
 
 @7
-<en>Next day. I just went to town.
+<en>The next day, I went into the village with no real destination in mind.
 <es>
 
 @8
-<en>{Kazushi}\n"I wonder if there is any part-time job available, although I may not be able to make much in a day."
+<en>{Kazushi}\n"I wonder if there are any part-time jobs available? Not like I'd make that much in one day anyways."
 <es>
 
 @9
-<en>{Grocery store worker}\n"Hey, what's up? You look so depressed!"
+<en>{Grocery Store Worker}\n"Hey, young man! What's wrong? You look like you're in poor shape."
 <es>
 
 @10
-<en>Grocery store worker says hello to me.
+<en>The man at the grocery store said hello to me.
 <es>
 
 @11
-<en>{Kazushi}\n"Do I look, really?"
+<en>{Kazushi}\n"Do I really look that way?"
 <es>
 
 @12
-<en>{Grocery store worker}\n"Yeah. If you look damn so dejected, all the good luck will run away from you."
+<en>{Grocery Store Worker}\n"Yeah. If you look so darn dejected, then Lady Luck'll run right away from you."
 <es>
 
 @13
-<en>{Kazushi}\n"Oh, shit! Really? Mammon too?"
+<en>{Kazushi}\n"Really? Even Lady Luck?"
 <es>
 
 @14
-<en>{Grocery store worker}\n"Of course. What's up? You want money?"
+<en>{Grocery Store Worker}\n"Yep, she'll tuck her tail and skedaddle. What's wrong, you got money troubles?"
 <es>
 
 @15
-<en>{Kazushi}\n"Yes."
+<en>{Kazushi}\n"Actually, kind of."
 <es>
 
 @16
-<en>{Grocery store worker}\n"Then you had better not look so down. It makes things worse!"
+<en>{Grocery Store Worker}\n"Then all the worse! You've gotta put on a prosperous face or your business'll go south."
 <es>
 
 @17
-<en>{Kazushi}\n"No, shit! Really?"
+<en>{Kazushi}\n"Really? I see."
 <es>
 
 @18
-<en>He is right. I try not to look down.
+<en>He's right. Nothing good'll come from looking misfortunate. I have to at least act prosperous.
 <es>
 
 @19
-<en>{Kazushi}\n"Okay! Hey, give me some money, will you?"
+<en>{Kazushi}\n"Alright! Pops, money! Give me some money!"
 <es>
 
 @20
-<en>{Grocery store worker}\n"What? Are you a burglar or something? Hey, bring me a gun!!"
+<en>{Grocery Store Worker}\n"What? Now you're robbing me? Hey, Dear! Bring out my cleaver!!"
 <es>
 
 @21
-<en>{Kazushi}\n"No! Just kidding. Please don't kill me!"
+<en>{Kazushi}\n"No, I'm joking, just kidding! Don't kill me!"
 <es>
 
 @22
-<en>Someone comes out with a big knife in her hand.
+<en>An old lady came out from around back with a huge cleaver in her hands scaring me.
 <es>
 
 @23
-<en>{Grocery store worker}\n"Hahaha. I know I was kidding myself. How much do you want?"
+<en>{Grocery Store Worker}\n"Ahaha, I'm just messing with you! So, how much do you need?"
 <es>
 
 @24
-<en>{Kazushi}\n"Well...100.000 yen."
+<en>{Kazushi}\n"Well...100,000 yen."
 <es>
 
 @25
-<en>{Grocery store worker}\n"That's a lot of money. Are you in debt or something?"
+<en>{Grocery Store Worker}\n"That's a lot of money. Bill collectors on your tail or something?"
 <es>
 
 @26
-<en>{Kazushi}\n"Not really. I just need that money. Do you know any job I can work? Any kind of work will do. Even a little tough one I don't mind..."
+<en>{Kazushi}\n"Not really, I just need the money. Do you know of any jobs I can do? Any kind of work would be fine, even if it's a little harsh."
 <es>
 
 @27
-<en>{Grocery store worker}\n"Well...we all got enough people working around here. Even during the summer, we don't get to see many tourists coming to this island."
+<en>{Grocery Store Worker}\n"Well...we all got enough people working around here. Even during the summer, we don't get too many tourists coming to this island."
 <es>
 
 @28
-<en>{Kazushi}\n"Yeah, I know..."
+<en>{Kazushi}\n"Right..."
 <es>
 
 @29
-<en>How come we don't have visitors like a bunch of girls to this place? This town is damn so quiet.
+<en>If only college girls would come visit this island, then it'd be a bit more active. It was so quiet, even during summer break.
 <es>
 
 @30
-<en>{Kazushi}\n"Well, I will check to see if there is any job opportunity at the harbor. People say if you want money, go fishing. You know?"
+<en>{Kazushi}\n"Well, I guess I'll check down at the harbor. They say to hop on a boat if you can't repay your debts. Fishing's the best way to make money."
 <es>
 
 @31
-<en>{Grocery store worker}\n"No. Never heard of it, but I don' think there is much work to do there either, especially during low tide."
+<en>{Grocery Store Worker}\n"Nope. Never heard that before in my life, but I don't think there'll be much work to find down there either, especially during low tide."
 <es>
 
 @32
-<en>{Kazushi}\n"I will see... Thanks anyway."
+<en>{Kazushi}\n"I see. Thanks anyways!"
 <es>
 
 @33
-<en>{Grocery store worker}\n"Hey, take this watermelon."
+<en>{Grocery Store Worker}\n"Hey, take this watermelon."
 <es>
 
 @34
-<en>With the big knife, he cut the watermelon in half. Its pleasant smell gets around.
+<en>Using the cleaver, he cut the watermelon in half. Its pleasant smell filled the air.
 <es>
 
 @35
-<en>{Grocery store worker}\n"This watermelon tastes very good. It's big and sweet."
+<en>{Grocery Store Worker}\n"The watermelons on this island taste amazing. They're big and sweet."
 <es>
 
 @36
-<en>Yes, it does look very sweet. I gobble up the fruit.
+<en>Yeah, it did look juicy and delicious. I bit into before it started attracting any bugs.
 <es>
 
 @37
@@ -125,51 +125,51 @@
 <es>
 
 @38
-<en>{Grocery store worker}\n"Yeah. Alchemy is just amazing."
+<en>{Grocery Store Worker}\n"Yup. Alchemy's some amazing stuff."
 <es>
 
 @39
-<en>If you can really turn lead into gold with alchemy, it should be damn easy to make 100.000 yen.
+<en>If you really can turn lead into gold with alchemy, then it should be pretty easy to make 100,000 yen.
 <es>
 
 @40
-<en>{Kazushi}\n"But I guess I just have to work one thing at a time."
+<en>{Kazushi}\n"I guess I just have to focus on one thing at a time. Thanks, pops!"
 <es>
 
 @41
-<en>{Grocery store worker}\n"Good luck!"
+<en>{Grocery Store Worker}\n"Good luck!"
 <es>
 
 @44
-<en>The harbor is quiet. No one is around.
+<en>The harbor was like a ghost town. No one was around.
 <es>
 
 @45
-<en>{Kazushi}\n"Not chance, huh?"
+<en>{Kazushi}\n"Not a chance, huh?"
 <es>
 
 @46
-<en>I looked down from the headland, which is dizzily high.
+<en>I looked down from edge of the cliff, which was dizzily high.
 <es>
 
 @47
-<en>{Kazushi}\n"It looks pretty scary. You would be dead instantly if you fell from here..."
+<en>{Kazushi}\n"Looks pretty scary. You'd die instantly if you fell from here..."
 <es>
 
 @51
-<en>{Mei}\n"Wah!!"
+<en>{Mei}\n"Boo!!"
 <es>
 
 @52
-<en>{Kazushi}\n"Wow!!?"
+<en>{Kazushi}\n"Hhh!!?"
 <es>
 
 @54
-<en>I jumped up in surprise, and almost made a false step.
+<en>I jumped up in surprise and suddenly found there was no ground beneath my feet.
 <es>
 
 @55
-<en>{Kazushi}\n"Wah...Wah...Uh!!"
+<en>{Kazushi}\n"Wah! Wah! Waaah!!"
 <es>
 
 @58
@@ -177,11 +177,11 @@
 <es>
 
 @61
-<en>Ms. Ibuki catches my body and pulls me up to the ground. I now landed okay.
+<en>Mei-sensei caught my body and pulled me back up off the ledge. I made it back to solid ground.
 <es>
 
 @62
-<en>{Kazushi}\n"Whew, I thought I'd die! Don't startle me, Ms. Ibuki!"
+<en>{Kazushi}\n"I-I thought was going to die... Please don't surprise me like that in a place like this..."
 <es>
 
 @66
@@ -189,43 +189,43 @@
 <es>
 
 @67
-<en>{Kazushi}\n"Don't be. Not here, please."
+<en>{Kazushi}\n"Please pick a better time and place!"
 <es>
 
 @68
-<en>{Mei}\n"You are right. It's just so that you know it's 500 meters high from here. And if you fall, you are not gonna make it."
+<en>{Mei}\n"Right, I'm really sorry. By the way, we're 500m above sea level, so if you did fall, you'd be a goner for sure."
 <es>
 
 @69
-<en>{Kazushi}\n"You didn't think I would not know that?"
+<en>{Kazushi}\n"If you were aware of that, then be careful! Hahh..."
 <es>
 
 @70
-<en>I am still trembling.
+<en>I was trembling.
 <es>
 
 @73
-<en>{Mei}\n"Part of it is your fault. Because you were standing alone at the place like here. It'd make anyone want to push you over, you know?"
+<en>{Mei}\n"But you're partly to blame for standing there like that, Haruma-kun. Anyone would want to give you a shove."
 <es>
 
 @74
-<en>{Kazushi}\n"You are out of your mind, Ms. Ibuki."
+<en>{Kazushi}\n"Stop thinking such dangerous thoughts!"
 <es>
 
 @77
-<en>{Mei}\n"Don't be so upset, please. I won't do that again."
+<en>{Mei}\n"Please don't be so upset. I'm not going to do it again."
 <es>
 
 @78
-<en>Ms. Ibuki purrs like a cat. Is this a women's technique to dodge the topic?
+<en>Mei-sensei purred like a cat. Is this a women's technique to dodge the topic?
 <es>
 
 @79
-<en>{Kazushi}\n"Never mind..."
+<en>{Kazushi}\n"Fine then."
 <es>
 
 @80
-<en>Actually, this technique is working.
+<en>Actually, her technique was working...
 <es>
 
 @83
@@ -237,7 +237,7 @@
 <es>
 
 @85
-<en>Should I tell her the truth? Can I rely on my teacher?
+<en>Mei-sensei might lend it to me if I told her, but I couldn't rely on her like that.
 <es>
 
 @86
@@ -245,15 +245,15 @@
 <es>
 
 @87
-<en>{Kazushi}\n"Is it really true that alchemy can turn lead into gold?"
+<en>{Kazushi}\n"Umm... Is it really true that alchemy can turn lead into gold?"
 <es>
 
 @88
-<en>I asked her something different - well, not totally different. This is more of a class room question.
+<en>After hesitating, I asked something else. It wasn't entirely off topic, and it wasn't much different from a question I'd ask in class so she'd likely answer.
 <es>
 
 @91
-<en>{Mei}\n"Oh, it's good to know you ask something about alchemy. You must be getting interested in it."
+<en>{Mei}\n"Oh, it's good to hear you finally asking something about alchemy. You must be getting interested in it."
 <es>
 
 @92
@@ -261,27 +261,27 @@
 <es>
 
 @93
-<en>With inappropriate motivation...maybe?
+<en>My motives seemed a bit impure...
 <es>
 
 @96
-<en>{Mei}\n"Turning lead into gold is the ultimate purpose of alchemy. But that is nearly impossible to achieve."
+<en>{Mei}\n"But yes... Turning lead into gold is one of the ultimate goals of alchemy, so realistically doing so is difficult."
 <es>
 
 @97
-<en>{Mei}\n"And if that is your purpose to study alchemy, I would say you are wasting your time."
+<en>{Mei}\n"And if that's your reason for studying alchemy, I'd recommend quitting while you're ahead."
 <es>
 
 @98
-<en>{Kazushi}\n"Ms, Ibuki, it sounds a bit strange to me. Because It's alchemy, after all. Why is it that an idea of making money should not be a motivation?"
+<en>{Kazushi}\n"That seems wrong? Alchemy was founded to profit humanity, so why can't you use it for money?"
 <es>
 
 @99
-<en>It sounds odd because originally alchemy is about changing lead into gold. So why did she say we should not have that kind of motivation?
+<en>Why should you give up on alchemy if money's your goal when it's supposed to create gold? That's a bit crazy.
 <es>
 
 @100
-<en>{Mei}\n"It's because the true purpose of alchemy is a lot greater than that."
+<en>{Mei}\n"It's because the true purpose of alchemy is much greater than that."
 <es>
 
 @101
@@ -289,15 +289,15 @@
 <es>
 
 @102
-<en>Haruka said the same thing. Is there any greater purpose than making gold?
+<en>I think Haruka said the same thing once. Is alchemy valuable for something other than making gold?
 <es>
 
 @103
-<en>{Mei}\n"Of course, there is the gold-producing technique passed on over generations. In fact, I heard our school was built because of huge treasure made by alchemy."
+<en>{Mei}\n"Of course, there is a technique for producing gold that's been passed down. It's rumored that Eiden Academy was built using treasure earned through such techniques."
 <es>
 
 @104
-<en>{Kazushi}\n"The school? By alchemy?"
+<en>{Kazushi}\n"Our Academy? Through alchemy?"
 <es>
 
 @105
@@ -305,7 +305,7 @@
 <es>
 
 @106
-<en>{Kazushi}\n"They should have made a better male dorm, then."
+<en>{Kazushi}\n"They should have built a better dorm for the boys, then."
 <es>
 
 @109
@@ -313,55 +313,55 @@
 <es>
 
 @110
-<en>The male dorm put aside...
+<en>The boys' dorm put aside...
 <es>
 
 @111
-<en>The school looks old, but does have so many luxurious decorations everywhere. They must have spent a lot of money to build that school.
+<en>Our school was quite aged, but judging from the decorum, a lot of gold went into building it. To me, it held the extravagant taste of nouveau riche.
 <es>
 
 @112
-<en>And all the money was made by alchemy? How much was all together?
+<en>That was made with money earned through alchemy? How damn much gold did they create?
 <es>
 
 @115
-<en>{Mei}\n"What are you thinking? Again, that is only hearsay. So don't get into this, okay?"
+<en>{Mei}\n"What are you thinking about? Again, it's only hearsay, so don't get too attached to the idea, okay?"
 <es>
 
 @116
-<en>It seems I looked so serious. Ms. Ibuki made sure I would not get hooked on that rumor.
+<en>Guess I looked too serious. Mei-sensei advised me out of genuine concern.
 <es>
 
 @117
-<en>{Kazushi}\n"I understand. If this is true, however, it's fascinating, don't you think?"
+<en>{Kazushi}\n"I understand. It would be fascinating if it was true, though, don't you think?"
 <es>
 
 @120
-<en>{Mei}\n"But alchemy works only based on the principle of equivalency exchanges. In other words, you will end up paying for the high price, you know?"
+<en>{Mei}\n"It is, but remember, alchemy works based on the principle of equivalent exchange. In other words, you'll have to pay an equivalent price in order to get it."
 <es>
 
 @121
-<en>{Kazushi}\n"High price..."
+<en>{Kazushi}\n"A price... huh."
 <es>
 
 @122
-<en>I'm not quite sure of what the principle of equivalency exchanges means, but it sounds more like "there is no free lunch".
+<en>I'm not quite sure what "principle of equivalent exchange" means, but I took it to be similar to "there's no such thing as a free lunch"."
 <es>
 
 @123
-<en>Making money without any hard work...It's just too good to be true.
+<en>It's true. More often than not, easy money is too good to be true.
 <es>
 
 @124
-<en>{Kazushi}\n"Well, alchemy is not gonna work for me then."
+<en>{Kazushi}\n"Well, alchemy's not gonna work for me here, then."
 <es>
 
 @125
-<en>All I can do is this...
+<en>All I could do was this...
 <es>
 
 @126
-<en>{Kazushi}\n"Ms. Ibuki, please forgive me for once."
+<en>{Kazushi}\n"Mei-sensei, please forgive me for once."
 <es>
 
 @129
@@ -369,19 +369,19 @@
 <es>
 
 @137
-<en>{Ran}\n"Did you see Kazushi? I don't see him."
+<en>{Ran}\n"Hey, hey. Have you seen Kazushi? I haven't seen him all day."
 <es>
 
 @143
-<en>{Pierre}\n"No. We are also looking for him everywhere."
+<en>{Pierre}\n"Nope. We've been looking for him everywhere..."
 <es>
 
 @148
-<en>{Appo-}\n"Maybe, he is sleeping somewhere. He can sleep anyplace, which is one of his skills."
+<en>{Appo}\n"Maybe he's sleeping somewhere. One of his skills IS the ability to pass out wherever he feels like."
 <es>
 
 @153
-<en>{Daigo}\n"But he always wakes up right before the meal. Isn't it too late?"
+<en>{Daigo}\n"But he always wakes up before mealtimes. Isn't it too late for that?"
 <es>
 
 @157
@@ -389,19 +389,19 @@
 <es>
 
 @161
-<en>{Ran}\n"No, shit! He ran away?"
+<en>{Ran}\n"Don't tell me he ran out on me?!"
 <es>
 
 @162
-<en>{Daigo}\n"Hmm? Ran way? What do you mean?"
+<en>{Daigo}\n"Hmm? Ran out on you? What?"
 <es>
 
 @165
-<en>{Ran}\n"Nothing..."
+<en>{Ran}\n"Oh, no, nothing."
 <es>
 
 @168
-<en>{Daigo}\n"He is not running away."
+<en>{Daigo}\n"I don't get what's going on, but Kazushi wouldn't run."
 <es>
 
 @171
@@ -409,11 +409,11 @@
 <es>
 
 @174
-<en>{Daigo}\n"He is not gonna just run away."
+<en>{Daigo}\n"Kazushi wouldn't run. So I'm pretty sure you're just worrying over nothing, Kamoike."
 <es>
 
 @175
-<en>{Ran}\n"How do you know?"
+<en>{Ran}\n"Really? How do you know?"
 <es>
 
 @179
@@ -421,7 +421,7 @@
 <es>
 
 @185
-<en>{Appo-}\n"Just leave him also. He is fine. By the way, Fusen wanted to talk to you, Ran."
+<en>{Appo}\n"Just leave him alone, he's fine. By the way, Fuu-chan wants to talk to you, Ran-chan."
 <es>
 
 @188
@@ -429,91 +429,91 @@
 <es>
 
 @193
-<en>{Hu-sen}\n"Ran, are you hiding something from us?"
+<en>{Fuusen}\n"Ran, are you hiding something from us?"
 <es>
 
 @194
-<en>Ran looks puzzled by the sudden question. Kazuko is a friend, but not very close to me. So why...?
+<en>Ran looked puzzled by the sudden question. For one thing, it was Fuusen Kazuko asking her. They spoke casually of late, but there were never close friends.
 <es>
 
 @197
-<en>{Ran}\n"Hiding from you? There are many things I don't tell you just because you and I are not that close to begin with. You know?"
+<en>{Ran}\n"Hiding something from you? I know there's plenty of things I don't tell you, but we were never a pair who told each other everything either."
 <es>
 
 @200
-<en>{Hu-sen}\n"You and me...maybe so. How about you and Haruka and Mizuki? Do you tell them everything?"
+<en>{Fuusen}\n"You and me...maybe so. But what about... Haruka-chan or Mizuki-chan? Would you tell them something important?"
 <es>
 
 @201
-<en>I have no idea what Kazuko is talking about. What is this all about? What does she want from me?
+<en>She had less and less of a clue what Kazuko was saying. What was she talking about? What did she want out of Ran?
 <es>
 
 @202
-<en>{Ran}\n"What is this? Don't beat around the bush, Kazuko. Get to the point."
+<en>{Ran}\n"What is this? Don't beat around the bush; just get to the point."
 <es>
 
 @203
-<en>I'm now worried about Kazushi. I hope he is not involved in any accident.
+<en>Her mind was on Kazushi right now. If he was sleeping then fine, but what if he got in an accident or something?
 <es>
 
 @204
-<en>One the first day of his arrival, he fell from the suspension bridge.
+<en>On the day he first arrived, he fell from the suspension bridge...
 <es>
 
 @205
-<en>{Hu-sen}\n"If you don't want to tell me, that is okay. But I want you to take this."
+<en>{Fuusen}\n"If you don't want to tell us, I won't force you. But in exchange, shut up and take this."
 <es>
 
 @206
-<en>Kazuko gave me a brown envelop. It smells something I love. I have a pretty sharp nose.
+<en>Kazuko handed Ran a brown envelope and her nose began to twitch. It had an all-too familiar smell inside.
 <es>
 
 @209
-<en>{Ran}\n"Why are you doing this?"
+<en>{Ran}\n"What? Why? You're giving this to me?"
 <es>
 
 @210
-<en>I already saw inside the envelope. It's money inside.
+<en>She was already opening the envelope as she asked. No, she was already looking inside. It was a wad of bills like she thought.
 <es>
 
 @211
-<en>Quite a lot...
+<en>Nearly all 1,000 yen bills, and a few 10,000 yen ones too.
 <es>
 
 @214
-<en>{Ran}\n"102.800 yen?"
+<en>{Ran}\n"102,800 yen...right?"
 <es>
 
 @217
-<en>{Hu-sen}\n"Bingo! Wow! How did you figure out the exact amount so fast? Who are you?"
+<en>{Fuusen}\n"Bingo! Wow, how'd you figure out the exact amount from just a glance? What are you?"
 <es>
 
 @220
-<en>{Ran}\n"Are you giving me this, Kazuko? And why?"
+<en>{Ran}\n"So, why are you giving this to me, Kazuko? ...Huh?"
 <es>
 
 @221
-<en>Then I realized there were other students standing behind Kazuko. There are ten of then.
+<en>Then she realized a bunch of girls were gathered behind Kazuko. There were about ten of them.
 <es>
 
 @224
-<en>{Hu-sen}\n"Hey, guys scoot!"
+<en>{Fuusen}\n"Hey, Ah-chan, guys, can you give us a bit?"
 <es>
 
 @229
-<en>{Appo-}\n"Hey, guys. Let's get out of the cafeteria!"
+<en>{Appo}\n"Sure, got it. Hey! Get out of the cafeteria, men!"
 <es>
 
 @233
-<en>Appo took all the guys out of the room, leaving the girls alone.
+<en>Appo took off with the guys, leaving the girls alone.
 <es>
 
 @234
-<en>As a few girls surround Ran, she feels a bit intimidated,
+<en>As a few of the girls surrounded Ran, she felt a bit intimidated.
 <es>
 
 @237
-<en>{Ran}\n"What's going on?"
+<en>{Ran}\n"What? What's with everyone?"
 <es>
 
 @245
@@ -529,39 +529,39 @@
 <es>
 
 @260
-<en>{Rin}\n"We know Kazushi has been trying to raise money for you."
+<en>{Rin}\n"We know Haruma-kun has been trying to raise money for you."
 <es>
 
 @266
-<en>{Ran}\n"Uh....Oh...100.000 yen..."
+<en>{Ran}\n"Huh... Oh... 100,000 yen..."
 <es>
 
 @267
-<en>There is 100.000 yen inside the envelope. I now remember asking Kazushi to lend her the amount of money.
+<en>There was just over 100,000 yen inside the envelope. Ran finally remembered asking Kazushi to lend her that much money.
 <es>
 
 @268
-<en>{Ran}\n"Why did you guys give me this, then?"
+<en>{Ran}\n"What? Why did you guys bring it to me?"
 <es>
 
 @269
-<en>Why do they do this? Anything has to do with Kazushi's disappearance?
+<en>Why did they do this? Did it have anything to do with Kazushi's disappearance?
 <es>
 
 @270
-<en>{Ran}\n"Where is Kazushi?"
+<en>{Ran}\n"Where's Kazushi?"
 <es>
 
 @275
-<en>{Hu-sen}\n"What? Kazushi is gone somewhere?"
+<en>{Fuusen}\n"What? Has Haruma-kun disappeared?"
 <es>
 
 @276
-<en>It seems Kazuko doesn't know his whereabouts either. And neither do other girls. Where in the world is Kazushi?
+<en>It seems Kazuko doesn't know his whereabouts either, and neither did any of the other girls. Where in the world is Haruma Kazushi?
 <es>
 
 @280
-<en>{Rei}\n"What? You can't find Kazushi? Did he run away?"
+<en>{Andou}\n"Haruma-kun's missing? Don't tell me he ran out on you?"
 <es>
 
 @284
@@ -569,19 +569,19 @@
 <es>
 
 @288
-<en>{Haruka}\n"That's right. Kazushi will take responsibility for it."
+<en>{Haruka}\n"That's right. Kazushi-kun will take responsibility for it."
 <es>
 
 @292
-<en>{Ran}\n"What is it? Responsibility? What is this money for?"
+<en>{Ran}\n"Umm, responsibility for what? What is this money for?"
 <es>
 
 @293
-<en>There is something going on behind my back. Ran is beginning to feel anxious.
+<en>"There's something going on behind my back..."\nRan was beginning to feel nervous.
 <es>
 
 @297
-<en>{Hu-sen}\n"Everyone donated some. It's 100.000 yen and a bit more. Is that enough?"
+<en>{Fuusen}\n"Everyone donated some. It's 100,000 yen and a bit more. Is that enough?"
 <es>
 
 @298
@@ -589,15 +589,15 @@
 <es>
 
 @299
-<en>I have no clues of what's happening. Why did they give this much money I initially asked Kazushi?
+<en>Ran had no clue what was going on. Why were the girls suddenly raising the money she'd asked to borrow from Kazushi?
 <es>
 
 @300
-<en>Beside, this is a very heavy atmosphere.
+<en>This was making for a very oppressive atmosphere.
 <es>
 
 @304
-<en>{Sakura}\n"So, did you find a good doctor? I don't suggest you use the clinic in the island?"
+<en>{Sakura}\n"So? Did you find a good doctor? I don't suggest using the clinic here on the island."
 <es>
 
 @307
@@ -605,103 +605,103 @@
 <es>
 
 @311
-<en>{Rin}\n"If you need a boat, I can ask my friend to get you a boat. And don't worry he won't tell anyone."
+<en>{Rin}\n"I can ask a friend of mine to arrange a boat for you if you need one. And don't worry, he won't tell anyone."
 <es>
 
 @312
-<en>{Ran}\n"Who needs a doctor? I'm fine..."
+<en>{Ran}\n"Who needs a doctor? I don't?"
 <es>
 
 @316
-<en>{Hu-sen}\n"You don't need to hide. We all know it."
+<en>{Fuusen}\n"You don't need to hide it. We all know."
 <es>
 
 @319
-<en>{Ran}\n"Maybe, you do. But I have no idea what you guys are talking about."
+<en>{Ran}\n"Maybe you do, but I've got no idea what you guys are talking about!"
 <es>
 
 @320
-<en>Ran and the other girls stare at each other.
+<en>Ran and the other girls stared at each other in silence.
 <es>
 
 @325
-<en>{Sakura}\n"Hey, it sounds very strange...doesn't it?"
+<en>{Sakura}\n"Hey, this sounds strange...doesn't it?"
 <es>
 
 @330
-<en>{Rin}\n"Yes...She doesn't seem to be telling a lie."
+<en>{Rin}\n"Yes... she doesn't seem to be lying, either."
 <es>
 
 @337
-<en>{Mizuki}\n"Maybe, Ran is not really pregnant."
+<en>{Mizuki}\n"Maybe Ran's not really pregnant..."
 <es>
 
 @338
-<en>What? Ran is astonished by what she just heard. And they are not kidding.
+<en>Ran was astonished by what she just heard - and they weren't kidding.
 <es>
 
 @346
-<en>{Ran}\n"What? Pregnant? Me? Pregnant? With whose baby?"
+<en>{Ran}\n"What? Pregnant? Who the hell's baby am I supposed to be pregnant with?!"
 <es>
 
 @351
-<en>{Hu-sen}\n"You are not pregnant with Kazushi's? Kazushi knocked you up...didn't he?"
+<en>{Fuusen}\n"Well... Haruma-kun's, right? Haruma-kun got you knocked up, and..."
 <es>
 
 @354
-<en>{Ran}\n"Why do I have to get pregnant with Kazushi's baby? Where did you get that kind of crazy idea?"
+<en>{Ran}\n"W-why would I be pregnant with Kazushi's baby? Where'd you get that kind of crazy idea from?"
 <es>
 
 @355
-<en>Ran becomes flushed. What is going on?
+<en>Ran was beet red. How in the world did she end up pregnant with Kazushi's kid?
 <es>
 
 @359
-<en>{Mizuki}\n"I told you! I knew this whole thing was so fishy."
+<en>{Mizuki}\n"See? I told you! I knew this whole thing sounded fishy."
 <es>
 
 @362
-<en>{Hu-sen}\n".................."
+<en>{Fuusen}\n".................."
 <es>
 
 @366
-<en>{Rin}\n"What am I gonna do? I already made special red beans rice for Ran's baby shower..."
+<en>{Rin}\n"What am I going to do? I already made my special red bean rice for dinner tonight..."
 <es>
 
 @371
-<en>{Ran}\n"Red beans rice? For my baby shower...?"
+<en>{Ran}\n"Red bean rice? Rin, listen..."
 <es>
 
 @372
-<en>Ran becomes even more flushed, which is pretty unusual.
+<en>Ran became even more flushed. It was rare to see her face that red.
 <es>
 
 @376
-<en>{Sakura}\n"Well, we just can eat the rice for dinner. No big deal."
+<en>{Sakura}\n"Well, we just can eat the rice for dinner. It wasn't a celebration anyways."
 <es>
 
 @381
-<en>{Rin}\n"That's right. Please enjoy my cook."
+<en>{Rin}\n"Oh, you're right... Even if she were pregnant, at the hospital the baby would be... right..."
 <es>
 
 @385
-<en>{Hu-sen}\n"So now we don't have to worry about the hospital or things like that, huh?"
+<en>{Fuusen}\n"Looks like that was false too. Well, in the end it's all good."
 <es>
 
 @389
-<en>{Mizuki}\n"Kazuko, you are the one who started out saying this!"
+<en>{Mizuki}\n"It's not good! Kazuko, you're the one who said it in the first place!"
 <es>
 
 @392
-<en>{Hu-sen}\n"Well, because suddenly Kazushi was trying hard to raise that kind of money...what else would you think?"
+<en>{Fuusen}\n"Well, it's because Kazushi was trying like crazy to raise that kind of money out of nowhere... What else would you think?"
 <es>
 
 @393
-<en>Everyone sighs with relief. They thought Ran became pregnant and Kazushi tried to collect the money for it.
+<en>Everyone sighed with relief. They thought Ran had become pregnant and Kazushi was trying to raise the money for an abortion.
 <es>
 
 @398
-<en>{Ran}\n"How did you get the idea? You all just jumped the gun."
+<en>{Ran}\n"How'd you come up with that idea? You all just jumped the gun."
 <es>
 
 @403
@@ -709,11 +709,11 @@
 <es>
 
 @407
-<en>{Hu-sen}\n"Because you and Kazushi have been so close to each other lately."
+<en>{Fuusen}\n"Because you and Haruma-kun have been so close to each other lately."
 <es>
 
 @410
-<en>{Ran}\n"Kazushi and me...?"
+<en>{Ran}\n"Me and Kazushi? ...Is that how we looked?"
 <es>
 
 @414
@@ -721,31 +721,31 @@
 <es>
 
 @418
-<en>{Rin}\n"You hang out with us more often nowadays. So we thought maybe because you love someone."
+<en>{Rin}\n"You started hanging out with us recently too, so we all figured that if you were in love that explained everything."
 <es>
 
 @422
-<en>{Ran}\n"Love someone?"
+<en>{Ran}\n"In love with someone?"
 <es>
 
 @423
-<en>I, again, become flushed while everyone is chuckling at me.
+<en>She became flushed again while everyone chuckled at her.
 <es>
 
 @426
-<en>{Ran}\n"Kazushi is a nice guy and like him, but..."
+<en>{Ran}\n"Kazushi's a nice guy, and I like him, but..."
 <es>
 
 @427
-<en>But love is not the word I use to describe my relationship with him.
+<en>But love didn't quite sound right. There wasn't any special relationship between them.
 <es>
 
 @428
-<en>{Ran}\n"Where is Kazushi, anyway?"
+<en>{Ran}\n"But Kazushi's gone now."
 <es>
 
 @429
-<en>The guys say he doesn't run away.
+<en>The guys said he wouldn't run away, but she had no clue.
 <es>
 
 @433
@@ -753,7 +753,7 @@
 <es>
 
 @437
-<en>{Haruka}\n"The food will soon be gone."
+<en>{Haruka}\n"All the food from lunch will be gone soon."
 <es>
 
 @442
@@ -761,7 +761,7 @@
 <es>
 
 @443
-<en>With a concerned look, Mei approaches the girls huddling together.
+<en>Mei-sensei approached the girls huddling together with a concerned look.
 <es>
 
 @444
@@ -769,7 +769,7 @@
 <es>
 
 @449
-<en>{Hu-sen}\n"No. Nothing is wrong. She is not pregnant."
+<en>{Fuusen}\n"No, there's nothing wrong. She's not pregnant."
 <es>
 
 @452
@@ -777,35 +777,35 @@
 <es>
 
 @453
-<en>Mei becomes really worried.
+<en>Mei-sensei became really worried.
 <es>
 
 @457
-<en>{Mizuki}\n"Ms. Ibuki, have you seen Kazushi?"
+<en>{Mizuki}\n"Sensei, we haven't seen Haruma-kun around. Have you heard anything?"
 <es>
 
 @460
-<en>{Mei}\n"Oh, Kazushi."
+<en>{Mei}\n"Oh, Haruma-kun."
 <es>
 
 @461
-<en>Everyone felt she knew something about him.
+<en>Everyone felt she knew something about him from her tone.
 <es>
 
 @465
-<en>{Hu-sen}\n"So you have seen him? Do you know where he is now?"
+<en>{Fuusen}\n"Where is Haruma-kun?"
 <es>
 
 @468
-<en>{Mei}\n"I didn't agree...but he insisted, you know?"
+<en>{Mei}\n"Umm, I told him no, you know? But Haruma-kun seemed to have his own reasons and insisted, so..."
 <es>
 
 @472
-<en>{Ran}\n"What? Where is Kazushi now, Ms. Ibuki?"
+<en>{Ran}\n"Umm, I don't get it at all? Where is Kazushi?"
 <es>
 
 @475
-<en>{Mei}\n"Uh...he left the island and went home."
+<en>{Mei}\n"Umm... He went home."
 <es>
 
 @478
@@ -813,23 +813,23 @@
 <es>
 
 @486
-<en>It is raining at night.
+<en>It was raining tonight.
 <es>
 
 @489
-<en>{Ran}\n"Wow, it's pouring down rain."
+<en>{Ran}\n"Wow, it's really pouring down."
 <es>
 
 @490
-<en>The rain woke Ran up. She went outside alone and saw the sea heaving up.
+<en>The rain woke Ran up and she went outside alone. Far below, she could see the sea churning beneath her.
 <es>
 
 @491
-<en>{Ran}\n"Water is sweeping across the ocean."
+<en>{Ran}\n"The ocean's going wild."
 <es>
 
 @492
-<en>The sea is too rough for the boat to return. I don't think Kazushi will be coming back tonight.
+<en>You couldn't come back by boat in this. Kazushi probably wouldn't be back tonight.
 <es>
 
 @495
@@ -837,7 +837,7 @@
 <es>
 
 @496
-<en>Watching the turbulent waves, Ran feels worried. I never thought Kazushi would leave the island. I should not have said such a thing...
+<en>Ran felt worried as she watched the turbulent waves.\n"I never thought Kazushi would leave the island. I shouldn't have said such a thing..."
 <es>
 
 @497
@@ -845,15 +845,15 @@
 <es>
 
 @498
-<en>It was the first winter break in my freshman year that I went home. I felt so comfortable at home that I didn't want to return the island.
+<en>She went home during her first New Year's break as a freshman. She felt so comfortable there that she didn't want to return to the island.
 <es>
 
 @499
-<en>{Ran}\n"Kazushi may not be returning..."
+<en>{Ran}\n"Kazushi might not be returning..."
 <es>
 
 @500
-<en>Why am I thinking so negatively?
+<en>"Why do I keep thinking so negatively? Was I always this pessimistic?" she thought.
 <es>
 
 @503
@@ -861,39 +861,39 @@
 <es>
 
 @504
-<en>I feel like this is not me. I have never had this feeling before.
+<en>She didn't feel like herself, and she couldn't calm down. It was the first time she had ever felt so restless.
 <es>
 
 @505
-<en>It's just a person who has always been around is not here any more. That's it.
+<en>It's just a guy who's been around for a while and isn't here anymore. That's it.
 <es>
 
 @508
-<en>{Ran}\n"Gee...what that hell am I thinking and doing here?"
+<en>{Ran}\n"Geez...what that hell am I thinking and doing here?"
 <es>
 
 @509
-<en>I am getting wet. But I don't know why I cannot move.
+<en>She knew standing here and getting soaked wouldn't help anything, but she couldn't move.
 <es>
 
 @510
-<en>{Appo-}\n"Ran, what are you doing here?"
+<en>{Appo}\n"What're you doing here?"
 <es>
 
 @513
-<en>Ran got startled to hear Appo's voice. She never expected to meet anyone at midnight.
+<en>Ran was startled to hear Appo's voice. She never expected to run into anyone outside at midnight.
 <es>
 
 @519
-<en>{Hu-sen}\n"You didn't have to be that surprised, Ran."
+<en>{Fuusen}\n"You don't have to be that surprised, Ran."
 <es>
 
 @520
-<en>Under one umbrella, Appo and Kazuko are holding each other's arms.
+<en>Appo and Kazuko were holding each other's arms under one umbrella.
 <es>
 
 @523
-<en>{Hu-sen}\n"Is watching the sea in soaking wet your habit or something?"
+<en>{Fuusen}\n"You're soaked. Is it your hobby to get soaking wet while watching the sea or something?"
 <es>
 
 @527
@@ -901,71 +901,71 @@
 <es>
 
 @530
-<en>{Hu-sen}\n"Okay, I won't say any more. But be careful or you will catch a cold."
+<en>{Fuusen}\n"Alright. I won't say anything else, but be careful or you'll catch a cold even though it's summer."
 <es>
 
 @531
-<en>Kazuko said it bluntly, but Ran felt her concerns. Kazuko has definitely changed.
+<en>Kazuko's tone was a bit curt, but Ran went beyond surprise at her concern and felt bashful. Kazuko really had changed lately.
 <es>
 
 @532
-<en>Since she has seen Appo.
+<en>...ever since she started seeing Appo.
 <es>
 
 @535
-<en>{Ran}\n"Thanks for your concern. I will go back now."
+<en>{Ran}\n"Thanks for your concern. I'm going back now."
 <es>
 
 @536
-<en>There is no point being here any more. It's time to go back anyway.
+<en>There was no point staying here any longer. It was almost time for lights out anyways.
 <es>
 
 @541
-<en>{Appo-}\n"I am now going to Kazuko's room, and won't be back until tomorrow afternoon."
+<en>{Appo}\n"Oh, yeah, we were heading to Fuu-chan's room. I probably won't be back until tomorrow afternoon."
 <es>
 
 @542
-<en>Appo said so loudly and fondly.
+<en>Appo said as if talking to himself.
 <es>
 
 @543
-<en>I hear you...what? Wait a minute...
+<en>Ran thought he was bragging... but then realized it.
 <es>
 
 @548
-<en>{Hu-sen}\n"So that means no one is going to be in your room, huh? I don't think Kazushi will be back tonight."
+<en>{Fuusen}\n"So that means there won't be anybody in your room, right? I don't think Haruma-kun will be back tonight..."
 <es>
 
 @549
-<en>Kazuko is right. There is going to be no one in their room tonight.
+<en>Kazuko's right. If Appo wasn't coming back to the room, then there would be no one in Kazushi's room.
 <es>
 
 @552
-<en>{Appo-}\n"Let's hurry up and go to your room, Kazuko!"
+<en>{Appo}\n"Let's hurry up and get to yours!"
 <es>
 
 @555
-<en>{Hu-sen}\n"Hehe...I wonder how many times you can take me to heaven tonight..."
+<en>{Fuusen}\n"Hee-hee... I wonder how many times you'll send me to heaven tonight?"
 <es>
 
 @558
-<en>Ran shudders at their conversation, but reminds herself that they are couple and it's totally okay to talk stuff like that.
+<en>Ran shuddered with disgust at their conversation, but reminded herself that they were a couple and it's totally OK for them to talk about stuff like that.
 <es>
 
 @559
-<en>But then, Ran doesn't even want to picture what they are planning to do.
+<en>Then again, Ran didn't even want to imagine what they were planning to do.
 <es>
 
 @562
-<en>{Hu-sen}\n"Ran, you are not going back to the dorm?"
+<en>{Fuusen}\n"You're not going back to the dorm, Ran?"
 <es>
 
 @567
-<en>{Ran}\n"You go ahead. I will go later."
+<en>{Ran}\n"You go on ahead. I'll be back later."
 <es>
 
 @570
-<en>{Hu-sen}\n"Okay. See you then."
+<en>{Fuusen}\n"Okay. See you then."
 <es>
 
 @573
@@ -973,47 +973,47 @@
 <es>
 
 @578
-<en>{Ran}\n"It smells..."
+<en>{Ran}\n"It reeks..."
 <es>
 
 @579
-<en>It's sweaty and manly smell everywhere. This must be a typical men's room.
+<en>It was sweaty, and there's an unwashed smell of boys everywhere. This must be what a typical man's room was like.
 <es>
 
 @580
-<en>And it is quite messy.
+<en>It was quite a mess.
 <es>
 
 @581
-<en>{Ran}\n"How can they sleep in here?"
+<en>{Ran}\n"How can they sleep in here? Boys are really tough."
 <es>
 
 @582
-<en>Ran looks for a bath towel, and finds it in a drawer.
+<en>Ran searched for something to wipe herself off with and found a drawer with Kazushi's clothes. When she opened it she found a bath towel.
 <es>
 
 @583
-<en>She begins to wipe her body with it.
+<en>She borrowed it and wiped herself off.
 <es>
 
 @584
-<en>{Ran}\n"Let me borrow his clothes too."
+<en>{Ran}\n"I'll borrow his clothes, too..."
 <es>
 
 @585
-<en>She takes her wet cloth off and put Kazushi's school uniform shirt on. It feels warm and comfortable.
+<en>She took her wet clothes off and put on Kazushi's school shirt. She felt much better with a dry set of clothes on.
 <es>
 
 @586
-<en>{Ran}\n"Ran sighs deeply."
+<en>{Ran}\n *Ahhhhhhhhhhh*
 <es>
 
 @587
-<en>Ran sits right by the window with the lights off. She doesn't want anyone to see her in the room.
+<en>Ran sat down by the window with the lights off. She didn't want to risk anyone peeking in and finding her.
 <es>
 
 @588
-<en>Next to me, I see the futon mattresses.
+<en>She saw unmade beds laid out next to her.
 <es>
 
 @589
@@ -1029,19 +1029,19 @@
 <es>
 
 @593
-<en>Ran gingerly smells at the both mattresses.
+<en>Ran gingerly smelled both of the mattresses.
 <es>
 
 @594
-<en>{Ran}\n"Ran sniffs."
+<en>{Ran}\n *sniff sniff*
 <es>
 
 @595
-<en>{Ran}\n"What the hell am I doing? I am like a dog."
+<en>{Ran}\n"What the hell am I doing? I'm acting like a dog..."
 <es>
 
 @596
-<en>Maybe, I am. Because I can tell which one is Kazushi's by sniffing.
+<en>Maybe she was, because she could tell which one is Kazushi's by the scent.
 <es>
 
 @597
@@ -1049,7 +1049,7 @@
 <es>
 
 @598
-<en>I don't even know how I did. I've never been so conscious about someone else's smell.
+<en>She didn't know. She'd never paid attention to his scent before, but she knew at first sniff.
 <es>
 
 @599
@@ -1057,7 +1057,7 @@
 <es>
 
 @601
-<en>I lie down on Kazushi's futon and smell even more of him.
+<en>She laid down on Kazushi's bed, putting her forehead on his pillow and breathing in his scent.
 <es>
 
 @602
@@ -1065,62 +1065,62 @@
 <es>
 
 @603
-<en>I sigh deeply. I really feel that I am being a woman.
+<en>She sighed deeply, and really felt like she was being a woman.
 <es>
 
 @604
-<en>{Ran}\n"Uh...I'm getting horny..."
+<en>{Ran}\n"Uh... I'm getting horny..."
 <es>
 
 @605
-<en>It's getting fun. In fact, getting horny is fun. I bury my face in his pillow and embrace it tight.
+<en>She was starting to have fun. She was having fun knowing that she was getting turned on. She buried her face in his pillow and held it close.
 <es>
 
 @607
-<en>{Ran}\n"Hahaha. I am acting really like a pervert."
+<en>{Ran}\n"Hahaha. I'm totally acting like a pervert."
 <es>
 
 @609
-<en>Holding the pillow, I flap my legs up and down on the futon. I inhale deeply and feel a bit dizzy.
+<en>She flapped her legs around on his futon as she held the pillow close. As she took a deep breath of his scent her head became dizzy.
 <es>
 
 @610
-<en>{Ran}\n"Hmm...Shortage of oxygen..."
+<en>{Ran}\n"Hmm... Shortage of oxygen..."
 <es>
 
 @611
-<en>Then I close my eyes, feeling my consciousness going away. I find myself relaxed.
+<en>She toned herself down, and as she closed her eyes, her consciousness began to fade. She could feel herself growing relaxed.
 <es>
 
 @612
-<en>Relaxation invites sleepiness.
+<en>And as she relaxed she grew sleepy.
 <es>
 
 @613
-<en>With Kazushi's cloth and towel on, I am being in his futon. I feel like being wrapped by him.
+<en>Wearing Kazushi's clothes and towel and sleeping in his futon, she felt like she was enveloped in his presence.
 <es>
 
 @614
-<en>{Ran}\n"Uh...I'm so sleepy..."
+<en>{Ran}\n"Uh... I'm so sleepy..."
 <es>
 
 @616
-<en>It's so comfortable. I am giving away to the temptation to sleep. I'm falling into a deep sleep.
+<en>If she fell asleep, she'd have a nice night's rest. She couldn't win against that temptation, and Ran steadily drifted off to sleep.
 <es>
 
 @617
-<en>{Ran}\n"Ugh..."
+<en>{Ran}\n"Uhh..."
 <es>
 
 @618
-<en>It is very quiet outside, and it stopped raining. This dim room is like a night aquarium.
+<en>It was quiet outside now. The rain must have stopped. The quiet, dim room was just like an aquarium at night.
 <es>
 
 @619
-<en>{Ran}\n"I'm going, going..."
+<en>{Ran}\n"I really am falling asle..."
 <es>
 
 @620
-<en>I wonder anything good is going to happen when I wake up tomorrow. Thinking that, Ran is gone into a deep sleep.
+<en>"I wonder if anything good is going to happen when I wake up tomorrow."\nThinking that, Ran went into a deep, deep slumber.
 <es>
 

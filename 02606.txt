@@ -1,191 +1,191 @@
 # Comments for '02606'
 
 @9
-<en>{Mei}\n"Since we lost our final exams from that little incident, you guys will be tested in different way this semester."
+<en>{Mei}\n"Since our final exams were invalidated due to that little incident, you guys are going to be tested in a different way this semester."
 <es>
 
 @10
-<en>Everyone who involved in that incident were called up.
+<en>Everybody involved in the incident was called together. We were all fairly nervous, wondering what they were going to make us do.
 <es>
 
 @17
-<en>{Rei}\n"I'm really sorry everybody."
+<en>{Andou}\n"I'm really sorry, everybody."
 <es>
 
 @18
-<en>{Hu-sen}\n"Hey, what's done is done.\nIt's behind us already."
+<en>{Fuusen}\n"Hey, what's done is done.\nIt's behind us now."
 <es>
 
 @21
-<en>{Rei}\n"But......"
+<en>{Andou}\n"But......"
 <es>
 
 @22
-<en>She still seems sorried.
+<en>She still seemed sorry about it.
 <es>
 
 @23
-<en>{Kazushi}\n"Oh well, if I think about it,\nit worked out for us, because we are not taking finals."
+<en>{Kazushi}\n"Oh well. At least now we don't have to take our finals. I'm not sure what they'll make us do, but let's listen."
 <es>
 
 @30
-<en>{Pierre}\n"Ms, Ibuki, what are you going to have us do instead?"
+<en>{Pierre}\n"Mei-chan, what are you going to have us do?"
 <es>
 
 @33
-<en>{Mei}\n"It's really easy.\nI want all of you to keep your eyes on this pot all day."
+<en>{Mei}\n"It's quite easy, actually. You're going to watch over the flames in this furnace."
 <es>
 
 @35
-<en>It was a fire pot. It's quite big.\nFire is already lit on.
+<en>Mei-sensei pointed to a proper furnace, much larger than the burner we used in our experiments. The flames were already burning strong.
 <es>
 
 @39
-<en>{Mizuki}\n"What is this?"
+<en>{Mizuki}\n"What's this?"
 <es>
 
 @40
-<en>{Mei}\n"This is the principal's pot.\nShe wants all of you to make sure the fire won't put off for the rest of the day."
+<en>{Mei}\n"This is the principal's furnace. You're under strict instruction to make sure the fire stays lit all day and night."
 <es>
 
 @44
-<en>{Hu-sen}\n"She want us to just watch it burn for the rest of day?"
+<en>{Fuusen}\n"All day and night? She just wants us to watch the fire?"
 <es>
 
 @47
-<en>{Mei}\n"Yes.\nI know it's hot in here, but that's what she decided for you guys to do instead of taking finals."
+<en>{Mei}\n"Correct. I know it's hot in here, but this is the task the Principal has assigned you in place of your exams."
 <es>
 
 @48
-<en>{Kazushi}\n"Making sure it keeps burning all day......"
+<en>{Kazushi}\n"Make sure it keeps burning all day..."
 <es>
 
 @49
-<en>I don't mind doing that instead of taking finals.
+<en>If all we have to do is tend the fire, it MEI...er...may take a while, but that's a lot easier.
 <es>
 
 @53
-<en>{Mei}\n"You guys can't just watch it.\nYou guys make sure it keeps burning."
+<en>{Mei}\n"You can't just stare at it, though. You have to take care of it should anything happen."
 <es>
 
 @61
-<en>{Sakura}\n"It's th principal's pot, right?\nIs it something special?"
+<en>{Sakura}\n"It's the principal's, right? That sounds difficult."
 <es>
 
 @64
-<en>{Ran}\n"I don't think there is much for me to do.\nCan I just sleep?"
+<en>{Ran}\n"I don't think I'll be much use here. Can I just go back to sleep?"
 <es>
 
 @67
-<en>{Rin}\n"No. You have to do it together."
+<en>{Rin}\n"No. We have to do this together."
 <es>
 
 @73
-<en>{Rei}\n"......it's easy.\nI can do this by myself."
+<en>{Andou}\n"Umm...if it's just watching the furnace, I can do it by myself."
 <es>
 
 @74
-<en>Big Rei stood up and told us she can do it by herself.
+<en>Big Andou stood up and told us that she didn't need our help.
 <es>
 
 @75
-<en>I could tell she still feels responsible for making us go through this.
+<en>I could tell that she still felt responsible for making us go through all this.
 <es>
 
 @80
-<en>{Mizuki}\n"You never know what is going to happen.\nYou shouldn't be alone."
+<en>{Mizuki}\n"You never know what might happen.\nYou shouldn't face this on your own."
 <es>
 
 @84
-<en>{Rin}\n"She's right.\nYou might get sleepy at night."
+<en>{Rin}\n"She's right. And we have to watch it at night too, so you wouldn't be able to sleep if you were alone."
 <es>
 
 @88
-<en>{Hu-sen}\n"Well, I will be with her.\nI'm responsible for this mess, too"
+<en>{Fuusen}\n"Well, I'll stay with her.\nI'm also responsible for this mess."
 <es>
 
 @92
-<en>{Rei}\n"Hu-sen......"
+<en>{Andou}\n"Kazuko-chan..."
 <es>
 
 @97
-<en>{Appo-}\n"Why don't we just do this all together?"
+<en>{Appo}\n"Why don't we all just stick together? No one's against it, right?"
 <es>
 
 @98
-<en>Every one agreed to Appo-.
+<en>Everyone agreed with Appo.
 <es>
 
 @101
-<en>{Appo-}\n"All right, then."
+<en>{Appo}\n"All right, then."
 <es>
 
 @106
-<en>{Hu-sen}\n"Thanks, honey."
+<en>{Fuusen}\n"Thanks, Ah-chan."
 <es>
 
 @107
-<en>Their relationship seems to be going just fine.
+<en>Their relationship seemed to be doing just fine.
 <es>
 
 @112
-<en>{Haruka}\n"Let's do it-!"
+<en>{Haruka}\n"Let's do it!"
 <es>
 
 @113
-<en>{Kazushi}\n"Yeah----!\n..................wait?"
+<en>{Kazushi}\n"Yeah!\n...wait a second..."
 <es>
 
 @115
-<en>Something is not right.
+<en>Something's not right here.
 <es>
 
 @118
-<en>{Mizuki}\n"Hey Haruka,\nwhy are you here?"
+<en>{Mizuki}\n"Hey, Haruka. What are you doing here?"
 <es>
 
 @125
-<en>{Haruka}\n"Um......."
+<en>{Haruka}\n"Um......"
 <es>
 
 @126
-<en>{Kazushi}\n"I don't remember you've been part of this."
+<en>{Kazushi}\n"I don't recall you being a part of this."
 <es>
 
 @127
-<en>She's got nothing to do with the last incident.
+<en>She had nothing to do with it, right? This time it was our problem, and she hadn't even been there during the theft.
 <es>
 
 @130
-<en>{Haruka}\n"What's wrong everybody?"
+<en>{Haruka}\n"What's wrong, everybody?"
 <es>
 
 @131
-<en>{Kazushi}\n"We are all wondering what are you doing here with us."
+<en>{Kazushi}\n"We're all wondering what you're doing here."
 <es>
 
 @135
-<en>{Mei}\n"Haruka, you shouldn't be here."
+<en>{Mei}\n"Aozora-san, you're being too brazen."
 <es>
 
 @138
-<en>{Haruka}\n"How come everyone is not welcoming me?"
+<en>{Haruka}\n"Huh? What's with this mood? Am I at an away game?"
 <es>
 
 @139
-<en>She seems not understanding why everyone is wondering her being here.
+<en>She doesn't seem to understand why everyone was focused on her.
 <es>
 
 @140
-<en>{Mei}\n"Aren't you supposed to be in your own class now?\nYou should go back before Mr.Yagami find out."
+<en>{Mei}\n"Aren't you supposed to be in your own homeroom right now? You should get back before Yagami-sensei gets angry."
 <es>
 
 @143
-<en>{Haruka}\n"You don't have to worry about that!\nI placed a big doll looks just like me on my chair!"
+<en>{Haruka}\n"You don't have to worry about that!\nI placed a big puppet that looks just like me at my desk. Please continue."
 <es>
 
 @148
-<en>{Daigo}\n"A doll?"
+<en>{Daigo}\n"A puppet?"
 <es>
 
 @149
@@ -193,63 +193,63 @@
 <es>
 
 @155
-<en>{Sakura}\n"You are always so energetic, Haruka.\nYou give us energy."
+<en>{Sakura}\n"Harunyan's always so spontaneous. She brightens up our day."
 <es>
 
 @156
-<en>{Pierre}\n"That's true."
+<en>{Pierre}\n"I guess that's one way to look at it."
 <es>
 
 @161
-<en>{Haruka}\n"How come you guys didn't tell me what's going on?\nI thought you guys were my friend."
+<en>{Haruka}\n"How come you guys didn't tell me what happened? I thought you were my friends!"
 <es>
 
 @166
-<en>{Rei}\n"I didn't wanna let this bother you."
+<en>{Andou}\n"We didn't want to cause you problems too, Haruka-chan."
 <es>
 
 @167
-<en>{Haruka}\n"That's what friends are for.\nPlease tell me I can help you guys."
+<en>{Haruka}\n"That's what friends are for. Kazushi-kun, please tell me I can help you guys."
 <es>
 
 @171
-<en>She looks at me with begging eyes.
+<en>She looked at me with puppy-dog eyes.
 <es>
 
 @172
-<en>{Kazushi}\n"Why are you asking me?\nI can't decide what you should be doing."
+<en>{Kazushi}\n"Why are you asking me?\nI can't decide what you're supposed to do."
 <es>
 
 @173
-<en>{Haruka}\n"You guys know how hard it is to keep the fire burning?\nYou have to react fast to certain situations."
+<en>{Haruka}\n"You guys know how hard it is to keep that fire burning, right?\nYou have to react instantly when it changes."
 <es>
 
 @176
-<en>{Haruka}\n"See, my grand ma used to have me do this since I was a child,\nI could be a big help for you guys-"
+<en>{Haruka}\n"See, my grandma's had me doing this ever since I was a little kid, so I know what to do. I could be a big help to you guys."
 <es>
 
 @177
-<en>Everybody here knows she's the best among students about Alchemy.\nShe would deffinitely be a big help for us.
+<en>That was pretty persuasive. Everybody in our class knew that she was the best alchemy student at the academy. She'd definitely be a big help for us.
 <es>
 
 @183
-<en>{Hu-sen}\n"It'll be great if we could have you help us.\nThis is a must task."
+<en>{Fuusen}\n"It'd be great if we could have you helping us out.\nThis is one task we can't risk failing."
 <es>
 
 @186
-<en>{Mizuki}\n"We'll definitely appreciate your help.\nBut, are you sure you can skip your own finals exam?"
+<en>{Mizuki}\n"We'd definitely appreciate your help.\nBut are you sure you can skive off your own exams?"
 <es>
 
 @191
-<en>{Haruka}\n"Don't worry!\nI'm the principal's grand daughter!"
+<en>{Haruka}\n"Don't worry!\nI'm the principal's granddaughter!"
 <es>
 
 @196
-<en>{Pierre}\n"Way to abuse your power!"
+<en>{Pierre}\n"Oh, there it is. Her abuse of power!"
 <es>
 
 @199
-<en>{Haruka}\n"Please let me help them Ms, Ibuki-"
+<en>{Haruka}\n"Please let me help them, Mei-chan."
 <es>
 
 @203
@@ -257,51 +257,51 @@
 <es>
 
 @206
-<en>After a big sigh, Ms, Ibuki gave up.
+<en>Mei-sensei let out a big sigh and gave up.
 <es>
 
 @212
-<en>[fire burning inside pot]
+<en>*burncracklecrackle*
 <es>
 
 @213
-<en>We've been watching the fire for a few hours by now.\nNothing has happened so far.
+<en>We've all kept an ear out for the crackling of the fire. It's been a few hours since we started, but nothing's happened so far.
 <es>
 
 @222
-<en>{Ran}\n"Isn't something supposed to be happening by now?"
+<en>{Ran}\n"Nothing's happening. Have we failed already?"
 <es>
 
 @223
-<en>{Rin}\n"It doesn't happen so fast."
+<en>{Rin}\n"I don't think anything will happen so soon. After all, they told us to watch it all day."
 <es>
 
 @226
-<en>{Mizuki}\n"Be patient guys.\nWe are gonna be here all day anyways."
+<en>{Mizuki}\n"It's only been three hours, hasn't it? This is going to be a long day."
 <es>
 
 @234
-<en>{Haruka}\n"Let's play some game."
+<en>{Haruka}\n"Let's play a word game."
 <es>
 
 @235
-<en>{Sakura}\n"We already palyed a few games-"
+<en>{Sakura}\n"We did that in the beginning."
 <es>
 
 @236
-<en>Everyone's getting bored and tired.
+<en>At first we all chatted and had a good time, but the conversation had slowed down and was nearly gone now. Everyone was already bored.
 <es>
 
 @239
-<en>On top of it,\nit is very hot in here.
+<en>Many of our classmates were spacing out. On top of boredom setting in, it was very hot in the classroom.
 <es>
 
 @242
-<en>{Haruka}\n"My eyes......?"
+<en>{Haruka}\n"Huh...?"
 <es>
 
 @243
-<en>Everybody paid attention to Haruka.
+<en>Haruka's voice broke the silence and everyone looked at her.
 <es>
 
 @248
@@ -309,67 +309,67 @@
 <es>
 
 @251
-<en>{Haruka}\n"Something is wrong with my eyes."
+<en>{Haruka}\n"There's something wrong with my eyes."
 <es>
 
 @252
-<en>Haruka is trying to rub off something from her eyes.
+<en>Haruka rubbed at her eyelids as if her vision was foggy.
 <es>
 
 @256
-<en>{Rin}\n"You shouldn't do that.\nWhy don't you go wash it off?"
+<en>{Rin}\n"You shouldn't rub them too much. Why don't you go wash them out?"
 <es>
 
 @259
-<en>{Haruka}\n"......Maybe I should."
+<en>{Haruka}\n"Good idea. Maybe I should."
 <es>
 
 @260
-<en>{Kazushi}\n"Did you sleep well last night?"
+<en>{Kazushi}\n"Maybe you're tired. Are you getting enough sleep?"
 <es>
 
 @261
-<en>{Haruka}\n"It's not like that......"
+<en>{Haruka}\n"No, I don't think that's it..."
 <es>
 
 @262
-<en>Maybe she' just tired.
+<en>I wondered what else it could be, but I forgot to ask.
 <es>
 
 @265
-<en>[Somebody tapping Kazusi's shoulder]
+<en>*taptap*
 <es>
 
 @266
-<en>{Kazushi}\n"?"
+<en>{Kazushi}\n"Eh?"
 <es>
 
 @267
-<en>Somebody must have tapped my shoulder.
+<en>Somebody tapped my shoulder.
 <es>
 
 @268
-<en>{Kazushi}\n"? Who was it?"
+<en>{Kazushi}\n"Huh? Who was that?"
 <es>
 
 @269
-<en>There is no one between me and the wall.
+<en>There wasn't anybody between me and the wall. There wasn't even room for someone to sneak by.
 <es>
 
 @272
-<en>{Mizuki}\n"What is it?"
+<en>{Mizuki}\n"What's wrong?"
 <es>
 
 @273
-<en>Next to me is Mizuki.\nIs this her teasing me?
+<en>The only person next to me is Mizuki. Is she trying to tease me?
 <es>
 
 @274
-<en>{Kazushi}\n"You touched me on my back just now, right?"
+<en>{Kazushi}\n"...you tapped my back just now, right?"
 <es>
 
 @277
-<en>{Mizuki}\n"What are you talking about?\n Why would I do that?"
+<en>{Mizuki}\n"Huh? Why would I do that?"
 <es>
 
 @278
@@ -377,63 +377,63 @@
 <es>
 
 @283
-<en>{Ran}\n"Is Mizuki teasing you?"
+<en>{Ran}\n"What? Is Mizuki making a move on Kazushi?"
 <es>
 
 @286
-<en>{Mizuki}\n"No, I didn't!"
+<en>{Mizuki}\n"No, I'm not!"
 <es>
 
 @293
-<en>{Rin}\n"You are always so serious.\nThat's why people wanna tease you."
+<en>{Rin}\n"You're always quick to get angry. That's why people tease you."
 <es>
 
 @296
-<en>{Mizuki}\n"You guys are teasing me......"
+<en>{Mizuki}\n"Are you teasing me?"
 <es>
 
 @299
-<en>{Ran}\n"Don't you put your move on my Kazushi-"
+<en>{Ran}\n"Don't go pulling your moves on my Kazushi!"
 <es>
 
 @300
-<en>{Kazushi}\n"Your Kazushi?"
+<en>{Kazushi}\n"'Your' Kazushi?"
 <es>
 
 @304
-<en>{Haruka}\n"Your Kazushi?\nWhat do you mean by that?"
+<en>{Haruka}\n"'Your' Kazushi?\nWhat's that supposed to mean?"
 <es>
 
 @307
-<en>{Ran}\n"It's nothing-"
+<en>{Ran}\n"Nothing, really."
 <es>
 
 @315
-<en>{Sakura}\n"Tell us-"
+<en>{Sakura}\n"Sounds suspicious."
 <es>
 
 @316
-<en>{Hu-sen}\n"Hey, is Ran and Kazushi......"
+<en>{Fuusen}\n"Hey, are Ran and Haruma-kun..."
 <es>
 
 @317
-<en>The girls started their everyday talk.
+<en>The girls broke into their everyday gossip and chitchat.
 <es>
 
 @320
-<en>[Somebody tapping Kazusi's shoulder]
+<en>*taptap*
 <es>
 
 @323
-<en>It happened again.\nThis time, it was Appo-.
+<en>It happened again.\nThis time, though, it was Appo.
 <es>
 
 @324
-<en>{Kazushi}\n"Hey! Was it you last time, too?"
+<en>{Kazushi}\n"Hey! Was it you who did that last time, too?"
 <es>
 
 @325
-<en>{Appo-}\n"What last time?\nHey, how about you?"
+<en>{Appo}\n"Whaddaya mean, last time?\nHey, so which is it?"
 <es>
 
 @326
@@ -441,47 +441,47 @@
 <es>
 
 @331
-<en>{Pierre}\n"Ofcourse I'm talking about girls.\nWhich one are you targetting?"
+<en>{Pierre}\n"He means which girl, of course. Which one are you gunning for? You've already got your targets set, right?"
 <es>
 
 @332
-<en>{Kazushi}\n"Targetting? I'm not targetting anybody."
+<en>{Kazushi}\n"Huh? What targets?"
 <es>
 
 @339
-<en>{Daigo}\n"You know summer break is coming soon, right?"
+<en>{Daigo}\n"You know summer break's coming up, right?"
 <es>
 
 @342
-<en>{Pierre}\n"I know.\nWe should decide who is going for who before the break starts."
+<en>{Pierre}\n"I know. You need to decide now, or you won't be able to have a meaningful summer."
 <es>
 
 @343
-<en>{Appo-}\n"Remember how we were so excited when we got here?"
+<en>{Appo}\n"And what's the point of coming to this island academy if you don't?"
 <es>
 
 @344
-<en>{Kazushi}\n"That's right......we were so excited."
+<en>{Kazushi}\n"You think? Summer, huh? Well..."
 <es>
 
 @345
-<en>Having a girlfriend during the break would deffinitely make my summer break a whole lot better.\nWe don't have much time left.
+<en>I kind of do need to find a girlfriend if I want to make any summer memories. I don't have much time left to make that happen either...
 <es>
 
 @348
-<en>{Pierre}\n"Who is in your mind?"
+<en>{Pierre}\n"At least tell us which one you're interested in."
 <es>
 
 @349
-<en>{Kazushi}\n"A girl in my mind.\nLet's see......."
+<en>{Kazushi}\n"Which one I'm interested in, huh? It's kind of sudden..."
 <es>
 
 @350
-<en>To tell you the truth,\nI was happy enough just being around girls after moving over to this island.
+<en>To tell you the truth, I was happy enough just being surrounded by pretty girls every day after moving to the island.
 <es>
 
 @353
-<en>{Appo-}\n"Well. You take your time.\nJust make sure you won't regret later on."
+<en>{Appo}\n"Well, you take your time and get it right. Just make sure you don't regret your decision later on."
 <es>
 
 @354
@@ -489,15 +489,15 @@
 <es>
 
 @358
-<en>I'm happy enough to have many friends around me now.
+<en>It's been a lot of fun just carrying on with everyone as is, but I guess it'd be more fun with a girlfriend.
 <es>
 
 @359
-<en>But I'd sure like to take a next step to become a man......
+<en>But I'd sure like to take the next step towards becoming a man.
 <es>
 
 @362
-<en>I noticed Haruka is standing right in front of me.
+<en>Next thing I knew, Haruka was standing right in front of me. Staring at me.
 <es>
 
 @363
@@ -505,7 +505,7 @@
 <es>
 
 @364
-<en>{Haruka}\n"You annoy me, Kazushi."
+<en>{Haruka}\n"You piss me off, Haruma."
 <es>
 
 @365
@@ -513,63 +513,63 @@
 <es>
 
 @366
-<en>I annoy her?\nWhat did I do wrong?
+<en>I piss her off? Why?
 <es>
 
 @367
-<en>{Kazushi}\n"Hey Haruka......"
+<en>{Kazushi}\n"Hey, Haruka..."
 <es>
 
 @368
-<en>Is this Haruka?\nShe sure is Haruka.\nBut ......
+<en>Is this really Haruka?\nShe sure looks like Haruka...\nBut...
 <es>
 
 @373
-<en>{Pierre}\n"What's wrong Haruka?"
+<en>{Pierre}\n"What's wrong, Haruka-chan?"
 <es>
 
 @376
-<en>{Haruka}\n"......?\nWhat am I doing here?"
+<en>{Haruka}\n"...huh? What am I doing?"
 <es>
 
 @377
-<en>She seemed like finally coming back to herself.
+<en>Haruka looked around as if she just snapped back to herself.
 <es>
 
 @381
-<en>{Daigo}\n"You were saying Kazushi annoys you."
+<en>{Daigo}\n"You said that Kazushi pissed you off."
 <es>
 
 @384
-<en>{Haruka}\n"What?\nWhy would I say such a thing?"
+<en>{Haruka}\n"Huh? I never said that!"
 <es>
 
 @388
-<en>{Appo-}\n"Yes, you did. You also said he annoys you,\nbecause he's a virgin."
+<en>{Appo}\n"Yes, you did. You said, 'You piss me off, you fuck-less virgin. You reek of cum.'"
 <es>
 
 @391
-<en>{Haruka}\n"I don't believe that......"
+<en>{Haruka}\n"N-no way..."
 <es>
 
 @392
-<en>{Kazushi}\n"Appo- just made that up.\nOfcourse you didn't say that."
+<en>{Kazushi}\n"He's lying. There's no way you'd say that."
 <es>
 
 @393
-<en>But, it wasn't like her at all.\nShe sounded like somebody I know......
+<en>But that wasn't like her at all.\nInstead she sounded like somebody else I knew...
 <es>
 
 @394
-<en>{Kazushi}\n"I can't remember who she sounded like."
+<en>{Kazushi}\n"I can't remember who she resembled just then..."
 <es>
 
 @398
-<en>{Haruka}\n"I did lose my memory for a split of a second.\nWhat's wrong with me?"
+<en>{Haruka}\n"I must have blacked out for a moment. What's wrong with me?"
 <es>
 
 @399
-<en>She is wondering if there is something wrong with her.\nIf I look back now, she started to behave wiered from around this time.
+<en>Haruka tilted her head in confusion. Thinking back on it now, this is probably when things started becoming odd.
 <es>
 
 @400
@@ -577,15 +577,15 @@
 <es>
 
 @401
-<en>{Kazushi}\n"I feel the same way.\nDo you have an idea why?"
+<en>{Kazushi}\n"I feel the same way.\nDo you have any idea what it might be?"
 <es>
 
 @402
-<en>{Haruka}\n"I don't know how I can describe it in words......"
+<en>{Haruka}\n"Hmm, I can't explain it. I'm not quite sure..."
 <es>
 
 @403
-<en>She was definitely feeling something is wrong with her. She just couldn't find a good way to describe it for us.
+<en>Haruka could tell something was odd, but she was worried by not being able to identify it.
 <es>
 
 @410
@@ -593,115 +593,115 @@
 <es>
 
 @411
-<en>It felt so long.\nSo far, nothing has happened yet.
+<en>The first half was finally over. There had been several odd occurrences, but no accidents so far.
 <es>
 
 @415
-<en>{Ran}\n"I'm getting sleepy.\nCan someone give a story so I can stay awake?"
+<en>{Ran}\n"Hey, sitting around like this is making me sleepy. Someone tell an eye-opening story."
 <es>
 
 @416
-<en>Ran is running out of energy.
+<en>Ran's running low on energy.
 <es>
 
 @417
-<en>{Kazushi}\n"Let's see. A story?"
+<en>{Kazushi}\n"An eye-opening story, huh?"
 <es>
 
 @423
-<en>{Haruka}\n"Hey Hu-sen and Appo-,\ntell us how you guys are attracted to each other?"
+<en>{Haruka}\n"Hey, Kazuko, Appo-kun, what did you two like about each other?"
 <es>
 
 @426
-<en>{Pierre}\n"Is it supposed to be a story to keep everybody awake?"
+<en>{Pierre}\n"That's supposed to be eye-opening?"
 <es>
 
 @433
-<en>{Appo-}\n"It'll be a very short story.\nI like everything about her."
+<en>{Appo}\n"That's boring. It's a very short story. I love everything about Fuu-chan."
 <es>
 
 @438
-<en>Appo- winks at Hu-sen.\nHu-sen smiles back at Appo-.
+<en>Appo winked at Fuusen.\nFuusen gave him a shy smile in return.
 <es>
 
 @443
-<en>{Sakura}\n"Wow, that made me awake."
+<en>{Sakura}\n"That sure forced my eyes open..."
 <es>
 
 @449
-<en>{Hu-sen}\n"From my point of view,\nI can't help to wonder why you guys don't fall in love?"
+<en>{Fuusen}\n"From my point of view, I can't help but wonder why the rest of you haven't fallen in love yet."
 <es>
 
 @452
-<en>{Mizuki}\n"There is no particular reason.\nI'm not just interested......"
+<en>{Mizuki}\n"There's no reason in particular. I'm just not interested..."
 <es>
 
 @456
-<en>{Rin}\n"I'm interested.\nI just can't find a partner."
+<en>{Rin}\n"I'm interested. I just can't find a partner."
 <es>
 
 @460
-<en>{Pierre}\n"Me!\nI will be your partner!"
+<en>{Pierre}\n"Pick me!\nI'll be your partner!"
 <es>
 
 @463
-<en>{Rin}\n"......sorry."
+<en>{Rin}\n"Huh? ...That would be troublesome."
 <es>
 
 @466
-<en>{Pierre}\n"You are sorried......"
+<en>{Pierre}\n"It'd be troublesome..."
 <es>
 
 @470
-<en>{Daigo}\n"I've been through that, Pierre.\nA long ago, a girl told me to stop looking at her,\nbecause it made her itchy."
+<en>{Daigo}\n"It's OK, Pierre, we've all been there. Once, a long time ago, a girl told me to stop looking at her because it made her feel itchy."
 <es>
 
 @473
-<en>{Pierre}\n"You didn't go through what I just went through!\nI didn't annoy anyone like that!"
+<en>{Pierre}\n"No, that's not the same! That's not the same at all!"
 <es>
 
 @480
-<en>{Appo-}\n"You guys should all take advantage of how we met in this island!"
+<en>{Appo}\n"You guys should take advantage of how we've been fated to meet on this island and love each other."
 <es>
 
 @481
-<en>{Hu-sen}\n"When I feel his love.\nI feel I'm a woman.\nWhy don't you guys want to feel that?"
+<en>{Fuusen}\n"When I'm being loved by Ah-chan, I really feel the pleasure of being a woman. I wonder why no one else is doing such a great thing?"
 <es>
 
 @486
-<en>{Mizuki}\n"Are you talking about when you two are having sex?"
+<en>{Mizuki}\n"Argh, jeez! You're talking about doing it, aren't you?!"
 <es>
 
 @487
-<en>{Kazushi}\n"She didn't mean that, did she?"
+<en>{Kazushi}\n"You know, I'm not sure?"
 <es>
 
 @491
-<en>{Rei}\n"Making love with a boy......"
+<en>{Andou}\n"Sharing love with a man..."
 <es>
 
 @492
-<en>Rei opened her mouth with sexy tone.
+<en>Andou's sexy gaze creeped up my spine.
 <es>
 
 @495
-<en>{Rei}\n"Is there such man who can satisfy me?"
+<en>{Andou}\n"Does such a man exist who can satisfy me?"
 <es>
 
 @500
-<en>{Daigo}\n"No way.\nIt's impossible."
+<en>{Daigo}\n"No way. It's impossible."
 <es>
 
 @507
-<en>{Pierre}\n"Hey Rin, are you sure you don't wanna change your mind-?"
+<en>{Pierre}\n"I'd rather be with Rin-chan..."
 <es>
 
 @510
-<en>{Rin}\n"I'm positive."
+<en>{Rin}\n"Huh? That'd be troublesome."
 <es>
 
 @517
-<en>{Ran}\n"Rejected-!"
+<en>{Ran}\n"Rejected!"
 <es>
 
 @518
@@ -709,19 +709,19 @@
 <es>
 
 @524
-<en>{Sakura}\n"Got you!"
+<en>{Sakura}\n"Gotcha!"
 <es>
 
 @527
-<en>[Sakura flips Rin's skirt]
+<en>*FLIP!*
 <es>
 
 @530
-<en>{Rin}\n"......!?"
+<en>{Rin}\n"AH!"
 <es>
 
 @532
-<en>Sakura all the sudden fliped Rin's skirt.\nRin's sexy underwear was exposed.
+<en>Sakura made a sudden move to flip up Fujisaki-san's skirt. Rin's sexy panties were exposed for all to see.
 <es>
 
 @533
@@ -729,35 +729,35 @@
 <es>
 
 @538
-<en>{Rin}\n"What are you doing?!!"
+<en>{Rin}\n"What are you doing!?"
 <es>
 
 @541
-<en>{Sakura}\n"I felt that would entertain all of us."
+<en>{Sakura}\n"Well, it seemed like the right mood for it."
 <es>
 
 @542
-<en>{Rin}\n"Don't use me to entertain you guys-!"
+<en>{Rin}\n"There was no such mood. Sakura, you're too impulsive!"
 <es>
 
 @547
-<en>{Ran}\n"It's getting close to my limit.\nHow should we sleep tonight?"
+<en>{Ran}\n"I'm about to hit my limit.\nHow should we handle sleeping tonight?"
 <es>
 
 @548
-<en>Somebody has to stay awake.\nWe have to come up with a shift.
+<en>Somebody has to stay awake to keep watch over the fire. We need to come up with a schedule.
 <es>
 
 @552
-<en>{Sakura}\n"We should make a shift.\nSo we could take turns to sleep."
+<en>{Sakura}\n"We're sleeping in shifts, right? But what about the order?"
 <es>
 
 @556
-<en>{Ran}\n"How about girls and boys?\nGirls sleep first-"
+<en>{Ran}\n"How about we break it down by girls and boys?\nGirls first."
 <es>
 
 @558
-<en>As soon as she said that,\nshe covered herself with a towel and started to fall sleep.
+<en>As soon as the words left Ran's mouth, she covered herself up with a towel and fell asleep.
 <es>
 
 @559
@@ -765,23 +765,23 @@
 <es>
 
 @562
-<en>{Haruka}\n"So, it's O.K girls sleep first?\nHow about three hours for each shift?"
+<en>{Haruka}\n"Okay, then we'll have the girls nap first? Is a three hour shift good?"
 <es>
 
 @566
-<en>{Pierre}\n"That sounds good.\nWe shouldn't have problem staying up for three more hours."
+<en>{Pierre}\n"Sounds good to us. We shouldn't have a problem staying up for three more hours."
 <es>
 
 @567
-<en>{Kazushi}\n"All right. You girls go ahead and sleep.\nWe'll wake you up in three hours."
+<en>{Kazushi}\n"All right. You girls go ahead and sleep. We'll wake you up in three hours."
 <es>
 
 @568
-<en>{Ran}\n[Ran snoreing]
+<en>{Ran}\n"Zzz......zzz..."
 <es>
 
 @569
-<en>She didn't listen to any of that.
+<en>One was already sleeping.
 <es>
 
 @575
@@ -789,11 +789,11 @@
 <es>
 
 @576
-<en>Mizuki has something to say.
+<en>Mizuki had something to say.
 <es>
 
 @577
-<en>{Sakura}\n"What is it, Mizuki?"
+<en>{Sakura}\n"What is it?"
 <es>
 
 @578
@@ -805,35 +805,35 @@
 <es>
 
 @583
-<en>{Rin}\n"I see.\nYou don't wanna show your sleeping face to them......"
+<en>{Rin}\n"Ah, you're right. It's a little disconcerting. It would be embarrassing if they watched us sleep..."
 <es>
 
 @587
-<en>{Sakura}\n"I don't trust them either-"
+<en>{Sakura}\n"That and they might try and rape us in our sleep too."
 <es>
 
 @590
-<en>{Mizuki}\n"I'm not worried about that......"
+<en>{Mizuki}\n"I didn't say that..."
 <es>
 
 @591
-<en>Maybe that's what really bothers her.\nKnowing my guys, I don't blame her.
+<en>That was probably her real fear, though. Knowing these guys, I couldn't blame her at all.
 <es>
 
 @593
-<en>{Kazushi}\n"How about half of you girls stay awake?\nLet the half of you keep your eyes on us."
+<en>{Kazushi}\n"How about we split it half and half between the girls and guys?\nThat way half of you can stay awake and keep your eyes on us?"
 <es>
 
 @599
-<en>{Pierre}\n"We are so not trusted-"
+<en>{Pierre}\n"We're still so not trusted!"
 <es>
 
 @603
-<en>{Mizuki}\n"I'm sorry. It's not that we are doubting you.\nIt's just that we are not used to this."
+<en>{Mizuki}\n"I'm sorry. It's not that we're doubting you; it's just that it's our first time doing it."
 <es>
 
 @604
-<en>{Kazushi}\n"No worries.\nYou guys go ahead and split up into two."
+<en>{Kazushi}\n"No worries. You guys go ahead and split into two groups."
 <es>
 
 @608
@@ -841,11 +841,11 @@
 <es>
 
 @610
-<en>The girls started to discuss something.\nFor the boys, Daigo and Appo- are going to sleep first.
+<en>The girls formed a huddle and discussed the arrangements amongst themselves. For the boys, Daigo and Appo were going to sleep first.
 <es>
 
 @611
-<en>Since Appo- is going to sleep first, it was only natural that Hu-sen is going to sleep first among the girls.\nThe rest of order was decided fairly easily.
+<en>Since Appo was going to sleep first, it was only natural that Fuusen would go to sleep as well for the girls. The rest of the teams were decided fairly easily after that.
 <es>
 
 @614
@@ -853,27 +853,27 @@
 <es>
 
 @615
-<en>It was Haruka, Mizuki, Sakura and Rin who are going to stay up.\nRan, Hu-sen and Ando are going to sleep first.
+<en>Haruka, Mizuki, Sakura, and Rin were assigned to stay awake for the first shift. Ran, Fuusen, and Andou were going to sleep first.
 <es>
 
 @621
-<en>{Hu-sen}\n"Good night- Honey, come to me."
+<en>{Fuusen}\n"Good night. Ah-chan, come sleep with me."
 <es>
 
 @624
-<en>{Appo-}\n"Sure! I'm not going to let you sleep tonight!"
+<en>{Appo}\n"Sure! I'm not going to let you sleep tonight!"
 <es>
 
 @629
-<en>{Pierre}\n"What's the point of making groups, then?\nYou guys please don't have sex."
+<en>{Pierre}\n"Then what's the point?! You two better not dare try and do something here."
 <es>
 
 @635
-<en>{Hu-sen}\n"Ah, honey! Don't get so close to me.\nYou have plenty room on that side."
+<en>{Fuusen}\n"Ahhn! Ah-chan. Slide over there a little."
 <es>
 
 @638
-<en>{Appo-}\n[Appo- snorting]
+<en>{Appo}\n"Heh, heh, heh..."
 <es>
 
 @643
@@ -885,31 +885,31 @@
 <es>
 
 @648
-<en>{Rei}\n"I'm a shallow sleeper.\nIf you dear try something on me,\nI will get up before you know it."
+<en>{Andou}\n"I'm a light sleeper. I'll find out if you even try anything."
 <es>
 
 @649
-<en>She made a statement that she's not going to lower her guard even when she sleeps.
+<en>Her statement made it clear that she wasn't going to lower her guard, even when she was asleep.
 <es>
 
 @654
-<en>{Pierre}\n"You don't have to worry about that.\nIt will never happen to you.\nI swear to my god."
+<en>{Pierre}\n"We won't. It'll never happen. I swear to god, so please rest peacefully."
 <es>
 
 @657
-<en>{Rei}\n"You are so not nice."
+<en>{Andou}\n"That's so rude."
 <es>
 
 @660
-<en>As first group gets ready to fall sleep,\nus second group sat down around the pot.
+<en>As the first group prepared for bed, those of us in the second group formed a circle around the furnace. It had gotten colder as night fell, so the flames weren't too bad.
 <es>
 
 @663
-<en>{Rin}\n"Oh hey,\nwho wants coffee?"
+<en>{Rin}\n"Oh, right. I should put on some coffee. You all want some, right?"
 <es>
 
 @665
-<en>Rin offered us to go get some coffee.\nPierre stood up to go help her.
+<en>Fujisaki-san offered to make some coffee for us. Pierre stood up to go help her.
 <es>
 
 @668
@@ -917,27 +917,27 @@
 <es>
 
 @670
-<en>They start boiling water using the fire in front of us.\nRest of us watched them working together.
+<en>They started boiling some water in front of us using a small burner. The rest of us watched them working together alongside the big furnace.
 <es>
 
 @673
-<en>{Haruka}\n"This is so romantic- It's like we came camping here."
+<en>{Haruka}\n"This is so romantic. It's like we've all gone camping in here."
 <es>
 
 @674
-<en>We could see our shadows off the fire.\nOur shadows are moving like living creatures.
+<en>We could see our shadows dancing on the walls as the fire flickered in the darkness. Our shadows were moving so much, it was as if they became living creatures.
 <es>
 
 @678
-<en>{Sakura}\n"Oh hey,\nwhy don't we go camping during summer break-?"
+<en>{Sakura}\n"Oh hey, why don't we go camping during summer break?"
 <es>
 
 @679
-<en>{Kazushi}\n"Oh yeah! Summer break is coming!"
+<en>{Kazushi}\n"That's right! It's almost break time, isn't it?"
 <es>
 
 @680
-<en>It's a long one month break.\nIn an island surrounded by the ocean.
+<en>We've got a month long break on an island surrounded by the ocean.
 <es>
 
 @684
@@ -945,27 +945,27 @@
 <es>
 
 @685
-<en>Pierre can't help getting excited as he pours hot water into a bottle.
+<en>Pierre couldn't help but get excited as he poured hot water into the percolator.
 <es>
 
 @688
-<en>{Pierre}\n(We need to make them wear bikinis)
+<en>{Pierre}\n(We need to make them wear bikinis.)
 <es>
 
 @689
-<en>We could read each other's lips.\nI couldn't agree him more.
+<en>We could read each other's lips.\nI couldn't have agreed with him more.
 <es>
 
 @691
-<en>{Kazushi}\n"Beach sounds great.\nWhy don't we all go?"
+<en>{Kazushi}\n"The beach sounds great. Why don't we all go?"
 <es>
 
 @696
-<en>{Mizuki}\n"I'm down for that-! Beach is the place in summer!!"
+<en>{Mizuki}\n"I'm down for that! There's no better way to spend your summer than swimming at the beach."
 <es>
 
 @699
-<en>{Sakura}\n"You are swimming all year long anyways.\nBut I'm down for it, too!\nI just bought a new swim suit-."
+<en>{Sakura}\n"You go swimming all year round anyways. But I'm down for it, too! I already ordered a new swimsuit and everything."
 <es>
 
 @703
@@ -973,27 +973,27 @@
 <es>
 
 @707
-<en>{Haruka}\n"What should I do-?\nI only have school swim suit."
+<en>{Haruka}\n"What should I do? I've only got my school swimsuit."
 <es>
 
 @712
-<en>{Boys}\n"We like school swim suit!"
+<en>{Boys}\n"We like school swimsuits!"
 <es>
 
 @713
-<en>We didn't mean to sing along.
+<en>We didn't mean to reply in unison. The girls gave us cold looks.
 <es>
 
 @717
-<en>{Mizuki}\n"You guys like school swim suit?\nYou nerds!"
+<en>{Mizuki}\n"What was that? You like school swimsuits that much? You perverts."
 <es>
 
 @722
-<en>{Pierre}\n"We just like something so simple."
+<en>{Pierre}\n"We just like how they're a model of elegant simplicity."
 <es>
 
 @726
-<en>{Rin}\n"I only have school swim suit, too.\nMy breasts area got little tighter......"
+<en>{Rin}\n"I've only got last year's swimsuit too. It's getting a bit tight around my breasts..."
 <es>
 
 @731
@@ -1001,19 +1001,19 @@
 <es>
 
 @733
-<en>Opps, we did it again.\nThe girls give us mean look.
+<en>Oops we did it again. The girls gave us cold looks.
 <es>
 
 @736
-<en>{Mizuki}\n"Should we call it off?\nI'm starting to feel scared to go to the beach with them."
+<en>{Mizuki}\n"Should we call it off? I'm starting to feel scared about what they'll do if we go to the beach with them."
 <es>
 
 @737
-<en>{Kazushi}\n"We promise we'll behave!"
+<en>{Kazushi}\n"You're killing us..."
 <es>
 
 @742
-<en>{Pierre}\n"Come on it's summer break!\nIt will be fun I promise!"
+<en>{Pierre}\n"Come on, it's summer break!\nI promise it'll be fun!"
 <es>
 
 @746
@@ -1021,51 +1021,51 @@
 <es>
 
 @749
-<en>I know they are not seriouly calling it off.\nBut we had to show them how we are excited to go with them.
+<en>I knew they weren't being serious about calling it off, but we even made a show of getting down on our knees and apologizing.
 <es>
 
 @750
-<en>It was a very peaceful time.
+<en>It was a very peaceful time around the furnace.
 <es>
 
 @753
-<en>{Rin}\n"Who needs sugar and milk?"
+<en>{Rin}\n"Who needs milk and sugar?"
 <es>
 
 @754
-<en>We could smell good scent of coffe.
+<en>We could smell the fragrant aroma of freshly brewed coffee. Steam was rising from several cups.
 <es>
 
 @759
-<en>{Pierre}\n"Let me bring those to them."
+<en>{Pierre}\n"Let me go and fetch them."
 <es>
 
 @760
-<en>Pierre flew away to get the coffee.
+<en>Pierre flew away to get everything we were missing for the coffee.
 <es>
 
 @767
-<en>{Sakura}\n"He is a gentleman."
+<en>{Sakura}\n"He's such a gentleman."
 <es>
 
 @768
-<en>{Mizuki}\n"I'm sure he's got secret intention."
+<en>{Mizuki}\n"I'm sure he's got an ulterior motive."
 <es>
 
 @769
-<en>{Kazushi}\n"Hey, there is one too many cup here."
+<en>{Kazushi}\n"Hey, aren't there one too many cups here?"
 <es>
 
 @770
-<en>There are one too many cup than number of us who are awake.
+<en>There were seven cups, but only six of us were awake.
 <es>
 
 @775
-<en>{Rin}\n"There is?\nWhy did I do that......?"
+<en>{Rin}\n"There are?\nWhy'd I do that?"
 <es>
 
 @781
-<en>{Haruka}\n"This sounds like one of those ghost stories-"
+<en>{Haruka}\n"This is turning into one of those ghost stories!"
 <es>
 
 @782
@@ -1073,31 +1073,31 @@
 <es>
 
 @786
-<en>{Pierre}\n"All right!\nLet me just drink two cups.\nNo more ghost stories."
+<en>{Pierre}\n"It's fine! I'm going to have two cups, so don't mind getting your freak on."
 <es>
 
 @790
-<en>{Sakura}\n"You are so nice to Mizuki."
+<en>{Sakura}\n"I think you mixed your expressions up there."
 <es>
 
 @793
-<en>[Everyone drinking hot coffee]
+<en>*SLURP*
 <es>
 
 @794
-<en>The sound of us drinking coffee echoes in the silence.
+<en>The sound of us sipping coffee quietly echoed.
 <es>
 
 @795
-<en>{Ran}\n[Ran snoring]
+<en>{Ran}\n"Zzz...Zzz..."
 <es>
 
 @796
-<en>We could hear them snoring.\nWe could also hear the music of insects.\nIt was a very quiet night.
+<en>We could hear everyone else snoring as well as the chirping of the insects. Nothing was louder than a whisper, making for a very quiet night.
 <es>
 
 @798
-<en>[Fire flared in the wind]
+<en>*FWOOM* *CRACKLE*
 <es>
 
 @800
@@ -1105,31 +1105,31 @@
 <es>
 
 @801
-<en>{Kazushi}\n"? Look at the fire......"
+<en>{Kazushi}\n"Huh? Look at the fire!"
 <es>
 
 @802
-<en>The window was open.\nWe thought it happened because of the wind.
+<en>The window had flown open. We thought it must have been because of the wind.
 <es>
 
 @803
-<en>[Fire flared in the wind]
+<en>*FWOOM* *CRACKLE*
 <es>
 
 @808
-<en>{Haruka}\n"Is it wind?"
+<en>{Haruka}\n"Was that the wind?"
 <es>
 
 @809
-<en>{Sakura}\n"Oh yeah......"
+<en>{Sakura}\n"You're right..."
 <es>
 
 @810
-<en>Now it's getting obvious.\nEverybody can notice it now.
+<en>Everyone noticed it now. The fire in the furnace was growing stronger, and shaking like a living creature.
 <es>
 
 @813
-<en>Our shadows are wavering big, too.\nIt somewhat looks scary.
+<en>Our shadows were growing larger and continued flickering in the light. It looked somewhat terrifying.
 <es>
 
 @818
@@ -1137,7 +1137,7 @@
 <es>
 
 @819
-<en>Pierre and Rin came back to us hearing there is something going on.
+<en>Pierre and Fujisaki-san returned and joined us. We all stood frozen, watching the flames in the furnace.
 <es>
 
 @823
@@ -1145,27 +1145,27 @@
 <es>
 
 @828
-<en>We are glad we had Haruka.\nEveryone waited for her opinion.
+<en>Haruka was the one to ask about alchemy. We all gave her pleading glances and she thought for a moment.
 <es>
 
 @831
-<en>{Haruka}\n"I think it's getting into next stage."
+<en>{Haruka}\n"I think it's progressing to the next stage."
 <es>
 
 @832
-<en>She looks into the pot and made sure everything is going well.
+<en>Haruka carefully peered into the furnace and heaved a sigh of relief. I guess the refinement moved onto the next stage.
 <es>
 
 @833
-<en>{Kazushi}\n"Then we don't have to escape from here, do we?"
+<en>{Kazushi}\n"Then we don't have to run away or make a quick escape, do we?"
 <es>
 
 @836
-<en>{Haruka}\n"......I don't think so."
+<en>{Haruka}\n"Umm, no......I don't think so."
 <es>
 
 @837
-<en>She sounds not very confident.\nFor some reason, she looks little scared, too.
+<en>She didn't sound very confident.\nFor some reason, she looked a little scared too.
 <es>
 
 @841
@@ -1173,47 +1173,47 @@
 <es>
 
 @845
-<en>{Haruka}\n"There is nothing wrong......\nit's just that this experiment is......"
+<en>{Haruka}\n"No, there's nothing wrong...\nIt's just that this experiment..."
 <es>
 
 @846
-<en>Now she definitely looks scared.\nI wonder what is the principal trying to produce out from this experiment?
+<en>Now she definitely looked scared. I wondered what the principal was trying to produce from this exercise?
 <es>
 
 @852
-<en>{Sakura}\n"Are you sure we are safe here?"
+<en>{Sakura}\n"What? Are you saying we should run?"
 <es>
 
 @853
-<en>Sakura is already in position to dash away.
+<en>Sakura was already in position to make a quick dash. If she took off the shirt Mizuki had a hold of, she could fly right out of here.
 <es>
 
 @854
-<en>{Mizuki}\n"We have to stay to keep our eye on it, remember?"
+<en>{Mizuki}\n"We have to stay and keep the fire going, remember?"
 <es>
 
 @858
-<en>{Rin}\n"......but it's scary......"
+<en>{Rin}\n"...but it's scary..."
 <es>
 
 @859
-<en>Haruka's anxiety was very contageous.
+<en>Haruka's anxiety was extremely contagious.
 <es>
 
 @864
-<en>{Pierre}\n"H, Hey, look?"
+<en>{Pierre}\n"H-h-hey! Look!"
 <es>
 
 @865
-<en>That's why everyone freaked out even by the little voice Pierre made.
+<en>That's why everybody freaked out, even by Pierre's squeaks.
 <es>
 
 @866
-<en>{Kazushi}\n"What is it now?"
+<en>{Kazushi}\n"What now?"
 <es>
 
 @867
-<en>Pierre stares at the back corner of the room.\nIt's too far for the fire light to reach.
+<en>Pierre was staring at the back corner of the room. It was too far back for the fire's light to reach.
 <es>
 
 @870
@@ -1221,63 +1221,63 @@
 <es>
 
 @875
-<en>{Mizuki}\n"What is it-?"
+<en>{Mizuki}\n"What is it?"
 <es>
 
 @876
-<en>{Pierre}\n"I think I saw someone walking over there."
+<en>{Pierre}\n"I think I saw something walking over there."
 <es>
 
 @877
-<en>Time around us stopped for a split of a second.
+<en>Time froze around us for a split second.
 <es>
 
 @880
-<en>{Mizuki}\n"What!?\nWhy are you saying something so scary?"
+<en>{Mizuki}\n"What!?\nWhy are you trying to freak us out?"
 <es>
 
 @881
-<en>Everyone's entire attention goes to the back corner of the room.
+<en>Everyone's attention was focused on the back corner of the room. Shadows were dancing along the walls, and any of them could be mistaken for a person.
 <es>
 
 @885
-<en>{Sakura}\n"I don't see anything.\nYou probably saw our shadow or something."
+<en>{Sakura}\n"I don't see anything. You probably just saw your shadow or something."
 <es>
 
 @886
-<en>{Kazushi}\n"That's right. That's probably it.\nIt was our shadow."
+<en>{Kazushi}\n"She's right. It was probably just your shadow."
 <es>
 
 @887
-<en>{Pierre}\n"No......\nit was a small girl with a long hair."
+<en>{Pierre}\n"No, that's not right... I'm sure I saw a small, expressionless girl with long hair walk by."
 <es>
 
 @891
-<en>{Haruka}\n"It's very specific.\nLong hair girl......"
+<en>{Haruka}\n"That's very specific. A small girl with long hair..."
 <es>
 
 @896
-<en>Now everyone pays attention to Rin.\nShe's the only person in this room with long hair.
+<en>Now everyone was paying attention to Fujisaki-san. She was the only person in the room with long hair.
 <es>
 
 @899
-<en>Rin was the one who was most surprised.
+<en>But Rin was the one who was most surprised.
 <es>
 
 @900
-<en>{Rin}\n"It's not me.\nYou guys know I was here all the time."
+<en>{Rin}\n"It wasn't me. You guys know I've been here the whole time."
 <es>
 
 @905
-<en>{Sakura}\n"You are right.\nYou were next to me all the time."
+<en>{Sakura}\n"You're right. You've been next to me all night."
 <es>
 
 @910
-<en>{Pierre}\n"Hey, is this school know for people witnessing ghosts?"
+<en>{Pierre}\n"Hey...does this school have a reputation for people seeing ghosts?"
 <es>
 
 @911
-<en>We felt room temperture went down a few degrees as we heard a word "ghost".
+<en>We felt the room's temperature plummet when Pierre mentioned the word "ghost".
 <es>
 
 @912
@@ -1285,67 +1285,67 @@
 <es>
 
 @918
-<en>{Haruka}\n"Well......there is a significant differrence between Alchemy and ghosts."
+<en>{Haruka}\n"Well, there are a lot of stories, given this academy... but Alchemy and ghosts aren't the same."
 <es>
 
 @919
-<en>{Mizuki}\n"Can we change the subject now?\nIt's getting late and scary."
+<en>{Mizuki}\n"Could we PLEASE change the subject? It's late."
 <es>
 
 @922
-<en>Mizuki can't take it anymore.
+<en>I guess Mizuki couldn't stand ghost stories in addition to dirty jokes.
 <es>
 
 @923
-<en>I found her weakness.
+<en>She had a surprising amount of weaknesses.
 <es>
 
 @928
-<en>{Mizuki}\n"Rin-, can you please follow me to the restroom?"
+<en>{Mizuki}\n"Rin, will you please come with me to the restroom?"
 <es>
 
 @929
-<en>Mizuki begs Rin.
+<en>Mizuki pulled Fujisaki-san by the arm.
 <es>
 
 @933
-<en>{Sakura}\n"Mizuki, are you trying to escape from here?"
+<en>{Sakura}\n"Mizuki, are you trying to escape?"
 <es>
 
 @936
-<en>{Mizuki}\n"No. I really want to go to the restroom."
+<en>{Mizuki}\n"No, I just really need to use the bathroom."
 <es>
 
 @940
-<en>{Rin}\n"Are you all right?\nYou are shaking."
+<en>{Rin}\n"Are you all right? You're shaking."
 <es>
 
 @941
-<en>{Mizuki}\n"I need to go to the restroom.\nPlease."
+<en>{Mizuki}\n"I need to go to the restroom. Please."
 <es>
 
 @942
-<en>{Rin}\n"All right. All right."
+<en>{Rin}\n"W-wait a second."
 <es>
 
 @946
-<en>{Rin}\n"It's locked."
+<en>{Rin}\n"Huh? It won't open?"
 <es>
 
 @948
-<en>She tries again,\nbut heavy door of the lab doesn't open for her.
+<en>She tried to open the door again, but the lab's heavy door wouldn't open for her.
 <es>
 
 @949
-<en>{Mizuki}\n"Did anyone lock this door?"
+<en>{Mizuki}\n"Why won't it open? Did someone lock the door?"
 <es>
 
 @954
-<en>{Haruka}\n"It's impossible.\nYou can't lock that door from inside."
+<en>{Haruka}\n"That's impossible.\nYou can't lock these doors from the inside."
 <es>
 
 @958
-<en>{Pierre}\n"Then why does it not open?"
+<en>{Pierre}\n"Then why won't it open?"
 <es>
 
 @961
@@ -1353,11 +1353,11 @@
 <es>
 
 @965
-<en>Everyone was in shock.\nWe all knew there was definitely something going wrong.
+<en>Everybody was in shock. We all knew that something was definitely going terribly wrong.
 <es>
 
 @966
-<en>But nobody knew what exactly was going on.
+<en>But nobody had a solid enough grip on the situation to know what was going on...
 <es>
 
 @969
@@ -1365,23 +1365,23 @@
 <es>
 
 @970
-<en>I was sweating a lot.\nMy shirt is so wet and feels terrible.
+<en>I broke out into a massive sweat. My shirt felt wet and clung to my chest, feeling disgusting.
 <es>
 
 @975
-<en>{Sakura}\n"It's got so hot all the sudden."
+<en>{Sakura}\n"It's gotten so hot all of a sudden."
 <es>
 
 @976
-<en>{Rin}\n"It is......"
+<en>{Rin}\n"It has..."
 <es>
 
 @977
-<en>It wasn't just me.\nThe room temperture definitely raised in short time.
+<en>It wasn't just me. The room's temperature had definitely gone upwards in no time at all.
 <es>
 
 @978
-<en>{Kazushi}\n"Let's wake everybody up.\nWe should stick together."
+<en>{Kazushi}\n"Let's wake everyone up for now. We can think of what to do afterwards."
 <es>
 
 @983
@@ -1389,15 +1389,15 @@
 <es>
 
 @987
-<en>{Pierre}\n"Hey Appo-, Daigo,\nwake up."
+<en>{Pierre}\n"Hey, Appo! Daigo! Wake up!"
 <es>
 
 @991
-<en>{Rin}\n"RanHu-senReiwake up.\nSomething is going wrong."
+<en>{Rin}\n"Ran-chan! Kazuko-chan! Rei-chan! You need to wake up! Something's not right!"
 <es>
 
 @993
-<en>We yelled at people sleeping in the back of the room.\nHowever, nobody seems to get up.
+<en>We yelled at the people sleeping in the back of the room. However, nobody seemed to get up.
 <es>
 
 @994
@@ -1405,15 +1405,15 @@
 <es>
 
 @995
-<en>Something is wrong.\nIt seems like there might be nobdoy over there in the back of the room.
+<en>Something's wrong. I got the feeling there wasn't anybody back there to wake up.
 <es>
 
 @996
-<en>I stood on my toe to look over them.
+<en>I stood on tip-toe to look over to them.
 <es>
 
 @997
-<en>{Hu-sen}\n"Ah!...Ahhhhh...!"
+<en>{Fuusen}\n"Ah, ahhn! Hahh, Ah-channnn..."
 <es>
 
 @998
@@ -1421,43 +1421,43 @@
 <es>
 
 @999
-<en>Who is moaning?\nIt sounds like Hu-sen......
+<en>Who's moaning? It sounds like Fuusen...
 <es>
 
 @1000
-<en>Was her voice this sexy?
+<en>Was her voice always this sexy?
 <es>
 
 @1001
-<en>{Hu-sen}\n"Not there...!"
+<en>{Fuusen}\n"Hnn, not there...It's too good!"
 <es>
 
 @1002
-<en>She's getting louder.\nI could clealy see two shadows getting busy.
+<en>She's getting louder. I could clearly see two shadows getting busy behind the work bench.
 <es>
 
 @1003
-<en>{Kazushi}\n"What are you guys doing!?\nWe told you not to do it in here!"
+<en>{Kazushi}\n"What are you guys doing!? We told you not to do it in here!"
 <es>
 
 @1004
-<en>I couldn't help turning my back.
+<en>I couldn't help turning my back on them.
 <es>
 
 @1005
-<en>{Kazushi}\n"What......?"
+<en>{Kazushi}\n"What the--?"
 <es>
 
 @1006
-<en>The girls are walking toward me.\nTheir eyes look funny.
+<en>The girls were prowling towards me. They had a strange look in their eyes.
 <es>
 
 @1009
-<en>{Haruka}\n"Kazushi-, don't you wanna do it with me?"
+<en>{Haruka}\n"Kazushi-kun, let's do it."
 <es>
 
 @1010
-<en>Haruka's thin arms wrap around my neck.\nShe smells sweet.
+<en>Haruka wrapped her thin arms around my neck. Her nice, sweet scent filled my nose.
 <es>
 
 @1011
@@ -1465,31 +1465,31 @@
 <es>
 
 @1012
-<en>Did she just say Don't you want me??
+<en>"Let's do it"?
 <es>
 
 @1013
-<en>{Kazushi}\n"Haruka!?"
+<en>{Kazushi}\n"H-Haruka!?"
 <es>
 
 @1018
-<en>{Ran}\n"Hold on I think I deserve to go first."
+<en>{Ran}\n"Hold on! I get it first!"
 <es>
 
 @1019
-<en>{Kazushi}\n"You go first......?\nWhat are you guys talking about?"
+<en>{Kazushi}\n"You first? ...Ran, what's gotten into you all?"
 <es>
 
 @1026
-<en>{Mizuki}\n"You need to take your clothes off.\nHow are you going to swim wearing so many clothes?"
+<en>{Mizuki}\n"You need to take your clothes off. How can you swim with them on?"
 <es>
 
 @1027
-<en>Mizuki starts undressing me.\nWhat has happened to them?
+<en>Mizuki started undressing me. What's happened to them?
 <es>
 
 @1028
-<en>{Kazushi}\n"Hey Pierre! Daigo!"
+<en>{Kazushi}\n"Hey! Pierre! Daigo!"
 <es>
 
 @1029
@@ -1497,11 +1497,11 @@
 <es>
 
 @1033
-<en>{Pierre}\n"Stop......stop!\nMom, help me!"
+<en>{Pierre}\n"S-stop, stop... Aahhhhhhhhh!!! Mama! Help, Mama!"
 <es>
 
 @1034
-<en>{Daigo}\n"&%$#! &%$#!"
+<en>{Daigo}\n"Hnnngh! Hnnnngh!"
 <es>
 
 @1035
@@ -1509,43 +1509,43 @@
 <es>
 
 @1036
-<en>I tried by best to ignore what they were shouting.
+<en>I decided it was best to pretend I never heard anything.
 <es>
 
 @1037
-<en>Appo- and Hu-sen sounded a whole lot natural.
+<en>Appo and Fuusen sounded a whole lot more proper.
 <es>
 
 @1038
-<en>They are a man and a woman.\nIt's natural.
+<en>A man with a woman is the natural way to do it.
 <es>
 
 @1045
-<en>{Haruka}\n"Yes, it is.\nIt's only natural for us to have sex, right?"
+<en>{Haruka}\n"That's right. It's natural. So, come on."
 <es>
 
 @1046
-<en>{Ran}\n"Kazushi-give me 10 bucks! I'll give you a good one."
+<en>{Ran}\n"Kazushi, give me 1000 yen! Then I'll give it to you!"
 <es>
 
 @1047
-<en>{Kazushi}\n"What do you mean a good one?"
+<en>{Kazushi}\n"It? You mean..."
 <es>
 
 @1048
-<en>{Mizuki}\n"You need to take your clothes off.\nDon't you wanna get busy with me in water?"
+<en>{Mizuki}\n"Hurry up and take your clothes off! You can't swim with them on. There's so many things we can do in the water."
 <es>
 
 @1049
-<en>{Kazushi}\n"Get busy?"
+<en>{Kazushi}\n"So many things?"
 <es>
 
 @1050
-<en>I'm startin to feel good about this.\nI knew I would have so much fun in co-ed school.
+<en>I'm starting to feel strangely good about all this. Who knew I'd have so much fun by going to a coed school?
 <es>
 
 @1051
-<en>{Kazushi}\n"All right!\nI'm gonna have fun tonight!"
+<en>{Kazushi}\n"All right! Tonight we hustle!"
 <es>
 
 @1058
@@ -1553,7 +1553,7 @@
 <es>
 
 @1059
-<en>Somebody hit back of my head hard.
+<en>Somebody smacked me hard on the back of my head.
 <es>
 
 @1060
@@ -1561,7 +1561,7 @@
 <es>
 
 @1063
-<en>{Rin}\n"You make me nuts."
+<en>{Rin}\n"Haruma-kun, you're pissing me off."
 <es>
 
 @1064
@@ -1569,35 +1569,35 @@
 <es>
 
 @1065
-<en>There is something wrong with Rin.\nShe never talks to me like this.
+<en>Something's wrong with Fujisaki-san. Since when did she call me by my last name with no honorific?
 <es>
 
 @1066
-<en>{Rin}\n"You behave."
+<en>{Rin}\n"You behave yourself."
 <es>
 
 @1069
-<en>She wacked me with a steel bar.
+<en>She whacked me with the steel bar used for stirring the flames.
 <es>
 
 @1071
-<en>{Kazushi}\n"Ouch!\nWhat are you doing!?"
+<en>{Kazushi}\n"Ouch! What are you doing!?"
 <es>
 
 @1072
-<en>{Rin}\n"You make me disgusted."
+<en>{Rin}\n"Haruma-kun, you're pissing me off."
 <es>
 
 @1073
-<en>{Kazushi}\n"Will you stop hitting me?\nYou are acting weired."
+<en>{Kazushi}\n"Hey! Don't beat me like that! You're not acting right, Fujisaki-san?"
 <es>
 
 @1074
-<en>{Rin}\n"It seems like you have too much evergy.\nAre you guys always doing stuff like this?"
+<en>{Rin}\n"Seems you have plenty of spare energy. Are you always doing this? What are students these days thinking?"
 <es>
 
 @1075
-<en>{Kazushi}\n"I don't know why you are so mad at me......\nHey! You gave me a lump on my head!"
+<en>{Kazushi}\n"I don't know why you're so mad at me!\nHey! You left a lump on my head!"
 <es>
 
 @1076
@@ -1605,23 +1605,23 @@
 <es>
 
 @1077
-<en>{Kazushi}\n"What did you say......?"
+<en>{Kazushi}\n"Huh...?"
 <es>
 
 @1078
-<en>Hisae was the principal's first name, right......?
+<en>Hisae was the principal's first name, right?
 <es>
 
 @1079
-<en>{Rin}\n"It's stupid......!!"
+<en>{Rin}\n"Hmph..."
 <es>
 
 @1080
-<en>Rin winds up with a steel bar.\nShe's going to wack the pot with it......
+<en>Fujisaki-san wound up the fire stirrer. She was aiming right for the furnace. If she swung straight down...
 <es>
 
 @1081
-<en>{Kazushi}\n"Hey......what are you going to do!?"
+<en>{Kazushi}\n"Hey! What are you doing!?"
 <es>
 
 @1082
@@ -1629,31 +1629,31 @@
 <es>
 
 @1083
-<en>She swings down hard.
+<en>She swung the bar down hard.
 <es>
 
 @1090
-<en>Right when the steel bar hits the pot enormous amount of flash was release from inside.
+<en>Right before the fire stirrer struck it, the furnace unleashed a bright flash of light.
 <es>
 
 @1091
-<en>{Kazushi}\n"Wow!?\nWhat's going on!!?"
+<en>{Kazushi}\n"Wow!\nWhat's going on!!?"
 <es>
 
 @1092
-<en>It was so bright,\nI couldn't help covering my eyes.
+<en>It was so bright that I couldn't help covering my eyes.
 <es>
 
 @1093
-<en>{Rin}\n"Kazushi, I need your head."
+<en>{Rin}\n"Haruma-kun, I need your head."
 <es>
 
 @1094
-<en>{Kazushi}\n"Why?"
+<en>{Kazushi}\n"Huh?"
 <es>
 
 @1096
-<en>[Rin pulling out Kazushi's hair]
+<en>*YANK!*
 <es>
 
 @1097
@@ -1665,11 +1665,11 @@
 <es>
 
 @1099
-<en>{Rin}\n"!!"
+<en>{Rin}\n"Ow!"
 <es>
 
 @1100
-<en>Rin pilled out her own hair.\nHer hair is so long it can almost touch the floor.\nRin tied her hair to my hair.
+<en>Rin pulled out a few strands of her own hair. Her hair was so long that it almost touched the floor. Despite the differences in length, Rin tied our hair together.
 <es>
 
 @1101
@@ -1677,39 +1677,39 @@
 <es>
 
 @1102
-<en>She threw that into the pot.\nIt soon disappeared into the flash.
+<en>She threw the hair knot into the bright glowing furnace. It quickly vanished into the light.
 <es>
 
 @1104
-<en>[Hair burning]
+<en>*SIZZLE*
 <es>
 
 @1105
-<en>I could smell the scent of hair being burnt.\nAnd......
+<en>I could smell the acrid odor of burnt hair.\nAnd then...
 <es>
 
 @1110
-<en>The bright flash disappeared.
+<en>The bright light disappeared.
 <es>
 
 @1111
-<en>{Kazushi}\n"......it's gone."
+<en>{Kazushi}\n"Huh? ...What?"
 <es>
 
 @1112
-<en>It came back to the quiet night again.\nMy entire body was soaking wet from the sweat
+<en>Quiet returned to the night, as if it had never left. My entire body was dripping wet with how much I'd sweat.
 <es>
 
 @1113
-<en>{Kazushi}\n"......Rin?"
+<en>{Kazushi}\n"Fujisaki-san...huh?"
 <es>
 
 @1114
-<en>She's down on the floor.\nNot just her.\nEveryone was down on the floor.
+<en>She was unconscious on the floor. No, not just her. Everyone was on the floor.
 <es>
 
 @1115
-<en>Everybody seems to be unconcious.
+<en>Everybody seemed to have passed out.
 <es>
 
 @1116
@@ -1721,11 +1721,11 @@
 <es>
 
 @1118
-<en>{Haruka}\n"NNNNN......"
+<en>{Haruka}\n"Nnm..."
 <es>
 
 @1119
-<en>It's Haruka.\nShe was down on the floor facing down.
+<en>It was Haruka. She was on her belly, face down against the ground.
 <es>
 
 @1120
@@ -1733,55 +1733,55 @@
 <es>
 
 @1121
-<en>I help her stand up.
+<en>I lifted her up.
 <es>
 
 @1124
-<en>{Haruka}\n"......where am I?\nAre you trying to attack me?"
+<en>{Haruka}\n"...where am I?\nAre you trying to rape me?"
 <es>
 
 @1125
-<en>She's getting a wrong idea.\nShe looks like she just woke up.
+<en>Haruka was looking up at me in my arms, like she'd just rolled out of bed.
 <es>
 
 @1126
-<en>{Kazushi}\n"Are you all right?\nAre you hurt?"
+<en>{Kazushi}\n"Are you all right? Are you hurt?"
 <es>
 
 @1129
-<en>{Haruka}\n"I'm all right.\nWhat was I doing here?"
+<en>{Haruka}\n"I'm all right.\nWhat was I doing?"
 <es>
 
 @1130
-<en>{Kazushi}\n"That's what I want to know......?"
+<en>{Kazushi}\n"That's what I want to know."
 <es>
 
 @1134
-<en>[Flame getting weak]
+<en>*fsssshhhhhh*
 <es>
 
 @1135
-<en>The fire in the pot is getting small.\nIt's now as small as my pinky.\nAnd finally......
+<en>The fire in the pot was going out.\nNow it's as small as my little finger.\nAnd finally...
 <es>
 
 @1136
-<en>The fire went off!
+<en>The fire went out completely.
 <es>
 
 @1139
-<en>{Kazushi}\n"Hey......the fire just went off!? Isn't it bad!?"
+<en>{Kazushi}\n"Hey, the fire just went out! Isn't that bad?"
 <es>
 
 @1140
-<en>I thought keeping it burnig was the only reason for us to be her.
+<en>I thought that our only reason for being here was to keep it burning.
 <es>
 
 @1143
-<en>{Haruka}\n"It's O.K\nWe served our time."
+<en>{Haruka}\n"It's OK. We've done our time."
 <es>
 
 @1144
-<en>Haruka points out to the sandglass.\nAll the sands were dropped.\nWe served our time.
+<en>Haruka pointed to an hourglass in the corner. All of the sand had fallen from the top, showing that we had indeed served our time.
 <es>
 
 @1145
@@ -1789,15 +1789,15 @@
 <es>
 
 @1146
-<en>Everyone felt so relieved.\nRight at that moment.......
+<en>Everyone felt so relieved.\nRight at that moment......
 <es>
 
 @1149
-<en>{Haruka}\n"What is that?"
+<en>{Haruka}\n"What's that?"
 <es>
 
 @1150
-<en>The atomsphere got so intensed once again.
+<en>The atmosphere regained its intensity.
 <es>
 
 @1151
@@ -1805,19 +1805,19 @@
 <es>
 
 @1154
-<en>{Haruka}\n"T, T, That......"
+<en>{Haruka}\n"T-t-that!"
 <es>
 
 @1155
-<en>Her voice was shaking.\nHer eyes are as widely open as they can be staring at nothing but one point.
+<en>Haruka's voice was shaking. Her eyes were as wide as saucers yet she focused on one tiny point.
 <es>
 
 @1156
-<en>{Kazushi}\n"What......WOW!?"
+<en>{Kazushi}\n"What the... WOW!"
 <es>
 
 @1160
-<en>Inside the glassbottle in the pot there was a girl.
+<en>There was a little girl inside the glass flask over the furnace.
 <es>
 
 @1161
@@ -1825,35 +1825,35 @@
 <es>
 
 @1162
-<en>She is looking at us......with an unhappy face.\nShe is......
+<en>She was looking at us with the most unhappy face imaginable.\nShe's...
 <es>
 
 @1163
-<en>{Kazushi}\n"Who is that?"
+<en>{Kazushi}\n"Who's that?"
 <es>
 
 @1164
-<en>{Sakura}\n"Oh my god! Canned girl!?"
+<en>{Sakura}\n"Wow, a girl in a bottle?"
 <es>
 
 @1165
-<en>Sakura who's only upper body is up from the floor is in disblief.\nNobody includes myself can't find a word to say.
+<en>Sakura was sitting up from the floor and staring in disbelief. Nobody, including myself, could find anything to say.
 <es>
 
 @1166
-<en>{Ran}\n"What in the world have we made-?"
+<en>{Ran}\n"What in the world have we created?"
 <es>
 
 @1167
-<en>{Hu-sen}\n"What is that?\nWho made her?"
+<en>{Fuusen}\n"What's that?\nWho's the pedo?"
 <es>
 
 @1168
-<en>{Rin}\n"Hey, the fire is gone!?"
+<en>{Rin}\n"Huh? The fire's out?"
 <es>
 
 @1169
-<en>Everybody starts to gain conciousness one by one.\nThey are taking close look at what just came out from the fire.
+<en>Everybody started regaining consciousness one by one. They took a closer look at what emerged from the fire.
 <es>
 
 @1170
@@ -1861,15 +1861,15 @@
 <es>
 
 @1171
-<en>{Sakura}\n"We must fell asleep.\nI don't remember anything."
+<en>{Sakura}\n"We must have fallen asleep. But how?"
 <es>
 
 @1172
-<en>{Mizuki}\n"Was the experiment successful?\nWhat did the principal make?"
+<en>{Mizuki}\n"Are we done? What on earth is that?"
 <es>
 
 @1173
-<en>{Natsume}\n"..................Kazushi."
+<en>{Natsume}\n"..................Haruma. Haruma."
 <es>
 
 @1174
@@ -1877,19 +1877,19 @@
 <es>
 
 @1175
-<en>The little girl is calling me.\nWhy does she know my name?
+<en>The little girl in the bottle was calling to me.\nHow does she know my name?
 <es>
 
 @1176
-<en>{Natsume}\n"Let me out quick!"
+<en>{Natsume}\n"Let me out! Quick!"
 <es>
 
 @1177
-<en>{Kazushi}\n"Oh sorry."
+<en>{Kazushi}\n"Oh, sorry."
 <es>
 
 @1178
-<en>It looks very tight inside the bottle.\nWe should let her out from the flask.
+<en>It looked very tight inside the bottle. We should let her out of the flask at least.
 <es>
 
 @1179
@@ -1909,47 +1909,47 @@
 <es>
 
 @1183
-<en>{Daigo}\n"She had to hit you hard to escape from you and so you lost your momory."
+<en>{Daigo}\n"You were so persistent, she had to hit you and you lost your memory or something."
 <es>
 
 @1184
-<en>{Haruka}\n"Kazushi, you are that obstinate?"
+<en>{Haruka}\n"Kazushi-kun, are you that persistent?"
 <es>
 
 @1185
-<en>{Kazushi}\n"I only know about her as much as you guys."
+<en>{Kazushi}\n"Don't believe them."
 <es>
 
 @1186
-<en>{Kazushi}\n"Right now, we should let her out from there."
+<en>{Kazushi}\n"I don't know what's going on either, but right now, we should let her out from there."
 <es>
 
 @1187
-<en>{Natsume}\n"Kazushi, will you hurry up?"
+<en>{Natsume}\n"Haruma, hurry up."
 <es>
 
 @1188
-<en>{Kazushi}\n"Right away."
+<en>{Kazushi}\n"I'm on it."
 <es>
 
 @1189
-<en>I guess I have no choice but breaking the bottle.
+<en>I guess I have no choice but to break the bottle."
 <es>
 
 @1193
-<en>{Haruka}\n"Sure.\nGo ahead and break it."
+<en>{Haruka}\n"Sure. Go ahead and break it."
 <es>
 
 @1195
-<en>I took as much caution as I could to break the botttle so I won't hurt her.
+<en>After Haruka caught my hesitation and urged me on, I carefully broke the huge flask.
 <es>
 
 @1199
-<en>From the cracks,\nher arms and legs came out and reached for me.
+<en>From the cracks, her arms and legs unfolded as she reached for me.
 <es>
 
 @1202
-<en>{Natsume}\n"Pill me out from here."
+<en>{Natsume}\n"Pull."
 <es>
 
 @1203
@@ -1957,39 +1957,39 @@
 <es>
 
 @1204
-<en>I grabbed her tiny hands and pulled her.\nShe was as light as fairy.
+<en>I grabbed her tiny hands and pulled her from the wreckage. She was as light as a fairy.
 <es>
 
 @1207
-<en>{Natsume}\n"Oh my......that was tough."
+<en>{Natsume}\n"Phew... I messed up a bit."
 <es>
 
 @1208
-<en>She stretches herself and looks around.
+<en>She stretched out and looked around.
 <es>
 
 @1213
-<en>{Haruka}\n"Umm, will you tell us who you are?"
+<en>{Haruka}\n"Umm, who are you?"
 <es>
 
 @1214
-<en>Haruka greets to her.\nThe girl looked above to see Haruka.
+<en>Haruka went up to greet her.\nThe girl looked over at Haruka.
 <es>
 
 @1217
-<en>{Haruka}\n"Well......?"
+<en>{Haruka}\n"Umm...?"
 <es>
 
 @1218
-<en>{Natsume}\n"Are you Hisae's grand daughter?"
+<en>{Natsume}\n"Are you Hisae's granddaughter?"
 <es>
 
 @1221
-<en>{Haruka}\n"What? You know my grand ma?"
+<en>{Haruka}\n"What? You know my grandma?"
 <es>
 
 @1224
-<en>{Natsume}\n"Tell her I said she's ugly!"
+<en>{Natsume}\n"Tell her I said she's an ugly bitch!"
 <es>
 
 @1225
@@ -1997,11 +1997,11 @@
 <es>
 
 @1226
-<en>She talks bad.\nEventhough she looks like a pure little girl.
+<en>She's got a foul mouth, even though she looks like a cute little girl.
 <es>
 
 @1231
-<en>{Ran}\n"Hey guys, are we done with our assignment?"
+<en>{Ran}\n"Hey, guys, are we done with our assignment?"
 <es>
 
 @1232
@@ -2009,7 +2009,7 @@
 <es>
 
 @1236
-<en>{Natsume}\n"Yes, you are.\nYou guys are free to go.\nCome with me, Kazushi."
+<en>{Natsume}\n"Yes, you are. You guys are free to go.\nHaruma, come with me."
 <es>
 
 @1237
@@ -2017,47 +2017,47 @@
 <es>
 
 @1238
-<en>{Kazushi}\n"Umm......\nHow did you know my name?"
+<en>{Kazushi}\n"Huh? S-sure... Hey, how do you know my name?"
 <es>
 
 @1244
-<en>{Daigo}\n"Kazushi gets along with littlw girls very fast."
+<en>{Daigo}\n"Kazushi's quick to get along with little girls."
 <es>
 
 @1245
-<en>{Appo-}\n"Did you guys know he likes little girls?"
+<en>{Appo}\n"'Cause he's a lolicon."
 <es>
 
 @1249
-<en>{Haruka}\n"Are you serious!?"
+<en>{Haruka}\n"Huh?! No way?!"
 <es>
 
 @1253
-<en>{Mizuki}\n"He is?\nThat's disgusting-"
+<en>{Mizuki}\n"Wait, really? That's creepy."
 <es>
 
 @1254
-<en>{Kazushi}\n"They are joking.\nPlease don't believe them."
+<en>{Kazushi}\n"They're joking. Please don't believe them."
 <es>
 
 @1259
-<en>{Natsume}\n"Hurry up, Kazushi."
+<en>{Natsume}\n"Come on, hurry up."
 <es>
 
 @1260
-<en>{Kazushi}\n"All right, all right.\nDon't pull me so hard."
+<en>{Kazushi}\n"All right, all right. Don't pull me so hard."
 <es>
 
 @1261
-<en>I really like to know who this girl is.
+<en>I'd really like to know who this girl is.
 <es>
 
 @1268
-<en>{Principal}\n"Everybody, you did very well."
+<en>{Principal}\n"Good work, everyone."
 <es>
 
 @1269
-<en>We are called over to the principal's office.
+<en>We were all summoned to the principal's office.
 <es>
 
 @1273
@@ -2065,7 +2065,7 @@
 <es>
 
 @1274
-<en>She was there with us, too.\nAgain, she's showing an unhappy face.
+<en>The girl from the bottle was there with us too. Again she was wearing an unhappy face.
 <es>
 
 @1279
@@ -2081,35 +2081,35 @@
 <es>
 
 @1282
-<en>{Kazushi}\n"Hey you.\nDo you know the principal is talking ot you?"
+<en>{Kazushi}\n"Hey you.\nDo you know the principal is talking to you?"
 <es>
 
 @1285
-<en>She stares back at me.
+<en>She glared back at me.
 <es>
 
 @1288
-<en>{Natsume}\n"I don't wanna talk to this woman.\nKazushi, can you do the talking part instead of me?"
+<en>{Natsume}\n"Haruma, give her my answer for me. I have nothing to say to that woman."
 <es>
 
 @1289
-<en>{Kazushi}\n"This woman......"
+<en>{Kazushi}\n"That woman......"
 <es>
 
 @1290
-<en>This little girl is calling the principal "this woman".\nWhat's even funny is that she knows my name.
+<en>Who does this girl think she is, calling the principal 'that woman'? And why does she know my name?
 <es>
 
 @1291
-<en>I don't think we have met before......
+<en>I don't think we've met before...
 <es>
 
 @1294
-<en>{Natsume}\n"This is so stupid......"
+<en>{Natsume}\n"Hmph..."
 <es>
 
 @1295
-<en>I feel her hostility toward me, too......
+<en>I felt her hostility towards me as well...
 <es>
 
 @1296
@@ -2117,7 +2117,7 @@
 <es>
 
 @1299
-<en>{Principal}\n"Her name is Natsume......she' a freshman.\nEveryone please be friendly to her."
+<en>{Principal}\n"This is Amamiya Natsume-san. She's a first year. Everyone, please be nice to her."
 <es>
 
 @1302
@@ -2125,11 +2125,11 @@
 <es>
 
 @1305
-<en>Natsume looked away as the principal introduded her to us.\nThe principal smiled bitterly.
+<en>Natsume-chan looked away as the principal introduced her to us. The principal smiled bitterly.
 <es>
 
 @1306
-<en>{Principal}\n"That's all right.\nI'll need a couple of days to think how we should treat her in this school."
+<en>{Principal}\n"Don't worry. I'll think of how to handle her later."
 <es>
 
 @1307
@@ -2137,63 +2137,63 @@
 <es>
 
 @1308
-<en>Who is this girl and what is she to the principal?\nHow did she appear here?
+<en>Who is this girl, and what is she to the principal? How did she appear here?
 <es>
 
 @1311
-<en>{Principal}\n"Good job today, everyone.\nAs I promised, there is no further penalties for the incident last week."
+<en>{Principal}\n"Good job, everybody. You accomplished your task splendidly. As I promised, there will be no further penalties regarding last week's incident."
 <es>
 
 @1315
-<en>{Rei}\n"Really?"
+<en>{Andou}\n"Really?"
 <es>
 
 @1318
-<en>{Principal}\n"Absolutely.\nPromise is promise."
+<en>{Principal}\n"Absolutely. After all, that was the promise."
 <es>
 
 @1322
-<en>{Hu-sen}\n"Did you hear that Rei?"
+<en>{Fuusen}\n"Did you hear that, Rei?"
 <es>
 
 @1323
-<en>{Rei}\n"Thank you guys.\nIt's all because of you."
+<en>{Andou}\n"Thank you, guys. It's all thanks to your help."
 <es>
 
 @1324
-<en>Big Rei Started to cry.
+<en>Andou's sensitive tears belied her huge body.
 <es>
 
 @1329
-<en>{Natsume}\n"Look at the big girl crying."
+<en>{Natsume}\n"Look at the giantess crying."
 <es>
 
 @1330
-<en>It must be a very interesting scene for her.
+<en>This must have been quite an interesting scene for her to witness. Amamiya Natsume-chan, huh? What a strange girl.
 <es>
 
 @1331
-<en>Even though we saved ourselves from getting kicked out from the school, I didn't feel we accomplished anything particulary......
+<en>Even though we saved ourselves from getting kicked out of school again, I didn't feel like we'd managed to accomplish anything.
 <es>
 
 @1332
-<en>I'm sure it's not just me sho's feeling that way.
+<en>I'm sure I'm not the only one who feels that way either.
 <es>
 
 @1343
-<en>{Pierre}\n"Hi Natsume! You are very pretty!\nNice to mewet you!"
+<en>{Pierre}\n"Hi, Natsume-chan! You're very pretty! It's nice to meet you!"
 <es>
 
 @1346
-<en>{Rin}\n"You are sure pretty.\nI wanna be your big sister."
+<en>{Rin}\n"You're adorable.\nI want to be your big sister."
 <es>
 
 @1347
-<en>As soon as getting out from the principal's office,\nNatsume was surrounded by us.
+<en>Everybody gathered around Natsume-chan as soon as we left the principal's office.
 <es>
 
 @1351
-<en>{Ran}\n"Does your paretns happen to be rich?"
+<en>{Ran}\n"Do your parents happen to be rich?"
 <es>
 
 @1352
@@ -2201,15 +2201,15 @@
 <es>
 
 @1353
-<en>She was looking up to us mysteriously.
+<en>She looked at us with confusion in her eyes as we greeted her.
 <es>
 
 @1358
-<en>{Natsume}\n"Hey, Kazushi."
+<en>{Natsume}\n"Haruma."
 <es>
 
 @1359
-<en>She gets out from the circle and hid behind me.
+<en>Natsume-chan left the circle and hid behind me.
 <es>
 
 @1360
@@ -2217,7 +2217,7 @@
 <es>
 
 @1363
-<en>{Natsume}\n"Kazushi, I want you to beat them up."
+<en>{Natsume}\n"I want you to beat them up for me, Haruma."
 <es>
 
 @1364
@@ -2229,35 +2229,35 @@
 <es>
 
 @1368
-<en>She is shaking.\nShe seems to be afraid of them.\nMaybe this is new to her.
+<en>She was shaking a bit. I guess she was afraid. Maybe she's not used to people?
 <es>
 
 @1369
-<en>She is perhaps very shy.
+<en>She seemed arrogant, but maybe she's just extra shy?
 <es>
 
 @1373
-<en>{Ran}\n"What's wrong?\nAre we scaring you?"
+<en>{Ran}\n"What's wrong? Are we scaring you?"
 <es>
 
 @1374
-<en>{Kazushi}\n"Ran, it's because of you.\nWho mentions about money at very first meeting?"
+<en>{Kazushi}\n"This is your fault, Ran. Who brings up money as soon as she meets somebody?"
 <es>
 
 @1377
-<en>{Ran}\n"You are telling me it's my fault?\nIt's only natural to ask about how much asset you have when you choose a friend."
+<en>{Ran}\n"You're saying that I've creeped her out? No way. It's only natural to enquire about assets when choosing your friends."
 <es>
 
 @1382
-<en>{Mizuki}\n"No, it's not."
+<en>{Mizuki}\n"No it's not."
 <es>
 
 @1389
-<en>{Rin}\n"Look at her, she's so pretty-.\nShe's hiding behind Kazushi looking at us."
+<en>{Rin}\n"Look at her, she's so delicate.\nShe's peering out at us from behind Haruma-kun."
 <es>
 
 @1392
-<en>{Natsume}\n"Keep watching me.\nYou will be cursed."
+<en>{Natsume}\n"Keep watching me and you'll be cursed."
 <es>
 
 @1395
@@ -2265,31 +2265,31 @@
 <es>
 
 @1396
-<en>Natsume almost made Rin cry.\nNow I know she is extremely shy.
+<en>Natsume-chan almost made Fujisaki-san cry. Yeah, despite her appearance, Natsume-chan is just extremely shy.
 <es>
 
 @1401
-<en>{Mei}\n"Hey guys, that's enough.\nGo back to your class.\nYou guys have an exam today."
+<en>{Mei}\n"Hey guys, that's enough.\nYou need to get back to class - you've still got exams today."
 <es>
 
 @1402
-<en>Ms, Ibuki 's words froze us.
+<en>Mei-sensei's words froze us in our tracks.
 <es>
 
 @1410
-<en>{Appo-}\n"What? We have an exam today?"
+<en>{Appo}\n"What? We've still got exams today?"
 <es>
 
 @1411
-<en>{Mizuki}\n"So soon? After all that last night?"
+<en>{Mizuki}\n"Without any chance to rest?"
 <es>
 
 @1412
-<en>{Pierre}\n"We hardly slept last night."
+<en>{Pierre}\n"I'm really tired. We hardly slept last night."
 <es>
 
 @1413
-<en>{Kazushi}\n"We are so not prepared."
+<en>{Kazushi}\n"I didn't even study!"
 <es>
 
 @1417
@@ -2297,7 +2297,7 @@
 <es>
 
 @1420
-<en>{Mei}\n"I feel sorry, too.\nBut last night was a penalty.\nYou guys have to follow along the class schdule."
+<en>{Mei}\n"I'm sorry about this, too, but last night was only your penalty. You're young though, so just work hard for one day."
 <es>
 
 @1424
@@ -2305,11 +2305,11 @@
 <es>
 
 @1425
-<en>Everybody now remembered how tired we are.\nI can't believe we are going to take the exam from now.
+<en>Everybody's exhaustion was catching up with them. I can't believe we have to keep taking our exams now.
 <es>
 
 @1431
-<en>{Mei}\n"Natsume, you stay here.\nI'm going to show you the way to your dorm."
+<en>{Mei}\n"Amamiya-san, you stay here. I'm going to show you to your dorm."
 <es>
 
 @1434
@@ -2317,15 +2317,15 @@
 <es>
 
 @1437
-<en>{Mei}\n"Natsume?"
+<en>{Mei}\n"Amamiya-san?"
 <es>
 
 @1438
-<en>Natsume seems to have a habit to stare at people's face.
+<en>Natsume-chan seemed to have a habit of staring directly into peoples' faces.
 <es>
 
 @1439
-<en>Right now, she's staring at Ms, Ibuki.
+<en>Right now, she's staring at Mei-sensei and perplexing her.
 <es>
 
 @1442
@@ -2341,39 +2341,39 @@
 <es>
 
 @1451
-<en>{Mei}\n"I wonder what you found......"
+<en>{Mei}\n"What is it...?"
 <es>
 
 @1452
-<en>Ms, Ibuki's face was drawn up.
+<en>Mei-sensei's face was scrunched up in annoyance.
 <es>
 
 @1453
-<en>Wow, she's got the power to disturb teachers.
+<en>Wow, she's even got the power to disturb the teachers.
 <es>
 
 @1457
-<en>{Natsume}\n"Kazushi, come visit my room later on."
+<en>{Natsume}\n"Haruma, come visit my room later on."
 <es>
 
 @1458
-<en>{Kazushi}\n"Me? You want me to visit your room?"
+<en>{Kazushi}\n"Me? You want me to come to your room?"
 <es>
 
 @1459
-<en>{Natsume}\n"............sure."
+<en>{Natsume}\n"Sure."
 <es>
 
 @1460
-<en>She's already inviting me over to her room.
+<en>She's already inviting me to her room!
 <es>
 
 @1465
-<en>{Mei}\n"Ofcourse not!\nBoys can't enter the girls' dorm.\nYou know the rules."
+<en>{Mei}\n"Of course he's not coming to your room! Boys aren't permitted to enter the girls' dorm."
 <es>
 
 @1466
-<en>{Kazushi}\n"Ofcourse, I thought so."
+<en>{Kazushi}\n"Of course. That's what I thought."
 <es>
 
 @1467
@@ -2381,51 +2381,51 @@
 <es>
 
 @1470
-<en>{Mei}\n"That's not going to happen.\nHere, let's go."
+<en>{Mei}\n"That's not going to happen. Here, let's go."
 <es>
 
 @1473
-<en>{Natsume}\n"Hey, don't you pull my arm like that!"
+<en>{Natsume}\n"Hey, don't you pull my arm like that! It'll stretch!"
 <es>
 
 @1476
-<en>Natsume was more like brought in to the the dorm by Ms, Ibuki.
+<en>Mei-sensei escorted Natsume-chan into the dorm like a prisoner under a policeman's guard.
 <es>
 
 @1483
-<en>{Rin}\n"She's so cute-"
+<en>{Rin}\n"She's so cute!"
 <es>
 
 @1484
-<en>{Sakura}\n"I wanna abduct her and take a bath together!"
+<en>{Sakura}\n"I wanna abduct her so we can take our baths together!"
 <es>
 
 @1487
-<en>{Mizuki}\n"You need to choose words when you speak."
+<en>{Mizuki}\n"You need to choose your words more carefully before you speak."
 <es>
 
 @1491
-<en>{Haruka}\n"Kazushi, are you sure you haven't met her before?"
+<en>{Haruka}\n"Kazushi-kun, are you SURE you haven't met her before?"
 <es>
 
 @1492
-<en>{Kazushi}\n"I don't think so."
+<en>{Kazushi}\n"I don't think so..."
 <es>
 
 @1496
-<en>{Ran}\n"But she's awfully attached to you already."
+<en>{Ran}\n"But she's already become awfully attached to you."
 <es>
 
 @1504
-<en>{Pierre}\n"Some girls can tell a man with lolita fetish."
+<en>{Pierre}\n"That's 'cause Kazushi emits an aura that just makes lolis swoon."
 <es>
 
 @1505
-<en>{Appo-}\n"Oh yeah,\nremember the time......"
+<en>{Appo}\n"Oh yeah! Hey, remember the time..."
 <es>
 
 @1506
-<en>{Kazushi}\n"Guys please.\nWhen you guys tease me like that,\npeople actually believe you."
+<en>{Kazushi}\n"No, no, no, there is no such aura. And can you please stop saying things that might lead to trouble in these times?!"
 <es>
 
 @1511
@@ -2433,11 +2433,11 @@
 <es>
 
 @1512
-<en>{Kazushi}\n"Don't look at me like a criminal!"
+<en>{Kazushi}\n"Don't look at me like I'm a criminal!"
 <es>
 
 @1513
-<en>I still can't figure out how she knows my name.\nwait\tstart
+<en>I still can't figure out how she knows my name.
 <es>
 
 @1519
@@ -2445,7 +2445,7 @@
 <es>
 
 @1520
-<en>{Kazushi}\n"Get ready for a long day-"
+<en>{Kazushi}\n"Get ready for a long day."
 <es>
 
 @1521
@@ -2453,95 +2453,95 @@
 <es>
 
 @1529
-<en>{Appo-}\n"I'm dog tired."
+<en>{Appo}\n"I'm dog tired."
 <es>
 
 @1530
-<en>A long day is finally folding.
+<en>Our long day was finally coming to a close.
 <es>
 
 @1531
-<en>We took a bath, came back to the dorm and fell down on the bed.
+<en>We took our baths, came back to the dorm, and collapsed on our beds.
 <es>
 
 @1532
-<en>{Appo-}\n"I'm so sleepy after the all nighter."
+<en>{Appo}\n"I'm so sleepy after that all-nighter."
 <es>
 
 @1533
-<en>{Kazushi}\n"What are you talking about?\nYou were sleeping last night!\nI'm the one who had all nighter."
+<en>{Kazushi}\n"What are you talking about? You got to sleep last night! I'm actually feeling kind of awake though."
 <es>
 
 @1536
-<en>{Appo-}\n"I can't believe how tough you are."
+<en>{Appo}\n"I can't believe how tough you are."
 <es>
 
 @1537
-<en>{Kazushi}\n"Who wants to play UNO!"
+<en>{Kazushi}\n"Anybody want to play a round of UNO?"
 <es>
 
 @1540
-<en>{Appo-}\n"Not tonight man-"
+<en>{Appo}\n"Not tonight, man..."
 <es>
 
 @1542
-<en>He is truly tired. He does not move an inch.
+<en>Appo was truly wiped out. He didn't even move an inch.
 <es>
 
 @1543
-<en>{Kazushi}\n"Hey stay up-, don't leave me alone!"
+<en>{Kazushi}\n"Hey stay up, don't leave me alone!"
 <es>
 
 @1546
-<en>{Appo-}\n"Are you a kid-?\nGo to bed."
+<en>{Appo}\n"Are you a kid? Stupid brats who throw a tantrum and wake you when you're trying to sleep really do exist."
 <es>
 
 @1547
-<en>{Kazushi}\n"I'm not ashamed to be a kid."
+<en>{Kazushi}\n"Well, sorry."
 <es>
 
 @1550
-<en>{Kazushi}\n"See, somebody is visiting me!\nIt could be Perre and Daigo!"
+<en>{Kazushi}\n"See? I've got a visitor! It could be Pierre and Daigo!"
 <es>
 
 @1551
-<en>{Appo-}\n"Good for you.\nHave them babysit you."
+<en>{Appo}\n"Good for you. Go play with them."
 <es>
 
 @1557
-<en>{Hu-sen}\n"Good evening-,\nis my honey here?"
+<en>{Fuusen}\n"Good evening, Kazushi. Is my Ah-chan here?"
 <es>
 
 @1558
-<en>It was Hu-sen.
+<en>It was Fuusen.
 <es>
 
 @1563
-<en>{Appo-}\n"Oh, hey honey."
+<en>{Appo}\n"Oh, hey Fuu-chan."
 <es>
 
 @1564
-<en>Appo- waves at her from inside the bed.\nHu-sen comes inside.
+<en>Appo waved at her from under the covers. Fuusen came inside.
 <es>
 
 @1567
-<en>{Hu-sen}\n"You are like a big baby."
+<en>{Fuusen}\n"You're like a giant baby sometimes."
 <es>
 
 @1568
-<en>She sounds like a kind mom taking care of her son.
+<en>She sounded like a kind mother as she knelt next to Appo.
 <es>
 
 @1571
-<en>{Hu-sen}\n"You must be very tired.\nYou are sleepy, aren't you?"
+<en>{Fuusen}\n"You must be exhausted.\nYou're already half-asleep, aren't you?"
 <es>
 
 @1572
-<en>{Appo-}\n"I am-. I want you to be my pillow-"
+<en>{Appo}\n"I am, Fuu-chan, let me sleep on your lap."
 <es>
 
 @1575
-<en>{Hu-sen}\n"You are so cute, but not tonight.\nIt's Kazushi's room as well."
+<en>{Fuusen}\n"You're so cute, but I can't do that. Haruma-kun's here too."
 <es>
 
 @1576
@@ -2549,7 +2549,7 @@
 <es>
 
 @1579
-<en>They look over at me.
+<en>They both gave me a look. It was hard to stay here.
 <es>
 
 @1580
@@ -2557,7 +2557,7 @@
 <es>
 
 @1583
-<en>{Hu-sen}\n"Not at all.\nThis is your room."
+<en>{Fuusen}\n"Not at all. This is your room. Use it as you please."
 <es>
 
 @1584
@@ -2565,127 +2565,127 @@
 <es>
 
 @1585
-<en>I'm sure they are not speaking honestly.\nI can hear their mind saying "I wish he wasn't here".
+<en>It definitely wasn't that kind of mood at all. I could hear voices from the audience all over the world shouting, "Get the hell out right now!"
 <es>
 
 @1586
-<en>{Kazushi}\n"......I'm going to take a walk."
+<en>{Kazushi}\n"I... think I'm going to take a walk."
 <es>
 
 @1589
-<en>{Appo-}\n"Oh, yeah?\nWell, take your time."
+<en>{Appo}\n"Really? Well, take your time and enjoy the night air!"
 <es>
 
 @1592
-<en>{Hu-sen}\n"Walking is good for your health.\nThey say it's best when you walk at least two hours a day."
+<en>{Fuusen}\n"Please do. I read a fortune that says good things will happen tomorrow if you walk for at least two hours."
 <es>
 
 @1593
-<en>Two hours?\nAre they perhaps going to have sex here?
+<en>Two hours!?\nDon't tell me they're going to have sex here!?
 <es>
 
 @1594
-<en>{Kazushi}\n"......I see you guys later."
+<en>{Kazushi}\n"...I'll see you guys later."
 <es>
 
 @1599
-<en>{Appo- & Hu-sen}\n"Have fun-!"
+<en>{Appo & Fuusen}\n"Have fun!"
 <es>
 
 @1603
-<en>{Kazushi}\n"I can't believe those two......hey!!!"
+<en>{Kazushi}\n"I can't believe those two......Ah!"
 <es>
 
 @1605
-<en>As soon as I came out from the room,\nthe roomlight went off.
+<en>The lights went out as soon as I left our room.
 <es>
 
 @1606
-<en>{Kazushi}\n"......those guys!"
+<en>{Kazushi}\n"Don't tell me they're actually...Brrr!"
 <es>
 
 @1607
-<en>It makes me scared to think of those two having sex.
+<en>I nearly pictured the two of them doing it, and shivers raced down my spine. I'll stop thinking about it.
 <es>
 
 @1608
-<en>{Kazushi}\n"I'm such a loser-"
+<en>{Kazushi}\n"I'm such a loser."
 <es>
 
 @1609
-<en>I'm actually envious of Appo-.\nHe's the only one with a girlfriend.
+<en>I'm actually envious of Appo.\nHe's the only one with a girlfriend.
 <es>
 
 @1610
-<en>{Kazushi}\n"I don't know what to do now by myself."
+<en>{Kazushi}\n"I don't know what to do by myself now..."
 <es>
 
 @1611
-<en>Maybe I should swing by Daigo and Pierre.\nThough, I don't want them to know I got kicked out by Appo- and Hu-sen.
+<en>Maybe I should see how Daigo and Pierre are doing. Then again, I don't want them to know that I've been sexiled by Appo and Fuusen.
 <es>
 
 @1612
-<en>{Kazushi}\n"I need a girlfriend-"
+<en>{Kazushi}\n"Oh man, I wish there was someone to comfort me..."
 <es>
 
 @1613
-<en>I just want someone to talk to.
+<en>I wonder if there's a girl who'd be willing to talk to me...
 <es>
 
 @1614
-<en>{Kazushi}\n"Oh yeah,\nwhen the time like this......"
+<en>{Kazushi}\n"Oh yeah!\nAt times like this..."
 <es>
 
 @1624
-<en>It's Haruka.\nShe's always easy to talk to.
+<en>Haruka, huh? I don't have to worry much around her after all.
 <es>
 
 @1625
-<en>{Kazushi}\n"Maybe I should go visit her now."
+<en>{Kazushi}\n"Alright, I'll go see Haruka."
 <es>
 
 @1628
-<en>How about Mizuki.\nAt first, I thought she didn't like me.\nBut lately, we got along just fine.
+<en>Mizuki, huh? I thought she hated me at first, but now that our little misunderstanding has been cleared up, we're good friends.
 <es>
 
 @1629
-<en>The more I know about her,\nshe's actually a very easy-going nice girl.
+<en>Once I got to know her, she was pretty laid-back, and easy to get along with.
 <es>
 
 @1630
-<en>{Kazushi}\n"With Mizuki, what we talk doesn't get sexy."
+<en>{Kazushi}\n"And with Mizuki, it won't turn into a sexy mood either."
 <es>
 
 @1631
-<en>That is probably why I can relax talking to her.
+<en>It's kind of lacking, but thanks to that, we could talk casually.
 <es>
 
 @1632
-<en>{Kazushi}\n"All right.\nI'm going to have her accompany me for two hours."
+<en>{Kazushi}\n"Alright, I'll have Mizuki help me kill some time."
 <es>
 
 @1635
-<en>{Kazushi}\n"It's always easy to talk to her."
+<en>{Kazushi}\n"Well, that's probably suitable."
 <es>
 
 @1636
-<en>I think she likes to talk to me, too.
+<en>I can easily talk to Ran, and she'll probably welcome it.
 <es>
 
 @1637
-<en>{Kazushi}\n"Wait a minute.\nShe might charge me for late night extra charge."
+<en>{Kazushi}\n"Wait, considering the time, she might try and charge late night fees."
 <es>
 
 @1638
-<en>..................\noh well,\nlet's just go.
+<en>.....................Whatever, might as well go.
 <es>
 
 @1641
-<en>{Kazushi}\n"......What am I thinking?"
+<en>{Kazushi}\n"...Really?"
 <es>
 
 @1642
-<en>Why Natsume?\nI barely know her.
+<en>Why Natsume-chan? I hardly know anything about her.
 <es>
 
 @1643
@@ -2693,26 +2693,26 @@
 <es>
 
 @1644
-<en>Something about her.\nShe sure entered my life in drastic way.
+<en>I was curious about her. Since she made an appearance like that, it's only natural to be curious.
 <es>
 
 @1645
-<en>But, that's not the only reason why I'm intrigued......
+<en>That's not just it...
 <es>
 
 @1646
-<en>{Kazushi}\n"Well, maybe it's a good chance to find out."
+<en>{Kazushi}\n"Well, I might find out if I talk to her myself."
 <es>
 
 @1647
-<en>Besides, she already asked me to come over.\nI need to be careful not to get caught by Ms, Ibuki.
+<en>Besides, Natsume-chan did tell me to come to her room. Mei-sensei said no, but I guess I'll sneak in.
 <es>
 
 @1650
-<en>{Kazushi}\n"I'm sure she will spare some time with me."
+<en>{Kazushi}\n"If I see Mei-sensei, I'm sure she'll accompany me for a while."
 <es>
 
 @1651
-<en>At least, I know she will never treat me bad.
+<en>At the very least she won't be cruel, which is reassuring.
 <es>
 

@@ -1,15 +1,15 @@
 # Comments for '02801'
 
 @9
-<en>{Haruka}\n"Kazushi!!"
+<en>{Haruka}\n"Kazushi-kun, Kazushi-kun!!"
 <es>
 
 @11
-<en>When I was walking down the hall,\nHaruka ran toward me. She sounds she is in emergency.
+<en>Haruka came bolting towards me as I was walking down the corridor. She sounded like it was an emergency.
 <es>
 
 @15
-<en>{Appo-}\n"What kind of trouble is she in this time?"
+<en>{Appo}\n"What kind of trouble is she in this time?"
 <es>
 
 @16
@@ -17,15 +17,15 @@
 <es>
 
 @21
-<en>{Haruka}\n"Kazushi KaKa......"
+<en>{Haruka}\n"Ka-Kazushi-kun, Ka, hah, hahh, hahh..."
 <es>
 
 @22
-<en>She's catching her breath.\nShe is in some kind of hurry.
+<en>She gasped for breath as she leaned against a window. She's in a massive rush.
 <es>
 
 @23
-<en>{Kazushi}\n"Calm down.\nTake a deep breath."
+<en>{Kazushi}\n"Calm down. Take a deep breath."
 <es>
 
 @24
@@ -33,11 +33,11 @@
 <es>
 
 @25
-<en>{Kazushi}\n[Taking deep breath with Haruka]
+<en>{Kazushi}\n*inhale* *exhale*
 <es>
 
 @26
-<en>I joined her taking deep breath.\nI can tell she's getting calmer.
+<en>I joined her in taking some deep breaths. I could tell that she was calming down.
 <es>
 
 @30
@@ -45,15 +45,15 @@
 <es>
 
 @35
-<en>{Haruka}\n"Umm......have you seen me somewhere?"
+<en>{Haruka}\n"Ummm...have you seen me running around anywhere?"
 <es>
 
 @36
-<en>{Kazushi}\n"Haruka?\nSure I did......"
+<en>{Kazushi}\n"Um... Haruka? That's rather obvious..."
 <es>
 
 @40
-<en>{Daigo}\n"Ofcourse we did."
+<en>{Daigo}\n"Of course we have."
 <es>
 
 @41
@@ -61,11 +61,11 @@
 <es>
 
 @49
-<en>{Boys}\n[Boys staring at Haruka]
+<en>{Boys}\n *STARE*
 <es>
 
 @50
-<en>We all pointed at Haruka.\nHaruka shook her head sideways very hard.
+<en>We all pointed at Haruka. She shook her head back and forth in a vigorous "no."
 <es>
 
 @56
@@ -73,11 +73,11 @@
 <es>
 
 @57
-<en>{Kazushi}\n"You just asked me if we have seen you."
+<en>{Kazushi}\n"You've just asked us if we've seen you."
 <es>
 
 @58
-<en>{Haruka}\n"I'm talking about another me!\nDid you see her or not?"
+<en>{Haruka}\n"I'm talking about another me! Have you seen her or not?"
 <es>
 
 @59
@@ -85,7 +85,7 @@
 <es>
 
 @64
-<en>{Appo-}\n"Do you have a twin sister?"
+<en>{Appo}\n"Do you have a twin sister?"
 <es>
 
 @67
@@ -93,51 +93,51 @@
 <es>
 
 @70
-<en>{Appo-}\n"I don't think so......\nthen, what do you mean another you?"
+<en>{Appo}\n"I don't think so...\nBut what do you mean another you?"
 <es>
 
 @71
-<en>{Kazushi}\n"Anyways, we haven't seen another you so far."
+<en>{Kazushi}\n"Anyways, we haven't seen you until just now."
 <es>
 
 @72
-<en>This is complicating.\nHaruka is taking a big sigh.
+<en>This was getting complicated. Haruka let out a big sigh.
 <es>
 
 @75
-<en>{Haruka}\n"I see. She must have been to somewhere else. Thanks boys!"
+<en>{Haruka}\n"I see. She must have gone somewhere else, then. Thanks, boys!"
 <es>
 
 @79
-<en>......Haruka took off to somewhere like a wind.
+<en>Haruka took off somewhere like the wind.
 <es>
 
 @83
-<en>{Daigo}\n"Maybe this heat everyday is making people going crazy."
+<en>{Daigo}\n"Maybe she's starting to lose it after years of living in this heat every day..."
 <es>
 
 @87
-<en>{Pierre}\n"Even if she becomes completely crazy, we should still be good friends.\n............what is that?"
+<en>{Pierre}\n"We should still stay good friends with her even if she does go completely off her rocker.\n...um...guys? What's that?"
 <es>
 
 @88
-<en>Pierre looks ahead and shows a confused look.\nWe could all tell why.
+<en>Pierre looked down the corridor with an air of confusion. We could all tell why.
 <es>
 
 @96
-<en>{Haruka}\n"Kazushi-!"
+<en>{Haruka}\n"Kazushi-kun! Kazushi-kun!"
 <es>
 
 @97
-<en>Haruka is running toward us again.\nNot from the same direction she left.
+<en>Haruka was running towards us again. And not from the same direction she just departed in.
 <es>
 
 @98
-<en>Haruka came from the opposite direction from she left earlier.
+<en>In fact, Haruka was coming at us from the opposite direction.
 <es>
 
 @99
-<en>We felt like we are rewinding a video tape.
+<en>We felt like we were watching a rewound video tape.
 <es>
 
 @106
@@ -145,7 +145,7 @@
 <es>
 
 @107
-<en>{Daigo}\n"That's Haruka, right?"
+<en>{Daigo}\n"That's Haruka-chan, right?"
 <es>
 
 @108
@@ -153,75 +153,75 @@
 <es>
 
 @113
-<en>This Haruka seems rather not in a hurry.
+<en>This Haruka seemed to be in anything but a hurry.
 <es>
 
 @116
-<en>{Haruka}\n"Hey boys- another hot day-"
+<en>{Haruka}\n"Hi, boys! Another hot day, isn't it?"
 <es>
 
 @117
-<en>This one looks more like Haruka we know.
+<en>This one felt a lot more like the Haruka we knew.
 <es>
 
 @122
-<en>{Pierre}\n"This one looks more like who we know don't you think boys?"
+<en>{Pierre}\n"This one looks a lot more like the normal Haruka, don't you think, boys?"
 <es>
 
 @123
-<en>{Kazushi}\n"I agree.\nThen, that means earlier one is the fake one?"
+<en>{Kazushi}\n"I agree. Then that means the one we saw before was the fake Haruka?"
 <es>
 
 @126
-<en>{Haruka}\n"What are you guys talking so quiet to each other?"
+<en>{Haruka}\n"What are you guys whispering to each other about?"
 <es>
 
 @130
-<en>{Appo-}\n"This sounds funny, but we just met you a minute ago."
+<en>{Appo}\n"This may sound weird, but we just met up with you a minute ago."
 <es>
 
 @133
-<en>{Haruka}\n"Oh, you did?\nWhich way did I go?"
+<en>{Haruka}\n"Oh, you did? Which way did I go?"
 <es>
 
 @134
-<en>She doesn't look surprised at all.
+<en>She didn't look surprised at all.
 <es>
 
 @135
-<en>{Kazushi}\n"That way.\nShe seemed to be in a big hurry."
+<en>{Kazushi}\n"That way. You seemed to be in a big hurry."
 <es>
 
 @136
-<en>{Haruka}\n"I see.\nYeah, I am supposed to be very scatterbrain.\nSometimes, it's tiring to act like that though."
+<en>{Haruka}\n"Oh, I see. Yeah, I'm supposed to be all scatterbrained, aren't I? Sometimes it's exhausting to act like that, though."
 <es>
 
 @137
-<en>She sounds so not like Haruka we know.
+<en>It sounded so normal that we nearly let it pass, but those words were anything but.
 <es>
 
 @141
-<en>{Pierre}\n"Act like that? What do you mean by that?"
+<en>{Pierre}\n"Act like that? What are you talking about?"
 <es>
 
 @145
-<en>{Daigo}\n"You are Haruka, right?"
+<en>{Daigo}\n"You are Haruka-chan, right?"
 <es>
 
 @146
-<en>She sounds like someone else who's filling the role of Haruka.
+<en>She sounded like an actress who was stepping into the role of Haruka.
 <es>
 
 @151
-<en>{Haruka}\n"Well, the other one is Haruka, too.\nBut, she's just my scapegoat."
+<en>{Haruka}\n"Well, the other one is also Haruka. I'm just her scapegoat."
 <es>
 
 @152
-<en>{Kazushi}\n"Your scapegoat?"
+<en>{Kazushi}\n"Her scapegoat?"
 <es>
 
 @156
-<en>{Daigo}\n"Hey guys, remember when we had the principal's experiment,\nHaruka was saying she left a doll to fill in for her."
+<en>{Daigo}\n"Hey, guys, remember when we had to supervise the principal's experiment? Haruka said she left a puppet in the classroom to fill in for her."
 <es>
 
 @161
@@ -229,7 +229,7 @@
 <es>
 
 @168
-<en>{Appo-}\n"So, are you the doll she left to fill in for her?"
+<en>{Appo}\n"So are you the puppet she left behind?"
 <es>
 
 @174
@@ -237,67 +237,67 @@
 <es>
 
 @182
-<en>{Kazushi}\n"Wow, you guessed it right,\nDaigo."
+<en>{Kazushi}\n"Wow, you nailed it, Daigo."
 <es>
 
 @185
-<en>{Pierre}\n"You don't look like a doll at all.\nHow can we tell you are not the original Haruka?"
+<en>{Pierre}\n"But you don't look like a fake at all. How do we know that you're not the original Haruka?"
 <es>
 
 @189
-<en>{Haruka-doll}\n"If you could tell it so easily,\nthere is no point of me exsisting."
+<en>{Haruka Doll}\n"If you could tell us apart so easily, there wouldn't be any point to my existence."
 <es>
 
 @190
-<en>{Daigo}\n"By the way, what are you doing her all by yourself?"
+<en>{Daigo}\n"By the way, what are you doing here all by yourself?"
 <es>
 
 @191
-<en>That's right.\nI remember Haruka was looking for her scapegoat.
+<en>That's right. Haruka must be looking for her scapegoat.
 <es>
 
 @192
-<en>{Kazushi}\n"Did you perhaps run away?"
+<en>{Kazushi}\n"Could this mean you ran away?"
 <es>
 
 @193
-<en>That was just a random guess.\nBut, it seems that I guessed it right.
+<en>It was just a random guess, but it seemed that I guessed right.
 <es>
 
 @196
-<en>{Haruka-doll}\n"You won't believe what she's trying to do to me.\nShe tries to dispose me."
+<en>{Haruka Doll}\n"You don't believe what she's trying to do to me! She wants to dispose of me!"
 <es>
 
 @199
-<en>{Haruka-doll}\n"She thinks I'm disposable.\nShe's so evil.\nDon't let her cute face fool you, boys."
+<en>{Haruka Doll}\n"She thinks I'm disposable! She's so evil! Don't let that devilishly cute face of hers fool you, boys. She's a jinxed cunt."
 <es>
 
 @200
-<en>This doll cut Haruka to pieces.
+<en>This doll was cutting Haruka to shreds with her words.
 <es>
 
 @206
-<en>{Pierre}\n"......she tried to get rid of you?\nShe did......\nThat's not Haruka we know."
+<en>{Pierre}\n"A jinxed cunt... Really? Haruka-chan is... That's a shock."
 <es>
 
 @207
-<en>{Appo-}\n"I thought she's not the kind of person who would do that."
+<en>{Appo}\n"She never looked like one to me. I guess appearances can be deceiving."
 <es>
 
 @210
-<en>Everyone is disappointed how Haruka is treating her doll. Only her doll is happy watching Haruka's reputation going down.
+<en>All of us were feeling disappointed. Only the doll was happy to see Haruka's reputation fall.
 <es>
 
 @211
-<en>{Haruka-doll}\n"Anyways, can you guys harbor me somewhere safe?"
+<en>{Haruka Doll}\n"Anyways, can you guys hide me somewhere safe?"
 <es>
 
 @212
-<en>{Kazushi}\n"I don't know ......."
+<en>{Kazushi}\n"I don't know......."
 <es>
 
 @215
-<en>{Appo-}\n"Well, how about......."
+<en>{Appo}\n"Well, how about......"
 <es>
 
 @222
@@ -309,79 +309,79 @@
 <es>
 
 @225
-<en>We heard the bell ring for the start of the afternoon classes.
+<en>We heard the bell ring for the start of afternoon classes.
 <es>
 
 @229
-<en>{Daigo}\n"The aftenoon class is starting."
+<en>{Daigo}\n"Oh no, class is starting up again."
 <es>
 
 @230
-<en>{Kazushi}\n"Oh yeah, there are some more classes left today."
+<en>{Kazushi}\n"Oh yeah, we've still got lessons to finish."
 <es>
 
 @236
-<en>{Pierre}\n"This is actually better. No one would be around here during the classes."
+<en>{Pierre}\n"Who cares, the last class before break is just winding things down. And if classes are going on, then no one will come here. It's perfect."
 <es>
 
 @237
-<en>{Kazushi}\n"What do you mean it's better?"
+<en>{Kazushi}\n"What do you mean 'it's perfect'?"
 <es>
 
 @241
-<en>{Appo-}\n"Boys, get close to me."
+<en>{Appo}\n"Boys, huddle up!"
 <es>
 
 @248
-<en>Appo- tells us to hear what he has in his mind.
+<en>On Appo and Pierre's signal, we all huddled our heads close together.
 <es>
 
 @249
-<en>{Kazushi}\n"what is it?\nWhat are you planning?"
+<en>{Kazushi}\n"What is it? What are you planning?"
 <es>
 
 @252
-<en>{Appo-}\n"You guys think again. That's a doll. That's a doll identical to the original Haruka."
+<en>{Appo}\n"Think about it, you guys. That's a doll. A doll that's identical to the original Haruka."
 <es>
 
 @253
-<en>{Kazushi}\n"? So what?"
+<en>{Kazushi}\n"Eh? So what?"
 <es>
 
 @254
-<en>{Pierre}\n"Don't you think what's underneath the clothes must be identical, too?"
+<en>{Pierre}\n"D-does that mean that what's underneath her clothes must be identical too?"
 <es>
 
 @255
-<en>Pierre's voice was shaking.\nNow I know what they have in their mind.
+<en>Pierre's voice was shaking with excitement.\nNow I know exactly what they have in mind.
 <es>
 
 @256
-<en>{Kazushi}\n"Are you guys thinking what I'm thinking......?"
+<en>{Kazushi}\n"You guys aren't planning to..."
 <es>
 
 @259
-<en>{Daigo}\n".................."
+<en>{Daigo}\n *GULP*
 <es>
 
 @260
-<en>It was the loudest sound I ever heard of somo one swallowing saliva.
+<en>That was the loudest sound I have ever heard from someone swallowing his own spit.
 <es>
 
 @266
-<en>{Haruka-doll}\n"What was that noise-?"
+<en>{Haruka Doll}\n"What was that noise?"
 <es>
 
 @268
-<en>She has no idea what we are discussing about.\nShe is just as unguarded as a lamb in the pack of wolves.
+<en>She has no idea what we're talking about. She's as unguarded as a lamb surrounded by a pack of wolves.
 <es>
 
 @273
-<en>{Pierre}\n"It's nothing!\nJust give us one more minute!"
+<en>{Pierre}\n"It's nothing! Just give us another minute!"
 <es>
 
 @274
-<en>{Haruka-doll}\n"? sure-"
+<en>{Haruka Doll}\n"Huh? Sure..."
 <es>
 
 @282
@@ -389,27 +389,27 @@
 <es>
 
 @285
-<en>{Appo-}\n"I say we just beg her to let us."
+<en>{Appo}\n"I say we just ask her to let us."
 <es>
 
 @286
-<en>{Kazushi}\n"Let us............!?\nListen to yourself.\nIt's Haruka."
+<en>{Kazushi}\n"Let us!? Listen to yourself - that's Haruka!"
 <es>
 
 @289
-<en>{Pierre}\n"That's a doll.\nWe can do this, can't we?"
+<en>{Pierre}\n"That's just a puppet. We can do this, can't we?"
 <es>
 
 @290
-<en>{Kazushi}\n"I know she's a doll......\nbut, it's Haruka on the surface."
+<en>{Kazushi}\n"I know she's a puppet...\nBut, well, that's still Haruka on the surface."
 <es>
 
 @293
-<en>{Appo-}\n"That's what makes this so great.\nThis is the perfect opportunity."
+<en>{Appo}\n"That's what makes this so great. This is the perfect opportunity."
 <es>
 
 @294
-<en>{Kazushi}\n"You are right......I don't know......"
+<en>{Kazushi}\n"You're right...But I don't know..."
 <es>
 
 @295
@@ -417,11 +417,11 @@
 <es>
 
 @298
-<en>{Appo-}\n"Kazushi, will you ask for us?"
+<en>{Appo}\n"Kazushi, will you ask her for us?"
 <es>
 
 @299
-<en>{Kazushi}\n"No way!\nI can't ask her that!\nWhy me?"
+<en>{Kazushi}\n"No way! I can't ask her that! Why me?"
 <es>
 
 @302
@@ -429,19 +429,19 @@
 <es>
 
 @303
-<en>{Kazushi}\n"Together?\nAll of us?"
+<en>{Kazushi}\n"Together? All of us?"
 <es>
 
 @304
-<en>{Appo-}\n"Ready......"
+<en>{Appo}\n"One, two..."
 <es>
 
 @310
-<en>{Kazushi}\n"Can we have sex with you!!"
+<en>{Kazushi}\n"Please let me have sex with you!!"
 <es>
 
 @312
-<en>{Kazushi}\n"What......?"
+<en>{Kazushi}\n"......what?"
 <es>
 
 @314
@@ -461,11 +461,11 @@
 <es>
 
 @325
-<en>I can't believe I said that.\nI asked Haruka if I can have sex with her......
+<en>I can't believe I just said that.\nI asked Haruka to have sex with me...
 <es>
 
 @331
-<en>{Haruka-doll}\n"Sure-"
+<en>{Haruka Doll}\n"Sure."
 <es>
 
 @332
@@ -473,7 +473,7 @@
 <es>
 
 @335
-<en>{Haruka-doll}\n"Kazushiyou want sex, right?\nI let you have sex with me."
+<en>{Haruka Doll}\n"You want to have sex with me, right Kazushi? I'll let you."
 <es>
 
 @338
@@ -481,35 +481,35 @@
 <es>
 
 @339
-<en>That was unexpectedly easy.\nHaruka's scapegoat doll happened to be very open minded.
+<en>That was unexpectedly easy. Haruka's scapegoat doll turned out to be very open minded.
 <es>
 
 @347
-<en>{Appo-}\n"Wow, she's really going to let him have sex with her."
+<en>{Appo}\n"Wow, she's really going to let him have sex with her."
 <es>
 
 @348
-<en>{Pierre}\n"You'll let us have sex with you too, right?"
+<en>{Pierre}\n"You'll let me have sex with you too, right?"
 <es>
 
 @349
-<en>{Kazushi}\n"Guys!\nYou guys don't deserve......"
+<en>{Kazushi}\n"Guys! You guys don't deserve......"
 <es>
 
 @355
-<en>{Haruka-doll}\n"Ofcourse-"
+<en>{Haruka Doll}\n"Sure."
 <es>
 
 @356
-<en>Wow!?
+<en>...saywha!?
 <es>
 
 @357
-<en>{Kazushi}\n"Easy! That's way too easy!\nYou're too easy, Haruka!!"
+<en>{Kazushi}\n"Loose! Too loose! You're being far too open-minded, Haruka!!"
 <es>
 
 @361
-<en>{Pierre}\n"Kazushi, think once again.\nShe's a dollnot Haruka."
+<en>{Pierre}\n"Remember, Kazushi, she's a puppet, not Haruka."
 <es>
 
 @362
@@ -517,47 +517,47 @@
 <es>
 
 @363
-<en>She looks identical with Haruka.\nI can't treat her like a doll......
+<en>She looked identical to Haruka.\nI couldn't just treat her like a doll...
 <es>
 
 @368
-<en>{Daigo}\n"This is great.\nWe will be brothers."
+<en>{Daigo}\n"This is great. We'll be cum brothers."
 <es>
 
 @369
-<en>We had to look each other after Daigo's comment.
+<en>We looked at each other dumbfounded after Daigo's comment.
 <es>
 
 @370
-<en>{Kazushi}\n"Brothers......are we?"
+<en>{Kazushi}\n"Brothers...sorta?"
 <es>
 
 @377
-<en>{Appo-}\n"I guess Daigo's right.\nIn a sense, this is the pledge of brothers!"
+<en>{Appo}\n"I guess Daigo's right. In a sense, this is a pledge between brothers!"
 <es>
 
 @378
-<en>{Pierre}\n"Appo-'s right!\nI didn't propose this idea for the naughty reason!"
+<en>{Pierre}\n"Appo's right! I didn't suggest this idea for any naughty reasons!"
 <es>
 
 @379
-<en>{Kazushi}\n"I see.... Guys...."
+<en>{Kazushi}\n"I didn't know that..."
 <es>
 
 @380
-<en>This was the ritual for us to deepen our bonds.\nThis had to be done for us to be brothers.
+<en>This was a ritual for us to deepen our connection to each other. This had to be done for the sake of our brotherhood.
 <es>
 
 @381
-<en>{Kazushi}\n"......wait a minutecan I really trust that?"
+<en>{Kazushi}\n"...wait a minute. Can I really trust you guys after all that?"
 <es>
 
 @384
-<en>{Appo-}\n"Don't think!\nFeel it!"
+<en>{Appo}\n"Don't think! Just feel!"
 <es>
 
 @387
-<en>{Pierre}\n"Don't you want her?"
+<en>{Pierre}\n"Don't you want to do her?"
 <es>
 
 @388
@@ -565,19 +565,19 @@
 <es>
 
 @389
-<en>Ofcourse I want to do her.
+<en>Of course I want to do her.
 <es>
 
 @392
-<en>{Appo-}\n"Well then. Let's do it.\nLet's be man."
+<en>{Appo}\n"Well then, let's do it! Let's be men!"
 <es>
 
 @393
-<en>{Kazushi}\n"......let's be brothers."
+<en>{Kazushi}\n"Let's be brothers!"
 <es>
 
 @394
-<en>{Daigo}\n"Who goes first?"
+<en>{Daigo}\n"Who's going first?"
 <es>
 
 @401
@@ -585,79 +585,79 @@
 <es>
 
 @408
-<en>Everybody raised their hands.\nEverybody checks each other's face.
+<en>Everybody raised their hands at once. Everybody stared each other down.
 <es>
 
 @413
-<en>{Pierre}\n"We all think the same way.\nI say we should go from the oldest to the youngest?"
+<en>{Pierre}\n"We all think the same. I say we go from the oldest to the youngest."
 <es>
 
 @414
-<en>By the waythe order will be PierreMeDaigoAppo- if we install his idea.
+<en>If we followed Pierre's suggestion, the order would be Pierre, Me, Daigo, and then Appo.
 <es>
 
 @415
-<en>We are all in the same grade ofcourse,\nso the differences are by just few months.
+<en>We're all in the same grade, of course, so the difference was just a few months on either end.
 <es>
 
 @419
-<en>{Daigo}\n"You guys go after me and Kazushi,\nsince you guys have done this already."
+<en>{Daigo}\n"Since you guys have already done this, you can go after me and Kazushi."
 <es>
 
 @420
-<en>Daigo makes an uncharactristicly strong statement.\nThat just shows how much he wants to.
+<en>Daigo made an uncharacteristically bold statement. That showed just how much he wanted this.
 <es>
 
 @421
-<en>{Kazushi}\n"He's right. You guys are not virgin.\nYou guys should let us go first."
+<en>{Kazushi}\n"He's right. You aren't a virgin, are you Pierre? And you're always doing Fuusen, so you don't matter, Appo."
 <es>
 
 @426
-<en>{Pierre}\n"I haven't been lucky for a few years."
+<en>{Pierre}\n"I haven't gotten lucky for a couple years..."
 <es>
 
 @433
-<en>{Appo-}\n"I only know one person. Don't you think I need to do with someone else so I can realize how great Hu-sen is?"
+<en>{Appo}\n"I've only done it with one person. Don't you think I should do it with someone else in order to realise how great my Fuusen is?"
 <es>
 
 @434
-<en>{Appo-}\n"I need to know someone else to realize how good my girlfriend is."
+<en>{Appo}\n"I need to know someone else's touch to confirm my girlfriend's abilities."
 <es>
 
 @435
-<en>{Daigo}\n"If that's the reason, you have no problem going after us, right?"
+<en>{Daigo}\n"If that's the reason, you'll have no problem going after us, right?"
 <es>
 
 @438
-<en>{Pierre}\n"Wait a minute guys.\nI still think age order is the best idea......"
+<en>{Pierre}\n"Wait a minute, guys. I still think going by age is the best idea."
 <es>
 
 @441
-<en>{Appo-}\n"Shut up you idiot!\nGo away old man!"
+<en>{Appo}\n"Shut up, you idiot! Go away, old man!"
 <es>
 
 @444
-<en>{Daigo}\n"Let's go by the T-score!\nI'm 35!"
+<en>{Daigo}\n"Let's go by class rank! I'm 35th!"
 <es>
 
 @447
-<en>{Pierre}\n"Daigo!\nYou know you're the only one exceeding average!"
+<en>{Pierre}\n"Daigo! You know you're the only one exceeding the class average!"
 <es>
 
 @448
-<en>{Appo-}\n"Don't you look down on us just because you have good grades."
+<en>{Appo}\n"Don't you look down on us just because you have good grades."
 <es>
 
 @452
-<en>[Appo- hits Daigo]
+<en>*SMACK*
 <es>
 
 @453
-<en>Short tempered Appo- hits Daigo in the head.
+<en>Appo's short temper had run out, and he hit Daigo on the head.
 <es>
 
 @454
-<en>{Daigo}\n"What did you do that for?!!"
+<en>{Daigo}\n"What did you do that for!?"
 <es>
 
 @457
@@ -665,91 +665,91 @@
 <es>
 
 @458
-<en>{Appo-}\n"#$%&!"
+<en>{Appo}\n"Ugggah!"
 <es>
 
 @462
-<en>I knew Appo- would get that ofcourse.
+<en>And of course, he got hit back and their little squabble started.
 <es>
 
 @468
-<en>{Pierre}\n"I'm going first!!"
+<en>{Pierre}\n"Screw it, I'm first!"
 <es>
 
 @475
-<en>{Daigo}\n"No, I am!!"
+<en>{Daigo}\n"Rooooooar!"
 <es>
 
 @480
-<en>{Kazushi}\n"Hey guys,\nare we going to decide this with violence?\nWeren't we good friends?"
+<en>{Kazushi}\n"Umm...guys? Are we really going to have to decide this with violence? I thought we were supposed to be engaged in a brotherhood of men..."
 <es>
 
 @481
-<en>I thought this was going to tighten our friendship.
+<en>I think the only thing getting deeper is our ditch, not our bonds. They're beating each other up.
 <es>
 
 @486
-<en>{Appo-}\n"Me! Me!"
+<en>{Appo}\n"Me! Me!"
 <es>
 
 @493
-<en>{Daigo}\n"Appo-, you stay away from this.\nI don't wanna hurt you."
+<en>{Daigo}\n"You stay out of this, Appo. I don't want to have to hurt you."
 <es>
 
 @498
-<en>{Haruka-doll}\n"Wow, this is awesome.\nEverybody is fighting over me-!"
+<en>{Haruka Doll}\n"Wow, this is awesome! Everybody's fighting over me!"
 <es>
 
 @501
-<en>[Window opens up]
+<en>*Slide*
 <es>
 
 @502
-<en>That's when the window opened.
+<en>That's when the window was opened.
 <es>
 
 @507
-<en>{Haruka}\n"Why are you guys making so much noise......hey!"
+<en>{Haruka}\n"What are you guys making so much noise for...Ah!!"
 <es>
 
 @508
-<en>It was Haruka. The real one.\nShe jumps into the room as she spots her doll.
+<en>It was Haruka - the real Haruka. She leapt into the room as she spotted her puppet.
 <es>
 
 @513
-<en>{Haruka}\n"Got you!!"
+<en>{Haruka}\n"Gotcha!"
 <es>
 
 @515
-<en>Haruka captured the scapegoat doll.
+<en>Haruka captured the scapegoat puppet.
 <es>
 
 @519
-<en>{Haruka-doll}\n"Oh no, she got me."
+<en>{Haruka Doll}\n"Oh no. She got me."
 <es>
 
 @520
-<en>{Kazushi}\n"......!!"
+<en>{Kazushi}\n"Ah..."
 <es>
 
 @525
-<en>{Pierre}\n"No......"
+<en>{Pierre}\n"Shit..."
 <es>
 
 @526
-<en>It's over.\nWhat were we doing?
+<en>Everything stopped. Well, that chapter's over. What were we doing?
 <es>
 
 @532
-<en>{Haruka}\n"You guys found her for me.\nThanks for keep your eyes on her!"
+<en>{Haruka}\n"You guys found her for me. Thanks for keep your eyes on her!"
 <es>
 
 @533
-<en>At least, we were glad Haruka took it in the nicer way.
+<en>Thank goodness for small miracles - Haruka didn't catch what we were up to.
 <es>
 
 @534
-<en>{Pierre}\n"Yep. We kept our eyes on her-"
+<en>{Pierre}\n"Ahaha, yeah, we were."
 <es>
 
 @541
@@ -761,94 +761,94 @@
 <es>
 
 @545
-<en>{Kazushi}\n"It's nothing.\nNo big deal......"
+<en>{Kazushi}\n"It's nothing. No big deal......"
 <es>
 
 @549
-<en>[Appo- whispers to Kazushi]
+<en>*poke poke*
 <es>
 
 @552
-<en>{Appo-}\n"Hey, Kazushi."
+<en>{Appo}\n"Hey, Kazushi."
 <es>
 
 @553
-<en>Appo- whispers to me.
+<en>Appo whispered to me.
 <es>
 
 @554
-<en>{Appo-}\n"Can you try asking her one more time?"
+<en>{Appo}\n"Can you try asking her one more time?"
 <es>
 
 @555
-<en>Appo- is having hard time giving up the opportunity we once had.
+<en>Appo was having a hard time giving up the opportunity we had in front of us.
 <es>
 
 @556
-<en>{Kazushi}\n"Are you stupid?\nThat's the real Haruka."
+<en>{Kazushi}\n"Are you stupid? That's the real Haruka."
 <es>
 
 @559
-<en>{Appo-}\n"How about asking her in return for capturing who she was looking for?"
+<en>{Appo}\n"How about asking her for it in return for capturing the doll?"
 <es>
 
 @564
-<en>{Pierre}\n"You are such a nasty man, Appo-."
+<en>{Pierre}\n"You're such a brute, Appo."
 <es>
 
 @567
-<en>{Appo-}\n"That's what we need to be.\nWe need to be more hungry to get what we want."
+<en>{Appo}\n"That's what we need to be. We need to be more forceful in order to get what we want."
 <es>
 
 @571
-<en>{Daigo}\n"I kind of understand what he's saying......\nwe are too elegant."
+<en>{Daigo}\n"I kind of understand what he's saying. We are being too elegant."
 <es>
 
 @572
-<en>{Kazushi}\n"We are?\nWe need to act more barbarouly?"
+<en>{Kazushi}\n"We are? We need to act more barbarously?"
 <es>
 
 @575
-<en>{Appo-}\n"Hey guys......"
+<en>{Appo}\n"Hey guys......"
 <es>
 
 @580
-<en>{Haruka}\n"What are you guys whispering to each other?"
+<en>{Haruka}\n"Why are you guys whispering to each other?"
 <es>
 
 @588
-<en>We made up our mind.\nOur heart is bonded as one.
+<en>We made up our mind. Our heart is bonded as one.
 <es>
 
 @589
-<en>{Pierre}\n"This time, we will say it together."
+<en>{Pierre}\n"This time we'll say it together."
 <es>
 
 @590
-<en>{Kazushi}\n"You guys don't betray me again.\nGot it?"
+<en>{Kazushi}\n"Don't you guys go betraying me again, got it?"
 <es>
 
 @593
-<en>{Appo-}\n"All right......ready!!"
+<en>{Appo}\n"All right......one, two!"
 <es>
 
 @604
-<en>{Kazushi}\n"Ofcourse we can't."
+<en>{Kazushi}\n"Like hell I'm saying it!"
 <es>
 
 @605
-<en>{Appo-}\n"That's why we don't get laid."
+<en>{Appo}\n"That's why you're not getting laid."
 <es>
 
 @606
-<en>{Daigo}\n"I think I will stay virgin this summer again......"
+<en>{Daigo}\n"Another virgin summer..."
 <es>
 
 @608
-<en>[Window opens up]
+<en>*Slide*
 <es>
 
 @614
-<en>{Ran}\n"It's dinner time, boys- ......why are you guys so quiet?"
+<en>{Ran}\n"It's dinner time, boys!\n...why do you all look like you're at a wake?"
 <es>
 

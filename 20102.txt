@@ -1,43 +1,43 @@
 # Comments for '20102'
 
 @9
-<en>{Haruka}\n"Thank you guys. We are fine from here."
+<en>{Haruka}\n"Thanks, guys. We'll be fine from here."
 <es>
 
 @14
-<en>{Pierre}\n"You are welcome."
+<en>{Pierre}\n"You're welcome."
 <es>
 
 @15
-<en>After all, all the guys came along with the girls.
+<en>In the end, we all walked the girls home together.
 <es>
 
 @19
-<en>{Rei}\n"Good job, guys. Now go home."
+<en>{Andou}\n"Good job, guys. Now go back to your dorm."
 <es>
 
 @22
-<en>{Pierre}\n"I know. We are going."
+<en>{Pierre}\n"I know, I know. We're going."
 <es>
 
 @26
-<en>{Sakura}\n"Bye."
+<en>{Sakura}\n"Thanks, guys."
 <es>
 
 @30
-<en>{Rin}\n"Bye everybody."
+<en>{Rin}\n"Bye-bye, everybody."
 <es>
 
 @34
-<en>{Appo-}\n"Good night."
+<en>{Appo}\n"Good night."
 <es>
 
 @37
-<en>The girls are returning to the dorm.
+<en>The girls all split off and returned to their dorm.
 <es>
 
 @40
-<en>Among them, Mizuki still stands alone and glances at me.
+<en>Yet Mizuki alone lingered, not heading back to the dorm. She kept glancing back at me.
 <es>
 
 @45
@@ -53,19 +53,19 @@
 <es>
 
 @48
-<en>Obviously, she wants to say something. But something holds her back. There must be something she wants to tell me about.
+<en>Obviously she wanted to say something, but something else was holding her back. There must be something she wants to tell me.
 <es>
 
 @49
-<en>{Kazushi}\n"You guys go ahead first."
+<en>{Kazushi}\n"You guys go on ahead, I'll catch up."
 <es>
 
 @53
-<en>{Appo-}\n"Uh?"
+<en>{Appo}\n"Huh?"
 <es>
 
 @54
-<en>Appo-- and Pierre look at each other and chuckle grimly.
+<en>Appo and Pierre exchanged a look and chuckled with a leer.
 <es>
 
 @59
@@ -77,7 +77,7 @@
 <es>
 
 @61
-<en>{Appo-}\n"I will go to sleep. So come home quietly."
+<en>{Appo}\n"I'm going to sleep, so be quiet when you come home."
 <es>
 
 @62
@@ -85,15 +85,15 @@
 <es>
 
 @65
-<en>{Pierre}\n"See you later. Good night, Mizuki."
+<en>{Pierre}\n"See you later. Good night, Mizuki-chan."
 <es>
 
 @70
-<en>{Mizuki}\n"Good night."
+<en>{Mizuki}\n"Oh, okay. Good night."
 <es>
 
 @71
-<en>Pierre and Appo- leave us alone.
+<en>Pierre and Appo left us alone.
 <es>
 
 @72
@@ -101,7 +101,7 @@
 <es>
 
 @73
-<en>{Kazushi}\n"You want to walk?"
+<en>{Kazushi}\n"You want to walk for a bit?"
 <es>
 
 @74
@@ -109,15 +109,15 @@
 <es>
 
 @79
-<en>Because there are no high buildings in this island and it is surrounded by sea ,you can see innumerable stars upon the sky.
+<en>Because there aren't any tall buildings or street lights on this island, and because the sea is clear and vast, you can see innumerable stars in the sky.
 <es>
 
 @80
-<en>All you can see is the vast sky. I feel as if we were walking in the starry skies.
+<en>All we could see was the vastness of the heavens above. I felt like were walking amongst the stars themselves.
 <es>
 
 @81
-<en>{Kazushi}\n"Amazing. So many stars up there."
+<en>{Kazushi}\n"It's amazing. I didn't know you could see so many stars here."
 <es>
 
 @84
@@ -129,23 +129,23 @@
 <es>
 
 @87
-<en>We look like a real couple as we walk along, looking up the night sky together.
+<en>We looked like a real couple as we walked along the path, looking up at the night sky together.
 <es>
 
 @90
-<en>{Mizuki}\n"Thanks, Kazushi. I appreciate what you did for me earlier."
+<en>{Mizuki}\n"Th-thanks, for earlier."
 <es>
 
 @91
-<en>Mizuki says in an excited voice, while looking up at the sky,
+<en>Mizuki said in an excited voice while looking up at the sky.
 <es>
 
 @92
-<en>{Kazushi}\n"No problem. It is not big of the deal."
+<en>{Kazushi}\n"No problem. It's not a big deal."
 <es>
 
 @95
-<en>{Mizuki}\n"But I guess you find the rumor pretty annoying. Because this may ruin your relationship with someone special."
+<en>{Mizuki}\n"I guess you must find that rumor pretty annoying though. After all, this may ruin your relationship with someone special..."
 <es>
 
 @96
@@ -153,7 +153,7 @@
 <es>
 
 @99
-<en>{Mizuki}\n"Yeah. If there is someone special in your life now, you don't want her to take the wrong idea about yourself, do you?"
+<en>{Mizuki}\n"Yeah. If there's someone special in your life right now, you wouldn't want her to get the wrong idea about you, right?"
 <es>
 
 @100
@@ -161,55 +161,55 @@
 <es>
 
 @101
-<en>If there is someone I like, I would rather use this rumor to make her feels jealous.
+<en>If there's someone I liked, I might be able to use the high-class technique of making her feel jealous through this rumor.
 <es>
 
 @102
-<en>But I know such a trick could harm, rather than help.
+<en>But I also knew that such a trick usually turned around to bite one in the rear.
 <es>
 
 @103
-<en>{Mizuki}\n"Is there a girl you deeply care about now?"
+<en>{Mizuki}\n"Is there a girl that you're serious about right now?"
 <es>
 
 @104
-<en>{Kazushi}\n"Not really. At least now."
+<en>{Kazushi}\n"Not really. At least not at the moment."
 <es>
 
 @105
-<en>{Mizuki}\n"I thought you were always thinking of girls."
+<en>{Mizuki}\n"Hmm, I thought you were always thinking of girls."
 <es>
 
 @106
-<en>{Kazushi}\n"Get out! How about you, Mizuki? Are you really...?"
+<en>{Kazushi}\n"Get out! How about you, Mizuki? What's the truth?"
 <es>
 
 @109
-<en>{Mizuki}\n"No! I'm not lesbian!"
+<en>{Mizuki}\n"I'm not a lesbian!"
 <es>
 
 @110
-<en>She looks mad. It's clear she hates to be called lesbian.
+<en>She looked mad. It was clear how much she hated it when people called her a lesbian.
 <es>
 
 @111
-<en>She doesn't have to take it so personal. The truth is, however, I feel kind of relief at her answer.
+<en>She didn't have to take it so personally, though. However, the truth is, I felt kinda relieved about that.
 <es>
 
 @112
-<en>{Kazushi}\n"No one thinks you like girls better than boys including me. What about you? Is there someone special in your life now?"
+<en>{Kazushi}\n"No one really thinks you like girls more than boys, including me. What I meant, was do you have someone special in your life?"
 <es>
 
 @115
-<en>{Mizuki}\n"No...Not really. Is it bad?"
+<en>{Mizuki}\n"No...\nNot really. Is that bad?"
 <es>
 
 @116
-<en>{Kazushi}\n"Not at all. Ok, so whatever they think about us is not going to hurt anyone then, at least for now."
+<en>{Kazushi}\n"Not at all. What it means is that whatever everyone else thinks about us, it's not going to hurt anybody else, at least for now."
 <es>
 
 @119
-<en>{Mizuki}\n"You're right. People will forget everything by the end of the summer."
+<en>{Mizuki}\n"You're right. And everyone'll forget all about this by the end of summer."
 <es>
 
 @120
@@ -217,39 +217,39 @@
 <es>
 
 @121
-<en>{Mizuki}\n"It won't do us any harm. To me, it's better than being called lesbian."
+<en>{Mizuki}\n"It won't do us any harm, so why not? And for me, it's better than being called a lesbian."
 <es>
 
 @124
-<en>Mizuki starts at me.
+<en>Mizuki started in on me anyways.
 <es>
 
 @125
-<en>{Mizuki}\n"Let me assure you. This is only pretense - - play-acting. Okay?"
+<en>{Mizuki}\n"Just to make sure, this is only a pretense, okay? Just pretend."
 <es>
 
 @126
-<en>{Kazushi}\n"I know it."
+<en>{Kazushi}\n"I know."
 <es>
 
 @127
-<en>Even so it sounds exciting. I feel something thrilling is going to happen this summer.
+<en>Even so, it sounded exciting. I could feel that something thrilling would happen this summer.
 <es>
 
 @133
-<en>{Kazushi}\n"Daigo, happy birthday!!"
+<en>{Kazushi}\n"Happy birthday, Daigo!!"
 <es>
 
 @135
-<en>Cheers!"With my toast, everyone shouts in concert. Today is July 29th - - Daigo's birthday.
+<en>Kampai!! With my toast, everybody shouted in unison. Today is July 29th - Daigo's birthday.
 <es>
 
 @138
-<en>{Daigo}\n"Ahhh. Thank you!!"
+<en>{Daigo}\n"Th-th-th-th-thank you!!"
 <es>
 
 @143
-<en>{Ran}\n"Daigo, you turned 48?"
+<en>{Ran}\n"So you've now turned 48, Kudou-kun?"
 <es>
 
 @147
@@ -257,23 +257,23 @@
 <es>
 
 @152
-<en>{Haruka}\n"I didn't know that. You still go to school that age. Impressive."
+<en>{Haruka}\n"I didn't know that... You're still in school at that age? What a passion for learning!"
 <es>
 
 @153
-<en>{Kazushi}\n"Hey, guys..."
+<en>{Kazushi}\n"Haruka, don't take her seriously."
 <es>
 
 @155
-<en>However, Daigo seems so overwhelmed that he doesn't even hear our conversation.
+<en>However, Daigo seemed so overwhelmed that he didn't even hear our conversation.
 <es>
 
 @158
-<en>{Daigo}\n"Oh...Thank you. Thank you..."
+<en>{Daigo}\n"Oh... Thank you. Thank you..."
 <es>
 
 @159
-<en>He cries in joy.
+<en>He was crying in joy.
 <es>
 
 @164
@@ -281,11 +281,11 @@
 <es>
 
 @165
-<en>{Kazushi}\n"He's just not used to this kind of thing."
+<en>{Kazushi}\n"He's just not used to being treated kindly."
 <es>
 
 @166
-<en>{Daigo}\n"I've never had a birthday party for myself."
+<en>{Daigo}\n"I-I've never had a birthday party for myself."
 <es>
 
 @170
@@ -297,31 +297,31 @@
 <es>
 
 @175
-<en>{Daigo}\n"My parents both work, so they are just busy..."
+<en>{Daigo}\n"My-my parents both work, so they've always been too busy..."
 <es>
 
 @179
-<en>{Mei}\n"Have fun with them then."
+<en>{Mei}\n"Then Meike sure you have a lot of fun with everyone today."
 <es>
 
 @182
-<en>{Daigo}\n"Yeeeeees!!"
+<en>{Daigo}\n"Yeah... Yeaaah!!"
 <es>
 
 @186
-<en>{Pierre}\n"Ms. Ibuki, when is your birthday?"
+<en>{Pierre}\n"Oh yeah, when is your birthday, Mei-chan?"
 <es>
 
 @187
-<en>Pierre makes a nice move. Good job! So much stuff I should learn from him.
+<en>Pierre made a smooth move. Good job! There's so much I should learn from him.
 <es>
 
 @190
-<en>{Mei}\n"You are not supposed to ask women their age."
+<en>{Mei}\n"You're not supposed to ask women their age."
 <es>
 
 @191
-<en>Maybe not this time...This move didn't work with Ms. Ibuki.
+<en>Maybe not this time... The move didn't work with Mei-sensei.
 <es>
 
 @194
@@ -329,31 +329,31 @@
 <es>
 
 @199
-<en>{Daigo}\n"Everybody, thank you! Thank you very much!"
+<en>{Daigo}\n"Thank you, everybody! Thank you very much! *Snort... Snort*"
 <es>
 
 @200
-<en>{Kazushi}\n"Whoa! Here you go, Kleenex!"
+<en>{Kazushi}\n"Whoa! Blow your nose! Here, have a tissue!"
 <es>
 
 @203
-<en>{Daigo}\n"He blows his nose hard."
+<en>{Daigo}\n"Bbbbbfffffffffffttttttt!"
 <es>
 
 @208
-<en>{Pierre}\n"Hey, take it easy. You blow too much!"
+<en>{Pierre}\n"Hey, hey! Don't blow your brains out! You'll tear the tissue!"
 <es>
 
 @211
-<en>{Daigo}\n"I've never been so happy!!"
+<en>{Daigo}\n"I-I-I'm so happy to be alive!!"
 <es>
 
 @212
-<en>Daigo suddenly gets up and starts to drink beer.
+<en>Suddenly, Daigo got up and started chugging his beer.
 <es>
 
 @215
-<en>{Daigo}\n"He bottoms up."
+<en>{Daigo}\n"Phaaaahh!!"
 <es>
 
 @216
@@ -365,7 +365,7 @@
 <es>
 
 @220
-<en>He insists he is fine, hitting himself on the chest. But obviously, he is not. He looks already drunk.
+<en>Daigo thumped his chest, but he was already staggering. He didn't look fine at all.
 <es>
 
 @223
@@ -373,51 +373,51 @@
 <es>
 
 @224
-<en>{Daigo}\n"Oh, that would be too much, Pierre. I'm already too happy for this. And I used up all my luck."
+<en>{Daigo}\n"Oh, that would be asking for too much, Pierre. I'm already too happy from this - and I've used up all my luck getting this far."
 <es>
 
 @228
-<en>{Rin}\n"You're so humble, Daigo."
+<en>{Rin}\n"Wow, you're so humble, Kudou-kun."
 <es>
 
 @229
-<en>{Kazushi}\n"He is not so used to the happy things at all once. So he is kind of scared."
+<en>{Kazushi}\n"He's not very used to a lot of happy things happening all at once, so it's left him kinda scared."
 <es>
 
 @233
-<en>{Pierre}\n"I will have to take some action this summer. Because it seems I'm already behind Kazushi."
+<en>{Pierre}\n"I'll have to be more proactive this summer. Especially since it seems like I've fallen behind Kazushi now."
 <es>
 
 @234
-<en>Pierre gives me a suggestive smile.
+<en>Pierre gave me a suggestive smile.
 <es>
 
 @235
-<en>Gee, he already knows about me and Mizuki.
+<en>I twitched. I thought it meant he already knew about me and Mizuki.
 <es>
 
 @236
-<en>And the worst part is that he also knows that we're just pretending to see each other. He enjoys watching how far we can go with this.
+<en>And the worst part is, he also knows that we're just pretending to see each other. He's going to enjoy watching how far we can go with this.
 <es>
 
 @241
-<en>{Daigo}\n"Kazushi, you bliss out now, huh? Going out with Mizuki?"
+<en>{Daigo}\n"You've found bliss now too, huh, Kazushi? So it's true that you're going out with Hinata?"
 <es>
 
 @242
-<en>Daigo must have heard the rumor. Or simply, he doesn't think straight.
+<en>Since he wasn't there that time, Daigo must have heard the rumour. That or he's leaping to his own conclusions.
 <es>
 
 @247
-<en>{Mizuki}\n"Come on. The wrong topic. Let's celebrate Daigo's birthday."
+<en>{Mizuki}\n"Come on, this isn't the time or the place. We're here to celebrate Kudou-kun's birthday."
 <es>
 
 @248
-<en>To change the topic, Mizuki pours beer into Daigo's glass.
+<en>To help change the subject, Mizuki poured a fresh round of beer into Daigo's glass.
 <es>
 
 @253
-<en>{Haruka}\n"This is fun. Let's do this again!"
+<en>{Haruka}\n"This is so fun! Let's have another birthday party!"
 <es>
 
 @258
@@ -425,23 +425,23 @@
 <es>
 
 @262
-<en>{Sakura}\n"No one for the time being, I believe."
+<en>{Sakura}\n"I don't think anyone has one until a fair time from now?"
 <es>
 
 @267
-<en>{Pierre}\n"Oh, Ms. Ibuki, please tell me your birthday."
+<en>{Pierre}\n"So Mei-chan, please tell us when your birthday is!"
 <es>
 
 @272
-<en>{Mei}\n"Sorry, mine won't come around soon."
+<en>{Mei}\n"Umm...... mine's a ways off. Sorry."
 <es>
 
 @275
-<en>It looks like not many birthdays over the summer. I wonder when Mizuki's birthday is. I'm not actually her boyfriend, but I should know it as least.
+<en>It didn't look like there was anyone else. I guess there aren't that many people born in summer. Oh yeah, I wonder when Mizuki's birthday is?
 <es>
 
 @276
-<en>{Kazushi}\n"Mizuki..."
+<en>{Kazushi}\n"Hey, Mizuki..."
 <es>
 
 @277
@@ -449,11 +449,11 @@
 <es>
 
 @278
-<en>Mizuki is not in the room. Has she left already?
+<en>When did Mizuki disappear? I only took my eyes off her for a second.
 <es>
 
 @279
-<en>{Kazushi}\n"Do you see Mizuki?"
+<en>{Kazushi}\n"Have you seen Mizuki anywhere?"
 <es>
 
 @282
@@ -465,23 +465,23 @@
 <es>
 
 @287
-<en>{Pierre}\n"Hmm? I don't see Appo- either."
+<en>{Pierre}\n"Hmm? I don't see Appo either."
 <es>
 
 @288
-<en>{Kazushi}\n"He was not here the whole time."
+<en>{Kazushi}\n"Yeah, I haven't seen him around. Wasn't he absent from the beginning?"
 <es>
 
 @289
-<en>{Pierre}\n"Where the hell is he? He misses his best friend's birthday party."
+<en>{Pierre}\n"What a heartless guy. Where did he run off to on his best friend's birthday party?"
 <es>
 
 @294
-<en>{Daigo}\n"Execution! Definitely, execution!!"
+<en>{Daigo}\n"Execution! Appo gets the death penalty!!"
 <es>
 
 @295
-<en>Daigo keeps drinking beer. It's a matter of time he passes out. But we need to blow off steam every once in while, don't we?
+<en>Daigo kept at it with the beer. It's just a matter of time before he passes out, so we don't really need to worry - we all need to blow off steam every once in a while.
 <es>
 
 @300
@@ -489,23 +489,23 @@
 <es>
 
 @301
-<en>Rin pulls on my shirt with a grin.
+<en>Fujisaki-san tugged on my shirt with a grin.
 <es>
 
 @302
-<en>{Rin}\n"You know, Mizuki may be outside and waiting for you."
+<en>{Rin}\n"You know, Mizuki-chan may be waiting for you outside."
 <es>
 
 @303
-<en>Oh, not again. Rin brings back that subject again
+<en>Oh no, not again. Why does Fujisaki-san have to keep bringing that back up?
 <es>
 
 @304
-<en>{Kazushi}\n"I don't think so. She may be in the bathroom."
+<en>{Kazushi}\n"Why would Mizuki be? She's probably in the bathroom."
 <es>
 
 @305
-<en>{Rin}\n"I think she wants to be with you outside alone."
+<en>{Rin}\n"Come on, maybe she snuck outside because she wants to be alone with you?"
 <es>
 
 @306
@@ -513,23 +513,23 @@
 <es>
 
 @307
-<en>{Kazushi}\n"If that's true, how come she didn't even ask me to go with her. Otherwise, how the hell would I know she is out there?"
+<en>{Kazushi}\n"If that's true, then how come she didn't ask me to go with her? What's the point in stepping out by yourself?"
 <es>
 
 @310
-<en>{Rin}\n"You really don't get it, do you? You see? She is testing you whether you really care about her."
+<en>{Rin}\n"You really don't get it, do you? She's testing you to see whether you'd notice and come after her if she didn't tell you."
 <es>
 
 @311
-<en>{Kazushi}\n"Testing?"
+<en>{Kazushi}\n"Huh? Testing me?"
 <es>
 
 @312
-<en>{Rin}\n"If you truly love her, you ought be looking at her all the time. Then, you will know when she is out."
+<en>{Rin}\n"If you truly love her, you ought to be looking at her all the time. Then you'd have known that she left."
 <es>
 
 @313
-<en>{Rin}\n"I bet Mizuki is waiting for you out there."
+<en>{Rin}\n"So I bet Mizuki's waiting outside right now for you to come after her."
 <es>
 
 @314
@@ -537,15 +537,15 @@
 <es>
 
 @315
-<en>Hmm. Well, Rin may be right. Mizuki might be waiting for me outside. If so, she is more girlish than I thought.
+<en>After hearing that, I started to think she might be right. Is Mizuki waiting for me outside? She's more adorable than I thought.
 <es>
 
 @318
-<en>{Rin}\n"Go. You cannot make her worry."
+<en>{Rin}\n"So go on. You can't make her worried."
 <es>
 
 @319
-<en>{Kazushi}\n"Okay. Thanks, Rin."
+<en>{Kazushi}\n"Yeah, alright. Thanks, Fujisaki-san."
 <es>
 
 @320
@@ -553,15 +553,15 @@
 <es>
 
 @328
-<en>{Kazushi}\n"Gee, where is she?"
+<en>{Kazushi}\n"Huh? She's not here."
 <es>
 
 @329
-<en>Mizuki was not outside the cafeteria. I already walk this far to look for her.
+<en>I thought she'd be waiting just outside the cafeteria, but she wasn't there. I started wandering around looking for her.
 <es>
 
 @332
-<en>{Mizuki}\n"... ... ..."
+<en>{Mizuki}\n"........."
 <es>
 
 @333
@@ -569,15 +569,15 @@
 <es>
 
 @334
-<en>{Kazushi}\n"Mizuki"
+<en>{Kazushi}\n"Mizuki."
 <es>
 
 @337
-<en>{Mizuki}\n"Huh! Yes!!"
+<en>{Mizuki}\n"Yes?!"
 <es>
 
 @338
-<en>I startle her. She jumps up in surprise.
+<en>I startled her. She jumped up in surprise.
 <es>
 
 @341
@@ -585,23 +585,23 @@
 <es>
 
 @342
-<en>She looks surprised to see me. This means she was not waiting for me...of course not.
+<en>She looked surprised to see me. This meant she wasn't waiting for me.\n...of course she wasn't.
 <es>
 
 @343
-<en>We are not really seeing each other. We are just pretending to be boyfriend and girlfriend.
+<en>Fujisaki-san may have said that, but we're just pretending to date. There's no way Mizuki would test me.
 <es>
 
 @344
-<en>{Kazushi}\n"What are you doing here?"
+<en>{Kazushi}\n"What are you doing here all by yourself?"
 <es>
 
 @347
-<en>{Mizuki}\n"Uh. I just needed fresh air. To sober up, you know."
+<en>{Mizuki}\n"Huh? Oh, I just needed to get some fresh air. To sober up, you know."
 <es>
 
 @348
-<en>Yeah. She looks flushed. I sit down next to her.
+<en>Made sense to me - she looked rather flushed. I sat down next to her.
 <es>
 
 @351
@@ -613,23 +613,23 @@
 <es>
 
 @353
-<en>{Mizuki}\n"Oh. I see."
+<en>{Mizuki}\n"Hmm..."
 <es>
 
 @354
-<en>How could I tell her that "I was looking for you because I thought you were waiting for me"?
+<en>How could I say "I was looking for you because I thought you were waiting for me"?
 <es>
 
 @355
-<en>It would be so embarrassing to say it. What the hell was I expecting, anyway?
+<en>It would be so embarrassing to admit it. What the hell was I expecting, anyways?
 <es>
 
 @358
-<en>{Mizuki}\n"So you were not looking for me then."
+<en>{Mizuki}\n"I thought you'd come looking for me."
 <es>
 
 @359
-<en>Mizuki mutters under her breath. What did I just hear?
+<en>Mizuki muttered something under her breath. What did I just hear?
 <es>
 
 @360
@@ -637,19 +637,19 @@
 <es>
 
 @363
-<en>{Mizuki}\n"Heh Heh. No way, huh? Because there is no reason for you to look for me."
+<en>{Mizuki}\n"Ahahaha, no way, right? Because there's no reason whatsoever for you to have come looking for me."
 <es>
 
 @364
-<en>While laughing, she glances at me. Suddenly, we get into an awkward silence.
+<en>She glanced at me while attempting to laugh. Suddenly we lapsed into an awkward silence.
 <es>
 
 @365
-<en>{Kazushi}\n"Uh..."
+<en>{Kazushi}\n"Actually..."
 <es>
 
 @366
-<en>Fuck! What am I supposed to say now? Should I just say the truth? But we are not really...
+<en>Fuck! What do I say now? Should I just tell her the truth? But we aren't really...
 <es>
 
 @367
@@ -657,15 +657,15 @@
 <es>
 
 @368
-<en>We hear Daigo scream out in the cafeteria.
+<en>We could hear Daigo screaming from the cafeteria.
 <es>
 
 @369
-<en>It seems the party is now in full swing. I hear people cry in excitement.
+<en>It seemed like the party was now in full swing. I heard people shouting with excitement.
 <es>
 
 @370
-<en>{Kazushi}\n"Daigo is pretty high, huh. He must have been damn happy."
+<en>{Kazushi}\n"Daigo's feeling pretty high, huh? He must be so damn happy."
 <es>
 
 @373
@@ -673,35 +673,35 @@
 <es>
 
 @374
-<en>Her answer is not so enthusiastic. Is it because I didn't respond well? Maybe, maybe not.
+<en>Her answer's not very enthusiastic. Is it because I didn't give her the right answer earlier? Maybe... Maybe not...
 <es>
 
 @375
-<en>Since yesterday, I have been thinking of Mizuki all the time. Maybe, I'm wasting my time and energy. Hey, this doesn't sound like a pretense...
+<en>I've been thinking about Mizuki all the time since yesterday. Maybe I'm just wasting my time and energy.\n......Hey, this sounds like I really am in love?
 <es>
 
 @376
-<en>{Mizuki}\n"... ... ..."
+<en>{Mizuki}\n"........."
 <es>
 
 @377
-<en>An awkward silence goes on.
+<en>The awkward silence continued oppressing us.
 <es>
 
 @378
-<en>{Kazushi}\n"When is your birthday?"
+<en>{Kazushi}\n"Oh yeah, when's your birthday?"
 <es>
 
 @381
-<en>{Mizuki}\n"What is it, all of the sudden?"
+<en>{Mizuki}\n"What's this all of a sudden?"
 <es>
 
 @382
-<en>She sounds a bit confused.
+<en>She sounded a bit confused.
 <es>
 
 @383
-<en>{Kazushi}\n"We were just talking at the party. So I was wondering when your birthday was."
+<en>{Kazushi}\n"We were all just talking about everyone's birthdays at the party. So I was wondering when yours is."
 <es>
 
 @386
@@ -717,7 +717,7 @@
 <es>
 
 @391
-<en>She resists stubbornly.
+<en>She resisted stubbornly.
 <es>
 
 @392
@@ -725,19 +725,19 @@
 <es>
 
 @393
-<en>That moment -
+<en>Then, at that moment--
 <es>
 
 @394
-<en>{???}\n"Something groans."
+<en>{???}\n"Hoooooooooohnn!"
 <es>
 
 @397
-<en>{Mizuki}\n"What? Did you hear that?"
+<en>{Mizuki}\n"Huh?"
 <es>
 
 @398
-<en>There was a groaning, creepy voice coming from somewhere. It sounded like it came from the bottom of hell.
+<en>There was a groaning, creepy voice coming from the forest. It sounded like it originated in the deepest pits of hell.
 <es>
 
 @399
@@ -745,15 +745,15 @@
 <es>
 
 @402
-<en>{Mizuki}\n"I heard it from that bush over there."
+<en>{Mizuki}\n"I-I heard it from that bush over there."
 <es>
 
 @403
-<en>She points out to the bush at the corner of schoolyard. It is pretty dark out there with no lights around.
+<en>She pointed at a bush in the corner of the schoolyard. It's pretty dark out here when the lights aren't on...
 <es>
 
 @404
-<en>{???}\n"Something groans."
+<en>{???}\n"Uhoo! Oooooooh... Mmm!"
 <es>
 
 @405
@@ -761,11 +761,11 @@
 <es>
 
 @406
-<en>{Mizuki}\n"Something in there? A wild animal?"
+<en>{Mizuki}\n"Is there something in there? A wild animal?"
 <es>
 
 @407
-<en>{Kazushi}\n"Maybe. A wild animal like..."
+<en>{Kazushi}\n"Maybe. Is there anything like that on this island?"
 <es>
 
 @408
@@ -777,7 +777,7 @@
 <es>
 
 @412
-<en>{Mizuki}\n"Wolf? Wolfs are not here in Japan."
+<en>{Mizuki}\n"A wolf? There aren't any wolves in Japan."
 <es>
 
 @413
@@ -785,19 +785,19 @@
 <es>
 
 @414
-<en>{???}\n"Something groans harder."
+<en>{???}\n"Ngh... Oooooooooooh... Mmm...!!"
 <es>
 
 @415
-<en>Wait. Something is wrong. This sounds more like a human.
+<en>Wait, there's something wrong with this. That groan is starting to sound more human.
 <es>
 
 @416
-<en>{Mizuki}\n"What is it then? Somebody is out there?"
+<en>{Mizuki}\n"What is it, then? Is there somebody out there?"
 <es>
 
 @417
-<en>With a scared look, Mizuki pulls on my shirt. Those voices were not ordinary for human. They are more of agonies of death throes.
+<en>Mizuki pulled on my shirt, clinging to it as she looked scared. Those voices weren't ordinary for humans - they were more like the death throes of a man in agony.
 <es>
 
 @418
@@ -805,7 +805,7 @@
 <es>
 
 @419
-<en>{Kazushi}\n"I will take a look."
+<en>{Kazushi}\n"I'm going to go take a look."
 <es>
 
 @422
@@ -813,7 +813,7 @@
 <es>
 
 @423
-<en>{Kazushi}\n"I'm fine. If there is an accident, I got to help."
+<en>{Kazushi}\n"I'm fine. I've got to help if there's been an accident."
 <es>
 
 @426
@@ -833,19 +833,19 @@
 <es>
 
 @432
-<en>Leaving Mizuki alone, I walk into the bush.
+<en>Leaving Mizuki alone, I walked into the bushes.
 <es>
 
 @434
-<en>Kazuki walks through the bush.
+<en>Rustle, rustle, rustle...
 <es>
 
 @435
-<en>{Kazushi}\n"Must be right there."
+<en>{Kazushi}\n"Must be over there..."
 <es>
 
 @437
-<en>Some parts of the bush are waving with noise. There is somebody in there. I slowly plow through the bush and try to look into it.
+<en>Some parts of the bushes were shaking with noise and motion. There was somebody in there. I slowly trod through the bushes and tried to look into them.
 <es>
 
 @438
@@ -853,7 +853,7 @@
 <es>
 
 @439
-<en>I hear Mizuki's thin voice from behind.
+<en>I heard Mizuki's thin voice from behind.
 <es>
 
 @440
@@ -861,27 +861,27 @@
 <es>
 
 @443
-<en>{Mizuki}\n"I don't want to be left alone. I feel lonely..."
+<en>{Mizuki}\n"Because I felt scared by myself..."
 <es>
 
 @444
-<en>{Kazushi}\n"Feel lonely? That doesn't sound like you."
+<en>{Kazushi}\n"Felt scared? That's not like you."
 <es>
 
 @447
-<en>{Mizuki}\n"What the hell does that mean?"
+<en>{Mizuki}\n"S-sorry!"
 <es>
 
 @448
-<en>{Kazushi}\n"Shh! Shut up!"
+<en>{Kazushi}\n"Shh! Keep your voice down!"
 <es>
 
 @451
-<en>{Mizuki}\n"Hmm...Hmm...!!"
+<en>{Mizuki}\n"Hmm... Hmm...!!"
 <es>
 
 @453
-<en>I cover her mouth with my hand. And we peep into the back of the bush. It is dead silent.
+<en>I covered her mouth with my hand as we peeped through the back of the bushes. It was dead silent.
 <es>
 
 @454
@@ -897,31 +897,31 @@
 <es>
 
 @459
-<en>{Kazushi}\n(There is somebody over the bush.)
+<en>{Kazushi}\n(There's somebody in that bush.)
 <es>
 
 @462
-<en>{Mizuki}\n(Re-Really?)
+<en>{Mizuki}\n(Re-really?)
 <es>
 
 @464
-<en>We kept quiet by holding our breath for awhile. I don't see or hear anything from there. It seems that someone over there also tries to keep quiet.
+<en>We kept quiet and held our breaths for a while. I didn't see or hear anything from there. It seemed that whoever was over there also wanted to keep quiet.
 <es>
 
 @465
-<en>Does that person know we are here?
+<en>Does that mean they know we're here?
 <es>
 
 @466
-<en>{Kazushi}\n"... ... ..."
+<en>{Kazushi}\n"........."
 <es>
 
 @467
-<en>Over a minute passes...Then....
+<en>Over a minute passed... Then...
 <es>
 
 @468
-<en>{Appo-}\n"Maybe it's just my imagination..."
+<en>{Appo}\n"Maybe it's just my imagination..."
 <es>
 
 @469
@@ -929,11 +929,11 @@
 <es>
 
 @470
-<en>{Kazushi}\n(Huh? Appo-?)
+<en>{Kazushi}\n(Huh? Appo?)
 <es>
 
 @472
-<en>{Hu-sen}\n"No one is going to come to the place like this. Go on."
+<en>{Fuusen}\n"No one is going to come to a place like this. Now come on, keep going!"
 <es>
 
 @475
@@ -941,7 +941,7 @@
 <es>
 
 @476
-<en>Appo- and Kazuko...That voice....
+<en>If that's Appo and her, then that voice was...
 <es>
 
 @477
@@ -949,59 +949,59 @@
 <es>
 
 @478
-<en>{Kazushi}\n"... ... ..."
+<en>{Kazushi}\n"........."
 <es>
 
 @479
-<en>We further walk into the bush and peep into it.
+<en>We walked further into the bush and peeped in there.
 <es>
 
 @484
-<en>There we find two persons having sex in doggy style.
+<en>There we saw the two of them going at it doggy style beneath the stars.
 <es>
 
 @485
-<en>They would sure look like a wild animal with four legs.
+<en>From their silhouette they looked just like a four-legged beast about the size of two people.
 <es>
 
 @486
-<en>{Hu-sen}\n"Ahh..Give me more! Give me your fuckin' cock, Appo-!"
+<en>{Fuusen}\n"Hh, hhh, yesssssssss! Thrust more! Give me more of your burly lance, Ah-chan!"
 <es>
 
 @487
-<en>{Mizuki}\n(What the hell are they doing in here?!!)
+<en>{Mizuki}\n(Wh-what the hell are they doing in here!?)
 <es>
 
 @488
-<en>While sneaking a glance at them, Mizuki is totally flushed.
+<en>After catching a glance of those two, Mizuki turned so red I thought she'd catch on fire.
 <es>
 
 @489
-<en>{Hu-sen}\n"Woooo!! Yes! Yes!!"
+<en>{Fuusen}\n"Oooh! Oooooooohhh!! Oh, yes! Oh, yessss!!"
 <es>
 
 @490
-<en>The groaning voice was Kazuko's moaning.
+<en>That pained howling was just Fuusen moaning!
 <es>
 
 @491
-<en>{Kazushi}\n"Just a fucking moan."
+<en>{Kazushi}\n"Jeez, talk about misleading."
 <es>
 
 @492
-<en>{Mizuki}\n"Why are you so calm now? Go and stop them."
+<en>{Mizuki}\n"How can you be so calm? Stop them! Go and stop them!"
 <es>
 
 @493
-<en>{Kazushi}\n"What? We can't just tell them to stop what they are doing. There is nothing wrong..."
+<en>{Kazushi}\n"Why? We can't just tell them to stop. They're not doing anything wrong..."
 <es>
 
 @494
-<en>Well, maybe doing out here is a little...
+<en>Though there is a problem with where.
 <es>
 
 @495
-<en>{Mizuki}\n"But they can't do that here...I know there may be a law prohibiting that..."
+<en>{Mizuki}\n"But they can't do that out here! I know there's some kind of law against it..."
 <es>
 
 @496
@@ -1009,23 +1009,23 @@
 <es>
 
 @497
-<en>{Hu-sen}\n"Aahhhh! You kill me! I'm going to die!!"
+<en>{Fuusen}\n"AHHHHH!! You're killing me! I'm going to die of pleasure!!"
 <es>
 
 @498
-<en>{Mizuki}\n"Come on..."
+<en>{Mizuki}\n"H-hey..."
 <es>
 
 @499
-<en>Mizuki now keeps her mouth shut and watching their intercourse.
+<en>Mizuki fell more and more silent. At first she only stole glances, but soon her eyes were glued to them.
 <es>
 
 @500
-<en>After all, we're both glued to their fucking.
+<en>In the end, we just kept our mouths shut and watched them both fuck.
 <es>
 
 @501
-<en>{Mizuki}\n"Hey, Kazushi."
+<en>{Mizuki}\n"H-hey..."
 <es>
 
 @502
@@ -1033,11 +1033,11 @@
 <es>
 
 @503
-<en>{Mizuki}\n"Uh.. Do men's things become that big usually...?"
+<en>{Mizuki}\n"Um... Do men's...things...usually become that big?"
 <es>
 
 @504
-<en>Mizuki stares at where the two connects. Appo-'s greasy, large cock is illuminated by moonlight.
+<en>Mizuki stared at where the two were making contact. Appo's large, greasy cock was illuminated by the moonlight.
 <es>
 
 @505
@@ -1045,23 +1045,23 @@
 <es>
 
 @506
-<en>{Mizuki}\n"I see. God. I can't believe such a big thing can go inside..."
+<en>{Mizuki}\n"I-I see. ......I can't believe such a big thing can go inside..."
 <es>
 
 @507
-<en>With a surprised look, Mizuki keeps looking at the connected part.
+<en>With a surprised look, Mizuki kept looking at the point of penetration.
 <es>
 
 @508
-<en>{Appo-}\n"Like this? Do you like it?"
+<en>{Appo}\n"Like this? Do you like it?"
 <es>
 
 @510
-<en>Appo- moves faster. He shakes his hips like a beast. His pounding sounds echo all over the place.
+<en>Appo started moving faster. He shook his hips like a beast. His pounding sounds echoed all over the campus.
 <es>
 
 @511
-<en>{Hu-sen}\n"Appo-! Good! Yes! Yes! Woooooo!!"
+<en>{Fuusen}\n"AH-CHAN! YES! YES! OOOOOOHH!"
 <es>
 
 @512
@@ -1073,63 +1073,63 @@
 <es>
 
 @514
-<en>{Mizuki}\n"... ... ..."
+<en>{Mizuki}\n"........."
 <es>
 
 @515
-<en>Mizuki is struck dumb. Truthfully, their sex is not so erotically exciting.
+<en>Mizuki was struck dumb. In truth, their sex wasn't what I'd call erotically exciting.
 <es>
 
 @516
-<en>I don't know what to do in this situation with Mizuki so close to me.
+<en>I didn't know what to do in this situation with Mizuki so close to me.
 <es>
 
 @517
-<en>{Mizuki}\n"... ... ..."
+<en>{Mizuki}\n"........."
 <es>
 
 @518
-<en>While Mizuki sits on the ground I din't know where to turn my eyes since nape of her neck and thigh peeking out of her skirt came into my sight.
+<en>While Mizuki sat on the ground, I didn't know where to turn my eyes, since the nape of her neck and a hint of her thigh peeking out of her skirt came into my sight.
 <es>
 
 @519
-<en>{Hu-sen}\n"I'm coming. Coming!!"
+<en>{Fuusen}\n"I'm coming! I'm coming, I'm coming, I'm coming, I'm Coming!!"
 <es>
 
 @520
-<en>{Mizuki}\n"Oh, my...!"
+<en>{Mizuki}\n"Hhh?!"
 <es>
 
 @521
-<en>{Kazushi}\n"Mizuki, that's it. Let's go!"
+<en>{Kazushi}\n"Mizuki. Let's go!"
 <es>
 
 @522
-<en>I take her hand.
+<en>I took her hand.
 <es>
 
 @523
-<en>{Mizuki}\n"Uh..."
+<en>{Mizuki}\n"Ah..."
 <es>
 
 @524
-<en>I leave the place, pulling Mizuki's hand.
+<en>I left that spot pulling Mizuki's hand behind me.
 <es>
 
 @525
-<en>{Hu-sen}\n"Ex...Ex...Ecstasy!!"
+<en>{Fuusen}\n"E-ec! Ecs! Ecstasyyyyyyyyyyyy!"
 <es>
 
 @533
-<en>{Daigo}\n"Kazushi!"
+<en>{Daigo}\n"Kazushiiiii!"
 <es>
 
 @535
-<en>As I return to the cafeteria somewhat tired, Daigo jumps and hugs me tight.
+<en>Daigo jumped up and hugged me tight as I returned to the cafeteria somewhat tired.
 <es>
 
 @536
-<en>{Kazushi}\n"Whoa! Hey, stop it! Disgusting!"
+<en>{Kazushi}\n"Whoa! Hey, stop it! That's disgusting!!"
 <es>
 
 @537
@@ -1141,19 +1141,19 @@
 <es>
 
 @542
-<en>{Haruka}\n"Yeah!! Kiss! Kiss!!"
+<en>{Haruka}\n"Ahahahaha! Kiss him! Kiss!"
 <es>
 
 @543
-<en>The party becomes rather chaotic.
+<en>The party had become rather chaotic.
 <es>
 
 @547
-<en>{Mizuki}\n"... ... ..."
+<en>{Mizuki}\n"........."
 <es>
 
 @548
-<en>Flushing slightly, Mizuki still looks down behind my back.
+<en>Slightly flushed, Mizuki was still looking down behind my back.
 <es>
 
 @553
@@ -1161,23 +1161,23 @@
 <es>
 
 @554
-<en>Rin asks her in a concerned voice.
+<en>Fujisaki-san asked her in a concerned voice.
 <es>
 
 @557
-<en>{Mizuki}\n"No. I-I'm fine."
+<en>{Mizuki}\n"No, I'm fine... I'm just a little tipsy."
 <es>
 
 @558
-<en>{Rin}\n"Would you want me to bring you water?"
+<en>{Rin}\n"Would you like me to bring you some water?"
 <es>
 
 @559
-<en>{Mizuki}\n"Yeah, thanks"
+<en>{Mizuki}\n"Yes, please."
 <es>
 
 @561
-<en>Rin leaves us to get water and Sakura comes over.
+<en>Fujisaki-san left us to get the water and Sakura came over.
 <es>
 
 @564
@@ -1185,7 +1185,7 @@
 <es>
 
 @565
-<en>She knew we left the party. She asks us in a teasing tone.
+<en>She knew we'd left the party. She was asking us in a teasing tone.
 <es>
 
 @568
@@ -1193,23 +1193,23 @@
 <es>
 
 @569
-<en>{Kazushi}\n"Just outside. We just needed fresh air."
+<en>{Kazushi}\n"Just outside. We needed some fresh air."
 <es>
 
 @572
-<en>{Sakura}\n"Oookay..."
+<en>{Sakura}\n"Hmm..."
 <es>
 
 @573
-<en>Sakura senses something from our awkward behavior.
+<en>Sakura sensed something from our awkward behavior.
 <es>
 
 @577
-<en>{Rin}\n"Here is the water."
+<en>{Rin}\n"Here's your water."
 <es>
 
 @579
-<en>Rin gives a cup of water to Mizuki, who drinks it.
+<en>Fujisaki-san passed Mizuki a glass of water. She picked it up and started to take a drink when...
 <es>
 
 @583
@@ -1217,59 +1217,59 @@
 <es>
 
 @587
-<en>{Mizuki}\n"She pukes."
+<en>{Mizuki}\n *PFFFTTTTTTTTTTTTTTT*
 <es>
 
 @588
-<en>Mizuki spits all the water on Sakura.
+<en>Mizuki did a spit-take with her water, drenching Sakura.
 <es>
 
 @591
-<en>{Sakura}\n"Oh, no... ... ...It's cold... I'm soaking wet!"
+<en>{Sakura}\n"... ... ...It's cold... I'm soaking wet!"
 <es>
 
 @594
-<en>{Mizuki}\n"Sorry, but you just said something crazy!"
+<en>{Mizuki}\n"B-but you're the one who just said such nonsense!"
 <es>
 
 @597
-<en>{Sakura}\n"Because Rin told me she heard you two doing..."
+<en>{Sakura}\n"Because Rin told me she heard voices."
 <es>
 
 @598
-<en>{Kazushi}\n"Heard what? Doing what? Rin?"
+<en>{Kazushi}\n"Voices? Fujisaki-san?"
 <es>
 
 @603
-<en>{Rin}\n"Sorry. I began to worry about you guys, so I went outside and I heard, you know, moaning..."
+<en>{Rin}\n"I-I'm sorry! I was worried about you two, so I went outside. That's when I heard moaning from the bushes..."
 <es>
 
 @608
-<en>{Mizuki}\n"Wait! That's not..."
+<en>{Mizuki}\n"H-hey, wait!"
 <es>
 
 @609
-<en>That's Kazuko. I guess Rin chased after me and heard Kazuko's moaning and came right back.
+<en>That's Fuusen. I guess Rin chased after me, heard Fuusen's voice, panicked, and ran back into the cafeteria.
 <es>
 
 @610
-<en>And she thinks that's ours.
+<en>Thinking that voice was ours.
 <es>
 
 @614
-<en>{Sakura}\n"She said that you guys were wild. Honestly, I didn't know you two have gone that far. Mizuki, I'm sorry, I said you were lesbian."
+<en>{Sakura}\n"She said you guys were wild. Honestly, I didn't know you two had gone that far. I'm sorry for calling you a lesbian, Mizuki."
 <es>
 
 @617
-<en>{Mizuki}\n"What?... Never mind..."
+<en>{Mizuki}\n"Huh? That's okay, but..."
 <es>
 
 @618
-<en>Mizuki must be really confused. She is cleared of being lesbian, but now they think she is a wide sex maniac.
+<en>Mizuki must be really confused. She's cleared of being a lesbian, but now they think she's having wild sex with me.
 <es>
 
 @622
-<en>{Mizuki}\n(Oh, my God...Things are getting out of my hand.)
+<en>{Mizuki}\n(Hey, what should we do? Things are getting really out of hand...)
 <es>
 
 @623
@@ -1277,19 +1277,19 @@
 <es>
 
 @629
-<en>{Sakura}\n"You guys just started to go out recently, right? It's amazing."
+<en>{Sakura}\n"But you guys just started going out recently, right? That's amazing."
 <es>
 
 @630
-<en>{Rin}\n"I was blown away to hear you moan, Mizuki. Do you just let it out naturally."
+<en>{Rin}\n"I guess one's voice comes out that much during it? Does it happen on its own?"
 <es>
 
 @634
-<en>{Mizuki}\n"Uh...That's..."
+<en>{Mizuki}\n"Uh... That's..."
 <es>
 
 @635
-<en>Mizuki is not good at this type of topic. Plus, that was nothing to do with her. She looks completely perplexed.
+<en>Mizuki was absolutely in trouble. She wasn't good with this topic to begin with, and they were asking her things she didn't even know.
 <es>
 
 @639
@@ -1305,31 +1305,31 @@
 <es>
 
 @648
-<en>She is crossing the line. So I knock Sakura on the head with my fist.
+<en>She crossed the line, so I tapped Sakura on the head with my fist.
 <es>
 
 @649
-<en>{Kazushi}\n"Hey, stop it. You put Mizuki on the spot."
+<en>{Kazushi}\n"Hey, stop it. You're bothering Mizuki."
 <es>
 
 @650
-<en>I stare at Sakura, who chuckles jokingly.
+<en>I glared at Sakura, but she jokingly chuckled.
 <es>
 
 @653
-<en>{Sakura}\n"You show some manhood, Kazushi. Trying to protect your girl?"
+<en>{Sakura}\n"That's remarkably manly for you, Harucchi. Trying to protect your girl?"
 <es>
 
 @654
-<en>{Kazushi}\n"Sort of. Look, Mizuki, I will keep an eye of them so that they won't bother you."
+<en>{Kazushi}\n"...sort of.\nLook, I'll be keeping my eye on her, so don't bother Mizuki."
 <es>
 
 @658
-<en>{Mizuki}\n"Kazushi?"
+<en>{Mizuki}\n"Huh? Hey, Kazushi?"
 <es>
 
 @663
-<en>{Rin}\n"Wow! Like a knight, huh? I wish I had my own knight."
+<en>{Rin}\n"Wow! Like a knight in shining armor! Boyfriends are so nice."
 <es>
 
 @664
@@ -1337,15 +1337,15 @@
 <es>
 
 @665
-<en>{Rin}\n"Oh, sorry. We won't bother you two any more."
+<en>{Rin}\n"Okay. Sorry for disturbing you two. Enjoy yourselves."
 <es>
 
 @669
-<en>{Sakura}\n"Mizuki, sorry to keep asking. See you."
+<en>{Sakura}\n"Sorry to pester you, Mizuki. See you later."
 <es>
 
 @674
-<en>Sakura and Rin leave us with no more bothering.
+<en>Sakura and Fujisaki-san left us alone without any further trouble.
 <es>
 
 @675
@@ -1353,19 +1353,19 @@
 <es>
 
 @676
-<en>{Kazushi}\n"Maybe, I might as well act like your boyfriend more. Then, they don't bother us."
+<en>{Kazushi}\n"Maybe I should act like your boyfriend more often. Then they won't bother us."
 <es>
 
 @679
-<en>{Mizuki}\n"Is that how it woks?"
+<en>{Mizuki}\n"I-is that how it works?"
 <es>
 
 @680
-<en>{Kazushi}\n"If you keep it a secret, they use it to tease you. I guess..."
+<en>{Kazushi}\n"Anything you try to keep a secret can be used to tease you, I guess. I don't really know since I'm not experienced either."
 <es>
 
 @683
-<en>{Mizuki}\n"You may be right. If you're open about this, there is no reason for them to tease."
+<en>{Mizuki}\n"You may be right. If we're open about this, there won't be any reason for them to try and make jokes about it."
 <es>
 
 @684
@@ -1377,19 +1377,19 @@
 <es>
 
 @689
-<en>{Pierre}\n"Are you two drinking?"
+<en>{Pierre}\n"Hey, you two. Are you drinking?"
 <es>
 
 @690
-<en>Pierre walks by with a bottle in his hand. It seems he is pretty drunk.
+<en>A drunken Pierre came up to us. He was pretty far gone already, and going around the room with a bottle of liquor in his hand.
 <es>
 
 @691
-<en>{Pierre}\n"Mizuki, you are not drinking! Here you go!"
+<en>{Pierre}\n"Mizuki-chan! You're not drinking! Have a round on me!"
 <es>
 
 @696
-<en>{Mizuki}\n"Uh..No. I'm fine. I already had one."
+<en>{Mizuki}\n"Oh, no, I've had enough already."
 <es>
 
 @699
@@ -1397,31 +1397,31 @@
 <es>
 
 @702
-<en>{Mizuki}\n"I mean it. I'm fine."
+<en>{Mizuki}\n"I mean it. I'm fine. ...ah."
 <es>
 
 @703
-<en>Pierre insists she drink. A typical drunken man.
+<en>Pierre insisted she keep drinking. Typical for a drunk.
 <es>
 
 @704
-<en>{Kazushi}\n"Hey, Pierre."
+<en>{Kazushi}\n"Pierre."
 <es>
 
 @705
-<en>Suddenly, Pierre stops and laughs in a puzzled look.
+<en>Suddenly Pierre stopped and laughed with a quizzical look on his face.
 <es>
 
 @709
-<en>{Pierre}\n"Oh, sorry. Mizuki is your girl. I don't want to be in trouble."
+<en>{Pierre}\n"Oh, sorry. I forgot that Mizuki-chan's your girl. I don't wanna cause any problems."
 <es>
 
 @710
-<en>{Kazushi}\n"Yeah, I will really get mad! I will beat crack out of you!"
+<en>{Kazushi}\n"You better not or I'll get really pissed off! I'll beat the crap outta you!"
 <es>
 
 @713
-<en>{Pierre}\n"Just kidding, buddy. Sorry, Mizuki."
+<en>{Pierre}\n"Ahaha, just kidding, buddy. Sorry, Mizuki-chan."
 <es>
 
 @717
@@ -1429,7 +1429,7 @@
 <es>
 
 @718
-<en>Pierre walks off while laughing out loud. Mizuki again, looks surprised.
+<en>Pierred laughed it off as he went off and headed over to some other girl. Mizuki looked surprised again.
 <es>
 
 @721
@@ -1437,31 +1437,31 @@
 <es>
 
 @722
-<en>{Kazushi}\n"They just back off of the girl when she says she has her boyfriend."
+<en>{Kazushi}\n"Guys always back off when a girl says she has a boyfriend."
 <es>
 
 @723
-<en>{Mizuki}\n"It sounds like the boyfriend is pretty convenient."
+<en>{Mizuki}\n"Hmm... it sounds like a boyfriend is rather convenient."
 <es>
 
 @724
-<en>{Kazushi}\n"Convenient may not be the right word, but..."
+<en>{Kazushi}\n"I'm not sure how I feel about being called convenient..."
 <es>
 
 @727
-<en>{Mizuki}\n"You are convenient, Kazushi."
+<en>{Mizuki}\n"You're so convenient, Kazushi."
 <es>
 
 @728
-<en>{Kazushi}\n"Whatever..."
+<en>{Kazushi}\n"You're saying that on purpose, aren't you?"
 <es>
 
 @729
-<en>Mizuki and I chuckle together.
+<en>Mizuki and I chuckled together.
 <es>
 
 @730
-<en>{Mizuki}\n"Kazushi, I want soft drink."
+<en>{Mizuki}\n"Hey, Kazushi. I want to drink some juice."
 <es>
 
 @731
@@ -1469,31 +1469,31 @@
 <es>
 
 @734
-<en>{Mizuki}\n"You are supposed to be convenient. It's just a drink?"
+<en>{Mizuki}\n"Come on, aren't you a convenient man? You can go and get it for me, can't you?"
 <es>
 
 @735
-<en>{Kazushi}\n"Then, go get it yourself."
+<en>{Kazushi}\n"And you can go and get it yourself, can't you?"
 <es>
 
 @738
-<en>{Mizuki}\n"Come on. Don't act cheap! The boyfriend should get what the girlfriend wants."
+<en>{Mizuki}\n"Come on, don't be so stingy. If you're a boyfriend, then quit complaining and get it."
 <es>
 
 @739
-<en>{Kazushi}\n"Hey, don't overuse this. The girlfriend should be..."
+<en>{Kazushi}\n"I think you're misunderstanding something. When it comes to this, a girlfriend should..."
 <es>
 
 @745
-<en>{Haruka}\n"She chuckles."
+<en>{Haruka}\n"Hee-hee..."
 <es>
 
 @746
-<en>{Kazushi}\n"Uh..."
+<en>{Kazushi}\n"Ah..."
 <es>
 
 @747
-<en>Haruka and Ran look at us.
+<en>Haruka and Ran were watching us.
 <es>
 
 @748
@@ -1501,23 +1501,23 @@
 <es>
 
 @752
-<en>{Mizuki}\n"No...this is only..."
+<en>{Mizuki}\n"No... this is only..."
 <es>
 
 @756
-<en>{Ran}\n"Oh, I feel jealous. But what the heck!?"
+<en>{Ran}\n"You're making me jealous. But oh well."
 <es>
 
 @757
-<en>{Kazushi}\n"What?"
+<en>{Kazushi}\n"Oh well, what?"
 <es>
 
 @758
-<en>{Haruka}\n"Me too. I'm just going to grab some more food. See you!"
+<en>{Haruka}\n"I'm jealous too, so I'm gonna grab some more food. Later!"
 <es>
 
 @759
-<en>{Ran}\n"Oh, yeah. I was going to eat some more myself."
+<en>{Ran}\n"Oh yeah. I brought a tub to take some home."
 <es>
 
 @762
@@ -1525,19 +1525,19 @@
 <es>
 
 @765
-<en>{Mizuki}\n"She chuckles."
+<en>{Mizuki}\n"......pff."
 <es>
 
 @766
-<en>{Kazushi}\n"I laugh."
+<en>{Kazushi}\n"...haha."
 <es>
 
 @767
-<en>We look at each other and both laugh bashfully.
+<en>We looked at each other and both laughed bashfully. It felt kind of odd, kind of embarrassing, and yet kind of nice.
 <es>
 
 @770
-<en>{Mizuki}\n"What do they mean by "us getting along well."?"
+<en>{Mizuki}\n"What do they mean that we're "getting along well"?"
 <es>
 
 @771
@@ -1545,23 +1545,23 @@
 <es>
 
 @772
-<en>{Mizuki}\n"Me either."
+<en>{Mizuki}\n"Me neither."
 <es>
 
 @773
-<en>Mindless chatter. But that is enough for us.
+<en>Small talk prevailed, but that was enough for us.
 <es>
 
 @774
-<en>Is this really a pretense of my feeling? No - - I really like Mizuki.
+<en>Is this really just a pretense?\nNo... I think I really like Mizuki.
 <es>
 
 @777
-<en>{Mizuki}\n"She laughs."
+<en>{Mizuki}\n"Ahahaha."
 <es>
 
 @778
-<en>What about her? Pretense is quite fun, but could be more fun if we really go out together.
+<en>But what about her? Playing make-believe is fun and all, but it could be a lot more so if we really started going out together.
 <es>
 
 @779
@@ -1569,7 +1569,7 @@
 <es>
 
 @785
-<en>Sunday morning, I see Sakura and Rin in the laundry room.
+<en>The next morning I saw Sakura and Fujisaki-san in the laundry room.
 <es>
 
 @786
@@ -1577,47 +1577,47 @@
 <es>
 
 @791
-<en>My greeting seems to be a bit too loud. Sakura squats with her hands over the head.
+<en>My greeting seemed to be a bit too loud. Sakura squatted down with her hands over her ears.
 <es>
 
 @792
-<en>{Sakura}\n"Too loud, Kazushi."
+<en>{Sakura}\n"Harucchi, please don't shout."
 <es>
 
 @793
-<en>{Kazushi}\n"Are you okay? Headache?"
+<en>{Kazushi}\n"Are you OK? Got a headache?"
 <es>
 
 @794
-<en>{Sakura}\n"Yes. Headache."
+<en>{Sakura}\n"Yes. Major headache."
 <es>
 
 @795
-<en>{Rin}\n"Sakura got too much drink last night."
+<en>{Rin}\n"Sakura had too much to drink last night."
 <es>
 
 @796
-<en>{Kazushi}\n"A hangover, huh?"
+<en>{Kazushi}\n"Oh, I see. Sakura's got a hangover, huh?"
 <es>
 
 @799
-<en>{Sakura}\n"I am not going to drink any more!"
+<en>{Sakura}\n"I'll never drink again!"
 <es>
 
 @800
-<en>{Kazushi}\n"The hangovers always say that. I don't think we're going to have parties like that soon, anyway."
+<en>{Kazushi}\n"People with hangovers always say that. I don't think we're going to have another party like that soon, anyways."
 <es>
 
 @801
-<en>We got permission just because it was a birthday party. Otherwise, usually we are not allowed to drink.
+<en>We only got permission because it was a birthday party. Otherwise, we're usually not allowed to drink.
 <es>
 
 @804
-<en>{Rin}\n"Now I remember."
+<en>{Rin}\n"Oh, now I remember."
 <es>
 
 @805
-<en>All of the sudden, Rin utters.
+<en>Fujisaki-san spurt that out all of a sudden.
 <es>
 
 @806
@@ -1625,27 +1625,27 @@
 <es>
 
 @809
-<en>{Rin}\n"There is another person whose birthday is pretty close. August 1st."
+<en>{Rin}\n"Someone else has a birthday coming up pretty soon. It's on August 1st."
 <es>
 
 @810
-<en>{Kazushi}\n"August 1st? It's the day after tomorrow."
+<en>{Kazushi}\n"August 1st? That's the day after tomorrow!"
 <es>
 
 @811
-<en>In two days! I don't recall anyone at the party saying about birthday coming this soon.
+<en>A birthday in two days! But I can't recall anyone at the party who said their birthday was coming up that soon.
 <es>
 
 @812
-<en>{Kazushi}\n"Who? Whose birthday?"
+<en>{Kazushi}\n"Whose birthday could it be?"
 <es>
 
 @815
-<en>{Sakura}\n"Isn't that Mizuki's?"
+<en>{Sakura}\n"Oh, I remember, too. That's Mizuki's isn't it?"
 <es>
 
 @816
-<en>Sakura joins, while kneading her temples with her hands.
+<en>Sakura chimed in while kneading her temples with her hands.
 <es>
 
 @817
@@ -1653,15 +1653,15 @@
 <es>
 
 @818
-<en>{Sakura}\n"Yeah. I'm positive. Because I said her birthday was the same day as my grandma died, and she said, "knock it off"."
+<en>{Sakura}\n"Yeah, I'm positive, because she said to knock it off when I tried to remember it as Yaoi Day."
 <es>
 
 @819
-<en>{Kazushi}\n"I would say the same."
+<en>{Kazushi}\n"I'd say the same thing."
 <es>
 
 @820
-<en>{Rin}\n"I wonder how come she didn't say it last night?"
+<en>{Rin}\n"I wonder why she didn't say anything about it last night?"
 <es>
 
 @823
@@ -1669,7 +1669,7 @@
 <es>
 
 @824
-<en>{Kazushi}\n"Yeah. Kind of."
+<en>{Kazushi}\n"Yeah, she really is."
 <es>
 
 @825
@@ -1677,23 +1677,23 @@
 <es>
 
 @826
-<en>{Kazushi}\n"Why do people sometimes make things so complicated? I don't get it..."
+<en>{Kazushi}\n"She really is such a pain like that."
 <es>
 
 @829
-<en>{Rin}\n"What don't you get it?"
+<en>{Rin}\n"A pain?"
 <es>
 
 @830
-<en>{Kazushi}\n"Oh, no. I was talking to myself. Shall we throw a party for her?"
+<en>{Kazushi}\n"Oh, nothing. I was talking to myself. Should we throw a party for her?"
 <es>
 
 @837
-<en>{Kazushi}\n"So, this is our plan."
+<en>{Kazushi}\n"So there you have it."
 <es>
 
 @838
-<en>I randomly pick some people and tell them about a party for Mizuki.
+<en>I grabbed a few key people and told them about organizing a surprise party for Mizuki.
 <es>
 
 @843
@@ -1705,23 +1705,23 @@
 <es>
 
 @848
-<en>{Hu-sen}\n"She is not the kind of person who requests things like that. Okay?"
+<en>{Fuusen}\n"She's not the kind of girl who'd request something like that herself, now is she?"
 <es>
 
 @853
-<en>{Pierre}\n"A party again! Great!! I wish we had parties everyday."
+<en>{Pierre}\n"Another party! Great!! I wish we could have a party every day!"
 <es>
 
 @858
-<en>{Daigo}\n"I thought I was only one who deserve to celebrate the birthday. I feel jealous!"
+<en>{Daigo}\n"I thought I was the one who deserved to celebrate their birthday. I feel jealous!"
 <es>
 
 @859
-<en>Daigo squeeze a dishrag in a chagrined look.
+<en>Daigo squeezed a dishrag with a chagrined look.
 <es>
 
 @863
-<en>{Appo-}\n"You really had a good time, huh? Don't worry. We will do it again for you."
+<en>{Appo}\n"You really had a good time, huh? Don't worry, we'll do it again for you next year."
 <es>
 
 @864
@@ -1729,7 +1729,7 @@
 <es>
 
 @865
-<en>{Kazushi}\n"I know you wanted to have all the happy moments only to yourself. But sharing the happy time with others could be even more joyful. Don't you think?"
+<en>{Kazushi}\n"I know you wanted to have a happy occasion all to yourself, but sharing the pleasure with others could be even more joyful, don't you think?"
 <es>
 
 @869
@@ -1737,59 +1737,59 @@
 <es>
 
 @873
-<en>{Rin}\n"We will make a birthday cake and some food."
+<en>{Rin}\n"We can make another birthday cake and some food today!"
 <es>
 
 @877
-<en>{Sakura}\n"What about presents? If we all chip in, we may get something nice."
+<en>{Sakura}\n"What about a present? If we all chip in, we can get her something nice."
 <es>
 
 @880
-<en>{Daigo}\n"Presents? I didn't get any presents?"
+<en>{Daigo}\n"Present? I didn't get a present..."
 <es>
 
 @881
-<en>Right. There were a lot of foods at the party last night, but no presents for Daigo...
+<en>He's right. There was a lot of food at the party last night, but no presents for Daigo...
 <es>
 
 @886
-<en>{Ran}\n"We don't know you long enough to give you presents, Daigo. Anyway, let's chip in 1.000 yen each for Mizuki's presents. I will collect the money from everyone."
+<en>{Ran}\n"We haven't known you long enough to get you anything, Daigo. Anyways, let's chip in 1000 yen each for Mizuki's present. I'll collect it from everybody."
 <es>
 
 @891
-<en>{Hu-sen}\n"No way! Don't let Ran handle this. Also 500 yen should be enough."
+<en>{Fuusen}\n"No way! Don't let Ran handle this or it'll all end up in her purse. Also, 500 yen each should be plenty."
 <es>
 
 @894
-<en>{Ran}\n"No...there won't be enough left I can pocket!"
+<en>{Ran}\n"No way... I won't be able to pocket anything at that rate..."
 <es>
 
 @895
-<en>{Hu-sen}\n"See? 500 yen each. Done!"
+<en>{Fuusen}\n"See? 500 yen each."
 <es>
 
 @896
-<en>{Kazushi}\n"Okay. Girls, you do the cooking and buy presents. And guys, you set up the venue. Is that okay?"
+<en>{Kazushi}\n"Right. Girls, you do the cooking and buy the present. Guys, we'll set up the venue. That good for everybody?"
 <es>
 
 @900
-<en>{Pierre}\n"We have done it once, so it shouldn't be so difficult. Let's rock, everybody!"
+<en>{Pierre}\n"We've got the hang of it after yesterday. Let's make the day after tomorrow even more wild!"
 <es>
 
 @904
-<en>{Daigo}\n"Sounds like it's going to be more exciting and more fun than my time..."
+<en>{Daigo}\n"Sounds like this is going to be more fun and exciting than for me..."
 <es>
 
 @908
-<en>{Appo-}\n"Birthday parties for girls should be more fun than boys. Accept it."
+<en>{Appo}\n"That's because it's no fun getting worked up over celebrating a guy's birthday."
 <es>
 
 @912
-<en>{Sakura}\n"Truth hurts!"
+<en>{Sakura}\n"Ahaha, that was blunt."
 <es>
 
 @916
-<en>{Haruka}\n"By the way, we must keep this a secret from Mizuki. We cannot let her know."
+<en>{Haruka}\n"By the way, we've gotta make sure Mizuki doesn't find out before the party."
 <es>
 
 @920
@@ -1797,19 +1797,19 @@
 <es>
 
 @924
-<en>{Pierre}\n"Kazushi, on that day you have to take Mizuki out. In the meantime, we will get all the stuff prepared."
+<en>{Pierre}\n"Kazushi, you've got take Mizuki out on a date that day. In the meantime, we'll get everything prepped."
 <es>
 
 @925
-<en>{Kazushi}\n"I bet Mizuki is going to get really surprised."
+<en>{Kazushi}\n"I bet Mizuki's going to be really surprised when she comes back to a birthday party!"
 <es>
 
 @926
-<en>Picturing her surprised look gives me an excitement. I can't wait for that!
+<en>After imagining Mizuki's surprise, I couldn't wait. I was really looking forward to the day after tomorrow.
 <es>
 
 @931
-<en>On August 1st
+<en>Then, on August 1st...
 <es>
 
 @932
@@ -1821,11 +1821,11 @@
 <es>
 
 @936
-<en>{Kazushi}\n"Don't worry."
+<en>{Kazushi}\n"Don't worry about it."
 <es>
 
 @937
-<en>My mission is to keep Mizuki away from the cafeteria all day, while the party preparation is under way.
+<en>The mission assigned to me was to keep Mizuki away from the cafeteria all day while the party prep was under way.
 <es>
 
 @938
@@ -1841,15 +1841,15 @@
 <es>
 
 @948
-<en>I bought her lunch outside.
+<en>I bought her lunch in the village and we had a picnic.
 <es>
 
 @949
-<en>It is going to take some time before the party gets started in the evening. I need to keep her out of the party site. So this is the necessary investment.
+<en>Since it was so sudden, it's going to take until nightfall. I need to keep her as far away as possible until things are done, so this constitutes a necessary investment.
 <es>
 
 @950
-<en>I spent some for her birthday present too. So I'm getting short in money.
+<en>I put in for her present too, so I'm getting sort on cash.
 <es>
 
 @953
@@ -1865,47 +1865,47 @@
 <es>
 
 @958
-<en>Shit. If she notices it, I will be in a big trouble.
+<en>Shit. If she catches on I'll be in big trouble.
 <es>
 
 @959
-<en>{Kazushi}\n"Well, would you want to walk around here a bit? We don't come out to town very often, right?"
+<en>{Kazushi}\n"Well, would you want to walk around here for a bit? We don't come down to the village very often together, right?"
 <es>
 
 @960
-<en>{Mizuki}\n"Okay..."
+<en>{Mizuki}\n"Sure, that works..."
 <es>
 
 @961
-<en>Then, she stares at me. Fuck! Does she find something suspicious?
+<en>Then she stared at me. Shit! Has she noted something suspicious?
 <es>
 
 @962
-<en>{Kazushi}\n"Uh...Do you want dessert or something? What do you want?"
+<en>{Kazushi}\n"Ummm... Do you want dessert or something? What should I get you?"
 <es>
 
 @965
-<en>{Mizuki}\n"Dessert? I want an ice corn!!"
+<en>{Mizuki}\n"Dessert?! I want some shaved ice!!"
 <es>
 
 @966
-<en>{Kazushi}\n"Do they sell ice corns here?"
+<en>{Kazushi}\n"Do they sell shaved ice here?"
 <es>
 
 @969
-<en>{Mizuki}\n"I hear they started to sell it at the fish shop. They use ice, you know?"
+<en>{Mizuki}\n"I hear they've started selling them at the fish shop. They use a lot of ice, you know."
 <es>
 
 @970
-<en>{Kazushi}\n"Good! Let's get ice corns!"
+<en>{Kazushi}\n"Alright, let's get shaved ice!"
 <es>
 
 @973
-<en>{Mizuki}\n"I always wanted to try Tuna Frappe. But I will get Strawberry Frappe, so Kazushi, you get the tuna one."
+<en>{Mizuki}\n"I always wanted to try the Tuna Frappe flavor! I'll get the strawberry flavor, so Kazushi, you get the tuna one."
 <es>
 
 @974
-<en>{Kazushi}\n"What? Me? Tuna? It sounds very yucky."
+<en>{Kazushi}\n"What? Me? Get a tuna flavored shaved ice? That sounds nasty."
 <es>
 
 @977
@@ -1913,23 +1913,23 @@
 <es>
 
 @978
-<en>No pain, no gain. I have to keep her attention at any cost...
+<en>No pain, no gain. I have to keep her attention at all costs...
 <es>
 
 @979
-<en>{Kazushi}\n"Uh...Okay. Let's go!"
+<en>{Kazushi}\n"Uh... Okay. Let's go!"
 <es>
 
 @983
-<en>{Kazushi}\n"I puke..."
+<en>{Kazushi}\n"Blecch... Ptt."
 <es>
 
 @986
-<en>{Mizuki}\n"Tuna Frappe...What a taste!"
+<en>{Mizuki}\n"Ugh... Tuna Frappe, what a strong flavor."
 <es>
 
 @987
-<en>It was pukey. It is an ice corn with tuna syrup on the top and that syrup tastes like a squeeze of rotten fish.
+<en>It was nauseating. It was like they used the liquid that comes out of rotten fish and put on top of the shaved ice.
 <es>
 
 @990
@@ -1937,11 +1937,11 @@
 <es>
 
 @991
-<en>{Kazushi}\n"I didn't want to waste it..."
+<en>{Kazushi}\n"I didn't want to waste it... Blech."
 <es>
 
 @992
-<en>{Mizuki}\n"I feel bad, Kazushi. I'm sorry to get you to eat that."
+<en>{Mizuki}\n"I feel bad, Kazushi. I'm sorry I got you to order that."
 <es>
 
 @993
@@ -1949,19 +1949,19 @@
 <es>
 
 @996
-<en>{Mizuki}\n"I was going to try, but I guess I let you eat most of it."
+<en>{Mizuki}\n"I felt like I had to take responsibility... but I guess I couldn't match up. You wound up eating most of it."
 <es>
 
 @997
-<en>Obviously, we both tried to let the other person eat less. But after all, we both ate a lot.
+<en>Obviously we were both trying to let the other person eat less of it, but in the end, we both ate our fair share.
 <es>
 
 @1000
-<en>{Mizuki}\n"Kazushi, you look pale. We had better get back."
+<en>{Mizuki}\n"You're looking kinda pale, Kazushi. We'd better get back."
 <es>
 
 @1001
-<en>{Kazushi}\n"Hmm? Going back?"
+<en>{Kazushi}\n"Wha..."
 <es>
 
 @1002
@@ -1969,7 +1969,7 @@
 <es>
 
 @1003
-<en>{Kazushi}\n"I'm fine! I will go get something to drink. This may help."
+<en>{Kazushi}\n"I'm fine! I'll pop into the general store and get a drink. That should help."
 <es>
 
 @1006
@@ -1981,35 +1981,35 @@
 <es>
 
 @1013
-<en>{Mizuki}\n"Mr.Miya. Can I have something to drink? Something that can clear my head?"
+<en>{Mizuki}\n"Miya-san, can we get something to drink? Something to clear the head and an upset stomach."
 <es>
 
 @1018
-<en>{Mr.Miya}\n"What's wrong? You two don't look good."
+<en>{Miya}\n"Welco...... What's wrong? You two don't look good."
 <es>
 
 @1019
-<en>{Mizuki}\n"Mr.Miya, will you please tell the guy at the fish shop not to sell Tuna Frappe?"
+<en>{Mizuki}\n"Miya-san, could you please tell the guy at the fish shop to stop selling Tuna Frappe snowballs for us?"
 <es>
 
 @1020
-<en>{Mr.Miya}\n"Oh, my! You two ate that? I have a good herbal tea. I will bring that for you. Hold on."
+<en>{Miya}\n"Y... you two actually ate that? Hold on, I've got some good herbal tea that I can bring for you."
 <es>
 
 @1021
-<en>{Kazushi}\n"Thank you, Mr.Miya."
+<en>{Kazushi}\n"Thank you, Miya-san."
 <es>
 
 @1025
-<en>Mr.Miya goes back inside. Mizuki looks around his store.
+<en>Miya-san went back inside the back room. Mizuki was feeling slightly better, so she looked around the store.
 <es>
 
 @1028
-<en>{Mizuki}\n"Uh!"
+<en>{Mizuki}\n"Ooh!"
 <es>
 
 @1029
-<en>And something on the shelf catches her eyes.
+<en>And something on the shelf caught her eyes.
 <es>
 
 @1032
@@ -2021,59 +2021,59 @@
 <es>
 
 @1034
-<en>{Kazushi}\n"Do you like cute stuffs?"
+<en>{Kazushi}\n"Do you like cute stuff?"
 <es>
 
 @1037
-<en>{Mizuki}\n"I'm a girl, you know. Girls love cute things."
+<en>{Mizuki}\n"Of course I do. I am a girl, you know."
 <es>
 
 @1038
-<en>It seems she really like that pendant.
+<en>She was a little upset at my statement, but her attention was fixed on the pendant.
 <es>
 
 @1041
-<en>{Mizuki}\n"I want to buy it."
+<en>{Mizuki}\n"How nice. I want to buy it."
 <es>
 
 @1042
-<en>I look at the price tag. It's quite expensive.
+<en>I looked at the price tag. It was quite expensive.
 <es>
 
 @1045
-<en>{Mizuki}\n"Quite pricy. It's over my budget."
+<en>{Mizuki}\n"Urk... Quite pricey. It's over my budget."
 <es>
 
 @1046
-<en>{Mr.Miya}\n"Do you like that?"
+<en>{Miya}\n"Do you like that?"
 <es>
 
 @1051
-<en>Mr.Miya returns with two cups of tea in his hands.
+<en>Miya-san returns with two cups of tea in his hands.
 <es>
 
 @1052
-<en>{Mr.Miya}\n"Drink this. You will feel better."
+<en>{Miya}\n"Drink this. You'll feel better."
 <es>
 
 @1053
-<en>{Kazushi}\n"Whoa! This got to be working."
+<en>{Kazushi}\n"Whoa! This has got to be working!"
 <es>
 
 @1054
-<en>This surely looks and smells like herbal tea. We begin to sip on it with gratitude.
+<en>This surely looks and smells like herbal tea. We began to sip on it with gratitude.
 <es>
 
 @1057
-<en>{Mizuki}\n"It's so bitter. It'd better be working."
+<en>{Mizuki}\n"It's so bitter! ...It'd better be working."
 <es>
 
 @1058
-<en>{Kazushi}\n"Hmm. I'm kind of getting used to the bitterness of this tea."
+<en>{Kazushi}\n"Hmm. I'm kinda getting used to this tea's bitterness."
 <es>
 
 @1059
-<en>It feels warm in my stomach. I feel a lot better.
+<en>We both sipped on the bitter tea. Our stomachs started to feel warm, and we both felt a lot better.
 <es>
 
 @1062
@@ -2081,15 +2081,15 @@
 <es>
 
 @1065
-<en>{Mr.Miya}\n"That's good."
+<en>{Miya}\n"That's good."
 <es>
 
 @1066
-<en>Mr.Miya picks the pendant up.
+<en>Miya-san picked up the pendant Mizuki was looking at.
 <es>
 
 @1069
-<en>{Mr.Miya}\n"This pendant is made of the stone found in this island. It's one of a few natural stones we capture. That's why it's a bit expensive."
+<en>{Miya}\n"This pendant is made from a stone found exclusively on this island. It's a natural stone we don't gather very often, which is why it's a bit expensive."
 <es>
 
 @1070
@@ -2105,35 +2105,35 @@
 <es>
 
 @1075
-<en>Mizuki looks a bit sad but seems to give up for now. She continues to sip on the tea. She is a quite sport.
+<en>Mizuki looks a bit sad but seems to give up for now. She continues to sip on the tea. She's quite a sport.
 <es>
 
 @1076
-<en>{Mr.Miya}\n"So, are you two on a date?"
+<en>{Miya}\n"So, are you two on a date?"
 <es>
 
 @1079
-<en>{Mizuki}\n"Mizuki spits the tea."
+<en>{Mizuki}\n *PTTTTTBBBBBTTTTTT*
 <es>
 
 @1082
-<en>She did it again. This time she did on Mr.Miya.
+<en>She did it again. This time she did it on Miya-san.
 <es>
 
 @1083
-<en>{Mizuki}\n"Uhh. Mr.Miya. I'm terribly sorry."
+<en>{Mizuki}\n"Ahh! Miya-san. I'm terribly sorry."
 <es>
 
 @1084
-<en>{Mr.Miya}\n"That's okay. Did I say something wrong?"
+<en>{Miya}\n"That's okay. Did I say something wrong?"
 <es>
 
 @1085
-<en>{Kazushi}\n"Do we look like we are on a date?"
+<en>{Kazushi}\n"Do we look like we're on a date?"
 <es>
 
 @1088
-<en>{Mr.Miya}\n"Yes. You two look good together."
+<en>{Miya}\n"Yes. You two look good together."
 <es>
 
 @1089
@@ -2141,51 +2141,51 @@
 <es>
 
 @1092
-<en>{Mizuki}\n"Don't take that seriously. Mr.Miya is a merchant. He is a good talker. This is how he sells things."
+<en>{Mizuki}\n"Don't take that so seriously. Miya-san's a merchant so he has to be a good talker. This is how he sells things."
 <es>
 
 @1093
-<en>{Mr.Miya}\n"Oh, no. I really think you two look like a nice couple."
+<en>{Miya}\n"Oh, no. I really think you two look like a nice couple."
 <es>
 
 @1096
-<en>{Mizuki}\n"A nice business talk, Mr.Miya."
+<en>{Mizuki}\n"Some nice shop talk, Miya-san."
 <es>
 
 @1099
-<en>{Mr.Miya}\n"Oh, Mizuki. You are a shy girl, huh?"
+<en>{Miya}\n"Oh, Mizuki-chan. You are a shy girl, huh?"
 <es>
 
 @1102
-<en>{Mizuki}\n"Let's go, Kazushi!"
+<en>{Mizuki}\n"Wha?! ...Argh! Let's go, Kazushi!"
 <es>
 
 @1106
-<en>Being flushed, Mizuki dashes out of the store.
+<en>Flushed with embarrassment, Mizuki dashed out of the store.
 <es>
 
 @1110
-<en>{Mr.Miya}\n"Did I say something wrong?"
+<en>{Miya}\n"Did I say something wrong?"
 <es>
 
 @1111
-<en>For me, it is good that Mizuki left the store first.
+<en>For my sake, it's a good thing that Mizuki left the store first.
 <es>
 
 @1112
-<en>{Kazushi}\n"Mr.Miya, I have a favor to ask you..."
+<en>{Kazushi}\n"Miya-san, I have a favor to ask you..."
 <es>
 
 @1115
-<en>{Mr.Miya}\n"Hmm? What?"
+<en>{Miya}\n"Hmm? What?"
 <es>
 
 @1121
-<en>{Mizuki}\n"Kazushi, you are late! What were you doing in there?"
+<en>{Mizuki}\n"Kazushi, you kept me waiting! What on Earth were you doing in there?"
 <es>
 
 @1122
-<en>{Kazushi}\n"I was just talking with Mr.Miya. That's all."
+<en>{Kazushi}\n"I was just talking with Miya-san. That's all."
 <es>
 
 @1125
@@ -2201,11 +2201,11 @@
 <es>
 
 @1128
-<en>{Kazushi}\n"Let's go to that place!"
+<en>{Kazushi}\n"Let's go to the inlet!"
 <es>
 
 @1136
-<en>{Mizuki}\n"I should have brought my swimsuit."
+<en>{Mizuki}\n"I should have brought my swimsuit if we were heading to the beach."
 <es>
 
 @1137
@@ -2213,19 +2213,19 @@
 <es>
 
 @1140
-<en>{Mizuki}\n"Shut up!"
+<en>{Mizuki}\n"You promised not to bring that up!"
 <es>
 
 @1141
-<en>{Kazushi}\n"Okay. Okay."
+<en>{Kazushi}\n"Okay, okay..."
 <es>
 
 @1143
-<en>Mizuki walks barefoot on the beach toward the water. While running on tiptoe, she plays with the waves lapping on the beach.
+<en>Mizuki walked barefoot on the beach toward the water. While running on tiptoe, she played with the waves lapping on the beach.
 <es>
 
 @1144
-<en>She would definitely jump into the sea right away with the swimsuit on.
+<en>She looked a little sad, but not too bothered that she couldn't go swimming now.
 <es>
 
 @1145
@@ -2233,11 +2233,11 @@
 <es>
 
 @1148
-<en>{Mizuki}\n"I wouldn't mind even if I had to live inside the sea."
+<en>{Mizuki}\n"I wouldn't even mind if I had to live in the sea."
 <es>
 
 @1149
-<en>{Kazushi}\n"You used to be a swimmer, right? You were pretty good in competition in junior high, I heard."
+<en>{Kazushi}\n"You used to be on the swim team, right? I heard you placed in nationals during junior high."
 <es>
 
 @1150
@@ -2245,7 +2245,7 @@
 <es>
 
 @1153
-<en>{Mizuki}\n"I didn't want to do it. But they forced me to."
+<en>{Mizuki}\n"I didn't want to do it, but they forced me to."
 <es>
 
 @1154
@@ -2253,11 +2253,11 @@
 <es>
 
 @1155
-<en>{Kazushi}\n"It's kind of wasting talent. Don't you think? You could have gone to the Olympics."
+<en>{Kazushi}\n"It's kind of wasting your talents like this, don't you think? You could have gone to the Olympics."
 <es>
 
 @1158
-<en>{Mizuki}\n"Give me a break. I don't want to swim for competitions any more. That was hard - - incredibly hard for me."
+<en>{Mizuki}\n"Give me a break. I don't want to swim for competitions any more. That was hard - incredibly hard for me."
 <es>
 
 @1159
@@ -2265,11 +2265,11 @@
 <es>
 
 @1160
-<en>{Kazushi}\n"Hard training? How long did they make you swim?"
+<en>{Kazushi}\n"Hard training? How long did they make you swim for you to hate it?"
 <es>
 
 @1161
-<en>{Mizuki}\n"Training was not that hard. It is just..."
+<en>{Mizuki}\n"It's not that training was so hard. It's just..."
 <es>
 
 @1162
@@ -2281,7 +2281,7 @@
 <es>
 
 @1166
-<en>Flushing slightly, Mizuki hesitates to continue talking.
+<en>Flushing slightly, Mizuki hesitated to continue talking.
 <es>
 
 @1167
@@ -2293,7 +2293,7 @@
 <es>
 
 @1171
-<en>{Kazushi}\n"Sexual harassment? Did your horny coach touch you?"
+<en>{Kazushi}\n"Oh!! Was it sexual harassment?! Did your horny coach touch you?"
 <es>
 
 @1172
@@ -2313,7 +2313,7 @@
 <es>
 
 @1178
-<en>{Mizuki}\n"I just didn't like boys' swimsuits."
+<en>{Mizuki}\n"I just couldn't deal with the boys' competition speedos."
 <es>
 
 @1179
@@ -2325,11 +2325,11 @@
 <es>
 
 @1183
-<en>{Mizuki}\n"The men's swimming trunks. They look horrible! Don't you think?"
+<en>{Mizuki}\n"I'm talking about men's competition swimsuits! Swimsuits! Don't you think those are horrible?!"
 <es>
 
 @1184
-<en>Leaning toward me, Mizuki demands my consensus.
+<en>Mizuki leaned towards me, demanding my agreement.
 <es>
 
 @1185
@@ -2337,7 +2337,7 @@
 <es>
 
 @1188
-<en>{Mizuki}\n"I think they are unnecessarily too small. They look so tight..."
+<en>{Mizuki}\n"Don't you think those things are way too small? They're so tight, and..."
 <es>
 
 @1189
@@ -2345,7 +2345,7 @@
 <es>
 
 @1192
-<en>{Mizuki}\n"Being in the pool with that thing - - it was torture to me. I put up with it for three years!"
+<en>{Mizuki}\n"Being in the pool with those things - it was torture for me. I put up with it for three years!"
 <es>
 
 @1193
@@ -2357,11 +2357,11 @@
 <es>
 
 @1197
-<en>Oh, my my...She is not joking. This is way out of my turf.
+<en>I guess it's true. She's not kidding, is she? This is way out of my league.
 <es>
 
 @1200
-<en>{Mizuki}\n"But, it doesn't matter now, because I just want to swim. That's why I came to this island."
+<en>{Mizuki}\n"It doesn't matter now, though, because I just want to swim for me. That's why I came to this island."
 <es>
 
 @1201
@@ -2369,19 +2369,19 @@
 <es>
 
 @1202
-<en>Yet, I kind of feel she's still wasting her talent.
+<en>But I still kind of feel like she's wasting her talent.
 <es>
 
 @1203
-<en>{Mizuki}\n"This island fits me perfectly. I can swim throughout the year. Also I don't have to see men's dirty swimming trunks."
+<en>{Mizuki}\n"This island suits me perfectly. I can swim all year and I never have to see a man's improper speedo."
 <es>
 
 @1204
-<en>{Kazushi}\n"This school used to be only for girls, huh?"
+<en>{Kazushi}\n"This school used to only be for girls, huh?"
 <es>
 
 @1205
-<en>So this is why Mizuki chose this school. She didn't want to see men's swimming trunks.
+<en>So this is why Mizuki chose this school. She didn't want to see men in speedos.
 <es>
 
 @1206
@@ -2389,23 +2389,23 @@
 <es>
 
 @1209
-<en>{Mizuki}\n"They asked me to join - - I had no choice. Yet, I thought joining the club might be the best way to swim everyday. Because there was no place to swim in my community - no sea, no river, nothing."
+<en>{Mizuki}\n"I was asked to join rather forcefully, and that was the quickest, easiest way to swim every day. There wasn't an ocean or river near us."
 <es>
 
 @1212
-<en>{Mizuki}\n"I joined a team in an elemental school. But I never realized that boy's swimwear in the junior high would look that different."
+<en>{Mizuki}\n"The best we had nearby was a pool, so I joined a team in elementary school, but I never realized that the boy's swimwear in junior high would look that different."
 <es>
 
 @1213
-<en>Mizuki shudders as she may be visualizing the trunks in her mind. That seems to be a big deal for her.
+<en>Mizuki shuddered as she visualized it in her mind. It seemed to be a big deal for her.
 <es>
 
 @1216
-<en>{Mizuki}\n"Going to a sport club was costly. So I had no choice but to stick to my own school club."
+<en>{Mizuki}\n"Signing up for a gym or a private pool would have been too expensive, so I had no choice but to put up with going to my school's club."
 <es>
 
 @1217
-<en>{Kazushi}\n"I guess I get that picture."
+<en>{Kazushi}\n"I guess I get the picture now."
 <es>
 
 @1218
@@ -2413,11 +2413,11 @@
 <es>
 
 @1219
-<en>{Kazushi}\n"What started you on swimming? How come you started to like swimming so much?"
+<en>{Kazushi}\n"But that means you hadn't learned to swim since you were born or anything right? So what made you like swimming so much?"
 <es>
 
 @1220
-<en>I know not all of us have the reason to start off something. But there may be some kind break to start off. I wonder what would be for Mizuki.
+<en>I know you don't need a reason to like something, but there's usually some kind of motivation at the front. I wonder what it was for Mizuki.
 <es>
 
 @1221
@@ -2429,15 +2429,15 @@
 <es>
 
 @1223
-<en>{Mizuki}\n"When I was the third grade, my family took me to a dolphins' show."
+<en>{Mizuki}\n"When I was in the third grade, my family took me to see a dolphin show."
 <es>
 
 @1226
-<en>{Mizuki}\n"The dolphins were all adorable. I instantly liked them. Then later on, I found there was the sea you could swim with them in."
+<en>{Mizuki}\n"The dolphins were all adorable. I liked them instantly. Then, later on, I found out that you could swim with them in the sea too."
 <es>
 
 @1227
-<en>{Mizuki}\n"On TV, I saw people swimming with a dolphin. I got hooked and so inspired by it."
+<en>{Mizuki}\n"On TV, I saw foreigners swimming with a dolphin. They looked like they were having so much fun that I got jealous."
 <es>
 
 @1228
@@ -2449,27 +2449,27 @@
 <es>
 
 @1232
-<en>{Mizuki}\n"I also saw a movie based on the story of this guy. He could dive 100 meters deep without scuba gear on. I was stunned, thinking "Wow, how could people do that?"
+<en>{Mizuki}\n"I also saw a movie based on the story of this guy. He could dive 100 meters deep without scuba gear on. I was stunned, thinking 'Wow, how could people do that?'"
 <es>
 
 @1233
-<en>{Mizuki}\n"Then I thought, "you got to swim that good if you want to swim with the dolphins.". That's how I got started."
+<en>{Mizuki}\n"Then I wondered if you had to swim that well to swim with dolphins. So I thought I needed to become a good swimmer to swim with them... That's what got me started."
 <es>
 
 @1234
-<en>Mizuki said she would start to show her natural talent for swimming immediately. In fact, that was not what she really wanted to do.
+<en>Mizuki said that she started showing her natural talent for swimming immediately. But in fact, that wasn't what she really wanted to do.
 <es>
 
 @1237
-<en>{Mizuki}\n"The men's exposed trunks! What the hell is that? I didn't want to swim with that nasty thing in the pool!"
+<en>{Mizuki}\n"But the boys, showing everything in their trunks! What the hell's up with that? I didn't want to swim together with those things!"
 <es>
 
 @1238
-<en>She looks pretty upset. It must have been a pretty traumatic experience for her.
+<en>She looks pretty upset. It must have been a majorly traumatic experience for her.
 <es>
 
 @1241
-<en>{Mizuki}\n"All I want is to swim with the dolphins in the sea. The sea in emerald green, deep blue - - any beautiful sea in the whole world."
+<en>{Mizuki}\n"All I want is to swim with the dolphins in the sea. The emerald green sea, the deep blue ocean, any of the world's beautiful waters!"
 <es>
 
 @1244
@@ -2477,15 +2477,15 @@
 <es>
 
 @1245
-<en>Mizuki is full of life when she talks about her dream. She looks more beautiful than usual, which makes me hooked on her.
+<en>Mizuki was full of life when she talked about her dream. She looked more beautiful than usual, which made me hooked on her.
 <es>
 
 @1248
-<en>{Mizuki}\n"Uh...you don't care about this, do you?"
+<en>{Mizuki}\n"Uh... You don't really care about this, do you?"
 <es>
 
 @1249
-<en>Suddenly, Mizuki becomes quiet. Maybe she mistakes my silence for indifference.
+<en>Suddenly Mizuki became quiet. Maybe she mistook my silence for indifference.
 <es>
 
 @1250
@@ -2501,7 +2501,7 @@
 <es>
 
 @1255
-<en>Swimming with the dolphins. A perfect picture for Mizuki. She fits right in there.
+<en>Swimming with the dolphins. It was a perfect picture for Mizuki. She fits right in there.
 <es>
 
 @1256
@@ -2509,11 +2509,11 @@
 <es>
 
 @1259
-<en>{Mizuki}\n"The fisherman have seen some dolphins stuck by the bay before. But, I've never seen them myself."
+<en>{Mizuki}\n"The fishermen have seen some dolphins stuck in the bay before, but I've never seen them for myself."
 <es>
 
 @1260
-<en>{Kazushi}\n"It would be great if you could make your dream come true."
+<en>{Kazushi}\n"It would be great if you could swim with them."
 <es>
 
 @1263
@@ -2521,27 +2521,27 @@
 <es>
 
 @1264
-<en>{Kazushi}\n"Me? No...not me."
+<en>{Kazushi}\n"Me? No... not me."
 <es>
 
 @1267
-<en>{Mizuki}\n"You should be fine. I will help you and hold your hands."
+<en>{Mizuki}\n"You'll be fine, you'll be fine. I'll make sure you can swim better. And I'll hold your hand too."
 <es>
 
 @1268
-<en>{Kazushi}\n"I'm not a kid, you know?"
+<en>{Kazushi}\n"I'm not a kid, you know."
 <es>
 
 @1269
-<en>{Mizuki}\n"Yes, you are...as far as I'm concerned."
+<en>{Mizuki}\n"Yes, you are... as far as I'm concerned."
 <es>
 
 @1270
-<en>Swimming with the dolphins. That would be fun. I would like to do that then - - sharing Mizuki's dream.
+<en>Swimming with the dolphins. That would be fun - I'd love to do it then, sharing in Mizuki's dream.
 <es>
 
 @1271
-<en>{Kazushi}\n"I have to swim better first."
+<en>{Kazushi}\n"Then I have to practice swimming more first."
 <es>
 
 @1272
@@ -2549,11 +2549,11 @@
 <es>
 
 @1273
-<en>{Kazushi}\n"Thank you, coach. Oh. I almost forgot..."
+<en>{Kazushi}\n"Ugh... Sob... Oh, right."
 <es>
 
 @1274
-<en>I take something out of my pocket.
+<en>I recalled it as I was about to cry and took it out of my pocket.
 <es>
 
 @1277
@@ -2561,15 +2561,15 @@
 <es>
 
 @1278
-<en>It is a little paper bag - - something I got from Mr.Miya's store.
+<en>It is a little paper bag - something I got from Miya-san's store.
 <es>
 
 @1281
-<en>{Mizuki}\n"What is this?"
+<en>{Mizuki}\n"What's this?"
 <es>
 
 @1282
-<en>Given its size of the bag, Mizuki already guesses what is in it.
+<en>Given the size of the bag, Mizuki could already guess what was in it.
 <es>
 
 @1285
@@ -2597,31 +2597,31 @@
 <es>
 
 @1294
-<en>{Kazushi}\n"I talked the price down with Mr.Miya."
+<en>{Kazushi}\n"I talked the price down with Miya-san."
 <es>
 
 @1295
-<en>And yet it was still pricy to me. In fact, I couldn't pay it all once. So I will now have to pay by installments.
+<en>And yet it was still pricy for me. In fact, I couldn't pay for it all at once, so now I've got to pay it off in installments.
 <es>
 
 @1296
-<en>I owe Mr.Miya a lot.
+<en>I owe Miya-san a massive favor.
 <es>
 
 @1297
-<en>{Kazushi}\n"Mr.Miya said that little stone hanging there is a charm. It's called "a tear of mermaid"."
+<en>{Kazushi}\n"Miya-san said that little stone hanging there is a charm called a 'Mermaid's Tear'."
 <es>
 
 @1300
-<en>{Mizuki}\n"A tear of mermaid?"
+<en>{Mizuki}\n"A mermaid's tear?"
 <es>
 
 @1301
-<en>The truth is this name pushed me to buy the pendant for Mizuki. Because I feel that mermaid was my first impression of her.
+<en>The truth is, it was the name that pushed me to actually buy the pendant for Mizuki - because a mermaid was my first impression of her.
 <es>
 
 @1302
-<en>So I really wanted to give her this pendant.
+<en>So I begged him to let me have it.
 <es>
 
 @1303
@@ -2629,11 +2629,11 @@
 <es>
 
 @1306
-<en>{Mizuki}\n"But I can't take this. It's too much..."
+<en>{Mizuki}\n"But I can't take something so expensive."
 <es>
 
 @1307
-<en>{Kazushi}\n"Please take it. I cannot wear it, you know?"
+<en>{Kazushi}\n"Please take it. It's not like I can wear it, you know?"
 <es>
 
 @1310
@@ -2641,15 +2641,15 @@
 <es>
 
 @1311
-<en>Mizuki looks stunned with slightly teary eyes. It worked well as a surprise gift.
+<en>Mizuki looked stunned and a few tears welled up in her eyes. The pendant worked brilliantly as a surprise gift.
 <es>
 
 @1312
-<en>{Kazushi}\n"I'll feel bad if you don't take it. It wouldn't look good with me, anyway. Look, give it to me."
+<en>{Kazushi}\n"I'll feel bad if you don't take it - it wouldn't look right on a guy anyways. Here, let me do it."
 <es>
 
 @1313
-<en>I take it from her hand and put it around her neck.
+<en>I took the necklace form her hand and fastened it around her neck.
 <es>
 
 @1314
@@ -2665,7 +2665,7 @@
 <es>
 
 @1319
-<en>{Mizuki}\n"Okay...Thank you, Kazushi."
+<en>{Mizuki}\n"Okay... In that case, thank you."
 <es>
 
 @1320
@@ -2673,7 +2673,7 @@
 <es>
 
 @1321
-<en>Mizuki carefully wraps the pendant with her hands and glanced at me.
+<en>Mizuki carefully wrapped the pendant with her hands and glanced at me.
 <es>
 
 @1324
@@ -2685,11 +2685,11 @@
 <es>
 
 @1326
-<en>I have to keep Mizuki out the campus until things get ready for the party. That's why...
+<en>I have to keep Mizuki away from school until things are ready for the party. That's why...
 <es>
 
 @1327
-<en>The present was not a part of my plan, though. Present?
+<en>The present wasn't part of the plan, though. Present?
 <es>
 
 @1328
@@ -2701,7 +2701,7 @@
 <es>
 
 @1330
-<en>Today? Shit...
+<en>Today... The reason I'd been keeping her away.
 <es>
 
 @1331
@@ -2709,7 +2709,7 @@
 <es>
 
 @1332
-<en>By now things must be all ready with food and presents...
+<en>By now, everything must be ready with food and presents.
 <es>
 
 @1335
@@ -2721,11 +2721,11 @@
 <es>
 
 @1337
-<en>No...it's not the birthday present. I just saw you gazing at that longingly.
+<en>No...it's not your birthday present.\nI just saw how you longingly gazed at it.
 <es>
 
 @1338
-<en>The real present should be ready at the party.
+<en>Your real present should be sorted and ready at the party.
 <es>
 
 @1339
@@ -2737,11 +2737,11 @@
 <es>
 
 @1341
-<en>What have I done? I asked her out rather forcibly. We ate and strolled around together. Then I gave her present.
+<en>What have I done? I asked her out rather forcibly. We ate and strolled around together. Then I gave her a present.
 <es>
 
 @1342
-<en>Gee. This is already like of a birthday event!
+<en>Good Lord! I'm already covering all the birthday events!
 <es>
 
 @1343
@@ -2757,7 +2757,7 @@
 <es>
 
 @1346
-<en>Sorry, everyone. I said that first.
+<en>Sorry, everyone. I got there first.
 <es>
 
 @1349
@@ -2777,11 +2777,11 @@
 <es>
 
 @1357
-<en>I see tears in her eyes, which astonishes me. I didn't expect this.
+<en>I saw a wet drop glitter in the corner of her eye. I was astonished by her tear. I never expected her to cry.
 <es>
 
 @1360
-<en>{Mizuki}\n"I will treasure this."
+<en>{Mizuki}\n"I'll treasure this."
 <es>
 
 @1361
@@ -2789,39 +2789,39 @@
 <es>
 
 @1362
-<en>I feel so embarrassed. Because everything I did today would make me look extremely snobby.
+<en>I felt so embarrassed. Everything I did today would make me look extremely snobby.
 <es>
 
 @1365
-<en>{Mizuki}\n"... ... ..."
+<en>{Mizuki}\n"........."
 <es>
 
 @1366
-<en>Nonetheless, we end up in a nice situation. Only two of us on her birthday and she is happy with my present.
+<en>Nonetheless, we ended up with a nice situation. The two of us alone on her birthday and she's happy with my present.
 <es>
 
 @1367
-<en>What would the real couple do next?
+<en>What would a real couple do next?
 <es>
 
 @1370
-<en>{Mizuki}\n"Uh..."
+<en>{Mizuki}\n"Oh..."
 <es>
 
 @1372
-<en>Accidentally, we touch each other. Mizuki backs off a bit. She looks nervous.
+<en>Our arms accidentally brushed each other, and Mizuki jerked back away. I guess she was acting more conscious of me.
 <es>
 
 @1373
-<en>{Kazushi}\n"Uh...Mizuki."
+<en>{Kazushi}\n"Uh... Mizuki."
 <es>
 
 @1376
-<en>{Mizuki}\n"Y-Yes!? What can I do for you!?"
+<en>{Mizuki}\n"Y-yes!? What can I do for you!?"
 <es>
 
 @1377
-<en>She is definitely nervous.
+<en>Politeness? She was extremely stiff.
 <es>
 
 @1378
@@ -2829,7 +2829,7 @@
 <es>
 
 @1381
-<en>{Mizuki}\n"Y-Yes...You don't want to do it any more?"
+<en>{Mizuki}\n"Y-Yes... D-Do you not want to do it anymore?"
 <es>
 
 @1382
@@ -2837,7 +2837,7 @@
 <es>
 
 @1383
-<en>{Kazushi}\n"No! The other way around!"
+<en>{Kazushi}\n"N-no, no! The other way around!"
 <es>
 
 @1386
@@ -2857,23 +2857,23 @@
 <es>
 
 @1391
-<en>Wham!!
+<en>*BANG!*
 <es>
 
 @1394
-<en>{Mizuki}\n"What? What is that?"
+<en>{Mizuki}\n"Wah! W-what's that?"
 <es>
 
 @1395
-<en>A large firework sparkles in the sky above the school.
+<en>A huge firework sparkled in the sky above the school.
 <es>
 
 @1396
-<en>{Kazushi}\n"Uh..."
+<en>{Kazushi}\n"Oh..."
 <es>
 
 @1397
-<en>It is the signal that the party is now ready.
+<en>It was the signal that preparations were done. We'd decided to signal it by fireworks since no one knew where we'd be at the time.
 <es>
 
 @1398
@@ -2881,15 +2881,15 @@
 <es>
 
 @1399
-<en>{Mizuki}\n"What is that? War broke out?"
+<en>{Mizuki}\n"What's that? Has a war broken out?"
 <es>
 
 @1400
-<en>{Kazushi}\n"No. It's just..."
+<en>{Kazushi}\n"No, it's just... oh, look."
 <es>
 
 @1401
-<en>Whiz....
+<en>*SCREEEEEEEEE*
 <es>
 
 @1402
@@ -2897,19 +2897,19 @@
 <es>
 
 @1404
-<en>Wham!!
+<en>*BANG*
 <es>
 
 @1405
-<en>This time the firework makes no flower shape.
+<en>This time, the firework didn't make a flower shape.
 <es>
 
 @1406
-<en>{Mizuki}\n"Hmm?"
+<en>{Mizuki}\n"Huh?"
 <es>
 
 @1407
-<en>Instead, this makes a message saying...
+<en>Instead, this made a message saying...
 <es>
 
 @1408
@@ -2917,7 +2917,7 @@
 <es>
 
 @1409
-<en>The message created by alchemy.
+<en>It was a message-firework, created with alchemy.
 <es>
 
 @1410
@@ -2925,15 +2925,15 @@
 <es>
 
 @1411
-<en>{Kazushi}\n"No, that's from everybody. They have been preparing for a surprise party for you since this morning."
+<en>{Kazushi}\n"No, that's from everybody else. They've been preparing a surprise party for you since this morning."
 <es>
 
 @1412
-<en>{Mizuki}\n"What? A party for me?"
+<en>{Mizuki}\n"What? A party? For me?"
 <es>
 
 @1413
-<en>{Kazushi}\n"It's ready now. Let's go back. They are going to be celebrating your birthday tonight."
+<en>{Kazushi}\n"Everything's set up now, so let's go back. Tonight, everyone's going to be celebrating your birthday."
 <es>
 
 @1416
@@ -2941,11 +2941,11 @@
 <es>
 
 @1417
-<en>It seems the whole thing leaves Mizuki speechless with surprise and emotion. I take hold of her hand.
+<en>It seems the whole thing left Mizuki speechless with emotion and surprise. I took hold of her hand.
 <es>
 
 @1418
-<en>{Kazushi}\n"Let's go home. Everybody is waiting."
+<en>{Kazushi}\n"Let's go home. All our friends are waiting."
 <es>
 
 @1421
@@ -2953,7 +2953,7 @@
 <es>
 
 @1423
-<en>Holding hands together, we set out to walk back to school. Tonight is going to be a lot of fun.
+<en>Holding hands together, we set out to walk back to school. Tonight was going to be a lot of fun.
 <es>
 
 @1424
@@ -2961,10 +2961,10 @@
 <es>
 
 @1425
-<en>... ... ...
+<en>.........
 <es>
 
 @1426
-<en>By the way, that was a perfect cutting in.
+<en>By the way, talk about timing for an interruption.
 <es>
 

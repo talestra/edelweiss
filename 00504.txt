@@ -2,39 +2,39 @@
 # con ella. Sigue reticente a hablar.
 
 @11
-<en>I shouldn't borrow money. Even if she helps me out today, I'll be needing money from tomorrow on, too.
+<en>I feel bad either way. If I share Haruka's bento or borrow money, I'll have to do the same thing again tomorrow.
 <es>No debería tomar prestado dinero. Aunque me ayudase hoy, a partir de mañana también necesitaría.
 
 @12
-<en>It's better to get used to poor diet.
+<en>It looks like I'll be on a tight budget for a while, so I should get used to it now.
 <es>Es mejor que me acostumbre a una dieta pobre.
 
 @13
-<en>{Kazushi}\n"Thanks for the offer both of you. I should really just get food from a vending machine for today."
+<en>{Kazushi}\n"Thanks for the offer, both of you. I'll be fine just getting something from the vending machine for today."
 <es>{Kazushi}\n"Os agradezco a las dos el ofrecimiento. Pero creo que hoy debería comprar algo en la máquina expendedora."
 
 @18
-<en>They must think I'm a stubborn guy.
+<en>They must think I'm a stubborn guy. Both of them looked at each other and heaved a sigh.
 <es>Deben pensar que soy un cabezota.
 
 @19
-<en>{Haruka}\n"You really didn't have to think too much, you know-?"
+<en>{Haruka}\n"You really don't have to think anything of it, you know?"
 <es>{Haruka}\n"No deberías pensar tanto, ¿sabías?"
 
 @20
-<en>{Mei}\n"You can't last a day with just a bread."
+<en>{Mei}\n"Are you sure bread will be enough? You're young and hungry, aren't you?"
 <es>{Mei}\n"No vas a poder aguantar todo el día con solo un sandwich."
 
 @21
-<en>{Kazushi}\n"Don't worry, I will eat a lot at night."
+<en>{Kazushi}\n"I'll manage. I'll be sure to eat a lot tonight. We're also free to ask for seconds on breakfast, right?"
 <es>{Kazushi}\n"No te preocupes, ya me pondré las botas esta noche."
 
 @22
-<en>{Mei}\n"All right."
+<en>{Mei}\n"Yes, you are, but..."
 <es>{Mei}\n"Está bien."
 
 @23
-<en>{Haruka}\n"Can you last till dinner?"
+<en>{Haruka}\n"Can you last until dinner?"
 <es>{Haruka}\n"¿Podrás aguantar hasta la cena?"
 
 @24
@@ -42,52 +42,52 @@
 <es>{Kazushi}\n"Claro, tranquila."
 
 @25
-<en>I'll eat a lots of rice tonight, because refill of rice bowl is free.
+<en>Tonight I'll make sure to fill up on rice, but for now, I should head to the machine and be frugal with my money.
 <es>Tomaré un montón de arroz esta noche, porque volver a llenar el bol es gratis.
 
 @33
-<en>A bread and milk, ofcourse this is not nearly enough for me.
+<en>It didn't take long for me to finish my bread and a milk carton. Of course, it wasn't enough at all.
 <es>Un bocadillo y leche. Por descontado, esto no es ni de lejos suficiente para mí.
 
 @34
-<en>{Kazushi}\n"I'm still hungry. Maybe I should have borrowed money from her."
+<en>{Kazushi}\n"I'm so hungry. I should have taken her lunch or the money."
 <es>{Kazushi}\n"Sigo con hambre. Quizá debería haber tomado prestado el dinero."
 
 @35
-<en>It's too late now.
+<en>Regretting it now won't get me anywhere. I need to conserve my energy. There's a long afternoon ahead of me.
 <es>Ahora es demasiado tarde.
 
 @36
-<en>{Kazushi}\n"Maybe I'll stay still like a monk to save some energy."
+<en>{Kazushi}\n"I'll just sit still and keep my breathing calm, conserving as much energy as possible. I will become like a monk who lives off of mist."
 <es>{Kazushi}\n"Quizá lo mejor sea permanecer inmóvil como un monje para ahorrar energía."
 
 @37
-<en>My angry stomach is making hungry sound.
+<en>I took several deep breaths and my angry stomach rumbled in protest, telling me it needed more than air to fill it.
 <es>Mi resentido estómago está haciendo los típicos gruñidos causados por el hambre.
 
 @38
-<en>{Kazushi}\n"Maybe stomach makes a sound to make a statement."
+<en>{Kazushi}\n"I guess your stomach really does talk when it's got something to say."
 <es>
 
 @39
 # alimentarme/te
-<en>Like you need to feed yourself!!
+<en>Like, "Oh? And who thought THAT was a good idea?"
 <es>En plan: ¡¡tienes que alimentarme!!
 
 @41
-<en>The more I think about it the more hungry I got.
+<en>"I've got news for you, that won't do us a damn bit of good."
 <es>Cuanto más lo pienso, más hambre me da.
 
 @42
-<en>{Kazushi}\n"Hungry......"
+<en>{Kazushi}\n"I'm hungry..."
 <es>{Kazushi}\n"Hambre..."
 
 @46
-<en>I found a shade and lied down.
+<en>I found a tree and lay down in the shade, clutching my stomach as it continued its loud protest.
 <es>Encuentro una sombra y me tumbo.
 
 @51
-<en>I feel like I'm losing my mind.
+<en>I felt like I was going to faint from hunger.
 <es>Siento como si estuviese perdiendo la consciencia.
 
 @52
@@ -99,7 +99,7 @@
 <es>Siento la presencia de alguien junto a mí.
 
 @56
-<en>It was Natusme, eating bread.
+<en>It was Natsume-chan, eating some bread with her back leaned up against the tree trunk.
 <es>Era Natsume, comiéndose un bocadillo.
 
 @57
@@ -107,16 +107,16 @@
 <es>{Natsume}\n"..."
 
 @58
-<en>She's looking straight ahead.
+<en>She was looking straight ahead, but I don't think she noticed me.
 <es>Está mirando al frente.
 
 @59
 # Revisar.
-<en>I wanted to talk to her, but I refrained from it because of our past argument.
+<en>I wanted to talk to her, but I refrained from doing so because of our prior argument.
 <es>Quería hablar con ella, pero me retracté por la charla que tuvimos la otra vez.
 
 @60
-<en>{Kazushi}\n"......Ummm."
+<en>{Kazushi}\n"Uhh... Ahem."
 <es>{Kazushi}\n"Mmm..."
 
 @61
@@ -128,15 +128,15 @@
 <es>{Natsume}\n"..."
 
 @64
-<en>I saw her noticing me.
+<en>She glanced over at me with the bread still in her mouth.
 <es>La veo cómo se da cuenta de mi presencia.
 
 @65
-<en>We had an eye contact.
+<en>We made eye contact.
 <es>Hubo contacto visual.
 
 @66
-<en>{Kazushi}\n"Hey."
+<en>{Kazushi}\n"Hi."
 <es>{Kazushi}\n"Oye."
 
 @67
@@ -144,19 +144,19 @@
 <es>{Natsume}\n"..."
 
 @68
-<en>She keeps staring at me.
+<en>She didn't answer, she just kept staring at me rudely, without restraint.
 <es>No deja de mirarme.
 
 @69
-<en>I'm pretty positive that she doesn't like me.
+<en>Even I can read between a few lines. I'm pretty sure she doesn't like me. Considering what happened, I guess that's highly likely.
 <es>Estoy bastante seguro de que no le gusto.
 
 @70
-<en>{Kazushi}\n"Are you annoyed of me?"
+<en>{Kazushi}\n"Are you annoyed with me?"
 <es>{Kazushi}\n"¿Te molesto?"
 
 @71
-<en>That's what her eyes are saying.
+<en>That's what her eyes were saying to me.
 <es>Eso es lo que dicen sus ojos.
 
 @72
@@ -164,11 +164,11 @@
 <es>{Natsume}\n"..."
 
 @73
-<en>She's still staring at me without a word.
+<en>She still wouldn't answer, and she kept staring at me just as rudely. It didn't look like she was ignoring me, though.
 <es>Sigue mirándome sin decir una palabra.
 
 @74
-<en>{Kazushi}\n"......how is your lunch?"
+<en>{Kazushi}\n"Umm...are you eating lunch?"
 <es>{Kazushi}\n"¿Qué tal está tu comida...?"
 
 @76
@@ -176,11 +176,11 @@
 <es>{Natsume}\n"..."
 
 @77
-<en>She still doen't speak a word back to me.
+<en>She nodded slightly while holding the bread in her hands. She didn't look away. I was reflected in her charming eyes.
 <es>Sigue sin decirme una palabra.
 
 @78
-<en>{Kazushi}\n"You should blink or your eyes will get dry."
+<en>{Kazushi}\n"Do you, um, blink? You'll dry your eyes out."
 <es>{Kazushi}\n"Deberías pestañear o se te secarán los ojos."
 
 @80
@@ -188,15 +188,15 @@
 <es>{Natsume}\n"..."
 
 @81
-<en>She blinks once and waits for my next word.
+<en>She blinked once and continued to look at me, like a dog waiting for its master to issue a command.
 <es>Pestañea una vez y espera a mi siguiente frase.
 
 @82
-<en>It makes me obligated to say something.
+<en>It left me obligated to say something.
 <es>Lo que me obliga a decir algo.
 
 @83
-<en>{Kazushi}\n"Hey, I just bought the same bread. It's good."
+<en>{Kazushi}\n"Um... I bought the same kind of bread for lunch. It's good, isn't it?"
 <es>{Kazushi}\n"Anda, yo he comprado ese mismo bocadillo. Está bueno."
 
 @84
@@ -204,15 +204,15 @@
 <es>{Natsume}\n"..."
 
 @85
-<en>I'm glad she nod her head. At least she's not ignoring me.
+<en>She nodded. Good, at least she's not ignoring me. If I talk to her, she'll at least answer me.
 <es>Me alegro de que al menos haya asentido. Al menos no me está ignorando.
 
 @86
-<en>But, it's not like we are having a conversation, either.
+<en>But it's not like we were having a real conversation either.
 <es>Pero tampoco estamos teniendo una conversación.
 
 @87
-<en>{Kazushi}\n"Will you finish eating, so we can talk?"
+<en>{Kazushi}\n"Will you finish eating? That way we can talk properly."
 <es>{Kazushi}\n"¿Terminas de comer y hablamos un rato?"
 
 @89
@@ -220,11 +220,11 @@
 <es>{Natsume}\n"..."
 
 @90
-<en>She starts eating like a squirrel.
+<en>She started eating like a squirrel.
 <es>Empieza a comer como una ardilla.
 
 @91
-<en>{Kazushi}\n"You should take a bigger bite when you eat a bread.\nTastes better that way."
+<en>{Kazushi}\n"Do you always eat it in little bites like that? Isn't it better if you take a nice big bite out of it?"
 <es>{Kazushi}\n"Deberías dar bocados más grandes.\nLos bocadillos saben mejor así."
 
 @93
@@ -232,19 +232,19 @@
 <es>{Natsume}\n"¡...!"
 
 @94
-<en>Is it a mean glare?
+<en>She glared at me! Or was that a threat?
 <es>¿Es una mirada de odio?
 
 @95
-<en>{Natsume}\n"......shut up----"
+<en>{Natsume}\n"......Shoo."
 <es>{Natsume}\n"Cállate..."
 
 @96
-<en>I made her upset!
+<en>It was a threat!
 <es>¡La he enfadado!
 
 @97
-<en>{Kazushi}\n"Sorry, eat it however you want."
+<en>{Kazushi}\n"...Sorry. Eat it however you want."
 <es>{Kazushi}\n"Lo siento. Cómetelo como prefieras."
 
 @99
@@ -252,7 +252,7 @@
 <es>{Natsume}\n"..."
 
 @100
-<en>She's weired.
+<en>She's weird.
 <es>
 
 @102
@@ -260,15 +260,15 @@
 <es>{Natsume}\n"..."
 
 @103
-<en>She stares at me again. What does she want?
+<en>She stared at me again. What did she want?
 <es>Me vuelve a mirar. ¿Qué es lo que quiere?
 
 @104
-<en>{Kazushi}\n"I'm that handsome?"
+<en>{Kazushi}\n"Am I that handsome?"
 <es>{Kazushi}\n"¿Tan guapo soy?"
 
 @105
-<en>I put up a joke. Just to break an ice.
+<en>I said so jokingly, but after that accident, maybe she's fallen for me?
 <es>Salgo con una broma. Para romper el hielo.
 
 @107
@@ -276,11 +276,11 @@
 <es>{Natsume}\n"..."
 
 @108
-<en>I don't think it was funny.
+<en>She didn't think so at all. Oh well.
 <es>
 
 @109
-<en>{Kazushi}\n"It's not face that attract women, right?"
+<en>{Kazushi}\n"Women aren't attracted by a pretty face anyways, right?"
 <es>{Kazushi}\n"No es la cara lo que atrae a las mujeres, ¿no?"
 
 @110
@@ -288,11 +288,11 @@
 <es>{Natsume}\n"..."
 
 @111
-<en>She didn't reply. Maybe it is face that attract women!
+<en>She rejected me flat out! So it is about looks? Looks are all that matter?!
 <es>No ha respondido. ¡Quizá sea precisamente la cara lo que atrae a las mujeres!
 
 @112
-<en>Why is she staring at me anyways?
+<en>So if I'm not handsome to her, then that means I don't mean a thing to her. But then why does she keep staring at me?
 <es>De todas formas... ¿por qué me está mirando?
 
 @113
@@ -304,11 +304,11 @@
 <es>{Natsume}\n"..."
 
 @116
-<en>She gave me a big nod.
+<en>She gave me a big nod. That was easy to understand.
 <es>
 
 @117
-<en>{Kazushi}\n"Is that why you're looking at me?"
+<en>{Kazushi}\n"I see. I have a funny face. Is that why you keep looking at me?"
 <es>{Kazushi}\n"¿Me estás mirando por eso?"
 
 @118
@@ -317,7 +317,7 @@
 
 @119
 # Graciosa/Rara (por lo que se dice después entiendo que graciosa).
-<en>{Kazushi}\n"I see, I have a funny face."
+<en>{Kazushi}\n"I see. It's that funny looking."
 <es>{Kazushi}\n"Ya veo... Tengo una cara graciosa."
 
 @120
@@ -337,15 +337,15 @@
 <es>{Natsume}\n"¿¿¿???"
 
 @125
-<en>At least my face is funny. It's not like scary or grotesque or anything like that, right?
+<en>Well, at least my face is funny instead of being scary or creepy. It was still a shock, though. Now both my stomach and my heart were empty.
 <es>Al menos tengo una cara graciosa. No es que asuste, sea grotesca o algo así, ¿no?
 
 @126
-<en>[Natume knocks Kazushi's shoulder]
+<en>*Poke poke.*
 <es>
 
 @129
-<en>Natume needs something.
+<en>I looked up as she poked me. I found her peering down at me.
 <es>
 
 @130
@@ -357,11 +357,11 @@
 <es>{Natsume}\n"..."
 
 @132
-<en>She folded her bread in half and offered it to me.
+<en>She tore her bread in half and offered me one of the pieces.
 <es>Parte su pan en dos y me lo ofrece.
 
 @133
-<en>{Kazushi}\n"For me?"
+<en>{Kazushi}\n"Huh? For me? You're giving it to me?"
 <es>{Kazushi}\n"¿Para mí?"
 
 @136
@@ -369,12 +369,12 @@
 <es>{Natsume}\n"..."
 
 @137
-<en>I think so.
+<en>It seems so.
 <es>Eso parece.
 
 @138
 # cogiese -> tomase (más neutro).
-<en>{Kazushi}\n"Are you sure, I can have this?"
+<en>{Kazushi}\n"Are you sure I can have this?"
 <es>{Kazushi}\n"¿Estás segura de que lo puedo tomar?"
 
 @141
@@ -382,11 +382,11 @@
 <es>{Natsume}\n"..."
 
 @142
-<en>She insisted me to have it.
+<en>It seems I could. As I hesitated to take it, she pushed one half against me.
 <es>Insiste en que lo tomase.
 
 @143
-<en>{Kazushi}\n"This is the side you're biting."
+<en>{Kazushi}\n"Hey, this is the side you were eating, Natsume-chan. It's damp."
 <es>{Kazushi}\n"Este es el lado que estabas mordiendo."
 
 @146
@@ -394,12 +394,12 @@
 <es>{Natsume}\n"¿Y qué?"
 
 @147
-<en>We did kiss before eventhough that was an accident.
+<en>That's true. Although it was an accident, we'd already kissed. What did eating her bread matter now?
 <es>Ya nos habíamos besado antes aunque hubiese sido por accidente.
 
 @148
 # Revisar. ¿Clean? ¿No estoy enferma? ¿No tengo nada? Imagino que será una sentencia corta.
-<en>{Natsume}\n"Don't worry. I'm clean."
+<en>{Natsume}\n"Don't worry. I don't have any strange cooties."
 <es>{Natsume}\n"No te preocupes. No estoy enferma."
 
 @149
@@ -411,16 +411,16 @@
 <es>{Natsume}\n"Es mejor que que me beses."
 
 @153
-<en>{Kazushi}\n"I told you that was an accident."
+<en>{Kazushi}\n"I said I'm sorry. I didn't know you such a persistent girl."
 <es>{Kazushi}\n"Ya te dije que fue un accidente."
 
 @156
 # Revisar: ?
-<en>{Natsume}\n"You should appologize first."
+<en>{Natsume}\n"Turning defiant?"
 <es>{Natsume}\n"Deberías disculparte antes."
 
 @157
-<en>{Kazushi}\n"I'm sorry. O.k? and thanks for this bread."
+<en>{Kazushi}\n"No, I'm not trying to be. Alright, I appreciate your offer."
 <es>{Kazushi}\n"Lo siento, ¿vale? Y gracias por el bocadillo."
 
 @160
@@ -428,7 +428,7 @@
 <es>{Natsume}\n"..."
 
 @161
-<en>I have to eat where it's wet from her bite.
+<en>It's hard to eat when she's staring at me. Not to mention, the bread's damp from her mouth.
 <es>Tengo que comer donde está húmero por su mordisco.
 
 @164
@@ -436,23 +436,23 @@
 <es>{Natsume}\n"..."
 
 @165
-<en>{Kazushi}\n"I'll eat it, O.K?"
+<en>{Kazushi}\n"I'll eat it, OK?"
 <es>{Kazushi}\n"Me lo comeré, ¿vale?"
 
 @166
-<en>I closed my eyes and took a bite. I felt the wetness from her bite.
+<en>Urged on by her eyes, I took a big bite out of the bread. I felt the dampness left by her lips spread inside my mouth.
 <es>Cerré los ojos y le di un bocado. Pude sentir la humedad de su mordisco.
 
 @167
-<en>IT was kind of sweet.
+<en>It was kind of sweet.
 <es>De alguna forma era una sensación dulce.
 
 @170
-<en>{Natsume}\n"Did you eat?"
+<en>{Natsume}\n"Did you eat it?"
 <es>{Natsume}\n"¿Te lo has comido?"
 
 @171
-<en>{Kazushi}\n"yes......"
+<en>{Kazushi}\n"Yes......"
 <es>{Kazushi}\n"Sí..."
 
 @174
@@ -460,7 +460,7 @@
 <es>{Natsume}\n"Bien."
 
 @176
-<en>I actually didn't eat. I swallowed it.
+<en>Satisfied with that, she bit back into her own half of the bread. Meanwhile, I swallowed the rest of mine down.
 <es>La verdad es que no me lo he comido. Me lo he tragado.
 
 @177
@@ -472,7 +472,7 @@
 <es>{Natsume}\n"..."
 
 @181
-<en>She shows no facial expression.
+<en>Natsume-chan was still nibbling away at her bread. Her expression hadn't changed at all.
 <es>No muestra ninguna expresión facial.
 
 @182
@@ -480,15 +480,15 @@
 <es>{Kazushi}\n"Gracias."
 
 @185
-<en>{Natsume}\n"No worrys."
+<en>{Natsume}\n"No worries."
 <es>{Natsume}\n"No te preocupes."
 
 @186
-<en>It's hard to understand who she is.
+<en>She was cold and curt, but she was kind so there had to be more to her than just that. It was hard to tell what she was like.
 <es>Resulta difícil de comprender quién es.
 
 @187
-<en>{Kazushi}\n"Do you always eat by yourself?"
+<en>{Kazushi}\n"Do you always eat by yourself? What about your friends?"
 <es>{Kazushi}\n"¿Siempre comes sola?"
 
 @190
@@ -496,7 +496,7 @@
 <es>{Natsume}\n"..."
 
 @191
-<en>{Kazushi}\n"If you want, we can eat together next time."
+<en>{Kazushi}\n"You always eat alone? If you'd like, why don't we eat together next time?"
 <es>{Kazushi}\n"Si quieres podemos comer juntos la próxima vez."
 
 @192
@@ -508,11 +508,11 @@
 <es>Sin respuesta.
 
 @194
-<en>{Kazushi}\n"Can we talk?"
+<en>{Kazushi}\n"Will you talk to me?"
 <es>{Kazushi}\n"¿Podemos hablar?"
 
 @197
-<en>{Natsume}\n"No thanks."
+<en>{Natsume}\n"I won't."
 <es>{Natsume}\n"No, gracias."
 
 @198
@@ -520,35 +520,35 @@
 <es>{Kazushi}\n"Está bien."
 
 @200
-<en>I lied down on the lawn again.
+<en>I lied down on the grass again. The grass felt relaxing against my back.
 <es>
 
 @201
-<en>This makes me nice and sleepy.
+<en>It was soft, and just warm enough to make me forget my hunger and feel sleepy.
 <es>
 
 @202
-<en>{Kazushi}\n[Kazushi yawning]
+<en>{Kazushi}\n"Yawwwwwn..."
 <es>
 
 @205
-<en>{Natsume}\n"Are you taking a nap?"
+<en>{Natsume}\n"Oh, taking a nap?"
 <es>{Natsume}\n"¿Vas a echarte una siesta?"
 
 @206
-<en>I sensed a little bit of sadness from her tone.
+<en>I sensed a hint of disappointment in her tone.
 <es>Sentí un poco de tristeza en su tono.
 
 @207
-<en>{Kazushi}\n"I thought you don't want to talk to me."
+<en>{Kazushi}\n"You said you wouldn't talk to me, right?"
 <es>{Kazushi}\n"Pensaba que no querías hablar conmigo."
 
 @210
-<en>{Natsume}\n"That's right, I don't."
+<en>{Natsume}\n"No, I won't."
 <es>{Natsume}\n"Y así es, no quiero."
 
 @211
-<en>She doesn't realize we are already talking.
+<en>Haha, we're already talking, but she doesn't realize it.
 <es>No se da cuenta de que ya estamos hablando.
 
 @212
@@ -556,39 +556,39 @@
 <es>{Kazushi}\n"No me voy a dormir. Simplemente estoy tumbado."
 
 @215
-<en>{Natsume}\n"No, you'll fall sleep, watch."
+<en>{Natsume}\n"Liar. You'll definitely fall asleep. Don't sleep, Haruma."
 <es>
 
 @216
-<en>{Kazushi}\n"No I won't......"
+<en>{Kazushi}\n"I won't sleep. Don't worry... *Yaaaawwn*"
 <es>{Kazushi}\n"No..."
 
 @217
-<en>{Natsume}\n"You keep disappointing me."
+<en>{Natsume}\n"I knew it. I'm disappointed. Disappointed in you, Haruma."
 <es>{Natsume}\n"No dejas de decepcionarme."
 
 @218
-<en>{Kazushi}\n"I told you I won't fall sleep......"
+<en>{Kazushi}\n"I told you I won't fall asleep......"
 <es>{Kazushi}\n"Ya te he dicho que no me voy a quedar dormido..."
 
 @219
-<en>I'm actually getting really sleepy......
+<en>Actually I'm already about to fall asleep.
 <es>La verdad es que me estoy quedando frito...
 
 @220
-<en>My eyelids are getting so heavy.
+<en>My eyelids grew so heavy they fell shut.
 <es>Mis párpados están empezando a pesar cada vez más.
 
 @222
-<en>{Natsume}\n"See, you're falling sleep."
+<en>{Natsume}\n"See, you're falling asleep."
 <es>{Natsume}\n"¿Ves?, te estás quedando dormido."
 
 @223
-<en>She sounded irritated.
+<en>I thought I heard Natsume-chan sounding irritated.
 <es>Suena irritada.
 
 @224
-<en>{Kazushi}\n"For just a few minutes......"
+<en>{Kazushi}\n"Just a few minutes. Just for a few minutes, so..."
 <es>{Kazushi}\n"Solo durante unos pocos minutos..."
 
 @225
@@ -600,7 +600,7 @@
 <es>{Kazushi}\n"¿...?"
 
 @233
-<en>I woke up by the bell.
+<en>I was woken up by the afternoon class bell.
 <es>Me desperté por la campana.
 
 @234
@@ -608,22 +608,22 @@
 <es>
 
 @236
-<en>Whether there are plenty girls around me or not around me, the way I spend my lunch break ended up in the same way
+<en>Whether there were pretty girls around me or not, the way I spent my lunch break was the same no matter what.
 <es>Esté rodeado de chicas o no, mi forma de terminar el descanso de la comida es siempre la misma.
 
 @237
-<en>{Kazushi}\n"Well, I get lunch break everyday. I'll do different next time."
+<en>{Kazushi}\n"Well, we have a lunch break every day. I'll just have to do better next time."
 <es>
 
 @238
-<en>I should head back to my class before the class starts.
+<en>I should head back to the classroom before the next class starts. If I keep being late, the girls will have an even worse impression of me.
 <es>
 
 @239
-<en>{Kazushi}\n"Next class would be......Mr.Yagami."
+<en>{Kazushi}\n"My next class... is with Yagami-sensei."
 <es>
 
 @240
-<en>I better hurry before I get his famous punishment.
+<en>I shuddered as I recalled that punch we took on our first day here and hurried off to the classroom.
 <es>
 

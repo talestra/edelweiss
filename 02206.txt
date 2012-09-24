@@ -1,55 +1,55 @@
 # Comments for '02206'
 
 @7
-<en>I found out about that when I got out from the shower.
+<en>I noticed it when I got out of the bath.
 <es>
 
 @8
-<en>{Kazushi}\n"--?\nIt seems like I lost one of the pin on my neck-tie."
+<en>{Kazushi}\n"Huh?\nI can't find one of my tie pins."
 <es>
 
 @9
-<en>My school uniform's neck-tie pin is missing.
+<en>My school uniform's necktie pin was missing.
 <es>
 
 @16
-<en>{Appo-}\n"You had too many pins on your tie anyways."
+<en>{Appo}\n"You wear too many pins on your tie anyways. Nobody'll miss it."
 <es>
 
 @17
-<en>{Kazushi}\n"I wonder when I dropped it."
+<en>{Kazushi}\n"That's true, but I wonder when I dropped it."
 <es>
 
 @18
-<en>{Daigo}\n"Maybe when you're changing begore taking shower."
+<en>{Daigo}\n"Maybe while you were heading to the bath?"
 <es>
 
 @21
-<en>{Pierre}\n"If you're really lucky, a pretty girl will found it and bring it to you."
+<en>{Pierre}\n"If you're really lucky, a pretty girl will find it and bring it back to you. It'll be a fateful encounter."
 <es>
 
 @22
-<en>{Kazushi}\n"That will be awesome!"
+<en>{Kazushi}\n"Y-yeah! That's totally possible! Way to go, Pierre, well said!"
 <es>
 
 @25
-<en>{Daigo}\n"Keep dreaming."
+<en>{Daigo}\n"You're deluding yourself."
 <es>
 
 @26
-<en>{Kazushi}\n"Dreaming!?"
+<en>{Kazushi}\n"No, I'm dreaming."
 <es>
 
 @29
-<en>{Appo-}\n"I hope you guys will find love like I did."
+<en>{Appo}\n"Well, as your friend, I hope happiness comes to you guys soon."
 <es>
 
 @32
-<en>{Pierre}\n"Why are you feeling surperior to us?"
+<en>{Pierre}\n"Gah! The pomp of the victor!"
 <es>
 
 @35
-<en>{Appo-}\n"I wonder how come nice guys like yourselves don't get any girls?"
+<en>{Appo}\n"I wonder how it is that such nice guys as yourselves don't have girlfriends?"
 <es>
 
 @38
@@ -57,39 +57,39 @@
 <es>
 
 @39
-<en>{Kazushi}\n"He's the only winner so far.\nLet him feel good about himself."
+<en>{Kazushi}\n"He's the only one to emerge victorious so far. Let him feel good about himself for a bit."
 <es>
 
 @41
-<en>[Door knocking]
+<en>*KNOCK KNOCK*
 <es>
 
 @42
-<en>I wonder who that is?
+<en>I wonder who that could be.
 <es>
 
 @49
-<en>{Kazushi}\n"Come in-"
+<en>{Kazushi}\n"Come in!"
 <es>
 
 @56
-<en>It was Hu-sen.
+<en>Speak of the devil, it was Fuusen. She was a little hesitant to come in.
 <es>
 
 @57
-<en>She has also changed since start going out with Appo-.
+<en>She'd also changed since she started dating Appo.
 <es>
 
 @60
-<en>{Hu-sen}\n"Good evening-\nis my honey here?"
+<en>{Fuusen}\n"Good evening.\nIs my honey here?"
 <es>
 
 @66
-<en>{Daigo}\n"Who is the honey here?"
+<en>{Daigo}\n"Who's got honey here?"
 <es>
 
 @67
-<en>{Pierre}\n"That would be Appo-.\nThey feel like they are already married."
+<en>{Pierre}\n"She means Appo, dumbass.\nIt feels like they're already married."
 <es>
 
 @70
@@ -97,163 +97,163 @@
 <es>
 
 @71
-<en>Appo- finally turned around.\nHe didn't open so he could show off how his girlfriend calls him.
+<en>Appo finally turned around. He didn't open the door so he could show off how his girlfriend has a pet name for him.
 <es>
 
 @76
-<en>{Hu-sen}\n"Hey honey."
+<en>{Fuusen}\n"Oh, Ah-chan!"
 <es>
 
 @77
-<en>I think she meant Appo-.
+<en>I think she means Appo when she says that.
 <es>
 
 @80
-<en>{Appo-}\n"Hey honey,\nwhat is it?"
+<en>{Appo}\n"Hi, Fuu-chan. What's up?"
 <es>
 
 @83
-<en>{Hu-sen}\n"My parents sent me peaches.\nI brought some for you and your friends."
+<en>{Fuusen}\n"My parents sent me some peaches.\nI brought a few for you to share with your friends."
 <es>
 
 @86
-<en>{Appo-}\n"It's nice of you.\nThat's my girlfriend."
+<en>{Appo}\n"That's a great idea. That's my Fuu-chan for you, so considerate. What a sinful woman you are, being so caring as well as cute."
 <es>
 
 @89
-<en>{Hu-sen}\n"Don't flatter me in front of your friends."
+<en>{Fuusen}\n"Oh, Ah-chan, not in front of your friends. It's embarrassing."
 <es>
 
 @90
-<en>Appo- touches her hair ever so gently.
+<en>Fuusen blushed, and Appo touched her hair ever so gently.
 <es>
 
 @97
-<en>{Daigo}\n"Are they doing this purposely?"
+<en>{Daigo}\n"Is this what they call a farce?"
 <es>
 
 @98
-<en>{Pierre}\n"Think of it as a play."
+<en>{Pierre}\n"No, more like a cheap act."
 <es>
 
 @99
-<en>{Kazushi}\n"They are in their own world."
+<en>{Kazushi}\n"Either way, they're off in their own world."
 <es>
 
 @100
-<en>We can't even bother them.
+<en>It was a pretty strong barrier too. We couldn't get near them, let alone interrupt.
 <es>
 
 @105
-<en>{Hu-sen}\n"Let me prepare them."
+<en>{Fuusen}\n"Then let me borrow some plates. I'll peel the peaches in no time."
 <es>
 
 @107
-<en>She starts peeling peaches.
+<en>Fuusen stood up with the peaches. She'd even brought a knife with her.
 <es>
 
 @112
-<en>{Pierre}\n"Who could imagine this a week ago."
+<en>{Pierre}\n"But man, people sure can change. Who could have imagined this a week ago?"
 <es>
 
 @115
-<en>{Daigo}\n"She looks cuter now......\nmaybe not."
+<en>{Daigo}\n"She looks cuter now.\n...maybe not."
 <es>
 
 @116
-<en>{Kazushi}\n"......she is cuter, isn't she?"
+<en>{Kazushi}\n"She is cuter, isn't she?"
 <es>
 
 @118
-<en>As she fell in love with Appo-,\nwe start seeing the girly aspect of Hu-sen.
+<en>When the inside changes, the outside appears differently too. All the loathsomeness from before was gone, and instead of seeming like she was making the whole world an enemy, she started to look cute despite her ugliness.
 <es>
 
 @126
-<en>{Hu-sen}\n"Hey honey,\ndo you need help to prepare for the finals next week?"
+<en>{Fuusen}\n"Hey, Ah-chan, finals are coming up soon. Will you be okay? Would you like me to help you study?"
 <es>
 
 @129
-<en>{Appo-}\n"You gonna help me? That will be great!"
+<en>{Appo}\n"You're offering to help me study? That would be great!"
 <es>
 
 @130
-<en>He turns his head and smile at us.
+<en>He turned around towards us as if he suddenly thought of something. A leering grin was plastered on his face.
 <es>
 
 @133
-<en>{Appo-}\n"You guys need help too, don't you?"
+<en>{Appo}\n"That's right. Do you want to join us? It's not like you were planning to study anyways, right? Let's have Fuu-chan teach us all."
 <es>
 
 @134
-<en>{Kazushi}\n"Don't let us bother you guys."
+<en>{Kazushi}\n"Don't let us get in your way."
 <es>
 
 @139
-<en>{Pierre}\n"You guys enjoy your world."
+<en>{Pierre}\n"You two enjoy your companionship."
 <es>
 
 @143
-<en>{Hu-sen}\n"Hey guys, I don't wanna be the reason for him to lose friends."
+<en>{Fuusen}\n"Oh, I'm sorry, it's like I'm monopolizing Ah-chan. I know we're going out now, but I don't want him to lose any friends, either."
 <es>
 
 @147
-<en>{Daigo}\n"Now, she really starts making me annoyed with them."
+<en>{Daigo}\n"Hey, now she's acting like some nice wife."
 <es>
 
 @148
-<en>{Kazushi}\n"It's amazing how love can change people.\nI want girlfriend, too!"
+<en>{Kazushi}\n"Love is magic. Aaggh, I want to fall in love too!"
 <es>
 
 @150
-<en>Watching them makes me want to feel the power of love.
+<en>My chest felt heavy and I flailed about. What the hell is love for it to change those two this much?
 <es>
 
 @151
-<en>I have to admit that I'm envious of Appo-'s happiness.
+<en>Watching my friend who used to be in the same spot as us change this much just because he landed a girlfriend first planted the seeds of anxiety within me.
 <es>
 
 @152
-<en>I'm sure Daigo and Pierre is feeling the same way.
+<en>I was certain Daigo and Pierre felt the same way.
 <es>
 
 @153
-<en>......love.
+<en>Love, huh?
 <es>
 
 @158
-<en>{Pierre}\n"I wonder how Rei is doing without Hu-sen."
+<en>{Pierre}\n"Man, Fuusen is all over Appo now. She used to always hang out with Andou."
 <es>
 
 @161
-<en>{Daigo}\n"Yeah, how is she doing?"
+<en>{Daigo}\n"I wonder how Andou's taking this?"
 <es>
 
 @162
-<en>{Kazushi}\n"I haven't talked to her in a while."
+<en>{Kazushi}\n"She hasn't stood out in a while."
 <es>
 
 @163
-<en>It's hard to imagine that just untill a week ago,\nwe had to go through them to do anything.
+<en>I hardly even noticed her in the class lately, even though a little while ago both her and Fuusen stuck out like eyesores.
 <es>
 
 @164
-<en>Rei became unnoticiable after Appo- and Hu-sen started to go out.
+<en>I was actually a little curious as to why we hadn't noticed her much with that huge body of hers.
 <es>
 
 @167
-<en>{Pierre}\n"It shows girls' friendship means nothing compare to love."
+<en>{Pierre}\n"It shows that girls' friendships mean nothing once they get a man."
 <es>
 
 @170
-<en>{Daigo}\n"Girls' friendship lasts as they make a boyfriend."
+<en>{Daigo}\n"A girl's friendship only lasts until she gets a boyfriend?"
 <es>
 
 @171
-<en>{Kazushi}\n"You can't compare friendship and love,\ncan you?"
+<en>{Kazushi}\n"You can't really compare between friendship and love, can you?"
 <es>
 
 @174
-<en>{Pierre}\n"It's different between girls and boys.\nGirls' friendship lasts so easily."
+<en>{Pierre}\n"Girls are different aren't they? Always calculating what will and won't benefit them, and prioritizing what does."
 <es>
 
 @175
@@ -261,99 +261,99 @@
 <es>
 
 @176
-<en>All the sudden,\nI start feeling bad for Rei.
+<en>If that's the case, then how sad. I could imagine how small that huge girl must feel, and felt a little sorry for her.
 <es>
 
 @183
-<en>{Rei}\n".................."
+<en>{Andou}\n".................."
 <es>
 
 @184
-<en>Even a nice hot bath didn't make Rei feel refreshed.
+<en>Even a nice hot bath didn't help Rei feel refreshed. Her body was already heavy, but her feet were even heavier as she headed to her room.
 <es>
 
 @190
-<en>{Sakura}\n"Oh, hey Rei,\nare you getting out?"
+<en>{Sakura}\n"Oh, Rei-chan. Are you already done with your bath?"
 <es>
 
 @191
-<en>Sakura and Rin came into the shower room as a pair of good fiends. They only reminded Rei of how it was untill a week ago......
+<en>Sakura and Rin entered as she was leaving, getting ready to take their bath together. They only served to remind Rei of how it was until a week ago...
 <es>
 
 @192
-<en>It made Rei feel even more lonely.
+<en>It made Rei feel even lonelier.
 <es>
 
 @195
-<en>{Rin}\n"Hey, where is Hu-sen lately?"
+<en>{Rin}\n"Huh? Were you alone today? I haven't seen you with Kazuko-chan lately."
 <es>
 
 @196
-<en>Everybody starts noticing.
+<en>Everybody was starting to notice. They were all talking about it.
 <es>
 
 @199
-<en>{Sakura}\n"Hu-sen just got a boyfriend, you know."
+<en>{Sakura}\n"Remember, Kazuko-chan just found a boyfriend, didn't she? They're all lovey-dovey right now."
 <es>
 
 @202
-<en>{Rin}\n"I see."
+<en>{Rin}\n"Oh, I see."
 <es>
 
 @203
-<en>It gets harder and harder as more people start noticing.
+<en>They were right. But it got harder and harder for her as more people started noticing.
 <es>
 
 @204
-<en>Nobody understands what Rei is going through now.
+<en>Nobody understood what Rei was going through at that point.
 <es>
 
 @209
-<en>{Rei}\n"It doesn't bother me."
+<en>{Andou}\n"That man hasn't changed anything. I still talk with Kazuko-chan plenty every day. I just try to show some consideration in the afternoon."
 <es>
 
 @215
-<en>{Rin}\n"You're right. \nThey just started going out.\nYou should give them time to themselves."
+<en>{Rin}\n"You're right. They did just start going out."
 <es>
 
 @220
-<en>{Rei}\n"Besides, I can talk to her at night when we are in dorm."
+<en>{Andou}\n"Besides, I can still talk to her at night when we're in the dorms."
 <es>
 
 @222
-<en>In reality, Hu-sen goes to bed as soon as she comes back, because she is always tired from hanging out with Appo-.
+<en>In reality, though, Kazuko rarely came back to her room at nights, and even if she did, it was late and she went right to sleep.
 <es>
 
 @223
-<en>Nothing makes Hu-sen happier than hanging out with Appo- now.
+<en>She was probably out with him as long as she could be. Nothing made Fuusen happier than spending time with Appo.
 <es>
 
 @224
-<en>Definitely hanging out with Rei......
+<en>Definitely not hanging out with Rei...
 <es>
 
 @225
-<en>She stoped thinking about it, because it'd only make her even more lonely.
+<en>She stopped thinking about it because it only made her lonelier still.
 <es>
 
 @230
-<en>{Rin}\n"Are you all right, Rei?"
+<en>{Rin}\n"Are you all right, Rei-chan?"
 <es>
 
 @231
-<en>Rei must looked so lonely.
+<en>The two of them were looking at her in concern. Even she started to worry about how she must look.
 <es>
 
 @232
-<en>Last thing Rei want is people noticing that she is lonely.
+<en>The last thing Rei wanted was for people to notice how lonely she was. There was no reason for her to be. Kazuko hadn't been stolen away by some man.
 <es>
 
 @237
-<en>{Rei}\n"Ofcourse I'm all right. \nI see you girls later."
+<en>{Andou}\n"O-of course I'm alright. But I think I stayed in a little too long. I'm going to go rest in my room."
 <es>
 
 @238
-<en>She couldn't pretend she's all right anymore.
+<en>After saying goodbye, she turned to head back.
 <es>
 
 @240
@@ -361,31 +361,31 @@
 <es>
 
 @243
-<en>{Rei}\n"What is it?"
+<en>{Andou}\n"What's this?"
 <es>
 
 @244
-<en>She picked up something that was on the floor.
+<en>She picked up something small and metallic from off the ground. It was familiar.
 <es>
 
 @250
-<en>{Sakura}\n"Hey I know who that belongs to.\nThat's Kazushi's tie pin."
+<en>{Sakura}\n"Hey, I know what that is.\nThat's Harucchi's tie pin. He always has a bunch of them on."
 <es>
 
 @251
-<en>{Rin}\n"Oh yeah, I've seen it on his tie before."
+<en>{Rin}\n"Oh yeah. That's Haruma-kun's."
 <es>
 
 @252
-<en>Rei has seen it on Kazushi's tie, too.
+<en>They were likely right. Rei had seen it on Kazushi's tie as well.
 <es>
 
 @257
-<en>{Rei}\n"One of his friend."
+<en>{Andou}\n"One of HIS friends."
 <es>
 
 @258
-<en>She was surprised of what came out from her mouth.
+<en>She was surprised by what came out of her mouth.
 <es>
 
 @264
@@ -393,131 +393,131 @@
 <es>
 
 @269
-<en>{Rei}\n"Nothing.\nI make sure this goes back to Kazushi."
+<en>{Andou}\n"N-nothing.\nI'll make sure this gets back to Haruma."
 <es>
 
 @270
-<en>She just wanted to get out from there.
+<en>She ended up saying that to cover up her own line. But then she thought, "Why do I have to deliver something some guy dropped?"
 <es>
 
 @271
-<en>She later regret making herself responsible to deliver it to Kazushi.
+<en>She later regretted taking responsibility for delivering it.
 <es>
 
 @277
-<en>{Rin}\n"It's so nice of you. I'm sure Kazushi will appreciate it."
+<en>{Rin}\n"Then I'll leave it up to you, Rei-chan. It's probably best to bring it to him in the morning."
 <es>
 
 @282
-<en>{Rei}\n"He better."
+<en>{Andou}\n"Yeah, I will."
 <es>
 
 @288
-<en>{Sakura}\n"This might ignite something between you and him-"
+<en>{Sakura}\n"This might spark something between you two."
 <es>
 
 @289
-<en>Rei actually got little upset how they teased her.
+<en>Rei actually got upset at Sakura's irresponsible, teasing remarks, but she held it in to keep them from noticing.
 <es>
 
 @292
-<en>{Rin}\n"It will be great if you get a boyfriend, too.\nThen you wouldn't be so lonely anymore."
+<en>{Rin}\n"I know. Kazuko-chan does have a boyfriend now. It's not fair that she quickly found one after hating the boys so much."
 <es>
 
 @295
-<en>{Sakura}\n"I won't let a boy take you away from me, Rin-!"
+<en>{Sakura}\n"No! I won't let a boy take you away from me, Rin!"
 <es>
 
 @298
-<en>{Rin}\n"Don't touch me like that-!"
+<en>{Rin}\n"No, don't cling to me. Ah, where are you touching?!"
 <es>
 
 @299
-<en>Rei really wanted to get out from that place.
+<en>Even their exchange looked bright to Rei. She didn't want to stay any more.
 <es>
 
 @304
-<en>{Rei}\n"See you guys later."
+<en>{Andou}\n"See you guys later."
 <es>
 
 @310
-<en>{Sakura}\n"See you."
+<en>{Sakura}\n"Oh, sorry for stopping you. Let's go take our bath."
 <es>
 
 @313
-<en>{Rin}\n"Bye Rei."
+<en>{Rin}\n"Bye, Rei-chan."
 <es>
 
 @318
-<en>{Rei}\n"Bye."
+<en>{Andou}\n"Bye."
 <es>
 
 @321
-<en>Two girls were still fawning on each other on the way to the shower room.
+<en>The two girls were still fawning over each other on the way to the shower room.
 <es>
 
 @322
-<en>Rei couldn't help sighing watchig them.
+<en>Rei couldn't help but sigh as she watched them.
 <es>
 
 @323
-<en>{Rei}\n"I wish those boys were never here."
+<en>{Andou}\n"I wish those boys had never come here."
 <es>
 
 @324
-<en>Then she would never had to go through this.
+<en>Then she'd have never have had to go through this. She felt hatred towards the boys.
 <es>
 
 @327
-<en>{Rei}\n"I hate everybody."
+<en>{Andou}\n"They should all up and leave."
 <es>
 
 @328
-<en>She squeezed her fist from the anger.\nThat's when she realized that she had something in her palm still.
+<en>She clenched her fists in anger. That's when she realized that she still had something in her palm.
 <es>
 
 @329
-<en>{Rei}\n"Stupid tie pin......."
+<en>{Andou}\n"Stupid tie pin......"
 <es>
 
 @330
-<en>She almost threw it away.
+<en>She felt that she had no obligation to return it. She was about to throw it away, but stopped. Was there some other way for her to use it?
 <es>
 
 @333
-<en>{Rei}\n"......I've got an idea."
+<en>{Andou}\n"......That's it."
 <es>
 
 @334
-<en>She kept walking with it in her palm.
+<en>She kept on walking with the tie pin in her palm.
 <es>
 
 @339
-<en>{Kazushi}\n"What's Appo- doing so late?"
+<en>{Kazushi}\n"What's Appo doing out so late?"
 <es>
 
 @340
-<en>He hasn't come back from walking back Hu-sen to her dorm.
+<en>He still hadn't come back from escorting Fuusen to her dorm.
 <es>
 
 @345
-<en>{Pierre}\n"They must be enjoying now."
+<en>{Pierre}\n"They must be enjoying themselves. ...Yuck, I imagined that."
 <es>
 
 @348
-<en>{Daigo}\n"He's been sneaking into girls' dorm lately.\nI hope he doesn't get into trouble again."
+<en>{Daigo}\n"He's been sneaking into the girls' dorm lately to spend extra time with her. The school too. I hope he doesn't get into trouble again."
 <es>
 
 @351
-<en>{Pierre}\n"But he's extraordinary late tonight."
+<en>{Pierre}\n"But isn't he extra late tonight? Is he planning on not coming back?"
 <es>
 
 @352
-<en>{Kazushi}\n"He's probably enjoying air-conditioned room right now."
+<en>{Kazushi}\n"Well, the girls' dorm is full-equipped with air conditioning. Who'd want to come back to this shack? Appo's pulled a smooth move."
 <es>
 
 @355
-<en>{Pierre}\n"Do you really think so?\nTry picturing Hu-sen's face in your head now."
+<en>{Pierre}\n"Do you really think so?\nNow try imagining Fuusen's face..."
 <es>
 
 @357
@@ -525,75 +525,75 @@
 <es>
 
 @366
-<en>It made me sick.
+<en>I nearly threw up.
 <es>
 
 @368
-<en>{Kazushi}\n"Well, it's not my girlfriend.\nIt's Appo-'s."
+<en>{Kazushi}\n"Well, she's not mine. But man, love is nice. It comes with air conditioning."
 <es>
 
 @373
-<en>{Pierre}\n"I wanna girlfriend so I can get into girls' dorm-."
+<en>{Pierre}\n"Yeah. I'd love to shack up in a girl's room."
 <es>
 
 @376
-<en>{Daigo}\n"Especially a hot night like tonight."
+<en>{Daigo}\n"Especially on a sweltering night like tonight. Want to take another bath?"
 <es>
 
 @377
-<en>{Kazushi}\n"Maybe we should go take a shower again."
+<en>{Kazushi}\n"Yeah, might as well wash off a bit."
 <es>
 
 @380
-<en>{Pierre}\n"That's a good idea."
+<en>{Pierre}\n"Then let's go."
 <es>
 
 @383
-<en>{Daigo}\n"Wait a minute. Someone is coming."
+<en>{Daigo}\n"Wait a minute. Someone's coming."
 <es>
 
 @384
-<en>It's usualy Daigo who is sensitive to noise.
+<en>As usual, Daigo was sensitive to the noise.
 <es>
 
 @385
-<en>Two seconds later--
+<en>Two seconds later...
 <es>
 
 @387
-<en>[Door knocking]
+<en>*KNOCK KNOCK*
 <es>
 
 @388
-<en>someone's knocking the door hard.
+<en>Someone was pounding on the door.
 <es>
 
 @389
-<en>{Sakura}\n"Kazushi, it's an emergency-!"
+<en>{Sakura}\n"Harucchi, it's an emergency!"
 <es>
 
 @390
-<en>It's Sakura. She sounds like there is a trouble.
+<en>It was Sakura. She sounded like there was trouble.
 <es>
 
 @391
-<en>{Kazushi}\n"I have a bad feeling about this."
+<en>{Kazushi}\n"I've got a bad feeling about this."
 <es>
 
 @394
-<en>{Pierre}\n"Me, too."
+<en>{Pierre}\n"Me too. This is when one's intuition is usually right."
 <es>
 
 @395
-<en>{Sakura}\n"Are you guys there!?\nWe are in a hurry!!"
+<en>{Sakura}\n"Are you guys there!?\nWe need to hurry!"
 <es>
 
 @396
-<en>{Kazushi}\n"I will be right there!"
+<en>{Kazushi}\n"I'll be right there!"
 <es>
 
 @402
-<en>Sakura jumped in as soon as Daigo opened the door.
+<en>Sakura jumped into our room as soon as Daigo opened the door, and grabbed me by the hand.
 <es>
 
 @403
@@ -605,31 +605,31 @@
 <es>
 
 @413
-<en>{Pierre}\n"Where are we going?"
+<en>{Pierre}\n"Sakura-chan, where are we going?"
 <es>
 
 @414
-<en>Pierre and Daigo followed us, too.
+<en>Pierre and Daigo shoved their heels into their shoes and followed us as well.
 <es>
 
 @419
-<en>{Sakura}\n"Just follow me! It's Rei!"
+<en>{Sakura}\n"Just follow me! It's Rei-chan!"
 <es>
 
 @420
-<en>{Kazushi}\n"......What happened to Rei?"
+<en>{Kazushi}\n"Rei-chan...you mean Andou?"
 <es>
 
 @426
-<en>We were just talking about her a few hours ago.
+<en>Pierre and I glanced at each other. We were just talking about her a few hours ago.
 <es>
 
 @429
-<en>We ran as fast as we could.
+<en>We ran as fast as we could as Sakura led me by the hand.
 <es>
 
 @436
-<en>Sakura took us to girls' dorm.\nThere she was. Big Rei was crouching.
+<en>Sakura brought us to the girls' dorm. Big Andou was crouching down on the floor.
 <es>
 
 @443
@@ -637,47 +637,47 @@
 <es>
 
 @444
-<en>All the girls were waiting for us.
+<en>There were other girls there too. Like Mizuki, Fujisaki-san, and also Fuusen Kazuko.
 <es>
 
 @450
-<en>{Hu-sen}\n"Thanks for coming to help guys."
+<en>{Fuusen}\n"Thanks for coming to help, guys."
 <es>
 
 @451
-<en>Hu-sen was crouching next to Rei as well.
+<en>Fuusen crouched down next to Andou.
 <es>
 
 @457
-<en>{Pierre}\n"What happened?"
+<en>{Pierre}\n"What's going on? What happened?"
 <es>
 
 @464
-<en>{Rin}\n"......it's Rei......"
+<en>{Rin}\n"Well, you see... Rei-chan..."
 <es>
 
 @465
-<en>Hu-sen was rubbing Rei's back.
+<en>I glanced over at Andou. Fuusen was rubbing her back, and she looked on the verge of tears.
 <es>
 
 @470
-<en>{Mizuki}\n"Rei sneaked into teachers' room."
+<en>{Mizuki}\n"Rei snuck into the teachers' room."
 <es>
 
 @471
-<en>{Kazushi}\n"Teachers' room? why?"
+<en>{Kazushi}\n"The teachers' room? Why?"
 <es>
 
 @475
-<en>{Sakura}\n"She tried to steal answers for upcoming finals......"
+<en>{Sakura}\n"She tried to steal the questions for the upcoming exams..."
 <es>
 
 @476
-<en>Sakura is asking for further explanation from Hu-sen.
+<en>I guess her nervous tone was because she only heard hearsay. Sakura glanced at Fuusen seeking her explanation. I guess Fuusen knew the story.
 <es>
 
 @480
-<en>{Hu-sen}\n"She also tried to make it look like you guys did it."
+<en>{Fuusen}\n"It's so silly. She tried to steal the questions and place the blame on you guys."
 <es>
 
 @481
@@ -685,59 +685,59 @@
 <es>
 
 @487
-<en>{Pierre}\n"That's so wrong!"
+<en>{Pierre}\n"Stealing the test questions? That's terrible. I guess it does look like something we'd do, though."
 <es>
 
 @488
-<en>{Daigo}\n"Why did you do that?"
+<en>{Daigo}\n"Why would you do that, though?"
 <es>
 
 @489
-<en>I thought we are getting along with girls just fine.
+<en>I thought we were finally starting to get along fine with the girls.
 <es>
 
 @496
-<en>{Rei}\n".................."
+<en>{Andou}\n".................."
 <es>
 
 @497
-<en>Rei doesn't open her mouth.
+<en>Andou kept her mouth shut. She didn't want to answer.
 <es>
 
 @500
-<en>{Hu-sen}\n"It's my fault."
+<en>{Fuusen}\n"It's my fault."
 <es>
 
 @503
-<en>Rei reacted to what Hu-sen just said.
+<en>Fuusen said, as if speaking to herself. Andou's shoulders twitched in response.
 <es>
 
 @506
-<en>{Hu-sen}\n"I made you jealous and lonely, right?"
+<en>{Fuusen}\n"I made you jealous and lonely, right?"
 <es>
 
 @507
-<en>{Rei}\n"That's not it......"
+<en>{Andou}\n"That's not it......"
 <es>
 
 @508
-<en>Rei finally opened her mouth.
+<en>It was the first time Andou spoke since we' arrived. She sounded like a drowned rabbit.
 <es>
 
 @509
-<en>{Hu-sen}\n"Rei, I'm sorry."
+<en>{Fuusen}\n"I'm sorry, Rei."
 <es>
 
 @512
-<en>{Rei}\n"I said that's not the reason.\nWhy do I have to be jealous?"
+<en>{Andou}\n"I said that's not the reason.\nWhy do I have to be jealous of that apple?"
 <es>
 
 @515
-<en>{Rei}\n"I still know you a lot better than Appo-, why do I have to......"
+<en>{Andou}\n"I've been with you for far longer than him. I know you far better than him. Why do I have to..."
 <es>
 
 @516
-<en>Rei started to cry.
+<en>Her voice grew muddled as she spoke. Fuusen stroked her back several times.
 <es>
 
 @517
@@ -745,27 +745,27 @@
 <es>
 
 @524
-<en>{Sakura}\n"I think you guys got the whole scenario......"
+<en>{Sakura}\n"So that seems to be what happened, but..."
 <es>
 
 @525
-<en>{Mizuki}\n"......please forgive her."
+<en>{Mizuki}\n"Umm... please don't be angry with her? I think Rei was feeling cornered by all this too."
 <es>
 
 @526
-<en>We could all tell how sorry Rei is just by looking at her.
+<en>We could all tell how much Andou regretted what she had done just by looking at her.
 <es>
 
 @527
-<en>She doesn't know what to do.
+<en>She didn't know what to do with her feelings.
 <es>
 
 @532
-<en>{Pierre}\n"She didn't really succeed. \nSo, I guess it's O.K"
+<en>{Pierre}\n"Well, it's not like anything actually happened to us. So let's call it water under the bridge."
 <es>
 
 @533
-<en>{Kazushi}\n"good thing is no one got caught."
+<en>{Kazushi}\n"No one got caught, and if we all keep quiet, that'll be the end of it."
 <es>
 
 @537
@@ -773,15 +773,15 @@
 <es>
 
 @538
-<en>{Kazushi}\n"?"
+<en>{Kazushi}\n"Huh?"
 <es>
 
 @539
-<en>I have a bad feeling.
+<en>It seemed there was more to it. I've got a bad feeling about this.
 <es>
 
 @545
-<en>{Daigo}\n"Where is appo- anyways?"
+<en>{Daigo}\n"Where is Appo, anyways?"
 <es>
 
 @546
@@ -789,15 +789,15 @@
 <es>
 
 @547
-<en>We thought he was with Hu-sen.
+<en>We thought he was with Fuusen, but she's right here...
 <es>
 
 @552
-<en>{Rin}\n"He's actually......"
+<en>{Rin}\n"Actually, he's..."
 <es>
 
 @556
-<en>{Hu-sen}\n"When a security found Rei......\nAppo- ran away as a decoy."
+<en>{Fuusen}\n"We actually caught Rei in the act, but then, when a signpost was about to find us, Appo lured it away as a decoy."
 <es>
 
 @557
@@ -805,71 +805,71 @@
 <es>
 
 @560
-<en>the door opened and Ran came in.
+<en>The door slammed open and Ran came in, clutching her head.
 <es>
 
 @563
-<en>{Ran}\n"Appo- got caught."
+<en>{Ran}\n"Appo's finished. They caught him."
 <es>
 
 @568
-<en>{Pierre}\n"That's so like Appo-."
+<en>{Pierre}\n"That's Appo for you."
 <es>
 
 @569
-<en>That's when Rei crumbled.
+<en>That's when Andou crumbled.
 <es>
 
 @576
-<en>{Rei}\n"......I'm gonna get kicked out from the school......"
+<en>{Andou}\n"I'm through...I'm gonna get kicked out of school..."
 <es>
 
 @577
-<en>{Mizuki}\n"You don't know that yet......"
+<en>{Mizuki}\n"You won't get kicked out for this. Suspended, maybe..."
 <es>
 
 @580
-<en>{Rei}\n"......they are gonna tell my parents......"
+<en>{Andou}\n"And if I am, they'll call my parents. Then they'll take me away...Either way, I'm finished..."
 <es>
 
 @584
-<en>{Hu-sen}\n"Rei......"
+<en>{Fuusen}\n"Rei......"
 <es>
 
 @585
-<en>{Kazushi}\n"It's only a suspention."
+<en>{Kazushi}\n"It's only a suspension."
 <es>
 
 @586
-<en>It's probably a bigger deal for her to be suspended.
+<en>I don't see what the big fuss is. Suspensions were a regular occurrence in our boys' school.
 <es>
 
 @593
-<en>{Mizuki}\n"Her father is a police officer."
+<en>{Mizuki}\n"No, Rei's family is really strict. Her father's a top police officer."
 <es>
 
 @596
-<en>{Pierre}\n"Oh yeah!?"
+<en>{Pierre}\n"Shit! Really?"
 <es>
 
 @601
-<en>{Rei}\n"He is going to arrest me!!"
+<en>{Andou}\n"He's going to arrest me and throw me in jail!! I'm done for... Waaaaaahhh!"
 <es>
 
 @602
-<en>She started to cry hard.
+<en>As she began to cry, the floor started to shake from her wails. This is pretty bad.
 <es>
 
 @606
-<en>{Pierre}\n"Where is Appo- now?"
+<en>{Pierre}\n"Where's Appo now?"
 <es>
 
 @610
-<en>{Ran}\n"He should be in teachers' room."
+<en>{Ran}\n"He should be in the teachers' room. Yagami-sensei's on his way."
 <es>
 
 @611
-<en>{Kazushi}\n"We have to deal with Mr.Yagami."
+<en>{Kazushi}\n"Yagami-sensei, huh? That's a pain."
 <es>
 
 @615
@@ -877,31 +877,31 @@
 <es>
 
 @616
-<en>{Kazushi}\n"Let's go."
+<en>{Kazushi}\n"Yeah. Let's go."
 <es>
 
 @618
-<en>Rei looks at us hopelessly.
+<en>We stood up with determination, and Andou looked at us with anxiety.
 <es>
 
 @621
-<en>{Rei}\n"I'm going too......"
+<en>{Andou}\n"I'm going too......"
 <es>
 
 @622
-<en>Rei tries to stand up.
+<en>Rei tried to stand up with Fuusen supporting her.
 <es>
 
 @623
-<en>{Kazushi}\n"No, you stay here."
+<en>{Kazushi}\n"No. You should stay here."
 <es>
 
 @626
-<en>{Rei}\n"I should stay here......?"
+<en>{Andou}\n"Huh? But I...?"
 <es>
 
 @632
-<en>{Pierre}\n"Let us handle this.\nWe are expert at this."
+<en>{Pierre}\n"Let us handle this.\nWe're pros at being in trouble."
 <es>
 
 @633
@@ -909,211 +909,211 @@
 <es>
 
 @640
-<en>{Rei}\n"But......"
+<en>{Andou}\n"But......"
 <es>
 
 @641
-<en>{Hu-sen}\n"Let's listen to them here."
+<en>{Fuusen}\n"Just listen to them for once."
 <es>
 
 @642
-<en>Rei looked at us and nod her head.
+<en>Rei looked at us and nodded her head.
 <es>
 
 @643
-<en>We will have a long day.
+<en>Well, we acted cool and told them to leave it to us, but now what?
 <es>
 
 @654
-<en>{Appo-}\n"Let go of me!"
+<en>{Appo}\n"That hurts! Let go of me!"
 <es>
 
 @655
-<en>{A sign board}\n"Stay still."
+<en>{Signpost}\n"Don't move."
 <es>
 
 @659
-<en>{Appo-}\n"Ouch!\nDon't hurt me, please!"
+<en>{Appo}\n"Ow! Owowowow! I'm sorry, please don't hurt me!"
 <es>
 
 @660
-<en>We found Appo- being captured by the moving sign board.
+<en>We found Appo being held prisoner by the moving signpost. He had scratches and bruises all over from trying to resist.
 <es>
 
 @661
-<en>{Kazushi}\n"Oh, no."
+<en>{Kazushi}\n"Oh man, you look like shit."
 <es>
 
 @662
-<en>Appo- raised his head as he recognized us.
+<en>Appo raised his head as he recognized us. He looked like he was ready to bite.
 <es>
 
 @665
-<en>{Appo-}\n"What took you guys so long?!"
+<en>{Appo}\n"What took you guys so long!? I'm all beat up!"
 <es>
 
 @671
-<en>{Pierre}\n"I can't believe you got caught."
+<en>{Pierre}\n"You really do look like shit. Don't get caught next time."
 <es>
 
 @676
-<en>{Daigo}\n"I told you you needed to exercise."
+<en>{Daigo}\n"I told you that you needed to exercise more."
 <es>
 
 @683
-<en>{Appo-}\n"Daigo, you're not so better than me!"
+<en>{Appo}\n"I don't need to hear that from you, you middle-aged tubby!"
 <es>
 
 @686
-<en>{Daigo}\n"Oh yes I am!!"
+<en>{Daigo}\n"I'm not middle-aged!!"
 <es>
 
 @695
-<en>{Appo-}\n"You guys don't know how fast this guy can run!"
+<en>{Appo}\n"Besides, this thing's hella fast! Strong too! Owowowow!!"
 <es>
 
 @696
-<en>The moving machine locks Appo-'s arm tight.
+<en>The signboard twisted his arm up, and Appo cried.
 <es>
 
 @704
-<en>{Mei}\n"Be quiet guys."
+<en>{Mei}\n"Be quiet, you guys."
 <es>
 
 @705
-<en>Ms, Ibuki and Mr.Yagami showed up.
+<en>Mei-sensei's crisp voice rang forth as she stepped out from the back with Yagami-sensei.
 <es>
 
 @706
-<en>{Teacher Yagami}\n"It's late at night.\nDon't be so noisy."
+<en>{Yagami}\n"Don't cause a ruckus on campus this late at night. Besides, it's already past your curfew anyways."
 <es>
 
 @707
-<en>Mr.Yagami looked so serious.
+<en>Yagami-sensei's face was stern. It didn't have the threatening impact of when he was angry, but it was still overwhelming.
 <es>
 
 @708
-<en>That tells me it's serious this time.
+<en>Just his lack of smile and stern gaze was overwhelming compared to normal.
 <es>
 
 @709
-<en>{Kazushi}\n"Mr.Yagami, can I take Appo- to our room to take care of his injuries?"
+<en>{Kazushi}\n"Yagami-sensei, can I take Appo to our room to take care of his injuries?"
 <es>
 
 @712
-<en>{Mei}\n"We still need him here.\nWe have to ask him a few questions."
+<en>{Mei}\n"Not yet. We still have a few questions for Jinnai-kun."
 <es>
 
 @717
-<en>{Pierre}\n"Then please make it quick.\nWe like to go back as soon as we can."
+<en>{Pierre}\n"Then please make it quick.\nWe'd like to get back as soon as possible."
 <es>
 
 @718
-<en>We pretended we don't know what's going on.
+<en>We pretended that we didn't know what was going on, and the two teachers just sighed.
 <es>
 
 @724
-<en>{Mei}\n"Appo- is the suspect of stealing final exams answers."
+<en>{Mei}\n"The safe containing the questions for the upcoming final exams was broken into, and the insides strewn about. Jinnai-kun was found fleeing the scene."
 <es>
 
 @725
-<en>{Teacher Yagami}\n"I'd like to not believe that.\nBut he doesn't talk."
+<en>{Yagami}\n"I'd like to believe it wasn't his doing. However, no matter how often we ask, he won't tell us. He refuses to talk."
 <es>
 
 @728
-<en>{Mei}\n"We will let him go as soon as he tells us what we need to know."
+<en>{Mei}\n"We'll let him go as soon as he tells us what he knows."
 <es>
 
 @729
-<en>Appo- smiles to them.
+<en>Appo smiled at the two troubled teachers.
 <es>
 
 @734
-<en>{Appo-}\n"I've been keep telling you guys I did it."
+<en>{Appo}\n"I keep telling you guys, I'm the one who did it. I used to always admire master thieves, so I got a sudden urge to try it too."
 <es>
 
 @740
-<en>{Mei}\n"Tell us the truth......"
+<en>{Mei}\n"That again..."
 <es>
 
 @743
-<en>{Teacher Yagami}\n"Be serious now.\nYou could be arrested for theft."
+<en>{Yagami}\n"Be serious, now. You may think it's only a few test questions, but this is grounds for larceny."
 <es>
 
 @750
-<en>{Appo-}\n"......? I could be arrested?"
+<en>{Appo}\n"Huh...? Larceny's a crime, right? You mean I'll be arrested?"
 <es>
 
 @751
-<en>All the sudden,\nAppo- became so nervous.
+<en>Appo's turned pale as soon as he heard it was a crime. The anxiety in his eyes was obvious, and he looked at us for help.
 <es>
 
 @754
-<en>{Appo-}\n"I don't wanna get arrested and......\ngo to the jail."
+<en>{Appo}\n"Wh-what do I do... This is bad. I don't want a criminal record... I just wanted to live out a boy's dream."
 <es>
 
 @762
-<en>{Pierre}\n"Why you became so weak all the sudden?!!"
+<en>{Pierre}\n"There go your balls. You were pretty cool up until now."
 <es>
 
 @763
-<en>{Daigo}\n"That's so like you."
+<en>{Daigo}\n"That's Appo-Quality for you."
 <es>
 
 @768
-<en>{Teacher Yagami}\n"Tell us who you are protecting?"
+<en>{Yagami}\n"Do you finally get it? Now who are you covering for?"
 <es>
 
 @769
-<en>Mr.Yagami threw a very accurate question.
+<en>Yagami-sensei hit Appo with a very accurate question. Appo scrunched his face under the pressure.
 <es>
 
 @774
-<en>{Appo-}\n"I don't know anything."
+<en>{Appo}\n"I don't know anything."
 <es>
 
 @775
-<en>Appo- still fights back.
+<en>Still, Appo was determined to fight back, despite how pale he was.
 <es>
 
 @780
-<en>{Ran}\n"I never knew he had so much guts-"
+<en>{Ran}\n"I never knew he had such guts!"
 <es>
 
 @786
-<en>{Mei}\n"Oh no."
+<en>{Mei}\n"How troublesome."
 <es>
 
 @789
-<en>{Teacher Yagami}\n"You guys must know something, don't you?"
+<en>{Yagami}\n"Hey, you came running over, so you guys know something about this, don't you?"
 <es>
 
 @790
-<en>Mr.Yagami gave up on Appo- and start working on us.
+<en>Yagami-sensei gave up on Appo and started working us over.
 <es>
 
 @791
-<en>We were very scared, but we fought through.
+<en>His eyes were serious. Our teeth were rattling, but we held our ground.
 <es>
 
 @792
-<en>{Kazushi}\n"I don't know."
+<en>{Kazushi}\n"I don't know anything about it."
 <es>
 
 @797
-<en>{Pierre}\n"Me either."
+<en>{Pierre}\n"Me neither."
 <es>
 
 @801
-<en>{Teacher Yagami}\n"I see......is this yours?"
+<en>{Yagami}\n"I see... Hey, Kazushi, we found this little thing."
 <es>
 
 @802
-<en>It was my tie pin.
+<en>Something glimmered in his hand. It was the tie pin I'd lost.
 <es>
 
 @803
-<en>{Kazushi}\n"Where did you find it?"
+<en>{Kazushi}\n"Ah, where did you find that?"
 <es>
 
 @807
@@ -1121,19 +1121,19 @@
 <es>
 
 @808
-<en>{Kazushi}\n"Yeah......?"
+<en>{Kazushi}\n"Oh..."
 <es>
 
 @809
-<en>Rei must dropped it so it would look like I did all this.
+<en>Andou must have found it and put it there so it would look like I was responsible.
 <es>
 
 @813
-<en>{Teacher Yagami}\n"Why was it here?"
+<en>{Yagami}\n"Why was it here?"
 <es>
 
 @817
-<en>{Appo-}\n"Because it's you who did it, right?"
+<en>{Appo}\n"Because it's you who did it, right?"
 <es>
 
 @818
@@ -1141,31 +1141,31 @@
 <es>
 
 @819
-<en>{Appo-}\n"Tell them you did it."
+<en>{Appo}\n"I don't want a criminal record yet. So Kazushi did it."
 <es>
 
 @824
-<en>{Pierre}\n"Oh yeah, I remember you telling me you were gonna do this."
+<en>{Pierre}\n"Oh yeah, now I remember. Kazushi's the one who did it. They caught you red-handed, so sing, birdie."
 <es>
 
 @825
-<en>Betrayers!!
+<en>Gah! They're so content! They're selling me out!
 <es>
 
 @831
-<en>{Pierre}\n(Just leave it like that for now)
+<en>{Pierre}\n(It's more convenient for them to think so. So just go with it.)
 <es>
 
 @832
-<en>{Daigo}\n(We will all buy you a dinner)
+<en>{Daigo}\n(We'll all buy you dinner later.)
 <es>
 
 @833
-<en>{Kazushi}\n(......fine)
+<en>{Kazushi}\n(......Fine.)
 <es>
 
 @834
-<en>They convinced me.
+<en>They convinced me to take the fall.
 <es>
 
 @837
@@ -1173,71 +1173,71 @@
 <es>
 
 @840
-<en>{Mei}\n"......you did it?"
+<en>{Mei}\n"Huh......Really?"
 <es>
 
 @841
-<en>{Kazushi}\n"......I can't remember anything.\nMy head hurts......!!"
+<en>{Kazushi}\n"I-I think... But I'm not so sure? When I try to recall it... Aaah! The Green Kappa is chasing me!"
 <es>
 
 @845
-<en>{Ran}\n"Good try!"
+<en>{Ran}\n"Hahaha, Kappas are normally green!"
 <es>
 
 @849
-<en>{Teacher Yagami}\n"Are you fooling us?"
+<en>{Yagami}\n"Are you trying to make fools of us?"
 <es>
 
 @851
-<en>Opps. \nI never want to make Mr.Yagami seriously mad.
+<en>Ouch.\nI never wanted to seriously piss off Yagami-sensei.
 <es>
 
 @856
-<en>{Mei}\n"Who are you guys protecting?\nBe honest."
+<en>{Mei}\n"Come on, who are you guys covering for? If you're honest, we'll be lenient with the punishment."
 <es>
 
 @857
-<en>{Teacher Yagami}\n"No one's gonna get kicked out from the school.\nJust tell us the truth."
+<en>{Yagami}\n"It'll only be a suspension. Now just be honest."
 <es>
 
 @858
-<en>I can believe his word only if we were\nstill in the previous school.
+<en>At our previous school, that probably would be the end of it.
 <es>
 
 @859
-<en>{Kazushi}\n"I don't mind getting suspention at all."
+<en>{Kazushi}\n"We don't mind being suspended, but there are also those who would."
 <es>
 
 @860
-<en>It means nothing to us.\nBut it means the end of the world for some of the girls.
+<en>Being suspended meant nothing to us, but it was just as bad as being arrested to some of the girls.
 <es>
 
 @867
-<en>{Appo-}\n"But there are some students who never want their parents to know about it"
+<en>{Appo}\n"There are some students for whom it would be the end of the world if their parents were contacted."
 <es>
 
 @870
-<en>{Mei}\n"Are you guys telling me one of the girls did this?"
+<en>{Mei}\n"You realize that's saying one of the girls did this?"
 <es>
 
 @873
-<en>{Kazushi}\n"Opps......"
+<en>{Kazushi}\n"Oops..."
 <es>
 
 @881
-<en>{Pierre}\n"Kazushi, you idiot."
+<en>{Pierre}\n"Kazushi, you moron!"
 <es>
 
 @882
-<en>{Daigo}\n"You too, Appo-."
+<en>{Daigo}\n"You're a moron too, Appo."
 <es>
 
 @887
-<en>{Mei}\n"How about you girls, do you know anything?"
+<en>{Mei}\n"So you won't talk, no matter what? How about you girls?"
 <es>
 
 @895
-<en>Teachers start working on the girls.
+<en>The teachers started interrogating the girls. The girls looked at each other and nodded.
 <es>
 
 @898
@@ -1245,91 +1245,91 @@
 <es>
 
 @899
-<en>They are with us.
+<en>They sided with us.
 <es>
 
 @907
-<en>{Mei}\n"Come on you guys......"
+<en>{Mei}\n"Come on, you guys......"
 <es>
 
 @908
-<en>{Teacher Yagami}\n"Since when you guys get along so well?"
+<en>{Yagami}\n"Since when have all of you been getting along so well? I never thought you'd show such solidarity."
 <es>
 
 @912
-<en>{Pierre}\n"We are telling you the truth.\nNobody knows anything about this."
+<en>{Pierre}\n"We're telling you the truth.\nNone of us know anything about this."
 <es>
 
 @913
-<en>{Kazushi}\n"Are you sure one of us did this?\nMaybe it's not the students!"
+<en>{Kazushi}\n"Are you even sure there is a culprit? That's it! Good idea! Everything'll be settled that way!"
 <es>
 
 @914
-<en>{Teacher Yagami}\n"Good try Kazushi......"
+<en>{Yagami}\n"Don't be stupid. We can't ignore it without knowing the circumstances. First you have to tell..."
 <es>
 
 @918
-<en>{Principal}\n"Oh well,"
+<en>{Principal}\n"Why not?"
 <es>
 
 @919
-<en>{Kazushi}\n"!!"
+<en>{Kazushi}\n"ACK!"
 <es>
 
 @923
-<en>All the sudden, we heard our principal speak.\nShe was there before anyone noticed.
+<en>All of a sudden, we heard the principal's voice. She was there before anybody noticed. She looked at us quietly, with her hands behind her back.
 <es>
 
 @929
-<en>{Pierre}\n"Since when she was here?"
+<en>{Pierre}\n"When did she get here?"
 <es>
 
 @930
-<en>{Daigo}\n"She wasn't here when we got here."
+<en>{Daigo}\n"She wasn't here when we arrived."
 <es>
 
 @931
-<en>The entrance door is on the other side of the room.\nShe had to walk quite long ways to get this side.
+<en>The only entrance was on the other side of the room. Somebody should've noticed her if she walked all the way across it.
 <es>
 
 @932
-<en>But not single one of us noticed.
+<en>But not a single one of us noticed.
 <es>
 
 @937
-<en>{Ran}\n"I heard she can make her invisible by using Alchemy."
+<en>{Ran}\n"Like it or not, she's an alchemist. I heard there's a technique amongst alchemy that can make the body transparent."
 <es>
 
 @938
-<en>{Kazushi}\n"Are you serious?"
+<en>{Kazushi}\n"Are you serious? That's magic!"
 <es>
 
 @939
-<en>I'm so scared of her now.
+<en>The principal sent me a bewitching smile belying her age. It sent shivers up my spine.
 <es>
 
 @943
-<en>{Principal}\n"I can tell you guys are protecting somebody."
+<en>{Principal}\n"I took the liberty of hearing your conversation. It would seem that you're all protecting someone."
 <es>
 
 @944
-<en>She speaks to us with dignity.
+<en>The principal effortlessly weaved her words together. No one interrupted her pleasant speech.
 <es>
 
 @947
-<en>{Principal}\n"All right.\nI am not going to find who is the person you all are trying to protect."
+<en>{Principal}\n"Very well. I will not try to discover the identity of the student you are all trying to protect."
 <es>
 
 @953
-<en>{Teacher Yagami}\n"Are you sure?"
+<en>{Yagami}\n"Are you sure?"
 <es>
 
 @954
-<en>{Mei}\n"But......"
+<en>{Mei}\n"Principal, but then......"
 <es>
 
 @955
-<en>Everyone in this room was stunned by her generous decision.
+<en>Everyone in the room was stunned by her generous decision.
 <es>
 
 @956
@@ -1337,71 +1337,71 @@
 <es>
 
 @961
-<en>{Principal}\n"Yes, I am. I am impressed with your friendship."
+<en>{Principal}\n"Yes, I am. I am impressed by your strong display of loyalty and friendship."
 <es>
 
 @969
-<en>{Appo-}\n"You are much better than who I thought you are."
+<en>{Appo}\n"You're a much kinder old lady than I thought you were! As expected from one I called my bride."
 <es>
 
 @972
-<en>{Pierre}\n"It's too good to be true."
+<en>{Pierre}\n"There was a time when you said that, wasn't there. But this is too good to be true."
 <es>
 
 @973
-<en>{Daigo}\n"Isn't there something behind this decision?"
+<en>{Daigo}\n"Is there some kind of catch?"
 <es>
 
 @974
-<en>Everyone start getting worried,\nbecause of it was such a generous decision.
+<en>Everyone was starting to get worried because it was such a generous outcome.
 <es>
 
 @980
-<en>{Principal}\n"But one question still remains."
+<en>{Principal}\n"However, one problem still remains."
 <es>
 
 @981
-<en>I knew there was going to be something more.
+<en>I knew there was going to be something to offset this.
 <es>
 
 @982
-<en>{Kazushi}\n"What question?"
+<en>{Kazushi}\n"What problem is that?"
 <es>
 
 @983
-<en>{Principal}\n"We can no longer use same questions for the finals."
+<en>{Principal}\n"We can no longer use the original questions from the exams. We can not risk using questions which may have been leaked."
 <es>
 
 @988
-<en>{Mei}\n"You want us to re-make new test questions from now on......?"
+<en>{Mei}\n"But the time it would take to make a new set of tests..."
 <es>
 
 @989
-<en>{Principal}\n"That's impossible.\nThere is too little of time till the finals."
+<en>{Principal}\n"That's impossible. However, we cannot eliminate the possibility that those here had a chance to browse the test questions."
 <es>
 
 @990
-<en>{Principal}\n"We don't have questions we can use."
+<en>{Principal}\n"We can not allow them to take the tests as is."
 <es>
 
 @994
-<en>{Teacher Yagami}\n"What should we do?"
+<en>{Yagami}\n"Then what do we do?"
 <es>
 
 @995
-<en>{Principal}\n"For those who is being suspecious for this matter will be tested in another way."
+<en>{Principal}\n"For those who are under suspicion, the final exams will be presented in an alternative manner."
 <es>
 
 @1000
-<en>{Ran}\n"Which means we don't have to take finals?\nYes!"
+<en>{Ran}\n"Does that mean we won't have to take any finals? Yahoo!"
 <es>
 
 @1005
-<en>{Hu-sen}\n"What another way?"
+<en>{Fuusen}\n"What do you mean by "alternative manner?"
 <es>
 
 @1010
-<en>{Principal}\n"You will find out."
+<en>{Principal}\n"It will be very simple. I'm certain that everyone here who holds such a kind and thoughtful heart will have no difficulty clearing it."
 <es>
 
 @1011
@@ -1413,107 +1413,107 @@
 <es>
 
 @1017
-<en>We came back to our dorm and took a bath.
+<en>After excusing ourselves, we all went and reported to Andou, then took a bath, and finally made it home.
 <es>
 
 @1024
-<en>{Pierre}\n"What do you guys think we will be doing in stead of taking finals?"
+<en>{Pierre}\n"What do you guys think we'll have to do instead of taking our final exams?"
 <es>
 
 @1025
-<en>{Appo-}\n"I'm tired. I don't wanna think anymore."
+<en>{Appo}\n"Who cares? I'm too tired to want to think anymore."
 <es>
 
 @1026
-<en>{Daigo}\n"Are you sleeping in Hu-sen's room tonight?"
+<en>{Daigo}\n"Aren't you staying in Fuusen's room?"
 <es>
 
 @1027
-<en>{Appo-}\n"Not tonight."
+<en>{Appo}\n"Nah, not tonight. I'd be in the way."
 <es>
 
 @1028
-<en>{Kazushi}\n"You better not."
+<en>{Kazushi}\n"Yeah, you would."
 <es>
 
 @1029
-<en>I'm sure two girl got a lot to catch up with each other.
+<en>I'm sure they both had a lot to catch up on with each other.
 <es>
 
 @1032
-<en>{Pierre}\n"Should we be catching up, too?"
+<en>{Pierre}\n"Should we do some catching up as well?"
 <es>
 
 @1033
-<en>{Appo-}\n"I told you I'm sleepy."
+<en>{Appo}\n"I told you, I'm tired."
 <es>
 
 @1036
-<en>{Pierre}\n"Come on, let's talk."
+<en>{Pierre}\n"So unsociable."
 <es>
 
 @1037
-<en>{Kazushi}\n"Leave him alone.\nHe's probably missing Hu-sen crazy."
+<en>{Kazushi}\n"Leave him alone. He's probably missing Fuusen something awful."
 <es>
 
 @1038
-<en>{Appo-}\n"Shut up."
+<en>{Appo}\n"Shut up."
 <es>
 
 @1041
-<en>{Daigo}\n"I'm gonna go to cafeteria. I got hungry."
+<en>{Daigo}\n"I'm hungry. Anyone else wanna go to the cafeteria with me?"
 <es>
 
 @1044
-<en>{Pierre}\n"I'm going with you.\nHow about you, Kazushi?"
+<en>{Pierre}\n"I'll go as well.\nHow about you, Kazushi?"
 <es>
 
 @1045
-<en>{Kazushi}\n"I'm going with you guys.\nAppo-, you come with us."
+<en>{Kazushi}\n"I'm going with you guys.\nAppo, you come with us."
 <es>
 
 @1046
-<en>{Appo-}\n"I'm sleepy."
+<en>{Appo}\n"I'm sleepy."
 <es>
 
 @1047
-<en>{Pierre}\n"We are not asking."
+<en>{Pierre}\n"That's an order, soldier. Spend time with the guys too."
 <es>
 
 @1048
-<en>{Kazushi}\n"Daigo, you got it."
+<en>{Kazushi}\n"Daigo, apprehend him."
 <es>
 
 @1051
-<en>Daigo picks Appo- up and put him on his shoulder.
+<en>Daigo scooped Appo out of bed and threw him over his shoulder.
 <es>
 
 @1052
-<en>{Appo-}\n"You guys don't need me now."
+<en>{Appo}\n"What's with you guys? Can't you do anything without me?! Come on and let me go!"
 <es>
 
 @1053
-<en>{Kazushi}\n"Come on, we missed you."
+<en>{Kazushi}\n"Come on, we've missed you."
 <es>
 
 @1056
-<en>{Appo-}\n"Just tonight guys."
+<en>{Appo}\n"Just this once, OK guys?"
 <es>
 
 @1059
-<en>We heard joyful sound from girls' dorm as well.\nIt's been a while we had a night like this.
+<en>We heard joyful sounds from the girls' dorm as well. It had been a while since we had such an exciting night.
 <es>
 
 @1069
-<en>{Rei}\n"Hey Daigo!\nDo your part!"
+<en>{Andou}\n"Hey, Kudou-kun! You're on duty! Make sure you erase the blackboard!"
 <es>
 
 @1074
-<en>{Daigo}\n"All right. All right."
+<en>{Daigo}\n"I was just about to do it."
 <es>
 
 @1075
-<en>{Rei}\n"I hope you won't get laid off!"
+<en>{Andou}\n"Sheesh. You're such a blockhead. That's why you'll get laid off."
 <es>
 
 @1078
@@ -1521,11 +1521,11 @@
 <es>
 
 @1079
-<en>Rei got her energy back lately.
+<en>Andou had recovered her energy lately.
 <es>
 
 @1082
-<en>{Rei}\n"Here, let's finish it up."
+<en>{Andou}\n"Sheesh, I'll help, so hurry up."
 <es>
 
 @1085
@@ -1533,7 +1533,7 @@
 <es>
 
 @1088
-<en>{Rei}\n"Hurry!"
+<en>{Andou}\n"Move it!"
 <es>
 
 @1091
@@ -1541,31 +1541,31 @@
 <es>
 
 @1092
-<en>She got nicer than before.\nJust a little bit maybe.
+<en>She's become nicer than before.\nJust a little bit...\nMaybe.
 <es>
 
 @1099
-<en>{Pierre}\n"Look at Daigo being shy."
+<en>{Pierre}\n"Look at Daigo blush from her being nice."
 <es>
 
 @1100
-<en>{Appo-}\n"Those two might make a good couple."
+<en>{Appo}\n"Those two might make a good couple."
 <es>
 
 @1105
-<en>{Rei}\n"Do it right!"
+<en>{Andou}\n"Come on! Wipe it right!"
 <es>
 
 @1110
-<en>{Daigo}\n"You don't have to yell at me......"
+<en>{Daigo}\n"You don't have to yell at me......Heh-heh."
 <es>
 
 @1111
-<en>He seems to enjoy being yelled at.
+<en>He was chuckling as she yelled at him. I guess she was hitting his masochistic side.
 <es>
 
 @1116
-<en>{Pierre}\n"I'm gonna go find a girl to myself."
+<en>{Pierre}\n"Well, they can enjoy each other. I'm gonna go pick up some chick!"
 <es>
 
 @1117
@@ -1573,43 +1573,43 @@
 <es>
 
 @1120
-<en>{Pierre}\n"Right now."
+<en>{Pierre}\n"I suddenly felt like it, yeah."
 <es>
 
 @1125
-<en>{Appo-}\n"Can I go too......?"
+<en>{Appo}\n"Can I come too?"
 <es>
 
 @1130
-<en>{Hu-sen}\n"Where are you going honey?"
+<en>{Fuusen}\n"Where are you going, Ah-chan?"
 <es>
 
 @1131
-<en>What a timing.
+<en>What perfect timing.
 <es>
 
 @1136
-<en>{Appo-}\n"I'm not going anywhere."
+<en>{Appo}\n"I'm not going anywhere."
 <es>
 
 @1137
-<en>{Hu-sen}\n"Yeah?\nCan we read together?"
+<en>{Fuusen}\n"Really? Then let's read the Kaisha Shikiho together."
 <es>
 
 @1140
-<en>{Appo-}\n"Sure."
+<en>{Appo}\n"Sure."
 <es>
 
 @1143
-<en>Appo- was dragged to somewhere by Hu-sen.
+<en>Appo was subsequently dragged off somewhere by Fuusen.
 <es>
 
 @1144
-<en>{Kazushi}\n"It seems like you get busy when you make a gurlfriend."
+<en>{Kazushi}\n"It seems like you sure get busy when you find a girlfriend."
 <es>
 
 @1147
-<en>{Pierre}\n"I don't care!\nI still wanna girlfriend!"
+<en>{Pierre}\n"I don't care! I still want one! I want the comfort you can't get from a whore!"
 <es>
 
 @1148
@@ -1617,7 +1617,7 @@
 <es>
 
 @1151
-<en>{Pierre}\n"Let's go get some girls, Kazushi!"
+<en>{Pierre}\n"Let's go pick up chicks, Kazushi!"
 <es>
 
 @1152
@@ -1637,11 +1637,11 @@
 <es>
 
 @1171
-<en>{Pierre}\n"Opps."
+<en>{Pierre}\n"Oh, you're right."
 <es>
 
 @1172
-<en>Two girls seem to be busy chatting.
+<en>The two girls were busy chatting to each other.
 <es>
 
 @1173
@@ -1649,19 +1649,19 @@
 <es>
 
 @1174
-<en>{Kazushi}\n"You mean we hit on them?"
+<en>{Kazushi}\n"You mean "Should we hit on them?" Is that really picking up chicks?"
 <es>
 
 @1175
-<en>{Pierre}\n"It will be a good practice for you."
+<en>{Pierre}\n"You're not used it yet, right? Think of it as practice. You've got to take baby steps."
 <es>
 
 @1176
-<en>{Kazushi}\n"I see.\nIt's easier when you know them."
+<en>{Kazushi}\n"Ahh, I see.\nIt's easier when you already know them."
 <es>
 
 @1177
-<en>I'm not sure if this would be a good practice, though.
+<en>I'm not sure if this'll really make good practice, though.
 <es>
 
 @1178
@@ -1669,7 +1669,7 @@
 <es>
 
 @1181
-<en>{Pierre}\n"You can do it Kazushi."
+<en>{Pierre}\n"You can do it, Kazushi! I've got your back."
 <es>
 
 @1183
@@ -1677,27 +1677,27 @@
 <es>
 
 @1188
-<en>{Mizuki}\n"I see you later, Haruka."
+<en>{Mizuki}\n"I'll see you later, Haruka!"
 <es>
 
 @1191
-<en>{Haruka}\n"See you-!"
+<en>{Haruka}\n"See ya!"
 <es>
 
 @1199
-<en>{Kazushi}\n"Hey......?"
+<en>{Kazushi}\n"Hey..."
 <es>
 
 @1200
-<en>Just when I made up my mind, they are done talking.
+<en>Just when I made up my mind to approach them, they finished talking.
 <es>
 
 @1201
-<en>{Kazushi}\n"They left before I got there."
+<en>{Kazushi}\n"No good. I failed."
 <es>
 
 @1204
-<en>{Pierre}\n"Don't give up!\nChase them!"
+<en>{Pierre}\n"Idiot! Don't give up! Go after them! Just go after them!"
 <es>
 
 @1205
@@ -1705,7 +1705,7 @@
 <es>
 
 @1207
-<en>He's right. \nI give up things too easily.
+<en>He's right. I give up on things too easily.
 <es>
 
 @1208
@@ -1713,30 +1713,30 @@
 <es>
 
 @1216
-<en>{Kazushi}\n"I'm going to chase Haruka!"
+<en>{Kazushi}\n"Alright! Haruka!"
 <es>
 
 @1219
-<en>{Kazushi}\n"I'm going to chase Mizuki!"
+<en>{Kazushi}\n"Alright! Mizuki!"
 <es>
 
 @1222
-<en>{Kazushi}\n"I'm going to chase someone else!"
+<en>{Kazushi}\n"Alright! Someone else!"
 <es>
 
 @1223
-<en>{Kazushi}\n"......someone else!?"
+<en>{Kazushi}\n"...wait, who else is there?!"
 <es>
 
 @1226
-<en>{Pierre}\n"Go! Hurry!!"
+<en>{Pierre}\n"Just hurry up and go! It doesn't matter, just go after one of them!"
 <es>
 
 @1227
-<en>{Kazushi}\n"......all right!"
+<en>{Kazushi}\n"Uh, umm...then I'm off!"
 <es>
 
 @1229
-<en>Where am I going?
+<en>I dashed off. Where am I even going?
 <es>
 

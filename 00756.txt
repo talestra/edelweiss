@@ -9,11 +9,11 @@
 <es>{Mei}\n"Claro. ¿El qué?"
 
 @14
-<en>{Kazushi}\n"Is there anything you want now?"
+<en>{Kazushi}\n"Is there anything you want?"
 <es>{Kazushi}\n"¿Hay alguna cosa que quieras ahora?"
 
 @17
-<en>{Mei}\n"Nothing particulary"
+<en>{Mei}\n"Nothing particularly."
 <es>{Mei}\n"Nada en particular."
 
 @18
@@ -25,19 +25,19 @@
 <es>{Kazushi}\n"¿Nada?"
 
 @20
-<en>{Mei}\n"Why are you asking me this?"
+<en>{Mei}\n"I can't think of anything, but why are you asking me this?"
 <es>{Mei}\n"¿Por qué me lo preguntas?"
 
 @21
-<en>I was hoping she would give us good ideas.
+<en>I wasn't expecting that. That answer wouldn't help us at all.
 <es>Esperaba que nos pudiese dar alguna buena idea.
 
 @22
-<en>{Kazushi}\n"Nothing? Brand bags or jewerlys?"
+<en>{Kazushi}\n"Nothing? Not designer bags or jewellery or anything?"
 <es>
 
 @25
-<en>{Mei}\n"I'm not into those stuff."
+<en>{Mei}\n"I'm not into that kind of stuff."
 <es>{Mei}\n"No me van esas cosas."
 
 @26
@@ -47,7 +47,7 @@
 @29
 # Soy una firme creyente de que las cosas materiales nunca satisfacen el corazón.
 # Creo firmemente en que las cosas materiales no pueden satisfacer el corazón.
-<en>{Mei}\n"I'm a big believer that material stuff never satisfy your heart."
+<en>{Mei}\n"I'm a big believer in the philosophy that material goods will never satisfy your heart."
 <es>{Mei}\n"Creo firmemente en que las cosas materiales no pueden satisfacer el corazón."
 
 @30
@@ -55,23 +55,23 @@
 <es>{Kazushi}\n"Está bien..."
 
 @31
-<en>She could be a nun.
+<en>What a selfless person. Maybe she's some kind of goddess?
 <es>Podría hacerse monja.
 
 @32
-<en>Opps, I'm here to get some good ideas.
+<en>Oops. I'm here to get some ideas for our gift.
 <es>Ups. Estoy aquí para conseguir alguna buena idea.
 
 @33
-<en>{Kazushi}\n"It doesn't have to be materials, it could be spiritual, too."
+<en>{Kazushi}\n"It doesn't have to be a material good. It could be spiritual as well."
 <es>{Kazushi}\n"No tiene por qué ser algo material. Puede ser también algo espiritual."
 
 @36
-<en>{Mei}\n"Let's see......"
+<en>{Mei}\n"Let's see. If I had to say..."
 <es>{Mei}\n"Veamos..."
 
 @37
-<en>{Kazushi}\n"Anything?"
+<en>{Kazushi}\n"If you had to say?"
 <es>{Kazushi}\n"¿Alguna cosa?"
 
 @38
@@ -79,7 +79,7 @@
 <es>{Mei}\n"..."
 
 @41
-<en>{Mei}\n"......I'm sorry. It's not something you can receive from somebody."
+<en>{Mei}\n"No, I can't think of anything. At least not something you can receive from anybody."
 <es>{Mei}\n"Lo siento... No es algo que pueda recibirse de alguien."
 
 @42
@@ -87,15 +87,15 @@
 <es>{Kazushi}\n"¿A qué te refieres con eso?"
 
 @43
-<en>{Mei}\n"No, nothing. I'm sorry I could only give you boring answers."
+<en>{Mei}\n"No, it's nothing. I'm sorry I'm just a boring woman."
 <es>{Mei}\n"No, nada. Siento no poder darte otra cosa que respuestas aburridas."
 
 @44
-<en>{Kazushi}\n"......no. I think you're terrific."
+<en>{Kazushi}\n"No, that's not true at all. Sensei, I think you're terrific."
 <es>{Kazushi}\n"No... Creo que eres estupenda."
 
 @47
-<en>{Mei}\n"Thanks,\nyou're terrific, too."
+<en>{Mei}\n"Oh, why thank you. You're terrific too, Haruma-kun."
 <es>{Mei}\n"Gracias,\nyo también creo que tu eres estupendo."
 
 @48
@@ -103,15 +103,15 @@
 <es>{Kazushi}\n"Gracias..."
 
 @49
-<en>Oh no, I can feel my face is turning all red.
+<en>Oh, no. I could feel my face turning red.
 <es>Oh, no. Creo que me he puesto rojo como un tomate.
 
 @50
-<en>I think she's truly a good person.
+<en>Mei-sensei really is a nice, mature, kind, and understanding person.
 <es>De verdad pienso que es una buena persona.
 
 @51
-<en>I wonder what she meant earlier.
+<en>But I wonder what she was about to say earlier? She looked like there was something she wanted.
 <es>Me pregunto a qué se refería con lo de antes.
 
 @54
@@ -119,23 +119,23 @@
 <es>{Mei}\n"¿Por qué me preguntas eso?\n¿Ibas a hacerme un regalo?"
 
 @55
-<en>{Kazushi}\n"I'm going to use it as a reference."
+<en>{Kazushi}\n"Oh, no, I was going to use it as reference."
 <es>{Kazushi}\n"Voy a usarlo como referencia."
 
 @58
-<en>{Mei}\n"You made a girlfriend?"
+<en>{Mei}\n"Oh, have you found a girl you like? Look at you."
 <es>{Mei}\n"¿Te has echado novia?"
 
 @59
-<en>{Kazushi}\n"No! it's nothing like that."
+<en>{Kazushi}\n"No! It's nothing like that."
 <es>{Kazushi}\n"¡No! No es eso."
 
 @62
-<en>{Mei}\n"I tell you what, it's not what you get that makes you happy."
+<en>{Mei}\n"Oh, it's not? Well, if you're trying to give someone a present, it's not the present that matters."
 <es>{Mei}\n"Te diré una cosa: No es lo que recibes lo que te hace feliz."
 
 @65
-<en>{Mei}\n"It's who you get it from."
+<en>{Mei}\n"So long as you put your heart into choosing it, I think they'll be happy with anything."
 <es>{Mei}\n"Sino quién es quien te lo da."
 
 @66
@@ -143,7 +143,7 @@
 <es>{Kazushi}\n"Ya veo."
 
 @67
-<en>Only a good person like her would think that way.
+<en>I'm sure that's something only Mei-sensei would think, while most others would never be so humble.
 <es>Solo una buena persona como ella podría pensar así.
 
 @68
@@ -151,6 +151,6 @@
 <es>Es realmente una buena persna.
 
 @69
-<en>......although, she didn't give me any good ideas.
+<en>...Although it didn't give me any good ideas.
 <es>Aunque no me ha dado ninguna buena idea.
 

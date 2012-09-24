@@ -1,35 +1,35 @@
 # Comments for '00726'
 
 @10
-<en>It's so hard to talk to her.
+<en>Hinata-san, huh? It's so hard to talk to her.
 <es>Es tan difícil hablar con ella.
 
 @11
-<en>{Kazushi}\n"Hi, Mizuki,"
+<en>{Kazushi}\n"Umm, Hinata-san?"
 <es>{Kazushi}\n"Hola, Mizuki,"
 
 @14
-<en>{Mizuki}\n"......!?"
+<en>{Mizuki}\n"H-huh?!"
 <es>{Mizuki}\n"¿¡...!?"
 
 @15
-<en>I wonder why she has to get so surprised just by talking to me.
+<en>Hinata-san's eyes spun in surprise when I talked to her. She didn't need to be THAT shocked.
 <es>Me pregunto por qué se sorprende tanto por el mero hecho de hablarle.
 
 @16
-<en>{Kazushi}\n"Can I ask you a question?"
+<en>{Kazushi}\n"Do you mind? I'd like to ask you a question?"
 <es>{Kazushi}\n"¿Puedo preguntarte algo?"
 
 @19
-<en>{Mizuki}\n"What do you want......?"
+<en>{Mizuki}\n"What do you want?"
 <es>{Mizuki}\n"¿Qué es lo que quieres...?"
 
 @20
-<en>She seems so annoyed. Maybe she's still upset from me calling her lesbian.
+<en>She seemed really upset at me. Oh yeah, I should apologize for calling her a lesbian.
 <es>Parece molesta. Quizá aún esté enfadada conmigo por llamarla lesbiana.
 
 @21
-<en>{Kazushi}\n"I'm sorry if I offended you earlier......"
+<en>{Kazushi}\n"But before I do... I'm sorry about earlier..."
 <es>{Kazushi}\n"Siento si te he ofendido antes..."
 
 @24
@@ -37,11 +37,11 @@
 <es>{Mizuki}\n"¿Antes?"
 
 @25
-<en>{Kazushi}\n"That I said you like girls."
+<en>{Kazushi}\n"You know, about saying you liked girls."
 <es>{Kazushi}\n"Cuando dije lo de que te gustaban las chicas."
 
 @26
-<en>Now she's upset about it.
+<en>Hinata-san scowled again.
 <es>Ahora está enfadada por eso.
 
 @29
@@ -49,19 +49,19 @@
 <es>{Mizuki}\n"No soy lesbiana."
 
 @30
-<en>{Kazushi}\n"I know. I know."
+<en>{Kazushi}\n"I know. I'm really sorry."
 <es>{Kazushi}\n"Ya lo sé. Lo sé."
 
 @31
-<en>{Mizuki}\n"Don't you ever say that again to me."
+<en>{Mizuki}\n"So long as you understand. Now don't ever say that again."
 <es>{Mizuki}\n"No me vuelvas a llamar así."
 
 @32
-<en>{Kazushi}\n"Ofcourse not! You like boys!"
+<en>{Kazushi}\n"Oh, of course not! Hinata-san likes boys! Good job!"
 <es>{Kazushi}\n"¡Claro que no! ¡Te gustan los chicos!"
 
 @35
-<en>{Mizuki}\n"Just leave me alone."
+<en>{Mizuki}\n"I don't think that's a good way to put it, either. Look, you don't have to celebrate it, so just leave me alone."
 <es>{Mizuki}\n"Déjame tranquila."
 
 @36
@@ -69,7 +69,7 @@
 <es>{Kazushi}\n"Lo siento..."
 
 @37
-<en>Now she seems really annoyed of me.
+<en>Now she seemed really annoyed at me.
 <es>Ahora parece realmente enfadada conmigo.
 
 @38
@@ -77,11 +77,11 @@
 <es>{Mizuki}\n"¿Era eso lo que querías?\nTengo que irme."
 
 @39
-<en>{Kazushi}\n"Wait, wait!\nI wanted to ask you if you want something?"
+<en>{Kazushi}\n"Wait a second!\nI haven't asked it yet. I wanted to ask you if there was anything you wanted?"
 <es>{Kazushi}\n"¡Espera, espera!\nQuería preguntarte si querías algo."
 
 @42
-<en>{Mizuki}\n"Do I want something? why?"
+<en>{Mizuki}\n"Anything I wanted? Why?"
 <es>{Mizuki}\n"¿Que si quería algo? ¿Por qué?"
 
 @43
@@ -97,7 +97,7 @@
 <es>{Kazushi}\n"Ponerte enferma..."
 
 @48
-<en>I knew she didn't like me.
+<en>I didn't know I made her sick. No wonder she always looked at me with such disgust.
 <es>Sabía que no le gustaba.
 
 @49
@@ -109,6 +109,6 @@
 <es>{Mizuki}\n"¿Por qué estás tan decepcionado?"
 
 @53
-<en>{Kazushi}\n"No., nothing. Sorry to bother you."
+<en>{Kazushi}\n"It's nothing. Sorry to bother you."
 <es>{Kazushi}\n"No, nada. Siento haberte molestado."
 

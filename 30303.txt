@@ -1,19 +1,19 @@
 # Comments for '30303'
 
 @7
-<en>A sturdy key broke off.
+<en>A sturdy lock came undone with a click.
 <es>
 
 @10
-<en>{Ran}\n"No one is here?"
+<en>{Ran}\n"No one's here, right?"
 <es>
 
 @11
-<en>Ran quickly looks both sides and opens the door.
+<en>Ran glanced left and right before quickly opening the door.
 <es>
 
 @12
-<en>{Ran}\n"Let's go."
+<en>{Ran}\n"Come on, let's go."
 <es>
 
 @13
@@ -21,7 +21,7 @@
 <es>
 
 @18
-<en>Being in the laboratory on the weekend feels a bit strange.
+<en>It felt strange being in the laboratory during our break.
 <es>
 
 @21
@@ -29,95 +29,95 @@
 <es>
 
 @23
-<en>Ran puts down her stuff and exhales slowly.
+<en>Ran put down her stuff and exhaled slowly.
 <es>
 
 @24
-<en>{Kazushi}\n"I guess so. Why do we have to sneak in here? Don't we get permission to use this room?"
+<en>{Kazushi}\n"I don't think anyone saw us. But why did we have to sneak in here? You have permission to use this room, right?"
 <es>
 
 @27
-<en>{Ran}\n"No, we don't. They said no"
+<en>{Ran}\n"Didn't work out."
 <es>
 
 @28
-<en>{Kazushi}\n"What? No? Why not?"
+<en>{Kazushi}\n"What? It didn't? Why not?"
 <es>
 
 @29
-<en>We are just trying to do homework here. It's very strange for them not to allow us to use the room.
+<en>We were just trying to do our homework. Why wouldn't they give us permission?
 <es>
 
 @32
-<en>{Ran}\n"They were worried so much that Ms. Ibuki even wanted to help us do the experiment. I guess they don't trust us much."
+<en>{Ran}\n"They were worried about us doing it alone and Mei-chan said she was going to supervise us. We ARE the failure combo."
 <es>
 
 @33
-<en>{Kazushi}\n"Ms. Ibuki wanted to help us? Why not?"
+<en>{Kazushi}\n"Okay... What's wrong with that?"
 <es>
 
 @34
-<en>Her help would be great. It would be a lot better than doing everything by ourselves.
+<en>I was uneasy doing it by ourselves, but if Mei-sensei was going to help us, then what more could we ask for?
 <es>
 
 @37
-<en>{Ran}\n"What are you talking about? We cannot show it to Ms. Ibuki!"
+<en>{Ran}\n"What are you saying? We can't let Mei-chan see what we're about to do, can we?"
 <es>
 
 @38
-<en>{Kazushi}\n"What is it?"
+<en>{Kazushi}\n"Huh? What are we about to do?"
 <es>
 
 @39
-<en>Are you going to do something we cannot show to Ms. Ibuki?
+<en>What are you planning that you can't show sensei?
 <es>
 
 @42
-<en>{Ran}\n"Yes. That's why I stole the lab key. If they catch me, you and I - both of us - are gonna be in trouble, okay?"
+<en>{Ran}\n"Well, that's how it is, so I stole the key to this room today. If they catch us, you're my accomplice, so have fun!"
 <es>
 
 @43
-<en>{Kazushi}\n"What?!"
+<en>{Kazushi}\n"Hey?!"
 <es>
 
 @44
-<en>This is getting out of hand. It sounds more than just doing homework.
+<en>I was planning to do our summer homework like good students, but there were dangerous clouds on the horizon.
 <es>
 
 @47
-<en>{Ran}\n"Don't be scared. You got the balls, right? Take your stuff down there, will you?"
+<en>{Ran}\n"What are you afraid of? You've got a pair, don't you? We'll be fine. Oh, set our stuff down over there."
 <es>
 
 @48
-<en>She is right. It is too late to complain now. I lay down the stuff we bought at Mr.Miya's store.
+<en>True, it was too late to complain now. I set our hug bag of stuff we just bought at Miya-san's store down to the side.
 <es>
 
 @49
-<en>{Ran}\n"This place is going to be our home for a while."
+<en>{Ran}\n"Starting today, this is going to be our home for a while. Let's work together."
 <es>
 
 @51
-<en>{Kazushi}\n"Can we really do this without permission? Besides, you and me will be sleeping in the same room..., right?"
+<en>{Kazushi}\n"Do you really think we can sleep over and perform experiments without permission? Besides, think about it, it may be our homework, but we're talking about a guy and a girl sharing the same room by themselves."
 <es>
 
 @53
-<en>Just a thought turns me on.
+<en>It was gonna be on my mind the whole time.
 <es>
 
 @54
-<en>{Ran}\n"What are you talking about now? We have already gone all the way in our relationship. Sleeping together is not a big deal any more."
+<en>{Ran}\n"What are you saying now? We've already gone and done it, so what does it matter if we sleep together?"
 <es>
 
 @55
-<en>{Kazushi}\n"Yeah...you're right."
+<en>{Kazushi}\n"Yeah... You're right."
 <es>
 
 @56
-<en>She is so down-to-earth. I wonder all the women become like that after sex? Don't they want be in a little more romantic mood or something?
+<en>She was so candid. Are all women like that after you fuck them for the first time? I thought there'd be more mood and romance...
 <es>
 
 @59
-<en>{Ran}\n"We got to be careful not to be caught."
+<en>{Ran}\n"Well, now we just need to try not to get caught."
 <es>
 
 @60
@@ -125,27 +125,27 @@
 <es>
 
 @61
-<en>A lot of problems have happened to me. So I really have a funny feeling about this.
+<en>I'd already caused a lot of problems before, so I might really be in trouble if there's more.
 <es>
 
 @62
-<en>{Ran}\n"We are fine. No one comes here during the break. In this studio, we have everything we need to get by every day."
+<en>{Ran}\n"Well, we'll be fine. No one's coming here during break. This is a studio too, so we have everything we need to get by."
 <es>
 
 @63
-<en>{Kazushi}\n"All we have to is just to do it."
+<en>{Kazushi}\n"Well, we've come this far. We just have to do it."
 <es>
 
 @64
-<en>{Ran}\n"That's right. Let's give it a shot."
+<en>{Ran}\n"You got it. Okay, we'll be together for a while."
 <es>
 
 @65
-<en>Our life in the lab has just started.
+<en>And so we began living together.
 <es>
 
 @69
-<en>We sorted things out until afternoon. We set fire on a quite big furnace equipped in the room.
+<en>By the time we were done sorting our luggage and lit the fire, it was already noon. We were using the big furnace built into the room, not the burners we used in class.
 <es>
 
 @70
@@ -153,47 +153,47 @@
 <es>
 
 @73
-<en>{Ran}\n"Of course, it is. You got to make it look good first. "If you build it, they will come."You know?"
+<en>{Ran}\n"Of course, it is. You got to make it look good first. 'If you build it, they will come.' You know?"
 <es>
 
 @74
-<en>{Kazushi}\n"Looks come first, right? I remember when I first tried to do snowboarding, what I first did was I bought the whole set of snowboarding items."
+<en>{Kazushi}\n"Looks come first, right? I remember when I first tried to do snowboarding, I bought the whole set of snowboarding gear."
 <es>
 
 @75
-<en>{Kazushi}\n"But I only used them once. That's it. I regretted so much."
+<en>{Kazushi}\n"But I regretted it since I only used it once."
 <es>
 
 @78
-<en>{Ran}\n"Haha. A bad example. Let me guess. You tried to express the girls with it, but it didn't work. Then you quit, right?"
+<en>{Ran}\n"Ahaha, that's a bad example. You tried to pick up chicks with it, but couldn't reel any in so you quit, right?"
 <es>
 
 @79
-<en>{Kazushi}\n"How do you know that? You saw it?"
+<en>{Kazushi}\n"How do you know?! Were you watching me?!"
 <es>
 
 @81
-<en>I went snowboarding last winter with other guys, which was a disaster. I accidentally stopped a ski lift because I fell off from the chair.
+<en>I went last year with Appo and the others, but it was a disaster. I was so embarrassed when I fell down trying to get on the lift, stopping the whole, packed thing.
 <es>
 
 @82
-<en>Then I got stuck upon the hill because I accidentally got into the lane for the experienced only.
+<en>Then I wandered onto the expert course and couldn't get down the mountain.
 <es>
 
 @83
-<en>Also, I got lost in the mountain and got rescued later on. Some gay guy tried to make a pass at us (especially Appo). It was a total fiasco.
+<en>Halfway down, I nearly got lost and had the rescue squad come find me, some tranny tried to seduce Appo in the sauna, and nothing good happened.
 <es>
 
 @86
-<en>{Ran}\n"I know exactly what you are thinking. By the way, why don't we eat something now?"
+<en>{Ran}\n"I know exactly how you tend to act. More importantly, why don't we take this time to eat something?"
 <es>
 
 @87
-<en>{Kazushi}\n"The whole set of snowboarding items I got was damn expensive, you know?"
+<en>{Kazushi}\n"You're brushing it off, but all that kit was expensive."
 <es>
 
 @89
-<en>I realized that the slopes make all the girls look cure, but not all the boys. I learned that a hard way.
+<en>The slopes'll make any girl look cute, but I learned the hard way that it wasn't the same for guys.
 <es>
 
 @90
@@ -205,59 +205,59 @@
 <es>
 
 @92
-<en>Ran is asking me from the kitchen. There is a nice smell wafting from the room next door.
+<en>I came out of my reverie as I heard Ran from afar. She wasn't in the room anymore, but next door in the prep room. A nice smell was wafting out.
 <es>
 
 @93
-<en>{Kazushi}\n"Hmm? Are you cooking something?"
+<en>{Kazushi}\n"Huh? Are you cooking something?"
 <es>
 
 @94
-<en>There is a kitchen in the room next door. As Ran said earlier, there are facilities available for people to stay overnight .
+<en>There was a kitchen in the room next door. As Ran said earlier, there were facilities available for people to stay overnight.
 <es>
 
 @95
-<en>Ran is cooking with a fry pan in her hand.
+<en>I looked in and saw Ran shaking a frying pan as she made something.
 <es>
 
 @96
-<en>{Kazushi}\n"Can you really cook?"
+<en>{Kazushi}\n"What, you really can cook?"
 <es>
 
 @99
-<en>{Ran}\n"This is not a feast or anything. But I want you to taste something good."
+<en>{Ran}\n"You can't really call this cooking. I wanted to give you some energy though."
 <es>
 
 @100
-<en>Impressive! I didn't' know Ran is such a domestic person.
+<en>What an admirable statement. I didn't know Ran even had a domestic side to her.
 <es>
 
 @101
-<en>{Kazushi}\n"It's a nice looking view."
+<en>{Kazushi}\n"It's a nice looking view, too..."
 <es>
 
 @102
-<en>This is what they call "an image gap". She looks damn cute n the kitchen holding a pan.
+<en>Is this what they call "an image gap?" She looked damn cute holding a pan in the kitchen.
 <es>
 
 @103
-<en>What if I hug her now?
+<en>What if I hugged her now?
 <es>
 
 @107
-<en>{Ran}\n"Ahh. Not now. Later..."
+<en>{Ran}\n"Ohh, be careful. You're so impatient!"
 <es>
 
 @109
-<en>I wonder if she says sweat things like that...
+<en>I wonder if she'd say sweet things like that?
 <es>
 
 @112
-<en>{Ran}\n"He looks absent-minded. Now is the time to put this in."
+<en>{Ran}\n"He's spacing out. Now's my chance!"
 <es>
 
 @113
-<en>Ran puts something in.
+<en>Shake, shake!
 <es>
 
 @114
@@ -265,19 +265,19 @@
 <es>
 
 @115
-<en>I just saw Ran doing something odd.
+<en>I just saw Ran doing something suspicious.
 <es>
 
 @116
-<en>{Kazushi}\n"Hey, did you just put something in there?"
+<en>{Kazushi}\n"Hey, did you just sneak something in there?"
 <es>
 
 @119
-<en>{Ran}\n"What? No. Look, you are gonna become supper strong when you eat this."
+<en>{Ran}\n"What? No. Look, you're gonna become super strong when you eat this."
 <es>
 
 @120
-<en>{Kazushi}\n"Oh, yeah! I can't wait for your homemade dishes!"
+<en>{Kazushi}\n"Oh, yeah! I can't wait for your homemade food!"
 <es>
 
 @121
@@ -289,11 +289,11 @@
 <es>
 
 @123
-<en>This invites my appetite for sure. It must have been a special favor she just put in. I bet it tastes gorgeous!
+<en>The smell was arousing my appetite. Was that her hidden flavor she put in? This looks like it'll taste good too.
 <es>
 
 @128
-<en>Nothing happened at the beginning.
+<en>In the beginning, all was well.
 <es>
 
 @129
@@ -301,23 +301,23 @@
 <es>
 
 @132
-<en>{Ran}\n"Good! Eat more, Kazushi."
+<en>{Ran}\n"Good, good! Eat more, Kazushi."
 <es>
 
 @133
-<en>{Kazushi}\n"All right! I will take some more then!"
+<en>{Kazushi}\n"All right! More please!"
 <es>
 
 @134
-<en>Ran's home cooking tastes just great. It's unique and homely.
+<en>Ran's home cooking tasted just great. It was unique and homely.
 <es>
 
 @135
-<en>{Kazushi}\n"I know people sometimes say "Alchemy is like cooking."
+<en>{Kazushi}\n"Oh yeah, don't people sometimes say 'Alchemy is like cooking'?"
 <es>
 
 @138
-<en>{Ran}\n"I have heard of that."
+<en>{Ran}\n"I have heard that."
 <es>
 
 @139
@@ -325,39 +325,39 @@
 <es>
 
 @140
-<en>{Ran}\n"No, I don't think so. There is a fundamental difference between cooking and alchemy."
+<en>{Ran}\n"No, I don't think so. There's a fundamental difference between cooking and alchemy."
 <es>
 
 @141
-<en>{Kazushi}\n"Whatever. I don't even know how similar and different they are anyway."
+<en>{Kazushi}\n"Really? Well, it's not like I know whether they're similar or not."
 <es>
 
 @144
-<en>{Ran}\n"When it comes to alchemy, you are a lot better than me, Kazushi. I'm counting on you for this experiment."
+<en>{Ran}\n"When it comes to alchemy, you're a lot better than me, Kazushi. I'm counting on you for this experiment."
 <es>
 
 @145
-<en>We just enjoy the food and talking until...
+<en>We simply chatted, enjoying the food, but...
 <es>
 
 @148
-<en>...the time I begin to feel something wacky.
+<en>I wonder when I finally noticed something was strange?
 <es>
 
 @149
-<en>{Kazushi}\n"It's getting hot here..."
+<en>{Kazushi}\n"It's getting hot in here..."
 <es>
 
 @150
-<en>I feel extremely hot. My sight becomes very blurred and twisted.
+<en>By the time I noticed it, I was deadly hot. My body felt like it was on fire, and my vision was blurred.
 <es>
 
 @153
-<en>{Ran}\n"Me too. I feel also..."
+<en>{Ran}\n"Yeah. And also..."
 <es>
 
 @154
-<en>Her face is becoming red. She must be feeling hot too.
+<en>Her face was becoming red. She must have been feeling hot too.
 <es>
 
 @155
@@ -365,7 +365,7 @@
 <es>
 
 @156
-<en>Ran breathes heavily. Is she having a difficulty to breathe? At the same time, she throws her watery, glittering eyes at me. .
+<en>Ran breathed heavily. Was she having a difficulty breathing? At the same time, she turned her watery, glittering eyes to me.
 <es>
 
 @157
@@ -373,95 +373,95 @@
 <es>
 
 @160
-<en>{Ran}\n"Hmm...Yeah...Very wired...But why is this happening to me too?"
+<en>{Ran}\n"Hmm... Yeah... Very weird. Why is this happening to me too?"
 <es>
 
 @161
-<en>What is she talking about?
+<en>She said something odd.
 <es>
 
 @162
-<en>{Kazushi}\n"What did she mean by that?"
+<en>{Kazushi}\n"Me too?"
 <es>
 
 @163
-<en>She sounds like she already knew something would happen to me. No, that is not what I meant, Kazushi...
+<en>That sounded like she was planning for only me to act weird? Th-that's not true.
 <es>
 
 @164
-<en>{Kazushi}\n"Oh, no?....Hmm?"
+<en>{Kazushi}\n"No, that can't be... Hmm?"
 <es>
 
 @165
-<en>Hey, something is really wired. Yes, something is wired.
+<en>Hey, something really is weird. Yes, something is weird.
 <es>
 
 @168
-<en>{Ran}\n"What?"
+<en>{Ran}\n"Huh? Huh? Huh?"
 <es>
 
 @169
-<en>What is this? I can hear what Kazushi is thinking in his head. Wait, that's my line! I, too, can hear Ran's voice in my head...
+<en>What is this? I can hear Kazushi's thoughts in my head but Ran's thoughts are in my head...
 <es>
 
 @170
-<en>{Kazushi}\n"What the hell is this?"
+<en>{Kazushi}\n"What is this?"
 <es>
 
 @171
-<en>{Ran}\n"No idea. I just put a high-potency drug in your dish."
+<en>{Ran}\n"No idea. I just put a stimulant in your dish."
 <es>
 
 @172
-<en>{Kazushi}\n"High-potency drug?"
+<en>{Kazushi}\n"A stimulant?"
 <es>
 
 @173
-<en>No wonder I feel like burning. Why did you put that kind of stuff?
+<en>No wonder I feel like I'm burning up. Why did you put that kind of stuff in there?
 <es>
 
 @174
-<en>{Ran}\n"I just borrowed this from the school drug storage. But why is it that I have been affected as well?"
+<en>{Ran}\n"I just borrowed it from the school drug stores... But why am I affected as well?"
 <es>
 
 @175
-<en>Ran takes a look at the drug container and reads its description.
+<en>Ran took a look at the drug's container and reads its description.
 <es>
 
 @178
-<en>{Ran}\n"Oh! Shit! This also works through its smell."
+<en>{Ran}\n"Oh... this works even by smell..."
 <es>
 
 @179
-<en>{Kazushi}\n"The smell? This sweaty smell?"
+<en>{Kazushi}\n"The smell? This sweet smell?"
 <es>
 
 @180
-<en>Evidently, the smell of the drug is not only inviting appetite but also...
+<en>I thought the smell was appetizing, but I guess it was the stimulant's smell. And my appetite for food wasn't the only one it stimulated.
 <es>
 
 @181
-<en>{Ran}\n"Hmm...what is this erotic feeling I got?"
+<en>{Ran}\n"Ugh, me too... what am I going to do with this pent up lust?"
 <es>
 
 @182
-<en>{Kazushi}\n"Erotic feeling?... It sounds too graphic."
+<en>{Kazushi}\n"Lust? ...That's graphic."
 <es>
 
 @183
-<en>Ran is wiggling her private part. Oops, my dick is fuckin' big already.
+<en>You're wriggling your crotch. Hey, am I really hard already?!
 <es>
 
 @184
-<en>{Ran}\n"That's pretty graphic too, Kazushi. It makes me feel more...."
+<en>{Ran}\n"That's pretty graphic too. It makes me feel more..."
 <es>
 
 @185
-<en>Ran looks down at her legs. I see something shiny run down in the inner side of her thigh.
+<en>Ran looked down at her legs. I saw something shiny run down in the inner side of her thigh.
 <es>
 
 @186
-<en>{Kazushi}\n"What is that?"
+<en>{Kazushi}\n"Huh? What's that?"
 <es>
 
 @189
@@ -469,11 +469,11 @@
 <es>
 
 @190
-<en>{Kazushi}\n"What?! You are wet!!"
+<en>{Kazushi}\n"Huh? Really? You're that wet?!"
 <es>
 
 @191
-<en>She is so wet that her love juice is dripping down.
+<en>She was so wet it was dripping down to her knees? Her clear love juice kept flowing out.
 <es>
 
 @192
@@ -485,7 +485,7 @@
 <es>
 
 @194
-<en>With her watery eyes, Ran stares at the bulge in my crotch.
+<en>Her eyes full of tears, Ran stared at the bulge in my crotch.
 <es>
 
 @195
@@ -493,15 +493,15 @@
 <es>
 
 @196
-<en>My groin stands up high like a wood stick being inside my pants.
+<en>My crotch was going wild too. I was so hard, it looked like I'd shoved a wooden stick down my pants.
 <es>
 
 @197
-<en>I didn't' t even notice this myself until now.
+<en>I can't believe I didn't even notice until now.
 <es>
 
 @200
-<en>{Ran}\n"Kazushi, you look stuffy."
+<en>{Ran}\n"Kazushi, it looks so hard on you."
 <es>
 
 @201
@@ -509,7 +509,7 @@
 <es>
 
 @202
-<en>Both of us are like burning with fever.
+<en>Both of us were like burning with fever.
 <es>
 
 @203
@@ -517,15 +517,15 @@
 <es>
 
 @204
-<en>I press Ran on me and she buries her face into my chest.
+<en>I pressed Ran against me and she buried her face into my chest.
 <es>
 
 @207
-<en>{Ran}\n"Wait!"
+<en>{Ran}\n"H-hey, wait."
 <es>
 
 @208
-<en>What?
+<en>She hit the brakes on me.
 <es>
 
 @209
@@ -533,67 +533,67 @@
 <es>
 
 @212
-<en>{Ran}\n"How much do you have now?"
+<en>{Ran}\n"How much do you have right now?"
 <es>
 
 @213
-<en>{Kazushi}\n"Are you taking money for this?"
+<en>{Kazushi}\n"Are you charging for this?!"
 <es>
 
 @214
-<en>{Ran}\n"Of course! A hedge between keeps friendship green."
+<en>{Ran}\n"Of course! I don't care how close we are, the line has to stay drawn!"
 <es>
 
 @215
-<en>{Kazushi}\n"A hedge is money?"
+<en>{Kazushi}\n"And that line is money?!"
 <es>
 
 @216
-<en>{Ran}\n"Don't you want to do it now? If you don't, I don't care...."
+<en>{Ran}\n"Don't you want to do it now? If you don't, I don't care..."
 <es>
 
 @217
-<en>Incompatible with her words, Ran's body trembles. Her body is pretty honest.
+<en>Ran trembled in a way that was incompatible with her words. At least her body was pretty honest.
 <es>
 
 @218
-<en>{Kazushi}\n"Your body says otherwise. You wanna do it so bad, don't you?"
+<en>{Kazushi}\n"You don't care? Doesn't look that way at all. You wanna do it so bad, don't you?"
 <es>
 
 @221
-<en>{Ran}\n"That's right! Hurry up and give me some money!!"
+<en>{Ran}\n"That's right! Hurry up and give me some money! Hurry!!"
 <es>
 
 @222
-<en>She is desperately demanding money. I can no longer fight back my feeling. I want to fuck right away!!
+<en>She was desperately demanding money. I could no longer fight back against my feelings - I wanted to fuck her right away!!
 <es>
 
 @223
-<en>I got no choice. I fumble in my pockets for the wallet.
+<en>I had no choice. I fumbled in my pockets for my wallet.
 <es>
 
 @224
-<en>{Kazushi}\n"Shit! I left my wallet in my room!"
+<en>{Kazushi}\n"Shit! I forgot my wallet!"
 <es>
 
 @227
-<en>{Ran}\n"Stupid....!!"
+<en>{Ran}\n"IDIOT!!"
 <es>
 
 @228
-<en>Ran blows her top.
+<en>Ran blew her top.
 <es>
 
 @229
-<en>{Ran}\n"How could you leave your wallet in your room?! You would get yourself killed if you didn't have any money!!"
+<en>{Ran}\n"How could you forget it at such an important time?! Forgetting your wallet is like saying 'please kill me now'!"
 <es>
 
 @230
-<en>{Kazushi}\n"Getting myself killed?"
+<en>{Kazushi}\n"What are you..."
 <es>
 
 @233
-<en>{Ran}\n"Don't you have some in your pocket?"
+<en>{Ran}\n"Don't you have anything?! There's no spare change in your pockets?!"
 <es>
 
 @234
@@ -601,11 +601,11 @@
 <es>
 
 @236
-<en>I turn my pocket inside out.
+<en>I turned my pockets inside out and got dust. I took my pants off, flipped them upside down, and shook them.
 <es>
 
 @237
-<en>Something drops..
+<en>Cling...
 <es>
 
 @238
@@ -613,7 +613,7 @@
 <es>
 
 @239
-<en>{Ran}\n"Yes!? How much?"
+<en>{Ran}\n"You have some?! How much?!"
 <es>
 
 @240
@@ -621,6 +621,6 @@
 <es>
 
 @241
-<en>{Ran}\n"Fine. Put that in here now!!"
+<en>{Ran}\n"That's good enough for now! Jam it in!!"
 <es>
 

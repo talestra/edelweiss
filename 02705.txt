@@ -1,11 +1,11 @@
 # Comments for '02705'
 
 @7
-<en>{Kazushi}\n"?"
+<en>{Kazushi}\n"Huh?"
 <es>
 
 @8
-<en>One of the room's light is still on.\nI wonder who is still in there so late.\nThat room must be......
+<en>There's still a light on in one of the buildings. I wonder who would still be there so late.\nThat room must be...
 <es>
 
 @9
@@ -13,19 +13,19 @@
 <es>
 
 @10
-<en>I have a feeling the person I'm looking for is in that room.
+<en>I have a feeling that's where I'll find the person I'm looking for.
 <es>
 
 @15
-<en>{Kazushi}\n"Good evening-"
+<en>{Kazushi}\n"Good evening."
 <es>
 
 @19
-<en>{Mei}\n"Kazushi?\nWhat are you doing here so late?"
+<en>{Mei}\n"Haruma-kun? What are you doing here so late?"
 <es>
 
 @20
-<en>I knew she was here.
+<en>I knew she'd be here.
 <es>
 
 @21
@@ -33,7 +33,7 @@
 <es>
 
 @22
-<en>I realized she is in her casual clothes.\nShe must have gone back to her room once.
+<en>I realized that Mei-sensei was wearing casual clothes. She must have gone back to her room to change earlier.
 <es>
 
 @25
@@ -41,151 +41,151 @@
 <es>
 
 @26
-<en>She was reading a thick dictionary.\nIt must be related to Alchemy.
+<en>She was reading a thick academic tome. It must have something to do with alchemy.
 <es>
 
 @27
-<en>{Kazushi}\n"Are you perhaps studying now?"
+<en>{Kazushi}\n"Are you studying?"
 <es>
 
 @28
-<en>{Mei}\n"I dodn't have to do it tonight,\nbut I just don't feel good leaving it unfinished."
+<en>{Mei}\n"I don't have to do it tonight, but I just don't feel good being unable to remember it."
 <es>
 
 @29
-<en>That's so like her.\nShe is a very puntual person.
+<en>That's so like her. Despite her jokes and easygoing demeanour, Mei-sensei is a very rigorous person.
 <es>
 
 @30
-<en>{Kazushi}\n"If it was me,\nI sure won't do it tonight and maybe even forget about it tomorrow."
+<en>{Kazushi}\n"I know that if it was me, I sure wouldn't get it done tonight. I'd probably forget about it all day tomorrow, too."
 <es>
 
 @31
-<en>I can clearly picture myself doing that.
+<en>I could clearly picture myself doing that with my homework.
 <es>
 
 @34
-<en>{Mei}\n"That's actually better.\nThey say great man don't get bothered by small stuff."
+<en>{Mei}\n"Actually, that may be for the better. They say that great men don't get bothered by small tasks."
 <es>
 
 @35
-<en>{Kazushi}\n"Is that true?\nI don't know. I'm just lazy."
+<en>{Kazushi}\n"Is that true?\nI dunno, most people would just say I'm lazy."
 <es>
 
 @37
-<en>I looked into what she was reading.
+<en>I looked at what she was reading.
 <es>
 
 @38
-<en>It was not written in Japanese so I couldn't understand anything.\nThere were a lots of old pictures.
+<en>It wasn't written in Japanese, so I couldn't understand any of the words. There were a lot of old woodcut images, though.
 <es>
 
 @39
-<en>{Kazushi}\n"What is this picture?"
+<en>{Kazushi}\n"What's that a picture of?"
 <es>
 
 @40
-<en>It was a picture of a baby inside a glass bottle.
+<en>It was a picture of a baby inside a tiny glass bottle.
 <es>
 
 @43
-<en>{Mei}\n"Didn't I teach you guys yet?\nIt's the picture of "Homonculous"."
+<en>{Mei}\n"Haven't I taught you guys that yet? It's a picture of a homunculus."
 <es>
 
 @44
-<en>{Kazushi}\n"Homon.......what?"
+<en>{Kazushi}\n"Homuncuwhat?"
 <es>
 
 @45
-<en>I think I've heard it somewhere before.
+<en>I think I've heard of that somewhere before.
 <es>
 
 @48
-<en>{Mei}\n"You might really be the great man one day.\nNobody remembers tiny thing like that."
+<en>{Mei}\n"You really may be a great man one day. You can't even remember that detail?"
 <es>
 
 @49
-<en>{Kazushi}\n"I'm sorry......\nI'm sure I've heard of it somewhere before."
+<en>{Kazushi}\n"I'm sorry. I'm sure I've heard of it somewhere before."
 <es>
 
 @50
-<en>Actually I'm not so sure.\nI sleep during the class when the subject gets boaring.
+<en>That's a lie - I'm not sure at all. I tend to sleep through class when the lecture gets boring.
 <es>
 
 @53
-<en>{Mei}\n""Homonculous"is the artificial life created by Alchemy."
+<en>{Mei}\n"A homunculus is an artificial life-form created by using alchemy."
 <es>
 
 @54
-<en>{Kazushi}\n"Artificial life?"
+<en>{Kazushi}\n"An artificial life-form?"
 <es>
 
 @55
-<en>I look at the picture once again.\nThere is a tiny person inside the bottle.\nThis is just like......
+<en>I took another look at the picture. There was a tiny person inside the bottle...\nThis looks just like...
 <es>
 
 @56
-<en>{Kazushi}\n"Remember how Natsume came out from the pot in the bottle?"
+<en>{Kazushi}\n"Speaking of which, it was like this when Natsume-chan first appeared."
 <es>
 
 @57
-<en>Natsume was in the glassbottle when she came out.\nShe appeared from out of nowhere.
+<en>Natsume-chan had originally been trapped inside a glass bottle. She'd appeared from nowhere.
 <es>
 
 @58
-<en>That was exactly the case of this picture.
+<en>That was exactly the same case as in this picture.
 <es>
 
 @59
-<en>{Kazushi}\n"So she is "Homonculous"?"
+<en>{Kazushi}\n"So Natsume-chan's a homunculus?"
 <es>
 
 @62
-<en>{Mei}\n"That, I don't know.\nI've never seen a "Homonculous"in complete figure as she is."
+<en>{Mei}\n"I can't say for certain. I've never seen a homunculus as complete or matured as she is."
 <es>
 
 @63
-<en>Yeah, it's hard to think that she was given birth at that spot.\nShe was fully grown when she came out already.
+<en>It's hard to believe that she was newly born at that point as she was fully grown when we let her out of the bottle.
 <es>
 
 @64
-<en>{Kazushi}\n"Then, what is she?"
+<en>{Kazushi}\n"Then what is she?"
 <es>
 
 @67
-<en>{Mei}\n"I don't know either.\nShe could be "Homonculous"."
+<en>{Mei}\n"I don't know. She could be a homunculus, but it's hard to tell."
 <es>
 
 @68
-<en>Ms, Ibuki doesn't know either.\nI wonder what the principal made through that experiment.
+<en>Mei-sensei didn't know either. I wonder what the principal was trying to create with that experiment.
 <es>
 
 @69
-<en>We don't even know if the experiment was a success or the failure.
+<en>We don't even know if the experiment was a success or a failure.
 <es>
 
 @72
-<en>{Mei}\n"However, a long ago, I know this school used to practice experiments on "Homonculous".\nSo there is a possibility."
+<en>{Mei}\n"However, what I do know is that a long time ago, the staff at this school used to regularly conduct research on homunculi. It's definitely a possibility."
 <es>
 
 @73
-<en>{Kazushi}\n"This school used to......?"
+<en>{Kazushi}\n"Research homunculi......?"
 <es>
 
 @75
-<en>I thought Alchemy we learn in this school is for to better everyday life, like producing delicious vegetables and fruits.
+<en>I thought the alchemy we're learning in this school was supposed to be used for the betterment of everyday life. Stuff like enlarging vegetables, or improving bait to catch fish well, not homunculi.
 <es>
 
 @77
-<en>Nothing like witchcraft we are talking here.
+<en>It's not supposed to be anything like the witchcraft we're discussing here!
 <es>
 
 @78
-<en>{Kazushi}\n"why did they want to experiment "Homonculous"?"
+<en>{Kazushi}\n"Why did they want to experiment with creating a homunculus?"
 <es>
 
 @81
-<en>{Mei}\n"I think human being always try to find the way to be god.\nLike how gods created us."
+<en>{Mei}\n"They say god created man. I think man is always trying to find a way to become god."
 <es>
 
 @82
@@ -193,19 +193,19 @@
 <es>
 
 @83
-<en>I don't think so.\nAnd I don't want to think so.
+<en>I don't think so - and it would be scary if we could.\nI don't think I want to think so.
 <es>
 
 @86
-<en>{Mei}\n"I don't thnk so either."
+<en>{Mei}\n"I doubt it. I don't want to think we can either."
 <es>
 
 @87
-<en>I felt so relieved she is with me on this one.
+<en>I felt so relieved that she agreed with me on this.
 <es>
 
 @89
-<en>{Mei}\n"I'm sure she need time to get used to a new environment. Please take care of her, because she seems to be attached to you."
+<en>{Mei}\n"Either way, I'm sure that Amamiya-san needs some time to adjust to her new surroundings. Please take good care of her, especially since she seems to be quite attached to you."
 <es>
 
 @91
@@ -213,35 +213,35 @@
 <es>
 
 @92
-<en>I really don't know why.
+<en>I really didn't know why.
 <es>
 
 @93
-<en>{Kazushi}\n"Well, don't worry.\nI will take care of her."
+<en>{Kazushi}\n"Well, don't worry about it. I'll make sure to look after her."
 <es>
 
 @96
-<en>{Mei}\n"Thank you.\nShall we go back now?"
+<en>{Mei}\n"Thank you. Shall we head back now?"
 <es>
 
 @97
-<en>She checks the time with a clock on the wall.\nIt's still early for me to go back.
+<en>She checked the clock on the wall to find out what time it was. It was still too early for me to go back.
 <es>
 
 @98
-<en>{Kazushi}\n"Give me one minute."
+<en>{Kazushi}\n"Just a minute..."
 <es>
 
 @99
-<en>It hasn't even been an hour since I came out from my room.
+<en>It hadn't even been an hour since I left the dorm.
 <es>
 
 @100
-<en>{Kazushi}\n"I actually can't go back to my room for two hours.\nCan you spend time with me?"
+<en>{Kazushi}\n"Actually, I can't go back to my room for another hour. Would you mind going for a walk with me?"
 <es>
 
 @103
-<en>{Mei}\n"Exactly two hours?\nWhy is it so specific?"
+<en>{Mei}\n"You can't go back for exactly another hour? Why are you being so specific?"
 <es>
 
 @104
@@ -249,18 +249,18 @@
 <es>
 
 @105
-<en>{Mei}\n"Are you guys doing something bad again?\nCan I go check your room?"
+<en>{Mei}\n"Are you boys doing something bad again? Do I need to go and check your room?"
 <es>
 
 @106
-<en>{Kazushi}\n"Oh no!\nYou seriously don't want to do that!\nI don't want you to be traumatized!"
+<en>{Kazushi}\n"Oh no! You seriously don't want to do that! I don't want you to be traumatized!"
 <es>
 
 @109
-<en>{Mei}\n"What do you mean?\nI don't understand you."
+<en>{Mei}\n"What are you talking about? I don't understand a word you're saying."
 <es>
 
 @110
-<en>{Kazushi}\n"Please just trust me on this one."
+<en>{Kazushi}\n"Please just trust me on this!"
 <es>
 

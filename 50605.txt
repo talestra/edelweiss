@@ -9,51 +9,51 @@
 <es>
 
 @13
-<en>{Principal}\n"Greetings, everyone. I am Hisae Aozora, the principal of this academy. I will be spending the next 3 years with you at this academy............."
+<en>{Principal}\n"Greetings, everyone. I am Aozora Hisae, the principal of this academy. For the next three years, we will all be living together here at this academy..."
 <es>
 
 @15
-<en>I have become a teacher at the Eiden academy.
+<en>I've become a teacher at Eiden Academy.
 <es>
 
 @18
-<en>{Teacher Yagami}\n"I never thought you would become a teacher, Kazushi. Oh, pardon me, I should call you Mr.Haruma, huh?"
+<en>{Yagami}\n"Who'd have thought Kazushi would become a teacher. Oh, I guess I should be calling you Haruma-sensei now, huh?"
 <es>
 
 @19
-<en>{Kazushi}\n"Ha, ha, ha. Yes, maybe in front of the students, that would be better."
+<en>{Kazushi}\n"Ahaha, at least in front of the students, please."
 <es>
 
 @21
-<en>I will be teaching Alchemy.
+<en>I'll be in charge of teaching Alchemy.
 <es>
 
 @22
-<en>The reason why I chose to teach Alchemy is not because I wanted to revive Mei or anything like that. I just wanted to follow her footsteps.
+<en>The reason why I chose to teach Alchemy isn't because I wanted to revive Mei or anything like that. I just wanted to follow in her footsteps.
 <es>
 
 @23
-<en>And this was the only school I could teach the subject, so I really didn't have a choice other than this school for the employment.
+<en>And that meant this was the only academy I could be employed at, so naturally I came back here.
 <es>
 
 @26
-<en>{Kazushi}\n"I wonder how long it has been......"
+<en>{Kazushi}\n"It's been a long time."
 <es>
 
 @27
-<en>Nothing has changed. Kind of a sour smell of the old books. Even the books on the shelves are almost exactly what I remember.
+<en>The room hadn't changed a bit. It still had the sour smell of old books... Even the books on the shelves were hardly any different from what I remembered.
 <es>
 
 @28
-<en>{Kazushi}\n"Nobody is here........."
+<en>{Kazushi}\n"No one's here, huh?"
 <es>
 
 @29
-<en>And I guess this place still is as unpopular as it was before.
+<en>This place was still as unpopular as ever.
 <es>
 
 @30
-<en>{Kazushi}\n"Gee, read some books, guys........."
+<en>{Kazushi}\n"Jeez, read some books, guys........."
 <es>
 
 @31
@@ -61,19 +61,19 @@
 <es>
 
 @33
-<en>There is someone. There is someone reading a book by the window.
+<en>There is someone - a girl - reading books in a chair by the windowsill.
 <es>
 
 @34
-<en>I wonder what grade she is in? She has a beautiful and rather mature looking profile.
+<en>I wonder what year she's in? She has a beautiful and rather mature looking profile.
 <es>
 
 @36
-<en>{The girl}\n"Oh......"
+<en>{The girl}\n"Oh......?"
 <es>
 
 @37
-<en>Maybe she sensed me looking at her, she lifted her face.
+<en>She looked up from her book after sensing my eyes on her.
 <es>
 
 @38
@@ -85,7 +85,7 @@
 <es>
 
 @40
-<en>{Kazushi}\n"Oh, amm, hello."
+<en>{Kazushi}\n"H-hello."
 <es>
 
 @41
@@ -93,7 +93,7 @@
 <es>
 
 @42
-<en>{The girl}\n"You are.......the new alchemy teacher, right?"
+<en>{The girl}\n"Umm... you're the new alchemy teacher, right?"
 <es>
 
 @43
@@ -101,27 +101,27 @@
 <es>
 
 @44
-<en>She probably remembers my face from the beginning of the semester ceremony.
+<en>She probably remembered my face from the beginning of the opening ceremony.
 <es>
 
 @45
-<en>{The girl}\n"It is such a coincidence, don't you think?"
+<en>{The girl}\n"Umm, it's such a coincidence, isn't it?"
 <es>
 
 @46
-<en>{Kazushi}\n"What? What are you talking about?"
+<en>{Kazushi}\n"What? What is?"
 <es>
 
 @47
-<en>{The girl}\n"You are Mr.Haruma, right? My name is Haruma also."
+<en>{The girl}\n"Sensei, your name is Haruma, right? My name is Haruma too."
 <es>
 
 @48
-<en>{Kazushi}\n"Really?"
+<en>{Kazushi}\n"Huh? Really?"
 <es>
 
 @49
-<en>That is a coincidence. I didn't think Haruma is such popular name. There were 2 Harumas at most in one grade when I was a student.
+<en>That really is a coincidence. Haruma's not that common of a name, is it? I've never met another Haruma in the same grade as me.
 <es>
 
 @51
@@ -129,35 +129,35 @@
 <es>
 
 @52
-<en>She smiled childishly with her mature looking face.
+<en>Despite her mature looking face, she had a childish smile. The girl had a strange mix of mature and youthful attractiveness.
 <es>
 
 @53
-<en>{Haruma}\n"Do you like books too?"
+<en>{Haruma}\n"Do you like books too, sensei?"
 <es>
 
 @54
-<en>{Kazushi}\n"Yeah, I guess. I was a student librarian back when I was a student."
+<en>{Kazushi}\n"Yeah, I suppose so. I used to be a librarian here back in the day."
 <es>
 
 @55
-<en>{Haruma}\n"Oh, that's right, you graduated from here, right? I am a student librarian too."
+<en>{Haruma}\n"Oh, you graduated from here? I'm a librarian too."
 <es>
 
 @56
-<en>{Kazushi}\n"You too? Gosh, this is truly a coincidence."
+<en>{Kazushi}\n"You too? This really is a coincidence."
 <es>
 
 @57
-<en>A coincidence does happen. All of a sudden, I feel so close to her.
+<en>Coincidences do happen together. I suddenly felt a sense of closeness to her.
 <es>
 
 @58
-<en>{Kazushi}\n"Calling you Haruma feels strange......."
+<en>{Kazushi}\n"Then, Haruma... er, it's hard to call you that."
 <es>
 
 @59
-<en>It does feel weired calling someone by my own last name.
+<en>It does feel weird calling someone by my own last name.
 <es>
 
 @60
@@ -169,27 +169,27 @@
 <es>
 
 @64
-<en>{Saki}\n"Saki. Saki Haruma. This is my second year here. Nice to meet you."
+<en>{Saki}\n"Saki. Haruma Saki, sophomore. Nice to meet you."
 <es>
 
 @65
-<en>She bowed. I just stood there.
+<en>She bowed politely. I found myself just standing there.
 <es>
 
 @66
-<en>Saki Haruma. I gave that name to Mei when she begged.
+<en>Haruma Saki - that was the name I gave Mei when she asked me for one.
 <es>
 
 @67
-<en>After it spouts, then the flower comes. That was the meaning behind the name.
+<en>Her name came from the thought I had - that the next stage for a flower after it sprouts (Mei), is to bloom (Saku).
 <es>
 
 @68
-<en>{Kazushi}\n"......................"
+<en>{Kazushi}\n"....................."
 <es>
 
 @69
-<en>This is a coincident.
+<en>This is a coincidence, isn't it?
 <es>
 
 @70
@@ -197,19 +197,19 @@
 <es>
 
 @71
-<en>No, she couldn't have chosen her own name, that can't be.
+<en>No, she couldn't have chosen her own name. It can't be.
 <es>
 
 @72
-<en>{Kazushi}\n"......................"
+<en>{Kazushi}\n"....................."
 <es>
 
 @73
-<en>{Saki}\n"Mr.Haruma? Are you OK?"
+<en>{Saki}\n"Um, sensei? What's wrong?"
 <es>
 
 @74
-<en>{Kazushi}\n"Oh, yes, I'm OK."
+<en>{Kazushi}\n"Oh... nothing..."
 <es>
 
 @75
@@ -221,46 +221,46 @@
 <es>
 
 @77
-<en>I wonder? Does she really look like her? Well, maybe not, this must be just a coincidence.
+<en>What is it, really? She doesn't particularly look like her, I guess. It must be a coincidence.
 <es>
 
 @78
-<en>Yer, that's all. But even if it was a coincidence, it made me happy.
+<en>Yes, just a coincidence. But even so, that coincidence made me rather happy.
 <es>
 
 @79
-<en>{Saki}\n"Are you talking about your old lover?"
+<en>{Saki}\n"Is the person I look like perhaps your old lover?"
 <es>
 
 @80
-<en>{Kazushi}\n"Yeah, something like that."
+<en>{Kazushi}\n"Huh? Yeah, something like that."
 <es>
 
 @81
-<en>{Saki}\n"Really? Wow!!"
+<en>{Saki}\n"What? It really is? Wow, amazing."
 <es>
 
 @82
-<en>I guess girls at this age like that kind of subject. Her eyes are all of a sudden sparkly.
+<en>I guess girls at this age like that kind of subject. Her eyes were shining already.
 <es>
 
 @83
-<en>{Saki}\n"You really liked that person, right? Mr.Haruma......what is it like to be in love?"
+<en>{Saki}\n"Sensei, you loved that person, didn't you? Umm... what's like to be in love?"
 <es>
 
 @84
-<en>{Kazushi}\n"What?"
+<en>{Kazushi}\n"Huh...?"
 <es>
 
 @85
-<en>What a beloved question. Is this question a coincidence too? At the time, I tried to find an answer to that exact question with her.
+<en>What a nostalgic question. Is this question another coincidence too? It was the question we both tried to find the answer to together.
 <es>
 
 @86
-<en>But now, I can proudly say it.
+<en>But now I can proudly answer it.
 <es>
 
 @87
-<en>{Kazushi}\n"Let's see, being in love is like............."
+<en>{Kazushi}\n"Let's see. Being in love is like............"
 <es>
 

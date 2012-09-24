@@ -1,43 +1,43 @@
 # Comments for '00736'
 
 @10
-<en>I think I already know what she would say.
+<en>I'm not sure why I'm bothering with this. I already know what she's going to say.
 <es>Creo que ya me puedo imaginar lo que dirá.
 
 @11
-<en>{Kazushi}\n"Can I ask you?"
+<en>{Kazushi}\n"Can I ask you something?"
 <es>{Kazushi}\n"¿Puedo preguntarte algo?"
 
 @14
-<en>{Ran}\n"Me?\nDo you want to know about me?"
+<en>{Ran}\n"Me?\nIs there something you want to know about me?"
 <es>{Ran}\n"¿A mí?\n¿Quieres saber algo sobre mí?"
 
 @15
-<en>{Kazushi}\n"Kind of."
+<en>{Kazushi}\n"Huh? Well, kind of I guess?"
 <es>{Kazushi}\n"Algo así."
 
 @16
-<en>It's little different though.
+<en>It's a little different, though.
 <es>Aunque es un poco diferente.
 
 @19
-<en>{Ran}\n"All right, I will tell you my secret."
+<en>{Ran}\n"All right, well I guess I don't mind sharing a few of my secrets with you, Kazushi."
 <es>{Ran}\n"Está bien. Te contaré mi secreto."
 
 @20
-<en>{Kazushi}\n"Your secret?"
+<en>{Kazushi}\n"Secrets?"
 <es>{Kazushi}\n"¿Tu secreto?"
 
 @21
-<en>What's her secret?
+<en>What secrets?
 <es>¿Cuál es su secreto?
 
 @22
-<en>She sounded kind of naughty way.
+<en>Ran's secrets? That sounded kind of naughty.
 <es>Lo ha dicho con un tono algo lascivo.
 
 @23
-<en>{Ran}\n"What do you want to know about me?\nOr is this that?"
+<en>{Ran}\n"So what do you want to know about me? Did you want to know that? Or maybe that other thing?"
 <es>{Ran}\n"¿Qué es lo que quieres saber sobre mí?\n¿O es "eso"?"
 
 @24
@@ -46,19 +46,19 @@
 <es>{Kazushi}\n"¿Qué es "eso"?\n¿Qué clase de secreto lascivo tienes?"
 
 @27
-<en>{Ran}\n"What? It's nothing naughty about it."
+<en>{Ran}\n"What? There's nothing naughty about it."
 <es>{Ran}\n"¿Qué? No tiene nada de lascivo."
 
 @28
-<en>{Kazushi}\n"Yeah?\n..Sorry!"
+<en>{Kazushi}\n"Oh, it's not? Sorry! I just assumed!"
 <es>{Kazushi}\n"¿Ah sí?\n...¡Lo siento!"
 
 @31
-<en>She wasn't upset.
+<en>She wasn't upset at all. In fact, she was grinning like some corrupt judge.
 <es>No estaba enfadada.
 
 @32
-<en>{Ran}\n"I see. Do you want to know naughty aspect of me? I don't blame you. We are in our puberty."
+<en>{Ran}\n"I see. Do you want to get to know my naughty side? I don't blame you - we ARE adolescents, after all."
 <es>{Ran}\n"Ya veo. ¿Quieres saber alguna obscenidad sobre mí? No te culpo. Estamos en la pubertad."
 
 @33
@@ -66,11 +66,11 @@
 <es>{Kazushi}\n"Gracias por tu compresión."
 
 @34
-<en>She's a very understanding girl.
+<en>She's a very understanding girl. I like that part of her.
 <es>Es una chica muy comprensiva.
 
 @35
-<en>{Kazushi}\n"Is there something you like to have?"
+<en>{Kazushi}\n"Is there anything you really want?"
 <es>{Kazushi}\n"¿Hay algo que te gustaría tener?"
 
 @38
@@ -78,7 +78,7 @@
 <es>{Ran}\n"Dinero."
 
 @39
-<en>I knew it.
+<en>That was a quick answer.
 <es>Lo sabía.
 
 @40
@@ -86,15 +86,15 @@
 <es>{Kazushi}\n"Eso pensaba."
 
 @41
-<en>It was a waste of time.
+<en>I knew that answer was coming. Asking her was a waste of time.
 <es>Era una pérdida de tiempo.
 
 @44
-<en>{Ran}\n"Are you giving me money?"
+<en>{Ran}\n"Are you going to give me some?"
 <es>{Ran}\n"¿Me vas a dar dinero?"
 
 @45
-<en>{Kazushi}\n"Sorry."
+<en>{Kazushi}\n"No, sorry."
 <es>{Kazushi}\n"Lo siento."
 
 @46

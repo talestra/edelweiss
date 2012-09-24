@@ -5,15 +5,15 @@
 <es>
 
 @10
-<en>{Appo-}\n"Yeah, we should."
+<en>{Appo}\n"*Yawn* Yeah, we should."
 <es>
 
 @17
-<en>{Daigo}\n"Kazushi, Appo-! It's an emergency!!"
+<en>{Daigo}\n"Kazushi, Appo! It's an emergency!!"
 <es>
 
 @18
-<en>Big Digo rushed into our room.
+<en>Big Daigo rushed into our room just as we were about to sleep.
 <es>
 
 @19
@@ -25,7 +25,7 @@
 <es>
 
 @25
-<en>{Appo-}\n"Calm down. What do you want?"
+<en>{Appo}\n"Calm down. What do you want?"
 <es>
 
 @26
@@ -37,59 +37,59 @@
 <es>
 
 @30
-<en>{Daigo}\n(Daigo gulps down the drink)"Thanks. Now I'm calm.\nBy the way, what is this weired taste?"
+<en>{Daigo}\n"*Gulp Gulp Gulp* Phah! Thanks, now I'm calm. By the way, what's that weird taste?"
 <es>
 
 @31
-<en>{Kazushi}\n"Vicks."
+<en>{Kazushi}\n"VapoRub."
 <es>
 
 @34
-<en>{Daigo}\n"That is a medicine!\nWhy did you give me that for!?"
+<en>{Daigo}\n"That's medicine you rub on your chest! What are you making me drink!?"
 <es>
 
 @35
-<en>{Kazushi}\n"You are the one said whatever is fine!"
+<en>{Kazushi}\n"You're the one who said anything would be fine."
 <es>
 
 @36
-<en>{Appo-}\n"Don't worry, it was diluted."
+<en>{Appo}\n"Don't worry. There wasn't much left so we diluted it with water. Quit complaining."
 <es>
 
 @37
-<en>{Daigo}\n"Actually, it might be good for my body. No!! It's about Pierre!\nHe's acting weired! You guys have to come with me!"
+<en>{Daigo}\n"Ah, well in that case it may be good for me. No! This is no time to act calm! Something's wrong with Pierre! Come quick!!"
 <es>
 
 @38
-<en>{Kazushi}\n"He's always been acting weired anyways."
+<en>{Kazushi}\n"Yeah, the name Pierre is a pretty bad nickname."
 <es>
 
 @39
-<en>{Daigo}\n"I know all that. But this time, it's different! Just come with me!"
+<en>{Daigo}\n"I know that, but that's not it! Just come with me!"
 <es>
 
 @40
-<en>{Appo-}\n"All right. All right."
+<en>{Appo}\n"Alright, alright!"
 <es>
 
 @49
-<en>{Kazushi}\n"So Daigo, how is he weired exactly?"
+<en>{Kazushi}\n"So, Daigo, how exactly is Pierre being weirder than usual?"
 <es>
 
 @50
-<en>{Daigo}\n"He just took off after saying "The time has come"."
+<en>{Daigo}\n"He just took off after saying 'The time is ripe'."
 <es>
 
 @53
-<en>{Appo-}\n"What did he mean by that?"
+<en>{Appo}\n"What did he mean by that?"
 <es>
 
 @56
-<en>{Appo-}\n"Oh, there he is! Hey, Pierre!!"
+<en>{Appo}\n"Oh, there he is! Hey, Pierre!!"
 <es>
 
 @61
-<en>{Pierre}\n(Pierre laughing)
+<en>{Pierre}\n"Heh, heh, heh..."
 <es>
 
 @62
@@ -97,27 +97,27 @@
 <es>
 
 @63
-<en>{Pierre}\n(Pierre laughing laud)
+<en>{Pierre}\n"MWAH HAH HAH HAH HAH!"
 <es>
 
 @69
-<en>{Daigo}\n"What is wrong with you?"
+<en>{Daigo}\n"What's wrong with you?"
 <es>
 
 @74
-<en>{Pierre}\n"Guys, from today on, you call me alchemist Pierre."
+<en>{Pierre}\n"From now on, you are to call me Pierre the Alchemist!"
 <es>
 
 @75
-<en>{Kazushi}\n"Did you eat something bad? You are acting weired."
+<en>{Kazushi}\n"Did you get a hair stuck in your throat? You're acting strange."
 <es>
 
 @78
-<en>{Pierre}\n"No! I didn't eat anything bad. I'm not acting weired either!"
+<en>{Pierre}\n"No! I didn't eat anything bad. I'm not acting strange, either!"
 <es>
 
 @81
-<en>{Pierre}\n"I finally made a medicine that is so revolutionary."
+<en>{Pierre}\n"I have accidentally created a drug that will revolutionize this rotten world!"
 <es>
 
 @87
@@ -125,23 +125,23 @@
 <es>
 
 @88
-<en>{Daigo}\n"Maybe he's been single too long and he lost his mind."
+<en>{Daigo}\n"Maybe he's been single too long and finally lost his mind."
 <es>
 
 @89
-<en>{Appo-}\n"Hey Pierre, if any of the three things I'm going to tell you right now sounds familiar to you, you go to the nurse's office with us, O.K?......"
+<en>{Appo}\n"Hey, Pierre, I'm going to tell you three things. If any of them sound familiar to you, then you need to come to the nurse's office with us, OK?"
 <es>
 
 @107
-<en>{Pierre}\n"None of them! You listen, fools! I successfully invented love drug!!"
+<en>{Pierre}\n"None of them! Listen, you fools! I have successfully brewed a love potion!"
 <es>
 
 @108
-<en>{Kazushi}\n"Love drug!?!!!"
+<en>{Kazushi}\n"A love potion?"
 <es>
 
 @111
-<en>{Pierre}\n"When we had lab class last time, I was just messing around and somehow made some kind of pretty looking liquid and I tried drinking it because it was so pretty."
+<en>{Pierre}\n"Last time we had alchemy lab I started messing about, and somehow made a kind of pretty looking liquid. Anyways, it looked so good, I went ahead and drank it."
 <es>
 
 @116
@@ -149,11 +149,11 @@
 <es>
 
 @123
-<en>{Appo-}\n"What were you thinking?!!! You are lucky you're alive!"
+<en>{Appo}\n"What the hell were you thinking!!? You're lucky to still be alive!"
 <es>
 
 @128
-<en>{Pierre}\n"Hear me out. After I drank it, I could help getting turned on...... my body started to heat up..."
+<en>{Pierre}\n"I'm still alive, so it doesn't matter. I drank it, I couldn't help but get turned on...\nMy body started heating up..."
 <es>
 
 @133
@@ -161,15 +161,15 @@
 <es>
 
 @137
-<en>{Pierre}\n"That's when I figured out everything. I invented love drug."
+<en>{Pierre}\n"Then it finally hit me. Without a doubt, it was an aphrodisiac!"
 <es>
 
 @138
-<en>{Kazushi}\n"Love drug......I've only seen skeptical ones on the mail order magazines."
+<en>{Kazushi}\n"An aphrodisiac? ...You mean those things they only sell by mail-order in sketchy magazines?"
 <es>
 
 @139
-<en>{Pierre}\n"I tried it on Hosoi and Itou from the next classroom. It was unbelievable."
+<en>{Pierre}\n"I tried it on Hosoi and Itou from the next class. It was unbelievable."
 <es>
 
 @140
@@ -177,7 +177,7 @@
 <es>
 
 @143
-<en>{Pierre}\n"They crossed the line. A guy and a guy."
+<en>{Pierre}\n"They crossed it. They crossed the line. Despite both being men."
 <es>
 
 @148
@@ -185,47 +185,47 @@
 <es>
 
 @149
-<en>{Pierre}\n"So I got an idea. Why don't we try this on the girls and show up to them when they start to crave the most."
+<en>{Pierre}\n"So I got an idea. Why don't we try some on the girls and then show up for them when it's at full effect?"
 <es>
 
 @150
-<en>{Pierre}\n"How would they react, Appo-?"
+<en>{Pierre}\n"How would they react?\nYes, Appo?"
 <es>
 
 @157
-<en>{Appo-}\n"I, I think, the beast within themselves wil be awaken!!"
+<en>{Appo}\n"I...I think the animals within them will be awakened!!"
 <es>
 
 @160
-<en>{Pierre}\n"You think so, right? You think so, right?\nThat's why I already gave them sweets with the love drug!!"
+<en>{Pierre}\n"Right? Right? You think so, right? That's why I've already given them some sweets spiked with it!"
 <es>
 
 @161
-<en>{Kazushi}\n"Are you serious!? You gave to who?!!"
+<en>{Kazushi}\n"Are you serious!? Who did you give them to!?"
 <es>
 
 @162
-<en>{Pierre}\n"I gave to......"
+<en>{Pierre}\n"Lessee, I gave them to..."
 <es>
 
 @169
-<en>{Sakura}\n"Hey girls! Pierre gave me sweets! Why don't we this together!"
+<en>{Sakura}\n"Hey, girls! Pierre brought me a cake! Why don't we eat this together?"
 <es>
 
 @174
-<en>{Rin}\n"Hey, it's waffle cake. I didn't know Pierre has this kind of hobby."
+<en>{Rin}\n"Oooh, it's a waffle cake. I didn't know that Pierre had that kind of hobby."
 <es>
 
 @181
-<en>{Ran}\n"Be careful girls, he might have a second intention."
+<en>{Ran}\n"Be careful, girls. He might have an ulterior motive."
 <es>
 
 @182
-<en>{Sakura}\n"(Sakura laughing) If that's so, it is really old school trick."
+<en>{Sakura}\n"Ahahaha. If that's so, he's using a really old school trick. Trying to bait girls with candy."
 <es>
 
 @185
-<en>{Ran}\n"His hair style is sure old sschool. I'll pass this time."
+<en>{Ran}\n"Given how old school his hairstyle is, I think I'll pass."
 <es>
 
 @186
@@ -233,11 +233,11 @@
 <es>
 
 @189
-<en>{Sakura}\n"He said he wants our feed back."
+<en>{Sakura}\n"He asked me to share my impression of it after eating it."
 <es>
 
 @192
-<en>{Rin}\n"Wow, he is ernest on this.\nBut for some reason, him and sweets doesn't seem to click to me."
+<en>{Rin}\n"Wow, a researcher, huh? But I just don't see him baking sweets for a hobby."
 <es>
 
 @197
@@ -245,31 +245,31 @@
 <es>
 
 @200
-<en>{Pierre}\n"Girlslovesweetseatsweetsmelovegirlsmeeatgirls, O.K?"
+<en>{Pierre}\n"Girlslovesweetsloveeatmeeatgirlsloveeat, okay?"
 <es>
 
 @206
-<en>{Daigo}\n"What is going inside his head......?"
+<en>{Daigo}\n"What is going on inside his head?"
 <es>
 
 @207
-<en>{Appo-}\n"I think this is the side effect. I'm debating if I should call police before he does anything."
+<en>{Appo}\n"I think this must be a side effect of the drug. Honestly, he's two points away from me calling the cops."
 <es>
 
 @212
-<en>{Pierre}\n"Sakura should be eating sweets by now in the cafeteria. And soon she will be here to tell me the feedback .\nAnd she might not be the only one who had sweets......"
+<en>{Pierre}\n"The girls should be eating the cake in the cafeteria by now. And soon she'll be here to tell me how it is. And she might not be the only one who's eaten it..."
 <es>
 
 @217
-<en>{Appo-}\n"Wait a minute!\nAre you saying......?"
+<en>{Appo}\n"Wait a minute!\nAre you saying......?"
 <es>
 
 @218
-<en>{Daigo}\n"You are my man......"
+<en>{Daigo}\n"You're the man!"
 <es>
 
 @219
-<en>{Pierre}\n"It will be me VS the girls having one hell of field day at school!!"
+<en>{Pierre}\n"The great, late-night matchup of Pierre VS the female army, will be hosted in Eiden Academy!"
 <es>
 
 @220
@@ -277,23 +277,23 @@
 <es>
 
 @221
-<en>{Pierre}\n"Kazushi, call me a tactician. Girls! Enjoy the sweets!! (Pierre laughing loud)"
+<en>{Pierre}\n"Hah, hah, hah! Call me a strategist, Kazushi! Bite in girls! Bite in! Then I'll be the one biting into you! Nom nom! Badmp badmp! MWAHAHAHAHA!!"
 <es>
 
 @230
-<en>{Sakura}\n"Here are the teas, should we start?"
+<en>{Sakura}\n"Here's the tea. Should we get started?"
 <es>
 
 @233
-<en>{Rin}\n"Oh, hi Panchu-! What are you doing here?"
+<en>{Rin}\n"Oh! Hi, Iida-senpai. What are you doing here?"
 <es>
 
 @240
-<en>{Panchu-}\n"What's up girls? I was just baking breads."
+<en>{Panchu}\n"Oh. I 'as 'akin' 'ome 'rea' in 'he 'itchen."
 <es>
 
 @243
-<en>{Sakura}\n"My! They look delicious! They are fresh off an oven!!"
+<en>{Sakura}\n"Wow! They look delicious! And they're fresh out of the oven!!"
 <es>
 
 @246
@@ -301,99 +301,99 @@
 <es>
 
 @249
-<en>{Panchu-}\n"Thanks girls. I think it went well tonight."
+<en>{Panchu}\n"Yeah. I'm 're''y 'onfi'en' in 'his 'atch. I''s my firs' 'ime 'a'in' u'uisu an'an."
 <es>
 
 @250
-<en>{Sakura}\n"We don't get to eat freshly baked breads around here very often."
+<en>{Sakura}\n"We don't get to eat freshly baked bread around here very often."
 <es>
 
 @251
-<en>{Rin}\n"I don't think I can bake them this good either."
+<en>{Rin}\n"I don't think I can bake them this well, either."
 <es>
 
 @254
-<en>{Panchu-}\n"......do you girls wanna try?"
+<en>{Panchu}\n"...'o you 'irls 'an' 'o 'ry?"
 <es>
 
 @255
-<en>{Sakura}\n"We can?!! I'll be happy to!!"
+<en>{Sakura}\n"Do you mean that!? I'd be happy to!"
 <es>
 
 @258
-<en>{Rin}\n"But what should we do with this waffle?"
+<en>{Rin}\n"But what should we do with this waffle cake?"
 <es>
 
 @259
-<en>{Sakura}\n"How about we give this to Panchu- for exchange?"
+<en>{Sakura}\n"How about we give it to Panchu-senpai in exchange?"
 <es>
 
 @262
-<en>{Panchu-}\n"What's this?"
+<en>{Panchu}\n"Wha' is 'his?"
 <es>
 
 @265
-<en>{Sakura}\n"Pierre made this. We are supposed to eat this and tell him how it was."
+<en>{Sakura}\n"Pierre-kun made this. He wanted us to tell him how it was, so please make sure you do after you eat it!"
 <es>
 
 @268
-<en>{Panchu-}\n"Pierre made this. It's too sweet. And it kinda taste funny, too."
+<en>{Panchu}\n"Hmm, 'ierre, huh? Hamgh. I''s 'oo sweet. 'i' he use 'oo 'u'h su'ar? I' has a s'ran'e 'as'e 'oo."
 <es>
 
 @271
-<en>{Rin}\n"He said he will be waiting for us cleaning the gate of girls's dorm if you need to see him."
+<en>{Rin}\n"He said he'd be cleaning the gates in front of the girls' dorm while waiting for us if you need to see him."
 <es>
 
 @274
-<en>{Sakura}\n"Your bread is so delicious."
+<en>{Sakura}\n"Panfu-semfai, you're freah is sho helicioush!"
 <es>
 
 @277
-<en>{Panchu-}\n"He's claening? That's impressing. Maybe I go bring him a bread."
+<en>{Panchu}\n"Hmm. Now I'm im'resse'. Well, I'll 'o 'rin' hi' some 'rea' for a sna''."
 <es>
 
 @278
-<en>{Sakura}\n"You are so kind."
+<en>{Sakura}\n"You're sho hind!"
 <es>
 
 @279
-<en>{Rin}\n"Can you tell him we said thanks-?"
+<en>{Rin}\n"Can you tell him we said thanks?"
 <es>
 
 @280
-<en>{Panchu-}\n"Sure."
+<en>{Panchu}\n"Sure."
 <es>
 
 @288
-<en>{Panchu-}\n"What is this feeling......?"
+<en>{Panchu}\n"Wha's 'his...?"
 <es>
 
 @289
-<en>{Panchu-}\n"My body feels so warm......"
+<en>{Panchu}\n"My 'o'y feels so ho'..."
 <es>
 
 @290
-<en>{Panchu-}\n"I feel like......"
+<en>{Panchu}\n"I feel li'e......"
 <es>
 
 @293
-<en>{Panchu-}\n"Wanting to......"
+<en>{Panchu}\n"I really wan' 'o..."
 <es>
 
 @296
-<en>{Panchu-}\n"Could be anybody......"
+<en>{Panchu}\n"'oesn'' 'a''er who..."
 <es>
 
 @299
-<en>{Panchu-}\n"............"
+<en>{Panchu}\n"............"
 <es>
 
 @302
-<en>{Panchu-}\n"......wanna do someone."
+<en>{Panchu}\n"......'u'' someone."
 <es>
 
 @310
-<en>{Pierre}\n"I can hear it!! I can hear angels climbing up the stairs to me!!"
+<en>{Pierre}\n"I hear them! I can hear them!! The footsteps of my angels climbing the stairway to pleasure!"
 <es>
 
 @311
@@ -401,39 +401,39 @@
 <es>
 
 @314
-<en>{Pierre}\n"What are you guys doing here fools!! Go hide somewhere!\nI will let you see the moment I become a man from the very front seat!!"
+<en>{Pierre}\n"What are you still doing here, you fools!? Go hide somewhere! I will let you see the moment I become a man from the front row!"
 <es>
 
 @318
-<en>{Appo-}\n"You stupid!!"
+<en>{Appo}\n"You dumbass."
 <es>
 
 @326
-<en>{Pierre}\n"Ouch!! Why did you do that for?!! You hit me seriously that time!!"
+<en>{Pierre}\n"Ouch! What did you do that for? You really hit me that time!"
 <es>
 
 @330
-<en>{Appo-}\n"I thought we are friends!\nI'm so sad! I'm so sad, Pierre!"
+<en>{Appo}\n"I thought we were supposed to be friends! I'm so sad! I'm so sad, Pierre!"
 <es>
 
 @333
-<en>{Pierre}\n"Appo-......"
+<en>{Pierre}\n"Appo......"
 <es>
 
 @334
-<en>{Appo-}\n"I thought we are more than friends. Like a family.\nI thought we can share everything, good or bad!"
+<en>{Appo}\n"I thought we were like brothers! We share the rough times in half, and double the good things, like a family!"
 <es>
 
 @337
-<en>{Pierre}\n"A family......"
+<en>{Pierre}\n"Like a family..."
 <es>
 
 @340
-<en>{Appo-}\n"Stand up, Pierre. I know there is no one superior than the others in us family......"
+<en>{Appo}\n"Stand up, Pierre. Everyone is equal in our family..."
 <es>
 
 @343
-<en>{Appo-}\n"Let me call you "Big bro"for today."
+<en>{Appo}\n"Let me call you Aniki for today."
 <es>
 
 @346
@@ -441,47 +441,47 @@
 <es>
 
 @349
-<en>{Appo-}\n"Big bro!"
+<en>{Appo}\n"Aniki!"
 <es>
 
 @350
-<en>{Appo-}\n"So big bro, let me help you if there are too many to handle.\nAnd you call me first!"
+<en>{Appo}\n"So, Aniki! If there are too many for you to handle, call on me, your little brother, for help! You can call on me first!"
 <es>
 
 @357
-<en>{Daigo}\n"Appo-, you traitor!"
+<en>{Daigo}\n"Appo, you traitor!"
 <es>
 
 @358
-<en>{Kazushi}\n"You just wanna be part of it!!"
+<en>{Kazushi}\n"You just wanna be a part of it!"
 <es>
 
 @361
-<en>{Appo-}\n"Shut up! You guys are just babies yet.\nShut up and watch your big brothers fight!"
+<en>{Appo}\n"Shut up! You guys are still just babies. Shut up and watch your big brothers duke it out for love!"
 <es>
 
 @367
-<en>{Pierre}\n"Hey! Someone is coming this way! Hide!"
+<en>{Pierre}\n"Hey! Someone's coming this way! Hide!"
 <es>
 
 @371
-<en>We jumped into bushes.
+<en>We jumped into the bushes.
 <es>
 
 @375
-<en>{Pierre}\n"Oh my! Cleaning is so tiring!\nBut I'm happy to serve my school!!"
+<en>{Pierre}\n"Oh my! Cleaning is so tiring! But I'm happy to help beautify my beloved school!"
 <es>
 
 @376
-<en>{Kazushi}\n"What is he doing?"
+<en>{Kazushi}\n"What is that?"
 <es>
 
 @377
-<en>{Appo-}\n"I think this is part of his foreplay."
+<en>{Appo}\n"His idea of foreplay."
 <es>
 
 @380
-<en>{Pierre}\n"And......I have one more thing to be happy about."
+<en>{Pierre}\n"And...... I have one more thing to be happy about."
 <es>
 
 @381
@@ -489,19 +489,19 @@
 <es>
 
 @382
-<en>{Daigo}\n"I'm catching a chill......"
+<en>{Daigo}\n"He's giving me goosebumps."
 <es>
 
 @383
-<en>{Kazushi}\n"Who is there?"
+<en>{Kazushi}\n"Who's there?"
 <es>
 
 @384
-<en>{Appo-}\n"It's too dark to see."
+<en>{Appo}\n"It's too dark to see."
 <es>
 
 @387
-<en>{Pierre}\n"To make today a special day, I will be brave to tell this to you!"
+<en>{Pierre}\n"To make today a special day, I will be brave enough to confess this to you!"
 <es>
 
 @390
@@ -509,79 +509,79 @@
 <es>
 
 @394
-<en>{Panchu-}\n"......"
+<en>{Panchu}\n"......"
 <es>
 
 @399
-<en>{Pierre}\n"Wha--------------t! Why?!! Why?!!"
+<en>{Pierre}\n"Youuuuuuuuuuuuu! What?! Why?! Why?!"
 <es>
 
 @402
-<en>{Panchu-}\n"Special......relationship......"
+<en>{Panchu}\n"A s'ecial......re'ation'hip...?"
 <es>
 
 @405
-<en>{Pierre}\n"Why?!! Why are you here, Panchu-?!!"
+<en>{Pierre}\n"Why!? Why are you here, Panchu-sempai!?"
 <es>
 
 @408
-<en>{Panchu-}\n"Special......relationship...... are you talking about having a fight?"
+<en>{Panchu}\n"A s'ecial......re'ation'ship... One o' one?"
 <es>
 
 @409
-<en>{Pierre}\n"No! Not at all! There is nothing special about us!!"
+<en>{Pierre}\n"No! Not at all! There is nothing special about us!! Just sempai and kohai!!"
 <es>
 
 @412
-<en>{Panchu-}\n"I don't know why......but my body is craving blood......"
+<en>{Panchu}\n"For 'ome 'eason my 'o'y's no' 'ight......I''s 'ravin' 'lood..."
 <es>
 
 @413
-<en>{Kazushi}\n"Why is Panchu- here?"
+<en>{Kazushi}\n"What's Panchu-sempai doing here?"
 <es>
 
 @414
-<en>{Daigo}\n"What should we do big brother?"
+<en>{Daigo}\n"What should we do, big brother?"
 <es>
 
 @415
-<en>{Appo-}\n"Are you guys stupid? When the time like this, you watch how your big brother lived!\nHow can we go out there?"
+<en>{Appo}\n"Are you guys stupid? At a time like this, you watch how your big brother set an example and sacrificed himself for your survival! How can we go out there and deal with that!?"
 <es>
 
 @416
-<en>Pierre's face is as pale as it can be.
+<en>Pierre's face was pale enough to be a ghost as Panchu-sempai closed in.
 <es>
 
 @417
-<en>{Panchu-}\n"Hey Pierre......come this way......\nlet's start the special relationship."
+<en>{Panchu}\n"A''ight, 'ierre... 'ome 'his 'ay...... Le''s form our s'ecial re'ation'hip."
 <es>
 
 @418
-<en>{Pierre}\n"Seriously! I insist! Don't bother what I said earlier!\nHelp me family! Where is my family?!!"
+<en>{Pierre}\n"Seriously! I insist! Don't worry about what I said earlier!\nHelp me, my brothers! Oh, where are my precious brothers?!"
 <es>
 
 @419
-<en>{Panchu-}\n"Pierre......how do you like to be cooked......?"
+<en>{Panchu}\n"'ierre...... 'ulp A or 'ulp B... whi'h 'o you 'refer?"
 <es>
 
 @422
-<en>{Pierre}\n"......?"
+<en>{Pierre}\n"......B?"
 <es>
 
 @425
-<en>{Panchu-}\n"How about well-done?"
+<en>{Panchu}\n"'loo'y 'ulp I' is 'hen."
 <es>
 
 @430
-<en>{Pierre}\n"No------------!!"
+<en>{Pierre}\n"No!!"
 <es>
 
 @433
-<en>With a scream, Pierre disappeared into the trees with Panchu-.
+<en>With a scream, Pierre disappeared into the trees with Panchu-sempai.
 <es>
 
 @434
-<en>{Kazushi}\n"As you said, the beast was sure awaken."
+<en>{Kazushi}\n"As you said, the animal within was surely awakened."
 <es>
 
 @439
@@ -589,10 +589,10 @@
 <es>
 
 @440
-<en>{Appo-}\n"The footsteps he heared was not from the angels, they were from death......"
+<en>{Appo}\n"The footsteps he heard were not from the angels, but from the grim reaper..."
 <es>
 
 @441
-<en>We later heard from Daigo that Pierre came back to the room early morning quietly and cried till the dawn.
+<en>Later, we heard from Daigo that Pierre had returned early in the morning and covered in blood, whereupon he silently crawled under the covers and cried until dawn.
 <es>
 

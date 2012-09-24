@@ -1,91 +1,91 @@
 # Comments for '02704'
 
 @7
-<en>{Kazushi}\n"I forgot to ask her room number."
+<en>{Kazushi}\n"I forgot to ask what her room number was..."
 <es>
 
 @8
-<en>It will be risky to sneak in and search around for her room.
+<en>It would be too risky to sneak in and search around until I found her room.
 <es>
 
 @11
-<en>{Mr.Miya}\n"Kazushi?"
+<en>{Miya}\n"Haruma-kun?"
 <es>
 
 @12
-<en>{Kazushi}\n"......!!"
+<en>{Kazushi}\n"...huh?"
 <es>
 
 @13
-<en>I didn't know someone else was standing next to me.
+<en>I heard a familiar voice and was surprised to find someone standing next to me.
 <es>
 
 @14
-<en>{Kazushi}\n"Hi, Mr.Miya."
+<en>{Kazushi}\n"G-good evening, Miya-san!"
 <es>
 
 @15
-<en>What is he doing here?\nPerhaps he's here for peeponmg girls?
+<en>What's he doing here?\nMaybe he's here to peep at the girls?
 <es>
 
 @18
-<en>{Mr.Miya}\n"I hope you are not misunderstanding."
+<en>{Miya}\n"I hope you're not coming to some misunderstanding."
 <es>
 
 @19
-<en>{Kazushi}\n"Umm, so you are her for what reason?"
+<en>{Kazushi}\n"Umm...so why are you here tonight?"
 <es>
 
 @20
-<en>He's very suspicious.\nI thought he was a good man,\nbut he may be a pervert.
+<en>He's very suspicious. I thought he was a good guy, but maybe he's a pervert.
 <es>
 
 @23
-<en>{Mr.Miya}\n"Now, your face is telling me you're misunderstanding me.\nI 'm only here because of deliverly."
+<en>{Miya}\n"Now your face is clearly telling me that there's been a misunderstanding. I'm just here to deliver daily supplies to the new student."
 <es>
 
 @24
-<en>{Kazushi}\n"..................I thought so, too."
+<en>{Kazushi}\n"Oh, that's what I thought."
 <es>
 
 @27
-<en>{Mr.Miya}\n"Are you sure?"
+<en>{Miya}\n"Did you really?"
 <es>
 
 @28
-<en>Oh yeah, his store carries everyday goods.\nHe must be here for Natsume.
+<en>Oh yeah. His store carries all sorts of general goods. He must be here to get Natsume-chan set up.
 <es>
 
 @29
-<en>{Kazushi}\n"Where are your stuffs?"
+<en>{Kazushi}\n"Where's your delivery?"
 <es>
 
 @30
-<en>His hands are empty.
+<en>His hands were empty.
 <es>
 
 @33
-<en>{Mr.Miya}\n"I handed over to Ms, Ibuki.\nI'm on my way back home."
+<en>{Miya}\n"I turned it over to Mei-sensei. Now I'm heading home."
 <es>
 
 @34
-<en>{Kazushi}\n"I thought so, too.\nHonestly."
+<en>{Kazushi}\n"I thought so too. Honestly."
 <es>
 
 @35
-<en>{Mr.Miya}\n"I hope you're telling me the truth......\noh well, I better get going."
+<en>{Miya}\n"Oh, brother. Ahaha... I guess I should get going before I'm suspected any further."
 <es>
 
 @39
-<en>He's leaving.
+<en>He left, scratching his head.
 <es>
 
 @40
-<en>{Kazushi}\n"Thank you and good bye-"
+<en>{Kazushi}\n"Thank you and good bye."
 <es>
 
 @41
-<en>He looks tired.\nI feel bad suspecting him.
+<en>He looked tired. I felt bad for suspecting him.
 <es>
 
 @42
@@ -93,11 +93,11 @@
 <es>
 
 @43
-<en>He must have been standing here for while,\nbecause I didn't see him at the entrance.
+<en>He must have been standing there for a while, as I didn't seem him at the entrance.
 <es>
 
 @44
-<en>He must have been in this spot for a while,\neven after he's done with deliverling.
+<en>He came here, delivered the goods, and instead of heading straight home, he stood here watching the girls' dorm.
 <es>
 
 @45
@@ -105,31 +105,31 @@
 <es>
 
 @46
-<en>Oh well,\nmaybe he was smoking or something.
+<en>Oh well, maybe he was just having a quick smoke.
 <es>
 
 @47
-<en>{Kazushi}\n"Oh shit!\nI should've asked him where Natsume's room is."
+<en>{Kazushi}\n"Oh shit! I should've asked him where Natsume-chan's room is."
 <es>
 
 @48
-<en>Where can it be?\n......!!
+<en>Where could it be?\n...Ah!
 <es>
 
 @49
-<en>One of the window opened up.\nNatsume's face came out from it.
+<en>One of the windows popped open. Natsume-chan's face hung out from over the sill.
 <es>
 
 @50
-<en>{Kazushi}\n"Hey.\nI wanted to visit you, but I didn't know which room you are in."
+<en>{Kazushi}\n"Hey, I wanted to pay you a visit, but I don't know what room you're in."
 <es>
 
 @51
-<en>{Natsume}\n"Kazushi!\nHurry and come up!"
+<en>{Natsume}\n"Haruma! Hurry and get up here!"
 <es>
 
 @52
-<en>She seems to be in emergency.
+<en>She seemed to be having an emergency.
 <es>
 
 @53
@@ -137,11 +137,11 @@
 <es>
 
 @54
-<en>{Natsume}\n"Just hurry!\nThere is devil in my room!"
+<en>{Natsume}\n"Just hurry! There's a demon in my room!"
 <es>
 
 @55
-<en>{Kazushi}\n"Devil?"
+<en>{Kazushi}\n"A demon?"
 <es>
 
 @60
@@ -149,7 +149,7 @@
 <es>
 
 @61
-<en>{Kazushi}\n"You can come in now-"
+<en>{Kazushi}\n"You can come in now."
 <es>
 
 @65
@@ -157,11 +157,11 @@
 <es>
 
 @66
-<en>She opens the door and peeps inside cautiously.
+<en>She opened the door and cautiously peered inside.
 <es>
 
 @67
-<en>{Kazushi}\n"Don't wrooy,\nsee......"
+<en>{Kazushi}\n"Don't worry, see?"
 <es>
 
 @70
@@ -169,15 +169,15 @@
 <es>
 
 @71
-<en>{Kazushi}\n"Opps, sorry."
+<en>{Kazushi}\n"Oops. Sorry."
 <es>
 
 @72
-<en>I wrapped it with a tissue and throw it into a trash can......
+<en>I wrapped it up in a tissue and was about to throw it into the bin...
 <es>
 
 @73
-<en>{Natsume}\n"Not in there!\nThrow it outside!"
+<en>{Natsume}\n"Not in the room! Throw it away outside!"
 <es>
 
 @74
@@ -193,11 +193,11 @@
 <es>
 
 @79
-<en>All right, I guess I will just go flush it.
+<en>Fine. I guess I'll just go and flush it.
 <es>
 
 @87
-<en>{Natsume}\n"No more?\nAre you absolutely sure?"
+<en>{Natsume}\n"That's the only one? Are you absolutely sure?"
 <es>
 
 @88
@@ -205,7 +205,7 @@
 <es>
 
 @89
-<en>{Kazushi}\n"I don't think so.\nBut they say, if you find one,\nthere must be 30 more around."
+<en>{Kazushi}\n"It should be fine for now, but they say that if you find one, there must be thirty more hidden in the walls."
 <es>
 
 @92
@@ -213,7 +213,7 @@
 <es>
 
 @93
-<en>She is in shock.
+<en>She was in shock.
 <es>
 
 @96
@@ -221,7 +221,7 @@
 <es>
 
 @97
-<en>She sits on the bed looking far away.
+<en>She sat on the bed, hugging her knees and gazing out into the distance.
 <es>
 
 @98
@@ -229,23 +229,23 @@
 <es>
 
 @101
-<en>{Natsume}\n"Is that a giraffe?"
+<en>{Natsume}\n"A giraffe drowning in debt?"
 <es>
 
 @102
-<en>She's talking about stain on the wall.\nI think she's trying to escape from reality.
+<en>She was talking about a stain on the wall. I think she's trying to escape from reality.
 <es>
 
 @103
-<en>{Kazushi}\n"You are alone in this room.\nIs your bed the upper one?"
+<en>{Kazushi}\n"You have this room to yourself? And you're using the upper bunk?"
 <es>
 
 @104
-<en>She's using the upper one of the two stairs bed.\nI feel her.
+<en>She was choosing to use the top bunk. I know that feeling.
 <es>
 
 @105
-<en>{Kazushi}\n"It's more fun than the lower one."
+<en>{Kazushi}\n"It's more fun being on top than on the lower one."
 <es>
 
 @108
@@ -253,47 +253,47 @@
 <es>
 
 @109
-<en>That's what I would take, too.
+<en>We thought surprisingly alike.
 <es>
 
 @110
-<en>{Natsume}\n"Kazushi, you are......."
+<en>{Natsume}\n"Haruma, you are......"
 <es>
 
 @111
-<en>{Kazushi}\n"Oh hey,\nhow do you know my name?"
+<en>{Kazushi}\n"Oh hey, how do you know my name?"
 <es>
 
 @112
-<en>{Natsume}\n"You were my nursing mother in your previous life."
+<en>{Natsume}\n"You were my wet-nurse in a prior life."
 <es>
 
 @113
-<en>{Kazushi}\n"My previous life!?\nI was a woman?\nOh, that's why."
+<en>{Kazushi}\n"My prior life!?\nI was a woman?\nI guess that makes sense..."
 <es>
 
 @116
-<en>{Natsume}\n"What do you mean that's why?\nWhat did you understand?"
+<en>{Natsume}\n"What do you mean with 'makes sense'? What can you understand? You're scaring me."
 <es>
 
 @117
-<en>Wait.\nI must had same name for her to know my name.\nThat's weired.
+<en>Wait, I must have had the same name then for her to know what mine is now. That's weird.
 <es>
 
 @118
-<en>{Kazushi}\n"We know each other from the previous life?\nI feel destiny."
+<en>{Kazushi}\n"We both know each other from a previous life? It feels like destiny."
 <es>
 
 @121
-<en>{Natsume}\n"You are so boaring.\nOfcourse it's a lie."
+<en>{Natsume}\n"You're such a fool. I just made that up, of course."
 <es>
 
 @122
-<en>{Kazushi}\n"It's a lie?\nAll this previous life thing you were talking about?"
+<en>{Kazushi}\n"You made it up? All that stuff about the previous life thing you were just talking about?"
 <es>
 
 @123
-<en>{Natsume}\n"How would I know your previous life is?"
+<en>{Natsume}\n"How would I know anything about your previous life?"
 <es>
 
 @124
@@ -301,11 +301,11 @@
 <es>
 
 @125
-<en>{Kazushi}\n"Wait, then how do you know my name?"
+<en>{Kazushi}\n"...wait. Then how do you know my name?"
 <es>
 
 @128
-<en>{Natsume}\n"I don't know.\nDon't ask me everything."
+<en>{Natsume}\n"I don't know. Stop asking so many questions."
 <es>
 
 @129
@@ -321,10 +321,10 @@
 <es>
 
 @134
-<en>All the sudden, she got grouchy.\nShe's a difficult girl.\nBut something about her makes me wanna yearn for past.
+<en>And just like that she became a grouch. She's a difficult girl, but something about her makes me yearn for a past I can't remember.
 <es>
 
 @135
-<en>I'm sure I've never been to this island,\nbut I feel I've been here in the past.\nI don't know why I feel this way.
+<en>I'm sure I've never been to this island before we started school here, but I feel like I know it from my past. I don't know why I feel like this.
 <es>
 

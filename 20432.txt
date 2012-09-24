@@ -1,39 +1,39 @@
 # Comments for '20432'
 
 @7
-<en>{Natsume}\n"So, you can't come in."
+<en>{Natsume}\n"That's why you cannot come in."
 <es>
 
 @10
-<en>{Principal}\n"Heh. Okay. Let's see how long you guys hang in there."
+<en>{Principal}\n"Heh. Fine. Let's see how long all of you can last in there."
 <es>
 
 @15
-<en>The night falls.
+<en>Night fell as we remained barricaded in.
 <es>
 
 @18
-<en>{Appo-}\n"I'm so hungry."
+<en>{Appo}\n"I'm so hungry."
 <es>
 
 @23
-<en>{Daigo}\n"After all, we couldn't find anything here. Are you sure it is here?"
+<en>{Daigo}\n"After all that, we couldn't find anything in here. Are you sure it's here?"
 <es>
 
 @27
-<en>{Ran}\n"There is too much stuff here and too many empty rooms."
+<en>{Ran}\n"There's so much stuff it's hard to tell, plus there's tons of empty rooms..."
 <es>
 
 @31
-<en>{Haruka}\n"Sorry, everyone. I only have a very few clues."
+<en>{Haruka}\n"Sorry, everyone. I've only got a few clues."
 <es>
 
 @32
-<en>{Kazushi}\n"No rush, guys. This is just the first day we occupy this building, so we take our time."
+<en>{Kazushi}\n"Hey, this is just the first day. We've seized the building, so we can take our time."
 <es>
 
 @36
-<en>{Pierre}\n"Dinner yet?"
+<en>{Pierre}\n"For now, dinner!"
 <es>
 
 @41
@@ -41,15 +41,15 @@
 <es>
 
 @42
-<en>Rin brings meals in.
+<en>Just at that moment, Fujisaki-san brought in our meals.
 <es>
 
 @45
-<en>{Rin}\n"I only made rice balls tonight because I didn't have much time."
+<en>{Rin}\n"I only made onigiri tonight because I didn't have much time."
 <es>
 
 @46
-<en>She said apologetically.
+<en>She said it apologetically.
 <es>
 
 @47
@@ -57,43 +57,43 @@
 <es>
 
 @50
-<en>{Rin}\n"Okay. From the right, you got salmon, ume pickles, seaweed and tuna...and you also have miso soup."
+<en>{Rin}\n"Okay. From the right, you've got salmon, plum, kelp, seaweed, and tuna...and we also have miso soup."
 <es>
 
 @55
-<en>{Ran}\n"I will have tuna!"
+<en>{Ran}\n"I'll have tuna!"
 <es>
 
 @59
-<en>{Daigo}\n"I will have salmon, ume pickles, seaweed and tuna!"
+<en>{Daigo}\n"I'll have salmon, plum, kelp, seaweed, and tuna."
 <es>
 
 @63
-<en>{Pierre}\n"That's everything, man! Why didn't you say just "everything"then. By the way, don't take everything!"
+<en>{Pierre}\n"That's everything, man! Why didn't you just say "everything"? And dude, don't eat everything!"
 <es>
 
 @66
-<en>{Daigo}\n"I knew you'd say that. That's why I didn't say "everything"!"
+<en>{Daigo}\n"I didn't say everything because I knew you'd say that."
 <es>
 
 @71
-<en>{Rin}\n"There are a lot. So don't worry. Take more, Daigo."
+<en>{Rin}\n"There's a lot, so don't worry. Take a couple more, Daigo."
 <es>
 
 @76
-<en>{Appo-}\n"Rin is our princess!"
+<en>{Appo}\n"Rin-chan really is everyone's #1 bride."
 <es>
 
 @79
-<en>{Rin}\n"Princess? Am I being labeled like that?"
+<en>{Rin}\n"Bride? Is that the character I'm labeled as?"
 <es>
 
 @80
-<en>Rin looks flattered.
+<en>Fujisaki-san looked flattered.
 <es>
 
 @84
-<en>{Sakura}\n"And she is soon gonna serve men at night as a comfort girl, right?"
+<en>{Sakura}\n"And every night she's some guy's comfort woman, right?"
 <es>
 
 @87
@@ -101,23 +101,23 @@
 <es>
 
 @88
-<en>Sakura, then, ruins Rin's happy moments.
+<en>And then Sakura had to go and ruin Rin's blissful moment.
 <es>
 
 @92
-<en>{Ran}\n"But before that, men have to go through me first. I won't let anyone touch my show girl - Rin."
+<en>{Ran}\n"Oh, go through me first, okay? You're not allowed to touch the stripper without permission."
 <es>
 
 @93
-<en>{Rin}\n"Show girl? Am I not a princess?"
+<en>{Rin}\n"Stripper? I'm not a bride... huh?"
 <es>
 
 @100
-<en>We feel like being in the cafeteria. Mizuki looks around happily.
+<en>It felt like a regular, peaceful meal in the cafeteria. Mizuki looked happy as she watched us.
 <es>
 
 @105
-<en>{Mizuki}\n"How long are we gonna stay here?"
+<en>{Mizuki}\n"How long are we gonna barricade ourselves in here?"
 <es>
 
 @106
@@ -129,7 +129,7 @@
 <es>
 
 @108
-<en>{Kazushi}\n"I hope she just keeps her mouth shut."
+<en>{Kazushi}\n"I just hope she doesn't try anything behind our backs..."
 <es>
 
 @109
@@ -137,11 +137,11 @@
 <es>
 
 @114
-<en>{Kazushi}\n"It's morning..."
+<en>{Kazushi}\n"Morning, huh?"
 <es>
 
 @115
-<en>Next day has just come.
+<en>The next day came uneventfully.
 <es>
 
 @116
@@ -157,59 +157,59 @@
 <es>
 
 @123
-<en>{Kazushi}\n"Wowww!!"
+<en>{Kazushi}\n"Uwah?!"
 <es>
 
 @124
-<en>It was just within a split second.
+<en>It happened right as I dropped my guard.
 <es>
 
 @125
-<en>{Kazushi}\n"Shit!"
+<en>{Kazushi}\n"Wh-when did she?!"
 <es>
 
 @126
-<en>When did she get here? The door was locked from inside.
+<en>How did she get in here? The door was locked from the inside.
 <es>
 
 @131
-<en>{Kazushi}\n"Natsume?"
+<en>{Kazushi}\n"Natsume-chan?"
 <es>
 
 @132
-<en>Again, Natsume stands in the principal's way.
+<en>Again, Natsume-chan stood in the principal's way.
 <es>
 
 @133
-<en>{Kazushi}\n"Natsume, be careful!!"
+<en>{Kazushi}\n"Natsume-chan, look out!!"
 <es>
 
 @134
-<en>{Natsume}\n"Stay away."
+<en>{Natsume}\n"You're an eyesore."
 <es>
 
 @135
-<en>Speaking quietly, Natsume bites her finger, which starts to bleed.
+<en>Speaking in a hushed tone, Natsume-chan bit her finger until it started to bleed.
 <es>
 
 @137
-<en>Zing!
+<en>Fww!
 <es>
 
 @138
-<en>Natsume swings her arm and a few drops of her blood fly in air.
+<en>Natsume-chan swung her arm and a few drops of her blood flew towards the principal.
 <es>
 
 @139
-<en>{Principal}\n"Heh"
+<en>{Principal}\n"Heh."
 <es>
 
 @143
-<en>{Kazushi}\n"Huh...She's disappeared."
+<en>{Kazushi}\n"Huh... She disappeared."
 <es>
 
 @144
-<en>The principal is just gone. No trace. No strains. Nothing.
+<en>The principal was just gone. No footsteps, no hairs, nothing.
 <es>
 
 @145
@@ -217,7 +217,7 @@
 <es>
 
 @148
-<en>{Natsume}\n"That's an illusion. She can't really come in. That's why she is trying to annoy us this way."
+<en>{Natsume}\n"That was just an illusion. She can't really come in, so she's pestering us."
 <es>
 
 @149
@@ -229,71 +229,71 @@
 <es>
 
 @151
-<en>{Kazushi}\n"Damn, she can do the trick like that? We really can't throw ourselves off guard."
+<en>{Kazushi}\n"Damn, she can do tricks like that? We really can't let ourselves be caught off guard."
 <es>
 
 @152
-<en>We don't know what she intends to do.
+<en>We don't know what she's capable of doing.
 <es>
 
 @155
-<en>{Natsume}\n"No worries, Kazushi. I won't let the principal in. I have Ao too."
+<en>{Natsume}\n"No worries. I won't let Hisae in. Ao's here too."
 <es>
 
 @156
-<en>{Kazushi}\n"Ao? Oh, you mean Haruka...Yeah, she is really dependable."
+<en>{Kazushi}\n"Ao...? Oh, Haruka. Yeah, Haruka's dependable."
 <es>
 
 @159
-<en>{Natsume}\n"Kazushi, you keep looking for the stone. We will take care of the complicated parts."
+<en>{Natsume}\n"Haruma, you keep looking for the stone. We'll take care of the complicated parts."
 <es>
 
 @160
-<en>Natsume looks so cool and dependable.
+<en>Natsume-chan looked very reliable.
 <es>
 
 @161
-<en>{Kazushi}\n"Thanks, Natsume."
+<en>{Kazushi}\n"Thanks."
 <es>
 
 @162
-<en>I spontaneously reach my hand over her head.
+<en>I naturally reached my hand out to her head.
 <es>
 
 @163
-<en>{Kazushi}\n"I will make it up to you someday and I will support you when you are in need."
+<en>{Kazushi}\n"Someday I'll repay the favor. I'll help you whenever you're in trouble, Natsume-chan."
 <es>
 
 @166
-<en>I pat her head, and Natsume shrugs her shoulders a bit.
+<en>I patted her on the head and Natsume-chan shrugged her shoulders a bit.
 <es>
 
 @167
-<en>{Natsume}\n"Hold your promise until everything is done."
+<en>{Natsume}\n"Hold that promise until everything is done."
 <es>
 
 @168
-<en>{Kazushi}\n"Oh, that's right..."
+<en>{Kazushi}\n"Yeah, you're right."
 <es>
 
 @173
-<en>Again, no major movements...and another night comes.
+<en>Again, no major movements...and another night came.
 <es>
 
 @176
-<en>{Rin}\n"How about sukiyaki tonight?"
+<en>{Rin}\n"I made sukiyaki tonight."
 <es>
 
 @178
-<en>The ingredients in the pot are simmering inside the furnace. The great smell travels across the room, inviting everyone's appetite.
+<en>The ingredients in the pot were simmering inside the furnace. The great smell traveled across the room, whetting everyone's appetite.
 <es>
 
 @182
-<en>{Pierre}\n"Don't you think we are eating better food than usual?"
+<en>{Pierre}\n"Is it me or are we eating better food than usual? Is this okay?"
 <es>
 
 @187
-<en>{Daigo}\n"There is a saying that no fight with an empty stomach."
+<en>{Daigo}\n"They say you can't fight on an empty stomach."
 <es>
 
 @192
@@ -309,7 +309,7 @@
 <es>
 
 @200
-<en>Mizuki looks somewhat dazed.
+<en>Mizuki was spacing out.
 <es>
 
 @201
@@ -317,39 +317,39 @@
 <es>
 
 @202
-<en>Mizuki looks at me on my second question.
+<en>Mizuki looked at me as I asked her again.
 <es>
 
 @205
-<en>{Mizuki}\n"Ye-Yes. Rocky Balboa also drinks egg."
+<en>{Mizuki}\n"Oh, I do, I do. Even Stallone drinks raw eggs."
 <es>
 
 @206
-<en>{Kazushi}\n"You don't need to drink it. Put the meat in there."
+<en>{Kazushi}\n"Don't drink it, put it on your meat. Here, have some meat."
 <es>
 
 @207
-<en>I put a raw egg and meat into her bowl.
+<en>I broke an egg over her bowl and poured it on her meat.
 <es>
 
 @210
-<en>{Mizuki}\n"Haha. A lot of meat. Thanks."
+<en>{Mizuki}\n"Ahaha, that's a lot of meat. Thanks."
 <es>
 
 @212
-<en>Mizuki takes her chopsticks, but won't eat any.
+<en>Mizuki grabbed part of the pile of meat and brought it up, but stopped halfway.
 <es>
 
 @213
-<en>{Kazushi}\n"Hmm? What's the matter, Mizuki?"
+<en>{Kazushi}\n"What's wrong?"
 <es>
 
 @216
-<en>{Mizuki}\n"Uh..."
+<en>{Mizuki}\n"Yeah..."
 <es>
 
 @217
-<en>Mizuki behaves strangely. Everyone notices something wrong with her.
+<en>Mizuki was behaving strangely. Everyone noticed something wrong with her.
 <es>
 
 @218
@@ -357,11 +357,11 @@
 <es>
 
 @221
-<en>{Mizuki}\n"Sorry, not like that."
+<en>{Mizuki}\n"Oh, sorry, it's not like that."
 <es>
 
 @222
-<en>While smiling, she is trying to hold back her tears.
+<en>She smiled to try and keep us from worrying, but tears welled up in her eyes.
 <es>
 
 @223
@@ -369,7 +369,7 @@
 <es>
 
 @228
-<en>{Mizuki}\n"It may sound a bit strange to you all, but I find this fun."
+<en>{Mizuki}\n"This may sound a bit strange to you all, but I'm finding this fun."
 <es>
 
 @229
@@ -377,87 +377,87 @@
 <es>
 
 @230
-<en>An opposite word I was in fact expecting she would say. Mizuki looks around with a beam of satisfaction.
+<en>It was the total opposite of what I was expecting her to say. Mizuki looked around with a beam of satisfaction.
 <es>
 
 @233
-<en>{Mizuki}\n"I am so grateful for what you guys are doing for me. This is just like camping. And I even feel it's still okay even if nothing changes with my legs... because I am so happy now."
+<en>{Mizuki}\n"I am so grateful for what you guys are doing for me. This is just like camping. And if this could go on forever, I don't think I'd mind being this way."
 <es>
 
 @236
-<en>Everyone stops eating and looks at Mizuki.
+<en>Everyone stopped eating and looked at Mizuki.
 <es>
 
 @239
-<en>{Ran}\n"What are you talking about, Mizuki? We are doing this just because we want you to swim again."
+<en>{Ran}\n"What're you talking about, Mizuki? We've come this far for you, so you are going to swim again."
 <es>
 
 @244
-<en>{Hu-sen}\n"That's right. I want to swim with the dolphins, too. So you have to teach me how. Okay?"
+<en>{Fuusen}\n"That's right. I want to swim with the dolphins too, so you have to teach me how. Okay?"
 <es>
 
 @248
-<en>{Haruka}\n"Me too!"
+<en>{Haruka}\n"Me too! Me too!"
 <es>
 
 @251
-<en>{Ran}\n"This will be a good business. "The Mizuki's swimming class Don't you want to learn how to swim with the dolphins?"- - Like that. You could make 10.000 yen half a day."
+<en>{Ran}\n"That sounds like a good business. 'Mizuki's Swimming Class'. I can charge 10,000 yen per person for half a day with Mizuki and dolphins."
 <es>
 
 @252
-<en>Ran is not kidding, and she sounds pretty serious. Actually, it sounds good.
+<en>Ran sounded scary with how seriously she thought about that. She wasn't joking either, though it could be fun...
 <es>
 
 @257
-<en>{Rin}\n"I'm having fun too. I'm not cooking for people I don't know. I know what you guys like to eat - - so it is fun."
+<en>{Rin}\n"I'm having fun too. I'm not cooking for people I don't know. I'm cooking for friends whose likes I know, so I can put more effort in than usual."
 <es>
 
 @258
-<en>Rin sure is like a new bride. Not only Mizuki, but all of us are having a good time.
+<en>Fujisaki-san really did resemble a newlywed. Even in this situation, we were all having a good time.
 <es>
 
 @262
-<en>{Ran}\n"How about this one then? Like "A fantastic resort - Eiden Island. Enjoy 4 days 3 nights with the dolphins and a beautiful instructor. Only 56.000 yen!"
+<en>{Ran}\n"Maybe I should put together a tour and rake in tourists? Eiden Island: Swim with a hot instructor and the dolphins. 4 days and 3 nights for 56,000 yen."
 <es>
 
 @267
-<en>{Hu-sen}\n"We got it, Ran."
+<en>{Fuusen}\n"That's enough, Ran."
 <es>
 
 @272
-<en>{Sakura}\n"Also we can all take a bath together. Mizuki can swim in there again. But the last time I try to wash Mizuki's back, she said no."
+<en>{Sakura}\n"We can all take a bath together again, and I can try and wash Mizuki's back, and then Mizuki'll run away, swimming through the bath."
 <es>
 
 @275
-<en>{Mizuki}\n"Because you touched my breasts, Sakura."
+<en>{Mizuki}\n"That's because you started feeling up my breasts, Sakura."
 <es>
 
 @279
-<en>{Rin}\n"I want to go to the beach with everyone again. Why don't we go there next summer?"
+<en>{Rin}\n"I want to go to the beach with everyone again. Summer's already over this year, but how about next year?"
 <es>
 
 @280
-<en>{Kazushi}\n"Mizuki, we all want you to get better first. You are gonna be okay. We are all here for you."
+<en>{Kazushi}\n"We'll have to cure her body first for that. Don't worry, you'll be fine. We're all here for you."
 <es>
 
 @281
-<en>Everyone directs their gentle eyes to Mizuki, who is so grateful that she trembles with joy and appreciation.
+<en>Everyone looked at Mizuki with a warm gaze, and her shoulders started to tremble.
 <es>
 
 @285
-<en>{Mizuki}\n"Thank you, guys. I will not give up."
+<en>{Mizuki}\n"Yeah... thank you. I won't give up."
 <es>
 
 @286
-<en>Mizuki brightens her eyes, dropping a diamond-like suspicion of tears on her face.
+<en>Something sparkled in Mizuki's eyes. It was a drop that glimmered like a diamond and trailed down her cheek.
 <es>
 
 @287
-<en>{Mizuki}\n"Hahaha...God..."
+<en>{Mizuki}\n"Ahaha... Oh, jeez..."
 <es>
 
 @288
-<en>With a grin of embarrassment, Mizuki wipes her tears with her hand.
+<en>With a grin of embarrassment, Mizuki wiped her tears with her hand.
 <es>
 
 @289
@@ -465,11 +465,11 @@
 <es>
 
 @290
-<en>I also wipe her tears with my fingers.
+<en>I also wiped her tears away with my fingers.
 <es>
 
 @291
-<en>{Kazushi}\n"Don't cry. Eat!"
+<en>{Kazushi}\n"Don't cry. Eat your meat!"
 <es>
 
 @294
@@ -477,11 +477,11 @@
 <es>
 
 @299
-<en>{Pierre}\n"All right! I'm ready! Wow!"
+<en>{Pierre}\n"Alright! Let's eat too, guys!"
 <es>
 
 @300
-<en>We all begin to enjoy our dinner.
+<en>We all began to enjoy your dinner.
 <es>
 
 @305
@@ -489,7 +489,7 @@
 <es>
 
 @306
-<en>{Mizuki}\n"Yes,"
+<en>{Mizuki}\n"Yes."
 <es>
 
 @311
@@ -497,7 +497,7 @@
 <es>
 
 @314
-<en>Ran falls flat on the face.
+<en>Ran fell flat on her face.
 <es>
 
 @317
@@ -505,7 +505,7 @@
 <es>
 
 @318
-<en>{Appo-}\n"Ugh..."
+<en>{Appo}\n"Ugh..."
 <es>
 
 @320
@@ -513,11 +513,11 @@
 <es>
 
 @322
-<en>And Appo and Daigo also fall down on the floor. Then everyone else eating just collapses one after another.
+<en>Appo and Daigo also fell on the floor. Then, everyone else eating began to collapse one after the other.
 <es>
 
 @323
-<en>{Mizuki}\n"What's going on?"
+<en>{Mizuki}\n"H-huh? What happened to everyone?"
 <es>
 
 @324
@@ -525,19 +525,19 @@
 <es>
 
 @325
-<en>I feel the blood drain from my face.
+<en>I felt the blood draining from my face.
 <es>
 
 @326
-<en>{Sakura}\n"Ugh....zzzzz...."
+<en>{Sakura}\n"Zzz...zzz..."
 <es>
 
 @327
-<en>Then they begin to snore.
+<en>But everyone who fell down was snoring.
 <es>
 
 @328
-<en>{Mizuki}\n"Are they all asleep?"
+<en>{Mizuki}\n"They're just sleeping?"
 <es>
 
 @331
@@ -545,11 +545,11 @@
 <es>
 
 @332
-<en>{Kazushi}\n"The principal - - she must have done this. But how?"
+<en>{Kazushi}\n"The principal - she must have done this. But how?"
 <es>
 
 @333
-<en>{Natsume}\n"I suppose she put them in the water."
+<en>{Natsume}\n"She spiked the water."
 <es>
 
 @334
@@ -557,7 +557,7 @@
 <es>
 
 @335
-<en>We cook with the top water. I guess she put the pills in the water supply before our dinner.
+<en>We cooked using tap water. I guess she put the drugs in our water supply before we started cooking.
 <es>
 
 @344
@@ -565,15 +565,15 @@
 <es>
 
 @345
-<en>Within a split second, I lose my sight with a dazzling light.
+<en>Within a split second, I lost my sight amidst a dazzling light.
 <es>
 
 @346
-<en>{Natsume}\n"No, stop..."
+<en>{Natsume}\n"No, don't..."
 <es>
 
 @348
-<en>Natsume cries out in panic and wind blows - a twister!
+<en>Natsume-chan cried out in panic and the wind blew a twister through the room!
 <es>
 
 @351
@@ -581,47 +581,47 @@
 <es>
 
 @352
-<en>There is an intense twister in the room, while throwing things up in air.
+<en>There was an intense, miniature tornado in our room, throwing things through the air.
 <es>
 
 @353
-<en>{Kazushi}\n"What that fuck?"
+<en>{Kazushi}\n"What is this?"
 <es>
 
 @360
-<en>As the twister dwindles away, someone appears out of it - - the principal.
+<en>As the twister dwindled away, someone appeared from its core: The principal.
 <es>
 
 @361
-<en>{Principal}\n"Here I am - - finally."
+<en>{Principal}\n"I'm finally in."
 <es>
 
 @362
-<en>{Kazushi}\n"The principal!!"
+<en>{Kazushi}\n"Principal!!"
 <es>
 
 @363
-<en>With a smile, the principal slowly approaches us. Though small in size, she is intimidating.
+<en>The principal slowly approached us with a twisted grin on her face. Though small in size, she seemed large and intimidating.
 <es>
 
 @366
-<en>{Principal}\n"Have you found the stone yet?"
+<en>{Principal}\n"Have you found the stone?"
 <es>
 
 @367
-<en>Of course, she knows we still don't have it, and yet she asks us sarcastically.
+<en>She asked us this sarcastically, knowing full well that we still didn't have it.
 <es>
 
 @372
-<en>{Natsume}\n"She always looks at us condescendingly. I hate it."
+<en>{Natsume}\n"She always looks at us condescendingly. That's why I hate her."
 <es>
 
 @375
-<en>{Principal}\n"The play time is over. You guys are no longer in summer holidays."
+<en>{Principal}\n"Play time is over. You children are no longer on summer break."
 <es>
 
 @376
-<en>She gets closer and closer, like a wild animal hunting down its prey.
+<en>She slinked ever closer like a predator closing in on its prey.
 <es>
 
 @381
@@ -629,31 +629,31 @@
 <es>
 
 @382
-<en>No way out! Should I just give up the building? But if I do, then we won't be able to do anything.
+<en>There's no way out! Should we just abandon the building? But if I do, then we won't be able to achieve anything.
 <es>
 
 @385
-<en>{Principal}\n"I will let you get away with it, if you simply apologize. If you resist, then I will react."
+<en>{Principal}\n"If you apologize nicely, I will forgive you. If you resist, then I will deal with you appropriately."
 <es>
 
 @386
-<en>The principal glares at me, which scares hell out of me. But I just can't back off now.
+<en>A fearsome light shone beneath her eyes. That unknown pressure nearly made my knees give in, but I wasn't about to kneel down now.
 <es>
 
 @387
-<en>{Kazushi}\n"Please, the principal. Help us!"
+<en>{Kazushi}\n"Please! Principal! Help us!"
 <es>
 
 @390
-<en>I bow. The principal looks stunned a bit.
+<en>I bowed my head. The principal looked stunned a bit.
 <es>
 
 @391
-<en>{Principal}\n"You still talking nonsense. You guys locking yourselves up here and asking me for help? Cut the crap! Just give up."
+<en>{Principal}\n"You're still spouting that nonsense? You brats have barricaded yourselves inside my laboratory and now you're asking me for help? Why won't you just give up?"
 <es>
 
 @392
-<en>{Kazushi}\n"No, I can't. We have no choice but to use that power of the stone."
+<en>{Kazushi}\n"No, I can't. We have no choice but to use the power of the stone."
 <es>
 
 @393
@@ -661,19 +661,19 @@
 <es>
 
 @396
-<en>{Principal}\n"I said no."
+<en>{Principal}\n"You're persistent."
 <es>
 
 @401
-<en>The principal closes up even more.
+<en>The principal closed the remaining gap all at once.
 <es>
 
 @402
-<en>{Kazushi}\n"Ugh....Ahhh!"
+<en>{Kazushi}\n"Ugh...Ahhh!"
 <es>
 
 @405
-<en>I am thrown up in air and pushed against the wall. And I glue myself on it.
+<en>My body flew through the air, slammed against the wall, and hung there pressed against it.
 <es>
 
 @406
@@ -681,11 +681,11 @@
 <es>
 
 @407
-<en>{Kazushi}\n"I'm okay...But I just can't move."
+<en>{Kazushi}\n"I'm okay... But I just can't move."
 <es>
 
 @410
-<en>Keeping me glued on the wall, the principle chuckles. It's hard to believe she has such power.
+<en>The principal chuckled as she kept me adhered to the wall. It was hard to believe she had such power.
 <es>
 
 @411
@@ -693,7 +693,7 @@
 <es>
 
 @412
-<en>{Principal}\n"How dare you say you need my help! I know you guys are looking for the almighty stone. But there is no such a stone that exists here."
+<en>{Principal}\n"How dare you say you need my help! I know you guys are looking for an almighty stone, but such a stone doesn't exist!"
 <es>
 
 @413
@@ -701,19 +701,19 @@
 <es>
 
 @416
-<en>{Principal}\n"Do you really think only the stone can cure her legs? There is no such a stone in this world!"
+<en>{Principal}\n"Do you really think that you can cure her legs if you use the stone? Is that what you were promised? Nothing that convenient exists in this world!"
 <es>
 
 @417
-<en>The principal yells at me with a fierce look.
+<en>The principal yelled at me through a face full of rage.
 <es>
 
 @420
-<en>{Principal}\n"Even if you did find that stone, you would not be able to use it because you will have to have the ability and commitment."
+<en>{Principal}\n"Even if you did find the stone, you wouldn't be able to use it anyways because you lack the ability and commitment!"
 <es>
 
 @421
-<en>{Principal}\n"It could take one's whole life to succeed in reproducing a life."
+<en>{Principal}\n"Even with the stone, it could take your entire life to learn to succeed at recreating one!"
 <es>
 
 @424
@@ -729,19 +729,19 @@
 <es>
 
 @429
-<en>{Principal}\n"A quick answer, huh? You don't even think about that, do you?"
+<en>{Principal}\n"A quick answer, huh? You didn't even think about it, did you?"
 <es>
 
 @430
-<en>{Kazushi}\n"No. I didn't have to think about it. I just feel. My feeling for Mizuki stays the same."
+<en>{Kazushi}\n"I didn't have to think about it. Mizuki is more important to me than anything, and that won't change."
 <es>
 
 @431
-<en>{Kazushi}\n"If I can get Mizuki's legs back, I will even give up my own legs."
+<en>{Kazushi}\n"If I can get Mizuki's legs back, I would even give up my own."
 <es>
 
 @432
-<en>{Mizuki}\n"Kazushi..."
+<en>{Mizuki}\n"Wait, Kazushi!"
 <es>
 
 @433
@@ -757,7 +757,7 @@
 <es>
 
 @438
-<en>I thought about it at many time already. I know what the principle of equivalency exchanges means as well.
+<en>I'd already thought about it many times. I know about the principal of equivalent exchange as well.
 <es>
 
 @439
@@ -769,15 +769,15 @@
 <es>
 
 @441
-<en>Before I knew it, there is a big hatchet in her hand.
+<en>Before I knew it, there was a gigantic hatchet in the principal's hand.
 <es>
 
 @442
-<en>With glaring eyes, the principal swings the hatchet up.
+<en>With glaring eyes, the principal swung the hatchet up.
 <es>
 
 @443
-<en>{Mizuki}\n"What are you doing?!"
+<en>{Mizuki}\n"What are you doing!?"
 <es>
 
 @444
@@ -789,15 +789,15 @@
 <es>
 
 @448
-<en>{Principal}\n"Yes."
+<en>{Principal}\n"I will do everything in my power."
 <es>
 
 @449
-<en>A deal is down. I rather not fight back then. I just go with the flow...
+<en>Then that was fine. Using the principal's methods were more certain than recklessly struggling.
 <es>
 
 @451
-<en>I close my eyes.
+<en>I closed my eyes.
 <es>
 
 @452
@@ -805,11 +805,11 @@
 <es>
 
 @454
-<en>whiz
+<en>Fwwwwmm!!
 <es>
 
 @455
-<en>I feel the wind.
+<en>I heard a whoosh with no hesitation.
 <es>
 
 @456
@@ -817,59 +817,59 @@
 <es>
 
 @457
-<en>I hear Mizuki's scream, and feel something touching in my legs.
+<en>I heard Mizuki's scream and felt something something touching against my legs.
 <es>
 
 @460
-<en>high-pitched sound
+<en>Ding!!
 <es>
 
 @461
-<en>I heard a shrill noise and saw a little light in the corner of my eyes.
+<en>I heard a high-pitched noise and saw a small burst of light in the corner of my eyes.
 <es>
 
 @462
-<en>{Kazushi}\n"What is that?"
+<en>{Kazushi}\n"What's that?"
 <es>
 
 @466
-<en>I see Mizuki holding my legs and the blade of the hatchet stop right by her neck.
+<en>I saw Mizuki holding my legs and the hatchet blade stopping a few centimeters from her neck.
 <es>
 
 @467
-<en>What if the hatchet had gone a bit faster?!
+<en>If the hatchet had stopped any later...
 <es>
 
 @468
-<en>{Kazushi}\n"Mizuki! Are you crazy? What are you doing?! Are you okay?"
+<en>{Kazushi}\n"Mizuki! Are you crazy? What are you doing!? Are you okay?"
 <es>
 
 @469
-<en>Mizuki stares at me hard.
+<en>Mizuki stared at me hard.
 <es>
 
 @471
-<en>{Mizuki}\n"You are the one who is crazy! Giving up your legs? What that hell are you thinking? Did you think I'd be happy if you did that?"
+<en>{Mizuki}\n"You're the crazy one, Kazushi! Why do you have to give up your legs for me?! Do you think I'd be happy if you did that?!"
 <es>
 
 @472
-<en>With tears in the eyes, Mizuki shouts at me in anger. To me, she is much more frightening than the hatchet.
+<en>With tears in her eyes, Mizuki shouted at me in anger. To me, she was much scarier than the hatchet.
 <es>
 
 @473
-<en>{Kazushi}\n"So-Sorry. But you could have been killed yourself, Mizuki."
+<en>{Kazushi}\n"So-sorry. But you could have been killed yourself, Mizuki."
 <es>
 
 @474
-<en>{Mizuki}\n"I'm okay..."
+<en>{Mizuki}\n"I'm okay...oh."
 <es>
 
 @475
-<en>Mizuki tries to have a feel in her neck. Her necklace is on her back. That's the pendant I bought her at Mr.Miya's store.
+<en>Mizuki tried to feel her neck. Her necklace at slid around to her back along with the pendant I bought her from Miya-san's store.
 <es>
 
 @476
-<en>The little stone on the necklace broke in half on the floor. The blaze must have hit the stone.
+<en>The stone in the pendant was gone. It was broken in half and lying on the floor. The hatchet much have directly hit the stone.
 <es>
 
 @477
@@ -881,7 +881,7 @@
 <es>
 
 @479
-<en>Maybe, that little stone has the power we don't see. It took such a hard strike.
+<en>Maybe that little stone had a power we hadn't seen. It took such a hard blow.
 <es>
 
 @480
@@ -889,51 +889,51 @@
 <es>
 
 @481
-<en>Mizuki wraps the broken stone around with her hands.
+<en>Mizuki tenderly wrapped the broken stone with her hands.
 <es>
 
 @482
-<en>{Mizuki}\n"I'm sorry and thank you for protecting me."
+<en>{Mizuki}\n"I'm sorry, and thank you for protecting me."
 <es>
 
 @483
-<en>{Principal}\n"The principal sighs deeply."
+<en>{Principal}\n"*Sigh*"
 <es>
 
 @484
-<en>With a stunned look, the principal looks down at Mizuki.
+<en>I recalled the principal was here at her sigh. She looked down at Mizuki as if whatever had possessed her had been dispelled.
 <es>
 
 @485
-<en>{Principal}\n"Mizuki, weren't you scared of the hatchet?"
+<en>{Principal}\n"You, Hinata-san. Weren't you scared of the hatchet?"
 <es>
 
 @486
-<en>{Mizuki}\n"I was not looking at it..."
+<en>{Mizuki}\n"I am now, but I didn't think about it."
 <es>
 
 @487
-<en>{Principal}\n"You wanted to give up your life to protect his legs?"
+<en>{Principal}\n"You would throw away your life for his legs?"
 <es>
 
 @488
-<en>{Mizuki}\n"No...I want to live with him. Neither one should be missing."
+<en>{Mizuki}\n"No, I wouldn't do that - I want us to live together. Neither one can be missing."
 <es>
 
 @489
-<en>{Mizuki}\n"But...If I die, and as long as Kazushi lives on, I can live in his life."
+<en>{Mizuki}\n"But... if I had died, then so long as Kazushi survived, I would live on inside of him."
 <es>
 
 @490
-<en>Mizuki stares fixedly at the principal, who opens her eyes in surprise.
+<en>Mizuki stared fixedly at the principal, who opened her eyes in surprise.
 <es>
 
 @491
-<en>{Principal}\n"Uh...!!"
+<en>{Principal}\n"Ohhh!"
 <es>
 
 @492
-<en>Looking up with her eyes closed, the principal freezes.
+<en>The principal moaned and turned her eyes to the sky. Her eyes closed and she froze like a statue.
 <es>
 
 @493
@@ -941,11 +941,11 @@
 <es>
 
 @494
-<en>The principal is just looking up and seems to be crying. I am just stunned in amazement.
+<en>The principal just looked up. She seemed to be crying, and I was at a loss for words.
 <es>
 
 @495
-<en>Is she the same person? She was swinging a hatchet a minute ago and now crying...
+<en>Was she really the same person? She was swinging a hatchet just a moment ago and now she's crying...?
 <es>
 
 @496
@@ -953,35 +953,35 @@
 <es>
 
 @498
-<en>thud...
+<en>*Clang*...
 <es>
 
 @499
-<en>The hatchet drops from the principal's hand.
+<en>The hatchet dropped from the principal's hand.
 <es>
 
 @500
-<en>{Principal}\n"I've been forgetting about this. After all, we humans forget things easily, aren't we?"
+<en>{Principal}\n"How did I forget that all this time? We people are very forgetful creatures."
 <es>
 
 @501
-<en>Tears run down her face. No! Not tears.
+<en>Warm drops fell from her eyes, glittering as they trailed down her cheeks. Tears?......No.
 <es>
 
 @502
-<en>They drop down on the floor. They are neither tears, nor something hard like stones.
+<en>They clattered on the floor. They weren't liquid, they were solid like stones.
 <es>
 
 @503
-<en>They are rolling down on the floor and begin to gather into something as big as an egg in size.
+<en>Those pebbles rolled across the floor, growing bigger as they rolled until they were the size of eggs.
 <es>
 
 @504
-<en>{Mizuki}\nWh-What...?
+<en>{Mizuki}\n"Wh-what...?"
 <es>
 
 @505
-<en>A strange phenomenon is transpiring before my eyes. I cautiously pick one of them up.
+<en>A strange phenomenon was transpiring before my eyes. I cautiously picked one of them up.
 <es>
 
 @506
@@ -989,7 +989,7 @@
 <es>
 
 @507
-<en>It's firm, yet soft. It's not alive, but has warmth like a living thing. Is it really a stone?
+<en>It was firm, yet soft. It wasn't alive, but had warmth like a living thing. Was it really a stone?
 <es>
 
 @511
@@ -997,47 +997,47 @@
 <es>
 
 @512
-<en>{Kazushi}\n"Yes...your tears..."
+<en>{Kazushi}\n"Yes... your tears..."
 <es>
 
 @513
-<en>{Principal}\n"Was I crying?"
+<en>{Principal}\n"I see. I was crying?"
 <es>
 
 @514
-<en>The principal is no longer crying. She gives Mizuki a gentle smile.
+<en>The principal muttered, all her tears now gone. In their place remained a warm, gentle smile directed at Mizuki.
 <es>
 
 @517
-<en>{Principal}\n"What you said just reminded me something very important."
+<en>{Principal}\n"What you said just reminded me of something very important."
 <es>
 
 @518
-<en>The principal keeps smiling at us. Neither of us is sure of what is going on.
+<en>The principal kept smiling at us. Neither of us was sure of what's going on.
 <es>
 
 @521
-<en>{Principal}\n"Mizuki, I'm sorry I tried to hurt your loved one."
+<en>{Principal}\n"Hinata-san, I'm sorry I tried to hurt your loved one."
 <es>
 
 @522
-<en>The principal nods with an apology. I can't believe this! And yet Mizuki still stares at her hard.
+<en>The principal bowed to apologize. I can't believe this! And yet Mizuki was still staring her down!
 <es>
 
 @527
-<en>{Mizuki}\n"I will only forgive you, if you promise me you will never ever hurt Kazushi."
+<en>{Mizuki}\n"I shouldn't forgive you... But if you promise you will never, ever try it again, I will."
 <es>
 
 @528
-<en>Unlike me feeling bewildered, Mizuki shows her strength in her words.
+<en>Unlike me, who was left feeling bewildered, Mizuki showed her strength in her words. Then principal silently nodded several times in agreement.
 <es>
 
 @531
-<en>{Principal}\n"Sure. Thank you."
+<en>{Principal}\n"Thank you."
 <es>
 
 @532
-<en>In my hands is an egg-like stone emitting a golden light.
+<en>The golden egg-sized stone emitted a golden light in my hand.
 <es>
 
 @536
@@ -1045,7 +1045,7 @@
 <es>
 
 @537
-<en>The principal looks at the stone quietly. She looks like praying in silence.
+<en>The principal looked quietly at the stone. She looked like she was praying in silence.
 <es>
 
 @538
@@ -1053,11 +1053,11 @@
 <es>
 
 @539
-<en>And she mutters under her breath. I didn't hear well, but it sounded like she said good bye to someone.
+<en>And she muttered something under her breath. I didn't hear it well, but it sounded like she said good bye to someone.
 <es>
 
 @542
-<en>{Principal}\n"Kazushi...That's the stone I was looking for."
+<en>{Principal}\n"Haruma-kun, that stone is the one I... you were looking for."
 <es>
 
 @543
@@ -1065,7 +1065,7 @@
 <es>
 
 @544
-<en>{Principal}\n"Why don't you keep the stone, Kazushi?"
+<en>{Principal}\n"I'll leave that stone in your hands."
 <es>
 
 @545
@@ -1073,15 +1073,15 @@
 <es>
 
 @548
-<en>{Principal}\n"That's yours now. Use it however you want to use it. But be sure to use it to make someone smile."
+<en>{Principal}\n"You may use it as you wish. But in exchange... please be sure to use it to make someone smile."
 <es>
 
 @549
-<en>{Principal}\n"So that no one ever has to cry any more."
+<en>{Principal}\n"So that no one ever has to cry anymore."
 <es>
 
 @550
-<en>I am not sure what's behind her words. But her message hit me home.
+<en>I was unsure of what lay behind her words, but the feelings she entrusted to me hit home.
 <es>
 
 @551
@@ -1089,31 +1089,31 @@
 <es>
 
 @555
-<en>I press Mizuki on me tight.
+<en>I drew Mizuki closer to my side, holding her tightly as she laid her body upon me.
 <es>
 
 @556
-<en>It may take a long time to cure Mizuki's legs. But I won't give up.
+<en>It may take a long time to cure Mizuki's legs, but I won't give up.
 <es>
 
 @557
-<en>I grip the stone, thinking this has to live up to so many people's expectations and dreams.
+<en>I gripped the stone entrusted to me, and sensed that the thoughts and feelings of many resided in that stone.
 <es>
 
 @560
-<en>When Hisae (the principal) comes out of the lab building, Miya is waiting for her.
+<en>Miya was waiting for Hisae to come out of the experiment ward.
 <es>
 
 @563
-<en>{Principal}\n"Oh, you are here."
+<en>{Principal}\n"Oh, you're here."
 <es>
 
 @564
-<en>Hisae looks a bit surprised.
+<en>Hisae looked surprised.
 <es>
 
 @569
-<en>{Mr.Miya}\n"Are you okay?"
+<en>{Miya}\n"Are you okay?"
 <es>
 
 @572
@@ -1121,7 +1121,7 @@
 <es>
 
 @573
-<en>Hisae smiles feebly and staggers a bit. Miya holds her body as she chuckles suggestively.
+<en>Hisae smiled feebly and staggered a little. Miya quickly held her up, and Hisae smiled as she took advantage of his support.
 <es>
 
 @576
@@ -1129,35 +1129,35 @@
 <es>
 
 @577
-<en>Miya keeps silent, which means yes to her question.
+<en>Miya didn't respond, but she knew that silence meant yes.
 <es>
 
 @580
-<en>{Mr.Miya}\n"I was a bit worried because you looked so serious with the hatchet."
+<en>{Miya}\n"I was a bit worried because you looked so serious with the hatchet."
 <es>
 
 @581
-<en>Hisae smiles.
+<en>Hisae smiled wryly.
 <es>
 
 @584
-<en>{Principal}\n"Well, maybe I was..."
+<en>{Principal}\n"I may have been more serious than you think."
 <es>
 
 @587
-<en>{Mr.Miya}\n"What?"
+<en>{Miya}\n"Huh?"
 <es>
 
 @588
-<en>Miya looks into Hisae, who then chuckles. Miya sighs a bit.
+<en>Miya looked at her in disbelief and Hisae returned a vague smile.\nMiya heaved a sigh.
 <es>
 
 @591
-<en>{Mr.Miya}\n"Why did you give up on that stone? You finally found it."
+<en>{Miya}\n"I'm surprised you relinquished that stone after you finally found it."
 <es>
 
 @592
-<en>Miya did see the whole thing. Hisae smiles.
+<en>So Miya had been watching, and knew everything. Hisae wore a thin smile.
 <es>
 
 @595
@@ -1165,11 +1165,11 @@
 <es>
 
 @596
-<en>Hisae was recalling an event a long, long time ago. She still vividly remembers it just like yesterday.
+<en>Hisae was recalling an event a long, long time ago. She still remembered it vividly, just like it was yesterday.
 <es>
 
 @597
-<en>I had completely forgotten the phrase - the phrase that Mizuki told, looking straight into my eyes.
+<en>And yet she had completely forgotten those words - the words Hinata Mizuki clearly told her.
 <es>
 
 @598
@@ -1177,59 +1177,59 @@
 <es>
 
 @599
-<en>{Principal}\n"The stone would not have appeared if she had not reminded me of the phrase. So that stone is hers."
+<en>{Principal}\n"The stone would not have appeared had she not reminded me of that saying. So, the stone is hers."
 <es>
 
 @602
-<en>{Mr.Miya}\n"Yes. That's good."
+<en>{Miya}\n"Yes. That's good."
 <es>
 
 @603
-<en>Miya didn't respond clearly, but it seems Miya is happy with the fact that Hisae gave up that stone.
+<en>Miya didn't respond clearly, but it seemed Miya was happy with the fact that Hisae gave up the stone.
 <es>
 
 @605
-<en>{Principal}\n"People still forget even though they try not to."
+<en>{Principal}\n"Even when we swear to never forget, we people still forget things one by one."
 <es>
 
 @606
-<en>{Mr.Miya}\n"People cannot live if they don't forget."
+<en>{Miya}\n"People can not live if they don't forget."
 <es>
 
 @607
-<en>{Principal}\n"Am I still part of that people?"
+<en>{Principal}\n"Am I still considered a person?"
 <es>
 
 @608
-<en>{Mr.Miya}\n"Yes, of course."
+<en>{Miya}\n"Yes, of course."
 <es>
 
 @609
-<en>With a smile, Hisae looks up the sky of the end of the summer - the same sky she saw years ago.
+<en>Hisae bashfully looked up at the sky at Miya's unhesitant words. The end of summer sky was just as vast as it was years ago.
 <es>
 
 @616
-<en>I get to the beach with Mizuki on my back.
+<en>I finally reached the beach with Mizuki on my back.
 <es>
 
 @617
-<en>{Kazushi}\n"Let's go to the spot as closely as the water."
+<en>{Kazushi}\n"Let's go to where the waves lap against the shore."
 <es>
 
 @620
-<en>{Haruka}\n"Good luck!"
+<en>{Haruka}\n"Have fun!"
 <es>
 
 @623
-<en>{Mizuki}\n"What? You guys are not coming?"
+<en>{Mizuki}\n"What? You guys aren't coming?"
 <es>
 
 @628
-<en>{Hu-sen}\n"We will watch you from here. So you two, go ahead."
+<en>{Fuusen}\n"We'll watch you from here, so go ahead, you two."
 <es>
 
 @631
-<en>{Mizuki}\n"Are you sure? Okay, let's go, Kazushi."
+<en>{Mizuki}\n"You sure? Then I'll be back. Kazushi, go!"
 <es>
 
 @632
@@ -1241,43 +1241,43 @@
 <es>
 
 @637
-<en>....
+<en>...
 <es>
 
 @640
-<en>{Ran}\n"Well, they are gone now."
+<en>{Ran}\n"Well, they're gone now."
 <es>
 
 @645
-<en>{Pierre}\n"It didn't work as we planned."
+<en>{Pierre}\n"But it still failed."
 <es>
 
 @649
-<en>{Haruka}\n"Yeah. That is only working for ten minutes or so."
+<en>{Haruka}\n"Yeah. I think she's only gonna have about ten minutes or so."
 <es>
 
 @653
-<en>{Rin}\n"That little time only... She is finally able to walk, but..."
+<en>{Rin}\n"To only have so little time... She's finally able to walk, but..."
 <es>
 
 @657
-<en>{Sakura}\n"They must be really disappointed."
+<en>{Sakura}\n"They don't show it, but they must be really disappointed."
 <es>
 
 @658
-<en>{Rin}\n"Especially after so many expectations. They must be shocked."
+<en>{Rin}\n"Especially after they got their hopes up so much. They must be shocked."
 <es>
 
 @662
-<en>{Appo-}\n"They are fine...should be fine."
+<en>{Appo}\n"Those two'll be fine."
 <es>
 
 @666
-<en>{Hu-sen}\n"Yeah. I hope so."
+<en>{Fuusen}\n"Yes, I'm sure they will."
 <es>
 
 @670
-<en>{Haruka}\n"They are both strong."
+<en>{Haruka}\n"Yes. They're both..."
 <es>
 
 @672
@@ -1285,27 +1285,27 @@
 <es>
 
 @673
-<en>....
+<en>...
 <es>
 
 @677
-<en>I walk slowly so I won't lose my balance. We finally get to the beach by the water.
+<en>I walked slowly so I wouldn't lose my balance in the waves and we finally reached the edge.
 <es>
 
 @678
-<en>{Kazushi}\n"You ready? Can you stand up?"
+<en>{Kazushi}\n"I'm setting you down? Can you stand?"
 <es>
 
 @681
-<en>{Mizuki}\n"Yes. Get me down slowly."
+<en>{Mizuki}\n"Yes. Let me down slowly."
 <es>
 
 @682
-<en>Mizuki quietly nods. Given the time she took the medicine, it should start to work with her now.
+<en>Mizuki quietly nodded. Given when she drank the solution, it should start working around now.
 <es>
 
 @683
-<en>I get down and let go of Mizuki slowly. Her toes land on the sands. It has been a while since she last touched the sand on her feet.
+<en>I knelt down and slowly let go of Mizuki. Her toes landed on the sand. It had been a while since she last felt the sand on her feet.
 <es>
 
 @684
@@ -1313,11 +1313,11 @@
 <es>
 
 @685
-<en>{Mizuki}\n"Yes..."
+<en>{Mizuki}\n"Yeah..."
 <es>
 
 @686
-<en>Mizuki is very calm. Maybe, I am more nervous.
+<en>Mizuki was very calm. I might've been more nervous than she was.
 <es>
 
 @689
@@ -1325,15 +1325,15 @@
 <es>
 
 @692
-<en>Mizuki gets off from my back. Holding my shoulder, she is standing on her own feet.
+<en>Mizuki let go of my back. She kept her hand on my shoulder to steady herself as she stood on her own two feet.
 <es>
 
 @695
-<en>{Mizuki}\n"Oh...Yes! I did it!! I did it!!"
+<en>{Mizuki}\n"Oh... Yes! I did it!! I did it!!"
 <es>
 
 @696
-<en>Mizuki jumps slightly. And she jumps up again - this time higher.
+<en>Mizuki jumped a couple inches. And then she jumped up again, this time higher.
 <es>
 
 @699
@@ -1345,55 +1345,55 @@
 <es>
 
 @703
-<en>{Mizuki}\n"Oh, that's right. It's been a while, so I sort of forgot how to move them."
+<en>{Mizuki}\n"Oh, that's right. It's been a while since I could move them, so I forgot."
 <es>
 
 @704
-<en>Mizuki takes her shoes and socks off. She stands in bare feet.
+<en>Mizuki took her socks and shoes off and stood barefoot on the beach.
 <es>
 
 @707
-<en>{Mizuki}\n"Sands - - they feel so good."
+<en>{Mizuki}\n"The sand...it feels so good."
 <es>
 
 @708
-<en>Leaning on me, Mizuki plays with her feet in the sands.
+<en>Mizuki leaned on me as she played in the sand with her feet.
 <es>
 
 @709
-<en>{Kazushi}\n"Why don't you go and swim? You want the feel of water too, don't you?"
+<en>{Kazushi}\n"Why don't you go for a swim? You miss feeling the water too, don't you?"
 <es>
 
 @712
-<en>{Mizuki}\n"But, I didn't bring my swimsuit."
+<en>{Mizuki}\n"But I didn't bring my swimsuit..."
 <es>
 
 @713
-<en>{Kazushi}\n"You used to swim naked?"
+<en>{Kazushi}\n"So? You used to swim naked all the time."
 <es>
 
 @716
-<en>{Mizuki}\n"Don't say that!"
+<en>{Mizuki}\n"Ah! Don't remind me! Pervert!!"
 <es>
 
 @718
-<en>Mizuki romps around me.
+<en>Mizuki stuck her tongue out at me and twirled around me. She hopped around, frolicking on the beach.
 <es>
 
 @719
-<en>We only have a short a period of time to have fun.
+<en>We only had a short a period of time to have fun.
 <es>
 
 @720
-<en>The principal said the stone will not solve all the problems. I now fully know what she meant.
+<en>The principal said that the stone wouldn't solve all of our problems. Now I fully understood what she meant.
 <es>
 
 @721
-<en>{Kazushi}\n"Hey, you are not gonna swim?"
+<en>{Kazushi}\n"Hey, aren't you gonna swim?"
 <es>
 
 @724
-<en>{Mizuki}\n"Wanna see me naked? It has been a long time, huh?"
+<en>{Mizuki}\n"Do you want to see me naked that badly? Well, I guess it has been a long time."
 <es>
 
 @725
@@ -1401,11 +1401,11 @@
 <es>
 
 @728
-<en>{Mizuki}\n"No, not today. You are gonna fix my legs soon anyway, right?"
+<en>{Mizuki}\n"I don't need to today. You're gonna fix my legs permanently someday, right?"
 <es>
 
 @729
-<en>Mizuki looks at me. She believes me - - or maybe, she is trying to believe me.
+<en>Mizuki looked at me. She believed in me - or maybe she was trying to believe in me.
 <es>
 
 @730
@@ -1413,39 +1413,39 @@
 <es>
 
 @731
-<en>I have not given up. Someday, I will get her legs back to normal - someday.
+<en>I haven't given up hope. Someday, I will get her legs back to normal...\nSomeday.
 <es>
 
 @732
-<en>{Mizuki}\n"Then, I don't swim today."
+<en>{Mizuki}\n"Then I won't swim today."
 <es>
 
 @735
-<en>We are all discouraged by unexpected results.
+<en>After quietly muttering that, Mizuki returned to my side. We were all discouraged that it hadn't gone as well as we'd hoped.
 <es>
 
 @736
-<en>We are concerned about what is going to happen in a few minutes, when the medicine runs up. Mizuki's legs will stop moving again.
+<en>We were concerned about what was going to happen in a few minutes, when the potion wore off. Mizuki's legs would probably stop moving again.
 <es>
 
 @737
-<en>Mizuki and I will feel down after moments of joy and freedom. However, we will keep on trying together.
+<en>Mizuki and I will feel down after tasting a few fleeting moments of joy and freedom. However, we will keep on trying, together.
 <es>
 
 @740
-<en>As I see Mizuki standing with the evening sun in the backdrop, I see water splashes - - the dolphins!!
+<en>As I watched Mizuki standing on the beach with the evening sun in the backdrop, I saw water splashing in the distance: the dolphins!!
 <es>
 
 @743
-<en>{Mizuki}\n"They are here!! The dolphins are here!!"
+<en>{Mizuki}\n"Those guys came too."
 <es>
 
 @744
-<en>{Dolphin}\nThe dolphins cry.
+<en>{Dolphins}\n *SKREE*
 <es>
 
 @745
-<en>The two dolphins jump in the water as if to welcome Mizuki back. She looks at them, blinking in the bright sun.
+<en>The two dolphins flipped through the water as if to welcome Mizuki back. She looked at them, blinking in the bright sun.
 <es>
 
 @746
@@ -1457,7 +1457,7 @@
 <es>
 
 @750
-<en>{Kazushi}\n"Swimming is not what you really want to do?"
+<en>{Kazushi}\n"What you really want to do......don't you mean swimming?"
 <es>
 
 @753
@@ -1465,31 +1465,31 @@
 <es>
 
 @754
-<en>Mizuki tries to hold my hand while looking at the sea.
+<en>Mizuki just looked out at the sea without answering. As she gazed upon it, she found my hand and held it tight.
 <es>
 
 @757
-<en>{Mizuki}\n"I will swim when I get better. Will I get better?"
+<en>{Mizuki}\n"I can swim once I'm really cured. I will be, right?"
 <es>
 
 @758
-<en>{Kazushi}\n"Yeah, of course. I will fix your legs. I promise. Even if I have to spend the rest of my life on this."
+<en>{Kazushi}\n"Of course you will. I promised to fix your legs, and I will - even if I have to spend the rest of my life on it."
 <es>
 
 @761
-<en>{Mizuki}\n"The rest of your life? You saying that on a whim?"
+<en>{Mizuki}\n"The rest of your life? Are you sure about saying that so easily?"
 <es>
 
 @762
-<en>{Kazushi}\n"No, not on a whim. I will keep my word for this."
+<en>{Kazushi}\n"I'm not saying it easily. This is a symbol of my vow."
 <es>
 
 @763
-<en>I was going to give it to her when she gets completely cured.
+<en>I was going to give this to her when she was completely cured.
 <es>
 
 @764
-<en>But on the second thought - I should give it to her now because this is the proof of my promise with her.
+<en>But on second thought, I decided to give it to her now as proof of my promise to her.
 <es>
 
 @767
@@ -1497,7 +1497,7 @@
 <es>
 
 @768
-<en>A tear of the mermaid. I asked them to make a ring with the broken stone.
+<en>The mermaid's tear. I asked Miya-san to make a ring out of the broken stone.
 <es>
 
 @771
@@ -1505,7 +1505,7 @@
 <es>
 
 @772
-<en>Mizuki looks nervous. I take her left hand and put on that ring.
+<en>Mizuki looked nervous. I took her left hand and placed the ring on her finger.
 <es>
 
 @773
@@ -1513,15 +1513,15 @@
 <es>
 
 @774
-<en>{Mizuki}\n"You are really gonna stay with me for the rest of your life?"
+<en>{Mizuki}\n"Wow, you're really gonna stay with me for the rest of your life?"
 <es>
 
 @775
-<en>{Kazushi}\n"Even though you said no."
+<en>{Kazushi}\n"Even though you'll tell me no."
 <es>
 
 @778
-<en>{Mizuki}\n"But I may be your burden for the rest of your life...?"
+<en>{Mizuki}\n"But I may burden you for the rest of your life...?"
 <es>
 
 @779
@@ -1529,27 +1529,27 @@
 <es>
 
 @780
-<en>That's right. I have not given up. Our battle has just begun.
+<en>That's right. I haven't given up. Our true battle has just begun.
 <es>
 
 @781
-<en>Today is only a short time, but some day...I will make it for good.
+<en>Today is only a short time, but some day... I will make it for good.
 <es>
 
 @784
-<en>{Mizuki}\n"Kazushi..."
+<en>{Mizuki}\n"Hey, Kazushi."
 <es>
 
 @785
-<en>Mizuki calls me.
+<en>Mizuki called for me.
 <es>
 
 @786
-<en>{Kazushi}\n"Yeah?"
+<en>{Kazushi}\n"Yeah? What is it?"
 <es>
 
 @787
-<en>Watching the dolphins dancing in the sea, Mizuki nestles up to me with her hand around my arm.
+<en>As we watched the dolphins dancing in the sea, Mizuki nestled up to me with her hand around my arm.
 <es>
 
 @790
@@ -1557,11 +1557,11 @@
 <es>
 
 @791
-<en>Mizuki says it as if she squeezes that word. She holds my arm tight.
+<en>Mizuki said, as though she had to choke out the middle word. She tightly held my arm.
 <es>
 
 @792
-<en>{Kazushi}\n"I know. Me too."
+<en>{Kazushi}\n"I know. I love you too."
 <es>
 
 @793
@@ -1569,18 +1569,18 @@
 <es>
 
 @795
-<en>Then we kiss each other. A limited time given to us - we spend the time kissing each other for a long time.
+<en>Then we kissed each other. During the limited time given to us, we spent most of it kissing each other for a long, long time.
 <es>
 
 @796
-<en>This is the furthest we could come. But some day soon, she will swim with the dolphins again .
+<en>This is the furthest we could come today. But someday soon, she will swim with the dolphins again.
 <es>
 
 @797
-<en>On that occation - I will swim with her.
+<en>And on that occasion, I will swim with her.
 <es>
 
 @798
-<en>And some day, she and I will swim in this sea together for ever...
+<en>And someday, she and I will swim together in the ocean forever.
 <es>
 

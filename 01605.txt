@@ -5,11 +5,11 @@
 <es>{Kazushi}\n"¡No puedo creer la suerte que tengo!"
 
 @10
-<en>Life is so interesting.
+<en>So many things I never thought would happen are happening now, and my life is much more interesting. There's still a whole lot I don't know, too.
 <es>La vida es tan interesante...
 
 @11
-<en>{Kazushi}\n"Life is good!"
+<en>{Kazushi}\n"Ah, hah, hah! Hooray for life!"
 <es>{Kazushi}\n"¡La vida es buena!"
 
 @12
@@ -17,43 +17,43 @@
 <es>{Kazushi}\n"Quizá ya debería dejar de reirme."
 
 @13
-<en>I need to solve this situation.
+<en>I need to resolve this situation.
 <es>Tengo que solucionar esta situación.
 
 @16
-<en>{Kazushi}\n"......!!"
+<en>{Kazushi}\n"......huh?"
 <es>{Kazushi}\n"¡¡...!!"
 
 @22
-<en>{Daigo}\n"Where is Kazushi?"
+<en>{Daigo}\n"Hey, have you seen Kazushi?"
 <es>{Daigo}\n"¿Dónde está Kazushi?"
 
 @27
-<en>{Mizuki}\n"He said he is going to the restroom."
+<en>{Mizuki}\n"He said he needed to use the restroom. Is he not back yet?"
 <es>{Mizuki}\n"Ha dicho que iba al servicio."
 
 @34
-<en>{Teacher Yagami}\n"Let's start-, everyone get seated!"
+<en>{Yagami}\n"OK, everybody, take your seats and let's get started."
 <es>{Profesor Yagami}\n"Empecemos. ¡Sentaos todos!"
 
 @38
-<en>{Mizuki}\n"The class is starting."
+<en>{Mizuki}\n"Class is starting!"
 <es>{Mizuki}\n"La clase acaba de empezar."
 
 @42
-<en>{Teacher Yagami}\n"......?\nWhere is Kazushi?"
+<en>{Yagami}\n"...Hmm? Where's Kazushi?"
 <es>{Profesor Yagami}\n"¿...?\n¿Dónde está Kazushi?"
 
 @47
-<en>{Ran}\n"......I think he ditched-"
+<en>{Ran}\n"I think he's ditched class!"
 <es>{Ran}\n"Creo que se ha saltado la clase..."
 
 @50
-<en>{Teacher Yagami}\n"What!?"
+<en>{Yagami}\n"What!?"
 <es>{Profesor Yagami}\n"¿¡Qué!?"
 
 @54
-<en>{Mizuki}\n"Where did he go?"
+<en>{Mizuki}\n"Where'd he go?"
 <es>{Mizuki}\n"¿A dónde ha ido?"
 
 @61
@@ -61,23 +61,23 @@
 <es>{Kazushi}\n"Me resulta increíble que haya sido capaz de perderme en mi propia escuela."
 
 @62
-<en>I just stepped out from my class for a restroom.
+<en>I just stepped out to use the restroom, but now class has already started.
 <es>Acababa de salir de clase para ir al servicio.
 
 @63
-<en>{Kazushi}\n"Shit!!\nIt's teacher Yagami's class next......"
+<en>{Kazushi}\n"Shit!! It's Yagami-sensei's class next......"
 <es>{Kazushi}\n"¡¡Joder!!\nY la siguiente clase la da el profesor Yagami..."
 
 @64
-<en>I don't know what I would get from him......
+<en>I don't know what he'll do to me if I miss it...
 <es>
 
 @65
-<en>{Kazushi}\n"..................shit!"
+<en>{Kazushi}\n"..................Brrr!"
 <es>{Kazushi}\n"... ¡Joder!"
 
 @66
-<en>I need to go back as soon as possible.
+<en>I was already starting to shiver. I need to get back ASAP!
 <es>Tengo que llegar cuanto antes.
 
 @73
@@ -85,74 +85,74 @@
 <es>{Kazushi}\n"Y ahora estoy hasta más perdido."
 
 @74
-<en>I never knew this school was so huge.
+<en>As I walked around without any direction, I found myself further away from familiar sights. I never knew this school was so huge.
 <es>No sabía que esta escuela fuese tan grande.
 
 @75
-<en>{Kazushi}\n"Shit-......\nI'm definitely late now."
+<en>{Kazushi}\n"Shit......I'm definitely late now."
 <es>{Kazushi}\n"Mierda...\nYa llego tarde seguro."
 
 @76
-<en>At this point, I think it's better off not going back now. I don't know what Teacher Yagami's going to do to me in front of everybody.
+<en>At this point, I think I'm better off not going back at all. If I went back now, I'd become blood on the walls in front of everyone.
 <es>Llegados a este punto, creo que será mejor no volver. No sé lo que me haría el profesor Yagami delante de todos.
 
 @77
-<en>He will make me cry in front of everybody.
+<en>He'd probably make me cry. Right in front of the whole class.
 <es>Hará que me ponga a llorar delante de toda la clase.
 
 @78
 # Me pelaré la clase.
 # Haré campana.
 # Me saltaré la clase.
-<en>{Kazushi}\n"..................I'll ditch it."
+<en>{Kazushi}\n"...............Guess I'll ditch."
 <es>{Kazushi}\n"Me saltaré la clase..."
 
 @79
-<en>Since I'm going to ditch the class, I might as well utilize this time to explore this school land.
+<en>Now that I'm skipping, it's suddenly fun. Might as well take this chance and explore the school. If I can get lost, there must be plenty of places I don't know yet.
 <es>Ya que voy a escaquearme, podría aprovechar el tiempo para explorar un poco la escuela.
 
 @80
-<en>{Kazushi}\n"I'm actually good at resetting my mind."
+<en>{Kazushi}\n"I'm pretty quick at changing mindsets. This is Harumaism."
 <es>
 
 @81
-<en>I started to wonder around school facility.
+<en>I started wandering around to wherever my legs took me.
 <es>Empecé a vagar por la escuela.
 
 @87
-<en>This looks like a library here.
+<en>Eventually, I reached what looked like a library.
 <es>Aquí parece que hay una biblioteca.
 
 @88
-<en>{Kazushi}\n"It's a nice building for library."
+<en>{Kazushi}\n"This is a really nice library."
 <es>{Kazushi}\n"Es un buen edificio."
 
 @89
-<en>Yep, I see many books.
+<en>It was filled with books, but I guess that's natural for a library.
 <es>Sip. Y tiene un montón de libros.
 
 @90
-<en>{Kazushi}\n"I wonder if there is comic books?"
+<en>{Kazushi}\n"I wonder if they've got manga..."
 <es>{Kazushi}\n"Me pregunto si tendrán comics."
 
 @91
-<en>If not, maybe I can find magazines at least.
+<en>If not, maybe they've at least got some magazines. I'll just kill some time before heading back.
 <es>Si no, igual puedo encontrar al menos revistas.
 
 @92
-<en>{Kazushi}\n"I wonder if I can ever go back there."
+<en>{Kazushi}\n"I wonder if I'll ever find my way back, though..."
 <es>
 
 @93
-<en>Well, I should stop worrying. Maybe somebody will be here later.
+<en>Well, no use worrying about it. Maybe someone will come here once class is over.
 <es>
 
 @94
-<en>{Kazushi}\n"Where are the comic books-?\nI don't mind porn either......"
+<en>{Kazushi}\n"Now, where's the manga? Or better yet, porno books..."
 <es>{Kazushi}\n"¿Dónde están los comics?\nY tampoco estaría mal un poco de porno..."
 
 @97
-<en>{Mei}\n"Is it you, Kazushi?"
+<en>{Mei}\n"Is that you, Haruma-kun?"
 <es>{Mei}\n"¿Eres tú, Kazushi?"
 
 @98
@@ -164,27 +164,27 @@
 <es>{Mei}\n"¿¡Ey!?"
 
 @102
-<en>My voice echoed in empty library.
+<en>My voice echoed through the empty library, surprising even me.
 <es>Mi voz resonó en la vacía biblioteca.
 
 @103
-<en>Miss. Ibuki was surprised by that loud voice of mine.
+<en>I turned around to find Mei-sensei looking tensed up as well.
 <es>
 
 @106
-<en>{Kazushi}\n"Miss. Ibuki?"
+<en>{Kazushi}\n"Mei-sensei?"
 <es>{Kazushi}\n"¿Señorita Ibuki?"
 
 @109
-<en>{Mei}\n"You surprised me!\nMy heart stopped for a second."
+<en>{Mei}\n"You surprised me! Don't be so loud. I thought my heart stopped for a second."
 <es>
 
 @110
-<en>{Kazushi}\n"Is your heart all right?"
+<en>{Kazushi}\n"Are you okay? Is your heart still beating?"
 <es>
 
 @113
-<en>{Mei}\n"I think so.\nDo you wanna touch and check?"
+<en>{Mei}\n"Yes, I think so. Do you want to feel?"
 <es>{Mei}\n"Eso creo.\n¿Quieres tocar para comprobarlo?"
 
 @114
@@ -192,27 +192,27 @@
 <es>{Kazushi}\n"... ¿¡Qué!?"
 
 @117
-<en>I can see her big breasts still pounding.
+<en>My eyes went straight to her chest. I could tell her breasts were big from the bulge in her clothes which moved up and down with each breath of hers.
 <es>
 
 @118
-<en>{Kazushi}\n"Can I really touch it?"
+<en>{Kazushi}\n"Can I really?"
 <es>{Kazushi}\n"¿De verdad que puedo tocarlo?"
 
 @122
-<en>{Mei}\n"You didn't think I was serious, did you?"
+<en>{Mei}\n"Oh, no, you thought I was serious? I only meant it as a crass joke."
 <es>{Mei}\n"No creerás que lo decía en serio, ¿no?"
 
 @123
-<en>{Kazushi}\n"You were joking!?\nYou just broke my dream!"
+<en>{Kazushi}\n"What?! You were joking?! Y-you were toying with the pure feelings of a young man?!"
 <es>{Kazushi}\n"¿¡Así que era una broma!?\n¡Has hundido mis esperanzas!"
 
 @126
-<en>{Mei}\n"Don't be so dramatic about it. I guess I shouldn't joke around with you."
+<en>{Mei}\n"Oh, don't say such weird things. It's odder to take that seriously. I guess you don't get jokes very well."
 <es>{Mei}\n"No te pongas tan dramático. Supongo que no debería bromear contigo."
 
 @129
-<en>{Mei}\n"You are so difficult."
+<en>{Mei}\n"I'm so disMEIed."
 <es>{Mei}\n"Eres muy difícil."
 
 @130
@@ -220,39 +220,39 @@
 <es>{Kazushi}\n"..."
 
 @133
-<en>{Mei}\n"You really are difficult."
+<en>{Mei}\n"Oh dear. You really don't get jokes."
 <es>{Mei}\n"Eres realmente difícil."
 
 @134
-<en>I was just so disappointed. I became speechless for a while.
+<en>Sensei's bad pun cooled down my anger in an instant. Her Mei-jokes are fearsome...
 <es>Estaba muy desilusionado. Me quedé sin habla durante un rato.
 
 @135
-<en>{Kazushi}\n"All right, then."
+<en>{Kazushi}\n"Hahh, whatever."
 <es>{Kazushi}\n"Está bien."
 
 @138
-<en>{Mei}\n"Come on, don't be so naive......"
+<en>{Mei}\n"What's with that attitude? You'll hurt my feelings..."
 <es>{Mei}\n"Venga, no seas tan ingenuo..."
 
 @139
-<en>{Kazushi}\n"By the way, what are you doing here?"
+<en>{Kazushi}\n"By the way, what are you doing here? I was surprised when you called me."
 <es>{Kazushi}\n"Por cierto. ¿Qué haces aquí?"
 
 @142
-<en>{Mei}\n"That's what I want to know. By the way, I'm also a librarian."
+<en>{Mei}\n"That's what I want to know. I'm the bibliothecary, so it's only natural for me to be here."
 <es>{Mei}\n"Eso era lo mismo que iba a preguntarte. Por cierto, soy la bibliotecaria."
 
 @143
-<en>{Kazushi}\n"You arewhat?"
+<en>{Kazushi}\n"Bibliothecary?"
 <es>{Kazushi}\n"¿Que eres qué?"
 
 @144
-<en>What is a librarian? I'm embarrassed to ask her.
+<en>What's a bibliothecary? I'm embarrassed to ask...
 <es>¿Qué es una 'bibliotecaria'? Me da vergüenza preguntarle.
 
 @147
-<en>{Mei}\n"Aren't you supposed to be in class now?"
+<en>{Mei}\n"Haruma-kun, why are you here? Aren't you supposed to be in class right now?"
 <es>{Mei}\n"¿No se supone que deberías estar en clase?"
 
 @148
@@ -260,86 +260,86 @@
 <es>{Kazushi}\n"Debería."
 
 @149
-<en>If I think about it, it was not a good timing to see her here.
+<en>Now that I think about it, it wasn't such good timing to see her here. I was caught ditching by a teacher.
 <es>
 
 @152
-<en>{Mei}\n"Are you perhaps ditching?"
+<en>{Mei}\n"Could you be cutting class? I must say, I don't approve."
 <es>{Mei}\n"¿Acaso estás saltándote la clase?"
 
 @153
-<en>{Kazushi}\n"I can explain."
+<en>{Kazushi}\n"There's not much I can say against that, but I do have a reason."
 <es>{Kazushi}\n"Puedo explicarlo."
 
 @156
-<en>{Mei}\n"Go ahead."
+<en>{Mei}\n"Then I'll listen to it."
 <es>{Mei}\n"Adelante."
 
 @157
-<en>I told her honestly that I got lost.
+<en>I told her all about how I got lost. It was pretty embarrassing for a guy my age.
 <es>Le conté con honestidad que me había perdido.
 
 @158
-<en>It was embarrassing.
+<en>But I dealt with the shame and told her the truth.
 <es>Fue muy bochornoso.
 
 @161
-<en>{Mei}\n"You got lost?\nThat's so funny......"
+<en>{Mei}\n"Oh my, you got lost? That is a problem. Tee-hee..."
 <es>{Mei}\n"¿Qué te has perdido?\nQué divertido..."
 
 @162
-<en>See. I knew she'd laugh at me.
+<en>See? I knew she'd laugh at me. It was embarrassing, but it was better than being yelled at, and it didn't sound mean either.
 <es>¿Ves? Sabía que se reiría de mí.
 
 @163
-<en>She laughed at me like a little girl
+<en>She looked even younger than usual with her hand covering her mouth as she laughed. I didn't know she laughed like that.
 <es>Se rió de mí como una niñita.
 
 @166
-<en>{Mei}\n"Well, I don't blame you. You are still new here."
+<en>{Mei}\n"Well, I don't blame you. You're still new here."
 <es>{Mei}\n"Bueno, no te culpo. Todavía eres nuevo."
 
 @167
-<en>{Kazushi}\n"How could I get lost just going to a restroom?"
+<en>{Kazushi}\n"How could I get lost just going to and from the boys' room?"
 <es>{Kazushi}\n"¿Cómo he podido perderme yendo al servicio?"
 
 @168
-<en>That's what I would like to know.
+<en>That's what I'd like to know.
 <es>Eso es lo que me gustaría saber.
 
 @171
 # Revisar.
-<en>{Mei}\n"You know in this school, sometimes, time and place gets mingled."
+<en>{Mei}\n"You know, at this school, time and space sometimes get jumbled up. Sometimes even those who are used to it get lost."
 <es>{Mei}\n"Verás. En esta escuela a veces el espacio y el tiempo se entremezclan."
 
 @172
 # Revisar.
-<en>{Kazushi}\n"What? Time and place gets mingled?"
+<en>{Kazushi}\n"What? Time and space get mixed up?"
 <es>{Kazushi}\n"¿Qué? ¿Qué el espacio y el tiempo qué?"
 
 @173
-<en>I don't understand a word of what she said.
+<en>I was about to sigh, when my mouth fell open. I didn't understand a word of what she was saying.
 <es>No entiendo una palabra de lo que me está diciendo.
 
 @176
 # Revisar. "O con el hecho de que estudimos aquí."
-<en>{Mei}\n"I think it's got a lot to do with how we study Alchemy here."
+<en>{Mei}\n"Well, we practice alchemy here, right? I think that's the reason why strange things occasionally occur."
 <es>{Mei}\n"Diría que tiene bastante que ver con la forma en la que estudiamos Alquimia aquí."
 
 @177
-<en>{Kazushi}\n"......it does?"
+<en>{Kazushi}\n"I see... is that how it is?"
 <es>{Kazushi}\n"... ¿Sí?"
 
 @179
-<en>She' right. Ever since we got here, we've witnessed many magical stuffs.
+<en>That's true. There have been a lot of strange things since we got here. Grass and branches are growing all around us. A living signpost and streetlight...
 <es>Tiene razón. Desde que llevo aquí, he visto muchas cosas mágicas.
 
 @180
-<en>Talking of magical stuff, Alchemy itself is pretty magical.
+<en>We were already getting used to it, but alchemy itself is pretty strange.
 <es>Y pensando en cosas mágicas... La alquimia en sí, ya es bastante mágica.
 
 @183
-<en>{Mei}\n"I think you should go back to your class. Here, let me take you back there."
+<en>{Mei}\n"It's still not good to cut class, though. Here, let me lead you back."
 <es>{Mei}\n"Creo que deberías volver a clase. Venga, te acompañaré."
 
 @184
@@ -351,43 +351,43 @@
 <es>Le rogué que se esperase.
 
 @186
-<en>{Mei}\n"What is it?\nYour class has already started."
+<en>{Mei}\n"What is it? This period has already started."
 <es>{Mei}\n"¿Qué ocurre?\nTu clase ya debería haber empezado."
 
 @187
-<en>{Kazushi}\n"Can I stay here untill end of this period?"
+<en>{Kazushi}\n"Can I stay here until this hour's over?"
 <es>{Kazushi}\n"¿No puedo quedarme aquí hasta que termine?"
 
 @190
-<en>{Mei}\n"You asking me to let go with you ditcing a class?\nIncase you've forgotten, I'm a teacher, you know?"
+<en>{Mei}\n"You're asking me to let you off for ditching class? In case you've forgotten, I'm also a teacher, you know."
 <es>{Mei}\n"¿Me estás pidiendo que te deje saltarte una clase?\nNo sé si ya lo has olvidado, pero soy una profesora, ¿recuerdas?"
 
 @191
-<en>{Kazushi}\n"I'm sorry......\nbut I don't want to embarrasse myself in front of my classmates......it's Teacher Yagami's class now."
+<en>{Kazushi}\n"I'm sorry... It's just that this period is Yagami-sensei's class. If I went back now, well...you know."
 <es>{Kazushi}\n"Lo siento...\nPero no quiero que me averguence delante de mis compañeros... Ahora toca clase con el profesor Yagami."
 
 @194
-<en>{Mei}\n"I see."
+<en>{Mei}\n"Oh, it's Yagami-sensei's?"
 <es>{Mei}\n"Ya veo."
 
 @195
-<en>I'm glad she understood what I meant by bringing up Mr.Yagami's name.
+<en>I'm glad she understood what I meant by bringing up his name. Her gentle expression became quite stern, though.
 <es>Me alegro de que haya entendido a lo que me refería al mencionar al profesor Yagami.
 
 @196
-<en>{Mei}\n"He's goning to physicaly punish you, wouldm't he?"
+<en>{Mei}\n"He'd knock you about for this, wouldn't he?"
 <es>{Mei}\n"Te va a castigar físicamente, ¿no?"
 
 @197
-<en>{Kazushi}\n"I think so."
+<en>{Kazushi}\n"I think so. Though it might only be a punch."
 <es>{Kazushi}\n"Eso creo."
 
 @198
-<en>His punches hurts so much.
+<en>His punches hurt so much, though.
 <es>Sus puñetazos son de todo menos agradables precisamente.
 
 @201
-<en>{Mei}\n"All right.\nYou can stay here untill end of this period."
+<en>{Mei}\n"All right. You can stay here until end of this period."
 <es>{Mei}\n"Está bien.\nPuedes quedarte aquí hasta que termine la clase."
 
 @202
@@ -396,16 +396,16 @@
 
 @205
 # O 'que te van a agredir.'
-<en>{Mei}\n"I can't make go back to your classroomn knowing you'll get pysical punishment."
+<en>{Mei}\n"I can't make you go back to the classroom knowing that you'll get physically punished."
 <es>{Mei}\n"Sería incapaz de hacerte volver a clase sabiendo que te van a castigar físicamente."
 
 @206
-<en>I know she's against the way Mr.Yagami educate us.
+<en>Sensei clenched her fist and glared off into space. She really must not get along with Yagami-sensei's ideas.
 <es>Sé que está en contra de cómo nos educa el señor Yagami.
 
 @207
 # ¿Se refiere al profesor Yagami en sí o a los castigos físicos?
-<en>{Kazushi}\n"It's not as barbarous as you think though."
+<en>{Kazushi}\n"It's not as barbarous as you think, though."
 <es>{Kazushi}\n"No es tan bestia como piensas."
 
 @210
@@ -413,23 +413,23 @@
 <es>{Mei}\n"Pero... Te iba a dar un puñetazo, ¿no?"
 
 @211
-<en>{Kazushi}\n"Yes, but......\nit's not like he's going to punch me for no reason."
+<en>{Kazushi}\n"Yes, but...... It's not like he's going to punch me for no reason."
 <es>{Kazushi}\n"Sí, pero...\nNo es que me fuese a agredir sin ningún motivo."
 
 @214
-<en>{Mei}\n"Ofcourse.\nThat will be a crime."
+<en>{Mei}\n"Of course not. That would be plain assault, not punishment."
 <es>
 
 @215
-<en>I'm glad she doesn't believe in physical punishment.
+<en>Mei-sensei was absolutely opposed to corporal punishment. No wonder she didn't agree with Yagami-sensei.
 <es>Me alegro de que no crea en el castigo físico.
 
 @216
-<en>{Mei}\n"Has he always been like this?\nHow about in the previous school, other teachers didn't say anything to him?"
+<en>{Mei}\n"Has he always been like this? What was it like at your previous school? Didn't the other teachers say anything to him?"
 <es>{Mei}\n"¿Ha sido siempre así?\n¿Y en la anterior escuela, no le decían nada los otros profesores?"
 
 @217
-<en>{Kazushi}\n"Most teachers were like him in our previous school, actually."
+<en>{Kazushi}\n"Actually, most of the teachers at our last school were like him."
 <es>{Kazushi}\n"La verdad es que en nuestra antigua escuela, casi todos los profesores eran como él."
 
 @220
@@ -437,43 +437,43 @@
 <es>{Mei}\n"¿Lo dices en serio?"
 
 @223
-<en>She raises her eyebrows as she can't control her anger......
+<en>She raised her eyebrows as if it was preposterous. Sensei was still beautiful when she was angry, but...
 <es>Alza las cejas como si fuese incapaz de controlar la furia...
 
 @224
-<en>{Kazushi}\n"You don't believe in physical punishment, right?"
+<en>{Kazushi}\n"You don't believe in corporal punishment, right?"
 <es>{Kazushi}\n"Tú no crees en el castigo físico, ¿verdad?"
 
 @225
-<en>{Mei}\n"Ofcourse not.\nThat is so primitive."
+<en>{Mei}\n"Of course not. The idea that you can hit someone and make them listen is just barbaric!"
 <es>{Mei}\n"Claro que no.\nEs muy primitivo."
 
 @226
-<en>{Kazushi}\n"I see......"
+<en>{Kazushi}\n"Maybe..."
 <es>{Kazushi}\n"Ya veo..."
 
 @227
-<en>I actually believe in it to tell you the truth.
+<en>I couldn't quite agree though, for some reason.
 <es>La verdad es que yo sí creo.
 
 @230
-<en>{Mei}\n"You seem like you believe in it."
+<en>{Mei}\n"It seems like you think it's right."
 <es>{Mei}\n"Parece que tú sí crees en él."
 
 @231
-<en>I feel like I can talk to her honestly.
+<en>Her expression softened as she looked me, and oddly enough, I felt like I could talk to her honestly.
 <es>Tengo la necesidad de ser honesto con ella.
 
 @232
-<en>{Kazushi}\n"There is a significant difference between physical punishment and violence."
+<en>{Kazushi}\n"There's a significant difference between taking a few blows as a punishment and random violence."
 <es>{Kazushi}\n"Hay una diferencia fundamental entre el castigo físico y la violencia."
 
 @235
-<en>{Mei}\n"They are the same!"
+<en>{Mei}\n"Aren't they the same?"
 <es>{Mei}\n"¡Son lo mismo!"
 
 @236
-<en>{Kazushi}\n"We've never felt like being a victim.\nWe actually feel like being treated fair......"
+<en>{Kazushi}\n"We've never felt like victims. We actually feel like we're being treated fairly..."
 <es>{Kazushi}\n"Nunca nos hemos sentido como víctimas.\nSiempre hemos tenido la sensación de tener un trato justo..."
 
 @237
@@ -481,11 +481,11 @@
 <es>{Mei}\n"¿Siendo agredidos?"
 
 @238
-<en>{Kazushi}\n"We let him punch, because we know we did something wrong......."
+<en>{Kazushi}\n"We let him punch us because we know we've done something wrong. If we didn't think we were wrong, we wouldn't just sit there quietly and let him do that."
 <es>{Kazushi}\n"Le dejamos que nos pegue, porque sabemos que hemos hecho algo mal..."
 
 @239
-<en>{Kazushi}\n"And he listens to us whenever we need to talk to him......."
+<en>{Kazushi}\n"And at times like that, he listens to what he have to say about it. Though we're usually still in the wrong anyways..."
 <es>{Kazushi}\n"Y siempre nos escucha cuando necesitamos hablar con él..."
 
 @242
@@ -493,7 +493,7 @@
 <es>{Mei}\n"Aún así... La violencia es un crimen."
 
 @243
-<en>{Kazushi}\n"You know, when he punches us, it's not where we got hit it hurts,\nit's our heart where it hurts......"
+<en>{Kazushi}\n"You know, when he punches us, it's not where he hits us that hurts:\nIt's our hearts..."
 <es>
 
 @246
@@ -502,15 +502,15 @@
 
 @247
 # Parece no comprender que pueda defender la actitud del señor Yagami.
-<en>She seems to be in disblief of hearing me protect Mr.Yagami.
+<en>She couldn't believe what she was hearing as I protected Yagami-sensei.
 <es>Parece no comprender que pueda defender al señor Yagami.
 
 @248
-<en>I'm glad she is listening to me seriously.
+<en>I'm glad she was listening to me seriously.
 <es>Me alegro de que me esté escuchando en serio.
 
 @249
-<en>In a sence, Miss. Ibuki and Mr.Yagami are the same this way.
+<en>In a way, this makes Mei-sensei and Yagami-sensei very similar.
 <es>En cierta medida, la señorita Ibuki y el profesor Yagami son iguales.
 
 @252
@@ -518,11 +518,11 @@
 <es>{Mei}\n"Lo comprendo."
 
 @253
-<en>She finally opened her mouth after a while.
+<en>She finally opened her mouth after thinking a while, looking much more relieved.
 <es>Tras un rato, finalmente abrió la boca.
 
 @254
-<en>{Kazushi}\n"You understand what we think of Mr.Yagami?"
+<en>{Kazushi}\n"You understand how we feel?"
 <es>{Kazushi}\n"¿Comprendes lo que pensamos sobre el profesor Yagami?"
 
 @257
@@ -534,7 +534,7 @@
 <es>{Kazushi}\n"¿No?"
 
 @261
-<en>{Mei}\n"I'm going try getting punched by Mr.Yagami."
+<en>{Mei}\n"That's why I'm going to try getting punched by Yagami-sensei."
 <es>
 
 @262
@@ -542,27 +542,27 @@
 <es>{Kazushi}\n"¿Pero qué estás diciendo?"
 
 @263
-<en>She came up with a weired conclusion.
+<en>Where did that come from? What does she mean, she's going to get punched by Yagami-sensei?
 <es>Llegó a una conclusión muy chunga.
 
 @266
-<en>{Mei}\n"As a teacher, I want to experience what you guys are going through to understand what it really feels like."
+<en>{Mei}\n"As your teacher, I want to experience what you guys are going through in order to understand what it really feels like."
 <es>{Mei}\n"Como profesora, quiero experimentar por lo que pasáis para comprender cómo se siente en realidad."
 
 @267
-<en>{Kazushi}\n"I don' think you have to go that far."
+<en>{Kazushi}\n"I don't think you have to go that far..."
 <es>{Kazushi}\n"No creo que tengas que llegar tan lejos..."
 
 @270
-<en>{Mei}\n"No. This is my mission as a teacher."
+<en>{Mei}\n"No. This is my duty as a teacher, and also a matter of my pride. Come, let's go."
 <es>{Mei}\n"No. Es mi misión como profesora."
 
 @272
-<en>{Kazushi}\n"Miss. Ibuki......"
+<en>{Kazushi}\n"Mei-sensei......"
 <es>{Kazushi}\n"Señorita Ibuki..."
 
 @281
-<en>{Teacher Yagami}\n"What? You want me to punch you?"
+<en>{Yagami}\n"What? You want me to punch you?"
 <es>{Profesor Yagami}\n"¿Qué? ¿Que quieres que te pegue?"
 
 @282
@@ -570,24 +570,24 @@
 <es>{Mei}\n"Sí."
 
 @283
-<en>Is she serious?
+<en>Come on, are you serious? Even Yagami-sensei is dumbfounded.
 <es>¿Va en serio?
 
 @286
-<en>{Teacher Yagami}\n"What in the world you start saying such a crazy thing?"
+<en>{Yagami}\n"You bring our lazy Kazushi back, and now you're saying such crazy things?"
 <es>{Profesor Yagami}\n"¿Por qué demonios has dicho semejante locura?"
 
 @287
-<en>Mr.Yagami is astonished by Miss. Ibuki's idea.
+<en>Yagami-sensei was astonished by Mei-sensei's idea.
 <es>El profesor Yagami está estupefacto con la idea de la señorita Ibuki.
 
 @290
-<en>{Mei}\n"I need to do this to understand my students."
+<en>{Mei}\n"I need to do this to understand my students. Now, please give it to me just like you do them."
 <es>{Mei}\n"Debo hacerlo para comprender a mis estudiantes."
 
 @293
 # {Profesor Yagami}\n"Oye Kazushi. ¿Por qué está actuando así?"
-<en>{Teacher Yagami}\n"Hey Kazushi, why is she acting like this?"
+<en>{Yagami}\n"Well, huh. Hey, Kazushi, I don't have any idea why she's acting like this. Do you know what's going on?"
 <es>{Profesor Yagami}\n"Oye Kazushi. ¿Por qué dice esas cosas?"
 
 @294
@@ -599,23 +599,23 @@
 <es>{Mei}\n"Por favor, adelante."
 
 @298
-<en>She looked at Mr.Yagami seriously and closed her eyes to let him know she's ready.
+<en>She looked at Yagami-sensei earnestly, and closed her eyes to let him know she was ready. He just heaved a troubled sigh.
 <es>
 
 @301
-<en>{Teacher Yagami}\n"All right, I'll do it."
+<en>{Yagami}\n"All right, I'll do it."
 <es>
 
 @302
-<en>{Kazushi}\n"Wait, Mr.Yagami!"
+<en>{Kazushi}\n"Wait, sensei!"
 <es>
 
 @307
-<en>{Kazushi}\n(Are you really going to hit a lady?)
+<en>{Kazushi}\n(Are you really going to hit a woman?)
 <es>{Kazushi}\n(¿Vas a golpear de verdad a una señorita?)
 
 @308
-<en>{Teacher Yagami}\n(What else can I do to get out from this?)
+<en>{Yagami}\n(What else can I do to get out of this?)
 <es>
 
 @309
@@ -623,11 +623,11 @@
 <es>Tiene razón.
 
 @314
-<en>{Mei}\n"Hurry!"
+<en>{Mei}\n"Hurry up and hit me!"
 <es>{Mei}\n"¡Rápido!"
 
 @317
-<en>{Teacher Yagami}\n"All right......ready?"
+<en>{Yagami}\n"Hahh... All right, ready?"
 <es>
 
 @320
@@ -635,27 +635,27 @@
 <es>{Mei}\n"Por favor."
 
 @323
-<en>Her will is strong.
+<en>She replied with firm resolution, and closed her eyes.
 <es>Tiene una voluntad de hierro.
 
 @328
-<en>{Kazush}\n(Mr.Yagami, wait!)
+<en>{Kazushi}\n(Sensei, wait!)
 <es>{Kazush}\n(Profesor Yagami, ¡espera!)
 
 @331
-<en>{Teacher Yagami}\n( I know. Ofcourse I'll go easy on her.)
+<en>{Yagami}\n(I know. Of course I'll go easy on her.)
 <es>
 
 @336
-<en>He raised his fist.
+<en>He whispered, raising his fist. Then he swung down at Mei-sensei.
 <es>Alza su puño.
 
 @343
-<en>{Mei}\n"Ou!?"
+<en>{Mei}\n"OW!!"
 <es>
 
 @345
-<en>She holds her head and doesn't move.
+<en>She held her head in her hands and didn't move.
 <es>
 
 @346
@@ -663,11 +663,11 @@
 <es>
 
 @347
-<en>{Mei}\n"@#$%^& ---------!"
+<en>{Mei}\n"#$&*#$@!"
 <es>
 
 @348
-<en>She's still holding her head crying.
+<en>She started crying as she held onto her head.
 <es>
 
 @351
@@ -675,11 +675,11 @@
 <es>{Mei}\n"Auu..."
 
 @352
-<en>She's looking at me with crying eyes.
+<en>She looked at me with tears welling up in her eyes.
 <es>
 
 @353
-<en>{Mei}\n"You lied to me-\nit does hurt-"
+<en>{Mei}\n"You lied to me. It really hurts."
 <es>{Mei}\n"Me mentiste...\nDuele."
 
 @354
@@ -687,23 +687,23 @@
 <es>{Kazushi}\n"Yo no dije que no doliese. Y te dije que no lo hicieras."
 
 @355
-<en>{Mei}\n"This is indeed violence.\nI can't aprove this."
+<en>{Mei}\n"This is indeed nothing more than violence.\nI can't approve of this."
 <es>{Mei}\n"Esto es violencia.\nNo puedo aprobarlo."
 
 @356
-<en>She protested physical violence while she's crying.
+<en>She protested the violence in our lives through her tears.
 <es>Protestó contra la violencia física mientras todavía estaba llorando.
 
 @362
-<en>{Appo-}\n"Mr.Yagami is making Mei cry!"
+<en>{Appo}\n"Yagami-sensei is making my Mei-chan cry!"
 <es>{Appo-}\n"¡El señor Yagami a hecho llorar a Mei!"
 
 @363
-<en>{Pierre}\n"You such a violent teacher-!"
+<en>{Pierre}\n"You're such a violent teacher!"
 <es>
 
 @367
-<en>{Teacher Yagami}\n"This is not my fault."
+<en>{Yagami}\n"Hey, this isn't my fault!"
 <es>{Profesor Yagami}\n"No es culpa mía."
 
 @372
@@ -712,6 +712,6 @@
 
 @373
 # <es>Tenía su morbo verla llorar y protestar al mismo tiempo.
-<en>It was kind of cute to see her cry and protest at the same time.
+<en>I felt bad to say it, but it was kind of cute seeing her cry and protest and the same time.
 <es>Tenía cierto morbo verla llorar y protestar al mismo tiempo.
 

@@ -6,27 +6,27 @@
 # hacerle fotos a la señorita Ibuki, una extraña planta acosa a los chicos hasta que escapan saltando por la ventana.
 
 @8
-<en>{Kazushi}\n\t"That was tiring."
+<en>{Kazushi}\n"That was exhausting."
 <es>{Kazushi}\n\t"Qué cansancio."
 
 @9
-<en>......it was a long class.
+<en>I let myself get too relaxed, so class left me MEIjorly......I mean, majorly tired.
 <es>Ha sido una clase muy larga...
 
 @13
-<en>{Ran}\n"You didn't learn that part in your old school?"
+<en>{Ran}\n"It must be tough coming in halfway through the courses."
 <es>{Ran}\n"¿No habías aprendido eso en tu anterior escuela?"
 
 @14
-<en>{Kazushi}\n"My only hope is that our summer break is coming up soon."
+<en>{Kazushi}\n"What a time we picked to transfer. Well, at least summer break is around the corner."
 <es>{Kazushi}\n"La única esperanza que me queda es que lleguen pronto las vacaciones de verano."
 
 @15
-<en>Although there will be a final exam before the break.
+<en>We had final exams before that, but once we overcame those, it was summer break.
 <es>Aunque habrá un examen final antes de las vacaciones.
 
 @16
-<en>{Kazushi}\n"......our summer break."
+<en>{Kazushi}\n"Our summer break... Oh."
 <es>{Kazushi}\n"Las vacaciones de verano..."
 
 @17
@@ -34,31 +34,31 @@
 <es>Acabo de percatarme de algo muy importante.
 
 @18
-<en>{Kazushi}\n"Do you guys leave this island and go back to your home during the break?"
+<en>{Kazushi}\n"Do you guys leave the island and go home during your breaks?"
 <es>{Kazushi}\n"¿Dejáis la isla y volvéis a casa durante las vacaciones?"
 
 @19
-<en>If everyone leaves this island, there is no point for me to stay here.
+<en>I hadn't thought about it. We just got here, so the thought of going home was hardly on our minds, but if everyone else goes home, there's no point staying.
 <es>Si todo el mundo deja la isla, no tiene sentido que me quede aquí.
 
 @20
-<en>{Ran}\n"Not me."
+<en>{Ran}\n"I don't. It's such a pain."
 <es>{Ran}\n"Yo no."
 
 @25
-<en>{Sakura}\n"I stay here, too."
+<en>{Sakura}\n"I don't leave either."
 <es>{Sakura}\n"Yo también me quedo."
 
 @26
-<en>Sakura turned around and told us.
+<en>Takase sat in the seat diagonally in front of me. She turned around and raised her hand.
 <es>Nos dijo Sakura tras girarse.
 
 @27
-<en>{Kazushi}\n"How about everyone else?"
+<en>{Kazushi}\n"Wow, so plenty of girls stay behind?"
 <es>{Kazushi}\n"¿Y el resto?"
 
 @28
-<en>{Ran}\n"I say most girls just stay here."
+<en>{Ran}\n"I'd say most of them do. We go home for New Year's break, but most of us stay for the summer."
 <es>{Ran}\n"Diría que la mayoría de chicas se quedan aquí."
 
 @29
@@ -67,36 +67,36 @@
 
 @30
 # TODO: Revisar.
-<en>Yes. Now I have something to look forward to.
+<en>That's a relief. Now I know our summer won't go to waste. That was almost the whole reason we came here.
 <es>Genial. Ahora ya tengo un motivo para aguantar.
 
 @31
-<en>{Kazushi}\n"But don't most parents want their girls to come back?"
+<en>{Kazushi}\n"But don't most of the parents want their daughters to come home?"
 <es>{Kazushi}\n"¿Pero la mayoría de padres no quieren que vuelvan sus niñas?"
 
 @34
-<en>{Ran}\n"It's not so cheap to come back and forth. Most students just go back once a year."
+<en>{Ran}\n"Plus, you know, at least on New Year's we get some money, but there's nothing in the summer. Besides, the travel fee is crazy too."
 <es>{Ran}\n"No resulta barato ir y venir. La mayoría de estudiantes vuelven solo una vez al año."
 
 @37
 # TODO. Revisar.
-<en>{Sakura}\n"Your idea always revolves around money, Ran."
+<en>{Sakura}\n"I don't think that's the reason. You always reduce everything to money, Ran."
 <es>{Sakura}\n"Ran, tus ideas siempre están relacionadas con el dinero."
 
 @40
-<en>{Ran}\n"Yep. I only trust money."
+<en>{Ran}\n"The only mouths you can trust are a dead man's and a coin purse's."
 <es>{Ran}\n"Sip. El dinero es lo único en lo que confío."
 
 @41
-<en>{Kazushi}\n"It's not funny."
+<en>{Kazushi}\n"That's not funny."
 <es>{Kazushi}\n"No tiene gracia."
 
 @44
-<en>{Sakura}\n"Kazushi, you know how she is now."
+<en>{Sakura}\n"That's just how Ran is, so be careful Haruma-kun."
 <es>{Sakura}\n"Kazushi, ya sabes cómo es."
 
 @48
-<en>{Haruka}\n"That's right, Kazushi.\nWatch out for Ran. She will chew you up till you lose all your hair on your ass."
+<en>{Haruka}\n"That's right, Kazushi-kun. You'd better watch out for Ran - she'll chew you up until there's nothing left but bones and the hair from your bottom."
 <es>{Haruka}\n"Eso, Kazushi.\nCuidado con Ran, o te desvalijará hasta que pierdas hasta los pelos del culo."
 
 @49
@@ -104,50 +104,50 @@
 <es>Haruka asomó la cabeza por nuestra clase.
 
 @50
-<en>{Sakura}\n"Oh, hey Haruka."
+<en>{Sakura}\n"Oh, Harunyan, you're back again?"
 <es>{Sakura}\n"Ah. Hola Haruka."
 
 @51
-<en>{Haruka}\n"Hi, guys."
+<en>{Haruka}\n"Yeah, I came again."
 <es>{Haruka}\n"Hola."
 
 @52
-<en>She pokes her head into our class so often.\nI hope she's getting along with her own class.
+<en>Haruka wasn't giving up; she still came to our class. Maybe she didn't have a place in her own class anymore?
 <es>Se deja caer por aquí muy amenudo.\nEspero que también esté a gusto con la gente de su clase.
 
 @55
 # "we" incluyéndose a ella ¿y refiriéndose a todos?
-<en>{Haruka}\n"By the way, we don't have hairs on our ass, do we?"
+<en>{Haruka}\n"But you know, that phrase is strange. We don't have any hair on our bottoms. Even monkeys don't, right?"
 <es>{Haruka}\n"Por cierto, la gente no tiene pelos en el culo, ¿no?"
 
 @56
-<en>{Kazushi}\n"I know Daigo's down there is like a jungle."
+<en>{Kazushi}\n"No, some people do. Daigo's like a jungle down there."
 <es>{Kazushi}\n"Yo sé que la parte de abajo de Daigo es casi una jungla."
 
 @59
-<en>{Haruka}\n"What? He does!?\nDo I have any?"
+<en>{Haruka}\n"What? He does? Butt hair? No way!"
 <es>{Haruka}\n"¿Qué? ¿¡Tiene!?\n¿Y yo tengo?"
 
 @60
 # Entiendo que si venía de otra clase, no se habría llegado a sentar y no tiene sentido que se levantase.
 # stood up es "se paró". También puede ser "se paró y empezó a mirar por entre su falda". Pero quizá es mas gráfico lo del erguirse.
-<en>She stood up and looks into her skirt.
+<en>She stood up and tried to look at her own butt. Don't flip your skirt up to check! See? Now we saw them.
 <es>Se irguió y empezó a mirar por entre su falda.
 
 @63
-<en>{Sakura}\n"Hey, behave! We can see your underwear."
+<en>{Sakura}\n"Hey! Behave yourself! We can see your underwear!"
 <es>{Sakura}\n"¡Eh, no hagas eso! Que se te ven las bragas."
 
 @64
-<en>Sakura pulls down Haruka's skirt in a hurry.
+<en>Takase quickly pulled her skirt back down. Haruka finally realized what she was doing and jumped back.
 <es>Sakura le baja la falda a Haruka rápidamente.
 
 @67
-<en>Haruka is embarrased.
+<en>Haruka flushed with embarrassment.
 <es>Haruka está avergonzada.
 
 @70
-<en>{Haruka}\n"......opps......did anyone see my underwear?"
+<en>{Haruka}\n"Oops! I hope nobody saw my underwear."
 <es>{Haruka}\n"Ups... ¿Me ha visto alguien la ropa interior?"
 
 @71
@@ -155,31 +155,31 @@
 <es>{Kazushi}\n"¡Para nada!"
 
 @72
-<en>Actually, I did. It was blue.
+<en>Actually I did. They were blue. To go with her last name I guess?
 <es>La verdad es que sí. Las tenía azules.
 
 @75
-<en>{Sakura}\n"You are so ignorant. That's so you."
+<en>{Sakura}\n"Harunyan, you're so naive. That's part of what makes you cute, though."
 <es>{Sakura}\n"Eres muy inocente. Es muy propio de ti."
 
 @82
-<en>{Ran}\n"Remember? We now have boys in this school.\nIf you gonna show them your underwear, at least charge them."
+<en>{Ran}\n"Haruka, your guard's too lax. You have to be careful about the guys watching you now. If you're going to show them your panties, do it through me."
 <es>{Ran}\n"¿Recuerdas? Ahora hay chicos en la escuela.\nSi les vas a enseñar las braguitas, al menos cóbrales."
 
 @83
-<en>{Kazushi}\n"......they are right. Your ideas do revolve around money."
+<en>{Kazushi}\n"Don't try to profit off this... You really are all about money, huh?"
 <es>{Kazushi}\n"Sí que tienen razón... Todas tus ideas tienen que ver con el dinero."
 
 @86
-<en>{Haruka}\n"Who started talking about hair on the ass."
+<en>{Haruka}\n"Hey, why did we all start talking about butt hair?"
 <es>{Haruka}\n"¿Quién empezó a hablar sobre pelos en el culo?"
 
 @87
-<en>{Kazushi}\n"You did."
+<en>{Kazushi}\n"Because you brought it up, Haruka."
 <es>{Kazushi}\n"Tú."
 
 @90
-<en>{Haruka}\n"That's not true."
+<en>{Haruka}\n"Wah?! That's not true. Don't turn me into some butt hair maniac!"
 <es>{Haruka}\n"Eso no es cierto."
 
 @91
@@ -198,23 +198,23 @@
 <es>Le cuesta pillar las cosas.
 
 @98
-<en>{Sakura}\n"We didn't talk about hair on your ass. We were talking about summer break."
+<en>{Sakura}\n"We weren't talking about bottom hair. We were talking about summer break."
 <es>{Sakura}\n"No nos estábamos refiriendo a ti. Hablábamos de las vacaciones de verano."
 
 @101
-<en>{Haruka}\n"That's right! Summer break!\nAnd this year, we have boys."
+<en>{Haruka}\n"That's right! Summer break!\nAnd this year, the boys will be here for it! I'm so excited."
 <es>{Haruka}\n"¡Ah, sí! ¡Las vacaciones de verano!\nY este año tenemos chicos aquí."
 
 @102
-<en>She looks at us all smiling.
+<en>She looked at me and smiled. Her smile made me even more excited about our summer break.
 <es>Nos mira sonriendo.
 
 @105
-<en>{Ran}\n"You are ofcourse staying here."
+<en>{Ran}\n"You're staying here, of course, aren't you, Haruka?"
 <es>{Ran}\n"Y tú por descontado te quedas aquí."
 
 @108
-<en>{Haruka}\n"Sure. This is my home here."
+<en>{Haruka}\n"Naturally. This IS my home, after all."
 <es>{Haruka}\n"Claro. Este es mi hogar."
 
 @109
@@ -222,20 +222,20 @@
 <es>{Kazushi}\n"Es cierto."
 
 @110
-<en>Haruka was born and raised here on this island
+<en>Haruka was born and raised here on this island. Of course her home is here.
 <es>Haruka nació y creció en la isla.
 
 @111
-<en>{Haruka}\n"Everyone stays here for the break, right.\nThe shoreline doesn't reach the harbor anyways."
+<en>{Haruka}\n"Everyone stays here for the break.\nThe tides won't reach the harbor, anyways."
 <es>{Haruka}\n"Y todos se quedan aquí durante las vacaciones.\nDe todas formas, la línea costera no está a la altura del puerto."
 
 @112
 # Aquí hay algo extraño. Ya se hace referencia a esto en la frase anterior. Hay que refactorizar para que quede bien.
-<en>{Kazushi}\n"What about shoreline?"
+<en>{Kazushi}\n"What's that about the tides?"
 <es>{Kazushi}\n"¿Y eso?"
 
 @113
-<en>{Sakura}\n"You guys saw how it is, right?\nSea level stays low this time around the year."
+<en>{Sakura}\n"Remember, you saw it yesterday, right Haruma-kun? The tides stay incredibly low through the season."
 <es>{Sakura}\n"Ya lo visteis, ¿no?\nEl nivel del mar desciende por esta época del año."
 
 @114
@@ -243,7 +243,7 @@
 <es>{Kazushi}\n"Ah, sí, ¡desde luego que lo vimos!\n¡Fue espeluznante!"
 
 @115
-<en>{Sakura}\n"When the sea level is low and shoreline is far away from the coast,\nthere is no way out from this island."
+<en>{Sakura}\n"When the tides get low, boats can't reach us here. That's why they had you guys transfer in at high tide."
 <es>{Sakura}\n"Cuando el nivel del mar desciende y la línea costera está lejos de la costa,\nno hay forma de salir de la isla."
 
 @116
@@ -251,11 +251,11 @@
 <es>{Kazushi}\n"Entiendo."
 
 @117
-<en>Ships will be sitting on the dried up coast line and no one can leave this island.
+<en>If the ships can't dock, then they can't leave either. That's the whole reason we couldn't leave.
 <es>Los barcos permanecerán estancados y nadie podrá dejar la isla.
 
 @118
-<en>This is truly an isolated island.
+<en>This truly is an isolated island on the distant sea. What a place we've come to.
 <es>Es una isla completamente aislada.
 
 @119
@@ -269,23 +269,23 @@
 
 @121
 # Hay que ver cómo ponerlo y si se refiere a estar caliente o a cachondeo.
-<en>{Hu-sen}\n"Why are you giving us a horny face?"
+<en>{Fuusen}\n"Why are you giving us such a perverted face?"
 <es>{Hu-sen}\n"¿Por qué nos estáis mirando con esa cara cachonda?"
 
 @122
-<en>{Kazushi}\n"!?"
+<en>{Kazushi}\n"Grk!"
 <es>{Kazushi}\n"¿¡...!?"
 
 @130
-<en>It was Hu-sen and Rei.\nI can tell they don't like us boys.
+<en>Two pairs of eyes filled with loathing were cast upon us. Fuusen and Andou have treated us like enemies ever since yesterday.
 <es>Eran Hu-sen y Rei.\nDesde luego mucho aprecio no tiene pinta de que nos tengan.
 
 @131
-<en>{Rei}\n"Hey Haruka, you shouldn't be getting along with those boys."
+<en>{Andou}\n"Hey, Haruka-chan, you shouldn't talk to those boys."
 <es>{Rei}\n"Oye Haruka, no deberías relacionarte con estos tipos."
 
 @132
-<en>{Hu-sen}\n"They will make you pregnant before you know it."
+<en>{Fuusen}\n"Haruka-chan, if you're not careful enough, they'll get you pregnant before you know it."
 <es>{Hu-sen}\n"O te dejarán preñada antes de que te enteres."
 
 @133
@@ -293,19 +293,19 @@
 <es>{Kazushi}\n"¿¡Qué!?"
 
 @134
-<en>What is the problem with these girls!?
+<en>What's wrong with this bitch? There's a limit to how mean one can be!
 <es>¿¡Pero qué les pasa a estas chicas!?
 
 @139
-<en>{Haruka}\n"Is that true?\nThey can make you pregnant that easily!?"
+<en>{Haruka}\n"What? Is that true? Will you get me pregnant?"
 <es>{Haruka}\n"¿Es eso verdad?\n¿¡Pueden dejarme preñada con tanta facilidad!?"
 
 @140
-<en>{Kazushi}\n"How can you take it serously!?"
+<en>{Kazushi}\n"Don't listen to them, Haruka. That's not going to happen."
 <es>{Kazushi}\n"¿¡Cómo puedes siquiera pensarlo!?"
 
 @146
-<en>{Rei}\n"Is your underwear still on you?\nThey haven't take it off from you?"
+<en>{Andou}\n"Do you still have your underwear on?\nThey haven't stolen it off from you, have they?"
 <es>{Rei}\n"¿Sigues con las bragas puestas?\n¿No te las han quitado ya?"
 
 @151
@@ -313,32 +313,32 @@
 <es>{Haruka}\n"¿¡Pero qué...!?"
 
 @152
-<en>She's looking inside her skirt again.\nAgain, I could see it a little bit.
+<en>She checked inside her skirt again.\nI got to have a second peek.
 <es>Está mirando entre su falda de nuevo.\nY otra vez, puedo verle un poco las braguitas.
 
 @157
-<en>{Sakura}\n"They haven't taken off mine yet."
+<en>{Sakura}\n"I'm safe! Mine are still on!"
 <es>{Sakura}\n"Las mías todavía no me las han quitado."
 
 @158
-<en>{Kazushi}\n"Sakura, you can not be serious."
+<en>{Kazushi}\n"Not you too, Takase? Besides, how could we be ever be skilled enough to steal the underwear you're wearing?"
 <es>{Kazushi}\n"Sakura, no lo dirías en serio, ¿no?"
 
 @165
 # Quizá algo forzado.
-<en>{Ran}\n"I know. If anyone could do that, that person shold be walking outside taking people's wallet from their bags."
+<en>{Ran}\n"I know, right? If you had that kind of technique, you'd be a splendid pickpocket."
 <es>{Ran}\n"Ya lo sé. Si alguien fuese capaz de hacer algo así, estaría fuera, robando carteras a la gente."
 
 @166
-<en>{Kazushi}\n"Now we are upgraded from molesters to criminals."
+<en>{Kazushi}\n"No, that's wrong. Pick-pocketing isn't splendid."
 <es>{Kazushi}\n"Genial. Acabamos de promocionar de agresores a criminales."
 
 @173
-<en>{Rei}\n"Hey, Ran."
+<en>{Andou}\n"Hey, Ran."
 <es>{Rei}\n"Oye, Ran."
 
 @174
-<en>For some reason, they are giving a glare to Ran.
+<en>For some reason they were ganging up on Ran.
 <es>Por algún motivo, están mirando a Ran.
 
 @175
@@ -346,51 +346,51 @@
 <es>{Ran}\n"¿Qué pasa?"
 
 @176
-<en>{Hu-sen}\n"If you decided to hang out with these animals,\nthen we want you to make sure they are well trained."
+<en>{Fuusen}\n"Are these beasts under your jurisdiction, Ran? If they are, then make sure they're well-trained. We know you're going to sucker them either way."
 <es>{Hu-sen}\n"Si vas a salir con estos animales, nos gustaría saber al menos que están bien domesticados."
 
 @179
-<en>{Ran}\n"Who I am hanging with is none of your buisiness."
+<en>{Ran}\n"Well, they aren't. But what's it matter to you who my mates are?"
 <es>{Ran}\n"Con quien vaya o deje de ir no es asunto vuestro."
 
 @180
-<en>Ran replied back to Hu-sen with a challenging look.
+<en>Ran smiled back, but her eyes were challenging Fuusen. Fuusen shuddered under the pressure.
 <es>Replicó Ran a Hu-sen con una mirada desafiante.
 
 @181
-<en>{Hu-sen}\n"What is that look?"
+<en>{Fuusen}\n"W-what?!"
 <es>{Hu-sen}\n"¿Y esa mirada?"
 
 @184
-<en>{Ran}\n"I said who I am hanging out with is not your buisiness."
+<en>{Ran}\n"I'm telling you I don't want to hear people talking behind my back about who I hang out with. I will do things the way I want to."
 <es>{Ran}\n"Te he dicho que con quien vaya o deje de ir no es asunto vuestro."
 
 @187
-<en>{Hu-sen}\n"Who you think you are? You are supposed to be on our side."
+<en>{Fuusen}\n"H-hmph! Look at you talk big! You clearly don't know the meaning of sisterhood."
 <es>{Hu-sen}\n"¿Pero quién te crees que eres? Se supone que deberías estar de nuestro lado."
 
 @190
-<en>{Ran}\n"I'm not one of those girls who go to restroom together."
+<en>{Ran}\n"If your idea of sisterhood means going to the toilet in groups, then count me out."
 <es>{Ran}\n"No soy el tipo de chica que vaya al baño acompañada."
 
 @191
-<en>Ran might be one of those girls who always acts by herself.
+<en>Ran scoffed at Fuusen's insult. She was acting cool, like a lone wolf, but... was Ran an outsider in this class?
 <es>Ran debe ser una de esas chicas que siempre actúa por sí misma.
 
 @192
-<en>She seems to not care what others think of her.
+<en>Well, Ran didn't seem to care.
 <es>No parece que le importe lo que las otras personas puedan pensar de ella.
 
 @193
-<en>{Rei}\n"Just leave this weired girl alone."
+<en>{Andou}\n"Fine. Let's just leave this thing alone."
 <es>{Rei}\n"Deja a la rarita a su aire."
 
 @196
-<en>{Hu-sen}\n"Boys, I guess you now know what girls think about you guys.\nDon't think you guys are welcomed here."
+<en>{Fuusen}\n"Boys, especially you four, let me tell you this now: we girls won't talk to any of you, so don't come chatting us up or trying to be buddy-buddy."
 <es>{Hu-sen}\n"Chicos, creo que ya sabéis lo que las chicas opinan de vosotros.\nNo os penséis que sois bienvenidos aquí."
 
 @197
-<en>{Kazushi}\n"Are you bullying us?"
+<en>{Kazushi}\n"Huh? No one else said that. Are you saying you're going to ignore us? Is this some kind of bullying?"
 <es>{Kazushi}\n"¿Tratas de intimidarnos?"
 
 @203
@@ -398,110 +398,110 @@
 <es>{Sakura}\n"¿Me incluís a mí también en eso?"
 
 @208
-<en>{Haruka}\n"I'm not, right? Since I don't belong to this class anyways."
+<en>{Haruka}\n"I'm not, right? I'm not even in this class."
 <es>{Haruka}\n"A mí no, ¿verdad?\nAdemás, yo tampoco soy de esta clase."
 
 @215
-<en>{Hu-sen}\n"Sakura and Haruka, you two should behave around them."
+<en>{Fuusen}\n"Sakura, Haruka-chan, if you have any self-respect, then you better not get involved with any boys."
 <es>{Hu-sen}\n"Sakura y Haruka, deberíais comportaros con éstos alrededor."
 
 @218
-<en>{Rei}\n"It makes me sick that I'm breathing the same air with them."
+<en>{Andou}\n"I don't want to talk to some sex criminal who steals underwear. I don't even want to breath the same air as them."
 <es>{Rei}\n"Me pone enferma el hecho de estar respirando el mismo aire que ellos."
 
 @219
-<en>{Kazushi}\n"!?......I didn't know we've been hated that much."
+<en>{Kazushi}\n"Wha?! Don't you think that's a little too spiteful?"
 <es>{Kazushi}\n"¿¡...!? No sabía que nos odiasen tanto."
 
 @220
-<en>Our biggest reason to move over to this island is to hang out with girls.
+<en>What's the point of coming to an all girls' school if they won't talk to us?
 <es>El principal motivo para venirnos a esta isla era para salir con chicas.
 
 @225
-<en>{Ran}\n"Wow, they hate you a lot."
+<en>{Ran}\n"Wow, they really hate you."
 <es>{Ran}\n"Vaya, sí que os odian."
 
 @229
-<en>{Haruka}\n"Com'on everybody. Why don't we try to get along more."
+<en>{Haruka}\n"Come on, everybody. Let's stop fighting and try to get along."
 <es>{Haruka}\n"Venga... ¿Por qué no tratamos de llevarnos todos bien?"
 
 @235
-<en>{Rei}\n"No way! They ate my panties!!"
+<en>{Andou}\n"No way! They ate my panties!! They're perverts!"
 <es>{Rei}\n"¡Ni hablar! ¡¡Se comieron mis bragas!!"
 
 @236
-<en>{Kazushi}\n"We didn't eat them!"
+<en>{Kazushi}\n"Hang on, we didn't eat them! Who the hell would eat panties?!"
 <es>{Kazushi}\n"¡Nunca hicimos eso!"
 
 @239
-<en>{Rei}\n"What!? That's exactly what you did!"
+<en>{Andou}\n"Hah! That's exactly what you did! I can't believe we're so unfortunate to be in the same class as these things."
 <es>{Rei}\n"¿¡Qué!? ¡Pero si eso fue exáctamente lo que hiciste!"
 
 @240
-<en>{Hu-sen}\n"Doesn't it smell bad around here?"
+<en>{Fuusen}\n"Doesn't it smell bad around here? I need to disinfect it."
 <es>{Hu-sen}\n"¿No huele mal por aquí?"
 
 @242
 # Revisar.
-<en>Hu-sen sprays odor-eater on us.
+<en>Fuusen pulled out a bottle of perfume and started spraying the air around us.
 <es>Hu-sen nos echa spray antiolor.
 
 @243
-<en>{Kazushi}\n"What is this!?"
+<en>{Kazushi}\n"Uwah! This reeks! What is it?!"
 <es>{Kazushi}\n"¿¡Qué es esto!?"
 
 @244
-<en>{Hu-sen}\n"This is an expensive perfume."
+<en>{Fuusen}\n"Hah! Commoner! How can you say that Dior's Poison reeks?!"
 <es>{Hu-sen}\n"Es un perfume muy car."
 
 @246
 # Revisar.
-<en>{Kazushi}\n"Smells like poison!"
+<en>{Kazushi}\n"Oh, so it is poison! Are you some kind of wrestling heel now?! *Cough, cough, cough!*"
 <es>{Kazushi}\n"¡Huele a veneno!"
 
 @247
-<en>She doesn't stop.
+<en>She kept spraying her poisonous mist on me.
 <es>No para.
 
 @251
-<en>That's when the door opened up with force.
+<en>That's when the door was slammed open.
 <es>Entonces fue cuando se abrió la puerta violentamente.
 
 @256
-<en>{Daigo}\n"What the hell you guys doing!?"
+<en>{Daigo}\n"What the hell are you guys doing!?"
 <es>{Daigo}\n"¿¡Qué leches estáis haciendo!?"
 
 @260
-<en>Daigo rushes into us.
+<en>Daigo just returned from the bathroom and rushed towards us.
 <es>Daigo corrió hace nosotros.
 
 @265
 # TODO: Hay que cambiar "mediana edad" por algo que quede bien.
-<en>{Hu-sen}\n"Here comes a middle age student."
+<en>{Fuusen}\n"Uh-oh, here comes pops."
 <es>{Hu-sen}\n"Ahí viene el estudiante de mediana edad."
 
 @268
-<en>{Daigo}\n"I'm really same age as you guys!"
+<en>{Daigo}\n"Don't call me pops!"
 <es>{Daigo}\n"¡Tengo la misma edad que vosotras!"
 
 @272
-<en>{Rei}\n"You are definitely over 30."
+<en>{Andou}\n"If you're middle-aged, you're middle aged. I can't help that."
 <es>{Rei}\n"Debes tener más de 30 a la fuerza."
 
 @275
-<en>{Daigo}\n"......Whatever it is, don't talk bad about my friends."
+<en>{Daigo}\n"Urgh... F-fine, talk about me, but don't talk shit about my friends!"
 <es>{Daigo}\n"Sea lo que sea... no habléis mal de mis amigos."
 
 @278
-<en>{Rei}\n"What is he saying. He's mumbling."
+<en>{Andou}\n"What's he saying? All I hear are mumbles. What a creep."
 <es>{Rei}\n"¿Pero qué dice? Está barboteando."
 
 @279
-<en>{Daigo}\n"Kazushi is our......!!"
+<en>{Daigo}\n"Kazushi... is... our...!"
 <es>{Daigo}\n"¡¡Kazushi es nuestro...!!"
 
 @280
-<en>He starts shaking. The girls don't know it's a bad idea to excite him.
+<en>He started having trouble getting the words out. His giant body trembled. This is bad. When he gets cornered, he explodes.
 <es>Empieza a temblar. Las chicas no saben que no es buena idea alterarlo.
 
 @287
@@ -509,54 +509,54 @@
 <es>{Pierre}\n"¿Qué ocurre?"
 
 @288
-<en>Pierre and Appo- came back as well.
+<en>Pierre and Appo came back with perfect timing.
 <es>Pierre y Appo- volvieron también.
 
 @295
-<en>{Appo-}\n"What are you doing to my friend!?"
+<en>{Appo}\n"What? This mis-carved bitch is at it again? Quit harassing my friends!"
 <es>{Appo-}\n"¿¡Qué estáis haciéndole a mi amigo!?"
 
 @296
-<en>They rushed into us, too. It's now 3 boys against 2 girls.
+<en>They rushed for us too. Now it was three boys against two girls and one big mess waiting to happen.
 <es>Vinieron corriendo hacia nosotros también. Ahora son tres chicos contra dos chicas.
 
 @304
 # Hacerlo más fuerte.
-<en>{Hu-sen}\n"You guys annoy the hell out of me."
+<en>{Fuusen}\n"What are you covering for each other for? You're all a bunch of creeps!"
 <es>{Hu-sen}\n"Alejaros de mí."
 
 @305
-<en>{Rei}\n"Let's leave this idiots alone. Let's go."
+<en>{Andou}\n"I've had enough, let's go."
 <es>{Rei}\n"Dejemos a estos imbéciles solos. Vamos."
 
 @306
-<en>{Hu-sen}\n"You too, Sakura and Haruka. Come with us."
+<en>{Fuusen}\n"Sakura, Haruka-chan, you two come with us."
 <es>{Hu-sen}\n"Vosotras también, Sakura, Haruka. Venid con nosotras."
 
 @313
-<en>{Haruka}\n"Me too?"
+<en>{Haruka}\n"Uwah? Me too?"
 <es>{Haruka}\n"¿Yo también?"
 
 @314
-<en>{Sakura}\n"Sorry boys. I'll see you later."
+<en>{Sakura}\n"Uh, umm, I'll see you later, Haruma-kun and friends."
 <es>{Sakura}\n"Lo siento chicos. Nos vemos luego."
 
 @333
 # Espero no volver a veros nunca.
-<en>{Appo-}\n"Never see you again!!"
+<en>{Appo}\n"I never want to see you again!"
 <es>{Appo-}\n"¡¡Nunca!!"
 
 @339
-<en>{Ran}\n"That was why I don't like hanging out with girls."
+<en>{Ran}\n"Jeez, they come in, and all they do is cause a fuss. This is why I hate girls."
 <es>{Ran}\n"Es por eso que no me gusta ir con chicas."
 
 @340
-<en>I think she doesn't consider herself as a girl.
+<en>I was really worried about Ran when she said that. Is she getting along well with the girls in our class?
 <es>Es como si no se considerase a sí misma como una chica.
 
 @341
 # Revisar.
-<en>{Kazushi}\n"How about you Ran? You don't have to side us."
+<en>{Kazushi}\n"What about you, Ran? You don't have to stick up for us."
 <es>{Kazushi}\n"¿Y qué pasa contigo Ran? No tienes por qué ponerte de nuestra parte."
 
 @344
@@ -565,20 +565,20 @@
 <es>{Ran}\n"No me importa."
 
 @345
-<en>{Kazushi}\n"......are you gonna be alright with them?"
+<en>{Kazushi}\n"Don't care...but?"
 <es>{Kazushi}\n"¿No tendrás problemas con ellas...?"
 
 @348
 # @TODO: Revisar.
-<en>{Ran}\n"Who cares. By the way, you guys really look like losers."
+<en>{Ran}\n"It doesn't matter, okay? Besides, you guys really look like losers."
 <es>{Ran}\n"Qué más da. Por cierto, tenéis pinta de perdedores."
 
 @349
-<en>Us? Losers?
+<en>She looked at us with a triumphant grin. Us? Losers?
 <es>¿Nosotros? ¿Perdedores?
 
 @350
-<en>{Ran}\n"The biggest mistake you guys made was you did everything not through me."
+<en>{Ran}\n"The biggest mistake you guys made was not letting me handle everything. Next time, let me take care of it."
 <es>{Ran}\n"El mayor error que habéis cometido ha sido no haber hecho las cosas a través de mí."
 
 @351
@@ -586,41 +586,41 @@
 <es>{Kazushi}\n"¿De qué estás hablando?"
 
 @354
-<en>{Ran}\n"I'm talking about what happened yesterday."
+<en>{Ran}\n"I'm talking about your failure yesterday. You didn't go through me, you wound up in that horrible predicament."
 <es>{Ran}\n"Me refiero a lo que pasó ayer."
 
 @357
-<en>{Ran}\n"Next time you guys plan on something, you should consult with me.\nI know everything about this school."
+<en>{Ran}\n"Next time you guys plan something, you should consult with me first.\nI know everything about this school."
 <es>{Ran}\n"La próxima vez que planeéis algo, deberíais consultarme.\nLo sé todo sobre esta escuela."
 
 @360
 # Revisar.
-<en>{Ran}\n"I can evern show you around places you boys would love to go."
+<en>{Ran}\n"I can even show you around the off-limits places where boys only dream of going."
 <es>{Ran}\n"Podría hasta enseñaros lugares que os encantaría ver a vosotros siendo chicos."
 
 @366
-<en>{Appo-}\n"Are you serious!?"
+<en>{Appo}\n"Are you serious!?"
 <es>{Appo-}\n"¿¡De verdad!?"
 
 @367
 # ???
-<en>{Pierre}\n"Is there heaven in this school!?"
+<en>{Pierre}\n"Is that place Heaven?!"
 <es>{Pierre}\n"¿¡Está el cielo en esta escuela!?"
 
 @372
-<en>{Ran}\n"I will guarantee you guys will worship me."
+<en>{Ran}\n"You will ascend directly to heaven. Of course, it depends on how dedicated you are."
 <es>{Ran}\n"Os garantizo que me adoraréis."
 
 @378
-<en>{Appo-}\n"Come on guys, take them out!"
+<en>{Appo}\n"What are you saying, madam? We are always of utmost devotion. Whip 'em out guys!"
 <es>{Appo-}\n"Vencha chicos, ¡a sacarlos!"
 
 @385
-<en>{Daigo}\n"Take what out?"
+<en>{Daigo}\n"Whip what out?"
 <es>{Daigo}\n"¿Sacar el qué?"
 
 @388
-<en>{Appo-}\n"We need to show her our appreciation."
+<en>{Appo}\n"We need to show her how sincere our devotion is. Come on, come on."
 <es>{Appo-}\n"Tenemos que mostrarle nuestra 'gratitud'."
 
 @394
@@ -628,7 +628,7 @@
 # O bien por darse cuenta de lo que quería.
 # O bien por aceptar la oferta.
 # No sé si tiene un aire despectivo o si encima se mofa de él.
-<en>{Ran}\n"Hey, you are smarter than I thought."
+<en>{Ran}\n"Hey, you're smarter than I thought. The rest of you should learn from him."
 <es>{Ran}\n"Vaya, eres más listo de lo que pensaba."
 
 @395
@@ -636,55 +636,55 @@
 <es>{Kazushi}\n"Está bien."
 
 @396
-<en>I feel might wallet gets lighter and lighter everyday.
+<en>I could feel my wallet getting lighter and lighter every day.
 <es>Cada día que pasa, mi cartera va pensando menos.
 
 @401
-<en>Ran took us to a fancy looking building.
+<en>Ran guided us to an ornate building.
 <es>Ran nos llevó a un edificio muy elegante.
 
 @402
-<en>{Kazushi}\n"Hey, is this......"
+<en>{Kazushi}\n"Hey, isn't this..."
 <es>{Kazushi}\n"Oye... Esto es..."
 
 @403
-<en>Yep. This is the girl's dorm.
+<en>Yep, this is the girl's dorm. The very place we dreamed of living in before we found out about our shack.
 <es>Sip. El dormitorio de las chicas.
 
 @406
-<en>{Ran}\n"I told you you guys will worship me. This is the girl's dorm."
+<en>{Ran}\n"Welcome, welcome, this is the girl's dorm. Within lies all everything both open and hidden about the girls of Eiden Academy."
 <es>{Ran}\n"Ya os dije que me adoraríais. Este es el dormitorio de las chicas."
 
 @412
-<en>{Appo-}\n"......I'm getting dizzy already......"
+<en>{Appo}\n"I'm feeling faint already..."
 <es>{Appo-}\n"Ya he empezado a marearme..."
 
 @413
-<en>{Pierre}\n"Are you alright, Appo-?\nYou have bloody nose!"
+<en>{Pierre}\n"Are you OK, Appo?\nACK! You've got a bloody nose!"
 <es>{Pierre}\n"¿Te encuentras bien, Appo-?\n¡Te sangra la nariz!"
 
 @417
-<en>{Ran}\n"I'm glad you are already liking my service."
+<en>{Ran}\n"I'm pleased to see you're already enjoying my services."
 <es>{Ran}\n"Me alegra de que ya te guste mi servicio."
 
 @421
-<en>{Daigo}\n"You think I can take pictures inside?"
+<en>{Daigo}\n"Is it OK to take pictures once we're inside?"
 <es>{Daigo}\n"¿Crees que podré tomar fotos dentro?"
 
 @424
-<en>{Ran}\n"It's not included in what you paid me.\nIt's 50 bucks all you can take pictures."
+<en>{Ran}\n"Photography will incur an additional fee. The cost is 500 yen per photo, or 5,000 yen to take as many as you'd like."
 <es>{Ran}\n"No está incluído en el precio inicial.\nPara que podáis tomar fotos son 5000 yenes."
 
 @425
-<en>{Kazushi}\n"!?......that's too much!!"
+<en>{Kazushi}\n"Wha!? That's too much!"
 <es>{Kazushi}\n"¿¡...!? ¡¡Eso es demasiado!!"
 
 @428
-<en>{Daigo}\n"Here is my 50."
+<en>{Daigo}\n"Here. 5,000 yen."
 <es>{Daigo}\n"Toma mis 5000."
 
 @429
-<en>{Kazushi}\n"!? He's paying!"
+<en>{Kazushi}\n"..the hell!? He's actually paying it!"
 <es>{Kazushi}\n"¿¡...!? ¡Le está pagando!"
 
 @430
@@ -692,19 +692,19 @@
 <es>No sabía que Daigo fuese rico.
 
 @437
-<en>{Appo-}\n"Here is mine!"
+<en>{Appo}\n"And me."
 <es>{Appo-}\n"¡Mi parte!"
 
 @438
-<en>{Pierre}\n"And mine!"
+<en>{Pierre}\n"And me."
 <es>{Pierre}\n"¡Y la mía!"
 
 @439
-<en>Guys......
+<en>Everyone paid her 5,000 yen. I didn't know any of you were so wealthy...
 <es>Chicos...
 
 @444
-<en>{Ran}\n"How about you, Kazushi?"
+<en>{Ran}\n"What about you, Kazushi?"
 <es>{Ran}\n"¿Y tú, Kazushi?"
 
 @445
@@ -712,119 +712,119 @@
 <es>{Kazushi}\n"No me he traído la cámara."
 
 @446
-<en>I don't have money, either.
+<en>Not to mention that you've already taken all of my money.
 <es>Y tampoco tengo dinero.
 
 @447
-<en>{Ran}\n"Are we ready?"
+<en>{Ran}\n"I see. Now then, is everybody ready?"
 <es>{Ran}\n"¿Estáis listos?"
 
 @455
-<en>Everyone is absent minded. Just nodding their head up and down.
+<en>Everyone else was in a trance, like living bobble-heads.
 <es>Todos están distraídos. Limitándose a asentir con la cabeza arriba y abajo.
 
 @461
-<en>{Ran}\n"Here we go!"
+<en>{Ran}\n"Then let us begin the Eiden Academy Mystery Tour!"
 <es>{Ran}\n"¡Allá vamos!"
 
 @466
-<en>{Appo-}\n"Be quiet guys......"
+<en>{Appo}\n"Be quiet, guys!"
 <es>{Appo-}\n"Permaneced en silencio..."
 
 @467
-<en>{Pierre}\n"Got it......"
+<en>{Pierre}\n"Got it."
 <es>{Pierre}\n"Entendido..."
 
 @468
-<en>We are no different from theives now.
+<en>The four of us tiptoed our way through the hall just like thieves. Though what we were trying to do made us no better than thieves.
 <es>Ahora mismo, no nos diferenciamos en nada a los ladrones.
 
 @471
-<en>{Ran}\n"You guys are too tensed. Relax."
+<en>{Ran}\n"You guys are too tense. Relax."
 <es>{Ran}\n"Estáis muy tensos, chicos. Relajaos."
 
 @472
-<en>{Kazushi}\n"But if we get caught, we will be in a serious trouble."
+<en>{Kazushi}\n"But we're going to be in serious trouble if we get caught. Men are forbidden here, right?"
 <es>{Kazushi}\n"Pero si nos pillan, acabaremos con un serio problema."
 
 @473
-<en>This is no man's land here.
+<en>If we're caught walking along in here, we're done for. As soon as we're spotted, we're out.
 <es>Este no es lugar para hombres.
 
 @476
-<en>{Ran}\n"It's during class hours. No one should be here."
+<en>{Ran}\n"You're fine. What time is it? It's class time, right? No one will be here."
 <es>{Ran}\n"Es horario de clases. No debería haber nadie aquí."
 
 @477
-<en>That's right. We forgot about that.
+<en>Ran easily reassured us. I had completely forgotten about that. No student would be in the dorm now.
 <es>Es cierto. Nos olvidamos de ese detalle.
 
 @483
-<en>{Appo-}\n"No one is here?"
+<en>{Appo}\n"There's no one here?"
 <es>{Appo-}\n"¿No hay nadie aquí?"
 
 @484
-<en>{Pierre}\n"Then what are we doing here?"
+<en>{Pierre}\n"What's the point of sneaking into a dorm with no one in it?"
 <es>{Pierre}\n"Entonces, ¿qué estamos haciendo?"
 
 @489
-<en>{Ran}\n"That's why you can relax and enjoy walking here."
+<en>{Ran}\n"For a gang of perverts, you're pretty dumb. This is the only time you're able to sneak into the girls' dorm. Because no one is here, you can walk around and enjoy it."
 <es>{Ran}\n"Es por eso por lo que os podéis relajar y disfrutar el paseo."
 
 @490
-<en>{Kazushi}\n"But, it's boring."
+<en>{Kazushi}\n"I guess that's true."
 <es>{Kazushi}\n"Pero es aburrido."
 
 @491
-<en>What's the point of walking in here?
+<en>If we came while people were around, we'd get caught in no time.
 <es>¿Qué sentido tiene pasear por aquí?
 
 @494
-<en>{Ran}\n"Besides, it's not like no one is here."
+<en>{Ran}\n"Besides, it's not like there isn't anybody here."
 <es>{Ran}\n"Además, no es cierto eso de que no haya nadie."
 
 @495
-<en>Ran is implying something.
+<en>Ran was up to something.
 <es>Ran deja caer el matiz.
 
 @500
-<en>{Appo-}\n"Who is here?"
+<en>{Appo}\n"Who's here?"
 <es>{Appo-}\n"¿Quién hay aquí?"
 
 @503
-<en>{Ran}\n"Just shut up and follow me."
+<en>{Ran}\n"Heh heh, just keep quiet and follow me. You'll get what you paid for."
 <es>{Ran}\n"Callad y seguidme."
 
 @508
-<en>{Ran}\n"Be real quiet now."
+<en>{Ran}\n"Shh. Be quiet now."
 <es>{Ran}\n"Quedaos en silencio completamente."
 
 @509
-<en>Ran took us to one room.
+<en>Ran led the way and signalled for us to be silent. Then she stopped in front of the door to one of the rooms.
 <es>Ran nos llevó a una de las habitaciones.
 
 @514
-<en>{Pierre}\n"Who's room is this?"
+<en>{Pierre}\n"Whose room is this?"
 <es>{Pierre}\n"¿De quién es esta habitación?"
 
 @515
-<en>{Ran}\n"Who do you think? It can not be a student, right?"
+<en>{Ran}\n"At this time, all of the students are in class. So, the only remaining people who could possibly in this dorm are?"
 <es>{Ran}\n"¿Tú que crees? No puede ser la de un estudiante, ¿no?"
 
 @516
-<en>{Kazushi}\n"A Maintenance lady?"
+<en>{Kazushi}\n"The old lady who cleans?"
 <es>{Kazushi}\n"¿Una chica de mantenimiento?"
 
 @520
-<en>{Daigo}\n"A cafetria lady?"
+<en>{Daigo}\n"The old ladies who cook?"
 <es>{Daigo}\n"¿Una camarera?"
 
 @524
-<en>{Pierre}\n"Is it principal?"
+<en>{Pierre}\n"The principal?"
 <es>{Pierre}\n"¿La directra?"
 
 @527
-<en>{Ran}\n"You like older ladies?"
+<en>{Ran}\n"You all like old ladies don't you? Some fetish for mature women?"
 <es>{Ran}\n"¿Os gustan las señoras mayores?"
 
 @528
@@ -832,63 +832,63 @@
 <es>{Kazushi}\n"No."
 
 @531
-<en>{Ran}\n"Do you think I charged you to show you old ladies?"
+<en>{Ran}\n"Do you think I set an entry fee to show you some old hag's room?"
 <es>{Ran}\n"¿Os pensáis que os he cobrado para ver a viejas?"
 
 @534
-<en>{Ran}\n"Oh, if you want to see old ladies, let me know."
+<en>{Ran}\n"Though, if you are interested, let me know. I know a good place for that and we can negotiate for that later."
 <es>{Ran}\n"Ah, pero si queréis ver a viejas, decídmelo, ¿eh?"
 
 @538
-<en>{Appo-}\n"We are not interested."
+<en>{Appo}\n"We're not interested."
 <es>{Appo-}\n"No estamos interesados."
 
 @542
-<en>{Pierre}\n"Who's room is this anyways......?"
+<en>{Pierre}\n"So whose room is this, then?"
 <es>{Pierre}\n"De todas formas, ¿de quién es esta habitación...?"
 
 @545
-<en>{Ran}\n"You still can't tell?"
+<en>{Ran}\n"If you think for a moment, you should know. Who do you think of who isn't an old lady or a student?"
 <es>{Ran}\n"¿Seguís sin adivinarlo?"
 
 @546
-<en>Not students.\nNot old ladies......
+<en>It's not a girl in class, but it's not an old lady either. A young woman who's not a student...
 <es>Ni estudiantes.\nNi viejas...
 
 @547
-<en>{Kazushi}\n"!!!!"
+<en>{Kazushi}\n"Ah!!"
 <es>{Kazushi}\n"¡¡!!"
 
 @556
-<en>We all got it at the same time.
+<en>It struck us all like lighting.
 <es>Lo comprendimos todos a la vez.
 
 @557
-<en>{Appo-}\n"It's Ms. Ibuki!!"
+<en>{Appo}\n"I-I know! It's Mei-chan's!"
 <es>{Appo-}\n"¡¡La señorita Ibuki!!"
 
 @563
-<en>{Ran}\n"You got it right!!"
+<en>{Ran}\n"Bingo! Correct!"
 <es>{Ran}\n"¡¡Bingo!!"
 
 @567
-<en>{Pierre}\n"Ohhhh......this is her room."
+<en>{Pierre}\n"Ohhhhhh, so this is her room."
 <es>{Pierre}\n"Ahhh... Esta es su habitación."
 
 @568
-<en>It's amazing. All the sudden this room looks so special.
+<en>It was amazing. All of a sudden, the room looked special.
 <es>Es increíble. De repente, esta habitación nos resulta muy especial.
 
 @573
-<en>{Daigo}\n"She is here?"
+<en>{Daigo}\n"S-sensei's i-inside?!"
 <es>{Daigo}\n"¿Está dentro?"
 
 @577
-<en>{Ran}\n"She always takes a nap around this time of the day."
+<en>{Ran}\n"Mei-chan's routine is to take a one-hour nap after eating lunch. And it's just after lunch right now."
 <es>{Ran}\n"Todos los días se echa una siesta sobre esta hora."
 
 @585
-<en>{Appo-}\n"I can see her sleeping!?"
+<en>{Appo}\n"I can see her sleeping!?"
 <es>{Appo-}\n"¿¡Puedo verla durmiendo!?"
 
 @586
@@ -896,23 +896,23 @@
 <es>{Pierre}\n"¡¡Quita!! ¡¡Déjame ver!!"
 
 @587
-<en>{Daigo}\n"Me, too!!"
+<en>{Daigo}\n"Me too!"
 <es>{Daigo}\n"¡¡Yo también!!"
 
 @591
-<en>My buddies start fighting for the best seat.\nRan looks at me smiling.
+<en>My 'friends' started fighting for the best seat.\nRan gave me a smile.
 <es>Mis colegas empiezan a luchar por el mejor sitio.\nRan me mira sonriendo.
 
 @594
-<en>{Ran}\n"You are not interested, Kazushi?"
+<en>{Ran}\n"You're not interested, Kazushi?"
 <es>{Ran}\n"¿No te interesa, Kazushi?"
 
 @595
-<en>{Kazushi}\n"I'm one step late! They took all the spots!"
+<en>{Kazushi}\n"I'm too late! There's no room!"
 <es>{Kazushi}\n"¡Llego un poco tarde! ¡Ya se han quedado con todos los sitios!"
 
 @598
-<en>{Ran}\n"How about better spot for an extra charge?"
+<en>{Ran}\n"Heh heh, how unfortunate. For an extra charge, I can show you to a VIP seat?"
 <es>{Ran}\n"¿Y si te consigo un sitio mejor por un poco más?"
 
 @599
@@ -921,7 +921,7 @@
 
 @602
 # Revisar.
-<en>{Ran}\n"I want you to earn more money from now on for me."
+<en>{Ran}\n"Go earn some. You're here to earn money and finance me. Go work hard, Kazushi."
 <es>{Ran}\n"Quiero que me consigas más dinero a partir de hoy."
 
 @605
@@ -929,11 +929,11 @@
 <es>{Kazushi}\n"¿Qué clase de petición es esa?"
 
 @606
-<en>She is so demanding.
+<en>I'm impressed she can say that with such confidence. It's hard to argue when she's that clear.
 <es>Es muy pedigüeña.
 
 @607
-<en>{Mei}\n"MMMmmm......"
+<en>{Mei}\n"Mmmmm......"
 <es>{Mei}\n"MMMmmm..."
 
 @608
@@ -945,23 +945,23 @@
 <es>{Kazushi}\n"¿No era esa su voz?"
 
 @610
-<en>{Pierre}\n"She's waking up. She so sexy."
+<en>{Pierre}\n"Mei-chan woke up. Wow, her sleepy eyes are so sexy."
 <es>{Pierre}\n"Se está despertando. Es muy sexy."
 
 @611
-<en>{Kazushi}\n"Let me see her, too!"
+<en>{Kazushi}\n"That sexy? Let me see too."
 <es>{Kazushi}\n"¡Dejadme verla a mí también!"
 
 @612
-<en>{Appo-}\n"She is changing!"
+<en>{Appo}\n"S-s-she started changing! Strip, strip, strip, strip!"
 <es>{Appo-}\n"¡Se está cambiando!"
 
 @613
-<en>{Kazushi}\n"!?"
+<en>{Kazushi}\n"Say wha!?"
 <es>{Kazushi}\n"¿¡!?"
 
 @614
-<en>I squeezed myself between them.
+<en>I squeezed in between them and peeked inside.
 <es>Me cuelo entre ellos.
 
 @618
@@ -969,19 +969,19 @@
 <es>{Kazushi}\n"Madre mía..."
 
 @622
-<en>This is the first time we see her waring casual clothes.
+<en>This is the first time we see her wearing casual clothes. Her thin shirt was sweaty and sexily sticking to her skin.
 <es>Es la primera vez que la vemos llevando ropa normal.
 
 @623
-<en>{Mei}\n"I'm sweaty. I need to change my underwear, too."
+<en>{Mei}\n"My underwear got sweaty too. I guess I'll need to change it."
 <es>{Mei}\n"Estoy sudada. También voy a tener que cambiarme la ropa interior."
 
 @624
-<en>{Pierre}\n"Underwear......!!"
+<en>{Pierre}\n"U-un-under..."
 <es>{Pierre}\n"¡¡La ropa interior...!!"
 
 @625
-<en>{Appo-}\n"Come on! Get naked!"
+<en>{Appo}\n"Strip! Strip the underwear off!"
 <es>{Appo-}\n"¡Venga! ¡Desnúdate!"
 
 @626
@@ -989,7 +989,7 @@
 <es>{Kazushi}\n"Vaya. Esto se pone interesante."
 
 @627
-<en>{Ran}\n"I could've charged you guys more if I knew."
+<en>{Ran}\n"This service is too good. I should charge extra."
 <es>{Ran}\n"Os podría haber cobrado más de haberlo sabido."
 
 @628
@@ -997,11 +997,11 @@
 <es>{Kazushi}\n"Dios..."
 
 @629
-<en>{Appo-}\n"I'm so lucky I even feel guilty."
+<en>{Appo}\n"I-I saw so much, I actually feel guilty about that!"
 <es>{Appo-}\n"Tengo tanta suerte que me siento hasta culpable."
 
 @630
-<en>{Pierre}\n"Hey, Rn. I'll pay you more later."
+<en>{Pierre}\n"Me too. Ran-chan, I'll pay the additional fee."
 <es>{Pierre}\n"Oye Ran. Yo te pagaré más."
 
 @631
@@ -1009,15 +1009,15 @@
 <es>{Daigo}\n"Yo también."
 
 @632
-<en>{Ran}\n"Yeah? Thanks guys."
+<en>{Ran}\n"Wow, really? I'm glad you're all cowards."
 <es>{Ran}\n"¿Sí? Gracias chicos."
 
 @633
-<en>I don't know why we felt like paying, but we all paid her more anyways.
+<en>I don't know why we felt like we had to pay Ran extra or why we felt like we'd be forgiven if we paid her, but we all paid up.
 <es>
 
 @634
-<en>After done paying extra, we felt like we deserved to see inside the room for some reason.
+<en>Then, once we paid her, we felt like getting our money's worth.
 <es>Tras el cobro adicional, sentíamos que nos merecíamos mirar el interior de la habitación por algún motivo.
 
 @635
@@ -1025,47 +1025,47 @@
 <es>{Kazushi}\n"Muy bien chicos. Volvamos al espectáculo."
 
 @636
-<en>She is wearing nothing but her underwears.
+<en>Mei-sensei was in nothing but her underwear.
 <es>Lo único que llevaba era la ropa interior.
 
 @637
-<en>{Mei}\n"I wish I have time for a shower......"
+<en>{Mei}\n"I wish I had time for a shower. I should at least wipe myself off and change..."
 <es>{Mei}\n"Ojalá tuviese tiempo para darme una ducha..."
 
 @638
-<en>She's turning her back against us.
+<en>She turned her back to us. All we could see was her sexy back, and her front reflected in her mirror.
 <es>Nos da la espalda.
 
 @639
-<en>{Pierre}\n"What a figure she's got."
+<en>{Pierre}\n"What a figure! Look at the legs she's got on her!"
 <es>{Pierre}\n"Menudo cuerpazo."
 
 @640
-<en>{Appo-}\n"That's how a woman should look like."
+<en>{Appo}\n"Her boobs are plump and bouncy. That! That my friends, is a woman! The other girls need to learn a lesson from her!"
 <es>{Appo-}\n"Así es cómo debe ser una mujer."
 
 @641
-<en>{Ran}\n"Are you guys forgetting I'm here."
+<en>{Ran}\n"Have you guys forgotten that I'm standing right here?"
 <es>{Ran}\n"Os estáis olvidando de que estoy aquí."
 
 @642
-<en>I think they are.
+<en>Most likely. They were too focused on peeking to notice anything going on around them.
 <es>Diría que sí.
 
 @643
-<en>Our eyes are on every move Ms. Ibuki makes.
+<en>Our eyes were fixed on every move Mei-sensei made.
 <es>Nuestros ojos siguen al milímetro cada movimiento que hace la señorita Ibuki.
 
 @644
-<en>{Ran}\n"......This is not fun to me."
+<en>{Ran}\n"This isn't fun anymore."
 <es>{Ran}\n"A mí no me resulta divertido..."
 
 @645
-<en>{Kazushi}\n"Come on Ran, you should watch, too."
+<en>{Kazushi}\n"Come on, Ran. You should watch too. You don't get this chance often."
 <es>{Kazushi}\n"Venga Ran, tu también deberías mirar."
 
 @646
-<en>{Ran}\n"You think I'm a guy, don't you?"
+<en>{Ran}\n"I'm being completely treated like a guy, aren't I?"
 <es>{Ran}\n"Me véis como a un chico, ¿no?"
 
 @647
@@ -1077,39 +1077,39 @@
 <es>{Ran}\n"Sí, es sexy..."
 
 @649
-<en>{Appo-}\n"Wow......"
+<en>{Appo}\n"Geh heh heh..."
 <es>{Appo-}\n"Guau..."
 
 @650
-<en>{Pierre}\n"Show me your tits......"
+<en>{Pierre}\n"Come on, show me your tits."
 <es>{Pierre}\n"Enseña esas tetas..."
 
 @651
-<en>{Ran}\n"You should see how your face look like right now, boys."
+<en>{Ran}\n"But sexy enough to make you all look like this?"
 <es>{Ran}\n"Tendríais que veros la cara que ponéis ahora."
 
 @652
-<en>Ran seems to be little jealous.
+<en>Ran's voice carried a hint of jealousy.
 <es>Ran parece algo celosa.
 
 @653
-<en>{Mei}\n"I don't like summer. I get too sweaty between my boobs."
+<en>{Mei}\n"I hate summer. I get too sweaty between my boobs. This could cause a rash."
 <es>{Mei}\n"Odio el verano. Acabo con la zona de las tetas completamente sudada."
 
 @654
-<en>She is ready to wipe sweat off between her boobs.
+<en>She was about to wipe the sweat from her cleavage! Her hands reached around her back to the hook of her bra.
 <es>Se prepara para quitarse el sudor de entre las tetas.
 
 @655
-<en>{Boys}\n(......!!)
+<en>{Boys}\n"Gulp!"
 <es>{Chicos}\n(¡¡...!!)
 
 @656
-<en>We all stopped breathing to wait for her next move.
+<en>We all stopped breathing in anticipation of her next move.
 <es>Dejamos todos de respirar en espera del siguiente movimiento.
 
 @657
-<en>But for some reason, she stopeed moving and froze.
+<en>But for some reason, she froze in place.
 <es>Pero por algún motivo, paró de moverse y se quedó congelada.
 
 @658
@@ -1117,43 +1117,43 @@
 <es>{Mei}\n"..."
 
 @659
-<en>She is thinking something.
+<en>She had a sudden flash of inspiration.
 <es>Está pensando en algo.
 
 @660
-<en>We couldn't move either. We kept silence.
+<en>We couldn't move, either. We kept silent.
 <es>Tampoco nos podíamos mover. Permanecimos en silencio.
 
 @661
-<en>She's looking at herself inside a mirror.
+<en>She started looking at herself in the mirror.
 <es>Se está mirando por el espejo.
 
 @662
-<en>{Mei}\n"......maybe I'm from outer space."
+<en>{Mei}\n"Maybe I'm... an alien from outer space."
 <es>{Mei}\n"Quizá sea del espacio exterior..."
 
 @663
-<en>{Boys}\n(What......!?)
+<en>{Boys}\n"What?!"
 <es>{Chicos}\n(¿¡Qué...!?)
 
 @664
-<en>She thinks she's an alien?\nWhat did she mean by that......?
+<en>She finally moved to mutter that?! What does Mei-sensei mean she's an alien?
 <es>¿Se cree que es un alien?\n¿Qué quería decir con eso...?
 
 @665
-<en>{Pierre}\n"She is?"
+<en>{Pierre}\n"Is Mei-chan an alien?"
 <es>{Pierre}\n"¿Lo es?"
 
 @666
-<en>{Ran}\n"I've never heard she is."
+<en>{Ran}\n"I don't know. I've never heard she is."
 <es>{Ran}\n"Nunca había escuchado que lo fuera."
 
 @667
-<en>{Appo-}\n"But she thinks she is."
+<en>{Appo}\n"But she thinks she is."
 <es>{Appo-}\n"Pero ella lo cree."
 
 @668
-<en>{Kazushi}\n"She is an alien......?"
+<en>{Kazushi}\n"She's an alien?"
 <es>{Kazushi}\n"¿Es un alien...?"
 
 @669
@@ -1161,29 +1161,29 @@
 <es>{Mei}\n"..."
 
 @670
-<en>She looks serious in the mirror.
+<en>Sensei stared in the mirror as if she was trying to uncover her own identity.
 <es>Mira con seriedad por el espejo.
 
 @671
-<en>And she spoke out with a serious face.
+<en>Then her lips moved again.
 <es>Y con una voz seria dijo...
 
 @672
 # UFFFF xD. A ver qué pongo aquí.
 # Por ahora lo dejo igual. Podría ser una frase en inglés sin más.
-<en>{Mei}\n"Mei in black. Man in black."
+<en>{Mei}\n"MEI in Black. Men In Black."
 <es>{Mei}\n"Mei in black. Men in black."
 
 @674
-<en>{Kazushi}\n"......?"
+<en>{Kazushi}\n"Huh?"
 <es>{Kazushi}\n"¿...?"
 
 @675
-<en>{Mei}\n"I can use this. I should write this down."
+<en>{Mei}\n"I can use that. I should write it down."
 <es>{Mei}\n"Puede servir. Lo escribiré."
 
 @676
-<en>She looks for a memo.
+<en>She grabbed a nearby notepad and jotted it down.
 <es>Busca un bloc de notas.
 
 @679
@@ -1191,17 +1191,17 @@
 <es>{Daigo}\n"¿Mei in black...?"
 
 @680
-<en>{Pierre}\n"She just came up with a stupid joke......"
+<en>{Pierre}\n"Another pun?"
 <es>{Pierre}\n"Y ahora nos sale con un chiste malo..."
 
 @681
 # Por lo que dicen después, parece que se refiere a lo que dice más que de a ella.
-<en>{Appo-}\n"She's so cute......"
+<en>{Appo}\n"Sensei's such a clever little MEInx..."
 <es>{Appo-}\n"Pero es muy gracioso..."
 
 @682
 # Cambiado por lo que comento antes.
-<en>Appo- was the only guy who thought that was cute......
+<en>Appo's bad joke filled everyone with the urge to kill. Yet that aside...
 <es>Creo que Appo- era el único que pensaba que tenía gracia...
 
 @683
@@ -1209,15 +1209,15 @@
 <es>{Daigo}\n"Oye..."
 
 @685
-<en>When we put our eyes back on her, she was already wearing new bras.
+<en>By the time we recovered from the bad puns and started watching again, she was already wearing a new bra.
 <es>Cuando volvemos a posar nuestros ojos sobre ella, ya llevaba puesto otro sujetador.
 
 @686
-<en>{Appo-}\n"Shit!"
+<en>{Appo}\n"We missed it!?"
 <es>{Appo-}\n"¡Joder!"
 
 @687
-<en>{Pierre}\n"No!"
+<en>{Pierre}\n"Shiiiiit!"
 <es>{Pierre}\n"¡No!"
 
 @688
@@ -1225,36 +1225,36 @@
 <es>{Ran}\n"Una lástima, chicos."
 
 @689
-<en>{Daigo}\n"I like her black bras, too."
+<en>{Daigo}\n"A black bra. So sexy..."
 <es>
 
 @690
-<en>{Mei}\n"Mei in black, there you go."
+<en>{Mei}\n"Yes, today we'll go with a black bra. My bra is black. Mei In Black, after all."
 <es>{Mei}\n"Mei in black, allá vamos."
 
 @691
-<en>{Appo-}\n"......"
+<en>{Appo}\n"Ah, ah, ahhh..."
 <es>{Appo-}\n"..."
 
 @692
-<en>{Pierre}\n"I lost it......"
+<en>{Pierre}\n"I'm down..."
 <es>{Pierre}\n"Me lo he perdido..."
 
 @693
 # Estoy inspirada. Estoy que me salgo. Tengo mucha chispa. Estoy aguda. Quizá por lo de gracioso sería mejor otro (quizá chispa).
-<en>{Mei}\n"I'm sharp today."
+<en>{Mei}\n"I'm on a roll today. I bet I'll do great this afternoon, too."
 <es>{Mei}\n"Hoy estoy con chispa."
 
 @694
-<en>She thinks it's a funny joke.
+<en>She thought it was hilarious.
 <es>Debe pensarse que era un chiste gracioso.
 
 @695
-<en>{Kazushi}\n"Hey......"
+<en>{Kazushi}\n"Oh..."
 <es>{Kazushi}\n"Oye..."
 
 @696
-<en>?\nIsn't she making an eye contact off with us off the mirror?
+<en>H-huh? Is it just me, or is she looking at us in the mirror?
 <es>¿?\n¿No nos está viendo a través del espejo?
 
 @697
@@ -1262,36 +1262,36 @@
 <es>{Mei}\n"..."
 
 @698
-<en>Is she looking at us?\nNo way......
+<en>S-she sees us, right? No, no way...
 <es>¿Nos está mirando?\nNo puede ser...
 
 @699
-<en>{Kazushi}\n"......how about this?"
+<en>{Kazushi}\n"Let's try this?"
 <es>{Kazushi}\n"¿Y si hago esto...?"
 
 @700
 # Le puse una cara rara. Puse una cara larga.
-<en>I made a funny face just to see if she knows we are here.
+<en>I made a funny face just to see if she'd noticed us.
 <es>Le puse una cara rara para ver si sabía que estábamos aquí.
 
 @701
-<en>{Mei}\n(She laughs)
+<en>{Mei}\n"Pfft!"
 <es>{Mei}\n(Se ríe)
 
 @702
-<en>Oh shit!\nShe knows we are here!
+<en>She laughed! Shit, she can see us! She knows we're here!!
 <es>¡Joder!\n¡Lo sabe!
 
 @703
-<en>{Appo-}\n"Oh yeah, where is my camera?"
+<en>{Appo}\n"Oh yeah, where's my camera?"
 <es>{Appo-}\n"Ah sí, ¿dónde tengo la cámara?"
 
 @704
-<en>{Pierre}\n"That's right. We paid 50 bucks."
+<en>{Pierre}\n"That's right! We paid 5,000 yen for photo rights."
 <es>{Pierre}\n"Eso. Que hemos pagado 5000 yenes."
 
 @705
-<en>My guys don't know that she knows we are here.
+<en>The guys were finally getting ready to take pictures. They didn't realize that she had noticed us!
 <es>Mis colegas no sabían que ella sabía que estábamos aquí.
 
 @706
@@ -1299,67 +1299,67 @@
 <es>{Mei}\n"..."
 
 @707
-<en>We should leave here while she's pretending she doesn't know.
+<en>We need to run now. I don't know why, but sensei's willing to act like she doesn't notice.
 <es>Deberíamos marcharnos mientras finje que no sabe que estamos aquí.
 
 @708
-<en>{Kazushi}\n"Hey guys, I think we should leave now."
+<en>{Kazushi}\n"Hey, let's get out of here. We'll be in trouble if anyone comes!"
 <es>{Kazushi}\n"Chicos. Creo que deberíamos irnos."
 
 @709
-<en>{Appo-}\n"Are you crazy?"
+<en>{Appo}\n"What are you saying? Stupid Kazushi!"
 <es>{Appo-}\n"¿Estás loco?"
 
 @710
-<en>{Pierre}\n"Remember?, it's during class hour."
+<en>{Pierre}\n"Remember? It's during class time. Now for pictures!"
 <es>{Pierre}\n"¿Recuerdas?, estamos en horario lectivo."
 
 @711
-<en>Taking pictures will make Ms.Ibuki stop pretending.
+<en>Pictures are bad, guys! If you take any, she won't stay quiet!
 <es>Sacar fotos hará que la señorita Ibuki deje de finjir.
 
 @712
-<en>{Appo-}\n"Smile......"
+<en>{Appo}\n"Ready? Cheese!"
 <es>{Appo-}\n"Sonríe..."
 
 @713
-<en>{Kazushi}\n"Stupid!"
+<en>{Kazushi}\n"Dumbass!"
 <es>{Kazushi}\n"¡Estúpido!"
 
 @714
-<en>I covered his camera.
+<en>I covered up his camera lens.
 <es>Le tapé la cámara.
 
 @720
-<en>{Appo-}\n"What are you doing?"
+<en>{Appo}\n"Ah! You covered it with your hand! What are you doing?!"
 <es>{Appo-}\n"¿Pero qué haces?"
 
 @721
-<en>{Kazushi}\n"We should really get going now."
+<en>{Kazushi}\n"We really need to stop. Now."
 <es>{Kazushi}\n"Tenemos que irnos ya."
 
 @726
-<en>{Ran}\n"This is not a good idea. You forgot to shut off the flush that time, too."
+<en>{Ran}\n"Yeah, he's right. You hadn't turned your flash off either."
 <es>{Ran}\n"No es buena idea. Te has olvidado de quitarle el flash."
 
 @730
-<en>{Pierre}\n"They are right, Appo-.\nAt least turn off the flush."
+<en>{Pierre}\n"Yeah, what idiot keeps the flash on when he's taking undercover pictures? Mei-chan'll notice!"
 <es>{Pierre}\n"Tiene razón, Appo-.\nAl menos quítale el flash."
 
 @733
-<en>{Appo-}\n"Sorry, guys. I won't use the flush anymore."
+<en>{Appo}\n"Sorry, I still don't quite get how it works..."
 <es>{Appo-}\n"Lo siento. No volveré a usar el flash."
 
 @738
-<en>{Ran}\n"Opps. I think we got caught."
+<en>{Ran}\n"No, this isn't the time! Oh, we're busted."
 <es>{Ran}\n"Ups. Creo que nos han pillado."
 
 @739
-<en>{Kazushi}\n"......oh no!?"
+<en>{Kazushi}\n"Busted? Uwah!?"
 <es>{Kazushi}\n"Oh, no..."
 
 @747
-<en>The mysterious plant is rushing into us.
+<en>The mysterious weeds from the corridors were rushing towards us.
 <es>La planta misteriosa nos acecha.
 
 @752
@@ -1367,15 +1367,15 @@
 <es>{Pierre}\n"¿¡Qué es eso!?"
 
 @753
-<en>It's plant. It's trying to catch us like snake.
+<en>Ivy! The ivy was snaking its way over to get us!
 <es>Esa una planta. Trata de cazarnos como si fuese una serpiente.
 
 @754
-<en>{Appo-}\n"What's going on!?"
+<en>{Appo}\n"What's going on!?"
 <es>{Appo-}\n"¿¡Qué ocurre!?"
 
 @759
-<en>{Ran}\n"It's the security system in this dorm. They found us because of the flush."
+<en>{Ran}\n"It's the dorm's security system. It found us because of Appo's flash."
 <es>{Ran}\n"Es el sistema de seguridad del dormitorio. Se ha activado por lo del flash."
 
 @760
@@ -1383,23 +1383,23 @@
 <es>{Kazushi}\n"¿¡Y llamas a esto sistema de seguridad!?"
 
 @761
-<en>Is this part of Alchemy?
+<en>Is this because of alchemy as well? That ivy is moving like some living creature!
 <es>¿Es alquimia?
 
 @762
-<en>{Ran}\n"Shut up and just run!"
+<en>{Ran}\n"You don't want it to catch you! Now run!"
 <es>{Ran}\n"¡Calla y corre!"
 
 @767
-<en>{Daigo}\n"Run to where?"
+<en>{Daigo}\n"Run where?"
 <es>{Daigo}\n"¿Correr? ¿A dónde?"
 
 @768
-<en>The plant is coming from all directions.
+<en>Several vines of ivy were coming at us from all directions. There was no escape to our left or right.
 <es>La planta viene de todas las direcciones.
 
 @773
-<en>{Ran}\n"Jump thorough the window. Jump!"
+<en>{Ran}\n"There! Through the window! Jump!"
 <es>{Ran}\n"Saltad por la ventana. ¡Saltad!"
 
 @774
@@ -1407,7 +1407,7 @@
 <es>Ran abrió la ventana mientras nos decía que saltásemos.
 
 @775
-<en>{Kazushi}\n"Git it! Jump guys!"
+<en>{Kazushi}\n"Got it! Come on!"
 <es>{Kazushi}\n"¡Venga! ¡Saltad!"
 
 @777
@@ -1424,7 +1424,7 @@
 <es>{Pierre}\n"¡¡Es el tercer piso!!"
 
 @783
-<en>{Appo-}\n"No!!"
+<en>{Appo}\n"No!!"
 <es>{Appo-}\n"¡¡No!!"
 
 @792
@@ -1437,6 +1437,6 @@
 
 @794
 # ¿Plural o singular?
-<en>{Ran}\n"You are still alive! That's good!!"
+<en>{Ran}\n"You're still alive! That's all that matters!"
 <es>{Ran}\n"¡Seguís con vida! ¡¡Qué bien!!"
 

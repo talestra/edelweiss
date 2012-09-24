@@ -1,11 +1,11 @@
 # Comments for '01204'
 
 @10
-<en>{Kazushi}\n"This feels so good-----......"
+<en>{Kazushi}\n"This feels so good......"
 <es>{Kazushi}\n"Qué agustito..."
 
 @11
-<en>It was a long day.
+<en>It had been a long day.
 <es>Ha sido un día muy largo.
 
 @13
@@ -17,27 +17,27 @@
 <es>{Kazushi}\n"..."
 
 @17
-<en>[Kazushi sinking into bathtub]
+<en>Splash!
 <es>*Kazushi hundiéndose en la bañera*
 
 @19
-<en>{Kazushi}\n"......opps!\nThat was dangerous-"
+<en>{Kazushi}\n"Glupb?! That was close!"
 <es>{Kazushi}\n"... ¡Ups!\nQué peligro."
 
 @20
-<en>I almost fell asleep in bathtub.
+<en>I almost fell asleep in the bathtub.
 <es>Casi me quedo dormido en la bañera.
 
 @21
-<en>{Kazushi}\n"I heard people actually get drown in bathtub."
+<en>{Kazushi}\n"I've heard that some people have actually drowned by doing that."
 <es>{Kazushi}\n"He oído hablar sobre gente que se ha acabado ahogando en la bañera."
 
 @22
-<en>I need someone to talk to so I won't fall sleep in here.
+<en>I need someone to talk to so that I won't fall asleep in here. Maybe I should've just gotten out with Appo and the others.
 <es>Tengo que encontrar a alguien con quien hablar para no quedarme dormido.
 
 @24
-<en>[Door opens]
+<en>*shwoom*
 <es>*La puerta se abre*
 
 @25
@@ -45,11 +45,11 @@
 <es>Ah, mira qué bien. Justo cuando necesitaba un compañero.
 
 @27
-<en>[sound of footsteps]
+<en>*taptaptap*
 <es>*Pasos*
 
 @28
-<en>For some reason, he looks really small.
+<en>I couldn't see well through the steam, but they were coming closer. Their silhouette wasn't big - in fact it was quite small.
 <es>Por algún motivo, me parece realmente pequeño.
 
 @29
@@ -57,39 +57,39 @@
 <es>{???}\n"¡Já!"
 
 @30
-<en>{Kazushi}\n"What a!?"
+<en>{Kazushi}\n"What the!?"
 <es>{Kazushi}\n"¿¡Pero qué!?"
 
 @32
-<en>He jumped into the bathtub.
+<en>They jumped into the bathtub.
 <es>Saltó a la bañera.
 
 @34
-<en>[Water splashing]
+<en>*Splash!*
 <es>*Agua salpicando*
 
 @35
-<en>{Kazushi}\n"Oh!!"
+<en>{Kazushi}\n"Glub?!"
 <es>{Kazushi}\n"¡¡Ah!!"
 
 @36
-<en>Splash got my face.
+<en>My face got splashed.
 <es>Me ha salpicado en la cara.
 
 @37
-<en>{Kazushi}\n"What are you doing---------?!!\nYou're not supposed to do that!!"
+<en>{Kazushi}\n"What are you doing?! You're not supposed to jump into the bath!"
 <es>
 
 @38
-<en>He swam toward me.
+<en>The person's shadow glided through the water and came closer.
 <es>
 
 @40
-<en>[Water splashing]
+<en>*splashsplash*
 <es>*Agua salpicando*
 
 @46
-<en>{Natsume}\n[Natsume taking a deep breath]
+<en>{Natsume}\n"Pah!"
 <es>{Natsume}\n*Respirando profundamente*
 
 @47
@@ -97,102 +97,102 @@
 <es>{Kazushi}\n"¿Qué...?"
 
 @48
-<en>It was Natsume.
+<en>Natsume-chan came to the surface.
 <es>Era Natsume.
 
 @49
-<en>{Natsume}\n"Oh, hey Kazushi."
+<en>{Natsume}\n"Oh, hey, Haruma."
 <es>{Natsume}\n"Ah. Ey, Kazushi."
 
 @50
-<en>{Kazushi}\n"Natsume!?\nWhat are you doing here!?"
+<en>{Kazushi}\n"Natsume-chan?! Why are you here?!"
 <es>{Kazushi}\n"¿¡Natsume!?\n¿¡Qué estás haciendo aquí!?"
 
 @51
-<en>{Natsume}\n"What's wrong with me taking a bath?\nI take bath everyday."
+<en>{Natsume}\n"Even I take baths too. The body's relubrication is greatest when you're young, so we need to take one every day."
 <es>{Natsume}\n"¿Qué pasa porque me de un baño?\nMe baño todos los días."
 
 @52
-<en>{Kazushi}\n"I mean this is not girls' shower room!"
+<en>{Kazushi}\n"You're wrong! You're wrong! You mean rejuvenation!"
 <es>{Kazushi}\n"¡Me refiero a que esta no es la ducha de las chicas!"
 
 @53
-<en>{Natsume}\n"???\nDoes it matter?"
+<en>{Natsume}\n"Relubrication?"
 <es>{Natsume}\n"¿¿...??\n¿Y importa?"
 
 @54
-<en>{Kazushi}\n"Ofcourse it does!\n!!"
+<en>{Kazushi}\n"No, no, rejuvenation!!"
 <es>{Kazushi}\n"¡¡Claro que importa!!"
 
 @55
-<en>{Natsume}\n"I don't care."
+<en>{Natsume}\n"Lube."
 <es>{Natsume}\n"Me da igual."
 
 @56
-<en>{Kazushi}\n"I do----!"
+<en>{Kazushi}\n"NO!"
 <es>
 
 @57
-<en>I don't think she'll get it.
+<en>This isn't working. Every time I try and correct her, she brings up lube.
 <es>No creo que lo fuese a entender.
 
 @58
-<en>I just hope that no one sees us taking a bath together.
+<en>This just looks like I'm some pervert getting off on making her say dirty things.
 <es>Tan solo espero que nadie nos vea bañándonos juntos.
 
 @59
-<en>{Natsume}\n"Who cares......"
+<en>{Natsume}\n"Lube..."
 <es>{Natsume}\n"Qué más da..."
 
 @60
 # Revisar.
-<en>{Kazushi}\n"All right!\nJust remember some of us do care taking bath together with girls!"
+<en>{Kazushi}\n"Aaah, forget it! It doesn't matter! You're right!"
 <es>{Kazushi}\n"¡Está bien!\n¡Pero recuerda que a algunos de nosotros sí que nos importa bañarnos con chicas!"
 
 @61
-<en>I hope she understands.
+<en>I'll just leave it at that.
 <es>Espero que lo entienda.
 
 @62
-<en>{Natsume}\n"Really?\nI never thought this would be a problem."
+<en>{Natsume}\n"Are you sure? They say ignorance leads to shame, so if I'm wrong, I'd like to correct myself."
 <es>{Natsume}\n"¿En serio?\nNunca pensé que pudiera ser un problema."
 
 @63
 # Revisar.
-<en>{Kazushi}\n"Some of us can do really nasty stuff to you."
+<en>{Kazushi}\n"Well, that's a good attitude."
 <es>{Kazushi}\n"Algunos de nosotros te podríamos hacer cosas muy malas."
 
 @64
 # Quizá convendría poner 'violado', aunque igual quedaría demasiado fuerte.
-<en>I can't believe she hasn't been attacked yet.
+<en>I'd like to help you, but sorry, my mind isn't that mature either.
 <es>Espero que no la hayan atacado ya.
 
 @65
-<en>{Kazushi}\n"Didn't you see the sign it says "men"on the door?"
+<en>{Kazushi}\n"This isn't the time for that, though. Do you realize this is the men's bath?"
 <es>{Kazushi}\n"¿No has visto la señal 'Hombres' que hay en la entrada?"
 
 @66
-<en>How did she not see the sign before she entered.
+<en>Yup, that was the big problem. The was the men's bath, and Natsume-chan walked in here.
 <es>¿Cómo puede ser que no haya visto la señal al entrar?
 
 @67
-<en>{Natsume}\n"There is?"
+<en>{Natsume}\n"Hmm?"
 <es>{Natsume}\n"¿La hay?"
 
 @68
-<en>{Kazushi}\n"How could you miss that?"
+<en>{Kazushi}\n"No, not hmm."
 <es>
 
 @70
-<en>[Bubbles came up from the water]
+<en>*bubbaglub*
 <es>*Burbujas saliendo del agua*
 
 @71
-<en>{Kazushi}\n"What a!?"
+<en>{Kazushi}\n"What the--!?"
 <es>
 
 @72
-<en>Bubbles came up from around my ass!
+<en>Bubbles were coming up from around my ass!
 <es>
 
 @73
@@ -200,11 +200,11 @@
 <es>{Natsume}\n"Te has tirado un pedo."
 
 @74
-<en>{Kazushi}\n"No, I didn't."
+<en>{Kazushi}\n"No I didn't!"
 <es>
 
 @75
-<en>{Natsume}\n"You farted, Kazushi."
+<en>{Natsume}\n"You farted, Haruma."
 <es>{Natsume}\n"Te has tirado un pedo, Kazushi."
 
 @76
@@ -212,19 +212,19 @@
 <es>
 
 @77
-<en>{Natsume}\n"Then why are you in panic?"
+<en>{Natsume}\n"You're panicking."
 <es>{Natsume}\n"Entonces, ¿por qué estás preocupado?"
 
 @78
-<en>She finally revealed the trick. She was holding a basin.
+<en>She raised her hands out of the water, and in them was a shower basin.
 <es>
 
 @79
-<en>{Kazushi}\n"You......"
+<en>{Kazushi}\n"Ah..."
 <es>{Kazushi}\n"Tú..."
 
 @80
-<en>She fooled me.
+<en>It was her doing.
 <es>Me ha tomado el pelo.
 
 @81
@@ -240,7 +240,7 @@
 <es>
 
 @84
-<en>She noticed I had such a tough day and I was down?
+<en>You mean she tried to cheer me up? She'd noticed that I was having a rough day and feeling down? She's sharp.
 <es>¿Se había percatado de que tenía un día difícil y de que estaba decaído?
 
 @85
@@ -248,23 +248,23 @@
 <es>
 
 @86
-<en>{Kazushi}\n"Sorry, Natume.\nI'm just having hard time getting along with the girls in my class."
+<en>{Kazushi}\n"Sorry, Natsume-chan. I'm just having hard time getting along with the girls in my class."
 <es>
 
 @87
-<en>{Natsume}\n"I see. Yeah, I can tell you're not the popular one among the girls."
+<en>{Natsume}\n"Hmm, girls, huh? Yeah, you're not popular."
 <es>{Natsume}\n"Ya veo. Sí. No pareces ser muy popular entre las chicas."
 
 @88
-<en>Sometimes, she's too honest.
+<en>She can be too honest sometimes.
 <es>A veces es demasiado honesta.
 
 @89
-<en>{Natsume}\n"I see.\nSo you're down now."
+<en>{Natsume}\n"I see. Poor Haruma."
 <es>{Natsume}\n"Ya veo.\nAsí que ahora estás de bajón."
 
 @90
-<en>{Kazushi}\n"I am.\nCan you be nice to me?"
+<en>{Kazushi}\n"I sure am. Could I ask you to be nice to me?"
 <es>
 
 @91
@@ -272,7 +272,7 @@
 <es>{Natsume}\n"Claro."
 
 @92
-<en>She reached out her hands over to my head.
+<en>She reached out her hands and started stroking my head.
 <es>
 
 @93
@@ -280,35 +280,35 @@
 <es>{Kazushi}\n"Ey..."
 
 @94
-<en>{Natsume}\n"Good boy......."
+<en>{Natsume}\n"Good boy......"
 <es>{Natsume}\n"Buen chico..."
 
 @95
-<en>It's been a while someone patted my head.
+<en>Her tiny hand petted my head. How long as it been since I last had anyone rub me on the head? Since I was a child, I think.
 <es>Había pasado mucho tiempo desde la últiam vez que alguien me dio palmaditas en la cabeza.
 
 @96
-<en>{Natsume}\n"Good boy......."
+<en>{Natsume}\n"Good boy......"
 <es>{Natsume}\n"Buen chico..."
 
 @97
-<en>I have lost this feeling for a long time.
+<en>I didn't remember it feeling this good.
 <es>
 
 @98
-<en>{Natsume}\n"Do you feel better?"
+<en>{Natsume}\n"Are you feeling better?"
 <es>{Natsume}\n"¿Te encuentras mejor ahora?"
 
 @99
-<en>{Kazushi}\n"I do.\nI remember my mom used to pat my head like this when I was little."
+<en>{Kazushi}\n"I am. I remember that my mom used to pat my head like this when I was little."
 <es>
 
 @100
-<en>{Natsume}\n"Your mom?\nShe looks like me?"
+<en>{Natsume}\n"Your mom?\nDoes she look like me?"
 <es>{Natsume}\n"¿Tu madre?\n¿Se parecía a mí?"
 
 @101
-<en>{Kazushi}\n"You guys don't look alike.\nBut you guys pat me the same way."
+<en>{Kazushi}\n"No, you don't look anything alike.\nBut you both pat my head the same way."
 <es>{Kazushi}\n"No os parecéis.\nPero tenéis la misma forma de dar palmaditas."
 
 @102
@@ -316,15 +316,15 @@
 <es>{Natsume}\n"Ya veo..."
 
 @103
-<en>{Kazushi}\n"Did you used to get patted like this from your mom, too?"
+<en>{Kazushi}\n"Did your mom pat your head like this as well?"
 <es>{Kazushi}\n"¿A ti también te daba palmaditas en la cabeza tu madre?"
 
 @104
-<en>{Natsume}\n"............this is my dad's way."
+<en>{Natsume}\n"...it's what my father used to do."
 <es>{Natsume}\n"... Es la forma en la que lo hacía mi padre."
 
 @105
-<en>{Kazushi}\n"Oh, this way is your dad's way?"
+<en>{Kazushi}\n"Oh, it's your father's way, then."
 <es>
 
 @106
@@ -340,23 +340,23 @@
 <es>{Natsume}\n"..."
 
 @109
-<en>{Kazushi}\n"Natume, are you listening?"
+<en>{Kazushi}\n"Natsume-chan?"
 <es>{Kazushi}\n"Natume, ¿me estás escuchando?"
 
 @110
-<en>{Natsume}\n"......if you feel so good, you can fall sleep."
+<en>{Natsume}\n"......if you feel that good, you can fall asleep."
 <es>
 
 @111
-<en>{Kazushi}\n"I know......\nI'm getting so sleepy."
+<en>{Kazushi}\n"Oh, sure... I am sleepy."
 <es>
 
 @112
-<en>{Natsume}\n"You sleep."
+<en>{Natsume}\n"Sleep."
 <es>
 
 @113
-<en>It seems like she got upset all the sudden after I mentioned about her father.
+<en>She roughly rubbed my head. It seemed like she suddenly got upset after I asked about her father.
 <es>Parece que se ha mosqueado repentinamente en cuanto he mencionado a su padre.
 
 @114
@@ -365,6 +365,6 @@
 
 @115
 # Revisar.
-<en>I reflained from asking her too much about her father.
+<en>I was curious as to why, but I decided to refrain from pushing the subject any further.
 <es>Evité preguntarle más sobre su padre.
 

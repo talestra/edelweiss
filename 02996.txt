@@ -1,31 +1,31 @@
 # Comments for '02996'
 
 @9
-<en>{Pierre}\n"Hey Kazushi, did you already hear that? Dreams fall from the sky around this school."
+<en>{Pierre}\n"Hey, Kazushi, have you heard the rumour? There are dreams falling from heaven around the school's forest."
 <es>
 
 @10
-<en>{Kazushi}\n"What? Dreams falling around this school? Are you O.K?\nYou listen carefully......"
+<en>{Kazushi}\n"What? Dreams falling around the school?\nAre you OK?\nNow listen to me..."
 <es>
 
 @24
-<en>{Kazushi}\n"If you have done any one of the three, you should definitely go to the nurse's office."
+<en>{Kazushi}\n"If you've been having nightmares about the cafeteria lady again, then you should definitely go to the nurse's office."
 <es>
 
 @27
-<en>{Pierre}\n"Ofcourse not, stupid! What I meant about dreams are porn-magazines!!"
+<en>{Pierre}\n"Of course not, stupid! When I say "dreams", I mean porno mags!"
 <es>
 
 @28
-<en>{Kazushi}\n"Why porn-magazines are littered on the street around this school."
+<en>{Kazushi}\n"Why are porno mags falling from heaven around the school?"
 <es>
 
 @34
-<en>{Appo-}\n"Guys who made girl friends here are throwing them away,\nbecause they don't need them anymore."
+<en>{Appo}\n"Because all the guys who've found girlfriends don't need them anymore so they're throwing them away."
 <es>
 
 @35
-<en>{Kazushi}\n"I see."
+<en>{Kazushi}\n"I see. Sounds like they might attract a ghost with all that waste."
 <es>
 
 @42
@@ -33,47 +33,47 @@
 <es>
 
 @47
-<en>{Appo-}\n"They are seen in the back forest of this school."
+<en>{Appo}\n"They've been seen in the forest behind the campus. There were some pretty brazen ones too."
 <es>
 
 @48
-<en>{Kazushi}\n"Why you know so well?\nAre you already......"
+<en>{Kazushi}\n"How do you know? Have you already..."
 <es>
 
 @49
-<en>He must have gone there already.
+<en>He went to grab some.
 <es>
 
 @52
-<en>{Daigo}\n"What kind of porns?"
+<en>{Daigo}\n"What kind of porn is it?"
 <es>
 
 @53
-<en>Daigo seems interested.
+<en>Daigo seemed interested. He was a pervert too, despite his looks.
 <es>
 
 @59
-<en>{Sakura}\n"Daigo-"
+<en>{Sakura}\n"Daigo-kun?"
 <es>
 
 @60
-<en>Sakura came by.\nA rare guest for Daigo.
+<en>Sakura popped her head in. It was rare for Daigo to have a guest.
 <es>
 
 @61
-<en>We shut up.\nWe don't want Sakura to hear what he are just talking about.
+<en>We shut up. We didn't want Sakura to hear what we'd just been talking about.
 <es>
 
 @65
-<en>{Daigo}\n"So, what kind is it?"
+<en>{Daigo}\n"So? How brazen is it?"
 <es>
 
 @66
-<en>Except for Daigo.
+<en>Daigo didn't even notice that he was being called for by a girl since it was so rare.
 <es>
 
 @71
-<en>{Sakura}\n"Hey, Daigo!"
+<en>{Sakura}\n"Hey, Daigo-kun!"
 <es>
 
 @76
@@ -81,11 +81,11 @@
 <es>
 
 @79
-<en>He finally realized he has a guest.
+<en>He finally caught on to the fact that he had a guest.
 <es>
 
 @80
-<en>{Sakura}\n"Daigo, can you show me your hands-?"
+<en>{Sakura}\n"Daigo-kun, could you show me your hands for a second?"
 <es>
 
 @81
@@ -93,23 +93,23 @@
 <es>
 
 @82
-<en>Daigo shows his hand.\nSakura put her hand on his.
+<en>Daigo held out his hands. Sakura put her hands on his.
 <es>
 
 @85
-<en>{Daigo}\n"What are you doing!?"
+<en>{Daigo}\n"Hah!?"
 <es>
 
 @86
-<en>Daigo became panic.
+<en>Daigo became flustered.
 <es>
 
 @89
-<en>{Sakura}\n"You think you have the biggest hand in our class?"
+<en>{Sakura}\n"You think he has the biggest hands in our class?"
 <es>
 
 @96
-<en>{Rin}\n"How about Rei's hand?"
+<en>{Rin}\n"I dunno. Could Rei-chan still give him a run for his money?"
 <es>
 
 @97
@@ -117,7 +117,7 @@
 <es>
 
 @98
-<en>Daigo doesn't move an inch.\nHe's still in panic.
+<en>Daigo didn't move an inch. He was still panicked.
 <es>
 
 @101
@@ -125,15 +125,15 @@
 <es>
 
 @104
-<en>Sakura let go Daigo's hand.\nDaigo is still in panic.
+<en>Sakura let go of Daigo's hands. He was still out of it.
 <es>
 
 @111
-<en>{Pierre}\n"Hey Daigo, are you all right?"
+<en>{Pierre}\n"Hey, Daigo, are you alright?"
 <es>
 
 @121
-<en>{Appo-}\n"What's wrong?"
+<en>{Appo}\n"What's wrong?"
 <es>
 
 @124
@@ -141,7 +141,7 @@
 <es>
 
 @125
-<en>Daigo mumbles.
+<en>Daigo finally mumbled to us.
 <es>
 
 @126
@@ -149,15 +149,15 @@
 <es>
 
 @127
-<en>{Daigo}\n"Sakura."
+<en>{Daigo}\n"Takase."
 <es>
 
 @128
-<en>{Kazushi}\n"What?\nSakura? why?"
+<en>{Kazushi}\n"What? With Sakura? Seriously? Why?"
 <es>
 
 @132
-<en>{Daigo}\n"I felt her hand."
+<en>{Daigo}\n"I held her hands."
 <es>
 
 @133
@@ -165,19 +165,19 @@
 <es>
 
 @134
-<en>{Appo-}\n"That's nothing."
+<en>{Appo}\n"That's nothing."
 <es>
 
 @135
-<en>{Kazushi}\n"......you fell in love with her by that?"
+<en>{Kazushi}\n"...you fell in love with her because of that?"
 <es>
 
 @139
-<en>{Daigo}\n"It's her!\nI'm going to dedicate my virginity to Sakura!"
+<en>{Daigo}\n"It's her!\nI'm going to dedicate my virginity to Takase!"
 <es>
 
 @140
-<en>He declared his love.
+<en>Daigo clenched his fist.
 <es>
 
 @141
@@ -185,23 +185,23 @@
 <es>
 
 @142
-<en>{Daigo}\n"Ofcourse I am!!"
+<en>{Daigo}\n"Of course I am!!"
 <es>
 
 @146
-<en>{Pierre}\n"Wow!\nI haven't seen him like this in a while!"
+<en>{Pierre}\n"Wow! I haven't seen him like this for a while!"
 <es>
 
 @150
-<en>{Appo-}\n"He's always been so shy about these stuff.\nHe must be real this time."
+<en>{Appo}\n"He's always been so shy about these things. He must be serious this time."
 <es>
 
 @151
-<en>{Kazushi}\n"Well then,\nwe should help him as much as we can......"
+<en>{Kazushi}\n"Well then, we should do our best to help him out."
 <es>
 
 @155
-<en>It's hard to imagine those two together.
+<en>It's hard to imagine those two together. Is this gonna be okay?
 <es>
 
 @162
@@ -209,27 +209,27 @@
 <es>
 
 @171
-<en>{Pierre}\n"Listen to me, Daigo.\nI promise that won't work."
+<en>{Pierre}\n"I don't mean to be mean, but seriously, don't say that. Thank god we practiced first."
 <es>
 
 @172
-<en>{Kazushi}\n"First, you tell her you love her.\nLet's start from there."
+<en>{Kazushi}\n"First, you tell her you love her. It usually starts from there."
 <es>
 
 @178
-<en>{Daigo}\n"No-!\nThat's not good enough!"
+<en>{Daigo}\n"HNNGH! HNNNGH!"
 <es>
 
 @179
-<en>He's way too excited already.
+<en>He was far too excited about confessing to her. He was already like a racehorse at the starting line.
 <es>
 
 @187
-<en>{Appo-}\n"This won't work.\nHe's way too excited."
+<en>{Appo}\n"This won't work.\nHe's way too riled up."
 <es>
 
 @188
-<en>{Kazushi}\n"I'm gonna go get Sakura now,\nyou act gently, all right"
+<en>{Kazushi}\n"I'm going to go fetch Sakura now.\nYou act like a gentleman, all right?"
 <es>
 
 @194
@@ -237,27 +237,27 @@
 <es>
 
 @195
-<en>He even talks differently.\nI have a bad feeling.
+<en>He's even talking differently. This will not end well.
 <es>
 
 @203
-<en>{Pierre}\n"His bad aspect is coming out."
+<en>{Pierre}\n"His dark side is coming out..."
 <es>
 
 @204
-<en>{Appo-}\n"I think we should calm him down first."
+<en>{Appo}\n"I think we should try and calm him down first."
 <es>
 
 @205
-<en>{Kazushi}\n"All right, we are gonna pretend we'll go get her......."
+<en>{Kazushi}\n"Right. I'll PRETEND I'm going to bring her over."
 <es>
 
 @211
-<en>{Daigo}\n"Hurry up!!"
+<en>{Daigo}\n"Hurry up and bring her to me!"
 <es>
 
 @212
-<en>He's turning into an animal.
+<en>Spit flew as he shouted. He was already a beast, and we couldn't rein him in.
 <es>
 
 @213
@@ -265,43 +265,43 @@
 <es>
 
 @221
-<en>{Pierre}\n"Let's go boys."
+<en>{Pierre}\n"Let's go, boys."
 <es>
 
 @222
-<en>We stepped out from the classroom.
+<en>After signalling each other with eye contact, we all left the classroom together.
 <es>
 
 @234
-<en>{Daigo}\n"#$%&%#$%!!"
+<en>{Daigo}\n"Roooooooooooooooooar!!"
 <es>
 
 @235
-<en>{Kazushi}\n"He's doing push ups."
+<en>{Kazushi}\n"...he's doing press-ups. What does he think he's doing?"
 <es>
 
 @239
-<en>{Appo-}\n"I don't think we should bring her to him now."
+<en>{Appo}\n"I think it'd be a bad idea to bring Sakura right now."
 <es>
 
 @240
-<en>{Pierre}\n"For her safety, we should lock the door, too."
+<en>{Pierre}\n"A bad idea? It'd be dangerous. We should lock him up in there for a while."
 <es>
 
 @241
-<en>We did indeed lock the door.
+<en>It was already after the time to head back, so I doubted anyone would come by, but we locked it just in case someone did.
 <es>
 
 @242
-<en>{Kazushi}\n"I hope he will calm down in a while."
+<en>{Kazushi}\n"That should do. He'll be back to normal in about an hour, right?"
 <es>
 
 @246
-<en>{Appo-}\n"His energy is getting as old as he looks.\nHe shouldn't last long."
+<en>{Appo}\n"His stamina resembles the 40 year old man that he looks like. He shouldn't last long."
 <es>
 
 @250
-<en>{Pierre}\n"Let's just kill sometime and go back."
+<en>{Pierre}\n"Let's just kill some time before we head back."
 <es>
 
 @251
@@ -317,59 +317,59 @@
 <es>
 
 @263
-<en>{Rei}\n"I left my stuff again.\nI'm such an idiot-"
+<en>{Andou}\n"Argh. I left my stuff behind again. I'm such a ditz. But you can't hate me for it. Hee-hee."
 <es>
 
 @264
-<en>But the door doesn't open for her.
+<en>Rei reached for the door, but it wouldn't open. After all, the others had locked it.
 <es>
 
 @265
-<en>{Rei}\n"Why is it locked?"
+<en>{Andou}\n"Why's it locked?"
 <es>
 
 @266
-<en>She mumbles to herself and force it to turn the knob.
+<en>She mumbled to herself and forced the knob to turn.
 <es>
 
 @269
-<en>[The door breaks]
+<en>*SNAP* *SMASH*
 <es>
 
 @270
-<en>It was nothing for her.
+<en>It didn't look like she'd used that much strength, but the lock broke easily.
 <es>
 
 @271
-<en>It doesn't surprise Rei.\nShe must have done it before.
+<en>The destruction didn't surprise Rei. This sort of thing must have been a regular occurrence for her.
 <es>
 
 @278
-<en>{Daigo}\n[Daigo roaring]
+<en>{Daigo}\n"GRRRRRRRRRRRRR......"
 <es>
 
 @282
-<en>{Rei}\n"...!!...?"
+<en>{Andou}\n"Kyah!"
 <es>
 
 @286
-<en>{Daigo}\n"..................?"
+<en>{Daigo}\n"..................grr?"
 <es>
 
 @287
-<en>Rei was unlikely surprised like a little girl.
+<en>Rei squealed like a little girl, and thanks to the contrast between that and her huge body, Daigo regained his sanity.
 <es>
 
 @292
-<en>{Daigo}\n"Rei?"
+<en>{Daigo}\n"Andou?"
 <es>
 
 @293
-<en>{Rei}\n"Daigo?"
+<en>{Andou}\n"Kudou-kun?"
 <es>
 
 @294
-<en>This is probably the first time they realized each other as male and female.
+<en>This was probably the first time they saw each other as male and female.
 <es>
 
 @297
@@ -377,19 +377,19 @@
 <es>
 
 @298
-<en>Daigo was confused.\nWhy is Rei here?\nWhere is Sakura?
+<en>Daigo was confused.\nWhy was Rei here?\nWhat happened to Sakura?
 <es>
 
 @302
-<en>{Rei}\n"What are you doing here?"
+<en>{Andou}\n"What are you doing here?"
 <es>
 
 @303
-<en>Her voice was shaking.\nShe's never been in a room alone with a boy.
+<en>Rei's voice was shaking. She'd never been alone in a room with a boy before.
 <es>
 
 @304
-<en>Her heart is pounding so hard underneath her muscular chest.
+<en>Because she was always together with Kazuko, she didn't know what to do alone with a boy. Her heart was pounding like a drum underneath her muscular chest.
 <es>
 
 @308
@@ -397,55 +397,55 @@
 <es>
 
 @312
-<en>{Rei}\n"I forgot something......"
+<en>{Andou}\n"I-I forgot something......"
 <es>
 
 @313
-<en>Her awkward voice made him realize that he also is alone in a room with a girl.
+<en>Her awkward voice made Daigo realize that he was also alone in a room with a girl.
 <es>
 
 @314
-<en>It was just as new to Daigo as it is for Rei.
+<en>This was just as new to Daigo as it was to Rei. For the first time, Daigo was seeing Rei as a woman.
 <es>
 
 @315
-<en>{Rei}\n"Bye......!"
+<en>{Andou}\n"Bye......!"
 <es>
 
 @316
-<en>Rei tried to leave in a hurry.
+<en>When Andou noticed the tone of Daigo's eyes change, she quickly tried to leave. But that was her mistake.
 <es>
 
 @318
-<en>Rei tripps
+<en>Clunk!
 <es>
 
 @319
-<en>{Rei}\n"Ah......!!"
+<en>{Andou}\n"Ah......!!"
 <es>
 
 @321
-<en>She tripped herself on something.
+<en>Her leg caught on a desk and she lost her balance. Her body began to fall.
 <es>
 
 @325
-<en>Daigo reaches out to save her.
+<en>Daigo lunged forward to save her.
 <es>
 
 @326
-<en>He was just afraid of many things break by her big body falling.
+<en>He could easily imagine the damage Rei would cause to the area (desks breaking, things falling from up high due to the shockwave, glass breaking, etc.).
 <es>
 
 @330
-<en>{Daigo}\n"Rei!"
+<en>{Daigo}\n"Andou!"
 <es>
 
 @332
-<en>Daigo's hand reached her hand before she fell.
+<en>Daigo's hand grasped hers before she fell.
 <es>
 
 @337
-<en>{Rei}\n"Ah......"
+<en>{Andou}\n"Ah......"
 <es>
 
 @342
@@ -453,15 +453,15 @@
 <es>
 
 @343
-<en>The fact he's holding girl's hand made him panic.
+<en>The fact that he was holding a girl's hand made him panic and let go.
 <es>
 
 @348
-<en>{Rei}\n"Hey!?"
+<en>{Andou}\n"Kya?!"
 <es>
 
 @349
-<en>Because Daigo let go her hand suddenly,\nRei had no other choice but grabbing back his hand to save herself.
+<en>Because Daigo suddenly let go of her hand, Rei had no choice but to grab his hand in order to save herself.
 <es>
 
 @354
@@ -469,7 +469,7 @@
 <es>
 
 @361
-<en>They both fell at the same time.
+<en>As a result, they both lost their balance and fell at the same time.
 <es>
 
 @362
@@ -477,15 +477,15 @@
 <es>
 
 @363
-<en>{Rei}\n"......?"
+<en>{Andou}\n"...ah?"
 <es>
 
 @364
-<en>Their face were just an inch apart.
+<en>Their faces were just a few centimeters apart. Daigo was lying on top of Rei as she lay face-up.
 <es>
 
 @371
-<en>{Rei}\n"What are you doing......?"
+<en>{Andou}\n"What are you doing?"
 <es>
 
 @372
@@ -493,67 +493,67 @@
 <es>
 
 @373
-<en>He realized what he's grabbing with his hand.
+<en>Daigo felt something odd in his hand. It was soft, yet firm. He squeezed it.
 <es>
 
 @375
-<en>[Daigo grabbing Rei's breast]
+<en>*Squish Squish*
 <es>
 
 @379
-<en>{Rei}\n"Ah!?"
+<en>{Andou}\n"Ah!?"
 <es>
 
 @380
-<en>Now he knows exactly what he's grabbing.
+<en>Rei cried out when he did, and Daigo finally realized what it was. He had groped her breast.
 <es>
 
 @381
-<en>{Daigo}\n"Oh......!!"
+<en>{Daigo}\n"Uwah......!!"
 <es>
 
 @382
-<en>He's in panic.\nHe can't let go his hand.
+<en>Daigo was panicking, but like a high-powered magnet, his hand wouldn't come off of Rei's chest.
 <es>
 
 @386
-<en>{Rei}\n"Hey! Your hand!"
+<en>{Andou}\n"Hey! Your hand!"
 <es>
 
 @387
-<en>Daigo prepaired for big slap from her.\nBut instead, Rei covered her front like a little girl.
+<en>Daigo thought Andou was going to pound him with her strong arms, but she was frozen there, blushing. Daigo had finally witnessed Rei's feminine side.
 <es>
 
 @391
-<en>{Daigo}\n(I don't mind her, either......)
+<en>{Daigo}\n(I wouldn't mind her, either...)
 <es>
 
 @392
-<en>{Rei}\n"What are you thinking......?"
+<en>{Andou}\n"What are you thinking?"
 <es>
 
 @393
-<en>Something hard which she never felt in her life until today.
+<en>And suddenly her leg felt something hard which she had never felt before pressing against her lower body.
 <es>
 
 @397
-<en>{Rei}\n"What......!?"
+<en>{Andou}\n"Ah--!?"
 <es>
 
 @398
-<en>She knows what it is.\nShe is clealy scared.
+<en>She could guess what it was, and once she realized it she was too scared to speak.
 <es>
 
 @402
-<en>{Daigo}\n"Rei......"
+<en>{Daigo}\n"A-Andou......"
 <es>
 
 @403
-<en>Daigo realized she's scared by her shaking voice.
+<en>Daigo realized how scared she was from her shaking voice. He spoke to her in a comforting tone.
 <es>
 
 @404
-<en>{Rei}\n".................."
+<en>{Andou}\n".................."
 <es>
 
 @405
@@ -561,47 +561,47 @@
 <es>
 
 @406
-<en>They are looking at each other in the eyes.\nThey felt they are the only two exsist in this world.
+<en>The pair made eye contact. In this animalistic moment, the two felt that they were the only people who existed in the entire world.
 <es>
 
 @407
-<en>Something about the atomsphere was making the two aroused.
+<en>Something about the atmosphere was arousing both of them.
 <es>
 
 @411
-<en>{Rei}\n"Will you let go......AH!?"
+<en>{Andou}\n"Will you let go......AH!?"
 <es>
 
 @412
-<en>Daigo grabbed her breast again.\nThis time, on purpose.
+<en>Daigo grabbed her breast again.\nOn purpose this time.
 <es>
 
 @413
-<en>{Rei}\n"No......AHH!!"
+<en>{Andou}\n"N-no......AHH!!"
 <es>
 
 @414
-<en>Untill today, Daigo thought her chest is full of muscle, but he was wrong.
+<en>Before now, Daigo thought Rei's chest was made of solid muscle, but he was wrong.
 <es>
 
 @415
-<en>At least, they are much softer than boy's chest.
+<en>Well, it was quite firm, but with nothing to compare it to, it was more than attractive enough to Daigo.
 <es>
 
 @419
-<en>{Daigo}\n[Daigo getting crazy]
+<en>{Daigo}\n"Hahh, hahh, hahh..."
 <es>
 
 @420
-<en>He is going crazy. He keeps squeezing her breasts.
+<en>He was going mad and kept squeezing her breasts.
 <es>
 
 @421
-<en>{Rei}\n"Ah......!\nWait, you're scaring me......"
+<en>{Andou}\n"Hah, ah, no...! Hey, wait, y-you're scaring me..."
 <es>
 
 @422
-<en>She was scared.\nDaigo stops his hand.
+<en>Rei was trembling. Daigo stopped his hand as soon as he noticed.
 <es>
 
 @426
@@ -613,7 +613,7 @@
 <es>
 
 @431
-<en>{Rei}\n"Be gentle......"
+<en>{Andou}\n"Uh, a-at least, be gentle..."
 <es>
 
 @435
@@ -621,75 +621,75 @@
 <es>
 
 @436
-<en>Rei accepted Daigo's desire.
+<en>Rei consented to accept Daigo's desires.
 <es>
 
 @441
-<en>We came back to the class room after a good while.
+<en>We returned to the classroom a good while later.
 <es>
 
 @448
-<en>{Kazushi}\n"I hope Daigo is back normal now."
+<en>{Kazushi}\n"I hope Daigo's returned to normal by now."
 <es>
 
 @449
-<en>{Appo-}\n"Maybe he's sleeping all pisst off."
+<en>{Appo}\n"Maybe he's sleeping it off. He'll be pissed when he wakes up, though."
 <es>
 
 @450
-<en>{Pierre}\n"? It's open."
+<en>{Pierre}\n"Huh? It's open."
 <es>
 
 @451
-<en>Pierre saw the door is slightly open.
+<en>Pierre was walking in front, and suddenly stopped when he saw that the door was slightly ajar.
 <es>
 
 @452
-<en>{Kazushi}\n"Oh yeah.\nMaybe he broke it open."
+<en>{Kazushi}\n"It is. Maybe he smashed it open?"
 <es>
 
 @453
-<en>{Appo-}\n"He can't do that. His big body is all fat."
+<en>{Appo}\n"He can't do that. Daigo may be a big guy, but it's all fat."
 <es>
 
 @454
-<en>{Pierre}\n"He gets tough when he gets mad."
+<en>{Pierre}\n"He's pretty strong when he's mad, though."
 <es>
 
 @458
-<en>The door opens.
+<en>The door opened before us.
 <es>
 
 @459
-<en>{Kazushi}\n"Hey."
+<en>{Kazushi}\n"Huh?"
 <es>
 
 @466
-<en>Daigo and Rei came out from the door.
+<en>Daigo and Rei tumbled out of the classroom.
 <es>
 
 @467
-<en>{Daigo}\n"Hey......"
+<en>{Daigo}\n"Ah..."
 <es>
 
 @471
-<en>{Rei}\n"What are you doing guys?"
+<en>{Andou}\n"What are you guys doing?"
 <es>
 
 @472
-<en>They are fluttering.
+<en>There were both flustered.
 <es>
 
 @481
-<en>{Pierre}\n"What are you doing here, Rei?"
+<en>{Pierre}\n"What are you doing here, Andou?"
 <es>
 
 @490
-<en>{Rei}\n"I forgot something......"
+<en>{Andou}\n"I forgot something......"
 <es>
 
 @499
-<en>{Appo-}\n"Why are your clothes so tousled?"
+<en>{Appo}\n"Why are your clothes so tussled?"
 <es>
 
 @500
@@ -697,31 +697,31 @@
 <es>
 
 @501
-<en>Appo-'s eyes didn't miss it.......
+<en>He was right. Her clothes were tussled...
 <es>
 
 @510
-<en>{Rei}\n"It's nothing!\nNothing like what you guys are thinking about!"
+<en>{Andou}\n"It's nothing! Nothing like what you guys are thinking about!"
 <es>
 
 @511
-<en>Rei is getting shy.
+<en>Rei flushed with shyness.
 <es>
 
 @520
-<en>{Pierre}\n"Should we believe her?"
+<en>{Pierre}\n"It's suspicious, isn't it?"
 <es>
 
 @521
-<en>They sure look suspicious.
+<en>Pierre whispered to us. They sure looked suspicious.
 <es>
 
 @522
-<en>{Appo-}\n"How long ago did we leave here?"
+<en>{Appo}\n"How long has it been since we've left?"
 <es>
 
 @523
-<en>{Kazushi}\n"20......no, 30 minutes ago?"
+<en>{Kazushi}\n"Twenty...maybe thirty minutes ago?"
 <es>
 
 @530
@@ -729,7 +729,7 @@
 <es>
 
 @531
-<en>{Kazushi}\n"With Rei......?"
+<en>{Kazushi}\n"But with Andou......?"
 <es>
 
 @540
@@ -737,11 +737,11 @@
 <es>
 
 @541
-<en>They look so uncomfortable.
+<en>Daigo and Andou both fidgeted uncomfortably under our gazes. They were too suspicious.
 <es>
 
 @542
-<en>{Rei}\n"I already told you guys nothing happened!\nI'm leaving!"
+<en>{Andou}\n"I already told you guys that nothing happened! I'm leaving!"
 <es>
 
 @546
@@ -749,75 +749,75 @@
 <es>
 
 @550
-<en>{Rei}\n"Yeah, see you........."
+<en>{Andou}\n"Yeah, see you........."
 <es>
 
 @554
-<en>Daigo and Rei exchange good byes.\nThis never happened before.
+<en>Daigo and Rei exchanged farewells.\nWell, that's never happened before.
 <es>
 
 @558
-<en>{Appo-}\n"What was that?"
+<en>{Appo}\n"That's definitely suspicious."
 <es>
 
 @559
-<en>{Daigo}\n"I told you it's nothing."
+<en>{Daigo}\n"I told you, it's nothing."
 <es>
 
 @560
-<en>Same answer which none of us believed.
+<en>Daigo stuck to his answer, and we all continued to not believe it.
 <es>
 
 @569
-<en>{Rei}\n"Who is in charge today?!\nErase the black board!"
+<en>{Andou}\n"Who's in charge of cleaning today!? Erase the blackboard!"
 <es>
 
 @576
-<en>{Daigo}\n"Oh, it's me.\nI'm sorry. I'll do it right away."
+<en>{Daigo}\n"Oh, it's me.\nSorry, I'll do it in a second."
 <es>
 
 @580
-<en>{Rei}\n"Oh......it was you.\nI'm sorry, I didn't mean to yell."
+<en>{Andou}\n"Oh, it was you, Kudou-kun. You should erase it soon."
 <es>
 
 @581
-<en>Rei became unusually generous.\nEverybody in the class starts to notice her difference.
+<en>Andou suddenly became softer when she knew it was Daigo. All eyes in the class were secretly gathering on them.
 <es>
 
 @587
-<en>{Sakura}\n"Is there something going on between them?"
+<en>{Sakura}\n"Is there something going on between Rei-chan and Daigo?"
 <es>
 
 @588
-<en>{Kazushi}\n"That's what we'd like to know?\nDo girls know anything about it?"
+<en>{Kazushi}\n"That's what we'd like to know. Do you girls know anything about it?"
 <es>
 
 @595
-<en>{Pierre}\n"How about you, Hu-sen?\nYou're close with Rei."
+<en>{Pierre}\n"How about you, Fuusen?\nYou're close to her."
 <es>
 
 @600
-<en>{Hu-sen}\n"I don't know, either.\nI just know that she's not normal since yesterday."
+<en>{Fuusen}\n"I don't know anything, either. I just know that she hasn't been normal since yesterday."
 <es>
 
 @605
-<en>{Appo-}\n"You think they had sex?"
+<en>{Appo}\n"Think they did it?"
 <es>
 
 @610
-<en>{Rin}\n"......they did?"
+<en>{Rin}\n"Huh? Did it? ......No way?!"
 <es>
 
 @616
-<en>{Ran}\n"Are you serious?"
+<en>{Ran}\n"Hey, hey, you seem to be talking about something interesting. Is that story true?"
 <es>
 
 @621
-<en>{Mizuki}\n"Guys, will you change the subject?\nThat's why I don't like sitting here."
+<en>{Mizuki}\n"Could you please change the subject, guys? This is why I hate sitting here."
 <es>
 
 @626
-<en>{Hu-sen}\n"Anyways, something must have happened.\nI can't believe she doesn't tell me anything."
+<en>{Fuusen}\n"Anyways, something must have happened. I can't believe she didn't tell me anything."
 <es>
 
 @635
@@ -825,39 +825,39 @@
 <es>
 
 @636
-<en>{Rei}\n".................."
+<en>{Andou}\n".................."
 <es>
 
 @637
-<en>They don't know them being center of the topic.\nThey minds are too occupied with each other.
+<en>They didn't know they were the center of everybody else's attention. Their minds were too preoccupied with each other.
 <es>
 
 @642
-<en>Pierre jumped into our room in the middle of the night telling us Daigo just went out for somewhere.\nWe decided to follow him.
+<en>Pierre hopped into our room in the middle of the night, telling us that Daigo had just snuck out somewhere. We decided to follow him.
 <es>
 
 @649
-<en>{Kazushi}\n"There is not many reason to go out so late at night,\nbesides seeing your girl."
+<en>{Kazushi}\n"There aren't many reasons to head out so late at night besides to see your girlfriend."
 <es>
 
 @653
-<en>{Pierre}\n"It was so worth pretending to sleep so he'd make an action."
+<en>{Pierre}\n"It was so worth pretending to sleep so that he'd make a move."
 <es>
 
 @659
-<en>{Daigo}\n"......!!"
+<en>{Daigo}\n"...huh?"
 <es>
 
 @661
-<en>Accidently or a rendezvous?
+<en>Is this an accident or a secret rendezvous?
 <es>
 
 @668
-<en>{Rei}\n"......!!"
+<en>{Andou}\n"...huh?"
 <es>
 
 @669
-<en>Both of them are surprised to see each other.\nThat tells it was an accident.
+<en>Both of them were surprised to see each other. That told us it was an accident.
 <es>
 
 @670
@@ -865,23 +865,23 @@
 <es>
 
 @671
-<en>{Rei}\n"Hi......"
+<en>{Andou}\n"Hi......"
 <es>
 
 @672
-<en>They still look awkward being together.
+<en>They were still acting awkwardly around each other. What happened between them?
 <es>
 
 @681
-<en>{Pierre}\n"Maybe we will find out what really happened."
+<en>{Pierre}\n"Maybe we'll find out what really happened."
 <es>
 
 @682
-<en>{Appo-}\n"What if they start wrestling?"
+<en>{Appo}\n"It might be another battle. A real shoot match."
 <es>
 
 @683
-<en>{Kazushi}\n"I don't think that's what happened that day."
+<en>{Kazushi}\n"Another? We don't even know if it happened once."
 <es>
 
 @686
@@ -893,35 +893,35 @@
 <es>
 
 @694
-<en>Daigo tries talking to her.
+<en>Daigo tried talking to her.
 <es>
 
 @695
-<en>{Rei}\n"Fine......"
+<en>{Andou}\n"Fine......"
 <es>
 
 @696
-<en>We are paying maximum attention to what they are talking about.
+<en>We were fixated on what they were talking about.
 <es>
 
 @700
-<en>{Rei}\n"That was an accident.\nWhat a whimsical man you are."
+<en>{Andou}\n"That was an accident. What a curious man you are."
 <es>
 
 @709
-<en>{Pierre}\n"She's saying he's whimsical."
+<en>{Pierre}\n"She's saying he's a curious man."
 <es>
 
 @710
-<en>{Kazushi}\n"What do you guys think what she meant by that?"
+<en>{Kazushi}\n"What do you guys think she meant by that?"
 <es>
 
 @711
-<en>{Appo-}\n"I think she meant Daigo wanted to have sex with her."
+<en>{Appo}\n"I think they did it."
 <es>
 
 @712
-<en>{Kazushi}\n"With Rei?\nWasn't Daigo saying he's in love with Sakura?"
+<en>{Kazushi}\n"But that's Andou? Wasn't Daigo raring for Sakura then?"
 <es>
 
 @713
@@ -929,27 +929,27 @@
 <es>
 
 @714
-<en>{Kazushi}\n"This is complicated......"
+<en>{Kazushi}\n"Hmmm..."
 <es>
 
 @715
-<en>They might had sex......\nwe are almost convinced.
+<en>They might have had sex...\nWe were almost convinced.
 <es>
 
 @724
-<en>{Daigo}\n"What do you mean I'm whimsical?"
+<en>{Daigo}\n"What do you mean I'm curious?"
 <es>
 
 @728
-<en>{Rei}\n"Don't you think I'm ugly?"
+<en>{Andou}\n"Don't you find me nasty?"
 <es>
 
 @732
-<en>{Daigo}\n"Ugly?\nWhy?"
+<en>{Daigo}\n"Nasty? Why?"
 <es>
 
 @733
-<en>{Rei}\n"That's what everybody thinks about me.\nI used to get bullied around in elementary school."
+<en>{Andou}\n"I don't know why, but everyone says so. I used to get bullied for it in elementary school!"
 <es>
 
 @739
@@ -957,27 +957,27 @@
 <es>
 
 @740
-<en>There are kids who can bully her around?
+<en>We all questioned our ears. There was someone who bullied the invincible Andou around?
 <es>
 
 @741
-<en>{Rei}\n"I used to be very short."
+<en>{Andou}\n"I was just a little girl back then, and they bullied me, calling me nasty."
 <es>
 
 @742
-<en>{Rei}\n"I started to grow when I was around 10 and when I reached 6 feet, kids stopped bullying me around."
+<en>{Andou}\n"I started growing taller when I was in 5th grade, and by 6th grade, I was 6ft tall. No one bullied me anymore after that."
 <es>
 
 @745
-<en>6 feet tall, in elementary school?
+<en>A girl who reached 6ft in elementary school?
 <es>
 
 @752
-<en>{Appo-}\n"I wish that happened to me......"
+<en>{Appo}\n"Share some with me..."
 <es>
 
 @753
-<en>{Kazushi}\n"Me, too."
+<en>{Kazushi}\n"Me too..."
 <es>
 
 @754
@@ -985,51 +985,51 @@
 <es>
 
 @761
-<en>{Daigo}\n"I didn't start to grow till I entered junior high.\nI got bullied around, too."
+<en>{Daigo}\n"I didn't hit my growth spurt until I started junior high. My face looked about the same then as it does now, so I used to get bullied all the time as well."
 <es>
 
 @764
-<en>{Rei}\n"Kids can be cruel."
+<en>{Andou}\n"Kids can be cruel."
 <es>
 
 @765
-<en>Rei speaks from her own experience.
+<en>Andou spoke from her own experience. Daigo nodded.
 <es>
 
 @768
-<en>{Daigo}\n"When I met Kazushi in junior high,\nmy days of getting bullied was over."
+<en>{Daigo}\n"Once I met Kazushi in junior high, it meant my days of getting bullied were over."
 <es>
 
 @769
-<en>I didn't know he used to get picked on.
+<en>That's right. I met him in my first year of junior high, and we'd been together since. I never knew he was bullied in elementary school, though.
 <es>
 
 @772
-<en>{Rei}\n"Me, too.\nWhen I met Hu-sen, my life became so much better."
+<en>{Andou}\n"Me too. My life became so much better after I became friends with Kazuko-chan."
 <es>
 
 @773
-<en>{Daigo}\n"Then you turned into the other side who bully around."
+<en>{Daigo}\n"Then you turned the tables and started bullying everyone else?"
 <es>
 
 @774
-<en>{Rei}\n"We didn't pick on anybody.\nI mean ofcourse we get into arguement with other groups of girls sometimes."
+<en>{Andou}\n"We didn't go looking for anybody to pick on. I mean, sometimes we'd get into fights with other cliques of girls and make them cry."
 <es>
 
 @777
-<en>{Daigo}\n"I used to get picked on by one of those girl groups."
+<en>{Daigo}\n"I used to get picked on by one of those cliques."
 <es>
 
 @780
-<en>{Rei}\n"You did?\nThat makes me your natural enemy."
+<en>{Andou}\n"You did? That makes me your natural enemy."
 <es>
 
 @783
-<en>{Daigo}\n"But I like you."
+<en>{Daigo}\n"Does it? I guess so. But you know, I don't dislike you."
 <es>
 
 @784
-<en>{Rei}\n"What......?"
+<en>{Andou}\n"What?"
 <es>
 
 @787
@@ -1037,11 +1037,11 @@
 <es>
 
 @792
-<en>{Pierre}\n"Did he just confessed to her?"
+<en>{Pierre}\n"Did he just confess to her?"
 <es>
 
 @793
-<en>{Kazushi}\n"I don't know.\nBut, that was close."
+<en>{Kazushi}\n"I'm not sure. That's a little iffy."
 <es>
 
 @800
@@ -1049,19 +1049,19 @@
 <es>
 
 @801
-<en>Daigo had to add that in a hurry.
+<en>Daigo had to add that in a hurry, but Andou was blushing.
 <es>
 
 @802
-<en>{Rei}\n"I know.\nI feel the sameway to you."
+<en>{Andou}\n"I know. I feel the same way about you."
 <es>
 
 @805
-<en>{Daigo}\n"As long as you know it, that's fine with me."
+<en>{Daigo}\n"Then that's good."
 <es>
 
 @808
-<en>{Rei}\n"It's fine with me, too."
+<en>{Andou}\n"Good."
 <es>
 
 @809
@@ -1069,15 +1069,15 @@
 <es>
 
 @816
-<en>{Kazushi}\n"They sound like they are starting to understand each other."
+<en>{Kazushi}\n"They sound like they're starting to understand each other."
 <es>
 
 @817
-<en>{Pierre}\n"I think they definitely had sex."
+<en>{Pierre}\n"I definitely think they did it."
 <es>
 
 @820
-<en>{Appo-}\n"Daigo......\nyou are so lost......"
+<en>{Appo}\n"You dropped your standards so low... It makes me cry..."
 <es>
 
 @827
@@ -1085,15 +1085,15 @@
 <es>
 
 @830
-<en>{Rei}\n"Yeah."
+<en>{Andou}\n"Yeah."
 <es>
 
 @831
-<en>Eventhough they agreed, they stayed there next to each other for a file.
+<en>Even though they agreed to go home, they stood there next to each other, gazing at the sea for a while. It was too suspicious.
 <es>
 
 @838
-<en>{Daigo}\n"What? Me and Rei?"
+<en>{Daigo}\n"What? Me and Andou?"
 <es>
 
 @839
@@ -1101,27 +1101,27 @@
 <es>
 
 @844
-<en>{Pierre}\n"What have happened between you two?"
+<en>{Pierre}\n"Something happened, didn't it?"
 <es>
 
 @845
-<en>{Daigo}\n"Nothing."
+<en>{Daigo}\n"Nope."
 <es>
 
 @846
-<en>He doesn't tell us anything.
+<en>He wouldn't tell us anything.
 <es>
 
 @853
-<en>{Appo-}\n"I promise I won't make fun of you- tell us the truth."
+<en>{Appo}\n"I promise I won't make fun of your tastes if you tell us the truth."
 <es>
 
 @856
-<en>{Daigo}\n"I'm telling you the truth."
+<en>{Daigo}\n"I AM telling you the truth."
 <es>
 
 @857
-<en>{Kazushi}\n"You swear?"
+<en>{Kazushi}\n"You swear to God?"
 <es>
 
 @860
@@ -1129,63 +1129,63 @@
 <es>
 
 @861
-<en>That was easy.
+<en>That was easy. Was there really nothing?
 <es>
 
 @864
-<en>{Appo-}\n"You are boring."
+<en>{Appo}\n"You're no fun."
 <es>
 
 @867
-<en>{Pierre}\n"Are you sure there is absolutely nothing happened?"
+<en>{Pierre}\n"Are you certain that absolutely nothing happened?"
 <es>
 
 @868
-<en>{Daigo}\n"I'm serious."
+<en>{Daigo}\n"Yes, I'm sure."
 <es>
 
 @869
-<en>Daigo keeps pledging his innocence.
+<en>Daigo spoke very little on the manner and kept pledging his innocence.
 <es>
 
 @870
-<en>However--
+<en>However...
 <es>
 
 @878
-<en>{Rei}\n"#$%&%$#---------!!"
+<en>{Andou}\n"GGGYYYYAAAAAAAAAAAAAAAAAAAA!"
 <es>
 
 @879
-<en>Rei's scream echoed in entire cafeteria.
+<en>Andou's scream echoed in entire cafeteria. She fell out of her chair and landed her butt on the floor.
 <es>
 
 @884
-<en>{Hu-sen}\n"What's wrong Rei!?"
+<en>{Fuusen}\n"What's wrong, Rei?"
 <es>
 
 @885
-<en>{Rei}\n"No!!"
+<en>{Andou}\n"No!!"
 <es>
 
 @888
-<en>{Hu-sen}\n"It's just mashrooms."
+<en>{Fuusen}\n"They're just mushrooms..."
 <es>
 
 @889
-<en>{Rei}\n"No! help me......!"
+<en>{Andou}\n"No! Help me......!"
 <es>
 
 @890
-<en>Rei is about to get knocked out.
+<en>Andou was about to pass out.
 <es>
 
 @899
-<en>{Pierre}\n"Hey, Rei is freaking out over a mushroom."
+<en>{Pierre}\n"Hey...Andou's freaking out over a mushroom."
 <es>
 
 @902
-<en>{Appo-}\n"I knew they had sex."
+<en>{Appo}\n"I knew they did it."
 <es>
 
 @903
@@ -1197,6 +1197,6 @@
 <es>
 
 @905
-<en>Still, nobody besides Daigo and Rei knows the truth.
+<en>Ultimately, nobody besides Daigo and Rei knew the truth.
 <es>
 
