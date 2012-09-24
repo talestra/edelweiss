@@ -2215,7 +2215,7 @@
 
 @1738
 <en>{Kazushi}\n"That sign board is a killing machine?"
-<en>{Kazushi}\n"¿Esa señal es una máquina asesina?"
+<es>{Kazushi}\n"¿Esa señal es una máquina asesina?"
 
 @1739
 <en>{A sign board}\n"Stop, wait."
@@ -3246,12 +3246,8 @@
 <es>Vi a a propietaria de la voz.
 
 @2297
-<en>She was naked. She was a perfect beauty.
-<es>Estaba desnuda. Con la belleza de un ángel.
-
-@2298
-<en>Another beautiful naked girl after the mermaid.\nThis island is so generous to the boys.
-<es>Otra chica guapa desnuda.\nLa isla esta es muy generosa con los chicos.
+<en>She was naked. She was a perfect beauty. Another beautiful naked girl after the mermaid.\nThis island is so generous to the boys.
+<es>Estaba desnuda. Con la belleza de un ángel. Otra chica guapa desnuda.\nLa isla esta es muy generosa con los chicos.
 
 @2299
 <en>{Kazushi}\n".................."
@@ -4040,6 +4036,10 @@
 <en>{Ran}\n"Good job, Kazushi-"
 <es>{Ran}\n"Bien hecho, Kazushi..."
 
+@2650
+<en>{Kazushi}\n"Ran, could you not make fun of me too?"
+<es>
+
 @2660
 <en>{Appo-}\n"Hey Kazushi! Why don't you introduce them to us!"
 <es>{Appo-}\n"¡Ey, Kazushi! ¡¿Por qué no nos las presentas?!"
@@ -4584,7 +4584,11 @@
 
 @3020
 <en>She ignored Mr.Yagami and gets ready to take us to the nurse's office.
-<es>Ignorando al señor Yagami, se prepara para llevarnos a la enfermería.
+<es>
+
+@3020
+<en>When I grabbed her hand, I caught a whiff of a pleasant smell that must have been her perfume.
+<es>
 
 @3021
 <en>{Mei}\n"Let's go."
