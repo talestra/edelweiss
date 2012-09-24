@@ -280,6 +280,10 @@
 <es>Appo- le echó coraje. Se lo tragó del tirón.
 
 @473
+<en>He really proved his manliness.
+<es>
+
+@473
 <en>{Daigo}\n"Good job, Appo-......"
 <es>{Daigo}\n"Impresionante, Appo-..."
 
@@ -1683,14 +1687,6 @@
 @1444
 <en>{Kazushi}\n"What?"
 <es>{Kazushi}\n"¿Qué?"
-
-@1448
-<en>If I'm not dreaming, I'm witnessing a mermaid.
-<es>Si no estoy soñando, estoy viendo a una sirena.
-
-@1450
-<en>{Kazushi}\n"Am I dreaming?"
-<es>{Kazushi}\n"¿Estoy soñando despierto? ¿Es una alucinación?"
 
 @1451
 <en>{Mermaid?}\n"......"
