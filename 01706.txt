@@ -573,10 +573,6 @@
 <en>{Appo-}\n"Are you guys all right!?"
 <es>{Appo-}\n"¿¡Os encontráis bien!?"
 
-@438
-<en>I'm here to help you guys!
-<es>¡Estoy aquí para ayudaros!
-
 @439
 <en>{???}\n"Ouch......"
 <es>{???}\n"Au..."
@@ -1243,7 +1239,7 @@
 @832
 #<es>{Appo-}\n"Me siento estúpido por haberme preocupado por ellas.\nI'manna take a dump!"
 <en>{Appo-}\n"I feel stupid worried for them.\nI'manna take a dump!"
-#<es>
+<es>
 
 @835
 <en>He locked himself in a cell.
@@ -1490,9 +1486,13 @@
 <en>They just smile at us and don't tell us.\nWe just had to go over and see it ourselves.
 <es>
 
+@1028
+<en>{Kazushi}\n"Wow..."
+<es>
+
 @1029
-<en>It was a breath-taking view.
-<es>Era una vista sobrecogedora.
+<en>I lost my breath when I saw the view.
+<es>
 
 @1030
 <en>{Pierre}\n"Wow......"
