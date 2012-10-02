@@ -15,9 +15,12 @@ static ubyte  LOBYTE(ushort v) { return (v & 0xFFFF); }
 // Utility functin for the decrypting.
 static uint hash_update(ref uint hash_val) {
 	uint eax, ebx, edx, esi, edi;
+	//writefln("V:%08X", hash_val);
 	edx = (20021 * LOWORD(hash_val));
 	eax = (20021 * HIWORD(hash_val)) + (346 * hash_val) + HIWORD(edx);
 	hash_val = (LOWORD(eax) << 16) + LOWORD(edx) + 1;
+	//writefln("D:%08X", edx);
+	//writefln("A:%08X", eax);
 	return eax & 0x7FFF;
 }
 
@@ -256,7 +259,15 @@ class CompressedBG {
 	}
 
 	static void decode_chunk0(ubyte[] data, uint hash_val) {
-		for (int n = 0; n < data.length; n++) data[n] -= hash_update(hash_val) & 0xFF;
+		//writefln("%08X", hash_val);
+		
+		for (int n = 0; n < data.length; n++) {
+			auto _old = data[n];
+			auto hash = hash_update(hash_val) & 0xFF;
+			data[n] -= hash;
+			auto _new = data[n];
+			//writefln("%02X-%02X -> %02X", _old, hash, _new);
+		}
 	}
 	
 	static bool check_chunk0(ubyte[] data, ubyte hash_dl, ubyte hash_bl) {
@@ -1063,7 +1074,7 @@ int main(char[][] args) {
 				foreach (k, file_name; listdir(folder_in)) {
 					writef("%s...", file_name);
 					scope data = cast(ubyte[])std.file.read(folder_in ~ "/" ~ file_name);
-					scope ubyte[] cdata;
+					ubyte[] cdata;
 					// Already compressed.
 					if (data[0..0x10] == cast(ubyte[])"DSC FORMAT 1.00\0") {
 						cdata = data;
@@ -1096,8 +1107,20 @@ int main(char[][] args) {
 				// Check if the file actually exists.
 				assert(std.file.exists(file_name), format("File '%s' doesn't exists", file_name));
 
-				scope dsc = new DSC(file_name);
-				dsc.save(out_file);
+				{
+					scope s = new BufferedFile(file_name, FileMode.In);
+					switch ((new SliceStream(s, 0)).readString(0x10)) {
+						// Encrypted+Dynamic Huffman+RLE+LZ+Unpacking+Row processing
+						case "CompressedBG___\0": {
+							scope cbg = new CompressedBG(s);
+							cbg.write_tga(out_file);
+						} break;
+						default: {
+							scope dsc = new DSC(file_name);
+							dsc.save(out_file);
+						} break;
+					}
+				}
 			break;
 			// Compress a single file.
 			case "-c":
