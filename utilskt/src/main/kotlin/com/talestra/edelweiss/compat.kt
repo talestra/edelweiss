@@ -1,5 +1,17 @@
 package com.talestra.edelweiss
 
+import com.soywiz.kmem.readS32_le
+import com.soywiz.kmem.write32_le
+import com.soywiz.korio.lang.Charset
+import com.soywiz.korio.lang.UTF8
+import com.soywiz.korio.lang.toString
+
+class UByteArray(val array: ByteArray) {
+    val size get() = array.size
+    operator fun get(i: Int) = array[i].toInt() and 0xFF
+    operator fun set(i: Int, v: Int) = run { array[i] = v.toByte() }
+}
+
 abstract class InternalArraySlice<T>(arrayLength: Int, private val start: Int, private val end: Int) {
     init {
         if (start > end) throw IllegalArgumentException("start=$start > end=$end")
@@ -79,3 +91,74 @@ operator fun FloatArray.get(range: IntRange) = FloatArraySlice(this, range.start
 fun main(args: Array<String>) {
     println(byteArrayOf(1, 2, 3, 4, 5, 6)[1 until 4][0 until 1])
 }
+
+
+abstract class BasePtr<R : BasePtr<R, T>, T>(val esize: Int, var pos: Int) {
+    abstract protected fun gen(pos: Int): R
+    operator fun inc(): R = (this as R).apply { pos += esize }
+    operator fun plus(offset: Int): R = gen(this.pos + offset * esize)
+    operator fun minus(offset: Int): R = gen(this.pos - offset * esize)
+
+    operator fun minus(that: BasePtr<R, T>): Int = (this.pos - that.pos) / esize
+
+    fun get(): T = this[0]
+    abstract operator fun get(offset: Int): T
+    abstract operator fun set(offset: Int, value: T): Unit
+    operator fun compareTo(that: BasePtr<*, *>): Int = this.pos.compareTo(that.pos)
+}
+
+class BytePtr(val array: ByteArray, pos: Int = 0) : BasePtr<BytePtr, Byte>(1, pos) {
+    override fun get(offset: Int): Byte = array[pos + offset]
+    override fun set(offset: Int, value: Byte) = run { array[pos + offset] = value }
+    override fun gen(pos: Int) = BytePtr(array, pos)
+}
+
+class IntPtr(val array: ByteArray, pos: Int = 0) : BasePtr<IntPtr, Int>(4, pos) {
+    override fun get(offset: Int): Int = array.readS32_le(pos + offset * esize)
+    override fun set(offset: Int, value: Int) = run { array.write32_le(pos + offset * esize, value) }
+    override fun gen(pos: Int) = IntPtr(array, pos)
+}
+
+val ByteArray.ptr get() = BytePtr(this, 0)
+val BytePtr.int get() = IntPtr(this.array, 0)
+
+
+fun format(fmt: String, vararg args: Any?) = fmt.format(*args)
+fun printf(fmt: String, vararg args: Any?) = print(fmt.format(*args))
+
+var <T> ArrayList<T>.length: Int
+    get() = this.size
+    set(nl: Int) {
+        while (this.size > nl) this.removeAt(this.size - 1)
+    }
+
+val <V> List<V>.length: Int get() = this.size
+val <K, V> Map<K, V>.length: Int get() = this.size
+
+// @TODO:
+abstract class Stream {
+    var position: Int = 0
+    var length: Int = 0
+    var size: Int get() = length; set(value) = run { length = value }
+    fun readString(len: Int): ByteArray = TODO()
+    fun readString(len: Int, charset: Charset): String = readString(len).toString(charset)
+    fun writefln(fmt: String, vararg args: Any?): Unit = TODO()
+    fun writefln(): Unit = TODO()
+    fun close(): Unit = TODO()
+    val eof: Boolean get() = TODO()
+    fun readLine(charset: Charset): String = TODO()
+    fun write(data: UByteArray): Unit = TODO()
+    fun write(data: ByteArray): Unit = TODO()
+}
+
+enum class FileMode { In, OutNew }
+class MemoryStream : Stream()
+class BufferedFile(val name: String, val mode: FileMode = FileMode.In) : Stream()
+
+operator fun String.get(range: IntRange) = this.substring(range.start, range.endInclusive + 1)
+
+fun String.strip() = this.trim()
+fun String.stripl() = this.trimStart()
+fun String.stripr() = this.trimEnd()
+fun toStringz(str: String) = str + "\u0000"
+fun BytePtr.toStringz(charset: Charset = UTF8): String = TODO()
