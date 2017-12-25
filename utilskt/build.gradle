@@ -26,6 +26,7 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
     compile "com.soywiz:korio:$korio_version"
     compile "com.soywiz:korim:$korim_version"
+    testCompile "junit:junit:4.12"
 }
 
 compileKotlin {
@@ -33,4 +34,9 @@ compileKotlin {
 }
 compileTestKotlin {
     kotlinOptions.jvmTarget = "1.8"
+}
+kotlin {
+    experimental {
+        coroutines "enable"
+    }
 }

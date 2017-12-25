@@ -184,14 +184,9 @@ class BufferedFile(val name: String, val mode: FileMode = FileMode.In) : Stream(
 
 operator fun String.get(range: IntRange) = this.substring(range.start, range.endInclusive + 1)
 
-@Deprecated("", ReplaceWith("this.trim()"))
-fun String.strip() = this.trim()
-
-@Deprecated("", ReplaceWith("this.trimStart()"))
-fun String.stripl() = this.trimStart()
-
-@Deprecated("", ReplaceWith("this.trimEnd()"))
-fun String.stripr() = this.trimEnd()
+//@Deprecated("", ReplaceWith("this.trim()"))  fun String.strip() = this.trim()
+//@Deprecated("", ReplaceWith("this.trimStart()"))  fun String.stripl() = this.trimStart()
+//@Deprecated("", ReplaceWith("this.trimEnd()"))  fun String.stripr() = this.trimEnd()
 
 class ShowHelpException(t: String = "") : Exception(t)
 

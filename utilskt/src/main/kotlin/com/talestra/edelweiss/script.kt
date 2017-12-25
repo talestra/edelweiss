@@ -238,9 +238,9 @@ class BSS {
                         //writefln("::%s::%s::", sstack.s[1], text);
 
                         // Has title.
-                        if ((sstack.s[1] != null) && sstack.s[1]!!.strip().length != 0) {
+                        if ((sstack.s[1] != null) && sstack.s[1]!!.trim().length != 0) {
                             val tt = explode("\n", text, 2)
-                            var title = tt[0].strip()
+                            var title = tt[0].trim()
                             text = if (tt.length >= 2) tt[1] else ""
                             assert(title.length > 2) { format("ID/Line(@%d): Title length > 2", line) }
                             assert(title[0] == '{') { format("ID/Line(@%d): Line doesn't start by '{'", line) }
@@ -255,7 +255,7 @@ class BSS {
                         }
                         // Has text.
                         if (sstack.s[0] != null) {
-                            var ttext = text.stripr()
+                            var ttext = text.trimEnd()
                             //writefln(pushes[0]);
                             ttext = ttext.replace("\r", "").replace("\n ", " ").replace(" \n", " ").replace("\n", " ")
                             pushes[0].s[0] = ttext
@@ -441,8 +441,8 @@ class ACME {
             val e = Entry()
             val pos = line.indexOf('\n')
             assert(pos >= 0)
-            e.header(line[0 until pos].strip())
-            e.text = line[pos + 1 until line.length].stripr()
+            e.header(line[0 until pos].trim())
+            e.text = line[pos + 1 until line.length].trimEnd()
             entries[e.id] = e
         }
     }
@@ -470,7 +470,7 @@ class ACME {
                     entries[e.id] = e
                 }
                 '<' -> { // Text
-                    val add_text = stripslashes(substr(line, 4)).stripr()
+                    val add_text = stripslashes(substr(line, 4)).trimEnd()
                     if (substr(line, 0, 4) == "<$lang>") {
                         if (add_text.isNotEmpty()) e.text = add_text
                     } else if (e.text.isNotEmpty()) {

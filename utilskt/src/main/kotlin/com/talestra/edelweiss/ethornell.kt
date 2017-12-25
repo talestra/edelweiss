@@ -475,7 +475,8 @@ class DSC {
             val _pad: Int = 0
     ) {
         init {
-            assert(magic.toString(UTF8) == "DSC FORMAT 1.00\u0000") { format("Not a DSC file") }
+            val m = magic.toString(UTF8)
+            assert(m == "DSC FORMAT 1.00\u0000") { format("Not a DSC file '$m'") }
             assert(usize <= 0x3_000_000) { format("Too big uncompressed size '%d'", usize) }
         }
 
@@ -507,7 +508,7 @@ class DSC {
     //static assert (Header.sizeof == 0x20, "Invalid size for DSC.Header");
     //static assert (Node.sizeof   == 4*4 , "Invalid size for DSC.Node");
 
-    var header = Header()
+    lateinit var header: Header
     var data = byteArrayOf()
 
     constructor(name: String) : this(File(name).readBytes().openSync())
@@ -517,17 +518,16 @@ class DSC {
 
         val src = s.readBytes(s.available.toInt())
         val nodes = Array(0x400) { Node() }
-        data = ByteArray(header.usize)
-
         // Decrypt and initialize the huffman tree.
         CompressionInit(header.hash, src, nodes)
         // Decompress the data using that tree.
-        CompressionDo(src.copyOfRange(0x200, src.size), data, nodes)
+        data = CompressionDo(src.copyOfRange(0x200, src.size), ByteArray(header.usize), nodes)
     }
 
     companion object {
         // Initializes the huffman tree.
         fun CompressionInit(ihash: Int, src: ByteArray, nodes: Array<Node>) {
+            //println("ihash: $ihash")
             val hash = IntRef(ihash)
             // Input asserts.
             assert(src.size >= 0x200)
@@ -540,7 +540,8 @@ class DSC {
 
             // Decrypt the huffman header.
             for (n in 0 until buffer.size) {
-                val v = src[n] - (hash_update(hash) and 0xFF)
+                val v = (src[n] - (hash_update(hash) and 0xFF)) and 0xFF
+                //println("N: $n --> $v")
                 //src[n] = v;
                 if (v != 0) buffer[buffer_len++] = (v shl 16) + n
             }
@@ -560,6 +561,7 @@ class DSC {
             var v13 = 0
 
             var buffer_cur = 0
+            //println("buffer_len: $buffer_len")
             while (buffer_cur < buffer_len - 1) {
                 toggle = toggle xor 0x200
                 var group_count = 0
@@ -578,6 +580,7 @@ class DSC {
                 if (group_count < dec0) {
                     dec0 = (dec0 - group_count)
                     for (dd in 0 until dec0) {
+                        //println("" + v13 + " : " + v13a[v13])
                         nodes[v13a[v13]].has_childs = true
                         for (m in 0 until 2) {
                             nodes[v13a[v13]].childs[m] = value_set
@@ -594,7 +597,7 @@ class DSC {
 
         }
 
-        fun CompressionDo(src: ByteArray, dst: ByteArray, nodes: Array<Node>) {
+        fun CompressionDo(src: ByteArray, dst: ByteArray, nodes: Array<Node>): ByteArray {
             //uint v2 = header.v2;
 
             var bits = 0
@@ -662,6 +665,8 @@ class DSC {
             } catch (e: Throwable) {
                 e.printStackTrace()
             }
+
+            return dst.copyOf(d)
         }
     }
 
@@ -868,7 +873,12 @@ data class RNode(var v: Long = 0L, var bits: Int = 0) {
     }
 }
 
-fun compress(data: UByteArray, level: Int = 0): ByteArray {
+fun decompress(data: ByteArray): ByteArray {
+    return DSC(data.openSync()).data
+}
+
+fun compress(data: ByteArray, level: Int = 0, seed: Int = 0): ByteArray {
+    val data = UByteArray(data)
     val min_lz_len = 2
     val max_lz_len = 0x100 + 2
     val max_lz_pos = 0x1000
@@ -921,10 +931,10 @@ fun compress(data: UByteArray, level: Int = 0): ByteArray {
     val cnodes = Array(0x400) { DSC.Node() }
     extract_levels(freq, levels)
     //val nodes = extract_levels(freq, levels);
-    var r = ByteArrayBuilder()
+    val r = ByteArrayBuilder()
 
-    var hash_val = IntRef(0x000505D3 + rand())
-    var init_hash_val = hash_val
+    val hash_val = IntRef(0x000505D3 + seed)
+    val init_hash_val = hash_val.v
 
     fun ins_int(v: Int) {
         r += ByteArray(4).apply { write32_le(0, v) }
@@ -936,11 +946,10 @@ fun compress(data: UByteArray, level: Int = 0): ByteArray {
     ins_int(blocks.length)
     ins_int(0)
 
-    for (clevel in levels) {
-        r += (clevel + (hash_update(hash_val) and 0xFF)).toByte()
-    }
-    val rbytes = r.toByteArray()
-    DSC.CompressionInit(init_hash_val.v, rbytes.copyOfRange(rbytes.size - 0x200, rbytes.size), cnodes)
+    val seedData = ByteArray(0x200) { (levels[it] + (hash_update(hash_val) and 0xFF)).toByte() }
+    r += seedData
+    //println(seedData.toList())
+    DSC.CompressionInit(init_hash_val, seedData, cnodes)
     RNode.iterate(rnodes, cnodes)
 
     //writefln("rnodes:"); foreach (k, rnode; rnodes) if (rnode.bits > 0) writefln("  %03X:%s", k, rnode);
@@ -1180,7 +1189,7 @@ fun main_s(args: Array<String>) {
                     }
                     // Not compressed.
                     else {
-                        cdata = compress(UByteArray(data), level)
+                        cdata = compress(data, level)
                         writefln("Compressed")
                     }
                     s.position = (0x10 + count * 0x20 + pos).toLong()
@@ -1232,7 +1241,7 @@ fun main_s(args: Array<String>) {
                 // Check if the file actually exists.
                 assert(File(file_name).exists()) { format("File '%s' doesn't exists", file_name) }
 
-                File(out_file).writeBytes(compress(std_file_read(file_name).unsigned(), level))
+                File(out_file).writeBytes(compress(std_file_read(file_name), level))
             }
         // Test the compression.
             "-t" -> {
@@ -1245,7 +1254,7 @@ fun main_s(args: Array<String>) {
                 assert(File(file_name).exists()) { format("File '%s' doesn't exists", file_name) }
 
                 val uncompressed0 = std_file_read(file_name)
-                val compressed = compress(uncompressed0.unsigned(), level)
+                val compressed = compress(uncompressed0, level)
                 val dsc = DSC(compressed.openSync())
                 val uncompressed1 = dsc.data
 
