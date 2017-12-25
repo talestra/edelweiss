@@ -1,15 +1,10 @@
 package com.talestra.edelweiss
 
 import com.soywiz.korio.error.ignoreErrors
-import com.soywiz.korio.lang.LATIN1
-import com.soywiz.korio.lang.UTF8
-import com.soywiz.korio.lang.toByteArray
-import com.soywiz.korio.lang.toString
-import com.soywiz.korio.stream.ByteArrayBuilder
-import com.soywiz.korio.stream.ByteArrayBuilderSmall
+import com.soywiz.korio.lang.*
+import com.soywiz.korio.stream.*
 import com.soywiz.korio.util.substr
 import java.io.File
-import kotlin.math.max
 import kotlin.math.min
 import kotlin.system.exitProcess
 
@@ -30,112 +25,29 @@ OPCODES:
 
 */
 
-fun between(a: Int, m: Int, M: Int): Boolean {
-    return (a >= m) && (a <= M); }
-
-fun addslahses(t: String): String {
-    t.map {
-        when (it) {
-
-        }
-    }
-    var r = ""
-    for (c in t) {
-        when (c) {
-            '\n' -> r += "\n"
-            '\\' -> r += "\\"
-            '\r' -> r += "\r"
-            '\t' -> r += "\t"
-            else -> r += c
-        }
-    }
-    return r
-}
-
-fun stripslashes(t: String): String {
-    var r = ""
-    var n = 0
-    while (n < t.length) {
-        var c = t[n]
-        when (c) {
-            '\\' -> {
-                c = t[++n]
-                when (c) {
-                    'n' -> r += "\n"
-                    'r' -> r += "\r"
-                    't' -> r += "\t"
-                    '\\' -> r += "\\"
-                    else -> r += c
-                }
-            }
-            else -> r += c
-        }
-        n++
-    }
-    return r
-}
-
-fun substr(s: String, start: Int, len: Int = 0x7F_FF_FF_FF): String {
-    var start = start
-    var end = s.length
-    if (start < 0) start = s.length - (-start) % s.length
-    if (start > s.length) start = s.length
-    if (len < 0) end -= (-len) % s.length
-    if (len >= 0) end = start + len
-    if (end > s.length) end = s.length
-    return s.substring(start, end)
-}
-
-fun explode(delim: String, str: String, length: Int = 0x7FFFFFFF, fill: Boolean = false): List<String> {
-    val rr = arrayListOf<String>()
-    var str2 = str
-
-    while (true) {
-        val pos = str2.indexOf(delim)
-        if (pos != -1) {
-            if (rr.size < length - 1) {
-                rr += str2.substring(0, pos)
-                str2 = str2.substring(pos + 1 until str2.length)
-                continue
-            }
-        }
-
-        rr += str2
-        break
-    }
-
-    if (fill && length < 100) while (rr.size < length) rr += ""
-
-    return rr
-}
-
 class BSS {
-    class OP(var type: Int = 0) {
-        var ori_pos: Int = 0
-
+    class OP(var type: Int = 0, var ori_pos: Int = 0) {
         enum class TYPE { INT, STR, PTR }
 
         val i = arrayListOf<Int>()
         val s = arrayListOf<String?>()
         val t = arrayListOf<TYPE>()
 
-        fun ori(v: Int): OP = run { ori_pos = v; return this; }
         fun push(v: Int): OP = run { i += v; s.add(null); t += TYPE.INT; return this; }
         fun push(v: String?): OP = run { i += 0; s += v; t += TYPE.STR; return this; }
         fun pushPTR(v: Int): OP = run { i += v; s.add(null); t += TYPE.PTR; return this; }
         val length: Int get() = i.size
 
         override fun toString(): String {
-            var r = ""
             if (type == 0x7F) return "\n%s_%d:".format(s[0], i[1])
-            when (type) {
-                0x0_00 -> r = "PUSH_INT"
-                0x0_01 -> r = "PUSH_PTR"
-                0x0_03 -> r = "PUSH_STR"
-                0x0_3F -> r = "STACK"
-                0x1_40 -> r = "TEXT_PUT"
-                0x1_4D -> r = "TEXT_SIZE"
-                else -> r = format("OP_%03X", type)
+            var r = when (type) {
+                0x0_00 -> "PUSH_INT"
+                0x0_01 -> "PUSH_PTR"
+                0x0_03 -> "PUSH_STR"
+                0x0_3F -> "STACK"
+                0x1_40 -> "TEXT_PUT"
+                0x1_4D -> "TEXT_SIZE"
+                else -> format("OP_%03X", type)
             }
             r += " "
             for (n in 0 until length) {
@@ -148,7 +60,7 @@ class BSS {
 
         fun popi(): Int {
             if (i.size <= 0) return 0
-            var r = i[i.size - 1]
+            val r = i[i.size - 1]
             val tmp = (length - 1)
             s.length = tmp
             t.length = tmp
@@ -165,42 +77,27 @@ class BSS {
 
     var ops = arrayListOf<OP>()
     fun parse(name: String) {
-        parse(BufferedFile(name, FileMode.In))
+        parse(File(name).readBytes().openSync())
     }
 
-    fun parse(s: Stream) {
-        val data = s.readString(s.size - s.position)
-        var op_end = (data.ptr + data.size).int
+    fun parse(s: SyncStream) {
+        val s = s.readAvailable().openSync()
+        var end = s.length.toInt()
+        fun read() = s.readS32_le()
+        while (!s.eof) {
+            //println("${s.position}-${s.length}-${s.available}-${s.available % 4}")
+            val op_pos = s.position.toInt()
+            if (op_pos >= end) break
+            val op = OP(read(), op_pos)
 
-        var op_start = data.ptr.int
-        var op_ptr = data.ptr.int
-        while (op_ptr < (data.ptr + data.size).int) {
-
-
-            if (op_end != null) {
-                //writefln("%08X: %08X", op_ptr, op_end);
-                if (op_ptr >= op_end) break
-            }
-            val op = OP(op_ptr.get()).ori((op_ptr - op_start) * 4)
-
-            fun pushInt(): Int {
-                val v = (++op_ptr).get()
-                op.push(v)
-                return v
-            }
-
-            fun pushPtr(): Int {
-                val v = (++op_ptr).get()
-                op.pushPTR(v)
-                return v
-            }
+            fun pushInt() = op.push(read())
+            fun pushPtr() = op.pushPTR(read())
 
             fun pushStr(): String {
-                val pos = (++op_ptr).get()
+                val pos = read()
                 //writefln("    : %08X", pos);
-                val ptr = data.ptr + pos
-                if (ptr.int < op_end) op_end = ptr.int
-                val v = ptr.toStringz()
+                end = min(end, pos)
+                val v = s.sliceWithStart(pos.toLong()).readStringz()
                 //writefln("      '%s'", v);
                 op.push(v)
                 return v
@@ -215,15 +112,13 @@ class BSS {
                 0x0_04 -> pushInt() // ??
                 0x0_09 -> pushInt() // PUSH_??
                 0x0_19 -> pushInt() // ??
-            /*
-            case 0x0_10: pushInt(); pushInt(); break; // ??
-            case 0x0_11:
-                pushInt();
-                int size = pushInt();
-                string_ptr = size + (op_ptr - op_start);
-                op_end = cast(uint *)((cast(ubyte *)op_ptr) + size);
-            break;
-            */
+                //0x0_10 -> { pushInt(); pushInt(); } // ??
+                //0x0_11 -> {
+                //    pushInt();
+                //    int size = pushInt();
+                //    string_ptr = size + (op_ptr - op_start);
+                //    op_end = cast(uint *)((cast(ubyte *)op_ptr) + size);
+                //}
                 0x0_3F -> pushInt()
                 0x0_7F -> { // SCRIPT_LINE
                     pushStr()
@@ -232,8 +127,10 @@ class BSS {
                 0x0_F0 -> Unit // SCRIPT_CALL
                 0x0_1E -> Unit
                 0x0_20 -> Unit
-                0x0_21 -> {
-                    pushInt(); pushInt(); } // UNK_STACK_OP_22
+                0x0_21 -> { // UNK_STACK_OP_22
+                    pushInt()
+                    pushInt()
+                }
                 0x0_22 -> Unit // UNK_STACK_OP_22
                 0x1_80 -> Unit // AUDIO
                 0x1_4D -> Unit // TEXT_SIZE
@@ -242,15 +139,15 @@ class BSS {
             }
 
             ops.add(op)
-            op_ptr++
+            //println(op)
         }
     }
 
-    fun serialize(): UByteArray {
+    fun serialize(): ByteArray {
         val charset = UTF8
         val table = LinkedHashMap<String, Int>()
         val ins = arrayListOf<Int>()
-        var str = ByteArrayBuilder()
+        val str = ByteArrayBuilder()
         var str_start: Int = 0
         for (op in ops) str_start += op.size
 
@@ -271,17 +168,18 @@ class BSS {
             //writefln(op);
         }
 
-        return UByteArray(ByteArray(ins.size) { ins[it].toByte() } + str.toByteArray())
+        return ByteArray(ins.size) { ins[it].toByte() } + str.toByteArray()
     }
 
     fun write(name: String) {
-        val s = BufferedFile(name, FileMode.OutNew)
+        val s = MemorySyncStream()
         write(s)
         s.close()
+        File(name).writeBytes(s.toByteArray())
     }
 
-    fun write(s: Stream) {
-        s.write(serialize())
+    fun write(s: SyncStream) {
+        s.writeBytes(serialize())
     }
 
     fun dump() {
@@ -422,7 +320,7 @@ class BSS {
 
         // Fix pointers.
         var size = 0
-        var translate = LinkedHashMap<Int, Int>()
+        val translate = LinkedHashMap<Int, Int>()
         for (op in ops) {
             translate[op.ori_pos] = size
             //writefln("%d, %d", op.ori_pos, size);
@@ -439,7 +337,7 @@ class BSS {
                         //writefln("Update!");
                     }
                 } catch (e: Throwable) {
-                    writefln("Error: %s", e)
+                    e.printStackTrace()
                 }
             }
         }
@@ -462,17 +360,23 @@ class BSS {
                     sstack.push(op.i[0])
                 }
                 0x03 -> {
-                    //writefln("%s", op.s[0]);
+                    //println("03: ${op.s[0]}");
                     sstack.push(op.s[0])
                 }
                 0x1_40 -> { // TEXT_WRITE
-                    //writefln("TEXT_WRITE");
-                    var r: String? = null
-                    val title = sstack.s[sstack.s.size - 2]!!.trim()
-                    if (title.length != 0) r += "{$title}\n"
-                    r += sstack.s[sstack.s.size - 1]
-                    //writefln(" ## %s", title);
-                    acme.add(line, r!!)
+                    //println("TEXT_WRITE");
+                    var r: String = ""
+
+                    //val title = sstack.s.getOrNull(sstack.s.size - 2)?.trim() ?: ""
+                    //if (title.isNotEmpty()) r += "{$title}\n"
+                    //r += sstack.s.getOrNull(sstack.s.size - 1) ?: ""
+
+                    val title = sstack.s.getOrNull(1)?.trim() ?: ""
+                    if (title.isNotEmpty()) r += "{$title}\n"
+                    r += sstack.s.getOrNull(0) ?: ""
+
+                    //println(" ## $title");
+                    acme.add(line, r)
                 }
                 else -> Unit
             }
@@ -480,6 +384,16 @@ class BSS {
 
         return acme
     }
+}
+
+fun SyncStream.readLine(charset: Charset = UTF8): String {
+    val out = ByteArrayBuilder()
+    while (!eof) {
+        val b = readU8()
+        if (b == '\n'.toInt()) break
+        out += b.toByte()
+    }
+    return out.toString(charset)
 }
 
 class ACME {
@@ -509,21 +423,18 @@ class ACME {
 
     val entries = LinkedHashMap<Int, Entry>()
     fun parse(name: String) {
-        parse(BufferedFile(name))
+        parse(File(name).readBytes().openSync())
     }
 
-    fun has(idx: Int): Boolean {
-        return idx in entries; }
+    fun has(idx: Int): Boolean = idx in entries
 
     operator fun get(idx: Int): Entry? = entries[idx]
-    val length: Int
-        get() {
-            return entries.length; }
+    val length: Int get() = entries.length
 
-    fun parse(s: Stream) {
+    fun parse(s: SyncStream) {
         entries.clear()
         s.position = 0;
-        val data = s.readString(s.size)
+        val data = s.readBytes(s.length.toInt())
         var ss = data.toString(UTF8).split("## POINTER ")
         ss = ss.drop(1)
         for (line in ss) {
@@ -537,12 +448,12 @@ class ACME {
     }
 
     fun parseForm2(filename: String, lang: String = "es") {
-        val s = BufferedFile(filename)
+        val s = File(filename).readBytes().openSync()
         parseForm2(s, lang)
         s.close()
     }
 
-    fun parseForm2(s: Stream, lang: String = "es") {
+    fun parseForm2(s: SyncStream, lang: String = "es") {
         var id: Int = 0
         entries.clear()
         var e = Entry()
@@ -572,122 +483,29 @@ class ACME {
     }
 
     fun writeForm2(filename: String, file: String = "unknown") {
-        val s = BufferedFile(filename, FileMode.OutNew);
+        val s = MemorySyncStream();
         run {
             writeForm2(s, file)
         }
         s.close()
+        File(filename).writeBytes(s.toByteArray())
     }
 
-    fun writeForm2(s: Stream, file: String = "unknown") {
-        s.writefln("# Comments for '%s'", file)
-        s.writefln()
+    fun writeForm2(s: SyncStream, file: String = "unknown") {
+        s.writeString("# Comments for '$file'\n")
+        s.writeString("\n")
         for (k in entries.keys.sorted()) {
             val t = entries[k]
-            s.writefln("@%d", k)
-            s.writefln("<en>%s", addslahses(t!!.text))
-            s.writefln("<es>")
-            s.writefln()
+            s.writeString("@$k\n")
+            s.writeString("<en>${addslahses(t!!.text)}\n")
+            s.writeString("<es>\n")
+            s.writeString("\n")
         }
     }
 
     override fun toString(): String {
         return entries.map { it.toString() }.joinToString("")
     }
-}
-
-class Segments {
-    data class Segment(var l: Long, var r: Long) : Comparable<Segment> {
-        val w: Long get() = r - l
-        val length: Long get() = w
-
-        companion object {
-            fun intersect(a: Segment, b: Segment, strict: Boolean = false): Boolean {
-                return if (strict)
-                    (a.l < b.r && a.r > b.l)
-                else (a.l <= b.r && a.r >= b.l)
-            }
-        }
-
-        val valid: Boolean get() = w >= 0
-
-        override operator fun compareTo(that: Segment): Int {
-            var r: Long = this.l - that.l
-            if (r == 0L) r = this.r - that.r
-            return r.toInt()
-        }
-
-        fun grow(s: Segment) {
-            l = min(l, s.l)
-            r = max(r, s.r)
-        }
-
-        override fun toString() = format("(%08X, %08X)", l, r)
-    }
-
-    var segments = arrayListOf<Segment>()
-    fun refactor() {
-        segments = ArrayList(segments.sorted())
-        /*
-        Segment[] ss = segments; segments = [];
-        foreach (s; ss) if (s.valid) segments += s;
-        */
-    }
-
-    val length: Int get() = segments.length
-
-    operator fun get(idx: Int) = segments[idx]
-
-    operator fun plusAssign(s: Segment) {
-        for (cs in segments) {
-            if (Segment.intersect(s, cs)) {
-                cs.grow(s)
-                refactor()
-                return
-            }
-        }
-        segments.add(s)
-
-        refactor()
-        return
-    }
-
-    operator fun minusAssign(s: Segment) {
-        val ss = arrayListOf<Segment>()
-
-        fun addValid(s: Segment) {
-            if (s.valid) ss += s; }
-
-        for (cs in segments) {
-            if (Segment.intersect(s, cs)) {
-                addValid(Segment(cs.l, s.l))
-                addValid(Segment(s.r, cs.r))
-            } else {
-                addValid(cs)
-            }
-        }
-        segments = ss
-
-        refactor()
-    }
-
-    override fun toString(): String {
-        var r = "Segments {\n"; for (s in segments) r += "  " + s + "\n"; r += "}"; return r; }
-
-    /*
-    unittest {
-        val ss = new Segments;
-        ss += Segment(0, 100);
-        ss += Segment(50, 200);
-        ss += Segment(-50, 0);
-        ss -= Segment(0, 50);
-        ss -= Segment(0, 75);
-        ss += Segment(-1500, -100);
-        ss -= Segment(-1000, 1000);
-        assert(ss.length == 1);
-        assert(ss[0] == Segment(-1500, -1000));
-    }
-    */
 }
 
 private fun patch(game_folder: String, acme_folder: String) {
@@ -732,7 +550,7 @@ fun extract_all2(game_folder: String, acme_folder: String) {
     println(" - script_folder: $script_folder_in")
     println(" - acme_folder  : $acme_folder")
 
-    val file_list = File(script_folder_in).list()
+    val file_list = File(script_folder_in).list().sorted()
     if (file_list.isNotEmpty()) {
         for (file in file_list) {
             if (file[0] == '.') continue
@@ -773,12 +591,12 @@ fun main(args2: Array<String>) {
     // Catch a exception to show the help/usage.
     catch (e: ShowHelpException) {
         show_help()
-        if (e.toString().isNotEmpty()) println(e)
+        e.printStackTrace()
         exitProcess(0)
     }
     // Catch a generic unhandled exception.
     catch (e: Throwable) {
-        println("Error: $e")
+        e.printStackTrace()
         exitProcess(-1)
     }
 

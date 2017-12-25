@@ -222,3 +222,168 @@ operator fun <T> List<T>.get(range: IntRange) = this.subList(range.start, range.
 
 fun ByteArray.unsigned() = UByteArray(this)
 fun UByteArray.signed() = this.array
+
+fun between(a: Int, m: Int, M: Int): Boolean = (a >= m) && (a <= M)
+
+fun addslahses(t: String): String {
+    var r = ""
+    for (c in t) {
+        when (c) {
+            '\n' -> r += "\\n"
+            '\\' -> r += "\\"
+            '\r' -> r += "\\r"
+            '\t' -> r += "\\t"
+            else -> r += c
+        }
+    }
+    return r
+}
+
+fun stripslashes(t: String): String {
+    var r = ""
+    var n = 0
+    while (n < t.length) {
+        var c = t[n]
+        when (c) {
+            '\\' -> {
+                c = t[++n]
+                when (c) {
+                    'n' -> r += "\n"
+                    'r' -> r += "\r"
+                    't' -> r += "\t"
+                    '\\' -> r += "\\"
+                    else -> r += c
+                }
+            }
+            else -> r += c
+        }
+        n++
+    }
+    return r
+}
+
+fun substr(s: String, start: Int, len: Int = 0x7F_FF_FF_FF): String {
+    var start = start
+    var end = s.length
+    if (start < 0) start = s.length - (-start) % s.length
+    if (start > s.length) start = s.length
+    if (len < 0) end -= (-len) % s.length
+    if (len >= 0) end = start + len
+    if (end > s.length) end = s.length
+    return s.substring(start, end)
+}
+
+fun explode(delim: String, str: String, length: Int = 0x7FFFFFFF, fill: Boolean = false): List<String> {
+    val rr = arrayListOf<String>()
+    var str2 = str
+
+    while (true) {
+        val pos = str2.indexOf(delim)
+        if (pos != -1) {
+            if (rr.size < length - 1) {
+                rr += str2.substring(0, pos)
+                str2 = str2.substring(pos + 1 until str2.length)
+                continue
+            }
+        }
+
+        rr += str2
+        break
+    }
+
+    if (fill && length < 100) while (rr.size < length) rr += ""
+
+    return rr
+}
+
+
+//class Segments {
+//    data class Segment(var l: Long, var r: Long) : Comparable<Segment> {
+//        val w: Long get() = r - l
+//        val length: Long get() = w
+//
+//        companion object {
+//            fun intersect(a: Segment, b: Segment, strict: Boolean = false): Boolean =
+//                    if (strict) (a.l < b.r && a.r > b.l) else (a.l <= b.r && a.r >= b.l)
+//        }
+//
+//        val valid: Boolean get() = w >= 0
+//
+//        override operator fun compareTo(that: Segment): Int {
+//            var r: Long = this.l - that.l
+//            if (r == 0L) r = this.r - that.r
+//            return r.toInt()
+//        }
+//
+//        fun grow(s: Segment) {
+//            l = min(l, s.l)
+//            r = max(r, s.r)
+//        }
+//
+//        override fun toString() = format("(%08X, %08X)", l, r)
+//    }
+//
+//    var segments = arrayListOf<Segment>()
+//    fun refactor() {
+//        segments = ArrayList(segments.sorted())
+//        /*
+//        Segment[] ss = segments; segments = [];
+//        foreach (s; ss) if (s.valid) segments += s;
+//        */
+//    }
+//
+//    val length: Int get() = segments.length
+//
+//    operator fun get(idx: Int) = segments[idx]
+//
+//    operator fun plusAssign(s: Segment) {
+//        for (cs in segments) {
+//            if (Segment.intersect(s, cs)) {
+//                cs.grow(s)
+//                refactor()
+//                return
+//            }
+//        }
+//        segments.add(s)
+//
+//        refactor()
+//        return
+//    }
+//
+//    operator fun minusAssign(s: Segment) {
+//        val ss = arrayListOf<Segment>()
+//
+//        fun addValid(s: Segment) {
+//            if (s.valid) ss += s; }
+//
+//        for (cs in segments) {
+//            if (Segment.intersect(s, cs)) {
+//                addValid(Segment(cs.l, s.l))
+//                addValid(Segment(s.r, cs.r))
+//            } else {
+//                addValid(cs)
+//            }
+//        }
+//        segments = ss
+//
+//        refactor()
+//    }
+//
+//    override fun toString(): String {
+//        var r = "Segments {\n"; for (s in segments) r += "  " + s + "\n"; r += "}"; return r; }
+//
+//    /*
+//    unittest {
+//        val ss = new Segments;
+//        ss += Segment(0, 100);
+//        ss += Segment(50, 200);
+//        ss += Segment(-50, 0);
+//        ss -= Segment(0, 50);
+//        ss -= Segment(0, 75);
+//        ss += Segment(-1500, -100);
+//        ss -= Segment(-1000, 1000);
+//        assert(ss.length == 1);
+//        assert(ss[0] == Segment(-1500, -1000));
+//    }
+//    */
+//}
