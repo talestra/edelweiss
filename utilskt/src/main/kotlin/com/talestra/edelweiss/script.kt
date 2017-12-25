@@ -2,7 +2,7 @@ package com.talestra.edelweiss
 
 /*
 // Version of the utility.
-const char[] _version = "0.3";
+const val _version = "0.3";
 
 /*
 OPCODES:
@@ -18,40 +18,46 @@ OPCODES:
 
 */
 
-int min(int a, int b) { return (a < b) ? a : b; }
-int max(int a, int b) { return (a > b) ? a : b; }
-bool between(int a, int m, int M) { return (a >= m) && (a <= M); }
+fun between(a: Int, m: Int, M: Int): Boolean { return (a >= m) && (a <= M); }
 
-char[] addslahses(char[] t) {
-    char[] r;
-    foreach (c; t) {
-        switch (c) {
-            case '\n': r ~= r"\n"; break;
-            case '\\': r ~= r"\\"; break;
-            case '\r': r ~= r"\r"; break;
-            case '\t': r ~= r"\t"; break;
-            default: r ~= c;
+fun addslahses(t: String): String {
+    t.map {
+        when (it) {
+
+        }
+    }
+    var r = ""
+    for (c in t) {
+        when (c) {
+            '\n' ->  r += "\n"
+            '\\' ->  r += "\\"
+            '\r' ->  r += "\r"
+            '\t' -> r += "\t"
+            else -> r += c
         }
     }
     return r;
 }
 
-char[] stripslashes(char[] t) {
-    char[] r;
-    for (int n = 0; n < t.length; n++) {
-        char c = void;
-        switch (c = t[n]) {
-            case '\\':
-            switch (c = t[++n]) {
-                case 'n': r ~= "\n"; break;
-                case 'r': r ~= "\r"; break;
-                case 't': r ~= "\t"; break;
-                case '\\': r ~= "\\"; break;
-                default: r ~= c; break;
+fun stripslashes(t: String): String {
+    var r = ""
+    var n = 0
+    while (n < t.length) {
+        var c = t[n];
+        when (c) {
+            '\\' -> {
+                c = t[++n]
+                when (c) {
+                    'n' -> r += "\n"
+                    'r' -> r += "\r"
+                    't' -> r += "\t"
+                    '\\' -> r += "\\"
+                    else -> r += c
+                }
             }
-            break;
-            default: r ~= c;
+            else -> r += c;
         }
+        n++
     }
     return r;
 }
@@ -89,77 +95,8 @@ char[][] explode(char[] delim, char[] str, int length = 0x7FFFFFFF, bool fill = 
     return rr;
 }
 
-unittest {
-    char[] c;
-    c = "This is\n a test.\t\t\\\r\\\\\\.";
-    assert(stripslashes(addslashes(c)) == c);
-}
-
-// SJIS
-
-// http://msdn.microsoft.com/en-us/library/ms776413(VS.85).aspx
-// http://msdn.microsoft.com/en-us/library/ms776446(VS.85).aspx
-// http://www.microsoft.com/globaldev/reference/dbcs/932.mspx
-
-extern(Windows) {
-    int MultiByteToWideChar(uint CodePage, uint dwFlags, char* lpMultiByteStr, int cbMultiByte, wchar* lpWideCharStr, int cchWideChar);
-    int WideCharToMultiByte(uint CodePage, uint dwFlags, wchar* lpWideCharStr, int cchWideChar, char* lpMultiByteStr, int cbMultiByte, char* lpDefaultChar, int* lpUsedDefaultChar);
-}
-
-wchar[] sjis_convert_utf16(char[] data) { return convert_to_utf16(data, 932); }
-char[] sjis_convert_utf8(char[] data) { return std.utf.toUTF8(sjis_convert_utf16(data)); }
-
-wchar[] convert_to_utf16(char[] data, int codepage) {
-    wchar[] out_data = new wchar[data.length * 4];
-    int len = MultiByteToWideChar(
-            codepage,
-    0,
-    data.ptr,
-    data.length,
-    out_data.ptr,
-    out_data.length
-    );
-    return out_data[0..len];
-}
-
-char[] convert_from_utf16(wchar[] data, uint codepage) {
-    char[] out_data = new char[data.length * 4];
-    int len = WideCharToMultiByte(
-            codepage,
-    0,
-    data.ptr,
-    data.length,
-    out_data.ptr,
-    out_data.length,
-    null,
-    null
-    );
-    return out_data[0..len];
-}
-
-char[] mb_convert_encoding(char[] str, int to_codepage, int from_codepage) {
-    return convert_from_utf16(convert_to_utf16(str, from_codepage), to_codepage);
-}
-
-uint charset_to_codepage(char[] charset) {
-    charset = replace(std.string.tolower(strip(charset)), "-", "_");
-    switch (charset) {
-        case "shift_jis": return 932;
-        case "utf_16": return 1200;
-        case "utf_32": return 12000;
-        case "utf_7": return 65000;
-        case "utf_8": return 65001;
-        case "windows_1252", "latin_1", "iso_8859_1": return 1252;
-        default: throw(new Exception("Unknown charset '" ~ charset ~ "'"));
-    }
-}
-
-char[] mb_convert_encoding(char[] str, char[] to_encoding, char[] from_encoding) {
-    return mb_convert_encoding(str, charset_to_codepage(to_encoding), charset_to_codepage(from_encoding));
-}
-
 class BSS {
-    static class OP {
+    class OP {
         uint ori_pos;
         uint type;
         enum TYPE { INT, STR, PTR };
@@ -176,36 +113,37 @@ class BSS {
         OP push(char[] v) { i ~= 0; s ~= v;    t ~= TYPE.STR; return this; }
         OP pushPTR(int v) { i ~= v; s ~= null; t ~= TYPE.PTR; return this; }
         long length() { return i.length; }
-        char[] toString() {
-            char[] r;
+
+        override fun toString(): String {
+            var  r ç= ""
             if (type == 0x7F) {
                 return format("\n%s_%d:", s[0], i[1]);
             }
-            switch (type) {
-                case 0x0_00: r = "PUSH_INT";  break;
-                case 0x0_01: r = "PUSH_PTR";  break;
-                case 0x0_03: r = "PUSH_STR";  break;
-                case 0x0_3F: r = "STACK";     break;
-                case 0x1_40: r = "TEXT_PUT";  break;
-                case 0x1_4D: r = "TEXT_SIZE"; break;
-                default: r = std.string.format("OP_%03X", type); break;
+            when (type) {
+                0x0_00 -> r = "PUSH_INT"
+                0x0_01 -> r = "PUSH_PTR";
+                0x0_03 -> r = "PUSH_STR";
+                0x0_3F -> r = "STACK";
+                0x1_40 -> r = "TEXT_PUT";
+                0x1_4D -> r = "TEXT_SIZE";
+                else -> r = std.string.format("OP_%03X", type)
             }
-            r ~= " ";
-            for (int n = 0; n < length; n++) {
+            r += " ";
+            for (n in 0 until length) {
                 if (n != 0) r ~= ", ";
                 r ~= (s[n] !is null) ? ("'" ~ s[n] ~ "'") : format("%d", i[n]);
             }
             r ~= "";
             return r;
         }
-        int popi() {
+        fun popi(): Int {
             if (i.length <= 0) return 0;
             int r = i[i.length - 1];
             s.length = t.length = i.length = (length - 1);
             return r;
         }
-        long size() { return 4 + length * 4; }
-        void print() { printf("%s\n", toStringz(toString)); }
+        fun size(): Long { return 4 + length * 4; }
+        fun print() { printf("%s\n", toStringz(toString)); }
     }
     OP[] ops;
     void parse(char[] name) {

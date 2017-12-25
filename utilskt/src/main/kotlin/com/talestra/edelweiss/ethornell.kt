@@ -1,34 +1,40 @@
 package com.talestra.edelweiss
 
 /*
-// This program is realeased AS IT IS. Without any warranty and responsibility from the author.
-import std.file, std.string, std.stdio, std.stream, std.c.stdio, std.c.string, std.intrinsic, std.c.stdlib;
+// This program is released AS IT IS. Without any warranty and responsibility from the author.
 
 // Version of the utility.
-const char[] _version = "0.3";
+const val _version = "0.3";
 
 // Utility macros.
-static int max(int a, int b) { return (a > b) ? a : b; }
-static int min(int a, int b) { return (a < b) ? a : b; }
-static ushort HIWORD(uint   v) { return (v >> 16); }
-static ushort LOWORD(uint   v) { return (v & 0xFFFF); }
-static ubyte  HIBYTE(ushort v) { return (v >> 8); }
-static ubyte  LOBYTE(ushort v) { return (v & 0xFFFF); }
+private fun max(a: Int, b: Int): Int { return if (a > b) a else b; }
+private fun min(a: Int, b: Int): Int { return if (a < b) a else b; }
+private fun HIWORD(v: Int): Int { return (v ushr 16) and 0xFFFF; }
+private fun LOWORD(v: Int): Int { return (v and 0xFFFF); }
+private fun HIBYTE(v: Int): Int { return (v ushr 8) and 0xFF; }
+private fun LOBYTE(v: Int): Int { return (v and 0xFF); }
+
+data class RefInt(var v: Int)
 
 // Utility functin for the decrypting.
-static uint hash_update(ref uint hash_val) {
-	uint eax, ebx, edx, esi, edi;
+private fun hash_update(hash_val: RefInt): Int {
+	var eax:Int
+    var ebx: Int
+    var edx: Int
+    var esi: Int
+    var edi: Int
 	//writefln("V:%08X", hash_val);
-	edx = (20021 * LOWORD(hash_val));
-	eax = (20021 * HIWORD(hash_val)) + (346 * hash_val) + HIWORD(edx);
-	hash_val = (LOWORD(eax) << 16) + LOWORD(edx) + 1;
+    // @TODO: Check if this multiplication is unsigned?
+	edx = (20021 * LOWORD(hash_val.v));
+	eax = (20021 * HIWORD(hash_val.v)) + (346 * hash_val.v) + HIWORD(edx);
+	hash_val.v = (LOWORD(eax) shl 16) + LOWORD(edx) + 1;
 	//writefln("D:%08X", edx);
 	//writefln("A:%08X", eax);
-	return eax & 0x7FFF;
+	return eax and 0x7FFF;
 }
 
 // Read a variable value from a pointer.
-static uint readVariable(ref ubyte *ptr) {
+private fun readVariable(ref ubyte *ptr): Int {
 	ubyte c; uint v;
 	int shift = 0;
 	do {
@@ -44,24 +50,24 @@ class ARC {
 	Stream s;
 	Stream sd;
 	Entry[] table;
-	Entry*[char[]] table_lookup;
+	Entry*[String] table_lookup;
 
 	// Entry for the header.
-	struct Entry {
+	class Entry {
 		ubyte[0x10] _name; // Stringz with the name of the file.
 		uint start, len;   // Slice of the file.
 		ARC arc;           // Use a slice of the unused area to save a reference to the ARC parent.
 		ubyte[8 - arc.sizeof] __pad; // Unused area.
 
-		// Obtaining the processed name as a char[].
-		char[] name() { return cast(char[])_name[0..strlen(cast(char *)_name.ptr)]; }
-		char[] toString() { return format("%-16s (%08X-%08X)", name, start, len); }
+		// Obtaining the processed name as a String.
+		String name() { return cast(String)_name[0..strlen(cast(char *)_name.ptr)]; }
+		String toString() { return format("%-16s (%08X-%08X)", name, start, len); }
 
 		// Open a read-only stream for the file.
 		Stream open() { return arc.open(*this); }
 
 		// Method to save this entry to a file.
-		void save(char[] name = null) {
+		void save(String name = null) {
 			if (name == null) name = this.name;
 			scope s = new BufferedFile(name, FileMode.OutNew);
 			s.copyFrom(open);
@@ -76,7 +82,7 @@ class ARC {
 	static assert(Entry.sizeof == 0x20, "Invalid size for ARC.Entry");
 
 	// Open a ARC using an stream.
-	this(Stream s, char[] name = "unknwon") {
+	constructor(s: String, String name = "unknwon") {
 		this.s = s;
 
 		// Check the magic.
@@ -99,11 +105,11 @@ class ARC {
 	}
 
 	// Open an ARC using a file name.
-	this(char[] name) { this(new BufferedFile(name), name); }
+	this(String name) { this(new BufferedFile(name), name); }
 
 	// Shortcut for instantiating the class.
-	static ARC opCall(Stream s   ) { return new ARC(s   ); }
-	static ARC opCall(char[] name) { return new ARC(name); }
+	static ARC opCall(s: Stream) { return new ARC(s   ); }
+	static ARC opCall(String name) { return new ARC(name); }
 
 	// Gets a read-only stream for a entry.
 	Stream open(Entry e) { return new SliceStream(sd, e.start, e.start + e.len); }
@@ -115,14 +121,14 @@ class ARC {
 	}
 
 	// Defines an array accessor to obtain an entry file.
-	Entry opIndex(char[] name) {
+	Entry opIndex(String name) {
 		if ((name in table_lookup) is null) throw(new Exception(format("Unknown index '%s'", name)));
 		return *table_lookup[name];
 	}
 }
 
 // A color RGBA struct that defines methods to sum colors per component and to obtain average colors.
-struct Color {
+class Color {
 	union {
 		struct { ubyte r, g, b, a; }
 		ubyte[4] vv;
@@ -151,62 +157,9 @@ struct Color {
 		return *this;
 	}
 	uint opCast() { return v; }
-	char[] toString() { return format("#%02X%02X%02X%02X", r, g, b, a); }
+	String toString() { return format("#%02X%02X%02X%02X", r, g, b, a); }
 }
 static assert(Color.sizeof  == 4, "Invalid size for Color");
-
-// A simple class for writting TGA 32bit images.
-class TGA {
-	align(1) struct Header {
-	   char  idlength;
-	   char  colourmaptype;
-	   char  datatypecode;
-	   short colourmaporigin;
-	   short colourmaplength;
-	   char  colourmapdepth;
-	   short x_origin;
-	   short y_origin;
-	   short width;
-	   short height;
-	   char  bitsperpixel;
-	   char  imagedescriptor;
-	}
-	static assert(Header.sizeof == 18, "Invalid size for TGA.Header");
-
-	static void write32(Stream s, int w, int h, void[] data, int bpp = 32) {
-		Header header;
-
-		if (bpp != 32 && bpp != 24) throw(new Exception("Unsupported bpp"));
-
-		// Defines the header.
-		with (header) {
-			idlength        = 0;
-			x_origin        = 0;
-			y_origin        = 0;
-			width           = w;
-			height          = h;
-			colourmaporigin = 0;
-			imagedescriptor = 0b_00_1_0_1000;
-
-			colourmaptype   = 0;
-			datatypecode    = 2;
-			colourmaplength = 0;
-			colourmapdepth  = 0;
-			bitsperpixel    = bpp;
-		}
-
-		// Writes the header.
-		s.writeExact(&header, header.sizeof);
-		// Then writes the data.
-		s.write(cast(ubyte[])data);
-	}
-
-	static void write32(char[] name, int w, int h, void[] data, int bpp = 32) {
-		scope s = new BufferedFile(name, FileMode.OutNew);
-		write32(s, w, h, data, bpp);
-		s.close();
-	}
-}
 
 // Class to uncompress "CompressedBG" files.
 class CompressedBG {
@@ -225,7 +178,7 @@ class CompressedBG {
 	// Node for the Huffman decompression.
 	struct Node {
 		uint[6] vv;
-		char[] toString() { return format("(%d, %d, %d, %d, %d, %d)", vv[0], vv[1], vv[2], vv[3], vv[4], vv[5]); }
+		String toString() { return format("(%d, %d, %d, %d, %d, %d)", vv[0], vv[1], vv[2], vv[3], vv[4], vv[5]); }
 	}
 
 	static assert(Header.sizeof == 0x30, "Invalid size for CompressedBG.Header");
@@ -238,7 +191,7 @@ class CompressedBG {
 	ubyte[] data1;
 	uint[] data;
 
-	this(char[] name) { this(new BufferedFile(name)); }
+	this(String name) { this(new BufferedFile(name)); }
 	this(Stream s) {
 		s.readExact(&header, header.sizeof);
 		assert(header.magic == "CompressedBG___\0");
@@ -452,7 +405,7 @@ class CompressedBG {
 		}
 	}
 
-	void write_tga(char[] name) { TGA.write32(name, header.w, header.h, data); }
+	void write_tga(String name) { TGA.write32(name, header.w, header.h, data); }
 }
 
 class DSC {
@@ -483,7 +436,7 @@ class DSC {
 			}
 			uint vv[4];
 		}
-		char[] toString() { return format("(childs:%08X, leaf:%08X, L:%08X, R:%08X)", (vv[0]), (vv[1]), (vv[2]), (vv[3])); }
+		String toString() { return format("(childs:%08X, leaf:%08X, L:%08X, R:%08X)", (vv[0]), (vv[1]), (vv[2]), (vv[3])); }
 	}
 
 	// Check the sizes for the class structs.
@@ -493,7 +446,7 @@ class DSC {
 	Header header;
 	ubyte[] data;
 
-	this(char[] name) { this(new BufferedFile(name)); }
+	this(String name) { this(new BufferedFile(name)); }
 
 	this(Stream s) {
 		s.readExact(&header, header.sizeof);
@@ -636,10 +589,10 @@ class DSC {
 	}
 
 	// Allow storing the data in a stream.
-	void save(char[] name) { std.file.write(name, data); }
+	void save(String name) { std.file.write(name, data); }
 }
 
-class ShowHelpException : Exception { this(char[] t = "") { super(t); } static ShowHelpException opCall(char[] t = "") { return new ShowHelpException(t); } }
+class ShowHelpException : Exception { this(String t = "") { super(t); } static ShowHelpException opCall(String t = "") { return new ShowHelpException(t); } }
 
 void find_variable_match(ubyte[] s, ubyte[] match, out int pos, out int len, int min_dist = 0) {
 	pos = len = 0;
@@ -660,7 +613,7 @@ void find_variable_match(ubyte[] s, ubyte[] match, out int pos, out int len, int
 	}
 }
 
-char[] varbits(ulong v, uint bits) {
+String varbits(ulong v, uint bits) {
 	if (bits == 0) return "";
 	return format(format("%%0%db", bits), v);
 }
@@ -731,7 +684,7 @@ class MNode {
 		this.freq  = freq;
 		this.level = level;
 	}
-	char[] toString() { return format("(%08X, %08X, %08X, %010b, [%d, %d])", value, freq, level, encode, childs[0] !is null, childs[1] !is null); }
+	String toString() { return format("(%08X, %08X, %08X, %010b, [%d, %d])", value, freq, level, encode, childs[0] !is null, childs[1] !is null); }
 	static void show(MNode[] nodes) {
 		foreach (node; nodes) writefln(node);
 	}
@@ -844,7 +797,7 @@ ubyte[] compress(ubyte[] data, int level = 0) {
 			}
 		}
 
-		char[] toString() { return bits ? format(format("%%0%db", bits), v) : ""; }
+		String toString() { return bits ? format(format("%%0%db", bits), v) : ""; }
 	}
 	RNode[0x200] rnodes;
 	DSC.Node[0x400] cnodes;
@@ -894,7 +847,7 @@ ubyte[] compress(ubyte[] data, int level = 0) {
 	//writefln(levels);
 }
 
-int main(char[][] args) {
+int main(String[] args) {
 	// Shows the help for the usage of the program.
 	void show_help() {
 		writefln("Ethornell utility %s - soywiz - 2009 - Build %s", _version, __TIMESTAMP__);
@@ -921,7 +874,7 @@ int main(char[][] args) {
 	try {
 		if (args.length < 2) throw(new ShowHelpException);
 
-		char[][] params = [];
+		String[] params = [];
 		if (args.length > 2) params = args[2..args.length];
 
 		struct ImageHeader {
@@ -939,7 +892,7 @@ int main(char[][] args) {
 			);
 		}
 
-		void write_image(ImageHeader ih, char[] out_file, void[] data) {
+		void write_image(ImageHeader ih, String out_file, void[] data) {
 			if (ih.bpp != 32 && ih.bpp != 24) throw(new Exception("Unknown bpp"));
 			//scope f = new BufferedFile(out_file, FileMode.OutNew);
 			TGA.write32(out_file, ih.width, ih.height, data, ih.bpp);
@@ -987,7 +940,7 @@ int main(char[][] args) {
 					}
 					scope s = e.open;
 					printf("%s...", std.string.toStringz(e.name));
-					char[] out_file;
+					String out_file;
 					if (params.length >= 2) {
 						out_file = e.name;
 					} else {
@@ -1180,5 +1133,4 @@ int main(char[][] args) {
 		return -1;
 	}
 }
-
- */
+*/
