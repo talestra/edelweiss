@@ -516,6 +516,7 @@ class DSC {
 		out {
 		}
 		body {{
+			//writefln("ihash: %d", hash);
 			scope uint[0x200] buffer;
 			scope uint[0x400] vector0;
 			int buffer_len = 0;
@@ -524,8 +525,12 @@ class DSC {
 			for (int n = 0; n < buffer.length; n++) {
 				ubyte v = src[n] - cast(ubyte)hash_update(hash);
 				//src[n] = v;
-				if (v) buffer[buffer_len++] = (v << 16) + n;
+				//writefln("N: %d --> %d", n, v);
+				if (v) {
+					buffer[buffer_len++] = (v << 16) + n;
+				}
 			}
+			//writefln("buffer_len: %d", buffer_len);
 			//writefln(src[0x000..0x100]); writefln(src[0x100..0x200]);
 
 			// Sort the used slice of the buffer.
@@ -535,6 +540,7 @@ class DSC {
 			vector0[0] = 0;
 			uint* v13 = vector0.ptr;
 
+			//writefln("buffer_len: %d", buffer_len);
 			for (int buffer_cur = 0; buffer_cur < buffer_len - 1; nn++) {
 				auto vector0_ptr = &vector0[toggle ^= 0x200];
 				auto group_count = 0;
@@ -549,6 +555,7 @@ class DSC {
 				if ( group_count < dec0 ) {
 					dec0 = (dec0 - group_count);
 					for (int dd = 0; dd < dec0; dd++) {
+						//writefln("%d : %d", v13 - vector0.ptr, *v13);
 						nodes[*v13].has_childs = true;
 						for (int m = 0; m < 2; m++) {
 							*vector0_ptr++ = nodes[*v13].childs[m] = value_set;
@@ -563,7 +570,7 @@ class DSC {
 		}
 	}
 
-	static void CompressionDo(ubyte[] src, ubyte[] dst, Node[] nodes) {
+	static void CompressionDo(ubyte[] src, ref ubyte[] dst, Node[] nodes) {
 		//uint v2 = header.v2;
 
 		uint bits = 0, nbits = 0;
@@ -630,6 +637,10 @@ class DSC {
 		} catch (Exception e) {
 			writefln(e);
 		}
+
+		writefln("gen: %d", dst_ptr - dst.ptr);
+		writefln("len: %d", dst_end - dst.ptr);
+		dst.length = dst_ptr - dst.ptr;
 	}
 
 	// Allow storing the data in a stream.
@@ -779,6 +790,10 @@ MNode[] extract_levels(uint[] freqs, ubyte[] levels) {
 	return lnodes;
 }
 
+ubyte[] decompress(ubyte[] data) {
+	return cast(ubyte[])((new DSC(new MemoryStream(cast(byte[])data))).data);
+}
+
 ubyte[] compress(ubyte[] data, int level = 0) {
 	const min_lz_len = 2;
 	const max_lz_len = 0x100 + 2;
@@ -849,7 +864,7 @@ ubyte[] compress(ubyte[] data, int level = 0) {
 	//auto nodes = extract_levels(freq, levels);
 	ubyte[] r;
 	
-	uint hash_val = 0x000505D3 + rand(), init_hash_val = hash_val;
+	uint hash_val = 0x000505D3 + 0, init_hash_val = hash_val;
 	
 	void ins_int(uint v) {
 		r.length = r.length + 4;
@@ -862,8 +877,12 @@ ubyte[] compress(ubyte[] data, int level = 0) {
 	ins_int(blocks.length);
 	ins_int(0);
 	
-	foreach (clevel; levels) r ~= clevel + (hash_update(hash_val) & 0xFF);
-	DSC.CompressionInit(init_hash_val, r[r.length - 0x200..r.length], cnodes);
+	ubyte[] temp;
+	foreach (clevel; levels) temp ~= clevel + (hash_update(hash_val) & 0xFF);
+	r ~= temp;
+
+	//writefln("%s", cast(byte[])temp);
+	DSC.CompressionInit(init_hash_val, temp, cnodes);
 	RNode.iterate(rnodes, cnodes);
 	
 	//writefln("rnodes:"); foreach (k, rnode; rnodes) if (rnode.bits > 0) writefln("  %03X:%s", k, rnode);
@@ -891,6 +910,17 @@ ubyte[] compress(ubyte[] data, int level = 0) {
 	//writefln(levels);
 }
 
+int main(char[][] args) {
+	ubyte[] input = [1, 2, 3, 4, 5, 6, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
+	auto res = cast(byte[])compress(input);
+	std.file.write("compressed", res);
+	writefln("%s", res);
+	writefln("%s", input);
+	writefln("%s", decompress(cast(ubyte[])res));
+	return 0;
+}
+
+/+
 int main(char[][] args) {
 	// Shows the help for the usage of the program.
 	void show_help() {
@@ -1177,3 +1207,4 @@ int main(char[][] args) {
 		return -1;
 	}
 }
++/
