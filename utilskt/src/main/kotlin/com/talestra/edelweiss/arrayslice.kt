@@ -24,6 +24,14 @@ abstract class InternalArraySlice<T>(arrayLength: Int, private val start: Int, p
     override fun toString(): String = "[" + (0 until length).map { getO(it) }.joinToString(", ") + "]"
 }
 
+class UByteArraySlice(private val array: UByteArray, start: Int, end: Int) : InternalArraySlice<Int>(array.size, start, end) {
+    override fun getO(index: Int) = this[index]
+    operator fun get(index: Int) = array[rindex(index)]
+    operator fun set(index: Int, value: Int) = run { array[rindex(index)] = value }
+    operator fun get(start: Int, end: Int) = UByteArraySlice(this.array, rindexb(start), rindexb(end))
+    operator fun get(range: IntRange) = this[range.start, range.endInclusive + 1]
+}
+
 class ByteArraySlice(private val array: ByteArray, start: Int, end: Int) : InternalArraySlice<Byte>(array.size, start, end) {
     override fun getO(index: Int) = this[index]
     operator fun get(index: Int) = array[rindex(index)]
@@ -56,11 +64,13 @@ class FloatArraySlice(private val array: FloatArray, start: Int, end: Int) : Int
     operator fun get(range: IntRange) = this[range.start, range.endInclusive + 1]
 }
 
+operator fun UByteArray.get(start: Int, end: Int) = UByteArraySlice(this, start, end)
 operator fun ByteArray.get(start: Int, end: Int) = ByteArraySlice(this, start, end)
 operator fun ShortArray.get(start: Int, end: Int) = ShortArraySlice(this, start, end)
 operator fun IntArray.get(start: Int, end: Int) = IntArraySlice(this, start, end)
 operator fun FloatArray.get(start: Int, end: Int) = FloatArraySlice(this, start, end)
 
+operator fun UByteArray.get(range: IntRange) = UByteArraySlice(this, range.start, range.endInclusive + 1)
 operator fun ByteArray.get(range: IntRange) = ByteArraySlice(this, range.start, range.endInclusive + 1)
 operator fun ShortArray.get(range: IntRange) = ShortArraySlice(this, range.start, range.endInclusive + 1)
 operator fun IntArray.get(range: IntRange) = IntArraySlice(this, range.start, range.endInclusive + 1)

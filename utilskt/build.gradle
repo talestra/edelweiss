@@ -1,5 +1,7 @@
 buildscript {
     ext.kotlin_version = '1.2.10'
+    ext.korio_version = '0.18.6'
+    ext.korim_version = '0.18.2'
 
     repositories {
         mavenCentral()
@@ -20,6 +22,8 @@ repositories {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    compile "com.soywiz:korio:$korio_version"
+    compile "com.soywiz:korim:$korim_version"
 }
 
 compileKotlin {

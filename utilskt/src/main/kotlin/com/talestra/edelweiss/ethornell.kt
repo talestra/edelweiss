@@ -1,5 +1,8 @@
 package com.talestra.edelweiss
 
+import kotlin.math.max
+import kotlin.math.min
+
 /*
 // This program is released AS IT IS. Without any warranty and responsibility from the author.
 
@@ -735,79 +738,79 @@ MNode[] extract_levels(uint[] freqs, ubyte[] levels) {
 	return lnodes;
 }
 
-ubyte[] compress(ubyte[] data, int level = 0) {
-	const min_lz_len = 2;
-	const max_lz_len = 0x100 + 2;
-	const max_lz_pos = 0x1000;
-	const min_lz_pos = 2;
-	int   max_lz_len2 = max_lz_len;
-	int   max_lz_pos2 = max_lz_len;
 
-	struct Encode {
-		ubyte  bits;
-		ushort value;
-	}
-	Encode encode[0x200];
+fun compress(data: UByteArray, level: Int = 0): ByteArray {
+	val min_lz_len = 2;
+    val max_lz_len = 0x100 + 2;
+    val max_lz_pos = 0x1000;
+    val min_lz_pos = 2;
+	var max_lz_len2 = max_lz_len;
+    var max_lz_pos2 = max_lz_len;
 
-	uint freq[0x200];
-	ubyte levels[0x200];
-	struct Block {
-		short value;
-		short pos;
-	}
-	Block[] blocks;
+	data class Encode(var bits: Int, var value: Int)
+    val encode = Array(0x200) { Encode(0, 0) }
+
+    val freq = IntArray(0x200)
+    val levels = IntArray(0x200)
+    data class Block(var value: Int, var pos: Int)
+    val blocks = arrayListOf<Block>()
 
 	max_lz_len2 = (max_lz_len * level) / 9;
 	max_lz_pos2 = (max_lz_pos * level) / 9;
 
-	for (int n = 0; n < data.length;) {
-		int pos = 0, len = 0;
-		int max_len = min(max_lz_len2, data.length - n);
+    var n = 0
+    while (n < data.size) {
+		var pos = 0
+        var len = 0;
+		var max_len = min(max_lz_len2, data.size - n);
 		if (level > 0) {
 			find_variable_match(data[max(0, n - max_lz_pos2)..n + max_len], data[n..n + max_len], pos, len, min_lz_pos);
 		}
 
 		// Compress.
-		int id = 0;
+		var id = 0;
 		if (len >= min_lz_len) {
-			int encoded_len = len - min_lz_len;
-			blocks ~= Block(id = 0x100 | (encoded_len & 0xFF), pos);
+			val encoded_len = len - min_lz_len;
+            id = 0x100 or (encoded_len and 0xFF)
+			blocks += Block(id, pos);
 			n += len;
 		} else {
-			blocks ~= Block(id = 0x000 | (data[n] & 0xFF), 0);
+            id = 0x000 or (data[n] and 0xFF)
+			blocks += Block(id, 0);
 			n++;
 		}
 		freq[id]++;
+        n++
 	}
-	struct RNode {
-		ulong v;
-		ubyte bits;
 
-		static void iterate(RNode[] rnodes, DSC.Node[] nodes, int cnode = 0, int level = 0, ulong val = 0) {
-			if (nodes[cnode].has_childs) {
-				foreach (k, ccnode; nodes[cnode].childs) iterate(rnodes, nodes, ccnode, level + 1,
-					//val | (k << level)
-					(val << 1) | k
-				);
-			} else {
-				with (rnodes[nodes[cnode].leaf_value & 0x1FF]) {
-					v    = val;
-					bits = level;
-				}
-			}
-		}
-
-		String toString() { return bits ? format(format("%%0%db", bits), v) : ""; }
+	data class RNode(val v: Long, val bits: Int) {
+        companion object {
+            static void iterate(RNode[] rnodes, DSC.Node[] nodes, int cnode = 0, int level = 0, ulong val = 0) {
+                if (nodes[cnode].has_childs) {
+                    foreach (k, ccnode; nodes[cnode].childs) iterate(rnodes, nodes, ccnode, level + 1,
+                    //val | (k << level)
+                    (val << 1) | k
+                    );
+                } else {
+                    with (rnodes[nodes[cnode].leaf_value & 0x1FF]) {
+                        v    = val;
+                        bits = level;
+                    }
+                }
+            }
+        }
+		override fun toString() { return if (bits) format(format("%%0%db", bits), v) else ""; }
 	}
 	RNode[0x200] rnodes;
 	DSC.Node[0x400] cnodes;
 	extract_levels(freq, levels);
 	//auto nodes = extract_levels(freq, levels);
-	ubyte[] r;
+	var r = ByteArraybuff
 
-	uint hash_val = 0x000505D3 + rand(), init_hash_val = hash_val;
+	var hash_val = 0x000505D3 + rand()
+    var init_hash_val = hash_val;
 
-	void ins_int(uint v) {
+	fun ins_int(v: Int) {
 		r.length = r.length + 4;
 		*cast(uint *)(r.ptr + r.length - 4) = v;
 	}
@@ -846,6 +849,7 @@ ubyte[] compress(ubyte[] data, int level = 0) {
 	//writefln(nodes[0]);
 	//writefln(levels);
 }
+
 
 int main(String[] args) {
 	// Shows the help for the usage of the program.
