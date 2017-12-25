@@ -1,6 +1,5 @@
 package com.talestra.edelweiss
 
-import com.soywiz.kmem.ByteArrayBuffer
 import com.soywiz.kmem.readS32_le
 import com.soywiz.kmem.write32_le
 import com.soywiz.korio.lang.ASCII
@@ -8,7 +7,6 @@ import com.soywiz.korio.lang.Charset
 import com.soywiz.korio.lang.UTF8
 import com.soywiz.korio.lang.toString
 import com.soywiz.korio.stream.ByteArrayBuilder
-import com.soywiz.korio.util.join
 import java.io.File
 import java.util.*
 
@@ -16,6 +14,7 @@ const val __TIMESTAMP__ = "UNKNOWN_DATE"
 
 class UByteArray(val array: ByteArray) {
     constructor(count: Int) : this(ByteArray(count))
+
     val size get() = array.size
     operator fun get(i: Int) = array[i].toInt() and 0xFF
     operator fun set(i: Int, v: Int) = run { array[i] = v.toByte() }
@@ -27,7 +26,7 @@ fun ubyteArrayOf(vararg bytes: Int): UByteArray {
     return out
 }
 
-abstract class InternalArraySlice<T>(arrayLength: Int, private val start: Int, private val end: Int) {
+abstract class InternalArraySlice<T>(arrayLength: Int, protected val start: Int, protected val end: Int) {
     init {
         if (start > end) throw IllegalArgumentException("start=$start > end=$end")
         if (start !in 0 until arrayLength) throw IllegalArgumentException("start=$start !in 0 until $arrayLength")
@@ -51,7 +50,7 @@ abstract class InternalArraySlice<T>(arrayLength: Int, private val start: Int, p
     override fun toString(): String = "[" + (0 until length).map { getO(it) }.joinToString(", ") + "]"
 }
 
-class UByteArraySlice(private val array: UByteArray, start: Int, end: Int) : InternalArraySlice<Int>(array.size, start, end) {
+class UByteArraySlice(private val array: UByteArray, start: Int = 0, end: Int = array.size) : InternalArraySlice<Int>(array.size, start, end) {
     override fun getO(index: Int) = this[index]
     operator fun get(index: Int) = array[rindex(index)]
     operator fun set(index: Int, value: Int) = run { array[rindex(index)] = value }
@@ -59,15 +58,16 @@ class UByteArraySlice(private val array: UByteArray, start: Int, end: Int) : Int
     operator fun get(range: IntRange) = this[range.start, range.endInclusive + 1]
 }
 
-class ByteArraySlice(private val array: ByteArray, start: Int, end: Int) : InternalArraySlice<Byte>(array.size, start, end) {
+class ByteArraySlice(private val array: ByteArray, start: Int = 0, end: Int = array.size) : InternalArraySlice<Byte>(array.size, start, end) {
     override fun getO(index: Int) = this[index]
     operator fun get(index: Int) = array[rindex(index)]
     operator fun set(index: Int, value: Byte) = run { array[rindex(index)] = value }
     operator fun get(start: Int, end: Int) = ByteArraySlice(this.array, rindexb(start), rindexb(end))
     operator fun get(range: IntRange) = this[range.start, range.endInclusive + 1]
+    fun copy(): ByteArray = array.copyOfRange(start, end)
 }
 
-class ShortArraySlice(private val array: ShortArray, start: Int, end: Int) : InternalArraySlice<Short>(array.size, start, end) {
+class ShortArraySlice(private val array: ShortArray, start: Int = 0, end: Int = array.size) : InternalArraySlice<Short>(array.size, start, end) {
     override fun getO(index: Int) = this[index]
     operator fun get(index: Int) = array[rindex(index)]
     operator fun set(index: Int, value: Short) = run { array[rindex(index)] = value }
@@ -75,7 +75,7 @@ class ShortArraySlice(private val array: ShortArray, start: Int, end: Int) : Int
     operator fun get(range: IntRange) = this[range.start, range.endInclusive + 1]
 }
 
-class IntArraySlice(private val array: IntArray, start: Int, end: Int) : InternalArraySlice<Int>(array.size, start, end) {
+class IntArraySlice(private val array: IntArray, start: Int = 0, end: Int = array.size) : InternalArraySlice<Int>(array.size, start, end) {
     override fun getO(index: Int) = this[index]
     operator fun get(index: Int) = array[rindex(index)]
     operator fun set(index: Int, value: Int) = run { array[rindex(index)] = value }
@@ -83,7 +83,7 @@ class IntArraySlice(private val array: IntArray, start: Int, end: Int) : Interna
     operator fun get(range: IntRange) = this[range.start, range.endInclusive + 1]
 }
 
-class FloatArraySlice(private val array: FloatArray, start: Int, end: Int) : InternalArraySlice<Float>(array.size, start, end) {
+class FloatArraySlice(private val array: FloatArray, start: Int = 0, end: Int = array.size) : InternalArraySlice<Float>(array.size, start, end) {
     override fun getO(index: Int) = this[index]
     operator fun get(index: Int) = array[rindex(index)]
     operator fun set(index: Int, value: Float) = run { array[rindex(index)] = value }
@@ -205,6 +205,8 @@ class ByteArraybuff {
     fun toByteArray() = bb.toByteArray()
 }
 
+fun ByteArray.open(): Stream = TODO()
+
 fun rand() = Random().nextInt()
 
 fun listdir(path: String) = File(path).list()
@@ -217,3 +219,6 @@ fun std_file_write(name: String, data: ByteArray) = File(name).writeBytes(data)
 fun std_file_read(name: String) = File(name).readBytes()
 
 operator fun <T> List<T>.get(range: IntRange) = this.subList(range.start, range.endInclusive + 1)
+
+fun ByteArray.unsigned() = UByteArray(this)
+fun UByteArray.signed() = this.array

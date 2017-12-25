@@ -1,6 +1,5 @@
 package com.talestra.edelweiss
 
-import com.soywiz.kmem.write32_LEBE
 import com.soywiz.kmem.write32_le
 import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.color.RGB
@@ -8,16 +7,20 @@ import com.soywiz.korim.color.RGBA
 import com.soywiz.korim.format.TGA
 import com.soywiz.korio.error.ignoreErrors
 import com.soywiz.korio.lang.*
+import com.soywiz.korio.stream.ByteArrayBuilder
+import com.soywiz.korio.stream.openSync
+import com.soywiz.korio.stream.readStringz
+import com.soywiz.korio.util.getu
 import com.soywiz.korio.util.toInt
-import com.soywiz.korio.util.toUnsigned
 import java.io.File
 import kotlin.math.max
 import kotlin.math.min
 import kotlin.system.exitProcess
 
-/*
+
 // This program is released AS IT IS. Without any warranty and responsibility from the author.
 
+/*
 // Version of the utility.
 const private val _version = "0.3"
 
@@ -48,12 +51,12 @@ private fun hash_update(hash_val: IntRef): Int {
 }
 
 // Read a variable value from a pointer.
-private fun readVariable(ptr: Ref<BytePtr>): Int {
+private fun readVariable(data: ByteArray, ptr: IntRef): Int {
     var c = 0
     var v = 0
     var shift = 0
     do {
-        c = ptr.v.get().toUnsigned()
+        c = data.getu(ptr.v)
         ptr.v++
         v = v or ((c and 0x7F) shl shift)
         shift += 7
@@ -77,7 +80,7 @@ class ARC : Iterable<ARC.Entry> {
         ubyte[8 - arc.sizeof] __pad // Unused area.
 
         // Obtaining the processed name as a String.
-        val name: String get() = cast(String) _name [0 until strlen(cast(char *) _name . ptr)]
+        val name: String get() = nameBytes.openSync().readStringz()
 
         override fun toString(): String {
             return format("%-16s (%08X-%08X)", nameBytes, start, len); }
@@ -110,9 +113,7 @@ class ARC : Iterable<ARC.Entry> {
         // Read the size.
         var table_length = s.readInt()
 
-        // Read the table itself.
-        table.length = table_length
-        s.readExact(table.ptr, table.length * table[0].sizeof)
+        table += (0 until table_length).map { Entry.read(s) }
 
         // Stre a SliceStream starting with the data part.
         sd = SliceStream(s, s.position)
@@ -138,42 +139,62 @@ class ARC : Iterable<ARC.Entry> {
 }
 
 // A color RGBA struct that defines methods to sum colors per component and to obtain average colors.
-class Color(var v: Int = 0) {
-    var r: Int get() = RGBA.getFastR(v); set(r) = run { v = RGBA.pack(r, g, b, a) }
-    var g: Int get() = RGBA.getFastG(v); set(g) = run { v = RGBA.pack(r, g, b, a) }
-    var b: Int get() = RGBA.getFastB(v); set(b) = run { v = RGBA.pack(r, g, b, a) }
-    var a: Int get() = RGBA.getFastA(v); set(a) = run { v = RGBA.pack(r, g, b, a) }
+// @TODO: Move to Korim
+fun RGBA.add(l: Int, r: Int): Int = RGBA.pack(
+        RGBA.getR(l) + RGBA.getR(r),
+        RGBA.getG(l) + RGBA.getG(r),
+        RGBA.getB(l) + RGBA.getB(r),
+        RGBA.getA(l) + RGBA.getA(r)
+)
 
-    constructor(r: Int, g: Int, b: Int, a: Int) : this(RGBA.pack(r, g, b, a))
-    constructor(r: Byte, g: Byte, b: Byte, a: Byte) : this(RGBA.pack(r.toUnsigned(), g.toUnsigned(), b.toUnsigned(), a.toUnsigned()))
+fun RGBA.sub(l: Int, r: Int): Int = RGBA.pack(
+        RGBA.getR(l) - RGBA.getR(r),
+        RGBA.getG(l) - RGBA.getG(r),
+        RGBA.getB(l) - RGBA.getB(r),
+        RGBA.getA(l) - RGBA.getA(r)
+)
 
-    inner class VV {
-        operator fun get(n: Int) = (v ushr (8 * n)) and 0xFF
-        operator fun set(n: Int, value: Int) = run { v = (v and (0xFF shl (8 * n)).inv()) or (value and 0xFF) shl (8 * n) }
-    }
+fun RGBA.avg(vararg colors: Int): Int = RGBA.pack(
+        colors.sumBy { RGBA.getR(it) } / colors.size,
+        colors.sumBy { RGBA.getG(it) } / colors.size,
+        colors.sumBy { RGBA.getB(it) } / colors.size,
+        colors.sumBy { RGBA.getA(it) } / colors.size
+)
 
-    val vv = VV()
-
-    companion object {
-        fun avg(vararg v: Color): Color {
-            var c = Color()
-            var vv = IntArray(4)
-            for (n in 0 until v.size) {
-                for (m in 0 until 4) vv[m] += v[n].vv[m]
-            }
-            for (m in 0 until 4) c.vv[m] = vv[m] / v.size
-            return c
-        }
-    }
-
-    operator fun plus(a: Color): Color {
-        val c = Color(0)
-        for (n in 0 until 4) c.vv[n] = this.vv[n] + a.vv[n]
-        return c
-    }
-
-    override fun toString(): String = format("#%02X%02X%02X%02X", r, g, b, a)
-}
+//class Color(var v: Int = 0) {
+//    var r: Int get() = RGBA.getFastR(v); set(r) = run { v = RGBA.pack(r, g, b, a) }
+//    var g: Int get() = RGBA.getFastG(v); set(g) = run { v = RGBA.pack(r, g, b, a) }
+//    var b: Int get() = RGBA.getFastB(v); set(b) = run { v = RGBA.pack(r, g, b, a) }
+//    var a: Int get() = RGBA.getFastA(v); set(a) = run { v = RGBA.pack(r, g, b, a) }
+//
+//    constructor(r: Int, g: Int, b: Int, a: Int) : this(RGBA.pack(r, g, b, a))
+//    constructor(r: Byte, g: Byte, b: Byte, a: Byte) : this(RGBA.pack(r.toUnsigned(), g.toUnsigned(), b.toUnsigned(), a.toUnsigned()))
+//
+//    inner class VV {
+//        operator fun get(n: Int) = (v ushr (8 * n)) and 0xFF
+//        operator fun set(n: Int, value: Int) = run { v = (v and (0xFF shl (8 * n)).inv()) or (value and 0xFF) shl (8 * n) }
+//    }
+//
+//    val vv = VV()
+//
+//    companion object {
+//        fun avg(vararg v: Color): Color {
+//            val c = Color()
+//            val vv = IntArray(4)
+//            for (n in 0 until v.size) for (m in 0 until 4) vv[m] += v[n].vv[m]
+//            for (m in 0 until 4) c.vv[m] = vv[m] / v.size
+//            return c
+//        }
+//    }
+//
+//    operator fun plus(a: Color): Color {
+//        val c = Color(0)
+//        for (n in 0 until 4) c.vv[n] = this.vv[n] + a.vv[n]
+//        return c
+//    }
+//
+//    override fun toString(): String = format("#%02X%02X%02X%02X", r, g, b, a)
+//}
 //static assert(Color.sizeof  == 4, "Invalid size for Color");
 
 // Class to uncompress "CompressedBG" files.
@@ -191,13 +212,31 @@ class CompressedBG {
             val hash0: Byte = 0,
             val hash1: Byte = 0,
             val _unknown: Byte = 0
-    )
+    ) {
+        companion object {
+            fun read(s: Stream) = s.run {
+                Header(
+                        magic = readBytes(0x10),
+                        w = readShort(),
+                        h = readShort(),
+                        bpp = readInt(),
+                        _pad0 = readIntArray(2),
+                        data1_len = readInt(),
+                        data0_val = readInt(),
+                        data0_len = readInt(),
+                        hash0 = readByte(),
+                        hash1 = readByte(),
+                        _unknown = readByte()
+                )
+            }
+        }
+    }
 
     // Node for the Huffman decompression.
-    class Node {
-        val vv = IntArray(6)
-        override fun toString(): String {
-            return format("(%d, %d, %d, %d, %d, %d)", vv[0], vv[1], vv[2], vv[3], vv[4], vv[5]); }
+    class Node(val vv: IntArray = IntArray(6)) {
+        constructor(a: Int, b: Int, c: Int, d: Int, e: Int, f: Int) : this(intArrayOf(a, b, c, d, e, f))
+
+        override fun toString(): String = format("(%d, %d, %d, %d, %d, %d)", vv[0], vv[1], vv[2], vv[3], vv[4], vv[5])
     }
 
     //static assert(Header.sizeof == 0x30, "Invalid size for CompressedBG.Header");
@@ -210,25 +249,10 @@ class CompressedBG {
     var data1 = ByteArray(0)
     var data = IntArray(0)
 
-    constructor(name: String) {
-        this(BufferedFile(name)); }
+    constructor(name: String) : this(BufferedFile(name))
 
     constructor(s: Stream) {
-        header = s.run {
-            Header(
-                    magic = readBytes(0x10),
-                    w = readShort(),
-                    h = readShort(),
-                    bpp = readInt(),
-                    _pad0 = readIntArray(2),
-                    data1_len = readInt(),
-                    data0_val = readInt(),
-                    data0_len = readInt(),
-                    hash0 = readByte(),
-                    hash1 = readByte(),
-                    _unknown = readByte()
-            )
-        }
+        header = Header.read(s)
         assert(header.magic.toString(ASCII) == "CompressedBG___\u0000")
         data0 = s.readString(header.data0_len)
         val datahf = s.readString(s.size - s.position)
@@ -240,11 +264,11 @@ class CompressedBG {
         process_chunk0(data0, table, 0x100)
         var method2_res = method2(table, table2)
         data = IntArray(header.w * header.h)
-        val data3 = UByteArray(header.w * header.h * 4)
+
 
         data1.size = header.data1_len
         uncompress_huffman(datahf, data1, table2, method2_res)
-        uncompress_rle(data1, data3)
+        val data3 = uncompress_rle(data1, ByteArray(header.w * header.h * 4))
 
         unpack_real(data, data3)
     }
@@ -274,45 +298,28 @@ class CompressedBG {
             return (dl == hash_dl) && (bl == hash_bl)
         }
 
-        fun process_chunk0(data0: UByteArray, table: IntArray, count: Int = 0x100) {
-            val ptr = Ref(data0.ptr)
-            for (n in 0 until count) table[n] = readVariable(ptr)
+        fun process_chunk0(data0: ByteArray, table: IntArray, count: Int = 0x100) {
+            val ptr = IntRef(0)
+            for (n in 0 until count) table[n] = readVariable(data0, ptr)
         }
 
         fun method2(table1: IntArray, table2: Array<Node>): Int {
             var sum_of_values = 0
-            var node: Node = Node()
 
             run {
                 // Verified.
                 for (n in 0 until 0x100) {
-                    table2[n].apply {
-                        vv[0] = (table1[n] > 0).toInt()
-                        vv[1] = table1[n]
-                        vv[2] = 0
-                        vv[3] = -1
-                        vv[4] = n
-                        vv[5] = n
-                    }
+                    table2[n] = Node((table1[n] > 0).toInt(), table1[n], 0, -1, n, n)
                     sum_of_values += table1[n]
                     //writefln(table2[n]);
                 }
                 //writefln(sum_of_values);
                 if (sum_of_values == 0) return -1
-                assert(sum_of_values != 0)
             }
 
             run {
                 // Verified.
-                node.apply {
-                    vv[0] = 0
-                    vv[1] = 0
-                    vv[2] = 1
-                    vv[3] = -1
-                    vv[4] = -1
-                    vv[5] = -1
-                }
-                for (n in 0 until 0x100 - 1) table2[0x100 + n] = node
+                for (n in 0 until 0x100 - 1) table2[0x100 + n] = Node(0, 0, 1, -1, -1, -1)
 
                 //std_file_write("table_out", cast(ubyte[])cast(void[])*(&table2[0 until table2.length]));
             }
@@ -345,14 +352,14 @@ class CompressedBG {
 
                 //assert(0 == 1);
 
-                with(node) {
-                    vv[0] = 1
-                    vv[1] = (if (vinfo[1] != 0xFFFFFFFFL.toInt()) table2[vinfo[1]].vv[1] else 0) + table2[vinfo[0]].vv[1]
-                    vv[2] = 1
-                    vv[3] = -1
-                    vv[4] = vinfo[0]
-                    vv[5] = vinfo[1]
-                }
+                val node = Node(
+                        1,
+                        (if (vinfo[1] != 0xFFFFFFFFL.toInt()) table2[vinfo[1]].vv[1] else 0) + table2[vinfo[0]].vv[1],
+                        1,
+                        -1,
+                        vinfo[0],
+                        vinfo[1]
+                )
 
                 //writefln("node(%03x): ", cnodes, node);
                 table2[cnodes++] = node
@@ -389,27 +396,24 @@ class CompressedBG {
             }
         }
 
-        fun uncompress_rle(src: UByteArray, dst: Ref<UByteArray>) {
-            var psrc = src.ptr
-            var pdst = dst.ptr
-            var pslide = src.ptr
+        fun uncompress_rle(src: ByteArray, dst: ByteArray): ByteArray {
+            val s = IntRef(0)
+            var d = 0
             var type = false
 
-            while (psrc < src.ptr + src.length) {
-                val len = readVariable(psrc)
+            while (s.v < src.size) {
+                val len = readVariable(src, s)
                 // RLE (for byte 00).
                 if (type) {
-                    pdst[0 until len] = 0
+                    for (n in 0 until len) dst[d++] = 0
                 }
                 // Copy from stream.
                 else {
-                    pdst[0 until len] = psrc[0 until len]
-                    psrc += len
+                    for (n in 0 until len) dst[d++] = src[s.v++]
                 }
-                pdst += len
                 type = !type
             }
-            dst.length = pdst - dst.ptr
+            return dst.copyOf(d)
         }
     }
 
@@ -421,27 +425,28 @@ class CompressedBG {
         }
     }
 
-    fun unpack_real_24_32(output: IntArray, data0: UByteArray, bpp: Int = 32) {
-        val out_ptr = output.ptr
-        val c = Color(0, 0, 0, if (bpp == 32) 0 else 0xFF)
-        var src = data0.ptr
-        var dst = output.ptr.int
+    fun unpack_real_24_32(dst: IntArray, src: UByteArray, bpp: Int = 32) {
+        var c = if (bpp == 32) RGBA.pack(0, 0, 0, 0xFF) else RGBA.pack(0, 0, 0, 0)
+        var s = 0
+        var d = 0
 
-        fun extract_32(): Color = Color(src[0], src[1], src[2], src[3]).apply { src += 4 }
-        fun extract_24(): Color = Color(src[0], src[1], src[2], 0).apply { src += 3 }
+        fun extract_32(): Int = RGBA.pack(src[s + 0], src[s + 1], src[s + 2], src[s + 3]).apply { s += 4 }
+        fun extract_24(): Int = RGBA.pack(src[s + 0], src[s + 1], src[s + 2], 0).apply { s += 3 }
 
         val extract = if (bpp == 32) ::extract_32 else ::extract_24
-        fun extract_up(): Color = Color((dst - header.w).get())
+        fun extract_up(): Int = dst[d - header.w]
 
         for (x in 0 until header.w) {
             val vv = extract()
-            c += vv
-            (dst++).set(vv.v)
+            c = RGBA.add(c, vv)
+            dst[d++] = vv
         }
         for (y in 1 until header.h) {
-            *dst++ = (c = (extract_up + extract())).v
+            c = RGBA.add(extract_up(), extract())
+            dst[d++] = c
             for (x in 1 until header.w) {
-                *dst++ = (c = (Color.avg([c, extract_up]) + extract())).v
+                c = RGBA.add(RGBA.avg(c, extract_up()), extract())
+                dst[d++] = c
             }
         }
     }
@@ -462,6 +467,18 @@ class DSC {
         init {
             assert(magic.toString(UTF8) == "DSC FORMAT 1.00\u0000") { format("Not a DSC file") }
             assert(usize <= 0x3_000_000) { format("Too big uncompressed size '%d'", usize) }
+        }
+
+        companion object {
+            fun read(s: Stream) = s.run {
+                Header(
+                        magic = readBytes(0x10),
+                        hash = readInt(),
+                        usize = readInt(),
+                        v2 = readInt(),
+                        _pad = readInt()
+                )
+            }
         }
     }
 
@@ -486,15 +503,7 @@ class DSC {
     constructor(name: String) : this(BufferedFile(name))
 
     constructor(s: Stream) {
-        header = s.run {
-            Header(
-                    magic = readBytes(0x10),
-                    hash = readInt(),
-                    usize = readInt(),
-                    v2 = readInt(),
-                    _pad = readInt()
-            )
-        }
+        header = Header.read(s)
 
         val src = UByteArray(s.size - s.position)
         s.read(src)
@@ -542,7 +551,7 @@ class DSC {
             var buffer_cur = 0
             while (buffer_cur < buffer_len - 1) {
                 toggle = toggle xor 0x200
-                val vector0_ptr = &vector0[]
+                val vector0_ptr = vector0.ptr
                 val group_count = 0
                 val vector0_ptr_init = vector0_ptr
 
@@ -579,15 +588,13 @@ class DSC {
 
             var bits = 0
             var nbits = 0
-            val src_ptr = src.ptr
-            var dst_ptr = dst.ptr
-            val src_end = src.ptr + src.length
-            var dst_end = dst.ptr + dst.length
+            var s = 0
+            var d = 0
 
             //writefln("--------------------");
 
             // Check the input and output pointers.
-            while ((dst_ptr < dst_end) && (src_ptr < src_end)) {
+            while ((d < dst.length) && (s < src.length)) {
                 var nentry = 0
 
                 // Look over the tree.
@@ -595,7 +602,7 @@ class DSC {
                     // No bits left. Let's extract 8 bits more.
                     if (nbits == 0) {
                         nbits = 8
-                        bits = (src_ptr++).get()
+                        bits = src[s++]
                     }
                     //writef("%b", (bits >> 7) & 1);
                     nentry = nodes[nentry].childs[(bits ushr 7) and 1]
@@ -605,7 +612,7 @@ class DSC {
                 //writefln();
 
                 // We are in a leaf.
-                var info = LOWORD(nodes[nentry].leaf_value)
+                val info = LOWORD(nodes[nentry].leaf_value)
 
                 // Compressed chunk.
                 if (HIBYTE(info) == 1) {
@@ -615,34 +622,32 @@ class DSC {
                         var bytes = ((11 - nbits) ushr 3) + 1
                         nbits2 = nbits
                         while (bytes-- != 0) {
-                            cvalue = ((src_ptr++) + (cvalue shl 8)).get().toUnsigned()
+                            cvalue = src[(s++) + (cvalue shl 8)]
                             nbits2 += 8
                         }
                     }
                     nbits = nbits2 - 12
                     bits = LOBYTE(cvalue shl (8 - (nbits2 - 12)))
 
-                    var offset = (cvalue ushr (nbits2 - 12)) + 2
-                    val ring_ptr = dst_ptr - offset
+                    val offset = (cvalue ushr (nbits2 - 12)) + 2
+                    var ring_ptr = d - offset
                     var count = LOBYTE(info) + 2
 
                     //writefln("LZ(%d, %d)", -offset, count);
 
-                    assert((ring_ptr >= dst.ptr) && (ring_ptr + count < dst_end)) { "Invalid reference pointer" }
+                    assert((ring_ptr >= 0) && (ring_ptr + count < dst.length)) { "Invalid reference pointer" }
                     //assert((dst_ptr + count > dst.ptr + dst.length), "Buffer overrun");
 
                     // Copy byte to byte to avoid overlapping issues.
-                    while (count-- != 0) {
-                        (dst_ptr++).set((ring_ptr++).get())
-                    }
+                    while (count-- != 0) dst[d++] = dst[ring_ptr++]
                 }
                 // Uncompressed byte.
                 else {
-                    (dst_ptr++).set(LOBYTE(info).toByte())
+                    dst[d++] = LOBYTE(info)
                 }
             }
             try {
-                assert(src_ptr == src_end) { "Not readed all the bytes from the input buffer" }
+                assert(s == src.length) { "Didn't read all the bytes from the input buffer" }
             } catch (e: Throwable) {
                 writefln(e.toString())
             }
@@ -651,7 +656,7 @@ class DSC {
 
     // Allow storing the data in a stream.
     fun save(name: String) {
-        File(name).write(data)
+        File(name).writeBytes(data)
     }
 }
 
@@ -684,7 +689,7 @@ fun varbits(v: Long, bits: Int): String {
 }
 
 class BitWritter {
-    private val data = UByteArray(0)
+    private val data = ByteArrayBuilder()
     var cval: Long = 0L
     var av_bits: Int = 8
 
@@ -706,7 +711,7 @@ class BitWritter {
     //    } else {
     //        --av_bits
     //    }
-    //    if (av_bits == 0) finish()
+    //    if (av_bits == 0) flush()
     //}
     //
     //fun write (ins_val: Long, ins_bits: Int) {
@@ -733,24 +738,28 @@ class BitWritter {
             ins_val = ins_val shl bits
             ins_bits -= bits
             av_bits -= bits
-            if (av_bits <= 0) finish()
+            if (av_bits <= 0) flush()
         }
     }
 
-    fun finish(): UByteArray {
+    fun flush() {
         if (av_bits == 8) return
         //writefln("  byte: %08b", cval);
-        data += (cval)
+        data.append(cval.toByte())
         av_bits = 8
         cval = 0
         //exit(0);
-        return data
+    }
+
+    fun finish(): ByteArray {
+        flush()
+        return data.toByteArray()
     }
 }
 
 class MNode(
-        var value: Int,
-        var freq: Int,
+        var value: Int = 0,
+        var freq: Int = 0,
         var level: Int = 0
 ) : Comparable<MNode> {
     //union
@@ -760,7 +769,7 @@ class MNode(
     //}
     var encode: Int = 0
     var parent: MNode? = null
-    var childs: List<MNode?> = listOf(null, null)
+    var childs: Array<MNode?> = arrayOf(null, null)
 
     override fun compareTo(that: MNode): Int {
         //return this.freq_value - that.freq_value;
@@ -774,11 +783,11 @@ class MNode(
 
     companion object {
         fun show(nodes: List<MNode>) {
-            for (node in nodes) writefln(node)
+            for (node in nodes) println(node)
         }
 
         fun findWithoutParent(nodes: List<MNode>, start: Int = 0): Int {
-            for ((pos, node) in nodes[start until nodes.length].withIndex()) if (node.parent is null) return start + pos
+            for ((pos, node) in nodes[start until nodes.length].withIndex()) if (node.parent == null) return start + pos
             return -1
         }
     }
@@ -786,7 +795,7 @@ class MNode(
     fun propagateLevels(level: Int = 0, encode: Int = 0) {
         this.level = level
         this.encode = encode
-        for ((k, node) in childs.withIndex()) if (node !is null) node.propagateLevels(level + 1, (encode shl 1) or k)
+        for ((k, node) in childs.withIndex()) node?.propagateLevels(level + 1, (encode shl 1) or k)
         //foreach (k, node; childs) if (node !is null) node.propagateLevels(level + 1, encode | (k << level));
     }
 }
@@ -794,11 +803,11 @@ class MNode(
 fun extract_levels(freqs: IntArray, levels: IntArray): List<MNode> {
     assert(freqs.size == levels.size)
 
-    val cnodes = arrayListOf<MNode>()
+    var cnodes = arrayListOf<MNode>()
 
-    for ((value, freq) in freqs.withIndex()) if (freq > 0) cnodes += MNode(value, freq)
+    for ((value, freq) in freqs.withIndex()) if (freq > 0) cnodes.add(MNode(value, freq))
     while (true) {
-        cnodes = cnodes.sort
+        cnodes = ArrayList(cnodes.sorted())
         val node1 = MNode.findWithoutParent(cnodes, 0)
         if (node1 == -1) break // No nodes left without parent.
         val node2 = MNode.findWithoutParent(cnodes, node1 + 1)
@@ -810,7 +819,7 @@ fun extract_levels(freqs: IntArray, levels: IntArray): List<MNode> {
         node_p.childs[1] = node_l
         node_r.parent = node_p
         node_l.parent = node_p
-        cnodes += node_p
+        cnodes.add(node_p)
     }
     cnodes[cnodes.length - 1].propagateLevels()
     //MNode.show(cnodes);
@@ -829,12 +838,11 @@ fun extract_levels(freqs: IntArray, levels: IntArray): List<MNode> {
 
 data class RNode(var v: Long = 0L, var bits: Int = 0) {
     companion object {
-        fun iterate(rnodes: List<RNode>, nodes: List<DSC.Node>, cnode: Int = 0, level: Int = 0, vv: Long = 0) {
+        fun iterate(rnodes: Array<RNode>, nodes: Array<DSC.Node>, cnode: Int = 0, level: Int = 0, vv: Long = 0) {
             if (nodes[cnode].has_childs) {
-                for ((k, ccnode) in nodes[cnode].childs) iterate(rnodes, nodes, ccnode, level + 1,
-                        //val | (k << level)
-                        (vv shl 1) or k
-                )
+                for ((k, ccnode) in nodes[cnode].childs.withIndex()) {
+                    iterate(rnodes, nodes, ccnode, level + 1, (vv shl 1) or k.toLong())
+                }
             } else {
                 rnodes[nodes[cnode].leaf_value and 0x1FF].apply {
                     this.v = vv
@@ -902,7 +910,7 @@ fun compress(data: UByteArray, level: Int = 0): ByteArray {
     val cnodes = Array(0x400) { DSC.Node() }
     extract_levels(freq, levels)
     //val nodes = extract_levels(freq, levels);
-    var r = ByteArraybuff()
+    var r = ByteArrayBuilder()
 
     var hash_val = 0x000505D3 + rand()
     var init_hash_val = hash_val
@@ -945,6 +953,26 @@ fun compress(data: UByteArray, level: Int = 0): ByteArray {
     //writefln(levels);
 }
 
+class ImageHeader(
+        var width: Short = 0,
+        var height: Short = 0,
+        var bpp: Int = 0,
+        var zpad0: Int = 0,
+        var zpad1: Int = 0
+) {
+
+    companion object {
+        fun read(s: Stream): ImageHeader = s.run {
+            ImageHeader(
+                    width = readShort(),
+                    height = readShort(),
+                    bpp = readInt(),
+                    zpad0 = readInt(),
+                    zpad1 = readInt()
+            )
+        }
+    }
+}
 
 fun main(args: Array<String>) {
     val args = arrayOf("ethornell") + args
@@ -975,15 +1003,8 @@ fun main(args: Array<String>) {
         if (args.size < 2) throw ShowHelpException()
 
         var params = arrayListOf<String>()
-        if (args.size > 2) params = ArrayList(args[2 until args.size])
+        if (args.size > 2) params = ArrayList(args.copyOfRange(2, args.size).toList())
 
-        class ImageHeader {
-            var width: Short = 0
-            var height: Short = 0
-            var bpp: Int = 0
-            var zpad0: Int = 0
-            var zpad1: Int = 0
-        }
 
         fun check_image(i: ImageHeader): Boolean =
                 ((i.bpp % 8) == 0) && (i.bpp > 0) && (i.bpp <= 32) &&
@@ -1017,7 +1038,7 @@ fun main(args: Array<String>) {
                 writefln("ARC: %s", arc_name)
                 writefln("----------------------------------------------------------------")
                 // Iterate over the ARC file and write the files.
-                for (e in ARC(arc_name)) printf("%s\n", toStringz(e.nameBytes))
+                for (e in ARC(arc_name)) println(e.name)
             }
         // Extact + uncompress.
             "-x" -> {
@@ -1066,12 +1087,12 @@ fun main(args: Array<String>) {
                                     val dsc = DSC(s)
                                     data = dsc.data
                                 }
-                                var ih: ImageHeader = * cast (ImageHeader *) data
+                                val ih: ImageHeader = ImageHeader.read(data.open())
                                 if (check_image(ih)) {
                                     writef("Image until .BPP(%d) until .", ih.bpp)
                                     out_file += ".tga"
                                     if (std_file_exists(out_file)) throw(Exception("Exists"))
-                                    write_image(ih, out_file, data[0x10 until data.size])
+                                    write_image(ih, out_file, data.copyOfRange(0x10, data.size))
                                 } else {
                                     std_file_write(out_file, data)
                                 }
@@ -1090,14 +1111,13 @@ fun main(args: Array<String>) {
                                 val width: Int
                                 val height: Int
                                 val bpp: Int
-                                val ih: ImageHeader
-                                ss.readExact(& ih, ih.sizeof)
+                                val ih = ImageHeader.read(ss)
                                 if (check_image(ih)) {
                                     writef("Image until .BPP(%d) until .", ih.bpp)
                                     out_file += ".tga"
                                     if (std_file_exists(out_file)) throw(Exception("Exists"))
                                     s.position = 0x10
-                                    write_image(ih, out_file, s.readString((s.size - s.position).toInt()))
+                                    write_image(ih, out_file, s.readBytes((s.size - s.position).toInt()))
                                 } else {
                                     writef("Uncompressed until .")
                                     if (std_file_exists(out_file)) throw(Exception("Exists"))
@@ -1167,7 +1187,7 @@ fun main(args: Array<String>) {
                 val out_file = file_name + ".u"
 
                 // Check if the file actually exists.
-                assert(std_file_exists(file_name)) { format("File '%s' doesn't exists", file_name)) }
+                assert(std_file_exists(file_name)) { format("File '%s' doesn't exists", file_name) }
 
                 run {
                     val s = BufferedFile(file_name, FileMode.In)
@@ -1195,7 +1215,7 @@ fun main(args: Array<String>) {
                 // Check if the file actually exists.
                 assert(File(file_name).exists()) { format("File '%s' doesn't exists", file_name) }
 
-                File(out_file).writeBytes(compress(std_file_read(file_name), level))
+                File(out_file).writeBytes(compress(std_file_read(file_name).unsigned(), level))
             }
         // Test the compression.
             "-t" -> {
@@ -1208,8 +1228,8 @@ fun main(args: Array<String>) {
                 assert(File(file_name).exists()) { format("File '%s' doesn't exists", file_name) }
 
                 val uncompressed0 = std_file_read(file_name)
-                val compressed = compress(uncompressed0, level)
-                val dsc = DSC(MemoryStream(compressed))
+                val compressed = compress(uncompressed0.unsigned(), level)
+                val dsc = DSC(compressed.open())
                 val uncompressed1 = dsc.data
 
                 assert(uncompressed0.contentEquals(uncompressed1)) { "Failed" }
@@ -1228,7 +1248,7 @@ fun main(args: Array<String>) {
     // Catch a exception to show the help/usage.
     catch (e: ShowHelpException) {
         show_help()
-        if (e.toString().isNotEmpty()) writefln(e)
+        if (e.toString().isNotEmpty()) println(e.toString())
         exitProcess(0)
     }
     // Catch a generic unhandled exception.
@@ -1238,3 +1258,4 @@ fun main(args: Array<String>) {
     }
 }
 */
+
