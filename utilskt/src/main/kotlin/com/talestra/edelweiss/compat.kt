@@ -2,11 +2,6 @@ package com.talestra.edelweiss
 
 import com.soywiz.kmem.readS32_le
 import com.soywiz.kmem.write32_le
-import com.soywiz.korio.lang.ASCII
-import com.soywiz.korio.lang.Charset
-import com.soywiz.korio.lang.UTF8
-import com.soywiz.korio.lang.toString
-import com.soywiz.korio.stream.ByteArrayBuilder
 import java.io.File
 import java.util.*
 
@@ -154,6 +149,7 @@ val <V> List<V>.length: Int get() = this.size
 val <K, V> Map<K, V>.length: Int get() = this.size
 
 // @TODO:
+/*
 abstract class Stream {
     var position: Long = 0L
     var length: Long = 0L
@@ -184,28 +180,22 @@ enum class FileMode { In, OutNew }
 class SliceStream(val s: Stream, val offset: Long, val end: Long = s.length) : Stream()
 class MemoryStream : Stream()
 class BufferedFile(val name: String, val mode: FileMode = FileMode.In) : Stream()
+*/
 
 operator fun String.get(range: IntRange) = this.substring(range.start, range.endInclusive + 1)
 
+@Deprecated("", ReplaceWith("this.trim()"))
 fun String.strip() = this.trim()
+
+@Deprecated("", ReplaceWith("this.trimStart()"))
 fun String.stripl() = this.trimStart()
+
+@Deprecated("", ReplaceWith("this.trimEnd()"))
 fun String.stripr() = this.trimEnd()
-fun toStringz(str: String) = str + "\u0000"
-fun BytePtr.toStringz(charset: Charset = UTF8): String = TODO()
 
 class ShowHelpException(t: String = "") : Exception(t)
 
 data class IntRef(var v: Int)
-data class Ref<T>(var v: T)
-
-class ByteArraybuff {
-    val bb = ByteArrayBuilder()
-    operator fun plusAssign(data: ByteArray) = run { bb.append(data) }
-    operator fun plusAssign(data: UByteArray) = run { bb.append(data.array) }
-    fun toByteArray() = bb.toByteArray()
-}
-
-fun ByteArray.open(): Stream = TODO()
 
 fun rand() = Random().nextInt()
 
@@ -228,12 +218,12 @@ fun between(a: Int, m: Int, M: Int): Boolean = (a >= m) && (a <= M)
 fun addslahses(t: String): String {
     var r = ""
     for (c in t) {
-        when (c) {
-            '\n' -> r += "\\n"
-            '\\' -> r += "\\"
-            '\r' -> r += "\\r"
-            '\t' -> r += "\\t"
-            else -> r += c
+        r += when (c) {
+            '\n' -> "\\n"
+            '\\' -> "\\"
+            '\r' -> "\\r"
+            '\t' -> "\\t"
+            else -> c
         }
     }
     return r
@@ -247,12 +237,12 @@ fun stripslashes(t: String): String {
         when (c) {
             '\\' -> {
                 c = t[++n]
-                when (c) {
-                    'n' -> r += "\n"
-                    'r' -> r += "\r"
-                    't' -> r += "\t"
-                    '\\' -> r += "\\"
-                    else -> r += c
+                r += when (c) {
+                    'n' -> "\n"
+                    'r' -> "\r"
+                    't' -> "\t"
+                    '\\' -> "\\"
+                    else -> c
                 }
             }
             else -> r += c
@@ -263,14 +253,14 @@ fun stripslashes(t: String): String {
 }
 
 fun substr(s: String, start: Int, len: Int = 0x7F_FF_FF_FF): String {
-    var start = start
+    var st = start
     var end = s.length
-    if (start < 0) start = s.length - (-start) % s.length
-    if (start > s.length) start = s.length
+    if (st < 0) st = s.length - (-st) % s.length
+    if (st > s.length) st = s.length
     if (len < 0) end -= (-len) % s.length
-    if (len >= 0) end = start + len
+    if (len >= 0) end = st + len
     if (end > s.length) end = s.length
-    return s.substring(start, end)
+    return s.substring(st, end)
 }
 
 fun explode(delim: String, str: String, length: Int = 0x7FFFFFFF, fill: Boolean = false): List<String> {
