@@ -1,15 +1,30 @@
 package com.talestra.edelweiss
 
+import com.soywiz.kmem.ByteArrayBuffer
 import com.soywiz.kmem.readS32_le
 import com.soywiz.kmem.write32_le
+import com.soywiz.korio.lang.ASCII
 import com.soywiz.korio.lang.Charset
 import com.soywiz.korio.lang.UTF8
 import com.soywiz.korio.lang.toString
+import com.soywiz.korio.stream.ByteArrayBuilder
+import com.soywiz.korio.util.join
+import java.io.File
+import java.util.*
+
+const val __TIMESTAMP__ = "UNKNOWN_DATE"
 
 class UByteArray(val array: ByteArray) {
+    constructor(count: Int) : this(ByteArray(count))
     val size get() = array.size
     operator fun get(i: Int) = array[i].toInt() and 0xFF
     operator fun set(i: Int, v: Int) = run { array[i] = v.toByte() }
+}
+
+fun ubyteArrayOf(vararg bytes: Int): UByteArray {
+    val out = UByteArray(bytes.size)
+    for (n in bytes.indices) out[n] = bytes[n]
+    return out
 }
 
 abstract class InternalArraySlice<T>(arrayLength: Int, private val start: Int, private val end: Int) {
@@ -102,6 +117,7 @@ abstract class BasePtr<R : BasePtr<R, T>, T>(val esize: Int, var pos: Int) {
     operator fun minus(that: BasePtr<R, T>): Int = (this.pos - that.pos) / esize
 
     fun get(): T = this[0]
+    fun set(value: T): Unit = run { this[0] = value }
     abstract operator fun get(offset: Int): T
     abstract operator fun set(offset: Int, value: T): Unit
     operator fun compareTo(that: BasePtr<*, *>): Int = this.pos.compareTo(that.pos)
@@ -119,6 +135,7 @@ class IntPtr(val array: ByteArray, pos: Int = 0) : BasePtr<IntPtr, Int>(4, pos) 
     override fun gen(pos: Int) = IntPtr(array, pos)
 }
 
+val UByteArray.ptr get() = BytePtr(this.array, 0)
 val ByteArray.ptr get() = BytePtr(this, 0)
 val BytePtr.int get() = IntPtr(this.array, 0)
 
@@ -126,6 +143,7 @@ val BytePtr.int get() = IntPtr(this.array, 0)
 fun format(fmt: String, vararg args: Any?) = fmt.format(*args)
 fun printf(fmt: String, vararg args: Any?) = print(fmt.format(*args))
 
+val UByteArray.length: Int get() = size
 var <T> ArrayList<T>.length: Int
     get() = this.size
     set(nl: Int) {
@@ -137,9 +155,10 @@ val <K, V> Map<K, V>.length: Int get() = this.size
 
 // @TODO:
 abstract class Stream {
-    var position: Int = 0
-    var length: Int = 0
-    var size: Int get() = length; set(value) = run { length = value }
+    var position: Long = 0L
+    var length: Long = 0L
+    var size: Long get() = length; set(value) = run { length = value }
+    fun readBytes(len: Int): ByteArray = TODO()
     fun readString(len: Int): ByteArray = TODO()
     fun readString(len: Int, charset: Charset): String = readString(len).toString(charset)
     fun writefln(fmt: String, vararg args: Any?): Unit = TODO()
@@ -149,9 +168,20 @@ abstract class Stream {
     fun readLine(charset: Charset): String = TODO()
     fun write(data: UByteArray): Unit = TODO()
     fun write(data: ByteArray): Unit = TODO()
+    fun writeString(s: ByteArray): Unit = TODO()
+    fun writeString(s: String, charset: Charset = ASCII): Unit = TODO()
+    fun writeByte(v: Byte): Unit = TODO()
+    fun writeByte(v: Int): Unit = TODO()
+    fun writeInt(v: Int): Unit = TODO()
+    fun readByte(): Byte = TODO()
+    fun readShort(): Short = TODO()
+    fun readInt(): Int = TODO()
+    fun readIntArray(count: Int): IntArray = IntArray(count) { readInt() }
+    fun copyFrom(other: Stream): Unit = TODO()
 }
 
 enum class FileMode { In, OutNew }
+class SliceStream(val s: Stream, val offset: Long, val end: Long = s.length) : Stream()
 class MemoryStream : Stream()
 class BufferedFile(val name: String, val mode: FileMode = FileMode.In) : Stream()
 
@@ -162,3 +192,28 @@ fun String.stripl() = this.trimStart()
 fun String.stripr() = this.trimEnd()
 fun toStringz(str: String) = str + "\u0000"
 fun BytePtr.toStringz(charset: Charset = UTF8): String = TODO()
+
+class ShowHelpException(t: String = "") : Exception(t)
+
+data class IntRef(var v: Int)
+data class Ref<T>(var v: T)
+
+class ByteArraybuff {
+    val bb = ByteArrayBuilder()
+    operator fun plusAssign(data: ByteArray) = run { bb.append(data) }
+    operator fun plusAssign(data: UByteArray) = run { bb.append(data.array) }
+    fun toByteArray() = bb.toByteArray()
+}
+
+fun rand() = Random().nextInt()
+
+fun listdir(path: String) = File(path).list()
+fun writefln() = println("")
+fun writefln(fmt: String, vararg args: Any?) = println(fmt.format(*args))
+fun writef(fmt: String, vararg args: Any?) = print(fmt.format(*args))
+
+fun std_file_exists(name: String) = File(name).exists()
+fun std_file_write(name: String, data: ByteArray) = File(name).writeBytes(data)
+fun std_file_read(name: String) = File(name).readBytes()
+
+operator fun <T> List<T>.get(range: IntRange) = this.subList(range.start, range.endInclusive + 1)

@@ -15,7 +15,6 @@ import kotlin.system.exitProcess
 
 // Version of the utility.
 const private val _version = "0.3"
-const private val __TIMESTAMP__ = "UNKNOWN_DATE"
 
 /*
 OPCODES:
@@ -691,9 +690,6 @@ class Segments {
     */
 }
 
-private fun listdir(path: String) = File(path).list()
-private fun writefln(fmt: String, vararg args: Any?) = println(fmt.format(*args))
-
 private fun patch(game_folder: String, acme_folder: String) {
     val script_folder_in = "$game_folder/data01000.arc.d"
     val script_folder_out = "$game_folder/Script/CVTD"
@@ -749,9 +745,6 @@ fun extract_all2(game_folder: String, acme_folder: String) {
         println("No files detected.")
     }
 }
-
-
-class ShowHelpException(t: String = "") : Exception(t)
 
 fun main(args2: Array<String>) {
     val args = arrayOf("script.exe") + args2
