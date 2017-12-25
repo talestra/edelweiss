@@ -93,7 +93,7 @@ class ARC : Iterable<ARC.Entry> {
         // Obtaining the processed name as a String.
         val name: String get() = nameBytes.openSync().readStringz()
 
-        override fun toString(): String = "%-16s (%08X-%08X)".format(nameBytes, start, len)
+        override fun toString(): String = "%-16s (%08X-%08X)".format(name, start, len)
 
         // Open a read-only stream for the file.
         fun open(): SyncStream = arc.open(this)
@@ -660,7 +660,7 @@ class DSC {
             try {
                 assert(s == src.size) { "Didn't read all the bytes from the input buffer" }
             } catch (e: Throwable) {
-                writefln(e.toString())
+                e.printStackTrace()
             }
         }
     }
@@ -1079,42 +1079,46 @@ fun main_s(args: Array<String>) {
                         if (!found) continue
                     }
                     val s = e.open()
-                    writef("%s until .", e.name)
+                    writef("%s...", e.name)
                     var out_file: String = ""
                     if (params.length >= 2) {
                         out_file = e.name
                     } else {
-                        out_file = out_path + "/" + e.nameBytes
+                        out_file = "$out_path/${e.name}"
                     }
 
                     try {
+                        var result = "Ok"
                         // Check the first 0x10 bytes to determine the magic of the file.
                         when (s.sliceWithStart(0L).readString(0x10, ASCII)) {
                         // Encrypted+Static Huffman+LZ
                             "DSC FORMAT 1.00\u0000" -> {
-                                writef("DSC until .")
-                                if (File(out_file).exists()) throw(Exception("Exists"))
-                                var data = byteArrayOf()
-                                if (level == 0) {
-                                    data = s.readBytes(s.length.toInt())
+                                writef("DSC...")
+                                if (File(out_file).exists()) {
+                                    result = "Exists"
                                 } else {
-                                    val dsc = DSC(s)
-                                    data = dsc.data
-                                }
-                                val ih: ImageHeader = ImageHeader.read(data.openSync())
-                                if (check_image(ih)) {
-                                    writef("Image until .BPP(%d) until .", ih.bpp)
-                                    out_file += ".tga"
-                                    if (std_file_exists(out_file)) throw(Exception("Exists"))
-                                    write_image(ih, out_file, data.copyOfRange(0x10, data.size))
-                                } else {
-                                    std_file_write(out_file, data)
+                                    var data = byteArrayOf()
+                                    if (level == 0) {
+                                        data = s.readBytes(s.length.toInt())
+                                    } else {
+                                        val dsc = DSC(s)
+                                        data = dsc.data
+                                    }
+                                    val ih: ImageHeader = ImageHeader.read(data.openSync())
+                                    if (check_image(ih)) {
+                                        writef("Image...BPP(%d)...", ih.bpp)
+                                        out_file += ".tga"
+                                        if (std_file_exists(out_file)) throw(Exception("Exists"))
+                                        write_image(ih, out_file, data.copyOfRange(0x10, data.size))
+                                    } else {
+                                        std_file_write(out_file, data)
+                                    }
                                 }
                             }
                         // Encrypted+Dynamic Huffman+RLE+LZ+Unpacking+Row processing
                             "CompressedBG___\u0000" -> {
                                 out_file += ".tga"
-                                writef("CBG until .")
+                                writef("CBG...")
                                 if (std_file_exists(out_file)) throw(Exception("Exists"))
                                 val cbg = CompressedBG(s)
                                 cbg.write_tga(out_file)
@@ -1127,23 +1131,23 @@ fun main_s(args: Array<String>) {
                                 val bpp: Int
                                 val ih = ImageHeader.read(ss)
                                 if (check_image(ih)) {
-                                    writef("Image until .BPP(%d) until .", ih.bpp)
+                                    writef("Image...BPP(%d)...", ih.bpp)
                                     out_file += ".tga"
                                     if (std_file_exists(out_file)) throw(Exception("Exists"))
                                     s.position = 0x10
                                     write_image(ih, out_file, s.readBytes((s.length - s.position).toInt()))
                                 } else {
-                                    writef("Uncompressed until .")
+                                    writef("Uncompressed...")
                                     if (std_file_exists(out_file)) throw(Exception("Exists"))
                                     File(out_file).writeBytes(s.readAll())
                                 }
                             }
                         }
-                        println("Ok")
+                        println(result)
                     }
                     // There was an error, write it.
                     catch (e: Throwable) {
-                        println(e.toString())
+                        e.printStackTrace()
                     }
                 }
             }
@@ -1166,7 +1170,7 @@ fun main_s(args: Array<String>) {
                 var pos = 0
 
                 for ((k, file_name) in listdir(folder_in).withIndex()) {
-                    writef("%s until .", file_name)
+                    writef("%s...", file_name)
                     val data: ByteArray = File(folder_in + "/" + file_name).readBytes()
                     val cdata: ByteArray
                     // Already compressed.
@@ -1261,12 +1265,12 @@ fun main_s(args: Array<String>) {
     // Catch a exception to show the help/usage.
     catch (e: ShowHelpException) {
         show_help()
-        if (e.toString().isNotEmpty()) println(e.toString())
+        e.printStackTrace()
         exitProcess(0)
     }
     // Catch a generic unhandled exception.
     catch (e: Throwable) {
-        writefln("Error: %s", e)
+        e.printStackTrace()
         exitProcess(-1)
     }
 }
