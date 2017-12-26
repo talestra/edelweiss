@@ -1,12 +1,11 @@
 package com.talestra.edelweiss
 
 import com.soywiz.kmem.write32_le
-import com.soywiz.korio.lang.UTF8
-import com.soywiz.korio.lang.format
-import com.soywiz.korio.lang.toByteArray
-import com.soywiz.korio.lang.toString
+import com.soywiz.korio.error.invalidOp
+import com.soywiz.korio.lang.*
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.util.getu
+import com.soywiz.korio.util.readString
 import com.soywiz.korio.util.substr
 import com.soywiz.korio.util.toInt
 import com.soywiz.korma.ds.IntArrayList
@@ -14,6 +13,9 @@ import kotlin.math.max
 import kotlin.math.min
 
 object DSC {
+    fun decompressIfRequired(data: ByteArray): ByteArray {
+        return if (data.readString(0, 0x10, ASCII) == Header.MAGIC) decompress(data) else data
+    }
 
     fun decompress(data: ByteArray): ByteArray = decompress(data.openSync())
 
@@ -132,11 +134,13 @@ object DSC {
     ) {
         init {
             val m = magic.toString(UTF8)
-            assert(m == "DSC FORMAT 1.00\u0000") { format("Not a DSC file '$m'") }
-            assert(usize <= 0x3_000_000) { format("Too big uncompressed size '%d'", usize) }
+            if (m != MAGIC) invalidOp("Not a DSC file '$m'")
+            if (usize > 0x3_000_000) invalidOp("Too big uncompressed size $usize")
         }
 
         companion object {
+            val MAGIC = "DSC FORMAT 1.00\u0000"
+
             fun read(s: SyncStream) = s.run {
                 Header(
                         magic = readBytes(0x10),

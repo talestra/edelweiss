@@ -1,20 +1,21 @@
 package com.talestra.edelweiss
 
+import com.soywiz.korio.async.SuspendingSequence
+import com.soywiz.korio.async.toAsync
+import com.soywiz.korio.error.invalidOp
 import com.soywiz.korio.lang.ASCII
 import com.soywiz.korio.lang.LATIN1
 import com.soywiz.korio.lang.format
 import com.soywiz.korio.lang.toString
 import com.soywiz.korio.stream.*
-import com.soywiz.korio.vfs.LocalVfs
-import com.soywiz.korio.vfs.VfsFile
-import com.soywiz.korio.vfs.VfsOpenMode
+import com.soywiz.korio.vfs.*
 import java.io.File
 
 
 // Class to have read access to ARC files.
-class ARC : Iterable<ARC.Entry> {
-    val s: SyncStream
-    val sd: SyncStream
+class ARC private constructor() : Iterable<ARC.Entry> {
+    lateinit private var s: AsyncStream
+    lateinit private var sd: AsyncStream
     val table = arrayListOf<Entry>()
     val table_lookup = LinkedHashMap<String, Entry>()
 
@@ -46,15 +47,9 @@ class ARC : Iterable<ARC.Entry> {
         override fun toString(): String = "%-16s (%08X-%08X)".format(name, start, len)
 
         // Open a read-only stream for the file.
-        fun open(): SyncStream = arc.open(this)
+        suspend fun open(): SyncStream = arc.open(this)
 
-        // Method to save this entry to a file.
-        fun save(name: String = this.name) {
-            val s = MemorySyncStream()
-            open().copyTo(s)
-            s.close()
-            File(name).writeBytes(s.toByteArray())
-        }
+        suspend fun openAsync(): AsyncStream = arc.openAsync(this)
 
         // Defines the explicit cast to Stream.
         //Stream opCast() { return open; }
@@ -63,17 +58,17 @@ class ARC : Iterable<ARC.Entry> {
     // Check the struct to have the expected size.
     //static assert(Entry.sizeof == 0x20, "Invalid size for ARC.Entry");
 
-    // Open a ARC using an stream.
-    constructor(s: SyncStream, name: String = "unknwon") {
-        this.s = s
+    private suspend fun init(file: VfsFile) {
+        this.s = file.openRead()
 
         // Check the magic.
-        assert(s.readString(12, LATIN1) == "PackFile    ") { format("It doesn't seems to be an ARC file ('%s')", name) }
+        assert(s.readString(12, LATIN1) == "PackFile    ") { format("It doesn't seems to be an ARC file ('%s')", file.basename) }
 
         // Read the size.
         val table_length = s.readS32_le()
 
-        table += (0 until table_length).map { Entry.read(s) }
+        val tableStream = s.readBytesExact(0x20 * table_length).openSync()
+        table += (0 until table_length).map { Entry.read(tableStream) }
 
         // Stre a SliceStream starting with the data part.
         sd = s.sliceWithStart(s.position)
@@ -85,11 +80,9 @@ class ARC : Iterable<ARC.Entry> {
         }
     }
 
-    // Open an ARC using a file name.
-    constructor(name: String) : this(File(name).readBytes().openSync(), name)
-
     // Gets a read-only stream for a entry.
-    fun open(e: Entry): SyncStream = sd.sliceWithBounds(e.start.toLong(), (e.start + e.len).toLong())
+    suspend fun open(e: Entry): SyncStream = sd.sliceWithBounds(e.start.toLong(), (e.start + e.len).toLong()).readAll().openSync()
+    suspend fun openAsync(e: Entry): AsyncStream = sd.sliceWithBounds(e.start.toLong(), (e.start + e.len).toLong())
 
     // Defines an iterator for this class.
     override fun iterator(): Iterator<Entry> = table.iterator()
@@ -98,6 +91,10 @@ class ARC : Iterable<ARC.Entry> {
     operator fun get(name: String): Entry = table_lookup[name] ?: throw Exception(format("Unknown index '%s'", name))
 
     companion object {
+        suspend fun load(file: VfsFile): ARC {
+            return ARC().apply { init(file) }
+        }
+
         suspend fun build(folder_in: String, level: Int) {
             val arc_out = folder_in[0 until folder_in.length - 2]
 
@@ -154,4 +151,24 @@ class ARC : Iterable<ARC.Entry> {
             }
         }
     }
+}
+
+suspend fun VfsFile.openAsArc(): VfsFile {
+    val arc = ARC.load(this)
+    return object : Vfs() {
+        private fun String.normalizePath() = this.trim('/')
+
+        suspend override fun list(path: String): SuspendingSequence<VfsFile> = arc.table.map { file(it.name) }.toAsync()
+        suspend override fun stat(path: String): VfsStat {
+            val npath = path.normalizePath()
+            val file = arc.table_lookup[npath] ?: return createNonExistsStat(npath)
+            return createExistsStat(npath, isDirectory = false, size = file.len.toLong())
+        }
+
+        suspend override fun open(path: String, mode: VfsOpenMode): AsyncStream {
+            val npath = path.normalizePath()
+            val entry = arc.table_lookup[npath] ?: invalidOp("Can't find file '$npath'")
+            return entry.openAsync()
+        }
+    }.root
 }

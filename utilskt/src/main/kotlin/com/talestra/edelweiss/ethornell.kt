@@ -255,7 +255,7 @@ suspend fun main_s(args: Array<String>) {
                 writefln("ARC: %s", arc_name)
                 writefln("----------------------------------------------------------------")
                 // Iterate over the ARC file and write the files.
-                for (e in ARC(arc_name)) println(e.name)
+                for (e in ARC.load(arc_name.uniVfs)) println(e.name)
             }
         // Extact + uncompress.
             "-x" -> {
@@ -272,7 +272,7 @@ suspend fun main_s(args: Array<String>) {
                 ignoreErrors { File(out_path).mkdirs() }
 
                 // Iterate over the arc file.
-                for (e in ARC(arc_name)) {
+                for (e in ARC.load(arc_name.uniVfs)) {
                     if (params.length >= 2) {
                         var found = false
                         for (filter in params[1 until params.length]) {

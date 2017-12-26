@@ -4,7 +4,10 @@ import com.soywiz.korio.lang.LATIN1
 import com.soywiz.korio.lang.UTF8
 import com.soywiz.korio.lang.toString
 import com.soywiz.korio.stream.*
+import com.soywiz.korio.util.quote
+import com.soywiz.korio.util.quoted
 import java.io.File
+import javax.imageio.event.IIOWriteProgressListener
 
 class ACME {
     class Entry {
@@ -110,6 +113,39 @@ class ACME {
             s.writeString("<en>${addslahses(t!!.text)}\n")
             s.writeString("<es>\n")
             s.writeString("\n")
+        }
+    }
+
+    fun writePo(s: SyncStream, file: String = "unknown") {
+
+        //#: lib/error.c:116
+        //msgid "Unknown system error"
+        //msgstr "Error desconegut del sistema"
+    }
+
+    fun SyncStream.writeLine(str: String) = writeString("$str\n")
+
+    fun generatePo(file: String) = MemorySyncStreamToByteArray {
+        writeLine("# Comments for '$file'")
+        writeLine("msgid \"\"")
+        writeLine("msgstr \"\"")
+        writeLine("\"Project-Id-Version: \\n\"")
+        writeLine("\"POT-Creation-Date: \\n\"")
+        writeLine("\"PO-Revision-Date: \\n\"")
+        writeLine("\"Last-Translator: \\n\"")
+        writeLine("\"Language-Team: \\n\"")
+        writeLine("\"MIME-Version: 1.0 \\n\"")
+        writeLine("\"Content-Type: text/plain; charset=utf-8 \\n\"")
+        writeLine("\"Content-Transfer-Encoding: 8bit \\n\"")
+        writeLine("\"Language: es\\n\"")
+        writeLine("")
+        for (k in entries.keys.sorted()) {
+            val t = entries[k]
+            val text = t!!.text
+            writeLine("#: $file:$k\n")
+            writeLine("msgid ${text.quoted}")
+            writeLine("msgstr ${"".quoted}")
+            writeLine("")
         }
     }
 

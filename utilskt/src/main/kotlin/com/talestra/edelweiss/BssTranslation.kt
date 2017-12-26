@@ -116,7 +116,7 @@ object BssTranslation {
                     pushes.length = pushes.length - 1
                     sstack.push(a * b)
                 }
-                0x1_4D -> {
+                BSS.Opcodes.TEXT_SIZE -> {
                     //writefln("TEXT_SIZE: %s", sstack);
                     font_width = sstack.int(0)
                     font_height = sstack.int(1)
@@ -162,7 +162,7 @@ object BssTranslation {
 
     fun extract(ops: List<BSS.OP>): ACME {
         val acme = ACME()
-        var sstack = BssStack()
+        val sstack = BssStack()
         var line: Int = 0
         var line_pos = 0
 
