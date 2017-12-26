@@ -634,7 +634,7 @@ class DSC {
                         var bytes = ((11 - nbits) ushr 3) + 1
                         nbits2 = nbits
                         while (bytes-- != 0) {
-                            cvalue = src.getu((s++) + (cvalue shl 8))
+                            cvalue = src.getu((s++)) + (cvalue shl 8)
                             nbits2 += 8
                         }
                     }

@@ -576,6 +576,8 @@ class DSC {
 		uint bits = 0, nbits = 0;
 		auto src_ptr = src.ptr, dst_ptr = dst.ptr;
 		auto src_end = src.ptr + src.length, dst_end = dst.ptr + dst.length;
+
+		//foreach (node; nodes) writefln("%s", node);
 		
 		//writefln("--------------------");
 
@@ -585,6 +587,7 @@ class DSC {
 
 			// Look over the tree.
 			for (; nodes[nentry].has_childs; nbits--, bits = (bits << 1) & 0xFF) {
+				writefln("  -- nbits=%d, bits=%d", nbits, bits);
 				// No bits left. Let's extract 8 bits more.
 				if (!nbits) {
 					nbits = 8;
@@ -593,6 +596,7 @@ class DSC {
 				//writef("%b", (bits >> 7) & 1);
 				nentry = nodes[nentry].childs[(bits >> 7) & 1];
 			}
+			writefln("  ++ nbits=%d, bits=%d", nbits, bits);
 			//writefln();
 
 			// We are in a leaf.
@@ -607,6 +611,7 @@ class DSC {
 					nbits2 = nbits;
 					while (bytes--) {
 						cvalue = *src_ptr++ + (cvalue << 8);
+						writefln("    || %d", cvalue);
 						nbits2 += 8;
 					}
 				}
@@ -617,7 +622,7 @@ class DSC {
 				auto ring_ptr = dst_ptr - offset;
 				uint count = LOBYTE(info) + 2;
 				
-				//writefln("LZ(%d, %d)", -offset, count);
+				writefln("LZ(%d, %d :: %d, %d, %d, %d)", info, bits, cvalue, nbits, -offset, count);
 
 				assert((ring_ptr >= dst.ptr) && (ring_ptr + count < dst_end), "Invalid reference pointer");
 				//assert((dst_ptr + count > dst.ptr + dst.length), "Buffer overrun");
@@ -627,7 +632,7 @@ class DSC {
 			}
 			// Uncompressed byte.
 			else {
-				//writefln("BYTE(%02X)", LOBYTE(info));
+				writefln("BYTE(%02X)", LOBYTE(info));
 				*dst_ptr++ = LOBYTE(info);
 			}
 		}
@@ -911,12 +916,17 @@ ubyte[] compress(ubyte[] data, int level = 0) {
 }
 
 int main(char[][] args) {
+	auto input = cast(ubyte[])std.file.read("../utilskt/src/test/resources/007a6");
+	auto uncompressed = decompress(input);
+	std.file.write("007a6.u", uncompressed);
+	/*
 	ubyte[] input = [1, 2, 3, 4, 5, 6, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 	auto res = cast(byte[])compress(input, 9);
 	std.file.write("compressed", res);
 	writefln("%s", res);
 	writefln("%s", input);
 	writefln("%s", decompress(cast(ubyte[])res));
+	*/
 	return 0;
 }
 
