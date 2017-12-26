@@ -14,7 +14,6 @@ private fun patch(game_folder: String, acme_folder: String) {
     val script_folder_out = "$game_folder/Script/CVTD"
 
     val acme = ACME()
-    val bss = BSS()
 
     println("Patch all:")
     println(" - script_folder_in : $script_folder_in")
@@ -33,19 +32,17 @@ private fun patch(game_folder: String, acme_folder: String) {
         println("  ACME parsing...")
         acme.parseForm2(acme_in)
         println("  BSS parsing...")
-        bss.parse(file_in)
+        val ops = BSS.load(file_in)
         println("  BSS patching...")
-        bss.patchStrings(acme)
+        val pops = BssTranslation.patchStrings(ops, acme)
         writefln("  BSS writting...")
-        bss.write(file_out)
+        File(file_out).writeBytes(BSS.save(pops))
         //bss.dump();
     }
 }
 
 fun extract_all2(game_folder: String, acme_folder: String) {
     val script_folder_in = game_folder + "/data01000.arc.d"
-
-    val bss = BSS()
 
     println("Extract all:")
     println(" - script_folder: $script_folder_in")
@@ -56,8 +53,8 @@ fun extract_all2(game_folder: String, acme_folder: String) {
         for (file in file_list) {
             if (file[0] == '.') continue
             println(file)
-            bss.parse(script_folder_in + "/" + file)
-            val acme = bss.extract()
+            val ops = BSS.load(script_folder_in + "/" + file)
+            val acme = BssTranslation.extract(ops)
             acme.writeForm2("$acme_folder/$file.txt", file)
         }
     } else {

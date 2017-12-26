@@ -3,15 +3,20 @@ package com.talestra.edelweiss
 import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.stream.openSync
 import com.soywiz.korio.vfs.resourcesVfs
+import org.junit.Assert
 import org.junit.Test
 
 class BSSTest {
     @Test
     fun name() = syncTest {
-        val bss = BSS().apply {
-            parse(resourcesVfs["007a6.u"].readAll().openSync())
-        }
-        //for (op in bss.ops) println(op)
+        val input = resourcesVfs["007a6.u"].readAll()
+        val ops = BSS.load(input.openSync())
+        val generated = BSS.save(ops)
+        //for (op in ops) println(op)
+        //val acme = BSS.extract(ops)
+        //println(acme)
+        //localCurrentDirVfs["007a6.u.patched"].writeBytes(BSS.serialize(ops))
+        Assert.assertArrayEquals(input, generated)
     }
 }
 
