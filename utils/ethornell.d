@@ -242,7 +242,16 @@ class CompressedBG {
 		data0 = cast(ubyte[])s.readString(header.data0_len);
 		auto datahf = cast(ubyte[])s.readString(s.size - s.position);
 
+		writefln("%d", header.data0_val);
+		writefln("%s", cast(byte[])data0);
+
 		decode_chunk0(data0, header.data0_val);
+
+		writefln("%s", data0.length);
+		writefln("%s", cast(byte[])data0);
+		writefln("%d", header.hash0);
+		writefln("%d", header.hash1);
+
 		// Check the decoded chunk with a hash.
 		assert(check_chunk0(data0, header.hash0, header.hash1));
 	
@@ -254,6 +263,8 @@ class CompressedBG {
 		data1.length = header.data1_len;
 		uncompress_huffman(datahf, data1, table2, method2_res);
 		uncompress_rle(data1, data3);
+
+		std.file.write("uncompressed_after_rle", data3);
 		
 		unpack_real(data, data3);
 	}
@@ -315,6 +326,10 @@ class CompressedBG {
 			for (uint n = 0; n < 0x100 - 1; n++) table2[0x100 + n] = node;
 			
 			//std.file.write("table_out", cast(ubyte[])cast(void[])*(&table2[0..table2.length]));
+		}
+
+		foreach (t; table2) {
+			writefln("%s", t);
 		}
 
 		uint cnodes = 0x100;
@@ -916,9 +931,11 @@ ubyte[] compress(ubyte[] data, int level = 0) {
 }
 
 int main(char[][] args) {
-	auto input = cast(ubyte[])std.file.read("../utilskt/src/test/resources/007a6");
-	auto uncompressed = decompress(input);
-	std.file.write("007a6.u", uncompressed);
+	auto cbg = new CompressedBG(new BufferedFile("../utilskt/src/test/resources/01_dou_tuu_l"));
+
+	//auto input = cast(ubyte[])std.file.read("../utilskt/src/test/resources/007a6");
+	//auto uncompressed = decompress(input);
+	//std.file.write("007a6.u", uncompressed);
 	/*
 	ubyte[] input = [1, 2, 3, 4, 5, 6, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
 	auto res = cast(byte[])compress(input, 9);

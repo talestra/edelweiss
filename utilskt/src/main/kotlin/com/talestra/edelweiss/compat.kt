@@ -194,7 +194,7 @@ data class IntRef(var v: Int)
 
 fun rand() = Random().nextInt()
 
-fun listdir(path: String) = File(path).list()
+fun listdir(path: String) = File(path).list().sorted()
 fun writefln() = println("")
 fun writefln(fmt: String, vararg args: Any?) = println(fmt.format(*args))
 fun writef(fmt: String, vararg args: Any?) = print(fmt.format(*args))
