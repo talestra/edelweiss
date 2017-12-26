@@ -676,9 +676,14 @@ class DSC {
     }
 }
 
-fun find_variable_match(s: UByteArraySlice, match: UByteArraySlice, pos: IntRef, len: IntRef, min_dist: Int = 0) {
-    pos.v = 0
-    len.v = 0
+class MatchResult(
+    var pos: Int = 0,
+    var len: Int = 0
+)
+
+fun find_variable_match(s: UByteArraySlice, match: UByteArraySlice, mres: MatchResult, min_dist: Int = 0) {
+    mres.pos = 0
+    mres.len = 0
     val match_length = min(match.length, s.length)
     //if (match.length > s.length) match.length = s.length
     if ((s.length > 0) && (match_length > 0)) {
@@ -690,12 +695,12 @@ fun find_variable_match(s: UByteArraySlice, match: UByteArraySlice, pos: IntRef,
                 if (match[m] != s[n + m]) break
                 m++
             }
-            if (len.v < m) {
-                len.v = m
-                pos.v = n
+            if (mres.len < m) {
+                mres.len = m
+                mres.pos = n
             }
         }
-        pos.v = iter_len - pos.v
+        mres.pos = iter_len - mres.pos
     }
 }
 
@@ -900,31 +905,34 @@ fun compress(data: ByteArray, level: Int = 0, seed: Int = 0): ByteArray {
     max_lz_len2 = (max_lz_len * level) / 9
     max_lz_pos2 = (max_lz_pos * level) / 9
 
-    val pos = IntRef(0)
-    val len = IntRef(0)
+    val mresult = MatchResult()
     var n = 0
     while (n < data.size) {
-        pos.v = 0
-        len.v = 0
+        mresult.pos = 0
+        mresult.len = 0
         val max_len = min(max_lz_len2, data.size - n)
         if (level > 0) {
-            find_variable_match(data[max(0, n - max_lz_pos2) until n + max_len], data[n until n + max_len], pos, len, min_lz_pos)
+            find_variable_match(
+                data[max(0, n - max_lz_pos2) until n + max_len],
+                data[n until n + max_len],
+                mresult,
+                min_lz_pos
+            )
         }
 
         // Compress.
         var id = 0
-        if (len.v >= min_lz_len) {
-            val encoded_len = len.v - min_lz_len
+        if (mresult.len >= min_lz_len) {
+            val encoded_len = mresult.len - min_lz_len
             id = 0x100 or (encoded_len and 0xFF)
-            blocks += Block(id, pos.v)
-            n += len.v
+            blocks += Block(id, mresult.pos)
+            n += mresult.len
         } else {
             id = 0x000 or (data[n] and 0xFF)
             blocks += Block(id, 0)
             n++
         }
         freq[id]++
-        n++
     }
 
     val rnodes = Array(0x200) { RNode() }
