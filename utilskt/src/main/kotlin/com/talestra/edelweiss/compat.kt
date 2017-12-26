@@ -2,6 +2,12 @@ package com.talestra.edelweiss
 
 import com.soywiz.kmem.readS32_le
 import com.soywiz.kmem.write32_le
+import com.soywiz.korio.lang.Charset
+import com.soywiz.korio.lang.UTF8
+import com.soywiz.korio.stream.ByteArrayBuilder
+import com.soywiz.korio.stream.SyncStream
+import com.soywiz.korio.stream.eof
+import com.soywiz.korio.stream.readU8
 import java.io.File
 import java.util.*
 
@@ -24,8 +30,8 @@ fun ubyteArrayOf(vararg bytes: Int): UByteArray {
 abstract class InternalArraySlice<T>(arrayLength: Int, protected val start: Int, protected val end: Int) {
     init {
         if (start > end) throw IllegalArgumentException("start=$start > end=$end")
-        if (start !in 0 .. arrayLength) throw IllegalArgumentException("start=$start !in 0 until $arrayLength")
-        if (end !in 0 .. arrayLength) throw IllegalArgumentException("end=$end !in 0 until $arrayLength")
+        if (start !in 0..arrayLength) throw IllegalArgumentException("start=$start !in 0 until $arrayLength")
+        if (end !in 0..arrayLength) throw IllegalArgumentException("end=$end !in 0 until $arrayLength")
     }
 
     val length: Int get() = end - start
@@ -281,6 +287,22 @@ fun explode(delim: String, str: String, length: Int = 0x7FFFFFFF, fill: Boolean 
     return rr
 }
 
+// Utility macros.
+fun HIWORD(v: Int): Int = (v ushr 16) and 0xFFFF
+
+fun LOWORD(v: Int): Int = (v and 0xFFFF)
+fun HIBYTE(v: Int): Int = (v ushr 8) and 0xFF
+fun LOBYTE(v: Int): Int = (v and 0xFF)
+
+fun SyncStream.readLine(charset: Charset = UTF8): String {
+    val out = ByteArrayBuilder()
+    while (!eof) {
+        val b = readU8()
+        if (b == '\n'.toInt()) break
+        out += b.toByte()
+    }
+    return out.toString(charset)
+}
 
 //class Segments {
 //    data class Segment(var l: Long, var r: Long) : Comparable<Segment> {

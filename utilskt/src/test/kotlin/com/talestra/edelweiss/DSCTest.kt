@@ -1,12 +1,14 @@
 package com.talestra.edelweiss
 
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.util.hex
+import com.soywiz.korio.vfs.resourcesVfs
 import org.junit.Assert
 
-class CompressionTest {
+class DSCTest {
     fun testCompression(level: Int, input: ByteArray) {
-        val compressed = compress(input, level = level)
-        val uncompressed = decompress(compressed)
+        val compressed = DSC.compress(input, level = level)
+        val uncompressed = DSC.decompress(compressed)
         if (!input.contentEquals(uncompressed)) {
             println("input:" + input.hex)
             println("uncompressed:" + uncompressed.hex)
@@ -40,4 +42,15 @@ class CompressionTest {
 
     @org.junit.Test
     fun test4() = testCompression(byteArrayOf())
+
+    @org.junit.Test
+    fun testDecompress() = syncTest {
+        val compressed = resourcesVfs["007a6"].readAll()
+        val expected = resourcesVfs["007a6.u"].readAll()
+        val uncompressed = DSC.decompress(compressed)
+        Assert.assertArrayEquals(expected, uncompressed)
+        Assert.assertArrayEquals(expected, DSC.decompress(DSC.compress(uncompressed, level = 9)))
+        Assert.assertArrayEquals(expected, DSC.decompress(DSC.compress(uncompressed, level = 0)))
+        //File("007a6.u").writeBytes(uncompressed)
+    }
 }

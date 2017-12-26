@@ -11,7 +11,7 @@ import com.soywiz.korio.util.toInt
 import com.soywiz.korio.util.toUnsigned
 
 // Class to uncompress "CompressedBG" files.
-object CompressedBG {
+object CompressedBg {
     // Header for the CompressedBG.
     class Header(
             val magic: ByteArray = ByteArray(0x10),
@@ -296,4 +296,21 @@ object CompressedBG {
             }
         }
     }
+
+
+    // A color RGBA struct that defines methods to sum colors per component and to obtain average colors.
+// @TODO: Move to Korim
+    private fun RGBA.add(l: Int, r: Int): Int = RGBA.pack(
+            (RGBA.getR(l) + RGBA.getR(r)) and 0xFF,
+            (RGBA.getG(l) + RGBA.getG(r)) and 0xFF,
+            (RGBA.getB(l) + RGBA.getB(r)) and 0xFF,
+            (RGBA.getA(l) + RGBA.getA(r)) and 0xFF
+    )
+
+    private fun RGBA.avg(a: Int, b: Int): Int = RGBA.pack(
+            ((RGBA.getR(a) + RGBA.getR(b)) / 2) and 0xFF,
+            ((RGBA.getG(a) + RGBA.getG(b)) / 2) and 0xFF,
+            ((RGBA.getB(a) + RGBA.getB(b)) / 2) and 0xFF,
+            ((RGBA.getA(a) + RGBA.getA(b)) / 2) and 0xFF
+    )
 }

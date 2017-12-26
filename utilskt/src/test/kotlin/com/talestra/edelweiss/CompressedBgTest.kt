@@ -14,7 +14,7 @@ class CompressedBgTest {
     @Test
     fun name() = syncTest {
         defaultImageFormats.registerStandard()
-        val bmp = CompressedBG.load(resourcesVfs["01_dou_tuu_l"].readAll())
+        val bmp = CompressedBg.load(resourcesVfs["01_dou_tuu_l"].readAll())
         val expected = resourcesVfs["01_dou_tuu_l.png"].readBitmapNoNative().toBMP32()
         Assert.assertEquals(Bitmap32.computePsnr(bmp, expected), Double.POSITIVE_INFINITY, 0.0)
     }
