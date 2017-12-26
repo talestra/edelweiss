@@ -9,9 +9,7 @@ import com.soywiz.korio.Korio
 import com.soywiz.korio.error.ignoreErrors
 import com.soywiz.korio.lang.*
 import com.soywiz.korio.stream.*
-import com.soywiz.korio.util.getu
-import com.soywiz.korio.util.toInt
-import com.soywiz.korio.util.toUnsigned
+import com.soywiz.korio.util.*
 import java.io.File
 import kotlin.math.max
 import kotlin.math.min
@@ -608,7 +606,7 @@ class DSC {
             //writefln("--------------------");
 
             // Check the input and output pointers.
-            while ((d < dst.size) && (s < src.size)) {
+            while ((d < dst.size) && ((s < src.size) || (nbits > 0))) {
                 var nentry = 0
 
                 // Look over the tree.
@@ -728,16 +726,16 @@ class BitWritter {
 
     //fun putbit (bit: Boolean) {
     //    if (bit) {
-    //        cval = cval or (1 shl --av_bits)
+    //        cval = cval or (1 shl --av_bits).toLong()
     //    } else {
     //        --av_bits
     //    }
     //    if (av_bits == 0) flush()
     //}
-    //
+//
     //fun write (ins_val: Long, ins_bits: Int) {
     //    for (n in 0 until ins_bits) {
-    //        val bit = ((ins_val ushr (ins_bits - n - 1)) and 1) != 0
+    //        val bit = ((ins_val ushr (ins_bits - n - 1)) and 1) != 0L
     //        putbit(bit)
     //    }
     //}
@@ -799,7 +797,7 @@ class MNode(
         return r
     }
 
-    override fun toString(): String = format("(%08X, %08X, %08X, %010b, [%d, %d])", value, freq, level, encode, childs[0] != null, childs[1] != null)
+    override fun toString(): String = format("(%08X, %08X, %08X, %08X, [%s, %s])", value, freq, level, encode, (childs[0] != null).toString(), (childs[1] != null).toString())
     val leaf: Boolean get() = (childs[0] == null) && (childs[1] == null)
 
     companion object {
@@ -842,18 +840,20 @@ fun extract_levels(freqs: IntArray, levels: IntArray): List<MNode> {
         node_l.parent = node_p
         cnodes.add(node_p)
     }
-    cnodes[cnodes.length - 1].propagateLevels()
+    if (cnodes.length > 0) {
+        cnodes[cnodes.length - 1].propagateLevels()
+    }
     //MNode.show(cnodes);
 
     for (n in 0 until levels.size) levels[n] = 0
     for (node in cnodes) if (node.leaf) levels[node.value] = node.level
 
-    val lnodes = Array(freqs.size) { MNode() }
-    for (node in cnodes) if (node.leaf) lnodes[node.value] = node
+    val mnodes = Array(freqs.size) { MNode() }
+    for (node in cnodes) if (node.leaf) mnodes[node.value] = node
 
-    assert(lnodes.size == freqs.size)
+    assert(mnodes.size == freqs.size)
 
-    return lnodes.toList()
+    return mnodes.toList()
 }
 
 
@@ -874,7 +874,7 @@ data class RNode(var v: Long = 0L, var bits: Int = 0) {
     }
 
     override fun toString(): String {
-        return if (bits != 0) format(format("%%0%db", bits), v) else ""
+        return if (bits != 0) "%032b".format(v).substr(-bits) else "--"
     }
 }
 
@@ -913,7 +913,7 @@ fun compress(data: ByteArray, level: Int = 0, seed: Int = 0): ByteArray {
         val max_len = min(max_lz_len2, data.size - n)
         if (level > 0) {
             find_variable_match(
-                data[max(0, n - max_lz_pos2) until n + max_len],
+                data.get(max(0, n - max_lz_pos2) until n + max_len),
                 data[n until n + max_len],
                 mresult,
                 min_lz_pos
@@ -935,9 +935,13 @@ fun compress(data: ByteArray, level: Int = 0, seed: Int = 0): ByteArray {
         freq[id]++
     }
 
+    // Prevent just one element problems!
+    freq[0] += 2
+    freq[1] += 1
+
     val rnodes = Array(0x200) { RNode() }
     val cnodes = Array(0x400) { DSC.Node() }
-    extract_levels(freq, levels)
+    val mnodes = extract_levels(freq, levels)
     //val nodes = extract_levels(freq, levels);
     val r = ByteArrayBuilder()
 
@@ -963,13 +967,20 @@ fun compress(data: ByteArray, level: Int = 0, seed: Int = 0): ByteArray {
     //writefln("rnodes:"); foreach (k, rnode; rnodes) if (rnode.bits > 0) writefln("  %03X:%s", k, rnode);
 
     // Write bits.
+    //println("blocks:${blocks.size}")
     val bitw = BitWritter()
     for (block in blocks) {
         val rnode = rnodes[block.value]
+        //val rnode = mnodes[block.value]
         if ((block.value and 0x100) != 0) {
             //writefln("BLOCK:LZ(%d, %d)", -(block.pos - 2), (block.value & 0xFF) + 2);
         } else {
             //writefln("BLOCK:BYTE(%02X)", block.value & 0xFF);
+        }
+        if (rnode.bits == 0) {
+            //println("WARN: rnode.bits=${rnode.bits}")
+        } else {
+            //println("VALUE: ${rnode.v} . Bits: ${rnode.bits}")
         }
         bitw.write(rnode.v, rnode.bits)
         if ((block.value and 0x100) != 0) {
@@ -977,7 +988,9 @@ fun compress(data: ByteArray, level: Int = 0, seed: Int = 0): ByteArray {
             //bitw.finish();
         }
     }
-    r += bitw.finish()
+    val codesBb = bitw.finish()
+    //println("codesBb:${codesBb.size} : ${codesBb.hex}")
+    r += codesBb
 
     return r.toByteArray()
     //writefln(nodes[0]);

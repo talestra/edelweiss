@@ -912,7 +912,7 @@ ubyte[] compress(ubyte[] data, int level = 0) {
 
 int main(char[][] args) {
 	ubyte[] input = [1, 2, 3, 4, 5, 6, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1];
-	auto res = cast(byte[])compress(input);
+	auto res = cast(byte[])compress(input, 9);
 	std.file.write("compressed", res);
 	writefln("%s", res);
 	writefln("%s", input);

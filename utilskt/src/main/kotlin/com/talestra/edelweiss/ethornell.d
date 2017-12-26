@@ -791,7 +791,7 @@ ubyte[] compress(ubyte[] data, int level = 0) {
 		ubyte  bits;
 		ushort value;
 	}
-	Encode encode[0x200];
+	Encode encode[0x200];ƒ
 	
 	uint freq[0x200];
 	ubyte levels[0x200];

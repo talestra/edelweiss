@@ -24,8 +24,8 @@ fun ubyteArrayOf(vararg bytes: Int): UByteArray {
 abstract class InternalArraySlice<T>(arrayLength: Int, protected val start: Int, protected val end: Int) {
     init {
         if (start > end) throw IllegalArgumentException("start=$start > end=$end")
-        if (start !in 0 until arrayLength) throw IllegalArgumentException("start=$start !in 0 until $arrayLength")
-        if (end !in 0 until arrayLength) throw IllegalArgumentException("end=$end !in 0 until $arrayLength")
+        if (start !in 0 .. arrayLength) throw IllegalArgumentException("start=$start !in 0 until $arrayLength")
+        if (end !in 0 .. arrayLength) throw IllegalArgumentException("end=$end !in 0 until $arrayLength")
     }
 
     val length: Int get() = end - start
