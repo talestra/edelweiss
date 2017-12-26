@@ -935,9 +935,8 @@ fun compress(data: ByteArray, level: Int = 0, seed: Int = 0): ByteArray {
         freq[id]++
     }
 
-    // Prevent just one element problems!
-    freq[0] += 2
-    freq[1] += 1
+    // Prevent just one repeated value problems with current implementation!
+    if (freq.count { it != 0 } == 1) if (freq[0] != 0) freq[1]++ else freq[0]++
 
     val rnodes = Array(0x200) { RNode() }
     val cnodes = Array(0x400) { DSC.Node() }
