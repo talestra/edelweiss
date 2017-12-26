@@ -11,6 +11,8 @@ class Compression2Test {
         val expected = resourcesVfs["007a6.u"].readAll()
         val uncompressed = decompress(compressed)
         Assert.assertArrayEquals(expected, uncompressed)
+        Assert.assertArrayEquals(expected, decompress(compress(uncompressed, level = 9)))
+        Assert.assertArrayEquals(expected, decompress(compress(uncompressed, level = 0)))
         //File("007a6.u").writeBytes(uncompressed)
     }
 }
