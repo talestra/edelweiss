@@ -8,141 +8,167 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 04306:7
-
-msgid "{Kazushi}\n\"Appo! It's Sunday. Why don't we go hang out somewhere?\""
+msgid ""
+"{Kazushi}\n"
+"\"Appo! It's Sunday. Why don't we go hang out somewhere?\""
 msgstr ""
 
 #: 04306:12
-
-msgid "{Appo}\n\"Sorry, Kazushi! I'm booked today.\""
+msgid ""
+"{Appo}\n"
+"\"Sorry, Kazushi! I'm booked today.\""
 msgstr ""
 
 #: 04306:13
-
-msgid "{Kazushi}\n\"Are you hanging out with Fuusen?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you hanging out with Fuusen?\""
 msgstr ""
 
 #: 04306:16
-
-msgid "{Appo}\n\"Well, you know. I'm booked to go on my date with Fuu-chan, sticking to her the whole time until we sleep tonight. Heh, heh, heh.\""
+msgid ""
+"{Appo}\n"
+"\"Well, you know. I'm booked to go on my date with Fuu-chan, sticking to her the whole time until we sleep tonight. Heh, heh, heh.\""
 msgstr ""
 
 #: 04306:17
-
-msgid "{Kazushi}\n\"I see. Hey Appo, where do you go and what do you do on a date? Especially on an island with nothing to do like this?\""
+msgid ""
+"{Kazushi}\n"
+"\"I see. Hey Appo, where do you go and what do you do on a date? Especially on an island with nothing to do like this?\""
 msgstr ""
 
 #: 04306:20
-
-msgid "{Appo}\n\"Kazushi, let me teach you a little something that'll come in handy later. Girls can sensei the pheromones of a guy who'll take charge.\""
+msgid ""
+"{Appo}\n"
+"\"Kazushi, let me teach you a little something that'll come in handy later. Girls can sensei the pheromones of a guy who'll take charge.\""
 msgstr ""
 
 #: 04306:21
-
-msgid "{Kazushi}\n\"Oh? A guy who takes charge... Huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh? A guy who takes charge... Huh?\""
 msgstr ""
 
 #: 04306:22
-
-msgid "{Appo}\n\"Yeah. Another way to put it is a guy who takes the lead.\""
+msgid ""
+"{Appo}\n"
+"\"Yeah. Another way to put it is a guy who takes the lead.\""
 msgstr ""
 
 #: 04306:23
-
-msgid "{Kazushi}\n\"Take the lead, huh? Yeah, I get that, but where can you go and what can you do for a date on this island?\""
+msgid ""
+"{Kazushi}\n"
+"\"Take the lead, huh? Yeah, I get that, but where can you go and what can you do for a date on this island?\""
 msgstr ""
 
 #: 04306:25
-
-msgid "{Appo}\n\"Huh? That's simple. First, you go to the woods behind their dorm and push them down. Then afterwards, you go straight to their room and push them down. Then you go to the little area behind the pool and push them down.\""
+msgid ""
+"{Appo}\n"
+"\"Huh? That's simple. First, you go to the woods behind their dorm and push them down. Then afterwards, you go straight to their room and push them down. Then you go to the little area behind the pool and push them down.\""
 msgstr ""
 
 #: 04306:26
-
-msgid "{Appo}\n\"Then you go to the bath when no one's there and push them down. Then you eat lunch, go to some hill, and push them down. Then you go to the forest behind the gym and push them down.\""
+msgid ""
+"{Appo}\n"
+"\"Then you go to the bath when no one's there and push them down. Then you eat lunch, go to some hill, and push them down. Then you go to the forest behind the gym and push them down.\""
 msgstr ""
 
 #: 04306:28
-
-msgid "{Appo}\n\"Then you wander the town, head to the irrigation ditch not too far around back behind Miya-san's store, and push them down. Then, when you see a dog in heat, you push them down.\""
+msgid ""
+"{Appo}\n"
+"\"Then you wander the town, head to the irrigation ditch not too far around back behind Miya-san's store, and push them down. Then, when you see a dog in heat, you push them down.\""
 msgstr ""
 
 #: 04306:29
-
-msgid "{Kazushi}\n\"Are you some kind of pilgrim?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you some kind of pilgrim?\""
 msgstr ""
 
 #: 04306:31
-
-msgid "{Appo}\n\"Then, after having afternoon tea like celebrities, you push them down. Then, instead of an afternoon snack, you push them down. Then you get turned on by the beauty of the sunset and push them down.\""
+msgid ""
+"{Appo}\n"
+"\"Then, after having afternoon tea like celebrities, you push them down. Then, instead of an afternoon snack, you push them down. Then you get turned on by the beauty of the sunset and push them down.\""
 msgstr ""
 
 #: 04306:32
-
-msgid "{Appo}\n\"Then, before dinner, you push them down. Then, after dinner, you push them down for some light exercise. Then, as you look up at the full moon, you find yourself in the mood and push them down.\""
+msgid ""
+"{Appo}\n"
+"\"Then, before dinner, you push them down. Then, after dinner, you push them down for some light exercise. Then, as you look up at the full moon, you find yourself in the mood and push them down.\""
 msgstr ""
 
 #: 04306:33
-
-msgid "{Appo}\n\"Then, right before bed, you push them down. Then, when you look at the Baumkuchen you were saving for a late night snack, you get excited and push them down. Then, as soon as she shows you her old school album, you push her down.\""
+msgid ""
+"{Appo}\n"
+"\"Then, right before bed, you push them down. Then, when you look at the Baumkuchen you were saving for a late night snack, you get excited and push them down. Then, as soon as she shows you her old school album, you push her down.\""
 msgstr ""
 
 #: 04306:35
-
-msgid "{Appo}\n\"There's plenty to do on this island.\""
+msgid ""
+"{Appo}\n"
+"\"There's plenty to do on this island.\""
 msgstr ""
 
 #: 04306:36
-
-msgid "{Kazushi}\n\"That last half clearly had nothing to do with date spots. And quit pushing a girl down when she shows you her old album! You're jumping the gun!\""
+msgid ""
+"{Kazushi}\n"
+"\"That last half clearly had nothing to do with date spots. And quit pushing a girl down when she shows you her old album! You're jumping the gun!\""
 msgstr ""
 
 #: 04306:39
-
-msgid "{Appo}\n\"But when you're in her room and she shows you her album, that's already foreplay.\""
+msgid ""
+"{Appo}\n"
+"\"But when you're in her room and she shows you her album, that's already foreplay.\""
 msgstr ""
 
 #: 04306:40
-
-msgid "{Kazushi}\n\"All you're doing is pushing her down wherever you go.\""
+msgid ""
+"{Kazushi}\n"
+"\"All you're doing is pushing her down wherever you go.\""
 msgstr ""
 
 #: 04306:41
-
-msgid "{Appo}\n\"That's not true. When Fuu-chan's on her period, she pushes me down.\""
+msgid ""
+"{Appo}\n"
+"\"That's not true. When Fuu-chan's on her period, she pushes me down.\""
 msgstr ""
 
 #: 04306:42
-
-msgid "{Kazushi}\n\"You take your dog, you leave, and you go die in a church.\""
+msgid ""
+"{Kazushi}\n"
+"\"You take your dog, you leave, and you go die in a church.\""
 msgstr ""
 
 #: 04306:43
-
-msgid "{Appo}\n\"Just a few days ago I was spinning Baumkuchen around my finger and she got dizzy from staring at it!!\""
+msgid ""
+"{Appo}\n"
+"\"Just a few days ago I was spinning Baumkuchen around my finger and she got dizzy from staring at it!!\""
 msgstr ""
 
 #: 04306:44
-
-msgid "{Appo}\n\"And for some reason, that got me so insanely hard. So of course I pushed her down.\""
+msgid ""
+"{Appo}\n"
+"\"And for some reason, that got me so insanely hard. So of course I pushed her down.\""
 msgstr ""
 
 #: 04306:45
-
-msgid "{Kazushi}\n\"Die. Die in peace, watched over by your family at the end of your fulfilling life.\""
+msgid ""
+"{Kazushi}\n"
+"\"Die. Die in peace, watched over by your family at the end of your fulfilling life.\""
 msgstr ""
 
 #: 04306:46
-
-msgid "{Appo}\n\"I'll see you later!\""
+msgid ""
+"{Appo}\n"
+"\"I'll see you later!\""
 msgstr ""
 
 #: 04306:50
-
-msgid "{Kazushi}\n\"He wore me out...I think I'm gonna stay here and sleep all day...\""
+msgid ""
+"{Kazushi}\n"
+"\"He wore me out...I think I'm gonna stay here and sleep all day...\""
 msgstr ""
-

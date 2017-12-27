@@ -8,281 +8,303 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 40504:8
-
 msgid "There was a crowd of people in front of the school."
 msgstr ""
 
 #: 40504:12
-
-msgid "{Appo}\n\"Hey, are they here yet?\""
+msgid ""
+"{Appo}\n"
+"\"Hey, are they here yet?\""
 msgstr ""
 
 #: 40504:18
-
-msgid "{Daigo}\n\"I thought you were going to sleep and wait for them?\""
+msgid ""
+"{Daigo}\n"
+"\"I thought you were going to sleep and wait for them?\""
 msgstr ""
 
 #: 40504:21
-
-msgid "{Appo}\n\"Shut up! I woke up because it took so long for them to return.\""
+msgid ""
+"{Appo}\n"
+"\"Shut up! I woke up because it took so long for them to return.\""
 msgstr ""
 
 #: 40504:27
-
-msgid "{Haruka}\n\"Are they both alright? Did it really work well?\""
+msgid ""
+"{Haruka}\n"
+"\"Are they both alright? Did it really work well?\""
 msgstr ""
 
 #: 40504:33
-
-msgid "{Amamiya}\n\"Natsume... Haruma-kun...\""
+msgid ""
+"{Amamiya}\n"
+"\"Natsume... Haruma-kun...\""
 msgstr ""
 
 #: 40504:36
-
 msgid "Everyone was anxious about their return."
 msgstr ""
 
 #: 40504:37
-
 msgid "Andou was the first one to spot them, probably because she was so tall."
 msgstr ""
 
 #: 40504:41
-
-msgid "{Andou}\n\"Ah!\""
+msgid ""
+"{Andou}\n"
+"\"Ah!\""
 msgstr ""
 
 #: 40504:42
-
 msgid "There were two very familiar silhouettes approaching."
 msgstr ""
 
 #: 40504:43
-
-msgid "{Andou}\n\"They're back!\""
+msgid ""
+"{Andou}\n"
+"\"They're back!\""
 msgstr ""
 
 #: 40504:48
-
-msgid "{Natsume}\n\"Everyone's here.\""
+msgid ""
+"{Natsume}\n"
+"\"Everyone's here.\""
 msgstr ""
 
 #: 40504:49
-
 msgid "Everyone was together in front of school building, waiting for our return."
 msgstr ""
 
 #: 40504:51
-
-msgid "{Andou}\n\"They're back!\""
+msgid ""
+"{Andou}\n"
+"\"They're back!\""
 msgstr ""
 
 #: 40504:52
-
 msgid "After Andou, everybody noticed us."
 msgstr ""
 
 #: 40504:56
-
-msgid "{Haruka}\n\"Hey, guys..... Welcome back!!!\""
+msgid ""
+"{Haruka}\n"
+"\"Hey, guys..... Welcome back!!!\""
 msgstr ""
 
 #: 40504:61
-
-msgid "{Rin}\n\"I'll go put the rice on, okay!\""
+msgid ""
+"{Rin}\n"
+"\"I'll go put the rice on, okay!\""
 msgstr ""
 
 #: 40504:63
-
 msgid "Fujisaki-san ran towards the kitchen., but the rest of them were waiting for us to get there."
 msgstr ""
 
 #: 40504:69
-
-msgid "{Natsume}\n\".........\""
+msgid ""
+"{Natsume}\n"
+"\".........\""
 msgstr ""
 
 #: 40504:70
-
 msgid "Natsume came to a stop, and looked at the crowd of our friends in distance. For a while, she didn't want to move."
 msgstr ""
 
 #: 40504:71
-
-msgid "{Kazushi}\n\"What's wrong?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's wrong?\""
 msgstr ""
 
 #: 40504:74
-
-msgid "{Natsume}\n\"I'm kinda embarrassed. How am I supposed to look when I go over to everyone?\""
+msgid ""
+"{Natsume}\n"
+"\"I'm kinda embarrassed. How am I supposed to look when I go over to everyone?\""
 msgstr ""
 
 #: 40504:75
-
-msgid "{Kazushi}\n\"Same as you normally do. Give them your usual sour face.\""
+msgid ""
+"{Kazushi}\n"
+"\"Same as you normally do. Give them your usual sour face.\""
 msgstr ""
 
 #: 40504:78
-
-msgid "{Natsume}\n\"I usually have a sour face?\""
+msgid ""
+"{Natsume}\n"
+"\"I usually have a sour face?\""
 msgstr ""
 
 #: 40504:79
-
-msgid "{Kazushi}\n\"Huh? You didn't realize that?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? You didn't realize that?\""
 msgstr ""
 
 #: 40504:80
-
-msgid "{Natsume}\n\"I never knew...\""
+msgid ""
+"{Natsume}\n"
+"\"I never knew...\""
 msgstr ""
 
 #: 40504:81
-
 msgid "She looked a little bit shocked when she heard it, but I had to wonder if she really didn't know about it."
 msgstr ""
 
 #: 40504:84
-
-msgid "{Natsume}\n\"Well, how about this face? Is it any better?\""
+msgid ""
+"{Natsume}\n"
+"\"Well, how about this face? Is it any better?\""
 msgstr ""
 
 #: 40504:85
-
 msgid "She gave me a sour face, albeit a nervous one."
 msgstr ""
 
 #: 40504:86
-
-msgid "{Kazushi}\n\"Relax more, relax. Why don't you just try smiling?\""
+msgid ""
+"{Kazushi}\n"
+"\"Relax more, relax. Why don't you just try smiling?\""
 msgstr ""
 
 #: 40504:89
-
-msgid "{Natsume}\n\"L-like this? Smile......\""
+msgid ""
+"{Natsume}\n"
+"\"L-like this? Smile......\""
 msgstr ""
 
 #: 40504:90
-
-msgid "{Kazushi}\n\"You're too tense. Loosen up.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're too tense. Loosen up.\""
 msgstr ""
 
 #: 40504:91
-
 msgid "I pinched her tense cheeks and massaged them."
 msgstr ""
 
 #: 40504:94
-
-msgid "{Natsume}\n\"Huh? Sh-shop...\""
+msgid ""
+"{Natsume}\n"
+"\"Huh? Sh-shop...\""
 msgstr ""
 
 #: 40504:97
-
-msgid "{Pierre}\n\"Heeeeey! Are you gonna keep us waiting all day?\""
+msgid ""
+"{Pierre}\n"
+"\"Heeeeey! Are you gonna keep us waiting all day?\""
 msgstr ""
 
 #: 40504:98
-
-msgid "{Appo}\n\"How long you gonna make us wait?\""
+msgid ""
+"{Appo}\n"
+"\"How long you gonna make us wait?\""
 msgstr ""
 
 #: 40504:99
-
 msgid "Uh-oh..."
 msgstr ""
 
 #: 40504:100
-
-msgid "{Kazushi}\n\"We'd better go. Otherwise, they may start to riot.\""
+msgid ""
+"{Kazushi}\n"
+"\"We'd better go. Otherwise, they may start to riot.\""
 msgstr ""
 
 #: 40504:103
-
-msgid "{Natsume}\n\"But I haven't decided what kind of face I should make.\""
+msgid ""
+"{Natsume}\n"
+"\"But I haven't decided what kind of face I should make.\""
 msgstr ""
 
 #: 40504:104
-
-msgid "{Kazushi}\n\"Forget it. Just go, and they'll be happy to see you, regardless.\""
+msgid ""
+"{Kazushi}\n"
+"\"Forget it. Just go, and they'll be happy to see you, regardless.\""
 msgstr ""
 
 #: 40504:107
-
-msgid "{Natsume}\n\"Thanks for your slapdash advice. I think I will practice firing those destructo-beams.\""
+msgid ""
+"{Natsume}\n"
+"\"Thanks for your slapdash advice. I think I will practice firing those destructo-beams.\""
 msgstr ""
 
 #: 40504:108
-
-msgid "{Kazushi}\n\"Hey, please don't. Here, come on.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, please don't. Here, come on.\""
 msgstr ""
 
 #: 40504:110
-
 msgid "I grabbed her hand."
 msgstr ""
 
 #: 40504:111
-
-msgid "{Kazushi}\n\"Is this better?\""
+msgid ""
+"{Kazushi}\n"
+"\"Is this better?\""
 msgstr ""
 
 #: 40504:112
-
-msgid "{Natsume}\n\"Kind of...\""
+msgid ""
+"{Natsume}\n"
+"\"Kind of...\""
 msgstr ""
 
 #: 40504:113
-
 msgid "She said curtly, as she tangled her fingers around mine."
 msgstr ""
 
 #: 40504:114
-
-msgid "{Amamiya}\n\"Natsume!!!\""
+msgid ""
+"{Amamiya}\n"
+"\"Natsume!!!\""
 msgstr ""
 
 #: 40504:116
-
-msgid "{Mei}\n\"Hey, guys!! Hurry on over!!\""
+msgid ""
+"{Mei}\n"
+"\"Hey, guys!! Hurry on over!!\""
 msgstr ""
 
 #: 40504:117
-
-msgid "{Kazushi}\n\"Coming!\""
+msgid ""
+"{Kazushi}\n"
+"\"Coming!\""
 msgstr ""
 
 #: 40504:118
-
 msgid "I started walking, swinging our arms together."
 msgstr ""
 
 #: 40504:119
-
-msgid "{Natsume}\n\"Does this face work?\""
+msgid ""
+"{Natsume}\n"
+"\"Does this face work?\""
 msgstr ""
 
 #: 40504:120
-
-msgid "{Kazushi}\n\"Yes, you look adorable, so don't worry.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes, you look adorable, so don't worry.\""
 msgstr ""
 
 #: 40504:121
-
-msgid "{Natsume}\n\"I-I see. When I see them, should I say 'home sweet home'?\""
+msgid ""
+"{Natsume}\n"
+"\"I-I see. When I see them, should I say 'home sweet home'?\""
 msgstr ""
 
 #: 40504:122
-
-msgid "{Kazushi}\n\"You don't want to say that until a little bit later. The first thing for you to say is...\""
+msgid ""
+"{Kazushi}\n"
+"\"You don't want to say that until a little bit later. The first thing for you to say is...\""
 msgstr ""
 
 #: 40504:123
-
 msgid "I'm home......"
 msgstr ""
-

@@ -8,976 +8,1090 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 02986:8
-
-msgid "{Kazushi}\n\"Hi there!\nYou're looking beautiful as always!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hi there!\n"
+"You're looking beautiful as always!\""
 msgstr ""
 
 #: 02986:9
-
-msgid "{Cafeteria Lady}\n\"All right, all right. How much rice you want?\""
+msgid ""
+"{Cafeteria Lady}\n"
+"\"All right, all right. How much rice you want?\""
 msgstr ""
 
 #: 02986:10
-
-msgid "{Kazushi}\n\"As big as an F cup!\""
+msgid ""
+"{Kazushi}\n"
+"\"As big as an F cup!\""
 msgstr ""
 
 #: 02986:11
-
-msgid "{Cafeteria Lady}\n\"That's about the size of my breasts.\""
+msgid ""
+"{Cafeteria Lady}\n"
+"\"That's about the size of my breasts.\""
 msgstr ""
 
 #: 02986:14
-
-msgid "{Appo}\n\"Huh? Really? Don't sway me.\""
+msgid ""
+"{Appo}\n"
+"\"Huh? Really? Don't sway me.\""
 msgstr ""
 
 #: 02986:15
-
 msgid "Appo will take any woman as long as she's got a nice rack."
 msgstr ""
 
 #: 02986:19
-
-msgid "{Ran}\n\"How do you guys manage to keep pulling this off? You get extra food for free all the time!\""
+msgid ""
+"{Ran}\n"
+"\"How do you guys manage to keep pulling this off? You get extra food for free all the time!\""
 msgstr ""
 
 #: 02986:20
-
-msgid "{Kazushi}\n\"It's because I'm handsome.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's because I'm handsome.\""
 msgstr ""
 
 #: 02986:25
-
-msgid "{Sakura}\n\"Ahaha, you're funny, Harucchi.\""
+msgid ""
+"{Sakura}\n"
+"\"Ahaha, you're funny, Harucchi.\""
 msgstr ""
 
 #: 02986:26
-
-msgid "{Kazushi}\n\"That's not something to laugh at.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's not something to laugh at.\""
 msgstr ""
 
 #: 02986:29
-
-msgid "{Ran}\n\"Hi! Can I get extras, too?\""
+msgid ""
+"{Ran}\n"
+"\"Hi! Can I get extras, too?\""
 msgstr ""
 
 #: 02986:30
-
-msgid "{Cafeteria Lady}\n\"All right. Anybody else?\""
+msgid ""
+"{Cafeteria Lady}\n"
+"\"All right. Anybody else?\""
 msgstr ""
 
 #: 02986:34
-
-msgid "{Rin}\n\"I'm fine, thanks. I don't want to get fat before summer...\""
+msgid ""
+"{Rin}\n"
+"\"I'm fine, thanks. I don't want to get fat before summer...\""
 msgstr ""
 
 #: 02986:37
-
-msgid "{Sakura}\n\"You worry about your weight too much, Rin. But I'll just take a regular size too.\""
+msgid ""
+"{Sakura}\n"
+"\"You worry about your weight too much, Rin. But I'll just take a regular size too.\""
 msgstr ""
 
 #: 02986:42
-
-msgid "{Cafeteria Lady}\n\"How about you, pretty boy?\""
+msgid ""
+"{Cafeteria Lady}\n"
+"\"How about you, pretty boy?\""
 msgstr ""
 
 #: 02986:43
-
 msgid "She was asking Pierre."
 msgstr ""
 
 #: 02986:46
-
-msgid "{Pierre}\n\"Huh? P-pretty?\""
+msgid ""
+"{Pierre}\n"
+"\"Huh? P-pretty?\""
 msgstr ""
 
 #: 02986:47
-
 msgid "Pierre suddenly went pale."
 msgstr ""
 
 #: 02986:48
-
-msgid "{Cafeteria Lady}\n\"Yeah, you, pretty boy.\""
+msgid ""
+"{Cafeteria Lady}\n"
+"\"Yeah, you, pretty boy.\""
 msgstr ""
 
 #: 02986:49
-
-msgid "{Pierre}\n\"Pretty...pretty... Nooooooooooooo!!\""
+msgid ""
+"{Pierre}\n"
+"\"Pretty...pretty... Nooooooooooooo!!\""
 msgstr ""
 
 #: 02986:51
-
 msgid "Pierre sat down on the spot and hid his head between his legs like in a duck and cover drill."
 msgstr ""
 
 #: 02986:54
-
-msgid "{Appo}\n\"What's the matter with him?\""
+msgid ""
+"{Appo}\n"
+"\"What's the matter with him?\""
 msgstr ""
 
 #: 02986:55
-
-msgid "{Kazushi}\n\"I don't know! What happened, Pierre?\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't know! What happened, Pierre?\""
 msgstr ""
 
 #: 02986:59
-
-msgid "{Pierre}\n\"P-pretty......pretty...I-I'm not your pretty!!\""
+msgid ""
+"{Pierre}\n"
+"\"P-pretty......pretty...I-I'm not your pretty!!\""
 msgstr ""
 
 #: 02986:65
-
-msgid "{Daigo}\n\"What's his problem?\""
+msgid ""
+"{Daigo}\n"
+"\"What's his problem?\""
 msgstr ""
 
 #: 02986:72
-
-msgid "{Sakura}\n\"Are you OK? Do you want to go to the nurse's office?\""
+msgid ""
+"{Sakura}\n"
+"\"Are you OK? Do you want to go to the nurse's office?\""
 msgstr ""
 
 #: 02986:76
-
-msgid "{Cafeteria Lady}\n\"He looks pale. Are you sure he's all right?\""
+msgid ""
+"{Cafeteria Lady}\n"
+"\"He looks pale. Are you sure he's all right?\""
 msgstr ""
 
 #: 02986:77
-
 msgid "She looked down on him from over the counter."
 msgstr ""
 
 #: 02986:80
-
-msgid "{Pierre}\n\"Ahhhhh!!\""
+msgid ""
+"{Pierre}\n"
+"\"Ahhhhh!!\""
 msgstr ""
 
 #: 02986:82
-
 msgid "As soon as Pierre made eye contact with the cafeteria lady, he scuttled off into a corner."
 msgstr ""
 
 #: 02986:85
-
-msgid "{Pierre}\n\"Ch-change up! Change! I demand a change!\""
+msgid ""
+"{Pierre}\n"
+"\"Ch-change up! Change! I demand a change!\""
 msgstr ""
 
 #: 02986:89
-
-msgid "{Ran}\n\"What did he mean by \"change\"?\""
+msgid ""
+"{Ran}\n"
+"\"What did he mean by \"change\"?\""
 msgstr ""
 
 #: 02986:95
-
-msgid "{Appo}\n\"Oh, I know...\""
+msgid ""
+"{Appo}\n"
+"\"Oh, I know...\""
 msgstr ""
 
 #: 02986:96
-
-msgid "{Daigo}\n\"Me too.\""
+msgid ""
+"{Daigo}\n"
+"\"Me too.\""
 msgstr ""
 
 #: 02986:97
-
 msgid "Us boys were unfortunate enough to understand what was going on. The girls were still in a daze."
 msgstr ""
 
 #: 02986:98
-
-msgid "{Kazushi}\n\"Hey, Pierre! Be strong!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, Pierre! Be strong!\""
 msgstr ""
 
 #: 02986:99
-
-msgid "{Daigo}\n\"I'll take him to the nurse's office.\""
+msgid ""
+"{Daigo}\n"
+"\"I'll take him to the nurse's office.\""
 msgstr ""
 
 #: 02986:102
-
-msgid "{Appo}\n\"He's so annoying...\""
+msgid ""
+"{Appo}\n"
+"\"He's so annoying...\""
 msgstr ""
 
 #: 02986:107
-
-msgid "{Pierre}\n\"..................\""
+msgid ""
+"{Pierre}\n"
+"\"..................\""
 msgstr ""
 
 #: 02986:113
-
-msgid "{Old Prostitute}\n\"Hello there, my pretty pretty. Could it be that you're a virgin?\""
+msgid ""
+"{Old Prostitute}\n"
+"\"Hello there, my pretty pretty. Could it be that you're a virgin?\""
 msgstr ""
 
 #: 02986:114
-
-msgid "{Pierre}\n\"Ahhh!? You're not a ---- school student?!\""
+msgid ""
+"{Pierre}\n"
+"\"Ahhh!? You're not a ---- school student?!\""
 msgstr ""
 
 #: 02986:115
-
-msgid "{Old Prostitute}\n\"How rude! Of course I am!\""
+msgid ""
+"{Old Prostitute}\n"
+"\"How rude! Of course I am!\""
 msgstr ""
 
 #: 02986:116
-
-msgid "{Pierre}\n\"No way!!\""
+msgid ""
+"{Pierre}\n"
+"\"No way!!\""
 msgstr ""
 
 #: 02986:117
-
-msgid "{Old Prostitute}\n\"Just snuggle up to me, pretty pretty.\""
+msgid ""
+"{Old Prostitute}\n"
+"\"Just snuggle up to me, pretty pretty.\""
 msgstr ""
 
 #: 02986:118
-
-msgid "{Pierre}\n\"Ahh, aah, Aaahhhhhh!!\""
+msgid ""
+"{Pierre}\n"
+"\"Ahh, aah, Aaahhhhhh!!\""
 msgstr ""
 
 #: 02986:119
-
-msgid "{Old Prostitute}\n\"How pretty...\""
+msgid ""
+"{Old Prostitute}\n"
+"\"How pretty...\""
 msgstr ""
 
 #: 02986:120
-
-msgid "{Pierre}\n\"I didn't! I didn't come! I didn't come!\""
+msgid ""
+"{Pierre}\n"
+"\"I didn't! I didn't come! I didn't come!\""
 msgstr ""
 
 #: 02986:121
-
-msgid "{Old Prostitute}\n\"My Pretty Pretty...you're so cute...\""
+msgid ""
+"{Old Prostitute}\n"
+"\"My Pretty Pretty...you're so cute...\""
 msgstr ""
 
 #: 02986:122
-
-msgid "{Pierre}\n\"I'm safe! I'm still a virgin! ...Virgin!\""
+msgid ""
+"{Pierre}\n"
+"\"I'm safe! I'm still a virgin! ...Virgin!\""
 msgstr ""
 
 #: 02986:128
-
-msgid "{Pierre}\n\"Ahhhhhhh!!\""
+msgid ""
+"{Pierre}\n"
+"\"Ahhhhhhh!!\""
 msgstr ""
 
 #: 02986:130
-
 msgid "Pierre swung straight up to 90 degrees. He was soaking wet from the sweat his nightmare caused."
 msgstr ""
 
 #: 02986:131
-
-msgid "{Kazushi}\n\"Are you all right?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you all right?\""
 msgstr ""
 
 #: 02986:134
-
-msgid "{Pierre}\n\"......Kazushi?\""
+msgid ""
+"{Pierre}\n"
+"\"......Kazushi?\""
 msgstr ""
 
 #: 02986:135
-
 msgid "He didn't realize where he was."
 msgstr ""
 
 #: 02986:141
-
-msgid "{Daigo}\n\"Here's a towel. Clean yourself off.\""
+msgid ""
+"{Daigo}\n"
+"\"Here's a towel. Clean yourself off.\""
 msgstr ""
 
 #: 02986:142
-
-msgid "{Appo}\n\"You're drenched. What kind of nightmare were you having?\""
+msgid ""
+"{Appo}\n"
+"\"You're drenched. What kind of nightmare were you having?\""
 msgstr ""
 
 #: 02986:149
-
-msgid "{Pierre}\n\"......it was a dream.\""
+msgid ""
+"{Pierre}\n"
+"\"......it was a dream.\""
 msgstr ""
 
 #: 02986:150
-
 msgid "He looked unshakeably relieved and wide awake."
 msgstr ""
 
 #: 02986:151
-
-msgid "{Kazushi}\n\"Was it the same dream as always?\""
+msgid ""
+"{Kazushi}\n"
+"\"Was it the same dream as always?\""
 msgstr ""
 
 #: 02986:152
-
 msgid "I'd heard about his experience before."
 msgstr ""
 
 #: 02986:155
-
-msgid "{Pierre}\n\"It was. I haven't been visited by that dark spectre for ages.\""
+msgid ""
+"{Pierre}\n"
+"\"It was. I haven't been visited by that dark spectre for ages.\""
 msgstr ""
 
 #: 02986:160
-
-msgid "{Daigo}\n\"Oh, that? You still have dreams about that?\""
+msgid ""
+"{Daigo}\n"
+"\"Oh, that? You still have dreams about that?\""
 msgstr ""
 
 #: 02986:161
-
-msgid "{Appo}\n\"I don't blame you for being traumatized. Losing your virginity to an ancient hooker like that...\""
+msgid ""
+"{Appo}\n"
+"\"I don't blame you for being traumatized. Losing your virginity to an ancient hooker like that...\""
 msgstr ""
 
 #: 02986:164
-
-msgid "{Pierre}\n\"That's not true! I wasn't in completely and I didn't come!\""
+msgid ""
+"{Pierre}\n"
+"\"That's not true! I wasn't in completely and I didn't come!\""
 msgstr ""
 
 #: 02986:167
-
-msgid "{Daigo}\n\"So that means you're still a virgin, same as us.\""
+msgid ""
+"{Daigo}\n"
+"\"So that means you're still a virgin, same as us.\""
 msgstr ""
 
 #: 02986:170
-
-msgid "{Pierre}\n\"That's not entirely true either! My tip was in, so I'm not a virgin.\""
+msgid ""
+"{Pierre}\n"
+"\"That's not entirely true either! My tip was in, so I'm not a virgin.\""
 msgstr ""
 
 #: 02986:171
-
-msgid "{Appo}\n\"Which one is it?\""
+msgid ""
+"{Appo}\n"
+"\"Which one is it?\""
 msgstr ""
 
 #: 02986:176
-
 msgid "Pierre had decided enough was enough one day, and went to a brothel by himself to lose his virginity."
 msgstr ""
 
 #: 02986:177
-
 msgid "The doorman screwed him over, though, and he wound up with an 83 year old prostitute as his first sexual partner."
 msgstr ""
 
 #: 02986:179
-
 msgid "As soon as Pierre realized his conquest wasn't going to be the young girl he was promised, his memory shut down and he blacked out. What we do know is that he came before he got it in all the way."
 msgstr ""
 
 #: 02986:181
-
 msgid "If that counts as his first time, then technically he's no longer a virgin."
 msgstr ""
 
 #: 02986:182
-
 msgid "But in that case, it means his first sex partner was a prostitute old enough to be his grandmother."
 msgstr ""
 
 #: 02986:183
-
 msgid "If it doesn't count, then he's still a virgin."
 msgstr ""
 
 #: 02986:184
-
 msgid "He doesn't want to be identified as a virgin, but he doesn't want to admit that was his first time either. We call this \"Pierre's Paradox\"."
 msgstr ""
 
 #: 02986:190
-
-msgid "{Appo}\n\"Who cares! Let's just say that you're not a virgin.\""
+msgid ""
+"{Appo}\n"
+"\"Who cares! Let's just say that you're not a virgin.\""
 msgstr ""
 
 #: 02986:191
-
-msgid "{Pierre}\n\"I'm serious! Give me a better idea!\""
+msgid ""
+"{Pierre}\n"
+"\"I'm serious! Give me a better idea!\""
 msgstr ""
 
 #: 02986:194
-
-msgid "{Daigo}\n\"That's not our problem!\""
+msgid ""
+"{Daigo}\n"
+"\"That's not our problem!\""
 msgstr ""
 
 #: 02986:195
-
-msgid "{Kazushi}\n\"It's your own fault that you let yourself get conned at the door!\""
+msgid ""
+"{Kazushi}\n"
+"\"It's your own fault that you let yourself get conned at the door!\""
 msgstr ""
 
 #: 02986:198
-
-msgid "{Pierre}\n\"I just wanted to become a man.\""
+msgid ""
+"{Pierre}\n"
+"\"I just wanted to become a man.\""
 msgstr ""
 
 #: 02986:199
-
-msgid "{Kazushi}\n\"I say you just have to press the grand reset button of life and start all over again.\""
+msgid ""
+"{Kazushi}\n"
+"\"I say you just have to press the grand reset button of life and start all over again.\""
 msgstr ""
 
 #: 02986:202
-
-msgid "{Daigo}\n\"Kazushi's right. Forget about your past and start over.\""
+msgid ""
+"{Daigo}\n"
+"\"Kazushi's right. Forget about your past and start over.\""
 msgstr ""
 
 #: 02986:207
-
-msgid "{Pierre}\n\"Th-that's right. I just need to do it again!\""
+msgid ""
+"{Pierre}\n"
+"\"Th-that's right. I just need to do it again!\""
 msgstr ""
 
 #: 02986:208
-
-msgid "{Appo}\n\"If it was that easy to do in the first place, we wouldn't have such trouble.\""
+msgid ""
+"{Appo}\n"
+"\"If it was that easy to do in the first place, we wouldn't have such trouble.\""
 msgstr ""
 
 #: 02986:209
-
-msgid "{Kazushi}\n\"Just give it a try! If it goes well, you can forget your past! You can be reborn as a new Pierre!\""
+msgid ""
+"{Kazushi}\n"
+"\"Just give it a try! If it goes well, you can forget your past! You can be reborn as a new Pierre!\""
 msgstr ""
 
 #: 02986:212
-
-msgid "{Pierre}\n\"I'll do it! From today, I'll be a totally new Pierre!\""
+msgid ""
+"{Pierre}\n"
+"\"I'll do it! From today, I'll be a totally new Pierre!\""
 msgstr ""
 
 #: 02986:226
-
-msgid "{Pierre}\n\"...this is not my day.\""
+msgid ""
+"{Pierre}\n"
+"\"...this is not my day.\""
 msgstr ""
 
 #: 02986:227
-
 msgid "He totally failed. He asked every girl he saw to no avail."
 msgstr ""
 
 #: 02986:228
-
-msgid "{Appo}\n\"It was a noble try.\""
+msgid ""
+"{Appo}\n"
+"\"It was a noble try.\""
 msgstr ""
 
 #: 02986:229
-
-msgid "{Pierre}\n\"Why won't they speak to me? Is this the Island of Unpopular Men? Is that the law around here?\""
+msgid ""
+"{Pierre}\n"
+"\"Why won't they speak to me? Is this the Island of Unpopular Men? Is that the law around here?\""
 msgstr ""
 
 #: 02986:230
-
-msgid "{Kazushi}\n\"I don't think so...\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't think so...\""
 msgstr ""
 
 #: 02986:233
-
-msgid "{Pierre}\n\"It wasn't just me. Daigo was there the whole time and he didn't have any success either.\""
+msgid ""
+"{Pierre}\n"
+"\"It wasn't just me. Daigo was there the whole time and he didn't have any success either.\""
 msgstr ""
 
 #: 02986:234
-
-msgid "{Daigo}\n\"Thanks for sharing that with everybody.\""
+msgid ""
+"{Daigo}\n"
+"\"Thanks for sharing that with everybody.\""
 msgstr ""
 
 #: 02986:235
-
-msgid "{Kazushi}\n\"Well, it's not like you've tried every girl.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, it's not like you've tried every girl.\""
 msgstr ""
 
 #: 02986:236
-
 msgid "Maybe that was bad advice. What if he tried to hit on every single girl here and still failed?"
 msgstr ""
 
 #: 02986:242
-
-msgid "{Haruka}\n\"Hey boys.\""
+msgid ""
+"{Haruka}\n"
+"\"Hey boys.\""
 msgstr ""
 
 #: 02986:243
-
 msgid "Haruka came to visit us. Her smile always provided a ray of sunshine."
 msgstr ""
 
 #: 02986:244
-
-msgid "{Kazushi}\n\"Hey you guys, you haven't asked Haruka yet, have you?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey you guys, you haven't asked Haruka yet, have you?\""
 msgstr ""
 
 #: 02986:249
-
-msgid "{Pierre}\n\"Oh yeah!\nHaruka-chan, will you go out with me so that I can get laid?\""
+msgid ""
+"{Pierre}\n"
+"\"Oh yeah!\n"
+"Haruka-chan, will you go out with me so that I can get laid?\""
 msgstr ""
 
 #: 02986:252
-
-msgid "{Haruka}\n\"Sorry! I don't think I can help you in that department!\""
+msgid ""
+"{Haruka}\n"
+"\"Sorry! I don't think I can help you in that department!\""
 msgstr ""
 
 #: 02986:255
-
 msgid "What a quick rejection."
 msgstr ""
 
 #: 02986:256
-
-msgid "{Pierre}\n\"Another failure......\""
+msgid ""
+"{Pierre}\n"
+"\"Another failure......\""
 msgstr ""
 
 #: 02986:264
-
-msgid "{Appo}\n\"I don't know if you should just go and die or not.\""
+msgid ""
+"{Appo}\n"
+"\"I don't know if you should just go and die or not.\""
 msgstr ""
 
 #: 02986:265
-
-msgid "{Daigo}\n\"Maybe he'd be happier...\""
+msgid ""
+"{Daigo}\n"
+"\"Maybe he'd be happier...\""
 msgstr ""
 
 #: 02986:266
-
-msgid "{Pierre}\n\"Haaaaaaaahhh!\""
+msgid ""
+"{Pierre}\n"
+"\"Haaaaaaaahhh!\""
 msgstr ""
 
 #: 02986:267
-
 msgid "I don't think I've ever seen a man cry this hard."
 msgstr ""
 
 #: 02986:273
-
-msgid "{Haruka}\n\"Ahaha... I heard you were calling out to every girl you passed. It's starting to scare them, so you should probably stop.\""
+msgid ""
+"{Haruka}\n"
+"\"Ahaha... I heard you were calling out to every girl you passed. It's starting to scare them, so you should probably stop.\""
 msgstr ""
 
 #: 02986:274
-
-msgid "{Kazushi}\n\"They are......\""
+msgid ""
+"{Kazushi}\n"
+"\"They are......\""
 msgstr ""
 
 #: 02986:275
-
 msgid "If they're scared, they won't give him a good answer."
 msgstr ""
 
 #: 02986:283
-
-msgid "{Appo}\n\"Don't worry, we'll put you at ease.\""
+msgid ""
+"{Appo}\n"
+"\"Don't worry, we'll put you at ease.\""
 msgstr ""
 
 #: 02986:284
-
-msgid "{Daigo}\n\"That's right, you've done enough... Pierre, you did your best. That's enough.\""
+msgid ""
+"{Daigo}\n"
+"\"That's right, you've done enough... Pierre, you did your best. That's enough.\""
 msgstr ""
 
 #: 02986:285
-
-msgid "{Pierre}\n\"Thanks, guys!!\""
+msgid ""
+"{Pierre}\n"
+"\"Thanks, guys!!\""
 msgstr ""
 
 #: 02986:286
-
 msgid "We all cried together in sympathy."
 msgstr ""
 
 #: 02986:287
-
-msgid "{Pierre}\n\"Please, God! Somebody take me to the paradise where I can get any woman I want!!\""
+msgid ""
+"{Pierre}\n"
+"\"Please, God! Somebody take me to the paradise where I can get any woman I want!!\""
 msgstr ""
 
 #: 02986:288
-
 msgid "I wish I could help him..."
 msgstr ""
 
 #: 02986:298
-
-msgid "{Yagami}\n\"How could I be of help to Pierre in such a matter?\""
+msgid ""
+"{Yagami}\n"
+"\"How could I be of help to Pierre in such a matter?\""
 msgstr ""
 
 #: 02986:299
-
 msgid "We asked for Yagami-sensei's help, but he just gave us a troubled look."
 msgstr ""
 
 #: 02986:300
-
-msgid "{Kazushi}\n\"You're a teacher, aren't you! You're supposed to guide your students!\""
+msgid ""
+"{Kazushi}\n"
+"\"You're a teacher, aren't you! You're supposed to guide your students!\""
 msgstr ""
 
 #: 02986:303
-
-msgid "{Yagami}\n\"I don't teach my students how to hit on girls. And Kazushi, since when have you been allowed to start talking back to me?\""
+msgid ""
+"{Yagami}\n"
+"\"I don't teach my students how to hit on girls. And Kazushi, since when have you been allowed to start talking back to me?\""
 msgstr ""
 
 #: 02986:304
-
 msgid "He squeezed my lips and twisted them."
 msgstr ""
 
 #: 02986:305
-
-msgid "{Kazushi}\n\"Ouch! I'm sorry!\""
+msgid ""
+"{Kazushi}\n"
+"\"Ouch! I'm sorry!\""
 msgstr ""
 
 #: 02986:311
-
-msgid "{Daigo}\n\"But sensei, you're popular. We thought you could teach him something.\""
+msgid ""
+"{Daigo}\n"
+"\"But sensei, you're popular. We thought you could teach him something.\""
 msgstr ""
 
 #: 02986:312
-
-msgid "{Appo}\n\"Yagami-sensei! Don't you have any secrets to being a great womanizer!?\""
+msgid ""
+"{Appo}\n"
+"\"Yagami-sensei! Don't you have any secrets to being a great womanizer!?\""
 msgstr ""
 
 #: 02986:317
-
-msgid "{Yagami}\n\"Why don't you ask Ibuki-sensei? She's the popular one...\""
+msgid ""
+"{Yagami}\n"
+"\"Why don't you ask Ibuki-sensei? She's the popular one...\""
 msgstr ""
 
 #: 02986:322
-
 msgid "Yagami-sensei subtly shifted the conversation over to Mei-sensei, who was sitting in front."
 msgstr ""
 
 #: 02986:325
-
-msgid "{Mei}\n\"I'm not that popular.\nI'd like to help Horikawa-kun if I could, but not with this.\""
+msgid ""
+"{Mei}\n"
+"\"I'm not that popular.\n"
+"I'd like to help Horikawa-kun if I could, but not with this.\""
 msgstr ""
 
 #: 02986:329
-
-msgid "{Daigo}\n\"How about you helping Pierre personally?\""
+msgid ""
+"{Daigo}\n"
+"\"How about you helping Pierre personally?\""
 msgstr ""
 
 #: 02986:332
-
-msgid "{Mei}\n\"What? You mean I should go out with him?\""
+msgid ""
+"{Mei}\n"
+"\"What? You mean I should go out with him?\""
 msgstr ""
 
 #: 02986:339
-
-msgid "{Appo}\n\"Don't be such a loser, Daigo! She's too good for him!\""
+msgid ""
+"{Appo}\n"
+"\"Don't be such a loser, Daigo! She's too good for him!\""
 msgstr ""
 
 #: 02986:340
-
-msgid "{Kazushi}\n\"I agree.\""
+msgid ""
+"{Kazushi}\n"
+"\"I agree.\""
 msgstr ""
 
 #: 02986:343
-
-msgid "{Mei}\n\"Don't forget that I'm also your teacher.\""
+msgid ""
+"{Mei}\n"
+"\"Don't forget that I'm also your teacher.\""
 msgstr ""
 
 #: 02986:344
-
 msgid "That's true. There's no way a teacher would go out with any of us."
 msgstr ""
 
 #: 02986:345
-
-msgid "{Kazushi}\n\"He's a good guy, though...\""
+msgid ""
+"{Kazushi}\n"
+"\"He's a good guy, though...\""
 msgstr ""
 
 #: 02986:348
-
-msgid "{Appo}\n\"We'll sure miss him.\""
+msgid ""
+"{Appo}\n"
+"\"We'll sure miss him.\""
 msgstr ""
 
 #: 02986:351
-
-msgid "{Daigo}\n\"He's not dead yet.\""
+msgid ""
+"{Daigo}\n"
+"\"He's not dead yet.\""
 msgstr ""
 
 #: 02986:355
-
-msgid "{Yagami}\n\"By the way, a letter arrived for him in today's post. Can you guys pass it on for me?\""
+msgid ""
+"{Yagami}\n"
+"\"By the way, a letter arrived for him in today's post. Can you guys pass it on for me?\""
 msgstr ""
 
 #: 02986:356
-
-msgid "{Kazushi}\n\"A letter?\""
+msgid ""
+"{Kazushi}\n"
+"\"A letter?\""
 msgstr ""
 
 #: 02986:360
-
 msgid "I took the envelope from him. Pierre's name was written carefully in a mature woman's handwriting."
 msgstr ""
 
 #: 02986:361
-
 msgid "I wonder who it's from?"
 msgstr ""
 
 #: 02986:368
-
-msgid "{Pierre}\n\"What!?\nHow does she know I'm here!?\""
+msgid ""
+"{Pierre}\n"
+"\"What!?\n"
+"How does she know I'm here!?\""
 msgstr ""
 
 #: 02986:369
-
 msgid "As soon as he saw the sender, he tossed the letter away. Appo picked it up."
 msgstr ""
 
 #: 02986:373
-
-msgid "{Appo}\n\"Who's it from? ...Mitsuura Kame?\""
+msgid ""
+"{Appo}\n"
+"\"Who's it from? ...Mitsuura Kame?\""
 msgstr ""
 
 #: 02986:374
-
-msgid "{Kazushi}\n\"Is that even a person's name?\""
+msgid ""
+"{Kazushi}\n"
+"\"Is that even a person's name?\""
 msgstr ""
 
 #: 02986:379
-
-msgid "{Daigo}\n\"What an old-fashioned name. Is that your grandma?\""
+msgid ""
+"{Daigo}\n"
+"\"What an old-fashioned name. Is that your grandma?\""
 msgstr ""
 
 #: 02986:386
-
-msgid "{Pierre}\n\"No...\nIt's the one who too-\n......possibly took my virginity.\""
+msgid ""
+"{Pierre}\n"
+"\"No...\n"
+"It's the one who too-\n"
+"......possibly took my virginity.\""
 msgstr ""
 
 #: 02986:391
-
 msgid ".................."
 msgstr ""
 
 #: 02986:392
-
 msgid "Time stopped."
 msgstr ""
 
 #: 02986:393
-
-msgid "{Daigo}\n\"...That old hooker?\""
+msgid ""
+"{Daigo}\n"
+"\"...That old hooker?\""
 msgstr ""
 
 #: 02986:394
-
-msgid "{Pierre}\n\"Yep.\""
+msgid ""
+"{Pierre}\n"
+"\"Yep.\""
 msgstr ""
 
 #: 02986:395
-
-msgid "{Kazushi}\n\"Huh?! Why the hell is she sending you letters?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh?! Why the hell is she sending you letters?!\""
 msgstr ""
 
 #: 02986:396
-
-msgid "{Pierre}\n\"We kinda became pen pals as I consulted her for advice...\""
+msgid ""
+"{Pierre}\n"
+"\"We kinda became pen pals as I consulted her for advice...\""
 msgstr ""
 
 #: 02986:397
-
-msgid "{Kazushi}\n\"Are you serious......?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you serious......?\""
 msgstr ""
 
 #: 02986:398
-
 msgid "We all fell silent. Pierre looked like a creature from another world right now."
 msgstr ""
 
 #: 02986:401
-
-msgid "{Appo}\n\"How can you be pen pals with a prostitute?\""
+msgid ""
+"{Appo}\n"
+"\"How can you be pen pals with a prostitute?\""
 msgstr ""
 
 #: 02986:402
-
-msgid "{Daigo}\n\"She gives good after-service...I guess?\""
+msgid ""
+"{Daigo}\n"
+"\"She gives good after-service...I guess?\""
 msgstr ""
 
 #: 02986:403
-
-msgid "{Kazushi}\n\"I'm pretty sure this crosses the bounds of after-service.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm pretty sure this crosses the bounds of after-service.\""
 msgstr ""
 
 #: 02986:404
-
 msgid "For the first time, we thought this guy may have a heart of gold after all."
 msgstr ""
 
 #: 02986:407
-
-msgid "{Pierre}\n\"Give me a second. Let me finish writing her back.\""
+msgid ""
+"{Pierre}\n"
+"\"Give me a second. Let me finish writing her back.\""
 msgstr ""
 
 #: 02986:410
-
-msgid "{Appo}\n\"You what!?\""
+msgid ""
+"{Appo}\n"
+"\"You what!?\""
 msgstr ""
 
 #: 02986:411
-
-msgid "{Kazushi}\n\"You're amazing.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're amazing.\""
 msgstr ""
 
 #: 02986:414
-
-msgid "{Daigo}\n\"I don't know if you're serious, or just dutiful.\""
+msgid ""
+"{Daigo}\n"
+"\"I don't know if you're serious, or just dutiful.\""
 msgstr ""
 
 #: 02986:417
-
-msgid "{Appo}\n\"You grave robber!\""
+msgid ""
+"{Appo}\n"
+"\"You grave robber!\""
 msgstr ""
 
 #: 02986:420
-
-msgid "{Pierre}\n\"No more old women! I want young maidens!\""
+msgid ""
+"{Pierre}\n"
+"\"No more old women! I want young maidens!\""
 msgstr ""
 
 #: 02986:421
-
 msgid "He continued to write her back anyways. Maybe one day, some girl will notice his good side."
 msgstr ""
 
 #: 02986:431
-
-msgid "{Pierre}\n\"...I still feel sick.\""
+msgid ""
+"{Pierre}\n"
+"\"...I still feel sick.\""
 msgstr ""
 
 #: 02986:432
-
-msgid "{Kazushi}\n\"What's wrong? You look pale.\""
+msgid ""
+"{Kazushi}\n"
+"\"What's wrong? You look pale.\""
 msgstr ""
 
 #: 02986:437
-
-msgid "{Appo}\n\"He woke up in the middle of the night and downed a bottle of vodka by himself.\""
+msgid ""
+"{Appo}\n"
+"\"He woke up in the middle of the night and downed a bottle of vodka by himself.\""
 msgstr ""
 
 #: 02986:438
-
-msgid "{Pierre}\n\"Actually, not by myself......\""
+msgid ""
+"{Pierre}\n"
+"\"Actually, not by myself......\""
 msgstr ""
 
 #: 02986:441
-
-msgid "{Cafeteria Lady}\n\"Pi-chan, don't look so down. Come on, eat up.\""
+msgid ""
+"{Cafeteria Lady}\n"
+"\"Pi-chan, don't look so down. Come on, eat up.\""
 msgstr ""
 
 #: 02986:442
-
 msgid "The cafeteria lady handed him his lunch with free double portions."
 msgstr ""
 
 #: 02986:445
-
-msgid "{Appo}\n\"Why just him?\""
+msgid ""
+"{Appo}\n"
+"\"Why just him?\""
 msgstr ""
 
 #: 02986:446
-
 msgid "Appo seemed unsatisfied that it was only Pierre getting extra service, but I caught something else."
 msgstr ""
 
 #: 02986:447
-
-msgid "{Kazushi}\n\"...did she just call you little Pi-chan?\""
+msgid ""
+"{Kazushi}\n"
+"\"...did she just call you little Pi-chan?\""
 msgstr ""
 
 #: 02986:452
-
-msgid "{Daigo}\n\"Oi, Pierre, what did you do with her?\""
+msgid ""
+"{Daigo}\n"
+"\"Oi, Pierre, what did you do with her?\""
 msgstr ""
 
 #: 02986:459
-
-msgid "{Pierre}\n\"Well......\""
+msgid ""
+"{Pierre}\n"
+"\"Well......\""
 msgstr ""
 
 #: 02986:460
-
 msgid "He looked even paler than before. Did he have a hangover?"
 msgstr ""
 
 #: 02986:462
-
-msgid "{Pierre}\n\"Well, last night I asked her to get me the liquor so I could drink, but partway through, my memory breaks off... When I came to, it was morning and I found myself in her room...\""
+msgid ""
+"{Pierre}\n"
+"\"Well, last night I asked her to get me the liquor so I could drink, but partway through, my memory breaks off... When I came to, it was morning and I found myself in her room...\""
 msgstr ""
 
 #: 02986:464
-
-msgid "{Kazushi}\n\"What?! You did it again?!\""
+msgid ""
+"{Kazushi}\n"
+"\"What?! You did it again?!\""
 msgstr ""
 
 #: 02986:467
-
-msgid "{Pierre}\n\"No!\n...but...\""
+msgid ""
+"{Pierre}\n"
+"\"No!\n"
+"...but...\""
 msgstr ""
 
 #: 02986:468
-
-msgid "{Daigo}\n\"But what?\""
+msgid ""
+"{Daigo}\n"
+"\"But what?\""
 msgstr ""
 
 #: 02986:471
-
-msgid "{Pierre}\n\"I woke up wearing just my underwear......\""
+msgid ""
+"{Pierre}\n"
+"\"I woke up wearing just my underwear......\""
 msgstr ""
 
 #: 02986:476
-
-msgid "{Kazushi}\n\"Wow......\""
+msgid ""
+"{Kazushi}\n"
+"\"Wow......\""
 msgstr ""
 
 #: 02986:477
-
-msgid "{Pierre}\n\"And she was sleeping beside me, her hair all a mess...\""
+msgid ""
+"{Pierre}\n"
+"\"And she was sleeping beside me, her hair all a mess...\""
 msgstr ""
 
 #: 02986:478
-
-msgid "{Boys}\n\"............\""
+msgid ""
+"{Boys}\n"
+"\"............\""
 msgstr ""
 
 #: 02986:479
-
-msgid "{Pierre}\n\"I zoomed out of her room like I was escaping from an asylum.\""
+msgid ""
+"{Pierre}\n"
+"\"I zoomed out of her room like I was escaping from an asylum.\""
 msgstr ""
 
 #: 02986:482
-
-msgid "{Pierre}\n\"I don't remember anything!!\""
+msgid ""
+"{Pierre}\n"
+"\"I don't remember anything!!\""
 msgstr ""
 
 #: 02986:483
-
 msgid "This guy needs serious help."
 msgstr ""
 
 #: 02986:486
-
-msgid "{Appo}\n\"I knew her face looked particularly youthful this morning.\""
+msgid ""
+"{Appo}\n"
+"\"I knew her face looked particularly youthful this morning.\""
 msgstr ""
 
 #: 02986:489
-
-msgid "{Daigo}\n\"Yeah, she definitely had a womanly glow today.\""
+msgid ""
+"{Daigo}\n"
+"\"Yeah, she definitely had a womanly glow today.\""
 msgstr ""
 
 #: 02986:492
-
-msgid "{Pierre}\n\"No! Someone please say that's not it!!\""
+msgid ""
+"{Pierre}\n"
+"\"No! Someone please say that's not it!!\""
 msgstr ""
 
 #: 02986:495
-
-msgid "{Appo}\n\"Just go off and die!! You're already screwed!!\""
+msgid ""
+"{Appo}\n"
+"\"Just go off and die!! You're already screwed!!\""
 msgstr ""
 
 #: 02986:498
-
-msgid "{Pierre}\n\"Don't tell me that!!\""
+msgid ""
+"{Pierre}\n"
+"\"Don't tell me that!!\""
 msgstr ""
 
 #: 02986:499
-
 msgid "I agreed with Appo."
 msgstr ""
 
 #: 02986:500
-
-msgid "{Pierre}\n\"Don't abandon me, you guys!! Please!!\""
+msgid ""
+"{Pierre}\n"
+"\"Don't abandon me, you guys!! Please!!\""
 msgstr ""
 
 #: 02986:501
-
-msgid "{Kazushi}\n\"I don't know...\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't know...\""
 msgstr ""
-

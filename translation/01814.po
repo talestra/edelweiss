@@ -8,46 +8,49 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 01814:5
-
-msgid "{Kazushi}\n\"Because I'm worried and just can't leave you alone, Natsume-chan.\""
+msgid ""
+"{Kazushi}\n"
+"\"Because I'm worried and just can't leave you alone, Natsume-chan.\""
 msgstr ""
 
 #: 01814:8
-
 msgid "She scrunched up her face to look upset when I said it."
 msgstr ""
 
 #: 01814:9
-
-msgid "{Natsume}\n\"Argh... Are you treating me like a kid, Haruma?\""
+msgid ""
+"{Natsume}\n"
+"\"Argh... Are you treating me like a kid, Haruma?\""
 msgstr ""
 
 #: 01814:10
-
-msgid "{Kazushi}\n\"Did I say something wrong?\""
+msgid ""
+"{Kazushi}\n"
+"\"Did I say something wrong?\""
 msgstr ""
 
 #: 01814:11
-
-msgid "{Natsume}\n\"I'm not so pitiful that you need to treat me like a child.\""
+msgid ""
+"{Natsume}\n"
+"\"I'm not so pitiful that you need to treat me like a child.\""
 msgstr ""
 
 #: 01814:12
-
 msgid "I guess that if I treat her like a kid she gets offended..."
 msgstr ""
 
 #: 01814:15
-
-msgid "{Natsume}\n\"Well, I guess it's okay since you're an idiot, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"Well, I guess it's okay since you're an idiot, Haruma.\""
 msgstr ""
 
 #: 01814:16
-
-msgid "{Kazushi}\n\"Wow, thanks a lot.\""
+msgid ""
+"{Kazushi}\n"
+"\"Wow, thanks a lot.\""
 msgstr ""
-

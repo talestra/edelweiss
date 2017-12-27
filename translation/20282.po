@@ -8,736 +8,793 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 20282:7
-
 msgid "Having someone to love made my day to day life on the island so much more enriching."
 msgstr ""
 
 #: 20282:8
-
-msgid "{Kazushi}\n\"Hey, Mizuki.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, Mizuki.\""
 msgstr ""
 
 #: 20282:9
-
 msgid "I saw Mizuki in the laundry room."
 msgstr ""
 
 #: 20282:13
-
-msgid "{Mizuki}\n\"Oh, good morning, Kazushi!\""
+msgid ""
+"{Mizuki}\n"
+"\"Oh, good morning, Kazushi!\""
 msgstr ""
 
 #: 20282:14
-
 msgid "She seemed to be in a good mood this morning. I felt so happy and excited just to see her."
 msgstr ""
 
 #: 20282:17
-
-msgid "{Mizuki}\n\"Oh, right!\""
+msgid ""
+"{Mizuki}\n"
+"\"Oh, right!\""
 msgstr ""
 
 #: 20282:18
-
 msgid "She sidled up close to me and whispered in my ear."
 msgstr ""
 
 #: 20282:21
-
-msgid "{Mizuki}\n\"It came like it should.\""
+msgid ""
+"{Mizuki}\n"
+"\"It came like it should.\""
 msgstr ""
 
 #: 20282:22
-
-msgid "{Kazushi}\n\"What came?\""
+msgid ""
+"{Kazushi}\n"
+"\"What came?\""
 msgstr ""
 
 #: 20282:23
-
 msgid "I didn't work out the message right away, but..."
 msgstr ""
 
 #: 20282:24
-
-msgid "{Kazushi}\n\"Oh, your period.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, your period.\""
 msgstr ""
 
 #: 20282:27
-
-msgid "{Mizuki}\n\"Right. It came as scheduled. So you can relax.\""
+msgid ""
+"{Mizuki}\n"
+"\"Right. It came as scheduled. So you can relax.\""
 msgstr ""
 
 #: 20282:28
-
-msgid "{Kazushi}\n\"Oh, good.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, good.\""
 msgstr ""
 
 #: 20282:29
-
 msgid "I guess I don't have to worry about her being pregnant if her period came. Man, I can't believe I'm talking about periods. I never thought this day would come."
 msgstr ""
 
 #: 20282:30
-
 msgid "I NEVER thought this day would come."
 msgstr ""
 
 #: 20282:31
-
 msgid "I guess that romantic relationship means that we start discussing topics that we've never dealt with before."
 msgstr ""
 
 #: 20282:34
-
-msgid "{Mizuki}\n\"Oh, let me warn you now. My periods are heavy, so tomorrow or the day after, I may be in a really bad mood. I'm sorry if I take it out on you.\""
+msgid ""
+"{Mizuki}\n"
+"\"Oh, let me warn you now. My periods are heavy, so tomorrow or the day after, I may be in a really bad mood. I'm sorry if I take it out on you.\""
 msgstr ""
 
 #: 20282:35
-
 msgid "She bowed to me with her hands together like she was praying."
 msgstr ""
 
 #: 20282:36
-
-msgid "{Kazushi}\n\"I think I can deal with that.\""
+msgid ""
+"{Kazushi}\n"
+"\"I think I can deal with that.\""
 msgstr ""
 
 #: 20282:39
-
-msgid "{Mizuki}\n\"But I don't just take it out on everyone around me. I'll probably go after you because you're the only one I want love and comfort from, so forgive me, okay?\""
+msgid ""
+"{Mizuki}\n"
+"\"But I don't just take it out on everyone around me. I'll probably go after you because you're the only one I want love and comfort from, so forgive me, okay?\""
 msgstr ""
 
 #: 20282:40
-
-msgid "{Kazushi}\n\"I kind of feel sorry for you. Yeah, sure. Come to me whenever you need love and comfort. I-I am your boyfriend, you know.\""
+msgid ""
+"{Kazushi}\n"
+"\"I kind of feel sorry for you. Yeah, sure. Come to me whenever you need love and comfort. I-I am your boyfriend, you know.\""
 msgstr ""
 
 #: 20282:41
-
 msgid "I felt a bit embarrassed. Mizuki and I both looked flushed."
 msgstr ""
 
 #: 20282:44
-
-msgid "{Mizuki}\n\"Thanks, Kazushi.\""
+msgid ""
+"{Mizuki}\n"
+"\"Thanks, Kazushi.\""
 msgstr ""
 
 #: 20282:45
-
-msgid "{Kazushi}\n\"You can count on me.\""
+msgid ""
+"{Kazushi}\n"
+"\"You can count on me.\""
 msgstr ""
 
 #: 20282:51
-
 msgid "The next day..."
 msgstr ""
 
 #: 20282:54
-
-msgid "{Rin}\n\"Haruma-kun!\""
+msgid ""
+"{Rin}\n"
+"\"Haruma-kun!\""
 msgstr ""
 
 #: 20282:55
-
-msgid "{Kazushi}\n\"Huh? Fujisaki-san?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Fujisaki-san?\""
 msgstr ""
 
 #: 20282:56
-
-msgid "Rin ran towards me as she waved her hand.\nThere must be something she wants to tell me."
+msgid ""
+"Rin ran towards me as she waved her hand.\n"
+"There must be something she wants to tell me."
 msgstr ""
 
 #: 20282:57
-
-msgid "{Kazushi}\n\"What's going on?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's going on?\""
 msgstr ""
 
 #: 20282:60
-
-msgid "{Rin}\n\"Well, Mizuki-chan...\""
+msgid ""
+"{Rin}\n"
+"\"Well, Mizuki-chan...\""
 msgstr ""
 
 #: 20282:61
-
 msgid "Ran looked around and whispered in my ear."
 msgstr ""
 
 #: 20282:62
-
-msgid "{Kazushi}\n\"What? She wants to see me?\""
+msgid ""
+"{Kazushi}\n"
+"\"What? She wants to see me?\""
 msgstr ""
 
 #: 20282:65
-
-msgid "{Rin}\n\"Yeah. She's, umm... not feeling so good today.\""
+msgid ""
+"{Rin}\n"
+"\"Yeah. She's, umm... not feeling so good today.\""
 msgstr ""
 
 #: 20282:66
-
-msgid "{Kazushi}\n\"Not feeling so good? ...Oh, that.\""
+msgid ""
+"{Kazushi}\n"
+"\"Not feeling so good? ...Oh, that.\""
 msgstr ""
 
 #: 20282:67
-
 msgid "It rang a bell right away - we'd talked about this yesterday."
 msgstr ""
 
 #: 20282:68
-
-msgid "{Rin}\n\"Huh? Haruma-kun, do you keep track of Mizuki-chan's cycle?\""
+msgid ""
+"{Rin}\n"
+"\"Huh? Haruma-kun, do you keep track of Mizuki-chan's cycle?\""
 msgstr ""
 
 #: 20282:69
-
 msgid "Rin seemed surprised."
 msgstr ""
 
 #: 20282:70
-
-msgid "{Kazushi}\n\"No, not the exact cycle yet. But it's a boyfriend's job to be considerate about that, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"No, not the exact cycle yet. But it's a boyfriend's job to be considerate about that, right?\""
 msgstr ""
 
 #: 20282:71
-
-msgid "{Rin}\n\"Wow. You've really got it together. You are a good boyfriend.\""
+msgid ""
+"{Rin}\n"
+"\"Wow. You've really got it together. You are a good boyfriend.\""
 msgstr ""
 
 #: 20282:72
-
 msgid "Then she seemed impressed."
 msgstr ""
 
 #: 20282:73
-
-msgid "{Rin}\n\"Well, Mizuki-chan's calling, so will you come?\""
+msgid ""
+"{Rin}\n"
+"\"Well, Mizuki-chan's calling, so will you come?\""
 msgstr ""
 
 #: 20282:74
-
-msgid "{Kazushi}\n\"Sure. I'll provide her with as much comfort as she wants.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure. I'll provide her with as much comfort as she wants.\""
 msgstr ""
 
 #: 20282:82
-
-msgid "{Mizuki}\n\"You're late.\""
+msgid ""
+"{Mizuki}\n"
+"\"You're late.\""
 msgstr ""
 
 #: 20282:83
-
 msgid "Mizuki greeted me in a bad mood right off the bat. I planned to comfort her, but I was a little frightened by that frown. She looked so tired as she lay in bed."
 msgstr ""
 
 #: 20282:84
-
-msgid "{Kazushi}\n\"Oh, sorry. How are you feeling?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, sorry. How are you feeling?\""
 msgstr ""
 
 #: 20282:87
-
-msgid "{Mizuki}\n\"Do you think I'm feeling good? Ugh, uugh...\""
+msgid ""
+"{Mizuki}\n"
+"\"Do you think I'm feeling good? Ugh, uugh...\""
 msgstr ""
 
 #: 20282:88
-
 msgid "She clutched her stomach and groaned."
 msgstr ""
 
 #: 20282:89
-
-msgid "{Mizuki}\n\"My stomach hurts. It feels so bad! Uugh, uugh!\""
+msgid ""
+"{Mizuki}\n"
+"\"My stomach hurts. It feels so bad! Uugh, uugh!\""
 msgstr ""
 
 #: 20282:90
-
-msgid "{Kazushi}\n\"Uh, umm, what should I do?\""
+msgid ""
+"{Kazushi}\n"
+"\"Uh, umm, what should I do?\""
 msgstr ""
 
 #: 20282:91
-
 msgid "I didn't have the slightest idea of what to do."
 msgstr ""
 
 #: 20282:92
-
 msgid "In a situation like this I'm completely powerless. All I can do is watch and wait for instructions from Fujisaki-san."
 msgstr ""
 
 #: 20282:96
-
-msgid "{Rin}\n\"Maybe you should rub her back...\""
+msgid ""
+"{Rin}\n"
+"\"Maybe you should rub her back...\""
 msgstr ""
 
 #: 20282:97
-
-msgid "{Kazushi}\n\"Oh, okay.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, okay.\""
 msgstr ""
 
 #: 20282:99
-
 msgid "Just watching her pain was heartbreaking. I rushed over to sit next to her."
 msgstr ""
 
 #: 20282:100
-
-msgid "{Kazushi}\n\"I hope this helps you.\""
+msgid ""
+"{Kazushi}\n"
+"\"I hope this helps you.\""
 msgstr ""
 
 #: 20282:101
-
 msgid "I touched her back."
 msgstr ""
 
 #: 20282:104
-
-msgid "{Mizuki}\n\"Hmm?\""
+msgid ""
+"{Mizuki}\n"
+"\"Hmm?\""
 msgstr ""
 
 #: 20282:105
-
 msgid "Mizuki grunted through a sniffle. It seemed she felt a bit better from the back rub."
 msgstr ""
 
 #: 20282:109
-
-msgid "{Rin}\n\"Simple touching can sometimes make a big difference. Maybe the human touch has some kind of magic power.\""
+msgid ""
+"{Rin}\n"
+"\"Simple touching can sometimes make a big difference. Maybe the human touch has some kind of magic power.\""
 msgstr ""
 
 #: 20282:110
-
-msgid "{Kazushi}\n\"You think so?\""
+msgid ""
+"{Kazushi}\n"
+"\"You think so?\""
 msgstr ""
 
 #: 20282:111
-
 msgid "That's pretty encouraging to me. It means there should be something I can do for her."
 msgstr ""
 
 #: 20282:115
-
-msgid "{Mizuki}\n\".........\""
+msgid ""
+"{Mizuki}\n"
+"\".........\""
 msgstr ""
 
 #: 20282:116
-
 msgid "Mizuki gave me an angry look right as I began to feel encouraged."
 msgstr ""
 
 #: 20282:117
-
-msgid "{Mizuki}\n\"Do you find it more fun to talk to Rin than the bleeding, dirty me now?\""
+msgid ""
+"{Mizuki}\n"
+"\"Do you find it more fun to talk to Rin than the bleeding, dirty me now?\""
 msgstr ""
 
 #: 20282:118
-
-msgid "{Kazushi}\n\"What are you talking about?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you talking about?\""
 msgstr ""
 
 #: 20282:123
-
-msgid "{Rin}\n\"Why are you saying that?\""
+msgid ""
+"{Rin}\n"
+"\"Why are you saying that?\""
 msgstr ""
 
 #: 20282:124
-
-msgid "{Mizuki}\n\"Because...\""
+msgid ""
+"{Mizuki}\n"
+"\"Because...\""
 msgstr ""
 
 #: 20282:125
-
 msgid "Mizuki looked upset. Even the most trivial of things seem to get on her nerves right now. I knew from my sister that sickness could make one act like that."
 msgstr ""
 
 #: 20282:126
-
-msgid "{Kazushi}\n\"Jeez, you worry about such crazy things. Even if you are bleeding, you're far cuter than her!\""
+msgid ""
+"{Kazushi}\n"
+"\"Jeez, you worry about such crazy things. Even if you are bleeding, you're far cuter than her!\""
 msgstr ""
 
 #: 20282:129
-
-msgid "{Rin}\n\"You see, Mizuki? Haruma-kun doesn't care about anyone but you.\""
+msgid ""
+"{Rin}\n"
+"\"You see, Mizuki? Haruma-kun doesn't care about anyone but you.\""
 msgstr ""
 
 #: 20282:130
-
-msgid "{Kazushi}\n\"Of course!\""
+msgid ""
+"{Kazushi}\n"
+"\"Of course!\""
 msgstr ""
 
 #: 20282:131
-
-msgid "{Mizuki}\n\"Looks like you two hit it off well.\""
+msgid ""
+"{Mizuki}\n"
+"\"Looks like you two hit it off well.\""
 msgstr ""
 
 #: 20282:132
-
-msgid "{Kazushi}\n\"The hell?!\""
+msgid ""
+"{Kazushi}\n"
+"\"The hell?!\""
 msgstr ""
 
 #: 20282:133
-
 msgid "I guess nothing's going to work with her now. I'll just have to smile and nod until it passes."
 msgstr ""
 
 #: 20282:136
-
-msgid "{Rin}\n\"Th-then I'm gonna go now. I'll leave you two alone.\""
+msgid ""
+"{Rin}\n"
+"\"Th-then I'm gonna go now. I'll leave you two alone.\""
 msgstr ""
 
 #: 20282:137
-
-msgid "{Kazushi}\n\"Sorry.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sorry.\""
 msgstr ""
 
 #: 20282:138
-
-msgid "{Mizuki}\n\"What are you apologizing for, Kazushi?\""
+msgid ""
+"{Mizuki}\n"
+"\"What are you apologizing for, Kazushi?\""
 msgstr ""
 
 #: 20282:139
-
-msgid "{Kazushi}\n\"Yes, yes. No worries. Just close your eyes. I'm sure you'll feel a little better.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes, yes. No worries. Just close your eyes. I'm sure you'll feel a little better.\""
 msgstr ""
 
 #: 20282:140
-
-msgid "{Mizuki}\n\"Grr...\""
+msgid ""
+"{Mizuki}\n"
+"\"Grr...\""
 msgstr ""
 
 #: 20282:144
-
 msgid "Fujisaki-san smiled at our exchange."
 msgstr ""
 
 #: 20282:145
-
-msgid "{Rin}\n\"You're so kind, Haruma-kun.\""
+msgid ""
+"{Rin}\n"
+"\"You're so kind, Haruma-kun.\""
 msgstr ""
 
 #: 20282:146
-
 msgid "Rin muttered it so that only I could hear. I flushed a bit."
 msgstr ""
 
 #: 20282:147
-
-msgid "{Kazushi}\n\"Well, anyone can get like this when they're sick. A little selfishness every once in a while is kind of cute.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, anyone can get like this when they're sick. A little selfishness every once in a while is kind of cute.\""
 msgstr ""
 
 #: 20282:148
-
-msgid "{Rin}\n\"Wow. You sound so mature.\""
+msgid ""
+"{Rin}\n"
+"\"Wow. You sound so mature.\""
 msgstr ""
 
 #: 20282:149
-
-msgid "{Kazushi}\n\"Heh. Well, I am getting there.\""
+msgid ""
+"{Kazushi}\n"
+"\"Heh. Well, I am getting there.\""
 msgstr ""
 
 #: 20282:152
-
-msgid "{Rin}\n\"Good for you, Mizuki-chan. I wish I had an understanding boyfriend like him.\""
+msgid ""
+"{Rin}\n"
+"\"Good for you, Mizuki-chan. I wish I had an understanding boyfriend like him.\""
 msgstr ""
 
 #: 20282:153
-
-msgid "{Kazushi}\n\"I'm sure you'll get one soon.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm sure you'll get one soon.\""
 msgstr ""
 
 #: 20282:157
-
-msgid "{Mizuki}\n\"What are you two whispering about? What are you two whispering about?\""
+msgid ""
+"{Mizuki}\n"
+"\"What are you two whispering about? What are you two whispering about?\""
 msgstr ""
 
 #: 20282:159
-
-msgid "{Kazushi}\n\"Ow! Ow!?\""
+msgid ""
+"{Kazushi}\n"
+"\"Ow! Ow!?\""
 msgstr ""
 
 #: 20282:160
-
-msgid "Mizuki pulled out some of my leg hairs!\nI know what I said before, but right now I want to say Fujisaki-san's cuter than a foul-mood Mizuki!"
+msgid ""
+"Mizuki pulled out some of my leg hairs!\n"
+"I know what I said before, but right now I want to say Fujisaki-san's cuter than a foul-mood Mizuki!"
 msgstr ""
 
 #: 20282:164
-
-msgid "{Rin}\n\"Mizuki-chan, enough.\""
+msgid ""
+"{Rin}\n"
+"\"Mizuki-chan, enough.\""
 msgstr ""
 
 #: 20282:166
-
 msgid "*Smack*"
 msgstr ""
 
 #: 20282:167
-
 msgid "Fujisaki-san knocked Mizuki on the head with her delicate fist."
 msgstr ""
 
 #: 20282:171
-
-msgid "{Mizuki}\n\"Ouch...\""
+msgid ""
+"{Mizuki}\n"
+"\"Ouch...\""
 msgstr ""
 
 #: 20282:175
-
-msgid "{Rin}\n\"I know you're feeling sick, but if you're so difficult and give Haruma-kun too hard of a time then I'm going to have to steal him from you.\""
+msgid ""
+"{Rin}\n"
+"\"I know you're feeling sick, but if you're so difficult and give Haruma-kun too hard of a time then I'm going to have to steal him from you.\""
 msgstr ""
 
 #: 20282:180
-
-msgid "{Mizuki}\n\"What!!?\""
+msgid ""
+"{Mizuki}\n"
+"\"What!!?\""
 msgstr ""
 
 #: 20282:181
-
 msgid "Mizuki suddenly bolted up from bed."
 msgstr ""
 
 #: 20282:182
-
-msgid "{Mizuki}\n\"Uh, uh, uhhh...\""
+msgid ""
+"{Mizuki}\n"
+"\"Uh, uh, uhhh...\""
 msgstr ""
 
 #: 20282:183
-
-msgid "{Kazushi}\n\"...steal me from her? Fujisaki-san?\""
+msgid ""
+"{Kazushi}\n"
+"\"...steal me from her? Fujisaki-san?\""
 msgstr ""
 
 #: 20282:184
-
-msgid "Does Fujisaki-san have feelings for me too...?\nThey say everybody blooms into love once in their life, and now's my time?"
+msgid ""
+"Does Fujisaki-san have feelings for me too...?\n"
+"They say everybody blooms into love once in their life, and now's my time?"
 msgstr ""
 
 #: 20282:185
-
-msgid "{Mizuki}\n\"Uwahwah...uwahwah...\""
+msgid ""
+"{Mizuki}\n"
+"\"Uwahwah...uwahwah...\""
 msgstr ""
 
 #: 20282:188
-
-msgid "{Rin}\n\"Hey, don't get so serious. I'm just kidding - Haruma-kun's not actually my type.\""
+msgid ""
+"{Rin}\n"
+"\"Hey, don't get so serious. I'm just kidding - Haruma-kun's not actually my type.\""
 msgstr ""
 
 #: 20282:189
-
-msgid "{Kazushi}\n\"Huh...?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh...?\""
 msgstr ""
 
 #: 20282:192
-
-msgid "{Mizuki}\n\"R-really? Whew...\""
+msgid ""
+"{Mizuki}\n"
+"\"R-really? Whew...\""
 msgstr ""
 
 #: 20282:193
-
 msgid "I knew it sounded too good to be true. I wouldn't know how to handle two girls at the same time anyways."
 msgstr ""
 
 #: 20282:196
-
-msgid "{Rin}\n\"Okay, then I'm leaving. Take care. Oh, of Haruma-kun too, not just your body.\""
+msgid ""
+"{Rin}\n"
+"\"Okay, then I'm leaving. Take care. Oh, of Haruma-kun too, not just your body.\""
 msgstr ""
 
 #: 20282:198
-
 msgid "Fujisaki-san winked at me and left the room."
 msgstr ""
 
 #: 20282:199
-
 msgid "Fujisaki-san was certainly a mischievous character."
 msgstr ""
 
 #: 20282:202
-
-msgid "{Mizuki}\n\"What are you looking at?\""
+msgid ""
+"{Mizuki}\n"
+"\"What are you looking at?\""
 msgstr ""
 
 #: 20282:203
-
-msgid "{Kazushi}\n\"Urk...\""
+msgid ""
+"{Kazushi}\n"
+"\"Urk...\""
 msgstr ""
 
 #: 20282:204
-
 msgid "Shit. Without thinking about it I found myself looking at Rin's exit, which seemed to upset Mizuki."
 msgstr ""
 
 #: 20282:207
-
-msgid "{Mizuki}\n\"Oh, sorry! Rin just chewed me out for this.\""
+msgid ""
+"{Mizuki}\n"
+"\"Oh, sorry! Rin just chewed me out for this.\""
 msgstr ""
 
 #: 20282:208
-
 msgid "It seemed that Mizuki felt bad about complaining so much and she held her head in her hands."
 msgstr ""
 
 #: 20282:209
-
-msgid "{Kazushi}\n\"Don't worry, Mizuki. It only comes once a month, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't worry, Mizuki. It only comes once a month, right?\""
 msgstr ""
 
 #: 20282:212
-
-msgid "{Mizuki}\n\"Ohh... Even though I'm so selfish... you're so kind, Kazushi.\""
+msgid ""
+"{Mizuki}\n"
+"\"Ohh... Even though I'm so selfish... you're so kind, Kazushi.\""
 msgstr ""
 
 #: 20282:213
-
 msgid "I noticed her eyes getting teary. Was she about to bawl? Was she?"
 msgstr ""
 
 #: 20282:214
-
 msgid "Either way, it was kind of fun watching Mizuki's moods swing."
 msgstr ""
 
 #: 20282:215
-
-msgid "{Kazushi}\n\"Hey, lie down.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, lie down.\""
 msgstr ""
 
 #: 20282:216
-
-msgid "{Mizuki}\n\"Yes.\""
+msgid ""
+"{Mizuki}\n"
+"\"Yes.\""
 msgstr ""
 
 #: 20282:218
-
 msgid "I laid her down in bed and began massaging her back."
 msgstr ""
 
 #: 20282:221
-
-msgid "{Mizuki}\n\"Oh, you don't have to...\""
+msgid ""
+"{Mizuki}\n"
+"\"Oh, you don't have to...\""
 msgstr ""
 
 #: 20282:222
-
-msgid "{Kazushi}\n\"No sweat. It feels better, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"No sweat. It feels better, right?\""
 msgstr ""
 
 #: 20282:223
-
-msgid "{Mizuki}\n\"Yes, it does. But no sex yet, okay?\""
+msgid ""
+"{Mizuki}\n"
+"\"Yes, it does. But no sex yet, okay?\""
 msgstr ""
 
 #: 20282:224
-
 msgid "Her body twitched a bit as I touched it."
 msgstr ""
 
 #: 20282:225
-
-msgid "{Kazushi}\n\"I know. I'll be patient.\""
+msgid ""
+"{Kazushi}\n"
+"\"I know. I'll be patient.\""
 msgstr ""
 
 #: 20282:226
-
-msgid "{Mizuki}\n\"Sorry.\""
+msgid ""
+"{Mizuki}\n"
+"\"Sorry.\""
 msgstr ""
 
 #: 20282:227
-
-msgid "{Kazushi}\n\"Don't apologize for it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't apologize for it.\""
 msgstr ""
 
 #: 20282:228
-
-msgid "But the truth of the matter was that touching her body was enough to make my shaft start to grow.\nFor now, I'll just have to grin and bear it."
+msgid ""
+"But the truth of the matter was that touching her body was enough to make my shaft start to grow.\n"
+"For now, I'll just have to grin and bear it."
 msgstr ""
 
 #: 20282:229
-
-msgid "{Kazushi}\n\"You can be a little selfish, you know?\""
+msgid ""
+"{Kazushi}\n"
+"\"You can be a little selfish, you know?\""
 msgstr ""
 
 #: 20282:232
-
-msgid "{Mizuki}\n\"Then I want some pudding!\""
+msgid ""
+"{Mizuki}\n"
+"\"Then I want some pudding!\""
 msgstr ""
 
 #: 20282:233
-
-msgid "{Kazushi}\n\"Pudding? Did they carry that here?\""
+msgid ""
+"{Kazushi}\n"
+"\"Pudding? Did they carry that here?\""
 msgstr ""
 
 #: 20282:234
-
-msgid "{Mizuki}\n\"I want some ice cream too. And I want to meet the Three Stooges!\""
+msgid ""
+"{Mizuki}\n"
+"\"I want some ice cream too. And I want to meet the Three Stooges!\""
 msgstr ""
 
 #: 20282:235
-
-msgid "{Kazushi}\n\"That's not possible.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's not possible.\""
 msgstr ""
 
 #: 20282:236
-
-msgid "{Mizuki}\n\"I haven't bought a swimsuit this year, so I'd love a brand-new one. Also, I want a white house on a small hill overlooking the ocean.\""
+msgid ""
+"{Mizuki}\n"
+"\"I haven't bought a swimsuit this year, so I'd love a brand-new one. Also, I want a white house on a small hill overlooking the ocean.\""
 msgstr ""
 
 #: 20282:237
-
-msgid "{Kazushi}\n\"Hey, hey. Now you're getting out of hand. By the way, white houses are a pain to keep clean.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, hey. Now you're getting out of hand. By the way, white houses are a pain to keep clean.\""
 msgstr ""
 
 #: 20282:240
-
-msgid "{Mizuki}\n\"That's fine. Also, I want...\""
+msgid ""
+"{Mizuki}\n"
+"\"That's fine. Also, I want...\""
 msgstr ""
 
 #: 20282:241
-
-msgid "{Kazushi}\n\"You got more?\""
+msgid ""
+"{Kazushi}\n"
+"\"You got more?\""
 msgstr ""
 
 #: 20282:244
-
-msgid "{Mizuki}\n\"For now, kiss me!\""
+msgid ""
+"{Mizuki}\n"
+"\"For now, kiss me!\""
 msgstr ""
 
 #: 20282:245
-
-msgid "{Kazushi}\n\"Huh...?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh...?\""
 msgstr ""
 
 #: 20282:246
-
 msgid "I didn't get what she said at first."
 msgstr ""
 
 #: 20282:249
-
-msgid "{Mizuki}\n\"Mmmmmm.\""
+msgid ""
+"{Mizuki}\n"
+"\"Mmmmmm.\""
 msgstr ""
 
 #: 20282:250
-
 msgid "Mizuki cutely pushed her lips out."
 msgstr ""
 
 #: 20282:251
-
-msgid "{Kazushi}\n\"How can I refuse?\""
+msgid ""
+"{Kazushi}\n"
+"\"How can I refuse?\""
 msgstr ""
 
 #: 20282:252
-
 msgid "I nestled Mizuki against me and kissed her cute lips."
 msgstr ""
 
 #: 20282:253
-
-msgid "{Mizuki}\n\"Mmm...\""
+msgid ""
+"{Mizuki}\n"
+"\"Mmm...\""
 msgstr ""
 
 #: 20282:254
-
 msgid "After we kiss for a bit more, I'll go buy her that pudding."
 msgstr ""
-

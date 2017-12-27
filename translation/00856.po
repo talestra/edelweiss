@@ -8,641 +8,721 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 00856:7
-
 msgid "There are more boys than girls anyways......"
 msgstr ""
 
 #: 00856:8
-
-msgid "{Kazushi}\n\"Will you be my partner, Mei-sensei?\""
+msgid ""
+"{Kazushi}\n"
+"\"Will you be my partner, Mei-sensei?\""
 msgstr ""
 
 #: 00856:9
-
 msgid "I knew she was going to say no, but I figured I'd try asking her anyways."
 msgstr ""
 
 #: 00856:12
-
-msgid "{Mei}\n\"Oh, me?\""
+msgid ""
+"{Mei}\n"
+"\"Oh, me?\""
 msgstr ""
 
 #: 00856:17
-
-msgid "{Appo}\n\"Kazushi! Why you lustful...!\""
+msgid ""
+"{Appo}\n"
+"\"Kazushi! Why you lustful...!\""
 msgstr ""
 
 #: 00856:18
-
-msgid "{Mei}\n\"L-lustful?\""
+msgid ""
+"{Mei}\n"
+"\"L-lustful?\""
 msgstr ""
 
 #: 00856:19
-
-msgid "{Kazushi}\n\"Don't listen to him, Mei-sensei!\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't listen to him, Mei-sensei!\""
 msgstr ""
 
 #: 00856:24
-
-msgid "{Kazushi}\n(Hey! Don't blame me! This was the principal's order!)"
+msgid ""
+"{Kazushi}\n"
+"(Hey! Don't blame me! This was the principal's order!)"
 msgstr ""
 
 #: 00856:27
-
-msgid "{Appo}\n\"Ghh! Why?! Why couldn't I have gone first?! Dammit! Dammit!\""
+msgid ""
+"{Appo}\n"
+"\"Ghh! Why?! Why couldn't I have gone first?! Dammit! Dammit!\""
 msgstr ""
 
 #: 00856:34
-
 msgid "Appo was banging his head against the wall."
 msgstr ""
 
 #: 00856:39
-
-msgid "{Pierre}\n\"Ah, you idiot! I know it's rough, but stop hurting yourself!\""
+msgid ""
+"{Pierre}\n"
+"\"Ah, you idiot! I know it's rough, but stop hurting yourself!\""
 msgstr ""
 
 #: 00856:40
-
-msgid "{Daigo}\n\"You're bleeding......!\""
+msgid ""
+"{Daigo}\n"
+"\"You're bleeding......!\""
 msgstr ""
 
 #: 00856:41
-
-msgid "{Kazushi}\n\"Daigo's fainted!\""
+msgid ""
+"{Kazushi}\n"
+"\"Daigo's fainted!\""
 msgstr ""
 
 #: 00856:49
-
-msgid "{Appo}\n\"Dammit! Dammit!\""
+msgid ""
+"{Appo}\n"
+"\"Dammit! Dammit!\""
 msgstr ""
 
 #: 00856:50
-
-msgid "{Kazushi}\n\"Stop! Stop it! Everyone's giving you the eye!\""
+msgid ""
+"{Kazushi}\n"
+"\"Stop! Stop it! Everyone's giving you the eye!\""
 msgstr ""
 
 #: 00856:51
-
-msgid "{Appo}\n\"Watch me! I want her to watch me!!\""
+msgid ""
+"{Appo}\n"
+"\"Watch me! I want her to watch me!!\""
 msgstr ""
 
 #: 00856:57
-
-msgid "{Daigo}\n\"Blood......\""
+msgid ""
+"{Daigo}\n"
+"\"Blood......\""
 msgstr ""
 
 #: 00856:60
-
-msgid "{Pierre}\n\"Hey! Daigo's fainted again!\""
+msgid ""
+"{Pierre}\n"
+"\"Hey! Daigo's fainted again!\""
 msgstr ""
 
 #: 00856:66
-
-msgid "{Ran}\n\"This is fun to watch!\""
+msgid ""
+"{Ran}\n"
+"\"This is fun to watch!\""
 msgstr ""
 
 #: 00856:67
-
-msgid "{Mizuki}\n\"I'm not sure it's meant to be funny...\""
+msgid ""
+"{Mizuki}\n"
+"\"I'm not sure it's meant to be funny...\""
 msgstr ""
 
 #: 00856:75
-
-msgid "{Appo}\n\"Watch me, everybody!\nI'm starting to feel better!\""
+msgid ""
+"{Appo}\n"
+"\"Watch me, everybody!\n"
+"I'm starting to feel better!\""
 msgstr ""
 
 #: 00856:80
-
-msgid "{Andou}\n\"Gross, pervert!\""
+msgid ""
+"{Andou}\n"
+"\"Gross, pervert!\""
 msgstr ""
 
 #: 00856:84
-
-msgid "{Pierre}\n\"Hey! You need to calm down! Now!\""
+msgid ""
+"{Pierre}\n"
+"\"Hey! You need to calm down! Now!\""
 msgstr ""
 
 #: 00856:88
-
 msgid "Pierre grabbed hold of Appo's stem."
 msgstr ""
 
 #: 00856:91
-
-msgid "{Appo}\n\"!!!?\""
+msgid ""
+"{Appo}\n"
+"\"!!!?\""
 msgstr ""
 
 #: 00856:92
-
 msgid "Appo settled down instantly."
 msgstr ""
 
 #: 00856:99
-
-msgid "{Fuusen}\n\"What was that?\""
+msgid ""
+"{Fuusen}\n"
+"\"What was that?\""
 msgstr ""
 
 #: 00856:100
-
-msgid "{Kazushi}\n\"Appo calms down if you grab that part.\""
+msgid ""
+"{Kazushi}\n"
+"\"Appo calms down if you grab that part.\""
 msgstr ""
 
 #: 00856:101
-
-msgid "{Andou}\n\"What's with that? Disgusting.\""
+msgid ""
+"{Andou}\n"
+"\"What's with that? Disgusting.\""
 msgstr ""
 
 #: 00856:104
-
-msgid "{Fuusen}\n\"You think so? Actually...I think it's kinda cute.\""
+msgid ""
+"{Fuusen}\n"
+"\"You think so? Actually...I think it's kinda cute.\""
 msgstr ""
 
 #: 00856:105
-
-msgid "{Kazushi}\n\"You do!?\""
+msgid ""
+"{Kazushi}\n"
+"\"You do!?\""
 msgstr ""
 
 #: 00856:106
-
 msgid "Fuusen Kazuko looked at Appo and smiled. It was the first time I had ever seen a normal smile on her."
 msgstr ""
 
 #: 00856:111
-
-msgid "{Appo}\n\"Huh? What? I'm bleeding from my forehead! Was I abducted?!\""
+msgid ""
+"{Appo}\n"
+"\"Huh? What? I'm bleeding from my forehead! Was I abducted?!\""
 msgstr ""
 
 #: 00856:112
-
 msgid "Appo began to panic as he regained consciousness."
 msgstr ""
 
 #: 00856:117
-
-msgid "{Pierre}\n\"You did that to yourself!\""
+msgid ""
+"{Pierre}\n"
+"\"You did that to yourself!\""
 msgstr ""
 
 #: 00856:118
-
-msgid "{Appo}\n\"C-curse you aliens! C-come out here!\""
+msgid ""
+"{Appo}\n"
+"\"C-curse you aliens! C-come out here!\""
 msgstr ""
 
 #: 00856:121
-
-msgid "{Kazushi}\n\"Calm down.\""
+msgid ""
+"{Kazushi}\n"
+"\"Calm down.\""
 msgstr ""
 
 #: 00856:128
-
-msgid "{Fuusen}\n\"Oh, come on. Be a man!\nJust spit on the cut and it'll heal. Ptoo, ptoo, ptoo!\""
+msgid ""
+"{Fuusen}\n"
+"\"Oh, come on. Be a man!\n"
+"Just spit on the cut and it'll heal. Ptoo, ptoo, ptoo!\""
 msgstr ""
 
 #: 00856:131
-
-msgid "{Pierre}\n\"That's disgusting!\""
+msgid ""
+"{Pierre}\n"
+"\"That's disgusting!\""
 msgstr ""
 
 #: 00856:134
-
-msgid "{Appo}\n\"What are you..................\""
+msgid ""
+"{Appo}\n"
+"\"What are you..................\""
 msgstr ""
 
 #: 00856:138
-
-msgid "{Kazushi}\n\"Watch out, guys! He's gonna go nuts again!\""
+msgid ""
+"{Kazushi}\n"
+"\"Watch out, guys! He's gonna go nuts again!\""
 msgstr ""
 
 #: 00856:141
-
-msgid "{Appo}\n\"..................yes......\""
+msgid ""
+"{Appo}\n"
+"\"..................yes......\""
 msgstr ""
 
 #: 00856:142
-
-msgid "{Kazushi}\n\"The hell?\""
+msgid ""
+"{Kazushi}\n"
+"\"The hell?\""
 msgstr ""
 
 #: 00856:143
-
 msgid "He didn't actually lose his temper. In fact, he was in a daze and blushing."
 msgstr ""
 
 #: 00856:148
-
-msgid "{Daigo}\n\"Appo?\nAppo?\""
+msgid ""
+"{Daigo}\n"
+"\"Appo?\n"
+"Appo?\""
 msgstr ""
 
 #: 00856:151
-
-msgid "{Appo}\n\"What?\""
+msgid ""
+"{Appo}\n"
+"\"What?\""
 msgstr ""
 
 #: 00856:155
-
-msgid "{Mizuki}\n\"He's back.\""
+msgid ""
+"{Mizuki}\n"
+"\"He's back.\""
 msgstr ""
 
 #: 00856:156
-
-msgid "{Appo}\n\"What happened to me!?\nWhat was I doing!?\""
+msgid ""
+"{Appo}\n"
+"\"What happened to me!?\n"
+"What was I doing!?\""
 msgstr ""
 
 #: 00856:160
-
-msgid "{Pierre}\n\"Fuusen spat on you.\""
+msgid ""
+"{Pierre}\n"
+"\"Fuusen spat on you.\""
 msgstr ""
 
 #: 00856:163
-
-msgid "{Appo}\n\"What?! Why did you do that?! That's disgusting!\""
+msgid ""
+"{Appo}\n"
+"\"What?! Why did you do that?! That's disgusting!\""
 msgstr ""
 
 #: 00856:164
-
-msgid "{Kazushi}\n\"You seemed to like it.\""
+msgid ""
+"{Kazushi}\n"
+"\"You seemed to like it.\""
 msgstr ""
 
 #: 00856:165
-
-msgid "{Appo}\n\"Who wants to be spit on!?\""
+msgid ""
+"{Appo}\n"
+"\"Who wants to be spit on!?\""
 msgstr ""
 
 #: 00856:170
-
-msgid "{Fuusen}\n\"Shut up. *SNORT*! Ptoo, ptoo, ptoo!\""
+msgid ""
+"{Fuusen}\n"
+"\"Shut up. *SNORT*! Ptoo, ptoo, ptoo!\""
 msgstr ""
 
 #: 00856:177
-
-msgid "{Pierre}\n\"Oh no, not again!\""
+msgid ""
+"{Pierre}\n"
+"\"Oh no, not again!\""
 msgstr ""
 
 #: 00856:180
-
-msgid "{Appo}\n\"Ahhh......\""
+msgid ""
+"{Appo}\n"
+"\"Ahhh......\""
 msgstr ""
 
 #: 00856:181
-
-msgid "{Pierre}\n\"See? He likes it!\""
+msgid ""
+"{Pierre}\n"
+"\"See? He likes it!\""
 msgstr ""
 
 #: 00856:182
-
-msgid "Fuusen spat all over Appo's face yet he seemed to enjoy it.\nWhat do you call a fetish like that?"
+msgid ""
+"Fuusen spat all over Appo's face yet he seemed to enjoy it.\n"
+"What do you call a fetish like that?"
 msgstr ""
 
 #: 00856:183
-
-msgid "{Appo}\n\"More...\""
+msgid ""
+"{Appo}\n"
+"\"More...\""
 msgstr ""
 
 #: 00856:184
-
-msgid "{Kazushi}\n\"Appo?\nAppo?\""
+msgid ""
+"{Kazushi}\n"
+"\"Appo?\n"
+"Appo?\""
 msgstr ""
 
 #: 00856:187
-
-msgid "{Appo}\n\"......huh?\nDid I go unconscious again?\""
+msgid ""
+"{Appo}\n"
+"\"......huh?\n"
+"Did I go unconscious again?\""
 msgstr ""
 
 #: 00856:190
-
-msgid "{Fuusen}\n\"Hu-hu. I stopped your bleeding.\""
+msgid ""
+"{Fuusen}\n"
+"\"Hu-hu. I stopped your bleeding.\""
 msgstr ""
 
 #: 00856:193
-
-msgid "{Appo}\n\"That's right.\nWhy?\""
+msgid ""
+"{Appo}\n"
+"\"That's right.\n"
+"Why?\""
 msgstr ""
 
 #: 00856:196
-
-msgid "{Pierre}\n\"Thank her, Appo.\nShe healed your wound.\""
+msgid ""
+"{Pierre}\n"
+"\"Thank her, Appo.\n"
+"She healed your wound.\""
 msgstr ""
 
 #: 00856:199
-
-msgid "{Appo}\n\"How?\nWhat did she do to me!?\""
+msgid ""
+"{Appo}\n"
+"\"How?\n"
+"What did she do to me!?\""
 msgstr ""
 
 #: 00856:203
-
 msgid "He was losing his calm from fear of what she did to him. I couldn't blame him."
 msgstr ""
 
 #: 00856:206
-
-msgid "{Mei}\n\"Well, let's get back to work then.\nI'll help you, Haruma-kun.\""
+msgid ""
+"{Mei}\n"
+"\"Well, let's get back to work then.\n"
+"I'll help you, Haruma-kun.\""
 msgstr ""
 
 #: 00856:207
-
-msgid "{Kazushi}\n\"Yes, ma'am. Thank you.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes, ma'am. Thank you.\""
 msgstr ""
 
 #: 00856:208
-
 msgid "Enough of this disgusting stuff. I'm going to have Mei-sensei heal my pride."
 msgstr ""
 
 #: 00856:216
-
-msgid "{Mei}\n\"Uh-huh. It's important to keep the heat level constant here, so watch the flame closely.\""
+msgid ""
+"{Mei}\n"
+"\"Uh-huh. It's important to keep the heat level constant here, so watch the flame closely.\""
 msgstr ""
 
 #: 00856:217
-
-msgid "{Kazushi}\n\"Yes.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes.\""
 msgstr ""
 
 #: 00856:218
-
 msgid "I kept my eye on the flame as I heated up the flask."
 msgstr ""
 
 #: 00856:219
-
 msgid "Mei-sensei got up close as she stood next to me to check the flask."
 msgstr ""
 
 #: 00856:222
-
 msgid "Our shoulders touched and I could smell her heavenly scent."
 msgstr ""
 
 #: 00856:223
-
 msgid "Do all mature ladies smell this good?"
 msgstr ""
 
 #: 00856:226
-
-msgid "{Mei}\n\"Oh, the reaction is proceeding quite fast.\nSee? Look.\nThe ingredients are already beginning to melt and react.\""
+msgid ""
+"{Mei}\n"
+"\"Oh, the reaction is proceeding quite fast.\n"
+"See? Look.\n"
+"The ingredients are already beginning to melt and react.\""
 msgstr ""
 
 #: 00856:227
-
-msgid "{Kazushi}\n\"Wow, I can see it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Wow, I can see it.\""
 msgstr ""
 
 #: 00856:228
-
 msgid "It's turning black already."
 msgstr ""
 
 #: 00856:231
-
-msgid "{Mei}\n\"Let's adjust the heat.\""
+msgid ""
+"{Mei}\n"
+"\"Let's adjust the heat.\""
 msgstr ""
 
 #: 00856:232
-
-msgid "{Kazushi}\n\"Got it!\""
+msgid ""
+"{Kazushi}\n"
+"\"Got it!\""
 msgstr ""
 
 #: 00856:233
-
 msgid "I felt more driven with sensei watching. As a man, I wanted to show her my good side."
 msgstr ""
 
 #: 00856:237
-
-msgid "{Principal}\n\"Please do your best.\""
+msgid ""
+"{Principal}\n"
+"\"Please do your best.\""
 msgstr ""
 
 #: 00856:238
-
-msgid "{Kazushi}\n\"I will...\""
+msgid ""
+"{Kazushi}\n"
+"\"I will...\""
 msgstr ""
 
 #: 00856:239
-
 msgid "I wasn't trying to impress the principal, though."
 msgstr ""
 
 #: 00856:241
-
 msgid "I was really aware of how much Mei-sensei was watching me as I adjusted the flame."
 msgstr ""
 
 #: 00856:244
-
-msgid "{Mei}\n\"Hmm, yes, maybe a little more...\""
+msgid ""
+"{Mei}\n"
+"\"Hmm, yes, maybe a little more...\""
 msgstr ""
 
 #: 00856:245
-
 msgid "Her arm stretched out across my back."
 msgstr ""
 
 #: 00856:248
-
 msgid "Her hand reached for the knob, covering mine. She was pressing against my back too."
 msgstr ""
 
 #: 00856:249
-
 msgid "She smelled really good and her breasts were touching my arm."
 msgstr ""
 
 #: 00856:252
-
-msgid "{Mei}\n\"This is about right.\""
+msgid ""
+"{Mei}\n"
+"\"This is about right.\""
 msgstr ""
 
 #: 00856:253
-
-msgid "{Kazushi}\n\"Y-yesh...\""
+msgid ""
+"{Kazushi}\n"
+"\"Y-yesh...\""
 msgstr ""
 
 #: 00856:256
-
-msgid "{Mei}\n\"Are you OK?\nYou sound kinda funny.\""
+msgid ""
+"{Mei}\n"
+"\"Are you OK?\n"
+"You sound kinda funny.\""
 msgstr ""
 
 #: 00856:257
-
-msgid "{Kazushi}\n\"No! 'Tis nothing!\""
+msgid ""
+"{Kazushi}\n"
+"\"No! 'Tis nothing!\""
 msgstr ""
 
 #: 00856:260
-
-msgid "{Mei}\n\"'Tis?\""
+msgid ""
+"{Mei}\n"
+"\"'Tis?\""
 msgstr ""
 
 #: 00856:261
-
-msgid "{Kazushi}\n\"It's nothing!\""
+msgid ""
+"{Kazushi}\n"
+"\"It's nothing!\""
 msgstr ""
 
 #: 00856:262
-
-msgid "I can't concentrate.\nHer breasts feel so soft!"
+msgid ""
+"I can't concentrate.\n"
+"Her breasts feel so soft!"
 msgstr ""
 
 #: 00856:265
-
-msgid "{Mei}\n\"Why's your face turning red?\nHave you got a fever?\""
+msgid ""
+"{Mei}\n"
+"\"Why's your face turning red?\n"
+"Have you got a fever?\""
 msgstr ""
 
 #: 00856:266
-
 msgid "*Touch*"
 msgstr ""
 
 #: 00856:267
-
-msgid "{Kazushi}\n\"Huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh?\""
 msgstr ""
 
 #: 00856:268
-
 msgid "Her forehead's touching my forehead!"
 msgstr ""
 
 #: 00856:269
-
-msgid "{Kazushi}\n\"Lust!\""
+msgid ""
+"{Kazushi}\n"
+"\"Lust!\""
 msgstr ""
 
 #: 00856:272
-
-msgid "{Mei}\n\"What......hey!?\""
+msgid ""
+"{Mei}\n"
+"\"What......hey!?\""
 msgstr ""
 
 #: 00856:273
-
-msgid "{Kazushi}\n\"Guh...\""
+msgid ""
+"{Kazushi}\n"
+"\"Guh...\""
 msgstr ""
 
 #: 00856:278
-
 msgid "My sight turned black like a TV that just lost power."
 msgstr ""
 
 #: 00856:279
-
-msgid "{Pierre}\n\"Kazushi's lost it! Get him out of here!\""
+msgid ""
+"{Pierre}\n"
+"\"Kazushi's lost it! Get him out of here!\""
 msgstr ""
 
 #: 00856:280
-
-msgid "{Daigo}\n\"Calm down, Kazushi. Move, move.\""
+msgid ""
+"{Daigo}\n"
+"\"Calm down, Kazushi. Move, move.\""
 msgstr ""
 
 #: 00856:281
-
-msgid "{Appo}\n\"Umm, sorry, please excuse us. We just need a minute with him.\""
+msgid ""
+"{Appo}\n"
+"\"Umm, sorry, please excuse us. We just need a minute with him.\""
 msgstr ""
 
 #: 00856:286
-
-msgid "{Mei}\n\"What's going on?\""
+msgid ""
+"{Mei}\n"
+"\"What's going on?\""
 msgstr ""
 
 #: 00856:290
-
 msgid "*Slap slap slap slap slap slap slap slap*"
 msgstr ""
 
 #: 00856:297
-
-msgid "{Mizuki}\n\"What's that sound?\""
+msgid ""
+"{Mizuki}\n"
+"\"What's that sound?\""
 msgstr ""
 
 #: 00856:298
-
-msgid "{Andou}\n\"Sounds like someone getting slapped back and forth?\""
+msgid ""
+"{Andou}\n"
+"\"Sounds like someone getting slapped back and forth?\""
 msgstr ""
 
 #: 00856:309
-
-msgid "{Pierre}\n\"Thanks for waiting.\""
+msgid ""
+"{Pierre}\n"
+"\"Thanks for waiting.\""
 msgstr ""
 
 #: 00856:313
-
-msgid "{Kazushi}\n\"Sorry for the disturbance, guys!\nI'm alright now!\""
+msgid ""
+"{Kazushi}\n"
+"\"Sorry for the disturbance, guys!\n"
+"I'm alright now!\""
 msgstr ""
 
 #: 00856:316
-
-msgid "{Mei}\n\"Are you sure? I was really worried when you suddenly fell after coming at me with that fire in your eyes?\""
+msgid ""
+"{Mei}\n"
+"\"Are you sure? I was really worried when you suddenly fell after coming at me with that fire in your eyes?\""
 msgstr ""
 
 #: 00856:317
-
-msgid "{Kazushi}\n\"Sorry, guys.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sorry, guys.\""
 msgstr ""
 
 #: 00856:318
-
 msgid "I think she blew the fuse on my desires. Luckily, my blood rushed enough to trip my safety devices. Safety for them, not for me that is."
 msgstr ""
 
 #: 00856:319
-
-msgid "{Kazushi}\n\"Now then, let's continue the experiment...Huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Now then, let's continue the experiment...Huh?\""
 msgstr ""
 
 #: 00856:320
-
 msgid "When I got back to the desk, our flask had turned green. It looked like a fish tank full of algae."
 msgstr ""
 
 #: 00856:323
-
-msgid "{Mei}\n\"It looks like we didn't succeed this time.\""
+msgid ""
+"{Mei}\n"
+"\"It looks like we didn't succeed this time.\""
 msgstr ""
 
 #: 00856:324
-
-msgid "{Kazushi}\n\"Oops.\nMy mistake.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oops.\n"
+"My mistake.\""
 msgstr ""
 
 #: 00856:325
-
 msgid "All because I lost control and left the fire..."
 msgstr ""
 
 #: 00856:329
-
-msgid "{Principal}\n\"You need to keep control over your thoughts in order to be successful in alchemy.\""
+msgid ""
+"{Principal}\n"
+"\"You need to keep control over your thoughts in order to be successful in alchemy.\""
 msgstr ""
 
 #: 00856:330
-
-msgid "{Kazushi}\n\"My thoughts...\""
+msgid ""
+"{Kazushi}\n"
+"\"My thoughts...\""
 msgstr ""
 
 #: 00856:331
-
 msgid "She meant that I'm still not mature enough."
 msgstr ""
 
 #: 00856:335
-
-msgid "{Mei}\n\"This was only your first time. You'll do better next time.\""
+msgid ""
+"{Mei}\n"
+"\"This was only your first time. You'll do better next time.\""
 msgstr ""
 
 #: 00856:336
-
-msgid "{Kazushi}\n\"I'll try my best!\""
+msgid ""
+"{Kazushi}\n"
+"\"I'll try my best!\""
 msgstr ""
 
 #: 00856:337
-
 msgid "Sensei's so nice. I could easily fall for her. She smells good too."
 msgstr ""
 
 #: 00856:338
-
 msgid "Mei-sensei's so great."
 msgstr ""
-

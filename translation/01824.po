@@ -8,106 +8,117 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 01824:5
-
-msgid "{Kazushi}\n\"Because you're my friend, Natsume-chan.\""
+msgid ""
+"{Kazushi}\n"
+"\"Because you're my friend, Natsume-chan.\""
 msgstr ""
 
 #: 01824:8
-
 msgid "She stopped."
 msgstr ""
 
 #: 01824:9
-
 msgid "Again, she stopped and turned around with confusion in her eyes."
 msgstr ""
 
 #: 01824:10
-
-msgid "{Kazushi}\n\"Um, did I say something wrong again?\""
+msgid ""
+"{Kazushi}\n"
+"\"Um, did I say something wrong again?\""
 msgstr ""
 
 #: 01824:13
-
-msgid "{Natsume}\n\"Are you my friend, Haruma?\""
+msgid ""
+"{Natsume}\n"
+"\"Are you my friend, Haruma?\""
 msgstr ""
 
 #: 01824:14
-
-msgid "{Kazushi}\n\"Oh, um...at least I thought I was your friend? Was I wrong?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, um...at least I thought I was your friend? Was I wrong?\""
 msgstr ""
 
 #: 01824:15
-
-msgid "{Natsume}\n\"Since when have we been friends?\""
+msgid ""
+"{Natsume}\n"
+"\"Since when have we been friends?\""
 msgstr ""
 
 #: 01824:16
-
-msgid "{Kazushi}\n\"Well, I hadn't really thought about when, but if I had to say, I think we were friends by the second time we met.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, I hadn't really thought about when, but if I had to say, I think we were friends by the second time we met.\""
 msgstr ""
 
 #: 01824:19
-
-msgid "{Natsume}\n\"How did we become friends? Is it because we kissed?\""
+msgid ""
+"{Natsume}\n"
+"\"How did we become friends? Is it because we kissed?\""
 msgstr ""
 
 #: 01824:20
-
-msgid "{Kazushi}\n\"Not...exactly...only true couples are supposed to do that.\""
+msgid ""
+"{Kazushi}\n"
+"\"Not...exactly...only true couples are supposed to do that.\""
 msgstr ""
 
 #: 01824:21
-
 msgid "It made me blush when I tried to think about when we kissed. Come to think of it, that was my first kiss, too, and Natsume-chan was the one I shared it with."
 msgstr ""
 
 #: 01824:24
-
-msgid "{Natsume}\n\"I see. Friends, eh?\""
+msgid ""
+"{Natsume}\n"
+"\"I see. Friends, eh?\""
 msgstr ""
 
 #: 01824:25
-
-msgid "{Kazushi}\n\"That's right, friends. I'll introduce to all of my friends, too. I'm certain that they'll all take a liking to you.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's right, friends. I'll introduce to all of my friends, too. I'm certain that they'll all take a liking to you.\""
 msgstr ""
 
 #: 01824:28
-
-msgid "{Natsume}\n\"But I don't really have any friends I could introduce to you.\""
+msgid ""
+"{Natsume}\n"
+"\"But I don't really have any friends I could introduce to you.\""
 msgstr ""
 
 #: 01824:29
-
-msgid "{Kazushi}\n\"Don't worry about it! Though I guess it might be a little boring since all my friends are older than you.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't worry about it! Though I guess it might be a little boring since all my friends are older than you.\""
 msgstr ""
 
 #: 01824:32
-
-msgid "{Natsume}\n\"But it wouldn't be right if you're the only one introducing people, would it? It goes against equivalent exchange.\""
+msgid ""
+"{Natsume}\n"
+"\"But it wouldn't be right if you're the only one introducing people, would it? It goes against equivalent exchange.\""
 msgstr ""
 
 #: 01824:33
-
-msgid "{Kazushi}\n\"Equivalent exchange? What's that? I don't get it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Equivalent exchange? What's that? I don't get it.\""
 msgstr ""
 
 #: 01824:37
-
-msgid "{Natsume}\n\"..................\""
+msgid ""
+"{Natsume}\n"
+"\"..................\""
 msgstr ""
 
 #: 01824:38
-
 msgid "Natsume-chan was looking at me like I was an idiot. Was it embarrassing to not know about that?"
 msgstr ""
 
 #: 01824:41
-
-msgid "{Natsume}\n\"You're an idiot, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"You're an idiot, Haruma.\""
 msgstr ""
-

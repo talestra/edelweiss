@@ -8,336 +8,341 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 50605:7
-
 msgid "The time has passed so quickly---"
 msgstr ""
 
 #: 50605:11
-
 msgid "---Dozens of years later."
 msgstr ""
 
 #: 50605:13
-
-msgid "{Principal}\n\"Greetings, everyone. I am Aozora Hisae, the principal of this academy. For the next three years, we will all be living together here at this academy...\""
+msgid ""
+"{Principal}\n"
+"\"Greetings, everyone. I am Aozora Hisae, the principal of this academy. For the next three years, we will all be living together here at this academy...\""
 msgstr ""
 
 #: 50605:15
-
 msgid "I've become a teacher at Eiden Academy."
 msgstr ""
 
 #: 50605:18
-
-msgid "{Yagami}\n\"Who'd have thought Kazushi would become a teacher. Oh, I guess I should be calling you Haruma-sensei now, huh?\""
+msgid ""
+"{Yagami}\n"
+"\"Who'd have thought Kazushi would become a teacher. Oh, I guess I should be calling you Haruma-sensei now, huh?\""
 msgstr ""
 
 #: 50605:19
-
-msgid "{Kazushi}\n\"Ahaha, at least in front of the students, please.\""
+msgid ""
+"{Kazushi}\n"
+"\"Ahaha, at least in front of the students, please.\""
 msgstr ""
 
 #: 50605:21
-
 msgid "I'll be in charge of teaching Alchemy."
 msgstr ""
 
 #: 50605:22
-
 msgid "The reason why I chose to teach Alchemy isn't because I wanted to revive Mei or anything like that. I just wanted to follow in her footsteps."
 msgstr ""
 
 #: 50605:23
-
 msgid "And that meant this was the only academy I could be employed at, so naturally I came back here."
 msgstr ""
 
 #: 50605:26
-
-msgid "{Kazushi}\n\"It's been a long time.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's been a long time.\""
 msgstr ""
 
 #: 50605:27
-
 msgid "The room hadn't changed a bit. It still had the sour smell of old books... Even the books on the shelves were hardly any different from what I remembered."
 msgstr ""
 
 #: 50605:28
-
-msgid "{Kazushi}\n\"No one's here, huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"No one's here, huh?\""
 msgstr ""
 
 #: 50605:29
-
 msgid "This place was still as unpopular as ever."
 msgstr ""
 
 #: 50605:30
-
-msgid "{Kazushi}\n\"Jeez, read some books, guys.........\""
+msgid ""
+"{Kazushi}\n"
+"\"Jeez, read some books, guys.........\""
 msgstr ""
 
 #: 50605:31
-
-msgid "{Kazushi}\n\"Oh......\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh......\""
 msgstr ""
 
 #: 50605:33
-
 msgid "There is someone - a girl - reading books in a chair by the windowsill."
 msgstr ""
 
 #: 50605:34
-
 msgid "I wonder what year she's in? She has a beautiful and rather mature looking profile."
 msgstr ""
 
 #: 50605:36
-
-msgid "{The girl}\n\"Oh......?\""
+msgid ""
+"{The girl}\n"
+"\"Oh......?\""
 msgstr ""
 
 #: 50605:37
-
 msgid "She looked up from her book after sensing my eyes on her."
 msgstr ""
 
 #: 50605:38
-
-msgid "{The girl}\n\"Hello.\""
+msgid ""
+"{The girl}\n"
+"\"Hello.\""
 msgstr ""
 
 #: 50605:39
-
 msgid "She greeted me."
 msgstr ""
 
 #: 50605:40
-
-msgid "{Kazushi}\n\"H-hello.\""
+msgid ""
+"{Kazushi}\n"
+"\"H-hello.\""
 msgstr ""
 
 #: 50605:41
-
 msgid "I stuttered. Why am I nervous?"
 msgstr ""
 
 #: 50605:42
-
-msgid "{The girl}\n\"Umm... you're the new alchemy teacher, right?\""
+msgid ""
+"{The girl}\n"
+"\"Umm... you're the new alchemy teacher, right?\""
 msgstr ""
 
 #: 50605:43
-
-msgid "{Kazushi}\n\"Oh, yes.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, yes.\""
 msgstr ""
 
 #: 50605:44
-
 msgid "She probably remembered my face from the beginning of the opening ceremony."
 msgstr ""
 
 #: 50605:45
-
-msgid "{The girl}\n\"Umm, it's such a coincidence, isn't it?\""
+msgid ""
+"{The girl}\n"
+"\"Umm, it's such a coincidence, isn't it?\""
 msgstr ""
 
 #: 50605:46
-
-msgid "{Kazushi}\n\"What? What is?\""
+msgid ""
+"{Kazushi}\n"
+"\"What? What is?\""
 msgstr ""
 
 #: 50605:47
-
-msgid "{The girl}\n\"Sensei, your name is Haruma, right? My name is Haruma too.\""
+msgid ""
+"{The girl}\n"
+"\"Sensei, your name is Haruma, right? My name is Haruma too.\""
 msgstr ""
 
 #: 50605:48
-
-msgid "{Kazushi}\n\"Huh? Really?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Really?\""
 msgstr ""
 
 #: 50605:49
-
 msgid "That really is a coincidence. Haruma's not that common of a name, is it? I've never met another Haruma in the same grade as me."
 msgstr ""
 
 #: 50605:51
-
-msgid "{Haruma}\n\"When I heard your name at the ceremony, I was surprised.\""
+msgid ""
+"{Haruma}\n"
+"\"When I heard your name at the ceremony, I was surprised.\""
 msgstr ""
 
 #: 50605:52
-
 msgid "Despite her mature looking face, she had a childish smile. The girl had a strange mix of mature and youthful attractiveness."
 msgstr ""
 
 #: 50605:53
-
-msgid "{Haruma}\n\"Do you like books too, sensei?\""
+msgid ""
+"{Haruma}\n"
+"\"Do you like books too, sensei?\""
 msgstr ""
 
 #: 50605:54
-
-msgid "{Kazushi}\n\"Yeah, I suppose so. I used to be a librarian here back in the day.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, I suppose so. I used to be a librarian here back in the day.\""
 msgstr ""
 
 #: 50605:55
-
-msgid "{Haruma}\n\"Oh, you graduated from here? I'm a librarian too.\""
+msgid ""
+"{Haruma}\n"
+"\"Oh, you graduated from here? I'm a librarian too.\""
 msgstr ""
 
 #: 50605:56
-
-msgid "{Kazushi}\n\"You too? This really is a coincidence.\""
+msgid ""
+"{Kazushi}\n"
+"\"You too? This really is a coincidence.\""
 msgstr ""
 
 #: 50605:57
-
 msgid "Coincidences do happen together. I suddenly felt a sense of closeness to her."
 msgstr ""
 
 #: 50605:58
-
-msgid "{Kazushi}\n\"Then, Haruma... er, it's hard to call you that.\""
+msgid ""
+"{Kazushi}\n"
+"\"Then, Haruma... er, it's hard to call you that.\""
 msgstr ""
 
 #: 50605:59
-
 msgid "It does feel weird calling someone by my own last name."
 msgstr ""
 
 #: 50605:60
-
-msgid "{Haruma}\n\"Then, you can call me by my first name.\""
+msgid ""
+"{Haruma}\n"
+"\"Then, you can call me by my first name.\""
 msgstr ""
 
 #: 50605:61
-
-msgid "{Kazushi}\n\"What is your first name?\""
+msgid ""
+"{Kazushi}\n"
+"\"What is your first name?\""
 msgstr ""
 
 #: 50605:64
-
-msgid "{Saki}\n\"Saki. Haruma Saki, sophomore. Nice to meet you.\""
+msgid ""
+"{Saki}\n"
+"\"Saki. Haruma Saki, sophomore. Nice to meet you.\""
 msgstr ""
 
 #: 50605:65
-
 msgid "She bowed politely. I found myself just standing there."
 msgstr ""
 
 #: 50605:66
-
 msgid "Haruma Saki - that was the name I gave Mei when she asked me for one."
 msgstr ""
 
 #: 50605:67
-
 msgid "Her name came from the thought I had - that the next stage for a flower after it sprouts (Mei), is to bloom (Saku)."
 msgstr ""
 
 #: 50605:68
-
-msgid "{Kazushi}\n\".....................\""
+msgid ""
+"{Kazushi}\n"
+"\".....................\""
 msgstr ""
 
 #: 50605:69
-
 msgid "This is a coincidence, isn't it?"
 msgstr ""
 
 #: 50605:70
-
 msgid "Reincarnation?"
 msgstr ""
 
 #: 50605:71
-
 msgid "No, she couldn't have chosen her own name. It can't be."
 msgstr ""
 
 #: 50605:72
-
-msgid "{Kazushi}\n\".....................\""
+msgid ""
+"{Kazushi}\n"
+"\".....................\""
 msgstr ""
 
 #: 50605:73
-
-msgid "{Saki}\n\"Um, sensei? What's wrong?\""
+msgid ""
+"{Saki}\n"
+"\"Um, sensei? What's wrong?\""
 msgstr ""
 
 #: 50605:74
-
-msgid "{Kazushi}\n\"Oh... nothing...\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh... nothing...\""
 msgstr ""
 
 #: 50605:75
-
 msgid "I just realized that I was staring at her. I looked away in a hurry."
 msgstr ""
 
 #: 50605:76
-
-msgid "{Kazushi}\n\"I'm sorry. I was thinking you look just like someone I know.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm sorry. I was thinking you look just like someone I know.\""
 msgstr ""
 
 #: 50605:77
-
 msgid "What is it, really? She doesn't particularly look like her, I guess. It must be a coincidence."
 msgstr ""
 
 #: 50605:78
-
 msgid "Yes, just a coincidence. But even so, that coincidence made me rather happy."
 msgstr ""
 
 #: 50605:79
-
-msgid "{Saki}\n\"Is the person I look like perhaps your old lover?\""
+msgid ""
+"{Saki}\n"
+"\"Is the person I look like perhaps your old lover?\""
 msgstr ""
 
 #: 50605:80
-
-msgid "{Kazushi}\n\"Huh? Yeah, something like that.\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Yeah, something like that.\""
 msgstr ""
 
 #: 50605:81
-
-msgid "{Saki}\n\"What? It really is? Wow, amazing.\""
+msgid ""
+"{Saki}\n"
+"\"What? It really is? Wow, amazing.\""
 msgstr ""
 
 #: 50605:82
-
 msgid "I guess girls at this age like that kind of subject. Her eyes were shining already."
 msgstr ""
 
 #: 50605:83
-
-msgid "{Saki}\n\"Sensei, you loved that person, didn't you? Umm... what's like to be in love?\""
+msgid ""
+"{Saki}\n"
+"\"Sensei, you loved that person, didn't you? Umm... what's like to be in love?\""
 msgstr ""
 
 #: 50605:84
-
-msgid "{Kazushi}\n\"Huh...?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh...?\""
 msgstr ""
 
 #: 50605:85
-
 msgid "What a nostalgic question. Is this question another coincidence too? It was the question we both tried to find the answer to together."
 msgstr ""
 
 #: 50605:86
-
 msgid "But now I can proudly answer it."
 msgstr ""
 
 #: 50605:87
-
-msgid "{Kazushi}\n\"Let's see. Being in love is like............\""
+msgid ""
+"{Kazushi}\n"
+"\"Let's see. Being in love is like............\""
 msgstr ""
-

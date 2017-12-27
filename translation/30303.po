@@ -8,786 +8,827 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 30303:7
-
 msgid "A sturdy lock came undone with a click."
 msgstr ""
 
 #: 30303:10
-
-msgid "{Ran}\n\"No one's here, right?\""
+msgid ""
+"{Ran}\n"
+"\"No one's here, right?\""
 msgstr ""
 
 #: 30303:11
-
 msgid "Ran glanced left and right before quickly opening the door."
 msgstr ""
 
 #: 30303:12
-
-msgid "{Ran}\n\"Come on, let's go.\""
+msgid ""
+"{Ran}\n"
+"\"Come on, let's go.\""
 msgstr ""
 
 #: 30303:13
-
-msgid "{Kazushi}\n\"Okay.\""
+msgid ""
+"{Kazushi}\n"
+"\"Okay.\""
 msgstr ""
 
 #: 30303:18
-
 msgid "It felt strange being in the laboratory during our break."
 msgstr ""
 
 #: 30303:21
-
-msgid "{Ran}\n\"Here we are! No one saw us, right?\""
+msgid ""
+"{Ran}\n"
+"\"Here we are! No one saw us, right?\""
 msgstr ""
 
 #: 30303:23
-
 msgid "Ran put down her stuff and exhaled slowly."
 msgstr ""
 
 #: 30303:24
-
-msgid "{Kazushi}\n\"I don't think anyone saw us. But why did we have to sneak in here? You have permission to use this room, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't think anyone saw us. But why did we have to sneak in here? You have permission to use this room, right?\""
 msgstr ""
 
 #: 30303:27
-
-msgid "{Ran}\n\"Didn't work out.\""
+msgid ""
+"{Ran}\n"
+"\"Didn't work out.\""
 msgstr ""
 
 #: 30303:28
-
-msgid "{Kazushi}\n\"What? It didn't? Why not?\""
+msgid ""
+"{Kazushi}\n"
+"\"What? It didn't? Why not?\""
 msgstr ""
 
 #: 30303:29
-
 msgid "We were just trying to do our homework. Why wouldn't they give us permission?"
 msgstr ""
 
 #: 30303:32
-
-msgid "{Ran}\n\"They were worried about us doing it alone and Mei-chan said she was going to supervise us. We ARE the failure combo.\""
+msgid ""
+"{Ran}\n"
+"\"They were worried about us doing it alone and Mei-chan said she was going to supervise us. We ARE the failure combo.\""
 msgstr ""
 
 #: 30303:33
-
-msgid "{Kazushi}\n\"Okay... What's wrong with that?\""
+msgid ""
+"{Kazushi}\n"
+"\"Okay... What's wrong with that?\""
 msgstr ""
 
 #: 30303:34
-
 msgid "I was uneasy doing it by ourselves, but if Mei-sensei was going to help us, then what more could we ask for?"
 msgstr ""
 
 #: 30303:37
-
-msgid "{Ran}\n\"What are you saying? We can't let Mei-chan see what we're about to do, can we?\""
+msgid ""
+"{Ran}\n"
+"\"What are you saying? We can't let Mei-chan see what we're about to do, can we?\""
 msgstr ""
 
 #: 30303:38
-
-msgid "{Kazushi}\n\"Huh? What are we about to do?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? What are we about to do?\""
 msgstr ""
 
 #: 30303:39
-
 msgid "What are you planning that you can't show sensei?"
 msgstr ""
 
 #: 30303:42
-
-msgid "{Ran}\n\"Well, that's how it is, so I stole the key to this room today. If they catch us, you're my accomplice, so have fun!\""
+msgid ""
+"{Ran}\n"
+"\"Well, that's how it is, so I stole the key to this room today. If they catch us, you're my accomplice, so have fun!\""
 msgstr ""
 
 #: 30303:43
-
-msgid "{Kazushi}\n\"Hey?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey?!\""
 msgstr ""
 
 #: 30303:44
-
 msgid "I was planning to do our summer homework like good students, but there were dangerous clouds on the horizon."
 msgstr ""
 
 #: 30303:47
-
-msgid "{Ran}\n\"What are you afraid of? You've got a pair, don't you? We'll be fine. Oh, set our stuff down over there.\""
+msgid ""
+"{Ran}\n"
+"\"What are you afraid of? You've got a pair, don't you? We'll be fine. Oh, set our stuff down over there.\""
 msgstr ""
 
 #: 30303:48
-
 msgid "True, it was too late to complain now. I set our hug bag of stuff we just bought at Miya-san's store down to the side."
 msgstr ""
 
 #: 30303:49
-
-msgid "{Ran}\n\"Starting today, this is going to be our home for a while. Let's work together.\""
+msgid ""
+"{Ran}\n"
+"\"Starting today, this is going to be our home for a while. Let's work together.\""
 msgstr ""
 
 #: 30303:51
-
-msgid "{Kazushi}\n\"Do you really think we can sleep over and perform experiments without permission? Besides, think about it, it may be our homework, but we're talking about a guy and a girl sharing the same room by themselves.\""
+msgid ""
+"{Kazushi}\n"
+"\"Do you really think we can sleep over and perform experiments without permission? Besides, think about it, it may be our homework, but we're talking about a guy and a girl sharing the same room by themselves.\""
 msgstr ""
 
 #: 30303:53
-
 msgid "It was gonna be on my mind the whole time."
 msgstr ""
 
 #: 30303:54
-
-msgid "{Ran}\n\"What are you saying now? We've already gone and done it, so what does it matter if we sleep together?\""
+msgid ""
+"{Ran}\n"
+"\"What are you saying now? We've already gone and done it, so what does it matter if we sleep together?\""
 msgstr ""
 
 #: 30303:55
-
-msgid "{Kazushi}\n\"Yeah... You're right.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah... You're right.\""
 msgstr ""
 
 #: 30303:56
-
 msgid "She was so candid. Are all women like that after you fuck them for the first time? I thought there'd be more mood and romance..."
 msgstr ""
 
 #: 30303:59
-
-msgid "{Ran}\n\"Well, now we just need to try not to get caught.\""
+msgid ""
+"{Ran}\n"
+"\"Well, now we just need to try not to get caught.\""
 msgstr ""
 
 #: 30303:60
-
-msgid "{Kazushi}\n\"Yeah.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah.\""
 msgstr ""
 
 #: 30303:61
-
 msgid "I'd already caused a lot of problems before, so I might really be in trouble if there's more."
 msgstr ""
 
 #: 30303:62
-
-msgid "{Ran}\n\"Well, we'll be fine. No one's coming here during break. This is a studio too, so we have everything we need to get by.\""
+msgid ""
+"{Ran}\n"
+"\"Well, we'll be fine. No one's coming here during break. This is a studio too, so we have everything we need to get by.\""
 msgstr ""
 
 #: 30303:63
-
-msgid "{Kazushi}\n\"Well, we've come this far. We just have to do it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, we've come this far. We just have to do it.\""
 msgstr ""
 
 #: 30303:64
-
-msgid "{Ran}\n\"You got it. Okay, we'll be together for a while.\""
+msgid ""
+"{Ran}\n"
+"\"You got it. Okay, we'll be together for a while.\""
 msgstr ""
 
 #: 30303:65
-
 msgid "And so we began living together."
 msgstr ""
 
 #: 30303:69
-
 msgid "By the time we were done sorting our luggage and lit the fire, it was already noon. We were using the big furnace built into the room, not the burners we used in class."
 msgstr ""
 
 #: 30303:70
-
-msgid "{Kazushi}\n\"Now this looks like a serious experiment.\""
+msgid ""
+"{Kazushi}\n"
+"\"Now this looks like a serious experiment.\""
 msgstr ""
 
 #: 30303:73
-
-msgid "{Ran}\n\"Of course, it is. You got to make it look good first. 'If you build it, they will come.' You know?\""
+msgid ""
+"{Ran}\n"
+"\"Of course, it is. You got to make it look good first. 'If you build it, they will come.' You know?\""
 msgstr ""
 
 #: 30303:74
-
-msgid "{Kazushi}\n\"Looks come first, right? I remember when I first tried to do snowboarding, I bought the whole set of snowboarding gear.\""
+msgid ""
+"{Kazushi}\n"
+"\"Looks come first, right? I remember when I first tried to do snowboarding, I bought the whole set of snowboarding gear.\""
 msgstr ""
 
 #: 30303:75
-
-msgid "{Kazushi}\n\"But I regretted it since I only used it once.\""
+msgid ""
+"{Kazushi}\n"
+"\"But I regretted it since I only used it once.\""
 msgstr ""
 
 #: 30303:78
-
-msgid "{Ran}\n\"Ahaha, that's a bad example. You tried to pick up chicks with it, but couldn't reel any in so you quit, right?\""
+msgid ""
+"{Ran}\n"
+"\"Ahaha, that's a bad example. You tried to pick up chicks with it, but couldn't reel any in so you quit, right?\""
 msgstr ""
 
 #: 30303:79
-
-msgid "{Kazushi}\n\"How do you know?! Were you watching me?!\""
+msgid ""
+"{Kazushi}\n"
+"\"How do you know?! Were you watching me?!\""
 msgstr ""
 
 #: 30303:81
-
 msgid "I went last year with Appo and the others, but it was a disaster. I was so embarrassed when I fell down trying to get on the lift, stopping the whole, packed thing."
 msgstr ""
 
 #: 30303:82
-
 msgid "Then I wandered onto the expert course and couldn't get down the mountain."
 msgstr ""
 
 #: 30303:83
-
 msgid "Halfway down, I nearly got lost and had the rescue squad come find me, some tranny tried to seduce Appo in the sauna, and nothing good happened."
 msgstr ""
 
 #: 30303:86
-
-msgid "{Ran}\n\"I know exactly how you tend to act. More importantly, why don't we take this time to eat something?\""
+msgid ""
+"{Ran}\n"
+"\"I know exactly how you tend to act. More importantly, why don't we take this time to eat something?\""
 msgstr ""
 
 #: 30303:87
-
-msgid "{Kazushi}\n\"You're brushing it off, but all that kit was expensive.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're brushing it off, but all that kit was expensive.\""
 msgstr ""
 
 #: 30303:89
-
 msgid "The slopes'll make any girl look cute, but I learned the hard way that it wasn't the same for guys."
 msgstr ""
 
 #: 30303:90
-
-msgid "{Ran}\n\"Kazushi, you want two eggs?\""
+msgid ""
+"{Ran}\n"
+"\"Kazushi, you want two eggs?\""
 msgstr ""
 
 #: 30303:91
-
-msgid "{Kazushi}\n\"Eggs?\""
+msgid ""
+"{Kazushi}\n"
+"\"Eggs?\""
 msgstr ""
 
 #: 30303:92
-
 msgid "I came out of my reverie as I heard Ran from afar. She wasn't in the room anymore, but next door in the prep room. A nice smell was wafting out."
 msgstr ""
 
 #: 30303:93
-
-msgid "{Kazushi}\n\"Huh? Are you cooking something?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Are you cooking something?\""
 msgstr ""
 
 #: 30303:94
-
 msgid "There was a kitchen in the room next door. As Ran said earlier, there were facilities available for people to stay overnight."
 msgstr ""
 
 #: 30303:95
-
 msgid "I looked in and saw Ran shaking a frying pan as she made something."
 msgstr ""
 
 #: 30303:96
-
-msgid "{Kazushi}\n\"What, you really can cook?\""
+msgid ""
+"{Kazushi}\n"
+"\"What, you really can cook?\""
 msgstr ""
 
 #: 30303:99
-
-msgid "{Ran}\n\"You can't really call this cooking. I wanted to give you some energy though.\""
+msgid ""
+"{Ran}\n"
+"\"You can't really call this cooking. I wanted to give you some energy though.\""
 msgstr ""
 
 #: 30303:100
-
 msgid "What an admirable statement. I didn't know Ran even had a domestic side to her."
 msgstr ""
 
 #: 30303:101
-
-msgid "{Kazushi}\n\"It's a nice looking view, too...\""
+msgid ""
+"{Kazushi}\n"
+"\"It's a nice looking view, too...\""
 msgstr ""
 
 #: 30303:102
-
 msgid "Is this what they call \"an image gap?\" She looked damn cute holding a pan in the kitchen."
 msgstr ""
 
 #: 30303:103
-
 msgid "What if I hugged her now?"
 msgstr ""
 
 #: 30303:107
-
-msgid "{Ran}\n\"Ohh, be careful. You're so impatient!\""
+msgid ""
+"{Ran}\n"
+"\"Ohh, be careful. You're so impatient!\""
 msgstr ""
 
 #: 30303:109
-
 msgid "I wonder if she'd say sweet things like that?"
 msgstr ""
 
 #: 30303:112
-
-msgid "{Ran}\n\"He's spacing out. Now's my chance!\""
+msgid ""
+"{Ran}\n"
+"\"He's spacing out. Now's my chance!\""
 msgstr ""
 
 #: 30303:113
-
 msgid "Shake, shake!"
 msgstr ""
 
 #: 30303:114
-
-msgid "{Kazushi}\n\"Hmm?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hmm?\""
 msgstr ""
 
 #: 30303:115
-
 msgid "I just saw Ran doing something suspicious."
 msgstr ""
 
 #: 30303:116
-
-msgid "{Kazushi}\n\"Hey, did you just sneak something in there?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, did you just sneak something in there?\""
 msgstr ""
 
 #: 30303:119
-
-msgid "{Ran}\n\"What? No. Look, you're gonna become super strong when you eat this.\""
+msgid ""
+"{Ran}\n"
+"\"What? No. Look, you're gonna become super strong when you eat this.\""
 msgstr ""
 
 #: 30303:120
-
-msgid "{Kazushi}\n\"Oh, yeah! I can't wait for your homemade food!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, yeah! I can't wait for your homemade food!\""
 msgstr ""
 
 #: 30303:121
-
-msgid "{Ran}\n\"I am almost done. Just wait for a second.\""
+msgid ""
+"{Ran}\n"
+"\"I am almost done. Just wait for a second.\""
 msgstr ""
 
 #: 30303:122
-
-msgid "{Kazushi}\n\"Wow. What a great smell!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Wow. What a great smell!!\""
 msgstr ""
 
 #: 30303:123
-
 msgid "The smell was arousing my appetite. Was that her hidden flavor she put in? This looks like it'll taste good too."
 msgstr ""
 
 #: 30303:128
-
 msgid "In the beginning, all was well."
 msgstr ""
 
 #: 30303:129
-
-msgid "{Kazushi}\n\"This tastes really good, Ran.\""
+msgid ""
+"{Kazushi}\n"
+"\"This tastes really good, Ran.\""
 msgstr ""
 
 #: 30303:132
-
-msgid "{Ran}\n\"Good, good! Eat more, Kazushi.\""
+msgid ""
+"{Ran}\n"
+"\"Good, good! Eat more, Kazushi.\""
 msgstr ""
 
 #: 30303:133
-
-msgid "{Kazushi}\n\"All right! More please!\""
+msgid ""
+"{Kazushi}\n"
+"\"All right! More please!\""
 msgstr ""
 
 #: 30303:134
-
 msgid "Ran's home cooking tasted just great. It was unique and homely."
 msgstr ""
 
 #: 30303:135
-
-msgid "{Kazushi}\n\"Oh yeah, don't people sometimes say 'Alchemy is like cooking'?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh yeah, don't people sometimes say 'Alchemy is like cooking'?\""
 msgstr ""
 
 #: 30303:138
-
-msgid "{Ran}\n\"I have heard that.\""
+msgid ""
+"{Ran}\n"
+"\"I have heard that.\""
 msgstr ""
 
 #: 30303:139
-
-msgid "{Kazushi}\n\"If so, you must be good at alchemy, Ran, because you are a good cook.\""
+msgid ""
+"{Kazushi}\n"
+"\"If so, you must be good at alchemy, Ran, because you are a good cook.\""
 msgstr ""
 
 #: 30303:140
-
-msgid "{Ran}\n\"No, I don't think so. There's a fundamental difference between cooking and alchemy.\""
+msgid ""
+"{Ran}\n"
+"\"No, I don't think so. There's a fundamental difference between cooking and alchemy.\""
 msgstr ""
 
 #: 30303:141
-
-msgid "{Kazushi}\n\"Really? Well, it's not like I know whether they're similar or not.\""
+msgid ""
+"{Kazushi}\n"
+"\"Really? Well, it's not like I know whether they're similar or not.\""
 msgstr ""
 
 #: 30303:144
-
-msgid "{Ran}\n\"When it comes to alchemy, you're a lot better than me, Kazushi. I'm counting on you for this experiment.\""
+msgid ""
+"{Ran}\n"
+"\"When it comes to alchemy, you're a lot better than me, Kazushi. I'm counting on you for this experiment.\""
 msgstr ""
 
 #: 30303:145
-
 msgid "We simply chatted, enjoying the food, but..."
 msgstr ""
 
 #: 30303:148
-
 msgid "I wonder when I finally noticed something was strange?"
 msgstr ""
 
 #: 30303:149
-
-msgid "{Kazushi}\n\"It's getting hot in here...\""
+msgid ""
+"{Kazushi}\n"
+"\"It's getting hot in here...\""
 msgstr ""
 
 #: 30303:150
-
 msgid "By the time I noticed it, I was deadly hot. My body felt like it was on fire, and my vision was blurred."
 msgstr ""
 
 #: 30303:153
-
-msgid "{Ran}\n\"Yeah. And also...\""
+msgid ""
+"{Ran}\n"
+"\"Yeah. And also...\""
 msgstr ""
 
 #: 30303:154
-
 msgid "Her face was becoming red. She must have been feeling hot too."
 msgstr ""
 
 #: 30303:155
-
-msgid "{Ran}\n\"My heart is pounding so fast.\""
+msgid ""
+"{Ran}\n"
+"\"My heart is pounding so fast.\""
 msgstr ""
 
 #: 30303:156
-
 msgid "Ran breathed heavily. Was she having a difficulty breathing? At the same time, she turned her watery, glittering eyes to me."
 msgstr ""
 
 #: 30303:157
-
-msgid "{Kazushi}\n\"Hey, is something weird going on here?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, is something weird going on here?\""
 msgstr ""
 
 #: 30303:160
-
-msgid "{Ran}\n\"Hmm... Yeah... Very weird. Why is this happening to me too?\""
+msgid ""
+"{Ran}\n"
+"\"Hmm... Yeah... Very weird. Why is this happening to me too?\""
 msgstr ""
 
 #: 30303:161
-
 msgid "She said something odd."
 msgstr ""
 
 #: 30303:162
-
-msgid "{Kazushi}\n\"Me too?\""
+msgid ""
+"{Kazushi}\n"
+"\"Me too?\""
 msgstr ""
 
 #: 30303:163
-
 msgid "That sounded like she was planning for only me to act weird? Th-that's not true."
 msgstr ""
 
 #: 30303:164
-
-msgid "{Kazushi}\n\"No, that can't be... Hmm?\""
+msgid ""
+"{Kazushi}\n"
+"\"No, that can't be... Hmm?\""
 msgstr ""
 
 #: 30303:165
-
 msgid "Hey, something really is weird. Yes, something is weird."
 msgstr ""
 
 #: 30303:168
-
-msgid "{Ran}\n\"Huh? Huh? Huh?\""
+msgid ""
+"{Ran}\n"
+"\"Huh? Huh? Huh?\""
 msgstr ""
 
 #: 30303:169
-
 msgid "What is this? I can hear Kazushi's thoughts in my head but Ran's thoughts are in my head..."
 msgstr ""
 
 #: 30303:170
-
-msgid "{Kazushi}\n\"What is this?\""
+msgid ""
+"{Kazushi}\n"
+"\"What is this?\""
 msgstr ""
 
 #: 30303:171
-
-msgid "{Ran}\n\"No idea. I just put a stimulant in your dish.\""
+msgid ""
+"{Ran}\n"
+"\"No idea. I just put a stimulant in your dish.\""
 msgstr ""
 
 #: 30303:172
-
-msgid "{Kazushi}\n\"A stimulant?\""
+msgid ""
+"{Kazushi}\n"
+"\"A stimulant?\""
 msgstr ""
 
 #: 30303:173
-
 msgid "No wonder I feel like I'm burning up. Why did you put that kind of stuff in there?"
 msgstr ""
 
 #: 30303:174
-
-msgid "{Ran}\n\"I just borrowed it from the school drug stores... But why am I affected as well?\""
+msgid ""
+"{Ran}\n"
+"\"I just borrowed it from the school drug stores... But why am I affected as well?\""
 msgstr ""
 
 #: 30303:175
-
 msgid "Ran took a look at the drug's container and reads its description."
 msgstr ""
 
 #: 30303:178
-
-msgid "{Ran}\n\"Oh... this works even by smell...\""
+msgid ""
+"{Ran}\n"
+"\"Oh... this works even by smell...\""
 msgstr ""
 
 #: 30303:179
-
-msgid "{Kazushi}\n\"The smell? This sweet smell?\""
+msgid ""
+"{Kazushi}\n"
+"\"The smell? This sweet smell?\""
 msgstr ""
 
 #: 30303:180
-
 msgid "I thought the smell was appetizing, but I guess it was the stimulant's smell. And my appetite for food wasn't the only one it stimulated."
 msgstr ""
 
 #: 30303:181
-
-msgid "{Ran}\n\"Ugh, me too... what am I going to do with this pent up lust?\""
+msgid ""
+"{Ran}\n"
+"\"Ugh, me too... what am I going to do with this pent up lust?\""
 msgstr ""
 
 #: 30303:182
-
-msgid "{Kazushi}\n\"Lust? ...That's graphic.\""
+msgid ""
+"{Kazushi}\n"
+"\"Lust? ...That's graphic.\""
 msgstr ""
 
 #: 30303:183
-
 msgid "You're wriggling your crotch. Hey, am I really hard already?!"
 msgstr ""
 
 #: 30303:184
-
-msgid "{Ran}\n\"That's pretty graphic too. It makes me feel more...\""
+msgid ""
+"{Ran}\n"
+"\"That's pretty graphic too. It makes me feel more...\""
 msgstr ""
 
 #: 30303:185
-
 msgid "Ran looked down at her legs. I saw something shiny run down in the inner side of her thigh."
 msgstr ""
 
 #: 30303:186
-
-msgid "{Kazushi}\n\"Huh? What's that?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? What's that?\""
 msgstr ""
 
 #: 30303:189
-
-msgid "{Ran}\n\"I'm so wet...\""
+msgid ""
+"{Ran}\n"
+"\"I'm so wet...\""
 msgstr ""
 
 #: 30303:190
-
-msgid "{Kazushi}\n\"Huh? Really? You're that wet?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Really? You're that wet?!\""
 msgstr ""
 
 #: 30303:191
-
 msgid "She was so wet it was dripping down to her knees? Her clear love juice kept flowing out."
 msgstr ""
 
 #: 30303:192
-
-msgid "{Kazushi}\n\"Wow...\""
+msgid ""
+"{Kazushi}\n"
+"\"Wow...\""
 msgstr ""
 
 #: 30303:193
-
-msgid "{Ran}\n\"You too, Kazushi...\""
+msgid ""
+"{Ran}\n"
+"\"You too, Kazushi...\""
 msgstr ""
 
 #: 30303:194
-
 msgid "Her eyes full of tears, Ran stared at the bulge in my crotch."
 msgstr ""
 
 #: 30303:195
-
-msgid "{Kazushi}\n\"Wow!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Wow!!\""
 msgstr ""
 
 #: 30303:196
-
 msgid "My crotch was going wild too. I was so hard, it looked like I'd shoved a wooden stick down my pants."
 msgstr ""
 
 #: 30303:197
-
 msgid "I can't believe I didn't even notice until now."
 msgstr ""
 
 #: 30303:200
-
-msgid "{Ran}\n\"Kazushi, it looks so hard on you.\""
+msgid ""
+"{Ran}\n"
+"\"Kazushi, it looks so hard on you.\""
 msgstr ""
 
 #: 30303:201
-
-msgid "{Kazushi}\n\"You too, Ran.\""
+msgid ""
+"{Kazushi}\n"
+"\"You too, Ran.\""
 msgstr ""
 
 #: 30303:202
-
 msgid "Both of us were like burning with fever."
 msgstr ""
 
 #: 30303:203
-
-msgid "{Kazushi}\n\"Can we do it?\""
+msgid ""
+"{Kazushi}\n"
+"\"Can we do it?\""
 msgstr ""
 
 #: 30303:204
-
 msgid "I pressed Ran against me and she buried her face into my chest."
 msgstr ""
 
 #: 30303:207
-
-msgid "{Ran}\n\"H-hey, wait.\""
+msgid ""
+"{Ran}\n"
+"\"H-hey, wait.\""
 msgstr ""
 
 #: 30303:208
-
 msgid "She hit the brakes on me."
 msgstr ""
 
 #: 30303:209
-
-msgid "{Kazushi}\n\"What is this? I'm about to explode.\""
+msgid ""
+"{Kazushi}\n"
+"\"What is this? I'm about to explode.\""
 msgstr ""
 
 #: 30303:212
-
-msgid "{Ran}\n\"How much do you have right now?\""
+msgid ""
+"{Ran}\n"
+"\"How much do you have right now?\""
 msgstr ""
 
 #: 30303:213
-
-msgid "{Kazushi}\n\"Are you charging for this?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you charging for this?!\""
 msgstr ""
 
 #: 30303:214
-
-msgid "{Ran}\n\"Of course! I don't care how close we are, the line has to stay drawn!\""
+msgid ""
+"{Ran}\n"
+"\"Of course! I don't care how close we are, the line has to stay drawn!\""
 msgstr ""
 
 #: 30303:215
-
-msgid "{Kazushi}\n\"And that line is money?!\""
+msgid ""
+"{Kazushi}\n"
+"\"And that line is money?!\""
 msgstr ""
 
 #: 30303:216
-
-msgid "{Ran}\n\"Don't you want to do it now? If you don't, I don't care...\""
+msgid ""
+"{Ran}\n"
+"\"Don't you want to do it now? If you don't, I don't care...\""
 msgstr ""
 
 #: 30303:217
-
 msgid "Ran trembled in a way that was incompatible with her words. At least her body was pretty honest."
 msgstr ""
 
 #: 30303:218
-
-msgid "{Kazushi}\n\"You don't care? Doesn't look that way at all. You wanna do it so bad, don't you?\""
+msgid ""
+"{Kazushi}\n"
+"\"You don't care? Doesn't look that way at all. You wanna do it so bad, don't you?\""
 msgstr ""
 
 #: 30303:221
-
-msgid "{Ran}\n\"That's right! Hurry up and give me some money! Hurry!!\""
+msgid ""
+"{Ran}\n"
+"\"That's right! Hurry up and give me some money! Hurry!!\""
 msgstr ""
 
 #: 30303:222
-
 msgid "She was desperately demanding money. I could no longer fight back against my feelings - I wanted to fuck her right away!!"
 msgstr ""
 
 #: 30303:223
-
 msgid "I had no choice. I fumbled in my pockets for my wallet."
 msgstr ""
 
 #: 30303:224
-
-msgid "{Kazushi}\n\"Shit! I forgot my wallet!\""
+msgid ""
+"{Kazushi}\n"
+"\"Shit! I forgot my wallet!\""
 msgstr ""
 
 #: 30303:227
-
-msgid "{Ran}\n\"IDIOT!!\""
+msgid ""
+"{Ran}\n"
+"\"IDIOT!!\""
 msgstr ""
 
 #: 30303:228
-
 msgid "Ran blew her top."
 msgstr ""
 
 #: 30303:229
-
-msgid "{Ran}\n\"How could you forget it at such an important time?! Forgetting your wallet is like saying 'please kill me now'!\""
+msgid ""
+"{Ran}\n"
+"\"How could you forget it at such an important time?! Forgetting your wallet is like saying 'please kill me now'!\""
 msgstr ""
 
 #: 30303:230
-
-msgid "{Kazushi}\n\"What are you...\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you...\""
 msgstr ""
 
 #: 30303:233
-
-msgid "{Ran}\n\"Don't you have anything?! There's no spare change in your pockets?!\""
+msgid ""
+"{Ran}\n"
+"\"Don't you have anything?! There's no spare change in your pockets?!\""
 msgstr ""
 
 #: 30303:234
-
-msgid "{Kazushi}\n\"Uh...\""
+msgid ""
+"{Kazushi}\n"
+"\"Uh...\""
 msgstr ""
 
 #: 30303:236
-
 msgid "I turned my pockets inside out and got dust. I took my pants off, flipped them upside down, and shook them."
 msgstr ""
 
 #: 30303:237
-
 msgid "Cling..."
 msgstr ""
 
 #: 30303:238
-
-msgid "{Kazushi}\n\"Ahh!\""
+msgid ""
+"{Kazushi}\n"
+"\"Ahh!\""
 msgstr ""
 
 #: 30303:239
-
-msgid "{Ran}\n\"You have some?! How much?!\""
+msgid ""
+"{Ran}\n"
+"\"You have some?! How much?!\""
 msgstr ""
 
 #: 30303:240
-
-msgid "{Kazushi}\n\"50 yen!!\""
+msgid ""
+"{Kazushi}\n"
+"\"50 yen!!\""
 msgstr ""
 
 #: 30303:241
-
-msgid "{Ran}\n\"That's good enough for now! Jam it in!!\""
+msgid ""
+"{Ran}\n"
+"\"That's good enough for now! Jam it in!!\""
 msgstr ""
-

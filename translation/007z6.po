@@ -8,2066 +8,2268 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 007z6:9
-
-msgid "{Yagami}\n\"Hey, everybody!\nIt's time to end the party.\""
+msgid ""
+"{Yagami}\n"
+"\"Hey, everybody!\n"
+"It's time to end the party.\""
 msgstr ""
 
 #: 007z6:10
-
 msgid "It's almost nine o'clock. It's been three hours since the party started."
 msgstr ""
 
 #: 007z6:14
-
-msgid "{Principal}\n\"Unfortunately, it's getting to be that time. We should start wrapping things up.\""
+msgid ""
+"{Principal}\n"
+"\"Unfortunately, it's getting to be that time. We should start wrapping things up.\""
 msgstr ""
 
 #: 007z6:20
-
-msgid "{Appo}\n\"Hooooold it right theeeeeere!!\""
+msgid ""
+"{Appo}\n"
+"\"Hooooold it right theeeeeere!!\""
 msgstr ""
 
 #: 007z6:21
-
 msgid "Appo shouted as he leapt up on stage. We followed after him, and Pierre stole the mic away from the Principal."
 msgstr ""
 
 #: 007z6:25
-
-msgid "{Yagami}\n\"Hey, what are you three planning to do?!\""
+msgid ""
+"{Yagami}\n"
+"\"Hey, what are you three planning to do?!\""
 msgstr ""
 
 #: 007z6:26
-
-msgid "{Kazushi}\n\"It's our little surprise! Please sit back and watch!\""
+msgid ""
+"{Kazushi}\n"
+"\"It's our little surprise! Please sit back and watch!\""
 msgstr ""
 
 #: 007z6:29
-
-msgid "{Yagami}\n\"A surprise? You aren't trying to cause any more trouble, are you?\""
+msgid ""
+"{Yagami}\n"
+"\"A surprise? You aren't trying to cause any more trouble, are you?\""
 msgstr ""
 
 #: 007z6:30
-
 msgid "I couldn't blame him for being suspicious. However, this time we weren't doing anything bad."
 msgstr ""
 
 #: 007z6:34
-
-msgid "{Pierre}\n\"Testing. Testing.\""
+msgid ""
+"{Pierre}\n"
+"\"Testing. Testing.\""
 msgstr ""
 
 #: 007z6:35
-
 msgid "Pierre's voice travelled over through the speaker system."
 msgstr ""
 
 #: 007z6:38
-
-msgid "{Pierre}\n\"On behalf of all us guys, I would like to thank everyone for hosting this welcome party for us.\""
+msgid ""
+"{Pierre}\n"
+"\"On behalf of all us guys, I would like to thank everyone for hosting this welcome party for us.\""
 msgstr ""
 
 #: 007z6:39
-
 msgid "Pierre was talking like some MC at an idol's concert."
 msgstr ""
 
 #: 007z6:46
-
-msgid "{Daigo}\n\"He's really into it.\""
+msgid ""
+"{Daigo}\n"
+"\"He's really into it.\""
 msgstr ""
 
 #: 007z6:47
-
-msgid "{Kazushi}\n\"This is our time to shine.\""
+msgid ""
+"{Kazushi}\n"
+"\"This is our time to shine.\""
 msgstr ""
 
 #: 007z6:48
-
-msgid "{Appo}\n\"I can't wait to see how happy the girls will get.\""
+msgid ""
+"{Appo}\n"
+"\"I can't wait to see how happy the girls will get.\""
 msgstr ""
 
 #: 007z6:51
-
 msgid "The girls had no idea of what was going on."
 msgstr ""
 
 #: 007z6:54
-
-msgid "{Pierre}\n\"We are all bursting and overflowing with deep appreciation for your kindness towards us.\""
+msgid ""
+"{Pierre}\n"
+"\"We are all bursting and overflowing with deep appreciation for your kindness towards us.\""
 msgstr ""
 
 #: 007z6:55
-
-msgid "{Pierre}\n\"As a token of our appreciation, we have prepared this humble present for all the girls here today.\""
+msgid ""
+"{Pierre}\n"
+"\"As a token of our appreciation, we have prepared this humble present for all the girls here today.\""
 msgstr ""
 
 #: 007z6:59
-
-msgid "{Ran}\n\"Presents!!\nReally?!\""
+msgid ""
+"{Ran}\n"
+"\"Presents!!\n"
+"Really?!\""
 msgstr ""
 
 #: 007z6:60
-
 msgid "Ran started jumping up and down. I think she had the wrong idea."
 msgstr ""
 
 #: 007z6:61
-
-msgid "{Kazushi}\n\"Oh, I don't think it's something you'd like, Ran. It isn't money.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, I don't think it's something you'd like, Ran. It isn't money.\""
 msgstr ""
 
 #: 007z6:64
-
-msgid "{Ran}\n\"Awwwwww.\""
+msgid ""
+"{Ran}\n"
+"\"Awwwwww.\""
 msgstr ""
 
 #: 007z6:69
-
-msgid "{Appo}\n\"Of course it's not. Do we look rich?\""
+msgid ""
+"{Appo}\n"
+"\"Of course it's not. Do we look rich?\""
 msgstr ""
 
 #: 007z6:70
-
-msgid "{Ran}\n\"I don't know what you're planning, but I guess I can't get my hopes up.\""
+msgid ""
+"{Ran}\n"
+"\"I don't know what you're planning, but I guess I can't get my hopes up.\""
 msgstr ""
 
 #: 007z6:71
-
-msgid "{Kazushi}\n\"Don't lose interest so fast. Money isn't everything, you know.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't lose interest so fast. Money isn't everything, you know.\""
 msgstr ""
 
 #: 007z6:74
-
-msgid "{Ran}\n\"What? You mean it's not?\""
+msgid ""
+"{Ran}\n"
+"\"What? You mean it's not?\""
 msgstr ""
 
 #: 007z6:75
-
 msgid "I don't think she'll ever get it."
 msgstr ""
 
 #: 007z6:80
-
-msgid "{Pierre}\n\"It may not be expensive, but we prepared this from the bottom of our hearts.\""
+msgid ""
+"{Pierre}\n"
+"\"It may not be expensive, but we prepared this from the bottom of our hearts.\""
 msgstr ""
 
 #: 007z6:83
-
-msgid "{Pierre}\n\"Please accept our hearts!\""
+msgid ""
+"{Pierre}\n"
+"\"Please accept our hearts!\""
 msgstr ""
 
 #: 007z6:89
-
-msgid "{Fuusen}\n\"Look at him act big. He's getting our hopes up.\""
+msgid ""
+"{Fuusen}\n"
+"\"Look at him act big. He's getting our hopes up.\""
 msgstr ""
 
 #: 007z6:90
-
-msgid "{Andou}\n\"I've never received a present from a boy before. I wonder what kind of present it is?\""
+msgid ""
+"{Andou}\n"
+"\"I've never received a present from a boy before. I wonder what kind of present it is?\""
 msgstr ""
 
 #: 007z6:91
-
 msgid "Even Fuusen and Rei were getting hopeful instead of jeering at us. I think this might actually work."
 msgstr ""
 
 #: 007z6:96
-
-msgid "{Pierre}\n\"All right everyone, please accept our hearts!\""
+msgid ""
+"{Pierre}\n"
+"\"All right everyone, please accept our hearts!\""
 msgstr ""
 
 #: 007z6:100
-
 msgid "Pierre snapped his fingers to give the signal."
 msgstr ""
 
 #: 007z6:102
-
 msgid "We pulled a rope and revealed our gift."
 msgstr ""
 
 #: 007z6:108
-
-msgid "{Haruka}\n\"Hey...\""
+msgid ""
+"{Haruka}\n"
+"\"Hey...\""
 msgstr ""
 
 #: 007z6:109
-
 msgid "Flutter..."
 msgstr ""
 
 #: 007z6:113
-
-msgid "{Mizuki}\n\"What is this...?\""
+msgid ""
+"{Mizuki}\n"
+"\"What is this...?\""
 msgstr ""
 
 #: 007z6:115
-
 msgid "Flutter...flutter..."
 msgstr ""
 
 #: 007z6:116
-
 msgid "At first only a few fell, but then more and more white flower petals began fluttering down like snow."
 msgstr ""
 
 #: 007z6:117
-
 msgid "Flutter, flutter..."
 msgstr ""
 
 #: 007z6:118
-
 msgid "Soon, the entire cafeteria was filled with white flower petals."
 msgstr ""
 
 #: 007z6:123
-
-msgid "{Sakura}\n\"It's like snow!\""
+msgid ""
+"{Sakura}\n"
+"\"It's like snow!\""
 msgstr ""
 
 #: 007z6:124
-
-msgid "{Rin}\n\"So beautiful......\""
+msgid ""
+"{Rin}\n"
+"\"So beautiful......\""
 msgstr ""
 
 #: 007z6:131
-
-msgid "{Fuusen}\n\"Look at this! You actually did something nice!\""
+msgid ""
+"{Fuusen}\n"
+"\"Look at this! You actually did something nice!\""
 msgstr ""
 
 #: 007z6:132
-
-msgid "{Andou}\n\"This is so romantic.\""
+msgid ""
+"{Andou}\n"
+"\"This is so romantic.\""
 msgstr ""
 
 #: 007z6:133
-
 msgid "The girls were in awe of the swirling, fluttering flower petals. Maybe..."
 msgstr ""
 
 #: 007z6:136
-
-msgid "{Kazushi}\n\"I think they're loving it.\""
+msgid ""
+"{Kazushi}\n"
+"\"I think they're loving it.\""
 msgstr ""
 
 #: 007z6:141
-
-msgid "{Pierre}\n\"Y-yeah. I don't believe it, but it looks like it worked.\""
+msgid ""
+"{Pierre}\n"
+"\"Y-yeah. I don't believe it, but it looks like it worked.\""
 msgstr ""
 
 #: 007z6:142
-
-msgid "{Appo}\n\"Maybe I'll lose my virginity tonight!\""
+msgid ""
+"{Appo}\n"
+"\"Maybe I'll lose my virginity tonight!\""
 msgstr ""
 
 #: 007z6:143
-
 msgid "It went so well that even we were surprised. We were almost afraid it was going too well."
 msgstr ""
 
 #: 007z6:144
-
 msgid "We always failed before..."
 msgstr ""
 
 #: 007z6:150
-
-msgid "{Haruka}\n\"Hey, isn't this...\""
+msgid ""
+"{Haruka}\n"
+"\"Hey, isn't this...\""
 msgstr ""
 
 #: 007z6:151
-
 msgid "Haruka was the first one to recognise what kind of flower we used."
 msgstr ""
 
 #: 007z6:154
-
-msgid "{Haruka}\n\"Are those flowers...\""
+msgid ""
+"{Haruka}\n"
+"\"Are those flowers...\""
 msgstr ""
 
 #: 007z6:155
-
 msgid "She picked up one of the petals off the floor, and the color drained from her face after she slowly examined it."
 msgstr ""
 
 #: 007z6:161
-
-msgid "{Rin}\n\"Hey! These flowers...!\""
+msgid ""
+"{Rin}\n"
+"\"Hey! These flowers...!\""
 msgstr ""
 
 #: 007z6:162
-
-msgid "{Sakura}\n\"You're right!\""
+msgid ""
+"{Sakura}\n"
+"\"You're right!\""
 msgstr ""
 
 #: 007z6:164
-
 msgid "The girls started to panic one after another. They were all turning pale."
 msgstr ""
 
 #: 007z6:171
-
-msgid "{Appo}\n\"What's wrong, everybody?\""
+msgid ""
+"{Appo}\n"
+"\"What's wrong, everybody?\""
 msgstr ""
 
 #: 007z6:172
-
-msgid "{Pierre}\n\"What's wrong? Are there bugs on them?\""
+msgid ""
+"{Pierre}\n"
+"\"What's wrong? Are there bugs on them?\""
 msgstr ""
 
 #: 007z6:173
-
 msgid "Our high expectations for the rest of the night vanished in seconds. All the girls looked fearfully at the principal."
 msgstr ""
 
 #: 007z6:180
-
-msgid "{Principal}\n\"What have you done...\""
+msgid ""
+"{Principal}\n"
+"\"What have you done...\""
 msgstr ""
 
 #: 007z6:181
-
 msgid "Her body was visibly shaking in anger."
 msgstr ""
 
 #: 007z6:184
-
-msgid "{Principal}\n\"Stop this! Stop spreading those flowers right now!\""
+msgid ""
+"{Principal}\n"
+"\"Stop this! Stop spreading those flowers right now!\""
 msgstr ""
 
 #: 007z6:185
-
 msgid "Her scream washed away all the romance of the scene. Her face was contorted in anger and we nearly ran in fear."
 msgstr ""
 
 #: 007z6:194
-
-msgid "{Daigo}\n\"What's going on?\""
+msgid ""
+"{Daigo}\n"
+"\"What's going on?\""
 msgstr ""
 
 #: 007z6:195
-
-msgid "{Pierre}\n\"Did we do something wrong?\""
+msgid ""
+"{Pierre}\n"
+"\"Did we do something wrong?\""
 msgstr ""
 
 #: 007z6:196
-
-msgid "{Appo}\n\"I knew something bad was coming. Things never go this well.\""
+msgid ""
+"{Appo}\n"
+"\"I knew something bad was coming. Things never go this well.\""
 msgstr ""
 
 #: 007z6:202
-
-msgid "{Mei}\n\"This isn't time for chatter. N-now, boys...where did you get these?\""
+msgid ""
+"{Mei}\n"
+"\"This isn't time for chatter. N-now, boys...where did you get these?\""
 msgstr ""
 
 #: 007z6:203
-
 msgid "Mei-sensei was pale and her lips were trembling with fear. What was going on?"
 msgstr ""
 
 #: 007z6:204
-
-msgid "{Kazushi}\n\"They came from there. You know, that field of flowers where I first met you, Haruka.\""
+msgid ""
+"{Kazushi}\n"
+"\"They came from there. You know, that field of flowers where I first met you, Haruka.\""
 msgstr ""
 
 #: 007z6:208
-
-msgid "{Haruka}\n\"I knew it......\""
+msgid ""
+"{Haruka}\n"
+"\"I knew it......\""
 msgstr ""
 
 #: 007z6:209
-
 msgid "Haruka sounded crushed to hear it. Her eyes trailed over to the principal."
 msgstr ""
 
 #: 007z6:213
-
-msgid "{Principal}\n\"No...\""
+msgid ""
+"{Principal}\n"
+"\"No...\""
 msgstr ""
 
 #: 007z6:218
-
 msgid "The principal fainted, collapsing on the ground."
 msgstr ""
 
 #: 007z6:219
-
-msgid "{Kazushi}\n\"Principal!\""
+msgid ""
+"{Kazushi}\n"
+"\"Principal!\""
 msgstr ""
 
 #: 007z6:220
-
 msgid "I thought she might have had a stroke from her anger. I ran over and held her up, but she had merely passed out."
 msgstr ""
 
 #: 007z6:223
-
-msgid "{Haruka}\n\"Principal! Grandma!! Hang in there!\""
+msgid ""
+"{Haruka}\n"
+"\"Principal! Grandma!! Hang in there!\""
 msgstr ""
 
 #: 007z6:224
-
 msgid "Haruka slapped the principal's cheeks to try and wake her up."
 msgstr ""
 
 #: 007z6:228
-
-msgid "{Yagami}\n\"Are you all right?\nWe should take you to the nurse's office.\""
+msgid ""
+"{Yagami}\n"
+"\"Are you all right?\n"
+"We should take you to the nurse's office.\""
 msgstr ""
 
 #: 007z6:232
-
-msgid "{Principal}\n\"Wait!\nBefore you carry me off, please tell me something.\nAre these flowers ALL from that place?\""
+msgid ""
+"{Principal}\n"
+"\"Wait!\n"
+"Before you carry me off, please tell me something.\n"
+"Are these flowers ALL from that place?\""
 msgstr ""
 
 #: 007z6:233
-
-msgid "{Kazushi}\n\"Yes, ma'am.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes, ma'am.\""
 msgstr ""
 
 #: 007z6:236
-
-msgid "{Principal}\n\"Oh, no.\nHow many are left, then?\""
+msgid ""
+"{Principal}\n"
+"\"Oh, no.\n"
+"How many are left, then?\""
 msgstr ""
 
 #: 007z6:237
-
-msgid "{Kazushi}\n\"...I think we picked almost all of them.\""
+msgid ""
+"{Kazushi}\n"
+"\"...I think we picked almost all of them.\""
 msgstr ""
 
 #: 007z6:238
-
-msgid "{Principal}\n\"Oh, no...\""
+msgid ""
+"{Principal}\n"
+"\"Oh, no...\""
 msgstr ""
 
 #: 007z6:242
-
-msgid "{Kazushi}\n\"Principal?\""
+msgid ""
+"{Kazushi}\n"
+"\"Principal?\""
 msgstr ""
 
 #: 007z6:243
-
 msgid "She passed out again."
 msgstr ""
 
 #: 007z6:248
-
-msgid "{Haruka}\n\"Grandma! Grandma! Hang in there!\""
+msgid ""
+"{Haruka}\n"
+"\"Grandma! Grandma! Hang in there!\""
 msgstr ""
 
 #: 007z6:249
-
-msgid "{Yagami}\n\"Let's get her to the nurse's office. Boys, fetch the stretcher!\""
+msgid ""
+"{Yagami}\n"
+"\"Let's get her to the nurse's office. Boys, fetch the stretcher!\""
 msgstr ""
 
 #: 007z6:250
-
-msgid "{Kazushi}\n\"Yes, sir!\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes, sir!\""
 msgstr ""
 
 #: 007z6:255
-
 msgid "We didn't all have to go, but all four of us ran. None of us could just sit still after that."
 msgstr ""
 
 #: 007z6:262
-
-msgid "{Appo}\n\"Well this has all gone tits up.\""
+msgid ""
+"{Appo}\n"
+"\"Well this has all gone tits up.\""
 msgstr ""
 
 #: 007z6:263
-
-msgid "{Pierre}\n\"I know.\nWe did something bad enough to make the principal pass out.\""
+msgid ""
+"{Pierre}\n"
+"\"I know.\n"
+"We did something bad enough to make the principal pass out.\""
 msgstr ""
 
 #: 007z6:264
-
-msgid "{Daigo}\n\"All we did was pick some flowers, though.\""
+msgid ""
+"{Daigo}\n"
+"\"All we did was pick some flowers, though.\""
 msgstr ""
 
 #: 007z6:265
-
-msgid "{Kazushi}\n\"Either way, I think we're really in for it this time...\""
+msgid ""
+"{Kazushi}\n"
+"\"Either way, I think we're really in for it this time...\""
 msgstr ""
 
 #: 007z6:272
-
-msgid "{Mei}\n\"Even though we know you didn't know about them...\""
+msgid ""
+"{Mei}\n"
+"\"Even though we know you didn't know about them...\""
 msgstr ""
 
 #: 007z6:273
-
 msgid "It was night, and we were in the teacher's room. Mei-sensei was rubbing her temple."
 msgstr ""
 
 #: 007z6:276
-
-msgid "{Mei}\n\"Has she woken up yet?\""
+msgid ""
+"{Mei}\n"
+"\"Has she woken up yet?\""
 msgstr ""
 
 #: 007z6:281
-
-msgid "{Yagami}\n\"No, she's still asleep. It seems to have been quite the shock.\""
+msgid ""
+"{Yagami}\n"
+"\"No, she's still asleep. It seems to have been quite the shock.\""
 msgstr ""
 
 #: 007z6:282
-
 msgid "Yagami-sensei answered carefully. For once, he was on our side. He had no idea what happened either."
 msgstr ""
 
 #: 007z6:285
-
-msgid "{Mei}\n\"Until the principal wakes up, we can't decide on their punishment. I'll do my best, but I don't know if I can protect you this time.\""
+msgid ""
+"{Mei}\n"
+"\"Until the principal wakes up, we can't decide on their punishment. I'll do my best, but I don't know if I can protect you this time.\""
 msgstr ""
 
 #: 007z6:289
-
-msgid "{Haruka}\n\"Wait!\nThat restricted area was my responsibility!\nThis is my fault, too!\""
+msgid ""
+"{Haruka}\n"
+"\"Wait!\n"
+"That restricted area was my responsibility!\n"
+"This is my fault, too!\""
 msgstr ""
 
 #: 007z6:292
-
-msgid "{Mei}\n\"Haruka-chan...\""
+msgid ""
+"{Mei}\n"
+"\"Haruka-chan...\""
 msgstr ""
 
 #: 007z6:293
-
 msgid "We had no idea what they were talking about."
 msgstr ""
 
 #: 007z6:302
-
-msgid "{Appo}\n\"Umm, I still don't know what we did wrong?\""
+msgid ""
+"{Appo}\n"
+"\"Umm, I still don't know what we did wrong?\""
 msgstr ""
 
 #: 007z6:303
-
-msgid "{Pierre}\n\"Well, we picked all of the Principal's precious flowers from her garden, right?\""
+msgid ""
+"{Pierre}\n"
+"\"Well, we picked all of the Principal's precious flowers from her garden, right?\""
 msgstr ""
 
 #: 007z6:304
-
-msgid "{Daigo}\n\"We did that at our last school too, though. We completely ruined that flower garden, and they were really mad, but...\""
+msgid ""
+"{Daigo}\n"
+"\"We did that at our last school too, though. We completely ruined that flower garden, and they were really mad, but...\""
 msgstr ""
 
 #: 007z6:305
-
-msgid "{Kazushi}\n\"All it took was a few letters of apology.\""
+msgid ""
+"{Kazushi}\n"
+"\"All it took was a few letters of apology.\""
 msgstr ""
 
 #: 007z6:306
-
 msgid "This was on a completely different level. Why was everyone so tense about it?"
 msgstr ""
 
 #: 007z6:312
-
-msgid "{Mei}\n\"You guys should go back to your dorm.\nYou'll hear from the principal tomorrow.\""
+msgid ""
+"{Mei}\n"
+"\"You guys should go back to your dorm.\n"
+"You'll hear from the principal tomorrow.\""
 msgstr ""
 
 #: 007z6:313
-
 msgid "Mei-sensei's concern made us really worried. We were finally adjusting to our lives here. What'll happen to us now?"
 msgstr ""
 
 #: 007z6:318
-
 msgid "I couldn't sleep, so I went back to that place. Someone was already there though."
 msgstr ""
 
 #: 007z6:321
-
-msgid "{Haruka}\n\"Kazushi-kun?\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun?\""
 msgstr ""
 
 #: 007z6:322
-
 msgid "I could tell that it was Haruka in the moonlight."
 msgstr ""
 
 #: 007z6:323
-
-msgid "{Kazushi}\n\"You came here, too?\""
+msgid ""
+"{Kazushi}\n"
+"\"You came here, too?\""
 msgstr ""
 
 #: 007z6:326
-
-msgid "{Haruka}\n\"I couldn't sleep.\""
+msgid ""
+"{Haruka}\n"
+"\"I couldn't sleep.\""
 msgstr ""
 
 #: 007z6:327
-
 msgid "She looked around the virtually empty flower bed."
 msgstr ""
 
 #: 007z6:328
-
-msgid "{Kazushi}\n\"I really regret messing up this place, now.\""
+msgid ""
+"{Kazushi}\n"
+"\"I really regret messing up this place, now.\""
 msgstr ""
 
 #: 007z6:329
-
 msgid "I could tell that we had done something horrible to this land."
 msgstr ""
 
 #: 007z6:330
-
 msgid "The place looked like it had been hit by a typhoon."
 msgstr ""
 
 #: 007z6:331
-
-msgid "{Kazushi}\n\"This place must have been very special to the principal.\nI'll go and apologize to her tomorrow.\""
+msgid ""
+"{Kazushi}\n"
+"\"This place must have been very special to the principal.\n"
+"I'll go and apologize to her tomorrow.\""
 msgstr ""
 
 #: 007z6:332
-
-msgid "{Kazushi}\n\"I'm not sure if she'll forgive me, though.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm not sure if she'll forgive me, though.\""
 msgstr ""
 
 #: 007z6:333
-
 msgid "I should have asked her if it was OK to take the flowers from here."
 msgstr ""
 
 #: 007z6:336
-
-msgid "{Haruka}\n\"This is the place where my grandpa proposed to her.\""
+msgid ""
+"{Haruka}\n"
+"\"This is the place where my grandpa proposed to her.\""
 msgstr ""
 
 #: 007z6:337
-
 msgid "Haruka told me something special about her family."
 msgstr ""
 
 #: 007z6:338
-
-msgid "{Kazushi}\n\"He proposed...here?\""
+msgid ""
+"{Kazushi}\n"
+"\"He proposed...here?\""
 msgstr ""
 
 #: 007z6:339
-
 msgid "The importance of that slowly sank in."
 msgstr ""
 
 #: 007z6:340
-
-msgid "{Kazushi}\n\"I didn't know that this place meant so much to her.\""
+msgid ""
+"{Kazushi}\n"
+"\"I didn't know that this place meant so much to her.\""
 msgstr ""
 
 #: 007z6:341
-
 msgid "No wonder the principal was so shocked."
 msgstr ""
 
 #: 007z6:342
-
-msgid "{Haruka}\n\"My grandpa was also an alchemist. They came to this island together to research alchemy.\""
+msgid ""
+"{Haruka}\n"
+"\"My grandpa was also an alchemist. They came to this island together to research alchemy.\""
 msgstr ""
 
 #: 007z6:343
-
-msgid "{Haruka}\n\"The knowledge of this magical island has been passed down for generations amongst my grandma's family.\""
+msgid ""
+"{Haruka}\n"
+"\"The knowledge of this magical island has been passed down for generations amongst my grandma's family.\""
 msgstr ""
 
 #: 007z6:344
-
 msgid "She continued as she started picking up the petals from off the ground."
 msgstr ""
 
 #: 007z6:347
-
-msgid "{Haruka}\n\"This flower is the key to the alchemy passed down by the Aozora family.\""
+msgid ""
+"{Haruka}\n"
+"\"This flower is the key to the alchemy passed down by the Aozora family.\""
 msgstr ""
 
 #: 007z6:348
-
-msgid "{Kazushi}\n\"These flowers?\""
+msgid ""
+"{Kazushi}\n"
+"\"These flowers?\""
 msgstr ""
 
 #: 007z6:349
-
 msgid "I knew they were beautiful, but I hadn't known that they meant so much to the school and Haruka's family."
 msgstr ""
 
 #: 007z6:352
-
-msgid "{Haruka}\n\"These flowers are the reason alchemy developed on this island. You didn't know that yet, but that's why Grandma took such great care of them.\""
+msgid ""
+"{Haruka}\n"
+"\"These flowers are the reason alchemy developed on this island. You didn't know that yet, but that's why Grandma took such great care of them.\""
 msgstr ""
 
 #: 007z6:353
-
 msgid "I don't get everything she's talking about, but..."
 msgstr ""
 
 #: 007z6:354
-
-msgid "{Kazushi}\n\"Now I understand how much these flowers meant for everybody here.\nWhat can I do to make up for it?\""
+msgid ""
+"{Kazushi}\n"
+"\"Now I understand how much these flowers meant for everybody here.\n"
+"What can I do to make up for it?\""
 msgstr ""
 
 #: 007z6:357
-
-msgid "{Haruka}\n\"Yeah, I wish I knew...\""
+msgid ""
+"{Haruka}\n"
+"\"Yeah, I wish I knew...\""
 msgstr ""
 
 #: 007z6:358
-
 msgid "She couldn't think of any ideas and hung her head. We'd gotten ourselves into worse trouble than we were ready for."
 msgstr ""
 
 #: 007z6:359
-
 msgid "This might be the end of our stay on this island."
 msgstr ""
 
 #: 007z6:362
-
-msgid "{Haruka}\n\"Anyways, I'll go apologize to her with you tomorrow. It's alright. I'm sure she'll forgive you, Kazushi-kun. After all, you're...\""
+msgid ""
+"{Haruka}\n"
+"\"Anyways, I'll go apologize to her with you tomorrow. It's alright. I'm sure she'll forgive you, Kazushi-kun. After all, you're...\""
 msgstr ""
 
 #: 007z6:363
-
 msgid "She didn't continue."
 msgstr ""
 
 #: 007z6:364
-
-msgid "{Kazushi}\n\"Huh? I'm?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? I'm?\""
 msgstr ""
 
 #: 007z6:365
-
 msgid "She shook her head as if it was nothing important."
 msgstr ""
 
 #: 007z6:368
-
-msgid "{Haruka}\n\"It's nothing. It's getting late, so I'm heading back. You should get to bed too, Kazushi-kun.\""
+msgid ""
+"{Haruka}\n"
+"\"It's nothing. It's getting late, so I'm heading back. You should get to bed too, Kazushi-kun.\""
 msgstr ""
 
 #: 007z6:369
-
-msgid "{Kazushi}\n\"Oh, yeah... I'll head back in a bit. Good night.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, yeah... I'll head back in a bit. Good night.\""
 msgstr ""
 
 #: 007z6:375
-
 msgid "She waved as she went back to her room."
 msgstr ""
 
 #: 007z6:376
-
-msgid "{Kazushi}\n\"Memorial flower bed, huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Memorial flower bed, huh?\""
 msgstr ""
 
 #: 007z6:377
-
 msgid "This was the precious place where her husband proposed to her... The husband who died shortly after their marriage..."
 msgstr ""
 
 #: 007z6:378
-
-msgid "{Kazushi}\n\"What should we do, now?\""
+msgid ""
+"{Kazushi}\n"
+"\"What should we do, now?\""
 msgstr ""
 
 #: 007z6:379
-
 msgid "We never thought that picking some flowers as a present would cause such a huge mess."
 msgstr ""
 
 #: 007z6:380
-
-msgid "{Kazushi}\n\"I don't care about getting expelled, but I still wanna clean up this mess.\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't care about getting expelled, but I still wanna clean up this mess.\""
 msgstr ""
 
 #: 007z6:381
-
 msgid "At least I can still make this place a bit more presentable."
 msgstr ""
 
 #: 007z6:382
-
-msgid "{Kazushi}\n\"Right, let's do it!\""
+msgid ""
+"{Kazushi}\n"
+"\"Right, let's do it!\""
 msgstr ""
 
 #: 007z6:383
-
 msgid "I got myself all fired up."
 msgstr ""
 
 #: 007z6:384
-
 msgid "Just when I was about to start, I saw three men walking toward me."
 msgstr ""
 
 #: 007z6:391
-
-msgid "{Pierre}\n\"Oh? Kazushi?\""
+msgid ""
+"{Pierre}\n"
+"\"Oh? Kazushi?\""
 msgstr ""
 
 #: 007z6:392
-
-msgid "{Appo}\n\"What? Just when we thought you were gone, you had already went ahead of us.\""
+msgid ""
+"{Appo}\n"
+"\"What? Just when we thought you were gone, you had already went ahead of us.\""
 msgstr ""
 
 #: 007z6:393
-
-msgid "{Daigo}\n\"We'd have gotten here sooner if you'd stuck around. This place is hard to find.\""
+msgid ""
+"{Daigo}\n"
+"\"We'd have gotten here sooner if you'd stuck around. This place is hard to find.\""
 msgstr ""
 
 #: 007z6:394
-
-msgid "{Kazushi}\n\"What are you guys doing here?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you guys doing here?\""
 msgstr ""
 
 #: 007z6:395
-
 msgid "I saw that they'd all brought shovels, pickaxes, and other tools with them."
 msgstr ""
 
 #: 007z6:396
-
-msgid "{Appo}\n\"Oh my god.\nWho made this crazy mess?\""
+msgid ""
+"{Appo}\n"
+"\"Oh my god.\n"
+"Who made this crazy mess?\""
 msgstr ""
 
 #: 007z6:399
-
-msgid "{Pierre}\n\"That would be us.\""
+msgid ""
+"{Pierre}\n"
+"\"That would be us.\""
 msgstr ""
 
 #: 007z6:402
-
-msgid "{Daigo}\n\"Do you really think we can fix this?\""
+msgid ""
+"{Daigo}\n"
+"\"Do you really think we can fix this?\""
 msgstr ""
 
 #: 007z6:403
-
-msgid "{Kazushi}\n\"What? Is that why you guys came back here?\""
+msgid ""
+"{Kazushi}\n"
+"\"What? Is that why you guys came back here?\""
 msgstr ""
 
 #: 007z6:404
-
-msgid "{Appo}\n\"What are you talking about?\nIsn't that why you're here?\""
+msgid ""
+"{Appo}\n"
+"\"What are you talking about?\n"
+"Isn't that why you're here?\""
 msgstr ""
 
 #: 007z6:405
-
-msgid "{Kazushi}\n\"Of course it is.\""
+msgid ""
+"{Kazushi}\n"
+"\"Of course it is.\""
 msgstr ""
 
 #: 007z6:408
-
-msgid "{Pierre}\n\"We know how you think.\nThat's why we brought these tools.\""
+msgid ""
+"{Pierre}\n"
+"\"We know how you think.\n"
+"That's why we brought these tools.\""
 msgstr ""
 
 #: 007z6:409
-
-msgid "{Kazushi}\n\"You guys...\""
+msgid ""
+"{Kazushi}\n"
+"\"You guys...\""
 msgstr ""
 
 #: 007z6:410
-
 msgid "They figured out what I was going to do before I figured it out myself. I thought about cleaning up this mess just a minute ago."
 msgstr ""
 
 #: 007z6:413
-
-msgid "{Appo}\n\"This is a lot of work. We could just leave it be since we're going to be expelled anyways, but no, Kazushi's a good boy so we have to help him.\""
+msgid ""
+"{Appo}\n"
+"\"This is a lot of work. We could just leave it be since we're going to be expelled anyways, but no, Kazushi's a good boy so we have to help him.\""
 msgstr ""
 
 #: 007z6:414
-
-msgid "{Kazushi}\n\"Shit, I'm sorry about that. But you're here now, so don't quit on me.\""
+msgid ""
+"{Kazushi}\n"
+"\"Shit, I'm sorry about that. But you're here now, so don't quit on me.\""
 msgstr ""
 
 #: 007z6:417
-
-msgid "{Pierre}\n\"Let's just get to work. We should get this done by morning.\""
+msgid ""
+"{Pierre}\n"
+"\"Let's just get to work. We should get this done by morning.\""
 msgstr ""
 
 #: 007z6:420
-
-msgid "{Daigo}\n\"At least tomorrow's Sunday - we can sleep in.\""
+msgid ""
+"{Daigo}\n"
+"\"At least tomorrow's Sunday - we can sleep in.\""
 msgstr ""
 
 #: 007z6:421
-
-msgid "{Kazushi}\n\"Let's do it, guys!\""
+msgid ""
+"{Kazushi}\n"
+"\"Let's do it, guys!\""
 msgstr ""
 
 #: 007z6:433
-
-msgid "{Pierre}\n\"This is gonna take forever...\""
+msgid ""
+"{Pierre}\n"
+"\"This is gonna take forever...\""
 msgstr ""
 
 #: 007z6:435
-
 msgid "Two hours later and it looked like we hadn't even started."
 msgstr ""
 
 #: 007z6:436
-
 msgid "We filled in the holes, and replanted any stalks that still looked alive."
 msgstr ""
 
 #: 007z6:437
-
 msgid "It was a lot more work than we expected."
 msgstr ""
 
 #: 007z6:438
-
-msgid "{Appo}\n\"I think this is impossible, guys.\""
+msgid ""
+"{Appo}\n"
+"\"I think this is impossible, guys.\""
 msgstr ""
 
 #: 007z6:439
-
-msgid "{Daigo}\n\"Come on. This is called not crying over spilt milk.\""
+msgid ""
+"{Daigo}\n"
+"\"Come on. This is called not crying over spilt milk.\""
 msgstr ""
 
 #: 007z6:440
-
-msgid "{Kazushi}\n\"Daigo's right!\nIt's too early to give up!\""
+msgid ""
+"{Kazushi}\n"
+"\"Daigo's right!\n"
+"It's too early to give up!\""
 msgstr ""
 
 #: 007z6:441
-
-msgid "{Pierre}\n\"I'm sleepy.\""
+msgid ""
+"{Pierre}\n"
+"\"I'm sleepy.\""
 msgstr ""
 
 #: 007z6:442
-
-msgid "{Appo}\n\"I'm hungry.\""
+msgid ""
+"{Appo}\n"
+"\"I'm hungry.\""
 msgstr ""
 
 #: 007z6:443
-
-msgid "{Kazushi}\n\"W-we can do it, guys! By our powers combined!\""
+msgid ""
+"{Kazushi}\n"
+"\"W-we can do it, guys! By our powers combined!\""
 msgstr ""
 
 #: 007z6:444
-
-msgid "{Daigo}\n\"Can we at least take a break?\""
+msgid ""
+"{Daigo}\n"
+"\"Can we at least take a break?\""
 msgstr ""
 
 #: 007z6:445
-
-msgid "{Kazushi}\n\"Fine!\nWe'll take a quick break and then get back to work. OK, guys?\""
+msgid ""
+"{Kazushi}\n"
+"\"Fine!\n"
+"We'll take a quick break and then get back to work. OK, guys?\""
 msgstr ""
 
 #: 007z6:449
-
-msgid "{Panchu}\n\"If you 'anna 'inish I' 'efore 'e 'unrise, you 'ette' 'wor' you' ass off 'ow.\""
+msgid ""
+"{Panchu}\n"
+"\"If you 'anna 'inish I' 'efore 'e 'unrise, you 'ette' 'wor' you' ass off 'ow.\""
 msgstr ""
 
 #: 007z6:452
-
 msgid "I could see the shadow of someone else in this dim light, but I immediately knew it was Panchu-sempai."
 msgstr ""
 
 #: 007z6:453
-
-msgid "{Kazushi}\n\"S-sempai?!\""
+msgid ""
+"{Kazushi}\n"
+"\"S-sempai?!\""
 msgstr ""
 
 #: 007z6:457
-
-msgid "{Appo}\n\"W-w-what're you doing here?\""
+msgid ""
+"{Appo}\n"
+"\"W-w-what're you doing here?\""
 msgstr ""
 
 #: 007z6:458
-
 msgid "We all got off our asses and crowded round. Panchu handed us a black bag."
 msgstr ""
 
 #: 007z6:462
-
-msgid "{Panchu}\n\"Ea' 'ese 'rea's.\""
+msgid ""
+"{Panchu}\n"
+"\"Ea' 'ese 'rea's.\""
 msgstr ""
 
 #: 007z6:463
-
 msgid "The bag was stuffed with melonpan."
 msgstr ""
 
 #: 007z6:467
-
-msgid "{Pierre}\n\"This is perfect! I needed that!\""
+msgid ""
+"{Pierre}\n"
+"\"This is perfect! I needed that!\""
 msgstr ""
 
 #: 007z6:471
-
-msgid "{Panchu}\n\"Ea' 'em 'uick.\""
+msgid ""
+"{Panchu}\n"
+"\"Ea' 'em 'uick.\""
 msgstr ""
 
 #: 007z6:479
-
-msgid "{Kazushi}\n\"Thanks, man!\""
+msgid ""
+"{Kazushi}\n"
+"\"Thanks, man!\""
 msgstr ""
 
 #: 007z6:484
-
 msgid "While we were eating, Panchu started working on his own."
 msgstr ""
 
 #: 007z6:485
-
-msgid "{Kazushi}\n\"S-sempai?!\""
+msgid ""
+"{Kazushi}\n"
+"\"S-sempai?!\""
 msgstr ""
 
 #: 007z6:488
-
-msgid "{Pierre}\n\"You don't have to do that!\nBringing us food is more than enough help!\""
+msgid ""
+"{Pierre}\n"
+"\"You don't have to do that!\n"
+"Bringing us food is more than enough help!\""
 msgstr ""
 
 #: 007z6:492
-
-msgid "{Panchu}\n\"Shu' up. Jus' 'es' up.\""
+msgid ""
+"{Panchu}\n"
+"\"Shu' up. Jus' 'es' up.\""
 msgstr ""
 
 #: 007z6:493
-
 msgid "Panchu continued working in the dirt. He really struck our hearts."
 msgstr ""
 
 #: 007z6:497
-
-msgid "{Daigo}\n\"That's enough rest for me!\""
+msgid ""
+"{Daigo}\n"
+"\"That's enough rest for me!\""
 msgstr ""
 
 #: 007z6:499
-
 msgid "Daigo stuffed the end of his bread into his mouth and started working again."
 msgstr ""
 
 #: 007z6:502
-
-msgid "{Pierre}\n\"I'll take that side!\""
+msgid ""
+"{Pierre}\n"
+"\"I'll take that side!\""
 msgstr ""
 
 #: 007z6:506
-
-msgid "{Appo}\n\"That's my break sorted.\nHey, Kazushi!\""
+msgid ""
+"{Appo}\n"
+"\"That's my break sorted.\n"
+"Hey, Kazushi!\""
 msgstr ""
 
 #: 007z6:507
-
-msgid "{Kazushi}\n\"I'm on it.\nWe'll take care of this side.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm on it.\n"
+"We'll take care of this side.\""
 msgstr ""
 
 #: 007z6:509
-
 msgid "Panchu never even turned his head to look at us. He was totally devoted to his work."
 msgstr ""
 
 #: 007z6:515
-
-msgid "{Kazushi}\n\"What d'you guys think?\""
+msgid ""
+"{Kazushi}\n"
+"\"What d'you guys think?\""
 msgstr ""
 
 #: 007z6:518
-
-msgid "{Pierre}\n\"I think it's much better.\""
+msgid ""
+"{Pierre}\n"
+"\"I think it's much better.\""
 msgstr ""
 
 #: 007z6:519
-
 msgid "Somehow we managed to finish fixing things up just as the sun was starting to rise."
 msgstr ""
 
 #: 007z6:527
-
-msgid "{Appo}\n\"Sempai, what do you think?\""
+msgid ""
+"{Appo}\n"
+"\"Sempai, what do you think?\""
 msgstr ""
 
 #: 007z6:528
-
-msgid "{Panchu}\n\"I's o'ay, I 'uess.\""
+msgid ""
+"{Panchu}\n"
+"\"I's o'ay, I 'uess.\""
 msgstr ""
 
 #: 007z6:529
-
-msgid "{Daigo}\n\"We did it.\""
+msgid ""
+"{Daigo}\n"
+"\"We did it.\""
 msgstr ""
 
 #: 007z6:530
-
 msgid "Daigo couldn't stand up anymore. His exhaustion became contagious and we all had to sit down."
 msgstr ""
 
 #: 007z6:534
-
 msgid "The ground was cool and felt good against our tired bodies."
 msgstr ""
 
 #: 007z6:535
-
-msgid "{Kazushi}\n\"I don't wanna move anymore.\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't wanna move anymore.\""
 msgstr ""
 
 #: 007z6:538
-
-msgid "{Pierre}\n\"\"Don't want to\"? I CAN'T move...\""
+msgid ""
+"{Pierre}\n"
+"\"\"Don't want to\"? I CAN'T move...\""
 msgstr ""
 
 #: 007z6:542
-
-msgid "{Panchu}\n\"Goo' 'ob, 'uys.\""
+msgid ""
+"{Panchu}\n"
+"\"Goo' 'ob, 'uys.\""
 msgstr ""
 
 #: 007z6:546
-
 msgid "Panchu turned around and left, as if he hadn't made the slightest bit of effort."
 msgstr ""
 
 #: 007z6:547
-
-msgid "{Kazushi}\n\"Th-thanks a lot for helping us!\""
+msgid ""
+"{Kazushi}\n"
+"\"Th-thanks a lot for helping us!\""
 msgstr ""
 
 #: 007z6:548
-
 msgid "Panchu looked so cool, just like when he first showed up last night."
 msgstr ""
 
 #: 007z6:555
-
-msgid "{Pierre}\n\"Wow, he's like He-man.\""
+msgid ""
+"{Pierre}\n"
+"\"Wow, he's like He-man.\""
 msgstr ""
 
 #: 007z6:556
-
-msgid "{Daigo}\n\"He was working hard than all of us, too.\""
+msgid ""
+"{Daigo}\n"
+"\"He was working hard than all of us, too.\""
 msgstr ""
 
 #: 007z6:559
-
-msgid "{Appo}\n\"He's so cool. I don't wanna sound like a queer or nothin', but I'd so say yes if he asked.\""
+msgid ""
+"{Appo}\n"
+"\"He's so cool. I don't wanna sound like a queer or nothin', but I'd so say yes if he asked.\""
 msgstr ""
 
 #: 007z6:560
-
-msgid "{Pierre}\n\"WTF?\""
+msgid ""
+"{Pierre}\n"
+"\"WTF?\""
 msgstr ""
 
 #: 007z6:561
-
 msgid "We were all terrified by Appo's statement, but we were too tired to say anything."
 msgstr ""
 
 #: 007z6:562
-
-msgid "{Kazushi}\n\"Well, we've done everything we could.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, we've done everything we could.\""
 msgstr ""
 
 #: 007z6:569
-
-msgid "{Pierre}\n\"Yup. Now it's all up to lady luck.\""
+msgid ""
+"{Pierre}\n"
+"\"Yup. Now it's all up to lady luck.\""
 msgstr ""
 
 #: 007z6:570
-
-msgid "{Appo}\n\"We've been in trouble loads of time before. We'll be fine.\""
+msgid ""
+"{Appo}\n"
+"\"We've been in trouble loads of time before. We'll be fine.\""
 msgstr ""
 
 #: 007z6:578
-
-msgid "{Principal}\n\"You are all to be expelled from our school.\""
+msgid ""
+"{Principal}\n"
+"\"You are all to be expelled from our school.\""
 msgstr ""
 
 #: 007z6:579
-
 msgid "Well that was fast."
 msgstr ""
 
 #: 007z6:585
-
-msgid "{Pierre}\n\"Did she completely abandon us?\""
+msgid ""
+"{Pierre}\n"
+"\"Did she completely abandon us?\""
 msgstr ""
 
 #: 007z6:586
-
-msgid "{Daigo}\n\"Maybe.\""
+msgid ""
+"{Daigo}\n"
+"\"Maybe.\""
 msgstr ""
 
 #: 007z6:591
-
-msgid "{Mei}\n\"Quit acting like that and apologize!\""
+msgid ""
+"{Mei}\n"
+"\"Quit acting like that and apologize!\""
 msgstr ""
 
 #: 007z6:592
-
-msgid "{Kazushi}\n\"Oh, right... Umm, we're really sorry about it! We're sorry we ruined your precious flower bed!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, right... Umm, we're really sorry about it! We're sorry we ruined your precious flower bed!\""
 msgstr ""
 
 #: 007z6:600
-
-msgid "{Pierre}\n\"I'm sorry, ma'am!\""
+msgid ""
+"{Pierre}\n"
+"\"I'm sorry, ma'am!\""
 msgstr ""
 
 #: 007z6:601
-
-msgid "{Boys}\n\"Me too!!\""
+msgid ""
+"{Boys}\n"
+"\"Me too!!\""
 msgstr ""
 
 #: 007z6:607
-
 msgid "We bowed our heads as low as we could. The Principal stared at us without any sign of a change in heart."
 msgstr ""
 
 #: 007z6:608
-
-msgid "{Principal}\n\"I know that you regret your actions, but I won't change my decision.\""
+msgid ""
+"{Principal}\n"
+"\"I know that you regret your actions, but I won't change my decision.\""
 msgstr ""
 
 #: 007z6:609
-
-msgid "{Kazushi}\n\"No...\""
+msgid ""
+"{Kazushi}\n"
+"\"No...\""
 msgstr ""
 
 #: 007z6:610
-
 msgid "Well, it's not like I can blame her."
 msgstr ""
 
 #: 007z6:616
-
-msgid "{Mei}\n\"Excuse me, Principal! We should give them another chance!\""
+msgid ""
+"{Mei}\n"
+"\"Excuse me, Principal! We should give them another chance!\""
 msgstr ""
 
 #: 007z6:617
-
-msgid "{Yagami}\n\"Can't you at least take a look at the site?\nThey stayed up all night to repair it as a sign of their regret!\""
+msgid ""
+"{Yagami}\n"
+"\"Can't you at least take a look at the site?\n"
+"They stayed up all night to repair it as a sign of their regret!\""
 msgstr ""
 
 #: 007z6:621
-
-msgid "{Principal}\n\"Is it back to how it was?\""
+msgid ""
+"{Principal}\n"
+"\"Is it back to how it was?\""
 msgstr ""
 
 #: 007z6:622
-
 msgid "Her voice was cold, stopping Yagami-sensei in his tracks."
 msgstr ""
 
 #: 007z6:623
-
-msgid "{Yagami}\n\"Well, no, not yet... but you should look at how much...\""
+msgid ""
+"{Yagami}\n"
+"\"Well, no, not yet... but you should look at how much...\""
 msgstr ""
 
 #: 007z6:624
-
-msgid "{Principal}\n\"I don't want to see progress. I need to see results.\""
+msgid ""
+"{Principal}\n"
+"\"I don't want to see progress. I need to see results.\""
 msgstr ""
 
 #: 007z6:627
-
-msgid "{Yagami}\n\"Principal...\""
+msgid ""
+"{Yagami}\n"
+"\"Principal...\""
 msgstr ""
 
 #: 007z6:631
-
 msgid "The principal ignored Yagami-sensei and turned her piercing gaze on to Mei-sensei."
 msgstr ""
 
 #: 007z6:632
-
-msgid "{Principal}\n\"Ibuki-sensei. You were well aware of how important those flowers are for our school, correct?\""
+msgid ""
+"{Principal}\n"
+"\"Ibuki-sensei. You were well aware of how important those flowers are for our school, correct?\""
 msgstr ""
 
 #: 007z6:635
-
-msgid "{Mei}\n\"Yes, ma'am.\""
+msgid ""
+"{Mei}\n"
+"\"Yes, ma'am.\""
 msgstr ""
 
 #: 007z6:636
-
 msgid "Mei-sensei couldn't say anything against the weight of those words. Why were those flowers so important?"
 msgstr ""
 
 #: 007z6:637
-
 msgid "I guess we'll never find out why now."
 msgstr ""
 
 #: 007z6:638
-
-msgid "{Principal}\n\"I have nothing left to say to you boys.\""
+msgid ""
+"{Principal}\n"
+"\"I have nothing left to say to you boys.\""
 msgstr ""
 
 #: 007z6:642
-
-msgid "{Yagami}\n\"Principal, please wait!\""
+msgid ""
+"{Yagami}\n"
+"\"Principal, please wait!\""
 msgstr ""
 
 #: 007z6:643
-
 msgid "It's seriously bad this time."
 msgstr ""
 
 #: 007z6:646
-
-msgid "{Yagami}\n\"They sincerely regret it, and they've even apologized! There's no reason for expulsion!\""
+msgid ""
+"{Yagami}\n"
+"\"They sincerely regret it, and they've even apologized! There's no reason for expulsion!\""
 msgstr ""
 
 #: 007z6:650
-
-msgid "{Mei}\n\"H-he's right! Please reduce it to suspension at least!\""
+msgid ""
+"{Mei}\n"
+"\"H-he's right! Please reduce it to suspension at least!\""
 msgstr ""
 
 #: 007z6:653
-
-msgid "{Mei}\n\"Everybody makes mistakes!\nIt's our job to teach the pupils what's right, rather than just kicking them out at the first chance!\""
+msgid ""
+"{Mei}\n"
+"\"Everybody makes mistakes!\n"
+"It's our job to teach the pupils what's right, rather than just kicking them out at the first chance!\""
 msgstr ""
 
 #: 007z6:654
-
 msgid "Yagami-sensei and Mei-sensei desperately tried to save us. The principal looked at them and waved them off with her hand like they were annoying insects."
 msgstr ""
 
 #: 007z6:659
-
-msgid "{Principal}\n\"Quiet, both of you.\""
+msgid ""
+"{Principal}\n"
+"\"Quiet, both of you.\""
 msgstr ""
 
 #: 007z6:660
-
 msgid "They both fell silent at the clear, deep tone of her voice. They were both unable to speak."
 msgstr ""
 
 #: 007z6:661
-
 msgid "The authority in her voice had been frightening enough to silence even Yagami-sensei. The teachers were both frozen as if time had stopped."
 msgstr ""
 
 #: 007z6:662
-
-msgid "{Principal}\n\"Listen carefully. That flower garden is the foundation of our school. That place was sacred. We cannot allow those who have defiled our sanctum to study at this school.\""
+msgid ""
+"{Principal}\n"
+"\"Listen carefully. That flower garden is the foundation of our school. That place was sacred. We cannot allow those who have defiled our sanctum to study at this school.\""
 msgstr ""
 
 #: 007z6:663
-
-msgid "{Principal}\n\"We cannot allow them to stay here anymore.\""
+msgid ""
+"{Principal}\n"
+"\"We cannot allow them to stay here anymore.\""
 msgstr ""
 
 #: 007z6:668
-
-msgid "{Haruka}\n\"B-but they didn't know!\nIt's my fault too for not guarding it...\""
+msgid ""
+"{Haruka}\n"
+"\"B-but they didn't know!\n"
+"It's my fault too for not guarding it...\""
 msgstr ""
 
 #: 007z6:669
-
-msgid "{Principal}\n\"Of course it is. You will be held accountable for that as well, Haruka.\""
+msgid ""
+"{Principal}\n"
+"\"Of course it is. You will be held accountable for that as well, Haruka.\""
 msgstr ""
 
 #: 007z6:670
-
 msgid "Haruka cringed at the intensity of her glare. She was frozen like a frog being glared at by a snake."
 msgstr ""
 
 #: 007z6:671
-
-msgid "{Kazushi}\n\"Excuse me.\nHaruka had nothing to do with this, it was all our fault.\""
+msgid ""
+"{Kazushi}\n"
+"\"Excuse me.\n"
+"Haruka had nothing to do with this, it was all our fault.\""
 msgstr ""
 
 #: 007z6:672
-
 msgid "I spoke up in Haruka's stead. The principal shot me a glare with her beady eyes."
 msgstr ""
 
 #: 007z6:673
-
-msgid "{Kazushi}\n\"Ah!\""
+msgid ""
+"{Kazushi}\n"
+"\"Ah!\""
 msgstr ""
 
 #: 007z6:674
-
 msgid "How pathetic. Why couldn't I move after being given that look?"
 msgstr ""
 
 #: 007z6:675
-
-msgid "{Principal}\n\"Of this has something to do with her. She was entrusted with protecting our sanctuary. That was her responsibility.\""
+msgid ""
+"{Principal}\n"
+"\"Of this has something to do with her. She was entrusted with protecting our sanctuary. That was her responsibility.\""
 msgstr ""
 
 #: 007z6:679
-
-msgid "{Pierre}\n\"But we're the ones who took the flowers. She shouldn't be punished for that!\""
+msgid ""
+"{Pierre}\n"
+"\"But we're the ones who took the flowers. She shouldn't be punished for that!\""
 msgstr ""
 
 #: 007z6:680
-
-msgid "{Principal}\n\"The members of this school live in a tight knit community. Haruka needs to learn how someone else's actions can affect everybody.\""
+msgid ""
+"{Principal}\n"
+"\"The members of this school live in a tight knit community. Haruka needs to learn how someone else's actions can affect everybody.\""
 msgstr ""
 
 #: 007z6:681
-
-msgid "{Kazushi}\n\"That's too harsh...\""
+msgid ""
+"{Kazushi}\n"
+"\"That's too harsh...\""
 msgstr ""
 
 #: 007z6:685
-
-msgid "{Daigo}\n\"How exactly, are you going to punish Aozora-san?\""
+msgid ""
+"{Daigo}\n"
+"\"How exactly, are you going to punish Aozora-san?\""
 msgstr ""
 
 #: 007z6:688
-
-msgid "{Principal}\n\"Well, what shall I do? You boys will be expelled, so she should be...\""
+msgid ""
+"{Principal}\n"
+"\"Well, what shall I do? You boys will be expelled, so she should be...\""
 msgstr ""
 
 #: 007z6:693
-
-msgid "{Haruka}\n\"Please kick me out, too!\""
+msgid ""
+"{Haruka}\n"
+"\"Please kick me out, too!\""
 msgstr ""
 
 #: 007z6:694
-
 msgid "Haruka suddenly stepped towards the principal, shouting at her with determination in her eyes."
 msgstr ""
 
 #: 007z6:695
-
-msgid "{Haruka}\n\"If I'm responsible, I should receive the same punishment as them!\""
+msgid ""
+"{Haruka}\n"
+"\"If I'm responsible, I should receive the same punishment as them!\""
 msgstr ""
 
 #: 007z6:696
-
-msgid "{Kazushi}\n\"What are you saying?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you saying?\""
 msgstr ""
 
 #: 007z6:701
-
-msgid "{Appo}\n\"Don't say that like it's some kind of joke. There's no need for you to be expelled too, Haruka-chan.\""
+msgid ""
+"{Appo}\n"
+"\"Don't say that like it's some kind of joke. There's no need for you to be expelled too, Haruka-chan.\""
 msgstr ""
 
 #: 007z6:705
-
-msgid "{Principal}\n\"He's right, it won't be taken lightly. Besides, what do you plan to do once you're expelled?\""
+msgid ""
+"{Principal}\n"
+"\"He's right, it won't be taken lightly. Besides, what do you plan to do once you're expelled?\""
 msgstr ""
 
 #: 007z6:708
-
-msgid "{Haruka}\n\"What will I do...?\""
+msgid ""
+"{Haruka}\n"
+"\"What will I do...?\""
 msgstr ""
 
 #: 007z6:709
-
-msgid "{Principal}\n\"You didn't think before speaking, did you? What can you do aside from study at this school?\""
+msgid ""
+"{Principal}\n"
+"\"You didn't think before speaking, did you? What can you do aside from study at this school?\""
 msgstr ""
 
 #: 007z6:710
-
-msgid "{Haruka}\n\"But...\""
+msgid ""
+"{Haruka}\n"
+"\"But...\""
 msgstr ""
 
 #: 007z6:711
-
 msgid "Haruka's mumbling. She's lost for words."
 msgstr ""
 
 #: 007z6:712
-
-msgid "{Principal}\n\"You can't do anything, can you? There are no other schools on this island for you to attend. What then? Will you get a job?\""
+msgid ""
+"{Principal}\n"
+"\"You can't do anything, can you? There are no other schools on this island for you to attend. What then? Will you get a job?\""
 msgstr ""
 
 #: 007z6:715
-
-msgid "{Principal}\n\"The work to be done here is limited. Who would want to employ a child like yourself? Even if they did, what would you do?\""
+msgid ""
+"{Principal}\n"
+"\"The work to be done here is limited. Who would want to employ a child like yourself? Even if they did, what would you do?\""
 msgstr ""
 
 #: 007z6:718
-
-msgid "{Haruka}\n\"..................\""
+msgid ""
+"{Haruka}\n"
+"\"..................\""
 msgstr ""
 
 #: 007z6:719
-
 msgid "Everybody in the room was completely speechless."
 msgstr ""
 
 #: 007z6:720
-
-msgid "{Principal}\n\"You couldn't do anything could you? You are still a child who can not live on her own, so just do as you're told.\""
+msgid ""
+"{Principal}\n"
+"\"You couldn't do anything could you? You are still a child who can not live on her own, so just do as you're told.\""
 msgstr ""
 
 #: 007z6:721
-
 msgid "The way she said that was very well-mannered, but her actual message was unacceptable."
 msgstr ""
 
 #: 007z6:730
-
-msgid "{Pierre}\n(That's pretty harsh. The Principal is Haruka-chan's grandma, right?)"
+msgid ""
+"{Pierre}\n"
+"(That's pretty harsh. The Principal is Haruka-chan's grandma, right?)"
 msgstr ""
 
 #: 007z6:731
-
-msgid "{Daigo}\n(Are they actually related?)"
+msgid ""
+"{Daigo}\n"
+"(Are they actually related?)"
 msgstr ""
 
 #: 007z6:732
-
-msgid "{Appo}\n(I thought she was graceful and kind. Forget what I said about marrying her.)"
+msgid ""
+"{Appo}\n"
+"(I thought she was graceful and kind. Forget what I said about marrying her.)"
 msgstr ""
 
 #: 007z6:738
-
-msgid "{Haruka}\n\"..................\""
+msgid ""
+"{Haruka}\n"
+"\"..................\""
 msgstr ""
 
 #: 007z6:739
-
 msgid "Haruka stared at the floor, unsure of how to respond to the principal."
 msgstr ""
 
 #: 007z6:740
-
 msgid "This isn't the Haruka we know, the Haruka who always wants to put a smile on everybody's face."
 msgstr ""
 
 #: 007z6:741
-
 msgid "I don't want to see her like this."
 msgstr ""
 
 #: 007z6:742
-
-msgid "{Kazushi}\n\"Haruka,\nSay something. Stand up for yourself.\""
+msgid ""
+"{Kazushi}\n"
+"\"Haruka,\n"
+"Say something. Stand up for yourself.\""
 msgstr ""
 
 #: 007z6:745
-
-msgid "{Haruka}\n\"I can't. Grandma is right. I can't do anything...\""
+msgid ""
+"{Haruka}\n"
+"\"I can't. Grandma is right. I can't do anything...\""
 msgstr ""
 
 #: 007z6:746
-
-msgid "{Kazushi}\n\"That's not true. Be more confident in yourself. You can do anything.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's not true. Be more confident in yourself. You can do anything.\""
 msgstr ""
 
 #: 007z6:749
-
-msgid "{Haruka}\n\"But I don't know anything besides alchemy and the things on the island...\""
+msgid ""
+"{Haruka}\n"
+"\"But I don't know anything besides alchemy and the things on the island...\""
 msgstr ""
 
 #: 007z6:750
-
 msgid "I never knew how weak she was."
 msgstr ""
 
 #: 007z6:751
-
 msgid "It was heartbreaking to see her like this."
 msgstr ""
 
 #: 007z6:755
-
-msgid "{Principal}\n\"Haruka, I need your decision.\nDo you still want to be expelled?\nOr do you promise to obey me from now on?\""
+msgid ""
+"{Principal}\n"
+"\"Haruka, I need your decision.\n"
+"Do you still want to be expelled?\n"
+"Or do you promise to obey me from now on?\""
 msgstr ""
 
 #: 007z6:759
-
-msgid "{Haruka}\n\"I...I...\""
+msgid ""
+"{Haruka}\n"
+"\"I...I...\""
 msgstr ""
 
 #: 007z6:760
-
 msgid "Why did Haruka lose her cheerfulness and cower in front of her grandma like this? I couldn't watch this anymore."
 msgstr ""
 
 #: 007z6:763
-
-msgid "{Kazushi}\n\"Come with us, Haruka.\""
+msgid ""
+"{Kazushi}\n"
+"\"Come with us, Haruka.\""
 msgstr ""
 
 #: 007z6:764
-
 msgid "The words came out of my mouth before I realized it."
 msgstr ""
 
 #: 007z6:765
-
-msgid "{Haruka}\n\"Come with you?\""
+msgid ""
+"{Haruka}\n"
+"\"Come with you?\""
 msgstr ""
 
 #: 007z6:766
-
-msgid "{Kazushi}\n\"You've never left this island before because you weren't confident in yourself, right? Then come with us.\""
+msgid ""
+"{Kazushi}\n"
+"\"You've never left this island before because you weren't confident in yourself, right? Then come with us.\""
 msgstr ""
 
 #: 007z6:769
-
-msgid "{Haruka}\n\"What??\""
+msgid ""
+"{Haruka}\n"
+"\"What??\""
 msgstr ""
 
 #: 007z6:770
-
-msgid "{Kazushi}\n\"Expulsion means we're kicked off this island, right? Then you can come with us.\""
+msgid ""
+"{Kazushi}\n"
+"\"Expulsion means we're kicked off this island, right? Then you can come with us.\""
 msgstr ""
 
 #: 007z6:771
-
 msgid "She was completely surprised by my offer. And I was even more surprised to have made it in the first place."
 msgstr ""
 
 #: 007z6:772
-
 msgid "But, I couldn't stop myself."
 msgstr ""
 
 #: 007z6:773
-
-msgid "{Kazushi}\n\"You should try finding yourself away from the island.\nWe're all old enough to find our own path.\""
+msgid ""
+"{Kazushi}\n"
+"\"You should try finding yourself away from the island.\n"
+"We're all old enough to find our own path.\""
 msgstr ""
 
 #: 007z6:776
-
-msgid "{Haruka}\n\"But...I don't know anything past these shores...I won't be able to do anything...\""
+msgid ""
+"{Haruka}\n"
+"\"But...I don't know anything past these shores...I won't be able to do anything...\""
 msgstr ""
 
 #: 007z6:777
-
-msgid "{Kazushi}\n\"That's why we'll be there. We can help each other out. Isn't that what friends are for?\""
+msgid ""
+"{Kazushi}\n"
+"\"That's why we'll be there. We can help each other out. Isn't that what friends are for?\""
 msgstr ""
 
 #: 007z6:778
-
-msgid "{Haruka}\n\"Friends?\""
+msgid ""
+"{Haruka}\n"
+"\"Friends?\""
 msgstr ""
 
 #: 007z6:784
-
-msgid "{Principal}\n\"What are you talking about? You wouldn't be able to do that either.\""
+msgid ""
+"{Principal}\n"
+"\"What are you talking about? You wouldn't be able to do that either.\""
 msgstr ""
 
 #: 007z6:785
-
-msgid "{Yagami}\n\"She's right, Kazushi. That's not an offer to be made lightly.\""
+msgid ""
+"{Yagami}\n"
+"\"She's right, Kazushi. That's not an offer to be made lightly.\""
 msgstr ""
 
 #: 007z6:786
-
-msgid "{Kazushi}\n\"No, I can do it! It's quite simple isn't it? The boat ride's only a few hours.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, I can do it! It's quite simple isn't it? The boat ride's only a few hours.\""
 msgstr ""
 
 #: 007z6:787
-
-msgid "{Kazushi}\n\"I mean, really. She's never set foot off of this island?\nThat's ridiculous!\""
+msgid ""
+"{Kazushi}\n"
+"\"I mean, really. She's never set foot off of this island?\n"
+"That's ridiculous!\""
 msgstr ""
 
 #: 007z6:792
-
-msgid "{Mei}\n\"That's not what we mean. What do you plan to do once you take Haruka-chan off of this island?\""
+msgid ""
+"{Mei}\n"
+"\"That's not what we mean. What do you plan to do once you take Haruka-chan off of this island?\""
 msgstr ""
 
 #: 007z6:793
-
-msgid "{Kazushi}\n\"I'll manage.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'll manage.\""
 msgstr ""
 
 #: 007z6:796
-
-msgid "{Mei}\n\"You'll manage?\nStop being so childish.\""
+msgid ""
+"{Mei}\n"
+"\"You'll manage?\n"
+"Stop being so childish.\""
 msgstr ""
 
 #: 007z6:801
-
-msgid "{Principal}\n\"That's enough.\""
+msgid ""
+"{Principal}\n"
+"\"That's enough.\""
 msgstr ""
 
 #: 007z6:802
-
 msgid "Everybody thought I was crazy, except for Yagami."
 msgstr ""
 
 #: 007z6:806
-
-msgid "{Yagami}\n\"No, he'd do it... He might actually do it.\""
+msgid ""
+"{Yagami}\n"
+"\"No, he'd do it... He might actually do it.\""
 msgstr ""
 
 #: 007z6:810
-
-msgid "{Mei}\n\"Huh? Yagami-sensei, what are you saying?\""
+msgid ""
+"{Mei}\n"
+"\"Huh? Yagami-sensei, what are you saying?\""
 msgstr ""
 
 #: 007z6:819
-
-msgid "{Pierre}\n\"No, he'd do it. Kazushi's dumb enough to take on something like that.\""
+msgid ""
+"{Pierre}\n"
+"\"No, he'd do it. Kazushi's dumb enough to take on something like that.\""
 msgstr ""
 
 #: 007z6:820
-
-msgid "{Appo}\n\"Don't encourage him too much, Pierre. He's going to depend on us to help.\""
+msgid ""
+"{Appo}\n"
+"\"Don't encourage him too much, Pierre. He's going to depend on us to help.\""
 msgstr ""
 
 #: 007z6:821
-
-msgid "{Daigo}\n\"He's right. Better to stop Kazushi now.\""
+msgid ""
+"{Daigo}\n"
+"\"He's right. Better to stop Kazushi now.\""
 msgstr ""
 
 #: 007z6:827
-
-msgid "{Mei}\n\"Wait a minute...\""
+msgid ""
+"{Mei}\n"
+"\"Wait a minute...\""
 msgstr ""
 
 #: 007z6:828
-
 msgid "Mei-sensei and the others started to worry as they saw my friends' reactions."
 msgstr ""
 
 #: 007z6:832
-
-msgid "{Principal}\n\"..................\""
+msgid ""
+"{Principal}\n"
+"\"..................\""
 msgstr ""
 
 #: 007z6:833
-
 msgid "The principal sat quietly, observing what everybody was thinking about."
 msgstr ""
 
 #: 007z6:837
-
-msgid "{Yagami}\n\"Don't get so far ahead of yourself, Kazushi. How can you accept expulsion so easily?\""
+msgid ""
+"{Yagami}\n"
+"\"Don't get so far ahead of yourself, Kazushi. How can you accept expulsion so easily?\""
 msgstr ""
 
 #: 007z6:838
-
-msgid "{Kazushi}\n\"Do I really have a choice?\nThe principal has made up her mind to kick me off of the island. All that's left is for Haruka to make up her mind.\""
+msgid ""
+"{Kazushi}\n"
+"\"Do I really have a choice?\n"
+"The principal has made up her mind to kick me off of the island. All that's left is for Haruka to make up her mind.\""
 msgstr ""
 
 #: 007z6:842
-
-msgid "{Haruka}\n\"Me? Leave the island...?\""
+msgid ""
+"{Haruka}\n"
+"\"Me? Leave the island...?\""
 msgstr ""
 
 #: 007z6:847
-
-msgid "{Principal}\n\"..................\""
+msgid ""
+"{Principal}\n"
+"\"..................\""
 msgstr ""
 
 #: 007z6:848
-
 msgid "I could tell that Haruka was wondering about what sort of a new world might wait for her off of the island."
 msgstr ""
 
 #: 007z6:849
-
-msgid "{Kazushi}\n\"We won't force you to come, but don't write the option off. It might be easier to adjust than you think.\""
+msgid ""
+"{Kazushi}\n"
+"\"We won't force you to come, but don't write the option off. It might be easier to adjust than you think.\""
 msgstr ""
 
 #: 007z6:850
-
-msgid "{Kazushi}\n\"You can do anything you set your mind to. All that matters are your feelings, Haruka.\""
+msgid ""
+"{Kazushi}\n"
+"\"You can do anything you set your mind to. All that matters are your feelings, Haruka.\""
 msgstr ""
 
 #: 007z6:851
-
-msgid "{Haruka}\n\"My feelings?\""
+msgid ""
+"{Haruka}\n"
+"\"My feelings?\""
 msgstr ""
 
 #: 007z6:852
-
-msgid "{Kazushi}\n\"What will you do? It's your decision, Haruka.\""
+msgid ""
+"{Kazushi}\n"
+"\"What will you do? It's your decision, Haruka.\""
 msgstr ""
 
 #: 007z6:853
-
-msgid "{Haruka}\n\"My decision?\""
+msgid ""
+"{Haruka}\n"
+"\"My decision?\""
 msgstr ""
 
 #: 007z6:854
-
 msgid "She was torn."
 msgstr ""
 
 #: 007z6:857
-
-msgid "{Haruka}\n\"I...I...\""
+msgid ""
+"{Haruka}\n"
+"\"I...I...\""
 msgstr ""
 
 #: 007z6:863
-
 msgid "Just as Haruka was about to announce her choice, the door was slammed open."
 msgstr ""
 
 #: 007z6:868
-
-msgid "{Mizuki}\n\"Principal! Please wait!\""
+msgid ""
+"{Mizuki}\n"
+"\"Principal! Please wait!\""
 msgstr ""
 
 #: 007z6:869
-
-msgid "Mizuki and Sakura rushed into the room.\nThe rest of the girls were there as well."
+msgid ""
+"Mizuki and Sakura rushed into the room.\n"
+"The rest of the girls were there as well."
 msgstr ""
 
 #: 007z6:878
-
-msgid "{Pierre}\n\"Wow, all the girls are here!\""
+msgid ""
+"{Pierre}\n"
+"\"Wow, all the girls are here!\""
 msgstr ""
 
 #: 007z6:879
-
-msgid "{Appo}\n\"Are you here for my jacket button? Or do you want to leave with us?\""
+msgid ""
+"{Appo}\n"
+"\"Are you here for my jacket button? Or do you want to leave with us?\""
 msgstr ""
 
 #: 007z6:880
-
-msgid "{Daigo}\n\"I don't think they ever liked us from the start.\""
+msgid ""
+"{Daigo}\n"
+"\"I don't think they ever liked us from the start.\""
 msgstr ""
 
 #: 007z6:888
-
 msgid "The girls who just came in stood in between us and the principal."
 msgstr ""
 
 #: 007z6:889
-
-msgid "{Sakura}\n\"Principal!\nWe don't agree with your decision to expel the boys!\""
+msgid ""
+"{Sakura}\n"
+"\"Principal!\n"
+"We don't agree with your decision to expel the boys!\""
 msgstr ""
 
 #: 007z6:893
-
-msgid "{Ran}\n\"All they did was steal some flowers.\nI've stolen school equipment and sold it off before.\""
+msgid ""
+"{Ran}\n"
+"\"All they did was steal some flowers.\n"
+"I've stolen school equipment and sold it off before.\""
 msgstr ""
 
 #: 007z6:897
-
-msgid "{Rin}\n\"Ran-chan, that's larceny?!\""
+msgid ""
+"{Rin}\n"
+"\"Ran-chan, that's larceny?!\""
 msgstr ""
 
 #: 007z6:901
-
-msgid "{Mizuki}\n\"I think it's too harsh as well, Principal!\nThe boys just arrived here, and they're idiots. They don't know right from wrong!\""
+msgid ""
+"{Mizuki}\n"
+"\"I think it's too harsh as well, Principal!\n"
+"The boys just arrived here, and they're idiots. They don't know right from wrong!\""
 msgstr ""
 
 #: 007z6:902
-
-msgid "{Kazushi}\n\"Will that help us any?\""
+msgid ""
+"{Kazushi}\n"
+"\"Will that help us any?\""
 msgstr ""
 
 #: 007z6:911
-
-msgid "{Pierre}\n\"It's the truth though.\""
+msgid ""
+"{Pierre}\n"
+"\"It's the truth though.\""
 msgstr ""
 
 #: 007z6:914
-
-msgid "{Appo}\n\"What's wrong with it? I never thought the day would come when a girl stood up for me. It's so titillating!\""
+msgid ""
+"{Appo}\n"
+"\"What's wrong with it? I never thought the day would come when a girl stood up for me. It's so titillating!\""
 msgstr ""
 
 #: 007z6:917
-
-msgid "{Daigo}\n\"You mean touching.\""
+msgid ""
+"{Daigo}\n"
+"\"You mean touching.\""
 msgstr ""
 
 #: 007z6:923
-
 msgid "The principal looked a bit surprised."
 msgstr ""
 
 #: 007z6:926
-
-msgid "{Principal}\n\"You girls actually want them to stay?\""
+msgid ""
+"{Principal}\n"
+"\"You girls actually want them to stay?\""
 msgstr ""
 
 #: 007z6:927
-
 msgid "The Principal stared at the girls. Her eyes lost their anger and gained an inquisitive glow."
 msgstr ""
 
 #: 007z6:928
-
 msgid "The girls had somehow managed to pique the principal's interest."
 msgstr ""
 
 #: 007z6:932
-
-msgid "{Rin}\n\"We admit that what they did to our flowers was wrong, but we still want to get to know them.\""
+msgid ""
+"{Rin}\n"
+"\"We admit that what they did to our flowers was wrong, but we still want to get to know them.\""
 msgstr ""
 
 #: 007z6:937
-
-msgid "{Appo}\n\"We do too! With our arms and legs entwined!\""
+msgid ""
+"{Appo}\n"
+"\"We do too! With our arms and legs entwined!\""
 msgstr ""
 
 #: 007z6:941
-
-msgid "{Yagami}\n\"You shut up now.\""
+msgid ""
+"{Yagami}\n"
+"\"You shut up now.\""
 msgstr ""
 
 #: 007z6:950
-
-msgid "{Sakura}\n\"I think that we can get along just fine.\""
+msgid ""
+"{Sakura}\n"
+"\"I think that we can get along just fine.\""
 msgstr ""
 
 #: 007z6:951
-
-msgid "{Mizuki}\n\"Besides, we're all responsible for what happened, too.\""
+msgid ""
+"{Mizuki}\n"
+"\"Besides, we're all responsible for what happened, too.\""
 msgstr ""
 
 #: 007z6:952
-
-msgid "{Ran}\n\"It wasn't money, but their present of dancing flowers was a bit exciting. We can't ignore the fact that they did it for us.\""
+msgid ""
+"{Ran}\n"
+"\"It wasn't money, but their present of dancing flowers was a bit exciting. We can't ignore the fact that they did it for us.\""
 msgstr ""
 
 #: 007z6:953
-
 msgid "The girls' smiles had never felt so reassuring."
 msgstr ""
 
 #: 007z6:963
-
-msgid "{Appo}\n\"This is unbelievable.\nI could die now as a happy man.\""
+msgid ""
+"{Appo}\n"
+"\"This is unbelievable.\n"
+"I could die now as a happy man.\""
 msgstr ""
 
 #: 007z6:964
-
-msgid "{Pierre}\n\"Don't die yet. We might still survive this.\""
+msgid ""
+"{Pierre}\n"
+"\"Don't die yet. We might still survive this.\""
 msgstr ""
 
 #: 007z6:965
-
 msgid "They might help us change principal's mind."
 msgstr ""
 
 #: 007z6:975
-
-msgid "{Mizuki}\n\"We'll help them rebuild the flower bed.\""
+msgid ""
+"{Mizuki}\n"
+"\"We'll help them rebuild the flower bed.\""
 msgstr ""
 
 #: 007z6:976
-
-msgid "{Rin}\n\"If we start today, I'm sure they'll bloom again next year!\""
+msgid ""
+"{Rin}\n"
+"\"If we start today, I'm sure they'll bloom again next year!\""
 msgstr ""
 
 #: 007z6:979
-
-msgid "{Sakura}\n\"Rin knows what she's talking about - she's a pro at gardening!\""
+msgid ""
+"{Sakura}\n"
+"\"Rin knows what she's talking about - she's a pro at gardening!\""
 msgstr ""
 
 #: 007z6:985
-
-msgid "{Haruka}\n\"I'll do a better job of keeping the flowers safe!\nI promise this won't happen again!\""
+msgid ""
+"{Haruka}\n"
+"\"I'll do a better job of keeping the flowers safe!\n"
+"I promise this won't happen again!\""
 msgstr ""
 
 #: 007z6:990
-
-msgid "{Principal}\n\"..................\""
+msgid ""
+"{Principal}\n"
+"\"..................\""
 msgstr ""
 
 #: 007z6:991
-
 msgid "The principal crossed her arms in thought. She didn't look like she was feeling sympathetic; she looked like she was weighing the pros and cons."
 msgstr ""
 
 #: 007z6:995
-
-msgid "{Principal}\n\"Very well.\nLet me have some time to rethink their status.\""
+msgid ""
+"{Principal}\n"
+"\"Very well.\n"
+"Let me have some time to rethink their status.\""
 msgstr ""
 
 #: 007z6:996
-
 msgid "I don't know what tipped the scales, but we weren't being expelled. We managed to stay on by the skin of our necks."
 msgstr ""
 
 #: 007z6:1000
-
-msgid "{Pierre}\n\"Seriously?! Alright!\""
+msgid ""
+"{Pierre}\n"
+"\"Seriously?! Alright!\""
 msgstr ""
 
 #: 007z6:1005
-
-msgid "{Sakura}\n\"Way to go!\""
+msgid ""
+"{Sakura}\n"
+"\"Way to go!\""
 msgstr ""
 
 #: 007z6:1010
-
-msgid "{Haruka}\n\"Thank you, Grand-Principal!\""
+msgid ""
+"{Haruka}\n"
+"\"Thank you, Grand-Principal!\""
 msgstr ""
 
 #: 007z6:1016
-
-msgid "{Yagami}\n\"Hah, that was close.\""
+msgid ""
+"{Yagami}\n"
+"\"Hah, that was close.\""
 msgstr ""
 
 #: 007z6:1017
-
-msgid "{Mei}\n\"Good job, girls.\""
+msgid ""
+"{Mei}\n"
+"\"Good job, girls.\""
 msgstr ""
 
 #: 007z6:1018
-
 msgid "While we were on cloud nine, Yagami-sensei and Mei-sensei looked exhausted."
 msgstr ""
 
 #: 007z6:1023
-
-msgid "{Ran}\n\"But wait? Doesn't this mean the decision's only been put off?\""
+msgid ""
+"{Ran}\n"
+"\"But wait? Doesn't this mean the decision's only been put off?\""
 msgstr ""
 
 #: 007z6:1029
-
-msgid "{Principal}\n\"If I recall correctly, I believe their first alchemy class is tomorrow, isn't it?\""
+msgid ""
+"{Principal}\n"
+"\"If I recall correctly, I believe their first alchemy class is tomorrow, isn't it?\""
 msgstr ""
 
 #: 007z6:1030
-
 msgid "The principal had spoken again."
 msgstr ""
 
 #: 007z6:1033
-
-msgid "{Mei}\n\"Yes, that's correct.\""
+msgid ""
+"{Mei}\n"
+"\"Yes, that's correct.\""
 msgstr ""
 
 #: 007z6:1036
-
-msgid "{Principal}\n\"I shall attend and observe them in class.\""
+msgid ""
+"{Principal}\n"
+"\"I shall attend and observe them in class.\""
 msgstr ""
 
 #: 007z6:1037
-
 msgid "Her lips curled into a smile. It looked like she was in a better mood now."
 msgstr ""
 
 #: 007z6:1040
-
-msgid "{Principal}\n\"I will reconsider their status AFTER I see their behaviour in class.\""
+msgid ""
+"{Principal}\n"
+"\"I will reconsider their status AFTER I see their behaviour in class.\""
 msgstr ""
 
 #: 007z6:1049
-
-msgid "{Pierre}\n\"After our alchemy class?\""
+msgid ""
+"{Pierre}\n"
+"\"After our alchemy class?\""
 msgstr ""
 
 #: 007z6:1050
-
-msgid "{Appo}\n\"Umm, I'm an alchemy virgin?\""
+msgid ""
+"{Appo}\n"
+"\"Umm, I'm an alchemy virgin?\""
 msgstr ""
 
 #: 007z6:1051
-
-msgid "{Daigo}\n\"Same here.\""
+msgid ""
+"{Daigo}\n"
+"\"Same here.\""
 msgstr ""
 
 #: 007z6:1055
-
 msgid "Of course I was too. We had all entered this school without knowing about alchemy. What could we do?"
 msgstr ""
 
 #: 007z6:1058
-
-msgid "{Principal}\n\"I'll be looking forward to it, then.\""
+msgid ""
+"{Principal}\n"
+"\"I'll be looking forward to it, then.\""
 msgstr ""
 
 #: 007z6:1059
-
 msgid "It's good that she was because we sure as hell weren't."
 msgstr ""
-

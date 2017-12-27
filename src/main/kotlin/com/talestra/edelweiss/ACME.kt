@@ -125,27 +125,18 @@ class ACME {
     fun SyncStream.writeLine(str: String) = writeString("$str\n")
 
     fun generatePo(file: String) = MemorySyncStreamToByteArray {
-        writeLine("# Comments for '$file'")
-        writeLine("msgid \"\"")
-        writeLine("msgstr \"\"")
-        writeLine("\"Project-Id-Version: \\n\"")
-        writeLine("\"POT-Creation-Date: \\n\"")
-        writeLine("\"PO-Revision-Date: \\n\"")
-        writeLine("\"Last-Translator: \\n\"")
-        writeLine("\"Language-Team: \\n\"")
-        writeLine("\"MIME-Version: 1.0 \\n\"")
-        writeLine("\"Content-Type: text/plain; charset=utf-8 \\n\"")
-        writeLine("\"Content-Transfer-Encoding: 8bit \\n\"")
-        writeLine("\"Language: es\\n\"")
-        writeLine("")
-        for (k in entries.keys.sorted()) {
-            val t = entries[k]
-            val text = t!!.text
-            writeLine("#: $file:$k\n")
-            writeLine("msgid ${text.quoted}")
-            writeLine("msgstr ${"".quoted}")
-            writeLine("")
+        val poe = arrayListOf<PO.Entry>()
+
+        poe += PO.Entry(
+                "",
+                "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0 \nContent-Type: text/plain; charset=utf-8 \n Content-Transfer-Encoding: 8bit \nLanguage: es \n",
+                listOf(" Comments for '$file'")
+        )
+        for ((k, t) in entries) {
+            poe += PO.Entry(t.text, "", listOf(": $file:$k"))
         }
+
+        writeBytes(PO(poe).saveToByteArray())
     }
 
     override fun toString(): String {

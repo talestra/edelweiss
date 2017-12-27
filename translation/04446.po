@@ -8,41 +8,45 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 04446:8
-
-msgid "{Kazushi}\n\"Well, it's ultimately all down to personal preference. There's no one right answer for this.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, it's ultimately all down to personal preference. There's no one right answer for this.\""
 msgstr ""
 
 #: 04446:15
-
-msgid "{Appo}\n\"Then Kazushi, how big do you think a girl's tits should be?\""
+msgid ""
+"{Appo}\n"
+"\"Then Kazushi, how big do you think a girl's tits should be?\""
 msgstr ""
 
 #: 04446:16
-
-msgid "{Pierre}\n\"I like them round.\""
+msgid ""
+"{Pierre}\n"
+"\"I like them round.\""
 msgstr ""
 
 #: 04446:17
-
-msgid "{Daigo}\n\"I like them small.\""
+msgid ""
+"{Daigo}\n"
+"\"I like them small.\""
 msgstr ""
 
 #: 04446:20
-
-msgid "{Appo}\n\"The bigger the better for me. I'd love a pair that's absurdly big. How about you, Kazushi?\""
+msgid ""
+"{Appo}\n"
+"\"The bigger the better for me. I'd love a pair that's absurdly big. How about you, Kazushi?\""
 msgstr ""
 
 #: 04446:21
-
-msgid "{Kazushi}\n\"You guys don't know anything about tits. Let me tell you something about tits......\""
+msgid ""
+"{Kazushi}\n"
+"\"You guys don't know anything about tits. Let me tell you something about tits......\""
 msgstr ""
 
 #: 04446:27
-
 msgid "The next thing we knew, the sun was already coming up."
 msgstr ""
-

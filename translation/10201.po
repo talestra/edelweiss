@@ -8,821 +8,914 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 10201:9
-
-msgid "{Haruka}\n\"Do you want seconds, Kazushi-kun?\""
+msgid ""
+"{Haruka}\n"
+"\"Do you want seconds, Kazushi-kun?\""
 msgstr ""
 
 #: 10201:10
-
-msgid "{Kazushi}\n\"Sure. I could eat some more.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure. I could eat some more.\""
 msgstr ""
 
 #: 10201:13
-
-msgid "{Haruka}\n\"Let me go get it for you then.\""
+msgid ""
+"{Haruka}\n"
+"\"Let me go get it for you then.\""
 msgstr ""
 
 #: 10201:15
-
 msgid "She grabbed my bowl and went off to get me another serving of rice."
 msgstr ""
 
 #: 10201:16
-
-msgid "{Kazushi}\n\"Haruka, would you like another cup of tea?\""
+msgid ""
+"{Kazushi}\n"
+"\"Haruka, would you like another cup of tea?\""
 msgstr ""
 
 #: 10201:17
-
-msgid "{Haruka}\n\"Sure, thanks!\""
+msgid ""
+"{Haruka}\n"
+"\"Sure, thanks!\""
 msgstr ""
 
 #: 10201:19
-
 msgid "I poured some more tea into her half-empty glass. She came back just as I finished filling it up."
 msgstr ""
 
 #: 10201:22
-
-msgid "{Haruka}\n\"Here is your refill.\""
+msgid ""
+"{Haruka}\n"
+"\"Here is your refill.\""
 msgstr ""
 
 #: 10201:24
-
-msgid "{Kazushi}\n\"Thanks. I filled your tea, too.\""
+msgid ""
+"{Kazushi}\n"
+"\"Thanks. I filled your tea, too.\""
 msgstr ""
 
 #: 10201:27
-
-msgid "{Haruka}\n\"Thank you!\nOh, Kazushi-kun, do you want a croquette?\""
+msgid ""
+"{Haruka}\n"
+"\"Thank you!\n"
+"Oh, Kazushi-kun, do you want a croquette?\""
 msgstr ""
 
 #: 10201:28
-
 msgid "Having a meal can become so much more fun by just being in a relationship. Whatever I put in my mouth tastes so much better than before."
 msgstr ""
 
 #: 10201:29
-
 msgid "Whatever I see seems so much more beautiful, and even the air tastes sweeter than I remember. I feel like the whole world is celebrating our love."
 msgstr ""
 
 #: 10201:34
-
-msgid "{Pierre}\n\"Am I alone in finding another stupid couple who acts way too mushy together?\""
+msgid ""
+"{Pierre}\n"
+"\"Am I alone in finding another stupid couple who acts way too mushy together?\""
 msgstr ""
 
 #: 10201:35
-
-msgid "{Sakura}\n\"No, you're not. They're getting on my nerves as well.\""
+msgid ""
+"{Sakura}\n"
+"\"No, you're not. They're getting on my nerves as well.\""
 msgstr ""
 
 #: 10201:36
-
 msgid "I don't know why they're so annoyed when they look at us..."
 msgstr ""
 
 #: 10201:41
-
-msgid "{Haruka}\n\"Why is everyone looking at us all annoyed?\""
+msgid ""
+"{Haruka}\n"
+"\"Why is everyone looking at us all annoyed?\""
 msgstr ""
 
 #: 10201:42
-
-msgid "{Kazushi}\n\"I don't know, either.\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't know, either.\""
 msgstr ""
 
 #: 10201:47
-
-msgid "{Daigo}\n\"For the first time ever, I feel like stabbing Kazushi to death.\""
+msgid ""
+"{Daigo}\n"
+"\"For the first time ever, I feel like stabbing Kazushi to death.\""
 msgstr ""
 
 #: 10201:50
-
-msgid "{Haruka}\n\"How can you say something like that?\nI won't let you do that to Kazushi-kun!\""
+msgid ""
+"{Haruka}\n"
+"\"How can you say something like that?\n"
+"I won't let you do that to Kazushi-kun!\""
 msgstr ""
 
 #: 10201:54
-
-msgid "{Andou}\n\"Relax, it's a joke. The fact that they can't take a joke is exactly what I hate about those people.\""
+msgid ""
+"{Andou}\n"
+"\"Relax, it's a joke. The fact that they can't take a joke is exactly what I hate about those people.\""
 msgstr ""
 
 #: 10201:58
-
-msgid "{Sakura}\n\"Oh no! Our Harunyan's become a lovey-dovey moron! Hey! Harucchi! Give us back our Harunyan!\""
+msgid ""
+"{Sakura}\n"
+"\"Oh no! Our Harunyan's become a lovey-dovey moron! Hey! Harucchi! Give us back our Harunyan!\""
 msgstr ""
 
 #: 10201:59
-
-msgid "{Kazushi}\n\"Whose Haruka are you talking about? This one's mine.\""
+msgid ""
+"{Kazushi}\n"
+"\"Whose Haruka are you talking about? This one's mine.\""
 msgstr ""
 
 #: 10201:63
-
-msgid "{Haruka}\n\"Kazushi-kun...\nDon't say such flirtatious things in front of everyone...\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun...\n"
+"Don't say such flirtatious things in front of everyone...\""
 msgstr ""
 
 #: 10201:70
-
-msgid "{Appo}\n\"They're seriously ill. This is painful to watch.\""
+msgid ""
+"{Appo}\n"
+"\"They're seriously ill. This is painful to watch.\""
 msgstr ""
 
 #: 10201:72
-
-msgid "{Fuusen}\n\"Awww, leave 'em alone. Everybody's like that when they first start dating. When we first started, our tongues were entwined all the time without regard to shame or appearances.\""
+msgid ""
+"{Fuusen}\n"
+"\"Awww, leave 'em alone. Everybody's like that when they first start dating. When we first started, our tongues were entwined all the time without regard to shame or appearances.\""
 msgstr ""
 
 #: 10201:77
-
-msgid "{Rin}\n\"So Haruka-chan and Haruma-kun are officially dating, right?\""
+msgid ""
+"{Rin}\n"
+"\"So Haruka-chan and Haruma-kun are officially dating, right?\""
 msgstr ""
 
 #: 10201:80
-
-msgid "{Fuusen}\n\"What else does it look like?\""
+msgid ""
+"{Fuusen}\n"
+"\"What else does it look like?\""
 msgstr ""
 
 #: 10201:83
-
-msgid "{Rin}\n\"I see. How nice.\""
+msgid ""
+"{Rin}\n"
+"\"I see. How nice.\""
 msgstr ""
 
 #: 10201:87
-
-msgid "{Haruka}\n\"You'll find your special someone soon too, Rin-chan.\""
+msgid ""
+"{Haruka}\n"
+"\"You'll find your special someone soon too, Rin-chan.\""
 msgstr ""
 
 #: 10201:91
-
-msgid "{Pierre}\n\"How about me? I'm single.\""
+msgid ""
+"{Pierre}\n"
+"\"How about me? I'm single.\""
 msgstr ""
 
 #: 10201:94
-
-msgid "{Rin}\n\"Umm......sorry.\""
+msgid ""
+"{Rin}\n"
+"\"Umm......sorry.\""
 msgstr ""
 
 #: 10201:97
-
-msgid "{Pierre}\n\"....................................\""
+msgid ""
+"{Pierre}\n"
+"\"....................................\""
 msgstr ""
 
 #: 10201:102
-
-msgid "{Mizuki}\n\"But still, Haruka with Kazushi, huh? It's like Beauty and the Beast. I never thought they'd get together.\""
+msgid ""
+"{Mizuki}\n"
+"\"But still, Haruka with Kazushi, huh? It's like Beauty and the Beast. I never thought they'd get together.\""
 msgstr ""
 
 #: 10201:107
-
-msgid "{Ran}\n\"I feel so cheated. I made the first move towards Kazushi.\""
+msgid ""
+"{Ran}\n"
+"\"I feel so cheated. I made the first move towards Kazushi.\""
 msgstr ""
 
 #: 10201:112
-
-msgid "{Appo}\n\"So, did you get to use it?\""
+msgid ""
+"{Appo}\n"
+"\"So, did you get to use it?\""
 msgstr ""
 
 #: 10201:113
-
 msgid "Appo whispered to me."
 msgstr ""
 
 #: 10201:114
-
-msgid "{Kazushi}\n\"What \"it\" are you talking about?\""
+msgid ""
+"{Kazushi}\n"
+"\"What \"it\" are you talking about?\""
 msgstr ""
 
 #: 10201:117
-
-msgid "{Appo}\n\"The rubber I gave you!\nExcept it's not rubber, it's latex.\nThose're more expensive.\""
+msgid ""
+"{Appo}\n"
+"\"The rubber I gave you!\n"
+"Except it's not rubber, it's latex.\n"
+"Those're more expensive.\""
 msgstr ""
 
 #: 10201:118
-
-msgid "{Kazushi}\n\"Oh......\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh......\""
 msgstr ""
 
 #: 10201:120
-
 msgid "I forgot about it until now. It should still be in my pocket, though."
 msgstr ""
 
 #: 10201:121
-
-msgid "{Kazushi}\n\"..................\""
+msgid ""
+"{Kazushi}\n"
+"\"..................\""
 msgstr ""
 
 #: 10201:122
-
 msgid "I could feel it in my pocket. The box was all crushed, but it was still there."
 msgstr ""
 
 #: 10201:125
-
-msgid "{Pierre}\n\"Are you serious?\nYou guys already did it?\""
+msgid ""
+"{Pierre}\n"
+"\"Are you serious?\n"
+"You guys already did it?\""
 msgstr ""
 
 #: 10201:126
-
 msgid "Pierre, the idiot, didn't realize where we were. A hush fell over the entire cafeteria and people were staring at me."
 msgstr ""
 
 #: 10201:127
-
-msgid "{Kazushi}\n\"Keep it down, you idiot!\""
+msgid ""
+"{Kazushi}\n"
+"\"Keep it down, you idiot!\""
 msgstr ""
 
 #: 10201:131
-
-msgid "{Haruka}\n\"Kazushi-kun?\nWhat do you mean by 'did it'?\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun?\n"
+"What do you mean by 'did it'?\""
 msgstr ""
 
 #: 10201:132
-
-msgid "{Kazushi}\n\"Umm, that's a little......\""
+msgid ""
+"{Kazushi}\n"
+"\"Umm, that's a little......\""
 msgstr ""
 
 #: 10201:135
-
-msgid "{Haruka}\n\"What is it?\nIs there something we still haven't done?\nEven after we did such a wild thing?\""
+msgid ""
+"{Haruka}\n"
+"\"What is it?\n"
+"Is there something we still haven't done?\n"
+"Even after we did such a wild thing?\""
 msgstr ""
 
 #: 10201:140
-
-msgid "{Mizuki}\n\"What? What did you guys do?\""
+msgid ""
+"{Mizuki}\n"
+"\"What? What did you guys do?\""
 msgstr ""
 
 #: 10201:143
-
-msgid "{Haruka}\n\"Umm......\nIt's too embarrassing to tell.\""
+msgid ""
+"{Haruka}\n"
+"\"Umm......\n"
+"It's too embarrassing to tell.\""
 msgstr ""
 
 #: 10201:144
-
 msgid "Haruka glanced over at me with her face beet red. She looked amazingly pretty, but I knew all of our friends would misunderstand us."
 msgstr ""
 
 #: 10201:149
-
-msgid "{Yagami}\n\"Hey, you guys. I'm glad to see you two are so happy together, but you've got pretty big guts to be talking about that where I can hear you.\""
+msgid ""
+"{Yagami}\n"
+"\"Hey, you guys. I'm glad to see you two are so happy together, but you've got pretty big guts to be talking about that where I can hear you.\""
 msgstr ""
 
 #: 10201:150
-
 msgid "See, they misunderstood."
 msgstr ""
 
 #: 10201:151
-
-msgid "{Kazushi}\n\"It's a misunderstanding.\nWe haven't done anything.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's a misunderstanding.\n"
+"We haven't done anything.\""
 msgstr ""
 
 #: 10201:152
-
-msgid "{Yagami}\n\"Are you telling the truth? Going by what I just heard coming out of Haruka's mouth, that's hard to believe.\""
+msgid ""
+"{Yagami}\n"
+"\"Are you telling the truth? Going by what I just heard coming out of Haruka's mouth, that's hard to believe.\""
 msgstr ""
 
 #: 10201:157
-
-msgid "{Ran}\n\"Why don't we inspect their belongings! If they have something weird then it's obvious.\""
+msgid ""
+"{Ran}\n"
+"\"Why don't we inspect their belongings! If they have something weird then it's obvious.\""
 msgstr ""
 
 #: 10201:158
-
-msgid "{Kazushi}\n\"What!?\""
+msgid ""
+"{Kazushi}\n"
+"\"What!?\""
 msgstr ""
 
 #: 10201:159
-
 msgid "It probably started off as a joke but quickly got out of hand. Ran thrust her hand down my pockets and took out the box before I knew it."
 msgstr ""
 
 #: 10201:162
-
-msgid "{Ran}\n\"Ah............\""
+msgid ""
+"{Ran}\n"
+"\"Ah............\""
 msgstr ""
 
 #: 10201:163
-
 msgid "The whole box of condoms."
 msgstr ""
 
 #: 10201:166
-
-msgid "{Yagami}\n\"Kazushi, you............\""
+msgid ""
+"{Yagami}\n"
+"\"Kazushi, you............\""
 msgstr ""
 
 #: 10201:167
-
-msgid "{Kazushi}\n\"It's not what you think!\nThis is a misunderstanding!\nI never used it!\""
+msgid ""
+"{Kazushi}\n"
+"\"It's not what you think!\n"
+"This is a misunderstanding!\n"
+"I never used it!\""
 msgstr ""
 
 #: 10201:170
-
-msgid "{Ran}\n\"But it's open...\""
+msgid ""
+"{Ran}\n"
+"\"But it's open...\""
 msgstr ""
 
 #: 10201:171
-
-msgid "{Kazushi}\n\"That's because......\""
+msgid ""
+"{Kazushi}\n"
+"\"That's because......\""
 msgstr ""
 
 #: 10201:176
-
-msgid "{Appo}\n\"Oh, it's missing one. What, so you did use it!\""
+msgid ""
+"{Appo}\n"
+"\"Oh, it's missing one. What, so you did use it!\""
 msgstr ""
 
 #: 10201:181
-
-msgid "{Sakura}\n\"Harunyan's been raped by Harucchi!\""
+msgid ""
+"{Sakura}\n"
+"\"Harunyan's been raped by Harucchi!\""
 msgstr ""
 
 #: 10201:182
-
-msgid "{Kazushi}\n\"I didn't use it! I mean I did use it...but only to practice and make sure I could put it on correctly!\""
+msgid ""
+"{Kazushi}\n"
+"\"I didn't use it! I mean I did use it...but only to practice and make sure I could put it on correctly!\""
 msgstr ""
 
 #: 10201:186
-
-msgid "{Yagami}\n\"So you were planning to!\""
+msgid ""
+"{Yagami}\n"
+"\"So you were planning to!\""
 msgstr ""
 
 #: 10201:191
-
-msgid "{Fuusen}\n\"Don't be so hard on him. It's good to see that he was smart enough to practice safe sex. Don't you agree, Yagami-sensei?\""
+msgid ""
+"{Fuusen}\n"
+"\"Don't be so hard on him. It's good to see that he was smart enough to practice safe sex. Don't you agree, Yagami-sensei?\""
 msgstr ""
 
 #: 10201:196
-
-msgid "{Yagami}\n\"That is true... Hrmm... just don't go overboard...\""
+msgid ""
+"{Yagami}\n"
+"\"That is true... Hrmm... just don't go overboard...\""
 msgstr ""
 
 #: 10201:200
-
-msgid "{Rin}\n\"Oh no. My friends are becoming women one after another......\""
+msgid ""
+"{Rin}\n"
+"\"Oh no. My friends are becoming women one after another......\""
 msgstr ""
 
 #: 10201:204
-
-msgid "{Sakura}\n\"Harunyan was an eternal virgin in my eyes too...\""
+msgid ""
+"{Sakura}\n"
+"\"Harunyan was an eternal virgin in my eyes too...\""
 msgstr ""
 
 #: 10201:205
-
 msgid "Everybody was paying attention to Haruka now. Half of the table was filled with curiosity, and the other half with envy. She seemed quite uncomfortable under their stares."
 msgstr ""
 
 #: 10201:206
-
-msgid "{Kazushi}\n\"I'm telling you guys, it's not what you think. And I'll say this again for Haruka's honor, but we haven't done anything yet!\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm telling you guys, it's not what you think. And I'll say this again for Haruka's honor, but we haven't done anything yet!\""
 msgstr ""
 
 #: 10201:207
-
 msgid "I needed to make it clear to avoid sullying Haruka's reputation."
 msgstr ""
 
 #: 10201:212
-
-msgid "{Pierre}\n\"That might be true, but no one's going to believe you anymore.\""
+msgid ""
+"{Pierre}\n"
+"\"That might be true, but no one's going to believe you anymore.\""
 msgstr ""
 
 #: 10201:213
-
-msgid "{Kazushi}\n\"I'm telling the truth......\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm telling the truth......\""
 msgstr ""
 
 #: 10201:218
-
-msgid "{Kazushi}\n\"I felt like I wouldn't make it out of there alive...\""
+msgid ""
+"{Kazushi}\n"
+"\"I felt like I wouldn't make it out of there alive...\""
 msgstr ""
 
 #: 10201:221
-
-msgid "{Haruka}\n\"I'm glad it's over now.\""
+msgid ""
+"{Haruka}\n"
+"\"I'm glad it's over now.\""
 msgstr ""
 
 #: 10201:222
-
 msgid "We received a summons from Yagami-sensei and Mei-sensei. Not only did they scold us, but they also took away my condoms."
 msgstr ""
 
 #: 10201:223
-
 msgid "And there we were, finally released from the inferno and alone by ourselves."
 msgstr ""
 
 #: 10201:224
-
-msgid "{Kazushi}\n\"I made a huge mistake, letting Yagami-sensei find out what I had in my pockets.\""
+msgid ""
+"{Kazushi}\n"
+"\"I made a huge mistake, letting Yagami-sensei find out what I had in my pockets.\""
 msgstr ""
 
 #: 10201:227
-
-msgid "{Haruka}\n\"What's that box supposed to be used for, anyways?\""
+msgid ""
+"{Haruka}\n"
+"\"What's that box supposed to be used for, anyways?\""
 msgstr ""
 
 #: 10201:228
-
 msgid "Haruka still doesn't have any idea why this turned out to be such a big deal. I hope she has some concept of what sex is."
 msgstr ""
 
 #: 10201:229
-
 msgid "I just hope she doesn't misunderstand and think I'm after her body once she realizes I've been carrying them on me since we first started dating."
 msgstr ""
 
 #: 10201:232
-
-msgid "{Haruka}\n\"So what is it for?\nTell me!\""
+msgid ""
+"{Haruka}\n"
+"\"So what is it for?\n"
+"Tell me!\""
 msgstr ""
 
 #: 10201:233
-
-msgid "{Kazushi}\n\"Well...those...were...uh...caramels!\""
+msgid ""
+"{Kazushi}\n"
+"\"Well...those...were...uh...caramels!\""
 msgstr ""
 
 #: 10201:234
-
 msgid "I lied in an instant."
 msgstr ""
 
 #: 10201:237
-
-msgid "{Haruka}\n\"Huh? Those are caramels? I would've wanted one then.\""
+msgid ""
+"{Haruka}\n"
+"\"Huh? Those are caramels? I would've wanted one then.\""
 msgstr ""
 
 #: 10201:238
-
 msgid "Oh no, she believed me."
 msgstr ""
 
 #: 10201:241
-
-msgid "{Haruka}\n\"But wait a minute. Why would Yagami-sensei be so mad about you carrying around a box of caramels?\""
+msgid ""
+"{Haruka}\n"
+"\"But wait a minute. Why would Yagami-sensei be so mad about you carrying around a box of caramels?\""
 msgstr ""
 
 #: 10201:242
-
-msgid "{Kazushi}\n\"Ummm...he actually loathes caramels like nothing else.\""
+msgid ""
+"{Kazushi}\n"
+"\"Ummm...he actually loathes caramels like nothing else.\""
 msgstr ""
 
 #: 10201:245
-
-msgid "{Haruka}\n\"He loathes caramels?\""
+msgid ""
+"{Haruka}\n"
+"\"He loathes caramels?\""
 msgstr ""
 
 #: 10201:246
-
-msgid "{Kazushi}\n\"A long time ago, his lost his silver tooth to caramels.\""
+msgid ""
+"{Kazushi}\n"
+"\"A long time ago, his lost his silver tooth to caramels.\""
 msgstr ""
 
 #: 10201:249
-
-msgid "{Haruka}\n\"I see. Silver tooth?\""
+msgid ""
+"{Haruka}\n"
+"\"I see. Silver tooth?\""
 msgstr ""
 
 #: 10201:250
-
-msgid "{Kazushi}\n\"..................\""
+msgid ""
+"{Kazushi}\n"
+"\"..................\""
 msgstr ""
 
 #: 10201:251
-
 msgid "I don't think this is going to work."
 msgstr ""
 
 #: 10201:252
-
-msgid "{Kazushi}\n\"Sorry, I lied.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sorry, I lied.\""
 msgstr ""
 
 #: 10201:255
-
-msgid "{Haruka}\n\"You lied? What do you mean? He doesn't hate caramels?\""
+msgid ""
+"{Haruka}\n"
+"\"You lied? What do you mean? He doesn't hate caramels?\""
 msgstr ""
 
 #: 10201:256
-
-msgid "{Kazushi}\n\"He doesn't hate caramels. And there weren't any caramels inside the box.\""
+msgid ""
+"{Kazushi}\n"
+"\"He doesn't hate caramels. And there weren't any caramels inside the box.\""
 msgstr ""
 
 #: 10201:259
-
-msgid "{Haruka}\n\"There weren't? Then what was it?\""
+msgid ""
+"{Haruka}\n"
+"\"There weren't? Then what was it?\""
 msgstr ""
 
 #: 10201:260
-
-msgid "{Kazushi}\n\"That was... part of a bright family project, or rather a tool to ensure unfortunate children aren't born into this world... In other words, a box of condoms.\""
+msgid ""
+"{Kazushi}\n"
+"\"That was... part of a bright family project, or rather a tool to ensure unfortunate children aren't born into this world... In other words, a box of condoms.\""
 msgstr ""
 
 #: 10201:263
-
-msgid "{Haruka}\n\"Oh......\""
+msgid ""
+"{Haruka}\n"
+"\"Oh......\""
 msgstr ""
 
 #: 10201:264
-
 msgid "Haruka's face went bright red again. Despite the tension, I was relieved beyond belief that she actually knew what condoms were."
 msgstr ""
 
 #: 10201:267
-
-msgid "{Haruka}\n\"Kazushi-kun, y-you already had them ready for us?\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun, y-you already had them ready for us?\""
 msgstr ""
 
 #: 10201:268
-
 msgid "All of a sudden, the atmosphere went strange again."
 msgstr ""
 
 #: 10201:269
-
-msgid "{Kazushi}\n\"Actually, Appo gave them to me. I forgot they were there until lunchtime.\""
+msgid ""
+"{Kazushi}\n"
+"\"Actually, Appo gave them to me. I forgot they were there until lunchtime.\""
 msgstr ""
 
 #: 10201:270
-
-msgid "{Haruka}\n\"Appo-kun, huh? Umm, actually...\""
+msgid ""
+"{Haruka}\n"
+"\"Appo-kun, huh? Umm, actually...\""
 msgstr ""
 
 #: 10201:271
-
 msgid "Haruka took out a fancy looking condom. It wasn't in a box like usual, and didn't even resemble a condom at first glance."
 msgstr ""
 
 #: 10201:272
-
-msgid "{Kazushi}\n\"Haruka, why do you...?\""
+msgid ""
+"{Kazushi}\n"
+"\"Haruka, why do you...?\""
 msgstr ""
 
 #: 10201:273
-
-msgid "{Haruka}\n\"Kazuko-chan gave me this.\nThis is a condom as well, right?\""
+msgid ""
+"{Haruka}\n"
+"\"Kazuko-chan gave me this.\n"
+"This is a condom as well, right?\""
 msgstr ""
 
 #: 10201:274
-
-msgid "{Kazushi}\n\"Oh, Fuusen gave it to you.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, Fuusen gave it to you.\""
 msgstr ""
 
 #: 10201:275
-
 msgid "That's Fuusen for you. I'm sure she always has one on her. She makes sure she's prepared for those things."
 msgstr ""
 
 #: 10201:276
-
-msgid "{Haruka}\n\"She told me to give this to you if you didn't bring one. This is for the thing couples do when they're in love, right?\""
+msgid ""
+"{Haruka}\n"
+"\"She told me to give this to you if you didn't bring one. This is for the thing couples do when they're in love, right?\""
 msgstr ""
 
 #: 10201:277
-
-msgid "{Kazushi}\n\"Y-yes it is.\""
+msgid ""
+"{Kazushi}\n"
+"\"Y-yes it is.\""
 msgstr ""
 
 #: 10201:278
-
 msgid "\"The thing.\" The way she said it was going around in my head. I wonder when we'll do \"the thing\"."
 msgstr ""
 
 #: 10201:281
-
-msgid "{Haruka}\n\"Is it too early for us?\""
+msgid ""
+"{Haruka}\n"
+"\"Is it too early for us?\""
 msgstr ""
 
 #: 10201:282
-
-msgid "{Kazushi}\n\"I don't know...I think it's OK to do it once we both agree we're ready.\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't know...I think it's OK to do it once we both agree we're ready.\""
 msgstr ""
 
 #: 10201:283
-
 msgid "By the way, I'm always ready."
 msgstr ""
 
 #: 10201:284
-
-msgid "{Haruka}\n\"I wonder how soon a couple would do it after they started going out...\""
+msgid ""
+"{Haruka}\n"
+"\"I wonder how soon a couple would do it after they started going out...\""
 msgstr ""
 
 #: 10201:285
-
-msgid "{Kazushi}\n\"Good question. Some couples might do it as soon as they started going out.\""
+msgid ""
+"{Kazushi}\n"
+"\"Good question. Some couples might do it as soon as they started going out.\""
 msgstr ""
 
 #: 10201:286
-
-msgid "{Kazushi}\n\"But at the same time, some might hold on for a while, and some might do it before they even start going out proper.\""
+msgid ""
+"{Kazushi}\n"
+"\"But at the same time, some might hold on for a while, and some might do it before they even start going out proper.\""
 msgstr ""
 
 #: 10201:289
-
-msgid "{Haruka}\n\"I see......\nHow about you? Do you want to do it soon?\""
+msgid ""
+"{Haruka}\n"
+"\"I see......\n"
+"How about you? Do you want to do it soon?\""
 msgstr ""
 
 #: 10201:290
-
 msgid "She glanced at me shyly. That by itself was enough to turn me on."
 msgstr ""
 
 #: 10201:291
-
 msgid "And I don't like that aspect of me."
 msgstr ""
 
 #: 10201:292
-
-msgid "{Kazushi}\n\"Don't worry, I'm not forcing you to.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't worry, I'm not forcing you to.\""
 msgstr ""
 
 #: 10201:294
-
 msgid "I shouldn't have looked that gift horse in the mouth. I would've been absolutely fine prostrating myself on the floor to beg her for it, but I pretended to be cool about it."
 msgstr ""
 
 #: 10201:296
-
 msgid "This is all so complicated."
 msgstr ""
 
 #: 10201:299
-
-msgid "{Haruka}\n\"No, I don't mind at all...\nIt's just that I've always been on this island, so I don't know anything about it...\""
+msgid ""
+"{Haruka}\n"
+"\"No, I don't mind at all...\n"
+"It's just that I've always been on this island, so I don't know anything about it...\""
 msgstr ""
 
 #: 10201:301
-
 msgid "There were no guys her age, and although they did occasionally sell weekly women's magazines, I doubt Haruka bought any. She was probably too embarrassed to buy them from the old ladies she knew so well."
 msgstr ""
 
 #: 10201:303
-
 msgid "It's natural for whoever grew up on this island to be completely ignorant about the subject in the first place."
 msgstr ""
 
 #: 10201:306
-
-msgid "{Haruka}\n\"I did ask Kazuko-chan lots of questions the other day, though.\""
+msgid ""
+"{Haruka}\n"
+"\"I did ask Kazuko-chan lots of questions the other day, though.\""
 msgstr ""
 
 #: 10201:307
-
-msgid "{Kazushi}\n\"You did?\""
+msgid ""
+"{Kazushi}\n"
+"\"You did?\""
 msgstr ""
 
 #: 10201:308
-
 msgid "I wonder what Fuusen taught Haruka......"
 msgstr ""
 
 #: 10201:309
-
-msgid "{Haruka}\n\"Kazuko-chan was surprised at how little I was able to understand what she said. Like fella-something? Or cunnin-something?\""
+msgid ""
+"{Haruka}\n"
+"\"Kazuko-chan was surprised at how little I was able to understand what she said. Like fella-something? Or cunnin-something?\""
 msgstr ""
 
 #: 10201:310
-
 msgid "Haruka didn't even know the names of basic sex acts. It's so like her."
 msgstr ""
 
 #: 10201:313
-
-msgid "{Haruka}\n\"I'm so afraid I might let you down......\""
+msgid ""
+"{Haruka}\n"
+"\"I'm so afraid I might let you down......\""
 msgstr ""
 
 #: 10201:314
-
-msgid "{Kazushi}\n\"You were worried about that?\""
+msgid ""
+"{Kazushi}\n"
+"\"You were worried about that?\""
 msgstr ""
 
 #: 10201:315
-
 msgid "I never knew she was worried about such things. The fact that she was concerned she might let me down made me want to love her even more."
 msgstr ""
 
 #: 10201:316
-
-msgid "{Kazushi}\n\"You're silly. You didn't have to worry at all.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're silly. You didn't have to worry at all.\""
 msgstr ""
 
 #: 10201:319
-
-msgid "{Haruka}\n\"But I heard that it's important for couples to match that way and...sex... not going well drives many couples apart.\""
+msgid ""
+"{Haruka}\n"
+"\"But I heard that it's important for couples to match that way and...sex... not going well drives many couples apart.\""
 msgstr ""
 
 #: 10201:320
-
 msgid "Dammit, Fuusen, you didn't have to go THAT far..."
 msgstr ""
 
 #: 10201:321
-
-msgid "{Kazushi}\n\"Don't worry about it. I don't really know what I'm doing, either.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't worry about it. I don't really know what I'm doing, either.\""
 msgstr ""
 
 #: 10201:322
-
-msgid "{Kazushi}\n\"This is my first time as well. Like you, I'm completely inexperienced.\""
+msgid ""
+"{Kazushi}\n"
+"\"This is my first time as well. Like you, I'm completely inexperienced.\""
 msgstr ""
 
 #: 10201:323
-
-msgid "{Haruka}\n\"You don't? Then we're equally ignorant?\""
+msgid ""
+"{Haruka}\n"
+"\"You don't? Then we're equally ignorant?\""
 msgstr ""
 
 #: 10201:324
-
-msgid "{Kazushi}\n\"That's right. And since we're equally ignorant, we can learn about it together, a little bit at a time.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's right. And since we're equally ignorant, we can learn about it together, a little bit at a time.\""
 msgstr ""
 
 #: 10201:325
-
-msgid "{Haruka}\n\"We can? Is that good enough for you?\""
+msgid ""
+"{Haruka}\n"
+"\"We can? Is that good enough for you?\""
 msgstr ""
 
 #: 10201:326
-
-msgid "{Kazushi}\n\"That's fine with me.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's fine with me.\""
 msgstr ""
 
 #: 10201:327
-
-msgid "{Haruka}\n\"I see......\""
+msgid ""
+"{Haruka}\n"
+"\"I see......\""
 msgstr ""
 
 #: 10201:329
-
 msgid "The conversation ended with good timing, and we stood there staring at each other."
 msgstr ""
 
 #: 10201:331
-
-msgid "{Kazushi}\n\"..................\""
+msgid ""
+"{Kazushi}\n"
+"\"..................\""
 msgstr ""
 
 #: 10201:332
-
-msgid "{Haruka}\n\"..................\""
+msgid ""
+"{Haruka}\n"
+"\"..................\""
 msgstr ""
 
 #: 10201:333
-
-msgid "We were staring at each other without a word.\nI don't know who took the first step, but we got closer to each other and kissed."
+msgid ""
+"We were staring at each other without a word.\n"
+"I don't know who took the first step, but we got closer to each other and kissed."
 msgstr ""
 
 #: 10201:335
-
-msgid "{Haruka}\n\"Ahmm...\""
+msgid ""
+"{Haruka}\n"
+"\"Ahmm...\""
 msgstr ""
 
 #: 10201:336
-
-msgid "My instinct told me to enjoy her sweet lips.\nThanks to all those 23 kisses from last night, we got so much better at kissing."
+msgid ""
+"My instinct told me to enjoy her sweet lips.\n"
+"Thanks to all those 23 kisses from last night, we got so much better at kissing."
 msgstr ""
 
 #: 10201:337
-
-msgid "{Haruka}\n\"Mmm, ah... hahh...\""
+msgid ""
+"{Haruka}\n"
+"\"Mmm, ah... hahh...\""
 msgstr ""
 
 #: 10201:338
-
 msgid "Our tongues entwined together, and Haruka let out hot sighs. Her eyes look mesmerized."
 msgstr ""
 
 #: 10201:339
-
-msgid "{Kazushi}\n\"C-can we take the next step today?\""
+msgid ""
+"{Kazushi}\n"
+"\"C-can we take the next step today?\""
 msgstr ""
 
 #: 10201:340
-
 msgid "My voice was shaking from being so nervous."
 msgstr ""
 
 #: 10201:341
-
-msgid "{Haruka}\n\"......yes, w-we can......\""
+msgid ""
+"{Haruka}\n"
+"\"......yes, w-we can......\""
 msgstr ""
 
 #: 10201:342
-
 msgid "Haruka's voice was shaking as well."
 msgstr ""
 
 #: 10201:343
-
-msgid "{Haruka}\n\"We have this, too.\""
+msgid ""
+"{Haruka}\n"
+"\"We have this, too.\""
 msgstr ""
 
 #: 10201:344
-
 msgid "Haruka handed me Fuusen's fancy condom."
 msgstr ""
-

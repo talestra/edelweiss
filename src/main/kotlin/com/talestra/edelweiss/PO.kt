@@ -1,6 +1,8 @@
 package com.talestra.edelweiss
 
 import com.soywiz.korio.error.invalidOp
+import com.soywiz.korio.lang.UTF8
+import com.soywiz.korio.lang.toByteArray
 import com.soywiz.korio.util.quoted
 import com.soywiz.korio.util.substr
 import com.soywiz.korio.util.unquote
@@ -25,12 +27,12 @@ class PO(val entries: List<Entry>) {
             if (parts.size == 1) {
                 return listOf("$kind ${parts[0].quoted}")
             } else {
-                return listOf("$kind \"\"") + parts.map { it.quoted }
+                return listOf("$kind \"\"") + parts.filter { it.isNotEmpty() }.map { it.quoted }
             }
         }
 
         fun toStringList(): List<String> {
-            return comments.map { "#$it" } + ssplit("msgid", msgid) + ssplit("msgstr", msgstr)
+            return comments.map { "#$it" } + ssplit("msgid", msgid) + ssplit("msgstr", msgstr) + listOf("")
         }
 
         override fun toString(): String = "'$msgid' -> '$msgstr'"
@@ -92,4 +94,8 @@ class PO(val entries: List<Entry>) {
     }
 
     fun save() = PO.save(this)
+
+    fun saveToString() = save().joinToString("\n")
+
+    fun saveToByteArray() = saveToString().toByteArray(UTF8)
 }

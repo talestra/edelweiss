@@ -8,1146 +8,1241 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 30283:7
-
-msgid "{Kazushi}\n\"I can't believe we actually got caught.\""
+msgid ""
+"{Kazushi}\n"
+"\"I can't believe we actually got caught.\""
 msgstr ""
 
 #: 30283:8
-
 msgid "The guys were chasing a cat that snatched a fish from the cafeteria."
 msgstr ""
 
 #: 30283:12
-
-msgid "{Appo}\n\"It turns out that we found some other animals.\""
+msgid ""
+"{Appo}\n"
+"\"It turns out that we found some other animals.\""
 msgstr ""
 
 #: 30283:13
-
 msgid "I was shocked to see Appo in awe of us."
 msgstr ""
 
 #: 30283:14
-
-msgid "{Kazushi}\n\"I'm so ashamed...\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm so ashamed...\""
 msgstr ""
 
 #: 30283:15
-
 msgid "I felt so embarrassed, getting caught by my friends."
 msgstr ""
 
 #: 30283:16
-
-msgid "{Kazushi}\n\"You moaned too loud, Ran.\""
+msgid ""
+"{Kazushi}\n"
+"\"You moaned too loud, Ran.\""
 msgstr ""
 
 #: 30283:20
-
 msgid "I gave Ran a not-so-gentle nudge with my elbow."
 msgstr ""
 
 #: 30283:22
-
-msgid "{Ran}\n\"It's impossible to hold that in!\""
+msgid ""
+"{Ran}\n"
+"\"It's impossible to hold that in!\""
 msgstr ""
 
 #: 30283:23
-
 msgid "I don't think the guys saw anything because I was on top, but they did catch us fucking, and that was making her feel down."
 msgstr ""
 
 #: 30283:27
-
-msgid "{Appo}\n\"You guys are lucky that it was just us. What if it was Yagami? He would have beaten the shit out of both of you. You've got to control yourself a bit, dude.\""
+msgid ""
+"{Appo}\n"
+"\"You guys are lucky that it was just us. What if it was Yagami? He would have beaten the shit out of both of you. You've got to control yourself a bit, dude.\""
 msgstr ""
 
 #: 30283:28
-
-msgid "{Kazushi}\n\"Right... Sorry...\""
+msgid ""
+"{Kazushi}\n"
+"\"Right... Sorry...\""
 msgstr ""
 
 #: 30283:33
-
-msgid "{Daigo}\n\"You should've known better, Kazushi. It seems like you've been going overboard since you lost your virginity.\""
+msgid ""
+"{Daigo}\n"
+"\"You should've known better, Kazushi. It seems like you've been going overboard since you lost your virginity.\""
 msgstr ""
 
 #: 30283:34
-
-msgid "{Kazushi}\n\"No... Come on! It's not like that...\""
+msgid ""
+"{Kazushi}\n"
+"\"No... Come on! It's not like that...\""
 msgstr ""
 
 #: 30283:38
-
-msgid "{Ran}\n\"But you two got to see a nice show, so make sure you pay up!!\""
+msgid ""
+"{Ran}\n"
+"\"But you two got to see a nice show, so make sure you pay up!!\""
 msgstr ""
 
 #: 30283:42
-
-msgid "{Appo}\n\"All we saw was Kazushi's ass!\""
+msgid ""
+"{Appo}\n"
+"\"All we saw was Kazushi's ass!\""
 msgstr ""
 
 #: 30283:46
-
-msgid "{Ran}\n\"It's 5000 yen for his butt!\""
+msgid ""
+"{Ran}\n"
+"\"It's 5000 yen for his butt!\""
 msgstr ""
 
 #: 30283:47
-
-msgid "{Kazushi}\n\"Come on...\""
+msgid ""
+"{Kazushi}\n"
+"\"Come on...\""
 msgstr ""
 
 #: 30283:52
-
-msgid "The next day.\nWe went shopping for the supplies needed for our gold refining experiments."
+msgid ""
+"The next day.\n"
+"We went shopping for the supplies needed for our gold refining experiments."
 msgstr ""
 
 #: 30283:53
-
-msgid "{Kazushi}\n\"Man, this gate is huge for no reason.\""
+msgid ""
+"{Kazushi}\n"
+"\"Man, this gate is huge for no reason.\""
 msgstr ""
 
 #: 30283:54
-
 msgid "At first I thought this gate was just a waste of space and money, but now I understood its significance."
 msgstr ""
 
 #: 30283:55
-
 msgid "This gate separates the two worlds of the island: inside the school and everywhere else."
 msgstr ""
 
 #: 30283:56
-
 msgid "This gate serves to keep those two worlds separate."
 msgstr ""
 
 #: 30283:57
-
-msgid "{Kazushi}\n\"......according to Mei-sensei.\""
+msgid ""
+"{Kazushi}\n"
+"\"......according to Mei-sensei.\""
 msgstr ""
 
 #: 30283:58
-
 msgid "Honestly, I still didn't get the whole picture."
 msgstr ""
 
 #: 30283:59
-
 msgid "However, I was beginning to feel like I was in a different world whenever I left the school, like it existed on its own plane of reality."
 msgstr ""
 
 #: 30283:60
-
 msgid "I always had an odd feeling as we passed through the gate."
 msgstr ""
 
 #: 30283:63
-
-msgid "{Ran}\n\"..................\""
+msgid ""
+"{Ran}\n"
+"\"..................\""
 msgstr ""
 
 #: 30283:64
-
 msgid "Like someone was watching me..."
 msgstr ""
 
 #: 30283:65
-
-msgid "{Ran}\n *STARE*"
+msgid ""
+"{Ran}\n"
+" *STARE*"
 msgstr ""
 
 #: 30283:66
-
-msgid "{Kazushi}\n\"Huh? I am being watched!\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? I am being watched!\""
 msgstr ""
 
 #: 30283:67
-
 msgid "It was Ran."
 msgstr ""
 
 #: 30283:68
-
-msgid "{Ran}\n\"Whatcha thinking about?\""
+msgid ""
+"{Ran}\n"
+"\"Whatcha thinking about?\""
 msgstr ""
 
 #: 30283:69
-
-msgid "{Kazushi}\n\"Nothing...\""
+msgid ""
+"{Kazushi}\n"
+"\"Nothing...\""
 msgstr ""
 
 #: 30283:70
-
-msgid "{Ran}\n\"Are you sure? Aren't you fantasizing about something erotic?\""
+msgid ""
+"{Ran}\n"
+"\"Are you sure? Aren't you fantasizing about something erotic?\""
 msgstr ""
 
 #: 30283:71
-
-msgid "{Kazushi}\n\"That sounds like something an old man would say.\""
+msgid ""
+"{Kazushi}\n"
+"\"That sounds like something an old man would say.\""
 msgstr ""
 
 #: 30283:72
-
-msgid "{Ran}\n\"I know that all the boys your age think like that when they're out on their first date.\""
+msgid ""
+"{Ran}\n"
+"\"I know that all the boys your age think like that when they're out on their first date.\""
 msgstr ""
 
 #: 30283:73
-
-msgid "{Kazushi}\n\"Out on a first date? This is a date? I thought we were just going shopping.\""
+msgid ""
+"{Kazushi}\n"
+"\"Out on a first date? This is a date? I thought we were just going shopping.\""
 msgstr ""
 
 #: 30283:76
-
-msgid "{Ran}\n\"If a couple goes out together then it's a date, like a rose by any other name, be it shopping, going to the cinema, or checking the stock market.\""
+msgid ""
+"{Ran}\n"
+"\"If a couple goes out together then it's a date, like a rose by any other name, be it shopping, going to the cinema, or checking the stock market.\""
 msgstr ""
 
 #: 30283:77
-
-msgid "{Kazushi}\n\"I don't think it quite works like that.\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't think it quite works like that.\""
 msgstr ""
 
 #: 30283:78
-
 msgid "So this is our first date?"
 msgstr ""
 
 #: 30283:81
-
-msgid "{Ran}\n\"So? What're you thinking about now? Are you thinking about how far you can go on our first date?\""
+msgid ""
+"{Ran}\n"
+"\"So? What're you thinking about now? Are you thinking about how far you can go on our first date?\""
 msgstr ""
 
 #: 30283:82
-
-msgid "{Kazushi}\n\"Huh? No. All you should do on a first date is hold each other's hands. That's what proper couples do, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? No. All you should do on a first date is hold each other's hands. That's what proper couples do, right?\""
 msgstr ""
 
 #: 30283:85
-
-msgid "{Ran}\n\"Huh? What? We aren't elementary school kids, so no.\""
+msgid ""
+"{Ran}\n"
+"\"Huh? What? We aren't elementary school kids, so no.\""
 msgstr ""
 
 #: 30283:86
-
-msgid "{Ran}\n\"Have you forgotten how far we've already gone in our relationship?\""
+msgid ""
+"{Ran}\n"
+"\"Have you forgotten how far we've already gone in our relationship?\""
 msgstr ""
 
 #: 30283:87
-
-msgid "{Kazushi}\n\"Yeah, you could say that...\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, you could say that...\""
 msgstr ""
 
 #: 30283:88
-
 msgid "But I still thought we should reflect upon what we were supposed to be doing on a first date."
 msgstr ""
 
 #: 30283:89
-
-msgid "{Kazushi}\n\"So...\""
+msgid ""
+"{Kazushi}\n"
+"\"So...\""
 msgstr ""
 
 #: 30283:90
-
 msgid "I grabbed one of the hands she was swinging next to me."
 msgstr ""
 
 #: 30283:93
-
-msgid "{Ran}\n\"Ueh?\""
+msgid ""
+"{Ran}\n"
+"\"Ueh?\""
 msgstr ""
 
 #: 30283:94
-
 msgid "Ran suddenly looked up at me after a strange cry."
 msgstr ""
 
 #: 30283:95
-
-msgid "{Kazushi}\n\"What was that cry? Don't make such strange sounds.\""
+msgid ""
+"{Kazushi}\n"
+"\"What was that cry? Don't make such strange sounds.\""
 msgstr ""
 
 #: 30283:98
-
-msgid "{Ran}\n\"You're the one who touched me out of nowhere.\""
+msgid ""
+"{Ran}\n"
+"\"You're the one who touched me out of nowhere.\""
 msgstr ""
 
 #: 30283:99
-
 msgid "Ran flushed slightly as she argued."
 msgstr ""
 
 #: 30283:100
-
-msgid "{Kazushi}\n\"What? Are you blushing?\""
+msgid ""
+"{Kazushi}\n"
+"\"What? Are you blushing?\""
 msgstr ""
 
 #: 30283:101
-
-msgid "{Ran}\n\"But that kind of thing makes you blush. It's like it makes your heart flutter or...\""
+msgid ""
+"{Ran}\n"
+"\"But that kind of thing makes you blush. It's like it makes your heart flutter or...\""
 msgstr ""
 
 #: 30283:102
-
-msgid "{Kazushi}\n\"Yeah, true.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, true.\""
 msgstr ""
 
 #: 30283:103
-
 msgid "I could feel her palm growing sweaty."
 msgstr ""
 
 #: 30283:104
-
-msgid "{Kazushi}\n\"True.\""
+msgid ""
+"{Kazushi}\n"
+"\"True.\""
 msgstr ""
 
 #: 30283:105
-
 msgid "I blushed too. Suddenly we were super-conscious of each other, which kept us nervous and quiet."
 msgstr ""
 
 #: 30283:106
-
-msgid "{Kazushi}\n\"Why don't you stretch out your other arm? Like this.\""
+msgid ""
+"{Kazushi}\n"
+"\"Why don't you stretch out your other arm? Like this.\""
 msgstr ""
 
 #: 30283:109
-
-msgid "{Ran}\n\"Why? Like this?\""
+msgid ""
+"{Ran}\n"
+"\"Why? Like this?\""
 msgstr ""
 
 #: 30283:110
-
 msgid "Both of us stretched our empty hands out to the side."
 msgstr ""
 
 #: 30283:111
-
-msgid "{Ran}\n\"What's this?\""
+msgid ""
+"{Ran}\n"
+"\"What's this?\""
 msgstr ""
 
 #: 30283:112
-
-msgid "{Kazushi}\n\"This is how big a golden eagle becomes when it stretches out its wings. Pretty big, huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"This is how big a golden eagle becomes when it stretches out its wings. Pretty big, huh?\""
 msgstr ""
 
 #: 30283:115
-
-msgid "{Ran}\n\"Yeah. Really? Golden eagles are this big?\""
+msgid ""
+"{Ran}\n"
+"\"Yeah. Really? Golden eagles are this big?\""
 msgstr ""
 
 #: 30283:116
-
 msgid "Ran gave a short reply, and titled her head. I was so embarrassed, I tried to fill the silence with whatever I could."
 msgstr ""
 
 #: 30283:117
-
-msgid "{Kazushi}\n\"We're acting just like junior high kids on their first date ever...\""
+msgid ""
+"{Kazushi}\n"
+"\"We're acting just like junior high kids on their first date ever...\""
 msgstr ""
 
 #: 30283:120
-
-msgid "{Ran}\n\"Right? I'd die of embarrassment if someone we knew saw us acting so sweet. Seppuku man, seppuku.\""
+msgid ""
+"{Ran}\n"
+"\"Right? I'd die of embarrassment if someone we knew saw us acting so sweet. Seppuku man, seppuku.\""
 msgstr ""
 
 #: 30283:121
-
-msgid "{Kazushi}\n\"Yeah. But I don't think anyone we know is around right now...\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah. But I don't think anyone we know is around right now...\""
 msgstr ""
 
 #: 30283:128
-
-msgid "{Sakura}\n\"..................\""
+msgid ""
+"{Sakura}\n"
+"\"..................\""
 msgstr ""
 
 #: 30283:132
-
-msgid "{Rin}\n\"..................Hey!\""
+msgid ""
+"{Rin}\n"
+"\"..................Hey!\""
 msgstr ""
 
 #: 30283:133
-
 msgid "...or I'm wrong again. Sakura and Fujisaki-san were right there!"
 msgstr ""
 
 #: 30283:136
-
-msgid "{Sakura}\n\"Oh? Huh, you two on a date?\""
+msgid ""
+"{Sakura}\n"
+"\"Oh? Huh, you two on a date?\""
 msgstr ""
 
 #: 30283:140
-
-msgid "{Ran}\n\"Ahaha, k-kind of. You two?\""
+msgid ""
+"{Ran}\n"
+"\"Ahaha, k-kind of. You two?\""
 msgstr ""
 
 #: 30283:144
-
-msgid "{Rin}\n\"Just going for a stroll. You two are on a date? Good for you!!\""
+msgid ""
+"{Rin}\n"
+"\"Just going for a stroll. You two are on a date? Good for you!!\""
 msgstr ""
 
 #: 30283:145
-
 msgid "Fujisaki-san seemed really envious of us... Was she actually interested in romance and relationships?"
 msgstr ""
 
 #: 30283:149
-
-msgid "{Sakura}\n\"Believe it or not, Rin's a horny girl.\""
+msgid ""
+"{Sakura}\n"
+"\"Believe it or not, Rin's a horny girl.\""
 msgstr ""
 
 #: 30283:150
-
-msgid "{Kazushi}\n\"Huh? She is?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? She is?!\""
 msgstr ""
 
 #: 30283:153
-
-msgid "{Rin}\n\"Th-th-that's not true! Why are you saying that, Sakura!\""
+msgid ""
+"{Rin}\n"
+"\"Th-th-that's not true! Why are you saying that, Sakura!\""
 msgstr ""
 
 #: 30283:154
-
 msgid "Fujisaki-san horny, huh? Hmm, I can't picture it. But that gap... is nice!"
 msgstr ""
 
 #: 30283:159
-
-msgid "{Ran}\n\"............\""
+msgid ""
+"{Ran}\n"
+"\"............\""
 msgstr ""
 
 #: 30283:160
-
-msgid "{Kazushi}\n\"Woah?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Woah?!\""
 msgstr ""
 
 #: 30283:161
-
 msgid "Ran was staring at me."
 msgstr ""
 
 #: 30283:162
-
-msgid "{Ran}\n\"You were dreaming about something perverted.\""
+msgid ""
+"{Ran}\n"
+"\"You were dreaming about something perverted.\""
 msgstr ""
 
 #: 30283:163
-
 msgid "She knew."
 msgstr ""
 
 #: 30283:164
-
-msgid "{Kazushi}\n\"No-no way!!\""
+msgid ""
+"{Kazushi}\n"
+"\"No-no way!!\""
 msgstr ""
 
 #: 30283:165
-
-msgid "{Ran}\n\"Hmph. I'll remember this later.\""
+msgid ""
+"{Ran}\n"
+"\"Hmph. I'll remember this later.\""
 msgstr ""
 
 #: 30283:166
-
 msgid "What's coming later? I'm scared..."
 msgstr ""
 
 #: 30283:172
-
-msgid "{Rin}\n\"What are you two talking about?\""
+msgid ""
+"{Rin}\n"
+"\"What are you two talking about?\""
 msgstr ""
 
 #: 30283:173
-
-msgid "{Sakura}\n\"Are we bothering you on your date? Ahaha.\""
+msgid ""
+"{Sakura}\n"
+"\"Are we bothering you on your date? Ahaha.\""
 msgstr ""
 
 #: 30283:177
-
-msgid "{Ran}\n\"Oh, no, it's nothing. Kazushi was just raping Rin in his imagination. We're really sorry.\""
+msgid ""
+"{Ran}\n"
+"\"Oh, no, it's nothing. Kazushi was just raping Rin in his imagination. We're really sorry.\""
 msgstr ""
 
 #: 30283:181
-
-msgid "{Rin}\n\"Huh? Haruma-kun, you imagined?\""
+msgid ""
+"{Rin}\n"
+"\"Huh? Haruma-kun, you imagined?\""
 msgstr ""
 
 #: 30283:182
-
-msgid "{Kazushi}\n\"N-no, no! I'd never!\""
+msgid ""
+"{Kazushi}\n"
+"\"N-no, no! I'd never!\""
 msgstr ""
 
 #: 30283:183
-
 msgid "Bloody hell, that's not funny!"
 msgstr ""
 
 #: 30283:187
-
-msgid "{Sakura}\n\"What are you two heading out to do? You're not planning to go have sex in the early afternoon, are you?\""
+msgid ""
+"{Sakura}\n"
+"\"What are you two heading out to do? You're not planning to go have sex in the early afternoon, are you?\""
 msgstr ""
 
 #: 30283:188
-
-msgid "{Kazushi}\n\"Huh? Uh, no. We did it yesterday so I can still hold off for today...\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Uh, no. We did it yesterday so I can still hold off for today...\""
 msgstr ""
 
 #: 30283:192
-
-msgid "{Ran}\n\"Idiot!\""
+msgid ""
+"{Ran}\n"
+"\"Idiot!\""
 msgstr ""
 
 #: 30283:198
-
 msgid "Ran slapped me hard on the back of my head."
 msgstr ""
 
 #: 30283:202
-
-msgid "{Rin}\n\"Stars are coming out of his eyes...\""
+msgid ""
+"{Rin}\n"
+"\"Stars are coming out of his eyes...\""
 msgstr ""
 
 #: 30283:203
-
-msgid "{Kazushi}\n\"Ow. Ran, you hit way too hard. Not on the back of the head.\""
+msgid ""
+"{Kazushi}\n"
+"\"Ow. Ran, you hit way too hard. Not on the back of the head.\""
 msgstr ""
 
 #: 30283:206
-
-msgid "{Ran}\n\"It's because you acted like an idiot!\""
+msgid ""
+"{Ran}\n"
+"\"It's because you acted like an idiot!\""
 msgstr ""
 
 #: 30283:210
-
-msgid "{Sakura}\n\"Haha. You two get along really well, huh? Honestly I was surprised to see you two going out, but it seems like things are working out really well between you.\""
+msgid ""
+"{Sakura}\n"
+"\"Haha. You two get along really well, huh? Honestly I was surprised to see you two going out, but it seems like things are working out really well between you.\""
 msgstr ""
 
 #: 30283:211
-
-msgid "{Kazushi}\n\"That conversation just now made you think things are going well?\""
+msgid ""
+"{Kazushi}\n"
+"\"That conversation just now made you think things are going well?\""
 msgstr ""
 
 #: 30283:215
-
-msgid "{Rin}\n\"It did. You're both so radiant, I can hardly watch.\""
+msgid ""
+"{Rin}\n"
+"\"It did. You're both so radiant, I can hardly watch.\""
 msgstr ""
 
 #: 30283:218
-
-msgid "{Sakura}\n\"Because you imagine them having sex, right?\""
+msgid ""
+"{Sakura}\n"
+"\"Because you imagine them having sex, right?\""
 msgstr ""
 
 #: 30283:221
-
-msgid "{Rin}\n\"No I don't! Jeez, Sakura!\""
+msgid ""
+"{Rin}\n"
+"\"No I don't! Jeez, Sakura!\""
 msgstr ""
 
 #: 30283:222
-
 msgid "Rin kept fighting back against Sakura's jokes. Fujisaki-san really was cute."
 msgstr ""
 
 #: 30283:227
-
-msgid "{Ran}\n\"........................\""
+msgid ""
+"{Ran}\n"
+"\"........................\""
 msgstr ""
 
 #: 30283:228
-
 msgid "Whoah?! She's glaring at me again!"
 msgstr ""
 
 #: 30283:229
-
-msgid "{Kazushi}\n\"No, I wasn't thinking of anything perverted.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, I wasn't thinking of anything perverted.\""
 msgstr ""
 
 #: 30283:230
-
-msgid "{Ran}\n\"I'm not saying anything yet.\""
+msgid ""
+"{Ran}\n"
+"\"I'm not saying anything yet.\""
 msgstr ""
 
 #: 30283:236
-
-msgid "{Rin}\n\"Hey, Sakura, wait!!\""
+msgid ""
+"{Rin}\n"
+"\"Hey, Sakura, wait!!\""
 msgstr ""
 
 #: 30283:237
-
-msgid "{Sakura}\n\"Ahaha, Rin's getting out of control, so we'll be going.\""
+msgid ""
+"{Sakura}\n"
+"\"Ahaha, Rin's getting out of control, so we'll be going.\""
 msgstr ""
 
 #: 30283:241
-
 msgid "Sakura ran away, waving at us as she goes."
 msgstr ""
 
 #: 30283:245
-
-msgid "{Ran}\n\"Oh, okay! Later!\""
+msgid ""
+"{Ran}\n"
+"\"Oh, okay! Later!\""
 msgstr ""
 
 #: 30283:246
-
-msgid "{Kazushi}\n\"Yeah, later! You too, Fujisaki-san!\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, later! You too, Fujisaki-san!\""
 msgstr ""
 
 #: 30283:250
-
-msgid "{Rin}\n\"Yes, see you later. Hey, wait up, Sakura!\""
+msgid ""
+"{Rin}\n"
+"\"Yes, see you later. Hey, wait up, Sakura!\""
 msgstr ""
 
 #: 30283:255
-
 msgid "The noisy girls were gone after running over the curve."
 msgstr ""
 
 #: 30283:258
-
-msgid "{Ran}\n\"How long you gonna stare after them?\""
+msgid ""
+"{Ran}\n"
+"\"How long you gonna stare after them?\""
 msgstr ""
 
 #: 30283:260
-
 msgid "*Tug*"
 msgstr ""
 
 #: 30283:261
-
 msgid "Ran pinched me on the side."
 msgstr ""
 
 #: 30283:262
-
-msgid "{Kazushi}\n\"OW! What are you doing? That hurts!\""
+msgid ""
+"{Kazushi}\n"
+"\"OW! What are you doing? That hurts!\""
 msgstr ""
 
 #: 30283:265
-
-msgid "{Ran}\n\"That's what you get for eye-raping Rin!\""
+msgid ""
+"{Ran}\n"
+"\"That's what you get for eye-raping Rin!\""
 msgstr ""
 
 #: 30283:266
-
-msgid "{Kazushi}\n\"Huh? What stupid crap are you saying? I wasn't eye-raping anyone.\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? What stupid crap are you saying? I wasn't eye-raping anyone.\""
 msgstr ""
 
 #: 30283:269
-
-msgid "{Ran}\n\"I know that boys love girls like Rin. Yeah, I like her too. It'd be great if every family had a girl like her...\""
+msgid ""
+"{Ran}\n"
+"\"I know that boys love girls like Rin. Yeah, I like her too. It'd be great if every family had a girl like her...\""
 msgstr ""
 
 #: 30283:272
-
-msgid "{Ran}\n\"But that's not it!\""
+msgid ""
+"{Ran}\n"
+"\"But that's not it!\""
 msgstr ""
 
 #: 30283:273
-
 msgid "Hmm? You look confused. Wait a minute... Are you...?"
 msgstr ""
 
 #: 30283:274
-
-msgid "{Kazushi}\n\"Are you jealous?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you jealous?\""
 msgstr ""
 
 #: 30283:275
-
 msgid "Ran stared at me hard."
 msgstr ""
 
 #: 30283:278
-
-msgid "{Ran}\n\"Uh... You may be right.\""
+msgid ""
+"{Ran}\n"
+"\"Uh... You may be right.\""
 msgstr ""
 
 #: 30283:279
-
 msgid "Ran admitted it and gave me a sad look. It was one of dejection... like a deflated balloon."
 msgstr ""
 
 #: 30283:280
-
 msgid "Or like a hurt bitch."
 msgstr ""
 
 #: 30283:281
-
-msgid "{Kazushi}\n\"Hey, I'm just kidding. Don't worry about it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, I'm just kidding. Don't worry about it.\""
 msgstr ""
 
 #: 30283:282
-
-msgid "{Ran}\n\"This is my first time going out with a boy, and sometimes I don't know how to control my emotions. I was acting out of line, wasn't I?\""
+msgid ""
+"{Ran}\n"
+"\"This is my first time going out with a boy, and sometimes I don't know how to control my emotions. I was acting out of line, wasn't I?\""
 msgstr ""
 
 #: 30283:283
-
-msgid "{Kazushi}\n\"No, not that bad.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, not that bad.\""
 msgstr ""
 
 #: 30283:284
-
-msgid "{Ran}\n\"I hate women's jealousy.\""
+msgid ""
+"{Ran}\n"
+"\"I hate women's jealousy.\""
 msgstr ""
 
 #: 30283:285
-
-msgid "{Kazushi}\n\"Well, once in a while's not so bad.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, once in a while's not so bad.\""
 msgstr ""
 
 #: 30283:286
-
 msgid "Ran had always been a good sport with me, so it was refreshing to see the other side of her sometimes."
 msgstr ""
 
 #: 30283:287
-
 msgid "If this is as bad as it gets, I don't mind her being jealous."
 msgstr ""
 
 #: 30283:290
-
-msgid "{Ran}\n\"Really? OK, then sometimes I'll act jealous for you. That'll be 500 yen.\""
+msgid ""
+"{Ran}\n"
+"\"Really? OK, then sometimes I'll act jealous for you. That'll be 500 yen.\""
 msgstr ""
 
 #: 30283:291
-
-msgid "{Kazushi}\n\"That is not attractive.\""
+msgid ""
+"{Kazushi}\n"
+"\"That is not attractive.\""
 msgstr ""
 
 #: 30283:292
-
 msgid "Ran was cute - as long as she wasn't talking about money."
 msgstr ""
 
 #: 30283:296
-
-msgid "{Kazushi}\n\"Oh, right, this store...\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, right, this store...\""
 msgstr ""
 
 #: 30283:297
-
 msgid "It's the general store we came to with everyone. They had everything from alchemic goods to daily commodities all in one place."
 msgstr ""
 
 #: 30283:300
-
-msgid "{Ran}\n\"Hello! Is my order ready?\""
+msgid ""
+"{Ran}\n"
+"\"Hello! Is my order ready?\""
 msgstr ""
 
 #: 30283:301
-
 msgid "Ran called out to the owner with a propitious voice and a familiar man came up from out back."
 msgstr ""
 
 #: 30283:306
-
-msgid "{Miya}\n\"Welcome, Ran-chan. I've got everything ready. ...huh? You are...\""
+msgid ""
+"{Miya}\n"
+"\"Welcome, Ran-chan. I've got everything ready. ...huh? You are...\""
 msgstr ""
 
 #: 30283:307
-
 msgid "Miya-san looked a bit surprised to see me with Ran."
 msgstr ""
 
 #: 30283:308
-
-msgid "{Kazushi}\n\"Haruma. Thanks for last time.\""
+msgid ""
+"{Kazushi}\n"
+"\"Haruma. Thanks for last time.\""
 msgstr ""
 
 #: 30283:309
-
-msgid "{Miya}\n\"Oh, you were there too? Are you here together?\""
+msgid ""
+"{Miya}\n"
+"\"Oh, you were there too? Are you here together?\""
 msgstr ""
 
 #: 30283:312
-
-msgid "{Ran}\n\"Yes... I don't like hanging out in a big group.\""
+msgid ""
+"{Ran}\n"
+"\"Yes... I don't like hanging out in a big group.\""
 msgstr ""
 
 #: 30283:315
-
-msgid "{Miya}\n\"And yet you brought Haruma-kun with you. Mhmm...\""
+msgid ""
+"{Miya}\n"
+"\"And yet you brought Haruma-kun with you. Mhmm...\""
 msgstr ""
 
 #: 30283:316
-
 msgid "Miya-san looked at us both and smiled suggestively."
 msgstr ""
 
 #: 30283:317
-
-msgid "{Miya}\n\"I see, I see. So you two are like that now?\""
+msgid ""
+"{Miya}\n"
+"\"I see, I see. So you two are like that now?\""
 msgstr ""
 
 #: 30283:320
-
-msgid "{Ran}\n\"Well, that's how it is. So give us a bunch of extras in celebration.\""
+msgid ""
+"{Ran}\n"
+"\"Well, that's how it is. So give us a bunch of extras in celebration.\""
 msgstr ""
 
 #: 30283:321
-
-msgid "{Miya}\n\"I see, I see. In that case, I guess I have to give you a discount.\""
+msgid ""
+"{Miya}\n"
+"\"I see, I see. In that case, I guess I have to give you a discount.\""
 msgstr ""
 
 #: 30283:322
-
 msgid "It was just like her to use our relationship to haggle down prices, I was surprised Miya agreed so easily."
 msgstr ""
 
 #: 30283:325
-
-msgid "{Miya}\n\"Ran-chan's a very clever girl. You caught yourself a pretty good one, didn't you?\""
+msgid ""
+"{Miya}\n"
+"\"Ran-chan's a very clever girl. You caught yourself a pretty good one, didn't you?\""
 msgstr ""
 
 #: 30283:326
-
 msgid "A pretty good one...?"
 msgstr ""
 
 #: 30283:329
-
-msgid "{Ran}\n\"Our meeting was destiny. I barely had to do anything, but he came like a moth to flames.\""
+msgid ""
+"{Ran}\n"
+"\"Our meeting was destiny. I barely had to do anything, but he came like a moth to flames.\""
 msgstr ""
 
 #: 30283:330
-
-msgid "{Kazushi}\n\"Hey, hey...\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, hey...\""
 msgstr ""
 
 #: 30283:331
-
-msgid "{Miya}\n\"The boys have only been here a short time and things are changing. Are there a lot of other girls with boyfriends now?\""
+msgid ""
+"{Miya}\n"
+"\"The boys have only been here a short time and things are changing. Are there a lot of other girls with boyfriends now?\""
 msgstr ""
 
 #: 30283:334
-
-msgid "{Ran}\n\"Quite a few. They're all young and kinda cutting loose during summer break. I bet most of them will break up once classes start again.\""
+msgid ""
+"{Ran}\n"
+"\"Quite a few. They're all young and kinda cutting loose during summer break. I bet most of them will break up once classes start again.\""
 msgstr ""
 
 #: 30283:335
-
-msgid "{Kazushi}\n\"Why does that sound like you're talking about us...\""
+msgid ""
+"{Kazushi}\n"
+"\"Why does that sound like you're talking about us...\""
 msgstr ""
 
 #: 30283:338
-
-msgid "{Ran}\n\"No! We'll be fine. It's because we've got a very strong bond between us.\""
+msgid ""
+"{Ran}\n"
+"\"No! We'll be fine. It's because we've got a very strong bond between us.\""
 msgstr ""
 
 #: 30283:339
-
 msgid "Is that bond the million yen? I'd rather she quit calling it a bond and give it back ASAP."
 msgstr ""
 
 #: 30283:340
-
-msgid "My dad may have found out about his bike by now...\nI'm petrified just thinking about it."
+msgid ""
+"My dad may have found out about his bike by now...\n"
+"I'm petrified just thinking about it."
 msgstr ""
 
 #: 30283:343
-
-msgid "{Miya}\n\"A strong bond, huh? Well, how lovely.\""
+msgid ""
+"{Miya}\n"
+"\"A strong bond, huh? Well, how lovely.\""
 msgstr ""
 
 #: 30283:346
-
-msgid "{Ran}\n\"If you think it's lovely, then give us a lovely deal.\""
+msgid ""
+"{Ran}\n"
+"\"If you think it's lovely, then give us a lovely deal.\""
 msgstr ""
 
 #: 30283:347
-
-msgid "{Miya}\n\"Ahaha, I can't fight you, Ran-chan...\""
+msgid ""
+"{Miya}\n"
+"\"Ahaha, I can't fight you, Ran-chan...\""
 msgstr ""
 
 #: 30283:348
-
 msgid "Miya-san broke out his calculator and started tapping away. Ran peered over his shoulder, and started negotiating. In the end, Miya-san folded."
 msgstr ""
 
 #: 30283:351
-
-msgid "{Ran}\n\"Thank you, come again!\""
+msgid ""
+"{Ran}\n"
+"\"Thank you, come again!\""
 msgstr ""
 
 #: 30283:352
-
-msgid "{Miya}\n\"I don't profit with you as a customer.\""
+msgid ""
+"{Miya}\n"
+"\"I don't profit with you as a customer.\""
 msgstr ""
 
 #: 30283:353
-
 msgid "Miya-san smiled bitterly, which meant he really wasn't making a profit. To top it off, Ran bought a ton of stuff."
 msgstr ""
 
 #: 30283:357
-
-msgid "{Ran}\n\"Here, carry it.\""
+msgid ""
+"{Ran}\n"
+"\"Here, carry it.\""
 msgstr ""
 
 #: 30283:358
-
 msgid "Ran made me carry a big hempen bag. It was pretty heavy."
 msgstr ""
 
 #: 30283:359
-
-msgid "{Kazushi}\n\"What is in the bag?\""
+msgid ""
+"{Kazushi}\n"
+"\"What is in the bag?\""
 msgstr ""
 
 #: 30283:360
-
-msgid "{Ran}\n\"I'll tell you later. Now let's go eat - I'm starving.\""
+msgid ""
+"{Ran}\n"
+"\"I'll tell you later. Now let's go eat - I'm starving.\""
 msgstr ""
 
 #: 30283:363
-
-msgid "{Ran}\n\"Today I'll treat you.\""
+msgid ""
+"{Ran}\n"
+"\"Today I'll treat you.\""
 msgstr ""
 
 #: 30283:367
-
-msgid "{Kazushi}\n\"What!?\""
+msgid ""
+"{Kazushi}\n"
+"\"What!?\""
 msgstr ""
 
 #: 30283:370
-
-msgid "{Miya}\n\"You are?\""
+msgid ""
+"{Miya}\n"
+"\"You are?\""
 msgstr ""
 
 #: 30283:371
-
 msgid "The world went silent. Time stopped."
 msgstr ""
 
 #: 30283:377
-
-msgid "{Ran}\n\"What've you two gone all shocked for?\""
+msgid ""
+"{Ran}\n"
+"\"What've you two gone all shocked for?\""
 msgstr ""
 
 #: 30283:378
-
-msgid "{Kazushi}\n\"Uhh... Because...\""
+msgid ""
+"{Kazushi}\n"
+"\"Uhh... Because...\""
 msgstr ""
 
 #: 30283:379
-
-msgid "{Miya}\n\"This is the first time I've ever heard you offering to buy something for someone.\""
+msgid ""
+"{Miya}\n"
+"\"This is the first time I've ever heard you offering to buy something for someone.\""
 msgstr ""
 
 #: 30283:382
-
-msgid "{Ran}\n\"Of course I offer to treat people sometimes. I'm not stingy, just very selective.\""
+msgid ""
+"{Ran}\n"
+"\"Of course I offer to treat people sometimes. I'm not stingy, just very selective.\""
 msgstr ""
 
 #: 30283:383
-
-msgid "{Kazushi}\n\"Really?\""
+msgid ""
+"{Kazushi}\n"
+"\"Really?\""
 msgstr ""
 
 #: 30283:386
-
-msgid "{Ran}\n\"So, Miya-san, I'll take this.\""
+msgid ""
+"{Ran}\n"
+"\"So, Miya-san, I'll take this.\""
 msgstr ""
 
 #: 30283:387
-
-msgid "{Miya}\n\"Huh? This is for your lunch?\""
+msgid ""
+"{Miya}\n"
+"\"Huh? This is for your lunch?\""
 msgstr ""
 
 #: 30283:391
-
-msgid "{Kazushi}\n\"You're treating me to this...?\""
+msgid ""
+"{Kazushi}\n"
+"\"You're treating me to this...?\""
 msgstr ""
 
 #: 30283:392
-
 msgid "There was a steaming hot cup of instant ramen in my hands."
 msgstr ""
 
 #: 30283:395
-
-msgid "{Ran}\n\"Even cup ramen tastes delicious when you're enjoying the view from up here, so stop complaining and eat!\""
+msgid ""
+"{Ran}\n"
+"\"Even cup ramen tastes delicious when you're enjoying the view from up here, so stop complaining and eat!\""
 msgstr ""
 
 #: 30283:396
-
-msgid "{Kazushi}\n\"Okay...\""
+msgid ""
+"{Kazushi}\n"
+"\"Okay...\""
 msgstr ""
 
 #: 30283:397
-
 msgid "I began to gobble up the noodles."
 msgstr ""
 
 #: 30283:399
-
 msgid "*SLURRRRRRPPPPP*"
 msgstr ""
 
 #: 30283:400
-
-msgid "{Kazushi}\n\"Ohhhh!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Ohhhh!!\""
 msgstr ""
 
 #: 30283:401
-
 msgid "Damn, it does taste good."
 msgstr ""
 
 #: 30283:402
-
-msgid "{Ran}\n\"What do you think? Good, right?\""
+msgid ""
+"{Ran}\n"
+"\"What do you think? Good, right?\""
 msgstr ""
 
 #: 30283:403
-
-msgid "{Kazushi}\n\"Yes! This tastes great! But this great view is half the reason.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes! This tastes great! But this great view is half the reason.\""
 msgstr ""
 
 #: 30283:404
-
 msgid "It was like how a school lunch tastes better when you're on a field trip. Ran grinned at me."
 msgstr ""
 
 #: 30283:407
-
-msgid "{Ran}\n\"So what, it's good, right? Or would you rather have me make you a bentou? You want to take that risk?\""
+msgid ""
+"{Ran}\n"
+"\"So what, it's good, right? Or would you rather have me make you a bentou? You want to take that risk?\""
 msgstr ""
 
 #: 30283:408
-
-msgid "{Kazushi}\n\"Are you saying you can't cook?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you saying you can't cook?\""
 msgstr ""
 
 #: 30283:409
-
-msgid "{Ran}\n\"Who knows? You'll find out sooner or later.\""
+msgid ""
+"{Ran}\n"
+"\"Who knows? You'll find out sooner or later.\""
 msgstr ""
 
 #: 30283:410
-
 msgid "Ran gave me a mischievous smile. She always loathed giving out information, probably because she thought it was worth money."
 msgstr ""
 
 #: 30283:411
-
-msgid "{Kazushi}\n\"You bought a lot of groceries back there. Aren't you gonna cook something with them?\""
+msgid ""
+"{Kazushi}\n"
+"\"You bought a lot of groceries back there. Aren't you gonna cook something with them?\""
 msgstr ""
 
 #: 30283:412
-
 msgid "Half the stuff in her bag were groceries. Sure, there was a lot of cup noodles and instant food, but there was plenty of rice, meat, and vegetables too."
 msgstr ""
 
 #: 30283:415
-
-msgid "{Ran}\n\"It'd be nice if we could get by on just instant food every meal, but you'd get sick of that. We don't know how many days it'll take either.\""
+msgid ""
+"{Ran}\n"
+"\"It'd be nice if we could get by on just instant food every meal, but you'd get sick of that. We don't know how many days it'll take either.\""
 msgstr ""
 
 #: 30283:416
-
-msgid "{Kazushi}\n\"What are you talking about?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you talking about?\""
 msgstr ""
 
 #: 30283:417
-
-msgid "{Ran}\n\"Making gold, of course. We don't know how many days the refinement will take, and the important part is temperature control so we have to stay by it.\""
+msgid ""
+"{Ran}\n"
+"\"Making gold, of course. We don't know how many days the refinement will take, and the important part is temperature control so we have to stay by it.\""
 msgstr ""
 
 #: 30283:418
-
-msgid "{Ran}\n\"So starting tomorrow, we'll be living in the lab building.\""
+msgid ""
+"{Ran}\n"
+"\"So starting tomorrow, we'll be living in the lab building.\""
 msgstr ""
 
 #: 30283:419
-
-msgid "{Kazushi}\n\"Living there? Will it take that long to refine?\""
+msgid ""
+"{Kazushi}\n"
+"\"Living there? Will it take that long to refine?\""
 msgstr ""
 
 #: 30283:422
-
-msgid "{Ran}\n\"Of course. What we're trying to do is to invent the secret elixir to change lead into gold.\""
+msgid ""
+"{Ran}\n"
+"\"Of course. What we're trying to do is to invent the secret elixir to change lead into gold.\""
 msgstr ""
 
 #: 30283:423
-
-msgid "{Ran}\n\"If it was easy to do, then the world would be flooded in gold by now.\""
+msgid ""
+"{Ran}\n"
+"\"If it was easy to do, then the world would be flooded in gold by now.\""
 msgstr ""
 
 #: 30283:424
-
-msgid "{Kazushi}\n\"That makes sense.\""
+msgid ""
+"{Kazushi}\n"
+"\"That makes sense.\""
 msgstr ""
 
 #: 30283:425
-
 msgid "From what I'd heard, there were very few alchemists who successfully created gold."
 msgstr ""
 
 #: 30283:426
-
 msgid "Hardly any have even come close."
 msgstr ""
 
 #: 30283:427
-
-msgid "{Kazushi}\n\"Can we really do it, just the two of us?\""
+msgid ""
+"{Kazushi}\n"
+"\"Can we really do it, just the two of us?\""
 msgstr ""
 
 #: 30283:428
-
 msgid "Furthermore, Ran had such little talent for alchemy that she admitted it herself. I was just a clueless newb."
 msgstr ""
 
 #: 30283:429
-
 msgid "As the failure combo, shouldn't we lower our goal a little bit? The first important part is getting Ran to successfully conduct an experiment."
 msgstr ""
 
 #: 30283:432
-
-msgid "{Ran}\n\"What's important is be a challenger. The higher our goal, the harder we try.\""
+msgid ""
+"{Ran}\n"
+"\"What's important is be a challenger. The higher our goal, the harder we try.\""
 msgstr ""
 
 #: 30283:433
-
-msgid "{Kazushi}\n\"Well, that's true.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, that's true.\""
 msgstr ""
 
 #: 30283:434
-
 msgid "Without money motivating her, Ran wouldn't even make an attempt."
 msgstr ""
 
 #: 30283:437
-
-msgid "{Ran}\n\"It might be absolutely impossible if we do anything normal, so today I'm going to challenge something new.\""
+msgid ""
+"{Ran}\n"
+"\"It might be absolutely impossible if we do anything normal, so today I'm going to challenge something new.\""
 msgstr ""
 
 #: 30283:438
-
-msgid "{Kazushi}\n\"Something new? Do you have some kind of a secret plan?\""
+msgid ""
+"{Kazushi}\n"
+"\"Something new? Do you have some kind of a secret plan?\""
 msgstr ""
 
 #: 30283:439
-
-msgid "{Ran}\n\"Watch me. If I can create gold, I'll even give you a little!\""
+msgid ""
+"{Ran}\n"
+"\"Watch me. If I can create gold, I'll even give you a little!\""
 msgstr ""
 
 #: 30283:440
-
-msgid "{Kazushi}\n\"Only a little?\""
+msgid ""
+"{Kazushi}\n"
+"\"Only a little?\""
 msgstr ""
 
 #: 30283:441
-
-msgid "Not sharing it 50/50? Ran looks pretty confident in her plan.\nWhat could she possibly be up to..."
+msgid ""
+"Not sharing it 50/50? Ran looks pretty confident in her plan.\n"
+"What could she possibly be up to..."
 msgstr ""
-

@@ -8,101 +8,105 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 03101:8
-
-msgid "{Kazushi}\n\"It's so convenient living on campus.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's so convenient living on campus.\""
 msgstr ""
 
 #: 03101:9
-
 msgid "I can go back and grab whatever I've left in the classroom without taking ages."
 msgstr ""
 
 #: 03101:10
-
-msgid "{Kazushi}\n\"It's so quiet.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's so quiet.\""
 msgstr ""
 
 #: 03101:11
-
 msgid "It's so quiet that the school building even looks different from when class is in session."
 msgstr ""
 
 #: 03101:12
-
-msgid "{???}\n\"What do you mean!?\""
+msgid ""
+"{???}\n"
+"\"What do you mean!?\""
 msgstr ""
 
 #: 03101:14
-
-msgid "{Kazushi}\n\"Huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh?\""
 msgstr ""
 
 #: 03101:15
-
 msgid "That's why I was so surprised to hear someone shouting."
 msgstr ""
 
 #: 03101:16
-
-msgid "{Kazushi}\n\"Who's that yelling?\""
+msgid ""
+"{Kazushi}\n"
+"\"Who's that yelling?\""
 msgstr ""
 
 #: 03101:17
-
 msgid "I stopped in my tracks and looked around. It hadn't come from that far away, and it didn't sound like they were alone either."
 msgstr ""
 
 #: 03101:18
-
-msgid "{Principal}\n\"Don't speak so loudly.\""
+msgid ""
+"{Principal}\n"
+"\"Don't speak so loudly.\""
 msgstr ""
 
 #: 03101:19
-
-msgid "{Kazushi}\n\"Eh!?\""
+msgid ""
+"{Kazushi}\n"
+"\"Eh!?\""
 msgstr ""
 
 #: 03101:20
-
 msgid "I quickly figured out who that belonged to. It was the clear, deep voice of our principal."
 msgstr ""
 
 #: 03101:21
-
-msgid "{Kazushi}\n\"So it must be coming from there.\""
+msgid ""
+"{Kazushi}\n"
+"\"So it must be coming from there.\""
 msgstr ""
 
 #: 03101:23
-
 msgid "The voices were coming from the principal's office."
 msgstr ""
 
 #: 03101:25
-
-msgid "{Haruka}\n\"I can't help it! You're not giving me a straight answer, Grandma!\""
+msgid ""
+"{Haruka}\n"
+"\"I can't help it! You're not giving me a straight answer, Grandma!\""
 msgstr ""
 
 #: 03101:26
-
-msgid "It's Haruka.\nI'd never heard her yell like that."
+msgid ""
+"It's Haruka.\n"
+"I'd never heard her yell like that."
 msgstr ""
 
 #: 03101:27
-
-msgid "{Kazushi}\n\"What are they arguing about?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are they arguing about?\""
 msgstr ""
 
 #: 03101:28
-
 msgid "It wasn't normal for Haruka to start shouting like that. Especially not at her grandmother, the Principal."
 msgstr ""
 
 #: 03101:29
-
-msgid "{Kazushi}\n\"I wonder what that's all about...\""
+msgid ""
+"{Kazushi}\n"
+"\"I wonder what that's all about...\""
 msgstr ""
-

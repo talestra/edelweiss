@@ -8,461 +8,489 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 01204:10
-
-msgid "{Kazushi}\n\"This feels so good......\""
+msgid ""
+"{Kazushi}\n"
+"\"This feels so good......\""
 msgstr ""
 
 #: 01204:11
-
 msgid "It had been a long day."
 msgstr ""
 
 #: 01204:13
-
 msgid "Taking a bath takes away my stress."
 msgstr ""
 
 #: 01204:14
-
-msgid "{Kazushi}\n\"............\""
+msgid ""
+"{Kazushi}\n"
+"\"............\""
 msgstr ""
 
 #: 01204:17
-
 msgid "Splash!"
 msgstr ""
 
 #: 01204:19
-
-msgid "{Kazushi}\n\"Glupb?! That was close!\""
+msgid ""
+"{Kazushi}\n"
+"\"Glupb?! That was close!\""
 msgstr ""
 
 #: 01204:20
-
 msgid "I almost fell asleep in the bathtub."
 msgstr ""
 
 #: 01204:21
-
-msgid "{Kazushi}\n\"I've heard that some people have actually drowned by doing that.\""
+msgid ""
+"{Kazushi}\n"
+"\"I've heard that some people have actually drowned by doing that.\""
 msgstr ""
 
 #: 01204:22
-
 msgid "I need someone to talk to so that I won't fall asleep in here. Maybe I should've just gotten out with Appo and the others."
 msgstr ""
 
 #: 01204:24
-
 msgid "*shwoom*"
 msgstr ""
 
 #: 01204:25
-
 msgid "Oh, just when I needed a partner."
 msgstr ""
 
 #: 01204:27
-
 msgid "*taptaptap*"
 msgstr ""
 
 #: 01204:28
-
 msgid "I couldn't see well through the steam, but they were coming closer. Their silhouette wasn't big - in fact it was quite small."
 msgstr ""
 
 #: 01204:29
-
-msgid "{???}\n\"Ha!\""
+msgid ""
+"{???}\n"
+"\"Ha!\""
 msgstr ""
 
 #: 01204:30
-
-msgid "{Kazushi}\n\"What the!?\""
+msgid ""
+"{Kazushi}\n"
+"\"What the!?\""
 msgstr ""
 
 #: 01204:32
-
 msgid "They jumped into the bathtub."
 msgstr ""
 
 #: 01204:34
-
 msgid "*Splash!*"
 msgstr ""
 
 #: 01204:35
-
-msgid "{Kazushi}\n\"Glub?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Glub?!\""
 msgstr ""
 
 #: 01204:36
-
 msgid "My face got splashed."
 msgstr ""
 
 #: 01204:37
-
-msgid "{Kazushi}\n\"What are you doing?! You're not supposed to jump into the bath!\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you doing?! You're not supposed to jump into the bath!\""
 msgstr ""
 
 #: 01204:38
-
 msgid "The person's shadow glided through the water and came closer."
 msgstr ""
 
 #: 01204:40
-
 msgid "*splashsplash*"
 msgstr ""
 
 #: 01204:46
-
-msgid "{Natsume}\n\"Pah!\""
+msgid ""
+"{Natsume}\n"
+"\"Pah!\""
 msgstr ""
 
 #: 01204:47
-
-msgid "{Kazushi}\n\"What......?\""
+msgid ""
+"{Kazushi}\n"
+"\"What......?\""
 msgstr ""
 
 #: 01204:48
-
 msgid "Natsume-chan came to the surface."
 msgstr ""
 
 #: 01204:49
-
-msgid "{Natsume}\n\"Oh, hey, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"Oh, hey, Haruma.\""
 msgstr ""
 
 #: 01204:50
-
-msgid "{Kazushi}\n\"Natsume-chan?! Why are you here?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan?! Why are you here?!\""
 msgstr ""
 
 #: 01204:51
-
-msgid "{Natsume}\n\"Even I take baths too. The body's relubrication is greatest when you're young, so we need to take one every day.\""
+msgid ""
+"{Natsume}\n"
+"\"Even I take baths too. The body's relubrication is greatest when you're young, so we need to take one every day.\""
 msgstr ""
 
 #: 01204:52
-
-msgid "{Kazushi}\n\"You're wrong! You're wrong! You mean rejuvenation!\""
+msgid ""
+"{Kazushi}\n"
+"\"You're wrong! You're wrong! You mean rejuvenation!\""
 msgstr ""
 
 #: 01204:53
-
-msgid "{Natsume}\n\"Relubrication?\""
+msgid ""
+"{Natsume}\n"
+"\"Relubrication?\""
 msgstr ""
 
 #: 01204:54
-
-msgid "{Kazushi}\n\"No, no, rejuvenation!!\""
+msgid ""
+"{Kazushi}\n"
+"\"No, no, rejuvenation!!\""
 msgstr ""
 
 #: 01204:55
-
-msgid "{Natsume}\n\"Lube.\""
+msgid ""
+"{Natsume}\n"
+"\"Lube.\""
 msgstr ""
 
 #: 01204:56
-
-msgid "{Kazushi}\n\"NO!\""
+msgid ""
+"{Kazushi}\n"
+"\"NO!\""
 msgstr ""
 
 #: 01204:57
-
 msgid "This isn't working. Every time I try and correct her, she brings up lube."
 msgstr ""
 
 #: 01204:58
-
 msgid "This just looks like I'm some pervert getting off on making her say dirty things."
 msgstr ""
 
 #: 01204:59
-
-msgid "{Natsume}\n\"Lube...\""
+msgid ""
+"{Natsume}\n"
+"\"Lube...\""
 msgstr ""
 
 #: 01204:60
-
-msgid "{Kazushi}\n\"Aaah, forget it! It doesn't matter! You're right!\""
+msgid ""
+"{Kazushi}\n"
+"\"Aaah, forget it! It doesn't matter! You're right!\""
 msgstr ""
 
 #: 01204:61
-
 msgid "I'll just leave it at that."
 msgstr ""
 
 #: 01204:62
-
-msgid "{Natsume}\n\"Are you sure? They say ignorance leads to shame, so if I'm wrong, I'd like to correct myself.\""
+msgid ""
+"{Natsume}\n"
+"\"Are you sure? They say ignorance leads to shame, so if I'm wrong, I'd like to correct myself.\""
 msgstr ""
 
 #: 01204:63
-
-msgid "{Kazushi}\n\"Well, that's a good attitude.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, that's a good attitude.\""
 msgstr ""
 
 #: 01204:64
-
 msgid "I'd like to help you, but sorry, my mind isn't that mature either."
 msgstr ""
 
 #: 01204:65
-
-msgid "{Kazushi}\n\"This isn't the time for that, though. Do you realize this is the men's bath?\""
+msgid ""
+"{Kazushi}\n"
+"\"This isn't the time for that, though. Do you realize this is the men's bath?\""
 msgstr ""
 
 #: 01204:66
-
 msgid "Yup, that was the big problem. The was the men's bath, and Natsume-chan walked in here."
 msgstr ""
 
 #: 01204:67
-
-msgid "{Natsume}\n\"Hmm?\""
+msgid ""
+"{Natsume}\n"
+"\"Hmm?\""
 msgstr ""
 
 #: 01204:68
-
-msgid "{Kazushi}\n\"No, not hmm.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, not hmm.\""
 msgstr ""
 
 #: 01204:70
-
 msgid "*bubbaglub*"
 msgstr ""
 
 #: 01204:71
-
-msgid "{Kazushi}\n\"What the--!?\""
+msgid ""
+"{Kazushi}\n"
+"\"What the--!?\""
 msgstr ""
 
 #: 01204:72
-
 msgid "Bubbles were coming up from around my ass!"
 msgstr ""
 
 #: 01204:73
-
-msgid "{Natsume}\n\"You farted.\""
+msgid ""
+"{Natsume}\n"
+"\"You farted.\""
 msgstr ""
 
 #: 01204:74
-
-msgid "{Kazushi}\n\"No I didn't!\""
+msgid ""
+"{Kazushi}\n"
+"\"No I didn't!\""
 msgstr ""
 
 #: 01204:75
-
-msgid "{Natsume}\n\"You farted, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"You farted, Haruma.\""
 msgstr ""
 
 #: 01204:76
-
-msgid "{Kazushi}\n\"No, I didn't. Did I?\""
+msgid ""
+"{Kazushi}\n"
+"\"No, I didn't. Did I?\""
 msgstr ""
 
 #: 01204:77
-
-msgid "{Natsume}\n\"You're panicking.\""
+msgid ""
+"{Natsume}\n"
+"\"You're panicking.\""
 msgstr ""
 
 #: 01204:78
-
 msgid "She raised her hands out of the water, and in them was a shower basin."
 msgstr ""
 
 #: 01204:79
-
-msgid "{Kazushi}\n\"Ah...\""
+msgid ""
+"{Kazushi}\n"
+"\"Ah...\""
 msgstr ""
 
 #: 01204:80
-
 msgid "It was her doing."
 msgstr ""
 
 #: 01204:81
-
-msgid "{Kazushi}\n\"That's so childish.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's so childish.\""
 msgstr ""
 
 #: 01204:82
-
-msgid "{Natsume}\n\"I did it only to cheer you up.\""
+msgid ""
+"{Natsume}\n"
+"\"I did it only to cheer you up.\""
 msgstr ""
 
 #: 01204:83
-
-msgid "{Kazushi}\n\"You did......?\""
+msgid ""
+"{Kazushi}\n"
+"\"You did......?\""
 msgstr ""
 
 #: 01204:84
-
 msgid "You mean she tried to cheer me up? She'd noticed that I was having a rough day and feeling down? She's sharp."
 msgstr ""
 
 #: 01204:85
-
-msgid "{Natsume}\n\"You're no fun.\""
+msgid ""
+"{Natsume}\n"
+"\"You're no fun.\""
 msgstr ""
 
 #: 01204:86
-
-msgid "{Kazushi}\n\"Sorry, Natsume-chan. I'm just having hard time getting along with the girls in my class.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sorry, Natsume-chan. I'm just having hard time getting along with the girls in my class.\""
 msgstr ""
 
 #: 01204:87
-
-msgid "{Natsume}\n\"Hmm, girls, huh? Yeah, you're not popular.\""
+msgid ""
+"{Natsume}\n"
+"\"Hmm, girls, huh? Yeah, you're not popular.\""
 msgstr ""
 
 #: 01204:88
-
 msgid "She can be too honest sometimes."
 msgstr ""
 
 #: 01204:89
-
-msgid "{Natsume}\n\"I see. Poor Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"I see. Poor Haruma.\""
 msgstr ""
 
 #: 01204:90
-
-msgid "{Kazushi}\n\"I sure am. Could I ask you to be nice to me?\""
+msgid ""
+"{Kazushi}\n"
+"\"I sure am. Could I ask you to be nice to me?\""
 msgstr ""
 
 #: 01204:91
-
-msgid "{Natsume}\n\"Sure.\""
+msgid ""
+"{Natsume}\n"
+"\"Sure.\""
 msgstr ""
 
 #: 01204:92
-
 msgid "She reached out her hands and started stroking my head."
 msgstr ""
 
 #: 01204:93
-
-msgid "{Kazushi}\n\"Hey......\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey......\""
 msgstr ""
 
 #: 01204:94
-
-msgid "{Natsume}\n\"Good boy......\""
+msgid ""
+"{Natsume}\n"
+"\"Good boy......\""
 msgstr ""
 
 #: 01204:95
-
 msgid "Her tiny hand petted my head. How long as it been since I last had anyone rub me on the head? Since I was a child, I think."
 msgstr ""
 
 #: 01204:96
-
-msgid "{Natsume}\n\"Good boy......\""
+msgid ""
+"{Natsume}\n"
+"\"Good boy......\""
 msgstr ""
 
 #: 01204:97
-
 msgid "I didn't remember it feeling this good."
 msgstr ""
 
 #: 01204:98
-
-msgid "{Natsume}\n\"Are you feeling better?\""
+msgid ""
+"{Natsume}\n"
+"\"Are you feeling better?\""
 msgstr ""
 
 #: 01204:99
-
-msgid "{Kazushi}\n\"I am. I remember that my mom used to pat my head like this when I was little.\""
+msgid ""
+"{Kazushi}\n"
+"\"I am. I remember that my mom used to pat my head like this when I was little.\""
 msgstr ""
 
 #: 01204:100
-
-msgid "{Natsume}\n\"Your mom?\nDoes she look like me?\""
+msgid ""
+"{Natsume}\n"
+"\"Your mom?\n"
+"Does she look like me?\""
 msgstr ""
 
 #: 01204:101
-
-msgid "{Kazushi}\n\"No, you don't look anything alike.\nBut you both pat my head the same way.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, you don't look anything alike.\n"
+"But you both pat my head the same way.\""
 msgstr ""
 
 #: 01204:102
-
-msgid "{Natsume}\n\"I see......\""
+msgid ""
+"{Natsume}\n"
+"\"I see......\""
 msgstr ""
 
 #: 01204:103
-
-msgid "{Kazushi}\n\"Did your mom pat your head like this as well?\""
+msgid ""
+"{Kazushi}\n"
+"\"Did your mom pat your head like this as well?\""
 msgstr ""
 
 #: 01204:104
-
-msgid "{Natsume}\n\"...it's what my father used to do.\""
+msgid ""
+"{Natsume}\n"
+"\"...it's what my father used to do.\""
 msgstr ""
 
 #: 01204:105
-
-msgid "{Kazushi}\n\"Oh, it's your father's way, then.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, it's your father's way, then.\""
 msgstr ""
 
 #: 01204:106
-
 msgid "If I think about it, she's right, it's the father who usually pats the daughters."
 msgstr ""
 
 #: 01204:107
-
-msgid "{Kazushi}\n\"Do you like your father?\""
+msgid ""
+"{Kazushi}\n"
+"\"Do you like your father?\""
 msgstr ""
 
 #: 01204:108
-
-msgid "{Natsume}\n\"..................\""
+msgid ""
+"{Natsume}\n"
+"\"..................\""
 msgstr ""
 
 #: 01204:109
-
-msgid "{Kazushi}\n\"Natsume-chan?\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan?\""
 msgstr ""
 
 #: 01204:110
-
-msgid "{Natsume}\n\"......if you feel that good, you can fall asleep.\""
+msgid ""
+"{Natsume}\n"
+"\"......if you feel that good, you can fall asleep.\""
 msgstr ""
 
 #: 01204:111
-
-msgid "{Kazushi}\n\"Oh, sure... I am sleepy.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, sure... I am sleepy.\""
 msgstr ""
 
 #: 01204:112
-
-msgid "{Natsume}\n\"Sleep.\""
+msgid ""
+"{Natsume}\n"
+"\"Sleep.\""
 msgstr ""
 
 #: 01204:113
-
 msgid "She roughly rubbed my head. It seemed like she suddenly got upset after I asked about her father."
 msgstr ""
 
 #: 01204:114
-
-msgid "{Natsume}\n\"..................\""
+msgid ""
+"{Natsume}\n"
+"\"..................\""
 msgstr ""
 
 #: 01204:115
-
 msgid "I was curious as to why, but I decided to refrain from pushing the subject any further."
 msgstr ""
-

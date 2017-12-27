@@ -8,221 +8,241 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 02302:7
-
-msgid "{Kazushi}\n\"Where did she go?\""
+msgid ""
+"{Kazushi}\n"
+"\"Where did she go?\""
 msgstr ""
 
 #: 02302:8
-
 msgid "I lost sight of Mizuki as she ran off."
 msgstr ""
 
 #: 02302:12
-
-msgid "{Kazushi}\n\"There she is.\""
+msgid ""
+"{Kazushi}\n"
+"\"There she is.\""
 msgstr ""
 
 #: 02302:13
-
 msgid "Did she head to the stairs leading to the beach? Is she going to the ocean?"
 msgstr ""
 
 #: 02302:14
-
-msgid "{Kazushi}\n\"This is great. The beach is a Mecca for picking up chicks.\""
+msgid ""
+"{Kazushi}\n"
+"\"This is great. The beach is a Mecca for picking up chicks.\""
 msgstr ""
 
 #: 02302:15
-
 msgid "Alright, I'm following her."
 msgstr ""
 
 #: 02302:24
-
-msgid "{Kazushi}\n\"...I've lost her again.\""
+msgid ""
+"{Kazushi}\n"
+"\"...I've lost her again.\""
 msgstr ""
 
 #: 02302:25
-
-msgid "I saw her going down the stairs.\nShe must be around here somewhere."
+msgid ""
+"I saw her going down the stairs.\n"
+"She must be around here somewhere."
 msgstr ""
 
 #: 02302:26
-
-msgid "{Kazushi}\n\"I wonder where she's gone...Hmm?\""
+msgid ""
+"{Kazushi}\n"
+"\"I wonder where she's gone...Hmm?\""
 msgstr ""
 
 #: 02302:27
-
 msgid "There was something on the beach right by the big rock. It seemed familiar..."
 msgstr ""
 
 #: 02302:28
-
-msgid "{Kazushi}\n\"That's our school's uniform!\""
+msgid ""
+"{Kazushi}\n"
+"\"That's our school's uniform!\""
 msgstr ""
 
 #: 02302:29
-
 msgid "It was a girl's uniform as well. A girl's uniform was lying here on the rocks."
 msgstr ""
 
 #: 02302:30
-
-msgid "{Kazushi}\n\"Whose is this?\""
+msgid ""
+"{Kazushi}\n"
+"\"Whose is this?\""
 msgstr ""
 
 #: 02302:31
-
 msgid "I don't see anyone around. Wait, wasn't there someone who just came down here?"
 msgstr ""
 
 #: 02302:32
-
-msgid "{Kazushi}\n\"This might be......\""
+msgid ""
+"{Kazushi}\n"
+"\"This might be......\""
 msgstr ""
 
 #: 02302:34
-
-msgid "{Mizuki}\n\"Ah--\""
+msgid ""
+"{Mizuki}\n"
+"\"Ah--\""
 msgstr ""
 
 #: 02302:35
-
-msgid "{Kazushi}\n\"Ah--\""
+msgid ""
+"{Kazushi}\n"
+"\"Ah--\""
 msgstr ""
 
 #: 02302:36
-
 msgid "Deja Vu. I think I've seen this picture before."
 msgstr ""
 
 #: 02302:37
-
 msgid "Back then it was graphic because I thought it was a mermaid. This time it was totally graphic. My very own classmate was stark naked right before my eyes..."
 msgstr ""
 
 #: 02302:38
-
-msgid "{Mizuki}\n\"Ah......Ahhhh...Ahhhh......!!!!!!\""
+msgid ""
+"{Mizuki}\n"
+"\"Ah......Ahhhh...Ahhhh......!!!!!!\""
 msgstr ""
 
 #: 02302:43
-
-msgid "{Mizuki}\n\"AAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!\""
+msgid ""
+"{Mizuki}\n"
+"\"AAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!\""
 msgstr ""
 
 #: 02302:50
-
-msgid "{Mizuki}\n\"Idiot! Kazushi, you moron!\nWhy are you always--!?!?\""
+msgid ""
+"{Mizuki}\n"
+"\"Idiot! Kazushi, you moron!\n"
+"Why are you always--!?!?\""
 msgstr ""
 
 #: 02302:51
-
-msgid "{Kazushi}\n\"I'm sorry!\nBut I never intended this to happen!\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm sorry!\n"
+"But I never intended this to happen!\""
 msgstr ""
 
 #: 02302:52
-
-msgid "{Mizuki}\n\"If you did, it'd be a crime! I'd press charges and have you face the death penalty!\""
+msgid ""
+"{Mizuki}\n"
+"\"If you did, it'd be a crime! I'd press charges and have you face the death penalty!\""
 msgstr ""
 
 #: 02302:53
-
-msgid "{Kazushi}\n\"I'm sorry. Forgive me.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm sorry. Forgive me.\""
 msgstr ""
 
 #: 02302:54
-
 msgid "Mizuki was heaving hard, unable to calm her anger. I picked a really bad time to come."
 msgstr ""
 
 #: 02302:57
-
-msgid "{Mizuki}\n\"What are you doing here, anyways!? Could it be that you were stalking me?\""
+msgid ""
+"{Mizuki}\n"
+"\"What are you doing here, anyways!? Could it be that you were stalking me?\""
 msgstr ""
 
 #: 02302:58
-
-msgid "{Kazushi}\n\"Actually, I sorta was.\""
+msgid ""
+"{Kazushi}\n"
+"\"Actually, I sorta was.\""
 msgstr ""
 
 #: 02302:61
-
-msgid "{Mizuki}\n\"What? You were?\""
+msgid ""
+"{Mizuki}\n"
+"\"What? You were?\""
 msgstr ""
 
 #: 02302:62
-
-msgid "{Kazushi}\n\"I wanted to ask you out.\""
+msgid ""
+"{Kazushi}\n"
+"\"I wanted to ask you out.\""
 msgstr ""
 
 #: 02302:63
-
-msgid "{Mizuki}\n\"Wha--!? You wanted to ask me out?\""
+msgid ""
+"{Mizuki}\n"
+"\"Wha--!? You wanted to ask me out?\""
 msgstr ""
 
 #: 02302:64
-
 msgid "She held herself and backed up. Maybe I shouldn't have said that?"
 msgstr ""
 
 #: 02302:67
-
-msgid "{Mizuki}\n\"Y-you...wanted...to...?\""
+msgid ""
+"{Mizuki}\n"
+"\"Y-you...wanted...to...?\""
 msgstr ""
 
 #: 02302:68
-
-msgid "{Kazushi}\n\"What?\""
+msgid ""
+"{Kazushi}\n"
+"\"What?\""
 msgstr ""
 
 #: 02302:69
-
-msgid "{Mizuki}\n\"Do you... l-like me?\""
+msgid ""
+"{Mizuki}\n"
+"\"Do you... l-like me?\""
 msgstr ""
 
 #: 02302:70
-
-msgid "{Kazushi}\n\"What makes you think that?\""
+msgid ""
+"{Kazushi}\n"
+"\"What makes you think that?\""
 msgstr ""
 
 #: 02302:73
-
-msgid "{Mizuki}\n\"You just told me that you wanted to ask me out...\""
+msgid ""
+"{Mizuki}\n"
+"\"You just told me that you wanted to ask me out...\""
 msgstr ""
 
 #: 02302:74
-
-msgid "{Kazushi}\n\"Oh, this is just practice.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, this is just practice.\""
 msgstr ""
 
 #: 02302:77
-
-msgid "{Mizuki}\n\"Practice-------!?\""
+msgid ""
+"{Mizuki}\n"
+"\"Practice-------!?\""
 msgstr ""
 
 #: 02302:78
-
 msgid "Did I say something wrong again?"
 msgstr ""
 
 #: 02302:79
-
-msgid "{Mizuki}\n\"Kazushi, you jerk! Go to hell! You idiot!\""
+msgid ""
+"{Mizuki}\n"
+"\"Kazushi, you jerk! Go to hell! You idiot!\""
 msgstr ""
 
 #: 02302:80
-
-msgid "{Kazushi}\n\"Don't be so mad......\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't be so mad......\""
 msgstr ""
 
 #: 02302:81
-
 msgid "I really pissed her off. I don't think I'll ever be good at this."
 msgstr ""
-

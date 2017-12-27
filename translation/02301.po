@@ -8,421 +8,460 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 02301:7
-
-msgid "{Kazushi}\n\"...shit.\""
+msgid ""
+"{Kazushi}\n"
+"\"...shit.\""
 msgstr ""
 
 #: 02301:8
-
 msgid "Haruka ended up going back to her classroom. Now it'll be hard to talk to her."
 msgstr ""
 
 #: 02301:9
-
-msgid "{A Girl}\n\"Excuse me?\""
+msgid ""
+"{A Girl}\n"
+"\"Excuse me?\""
 msgstr ""
 
 #: 02301:10
-
-msgid "{Kazushi}\n\"Huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh?\""
 msgstr ""
 
 #: 02301:11
-
-msgid "A girl!!\nIs this perhaps......"
+msgid ""
+"A girl!!\n"
+"Is this perhaps......"
 msgstr ""
 
 #: 02301:12
-
-msgid "{Kazushi}\n\"Are you hitting on me!?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you hitting on me!?\""
 msgstr ""
 
 #: 02301:13
-
-msgid "{A Girl}\n\"Huh?! Of course I'm not!\""
+msgid ""
+"{A Girl}\n"
+"\"Huh?! Of course I'm not!\""
 msgstr ""
 
 #: 02301:14
-
-msgid "{Kazushi}\n\"Oh, you're not...\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, you're not...\""
 msgstr ""
 
 #: 02301:15
-
-msgid "{A Girl}\n\"Can I help you?\""
+msgid ""
+"{A Girl}\n"
+"\"Can I help you?\""
 msgstr ""
 
 #: 02301:16
-
-msgid "{Kazushi}\n\"Oh, yeah. Uhh, is Haruka...Aozora-san in?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, yeah. Uhh, is Haruka...Aozora-san in?\""
 msgstr ""
 
 #: 02301:17
-
-msgid "{A Girl}\n\"Oh, you must be one of her friends.\""
+msgid ""
+"{A Girl}\n"
+"\"Oh, you must be one of her friends.\""
 msgstr ""
 
 #: 02301:18
-
 msgid "The girl became very friendly as soon as I mentioned Haruka's name."
 msgstr ""
 
 #: 02301:19
-
-msgid "{A Girl}\n\"Haruka! There's someone here to see you!\""
+msgid ""
+"{A Girl}\n"
+"\"Haruka! There's someone here to see you!\""
 msgstr ""
 
 #: 02301:20
-
 msgid "She called to Haruka for me."
 msgstr ""
 
 #: 02301:21
-
-msgid "{Haruka}\n\"Someone for me? Oh, Kazushi-kun!\""
+msgid ""
+"{Haruka}\n"
+"\"Someone for me? Oh, Kazushi-kun!\""
 msgstr ""
 
 #: 02301:23
-
 msgid "She ran straight for me, nearly knocking over her chair. She was like a puppy."
 msgstr ""
 
 #: 02301:29
-
-msgid "{Haruka}\n\"You don't usually come here. What's up?\""
+msgid ""
+"{Haruka}\n"
+"\"You don't usually come here. What's up?\""
 msgstr ""
 
 #: 02301:30
-
-msgid "{Kazushi}\n\"Actually......\""
+msgid ""
+"{Kazushi}\n"
+"\"Actually......\""
 msgstr ""
 
 #: 02301:31
-
 msgid "It's hard to tell her the truth."
 msgstr ""
 
 #: 02301:32
-
-msgid "{A Girl}\n\"Hey, Haruka, introduce us.\""
+msgid ""
+"{A Girl}\n"
+"\"Hey, Haruka, introduce us.\""
 msgstr ""
 
 #: 02301:33
-
 msgid "The girl who called Haruka over for me poked her in the side with her elbow."
 msgstr ""
 
 #: 02301:36
-
-msgid "{Haruka}\n\"Oh? Sorry. This is Haruma Kazushi-kun, from the class next door. And this is my classmate, Sasaki Chie-chan.\""
+msgid ""
+"{Haruka}\n"
+"\"Oh? Sorry. This is Haruma Kazushi-kun, from the class next door. And this is my classmate, Sasaki Chie-chan.\""
 msgstr ""
 
 #: 02301:37
-
-msgid "{Kazushi}\n\"Hi.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hi.\""
 msgstr ""
 
 #: 02301:38
-
-msgid "{Chie}\n\"Nice to meet you.\""
+msgid ""
+"{Chie}\n"
+"\"Nice to meet you.\""
 msgstr ""
 
 #: 02301:39
-
 msgid "This is so exciting. I've never had a girl introduce me to her female friends before!"
 msgstr ""
 
 #: 02301:40
-
 msgid "This whole event is making me feel bittersweet."
 msgstr ""
 
 #: 02301:41
-
-msgid "{Chie}\n\"Hey, if you're free, then why don't you come on in? Why don't we introduce him to everyone in our class?\""
+msgid ""
+"{Chie}\n"
+"\"Hey, if you're free, then why don't you come on in? Why don't we introduce him to everyone in our class?\""
 msgstr ""
 
 #: 02301:42
-
-msgid "{Haruka}\n\"That's a good idea. Come on inside, Kazushi-kun.\""
+msgid ""
+"{Haruka}\n"
+"\"That's a good idea. Come on inside, Kazushi-kun.\""
 msgstr ""
 
 #: 02301:43
-
-msgid "{Kazushi}\n\"All right.\""
+msgid ""
+"{Kazushi}\n"
+"\"All right.\""
 msgstr ""
 
 #: 02301:49
-
-msgid "{Haruka}\n\"Everybody, this is my friend Haruma Kazushi-kun!\""
+msgid ""
+"{Haruka}\n"
+"\"Everybody, this is my friend Haruma Kazushi-kun!\""
 msgstr ""
 
 #: 02301:50
-
-msgid "{Kazushi}\n\"Hi, everybody!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hi, everybody!!\""
 msgstr ""
 
 #: 02301:51
-
 msgid "There were about 10 girls in the room. I could hear my heart pounding."
 msgstr ""
 
 #: 02301:52
-
-msgid "{Chie}\n\"What kind of friend is he, Haruka?\""
+msgid ""
+"{Chie}\n"
+"\"What kind of friend is he, Haruka?\""
 msgstr ""
 
 #: 02301:55
-
-msgid "{Haruka}\n\"What do you mean?\""
+msgid ""
+"{Haruka}\n"
+"\"What do you mean?\""
 msgstr ""
 
 #: 02301:56
-
-msgid "{Girl 1}\n\"Come on, you don't have to hide it from us. If he came to our classroom without a specific reason, he must be more than just a friend.\""
+msgid ""
+"{Girl 1}\n"
+"\"Come on, you don't have to hide it from us. If he came to our classroom without a specific reason, he must be more than just a friend.\""
 msgstr ""
 
 #: 02301:57
-
-msgid "{Kazushi}\n\"What's more than just a friend?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's more than just a friend?\""
 msgstr ""
 
 #: 02301:58
-
-msgid "{Chie}\n\"Don't give us that dodgy answer!\""
+msgid ""
+"{Chie}\n"
+"\"Don't give us that dodgy answer!\""
 msgstr ""
 
 #: 02301:61
-
-msgid "{Haruka}\n\"How's that a dodgy answer?\""
+msgid ""
+"{Haruka}\n"
+"\"How's that a dodgy answer?\""
 msgstr ""
 
 #: 02301:62
-
-msgid "{Girl 2}\n\"Come on, you don't have to hide it. So, Haruma-kun, what about Haruka do you find attractive?\""
+msgid ""
+"{Girl 2}\n"
+"\"Come on, you don't have to hide it. So, Haruma-kun, what about Haruka do you find attractive?\""
 msgstr ""
 
 #: 02301:64
-
-msgid "{Kazushi}\n\"Well......\""
+msgid ""
+"{Kazushi}\n"
+"\"Well......\""
 msgstr ""
 
 #: 02301:65
-
 msgid "I could think of a whole list of Haruka's attractive aspects."
 msgstr ""
 
 #: 02301:68
-
-msgid "{Kazushi}\n\"She's cheerful and cute, and while she can be a little out of it, that just makes you want to care for her...\""
+msgid ""
+"{Kazushi}\n"
+"\"She's cheerful and cute, and while she can be a little out of it, that just makes you want to care for her...\""
 msgstr ""
 
 #: 02301:70
-
-msgid "{Girls}\n\"UWAAAAAAAAAAAAAAAAA!\""
+msgid ""
+"{Girls}\n"
+"\"UWAAAAAAAAAAAAAAAAA!\""
 msgstr ""
 
 #: 02301:71
-
 msgid "I don't understand why they're squealing. Girls' voices really ring in your head."
 msgstr ""
 
 #: 02301:74
-
-msgid "{Haruka}\n\"Umm, Kazushi-kun. Do you... l-love me?\""
+msgid ""
+"{Haruka}\n"
+"\"Umm, Kazushi-kun. Do you... l-love me?\""
 msgstr ""
 
 #: 02301:75
-
 msgid "Haruka asked me with a barely audible whisper."
 msgstr ""
 
 #: 02301:76
-
-msgid "{Kazushi}\n\"Do I love you......?\""
+msgid ""
+"{Kazushi}\n"
+"\"Do I love you......?\""
 msgstr ""
 
 #: 02301:77
-
 msgid "Oh, so that's what they were asking about! No wonder they squealed."
 msgstr ""
 
 #: 02301:78
-
-msgid "{Chie}\n\"How about you Haruka? What do you like about Haruma-kun?\""
+msgid ""
+"{Chie}\n"
+"\"How about you Haruka? What do you like about Haruma-kun?\""
 msgstr ""
 
 #: 02301:81
-
-msgid "{Haruka}\n\"Huh? What do I...? But I...\""
+msgid ""
+"{Haruka}\n"
+"\"Huh? What do I...? But I...\""
 msgstr ""
 
 #: 02301:82
-
-msgid "{Girl 1}\n\"Come on! Tell us!\""
+msgid ""
+"{Girl 1}\n"
+"\"Come on! Tell us!\""
 msgstr ""
 
 #: 02301:83
-
 msgid "It's amazing how much peer pressure a pack of girls can produce."
 msgstr ""
 
 #: 02301:85
-
-msgid "{Girl 3}\n\"Hey, Haruka's boyfriend! Can you clean the top portion of the blackboard for us? We can't reach it.\""
+msgid ""
+"{Girl 3}\n"
+"\"Hey, Haruka's boyfriend! Can you clean the top portion of the blackboard for us? We can't reach it.\""
 msgstr ""
 
 #: 02301:86
-
 msgid "One of her classmates called me over."
 msgstr ""
 
 #: 02301:87
-
-msgid "{Kazushi}\n\"Sure.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure.\""
 msgstr ""
 
 #: 02301:88
-
-msgid "{Chie}\n\"Oh, hey, can you move our shoe locker? I dropped a 50 yen coin behind it.\""
+msgid ""
+"{Chie}\n"
+"\"Oh, hey, can you move our shoe locker? I dropped a 50 yen coin behind it.\""
 msgstr ""
 
 #: 02301:89
-
-msgid "{Kazushi}\n\"Gimme a sec, I'm getting the blackboard.\""
+msgid ""
+"{Kazushi}\n"
+"\"Gimme a sec, I'm getting the blackboard.\""
 msgstr ""
 
 #: 02301:90
-
-msgid "{Girl 4}\n\"I need to ask you something, too...\""
+msgid ""
+"{Girl 4}\n"
+"\"I need to ask you something, too...\""
 msgstr ""
 
 #: 02301:91
-
-msgid "{Kazushi}\n\"Me again?\""
+msgid ""
+"{Kazushi}\n"
+"\"Me again?\""
 msgstr ""
 
 #: 02301:94
-
-msgid "{Haruka}\n\"Stop using him as your personal handyman, you guys!\""
+msgid ""
+"{Haruka}\n"
+"\"Stop using him as your personal handyman, you guys!\""
 msgstr ""
 
 #: 02301:95
-
 msgid "Everybody froze as she screamed."
 msgstr ""
 
 #: 02301:96
-
-msgid "{Chie}\n\"Are you jealous?\nThat's adorable!\""
+msgid ""
+"{Chie}\n"
+"\"Are you jealous?\n"
+"That's adorable!\""
 msgstr ""
 
 #: 02301:99
-
-msgid "{Haruka}\n\"It's not that......\""
+msgid ""
+"{Haruka}\n"
+"\"It's not that......\""
 msgstr ""
 
 #: 02301:100
-
-msgid "{Chie}\n\"Don't worry. We're not going to take your Kazushi-kun.\""
+msgid ""
+"{Chie}\n"
+"\"Don't worry. We're not going to take your Kazushi-kun.\""
 msgstr ""
 
 #: 02301:101
-
-msgid "{Haruka}\n\"M-my Kazushi-kun...\""
+msgid ""
+"{Haruka}\n"
+"\"M-my Kazushi-kun...\""
 msgstr ""
 
 #: 02301:102
-
 msgid "It seems like everybody's got the wrong idea..."
 msgstr ""
 
 #: 02301:103
-
-msgid "{Classmate}\n\"Is this Haruka's boyfriend?\""
+msgid ""
+"{Classmate}\n"
+"\"Is this Haruka's boyfriend?\""
 msgstr ""
 
 #: 02301:104
-
-msgid "{Kazushi}\n\"Not another one...\""
+msgid ""
+"{Kazushi}\n"
+"\"Not another one...\""
 msgstr ""
 
 #: 02301:105
-
 msgid "She was wearing an armband that announced her as the president of the school's newspaper club."
 msgstr ""
 
 #: 02301:106
-
-msgid "{Classmate}\n\"Perfect! I needed something to fill one last article. Let me take a picture of you two.\""
+msgid ""
+"{Classmate}\n"
+"\"Perfect! I needed something to fill one last article. Let me take a picture of you two.\""
 msgstr ""
 
 #: 02301:109
-
-msgid "{Haruka}\n\"We're not--\""
+msgid ""
+"{Haruka}\n"
+"\"We're not--\""
 msgstr ""
 
 #: 02301:110
-
-msgid "{Classmate}\n\"Say Cheese!\""
+msgid ""
+"{Classmate}\n"
+"\"Say Cheese!\""
 msgstr ""
 
 #: 02301:120
-
-msgid "{Kazushi}\n\"...oops. I couldn't help posing.\""
+msgid ""
+"{Kazushi}\n"
+"\"...oops. I couldn't help posing.\""
 msgstr ""
 
 #: 02301:123
-
-msgid "{Haruka}\n\"Me neither. I'm tired.\""
+msgid ""
+"{Haruka}\n"
+"\"Me neither. I'm tired.\""
 msgstr ""
 
 #: 02301:124
-
-msgid "{Kazushi}\n\"You girls have such control over us.\""
+msgid ""
+"{Kazushi}\n"
+"\"You girls have such control over us.\""
 msgstr ""
 
 #: 02301:125
-
-msgid "{Haruka}\n\"I'm sorry I gave them the wrong impression. You didn't need to do all that.\""
+msgid ""
+"{Haruka}\n"
+"\"I'm sorry I gave them the wrong impression. You didn't need to do all that.\""
 msgstr ""
 
 #: 02301:126
-
-msgid "{Kazushi}\n\"It's nothing, don't worry about it.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's nothing, don't worry about it.\""
 msgstr ""
 
 #: 02301:127
-
 msgid "For a couple hours, I enjoyed being her boyfriend. It was a lot more tiring than I thought, but it was fun too."
 msgstr ""
 
 #: 02301:128
-
 msgid "I'm glad they eventually understood that we were just friends, though."
 msgstr ""
 
 #: 02301:129
-
 msgid "...though it's kind of a waste."
 msgstr ""
 
 #: 02301:132
-
-msgid "{Haruka}\n\"I'll bring you a copy of the photo, OK?\""
+msgid ""
+"{Haruka}\n"
+"\"I'll bring you a copy of the photo, OK?\""
 msgstr ""
 
 #: 02301:133
-
-msgid "{Kazushi}\n\"Thanks.\""
+msgid ""
+"{Kazushi}\n"
+"\"Thanks.\""
 msgstr ""
 
 #: 02301:134
-
 msgid "Was it just my imagination, or did she enjoy it too?"
 msgstr ""
-

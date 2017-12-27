@@ -8,256 +8,269 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 02701:9
-
-msgid "{Haruka}\n\"Oh! Hi, Kazushi-kun!\""
+msgid ""
+"{Haruka}\n"
+"\"Oh! Hi, Kazushi-kun!\""
 msgstr ""
 
 #: 02701:11
-
 msgid "I saw Haruka running towards me as I was on my way to the girls' dorm."
 msgstr ""
 
 #: 02701:14
-
-msgid "{Kazushi}\n\"What a coincidence! I was just thinking about coming to see you.\""
+msgid ""
+"{Kazushi}\n"
+"\"What a coincidence! I was just thinking about coming to see you.\""
 msgstr ""
 
 #: 02701:18
-
-msgid "{Haruka}\n\"You were on your way to visit me? How funny that we've met halfway!\""
+msgid ""
+"{Haruka}\n"
+"\"You were on your way to visit me? How funny that we've met halfway!\""
 msgstr ""
 
 #: 02701:19
-
 msgid "I couldn't help but cheer up as I saw her getting all excited by the prospect of my visit."
 msgstr ""
 
 #: 02701:20
-
-msgid "{Kazushi}\n\"You're giving me the wrong impression.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're giving me the wrong impression.\""
 msgstr ""
 
 #: 02701:23
-
-msgid "{Haruka}\n\"Wrong impression? What wrong impression?\""
+msgid ""
+"{Haruka}\n"
+"\"Wrong impression? What wrong impression?\""
 msgstr ""
 
 #: 02701:24
-
-msgid "{Kazushi}\n\"It's nothing.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's nothing.\""
 msgstr ""
 
 #: 02701:25
-
 msgid "I wonder if she harbors any special feelings for me."
 msgstr ""
 
 #: 02701:26
-
 msgid "I doubt it. She's equally nice to everyone, and treats them the same. That's one of her best traits."
 msgstr ""
 
 #: 02701:27
-
-msgid "{Haruka}\n\"Are you free? Would you like to go for a walk?\""
+msgid ""
+"{Haruka}\n"
+"\"Are you free? Would you like to go for a walk?\""
 msgstr ""
 
 #: 02701:28
-
-msgid "{Kazushi}\n\"Don't say that first. I was about to invite you for one.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't say that first. I was about to invite you for one.\""
 msgstr ""
 
 #: 02701:31
-
-msgid "{Haruka}\n\"You were going to ask me out for a walk? I missed my chance at being asked out!!! Uwaa! Can you ask me now?\""
+msgid ""
+"{Haruka}\n"
+"\"You were going to ask me out for a walk? I missed my chance at being asked out!!! Uwaa! Can you ask me now?\""
 msgstr ""
 
 #: 02701:32
-
-msgid "{Kazushi}\n\"You want me to ask you now? Ok...... \nDo you want to take a walk with me?\""
+msgid ""
+"{Kazushi}\n"
+"\"You want me to ask you now? Ok...... \n"
+"Do you want to take a walk with me?\""
 msgstr ""
 
 #: 02701:35
-
-msgid "{Haruka}\n\"Sure!\""
+msgid ""
+"{Haruka}\n"
+"\"Sure!\""
 msgstr ""
 
 #: 02701:36
-
 msgid "She gave me a big smile as she started walking."
 msgstr ""
 
 #: 02701:37
-
-msgid "{Haruka}\n\"Hurry up, Kazushi-kun, or I'm going to leave you behind!\""
+msgid ""
+"{Haruka}\n"
+"\"Hurry up, Kazushi-kun, or I'm going to leave you behind!\""
 msgstr ""
 
 #: 02701:39
-
-msgid "{Kazushi}\n\"Hold on.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hold on.\""
 msgstr ""
 
 #: 02701:42
-
 msgid "I chased after Haruka as she walked towards a beautiful full moon."
 msgstr ""
 
 #: 02701:46
-
-msgid "{Kazushi}\n\"It's scary here at night.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's scary here at night.\""
 msgstr ""
 
 #: 02701:47
-
 msgid "We definitely stayed in the classroom last night. I just hadn't thought much of it with everyone there."
 msgstr ""
 
 #: 02701:48
-
 msgid "I just hadn't thought much of it with everyone there."
 msgstr ""
 
 #: 02701:51
-
-msgid "{Haruka}\n\"I'm so relieved that everything turned out fine last night.\""
+msgid ""
+"{Haruka}\n"
+"\"I'm so relieved that everything turned out fine last night.\""
 msgstr ""
 
 #: 02701:52
-
-msgid "{Kazushi}\n\"Me too. It's because we all worked at it together.\""
+msgid ""
+"{Kazushi}\n"
+"\"Me too. It's because we all worked at it together.\""
 msgstr ""
 
 #: 02701:55
-
-msgid "{Haruka}\n\"You're right. I'm just happy that everyone's finally getting along well.\""
+msgid ""
+"{Haruka}\n"
+"\"You're right. I'm just happy that everyone's finally getting along well.\""
 msgstr ""
 
 #: 02701:56
-
 msgid "Her smile had put smiles on everyone else's faces. However, it disappeared the very next moment."
 msgstr ""
 
 #: 02701:59
-
-msgid "{Haruka}\n\"I still don't understand why grandma did such a...\""
+msgid ""
+"{Haruka}\n"
+"\"I still don't understand why grandma did such a...\""
 msgstr ""
 
 #: 02701:60
-
 msgid "She was mumbling to herself as she looked down at the ground. I could barely hear her."
 msgstr ""
 
 #: 02701:61
-
-msgid "{Kazushi}\n\"You mean last night? What about your grandma?\""
+msgid ""
+"{Kazushi}\n"
+"\"You mean last night? What about your grandma?\""
 msgstr ""
 
 #: 02701:64
-
-msgid "{Haruka}\n\"It's nothing. I was just talking to myself.\""
+msgid ""
+"{Haruka}\n"
+"\"It's nothing. I was just talking to myself.\""
 msgstr ""
 
 #: 02701:65
-
 msgid "She's clearly dodging the issue. Haruka's never shown herself to be a good liar."
 msgstr ""
 
 #: 02701:66
-
-msgid "{Kazushi}\n\"If there's ever, ever anything troubling you, you know you can talk to me, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"If there's ever, ever anything troubling you, you know you can talk to me, right?\""
 msgstr ""
 
 #: 02701:67
-
-msgid "I didn't want to force her into talking...\nBut I truly wanted to be of help to her if she needed me."
+msgid ""
+"I didn't want to force her into talking...\n"
+"But I truly wanted to be of help to her if she needed me."
 msgstr ""
 
 #: 02701:70
-
 msgid "Haruka looked into my eyes."
 msgstr ""
 
 #: 02701:71
-
-msgid "{Haruka}\n\"Thanks.\nI'm OK now, but if I ever need your help I'll come and find you.\""
+msgid ""
+"{Haruka}\n"
+"\"Thanks.\n"
+"I'm OK now, but if I ever need your help I'll come and find you.\""
 msgstr ""
 
 #: 02701:72
-
-msgid "{Kazushi}\n\"You do that. I'll do everything I can for you.\""
+msgid ""
+"{Kazushi}\n"
+"\"You do that. I'll do everything I can for you.\""
 msgstr ""
 
 #: 02701:75
-
-msgid "{Haruka}\n\"You're making me blush.\""
+msgid ""
+"{Haruka}\n"
+"\"You're making me blush.\""
 msgstr ""
 
 #: 02701:76
-
 msgid "She's smiling again. Her smile makes me feel safe for some reason."
 msgstr ""
 
 #: 02701:77
-
-msgid "{Haruka}\n\"You do the same, OK, Kazushi-kun? I'll do everything I can to help you.\""
+msgid ""
+"{Haruka}\n"
+"\"You do the same, OK, Kazushi-kun? I'll do everything I can to help you.\""
 msgstr ""
 
 #: 02701:78
-
 msgid "Her pure smile touched my heart."
 msgstr ""
 
 #: 02701:79
-
-msgid "{Kazushi}\n\"You're going to protect me?\""
+msgid ""
+"{Kazushi}\n"
+"\"You're going to protect me?\""
 msgstr ""
 
 #: 02701:82
-
-msgid "{Haruka}\n\"Of course I will! Whenever you need me, I'll be there.\""
+msgid ""
+"{Haruka}\n"
+"\"Of course I will! Whenever you need me, I'll be there.\""
 msgstr ""
 
 #: 02701:83
-
 msgid "I felt a sense of commitment and dedication in her words..."
 msgstr ""
 
 #: 02701:84
-
 msgid "As if she knew something was going to happen......"
 msgstr ""
 
 #: 02701:87
-
-msgid "{Haruka}\n\"Summer break is just around the corner. We're gonna have so much fun!\""
+msgid ""
+"{Haruka}\n"
+"\"Summer break is just around the corner. We're gonna have so much fun!\""
 msgstr ""
 
 #: 02701:88
-
 msgid "She started smiling again."
 msgstr ""
 
 #: 02701:89
-
 msgid "I couldn't help but smile back at her."
 msgstr ""
 
 #: 02701:90
-
-msgid "{Kazushi}\n\"Yup! We're gonna rock till we drop!\""
+msgid ""
+"{Kazushi}\n"
+"\"Yup! We're gonna rock till we drop!\""
 msgstr ""
 
 #: 02701:91
-
-msgid "{Haruka}\n\"We will!\""
+msgid ""
+"{Haruka}\n"
+"\"We will!\""
 msgstr ""
 
 #: 02701:92
-
 msgid "I have a feeling this summer is going to be very different from my previous ones. I can't wait."
 msgstr ""
-

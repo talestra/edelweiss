@@ -8,61 +8,55 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 50385:7
-
 msgid "I couldn't just sit still, so I went outside."
 msgstr ""
 
 #: 50385:8
-
 msgid "Ever since this morning, I haven't been able to get sensei off my mind."
 msgstr ""
 
 #: 50385:9
-
 msgid "Her white naked body, her voluptuous breasts, her sweet breath, her slender fingers entwined in mine, and that smile of hers......"
 msgstr ""
 
 #: 50385:10
-
 msgid "That was all I could think about."
 msgstr ""
 
 #: 50385:11
-
-msgid "{Kazushi}\n\"This must be some kind of addiction.\""
+msgid ""
+"{Kazushi}\n"
+"\"This must be some kind of addiction.\""
 msgstr ""
 
 #: 50385:12
-
 msgid "Of course, I'd fallen in love with girls before. It was always one-sided, but there were many days I spent in agony thinking of someone else."
 msgstr ""
 
 #: 50385:13
-
 msgid "But this time the symptoms were serious. If I sat still, all I could think about was sensei, and it was frustrating."
 msgstr ""
 
 #: 50385:14
-
-msgid "{Kazushi}\n\"Is this true love? Was what I thought was love just a misunderstanding?\""
+msgid ""
+"{Kazushi}\n"
+"\"Is this true love? Was what I thought was love just a misunderstanding?\""
 msgstr ""
 
 #: 50385:15
-
 msgid "The more I wanted to think that, the more it seemed different from my previous loves."
 msgstr ""
 
 #: 50385:16
-
-msgid "{Kazushi}\n\"I told her I would teach her what love is, but I don't really know, myself.\""
+msgid ""
+"{Kazushi}\n"
+"\"I told her I would teach her what love is, but I don't really know, myself.\""
 msgstr ""
 
 #: 50385:17
-
 msgid "I was kind of happy about that. It meant there were many things I didn't know yet, and that I would be able to experience them together with sensei."
 msgstr ""
-

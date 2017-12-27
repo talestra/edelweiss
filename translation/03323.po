@@ -8,96 +8,102 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 03323:5
-
-msgid "{Kazushi}\n\"Sorry. I don't think I can help you.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sorry. I don't think I can help you.\""
 msgstr ""
 
 #: 03323:6
-
 msgid "I don't have the money, therefore I can't help her."
 msgstr ""
 
 #: 03323:12
-
-msgid "{Ran}\n\"You've nothing to be sorry about. I didn't think you had the money anyways.\""
+msgid ""
+"{Ran}\n"
+"\"You've nothing to be sorry about. I didn't think you had the money anyways.\""
 msgstr ""
 
 #: 03323:13
-
-msgid "{Kazushi}\n\"But you need it, right? Maybe I can help you in some other way......\""
+msgid ""
+"{Kazushi}\n"
+"\"But you need it, right? Maybe I can help you in some other way......\""
 msgstr ""
 
 #: 03323:16
-
-msgid "{Ran}\n\"I'll be fine. I'm not in trouble.\""
+msgid ""
+"{Ran}\n"
+"\"I'll be fine. I'm not in trouble.\""
 msgstr ""
 
 #: 03323:17
-
 msgid "Ran replied with a casual smile as she waved her hand. She didn't seem like she was in serious trouble."
 msgstr ""
 
 #: 03323:18
-
-msgid "{Kazushi}\n\"But you asked for money. Are you sure you're not having any sort of problems?\""
+msgid ""
+"{Kazushi}\n"
+"\"But you asked for money. Are you sure you're not having any sort of problems?\""
 msgstr ""
 
 #: 03323:21
-
-msgid "{Ran}\n\"Not at all. I just wanted to test you.\""
+msgid ""
+"{Ran}\n"
+"\"Not at all. I just wanted to test you.\""
 msgstr ""
 
 #: 03323:22
-
-msgid "{Kazushi}\n\"Why were you testing me?\""
+msgid ""
+"{Kazushi}\n"
+"\"Why were you testing me?\""
 msgstr ""
 
 #: 03323:23
-
-msgid "{Ran}\n\"Well, it's a long story.\nTo tell you the truth, I hate borrowing money. In fact, I've never even been a single yen in debt.\""
+msgid ""
+"{Ran}\n"
+"\"Well, it's a long story.\n"
+"To tell you the truth, I hate borrowing money. In fact, I've never even been a single yen in debt.\""
 msgstr ""
 
 #: 03323:24
-
-msgid "{Kazushi}\n\"What?\""
+msgid ""
+"{Kazushi}\n"
+"\"What?\""
 msgstr ""
 
 #: 03323:25
-
 msgid "Then why did she ask me to borrow money?"
 msgstr ""
 
 #: 03323:26
-
-msgid "It's a mystery.\nShe's been acting weird lately."
+msgid ""
+"It's a mystery.\n"
+"She's been acting weird lately."
 msgstr ""
 
 #: 03323:29
-
-msgid "{Ran}\n\"It feels good to openly be myself again. By the way, I'm getting hungry.\""
+msgid ""
+"{Ran}\n"
+"\"It feels good to openly be myself again. By the way, I'm getting hungry.\""
 msgstr ""
 
 #: 03323:30
-
 msgid "Ran returned to normal. It was more like her to have a steely smile than to be worried about something."
 msgstr ""
 
 #: 03323:31
-
 msgid "I still have no idea what this was all about."
 msgstr ""
 
 #: 03323:32
-
-msgid "{Kazushi}\n\"Oh well......\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh well......\""
 msgstr ""
 
 #: 03323:33
-
 msgid "At least I'm glad she's back to her usual self."
 msgstr ""
-

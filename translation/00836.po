@@ -8,771 +8,843 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 00836:7
-
 msgid "I think I'll pick Ran. She's easy to talk to."
 msgstr ""
 
 #: 00836:8
-
-msgid "{Kazushi}\n\"Will you be my partner, Ran?\""
+msgid ""
+"{Kazushi}\n"
+"\"Will you be my partner, Ran?\""
 msgstr ""
 
 #: 00836:11
-
-msgid "{Ran}\n\"Me? I don't mind, but you know I'm no good at alchemy, right?\""
+msgid ""
+"{Ran}\n"
+"\"Me? I don't mind, but you know I'm no good at alchemy, right?\""
 msgstr ""
 
 #: 00836:12
-
-msgid "{Kazushi}\n\"At least you know more about it than I do.\""
+msgid ""
+"{Kazushi}\n"
+"\"At least you know more about it than I do.\""
 msgstr ""
 
 #: 00836:15
-
-msgid "{Ran}\n\"I don't know about that.\nWhen I say I'm no good at something, I mean I'm REALLY no good at it.\""
+msgid ""
+"{Ran}\n"
+"\"I don't know about that.\n"
+"When I say I'm no good at something, I mean I'm REALLY no good at it.\""
 msgstr ""
 
 #: 00836:16
-
-msgid "{Kazushi}\n\"Don't worry.\nWe'll help out each other.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't worry.\n"
+"We'll help out each other.\""
 msgstr ""
 
 #: 00836:19
-
-msgid "{Ran}\n\"Well, if you're sure, then I can do it with you.\""
+msgid ""
+"{Ran}\n"
+"\"Well, if you're sure, then I can do it with you.\""
 msgstr ""
 
 #: 00836:23
-
-msgid "{Kazushi}\n\"So we start by putting all this in, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"So we start by putting all this in, right?\""
 msgstr ""
 
 #: 00836:25
-
 msgid "I went through the procedures just like last time. I poured the ingredients in and lit the burner. It was nothing."
 msgstr ""
 
 #: 00836:29
-
-msgid "{Ran}\n\"Oh, way to go. You're already better than me. You don't need me anymore.\""
+msgid ""
+"{Ran}\n"
+"\"Oh, way to go. You're already better than me. You don't need me anymore.\""
 msgstr ""
 
 #: 00836:30
-
-msgid "{Kazushi}\n\"I just put these things in and lit the fire.\""
+msgid ""
+"{Kazushi}\n"
+"\"I just put these things in and lit the fire.\""
 msgstr ""
 
 #: 00836:33
-
-msgid "{Ran}\n\"Don't be modest. You don't need me now, so wake me up later...\""
+msgid ""
+"{Ran}\n"
+"\"Don't be modest. You don't need me now, so wake me up later...\""
 msgstr ""
 
 #: 00836:34
-
-msgid "{Kazushi}\n\"Hey, don't go to sleep!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, don't go to sleep!\""
 msgstr ""
 
 #: 00836:36
-
 msgid "I can't believe she's trying to sleep in front of the principal."
 msgstr ""
 
 #: 00836:39
-
 msgid "For some reason the principal's smiling that evil smile of hers."
 msgstr ""
 
 #: 00836:40
-
 msgid "It's hard to work when you're being watched."
 msgstr ""
 
 #: 00836:44
-
-msgid "{Ran}\n\"So what do we do again?\""
+msgid ""
+"{Ran}\n"
+"\"So what do we do again?\""
 msgstr ""
 
 #: 00836:45
-
-msgid "{Kazushi}\n\"You've got absolutely no interest in any of this.\""
+msgid ""
+"{Kazushi}\n"
+"\"You've got absolutely no interest in any of this.\""
 msgstr ""
 
 #: 00836:46
-
-msgid "{Ran}\n\"No complaints now. Didn't I tell you that when you asked me to be your partner?\""
+msgid ""
+"{Ran}\n"
+"\"No complaints now. Didn't I tell you that when you asked me to be your partner?\""
 msgstr ""
 
 #: 00836:47
-
-msgid "{Kazushi}\n\"Didn't I say we'd help each other out?\""
+msgid ""
+"{Kazushi}\n"
+"\"Didn't I say we'd help each other out?\""
 msgstr ""
 
 #: 00836:50
-
-msgid "{Ran}\n\"I'll do the thinking, you do the doing.\""
+msgid ""
+"{Ran}\n"
+"\"I'll do the thinking, you do the doing.\""
 msgstr ""
 
 #: 00836:51
-
 msgid "This is a lone battle now."
 msgstr ""
 
 #: 00836:53
-
-msgid "{Kazushi}\n\"Next, I should adjust the flame...\""
+msgid ""
+"{Kazushi}\n"
+"\"Next, I should adjust the flame...\""
 msgstr ""
 
 #: 00836:55
-
 msgid "*sparkspark*"
 msgstr ""
 
 #: 00836:56
-
-msgid "{Kazushi}\n\"Hot!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hot!\""
 msgstr ""
 
 #: 00836:57
-
 msgid "I almost knocked over the burner."
 msgstr ""
 
 #: 00836:60
-
-msgid "{Ran}\n\"Be careful!\nGeez, you're so irresponsible.\""
+msgid ""
+"{Ran}\n"
+"\"Be careful!\n"
+"Geez, you're so irresponsible.\""
 msgstr ""
 
 #: 00836:61
-
-msgid "{Kazushi}\n\"So don't make me do it alone. Please help me out, Ran.\""
+msgid ""
+"{Kazushi}\n"
+"\"So don't make me do it alone. Please help me out, Ran.\""
 msgstr ""
 
 #: 00836:64
-
-msgid "{Ran}\n\"All right. I didn't think there was anyone more dangerous than I am.\""
+msgid ""
+"{Ran}\n"
+"\"All right. I didn't think there was anyone more dangerous than I am.\""
 msgstr ""
 
 #: 00836:65
-
 msgid "She finally agreed to help me out."
 msgstr ""
 
 #: 00836:68
-
-msgid "{Ran}\n\"Since I'm helping, let's go down with a bang.\""
+msgid ""
+"{Ran}\n"
+"\"Since I'm helping, let's go down with a bang.\""
 msgstr ""
 
 #: 00836:69
-
-msgid "{Kazushi}\n\"With a bang?\""
+msgid ""
+"{Kazushi}\n"
+"\"With a bang?\""
 msgstr ""
 
 #: 00836:72
-
-msgid "{Ran}\n\"Here, add this for me.\""
+msgid ""
+"{Ran}\n"
+"\"Here, add this for me.\""
 msgstr ""
 
 #: 00836:73
-
 msgid "Ran grabbed a bottle of some chemical and handed it to me. The label read: \"Danger. Do not add.\""
 msgstr ""
 
 #: 00836:74
-
-msgid "{Kazushi}\n\"Doesn't this say not to add it?\""
+msgid ""
+"{Kazushi}\n"
+"\"Doesn't this say not to add it?\""
 msgstr ""
 
 #: 00836:75
-
-msgid "{Ran}\n\"Who cares?\nThis kind of stuff should be done by following your guts!\""
+msgid ""
+"{Ran}\n"
+"\"Who cares?\n"
+"This kind of stuff should be done by following your guts!\""
 msgstr ""
 
 #: 00836:76
-
-msgid "{Kazushi}\n\"Are you sure? It's specifically saying not to add it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you sure? It's specifically saying not to add it.\""
 msgstr ""
 
 #: 00836:79
-
-msgid "{Ran}\n\"What do you do when the light's just about to turn? If you hesitate, you'll get hit either way. Hesitation is your worst enemy, so go!\""
+msgid ""
+"{Ran}\n"
+"\"What do you do when the light's just about to turn? If you hesitate, you'll get hit either way. Hesitation is your worst enemy, so go!\""
 msgstr ""
 
 #: 00836:80
-
-msgid "{Kazushi}\n\"I see. You have a point.\""
+msgid ""
+"{Kazushi}\n"
+"\"I see. You have a point.\""
 msgstr ""
 
 #: 00836:81
-
 msgid "I threw away my hesitation and dumped the bottle's contents into the flask."
 msgstr ""
 
 #: 00836:84
-
-msgid "{Ran}\n\"There you go, dump it in. The trick is decisiveness. If you hesitate, you won't succeed.\""
+msgid ""
+"{Ran}\n"
+"\"There you go, dump it in. The trick is decisiveness. If you hesitate, you won't succeed.\""
 msgstr ""
 
 #: 00836:85
-
-msgid "{Kazushi}\n\"All right.\""
+msgid ""
+"{Kazushi}\n"
+"\"All right.\""
 msgstr ""
 
 #: 00836:86
-
 msgid "Now that's alchemy. Your mental state can affect the outcome. Time for positive thinking."
 msgstr ""
 
 #: 00836:87
-
-msgid "{Kazushi}\n\"Alright, it's all in. Next?\""
+msgid ""
+"{Kazushi}\n"
+"\"Alright, it's all in. Next?\""
 msgstr ""
 
 #: 00836:90
-
-msgid "{Ran}\n\"The flame. Turn it up and fuse what we just poured in.\""
+msgid ""
+"{Ran}\n"
+"\"The flame. Turn it up and fuse what we just poured in.\""
 msgstr ""
 
 #: 00836:91
-
-msgid "{Kazushi}\n\"OK.\""
+msgid ""
+"{Kazushi}\n"
+"\"OK.\""
 msgstr ""
 
 #: 00836:92
-
 msgid "I turned up the heat. I kept my eyes on the flame as I adjusted it bit by bit."
 msgstr ""
 
 #: 00836:95
-
-msgid "{Ran}\n\"What are you doing?\nWhen I say turn up the heat, I mean TURN IT UP! I hate doing things halfway.\""
+msgid ""
+"{Ran}\n"
+"\"What are you doing?\n"
+"When I say turn up the heat, I mean TURN IT UP! I hate doing things halfway.\""
 msgstr ""
 
 #: 00836:96
-
-msgid "{Kazushi}\n\"Got it!\""
+msgid ""
+"{Kazushi}\n"
+"\"Got it!\""
 msgstr ""
 
 #: 00836:98
-
 msgid "I'm a man! So I flipped the fire up to a manly maximum. I could hear the flame roaring."
 msgstr ""
 
 #: 00836:101
-
-msgid "{Ran}\n\"Oh, that looks promising. I love things with force like this.\""
+msgid ""
+"{Ran}\n"
+"\"Oh, that looks promising. I love things with force like this.\""
 msgstr ""
 
 #: 00836:102
-
-msgid "{Kazushi}\n\"This is so like you, Ran.\nLet's burn it.\""
+msgid ""
+"{Kazushi}\n"
+"\"This is so like you, Ran.\n"
+"Let's burn it.\""
 msgstr ""
 
 #: 00836:103
-
-msgid "{Ran}\n\"Yes, we'll burn it!\""
+msgid ""
+"{Ran}\n"
+"\"Yes, we'll burn it!\""
 msgstr ""
 
 #: 00836:105
-
 msgid "With the burner going at full blast, the liquid inside the flask reached a hard boil."
 msgstr ""
 
 #: 00836:106
-
-msgid "{Kazushi}\n\"It's boiling well.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's boiling well.\""
 msgstr ""
 
 #: 00836:107
-
-msgid "{Ran}\n\"Yep.\""
+msgid ""
+"{Ran}\n"
+"\"Yep.\""
 msgstr ""
 
 #: 00836:108
-
-msgid "{Kazushi}\n\"What's next?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's next?\""
 msgstr ""
 
 #: 00836:111
-
-msgid "{Ran}\n\"There's nothing else for us to do.\""
+msgid ""
+"{Ran}\n"
+"\"There's nothing else for us to do.\""
 msgstr ""
 
 #: 00836:112
-
-msgid "{Kazushi}\n\"Just watch it? That's it?\""
+msgid ""
+"{Kazushi}\n"
+"\"Just watch it? That's it?\""
 msgstr ""
 
 #: 00836:113
-
-msgid "{Ran}\n\"That's right. Just watch it.\""
+msgid ""
+"{Ran}\n"
+"\"That's right. Just watch it.\""
 msgstr ""
 
 #: 00836:117
-
-msgid "{Mei}\n\"Stop right there, you guys!\""
+msgid ""
+"{Mei}\n"
+"\"Stop right there, you guys!\""
 msgstr ""
 
 #: 00836:118
-
 msgid "When we turned around, we saw Mei-sensei standing behind us with both hands on her hips."
 msgstr ""
 
 #: 00836:123
-
-msgid "{Mei}\n\"What are you two doing? You're not done yet!\""
+msgid ""
+"{Mei}\n"
+"\"What are you two doing? You're not done yet!\""
 msgstr ""
 
 #: 00836:124
-
-msgid "{Ran}\n\"What else is there to do?\""
+msgid ""
+"{Ran}\n"
+"\"What else is there to do?\""
 msgstr ""
 
 #: 00836:127
-
-msgid "{Mei}\n\"I always tell you that adjusting the heat is the most important part of alchemy. So why are you turning it all the way up and 'just watching'?\""
+msgid ""
+"{Mei}\n"
+"\"I always tell you that adjusting the heat is the most important part of alchemy. So why are you turning it all the way up and 'just watching'?\""
 msgstr ""
 
 #: 00836:130
-
-msgid "{Ran}\n\"Sorry, that's too much work.\""
+msgid ""
+"{Ran}\n"
+"\"Sorry, that's too much work.\""
 msgstr ""
 
 #: 00836:131
-
-msgid "{Kazushi}\n\"So there was more to do.\""
+msgid ""
+"{Kazushi}\n"
+"\"So there was more to do.\""
 msgstr ""
 
 #: 00836:132
-
 msgid "Though I'm not surprised that was her reason. However, this wasn't the way to do it."
 msgstr ""
 
 #: 00836:135
-
-msgid "{Mei}\n\"Too much work? Ran, you know better than that.\""
+msgid ""
+"{Mei}\n"
+"\"Too much work? Ran, you know better than that.\""
 msgstr ""
 
 #: 00836:138
-
-msgid "{Ran}\n\"My personality isn't suited to this kind of precision work. I'm better at loud and flashy stuff.\""
+msgid ""
+"{Ran}\n"
+"\"My personality isn't suited to this kind of precision work. I'm better at loud and flashy stuff.\""
 msgstr ""
 
 #: 00836:141
-
-msgid "{Mei}\n\"And that's why you always fail. You could do it if you just tried properly.\""
+msgid ""
+"{Mei}\n"
+"\"And that's why you always fail. You could do it if you just tried properly.\""
 msgstr ""
 
 #: 00836:142
-
 msgid "Mei-sensei was making some pretty harsh comments towards Ran. She sounded like she was scolding a stubborn child."
 msgstr ""
 
 #: 00836:143
-
-msgid "{Ran}\n\"Oh yeah? But I don't smell any money coming out of this experiment.\""
+msgid ""
+"{Ran}\n"
+"\"Oh yeah? But I don't smell any money coming out of this experiment.\""
 msgstr ""
 
 #: 00836:144
-
 msgid "She was like a dog following the scent of money."
 msgstr ""
 
 #: 00836:147
-
-msgid "{Ran}\n\"You said it can turn lead into gold, but I've never seen it once. Can you even do it?\""
+msgid ""
+"{Ran}\n"
+"\"You said it can turn lead into gold, but I've never seen it once. Can you even do it?\""
 msgstr ""
 
 #: 00836:150
-
-msgid "{Mei}\n\"It's not as easy as you're hoping.\nThat's one of the hardest techniques in alchemy.\""
+msgid ""
+"{Mei}\n"
+"\"It's not as easy as you're hoping.\n"
+"That's one of the hardest techniques in alchemy.\""
 msgstr ""
 
 #: 00836:151
-
-msgid "{Ran}\n\"I don't care about any other techniques. I only want to learn that one.\""
+msgid ""
+"{Ran}\n"
+"\"I don't care about any other techniques. I only want to learn that one.\""
 msgstr ""
 
 #: 00836:154
-
-msgid "{Mei}\n\"If you don't start from the basics and take them seriously, you'll never be able to do anything. Please, do it right.\""
+msgid ""
+"{Mei}\n"
+"\"If you don't start from the basics and take them seriously, you'll never be able to do anything. Please, do it right.\""
 msgstr ""
 
 #: 00836:155
-
 msgid "Mei-sensei was begging Ran to study alchemy harder."
 msgstr ""
 
 #: 00836:158
-
-msgid "{Ran}\n\"Well, if you're going that far, Mei-chan, I guess I'll do what I can.\""
+msgid ""
+"{Ran}\n"
+"\"Well, if you're going that far, Mei-chan, I guess I'll do what I can.\""
 msgstr ""
 
 #: 00836:159
-
-msgid "{Kazushi}\n\"Aren't we full of ourselves...\""
+msgid ""
+"{Kazushi}\n"
+"\"Aren't we full of ourselves...\""
 msgstr ""
 
 #: 00836:160
-
-msgid "{Mei}\n\"Please, Ran.\""
+msgid ""
+"{Mei}\n"
+"\"Please, Ran.\""
 msgstr ""
 
 #: 00836:162
-
 msgid "Mei-sensei made one last plea and left."
 msgstr ""
 
 #: 00836:165
-
-msgid "{Ran}\n\"So now to adjust the heat. Hmm.\""
+msgid ""
+"{Ran}\n"
+"\"So now to adjust the heat. Hmm.\""
 msgstr ""
 
 #: 00836:166
-
 msgid "Ran crossed her arms in thought as she watched the fire burn. This was going nowhere."
 msgstr ""
 
 #: 00836:167
-
-msgid "{Kazushi}\n\"Let me take care of adjusting the heat.\nYou just tell me when, OK?\""
+msgid ""
+"{Kazushi}\n"
+"\"Let me take care of adjusting the heat.\n"
+"You just tell me when, OK?\""
 msgstr ""
 
 #: 00836:170
-
-msgid "{Ran}\n\"Alright. The right person for the right job. Oh, and if we happen to get money, it's an even split.\""
+msgid ""
+"{Ran}\n"
+"\"Alright. The right person for the right job. Oh, and if we happen to get money, it's an even split.\""
 msgstr ""
 
 #: 00836:171
-
 msgid "But adjusting the heat, huh? That seemed to be the key point, and I didn't have a clue what to do."
 msgstr ""
 
 #: 00836:173
-
-msgid "{Kazushi}\n\"Mei-sensei...\""
+msgid ""
+"{Kazushi}\n"
+"\"Mei-sensei...\""
 msgstr ""
 
 #: 00836:176
-
-msgid "{Mei}\n\"Hold on!\nThat part should be......\""
+msgid ""
+"{Mei}\n"
+"\"Hold on!\n"
+"That part should be......\""
 msgstr ""
 
 #: 00836:177
-
 msgid "She's busy helping other groups."
 msgstr ""
 
 #: 00836:181
-
-msgid "{Principal}\n\"Turn the fire down a little bit.\""
+msgid ""
+"{Principal}\n"
+"\"Turn the fire down a little bit.\""
 msgstr ""
 
 #: 00836:182
-
-msgid "{Kazushi}\n\"Yes, ma'am.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes, ma'am.\""
 msgstr ""
 
 #: 00836:186
-
 msgid "I was surprised. The principal came over and gave us some help. I quickly did as she said."
 msgstr ""
 
 #: 00836:187
-
 msgid "The principal rarely ever talked, so I was shocked and hesitated. I'm really not comfortable around her."
 msgstr ""
 
 #: 00836:188
-
-msgid "{Principal}\n\"Yes, that should do it. Now relax. Your mental state can affect the result.\""
+msgid ""
+"{Principal}\n"
+"\"Yes, that should do it. Now relax. Your mental state can affect the result.\""
 msgstr ""
 
 #: 00836:189
-
-msgid "{Kazushi}\n\"Mental state? You mean my feelings change it?\""
+msgid ""
+"{Kazushi}\n"
+"\"Mental state? You mean my feelings change it?\""
 msgstr ""
 
 #: 00836:192
-
-msgid "{Principal}\n\"That's one way of putting it.\""
+msgid ""
+"{Principal}\n"
+"\"That's one way of putting it.\""
 msgstr ""
 
 #: 00836:193
-
 msgid "My feelings will change the results of the experiment? I thought alchemy was like chemistry, but that's suspicious."
 msgstr ""
 
 #: 00836:198
-
-msgid "{Ran}\n(Are you two pretty close?)"
+msgid ""
+"{Ran}\n"
+"(Are you two pretty close?)"
 msgstr ""
 
 #: 00836:199
-
 msgid "Ran whispered to me."
 msgstr ""
 
 #: 00836:200
-
-msgid "{Kazushi}\n(Not at all.)"
+msgid ""
+"{Kazushi}\n"
+"(Not at all.)"
 msgstr ""
 
 #: 00836:203
-
-msgid "{Ran}\n(Then why's she helping you out? I've never seen her give anyone hints before.)"
+msgid ""
+"{Ran}\n"
+"(Then why's she helping you out? I've never seen her give anyone hints before.)"
 msgstr ""
 
 #: 00836:204
-
-msgid "{Kazushi}\n(Oh yeah?)"
+msgid ""
+"{Kazushi}\n"
+"(Oh yeah?)"
 msgstr ""
 
 #: 00836:205
-
 msgid "But I didn't know why. Maybe she's nice to guys?"
 msgstr ""
 
 #: 00836:206
-
-msgid "{Kazushi}\n(Oh, that's it. Maybe she likes young boys.)"
+msgid ""
+"{Kazushi}\n"
+"(Oh, that's it. Maybe she likes young boys.)"
 msgstr ""
 
 #: 00836:209
-
-msgid "{Ran}\n(Huh? At her age?)"
+msgid ""
+"{Ran}\n"
+"(Huh? At her age?)"
 msgstr ""
 
 #: 00836:210
-
 msgid "That can't be. She's Haruka's grandma."
 msgstr ""
 
 #: 00836:214
-
-msgid "{Principal}\n\"Look, it's begun to dissolve.\""
+msgid ""
+"{Principal}\n"
+"\"Look, it's begun to dissolve.\""
 msgstr ""
 
 #: 00836:215
-
 msgid "The items in the flask began to melt and the color began to change. All the colors melted into a solid black."
 msgstr ""
 
 #: 00836:220
-
-msgid "{Ran}\n\"Kazushi! Turn down the heat!\""
+msgid ""
+"{Ran}\n"
+"\"Kazushi! Turn down the heat!\""
 msgstr ""
 
 #: 00836:221
-
 msgid "Ran gave me an order instead of doing it herself."
 msgstr ""
 
 #: 00836:222
-
-msgid "{Kazushi}\n\"I know, I know......\""
+msgid ""
+"{Kazushi}\n"
+"\"I know, I know......\""
 msgstr ""
 
 #: 00836:223
-
 msgid "Adjust the flame. Ran was getting anxious over the slight adjustments, but I ignored her in front of the principal."
 msgstr ""
 
 #: 00836:224
-
-msgid "{Kazushi}\n\"This reminds me of cooking rice over a campfire.\""
+msgid ""
+"{Kazushi}\n"
+"\"This reminds me of cooking rice over a campfire.\""
 msgstr ""
 
 #: 00836:227
-
-msgid "{Principal}\n\"Hu hu, yes. That's a good comparison. You boys' ideas are quite unique.\""
+msgid ""
+"{Principal}\n"
+"\"Hu hu, yes. That's a good comparison. You boys' ideas are quite unique.\""
 msgstr ""
 
 #: 00836:228
-
 msgid "She smiled and nodded. Did I just get praised?"
 msgstr ""
 
 #: 00836:229
-
-msgid "{Ran}\n\"Hey, it's turning white now!!\""
+msgid ""
+"{Ran}\n"
+"\"Hey, it's turning white now!!\""
 msgstr ""
 
 #: 00836:230
-
 msgid "Ran was growing loud and excited."
 msgstr ""
 
 #: 00836:231
-
-msgid "{Kazushi}\n\"Is it that amazing?\""
+msgid ""
+"{Kazushi}\n"
+"\"Is it that amazing?\""
 msgstr ""
 
 #: 00836:232
-
-msgid "{Ran}\n\"I've never gotten this far before!\""
+msgid ""
+"{Ran}\n"
+"\"I've never gotten this far before!\""
 msgstr ""
 
 #: 00836:233
-
-msgid "{Kazushi}\n\"You haven't?\""
+msgid ""
+"{Kazushi}\n"
+"\"You haven't?\""
 msgstr ""
 
 #: 00836:234
-
 msgid "Ran always failed beforehand. We had managed to get it to turn white once already. She must be really crap at this."
 msgstr ""
 
 #: 00836:237
-
-msgid "{Ran}\n\"We might be just fine!\nWhat if it turns out to be money!\""
+msgid ""
+"{Ran}\n"
+"\"We might be just fine!\n"
+"What if it turns out to be money!\""
 msgstr ""
 
 #: 00836:238
-
-msgid "{Kazushi}\n\"Money? Seriously?\""
+msgid ""
+"{Kazushi}\n"
+"\"Money? Seriously?\""
 msgstr ""
 
 #: 00836:239
-
 msgid "I looked at the principal. She still wore a peaceful smile."
 msgstr ""
 
 #: 00836:240
-
-msgid "{Principal}\n\"We'll find out soon enough.\""
+msgid ""
+"{Principal}\n"
+"\"We'll find out soon enough.\""
 msgstr ""
 
 #: 00836:243
-
-msgid "{Ran}\n\"I've got a good feeling about this!\nI think you and I may have great chemistry.\""
+msgid ""
+"{Ran}\n"
+"\"I've got a good feeling about this!\n"
+"I think you and I may have great chemistry.\""
 msgstr ""
 
 #: 00836:244
-
-msgid "{Kazushi}\n\"Does our chemistry even matter?\""
+msgid ""
+"{Kazushi}\n"
+"\"Does our chemistry even matter?\""
 msgstr ""
 
 #: 00836:247
-
-msgid "{Principal}\n\"Yes it does. The ingredients chosen, the pair who performs it, and even the instruments used have good or bad compatibility with each other.\""
+msgid ""
+"{Principal}\n"
+"\"Yes it does. The ingredients chosen, the pair who performs it, and even the instruments used have good or bad compatibility with each other.\""
 msgstr ""
 
 #: 00836:248
-
-msgid "{Kazushi}\n\"Everything?\""
+msgid ""
+"{Kazushi}\n"
+"\"Everything?\""
 msgstr ""
 
 #: 00836:249
-
 msgid "That means that even if we all used the same materials and techniques, we could still get different outcomes. No wonder it's so difficult."
 msgstr ""
 
 #: 00836:253
-
-msgid "{Ran}\n\"R! R! R!\""
+msgid ""
+"{Ran}\n"
+"\"R! R! R!\""
 msgstr ""
 
 #: 00836:254
-
 msgid "Ran raised her voice."
 msgstr ""
 
 #: 00836:255
-
-msgid "{Ran}\n\"R-re-red! It's turning red!\""
+msgid ""
+"{Ran}\n"
+"\"R-re-red! It's turning red!\""
 msgstr ""
 
 #: 00836:256
-
 msgid "This was my first time seeing Ran get so excited."
 msgstr ""
 
 #: 00836:259
-
-msgid "{Ran}\n\"What's it going to be?! Money?! E-even split, remember!\""
+msgid ""
+"{Ran}\n"
+"\"What's it going to be?! Money?! E-even split, remember!\""
 msgstr ""
 
 #: 00836:260
-
-msgid "{Kazushi}\n\"We don't know what it's going to be yet.\""
+msgid ""
+"{Kazushi}\n"
+"\"We don't know what it's going to be yet.\""
 msgstr ""
 
 #: 00836:265
-
-msgid "{Principal}\n\"Watch the temperature.\""
+msgid ""
+"{Principal}\n"
+"\"Watch the temperature.\""
 msgstr ""
 
 #: 00836:266
-
-msgid "{Ran}\n\"That's right!!\""
+msgid ""
+"{Ran}\n"
+"\"That's right!!\""
 msgstr ""
 
 #: 00836:267
-
 msgid "Ran was so excited that decided to do it herself instead of leaving it to me."
 msgstr ""
 
 #: 00836:268
-
 msgid "And......"
 msgstr ""
 
 #: 00836:272
-
-msgid "{Ran}\n\"Oops...\""
+msgid ""
+"{Ran}\n"
+"\"Oops...\""
 msgstr ""
 
 #: 00836:275
-
 msgid "*Crash*"
 msgstr ""
 
 #: 00836:276
-
 msgid "Ran knocked the burner over."
 msgstr ""
 
 #: 00836:279
-
-msgid "{Ran}\n\"No!!!\""
+msgid ""
+"{Ran}\n"
+"\"No!!!\""
 msgstr ""
 
 #: 00836:280
-
 msgid "The flash shattered, and the liquid spilled out. It all evaporated in no time."
 msgstr ""
 
 #: 00836:283
-
-msgid "{Ran}\n\"My money......\""
+msgid ""
+"{Ran}\n"
+"\"My money......\""
 msgstr ""
 
 #: 00836:284
-
-msgid "{Kazushi}\n\"This is not so cool.\""
+msgid ""
+"{Kazushi}\n"
+"\"This is not so cool.\""
 msgstr ""
 
 #: 00836:289
-
-msgid "{Mei}\n\"Kamoike-san, you just can't calm down. If you had remained calm, you would have gotten it.\""
+msgid ""
+"{Mei}\n"
+"\"Kamoike-san, you just can't calm down. If you had remained calm, you would have gotten it.\""
 msgstr ""
 
 #: 00836:290
-
-msgid "{Ran}\n\"I can't help it.\nThis is my personality.\""
+msgid ""
+"{Ran}\n"
+"\"I can't help it.\n"
+"This is my personality.\""
 msgstr ""
 
 #: 00836:291
-
-msgid "{Kazushi}\n\"You really need to be patient, Ran.\""
+msgid ""
+"{Kazushi}\n"
+"\"You really need to be patient, Ran.\""
 msgstr ""
 
 #: 00836:292
-
 msgid "If patience can be considered a talent, then I can see why Ran has no talent for alchemy."
 msgstr ""
-

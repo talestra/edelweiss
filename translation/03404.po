@@ -8,156 +8,164 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 03404:7
-
-msgid "{Kazushi}\n *YAWN*"
+msgid ""
+"{Kazushi}\n"
+" *YAWN*"
 msgstr ""
 
 #: 03404:8
-
 msgid "That was a big yawn. It even made me cry."
 msgstr ""
 
 #: 03404:9
-
-msgid "{Kazushi}\n\"I wonder why I'm wide awake at night and can barely keep my eyes open during the day.\""
+msgid ""
+"{Kazushi}\n"
+"\"I wonder why I'm wide awake at night and can barely keep my eyes open during the day.\""
 msgstr ""
 
 #: 03404:10
-
 msgid "I became effectively nocturnal after summer break started."
 msgstr ""
 
 #: 03404:11
-
 msgid "We all partied until morning last night, but now everyone was asleep while I was left awake."
 msgstr ""
 
 #: 03404:12
-
-msgid "{Kazushi}\n\"Well, I'm full now. Maybe I should try getting some sleep.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, I'm full now. Maybe I should try getting some sleep.\""
 msgstr ""
 
 #: 03404:13
-
 msgid "I have to be careful not to sleep too much."
 msgstr ""
 
 #: 03404:14
-
 msgid "If I nap for too long, I won't be able to sleep again at night."
 msgstr ""
 
 #: 03404:17
-
-msgid "{Kazushi}\n\"Hmm?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hmm?\""
 msgstr ""
 
 #: 03404:18
-
 msgid "I heard someone's footsteps running towards me. It sounded like there was trouble, so I sat up."
 msgstr ""
 
 #: 03404:24
-
-msgid "{Sakura}\n\"Oh! Harucchi!\""
+msgid ""
+"{Sakura}\n"
+"\"Oh! Harucchi!\""
 msgstr ""
 
 #: 03404:25
-
-msgid "{Mizuki}\n\"Have you seen Natsume-chan around here?\""
+msgid ""
+"{Mizuki}\n"
+"\"Have you seen Natsume-chan around here?\""
 msgstr ""
 
 #: 03404:26
-
 msgid "It was Mizuki and Sakura. They seemed to be in a hurry."
 msgstr ""
 
 #: 03404:27
-
-msgid "{Kazushi}\n\"No.\nHas she run away somewhere?\""
+msgid ""
+"{Kazushi}\n"
+"\"No.\n"
+"Has she run away somewhere?\""
 msgstr ""
 
 #: 03404:30
-
-msgid "{Mizuki}\n\"It's because Sakura forced herself on her.\""
+msgid ""
+"{Mizuki}\n"
+"\"It's because Sakura forced herself on her.\""
 msgstr ""
 
 #: 03404:33
-
-msgid "{Sakura}\n\"She was so cute. I couldn't help it.\""
+msgid ""
+"{Sakura}\n"
+"\"She was so cute. I couldn't help it.\""
 msgstr ""
 
 #: 03404:36
-
-msgid "{Mizuki}\n\"I know, but......\""
+msgid ""
+"{Mizuki}\n"
+"\"I know, but......\""
 msgstr ""
 
 #: 03404:37
-
 msgid "Sakura had hearts for eyes, and I wondered what the problem was. Either way, it didn't seem like it was serious."
 msgstr ""
 
 #: 03404:38
-
-msgid "{Kazushi}\n\"So, what did you do to her this time?\""
+msgid ""
+"{Kazushi}\n"
+"\"So, what did you do to her this time?\""
 msgstr ""
 
 #: 03404:41
-
-msgid "{Sakura}\n\"You make it sound like I'm a bad girl. I didn't do anything wrong. I just tried to make her wear some pretty clothes.\""
+msgid ""
+"{Sakura}\n"
+"\"You make it sound like I'm a bad girl. I didn't do anything wrong. I just tried to make her wear some pretty clothes.\""
 msgstr ""
 
 #: 03404:42
-
-msgid "{Kazushi}\n\"You used her as a dress-up doll?\""
+msgid ""
+"{Kazushi}\n"
+"\"You used her as a dress-up doll?\""
 msgstr ""
 
 #: 03404:45
-
-msgid "{Mizuki}\n\"Anyways, if you see Natsume-chan, grab a hold of her for us, will you?\""
+msgid ""
+"{Mizuki}\n"
+"\"Anyways, if you see Natsume-chan, grab a hold of her for us, will you?\""
 msgstr ""
 
 #: 03404:46
-
-msgid "{Kazushi}\n\"Got it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Got it.\""
 msgstr ""
 
 #: 03404:47
-
-msgid "{Mizuki}\n\"Let's try this way.\""
+msgid ""
+"{Mizuki}\n"
+"\"Let's try this way.\""
 msgstr ""
 
 #: 03404:50
-
-msgid "{Sakura}\n\"We need to find her soon or there'll be trouble. If she wanders around and runs into some pervert in that outfit, she'll be in danger.\""
+msgid ""
+"{Sakura}\n"
+"\"We need to find her soon or there'll be trouble. If she wanders around and runs into some pervert in that outfit, she'll be in danger.\""
 msgstr ""
 
 #: 03404:55
-
 msgid "They left in a hurry."
 msgstr ""
 
 #: 03404:56
-
-msgid "{Kazushi}\n\"What was that all about?\""
+msgid ""
+"{Kazushi}\n"
+"\"What was that all about?\""
 msgstr ""
 
 #: 03404:57
-
 msgid "I wonder what they did to her."
 msgstr ""
 
 #: 03404:58
-
-msgid "{Kazushi}\n\"Well......\""
+msgid ""
+"{Kazushi}\n"
+"\"Well......\""
 msgstr ""
 
 #: 03404:59
-
 msgid "I wasn't doing much of anything anyways. Maybe I should help."
 msgstr ""
-

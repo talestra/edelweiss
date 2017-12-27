@@ -1,6 +1,7 @@
 package com.talestra.edelweiss
 
 import com.soywiz.korio.error.invalidOp
+import com.soywiz.korio.util.hex
 
 
 object BssTranslation {
@@ -200,6 +201,12 @@ object BssTranslation {
 
     fun generateFullMessage(title: String?, text: String) = if (title != null && title != "") "{$title}\n$text" else text
 
+    fun reshapeString(original: String, target: String): String {
+        val leadingSpaces = Regex("^\\s*").find(original)
+        val trailingSpaces = Regex("\\s*\$").find(original)
+        return "${leadingSpaces!!.value}$target${trailingSpaces!!.value}"
+    }
+
     fun translate2(scriptOps: List<BSS.OP>, translator: (id: Int, full: String, title: String?, text: String) -> String): List<BSS.OP> {
         val lout = ArrayList(scriptOps)
         val stack = arrayListOf<Ref<BSS.OP>>()
@@ -214,32 +221,44 @@ object BssTranslation {
                 BSS.Opcodes.PUSH_PTR -> stack.add(lout.ref(opIndex))
                 BSS.Opcodes.PUSH_STR -> stack.add(lout.ref(opIndex))
                 BSS.Opcodes.TEXT_PUT -> {
-                    val pushText = stack[stack.size - 1]
                     val pushTitle = stack[stack.size - 2]
+                    val pushBody = stack[stack.size - 1]
 
-                    val titleStr = pushTitle.value.str(0)
-                    val textStr = pushText.value.str(0)?.trim() ?: invalidOp("${pushTitle.value} :: $stack")
+                    val strTitle = pushTitle.value.str(0)
+                    val strBody = pushBody.value.str(0) ?: invalidOp("${pushTitle.value} :: $stack")
 
-                    val msg = generateFullMessage(titleStr, textStr)
-                    val tmsg = translator(scriptLine, msg, titleStr, textStr)
+                    val msg = generateFullMessage(strTitle, strBody)
+                    val tmsg = translator(scriptLine, msg, strTitle, strBody)
                     val title: String
                     val body: String
 
-                    if (titleStr != null && titleStr.isNotBlank()) {
+                    if (strTitle != null && strTitle.isNotBlank()) {
                         val parts = tmsg.split('\n', limit = 2)
-                        if (parts.size != 2) invalidOp("Parts(${parts.size}): ${parts} : '$titleStr', '$textStr'")
+                        if (parts.size != 2) invalidOp("Parts(${parts.size}): ${parts} : '$strTitle', '$strBody'")
                         val (titleEnc, body2) = parts
                         title = titleEnc.replace("{", "").replace("}", "")
                         body = body2
                     } else {
-                        title = ""
+                        title = " "
                         body = tmsg
                     }
 
-                    if (titleStr != null && titleStr.isNotBlank()) {
-                        pushTitle.value = pushTitle.value.copy(args = arrayListOf(title))
+                    if (strTitle == null) {
+                        //println("'$strTitle' -> '$title' : $pushTitle :: $stack")
                     }
-                    pushText.value = pushText.value.copy(args = arrayListOf(body))
+                    //println("'$strBody' -> '$body'")
+                    if (strTitle != null && strTitle.isNotBlank()) {
+                        val rtitle = reshapeString(strTitle, title)
+
+                        //if (strTitle != rtitle) {
+                        //    println("'$strTitle' -> '$rtitle'")
+                        //    println("'${strTitle.toByteArray().hex}' -> '${rtitle.toByteArray().hex}'")
+                        //}
+                        //println("${pushTitle.value}")
+                        pushTitle.value = pushTitle.value.copy(args = arrayListOf(rtitle))
+                        //println(" --> ${pushTitle.value}")
+                    }
+                    pushBody.value = pushBody.value.copy(args = arrayListOf(body))
                     //println("$title -- $body")
                     stack.clear()
                 }

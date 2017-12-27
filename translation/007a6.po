@@ -8,656 +8,707 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 007a6:8
-
 msgid "If I was with Haruka, I bet the time would fly right by."
 msgstr ""
 
 #: 007a6:9
-
-msgid "{Kazushi}\n\"I wonder where she is?\""
+msgid ""
+"{Kazushi}\n"
+"\"I wonder where she is?\""
 msgstr ""
 
 #: 007a6:10
-
 msgid "I looked around the campus, and found her talking to the principal."
 msgstr ""
 
 #: 007a6:11
-
-msgid "{Kazushi}\n\"She's with the principal. I shouldn't bother them.\""
+msgid ""
+"{Kazushi}\n"
+"\"She's with the principal. I shouldn't bother them.\""
 msgstr ""
 
 #: 007a6:12
-
 msgid "But then she saw me."
 msgstr ""
 
 #: 007a6:17
-
-msgid "{Haruka}\n\"Ah!\""
+msgid ""
+"{Haruka}\n"
+"\"Ah!\""
 msgstr ""
 
 #: 007a6:18
-
 msgid "We made eye contact."
 msgstr ""
 
 #: 007a6:21
-
-msgid "{Haruka}\n\"Hey, Kazushi-kun!\""
+msgid ""
+"{Haruka}\n"
+"\"Hey, Kazushi-kun!\""
 msgstr ""
 
 #: 007a6:22
-
 msgid "She started jumping up and down and waving at me. She's always energetic."
 msgstr ""
 
 #: 007a6:23
-
 msgid "She gave me a big smile as I waved back at her."
 msgstr ""
 
 #: 007a6:26
-
-msgid "{Principal}\n\"Oh, is he your friend?\""
+msgid ""
+"{Principal}\n"
+"\"Oh, is he your friend?\""
 msgstr ""
 
 #: 007a6:29
-
-msgid "{Haruka}\n\"Yes, he is. See...\""
+msgid ""
+"{Haruka}\n"
+"\"Yes, he is. See...\""
 msgstr ""
 
 #: 007a6:32
-
 msgid "Haruka whispered something to the principal."
 msgstr ""
 
 #: 007a6:33
-
-msgid "{Kazushi}\n\"Hi......\""
+msgid ""
+"{Kazushi}\n"
+"\"Hi......\""
 msgstr ""
 
 #: 007a6:36
-
 msgid "I knew she wasn't able to hear me, but I bowed to her anyways. The principal put on an elegant smile, said something to Haruka, and urged her towards me."
 msgstr ""
 
 #: 007a6:39
-
 msgid "Haruka made her way through the crowd towards me."
 msgstr ""
 
 #: 007a6:42
-
-msgid "{Haruka}\n\"Hah, I finally made it. There're so many people here!\""
+msgid ""
+"{Haruka}\n"
+"\"Hah, I finally made it. There're so many people here!\""
 msgstr ""
 
 #: 007a6:43
-
-msgid "{Kazushi}\n\"Is it OK to leave her alone?\""
+msgid ""
+"{Kazushi}\n"
+"\"Is it OK to leave her alone?\""
 msgstr ""
 
 #: 007a6:44
-
-msgid "{Haruka}\n\"Yes, she'll be fine. She told me to come join you.\""
+msgid ""
+"{Haruka}\n"
+"\"Yes, she'll be fine. She told me to come join you.\""
 msgstr ""
 
 #: 007a6:45
-
-msgid "{Kazushi}\n\"Really?\nThe Principal did?\""
+msgid ""
+"{Kazushi}\n"
+"\"Really?\n"
+"The Principal did?\""
 msgstr ""
 
 #: 007a6:48
-
-msgid "{Haruka}\n\"I think my grandma likes you.\""
+msgid ""
+"{Haruka}\n"
+"\"I think my grandma likes you.\""
 msgstr ""
 
 #: 007a6:49
-
-msgid "{Kazushi}\n\"Huh? How could she?\nI've hardly ever spoken to her. She shouldn't even know me.\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? How could she?\n"
+"I've hardly ever spoken to her. She shouldn't even know me.\""
 msgstr ""
 
 #: 007a6:52
-
-msgid "{Haruka}\n\"Doesn't seem that way. Grandma sure remembers you from something.\""
+msgid ""
+"{Haruka}\n"
+"\"Doesn't seem that way. Grandma sure remembers you from something.\""
 msgstr ""
 
 #: 007a6:53
-
-msgid "{Kazushi}\n\"Seriously? So she's already keeping an eye on me, huh? ......Wait a minute?\""
+msgid ""
+"{Kazushi}\n"
+"\"Seriously? So she's already keeping an eye on me, huh? ......Wait a minute?\""
 msgstr ""
 
 #: 007a6:54
-
 msgid "Haruka is calling her \"grandma\" in front of me."
 msgstr ""
 
 #: 007a6:55
-
-msgid "{Kazushi}\n\"So she's 'grandma' today?\""
+msgid ""
+"{Kazushi}\n"
+"\"So she's 'grandma' today?\""
 msgstr ""
 
 #: 007a6:58
-
-msgid "{Haruka}\n\"Oh, did I say 'grandma'?\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, did I say 'grandma'?\""
 msgstr ""
 
 #: 007a6:59
-
-msgid "{Kazushi}\n\"You didn't notice?\""
+msgid ""
+"{Kazushi}\n"
+"\"You didn't notice?\""
 msgstr ""
 
 #: 007a6:62
-
-msgid "{Haruka}\n\"She gets mad at me if I don't call her 'Principal' at school. I try my best to be careful, but this mouth of mine...\""
+msgid ""
+"{Haruka}\n"
+"\"She gets mad at me if I don't call her 'Principal' at school. I try my best to be careful, but this mouth of mine...\""
 msgstr ""
 
 #: 007a6:63
-
 msgid "She pinched her lips. I guess Haruka calls the principal 'grandma' outside of school."
 msgstr ""
 
 #: 007a6:64
-
 msgid "I'm sure it's only natural for them, but the idea seemed charming to me."
 msgstr ""
 
 #: 007a6:65
-
-msgid "{Kazushi}\n\"I bet you can get away with it today. It is a party, and we do have alcohol.\""
+msgid ""
+"{Kazushi}\n"
+"\"I bet you can get away with it today. It is a party, and we do have alcohol.\""
 msgstr ""
 
 #: 007a6:68
-
-msgid "{Haruka}\n\"Oh, that's true. So you drink, Kazushi-kun? Maybe I should have one with you.\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, that's true. So you drink, Kazushi-kun? Maybe I should have one with you.\""
 msgstr ""
 
 #: 007a6:69
-
 msgid "She was drinking orange juice."
 msgstr ""
 
 #: 007a6:70
-
-msgid "{Kazushi}\n\"Okay, then here you go.\""
+msgid ""
+"{Kazushi}\n"
+"\"Okay, then here you go.\""
 msgstr ""
 
 #: 007a6:72
-
 msgid "I brought her an empty glass and poured some liquor into it."
 msgstr ""
 
 #: 007a6:75
-
-msgid "{Haruka}\n\"Wow!\nI'm having a man pour me a drink. Does this make me a delinquent?\""
+msgid ""
+"{Haruka}\n"
+"\"Wow!\n"
+"I'm having a man pour me a drink. Does this make me a delinquent?\""
 msgstr ""
 
 #: 007a6:77
-
-msgid "{Kazushi}\n\"A delinquent...?\""
+msgid ""
+"{Kazushi}\n"
+"\"A delinquent...?\""
 msgstr ""
 
 #: 007a6:80
-
-msgid "{Haruka}\n\"This is romantic.\""
+msgid ""
+"{Haruka}\n"
+"\"This is romantic.\""
 msgstr ""
 
 #: 007a6:81
-
 msgid "She's already in a good mood and she hasn't even had a sip yet! What a strange girl."
 msgstr ""
 
 #: 007a6:84
-
-msgid "{Haruka}\n\"Oh, maybe Grandma would be happy if you poured her one too?\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, maybe Grandma would be happy if you poured her one too?\""
 msgstr ""
 
 #: 007a6:85
-
-msgid "{Kazushi}\n\"Me? Pour one for the principal?\""
+msgid ""
+"{Kazushi}\n"
+"\"Me? Pour one for the principal?\""
 msgstr ""
 
 #: 007a6:86
-
-msgid "{Haruka}\n\"Sure! Follow me!\""
+msgid ""
+"{Haruka}\n"
+"\"Sure! Follow me!\""
 msgstr ""
 
 #: 007a6:87
-
-msgid "{Kazushi}\n\"H...Hey...!\""
+msgid ""
+"{Kazushi}\n"
+"\"H...Hey...!\""
 msgstr ""
 
 #: 007a6:89
-
 msgid "She started dragging me towards the principal before I had a chance to reply."
 msgstr ""
 
 #: 007a6:94
-
-msgid "{Principal}\n\"Oh, hello. What's the matter?\""
+msgid ""
+"{Principal}\n"
+"\"Oh, hello. What's the matter?\""
 msgstr ""
 
 #: 007a6:95
-
-msgid "{Haruka}\n\"Kazushi-kun said he'll pour you a drink!\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun said he'll pour you a drink!\""
 msgstr ""
 
 #: 007a6:98
-
-msgid "{Principal}\n\"You will, Haruma-kun?\""
+msgid ""
+"{Principal}\n"
+"\"You will, Haruma-kun?\""
 msgstr ""
 
 #: 007a6:99
-
-msgid "{Kazushi}\n\"Su-, uh, yes...\""
+msgid ""
+"{Kazushi}\n"
+"\"Su-, uh, yes...\""
 msgstr ""
 
 #: 007a6:100
-
-msgid "She already remembered my name.\nShe had a kind, graceful smile, but something felt wrong."
+msgid ""
+"She already remembered my name.\n"
+"She had a kind, graceful smile, but something felt wrong."
 msgstr ""
 
 #: 007a6:103
-
-msgid "{Haruka}\n\"Here, Kazushi-kun!\""
+msgid ""
+"{Haruka}\n"
+"\"Here, Kazushi-kun!\""
 msgstr ""
 
 #: 007a6:104
-
 msgid "Haruka handed me an empty glass and a bottle of liquor. I prepared for the worst and handed the glass to the Principal."
 msgstr ""
 
 #: 007a6:105
-
-msgid "{Kazushi}\n\"Here you go, ma'am.\""
+msgid ""
+"{Kazushi}\n"
+"\"Here you go, ma'am.\""
 msgstr ""
 
 #: 007a6:108
-
-msgid "{Principal}\n\"Why, thank you very much.\""
+msgid ""
+"{Principal}\n"
+"\"Why, thank you very much.\""
 msgstr ""
 
 #: 007a6:110
-
 msgid "I was nervous as I tried to pour it without spilling any. I glanced up and saw the Principal blushing like a young girl."
 msgstr ""
 
 #: 007a6:113
-
-msgid "{Principal}\n\"I feel so embarrassed. You remind me of him.\""
+msgid ""
+"{Principal}\n"
+"\"I feel so embarrassed. You remind me of him.\""
 msgstr ""
 
 #: 007a6:115
-
-msgid "{Kazushi}\n\"Him?\""
+msgid ""
+"{Kazushi}\n"
+"\"Him?\""
 msgstr ""
 
 #: 007a6:118
-
-msgid "{Haruka}\n\"My grandpa.\nHe passed away a long time ago.\""
+msgid ""
+"{Haruka}\n"
+"\"My grandpa.\n"
+"He passed away a long time ago.\""
 msgstr ""
 
 #: 007a6:119
-
-msgid "{Kazushi}\n\"Oh. I'm sorry...\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh. I'm sorry...\""
 msgstr ""
 
 #: 007a6:120
-
 msgid "So the principal is a widow. I guess they did mention that there weren't any male teachers at this academy."
 msgstr ""
 
 #: 007a6:121
-
 msgid "I wish I knew what to say at times like these."
 msgstr ""
 
 #: 007a6:124
-
-msgid "{Principal}\n\"Don't trouble yourself. It happened many long years ago.\""
+msgid ""
+"{Principal}\n"
+"\"Don't trouble yourself. It happened many long years ago.\""
 msgstr ""
 
 #: 007a6:125
-
-msgid "{Haruka}\n\"I never knew my grandpa either. He passed away before I was born.\""
+msgid ""
+"{Haruka}\n"
+"\"I never knew my grandpa either. He passed away before I was born.\""
 msgstr ""
 
 #: 007a6:126
-
-msgid "{Kazushi}\n\"I see. In my case, I never knew my grandma.\""
+msgid ""
+"{Kazushi}\n"
+"\"I see. In my case, I never knew my grandma.\""
 msgstr ""
 
 #: 007a6:127
-
 msgid "My grandma was already gone by the time I was born. I heard that she had died from an illness when she was young."
 msgstr ""
 
 #: 007a6:128
-
-msgid "{Kazushi}\n\"My grandpa used to talk about her all the time.\""
+msgid ""
+"{Kazushi}\n"
+"\"My grandpa used to talk about her all the time.\""
 msgstr ""
 
 #: 007a6:131
-
-msgid "{Haruka}\n\"It's the same in my family!\nGrandma talks about grandpa all the time!\""
+msgid ""
+"{Haruka}\n"
+"\"It's the same in my family!\n"
+"Grandma talks about grandpa all the time!\""
 msgstr ""
 
 #: 007a6:132
-
-msgid "{Principal}\n\"Haruka,\nyou need to call me \"Principal\" here.\""
+msgid ""
+"{Principal}\n"
+"\"Haruka,\n"
+"you need to call me \"Principal\" here.\""
 msgstr ""
 
 #: 007a6:135
-
-msgid "{Haruka}\n\"Oh, shoot! See?\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, shoot! See?\""
 msgstr ""
 
 #: 007a6:138
-
 msgid "Haruka winked at me. We had just talked about it, but the principal was slightly confused."
 msgstr ""
 
 #: 007a6:139
-
-msgid "{Principal}\n\"It looks like you're getting along well with Haruma-kun. I'm glad you've made a good friend.\""
+msgid ""
+"{Principal}\n"
+"\"It looks like you're getting along well with Haruma-kun. I'm glad you've made a good friend.\""
 msgstr ""
 
 #: 007a6:140
-
 msgid "When she said that, the principal's face went back to being grandma."
 msgstr ""
 
 #: 007a6:143
-
-msgid "{Haruka}\n\"I wasn't sure if I'd be able to get along with the boys, but luckily there are those like Kazushi-kun.\""
+msgid ""
+"{Haruka}\n"
+"\"I wasn't sure if I'd be able to get along with the boys, but luckily there are those like Kazushi-kun.\""
 msgstr ""
 
 #: 007a6:144
-
 msgid "Putting it that way made me blush. The principal watched us with the proud smile of a grandmother."
 msgstr ""
 
 #: 007a6:147
-
-msgid "{Principal}\n\"Well, I better be going now. Thank you very much for the drink, Haruma-kun. You've made me feel young again.\""
+msgid ""
+"{Principal}\n"
+"\"Well, I better be going now. Thank you very much for the drink, Haruma-kun. You've made me feel young again.\""
 msgstr ""
 
 #: 007a6:148
-
-msgid "{Kazushi}\n\"You're welcome.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're welcome.\""
 msgstr ""
 
 #: 007a6:151
-
 msgid "After giving us another graceful smile, she finally left. The tension finally drained from my shoulders."
 msgstr ""
 
 #: 007a6:154
-
-msgid "{Haruka}\n\"She seemed really happy. Thank you.\""
+msgid ""
+"{Haruka}\n"
+"\"She seemed really happy. Thank you.\""
 msgstr ""
 
 #: 007a6:155
-
-msgid "{Kazushi}\n\"No, don't mention it. All I did was pour a drink. Anyways, your grandma looks pretty young.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, don't mention it. All I did was pour a drink. Anyways, your grandma looks pretty young.\""
 msgstr ""
 
 #: 007a6:156
-
 msgid "I didn't know how old she was, but her skin was still radiant."
 msgstr ""
 
 #: 007a6:159
-
-msgid "{Haruka}\n\"It's just because you talked to her, Kazushi-kun. She said you made her feel young.\""
+msgid ""
+"{Haruka}\n"
+"\"It's just because you talked to her, Kazushi-kun. She said you made her feel young.\""
 msgstr ""
 
 #: 007a6:160
-
-msgid "{Kazushi}\n\"Really?\""
+msgid ""
+"{Kazushi}\n"
+"\"Really?\""
 msgstr ""
 
 #: 007a6:161
-
 msgid "Did she just drain my youth?"
 msgstr ""
 
 #: 007a6:164
-
-msgid "{Haruka}\n\"Grandma is still in love with grandpa.\""
+msgid ""
+"{Haruka}\n"
+"\"Grandma is still in love with grandpa.\""
 msgstr ""
 
 #: 007a6:165
-
 msgid "I thought I heard the tone of her voice drop, and I looked over to find a sad smile on her face."
 msgstr ""
 
 #: 007a6:166
-
-msgid "{Haruka}\n\"Hey, Kazushi-kun.\nWhat would you do if your lover died?\""
+msgid ""
+"{Haruka}\n"
+"\"Hey, Kazushi-kun.\n"
+"What would you do if your lover died?\""
 msgstr ""
 
 #: 007a6:167
-
-msgid "{Kazushi}\n\"If my lover died?\""
+msgid ""
+"{Kazushi}\n"
+"\"If my lover died?\""
 msgstr ""
 
 #: 007a6:168
-
 msgid "That was a rather serious question all of a sudden."
 msgstr ""
 
 #: 007a6:169
-
 msgid "I didn't know why she asked, nor how to answer."
 msgstr ""
 
 #: 007a6:172
-
-msgid "{Haruka}\n\"I'm sorry. Was that a weird question?\""
+msgid ""
+"{Haruka}\n"
+"\"I'm sorry. Was that a weird question?\""
 msgstr ""
 
 #: 007a6:173
-
 msgid "She noticed I was having trouble answering, so she tried to play it off with a smile."
 msgstr ""
 
 #: 007a6:174
-
-msgid "{Kazushi}\n\"It's OK, but why did you ask?\""
+msgid ""
+"{Kazushi}\n"
+"\"It's OK, but why did you ask?\""
 msgstr ""
 
 #: 007a6:177
-
-msgid "{Haruka}\n\"Well, sometimes when I look at grandma, I think about how she can't forget about grandpa. I'm sure she's lonely.\""
+msgid ""
+"{Haruka}\n"
+"\"Well, sometimes when I look at grandma, I think about how she can't forget about grandpa. I'm sure she's lonely.\""
 msgstr ""
 
 #: 007a6:180
-
-msgid "{Haruka}\n\"I've been told that they struggled so much to get married.\""
+msgid ""
+"{Haruka}\n"
+"\"I've been told that they struggled so much to get married.\""
 msgstr ""
 
 #: 007a6:181
-
-msgid "{Kazushi}\n\"The principal did? Wow, I didn't know...\""
+msgid ""
+"{Kazushi}\n"
+"\"The principal did? Wow, I didn't know...\""
 msgstr ""
 
 #: 007a6:182
-
 msgid "It was hard to imagine that from the strict image the principal had now."
 msgstr ""
 
 #: 007a6:183
-
 msgid "But I guess it's not surprising. They say she was really pretty when she was young. Such a romance would only be natural for her."
 msgstr ""
 
 #: 007a6:186
-
-msgid "{Haruka}\n\"But, grandpa died in an accident only a year after they got married.\""
+msgid ""
+"{Haruka}\n"
+"\"But, grandpa died in an accident only a year after they got married.\""
 msgstr ""
 
 #: 007a6:187
-
-msgid "{Kazushi}\n\"That soon?\nThat is sad... She's been alone ever since?\""
+msgid ""
+"{Kazushi}\n"
+"\"That soon?\n"
+"That is sad... She's been alone ever since?\""
 msgstr ""
 
 #: 007a6:190
-
-msgid "{Haruka}\n\"Yes, she has. I'm sure she's never been able to forget about him.\""
+msgid ""
+"{Haruka}\n"
+"\"Yes, she has. I'm sure she's never been able to forget about him.\""
 msgstr ""
 
 #: 007a6:191
-
-msgid "{Kazushi}\n\"I see.\nShe must have really loved him.\""
+msgid ""
+"{Kazushi}\n"
+"\"I see.\n"
+"She must have really loved him.\""
 msgstr ""
 
 #: 007a6:194
-
-msgid "{Haruka}\n\"She did.\nI dream about being in a relationship like that.\""
+msgid ""
+"{Haruka}\n"
+"\"She did.\n"
+"I dream about being in a relationship like that.\""
 msgstr ""
 
 #: 007a6:195
-
 msgid "She looked little girl in love with romance as she told me about her sweet dream. Haruka in love, huh? I wonder what kind of guy she likes."
 msgstr ""
 
 #: 007a6:196
-
-msgid "{Kazushi}\n\"Have you ever fallen in love with somebody?\""
+msgid ""
+"{Kazushi}\n"
+"\"Have you ever fallen in love with somebody?\""
 msgstr ""
 
 #: 007a6:199
-
-msgid "{Haruka}\n\"What?! Of course not!\""
+msgid ""
+"{Haruka}\n"
+"\"What?! Of course not!\""
 msgstr ""
 
 #: 007a6:200
-
 msgid "She shook her head in surprise."
 msgstr ""
 
 #: 007a6:201
-
-msgid "{Kazushi}\n\"Never?\""
+msgid ""
+"{Kazushi}\n"
+"\"Never?\""
 msgstr ""
 
 #: 007a6:202
-
-msgid "{Haruka}\n\"There aren't any boys my age on this island. How could I have met or fallen in love with anyone?\""
+msgid ""
+"{Haruka}\n"
+"\"There aren't any boys my age on this island. How could I have met or fallen in love with anyone?\""
 msgstr ""
 
 #: 007a6:203
-
-msgid "{Kazushi}\n\"Well, I suppose that's true...\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, I suppose that's true...\""
 msgstr ""
 
 #: 007a6:204
-
 msgid "Of course, there weren't any boys likely to have gone after Haruka before."
 msgstr ""
 
 #: 007a6:207
-
-msgid "{Haruka}\n\"I always worried I might grow old without ever getting to fall in love. Hey, Kazushi-kun, have you ever been in love?\""
+msgid ""
+"{Haruka}\n"
+"\"I always worried I might grow old without ever getting to fall in love. Hey, Kazushi-kun, have you ever been in love?\""
 msgstr ""
 
 #: 007a6:208
-
-msgid "{Kazushi}\n\"Only as much as everyone else.\""
+msgid ""
+"{Kazushi}\n"
+"\"Only as much as everyone else.\""
 msgstr ""
 
 #: 007a6:211
-
-msgid "{Haruka}\n\"Wow, how nice. People our age should already be in love, shouldn't they? Hah...\""
+msgid ""
+"{Haruka}\n"
+"\"Wow, how nice. People our age should already be in love, shouldn't they? Hah...\""
 msgstr ""
 
 #: 007a6:212
-
 msgid "She heaved a deep sigh. I kind of felt bad for her."
 msgstr ""
 
 #: 007a6:215
-
-msgid "{Haruka}\n\"So, what's it like to fall in love?\""
+msgid ""
+"{Haruka}\n"
+"\"So, what's it like to fall in love?\""
 msgstr ""
 
 #: 007a6:216
-
 msgid "She leaned forward as she asked me. Her eyes were sparkling. She was so innocent."
 msgstr ""
 
 #: 007a6:217
-
-msgid "{Kazushi}\n\"It's like......\""
+msgid ""
+"{Kazushi}\n"
+"\"It's like......\""
 msgstr ""
 
 #: 007a6:221
-
 msgid "I recalled a few of my previous encounters. There was the time I got slapped hard as the sun set on the park, the time one girl called me a pervert and stepped on me..."
 msgstr ""
 
 #: 007a6:225
-
-msgid "{Haruka}\n\"Huh? Why are you crying?\""
+msgid ""
+"{Haruka}\n"
+"\"Huh? Why are you crying?\""
 msgstr ""
 
 #: 007a6:226
-
-msgid "{Kazushi}\n\"All my heartbreaking memories...\""
+msgid ""
+"{Kazushi}\n"
+"\"All my heartbreaking memories...\""
 msgstr ""
 
 #: 007a6:229
-
-msgid "{Haruka}\n\"I see. Love is so touching it brings tears.\""
+msgid ""
+"{Haruka}\n"
+"\"I see. Love is so touching it brings tears.\""
 msgstr ""
 
 #: 007a6:230
-
 msgid "She missed the real meaning behind my words, and looked up the sky with glittering eyes."
 msgstr ""
 
 #: 007a6:231
-
-msgid "{Haruka}\n\"I want to fall in love too. I wonder how I can make that happen?\""
+msgid ""
+"{Haruka}\n"
+"\"I want to fall in love too. I wonder how I can make that happen?\""
 msgstr ""
 
 #: 007a6:232
-
 msgid "She looked just like a dreamy-eyed girl. She looked so pure and bright that I wanted to cheer her on."
 msgstr ""
 
 #: 007a6:233
-
-msgid "{Kazushi}\n\"I hope that one day you'll have a romance just like your grandparents had. You have my support.\""
+msgid ""
+"{Kazushi}\n"
+"\"I hope that one day you'll have a romance just like your grandparents had. You have my support.\""
 msgstr ""
 
 #: 007a6:236
-
-msgid "{Haruka}\n\"Really? Thank you!\""
+msgid ""
+"{Haruka}\n"
+"\"Really? Thank you!\""
 msgstr ""
 
 #: 007a6:237
-
 msgid "She happily took my hand in hers. Her hands felt so soft. Their warmth ran through me like a bolt of electricity."
 msgstr ""
 
 #: 007a6:238
-
 msgid "Oh, no. I think I'm falling in love."
 msgstr ""
 
 #: 007a6:241
-
-msgid "{Haruka}\n\"Love, huh? It's so nice. I wonder how I can start a relationship?\""
+msgid ""
+"{Haruka}\n"
+"\"Love, huh? It's so nice. I wonder how I can start a relationship?\""
 msgstr ""
 
 #: 007a6:242
-
 msgid "My loves had been too simple. They all led to terrible things too. I need to be a bit more prudent."
 msgstr ""
-

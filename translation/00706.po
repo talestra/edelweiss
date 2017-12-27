@@ -8,926 +8,1024 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 00706:9
-
-msgid "{Yagami}\n\"And on the test, I'll be sure to ask you to describe the author's sentiments in 20 words or less.\""
+msgid ""
+"{Yagami}\n"
+"\"And on the test, I'll be sure to ask you to describe the author's sentiments in 20 words or less.\""
 msgstr ""
 
 #: 00706:15
-
-msgid "{Ran}\n\"Wow!\nThanks for telling us!\""
+msgid ""
+"{Ran}\n"
+"\"Wow!\n"
+"Thanks for telling us!\""
 msgstr ""
 
 #: 00706:16
-
-msgid "{Sakura}\n\"I like male teachers, he's so open. Oh, gotta jot it down...\""
+msgid ""
+"{Sakura}\n"
+"\"I like male teachers, he's so open. Oh, gotta jot it down...\""
 msgstr ""
 
 #: 00706:17
-
 msgid "However, there was still a big gap between the girls and the boys. No one's been brave enough to bridge the divide yet."
 msgstr ""
 
 #: 00706:22
-
-msgid "{Mizuki}\n\"..................\""
+msgid ""
+"{Mizuki}\n"
+"\"..................\""
 msgstr ""
 
 #: 00706:23
-
 msgid "The biggest gulf between the sexes would be right here, between me and Mizuki."
 msgstr ""
 
 #: 00706:24
-
 msgid "I sat right next to Hinata-san, but I hadn't talked to her for a while."
 msgstr ""
 
 #: 00706:30
-
-msgid "{Yagami}\n\"Alright, that's it for today. Make sure you study the parts I told you will be on the test. If you get them wrong, be ready for me to swing the whip of love.\""
+msgid ""
+"{Yagami}\n"
+"\"Alright, that's it for today. Make sure you study the parts I told you will be on the test. If you get them wrong, be ready for me to swing the whip of love.\""
 msgstr ""
 
 #: 00706:36
-
-msgid "{Andou}\n\"I don't think I'd mind sensei whipping me...\""
+msgid ""
+"{Andou}\n"
+"\"I don't think I'd mind sensei whipping me...\""
 msgstr ""
 
 #: 00706:37
-
-msgid "{Fuusen}\n\"Oh? Is he your type, Rei?\""
+msgid ""
+"{Fuusen}\n"
+"\"Oh? Is he your type, Rei?\""
 msgstr ""
 
 #: 00706:38
-
-msgid "{Andou}\n\"I like men who are strong and manly. Especially a fighter...\""
+msgid ""
+"{Andou}\n"
+"\"I like men who are strong and manly. Especially a fighter...\""
 msgstr ""
 
 #: 00706:39
-
 msgid "Andou gave Yagami-sensei a seductive look. I think that's the first time I ever saw him shudder in fear."
 msgstr ""
 
 #: 00706:44
-
-msgid "{Yagami}\n\"...goodbye!\""
+msgid ""
+"{Yagami}\n"
+"\"...goodbye!\""
 msgstr ""
 
 #: 00706:52
-
 msgid "Yagami-sensei shot out from the classroom. Some of the girls were even chasing after him - he was getting really popular."
 msgstr ""
 
 #: 00706:53
-
 msgid "On the other hand..."
 msgstr ""
 
 #: 00706:56
-
-msgid "{Mizuki}\n\"..................\""
+msgid ""
+"{Mizuki}\n"
+"\"..................\""
 msgstr ""
 
 #: 00706:57
-
 msgid "While the rest of the class was carrying on, there wasn't a single word being shared over here. It was clear that she didn't want to talk to me."
 msgstr ""
 
 #: 00706:58
-
 msgid "What did I do wrong?"
 msgstr ""
 
 #: 00706:59
-
-msgid "{Kazushi}\n\"..................\""
+msgid ""
+"{Kazushi}\n"
+"\"..................\""
 msgstr ""
 
 #: 00706:60
-
-msgid "I can't think of anything!\nI'll just ask her!"
+msgid ""
+"I can't think of anything!\n"
+"I'll just ask her!"
 msgstr ""
 
 #: 00706:61
-
-msgid "{Kazushi}\n\"Hey, Hinata-san...\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, Hinata-san...\""
 msgstr ""
 
 #: 00706:64
-
-msgid "{Mizuki}\n\"What do you want!?\""
+msgid ""
+"{Mizuki}\n"
+"\"What do you want!?\""
 msgstr ""
 
 #: 00706:65
-
-msgid "{Kazushi}\n\"I just......\""
+msgid ""
+"{Kazushi}\n"
+"\"I just......\""
 msgstr ""
 
 #: 00706:66
-
 msgid "All I did was speak to her. What did get so upset with me?"
 msgstr ""
 
 #: 00706:67
-
-msgid "{Kazushi}\n\"Why do you act like you're on constant alert around me? You don't need to be that stiff.\""
+msgid ""
+"{Kazushi}\n"
+"\"Why do you act like you're on constant alert around me? You don't need to be that stiff.\""
 msgstr ""
 
 #: 00706:70
-
-msgid "{Mizuki}\n\"I'm not being wary of you. This is how I am.\""
+msgid ""
+"{Mizuki}\n"
+"\"I'm not being wary of you. This is how I am.\""
 msgstr ""
 
 #: 00706:71
-
 msgid "So she said, but I could still feel the wall and the distance between us."
 msgstr ""
 
 #: 00706:72
-
 msgid "Our desks may be attached, but her chair was as far away as it could be, and she always sat with her back turned to me, leaning away from me."
 msgstr ""
 
 #: 00706:73
-
 msgid "Sometimes she'd look at me to see if I was looking at her. What did she want?"
 msgstr ""
 
 #: 00706:80
-
-msgid "{Sakura}\n\"What? Mizuki, don't you like sitting next to Haruma-kun?\""
+msgid ""
+"{Sakura}\n"
+"\"What? Mizuki, don't you like sitting next to Haruma-kun?\""
 msgstr ""
 
 #: 00706:81
-
 msgid "Even Takase turned back to make fun of her for it. Honestly, Takase was right. It was hard to think she didn't hate being near me."
 msgstr ""
 
 #: 00706:84
-
-msgid "{Mizuki}\n\"It's not that.\""
+msgid ""
+"{Mizuki}\n"
+"\"It's not that.\""
 msgstr ""
 
 #: 00706:85
-
-msgid "{Kazushi}\n\"It doesn't seem like it. Hinata-san, have I done something wrong to you?\""
+msgid ""
+"{Kazushi}\n"
+"\"It doesn't seem like it. Hinata-san, have I done something wrong to you?\""
 msgstr ""
 
 #: 00706:88
-
-msgid "{Mizuki}\n\"W-what? Did you do something? Do you have any idea what?\""
+msgid ""
+"{Mizuki}\n"
+"\"W-what? Did you do something? Do you have any idea what?\""
 msgstr ""
 
 #: 00706:89
-
-msgid "{Kazushi}\n\"I don't think so.\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't think so.\""
 msgstr ""
 
 #: 00706:90
-
 msgid "The only connection we have is sitting next to each other, and I don't think we've talked enough for me to upset her."
 msgstr ""
 
 #: 00706:93
-
-msgid "{Mizuki}\n\"Then you haven't done anything, have you? I don't remember anything.\""
+msgid ""
+"{Mizuki}\n"
+"\"Then you haven't done anything, have you? I don't remember anything.\""
 msgstr ""
 
 #: 00706:94
-
-msgid "{Kazushi}\n\"You sure? It seems like there's something?\""
+msgid ""
+"{Kazushi}\n"
+"\"You sure? It seems like there's something?\""
 msgstr ""
 
 #: 00706:97
-
-msgid "{Sakura}\n\"Right? Mizuki is oddly cold to you, Haruma-kun.\""
+msgid ""
+"{Sakura}\n"
+"\"Right? Mizuki is oddly cold to you, Haruma-kun.\""
 msgstr ""
 
 #: 00706:98
-
-msgid "{Kazushi}\n\"Right? So you agree, Takase?\""
+msgid ""
+"{Kazushi}\n"
+"\"Right? So you agree, Takase?\""
 msgstr ""
 
 #: 00706:101
-
-msgid "{Sakura}\n\"Uh-huh. Definitely.\""
+msgid ""
+"{Sakura}\n"
+"\"Uh-huh. Definitely.\""
 msgstr ""
 
 #: 00706:102
-
 msgid "I was suddenly hitting it off with Takase. Hinata-san heaved a sigh in amazement at us."
 msgstr ""
 
 #: 00706:105
-
-msgid "{Mizuki}\n\"Well don't you two get along. When did you become such good friends?\""
+msgid ""
+"{Mizuki}\n"
+"\"Well don't you two get along. When did you become such good friends?\""
 msgstr ""
 
 #: 00706:108
-
-msgid "{Sakura}\n\"Well, we're Haruma and Sakura, right? Don't cherry blossoms fit right in with spring?\""
+msgid ""
+"{Sakura}\n"
+"\"Well, we're Haruma and Sakura, right? Don't cherry blossoms fit right in with spring?\""
 msgstr ""
 
 #: 00706:109
-
-msgid "{Kazushi}\n\"You're right! We have good chemistry.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're right! We have good chemistry.\""
 msgstr ""
 
 #: 00706:112
-
-msgid "{Sakura}\n\"Exactly. I wonder if I could call you 'Harucchi' from now on? Do you mind?\""
+msgid ""
+"{Sakura}\n"
+"\"Exactly. I wonder if I could call you 'Harucchi' from now on? Do you mind?\""
 msgstr ""
 
 #: 00706:113
-
-msgid "{Kazushi}\n\"Not at all! Then Takase, do you mind if I call you Sakura?\""
+msgid ""
+"{Kazushi}\n"
+"\"Not at all! Then Takase, do you mind if I call you Sakura?\""
 msgstr ""
 
 #: 00706:114
-
-msgid "{Sakura}\n\"Oh, nice. By my first name, huh? Good, good. It feels exciting to have a boy call me by my first name.\""
+msgid ""
+"{Sakura}\n"
+"\"Oh, nice. By my first name, huh? Good, good. It feels exciting to have a boy call me by my first name.\""
 msgstr ""
 
 #: 00706:115
-
 msgid "We were having a great chat over just our names. Takase...I mean Sakura was so cheerful and friendly, she was real easy to talk to."
 msgstr ""
 
 #: 00706:116
-
 msgid "She's one of the few girls I can actually chat openly with."
 msgstr ""
 
 #: 00706:117
-
 msgid "But it's more like hanging with the guys. There's no sexual atmosphere between us."
 msgstr ""
 
 #: 00706:120
-
-msgid "{Mizuki}\n\"I didn't know you were so good at handling boys, Sakura.\""
+msgid ""
+"{Mizuki}\n"
+"\"I didn't know you were so good at handling boys, Sakura.\""
 msgstr ""
 
 #: 00706:123
-
-msgid "{Sakura}\n\"I don't like the way you say that. I was in co-ed schools up through middle school, so I'm just normal. The same should go for you, Mizuki.\""
+msgid ""
+"{Sakura}\n"
+"\"I don't like the way you say that. I was in co-ed schools up through middle school, so I'm just normal. The same should go for you, Mizuki.\""
 msgstr ""
 
 #: 00706:126
-
-msgid "{Mizuki}\n\"Yeah, but I chose to come to an all girls' school. I'm not very happy that they made it co-ed all of a sudden.\""
+msgid ""
+"{Mizuki}\n"
+"\"Yeah, but I chose to come to an all girls' school. I'm not very happy that they made it co-ed all of a sudden.\""
 msgstr ""
 
 #: 00706:127
-
 msgid "She looked really bitter. I kind of knew it, but I guess we boys weren't welcome here."
 msgstr ""
 
 #: 00706:130
-
-msgid "{Sakura}\n\"Mizuki, you hate boys? Really? I didn't know. Then I guess you like girls, huh?\""
+msgid ""
+"{Sakura}\n"
+"\"Mizuki, you hate boys? Really? I didn't know. Then I guess you like girls, huh?\""
 msgstr ""
 
 #: 00706:133
-
-msgid "{Mizuki}\n\"Huh? Wait, what?\""
+msgid ""
+"{Mizuki}\n"
+"\"Huh? Wait, what?\""
 msgstr ""
 
 #: 00706:134
-
-msgid "{Kazushi}\n\"Do you mean THAT?! Is Hinata-san a- a lesbian?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Do you mean THAT?! Is Hinata-san a- a lesbian?!\""
 msgstr ""
 
 #: 00706:137
-
-msgid "{Mizuki}\n\"Who said I am!?\""
+msgid ""
+"{Mizuki}\n"
+"\"Who said I am!?\""
 msgstr ""
 
 #: 00706:138
-
-msgid "{Kazushi}\n\"I get it now. Hinata-san's a lesbian. Why do you prefer girls over guys? You're so cute, Hinata-san that it's a total waste.\""
+msgid ""
+"{Kazushi}\n"
+"\"I get it now. Hinata-san's a lesbian. Why do you prefer girls over guys? You're so cute, Hinata-san that it's a total waste.\""
 msgstr ""
 
 #: 00706:141
-
-msgid "{Mizuki}\n\"...!!\""
+msgid ""
+"{Mizuki}\n"
+"\"...!!\""
 msgstr ""
 
 #: 00706:144
-
-msgid "{Sakura}\n\"He says you're cute. Good for you, Mizuki.\""
+msgid ""
+"{Sakura}\n"
+"\"He says you're cute. Good for you, Mizuki.\""
 msgstr ""
 
 #: 00706:147
-
-msgid "{Mizuki}\n\"Shut up!\""
+msgid ""
+"{Mizuki}\n"
+"\"Shut up!\""
 msgstr ""
 
 #: 00706:148
-
-msgid "{Kazushi}\n\"But if you ask me, I think it's more natural for girls to be with guys. If you'd like, I can introduce you to a few good ones?\""
+msgid ""
+"{Kazushi}\n"
+"\"But if you ask me, I think it's more natural for girls to be with guys. If you'd like, I can introduce you to a few good ones?\""
 msgstr ""
 
 #: 00706:149
-
-msgid "{Mizuki}\n\"I don't need that!!\""
+msgid ""
+"{Mizuki}\n"
+"\"I don't need that!!\""
 msgstr ""
 
 #: 00706:154
-
 msgid "She stood up so fast her chair hit the ground and she stormed out of the classroom."
 msgstr ""
 
 #: 00706:155
-
-msgid "{Kazushi}\n\"Did I say something wrong?\""
+msgid ""
+"{Kazushi}\n"
+"\"Did I say something wrong?\""
 msgstr ""
 
 #: 00706:158
-
-msgid "{Sakura}\n\"Harucchi, you can't read between the lines, can you?\""
+msgid ""
+"{Sakura}\n"
+"\"Harucchi, you can't read between the lines, can you?\""
 msgstr ""
 
 #: 00706:159
-
 msgid "Sakura was almost doubled up from laughing for some reason."
 msgstr ""
 
 #: 00706:160
-
-msgid "{Kazushi}\n\"I was trying to be considerate?\""
+msgid ""
+"{Kazushi}\n"
+"\"I was trying to be considerate?\""
 msgstr ""
 
 #: 00706:163
-
-msgid "{Sakura}\n\"Harucchi, you don't understand how we girls think. Maybe this is how you caused her to hold a grudge? You probably just don't realize it.\""
+msgid ""
+"{Sakura}\n"
+"\"Harucchi, you don't understand how we girls think. Maybe this is how you caused her to hold a grudge? You probably just don't realize it.\""
 msgstr ""
 
 #: 00706:164
-
-msgid "{Kazushi}\n\"You think so?\""
+msgid ""
+"{Kazushi}\n"
+"\"You think so?\""
 msgstr ""
 
 #: 00706:165
-
 msgid "I must have. Otherwise, why would things be so strained between us?"
 msgstr ""
 
 #: 00706:166
-
-msgid "{Kazushi}\n\"I can't just leave the matter open. We're stuck sitting next to each other.\""
+msgid ""
+"{Kazushi}\n"
+"\"I can't just leave the matter open. We're stuck sitting next to each other.\""
 msgstr ""
 
 #: 00706:174
-
-msgid "{Appo}\n\"You worry too much.\""
+msgid ""
+"{Appo}\n"
+"\"You worry too much.\""
 msgstr ""
 
 #: 00706:175
-
 msgid "My buddies came to see me."
 msgstr ""
 
 #: 00706:176
-
-msgid "{Kazushi}\n\"Do you guys have any good ideas to help me get along with her?\""
+msgid ""
+"{Kazushi}\n"
+"\"Do you guys have any good ideas to help me get along with her?\""
 msgstr ""
 
 #: 00706:179
-
-msgid "{Pierre}\n\"Think about it. What's tomorrow?\""
+msgid ""
+"{Pierre}\n"
+"\"Think about it. What's tomorrow?\""
 msgstr ""
 
 #: 00706:180
-
-msgid "{Kazushi}\n\"Tomorrow?\""
+msgid ""
+"{Kazushi}\n"
+"\"Tomorrow?\""
 msgstr ""
 
 #: 00706:181
-
 msgid "Tomorrow is Saturday......"
 msgstr ""
 
 #: 00706:182
-
-msgid "{Kazushi}\n\"Tomorrow's a half day. Want to do something in the afternoon?\""
+msgid ""
+"{Kazushi}\n"
+"\"Tomorrow's a half day. Want to do something in the afternoon?\""
 msgstr ""
 
 #: 00706:183
-
-msgid "{Appo}\n\"Come on, what is happening that afternoon?\""
+msgid ""
+"{Appo}\n"
+"\"Come on, what is happening that afternoon?\""
 msgstr ""
 
 #: 00706:184
-
-msgid "{Kazushi}\n\"Afternoon? We already made plans?\""
+msgid ""
+"{Kazushi}\n"
+"\"Afternoon? We already made plans?\""
 msgstr ""
 
 #: 00706:187
-
-msgid "{Pierre}\n\"What, you forgot?\""
+msgid ""
+"{Pierre}\n"
+"\"What, you forgot?\""
 msgstr ""
 
 #: 00706:190
-
-msgid "{Daigo}\n\"Hey guys, what do you think I should wear? A suit?\""
+msgid ""
+"{Daigo}\n"
+"\"Hey guys, what do you think I should wear? A suit?\""
 msgstr ""
 
 #: 00706:193
-
-msgid "{Appo}\n\"Quit giving off such an air of grief. Your normal jersey is fine.\""
+msgid ""
+"{Appo}\n"
+"\"Quit giving off such an air of grief. Your normal jersey is fine.\""
 msgstr ""
 
 #: 00706:196
-
-msgid "{Pierre}\n\"Your jersey is your battle suit!\""
+msgid ""
+"{Pierre}\n"
+"\"Your jersey is your battle suit!\""
 msgstr ""
 
 #: 00706:197
-
 msgid "All three of them were very excited. Daigo was even getting nervous. What's happening tomorrow?"
 msgstr ""
 
 #: 00706:198
-
-msgid "{Kazushi}\n\"I'm too tired to guess.\nJust tell me what's going on tomorrow.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm too tired to guess.\n"
+"Just tell me what's going on tomorrow.\""
 msgstr ""
 
 #: 00706:205
-
 msgid "They all gave me looks of pity like I was some poor fool."
 msgstr ""
 
 #: 00706:206
-
-msgid "{Appo}\n\"Huh? You seriously forgot? What the hell, are you an idiot?!\""
+msgid ""
+"{Appo}\n"
+"\"Huh? You seriously forgot? What the hell, are you an idiot?!\""
 msgstr ""
 
 #: 00706:207
-
-msgid "{Kazushi}\n\"What do you mean? You're an idiot yourself! Anyways, what's happening tomorrow?\""
+msgid ""
+"{Kazushi}\n"
+"\"What do you mean? You're an idiot yourself! Anyways, what's happening tomorrow?\""
 msgstr ""
 
 #: 00706:210
-
-msgid "{Pierre}\n\"God! You honestly forgot?! Kazushi, you're hopeless.\""
+msgid ""
+"{Pierre}\n"
+"\"God! You honestly forgot?! Kazushi, you're hopeless.\""
 msgstr ""
 
 #: 00706:213
-
-msgid "{Daigo}\n\"That's why we need to look after him.\""
+msgid ""
+"{Daigo}\n"
+"\"That's why we need to look after him.\""
 msgstr ""
 
 #: 00706:214
-
 msgid "They seriously looked shocked. Am I really an idiot?"
 msgstr ""
 
 #: 00706:220
-
-msgid "{Sakura}\n\"I guess Harucchi really forgot. I was rather looking forward to it too.\""
+msgid ""
+"{Sakura}\n"
+"\"I guess Harucchi really forgot. I was rather looking forward to it too.\""
 msgstr ""
 
 #: 00706:221
-
-msgid "{Kazushi}\n\"You too, Sakura?\""
+msgid ""
+"{Kazushi}\n"
+"\"You too, Sakura?\""
 msgstr ""
 
 #: 00706:226
-
-msgid "{Pierre}\n\"Sakura-chan, please inform this idiot what happens tomorrow.\""
+msgid ""
+"{Pierre}\n"
+"\"Sakura-chan, please inform this idiot what happens tomorrow.\""
 msgstr ""
 
 #: 00706:229
-
-msgid "{Sakura}\n\"Oh well, let me enlighten you. Tomorrow we're having a welcoming party for you boys.\""
+msgid ""
+"{Sakura}\n"
+"\"Oh well, let me enlighten you. Tomorrow we're having a welcoming party for you boys.\""
 msgstr ""
 
 #: 00706:230
-
-msgid "{Kazushi}\n\"Welcoming party?\""
+msgid ""
+"{Kazushi}\n"
+"\"Welcoming party?\""
 msgstr ""
 
 #: 00706:231
-
 msgid "..............."
 msgstr ""
 
 #: 00706:232
-
 msgid "........................"
 msgstr ""
 
 #: 00706:233
-
-msgid "{Kazushi}\n\"Oh yeah!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh yeah!\""
 msgstr ""
 
 #: 00706:237
-
-msgid "{Appo}\n\"How could you forget!?\""
+msgid ""
+"{Appo}\n"
+"\"How could you forget!?\""
 msgstr ""
 
 #: 00706:238
-
 msgid "I finally remembered Mei-sensei telling us something about that."
 msgstr ""
 
 #: 00706:239
-
-msgid "{Pierre}\n\"You should at least make sure to keep track of big events like this. Girls love special events.\""
+msgid ""
+"{Pierre}\n"
+"\"You should at least make sure to keep track of big events like this. Girls love special events.\""
 msgstr ""
 
 #: 00706:243
-
-msgid "{Appo}\n\"Like the anniversary of when you first met, the anniversary of when you first looked at each other, the anniversary of when you first talked, the anniversary of when you first held hands, the anniversary of when you first kissed, the anniversary of when you first screwed...\""
+msgid ""
+"{Appo}\n"
+"\"Like the anniversary of when you first met, the anniversary of when you first looked at each other, the anniversary of when you first talked, the anniversary of when you first held hands, the anniversary of when you first kissed, the anniversary of when you first screwed...\""
 msgstr ""
 
 #: 00706:245
-
-msgid "{Kazushi}\n\"They're that detailed?\""
+msgid ""
+"{Kazushi}\n"
+"\"They're that detailed?\""
 msgstr ""
 
 #: 00706:246
-
-msgid "{Pierre}\n\"Girls turn every occasion into an anniversary, and they'll never forgive you if you forget.\""
+msgid ""
+"{Pierre}\n"
+"\"Girls turn every occasion into an anniversary, and they'll never forgive you if you forget.\""
 msgstr ""
 
 #: 00706:247
-
-msgid "{Kazushi}\n\"Are you serious? I don't think I'll be able to date a girl...\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you serious? I don't think I'll be able to date a girl...\""
 msgstr ""
 
 #: 00706:251
-
-msgid "{Daigo}\n\"They love romance.\""
+msgid ""
+"{Daigo}\n"
+"\"They love romance.\""
 msgstr ""
 
 #: 00706:252
-
-msgid "{Kazushi}\n\"Even you knew that, Daigo......?\""
+msgid ""
+"{Kazushi}\n"
+"\"Even you knew that, Daigo......?\""
 msgstr ""
 
 #: 00706:257
-
-msgid "{Ran}\n\"Are you sure that's just not your delusion?\""
+msgid ""
+"{Ran}\n"
+"\"Are you sure that's just not your delusion?\""
 msgstr ""
 
 #: 00706:258
-
 msgid "Ran wasn't about to let that blanket statement pass."
 msgstr ""
 
 #: 00706:259
-
-msgid "{Ran}\n\"I have yet to meet a girl like that. I don't care about any of those things, either.\""
+msgid ""
+"{Ran}\n"
+"\"I have yet to meet a girl like that. I don't care about any of those things, either.\""
 msgstr ""
 
 #: 00706:264
-
-msgid "{Appo}\n\"Why not?! Care about them! They're important aren't they?!\""
+msgid ""
+"{Appo}\n"
+"\"Why not?! Care about them! They're important aren't they?!\""
 msgstr ""
 
 #: 00706:268
-
-msgid "{Sakura}\n\"I could never remember all those dates and details.\""
+msgid ""
+"{Sakura}\n"
+"\"I could never remember all those dates and details.\""
 msgstr ""
 
 #: 00706:271
-
-msgid "{Ran}\n\"Right? See?\""
+msgid ""
+"{Ran}\n"
+"\"Right? See?\""
 msgstr ""
 
 #: 00706:272
-
 msgid "Looks like we men were more romantic. Either way, there's a welcoming party tomorrow."
 msgstr ""
 
 #: 00706:273
-
-msgid "{Kazushi}\n\"You think there'll be something good to eat at the party?\""
+msgid ""
+"{Kazushi}\n"
+"\"You think there'll be something good to eat at the party?\""
 msgstr ""
 
 #: 00706:278
-
-msgid "{Pierre}\n\"Stupid, that's not what matters! The girls are doing this to welcome us! It's our chance to get closer to them!\""
+msgid ""
+"{Pierre}\n"
+"\"Stupid, that's not what matters! The girls are doing this to welcome us! It's our chance to get closer to them!\""
 msgstr ""
 
 #: 00706:282
-
-msgid "{Ran}\n\"I hate to be the one to say this, but I don't think you should get your hopes up?\""
+msgid ""
+"{Ran}\n"
+"\"I hate to be the one to say this, but I don't think you should get your hopes up?\""
 msgstr ""
 
 #: 00706:283
-
 msgid "She looked sorry to tell us that."
 msgstr ""
 
 #: 00706:284
-
-msgid "{Ran}\n\"Isn't the mood between the guys and the girls kind of edgy right now? Attendance is mandatory, so I doubt any of them are going to sincerely welcome you guys.\""
+msgid ""
+"{Ran}\n"
+"\"Isn't the mood between the guys and the girls kind of edgy right now? Attendance is mandatory, so I doubt any of them are going to sincerely welcome you guys.\""
 msgstr ""
 
 #: 00706:289
-
-msgid "{Appo}\n\"I wish you hadn't told me that. I was finally starting to feel good.\""
+msgid ""
+"{Appo}\n"
+"\"I wish you hadn't told me that. I was finally starting to feel good.\""
 msgstr ""
 
 #: 00706:292
-
-msgid "{Ran}\n\"I thought you'd be hurt less if you faced reality.\""
+msgid ""
+"{Ran}\n"
+"\"I thought you'd be hurt less if you faced reality.\""
 msgstr ""
 
 #: 00706:295
-
-msgid "{Appo}\n\"We can at least dream! Let a man dream!\""
+msgid ""
+"{Appo}\n"
+"\"We can at least dream! Let a man dream!\""
 msgstr ""
 
 #: 00706:299
-
-msgid "{Pierre}\n\"But maybe this event will be a trigger to help the boys and girls get along better in the future.\""
+msgid ""
+"{Pierre}\n"
+"\"But maybe this event will be a trigger to help the boys and girls get along better in the future.\""
 msgstr ""
 
 #: 00706:300
-
-msgid "{Ran}\n\"You're right. I've got a great idea for something you can do tomorrow.\""
+msgid ""
+"{Ran}\n"
+"\"You're right. I've got a great idea for something you can do tomorrow.\""
 msgstr ""
 
 #: 00706:304
-
-msgid "{Appo}\n\"You have some kind of plan?\""
+msgid ""
+"{Appo}\n"
+"\"You have some kind of plan?\""
 msgstr ""
 
 #: 00706:307
-
-msgid "{Ran}\n\"I do, I do. Of course I do. I know a technique you can use to snag their hearts!\""
+msgid ""
+"{Ran}\n"
+"\"I do, I do. Of course I do. I know a technique you can use to snag their hearts!\""
 msgstr ""
 
 #: 00706:314
-
-msgid "{Pierre}\n\"How much!? How much do you want!?\""
+msgid ""
+"{Pierre}\n"
+"\"How much!? How much do you want!?\""
 msgstr ""
 
 #: 00706:315
-
-msgid "{Kazushi}\n\"Hold it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hold it.\""
 msgstr ""
 
 #: 00706:316
-
 msgid "I hated to intrude on Pierre and Ran's excitement, but I didn't like where this was going."
 msgstr ""
 
 #: 00706:321
-
-msgid "{Ran}\n\"What's wrong?\nDon't you want to be popular?\""
+msgid ""
+"{Ran}\n"
+"\"What's wrong?\n"
+"Don't you want to be popular?\""
 msgstr ""
 
 #: 00706:322
-
-msgid "{Kazushi}\n\"I'd love to be, if that were possible, but I think this is something we should work out by ourselves.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'd love to be, if that were possible, but I think this is something we should work out by ourselves.\""
 msgstr ""
 
 #: 00706:323
-
 msgid "Right now there was a huge social gap between the boys and the girls."
 msgstr ""
 
 #: 00706:324
-
-msgid "{Kazushi}\n\"We need to wipe away our past disgrace with our own hands.\""
+msgid ""
+"{Kazushi}\n"
+"\"We need to wipe away our past disgrace with our own hands.\""
 msgstr ""
 
 #: 00706:325
-
 msgid "We shouldn't be thinking about what kind of results to expect from the welcoming party, but rather the road to follow to get along with the girls."
 msgstr ""
 
 #: 00706:333
-
-msgid "{Appo}\n\"Here he goes, pretending to be a good guy.\""
+msgid ""
+"{Appo}\n"
+"\"Here he goes, pretending to be a good guy.\""
 msgstr ""
 
 #: 00706:334
-
-msgid "{Daigo}\n\"That's our Kazushi.\""
+msgid ""
+"{Daigo}\n"
+"\"That's our Kazushi.\""
 msgstr ""
 
 #: 00706:335
-
-msgid "{Pierre}\n\"Well, I guess if that's how you feel, Kazushi. You're up for it, right Appo?\""
+msgid ""
+"{Pierre}\n"
+"\"Well, I guess if that's how you feel, Kazushi. You're up for it, right Appo?\""
 msgstr ""
 
 #: 00706:338
-
-msgid "{Appo}\n\"For crying out loud. Kazushi is useless without us.\""
+msgid ""
+"{Appo}\n"
+"\"For crying out loud. Kazushi is useless without us.\""
 msgstr ""
 
 #: 00706:339
-
 msgid "Ran gave us a quizzical look."
 msgstr ""
 
 #: 00706:345
-
-msgid "{Ran}\n\"Hmm? You guys have a pretty strange relationship.\""
+msgid ""
+"{Ran}\n"
+"\"Hmm? You guys have a pretty strange relationship.\""
 msgstr ""
 
 #: 00706:350
-
-msgid "{Daigo}\n\"It's hard for a girl to understand.\""
+msgid ""
+"{Daigo}\n"
+"\"It's hard for a girl to understand.\""
 msgstr ""
 
 #: 00706:351
-
-msgid "{Kazushi}\n\"All right! We'll find our own way to wipe away our past disgrace!\""
+msgid ""
+"{Kazushi}\n"
+"\"All right! We'll find our own way to wipe away our past disgrace!\""
 msgstr ""
 
 #: 00706:354
-
-msgid "{Daigo}\n\"Let's redeem our honor!\""
+msgid ""
+"{Daigo}\n"
+"\"Let's redeem our honor!\""
 msgstr ""
 
 #: 00706:357
-
-msgid "{Ran}\n\"Ahaha, sounds like failure's in store. Well, good luck.\""
+msgid ""
+"{Ran}\n"
+"\"Ahaha, sounds like failure's in store. Well, good luck.\""
 msgstr ""
 
 #: 00706:362
-
 msgid "Here we are, holding a strategy meeting."
 msgstr ""
 
 #: 00706:369
-
-msgid "{Daigo}\n\"So, what we should do?\""
+msgid ""
+"{Daigo}\n"
+"\"So, what we should do?\""
 msgstr ""
 
 #: 00706:370
-
-msgid "{Kazushi}\n\"Something the girls will like?\""
+msgid ""
+"{Kazushi}\n"
+"\"Something the girls will like?\""
 msgstr ""
 
 #: 00706:373
-
-msgid "{Daigo}\n\"Like what?\""
+msgid ""
+"{Daigo}\n"
+"\"Like what?\""
 msgstr ""
 
 #: 00706:376
-
-msgid "{Pierre}\n\"......how about proposing?\""
+msgid ""
+"{Pierre}\n"
+"\"......how about proposing?\""
 msgstr ""
 
 #: 00706:377
-
-msgid "{Kazushi}\n\"If their lovers did that, they might be happy, but definitely not if we did.\""
+msgid ""
+"{Kazushi}\n"
+"\"If their lovers did that, they might be happy, but definitely not if we did.\""
 msgstr ""
 
 #: 00706:380
-
-msgid "{Pierre}\n\"But I hear that girls go along with the mood. We could invite them out to a romantic, tear-jerking spot...\""
+msgid ""
+"{Pierre}\n"
+"\"But I hear that girls go along with the mood. We could invite them out to a romantic, tear-jerking spot...\""
 msgstr ""
 
 #: 00706:381
-
-msgid "{Appo}\n\"The g-spot?\""
+msgid ""
+"{Appo}\n"
+"\"The g-spot?\""
 msgstr ""
 
 #: 00706:386
-
-msgid "{Kazushi}\n\"That is the name of a spot, but they'd kill you for mentioning it, Appo.\""
+msgid ""
+"{Kazushi}\n"
+"\"That is the name of a spot, but they'd kill you for mentioning it, Appo.\""
 msgstr ""
 
 #: 00706:389
-
-msgid "{Appo}\n\"I've heard that girls cry for joy when you go to their g-spot.\""
+msgid ""
+"{Appo}\n"
+"\"I've heard that girls cry for joy when you go to their g-spot.\""
 msgstr ""
 
 #: 00706:390
-
-msgid "{Daigo}\n\"You read way too many how-to manuals, Appo.\""
+msgid ""
+"{Daigo}\n"
+"\"You read way too many how-to manuals, Appo.\""
 msgstr ""
 
 #: 00706:391
-
 msgid "I'm glad we were finally trying to clear our names, but we didn't have a clue as to how we'd do it. We'd never done anything that made girls happy."
 msgstr ""
 
 #: 00706:394
-
-msgid "{Appo}\n\"Hey, Pierre! You give us a decent plan! You always say you know everything about girls, don't you?\""
+msgid ""
+"{Appo}\n"
+"\"Hey, Pierre! You give us a decent plan! You always say you know everything about girls, don't you?\""
 msgstr ""
 
 #: 00706:397
-
-msgid "{Pierre}\n\"I know, but...something they'd like... How about a surprise?\""
+msgid ""
+"{Pierre}\n"
+"\"I know, but...something they'd like... How about a surprise?\""
 msgstr ""
 
 #: 00706:398
-
-msgid "{Kazushi}\n\"That's a good start.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's a good start.\""
 msgstr ""
 
 #: 00706:401
-
-msgid "{Appo}\n\"So surprise them with something shocking? Or startle them? I bet they'd be stunned if they woke up with us lying naked next to them.\""
+msgid ""
+"{Appo}\n"
+"\"So surprise them with something shocking? Or startle them? I bet they'd be stunned if they woke up with us lying naked next to them.\""
 msgstr ""
 
 #: 00706:404
-
-msgid "{Daigo}\n\"That's just a crime.\""
+msgid ""
+"{Daigo}\n"
+"\"That's just a crime.\""
 msgstr ""
 
 #: 00706:407
-
-msgid "{Pierre}\n\"Not that kind of surprise......how about presents?\""
+msgid ""
+"{Pierre}\n"
+"\"Not that kind of surprise......how about presents?\""
 msgstr ""
 
 #: 00706:412
-
-msgid "{Boys}\n\"Presents!!!\""
+msgid ""
+"{Boys}\n"
+"\"Presents!!!\""
 msgstr ""
 
 #: 00706:413
-
 msgid "That was a revelation to us all. Of course, presents can make a girl happy. That's always in dramas and such."
 msgstr ""
 
 #: 00706:414
-
-msgid "{Kazushi}\n\"Wait, I forgot. I don't have any money.\""
+msgid ""
+"{Kazushi}\n"
+"\"Wait, I forgot. I don't have any money.\""
 msgstr ""
 
 #: 00706:415
-
 msgid "Ran took it all away from me, and now I can barely afford my own lunch."
 msgstr ""
 
 #: 00706:418
-
-msgid "{Appo}\n\"I'm thinking about it carefully, but I can't come up with anything that we can get ahold of that the girls would like on this island.\""
+msgid ""
+"{Appo}\n"
+"\"I'm thinking about it carefully, but I can't come up with anything that we can get ahold of that the girls would like on this island.\""
 msgstr ""
 
 #: 00706:421
-
-msgid "{Daigo}\n\"What kind of thing would they want, anyways?\""
+msgid ""
+"{Daigo}\n"
+"\"What kind of thing would they want, anyways?\""
 msgstr ""
 
 #: 00706:422
-
-msgid "{Pierre}\n\"Designer items? Jewellery? Something with value.\""
+msgid ""
+"{Pierre}\n"
+"\"Designer items? Jewellery? Something with value.\""
 msgstr ""
 
 #: 00706:423
-
-msgid "{Kazushi}\n\"They're definitely not selling those here. And we couldn't afford them if they did.\""
+msgid ""
+"{Kazushi}\n"
+"\"They're definitely not selling those here. And we couldn't afford them if they did.\""
 msgstr ""
 
 #: 00706:426
-
-msgid "{Appo}\n\"Hey, Daigo, can't you fake up some designer bags with your workman's hands?\""
+msgid ""
+"{Appo}\n"
+"\"Hey, Daigo, can't you fake up some designer bags with your workman's hands?\""
 msgstr ""
 
 #: 00706:429
-
-msgid "{Daigo}\n\"Impossible.\""
+msgid ""
+"{Daigo}\n"
+"\"Impossible.\""
 msgstr ""
 
 #: 00706:434
-
 msgid "I thought we'd stumbled upon a great idea but were at a dead end already. What do we do now?"
 msgstr ""
 
 #: 00706:437
-
-msgid "{Appo}\n\"Pierre, give us a plan.\""
+msgid ""
+"{Appo}\n"
+"\"Pierre, give us a plan.\""
 msgstr ""
 
 #: 00706:438
-
-msgid "{Pierre}\n\"Me again......?\""
+msgid ""
+"{Pierre}\n"
+"\"Me again......?\""
 msgstr ""
 
 #: 00706:439
-
 msgid "After a few seconds, he came up with a great idea."
 msgstr ""
 
 #: 00706:442
-
-msgid "{Pierre}\n\"Why don't we ask them?\""
+msgid ""
+"{Pierre}\n"
+"\"Why don't we ask them?\""
 msgstr ""
 
 #: 00706:443
-
-msgid "{Kazushi}\n\"I guess we'll have to. It'll ruin the surprise, though.\""
+msgid ""
+"{Kazushi}\n"
+"\"I guess we'll have to. It'll ruin the surprise, though.\""
 msgstr ""
 
 #: 00706:444
-
 msgid "I wonder who I should be asking?"
 msgstr ""
-

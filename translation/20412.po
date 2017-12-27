@@ -8,16 +8,17 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 20412:7
-
-msgid "{Principal}\n\"Why? Why are you going so far to support that man?\""
+msgid ""
+"{Principal}\n"
+"\"Why? Why are you going so far to support that man?\""
 msgstr ""
 
 #: 20412:10
-
-msgid "{Natsume}\n\"Because one day, Haruma will save me too.\""
+msgid ""
+"{Natsume}\n"
+"\"Because one day, Haruma will save me too.\""
 msgstr ""
-

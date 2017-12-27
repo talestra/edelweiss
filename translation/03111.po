@@ -8,666 +8,722 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 03111:5
-
-msgid "{Kazushi}\n\"..................\""
+msgid ""
+"{Kazushi}\n"
+"\"..................\""
 msgstr ""
 
 #: 03111:6
-
 msgid "I snuck up quietly and peeked inside the door."
 msgstr ""
 
 #: 03111:12
-
-msgid "{Haruka}\n\"I want to know what that experiment was for! Why won't you answer me?\""
+msgid ""
+"{Haruka}\n"
+"\"I want to know what that experiment was for! Why won't you answer me?\""
 msgstr ""
 
 #: 03111:13
-
-msgid "I could hear them without even pressing my ear to the door. Haruka pressed in on the principal...\nWhat did she mean by experiment?"
+msgid ""
+"I could hear them without even pressing my ear to the door. Haruka pressed in on the principal...\n"
+"What did she mean by experiment?"
 msgstr ""
 
 #: 03111:17
-
-msgid "{Principal}\n\"I don't see the reason why I should even be hearing that question from you.\""
+msgid ""
+"{Principal}\n"
+"\"I don't see the reason why I should even be hearing that question from you.\""
 msgstr ""
 
 #: 03111:22
-
-msgid "{Haruka}\n\"Because!\""
+msgid ""
+"{Haruka}\n"
+"\"Because!\""
 msgstr ""
 
 #: 03111:23
-
 msgid "Haruka seemed very upset. It was rare to see her so angry."
 msgstr ""
 
 #: 03111:24
-
-msgid "{Principal}\n\"I still don't appreciate the fact that you were there.\nWhat were you doing with that class to begin with?\""
+msgid ""
+"{Principal}\n"
+"\"I still don't appreciate the fact that you were there.\n"
+"What were you doing with that class to begin with?\""
 msgstr ""
 
 #: 03111:25
-
-msgid "{Haruka}\n\"Whatever I choose to do is up to me. I'm not some puppet who follows your commands, Grandma.\""
+msgid ""
+"{Haruka}\n"
+"\"Whatever I choose to do is up to me. I'm not some puppet who follows your commands, Grandma.\""
 msgstr ""
 
 #: 03111:28
-
 msgid "Haruka made a strong statement, but for some reason, the principal starts laughing."
 msgstr ""
 
 #: 03111:29
-
-msgid "{Haruka}\n\"What's so funny?\""
+msgid ""
+"{Haruka}\n"
+"\"What's so funny?\""
 msgstr ""
 
 #: 03111:32
-
-msgid "{Principal}\n\"You like him, don't you?\""
+msgid ""
+"{Principal}\n"
+"\"You like him, don't you?\""
 msgstr ""
 
 #: 03111:35
-
-msgid "{Haruka}\n\"...ah!\""
+msgid ""
+"{Haruka}\n"
+"\"...ah!\""
 msgstr ""
 
 #: 03111:36
-
 msgid "Haruka was lost for words. Who's \"him\"?"
 msgstr ""
 
 #: 03111:37
-
-msgid "{Principal}\n\"You've been suckered by a fool.\""
+msgid ""
+"{Principal}\n"
+"\"You've been suckered by a fool.\""
 msgstr ""
 
 #: 03111:40
-
-msgid "{Haruka}\n\"I don't get what you're talking about.\""
+msgid ""
+"{Haruka}\n"
+"\"I don't get what you're talking about.\""
 msgstr ""
 
 #: 03111:43
-
-msgid "{Principal}\n\"I'm not criticizing you. This proves you're maturing.\""
+msgid ""
+"{Principal}\n"
+"\"I'm not criticizing you. This proves you're maturing.\""
 msgstr ""
 
 #: 03111:44
-
-msgid "{Haruka}\n\"I thought you were going to let me take care of Kazushi-kun!\""
+msgid ""
+"{Haruka}\n"
+"\"I thought you were going to let me take care of Kazushi-kun!\""
 msgstr ""
 
 #: 03111:45
-
-msgid "{Kazushi}\n\"What......?\""
+msgid ""
+"{Kazushi}\n"
+"\"What......?\""
 msgstr ""
 
 #: 03111:46
-
-msgid "Why are they talking about me?\n......what did she mean by taking care of me?"
+msgid ""
+"Why are they talking about me?\n"
+"......what did she mean by taking care of me?"
 msgstr ""
 
 #: 03111:47
-
-msgid "{Haruka}\n\"Why didn't you let me handle it myself? Wouldn't everything be ruined if something had happened to him?!\""
+msgid ""
+"{Haruka}\n"
+"\"Why didn't you let me handle it myself? Wouldn't everything be ruined if something had happened to him?!\""
 msgstr ""
 
 #: 03111:50
-
-msgid "{Principal}\n\"Because it was better than nothing. You haven't shown any progress after an entire month.\""
+msgid ""
+"{Principal}\n"
+"\"Because it was better than nothing. You haven't shown any progress after an entire month.\""
 msgstr ""
 
 #: 03111:51
-
-msgid "{Principal}\n\"What have you been doing this whole time?\""
+msgid ""
+"{Principal}\n"
+"\"What have you been doing this whole time?\""
 msgstr ""
 
 #: 03111:54
-
-msgid "{Haruka}\n\"It's only been a month. Why are we in such a hurry?\""
+msgid ""
+"{Haruka}\n"
+"\"It's only been a month. Why are we in such a hurry?\""
 msgstr ""
 
 #: 03111:55
-
-msgid "{Principal}\n\"We aren't in a hurry. I'm just saying that there's no reason to take longer than necessary.\""
+msgid ""
+"{Principal}\n"
+"\"We aren't in a hurry. I'm just saying that there's no reason to take longer than necessary.\""
 msgstr ""
 
 #: 03111:58
-
-msgid "{Haruka}\n\"But we need more data. If we don't observe......\""
+msgid ""
+"{Haruka}\n"
+"\"But we need more data. If we don't observe......\""
 msgstr ""
 
 #: 03111:61
-
-msgid "{Principal}\n\"That's why I gathered more data. You can't collect any more data just by watching him.\""
+msgid ""
+"{Principal}\n"
+"\"That's why I gathered more data. You can't collect any more data just by watching him.\""
 msgstr ""
 
 #: 03111:64
-
-msgid "{Haruka}\n\"Well... Still! That experiment was too risky! What were you planning to do with everyone there?!\""
+msgid ""
+"{Haruka}\n"
+"\"Well... Still! That experiment was too risky! What were you planning to do with everyone there?!\""
 msgstr ""
 
 #: 03111:65
-
-msgid "{Kazushi}\n\"What experiment?\n...AH!\""
+msgid ""
+"{Kazushi}\n"
+"\"What experiment?\n"
+"...AH!\""
 msgstr ""
 
 #: 03111:68
-
 msgid "She must be talking about the experiment where we all had to keep watch over the principal's fire. There was something weird about it..."
 msgstr ""
 
 #: 03111:69
-
 msgid "No, that experiment was full of weird things. In the end, Natsume-chan popped out of that flask."
 msgstr ""
 
 #: 03111:74
-
-msgid "{Haruka}\n\"I was terrified when I realized it after the fact! What if Natsume-chan hadn't shown up?\""
+msgid ""
+"{Haruka}\n"
+"\"I was terrified when I realized it after the fact! What if Natsume-chan hadn't shown up?\""
 msgstr ""
 
 #: 03111:75
-
 msgid "Why had she been scared? She made it sound like Natsume-chan had showed up to save us..."
 msgstr ""
 
 #: 03111:76
-
-msgid "{Haruka}\n\"Natsume-chan's appearance was a miscalculation on your part, wasn't it, Grandma?\""
+msgid ""
+"{Haruka}\n"
+"\"Natsume-chan's appearance was a miscalculation on your part, wasn't it, Grandma?\""
 msgstr ""
 
 #: 03111:79
-
-msgid "{Principal}\n\"Yes. I certainly never expected her to interfere with it. I wonder what brought about such a change of heart.\""
+msgid ""
+"{Principal}\n"
+"\"Yes. I certainly never expected her to interfere with it. I wonder what brought about such a change of heart.\""
 msgstr ""
 
 #: 03111:80
-
 msgid "I thought Natsume-chan simply appeared. What did she do? What happened without us noticing?"
 msgstr ""
 
 #: 03111:81
-
-msgid "{Haruka}\n\"What would have happened if Natsume-chan hadn't decided to show up?\""
+msgid ""
+"{Haruka}\n"
+"\"What would have happened if Natsume-chan hadn't decided to show up?\""
 msgstr ""
 
 #: 03111:84
-
-msgid "{Principal}\n\"I think you know the answer.\""
+msgid ""
+"{Principal}\n"
+"\"I think you know the answer.\""
 msgstr ""
 
 #: 03111:87
-
-msgid "{Haruka}\n\"I can't believe you......!\""
+msgid ""
+"{Haruka}\n"
+"\"I can't believe you......!\""
 msgstr ""
 
 #: 03111:88
-
 msgid "Haruka screamed in disbelief."
 msgstr ""
 
 #: 03111:89
-
-msgid "{Haruka}\n\"Then what about all of us?! Were you just going to watch us all die?!\""
+msgid ""
+"{Haruka}\n"
+"\"Then what about all of us?! Were you just going to watch us all die?!\""
 msgstr ""
 
 #: 03111:90
-
 msgid "Watch us die? This is a surprisingly violent topic."
 msgstr ""
 
 #: 03111:91
-
-msgid "{Principal}\n\"You're over-exaggerating. That was not a large enough experiment to cause such an impact.\""
+msgid ""
+"{Principal}\n"
+"\"You're over-exaggerating. That was not a large enough experiment to cause such an impact.\""
 msgstr ""
 
 #: 03111:92
-
-msgid "{Principal}\n\"It was only an average sized large flask. Altering the spatiality for one person is all it could do.\""
+msgid ""
+"{Principal}\n"
+"\"It was only an average sized large flask. Altering the spatiality for one person is all it could do.\""
 msgstr ""
 
 #: 03111:95
-
-msgid "{Haruka}\n\"Even one person makes it a human experiment! Who would have been sacrificed if Natsume-chan hadn't stopped it?!\""
+msgid ""
+"{Haruka}\n"
+"\"Even one person makes it a human experiment! Who would have been sacrificed if Natsume-chan hadn't stopped it?!\""
 msgstr ""
 
 #: 03111:96
-
 msgid "Sacrificed? What the hell are they talking about?"
 msgstr ""
 
 #: 03111:99
-
-msgid "{Principal}\n\"Sacrifice?\nNow, you're really exaggerating.\""
+msgid ""
+"{Principal}\n"
+"\"Sacrifice?\n"
+"Now, you're really exaggerating.\""
 msgstr ""
 
 #: 03111:101
-
-msgid "{Haruka}\n\"I knew there was something wrong as soon as I saw the list of equipment. You wouldn't normally leave that in the care of students without at least being guided by their teacher, Mei-chan.\""
+msgid ""
+"{Haruka}\n"
+"\"I knew there was something wrong as soon as I saw the list of equipment. You wouldn't normally leave that in the care of students without at least being guided by their teacher, Mei-chan.\""
 msgstr ""
 
 #: 03111:105
-
-msgid "{Haruka}\n\"Even I wasn't much help after slipping in there...\""
+msgid ""
+"{Haruka}\n"
+"\"Even I wasn't much help after slipping in there...\""
 msgstr ""
 
 #: 03111:108
-
-msgid "{Principal}\n\"If you really want to help then remember this: you must never get taken in. You always need to remain a passive observer.\""
+msgid ""
+"{Principal}\n"
+"\"If you really want to help then remember this: you must never get taken in. You always need to remain a passive observer.\""
 msgstr ""
 
 #: 03111:111
-
-msgid "{Principal}\n\"You learned a good lesson.\""
+msgid ""
+"{Principal}\n"
+"\"You learned a good lesson.\""
 msgstr ""
 
 #: 03111:114
-
-msgid "{Haruka}\n\"How can you say that? Are dead people more important to you than those who are still alive, Grandma?\""
+msgid ""
+"{Haruka}\n"
+"\"How can you say that? Are dead people more important to you than those who are still alive, Grandma?\""
 msgstr ""
 
 #: 03111:115
-
 msgid "Haruka's statement was brutal."
 msgstr ""
 
 #: 03111:118
-
-msgid "{Principal}\n\"..................\""
+msgid ""
+"{Principal}\n"
+"\"..................\""
 msgstr ""
 
 #: 03111:119
-
 msgid "The principal lost her calm composure and fell silent. It looked like Haruka's words hurt her more than I'd imagined."
 msgstr ""
 
 #: 03111:122
-
-msgid "{Principal}\n\"You can think whatever you want about this.\""
+msgid ""
+"{Principal}\n"
+"\"You can think whatever you want about this.\""
 msgstr ""
 
 #: 03111:125
-
 msgid "Haruka looked at her with pity."
 msgstr ""
 
 #: 03111:126
-
-msgid "{Haruka}\n\"Then I don't think I can follow your path any longer.\""
+msgid ""
+"{Haruka}\n"
+"\"Then I don't think I can follow your path any longer.\""
 msgstr ""
 
 #: 03111:127
-
 msgid "Haruka protested quietly. I could hear the sadness in her voice."
 msgstr ""
 
 #: 03111:128
-
 msgid "The principal couldn't do anything but sigh. She looked like someone who had given up on everything."
 msgstr ""
 
 #: 03111:131
-
-msgid "{Principal}\n\"You don't understand how I feel because you've never lost anything important.\""
+msgid ""
+"{Principal}\n"
+"\"You don't understand how I feel because you've never lost anything important.\""
 msgstr ""
 
 #: 03111:134
-
-msgid "{Haruka}\n\"Fine. And I don't want to know.\""
+msgid ""
+"{Haruka}\n"
+"\"Fine. And I don't want to know.\""
 msgstr ""
 
 #: 03111:135
-
 msgid "Their two opinions clashed directly with each other. And here I thought they got along great."
 msgstr ""
 
 #: 03111:136
-
-msgid "{Haruka}\n\"...Could something like that happen again?\""
+msgid ""
+"{Haruka}\n"
+"\"...Could something like that happen again?\""
 msgstr ""
 
 #: 03111:139
-
-msgid "{Principal}\n\"So long as you fail to produce results, then I will play my hand as I wish. Otherwise, what was the point in making this school co-ed?\""
+msgid ""
+"{Principal}\n"
+"\"So long as you fail to produce results, then I will play my hand as I wish. Otherwise, what was the point in making this school co-ed?\""
 msgstr ""
 
 #: 03111:142
-
-msgid "{Haruka}\n\"......I understand.\nI will get the result you want.\""
+msgid ""
+"{Haruka}\n"
+"\"......I understand.\n"
+"I will get the result you want.\""
 msgstr ""
 
 #: 03111:143
-
-msgid "{Principal}\n\"You do that.\""
+msgid ""
+"{Principal}\n"
+"\"You do that.\""
 msgstr ""
 
 #: 03111:147
-
 msgid "Their tense conversation was finally over."
 msgstr ""
 
 #: 03111:148
-
-msgid "{Haruka}\n\"Excuse me.\""
+msgid ""
+"{Haruka}\n"
+"\"Excuse me.\""
 msgstr ""
 
 #: 03111:150
-
 msgid "Oops. Haruka's leaving..."
 msgstr ""
 
 #: 03111:152
-
 msgid "*SLAM*"
 msgstr ""
 
 #: 03111:153
-
 msgid "The door opened before I could hide."
 msgstr ""
 
 #: 03111:156
-
-msgid "{Haruka}\n\"Ah!\""
+msgid ""
+"{Haruka}\n"
+"\"Ah!\""
 msgstr ""
 
 #: 03111:157
-
 msgid "We were right in front of each other."
 msgstr ""
 
 #: 03111:158
-
-msgid "{Kazushi}\n\"Umm......\""
+msgid ""
+"{Kazushi}\n"
+"\"Umm......\""
 msgstr ""
 
 #: 03111:159
-
 msgid "It was a very long and awkward moment."
 msgstr ""
 
 #: 03111:160
-
-msgid "{Principal}\n\"What's wrong?\""
+msgid ""
+"{Principal}\n"
+"\"What's wrong?\""
 msgstr ""
 
 #: 03111:161
-
 msgid "The principal noticed that something was wrong just outside her door. Haruka stepped in front of me so that I couldn't be seen."
 msgstr ""
 
 #: 03111:164
-
-msgid "{Haruka}\n\"It's nothing. Excuse me.\""
+msgid ""
+"{Haruka}\n"
+"\"It's nothing. Excuse me.\""
 msgstr ""
 
 #: 03111:166
-
 msgid "*SLAM*"
 msgstr ""
 
 #: 03111:167
-
 msgid "Haruka closed the door. I could see that she was still worked up."
 msgstr ""
 
 #: 03111:168
-
-msgid "{Kazushi}\n\"Hey......\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey......\""
 msgstr ""
 
 #: 03111:171
-
-msgid "{Haruka}\n\"Shh!\""
+msgid ""
+"{Haruka}\n"
+"\"Shh!\""
 msgstr ""
 
 #: 03111:172
-
 msgid "She covered my mouth."
 msgstr ""
 
 #: 03111:173
-
-msgid "{Haruka}\n(Be quiet. She can still hear you.)"
+msgid ""
+"{Haruka}\n"
+"(Be quiet. She can still hear you.)"
 msgstr ""
 
 #: 03111:174
-
-msgid "{Kazushi}\n\"Ah!\""
+msgid ""
+"{Kazushi}\n"
+"\"Ah!\""
 msgstr ""
 
 #: 03111:175
-
-msgid "{Haruka}\n(Let's get out of here.)"
+msgid ""
+"{Haruka}\n"
+"(Let's get out of here.)"
 msgstr ""
 
 #: 03111:178
-
-msgid "{Kazushi}\n\"..................\""
+msgid ""
+"{Kazushi}\n"
+"\"..................\""
 msgstr ""
 
 #: 03111:181
-
-msgid "{Haruka}\n\".........it's OK now.\""
+msgid ""
+"{Haruka}\n"
+"\".........it's OK now.\""
 msgstr ""
 
 #: 03111:182
-
 msgid "I took a deep breath."
 msgstr ""
 
 #: 03111:183
-
-msgid "{Kazushi}\n\"That was scary.\""
+msgid ""
+"{Kazushi}\n"
+"\"That was scary.\""
 msgstr ""
 
 #: 03111:188
-
-msgid "{Haruka}\n\"That's my line. What were you doing there?\""
+msgid ""
+"{Haruka}\n"
+"\"That's my line. What were you doing there?\""
 msgstr ""
 
 #: 03111:189
-
 msgid "Her question finally reminded me why I'd went there in the first place."
 msgstr ""
 
 #: 03111:190
-
-msgid "{Kazushi}\n\"Oh yeah!\nI went back there to get my stuff.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh yeah!\n"
+"I went back there to get my stuff.\""
 msgstr ""
 
 #: 03111:192
-
 msgid "I ended up not getting what I came for."
 msgstr ""
 
 #: 03111:195
-
-msgid "{Haruka}\n\"You went back there to pick up something you forgot? So you were there by coincidence?\""
+msgid ""
+"{Haruka}\n"
+"\"You went back there to pick up something you forgot? So you were there by coincidence?\""
 msgstr ""
 
 #: 03111:196
-
-msgid "{Kazushi}\n\"Of course it was only a coincidence. You sure ask weird questions.\""
+msgid ""
+"{Kazushi}\n"
+"\"Of course it was only a coincidence. You sure ask weird questions.\""
 msgstr ""
 
 #: 03111:199
-
-msgid "{Haruka}\n\"I didn't say anything suspicious, did I?\""
+msgid ""
+"{Haruka}\n"
+"\"I didn't say anything suspicious, did I?\""
 msgstr ""
 
 #: 03111:200
-
 msgid "It's hard to work out what she's talking about today."
 msgstr ""
 
 #: 03111:201
-
 msgid "Including what she was saying to the principal."
 msgstr ""
 
 #: 03111:202
-
-msgid "{Kazushi}\n\"What was the conversation with the principal about......?\""
+msgid ""
+"{Kazushi}\n"
+"\"What was the conversation with the principal about......?\""
 msgstr ""
 
 #: 03111:205
-
-msgid "{Haruka}\n\"It's nothing important. And not something you should worry about.\""
+msgid ""
+"{Haruka}\n"
+"\"It's nothing important. And not something you should worry about.\""
 msgstr ""
 
 #: 03111:206
-
 msgid "The fact that she was trying to lie to me only made me more worried."
 msgstr ""
 
 #: 03111:207
-
-msgid "{Kazushi}\n\"It isn't?\""
+msgid ""
+"{Kazushi}\n"
+"\"It isn't?\""
 msgstr ""
 
 #: 03111:208
-
-msgid "{Haruka}\n\"Nope. Uh-huh.\""
+msgid ""
+"{Haruka}\n"
+"\"Nope. Uh-huh.\""
 msgstr ""
 
 #: 03111:209
-
 msgid "I know she's lying to me. My name came up in their conversation too."
 msgstr ""
 
 #: 03111:212
-
-msgid "{Haruka}\n\"Do you need to get what you forgot today, or can it wait?\""
+msgid ""
+"{Haruka}\n"
+"\"Do you need to get what you forgot today, or can it wait?\""
 msgstr ""
 
 #: 03111:213
-
-msgid "{Kazushi}\n\"No, it can wait. I just thought I'd pick it up before I forgot about it.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, it can wait. I just thought I'd pick it up before I forgot about it.\""
 msgstr ""
 
 #: 03111:216
-
-msgid "{Haruka}\n\"Oh yeah?\nWell then, why don't we go out somewhere together?\""
+msgid ""
+"{Haruka}\n"
+"\"Oh yeah?\n"
+"Well then, why don't we go out somewhere together?\""
 msgstr ""
 
 #: 03111:217
-
 msgid "She's definitely trying to change the subject. However, I don't mind going out with her......"
 msgstr ""
 
 #: 03111:218
-
-msgid "{Kazushi}\n\"Sure!\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure!\""
 msgstr ""
 
 #: 03111:221
-
-msgid "{Haruka}\n\"Right, let's go!\""
+msgid ""
+"{Haruka}\n"
+"\"Right, let's go!\""
 msgstr ""
 
 #: 03111:222
-
-msgid "{Kazushi}\n\"OK, where do you want to head off to? And hey, let me get the rest of the guys first.\""
+msgid ""
+"{Kazushi}\n"
+"\"OK, where do you want to head off to? And hey, let me get the rest of the guys first.\""
 msgstr ""
 
 #: 03111:225
-
-msgid "{Haruka}\n\"Wait! Hold on!\""
+msgid ""
+"{Haruka}\n"
+"\"Wait! Hold on!\""
 msgstr ""
 
 #: 03111:226
-
 msgid "I hit the brakes before I really got running."
 msgstr ""
 
 #: 03111:227
-
-msgid "{Kazushi}\n\"What is it?\""
+msgid ""
+"{Kazushi}\n"
+"\"What is it?\""
 msgstr ""
 
 #: 03111:230
-
-msgid "{Haruka}\n\"Why are you getting your friends?\""
+msgid ""
+"{Haruka}\n"
+"\"Why are you getting your friends?\""
 msgstr ""
 
 #: 03111:231
-
-msgid "{Kazushi}\n\"What do you mean \"why\"? I thought we were all going to head into the village and have some fun.\""
+msgid ""
+"{Kazushi}\n"
+"\"What do you mean \"why\"? I thought we were all going to head into the village and have some fun.\""
 msgstr ""
 
 #: 03111:232
-
-msgid "{Kazushi}\n\"Am I missing something here?\""
+msgid ""
+"{Kazushi}\n"
+"\"Am I missing something here?\""
 msgstr ""
 
 #: 03111:233
-
 msgid "AM I missing something here? Haruka looked at me with a troubled smile, and then lowered her long eyelashes."
 msgstr ""
 
 #: 03111:236
-
-msgid "{Haruka}\n\"Do you prefer going out with everybody?\""
+msgid ""
+"{Haruka}\n"
+"\"Do you prefer going out with everybody?\""
 msgstr ""
 
 #: 03111:237
-
 msgid "She made my heart stop."
 msgstr ""
 
 #: 03111:238
-
-msgid "{Kazushi}\n\"Did you mean...you wanted to go out just by ourselves?\""
+msgid ""
+"{Kazushi}\n"
+"\"Did you mean...you wanted to go out just by ourselves?\""
 msgstr ""
 
 #: 03111:241
-
-msgid "{Haruka}\n\"Of course I did.\""
+msgid ""
+"{Haruka}\n"
+"\"Of course I did.\""
 msgstr ""
 
 #: 03111:242
-
 msgid "She said \"Of course\"! Just the two of us!"
 msgstr ""
 
 #: 03111:243
-
 msgid "All of a sudden, I'm feeling pressure drop on me."
 msgstr ""
 
 #: 03111:246
-
-msgid "{Haruka}\n\"Don't tell me you're actually busy or doing your homework all of a sudden.\""
+msgid ""
+"{Haruka}\n"
+"\"Don't tell me you're actually busy or doing your homework all of a sudden.\""
 msgstr ""
 
 #: 03111:247
-
-msgid "She asked reluctantly.\nMaybe my relaxed attitude was making her nervous...\nBe a man, Kazushi!"
+msgid ""
+"She asked reluctantly.\n"
+"Maybe my relaxed attitude was making her nervous...\n"
+"Be a man, Kazushi!"
 msgstr ""
 
 #: 03111:248
-
-msgid "{Kazushi}\n\"My day is wide open!\""
+msgid ""
+"{Kazushi}\n"
+"\"My day is wide open!\""
 msgstr ""
 
 #: 03111:251
-
-msgid "{Haruka}\n\"Really? Then we're good to go?\""
+msgid ""
+"{Haruka}\n"
+"\"Really? Then we're good to go?\""
 msgstr ""
 
 #: 03111:252
-
-msgid "{Kazushi}\n\"Of course we are! Is there some place you wanna go?\""
+msgid ""
+"{Kazushi}\n"
+"\"Of course we are! Is there some place you wanna go?\""
 msgstr ""
 
 #: 03111:253
-
 msgid "Haruka answered my question by nodding her head."
 msgstr ""
-

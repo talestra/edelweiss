@@ -8,2711 +8,2885 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 10281:7
-
-msgid "{Kazushi}\n\"Huh? Where am I...?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Where am I...?\""
 msgstr ""
 
 #: 10281:8
-
 msgid "When I opened my eyes, I was still within a dream. I'd had a dreams where I knew it was one before, but it's very unusual."
 msgstr ""
 
 #: 10281:9
-
 msgid "It happened several times when I was kid, but it's been a long time since I had one. So, since it was unusual, I carefully observed my surroundings."
 msgstr ""
 
 #: 10281:10
-
-msgid "{Kazushi}\n\"Oh, that flower garden.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, that flower garden.\""
 msgstr ""
 
 #: 10281:11
-
-msgid "I knew exactly where I was in my dream:\nIt was the principal's flower garden.\nI'm still on Eiden island, even in my dreams."
+msgid ""
+"I knew exactly where I was in my dream:\n"
+"It was the principal's flower garden.\n"
+"I'm still on Eiden island, even in my dreams."
 msgstr ""
 
 #: 10281:12
-
-msgid "{Kazushi}\n\"Now if only Haruka was in my dream too.\""
+msgid ""
+"{Kazushi}\n"
+"\"Now if only Haruka was in my dream too.\""
 msgstr ""
 
 #: 10281:13
-
 msgid "I thought to myself, as if it were someone else's matter. Although, in some sense, it actually was."
 msgstr ""
 
 #: 10281:14
-
 msgid "In this dream, I was a dualistic character: both the main protagonist and a third party observer. It happens frequently when I'm dreaming."
 msgstr ""
 
 #: 10281:16
-
 msgid "*Rustle rustle*"
 msgstr ""
 
 #: 10281:17
-
 msgid "I noticed someone approaching when I heard them stepping on the grass."
 msgstr ""
 
 #: 10281:21
-
-msgid "{Haruka}\n\"Did you wait long for me, sensei?\""
+msgid ""
+"{Haruka}\n"
+"\"Did you wait long for me, sensei?\""
 msgstr ""
 
 #: 10281:22
-
 msgid "She even called out to me. It was just who I'd been hoping for, Haruka."
 msgstr ""
 
 #: 10281:23
-
 msgid "Exactly what I'd expect from a dream - the story played out just as I wished. But why did she call me \"sensei\"?"
 msgstr ""
 
 #: 10281:24
-
-msgid "{Kazushi}\n\"Not at all. I just got here, too.\""
+msgid ""
+"{Kazushi}\n"
+"\"Not at all. I just got here, too.\""
 msgstr ""
 
 #: 10281:25
-
 msgid "I responded, and became shocked. My voice was so deep, I couldn't believe it was mine."
 msgstr ""
 
 #: 10281:26
-
 msgid "It sounded like I was about ten or twenty years older."
 msgstr ""
 
 #: 10281:27
-
-msgid "{Kazushi}\n\"Where have you been?\""
+msgid ""
+"{Kazushi}\n"
+"\"Where have you been?\""
 msgstr ""
 
 #: 10281:28
-
-msgid "{Haruka}\n\"I went to the top of the mountain to get a nice view of the ocean. You should have come with me.\""
+msgid ""
+"{Haruka}\n"
+"\"I went to the top of the mountain to get a nice view of the ocean. You should have come with me.\""
 msgstr ""
 
 #: 10281:29
-
-msgid "{Kazushi}\n\"You can take me there next time. After all, we have plenty of time now.\""
+msgid ""
+"{Kazushi}\n"
+"\"You can take me there next time. After all, we have plenty of time now.\""
 msgstr ""
 
 #: 10281:32
-
 msgid "She gave me a big, happy smile."
 msgstr ""
 
 #: 10281:33
-
-msgid "{Haruka}\n\"Yes. Yes, that's true.\""
+msgid ""
+"{Haruka}\n"
+"\"Yes. Yes, that's true.\""
 msgstr ""
 
 #: 10281:34
-
 msgid "After nodding to herself, she huddled up next to me and took a good look at what was around us."
 msgstr ""
 
 #: 10281:37
-
-msgid "{Haruka}\n\"This place is truly magnificent. I'm honored to be able to conduct research here, together with you.\""
+msgid ""
+"{Haruka}\n"
+"\"This place is truly magnificent. I'm honored to be able to conduct research here, together with you.\""
 msgstr ""
 
 #: 10281:38
-
-msgid "{Kazushi}\n\"No, that's what I needed to say to you. It was fortunate for me that this land belongs to your family.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, that's what I needed to say to you. It was fortunate for me that this land belongs to your family.\""
 msgstr ""
 
 #: 10281:39
-
-msgid "{Kazushi}\n\"And I can't show my appreciation enough for you inviting me over to this island.\""
+msgid ""
+"{Kazushi}\n"
+"\"And I can't show my appreciation enough for you inviting me over to this island.\""
 msgstr ""
 
 #: 10281:40
-
 msgid "I bowed to Haruka. It seemed like I was truly grateful for what was happening. I also felt something more than just appreciation in my heart."
 msgstr ""
 
 #: 10281:43
-
-msgid "{Haruka}\n\"You don't have to bow......\nPlease raise your head.\""
+msgid ""
+"{Haruka}\n"
+"\"You don't have to bow......\n"
+"Please raise your head.\""
 msgstr ""
 
 #: 10281:44
-
-msgid "Haruka's cheeks blushed bashfully.\nIt sure is Haruka, but there's something different about her."
+msgid ""
+"Haruka's cheeks blushed bashfully.\n"
+"It sure is Haruka, but there's something different about her."
 msgstr ""
 
 #: 10281:45
-
 msgid "I don't know what's making me think she's different, but something's off here."
 msgstr ""
 
 #: 10281:46
-
-msgid "{Kazushi}\n\"When I think of our future life here, I get too excited for my age.\""
+msgid ""
+"{Kazushi}\n"
+"\"When I think of our future life here, I get too excited for my age.\""
 msgstr ""
 
 #: 10281:49
-
-msgid "{Haruka}\n\"It's not unbecoming. Sensei, you are still quite young, are you not?\""
+msgid ""
+"{Haruka}\n"
+"\"It's not unbecoming. Sensei, you are still quite young, are you not?\""
 msgstr ""
 
 #: 10281:50
-
-msgid "{Kazushi}\n\"Not at all. That's the reason why I wound up beginning this research.\""
+msgid ""
+"{Kazushi}\n"
+"\"Not at all. That's the reason why I wound up beginning this research.\""
 msgstr ""
 
 #: 10281:51
-
 msgid "I have no idea what we've been talking to each other about."
 msgstr ""
 
 #: 10281:52
-
 msgid "It seems like both Haruka and I have different roles than usual in this dream, and I still haven't figured out what those are yet either."
 msgstr ""
 
 #: 10281:53
-
-msgid "{Haruka}\n\"I'm thinking about building our institute on top of that mountain over there.\""
+msgid ""
+"{Haruka}\n"
+"\"I'm thinking about building our institute on top of that mountain over there.\""
 msgstr ""
 
 #: 10281:54
-
-msgid "{Kazushi}\n\"That would be wonderful.\""
+msgid ""
+"{Kazushi}\n"
+"\"That would be wonderful.\""
 msgstr ""
 
 #: 10281:55
-
-msgid "{Kazushi}\n\"But...\nIn that case, we'll need a vast supply of capital, won't we?\""
+msgid ""
+"{Kazushi}\n"
+"\"But...\n"
+"In that case, we'll need a vast supply of capital, won't we?\""
 msgstr ""
 
 #: 10281:56
-
-msgid "{Haruka}\n\"Please let me worry about that.\nI want you to focus solely on your project.\""
+msgid ""
+"{Haruka}\n"
+"\"Please let me worry about that.\n"
+"I want you to focus solely on your project.\""
 msgstr ""
 
 #: 10281:57
-
-msgid "{Kazushi}\n\"Aozora-kun, I'm not forcing you into a tight spot with what I'm trying to do, am I? If so, then I can't let myself take advantage of you.\""
+msgid ""
+"{Kazushi}\n"
+"\"Aozora-kun, I'm not forcing you into a tight spot with what I'm trying to do, am I? If so, then I can't let myself take advantage of you.\""
 msgstr ""
 
 #: 10281:60
-
-msgid "{Haruka}\n\"Please say nothing of that sort. I want to do everything I can to help you and your research.\""
+msgid ""
+"{Haruka}\n"
+"\"Please say nothing of that sort. I want to do everything I can to help you and your research.\""
 msgstr ""
 
 #: 10281:63
-
-msgid "{Haruka}\n\"Besides, I'm not in a tight spot at all. I was thinking of establishing and administering an academy in the lab.\""
+msgid ""
+"{Haruka}\n"
+"\"Besides, I'm not in a tight spot at all. I was thinking of establishing and administering an academy in the lab.\""
 msgstr ""
 
 #: 10281:64
-
-msgid "{Kazushi}\n\"Oh, that's a wonderful idea. I'm sure the young people educated on this island will grow into wonderful successors.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, that's a wonderful idea. I'm sure the young people educated on this island will grow into wonderful successors.\""
 msgstr ""
 
 #: 10281:65
-
-msgid "{Haruka}\n\"I hope so too. And I need your help to achieve these dreams.\""
+msgid ""
+"{Haruka}\n"
+"\"I hope so too. And I need your help to achieve these dreams.\""
 msgstr ""
 
 #: 10281:66
-
-msgid "{Kazushi}\n\"Yes. I'm prepared to lay myself to rest on this island. I promise I'll do everything I can.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes. I'm prepared to lay myself to rest on this island. I promise I'll do everything I can.\""
 msgstr ""
 
 #: 10281:69
-
-msgid "{Haruka}\n\"I'll follow your lead.\""
+msgid ""
+"{Haruka}\n"
+"\"I'll follow your lead.\""
 msgstr ""
 
 #: 10281:70
-
 msgid "We both reached out our hands and held them together."
 msgstr ""
 
 #: 10281:71
-
 msgid "It was much more than just a handshake."
 msgstr ""
 
 #: 10281:72
-
 msgid "I loved Haruka, and she loved me back."
 msgstr ""
 
 #: 10281:73
-
 msgid "We're lovers, even in our dreams. I'm so glad."
 msgstr ""
 
 #: 10281:76
-
-msgid "{Haruka}\n\"Kazushi-kun?\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun?\""
 msgstr ""
 
 #: 10281:77
-
-msgid "...huh?\nAll of a sudden, I heard Haruka calling to me like she always does."
+msgid ""
+"...huh?\n"
+"All of a sudden, I heard Haruka calling to me like she always does."
 msgstr ""
 
 #: 10281:78
-
-msgid "{Haruka}\n\"Kazushi-kun? ...Hey! Kazushi-kun!\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun? ...Hey! Kazushi-kun!\""
 msgstr ""
 
 #: 10281:79
-
 msgid "Huh...?"
 msgstr ""
 
 #: 10281:84
-
-msgid "{Haruka}\n\"Kazushi-kun.\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun.\""
 msgstr ""
 
 #: 10281:85
-
-msgid "{Kazushi}\n\"Nmm... Yeah...?\""
+msgid ""
+"{Kazushi}\n"
+"\"Nmm... Yeah...?\""
 msgstr ""
 
 #: 10281:86
-
 msgid "I finally opened my eyes to reality."
 msgstr ""
 
 #: 10281:91
-
-msgid "{Haruka}\n\"Oh, you're up? Good morning.\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, you're up? Good morning.\""
 msgstr ""
 
 #: 10281:92
-
-msgid "{Kazushi}\n\"Yeah, good morning.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, good morning.\""
 msgstr ""
 
 #: 10281:93
-
 msgid "The first thing I saw today was Haruka's face. It's going to be a good day."
 msgstr ""
 
 #: 10281:94
-
-msgid "{Kazushi}\n\"What time is it?\""
+msgid ""
+"{Kazushi}\n"
+"\"What time is it?\""
 msgstr ""
 
 #: 10281:95
-
 msgid "I raised myself up and the blanket slid down my skin and onto the floor."
 msgstr ""
 
 #: 10281:98
-
-msgid "{Haruka}\n\"Ah!?\""
+msgid ""
+"{Haruka}\n"
+"\"Ah!?\""
 msgstr ""
 
 #: 10281:99
-
 msgid "Haruka averted her eyes. No wonder, though - I was still naked."
 msgstr ""
 
 #: 10281:100
-
-msgid "{Kazushi}\n\"Oh, sorry!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, sorry!\""
 msgstr ""
 
 #: 10281:101
-
 msgid "Also, despite how much I came last night, I had morning wood, too."
 msgstr ""
 
 #: 10281:104
-
-msgid "{Haruka}\n\"Oh, you're up bright and early.\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, you're up bright and early.\""
 msgstr ""
 
 #: 10281:105
-
 msgid "Haruka turned around, her cheeks bright red. I think she saw everything."
 msgstr ""
 
 #: 10281:106
-
-msgid "{Kazushi}\n\"I'm up because it's morning. Every morning is like this. They call it morning glory.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm up because it's morning. Every morning is like this. They call it morning glory.\""
 msgstr ""
 
 #: 10281:107
-
 msgid "It was really embarrassing to try and explain it. Haruka let out impressed oohs and aahs as she listened to me explain it."
 msgstr ""
 
 #: 10281:110
-
-msgid "{Haruka}\n\"But, I think you should put your clothes on soon.\""
+msgid ""
+"{Haruka}\n"
+"\"But, I think you should put your clothes on soon.\""
 msgstr ""
 
 #: 10281:111
-
-msgid "{Kazushi}\n\"Th-that's true. Umm, clothes, where...Ah.\""
+msgid ""
+"{Kazushi}\n"
+"\"Th-that's true. Umm, clothes, where...Ah.\""
 msgstr ""
 
 #: 10281:113
-
 msgid "My clothes from last night were neatly folded on the bedside nightstand. Haruka must have done it for me."
 msgstr ""
 
 #: 10281:114
-
 msgid "It was such a little thing, but it touched my heart."
 msgstr ""
 
 #: 10281:115
-
 msgid "I dressed myself in the clothes she folded for me, feeling like I was in heaven."
 msgstr ""
 
 #: 10281:116
-
-msgid "{Kazushi}\n\"Thanks for waiting.\""
+msgid ""
+"{Kazushi}\n"
+"\"Thanks for waiting.\""
 msgstr ""
 
 #: 10281:119
-
-msgid "She finally turned around to look at me.\nI'm still embarrassed to look straight into her eyes. Everything happened just yesterday, so I can't help it."
+msgid ""
+"She finally turned around to look at me.\n"
+"I'm still embarrassed to look straight into her eyes. Everything happened just yesterday, so I can't help it."
 msgstr ""
 
 #: 10281:120
-
-msgid "{Kazushi}\n\"Umm......huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Umm......huh?\""
 msgstr ""
 
 #: 10281:121
-
 msgid "I noticed something different as I looked around the room. There were signs a burner had been used."
 msgstr ""
 
 #: 10281:122
-
-msgid "{Kazushi}\n\"Were you working on something?\""
+msgid ""
+"{Kazushi}\n"
+"\"Were you working on something?\""
 msgstr ""
 
 #: 10281:125
-
-msgid "{Haruka}\n\"Oh, yeah. Umm...I kind of made this.\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, yeah. Umm...I kind of made this.\""
 msgstr ""
 
 #: 10281:126
-
 msgid "Haruka showed me a small bottle with some kind of chemical."
 msgstr ""
 
 #: 10281:127
-
-msgid "{Kazushi}\n\"You refined that?\""
+msgid ""
+"{Kazushi}\n"
+"\"You refined that?\""
 msgstr ""
 
 #: 10281:128
-
-msgid "{Haruka}\n\"Uh huh.\""
+msgid ""
+"{Haruka}\n"
+"\"Uh huh.\""
 msgstr ""
 
 #: 10281:129
-
 msgid "Haruka nodded her head. After a series of failures, she must have finally become successful again."
 msgstr ""
 
 #: 10281:132
-
-msgid "{Haruka}\n\"You see, when I woke up this morning, I felt refreshed, as if I'd been reborn. Then, I had a feeling I could make something and...\""
+msgid ""
+"{Haruka}\n"
+"\"You see, when I woke up this morning, I felt refreshed, as if I'd been reborn. Then, I had a feeling I could make something and...\""
 msgstr ""
 
 #: 10281:133
-
 msgid "So she gave it a go, and it worked. When you recover from a slump, it's usually very simple."
 msgstr ""
 
 #: 10281:134
-
-msgid "{Kazushi}\n\"So, did you make something?\""
+msgid ""
+"{Kazushi}\n"
+"\"So, did you make something?\""
 msgstr ""
 
 #: 10281:137
-
-msgid "{Haruka}\n\"Yes, I'm absolutely confident this time.\""
+msgid ""
+"{Haruka}\n"
+"\"Yes, I'm absolutely confident this time.\""
 msgstr ""
 
 #: 10281:138
-
-msgid "{Kazushi}\n\"...huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"...huh?\""
 msgstr ""
 
 #: 10281:139
-
 msgid "Haruka shows me a smile with full of confidence."
 msgstr ""
 
 #: 10281:145
-
-msgid "{Kazushi}\n\"Waaaahhooooooooooo!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Waaaahhooooooooooo!!\""
 msgstr ""
 
 #: 10281:146
-
-msgid "The wind whooshed by our ears.\nI mean, we WERE the wind."
+msgid ""
+"The wind whooshed by our ears.\n"
+"I mean, we WERE the wind."
 msgstr ""
 
 #: 10281:147
-
-msgid "{Kazushi}\n\"This is unbelievable!\nWe're really flying!\""
+msgid ""
+"{Kazushi}\n"
+"\"This is unbelievable!\n"
+"We're really flying!\""
 msgstr ""
 
 #: 10281:148
-
 msgid "We were flying on a desk. We may have failed last time with a pair of wings, but today we were flying on a normally non-flying object."
 msgstr ""
 
 #: 10281:149
-
-msgid "{Kazushi}\n\"Are you sure this isn't magic?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you sure this isn't magic?!\""
 msgstr ""
 
 #: 10281:150
-
-msgid "{Haruka}\n\"I don't know!\nThe only thing I know is that I feel like now, I can do anything!\""
+msgid ""
+"{Haruka}\n"
+"\"I don't know!\n"
+"The only thing I know is that I feel like now, I can do anything!\""
 msgstr ""
 
 #: 10281:151
-
 msgid "Haruka'd gained back all the confidence she'd lost. Her smile told me that she was on top of the world."
 msgstr ""
 
 #: 10281:152
-
-msgid "{Haruka}\n\"This is all because of you!\""
+msgid ""
+"{Haruka}\n"
+"\"This is all because of you!\""
 msgstr ""
 
 #: 10281:153
-
-msgid "{Kazushi}\n\"What!?\nWhy!?\""
+msgid ""
+"{Kazushi}\n"
+"\"What!?\n"
+"Why!?\""
 msgstr ""
 
 #: 10281:154
-
-msgid "{Haruka}\n\"I feel your love has made me stronger! Whatever I failed to do in the past, I feel like I can do it now!\""
+msgid ""
+"{Haruka}\n"
+"\"I feel your love has made me stronger! Whatever I failed to do in the past, I feel like I can do it now!\""
 msgstr ""
 
 #: 10281:155
-
-msgid "{Haruka}\n\"I feel like I was given a new life!\""
+msgid ""
+"{Haruka}\n"
+"\"I feel like I was given a new life!\""
 msgstr ""
 
 #: 10281:156
-
 msgid "Watching her look so alive had made me stronger too."
 msgstr ""
 
 #: 10281:157
-
 msgid "So long as Haruka was smiling, I didn't need anything else. Her smile made me feel that way."
 msgstr ""
 
 #: 10281:158
-
-msgid "{Haruka}\n\"You should try it, too!\""
+msgid ""
+"{Haruka}\n"
+"\"You should try it, too!\""
 msgstr ""
 
 #: 10281:159
-
 msgid "She backed up and yielded her position to me."
 msgstr ""
 
 #: 10281:160
-
-msgid "{Kazushi}\n\"What am I supposed to do......?\""
+msgid ""
+"{Kazushi}\n"
+"\"What am I supposed to do......?\""
 msgstr ""
 
 #: 10281:161
-
 msgid "I don't know how to operate a flying desk. There's no handle, accelerator, or brakes."
 msgstr ""
 
 #: 10281:162
-
-msgid "{Haruka}\n\"Where do you want to go? We can go anywhere we want!\""
+msgid ""
+"{Haruka}\n"
+"\"Where do you want to go? We can go anywhere we want!\""
 msgstr ""
 
 #: 10281:163
-
-msgid "{Kazushi}\n\"Anyplace I'd like......\nLet's see......\""
+msgid ""
+"{Kazushi}\n"
+"\"Anyplace I'd like......\n"
+"Let's see......\""
 msgstr ""
 
 #: 10281:164
-
 msgid "I looked up to the sky. The sun was shining bright and the white clouds were sparkling."
 msgstr ""
 
 #: 10281:165
-
-msgid "{Kazushi}\n\"Even higher......\""
+msgid ""
+"{Kazushi}\n"
+"\"Even higher......\""
 msgstr ""
 
 #: 10281:166
-
 msgid "*Whoosh*"
 msgstr ""
 
 #: 10281:167
-
-msgid "{Kazushi}\n\"Oops!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oops!!\""
 msgstr ""
 
 #: 10281:168
-
-msgid "The desk zoomed straight upwards in a hurry.\nI guess all I have to do is think about where I want to go."
+msgid ""
+"The desk zoomed straight upwards in a hurry.\n"
+"I guess all I have to do is think about where I want to go."
 msgstr ""
 
 #: 10281:169
-
-msgid "{Kazushi}\n\"This thing is amazing!\""
+msgid ""
+"{Kazushi}\n"
+"\"This thing is amazing!\""
 msgstr ""
 
 #: 10281:170
-
-msgid "{Haruka}\n\"I told you! You'll love alchemy!!\""
+msgid ""
+"{Haruka}\n"
+"\"I told you! You'll love alchemy!!\""
 msgstr ""
 
 #: 10281:171
-
-msgid "{Kazushi}\n\"It's unbelievable!!\""
+msgid ""
+"{Kazushi}\n"
+"\"It's unbelievable!!\""
 msgstr ""
 
 #: 10281:172
-
 msgid "I felt like we could fly anywhere we wanted."
 msgstr ""
 
 #: 10281:173
-
 msgid "With Haruka, I feel like I can even go to the end of the world."
 msgstr ""
 
 #: 10281:174
-
-msgid "{Kazushi}\n\"Should we break through the shining clouds and fly away?\""
+msgid ""
+"{Kazushi}\n"
+"\"Should we break through the shining clouds and fly away?\""
 msgstr ""
 
 #: 10281:175
-
 msgid "She's always wanted to go beyond the confines of the island one day. Maybe today will be the day when I can make her dreams come true."
 msgstr ""
 
 #: 10281:176
-
-msgid "{Haruka}\n\"Huh? Do you think we can?\""
+msgid ""
+"{Haruka}\n"
+"\"Huh? Do you think we can?\""
 msgstr ""
 
 #: 10281:177
-
-msgid "Suddenly she looked worried.\nShe must feel anxious about leaving this place."
+msgid ""
+"Suddenly she looked worried.\n"
+"She must feel anxious about leaving this place."
 msgstr ""
 
 #: 10281:178
-
-msgid "{Kazushi}\n\"Don't worry! I'll be with you!\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't worry! I'll be with you!\""
 msgstr ""
 
 #: 10281:179
-
 msgid "I held her close."
 msgstr ""
 
 #: 10281:180
-
-msgid "{Haruka}\n\"...that's right.\nI'm not scared as long as you're mine.\""
+msgid ""
+"{Haruka}\n"
+"\"...that's right.\n"
+"I'm not scared as long as you're mine.\""
 msgstr ""
 
 #: 10281:181
-
-msgid "{Kazushi}\n\"All right! We'll keep going straight ahead!\nWe'll go so far that it takes us beyond the horizon!\""
+msgid ""
+"{Kazushi}\n"
+"\"All right! We'll keep going straight ahead!\n"
+"We'll go so far that it takes us beyond the horizon!\""
 msgstr ""
 
 #: 10281:182
-
 msgid "The desk picked up speed as it headed for the horizon, but only for a few seconds."
 msgstr ""
 
 #: 10281:183
-
 msgid "*shoom*"
 msgstr ""
 
 #: 10281:184
-
-msgid "{Kazushi}\n\"...huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"...huh?\""
 msgstr ""
 
 #: 10281:185
-
 msgid "It suddenly lost speed. We were steadily losing altitude."
 msgstr ""
 
 #: 10281:186
-
-msgid "{Haruka}\n\"Oh, I don't think we can! Go back! Go back!\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, I don't think we can! Go back! Go back!\""
 msgstr ""
 
 #: 10281:187
-
-msgid "{Kazushi}\n\"We're going back!?\""
+msgid ""
+"{Kazushi}\n"
+"\"We're going back!?\""
 msgstr ""
 
 #: 10281:188
-
 msgid "We made a quick U-turn. By the time the desk regained speed, we were about to break the ocean's surface."
 msgstr ""
 
 #: 10281:189
-
-msgid "{Kazushi}\n\"Hey, it just regained its speed.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, it just regained its speed.\""
 msgstr ""
 
 #: 10281:190
-
-msgid "{Haruka}\n\"I thought it might be that way.\""
+msgid ""
+"{Haruka}\n"
+"\"I thought it might be that way.\""
 msgstr ""
 
 #: 10281:191
-
 msgid "She seemed to have figured something out, but looked depressed regardless."
 msgstr ""
 
 #: 10281:192
-
-msgid "{Haruka}\n\"I think this is probably getting a constant energy supply from the island. It's using that as fuel to fly.\""
+msgid ""
+"{Haruka}\n"
+"\"I think this is probably getting a constant energy supply from the island. It's using that as fuel to fly.\""
 msgstr ""
 
 #: 10281:193
-
-msgid "{Kazushi}\n\"Oh yeah, there's no fuel on board is there. I guess you can't just conveniently fly forever.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh yeah, there's no fuel on board is there. I guess you can't just conveniently fly forever.\""
 msgstr ""
 
 #: 10281:194
-
 msgid "That would be real magic."
 msgstr ""
 
 #: 10281:195
-
-msgid "{Haruka}\n\"Oh well.\""
+msgid ""
+"{Haruka}\n"
+"\"Oh well.\""
 msgstr ""
 
 #: 10281:196
-
 msgid "She was somewhat calm about this."
 msgstr ""
 
 #: 10281:197
-
-msgid "{Kazushi}\n\"You don't seem so depressed.\""
+msgid ""
+"{Kazushi}\n"
+"\"You don't seem so depressed.\""
 msgstr ""
 
 #: 10281:198
-
-msgid "{Haruka}\n\"I know, but I don't know why. I feel like even if we didn't achieve our goal today, we can do it in the future.\""
+msgid ""
+"{Haruka}\n"
+"\"I know, but I don't know why. I feel like even if we didn't achieve our goal today, we can do it in the future.\""
 msgstr ""
 
 #: 10281:199
-
-msgid "{Haruka}\n\"I made it this far today on nothing but a whim. It's certain that I can do things now which I couldn't before. I can be sure that something is different now.\""
+msgid ""
+"{Haruka}\n"
+"\"I made it this far today on nothing but a whim. It's certain that I can do things now which I couldn't before. I can be sure that something is different now.\""
 msgstr ""
 
 #: 10281:200
-
-msgid "{Haruka}\n\"And I have you.\""
+msgid ""
+"{Haruka}\n"
+"\"And I have you.\""
 msgstr ""
 
 #: 10281:201
-
 msgid "She gave me a big smile. It made me blush."
 msgstr ""
 
 #: 10281:202
-
-msgid "{Kazushi}\n\"You're right. We have plenty of time now.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're right. We have plenty of time now.\""
 msgstr ""
 
 #: 10281:203
-
-msgid "{Haruka}\n\"Yeah, that's right. There are still so many things we can only do on this island too.\""
+msgid ""
+"{Haruka}\n"
+"\"Yeah, that's right. There are still so many things we can only do on this island too.\""
 msgstr ""
 
 #: 10281:204
-
-msgid "{Kazushi}\n\"After all, we've still got a long way to go.\""
+msgid ""
+"{Kazushi}\n"
+"\"After all, we've still got a long way to go.\""
 msgstr ""
 
 #: 10281:205
-
 msgid "We've only just started going out with each other. There's no need to rush; we can take it easy."
 msgstr ""
 
 #: 10281:206
-
-msgid "{Haruka}\n\"Let's just take our time enjoying our stroll through the sky for today!\""
+msgid ""
+"{Haruka}\n"
+"\"Let's just take our time enjoying our stroll through the sky for today!\""
 msgstr ""
 
 #: 10281:215
-
-msgid "{Haruka}\n\"Hey guys!\nEat as much as you want, OK!?\""
+msgid ""
+"{Haruka}\n"
+"\"Hey guys!\n"
+"Eat as much as you want, OK!?\""
 msgstr ""
 
 #: 10281:216
-
 msgid "Haruka's completely regained her energy and composure. Today, she happened to be in charge of breakfast."
 msgstr ""
 
 #: 10281:221
-
-msgid "{Appo}\n\"What's with the red food?\""
+msgid ""
+"{Appo}\n"
+"\"What's with the red food?\""
 msgstr ""
 
 #: 10281:227
-
-msgid "{Daigo}\n\"It's red rice. Did something worth celebrating happen?\""
+msgid ""
+"{Daigo}\n"
+"\"It's red rice. Did something worth celebrating happen?\""
 msgstr ""
 
 #: 10281:228
-
-msgid "{Kazushi}\n\"Huh...?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh...?\""
 msgstr ""
 
 #: 10281:229
-
 msgid "Something to celebrate......there was."
 msgstr ""
 
 #: 10281:234
-
-msgid "{Pierre}\n\"What's this? Is this the day some girl's become a woman?\""
+msgid ""
+"{Pierre}\n"
+"\"What's this? Is this the day some girl's become a woman?\""
 msgstr ""
 
 #: 10281:237
-
 msgid "Pierre made another joke that drove the girls away."
 msgstr ""
 
 #: 10281:238
-
 msgid "Only this time, it wasn't going to stay just a joke..."
 msgstr ""
 
 #: 10281:241
-
-msgid "{Haruka}\n\"Oww... Ahaha, it still hurts a little...\""
+msgid ""
+"{Haruka}\n"
+"\"Oww... Ahaha, it still hurts a little...\""
 msgstr ""
 
 #: 10281:242
-
 msgid "Not after Haruka covered her crotch and said that."
 msgstr ""
 
 #: 10281:247
-
-msgid "{Fuusen}\n\"Congratulations, Haruma-kun.\""
+msgid ""
+"{Fuusen}\n"
+"\"Congratulations, Haruma-kun.\""
 msgstr ""
 
 #: 10281:248
-
-msgid "{Kazushi}\n\"What? I don't know what you're talking about.\""
+msgid ""
+"{Kazushi}\n"
+"\"What? I don't know what you're talking about.\""
 msgstr ""
 
 #: 10281:249
-
-msgid "{Fuusen}\n\"C'mon, you don't have to hide anything from us! Right, Ah-chan?\""
+msgid ""
+"{Fuusen}\n"
+"\"C'mon, you don't have to hide anything from us! Right, Ah-chan?\""
 msgstr ""
 
 #: 10281:254
-
-msgid "{Appo}\n\"Kazushi, you've finally become a man! And now Haruka's a woman too...\""
+msgid ""
+"{Appo}\n"
+"\"Kazushi, you've finally become a man! And now Haruka's a woman too...\""
 msgstr ""
 
 #: 10281:255
-
 msgid "Hey, is it alright for you to look at Haruka with that dirty look on your face?"
 msgstr ""
 
 #: 10281:256
-
-msgid "{Fuusen}\n\"Oh, Ah-chan, you look like you've got some extra energy that needs burning off. Come see me later tonight.\""
+msgid ""
+"{Fuusen}\n"
+"\"Oh, Ah-chan, you look like you've got some extra energy that needs burning off. Come see me later tonight.\""
 msgstr ""
 
 #: 10281:259
-
-msgid "{Appo}\n\"Huh? Oh... yes...\""
+msgid ""
+"{Appo}\n"
+"\"Huh? Oh... yes...\""
 msgstr ""
 
 #: 10281:260
-
 msgid "Looks like Appo's going to come back drained tonight."
 msgstr ""
 
 #: 10281:263
-
-msgid "{Kazushi}\n\"But...\""
+msgid ""
+"{Kazushi}\n"
+"\"But...\""
 msgstr ""
 
 #: 10281:264
-
 msgid "It seems like Haruka's red rice informed everyone we know about us..."
 msgstr ""
 
 #: 10281:268
-
-msgid "{Sakura}\n\"Oh, my Harunyan is finally...\""
+msgid ""
+"{Sakura}\n"
+"\"Oh, my Harunyan is finally...\""
 msgstr ""
 
 #: 10281:274
-
-msgid "{Rin}\n\"I see.\nHaruka-chan's become a woman now.\nI'll have to ask her how it was later on...\""
+msgid ""
+"{Rin}\n"
+"\"I see.\n"
+"Haruka-chan's become a woman now.\n"
+"I'll have to ask her how it was later on...\""
 msgstr ""
 
 #: 10281:275
-
 msgid "I'm not so sure if it's a good thing that everyone knows about us now."
 msgstr ""
 
 #: 10281:280
-
-msgid "{Haruka}\n\"There's still plenty left. This is a celebration, so don't hesitate to ask for seconds!\""
+msgid ""
+"{Haruka}\n"
+"\"There's still plenty left. This is a celebration, so don't hesitate to ask for seconds!\""
 msgstr ""
 
 #: 10281:281
-
 msgid "If it makes Haruka happy, it's all right with me."
 msgstr ""
 
 #: 10281:285
-
-msgid "{Mei}\n\"Haruma-kun, come to the student counseling room when you're done.\""
+msgid ""
+"{Mei}\n"
+"\"Haruma-kun, come to the student counseling room when you're done.\""
 msgstr ""
 
 #: 10281:286
-
-msgid "{Kazushi}\n\"Urk...\""
+msgid ""
+"{Kazushi}\n"
+"\"Urk...\""
 msgstr ""
 
 #: 10281:287
-
 msgid "I guess it wasn't all right."
 msgstr ""
 
 #: 10281:293
-
-msgid "{Kazushi}\n\"Oh, how splendid!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, how splendid!\""
 msgstr ""
 
 #: 10281:294
-
 msgid "I seemed to be quite excited. I was having that dream again. It was probably a continuation of before."
 msgstr ""
 
 #: 10281:295
-
 msgid "It's so rare to see a dream continuing on from the previous dream."
 msgstr ""
 
 #: 10281:298
-
-msgid "{Haruka}\n\"It truly is. Everything we attempt to do here goes well. We even cut out most of the usual steps.\""
+msgid ""
+"{Haruka}\n"
+"\"It truly is. Everything we attempt to do here goes well. We even cut out most of the usual steps.\""
 msgstr ""
 
 #: 10281:299
-
-msgid "{Kazushi}\n\"There must be a secret to this flower.\""
+msgid ""
+"{Kazushi}\n"
+"\"There must be a secret to this flower.\""
 msgstr ""
 
 #: 10281:300
-
 msgid "It was that flower - the white flower I saw blooming on the day I first met Haruka."
 msgstr ""
 
 #: 10281:301
-
-msgid "{Haruka}\n\"I wonder what kind of flower this is. It seems like whatever experiments we perform, we always succeed when we use this flower as a catalyst.\""
+msgid ""
+"{Haruka}\n"
+"\"I wonder what kind of flower this is. It seems like whatever experiments we perform, we always succeed when we use this flower as a catalyst.\""
 msgstr ""
 
 #: 10281:302
-
-msgid "{Kazushi}\n\"Perhaps this flower is like a fruit, a crystallization of the power this island holds.\""
+msgid ""
+"{Kazushi}\n"
+"\"Perhaps this flower is like a fruit, a crystallization of the power this island holds.\""
 msgstr ""
 
 #: 10281:305
-
-msgid "{Haruka}\n\"A fruit of power?\""
+msgid ""
+"{Haruka}\n"
+"\"A fruit of power?\""
 msgstr ""
 
 #: 10281:306
-
-msgid "{Kazushi}\n\"This flower holds the power of the island within it. Why it is so is only mere speculation at this point, but...\""
+msgid ""
+"{Kazushi}\n"
+"\"This flower holds the power of the island within it. Why it is so is only mere speculation at this point, but...\""
 msgstr ""
 
 #: 10281:307
-
-msgid "{Kazushi}\n\"It's possible that these flowers are absorbing some kind of power from the land. That would mean that the secret to the power may lie within the ground.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's possible that these flowers are absorbing some kind of power from the land. That would mean that the secret to the power may lie within the ground.\""
 msgstr ""
 
 #: 10281:308
-
-msgid "{Haruka}\n\"Underground, you mean?\""
+msgid ""
+"{Haruka}\n"
+"\"Underground, you mean?\""
 msgstr ""
 
 #: 10281:309
-
-msgid "{Kazushi}\n\"Underground, within the ground, perhaps buried right beneath our feet. There is a legend that long ago, a star fell to this island.\""
+msgid ""
+"{Kazushi}\n"
+"\"Underground, within the ground, perhaps buried right beneath our feet. There is a legend that long ago, a star fell to this island.\""
 msgstr ""
 
 #: 10281:310
-
-msgid "{Haruka}\n\"A star? A meteor perhaps?\""
+msgid ""
+"{Haruka}\n"
+"\"A star? A meteor perhaps?\""
 msgstr ""
 
 #: 10281:311
-
-msgid "{Kazushi}\n\"Perhaps. According the legend, the star fell and turned into these flowers.\""
+msgid ""
+"{Kazushi}\n"
+"\"Perhaps. According the legend, the star fell and turned into these flowers.\""
 msgstr ""
 
 #: 10281:314
-
-msgid "{Haruka}\n\"Well, now that you mention it, these flowers do resemble the shape of a star. People back then were so romantic.\""
+msgid ""
+"{Haruka}\n"
+"\"Well, now that you mention it, these flowers do resemble the shape of a star. People back then were so romantic.\""
 msgstr ""
 
 #: 10281:315
-
-msgid "{Kazushi}\n\"You can't dismiss it as just romantic, either. I have found evidence indicating that a meteor or some force resembling one did fall and impact the island.\""
+msgid ""
+"{Kazushi}\n"
+"\"You can't dismiss it as just romantic, either. I have found evidence indicating that a meteor or some force resembling one did fall and impact the island.\""
 msgstr ""
 
 #: 10281:318
-
-msgid "{Haruka}\n\"Evidence? You mean like a crater?\""
+msgid ""
+"{Haruka}\n"
+"\"Evidence? You mean like a crater?\""
 msgstr ""
 
 #: 10281:319
-
-msgid "{Kazushi}\n\"There were no large remnants like a crater. Even if it were a meteor, it must have been a very small one. Perhaps as small as a pebble.\""
+msgid ""
+"{Kazushi}\n"
+"\"There were no large remnants like a crater. Even if it were a meteor, it must have been a very small one. Perhaps as small as a pebble.\""
 msgstr ""
 
 #: 10281:320
-
-msgid "{Kazushi}\n\"It seems likely that something like that is sleeping deep within the ground.\""
+msgid ""
+"{Kazushi}\n"
+"\"It seems likely that something like that is sleeping deep within the ground.\""
 msgstr ""
 
 #: 10281:321
-
 msgid "Within the ground... Is it buried underneath this island?"
 msgstr ""
 
 #: 10281:322
-
-msgid "{Haruka}\n\"And you think this stone holds some kind of secret?\""
+msgid ""
+"{Haruka}\n"
+"\"And you think this stone holds some kind of secret?\""
 msgstr ""
 
 #: 10281:323
-
-msgid "{Kazushi}\n\"I think it's worth investigating.\""
+msgid ""
+"{Kazushi}\n"
+"\"I think it's worth investigating.\""
 msgstr ""
 
 #: 10281:324
-
-msgid "{Haruka}\n\"Then we'll need equipment.\""
+msgid ""
+"{Haruka}\n"
+"\"Then we'll need equipment.\""
 msgstr ""
 
 #: 10281:325
-
 msgid "Don't do it......"
 msgstr ""
 
 #: 10281:326
-
 msgid "I don't know why I thought that. I couldn't even voice that thought."
 msgstr ""
 
 #: 10281:327
-
 msgid "The me inside this dream only says things I'm not thinking, never anything I want to say. However, those two shouldn't go there......"
 msgstr ""
 
 #: 10281:328
-
 msgid "I'm afraid to see the rest of this dream, but I wonder why I felt that way?"
 msgstr ""
 
 #: 10281:331
-
-msgid "{Haruka}\n\"We should make preparations as quickly as possible.\""
+msgid ""
+"{Haruka}\n"
+"\"We should make preparations as quickly as possible.\""
 msgstr ""
 
 #: 10281:332
-
 msgid "Don't do it..."
 msgstr ""
 
 #: 10281:333
-
 msgid "I don't want to see what comes next. No... I don't want to see it, but I can't close my eyes."
 msgstr ""
 
 #: 10281:334
-
 msgid "Those two are going to..."
 msgstr ""
 
 #: 10281:336
-
-msgid "{Haruka}\n\"Kazushi-kun, wake up!\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun, wake up!\""
 msgstr ""
 
 #: 10281:339
-
-msgid "{Kazushi}\n\"Wah?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Wah?!\""
 msgstr ""
 
 #: 10281:340
-
 msgid "I jumped up from the bed."
 msgstr ""
 
 #: 10281:344
-
-msgid "{Haruka}\n\"Ah!?\""
+msgid ""
+"{Haruka}\n"
+"\"Ah!?\""
 msgstr ""
 
 #: 10281:345
-
 msgid "Haruka's surprised looking face was right in front of me."
 msgstr ""
 
 #: 10281:346
-
-msgid "{Haruka}\n\"Wh-what's wrong?\nDid you have a nightmare or something?\""
+msgid ""
+"{Haruka}\n"
+"\"Wh-what's wrong?\n"
+"Did you have a nightmare or something?\""
 msgstr ""
 
 #: 10281:347
-
-msgid "{Kazushi}\n\"Umm......am I still in my dream?\""
+msgid ""
+"{Kazushi}\n"
+"\"Umm......am I still in my dream?\""
 msgstr ""
 
 #: 10281:350
-
-msgid "{Haruka}\n\"Are you still half asleep?\""
+msgid ""
+"{Haruka}\n"
+"\"Are you still half asleep?\""
 msgstr ""
 
 #: 10281:351
-
-msgid "I guess I'm awake now.\nI'm so glad that I didn't have to watch the rest of that dream play out..."
+msgid ""
+"I guess I'm awake now.\n"
+"I'm so glad that I didn't have to watch the rest of that dream play out..."
 msgstr ""
 
 #: 10281:352
-
-msgid "{Kazushi}\n\"Hey......?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey......?\""
 msgstr ""
 
 #: 10281:353
-
 msgid "Why am I feeling so relieved? It's like I know something bad is going to happen at the end, and I'm afraid of having to witness it."
 msgstr ""
 
 #: 10281:354
-
 msgid "But that can't be."
 msgstr ""
 
 #: 10281:355
-
-msgid "{Kazushi}\n\"Hmm......?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hmm......?\""
 msgstr ""
 
 #: 10281:358
-
-msgid "{Haruka}\n\"Kazushi-kun? Are you alright? You're acting strange?\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun? Are you alright? You're acting strange?\""
 msgstr ""
 
 #: 10281:363
-
-msgid "{Haruka}\n\"Hmm, that's a weird dream.\""
+msgid ""
+"{Haruka}\n"
+"\"Hmm, that's a weird dream.\""
 msgstr ""
 
 #: 10281:364
-
 msgid "That was the first thing Haruka said after I told her about my dream."
 msgstr ""
 
 #: 10281:365
-
-msgid "{Kazushi}\n\"Isn't it a weird dream? I wonder why I'm having those dreams.\""
+msgid ""
+"{Kazushi}\n"
+"\"Isn't it a weird dream? I wonder why I'm having those dreams.\""
 msgstr ""
 
 #: 10281:366
-
 msgid "It was only natural for Haruka to be in my dreams. After all, everyday with Haruka is a dream come true."
 msgstr ""
 
 #: 10281:369
-
-msgid "{Haruka}\n\"Crazy dreams indeed.\nI wonder why you actually knew all of that?\nDid I ever tell you those stories?\""
+msgid ""
+"{Haruka}\n"
+"\"Crazy dreams indeed.\n"
+"I wonder why you actually knew all of that?\n"
+"Did I ever tell you those stories?\""
 msgstr ""
 
 #: 10281:370
-
-msgid "{Kazushi}\n\"Huh? What?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? What?\""
 msgstr ""
 
 #: 10281:371
-
 msgid "The question she was raising was a little different from mine..."
 msgstr ""
 
 #: 10281:372
-
-msgid "{Kazushi}\n\"What do you mean?\""
+msgid ""
+"{Kazushi}\n"
+"\"What do you mean?\""
 msgstr ""
 
 #: 10281:375
-
-msgid "{Haruka}\n\"Well, I think the dream you've been having is about my grandparents.\""
+msgid ""
+"{Haruka}\n"
+"\"Well, I think the dream you've been having is about my grandparents.\""
 msgstr ""
 
 #: 10281:376
-
-msgid "{Kazushi}\n\"Huh? The principal?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? The principal?\""
 msgstr ""
 
 #: 10281:377
-
-msgid "{Haruka}\n\"Yes. It's the same as the story of when my grandma and grandpa first came to this island.\""
+msgid ""
+"{Haruka}\n"
+"\"Yes. It's the same as the story of when my grandma and grandpa first came to this island.\""
 msgstr ""
 
 #: 10281:378
-
-msgid "{Kazushi}\n\"Huh......?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh......?\""
 msgstr ""
 
 #: 10281:379
-
-msgid "{Haruka}\n\"I've never heard what kind of conversation they had, but the situation seems the same. From what you've told me, you're filling my grandpa's role.\""
+msgid ""
+"{Haruka}\n"
+"\"I've never heard what kind of conversation they had, but the situation seems the same. From what you've told me, you're filling my grandpa's role.\""
 msgstr ""
 
 #: 10281:380
-
-msgid "{Kazushi}\n\"Your grandpa?\""
+msgid ""
+"{Kazushi}\n"
+"\"Your grandpa?\""
 msgstr ""
 
 #: 10281:383
-
-msgid "{Haruka}\n\"I heard my grandma used to call him \"sensei\". He was a teacher of alchemy.\""
+msgid ""
+"{Haruka}\n"
+"\"I heard my grandma used to call him \"sensei\". He was a teacher of alchemy.\""
 msgstr ""
 
 #: 10281:384
-
-msgid "{Kazushi}\n\"Was he?\nI'm your grandpa in the dreams?\nI see...\""
+msgid ""
+"{Kazushi}\n"
+"\"Was he?\n"
+"I'm your grandpa in the dreams?\n"
+"I see...\""
 msgstr ""
 
 #: 10281:385
-
 msgid "There was one aspect that made sense once she said that - that voice that wasn't mine. If that was her grandpa's voice, then it fit."
 msgstr ""
 
 #: 10281:386
-
-msgid "{Kazushi}\n\"Was your grandpa a lot older than the principal?\""
+msgid ""
+"{Kazushi}\n"
+"\"Was your grandpa a lot older than the principal?\""
 msgstr ""
 
 #: 10281:389
-
-msgid "{Haruka}\n\"He was her teacher, so maybe older by about ten or fifteen years?\""
+msgid ""
+"{Haruka}\n"
+"\"He was her teacher, so maybe older by about ten or fifteen years?\""
 msgstr ""
 
 #: 10281:390
-
 msgid "I would say that the Haruka in the dream was around 20, so that would make him 30 or 35. It seemed right around there."
 msgstr ""
 
 #: 10281:391
-
-msgid "{Kazushi}\n\"But it's still odd.\""
+msgid ""
+"{Kazushi}\n"
+"\"But it's still odd.\""
 msgstr ""
 
 #: 10281:393
-
 msgid "It all made sense, but the more it fit, the odder it was. After all, they shouldn't fit that way."
 msgstr ""
 
 #: 10281:394
-
 msgid "That should all just be a dream of mine."
 msgstr ""
 
 #: 10281:395
-
-msgid "{Kazushi}\n\"It's just coincidence, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"It's just coincidence, right?\""
 msgstr ""
 
 #: 10281:396
-
 msgid "I'm getting scared."
 msgstr ""
 
 #: 10281:399
-
-msgid "{Haruka}\n\"I don't know. It sounds like this is more than just a dream...\nThere's too many things in common.\""
+msgid ""
+"{Haruka}\n"
+"\"I don't know. It sounds like this is more than just a dream...\n"
+"There's too many things in common.\""
 msgstr ""
 
 #: 10281:400
-
-msgid "{Kazushi}\n\"But why am I seeing those dreams? There's no reason I should.\""
+msgid ""
+"{Kazushi}\n"
+"\"But why am I seeing those dreams? There's no reason I should.\""
 msgstr ""
 
 #: 10281:401
-
 msgid "I had no means of knowing how things were when principal first arrived on the island. There's no way I could dream about it."
 msgstr ""
 
 #: 10281:404
-
-msgid "{Haruka}\n\"You're right. Usually dreams are based on a person's everyday experiences.\""
+msgid ""
+"{Haruka}\n"
+"\"You're right. Usually dreams are based on a person's everyday experiences.\""
 msgstr ""
 
 #: 10281:405
-
 msgid "Most of the time, people have dreams when there's something prevalent on their minds. For example, when you're in love, you dream about your partner."
 msgstr ""
 
 #: 10281:406
-
 msgid "Right now, my dreams would primarily be about Haruka. It even looked like Haruka in those dreams."
 msgstr ""
 
 #: 10281:407
-
 msgid "That's why, at first, I thought I was dreaming about Haruka and didn't think twice."
 msgstr ""
 
 #: 10281:408
-
-msgid "{Kazushi}\n\"That's right. Haruka, do you look like the principal did when she was younger?\""
+msgid ""
+"{Kazushi}\n"
+"\"That's right. Haruka, do you look like the principal did when she was younger?\""
 msgstr ""
 
 #: 10281:409
-
 msgid "I think the old man at the vegetable shop told me that before..."
 msgstr ""
 
 #: 10281:412
-
-msgid "{Haruka}\n\"Yeah, apparently I look exactly like her. I've seen her pictures before, but people tell me I resemble her more closely than a picture.\""
+msgid ""
+"{Haruka}\n"
+"\"Yeah, apparently I look exactly like her. I've seen her pictures before, but people tell me I resemble her more closely than a picture.\""
 msgstr ""
 
 #: 10281:413
-
-msgid "{Kazushi}\n\"I see......\""
+msgid ""
+"{Kazushi}\n"
+"\"I see......\""
 msgstr ""
 
 #: 10281:414
-
 msgid "So then that was the principal? And I was the principal's husband? Now everything made sense."
 msgstr ""
 
 #: 10281:415
-
 msgid "It made sense, but it also made me even more confused."
 msgstr ""
 
 #: 10281:418
-
-msgid "{Haruka}\n\"But you said that you were able to tell it was a dream within the dream right? Being aware that you're dreaming is unusual.\""
+msgid ""
+"{Haruka}\n"
+"\"But you said that you were able to tell it was a dream within the dream right? Being aware that you're dreaming is unusual.\""
 msgstr ""
 
 #: 10281:419
-
-msgid "{Kazushi}\n\"I know. It hasn't happened lately, but it used to happen pretty frequently when I was little.\""
+msgid ""
+"{Kazushi}\n"
+"\"I know. It hasn't happened lately, but it used to happen pretty frequently when I was little.\""
 msgstr ""
 
 #: 10281:422
-
-msgid "{Haruka}\n\"Huh? It did? You could tell you were dreaming while dreaming?\""
+msgid ""
+"{Haruka}\n"
+"\"Huh? It did? You could tell you were dreaming while dreaming?\""
 msgstr ""
 
 #: 10281:423
-
-msgid "{Kazushi}\n\"Yeah, it happened to me all the time.\nIt's never happened to you before?\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, it happened to me all the time.\n"
+"It's never happened to you before?\""
 msgstr ""
 
 #: 10281:426
-
-msgid "{Haruka}\n\"Not to me. Most people don't dream like that.\""
+msgid ""
+"{Haruka}\n"
+"\"Not to me. Most people don't dream like that.\""
 msgstr ""
 
 #: 10281:427
-
-msgid "{Kazushi}\n\"You think so?\""
+msgid ""
+"{Kazushi}\n"
+"\"You think so?\""
 msgstr ""
 
 #: 10281:428
-
 msgid "I can't remember how many times it's happened to me, but I also can't remember what kind of dreams I had."
 msgstr ""
 
 #: 10281:432
-
-msgid "{Haruka}\n\"Knowing you're in a dream is the first step towards learning mysticism. There are various methods passed down. In India they even train themselves to be self-aware that they're dreaming.\""
+msgid ""
+"{Haruka}\n"
+"\"Knowing you're in a dream is the first step towards learning mysticism. There are various methods passed down. In India they even train themselves to be self-aware that they're dreaming.\""
 msgstr ""
 
 #: 10281:434
-
-msgid "{Haruka}\n\"Jung even said that dreams are a unique world. That man was actually an alchemist too.\""
+msgid ""
+"{Haruka}\n"
+"\"Jung even said that dreams are a unique world. That man was actually an alchemist too.\""
 msgstr ""
 
 #: 10281:435
-
-msgid "{Kazushi}\n\"Wow...\""
+msgid ""
+"{Kazushi}\n"
+"\"Wow...\""
 msgstr ""
 
 #: 10281:436
-
 msgid "I don't remember ever hearing of any Jung so I wasn't very impressed. I just thought it was an odd name."
 msgstr ""
 
 #: 10281:439
-
-msgid "{Haruka}\n\"This is just my theory, but I think you're seeing my grandma in your dream and not me. Likewise, you're my grandpa, not yourself.\""
+msgid ""
+"{Haruka}\n"
+"\"This is just my theory, but I think you're seeing my grandma in your dream and not me. Likewise, you're my grandpa, not yourself.\""
 msgstr ""
 
 #: 10281:440
-
-msgid "{Kazushi}\n\"But that's not right. Why am I dreaming of people I don't even know?\""
+msgid ""
+"{Kazushi}\n"
+"\"But that's not right. Why am I dreaming of people I don't even know?\""
 msgstr ""
 
 #: 10281:443
-
-msgid "{Haruka}\n\"I don't know either. But I do know what happens at the end that you didn't want to see...\""
+msgid ""
+"{Haruka}\n"
+"\"I don't know either. But I do know what happens at the end that you didn't want to see...\""
 msgstr ""
 
 #: 10281:444
-
-msgid "She shut her mouth and looked sad.\nShe must know what's going to happen..."
+msgid ""
+"She shut her mouth and looked sad.\n"
+"She must know what's going to happen..."
 msgstr ""
 
 #: 10281:445
-
-msgid "{Kazushi}\n\"What happens in the end?\""
+msgid ""
+"{Kazushi}\n"
+"\"What happens in the end?\""
 msgstr ""
 
 #: 10281:446
-
-msgid "{Haruka}\n\"Umm......\""
+msgid ""
+"{Haruka}\n"
+"\"Umm......\""
 msgstr ""
 
 #: 10281:447
-
 msgid "Haruka looked down sadly."
 msgstr ""
 
 #: 10281:455
-
-msgid "{Hisae}\n\"Here we are.\""
+msgid ""
+"{Hisae}\n"
+"\"Here we are.\""
 msgstr ""
 
 #: 10281:456
-
 msgid "Haruka... I mean the principal...took me into a cave. She said the stone would most likely be found somewhere in here."
 msgstr ""
 
 #: 10281:457
-
-msgid "{Kazushi}\n\"Then I'll go on in. You wait here, Hisae.\""
+msgid ""
+"{Kazushi}\n"
+"\"Then I'll go on in. You wait here, Hisae.\""
 msgstr ""
 
 #: 10281:458
-
-msgid "{Hisae}\n\"No, I'll go along with you.\""
+msgid ""
+"{Hisae}\n"
+"\"No, I'll go along with you.\""
 msgstr ""
 
 #: 10281:459
-
-msgid "{Kazushi}\n\"No, it's too dangerous for you. We don't know what lies within.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, it's too dangerous for you. We don't know what lies within.\""
 msgstr ""
 
 #: 10281:460
-
-msgid "{Hisae}\n\"I promise not to get in your way. Was it a lie when you vowed that we would be together forever?\""
+msgid ""
+"{Hisae}\n"
+"\"I promise not to get in your way. Was it a lie when you vowed that we would be together forever?\""
 msgstr ""
 
 #: 10281:461
-
-msgid "{Kazushi}\n\"But......\""
+msgid ""
+"{Kazushi}\n"
+"\"But......\""
 msgstr ""
 
 #: 10281:464
-
-msgid "{Hisae}\n\"Come, let us enter.\""
+msgid ""
+"{Hisae}\n"
+"\"Come, let us enter.\""
 msgstr ""
 
 #: 10281:466
-
 msgid "She started walking towards the cave's entrance as if she were going on a picnic."
 msgstr ""
 
 #: 10281:467
-
-msgid "{Kazushi}\n\"...I guess it's too late to stop her now.\""
+msgid ""
+"{Kazushi}\n"
+"\"...I guess it's too late to stop her now.\""
 msgstr ""
 
 #: 10281:468
-
 msgid "I smiled in defeat."
 msgstr ""
 
 #: 10281:469
-
 msgid "The fact that we really were entering a dangerous place was unbeknownst to me-"
 msgstr ""
 
 #: 10281:470
-
 msgid "No, it was unbeknownst to the principal's husband, Aozora Seibe."
 msgstr ""
 
 #: 10281:471
-
 msgid "However......"
 msgstr ""
 
 #: 10281:475
-
 msgid "We kept going deeper inside the pitch-black cave for a good half an hour, relying on just our feeble lantern for light."
 msgstr ""
 
 #: 10281:481
-
-msgid "{Hisae}\n\"What is that......?\""
+msgid ""
+"{Hisae}\n"
+"\"What is that......?\""
 msgstr ""
 
 #: 10281:482
-
-msgid "{Seibe}\n\"I can feel immense power emanating from it.\nThat must be the stone.\""
+msgid ""
+"{Seibe}\n"
+"\"I can feel immense power emanating from it.\n"
+"That must be the stone.\""
 msgstr ""
 
 #: 10281:483
-
-msgid "{Hisae}\n\"What amazing power... Is that the Philosopher's Stone? Or perhaps something with equivalent power?\""
+msgid ""
+"{Hisae}\n"
+"\"What amazing power... Is that the Philosopher's Stone? Or perhaps something with equivalent power?\""
 msgstr ""
 
 #: 10281:484
-
-msgid "{Seibe}\n\"It may be. We won't know until we study it, but its sheer existence is highly intriguing.\""
+msgid ""
+"{Seibe}\n"
+"\"It may be. We won't know until we study it, but its sheer existence is highly intriguing.\""
 msgstr ""
 
 #: 10281:485
-
-msgid "{Hisae}\n\"Then let us bring it back and study it.\""
+msgid ""
+"{Hisae}\n"
+"\"Then let us bring it back and study it.\""
 msgstr ""
 
 #: 10281:489
-
 msgid "The principal tried to pick up the rock, but it wouldn't move. It seemed like it was well buried into the ground."
 msgstr ""
 
 #: 10281:490
-
-msgid "{Seibe}\n\"You shouldn't force it. Let's come back here with some digging tools.\""
+msgid ""
+"{Seibe}\n"
+"\"You shouldn't force it. Let's come back here with some digging tools.\""
 msgstr ""
 
 #: 10281:493
-
-msgid "{Hisae}\n\"What a shame. This wonderful stone is right in front of our eyes.\""
+msgid ""
+"{Hisae}\n"
+"\"What a shame. This wonderful stone is right in front of our eyes.\""
 msgstr ""
 
 #: 10281:494
-
-msgid "{Seibe}\n\"Don't worry, we just need to come back again. Everyone's impatient when they're young.\""
+msgid ""
+"{Seibe}\n"
+"\"Don't worry, we just need to come back again. Everyone's impatient when they're young.\""
 msgstr ""
 
 #: 10281:497
-
-msgid "{Hisae}\n\"It's irritating. I wonder if there's another way?\""
+msgid ""
+"{Hisae}\n"
+"\"It's irritating. I wonder if there's another way?\""
 msgstr ""
 
 #: 10281:499
-
 msgid "The principal scanned the area, unable to give up on the stone."
 msgstr ""
 
 #: 10281:500
-
-msgid "{Seibe}\n\"Hisae, it's not safe to walk around. The light from our lamp doesn't reach over there, so come back.\""
+msgid ""
+"{Seibe}\n"
+"\"Hisae, it's not safe to walk around. The light from our lamp doesn't reach over there, so come back.\""
 msgstr ""
 
 #: 10281:503
-
-msgid "{Hisae}\n\"A little bit won't hurt anything.\""
+msgid ""
+"{Hisae}\n"
+"\"A little bit won't hurt anything.\""
 msgstr ""
 
 #: 10281:506
-
-msgid "{Hisae}\n\"Kyah?!\""
+msgid ""
+"{Hisae}\n"
+"\"Kyah?!\""
 msgstr ""
 
 #: 10281:509
-
 msgid "She tried to scream, but the sound was drowned by that of falling rocks."
 msgstr ""
 
 #: 10281:510
-
-msgid "{Seibe}\n\"Hisae!?\""
+msgid ""
+"{Seibe}\n"
+"\"Hisae!?\""
 msgstr ""
 
 #: 10281:511
-
 msgid "The principal disappeared from sight in an instant."
 msgstr ""
 
 #: 10281:514
-
-msgid "{Hisae}\n\"Sensei......\""
+msgid ""
+"{Hisae}\n"
+"\"Sensei......\""
 msgstr ""
 
 #: 10281:515
-
 msgid "I heard her pained cry from below. I dashed over to her. She was behind a boulder, where the lamp's light couldn't reach."
 msgstr ""
 
 #: 10281:516
-
-msgid "{Seibe}\n\"Hisae!!\""
+msgid ""
+"{Seibe}\n"
+"\"Hisae!!\""
 msgstr ""
 
 #: 10281:517
-
 msgid "I saw a huge dark pit. Hisae was hanging onto the edge for dear life."
 msgstr ""
 
 #: 10281:518
-
-msgid "{Hisae}\n\"Sensei......\""
+msgid ""
+"{Hisae}\n"
+"\"Sensei......\""
 msgstr ""
 
 #: 10281:519
-
 msgid "Her fingertips had barely managed to grasp the edge of the pit. That was all that saved her."
 msgstr ""
 
 #: 10281:520
-
-msgid "{Seibe}\n\"Phew......it's alright. I'll pull you up in a second, so stay still.\""
+msgid ""
+"{Seibe}\n"
+"\"Phew......it's alright. I'll pull you up in a second, so stay still.\""
 msgstr ""
 
 #: 10281:521
-
 msgid "My...no, Seibe's thin arm reached out for her. When he got a firm hold of the principal's arm, he pulled her up with all his might."
 msgstr ""
 
 #: 10281:522
-
-msgid "{Seibe}\n\"Ngh...Almost there...\""
+msgid ""
+"{Seibe}\n"
+"\"Ngh...Almost there...\""
 msgstr ""
 
 #: 10281:523
-
 msgid "Her whole upper body was out of the hole now. She clung to me. I held her in return and pulled her out."
 msgstr ""
 
 #: 10281:527
-
-msgid "{Seibe}\n\"Phew...it's all right now.\""
+msgid ""
+"{Seibe}\n"
+"\"Phew...it's all right now.\""
 msgstr ""
 
 #: 10281:530
-
-msgid "{Hisae}\n\"Yes, you saved me. I almost thought I was a goner. You have a lot more strength than I thought, sensei.\""
+msgid ""
+"{Hisae}\n"
+"\"Yes, you saved me. I almost thought I was a goner. You have a lot more strength than I thought, sensei.\""
 msgstr ""
 
 #: 10281:531
-
-msgid "{Seibe}\n\"I'd like to think I'm at least strong enough to protect the one I love.\""
+msgid ""
+"{Seibe}\n"
+"\"I'd like to think I'm at least strong enough to protect the one I love.\""
 msgstr ""
 
 #: 10281:534
-
-msgid "{Hisae}\n\"......the one you love......\""
+msgid ""
+"{Hisae}\n"
+"\"......the one you love......\""
 msgstr ""
 
 #: 10281:535
-
-msgid "Her cheeks blushed.\nWatching her like this reminded me of Haruka."
+msgid ""
+"Her cheeks blushed.\n"
+"Watching her like this reminded me of Haruka."
 msgstr ""
 
 #: 10281:536
-
 msgid "However, she's not Haruka. The excitement I'm feeling now belongs to Seibe."
 msgstr ""
 
 #: 10281:537
-
-msgid "{Seibe}\n\"This place is dangerous. Let's get out of here for now.\""
+msgid ""
+"{Seibe}\n"
+"\"This place is dangerous. Let's get out of here for now.\""
 msgstr ""
 
 #: 10281:540
-
-msgid "{Hisae}\n\"I agree.\""
+msgid ""
+"{Hisae}\n"
+"\"I agree.\""
 msgstr ""
 
 #: 10281:541
-
-msgid "I stood up as I held her hand.\nThat's when something fell from the ceiling."
+msgid ""
+"I stood up as I held her hand.\n"
+"That's when something fell from the ceiling."
 msgstr ""
 
 #: 10281:542
-
-msgid "{Hisae}\n\"What--?\""
+msgid ""
+"{Hisae}\n"
+"\"What--?\""
 msgstr ""
 
 #: 10281:543
-
-msgid "{Seibe}\n\"Look out!!\""
+msgid ""
+"{Seibe}\n"
+"\"Look out!!\""
 msgstr ""
 
 #: 10281:545
-
 msgid "I quickly shoved the principal out of the way. As soon as I did, a large boulder crumbled down onto me from above my side."
 msgstr ""
 
 #: 10281:549
-
-msgid "{Seibe}\n\"Gahhh!!\""
+msgid ""
+"{Seibe}\n"
+"\"Gahhh!!\""
 msgstr ""
 
 #: 10281:553
-
 msgid "My sight went dark. I couldn't see anything."
 msgstr ""
 
 #: 10281:554
-
-msgid "{Hisae}\n\"Sensei!!\""
+msgid ""
+"{Hisae}\n"
+"\"Sensei!!\""
 msgstr ""
 
 #: 10281:555
-
-msgid "I heard the principal's voice.\nI seem to still be alive."
+msgid ""
+"I heard the principal's voice.\n"
+"I seem to still be alive."
 msgstr ""
 
 #: 10281:559
-
-msgid "{Seibe}\n\"I think I'm okay. I'm still alive.\""
+msgid ""
+"{Seibe}\n"
+"\"I think I'm okay. I'm still alive.\""
 msgstr ""
 
 #: 10281:560
-
-msgid "{Hisae}\n\"Sensei! Thank goodness...\""
+msgid ""
+"{Hisae}\n"
+"\"Sensei! Thank goodness...\""
 msgstr ""
 
 #: 10281:563
-
-msgid "{Seibe}\n\"But I seem to be completely trapped in here. Let me try moving this boulder...Ngh?!\""
+msgid ""
+"{Seibe}\n"
+"\"But I seem to be completely trapped in here. Let me try moving this boulder...Ngh?!\""
 msgstr ""
 
 #: 10281:564
-
-msgid "I felt a sharp pain when I tried to stand up.\nI failed to hold myself up, and collapsed to the ground."
+msgid ""
+"I felt a sharp pain when I tried to stand up.\n"
+"I failed to hold myself up, and collapsed to the ground."
 msgstr ""
 
 #: 10281:565
-
-msgid "{Hisae}\n\"Sensei? Sensei, what's wrong?\""
+msgid ""
+"{Hisae}\n"
+"\"Sensei? Sensei, what's wrong?\""
 msgstr ""
 
 #: 10281:566
-
 msgid "I could hear her worried voice."
 msgstr ""
 
 #: 10281:567
-
-msgid "{Seibe}\n\"I-I'm alright. But cripes. It looks like I broke my leg.\""
+msgid ""
+"{Seibe}\n"
+"\"I-I'm alright. But cripes. It looks like I broke my leg.\""
 msgstr ""
 
 #: 10281:568
-
-msgid "{Hisae}\n\"A broken leg!? Oh no......\""
+msgid ""
+"{Hisae}\n"
+"\"A broken leg!? Oh no......\""
 msgstr ""
 
 #: 10281:569
-
-msgid "{Seibe}\n\"It'll be fine if I just keep still. But I can't move with this.\""
+msgid ""
+"{Seibe}\n"
+"\"It'll be fine if I just keep still. But I can't move with this.\""
 msgstr ""
 
 #: 10281:570
-
-msgid "{Hisae}\n\"Sensei, please stay still! I will do something to get you out of there!\""
+msgid ""
+"{Hisae}\n"
+"\"Sensei, please stay still! I will do something to get you out of there!\""
 msgstr ""
 
 #: 10281:571
-
-msgid "{Seibe}\n\"Something? But...?\""
+msgid ""
+"{Seibe}\n"
+"\"Something? But...?\""
 msgstr ""
 
 #: 10281:572
-
 msgid "This boulder is too big for a woman to move aside."
 msgstr ""
 
 #: 10281:573
-
-msgid "{Hisae}\n\"I'm going to get help! You wait for me here!\""
+msgid ""
+"{Hisae}\n"
+"\"I'm going to get help! You wait for me here!\""
 msgstr ""
 
 #: 10281:577
-
 msgid "I listened to the sounds of her footsteps as she dashed off. When they finally faded, I was left in complete silence."
 msgstr ""
 
 #: 10281:578
-
 msgid "I was surrounded by complete darkness. The only sound was that of my own breathing."
 msgstr ""
 
 #: 10281:579
-
 msgid "There was sharp pain in my leg. Fear started to well up like the sweat seeping from my pores."
 msgstr ""
 
 #: 10281:580
-
-msgid "{Seibe}\n\"She said she was going to get help, but...\""
+msgid ""
+"{Seibe}\n"
+"\"She said she was going to get help, but...\""
 msgstr ""
 
 #: 10281:581
-
 msgid "I realized she wouldn't be able to - the pair of us were the only ones here. After all, we came to a long abandoned deserted island."
 msgstr ""
 
 #: 10281:582
-
 msgid "So this was still some time before people started settling on the island."
 msgstr ""
 
 #: 10281:583
-
-msgid "{Seibe}\n\"It's hopeless.\""
+msgid ""
+"{Seibe}\n"
+"\"It's hopeless.\""
 msgstr ""
 
 #: 10281:584
-
 msgid "I knew that she couldn't pilot the boat. I had the key, but no way of handing it over to her."
 msgstr ""
 
 #: 10281:585
-
 msgid "I...I mean Seibe...already knew he was going to die."
 msgstr ""
 
 #: 10281:590
-
 msgid "As I expected, the principal came back battered. It took her longer than I expected because she had been running about, unable to give up."
 msgstr ""
 
 #: 10281:591
-
-msgid "{Hisae}\n\"Sensei, I'm sorry...\""
+msgid ""
+"{Hisae}\n"
+"\"Sensei, I'm sorry...\""
 msgstr ""
 
 #: 10281:592
-
 msgid "She felt responsible for not being able to find someone."
 msgstr ""
 
 #: 10281:593
-
-msgid "{Seibe}\n\"Don't worry about it. It wasn't your fault. It was just an accident.\""
+msgid ""
+"{Seibe}\n"
+"\"Don't worry about it. It wasn't your fault. It was just an accident.\""
 msgstr ""
 
 #: 10281:594
-
-msgid "{Hisae}\n\"But sensei, you protected me, and...\""
+msgid ""
+"{Hisae}\n"
+"\"But sensei, you protected me, and...\""
 msgstr ""
 
 #: 10281:595
-
-msgid "{Seibe}\n\"My body acted on its own. If I hadn't done anything, we both would have been trapped in here. I'm glad that at least you're safe.\""
+msgid ""
+"{Seibe}\n"
+"\"My body acted on its own. If I hadn't done anything, we both would have been trapped in here. I'm glad that at least you're safe.\""
 msgstr ""
 
 #: 10281:596
-
-msgid "{Hisae}\n\"Please don't say that.\nI'm going to get you out of there.\""
+msgid ""
+"{Hisae}\n"
+"\"Please don't say that.\n"
+"I'm going to get you out of there.\""
 msgstr ""
 
 #: 10281:598
-
 msgid "*Clunk, clunk...*"
 msgstr ""
 
 #: 10281:599
-
 msgid "I heard a new sound."
 msgstr ""
 
 #: 10281:600
-
-msgid "{Seibe}\n\"Hisae, what are you--?\""
+msgid ""
+"{Seibe}\n"
+"\"Hisae, what are you--?\""
 msgstr ""
 
 #: 10281:602
-
 msgid "*CLANG! CLANG!*"
 msgstr ""
 
 #: 10281:603
-
 msgid "I heard the sound of metal clanging against the boulder and a faint tremor in the air. It sounded like she was trying to break the boulder with a pickaxe...no, a shovel."
 msgstr ""
 
 #: 10281:604
-
-msgid "{Seibe}\n\"Hisae, it won't work. If this place crumbles again, you'll be in danger, so get out of here.\""
+msgid ""
+"{Seibe}\n"
+"\"Hisae, it won't work. If this place crumbles again, you'll be in danger, so get out of here.\""
 msgstr ""
 
 #: 10281:605
-
-msgid "{Hisae}\n\"No, I cannot leave you here! I will be sure to save you, so please hang on!\""
+msgid ""
+"{Hisae}\n"
+"\"No, I cannot leave you here! I will be sure to save you, so please hang on!\""
 msgstr ""
 
 #: 10281:607
-
 msgid "*CLANG! CLANG!*"
 msgstr ""
 
 #: 10281:608
-
 msgid "I heard her clangs echoing."
 msgstr ""
 
 #: 10281:609
-
-msgid "{Hisae}\n\"I will get you out of here no matter what! A rock like this is nothing!!\""
+msgid ""
+"{Hisae}\n"
+"\"I will get you out of here no matter what! A rock like this is nothing!!\""
 msgstr ""
 
 #: 10281:616
-
 msgid "*Ksh...clatter...*"
 msgstr ""
 
 #: 10281:617
-
 msgid "I heard the sound of her shovel falling."
 msgstr ""
 
 #: 10281:618
-
-msgid "{Hisae}\n\"......ouch......\""
+msgid ""
+"{Hisae}\n"
+"\"......ouch......\""
 msgstr ""
 
 #: 10281:619
-
 msgid "Then I heard her cry in pain."
 msgstr ""
 
 #: 10281:620
-
-msgid "{Seibe}\n\"Hisae, are you all right......?\""
+msgid ""
+"{Seibe}\n"
+"\"Hisae, are you all right......?\""
 msgstr ""
 
 #: 10281:621
-
 msgid "I couldn't tell how much more time has passed. Seibe could barely speak. He had no food, no water, and his body was feverish from the broken leg."
 msgstr ""
 
 #: 10281:622
-
 msgid "It wasn't much different for the principal either. She had been pounding away at the boulder day and night since then."
 msgstr ""
 
 #: 10281:623
-
 msgid "She must be worn out."
 msgstr ""
 
 #: 10281:624
-
-msgid "{Hisae}\n\"I'm alright. A good portion of this rock has already crumbled away. I'm almost there...\""
+msgid ""
+"{Hisae}\n"
+"\"I'm alright. A good portion of this rock has already crumbled away. I'm almost there...\""
 msgstr ""
 
 #: 10281:625
-
 msgid "I sensed her grab the shovel again. However, I - Seibe - knew that the boulder hadn't budged at all."
 msgstr ""
 
 #: 10281:626
-
 msgid "One person alone wasn't enough to do something about this huge boulder."
 msgstr ""
 
 #: 10281:627
-
 msgid "It was becoming clear that he could no longer turn his eyes away from his impending death."
 msgstr ""
 
 #: 10281:629
-
 msgid "*Clang! Clang...clatter...*"
 msgstr ""
 
 #: 10281:630
-
-msgid "{Hisae}\n\"Khah...\""
+msgid ""
+"{Hisae}\n"
+"\"Khah...\""
 msgstr ""
 
 #: 10281:631
-
 msgid "She dropped the shovel before even getting a few swings in."
 msgstr ""
 
 #: 10281:632
-
 msgid "She was already at her limit. Perhaps she'd crossed it long ago."
 msgstr ""
 
 #: 10281:633
-
-msgid "{Seibe}\n\"Hisae, that's enough. You need to get out of here.\""
+msgid ""
+"{Seibe}\n"
+"\"Hisae, that's enough. You need to get out of here.\""
 msgstr ""
 
 #: 10281:634
-
 msgid "He spent his last energy telling her she needed to leave. I heard the principal gasp."
 msgstr ""
 
 #: 10281:635
-
-msgid "{Hisae}\n\"I cannot do that! I can't leave you behind and escape by myself...!!\""
+msgid ""
+"{Hisae}\n"
+"\"I cannot do that! I can't leave you behind and escape by myself...!!\""
 msgstr ""
 
 #: 10281:636
-
-msgid "{Seibe}\n\"Your body is at its limit too. At this rate, neither of us will survive. I want you to live on.\""
+msgid ""
+"{Seibe}\n"
+"\"Your body is at its limit too. At this rate, neither of us will survive. I want you to live on.\""
 msgstr ""
 
 #: 10281:637
-
-msgid "{Hisae}\n\"There's no point in saving myself alone! I'd rather die here with you!!\""
+msgid ""
+"{Hisae}\n"
+"\"There's no point in saving myself alone! I'd rather die here with you!!\""
 msgstr ""
 
 #: 10281:638
-
-msgid "{Seibe}\n\"Don't be foolish. Do not throw away the life that was spared. I want you to continue my research.\""
+msgid ""
+"{Seibe}\n"
+"\"Don't be foolish. Do not throw away the life that was spared. I want you to continue my research.\""
 msgstr ""
 
 #: 10281:639
-
-msgid "{Hisae}\n\"I can't do that......\""
+msgid ""
+"{Hisae}\n"
+"\"I can't do that......\""
 msgstr ""
 
 #: 10281:640
-
-msgid "{Seibe}\n\"Yes, you can.\nThe power of this island, my project......\""
+msgid ""
+"{Seibe}\n"
+"\"Yes, you can.\n"
+"The power of this island, my project......\""
 msgstr ""
 
 #: 10281:641
-
-msgid "{Seibe}\n\"I came to this island with a big dream. I want you to pick up where I left off. You're the only one I can depend on.\""
+msgid ""
+"{Seibe}\n"
+"\"I came to this island with a big dream. I want you to pick up where I left off. You're the only one I can depend on.\""
 msgstr ""
 
 #: 10281:642
-
 msgid "It was actually his strategy for getting her to finally escape from the cave. Their research dreams were indeed an important part of his life."
 msgstr ""
 
 #: 10281:643
-
 msgid "But there was something far more important to him: the principal."
 msgstr ""
 
 #: 10281:644
-
-msgid "{Hisae}\n\"That's...not fair...\""
+msgid ""
+"{Hisae}\n"
+"\"That's...not fair...\""
 msgstr ""
 
 #: 10281:645
-
-msgid "He knew it was unfair, but if it meant that she would live then he didn't care. He just wanted her to live...\nThat's all he wanted..."
+msgid ""
+"He knew it was unfair, but if it meant that she would live then he didn't care. He just wanted her to live...\n"
+"That's all he wanted..."
 msgstr ""
 
 #: 10281:646
-
-msgid "{Seibe}\n\"I won't die. So long as you survive, live, and continue my research, then I will always be alive in your heart.\""
+msgid ""
+"{Seibe}\n"
+"\"I won't die. So long as you survive, live, and continue my research, then I will always be alive in your heart.\""
 msgstr ""
 
 #: 10281:647
-
-msgid "{Hisae}\n\"That's just...\""
+msgid ""
+"{Hisae}\n"
+"\"That's just...\""
 msgstr ""
 
 #: 10281:648
-
 msgid "Her remaining words, \"ill logic,\" wouldn't come out. She was painfully aware of just how much Seibe cared for her."
 msgstr ""
 
 #: 10281:649
-
-msgid "{Seibe}\n\"Please......Please, Hisae......\""
+msgid ""
+"{Seibe}\n"
+"\"Please......Please, Hisae......\""
 msgstr ""
 
 #: 10281:650
-
-msgid "{Hisae}\n\"Sensei? Sensei...?\""
+msgid ""
+"{Hisae}\n"
+"\"Sensei? Sensei...?\""
 msgstr ""
 
 #: 10281:653
-
 msgid "Seibe rested himself against the boulder and closed his eyes. The darkness didn't change one bit. He wasn't going to respond to the principal anymore."
 msgstr ""
 
 #: 10281:654
-
-msgid "{Hisae}\n\"Sensei? Sensei? Sensei!?\""
+msgid ""
+"{Hisae}\n"
+"\"Sensei? Sensei? Sensei!?\""
 msgstr ""
 
 #: 10281:657
-
 msgid "He thought the principal would give up and leave if she thought he had died. He didn't have much time anyways, so it was sure to be true soon."
 msgstr ""
 
 #: 10281:658
-
 msgid "And then Seibe lost consciousness."
 msgstr ""
 
 #: 10281:661
-
-msgid "{Hisae}\n\"Sensei, no! No! Sensei, answer me! No! No... NOOOOOOO!!!\""
+msgid ""
+"{Hisae}\n"
+"\"Sensei, no! No! Sensei, answer me! No! No... NOOOOOOO!!!\""
 msgstr ""
 
 #: 10281:666
-
 msgid "The wind was blowing. The strong wind fiercely shook the white budding flowers as the flowers hung their heads to protect the buds."
 msgstr ""
 
 #: 10281:667
-
 msgid "It resembled a funeral procession to honor the deceased. Maybe my sullen mood made it seem that way. After hearing the story from Haruka, I could barely sleep."
 msgstr ""
 
 #: 10281:668
-
 msgid "In the end, I did watch the rest of the dream."
 msgstr ""
 
 #: 10281:669
-
-msgid "{Kazushi}\n\"It's a sad story.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's a sad story.\""
 msgstr ""
 
 #: 10281:670
-
 msgid "I heard the principal crying for a very long time in that spot afterwards. Yet she still followed Seibe's final words, and managed to survive."
 msgstr ""
 
 #: 10281:671
-
 msgid "She was saved by some people who came to check on them after they hadn't returned in very long time."
 msgstr ""
 
 #: 10281:672
-
 msgid "Seibe's remains weren't uncovered until over a month later. He had become a complete skeleton."
 msgstr ""
 
 #: 10281:673
-
 msgid "\"I didn't survive because I abandoned him.\""
 msgstr ""
 
 #: 10281:674
-
 msgid "I could \"hear\" the principal's voice from her heart."
 msgstr ""
 
 #: 10281:675
-
 msgid "\"I didn't survive because I abandoned him. I survived so that I could bring him back to life with my very own hands. That's why I survived...\""
 msgstr ""
 
 #: 10281:676
-
 msgid "She repeated those words like a chant or prayer. It was such a vehement desire."
 msgstr ""
 
 #: 10281:678
-
 msgid "If she hadn't strongly convinced herself of that, then she wouldn't have been able to leave the side of the one she loved as he died. That wish still kept her going even now, decades later."
 msgstr ""
 
 #: 10281:680
-
-msgid "{Kazushi}\n\"But that's impossible.\""
+msgid ""
+"{Kazushi}\n"
+"\"But that's impossible.\""
 msgstr ""
 
 #: 10281:681
-
 msgid "Haruka told me the principal's true goal - the real thing she was trying to do with alchemy."
 msgstr ""
 
 #: 10281:683
-
-msgid "{Principal}\n\"What do you know about what I had to go through?\""
+msgid ""
+"{Principal}\n"
+"\"What do you know about what I had to go through?\""
 msgstr ""
 
 #: 10281:684
-
 msgid "I heard someone behind us. I didn't have to turn around to see who it was."
 msgstr ""
 
 #: 10281:685
-
-msgid "{Kazushi}\n\"I'm sorry, but it's impossible. Even if you were to succeed, that kind of action shouldn't be allowed.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm sorry, but it's impossible. Even if you were to succeed, that kind of action shouldn't be allowed.\""
 msgstr ""
 
 #: 10281:686
-
 msgid "I turned around slowly. The principal's gray hair was blowing in the wind."
 msgstr ""
 
 #: 10281:689
-
-msgid "{Principal}\n\"What shouldn't be allowed?\""
+msgid ""
+"{Principal}\n"
+"\"What shouldn't be allowed?\""
 msgstr ""
 
 #: 10281:690
-
-msgid "{Kazushi}\n\"...to bring people back from the dead.\""
+msgid ""
+"{Kazushi}\n"
+"\"...to bring people back from the dead.\""
 msgstr ""
 
 #: 10281:691
-
-msgid "It's her sole purpose in life:\nTo revive her dead husband."
+msgid ""
+"It's her sole purpose in life:\n"
+"To revive her dead husband."
 msgstr ""
 
 #: 10281:692
-
-msgid "Can alchemy really make it possible?\nI don't know.\nI don't think so."
+msgid ""
+"Can alchemy really make it possible?\n"
+"I don't know.\n"
+"I don't think so."
 msgstr ""
 
 #: 10281:693
-
 msgid "Because she hasn't been able to, because she can't do it, she still can't let go."
 msgstr ""
 
 #: 10281:694
-
-msgid "{Kazushi}\n\"The dead cannot be brought back to life. That's set in stone, isn't it?\""
+msgid ""
+"{Kazushi}\n"
+"\"The dead cannot be brought back to life. That's set in stone, isn't it?\""
 msgstr ""
 
 #: 10281:698
-
-msgid "{Principal}\n\"Who decided so?\""
+msgid ""
+"{Principal}\n"
+"\"Who decided so?\""
 msgstr ""
 
 #: 10281:699
-
-msgid "{Kazushi}\n\"I guess......god?\""
+msgid ""
+"{Kazushi}\n"
+"\"I guess......god?\""
 msgstr ""
 
 #: 10281:700
-
 msgid "I don't know who decided that. The principal gave me a scoffing smile as I mumbled."
 msgstr ""
 
 #: 10281:701
-
-msgid "{Principal}\n\"Where is this god? If a god exists, I will gladly beg him. But there is no god.\""
+msgid ""
+"{Principal}\n"
+"\"Where is this god? If a god exists, I will gladly beg him. But there is no god.\""
 msgstr ""
 
 #: 10281:704
-
-msgid "{Principal}\n\"If there was a god, then my husband wouldn't have died in such a horrid way!\""
+msgid ""
+"{Principal}\n"
+"\"If there was a god, then my husband wouldn't have died in such a horrid way!\""
 msgstr ""
 
 #: 10281:705
-
-msgid "The principal's husband, Seibe.\nThe person who taught her alchemy.\nThe love of her life."
+msgid ""
+"The principal's husband, Seibe.\n"
+"The person who taught her alchemy.\n"
+"The love of her life."
 msgstr ""
 
 #: 10281:706
-
-msgid "{Principal}\n\"I know it. It is my fault that he died. That's why it's my responsibility to save him.\""
+msgid ""
+"{Principal}\n"
+"\"I know it. It is my fault that he died. That's why it's my responsibility to save him.\""
 msgstr ""
 
 #: 10281:707
-
-msgid "{Principal}\n\"I would gladly sacrifice my life for that. No, no, I was the one who should have died that day, so it's only natural.\""
+msgid ""
+"{Principal}\n"
+"\"I would gladly sacrifice my life for that. No, no, I was the one who should have died that day, so it's only natural.\""
 msgstr ""
 
 #: 10281:708
-
-msgid "{Principal}\n\"If I can bring him back......\""
+msgid ""
+"{Principal}\n"
+"\"If I can bring him back......\""
 msgstr ""
 
 #: 10281:711
-
-msgid "{Principal}\n\"I will do anything.\""
+msgid ""
+"{Principal}\n"
+"\"I will do anything.\""
 msgstr ""
 
 #: 10281:712
-
-msgid "What she just said echoed heavily in my heart.\nHer strong determination wouldn't be shaken."
+msgid ""
+"What she just said echoed heavily in my heart.\n"
+"Her strong determination wouldn't be shaken."
 msgstr ""
 
 #: 10281:713
-
-msgid "{Kazushi}\n\"Even if it means hurting Haruka in the process?\""
+msgid ""
+"{Kazushi}\n"
+"\"Even if it means hurting Haruka in the process?\""
 msgstr ""
 
 #: 10281:716
-
-msgid "{Principal}\n\"..................\""
+msgid ""
+"{Principal}\n"
+"\"..................\""
 msgstr ""
 
 #: 10281:717
-
 msgid "The principal glared at me with loathing, indicating that this was something she didn't want mentioned."
 msgstr ""
 
 #: 10281:720
-
-msgid "{Principal}\n\"This has nothing to do with Haruka.\""
+msgid ""
+"{Principal}\n"
+"\"This has nothing to do with Haruka.\""
 msgstr ""
 
 #: 10281:721
-
-msgid "{Kazushi}\n\"You are hurting her. Haruka truly loves you. Please pay more attention to her.\""
+msgid ""
+"{Kazushi}\n"
+"\"You are hurting her. Haruka truly loves you. Please pay more attention to her.\""
 msgstr ""
 
 #: 10281:724
-
-msgid "{Principal}\n\"..................\""
+msgid ""
+"{Principal}\n"
+"\"..................\""
 msgstr ""
 
 #: 10281:725
-
 msgid "The principal turned her back to me without replying. Then she looked up at the sky. A thin, tiny moon hung emptily in the sky."
 msgstr ""
 
 #: 10281:726
-
 msgid "That thin moon shone its cold, white light upon us."
 msgstr ""
 
 #: 10281:729
-
-msgid "{Principal}\n\"I will bring him back, no matter what.\""
+msgid ""
+"{Principal}\n"
+"\"I will bring him back, no matter what.\""
 msgstr ""
 
 #: 10281:730
-
 msgid "I sensed a strong sense of determination through her words."
 msgstr ""
 
 #: 10281:731
-
-msgid "{Kazushi}\n\"Are you planning to do something?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you planning to do something?\""
 msgstr ""
 
 #: 10281:732
-
-msgid "{Principal}\n\"..................\""
+msgid ""
+"{Principal}\n"
+"\"..................\""
 msgstr ""
 
 #: 10281:733
-
-msgid "She didn't answer me.\nBut it's impossible to bring back the dead."
+msgid ""
+"She didn't answer me.\n"
+"But it's impossible to bring back the dead."
 msgstr ""
 
 #: 10281:738
-
-msgid "{Haruka}\n\"Oh! There you are!\nKazushi-kun!\""
+msgid ""
+"{Haruka}\n"
+"\"Oh! There you are!\n"
+"Kazushi-kun!\""
 msgstr ""
 
 #: 10281:743
-
 msgid "Haruka found me and ran towards me, but she stopped as soon as she saw the principal with me."
 msgstr ""
 
 #: 10281:746
-
-msgid "{Haruka}\n\"Grandma...\nI didn't know you were here.\""
+msgid ""
+"{Haruka}\n"
+"\"Grandma...\n"
+"I didn't know you were here.\""
 msgstr ""
 
 #: 10281:747
-
-msgid "{Kazushi}\n\"I ran into her.\""
+msgid ""
+"{Kazushi}\n"
+"\"I ran into her.\""
 msgstr ""
 
 #: 10281:752
-
-msgid "{Principal}\n\"Haruka, it's getting late. Why don't you head on home?\""
+msgid ""
+"{Principal}\n"
+"\"Haruka, it's getting late. Why don't you head on home?\""
 msgstr ""
 
 #: 10281:753
-
-msgid "{Haruka}\n\"Umm......\""
+msgid ""
+"{Haruka}\n"
+"\"Umm......\""
 msgstr ""
 
 #: 10281:755
-
 msgid "The principal walked away from the flower garden without saying much. She looked sad from behind."
 msgstr ""
 
 #: 10281:758
-
-msgid "{Haruka}\n\"What were you guys talking about?\""
+msgid ""
+"{Haruka}\n"
+"\"What were you guys talking about?\""
 msgstr ""
 
 #: 10281:759
-
-msgid "{Kazushi}\n\"Nothing much.\""
+msgid ""
+"{Kazushi}\n"
+"\"Nothing much.\""
 msgstr ""
 
 #: 10281:760
-
 msgid "It was hard to talk to Haruka about it, but Haruka pursed her lips in discontent."
 msgstr ""
 
 #: 10281:763
-
-msgid "{Haruka}\n\"I know you're being considerate towards me, but I don't want you hiding anything. It'll make me sad.\""
+msgid ""
+"{Haruka}\n"
+"\"I know you're being considerate towards me, but I don't want you hiding anything. It'll make me sad.\""
 msgstr ""
 
 #: 10281:764
-
-msgid "{Kazushi}\n\"......you're right.\""
+msgid ""
+"{Kazushi}\n"
+"\"......you're right.\""
 msgstr ""
 
 #: 10281:765
-
 msgid "It's not like I'm going to reach a good conclusion thinking about it by myself. I should talk with Haruka about everything from now on."
 msgstr ""
 
 #: 10281:766
-
 msgid "Because we are going to be together for a long time."
 msgstr ""
 
 #: 10281:767
-
-msgid "{Kazushi}\n\"Actually......\""
+msgid ""
+"{Kazushi}\n"
+"\"Actually......\""
 msgstr ""
 
 #: 10281:774
-
-msgid "{Haruka}\n\"Grandma is still blaming herself.\""
+msgid ""
+"{Haruka}\n"
+"\"Grandma is still blaming herself.\""
 msgstr ""
 
 #: 10281:775
-
-msgid "{Kazushi}\n\"Yeah, seems that way.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, seems that way.\""
 msgstr ""
 
 #: 10281:776
-
 msgid "It's sad. To see your loved one die right in front of you."
 msgstr ""
 
 #: 10281:777
-
-msgid "{Haruka}\n\"She's been blaming herself for so long now. I couldn't bear to watch her like that, and that's why I decided to help her.\""
+msgid ""
+"{Haruka}\n"
+"\"She's been blaming herself for so long now. I couldn't bear to watch her like that, and that's why I decided to help her.\""
 msgstr ""
 
 #: 10281:778
-
-msgid "{Kazushi}\n\"I see. But......\""
+msgid ""
+"{Kazushi}\n"
+"\"I see. But......\""
 msgstr ""
 
 #: 10281:779
-
-msgid "{Haruka}\n\"I know......\nIt's impossible to bring back someone who is dead.\""
+msgid ""
+"{Haruka}\n"
+"\"I know......\n"
+"It's impossible to bring back someone who is dead.\""
 msgstr ""
 
 #: 10281:780
-
-msgid "{Kazushi}\n\"That's right. It's impossible, isn't it? Not even with Alchemy.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's right. It's impossible, isn't it? Not even with Alchemy.\""
 msgstr ""
 
 #: 10281:783
-
-msgid "{Haruka}\n\"You know that the ultimate goal of Alchemy is eternal youth and life, right?\""
+msgid ""
+"{Haruka}\n"
+"\"You know that the ultimate goal of Alchemy is eternal youth and life, right?\""
 msgstr ""
 
 #: 10281:784
-
-msgid "{Kazushi}\n\"I do.\""
+msgid ""
+"{Kazushi}\n"
+"\"I do.\""
 msgstr ""
 
 #: 10281:785
-
 msgid "I don't believe it though. There is no human who doesn't die. They wouldn't be human if they didn't."
 msgstr ""
 
 #: 10281:786
-
-msgid "{Kazushi}\n\"But if alchemy can grant that, then couldn't it bring people back from the dead?\""
+msgid ""
+"{Kazushi}\n"
+"\"But if alchemy can grant that, then couldn't it bring people back from the dead?\""
 msgstr ""
 
 #: 10281:789
-
 msgid "Haruka nodded her head with only the slightest hesitation."
 msgstr ""
 
 #: 10281:790
-
-msgid "{Haruka}\n\"There are documents that record dead plants being revived from ashes. They also say that it's possible to do so with living creatures.\""
+msgid ""
+"{Haruka}\n"
+"\"There are documents that record dead plants being revived from ashes. They also say that it's possible to do so with living creatures.\""
 msgstr ""
 
 #: 10281:791
-
-msgid "{Kazushi}\n\"Is that really true?\""
+msgid ""
+"{Kazushi}\n"
+"\"Is that really true?\""
 msgstr ""
 
 #: 10281:792
-
-msgid "{Haruka}\n\"I don't know, but I've never heard of it being successful. That's why grandma is having such a hard time.\""
+msgid ""
+"{Haruka}\n"
+"\"I don't know, but I've never heard of it being successful. That's why grandma is having such a hard time.\""
 msgstr ""
 
 #: 10281:793
-
-msgid "{Kazushi}\n\"Yeah.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah.\""
 msgstr ""
 
 #: 10281:794
-
 msgid "I have a feeling that the principal knows it's impossible. She just doesn't want to believe it."
 msgstr ""
 
 #: 10281:795
-
-msgid "{Kazushi}\n\"We need to make her realize that it's impossible.\""
+msgid ""
+"{Kazushi}\n"
+"\"We need to make her realize that it's impossible.\""
 msgstr ""
 
 #: 10281:796
-
 msgid "That's the only way to rescue her. Otherwise, she'll just continue to blame herself."
 msgstr ""
 
 #: 10281:797
-
 msgid "If we don't do that, then Haruka will never get back the grandma she loves."
 msgstr ""
 
 #: 10281:800
-
-msgid "{Haruka}\n\"You're right. I can't just keep opposing everything my grandma does.\""
+msgid ""
+"{Haruka}\n"
+"\"You're right. I can't just keep opposing everything my grandma does.\""
 msgstr ""
 
 #: 10281:803
-
-msgid "{Haruka}\n\"I wonder if there's anything I can do to help her?\""
+msgid ""
+"{Haruka}\n"
+"\"I wonder if there's anything I can do to help her?\""
 msgstr ""
 
 #: 10281:804
-
-msgid "{Kazushi}\n\"Of course. You're her granddaughter. I'm sure there's something only you can do for her.\""
+msgid ""
+"{Kazushi}\n"
+"\"Of course. You're her granddaughter. I'm sure there's something only you can do for her.\""
 msgstr ""
 
 #: 10281:807
-
-msgid "{Haruka}\n\"I hope so. I'll do my best to find it.\""
+msgid ""
+"{Haruka}\n"
+"\"I hope so. I'll do my best to find it.\""
 msgstr ""
 
 #: 10281:808
-
-msgid "{Kazushi}\n\"You do that. I'll help you, too.\""
+msgid ""
+"{Kazushi}\n"
+"\"You do that. I'll help you, too.\""
 msgstr ""
 
 #: 10281:811
-
-msgid "{Haruka}\n\"For now, I'll keep my eyes on her to keep her from doing something reckless.\""
+msgid ""
+"{Haruka}\n"
+"\"For now, I'll keep my eyes on her to keep her from doing something reckless.\""
 msgstr ""
 
 #: 10281:812
-
-msgid "{Kazushi}\n\"Yeah, me too.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, me too.\""
 msgstr ""
 
 #: 10281:813
-
 msgid "I was worried about how the principal seemed cornered. I just hope nothing happens."
 msgstr ""
 
 #: 10281:820
-
-msgid "{Haruka}\n\"Summer break is almost over.\""
+msgid ""
+"{Haruka}\n"
+"\"Summer break is almost over.\""
 msgstr ""
 
 #: 10281:821
-
 msgid "Haruka walked a little bit ahead of me, skipping as she went beneath the moonlight."
 msgstr ""
 
 #: 10281:822
-
-msgid "{Kazushi}\n\"Keep your eyes on the road or you'll fall.\""
+msgid ""
+"{Kazushi}\n"
+"\"Keep your eyes on the road or you'll fall.\""
 msgstr ""
 
 #: 10281:825
-
-msgid "{Haruka}\n\"Don't worry. I've come here many times since I was a kid.\""
+msgid ""
+"{Haruka}\n"
+"\"Don't worry. I've come here many times since I was a kid.\""
 msgstr ""
 
 #: 10281:826
-
-msgid "{Kazushi}\n\"I see, but hey.\""
+msgid ""
+"{Kazushi}\n"
+"\"I see, but hey.\""
 msgstr ""
 
 #: 10281:827
-
 msgid "I grabbed one of her hands as she swung her arms, and she calmly held my hand back. We started walking together, hand in hand."
 msgstr ""
 
 #: 10281:830
-
-msgid "{Haruka}\n\"I'm still amazed by your dreams.\""
+msgid ""
+"{Haruka}\n"
+"\"I'm still amazed by your dreams.\""
 msgstr ""
 
 #: 10281:831
-
-msgid "{Kazushi}\n\"My dreams?\""
+msgid ""
+"{Kazushi}\n"
+"\"My dreams?\""
 msgstr ""
 
 #: 10281:832
-
-msgid "{Haruka}\n\"Your ability to see into the past you never experienced or the future through your dreams. I think you might have the power of seeing in your dreams.\""
+msgid ""
+"{Haruka}\n"
+"\"Your ability to see into the past you never experienced or the future through your dreams. I think you might have the power of seeing in your dreams.\""
 msgstr ""
 
 #: 10281:833
-
-msgid "{Kazushi}\n\"I do?\""
+msgid ""
+"{Kazushi}\n"
+"\"I do?\""
 msgstr ""
 
 #: 10281:834
-
-msgid "{Haruka}\n\"Have you ever had a time when you dreamed of something and then the same thing happened in reality?\""
+msgid ""
+"{Haruka}\n"
+"\"Have you ever had a time when you dreamed of something and then the same thing happened in reality?\""
 msgstr ""
 
 #: 10281:835
-
-msgid "{Kazushi}\n\"Hmm... I don't think so?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hmm... I don't think so?\""
 msgstr ""
 
 #: 10281:838
-
-msgid "{Haruka}\n\"I see. You haven't.\""
+msgid ""
+"{Haruka}\n"
+"\"I see. You haven't.\""
 msgstr ""
 
 #: 10281:839
-
 msgid "Haruka's voice betrayed a touch of depression."
 msgstr ""
 
 #: 10281:840
-
-msgid "{Kazushi}\n\"Sorry, I don't think I'm anybody special like that.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sorry, I don't think I'm anybody special like that.\""
 msgstr ""
 
 #: 10281:843
-
-msgid "{Haruka}\n\"Ahaha, you don't have to apologize. You're you. I love you for who you are.\""
+msgid ""
+"{Haruka}\n"
+"\"Ahaha, you don't have to apologize. You're you. I love you for who you are.\""
 msgstr ""
 
 #: 10281:844
-
-msgid "{Kazushi}\n\"You do? I like you for who you are, too.\""
+msgid ""
+"{Kazushi}\n"
+"\"You do? I like you for who you are, too.\""
 msgstr ""
 
 #: 10281:847
-
-msgid "{Haruka}\n\"Ahaha, then we're a pair.\""
+msgid ""
+"{Haruka}\n"
+"\"Ahaha, then we're a pair.\""
 msgstr ""
 
 #: 10281:848
-
 msgid "But to tell you the truth, I wish I had a special ability like what she thought I had."
 msgstr ""
 
 #: 10281:849
-
 msgid "She looked at me like she knew what I was just thinking."
 msgstr ""
 
 #: 10281:852
-
-msgid "{Haruka}\n\"You do have a special ability.\""
+msgid ""
+"{Haruka}\n"
+"\"You do have a special ability.\""
 msgstr ""
 
 #: 10281:853
-
-msgid "{Kazushi}\n\"What's that?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's that?\""
 msgstr ""
 
 #: 10281:854
-
 msgid "Do I have any special powers?"
 msgstr ""
 
 #: 10281:857
-
-msgid "{Haruka}\n\"You have the power to excite me by asking me out on a date!\""
+msgid ""
+"{Haruka}\n"
+"\"You have the power to excite me by asking me out on a date!\""
 msgstr ""
 
 #: 10281:858
-
-msgid "{Kazushi}\n\"What? A date?\""
+msgid ""
+"{Kazushi}\n"
+"\"What? A date?\""
 msgstr ""
 
 #: 10281:859
-
-msgid "{Haruka}\n\"Can we go on a date before summer break is over?\""
+msgid ""
+"{Haruka}\n"
+"\"Can we go on a date before summer break is over?\""
 msgstr ""
 
 #: 10281:860
-
 msgid "A date, huh? I was kind of shy and excited to hear that."
 msgstr ""
 
 #: 10281:861
-
-msgid "{Kazushi}\n\"Sure! How about tomorrow?\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure! How about tomorrow?\""
 msgstr ""
 
 #: 10281:862
-
-msgid "{Haruka}\n\"Tomorrow sounds good!\""
+msgid ""
+"{Haruka}\n"
+"\"Tomorrow sounds good!\""
 msgstr ""
 
 #: 10281:863
-
 msgid "Haruka started skipping again, going around me in circles. I really had made her excited. But does she consider this a special power?"
 msgstr ""
 
 #: 10281:864
-
 msgid "If it is, I'm ecstatic."
 msgstr ""
-

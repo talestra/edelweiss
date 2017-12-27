@@ -8,736 +8,825 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 02006:9
-
-msgid "{Appo}\n\"You think I've become abnormal?\""
+msgid ""
+"{Appo}\n"
+"\"You think I've become abnormal?\""
 msgstr ""
 
 #: 02006:10
-
-msgid "{Kazushi}\n\"You're not abnormal. Well, I mean, you've never been normal in your entire life, but aside from that you're not.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're not abnormal. Well, I mean, you've never been normal in your entire life, but aside from that you're not.\""
 msgstr ""
 
 #: 02006:13
-
-msgid "{Appo}\n\"That's hard to understand. Well, so long as I haven't changed or anything.\""
+msgid ""
+"{Appo}\n"
+"\"That's hard to understand. Well, so long as I haven't changed or anything.\""
 msgstr ""
 
 #: 02006:18
-
-msgid "{Pierre}\n\"Are you sure you wanted us to come along? Wouldn't you rather be alone with her?\""
+msgid ""
+"{Pierre}\n"
+"\"Are you sure you wanted us to come along? Wouldn't you rather be alone with her?\""
 msgstr ""
 
 #: 02006:21
-
-msgid "{Appo}\n\"You idiot! Are you going to abandon me?! And you call yourself a friend?!\""
+msgid ""
+"{Appo}\n"
+"\"You idiot! Are you going to abandon me?! And you call yourself a friend?!\""
 msgstr ""
 
 #: 02006:28
-
-msgid "{Daigo}\n\"It's because we're your friends that we're trying to be considerate.\""
+msgid ""
+"{Daigo}\n"
+"\"It's because we're your friends that we're trying to be considerate.\""
 msgstr ""
 
 #: 02006:29
-
-msgid "{Appo}\n\"No!\nI wouldn't know what to talk to her about if you guys left us alone.\""
+msgid ""
+"{Appo}\n"
+"\"No!\n"
+"I wouldn't know what to talk to her about if you guys left us alone.\""
 msgstr ""
 
 #: 02006:30
-
-msgid "{Kazushi}\n\"All right. Just for today, OK?\""
+msgid ""
+"{Kazushi}\n"
+"\"All right. Just for today, OK?\""
 msgstr ""
 
 #: 02006:31
-
 msgid "Today is the first Sunday since they started going out."
 msgstr ""
 
 #: 02006:32
-
 msgid "This is their first proper date."
 msgstr ""
 
 #: 02006:33
-
-msgid "{Pierre}\n\"I didn't know you were such a scaredy cat, Appo. You should meet up for a date by yourself.\""
+msgid ""
+"{Pierre}\n"
+"\"I didn't know you were such a scaredy cat, Appo. You should meet up for a date by yourself.\""
 msgstr ""
 
 #: 02006:34
-
-msgid "{Appo}\n\"Don't act so cold! You're a friend, aren't you?! You're killing me!!\""
+msgid ""
+"{Appo}\n"
+"\"Don't act so cold! You're a friend, aren't you?! You're killing me!!\""
 msgstr ""
 
 #: 02006:37
-
-msgid "{Pierre}\n\"Why are you getting so mad?\""
+msgid ""
+"{Pierre}\n"
+"\"Why are you getting so mad?\""
 msgstr ""
 
 #: 02006:40
-
-msgid "{Daigo}\n\"His head's all full. With Fuusen.\""
+msgid ""
+"{Daigo}\n"
+"\"His head's all full. With Fuusen.\""
 msgstr ""
 
 #: 02006:43
-
-msgid "{Appo}\n\"Kazuko-san is running late.\nI hope she hasn't gotten into an accident or anything like that.\""
+msgid ""
+"{Appo}\n"
+"\"Kazuko-san is running late.\n"
+"I hope she hasn't gotten into an accident or anything like that.\""
 msgstr ""
 
 #: 02006:44
-
-msgid "{Kazushi}\n\"Kazuko-san?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Kazuko-san?!\""
 msgstr ""
 
 #: 02006:47
-
-msgid "{Pierre}\n\"Talk about a total 180.\""
+msgid ""
+"{Pierre}\n"
+"\"Talk about a total 180.\""
 msgstr ""
 
 #: 02006:48
-
-msgid "{Kazushi}\n\"I know.\""
+msgid ""
+"{Kazushi}\n"
+"\"I know.\""
 msgstr ""
 
 #: 02006:49
-
 msgid "Until just a few days ago, Appo didn't even treat her like a human being. Now he worshipped her like a goddess."
 msgstr ""
 
 #: 02006:55
-
-msgid "{Fuusen}\n\"I'm sorry, I'm late.\""
+msgid ""
+"{Fuusen}\n"
+"\"I'm sorry, I'm late.\""
 msgstr ""
 
 #: 02006:59
-
-msgid "{Appo}\n\"Ah!\""
+msgid ""
+"{Appo}\n"
+"\"Ah!\""
 msgstr ""
 
 #: 02006:64
-
 msgid "Appo froze at Fuusen's graceful voice. Hearing her sound like that certainly gave me the shivers too."
 msgstr ""
 
 #: 02006:65
-
-msgid "{Appo}\n\"Good morning, Kazuko-san!\""
+msgid ""
+"{Appo}\n"
+"\"Good morning, Kazuko-san!\""
 msgstr ""
 
 #: 02006:68
-
-msgid "{Fuusen}\n\"Good morning.\nDid I make you wait?\""
+msgid ""
+"{Fuusen}\n"
+"\"Good morning.\n"
+"Did I make you wait?\""
 msgstr ""
 
 #: 02006:69
-
-msgid "{Appo}\n\"Not at all!\nWe just got here, too!\""
+msgid ""
+"{Appo}\n"
+"\"Not at all!\n"
+"We just got here, too!\""
 msgstr ""
 
 #: 02006:70
-
 msgid "Silly Appo, getting panicky over Fuusen. The girls who came along with her were laughing from behind her."
 msgstr ""
 
 #: 02006:79
-
-msgid "{Haruka}\n\"Good morning.\nIt's a perfect day for......\""
+msgid ""
+"{Haruka}\n"
+"\"Good morning.\n"
+"It's a perfect day for......\""
 msgstr ""
 
 #: 02006:80
-
-msgid "{Ran}\n\"Stop that greeting. This isn't some marriage interview.\""
+msgid ""
+"{Ran}\n"
+"\"Stop that greeting. This isn't some marriage interview.\""
 msgstr ""
 
 #: 02006:81
-
-msgid "{Mizuki}\n\"Are you sure we should all hang out together?\nThis is their first date.\""
+msgid ""
+"{Mizuki}\n"
+"\"Are you sure we should all hang out together?\n"
+"This is their first date.\""
 msgstr ""
 
 #: 02006:89
-
-msgid "{Fuusen}\n\"A date? Our main goal today is shopping. Nothing wrong with everyone going.\""
+msgid ""
+"{Fuusen}\n"
+"\"A date? Our main goal today is shopping. Nothing wrong with everyone going.\""
 msgstr ""
 
 #: 02006:90
-
-msgid "{Appo}\n\"And Kazuko-san is going to show us around the island.\""
+msgid ""
+"{Appo}\n"
+"\"And Kazuko-san is going to show us around the island.\""
 msgstr ""
 
 #: 02006:99
-
-msgid "{Haruka}\n\"You haven't really been shown around yet after all. There are some things you can't buy at school, right?\""
+msgid ""
+"{Haruka}\n"
+"\"You haven't really been shown around yet after all. There are some things you can't buy at school, right?\""
 msgstr ""
 
 #: 02006:100
-
-msgid "{Daigo}\n\"Yeah, I want to go to a bookstore.\""
+msgid ""
+"{Daigo}\n"
+"\"Yeah, I want to go to a bookstore.\""
 msgstr ""
 
 #: 02006:101
-
-msgid "{Pierre}\n\"Oh yeah, I've just about gone through all the ones I brought too. There is a bookstore, right?\""
+msgid ""
+"{Pierre}\n"
+"\"Oh yeah, I've just about gone through all the ones I brought too. There is a bookstore, right?\""
 msgstr ""
 
 #: 02006:105
-
-msgid "{Mizuki}\n\"Wow, I would've never guessed you were all avid readers.\""
+msgid ""
+"{Mizuki}\n"
+"\"Wow, I would've never guessed you were all avid readers.\""
 msgstr ""
 
 #: 02006:106
-
 msgid "Except the books they're buying are just pin-up magazines. I should probably grab one too."
 msgstr ""
 
 #: 02006:114
-
-msgid "{Fuusen}\n\"Shall we?\""
+msgid ""
+"{Fuusen}\n"
+"\"Shall we?\""
 msgstr ""
 
 #: 02006:115
-
-msgid "{Appo}\n\"Let's go.\""
+msgid ""
+"{Appo}\n"
+"\"Let's go.\""
 msgstr ""
 
 #: 02006:116
-
 msgid "Appo and Fuusen walked off side-by-side. They looked scarily good together."
 msgstr ""
 
 #: 02006:123
-
-msgid "{Ran}\n\"From back here, they look like a perfect match.\""
+msgid ""
+"{Ran}\n"
+"\"From back here, they look like a perfect match.\""
 msgstr ""
 
 #: 02006:124
-
-msgid "{Mizuki}\n\"I know. It's like destiny.\""
+msgid ""
+"{Mizuki}\n"
+"\"I know. It's like destiny.\""
 msgstr ""
 
 #: 02006:129
-
 msgid "The first store they led us to was an ordinary looking store we'd never been to. The signboard read \"Belly-Splitter\". What the hell kind of name is that."
 msgstr ""
 
 #: 02006:134
-
-msgid "{Appo}\n\"What kind of a store is this?\""
+msgid ""
+"{Appo}\n"
+"\"What kind of a store is this?\""
 msgstr ""
 
 #: 02006:135
-
-msgid "{Fuusen}\n\"A general store, I guess? You can buy anything from daily goods to Alchemy supplies.\""
+msgid ""
+"{Fuusen}\n"
+"\"A general store, I guess? You can buy anything from daily goods to Alchemy supplies.\""
 msgstr ""
 
 #: 02006:140
-
-msgid "{Haruka}\n\"Originally this store sold exclusively Alchemy supplies, but at some point they started carrying other things too.\""
+msgid ""
+"{Haruka}\n"
+"\"Originally this store sold exclusively Alchemy supplies, but at some point they started carrying other things too.\""
 msgstr ""
 
 #: 02006:141
-
-msgid "{Kazushi}\n\"Wow, alchemy supplies?\""
+msgid ""
+"{Kazushi}\n"
+"\"Wow, alchemy supplies?\""
 msgstr ""
 
 #: 02006:142
-
 msgid "This store did? It didn't look like it."
 msgstr ""
 
 #: 02006:146
-
-msgid "{Ran}\n\"Let's go in. Hello! Pops, you in?\""
+msgid ""
+"{Ran}\n"
+"\"Let's go in. Hello! Pops, you in?\""
 msgstr ""
 
 #: 02006:150
-
 msgid "A man came out from the back room as we entered. I probably shouldn't say it, but he was a dull-looking, middle aged man."
 msgstr ""
 
 #: 02006:155
-
-msgid "{Store Owner}\n\"Oh, Ran-chan, hello. Oh? Quite a few with you today.\""
+msgid ""
+"{Store Owner}\n"
+"\"Oh, Ran-chan, hello. Oh? Quite a few with you today.\""
 msgstr ""
 
 #: 02006:158
-
-msgid "{Ran}\n\"I've brought you some business, so give me a cut, OK?\""
+msgid ""
+"{Ran}\n"
+"\"I've brought you some business, so give me a cut, OK?\""
 msgstr ""
 
 #: 02006:161
-
-msgid "{Store Owner}\n\"Hahaha, I can't compete with you, Ran-chan.\""
+msgid ""
+"{Store Owner}\n"
+"\"Hahaha, I can't compete with you, Ran-chan.\""
 msgstr ""
 
 #: 02006:169
-
 msgid "He turned towards us as he scratched his head. Beneath his glasses rested a pair of thin eyes and a gentle smile."
 msgstr ""
 
 #: 02006:170
-
-msgid "{Store Owner}\n\"You must be the new boys. I'm really glad to have more men on the island. There's not much to talk about with just young women.\""
+msgid ""
+"{Store Owner}\n"
+"\"You must be the new boys. I'm really glad to have more men on the island. There's not much to talk about with just young women.\""
 msgstr ""
 
 #: 02006:171
-
-msgid "{Pierre}\n\"Hello.\""
+msgid ""
+"{Pierre}\n"
+"\"Hello.\""
 msgstr ""
 
 #: 02006:172
-
-msgid "{Kazushi}\n\"Nice to meet you!\""
+msgid ""
+"{Kazushi}\n"
+"\"Nice to meet you!\""
 msgstr ""
 
 #: 02006:173
-
-msgid "{Store Owner}\n\"Nice to meet you too.\nHow can I help you today? We have just about everything you could need.\""
+msgid ""
+"{Store Owner}\n"
+"\"Nice to meet you too.\n"
+"How can I help you today? We have just about everything you could need.\""
 msgstr ""
 
 #: 02006:180
-
-msgid "{Fuusen}\n\"Miya-san, actually......\""
+msgid ""
+"{Fuusen}\n"
+"\"Miya-san, actually......\""
 msgstr ""
 
 #: 02006:181
-
 msgid "Fuusen leaned up close and whispered in his ear. I guess his name's Miya-san."
 msgstr ""
 
 #: 02006:184
-
-msgid "{Fuusen}\n\"...do you have any?\""
+msgid ""
+"{Fuusen}\n"
+"\"...do you have any?\""
 msgstr ""
 
 #: 02006:187
-
 msgid "For some reason, the store owner's face turned red."
 msgstr ""
 
 #: 02006:188
-
-msgid "{Miya}\n\"Yes, but... are you going to use them?\""
+msgid ""
+"{Miya}\n"
+"\"Yes, but... are you going to use them?\""
 msgstr ""
 
 #: 02006:189
-
-msgid "{Fuusen}\n\"Yes, they're for him...\""
+msgid ""
+"{Fuusen}\n"
+"\"Yes, they're for him...\""
 msgstr ""
 
 #: 02006:196
-
 msgid "Fuusen grabbed Appo by the arm."
 msgstr ""
 
 #: 02006:197
-
-msgid "{Fuusen}\n\"He's really healthy.\""
+msgid ""
+"{Fuusen}\n"
+"\"He's really healthy.\""
 msgstr ""
 
 #: 02006:200
-
-msgid "{Appo}\n\"Yes, I am very healthy!\""
+msgid ""
+"{Appo}\n"
+"\"Yes, I am very healthy!\""
 msgstr ""
 
 #: 02006:201
-
-msgid "{Miya}\n\"I-I see. Good. Umm... have fun.\""
+msgid ""
+"{Miya}\n"
+"\"I-I see. Good. Umm... have fun.\""
 msgstr ""
 
 #: 02006:202
-
 msgid "Miya-san was acting weird. What did Fuusen order from him?"
 msgstr ""
 
 #: 02006:208
-
-msgid "{Miya}\n\"Umm, well. I'll go wrap them up. How many did you need?\""
+msgid ""
+"{Miya}\n"
+"\"Umm, well. I'll go wrap them up. How many did you need?\""
 msgstr ""
 
 #: 02006:211
-
-msgid "{Fuusen}\n\"Hmmm... We'll use a lot anyways, so give us a dozen.\""
+msgid ""
+"{Fuusen}\n"
+"\"Hmmm... We'll use a lot anyways, so give us a dozen.\""
 msgstr ""
 
 #: 02006:214
-
-msgid "{Miya}\n\"A dozen boxes...\nEach box has 12...\nYou really want 12 boxes!?\""
+msgid ""
+"{Miya}\n"
+"\"A dozen boxes...\n"
+"Each box has 12...\n"
+"You really want 12 boxes!?\""
 msgstr ""
 
 #: 02006:215
-
-msgid "{Fuusen}\n\"Yup, 144 should be enough for a month.\""
+msgid ""
+"{Fuusen}\n"
+"\"Yup, 144 should be enough for a month.\""
 msgstr ""
 
 #: 02006:216
-
-msgid "{Miya}\n\"Enough for a MONTH!?\""
+msgid ""
+"{Miya}\n"
+"\"Enough for a MONTH!?\""
 msgstr ""
 
 #: 02006:220
-
 msgid "For some reason the store owner was looking jealously at Appo."
 msgstr ""
 
 #: 02006:221
-
-msgid "{Miya}\n\"How wonderful to be young...\""
+msgid ""
+"{Miya}\n"
+"\"How wonderful to be young...\""
 msgstr ""
 
 #: 02006:222
-
-msgid "{Appo}\n\"Huh?\""
+msgid ""
+"{Appo}\n"
+"\"Huh?\""
 msgstr ""
 
 #: 02006:225
-
-msgid "{Miya}\n\"I'll go get them, so please wait a moment.\""
+msgid ""
+"{Miya}\n"
+"\"I'll go get them, so please wait a moment.\""
 msgstr ""
 
 #: 02006:228
-
 msgid "The store owner disappeared into the back room."
 msgstr ""
 
 #: 02006:233
-
-msgid "{Haruka}\n\"Hey, Kazuko-chan, what'd you buy?\""
+msgid ""
+"{Haruka}\n"
+"\"Hey, Kazuko-chan, what'd you buy?\""
 msgstr ""
 
 #: 02006:236
-
-msgid "{Fuusen}\n\"Something in great demand amongst couples.\""
+msgid ""
+"{Fuusen}\n"
+"\"Something in great demand amongst couples.\""
 msgstr ""
 
 #: 02006:240
-
-msgid "{Mizuki}\n\"Huh? You mean...\""
+msgid ""
+"{Mizuki}\n"
+"\"Huh? You mean...\""
 msgstr ""
 
 #: 02006:241
-
 msgid "Mizuki's face turned bright red. For someone who doesn't like dirty topics, she always picked up on them."
 msgstr ""
 
 #: 02006:248
-
-msgid "{Pierre}\n\"Are you really going to buy those on your first date? I can't tell if that's sexy or not.\""
+msgid ""
+"{Pierre}\n"
+"\"Are you really going to buy those on your first date? I can't tell if that's sexy or not.\""
 msgstr ""
 
 #: 02006:249
-
-msgid "{Daigo}\n\"Appo, are you really going to do it 144 times in a month? I'm jealous.\""
+msgid ""
+"{Daigo}\n"
+"\"Appo, are you really going to do it 144 times in a month? I'm jealous.\""
 msgstr ""
 
 #: 02006:250
-
-msgid "{Kazushi}\n\"It's almost summer, too. We need to try harder.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's almost summer, too. We need to try harder.\""
 msgstr ""
 
 #: 02006:253
-
-msgid "{Pierre}\n\"Yeah. Better find a partner soon so we don't end up wasting our summer.\""
+msgid ""
+"{Pierre}\n"
+"\"Yeah. Better find a partner soon so we don't end up wasting our summer.\""
 msgstr ""
 
 #: 02006:256
-
-msgid "{Daigo}\n\"I-I'll find one. I'll find one.\""
+msgid ""
+"{Daigo}\n"
+"\"I-I'll find one. I'll find one.\""
 msgstr ""
 
 #: 02006:261
-
-msgid "{Miya}\n\"Thanks for waiting.\""
+msgid ""
+"{Miya}\n"
+"\"Thanks for waiting.\""
 msgstr ""
 
 #: 02006:262
-
 msgid "He returned from the storeroom. He looked like just a regular merchant."
 msgstr ""
 
 #: 02006:263
-
-msgid "{Kazushi}\n\"Are you an alchemist, too?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you an alchemist, too?\""
 msgstr ""
 
 #: 02006:264
-
 msgid "It was bugging me, so I asked. He must be if he owns an alchemy store."
 msgstr ""
 
 #: 02006:267
-
-msgid "{Miya}\n\"Well, just a small-time one. I'm not very knowledgeable either, so please don't ask me much when you're shopping.\""
+msgid ""
+"{Miya}\n"
+"\"Well, just a small-time one. I'm not very knowledgeable either, so please don't ask me much when you're shopping.\""
 msgstr ""
 
 #: 02006:268
-
 msgid "He scratched his head with a pained smile. No offense, but he doesn't really look like a good one either."
 msgstr ""
 
 #: 02006:273
-
-msgid "{Haruka}\n\"Miya-san, you're so modest.\""
+msgid ""
+"{Haruka}\n"
+"\"Miya-san, you're so modest.\""
 msgstr ""
 
 #: 02006:274
-
 msgid "Haruka teased him."
 msgstr ""
 
 #: 02006:275
-
-msgid "{Kazushi}\n\"He's good, then?\""
+msgid ""
+"{Kazushi}\n"
+"\"He's good, then?\""
 msgstr ""
 
 #: 02006:278
-
-msgid "{Haruka}\n\"Of course. He's the--\""
+msgid ""
+"{Haruka}\n"
+"\"Of course. He's the--\""
 msgstr ""
 
 #: 02006:281
-
-msgid "{Miya}\n\"You don't have to tell him.\nIs there anything else I can help you guys with?\""
+msgid ""
+"{Miya}\n"
+"\"You don't have to tell him.\n"
+"Is there anything else I can help you guys with?\""
 msgstr ""
 
 #: 02006:282
-
 msgid "He didn't seem to want to talk about it. He looked like an average person, but maybe he wasn't?"
 msgstr ""
 
 #: 02006:286
-
-msgid "{Kazushi}\n\"Huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh?\""
 msgstr ""
 
 #: 02006:287
-
 msgid "His face looked so familiar."
 msgstr ""
 
 #: 02006:288
-
-msgid "{Kazushi}\n\"Have we met before?\""
+msgid ""
+"{Kazushi}\n"
+"\"Have we met before?\""
 msgstr ""
 
 #: 02006:289
-
 msgid "I had a sense of deja vu, like we'd met before..."
 msgstr ""
 
 #: 02006:290
-
-msgid "{Miya}\n\"Have we?...I don't recall it?\""
+msgid ""
+"{Miya}\n"
+"\"Have we?...I don't recall it?\""
 msgstr ""
 
 #: 02006:291
-
-msgid "{Kazushi}\n\"I suppose you're right. I don't recall it either.\""
+msgid ""
+"{Kazushi}\n"
+"\"I suppose you're right. I don't recall it either.\""
 msgstr ""
 
 #: 02006:294
-
-msgid "{Miya}\n\"Huh? What's with that?\""
+msgid ""
+"{Miya}\n"
+"\"Huh? What's with that?\""
 msgstr ""
 
 #: 02006:295
-
-msgid "He started laughing.\nBut... I still felt like I'd met him before somewhere."
+msgid ""
+"He started laughing.\n"
+"But... I still felt like I'd met him before somewhere."
 msgstr ""
 
 #: 02006:296
-
 msgid "Maybe he looks someone I know. But who?"
 msgstr ""
 
 #: 02006:300
-
-msgid "{Ran}\n\"Kazushi! Haruka!\nLet's go!\""
+msgid ""
+"{Ran}\n"
+"\"Kazushi! Haruka!\n"
+"Let's go!\""
 msgstr ""
 
 #: 02006:305
-
-msgid "{Haruka}\n\"Sorry, girls. I have to go visit grandma.\""
+msgid ""
+"{Haruka}\n"
+"\"Sorry, girls. I have to go visit grandma.\""
 msgstr ""
 
 #: 02006:306
-
-msgid "{Kazushi}\n\"Oh, okay. That's a shame.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, okay. That's a shame.\""
 msgstr ""
 
 #: 02006:307
-
-msgid "{Haruka}\n\"We'll do this again sometime!\""
+msgid ""
+"{Haruka}\n"
+"\"We'll do this again sometime!\""
 msgstr ""
 
 #: 02006:308
-
-msgid "{Kazushi}\n\"Sure.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure.\""
 msgstr ""
 
 #: 02006:313
-
 msgid "I turned back to the store owner."
 msgstr ""
 
 #: 02006:314
-
-msgid "{Kazushi}\n\"Sorry for saying something so strange.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sorry for saying something so strange.\""
 msgstr ""
 
 #: 02006:315
-
-msgid "{Miya}\n\"It's OK. It's been a while since I've talked to some young guys. Come back again some time.\""
+msgid ""
+"{Miya}\n"
+"\"It's OK. It's been a while since I've talked to some young guys. Come back again some time.\""
 msgstr ""
 
 #: 02006:316
-
-msgid "{Kazushi}\n\"Good bye.\""
+msgid ""
+"{Kazushi}\n"
+"\"Good bye.\""
 msgstr ""
 
 #: 02006:321
-
-msgid "{Haruka}\n\"Bye.\""
+msgid ""
+"{Haruka}\n"
+"\"Bye.\""
 msgstr ""
 
 #: 02006:322
-
 msgid "After Haruka's bright goodbye, Miya-san saw us off with a gentle smile."
 msgstr ""
 
 #: 02006:323
-
 msgid "Miya-san, huh?"
 msgstr ""
 
 #: 02006:326
-
 msgid "He's a strange man."
 msgstr ""
 
 #: 02006:333
-
-msgid "{Appo}\n\"Sorry, guys. We've actually got something to take care of.\""
+msgid ""
+"{Appo}\n"
+"\"Sorry, guys. We've actually got something to take care of.\""
 msgstr ""
 
 #: 02006:334
-
-msgid "{Fuusen}\n\"You'll have to excuse us.\""
+msgid ""
+"{Fuusen}\n"
+"\"You'll have to excuse us.\""
 msgstr ""
 
 #: 02006:335
-
 msgid "For two people who said they had to head back, they sure were acting fidgety."
 msgstr ""
 
 #: 02006:340
-
-msgid "{Ran}\n\"You have to leave now? Both of you?\""
+msgid ""
+"{Ran}\n"
+"\"You have to leave now? Both of you?\""
 msgstr ""
 
 #: 02006:346
-
-msgid "{Fuusen}\n\"Actually, we have to take care of it together.\""
+msgid ""
+"{Fuusen}\n"
+"\"Actually, we have to take care of it together.\""
 msgstr ""
 
 #: 02006:347
-
 msgid "Fuusen was holding her new purchase in her hand. I guess they were already in the mood."
 msgstr ""
 
 #: 02006:350
-
-msgid "{Appo}\n\"See you, guys! Alright, let's go.\""
+msgid ""
+"{Appo}\n"
+"\"See you, guys! Alright, let's go.\""
 msgstr ""
 
 #: 02006:353
-
-msgid "{Fuusen}\n\"I can't wait any longer!\""
+msgid ""
+"{Fuusen}\n"
+"\"I can't wait any longer!\""
 msgstr ""
 
 #: 02006:356
-
-msgid "{Appo}\n\"Then let's do it somewhere close!!\""
+msgid ""
+"{Appo}\n"
+"\"Then let's do it somewhere close!!\""
 msgstr ""
 
 #: 02006:359
-
 msgid "They quickly disappeared into a back street."
 msgstr ""
 
 #: 02006:362
-
-msgid "{Pierre}\n\"I hope they get caught finishing their business and arrested.\""
+msgid ""
+"{Pierre}\n"
+"\"I hope they get caught finishing their business and arrested.\""
 msgstr ""
 
 #: 02006:367
-
-msgid "{Mizuki}\n\"Finish their business? ...Hey, cut that out!\""
+msgid ""
+"{Mizuki}\n"
+"\"Finish their business? ...Hey, cut that out!\""
 msgstr ""
 
 #: 02006:370
-
-msgid "{Pierre}\n\"What should we do now?\""
+msgid ""
+"{Pierre}\n"
+"\"What should we do now?\""
 msgstr ""
 
 #: 02006:374
-
-msgid "{Daigo}\n\"I wanna go back to my room.\""
+msgid ""
+"{Daigo}\n"
+"\"I wanna go back to my room.\""
 msgstr ""
 
 #: 02006:375
-
 msgid "Daigo was hugging the bag of stuff he bought from the bookstore. I guess he's in the mood too."
 msgstr ""
 
 #: 02006:376
-
-msgid "{Pierre}\n\"Why are you getting excited already? Where they selling something that amazing?\""
+msgid ""
+"{Pierre}\n"
+"\"Why are you getting excited already? Where they selling something that amazing?\""
 msgstr ""
 
 #: 02006:379
-
-msgid "{Daigo}\n\"Y-yeah, they were. You won't believe it.\""
+msgid ""
+"{Daigo}\n"
+"\"Y-yeah, they were. You won't believe it.\""
 msgstr ""
 
 #: 02006:380
-
-msgid "{Kazushi}\n\"Really? That good?\""
+msgid ""
+"{Kazushi}\n"
+"\"Really? That good?\""
 msgstr ""
 
 #: 02006:383
-
-msgid "{Pierre}\n\"......should we go home, too?\""
+msgid ""
+"{Pierre}\n"
+"\"......should we go home, too?\""
 msgstr ""
 
 #: 02006:388
-
-msgid "{Ran}\n\"What? Everyone's going home.\""
+msgid ""
+"{Ran}\n"
+"\"What? Everyone's going home.\""
 msgstr ""
 
 #: 02006:393
-
-msgid "{Mizuki}\n\"Why don't we call it a day, then?\nThere's somewhere I want to stop on my way back.\""
+msgid ""
+"{Mizuki}\n"
+"\"Why don't we call it a day, then?\n"
+"There's somewhere I want to stop on my way back.\""
 msgstr ""
 
 #: 02006:394
-
-msgid "{Kazushi}\n\"All right. Then let's call it a day.\""
+msgid ""
+"{Kazushi}\n"
+"\"All right. Then let's call it a day.\""
 msgstr ""
 
 #: 02006:399
-
-msgid "{Daigo}\n\"I'm going home!\""
+msgid ""
+"{Daigo}\n"
+"\"I'm going home!\""
 msgstr ""
 
 #: 02006:404
-
-msgid "{Pierre}\n\"What are you going to do, Kazushi?\""
+msgid ""
+"{Pierre}\n"
+"\"What are you going to do, Kazushi?\""
 msgstr ""
 
 #: 02006:405
-
-msgid "{Kazushi}\n\"Well......\""
+msgid ""
+"{Kazushi}\n"
+"\"Well......\""
 msgstr ""
-

@@ -8,281 +8,309 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 01201:5
-
 msgid "Haruka will still be nice to us."
 msgstr ""
 
 #: 01201:12
-
-msgid "{Haruka}\n\"What's wrong? Why'd you ask me here?\""
+msgid ""
+"{Haruka}\n"
+"\"What's wrong? Why'd you ask me here?\""
 msgstr ""
 
 #: 01201:13
-
-msgid "{Kazushi}\n\"Please! Show us some kindness!\""
+msgid ""
+"{Kazushi}\n"
+"\"Please! Show us some kindness!\""
 msgstr ""
 
 #: 01201:21
-
-msgid "{Appo}\n\"Please do!!\""
+msgid ""
+"{Appo}\n"
+"\"Please do!!\""
 msgstr ""
 
 #: 01201:22
-
 msgid "We lined up and begged her to be kind to us."
 msgstr ""
 
 #: 01201:28
-
-msgid "{Haruka}\n\"OK!\""
+msgid ""
+"{Haruka}\n"
+"\"OK!\""
 msgstr ""
 
 #: 01201:29
-
-msgid "Yes!\nI knew she would say yes!"
+msgid ""
+"Yes!\n"
+"I knew she would say yes!"
 msgstr ""
 
 #: 01201:32
-
-msgid "{Haruka}\n\"But how do I show you kindness? What do you want me to do?\""
+msgid ""
+"{Haruka}\n"
+"\"But how do I show you kindness? What do you want me to do?\""
 msgstr ""
 
 #: 01201:37
-
-msgid "{Pierre}\n\"Kiss me! Kiss me!!\""
+msgid ""
+"{Pierre}\n"
+"\"Kiss me! Kiss me!!\""
 msgstr ""
 
 #: 01201:40
-
-msgid "{Haruka}\n\"A kiss?\""
+msgid ""
+"{Haruka}\n"
+"\"A kiss?\""
 msgstr ""
 
 #: 01201:47
-
-msgid "{Appo}\n\"Me too! Kiss me!!\""
+msgid ""
+"{Appo}\n"
+"\"Me too! Kiss me!!\""
 msgstr ""
 
 #: 01201:51
-
-msgid "{Daigo}\n\"I wanna save my first kiss to someone I love......\nBut today is an exception......\""
+msgid ""
+"{Daigo}\n"
+"\"I wanna save my first kiss to someone I love......\n"
+"But today is an exception......\""
 msgstr ""
 
 #: 01201:58
-
 msgid "The three guys stuck their faces out at her."
 msgstr ""
 
 #: 01201:64
-
-msgid "{Haruka}\n\"I can't do this......\""
+msgid ""
+"{Haruka}\n"
+"\"I can't do this......\""
 msgstr ""
 
 #: 01201:67
-
 msgid "Haruka slowly retreated."
 msgstr ""
 
 #: 01201:68
-
-msgid "{Kazushi}\n\"Stop it, you guys!\nYou're scaring her! Quit trying to take advantage of her!\""
+msgid ""
+"{Kazushi}\n"
+"\"Stop it, you guys!\n"
+"You're scaring her! Quit trying to take advantage of her!\""
 msgstr ""
 
 #: 01201:73
-
-msgid "{Pierre}\n\"No kiss?\nThat would totally revive me.\""
+msgid ""
+"{Pierre}\n"
+"\"No kiss?\n"
+"That would totally revive me.\""
 msgstr ""
 
 #: 01201:76
-
-msgid "{Haruka}\n\"Sorry, guys. I'm saving it for my lover.\""
+msgid ""
+"{Haruka}\n"
+"\"Sorry, guys. I'm saving it for my lover.\""
 msgstr ""
 
 #: 01201:83
-
-msgid "{Appo}\n\"Then let me be your lover!\""
+msgid ""
+"{Appo}\n"
+"\"Then let me be your lover!\""
 msgstr ""
 
 #: 01201:86
-
-msgid "{Pierre}\n\"Me too!\""
+msgid ""
+"{Pierre}\n"
+"\"Me too!\""
 msgstr ""
 
 #: 01201:89
-
-msgid "{Haruka}\n\"I can't do that either.\""
+msgid ""
+"{Haruka}\n"
+"\"I can't do that either.\""
 msgstr ""
 
 #: 01201:93
-
 msgid "Haruka hid behind my back."
 msgstr ""
 
 #: 01201:98
-
-msgid "{Daigo}\n\"......she chose Kazushi!\""
+msgid ""
+"{Daigo}\n"
+"\"......she chose Kazushi!\""
 msgstr ""
 
 #: 01201:99
-
-msgid "{Kazushi}\n\"Me?\nShe chose me?\""
+msgid ""
+"{Kazushi}\n"
+"\"Me?\n"
+"She chose me?\""
 msgstr ""
 
 #: 01201:103
-
-msgid "{Haruka}\n\"I didn't say that.\""
+msgid ""
+"{Haruka}\n"
+"\"I didn't say that.\""
 msgstr ""
 
 #: 01201:104
-
-msgid "{Kazushi}\n\"You didn't......\""
+msgid ""
+"{Kazushi}\n"
+"\"You didn't......\""
 msgstr ""
 
 #: 01201:105
-
 msgid "Of course not. She just hid behind me."
 msgstr ""
 
 #: 01201:111
-
-msgid "{Appo}\n\"Kiss him!! Kiss him!!\""
+msgid ""
+"{Appo}\n"
+"\"Kiss him!! Kiss him!!\""
 msgstr ""
 
 #: 01201:112
-
-msgid "{Pierre}\n\"Kiss him!! Kiss him!!\""
+msgid ""
+"{Pierre}\n"
+"\"Kiss him!! Kiss him!!\""
 msgstr ""
 
 #: 01201:113
-
 msgid "My friends were trying to make it fact and began chanting their kiss call."
 msgstr ""
 
 #: 01201:118
-
-msgid "{Haruka}\n\"I-I can't kiss anyone. I can't do it.\""
+msgid ""
+"{Haruka}\n"
+"\"I-I can't kiss anyone. I can't do it.\""
 msgstr ""
 
 #: 01201:119
-
-msgid "{Kazushi}\n\"Stop it, guys! You're bothering Haruka.\""
+msgid ""
+"{Kazushi}\n"
+"\"Stop it, guys! You're bothering Haruka.\""
 msgstr ""
 
 #: 01201:125
-
-msgid "{Appo}\n\"Kiss him!! Kiss him!!\""
+msgid ""
+"{Appo}\n"
+"\"Kiss him!! Kiss him!!\""
 msgstr ""
 
 #: 01201:126
-
-msgid "{Pierre}\n\"Kiss him!! Kiss him!!\""
+msgid ""
+"{Pierre}\n"
+"\"Kiss him!! Kiss him!!\""
 msgstr ""
 
 #: 01201:127
-
 msgid "They didn't even stop chanting..."
 msgstr ""
 
 #: 01201:132
-
-msgid "{Haruka}\n\"What should I do......?\""
+msgid ""
+"{Haruka}\n"
+"\"What should I do......?\""
 msgstr ""
 
 #: 01201:133
-
-msgid "{Kazushi}\n\"You don't have to do anything. These guys are just goofing off too much. Now all of you, cut it...\""
+msgid ""
+"{Kazushi}\n"
+"\"You don't have to do anything. These guys are just goofing off too much. Now all of you, cut it...\""
 msgstr ""
 
 #: 01201:136
-
-msgid "{Haruka}\n\"......here!!\""
+msgid ""
+"{Haruka}\n"
+"\"......here!!\""
 msgstr ""
 
 #: 01201:139
-
 msgid "Haruka put her hand on my shoulder and jumped."
 msgstr ""
 
 #: 01201:141
-
 msgid "*Smooch!*"
 msgstr ""
 
 #: 01201:142
-
-msgid "{Kazushi}\n\"Eh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Eh?\""
 msgstr ""
 
 #: 01201:143
-
 msgid "Just as I thought I smelled something nice, I felt warmth on my cheek. I could only just barely feel it, but it felt like lips."
 msgstr ""
 
 #: 01201:146
-
 msgid "Haruka was beet red as she glared at us all."
 msgstr ""
 
 #: 01201:147
-
-msgid "{Haruka}\n\"There, I did it, okay?!\""
+msgid ""
+"{Haruka}\n"
+"\"There, I did it, okay?!\""
 msgstr ""
 
 #: 01201:151
-
-msgid "{Pierre}\n\"I want one too!\""
+msgid ""
+"{Pierre}\n"
+"\"I want one too!\""
 msgstr ""
 
 #: 01201:155
-
-msgid "{Haruka}\n\"No kiss for you!! Ptttttbt!\""
+msgid ""
+"{Haruka}\n"
+"\"No kiss for you!! Ptttttbt!\""
 msgstr ""
 
 #: 01201:160
-
 msgid "After making a cute little motion of sticking out her tongue, Haruka got up and left. My cheek was still warm from her kiss. It was only my cheek, but she actually kissed me..."
 msgstr ""
 
 #: 01201:164
-
-msgid "{Daigo}\n\"I'm so jealous...\""
+msgid ""
+"{Daigo}\n"
+"\"I'm so jealous...\""
 msgstr ""
 
 #: 01201:169
-
-msgid "{Appo}\n\"Let me taste her lips!\""
+msgid ""
+"{Appo}\n"
+"\"Let me taste her lips!\""
 msgstr ""
 
 #: 01201:176
-
-msgid "{Pierre}\n\"Me too! Me too! Indirect kiss!!\""
+msgid ""
+"{Pierre}\n"
+"\"Me too! Me too! Indirect kiss!!\""
 msgstr ""
 
 #: 01201:177
-
 msgid "Three kiss-starved boys started to attack my cheek."
 msgstr ""
 
 #: 01201:184
-
-msgid "{Kazushi}\n\"Hey, guys......\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, guys......\""
 msgstr ""
 
 #: 01201:189
-
-msgid "{Daigo}\n\"Lick, lick, lick!!\""
+msgid ""
+"{Daigo}\n"
+"\"Lick, lick, lick!!\""
 msgstr ""
 
 #: 01201:190
-
-msgid "{Kazushi}\n\"Aggggghhhhhhh!!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Aggggghhhhhhh!!!\""
 msgstr ""
 
 #: 01201:191
-
 msgid "There weren't any remnants of Haruka left on my cheek."
 msgstr ""
-

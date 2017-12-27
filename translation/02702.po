@@ -8,381 +8,422 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 02702:7
-
 msgid "*Whirrrsplashwhirrr*"
 msgstr ""
 
 #: 02702:8
-
 msgid "I stopped walking because I could hear a washing machine."
 msgstr ""
 
 #: 02702:9
-
-msgid "{Kazushi}\n\"Who'd be doing their laundry so late?\""
+msgid ""
+"{Kazushi}\n"
+"\"Who'd be doing their laundry so late?\""
 msgstr ""
 
 #: 02702:10
-
-msgid "I peeked inside the laundry room.\nThere was Mizuki - the person I was looking for."
+msgid ""
+"I peeked inside the laundry room.\n"
+"There was Mizuki - the person I was looking for."
 msgstr ""
 
 #: 02702:14
-
-msgid "{Mizuki}\n\"Oh, hey Kazushi.\""
+msgid ""
+"{Mizuki}\n"
+"\"Oh, hey Kazushi.\""
 msgstr ""
 
 #: 02702:15
-
 msgid "She seems uncomfortable. I wonder why."
 msgstr ""
 
 #: 02702:16
-
-msgid "{Kazushi}\n\"Why are you doing your laundry so late at night?\""
+msgid ""
+"{Kazushi}\n"
+"\"Why are you doing your laundry so late at night?\""
 msgstr ""
 
 #: 02702:19
-
-msgid "{Mizuki}\n\"Is it really so weird? Don't you always want to wash your swimsuit right after you're done?\""
+msgid ""
+"{Mizuki}\n"
+"\"Is it really so weird? Don't you always want to wash your swimsuit right after you're done?\""
 msgstr ""
 
 #: 02702:20
-
-msgid "{Kazushi}\n\"Oh, I see.\n...huh? Does that mean you went swimming today too?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, I see.\n"
+"...huh? Does that mean you went swimming today too?\""
 msgstr ""
 
 #: 02702:23
-
-msgid "{Mizuki}\n\"Of course.\nI went for a swim after exams were done.\""
+msgid ""
+"{Mizuki}\n"
+"\"Of course.\n"
+"I went for a swim after exams were done.\""
 msgstr ""
 
 #: 02702:24
-
 msgid "Wow, I thought I had a long day after last night. I can't believe she had so much spare energy."
 msgstr ""
 
 #: 02702:25
-
-msgid "{Kazushi}\n\"I'm amazed. You sat through exams after pulling an all-nighter, PLUS you found the strength to swim afterwards. You're a really tough girl.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm amazed. You sat through exams after pulling an all-nighter, PLUS you found the strength to swim afterwards. You're a really tough girl.\""
 msgstr ""
 
 #: 02702:28
-
-msgid "{Mizuki}\n\"Ahaha, I find it more relaxing in the water. People can float, so you can just lay back and drift along.\""
+msgid ""
+"{Mizuki}\n"
+"\"Ahaha, I find it more relaxing in the water. People can float, so you can just lay back and drift along.\""
 msgstr ""
 
 #: 02702:29
-
-msgid "{Kazushi}\n\"That's how it works for you?\""
+msgid ""
+"{Kazushi}\n"
+"\"That's how it works for you?\""
 msgstr ""
 
 #: 02702:30
-
 msgid "For someone who can't swim (like me), it's hard to believe that."
 msgstr ""
 
 #: 02702:32
-
-msgid "{Kazushi}\n\"...Hmm?\""
+msgid ""
+"{Kazushi}\n"
+"\"...Hmm?\""
 msgstr ""
 
 #: 02702:33
-
 msgid "There was something on the floor. It looked like a handkerchief. I guess someone dropped it."
 msgstr ""
 
 #: 02702:34
-
-msgid "{Kazushi}\n\"Is this your hanky?\""
+msgid ""
+"{Kazushi}\n"
+"\"Is this your hanky?\""
 msgstr ""
 
 #: 02702:35
-
 msgid "I realized what it actually was when I unfolded it and stretched it out."
 msgstr ""
 
 #: 02702:36
-
-msgid "{Kazushi}\n\"...um...\""
+msgid ""
+"{Kazushi}\n"
+"\"...um...\""
 msgstr ""
 
 #: 02702:39
-
-msgid "{Mizuki}\n\"Hey!!\""
+msgid ""
+"{Mizuki}\n"
+"\"Hey!!\""
 msgstr ""
 
 #: 02702:40
-
-msgid "{Kazushi}\n\"It's your panties!!\""
+msgid ""
+"{Kazushi}\n"
+"\"It's your panties!!\""
 msgstr ""
 
 #: 02702:46
-
-msgid "{Kazushi}\n\"Gghah?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Gghah?!\""
 msgstr ""
 
 #: 02702:47
-
 msgid "I felt something heavy striking my face, knocking me back."
 msgstr ""
 
 #: 02702:50
-
-msgid "{Mizuki}\n\"Give those back to me!\""
+msgid ""
+"{Mizuki}\n"
+"\"Give those back to me!\""
 msgstr ""
 
 #: 02702:51
-
 msgid "As I lay on the ground twitching, she took her panties back."
 msgstr ""
 
 #: 02702:52
-
-msgid "{Kazushi}\n\"You didn't have to punch me over it! That hurt!\""
+msgid ""
+"{Kazushi}\n"
+"\"You didn't have to punch me over it! That hurt!\""
 msgstr ""
 
 #: 02702:53
-
 msgid "I think she broke my nose..."
 msgstr ""
 
 #: 02702:54
-
-msgid "{Mizuki}\n\"It's your fault!\nHow dare you go touching my underwear!?\""
+msgid ""
+"{Mizuki}\n"
+"\"It's your fault!\n"
+"How dare you go touching my underwear!?\""
 msgstr ""
 
 #: 02702:55
-
-msgid "{Kazushi}\n\"How was I supposed to know?! I never thought panties would be lying on the floor! And if you don't want anyone to see them, then don't drop them there!\""
+msgid ""
+"{Kazushi}\n"
+"\"How was I supposed to know?! I never thought panties would be lying on the floor! And if you don't want anyone to see them, then don't drop them there!\""
 msgstr ""
 
 #: 02702:56
-
-msgid "{Mizuki}\n\"Well this IS the laundry room, in case you haven't noticed.\""
+msgid ""
+"{Mizuki}\n"
+"\"Well this IS the laundry room, in case you haven't noticed.\""
 msgstr ""
 
 #: 02702:57
-
-msgid "{Kazushi}\n\"I thought you were washing your swimsuit!\""
+msgid ""
+"{Kazushi}\n"
+"\"I thought you were washing your swimsuit!\""
 msgstr ""
 
 #: 02702:60
-
-msgid "{Mizuki}\n\"Well, I had some other dirty clothes, too...\""
+msgid ""
+"{Mizuki}\n"
+"\"Well, I had some other dirty clothes, too...\""
 msgstr ""
 
 #: 02702:63
-
-msgid "{Mizuki}\n\"Why am I even telling you this!?\""
+msgid ""
+"{Mizuki}\n"
+"\"Why am I even telling you this!?\""
 msgstr ""
 
 #: 02702:64
-
 msgid "Her cheeks suddenly blushed in embarrassment."
 msgstr ""
 
 #: 02702:65
-
-msgid "{Kazushi}\n\"I didn't ask you to! So you wash your swimsuit every day but not your underwear or regular clothes?\""
+msgid ""
+"{Kazushi}\n"
+"\"I didn't ask you to! So you wash your swimsuit every day but not your underwear or regular clothes?\""
 msgstr ""
 
 #: 02702:68
-
-msgid "{Mizuki}\n\"Doing laundry everyday gets annoying...\nAnyways, I told you not to make me talk about this stuff!\""
+msgid ""
+"{Mizuki}\n"
+"\"Doing laundry everyday gets annoying...\n"
+"Anyways, I told you not to make me talk about this stuff!\""
 msgstr ""
 
 #: 02702:69
-
 msgid "Suddenly, she'd gotten very shy. I knew she wasn't good with dirty topics, but underwear too?"
 msgstr ""
 
 #: 02702:70
-
 msgid "I bet she's covering it up."
 msgstr ""
 
 #: 02702:73
-
-msgid "{Mizuki}\n\"What are you staring at me with those eyes for?\nYou pervert!\""
+msgid ""
+"{Mizuki}\n"
+"\"What are you staring at me with those eyes for?\n"
+"You pervert!\""
 msgstr ""
 
 #: 02702:74
-
-msgid "{Kazushi}\n\"You think I'm a pervert?\""
+msgid ""
+"{Kazushi}\n"
+"\"You think I'm a pervert?\""
 msgstr ""
 
 #: 02702:77
-
-msgid "{Mizuki}\n\"Every time I talk to you, it always ends up being about sex!\""
+msgid ""
+"{Mizuki}\n"
+"\"Every time I talk to you, it always ends up being about sex!\""
 msgstr ""
 
 #: 02702:78
-
-msgid "{Kazushi}\n\"I didn't think we were talking about sex.\nWould you please calm down?\""
+msgid ""
+"{Kazushi}\n"
+"\"I didn't think we were talking about sex.\n"
+"Would you please calm down?\""
 msgstr ""
 
 #: 02702:79
-
 msgid "She's turning flustered. She could trip over herself at any moment."
 msgstr ""
 
 #: 02702:80
-
-msgid "{Mizuki}\n\"...ah!\""
+msgid ""
+"{Mizuki}\n"
+"\"...ah!\""
 msgstr ""
 
 #: 02702:83
-
 msgid "Just as I expected, she tripped and fell on her butt."
 msgstr ""
 
 #: 02702:84
-
-msgid "{Kazushi}\n\"Wha!?\""
+msgid ""
+"{Kazushi}\n"
+"\"Wha!?\""
 msgstr ""
 
 #: 02702:85
-
 msgid "Naturally, her legs spread out when she fell, slipping up her short skirt and leaving her crotch completely exposed to me."
 msgstr ""
 
 #: 02702:86
-
-msgid "{Kazushi}\n\"Why aren't you wearing underwear!?\""
+msgid ""
+"{Kazushi}\n"
+"\"Why aren't you wearing underwear!?\""
 msgstr ""
 
 #: 02702:87
-
 msgid "Nope, no underwear at all. I had a clear view of every little bit."
 msgstr ""
 
 #: 02702:90
-
-msgid "{Mizuki}\n\"N......NOOOOOOOOOOO!!\""
+msgid ""
+"{Mizuki}\n"
+"\"N......NOOOOOOOOOOO!!\""
 msgstr ""
 
 #: 02702:91
-
 msgid "Too late to hide it now."
 msgstr ""
 
 #: 02702:92
-
-msgid "{Mizuki}\n\"Y-you saw it, right?\nHow did you see it again!!?\""
+msgid ""
+"{Mizuki}\n"
+"\"Y-you saw it, right?\n"
+"How did you see it again!!?\""
 msgstr ""
 
 #: 02702:93
-
 msgid "She started crying."
 msgstr ""
 
 #: 02702:94
-
-msgid "{Kazushi}\n\"How is this my fault?\nWhy aren't you wearing underwear?\""
+msgid ""
+"{Kazushi}\n"
+"\"How is this my fault?\n"
+"Why aren't you wearing underwear?\""
 msgstr ""
 
 #: 02702:95
-
-msgid "{Mizuki}\n\"I was washing them!\""
+msgid ""
+"{Mizuki}\n"
+"\"I was washing them!\""
 msgstr ""
 
 #: 02702:96
-
-msgid "{Kazushi}\n\"Don't wash the ones you have one!\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't wash the ones you have one!\""
 msgstr ""
 
 #: 02702:97
-
-msgid "{Mizuki}\n\"How could I have known you'd see me?!\""
+msgid ""
+"{Mizuki}\n"
+"\"How could I have known you'd see me?!\""
 msgstr ""
 
 #: 02702:98
-
-msgid "{Kazushi}\n\"I never thought I'd get to see it either!\""
+msgid ""
+"{Kazushi}\n"
+"\"I never thought I'd get to see it either!\""
 msgstr ""
 
 #: 02702:101
-
-msgid "{Mizuki}\n\"How well could you see it?\""
+msgid ""
+"{Mizuki}\n"
+"\"How well could you see it?\""
 msgstr ""
 
 #: 02702:102
-
-msgid "{Kazushi}\n\"How well......?\""
+msgid ""
+"{Kazushi}\n"
+"\"How well......?\""
 msgstr ""
 
 #: 02702:103
-
-msgid "{Mizuki}\n\"You saw what you didn't see the first time?\""
+msgid ""
+"{Mizuki}\n"
+"\"You saw what you didn't see the first time?\""
 msgstr ""
 
 #: 02702:104
-
-msgid "{Kazushi}\n\"Ummm......\""
+msgid ""
+"{Kazushi}\n"
+"\"Ummm......\""
 msgstr ""
 
 #: 02702:106
-
 msgid "I tried to see what I could remember. There was a single modest line. Mizuki's looked like a beautiful pair of lips."
 msgstr ""
 
 #: 02702:108
-
 msgid "*nosebleed*"
 msgstr ""
 
 #: 02702:109
-
-msgid "{Kazushi}\n\"AH!\""
+msgid ""
+"{Kazushi}\n"
+"\"AH!\""
 msgstr ""
 
 #: 02702:112
-
-msgid "Blood came dripping from my nose.\nMizuki was horrified."
+msgid ""
+"Blood came dripping from my nose.\n"
+"Mizuki was horrified."
 msgstr ""
 
 #: 02702:113
-
-msgid "{Mizuki}\n\"No!\nYou saw it everything, didn't you!?\nI can't believe this!!\""
+msgid ""
+"{Mizuki}\n"
+"\"No!\n"
+"You saw it everything, didn't you!?\n"
+"I can't believe this!!\""
 msgstr ""
 
 #: 02702:114
-
-msgid "{Kazushi}\n\"I'm sorry! It was an accident!\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm sorry! It was an accident!\""
 msgstr ""
 
 #: 02702:117
-
-msgid "{Mizuki}\n\"Kazushi!\nYou go to hell!\""
+msgid ""
+"{Mizuki}\n"
+"\"Kazushi!\n"
+"You go to hell!\""
 msgstr ""
 
 #: 02702:118
-
-msgid "{Kazushi}\n\"Sorry! Forgive me!\""
+msgid ""
+"{Kazushi}\n"
+"\"Sorry! Forgive me!\""
 msgstr ""
 
 #: 02702:121
-
-msgid "{Mizuki}\n\"I don't want to live anymore! If the button to launch a nuke was in front of me right now, I'd press it.\""
+msgid ""
+"{Mizuki}\n"
+"\"I don't want to live anymore! If the button to launch a nuke was in front of me right now, I'd press it.\""
 msgstr ""
 
 #: 02702:122
-
-msgid "{Kazushi}\n\"Forget it! Try to forget everything that just happened!\""
+msgid ""
+"{Kazushi}\n"
+"\"Forget it! Try to forget everything that just happened!\""
 msgstr ""
 
 #: 02702:123
-
-msgid "{Mizuki}\n\"I'll try.\""
+msgid ""
+"{Mizuki}\n"
+"\"I'll try.\""
 msgstr ""
 
 #: 02702:124
-
 msgid "I won't. That was the most impressive sight I've ever seen."
 msgstr ""
-

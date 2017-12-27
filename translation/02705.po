@@ -8,336 +8,358 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 02705:7
-
-msgid "{Kazushi}\n\"Huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh?\""
 msgstr ""
 
 #: 02705:8
-
-msgid "There's still a light on in one of the buildings. I wonder who would still be there so late.\nThat room must be..."
+msgid ""
+"There's still a light on in one of the buildings. I wonder who would still be there so late.\n"
+"That room must be..."
 msgstr ""
 
 #: 02705:9
-
-msgid "{Kazushi}\n\"That's got to be library.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's got to be library.\""
 msgstr ""
 
 #: 02705:10
-
 msgid "I have a feeling that's where I'll find the person I'm looking for."
 msgstr ""
 
 #: 02705:15
-
-msgid "{Kazushi}\n\"Good evening.\""
+msgid ""
+"{Kazushi}\n"
+"\"Good evening.\""
 msgstr ""
 
 #: 02705:19
-
-msgid "{Mei}\n\"Haruma-kun? What are you doing here so late?\""
+msgid ""
+"{Mei}\n"
+"\"Haruma-kun? What are you doing here so late?\""
 msgstr ""
 
 #: 02705:20
-
 msgid "I knew she'd be here."
 msgstr ""
 
 #: 02705:21
-
-msgid "{Kazushi}\n\"That's what I wanted to ask you.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's what I wanted to ask you.\""
 msgstr ""
 
 #: 02705:22
-
 msgid "I realized that Mei-sensei was wearing casual clothes. She must have gone back to her room to change earlier."
 msgstr ""
 
 #: 02705:25
-
-msgid "{Mei}\n\"I was doing a little research.\""
+msgid ""
+"{Mei}\n"
+"\"I was doing a little research.\""
 msgstr ""
 
 #: 02705:26
-
 msgid "She was reading a thick academic tome. It must have something to do with alchemy."
 msgstr ""
 
 #: 02705:27
-
-msgid "{Kazushi}\n\"Are you studying?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you studying?\""
 msgstr ""
 
 #: 02705:28
-
-msgid "{Mei}\n\"I don't have to do it tonight, but I just don't feel good being unable to remember it.\""
+msgid ""
+"{Mei}\n"
+"\"I don't have to do it tonight, but I just don't feel good being unable to remember it.\""
 msgstr ""
 
 #: 02705:29
-
 msgid "That's so like her. Despite her jokes and easygoing demeanour, Mei-sensei is a very rigorous person."
 msgstr ""
 
 #: 02705:30
-
-msgid "{Kazushi}\n\"I know that if it was me, I sure wouldn't get it done tonight. I'd probably forget about it all day tomorrow, too.\""
+msgid ""
+"{Kazushi}\n"
+"\"I know that if it was me, I sure wouldn't get it done tonight. I'd probably forget about it all day tomorrow, too.\""
 msgstr ""
 
 #: 02705:31
-
 msgid "I could clearly picture myself doing that with my homework."
 msgstr ""
 
 #: 02705:34
-
-msgid "{Mei}\n\"Actually, that may be for the better. They say that great men don't get bothered by small tasks.\""
+msgid ""
+"{Mei}\n"
+"\"Actually, that may be for the better. They say that great men don't get bothered by small tasks.\""
 msgstr ""
 
 #: 02705:35
-
-msgid "{Kazushi}\n\"Is that true?\nI dunno, most people would just say I'm lazy.\""
+msgid ""
+"{Kazushi}\n"
+"\"Is that true?\n"
+"I dunno, most people would just say I'm lazy.\""
 msgstr ""
 
 #: 02705:37
-
 msgid "I looked at what she was reading."
 msgstr ""
 
 #: 02705:38
-
 msgid "It wasn't written in Japanese, so I couldn't understand any of the words. There were a lot of old woodcut images, though."
 msgstr ""
 
 #: 02705:39
-
-msgid "{Kazushi}\n\"What's that a picture of?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's that a picture of?\""
 msgstr ""
 
 #: 02705:40
-
 msgid "It was a picture of a baby inside a tiny glass bottle."
 msgstr ""
 
 #: 02705:43
-
-msgid "{Mei}\n\"Haven't I taught you guys that yet? It's a picture of a homunculus.\""
+msgid ""
+"{Mei}\n"
+"\"Haven't I taught you guys that yet? It's a picture of a homunculus.\""
 msgstr ""
 
 #: 02705:44
-
-msgid "{Kazushi}\n\"Homuncuwhat?\""
+msgid ""
+"{Kazushi}\n"
+"\"Homuncuwhat?\""
 msgstr ""
 
 #: 02705:45
-
 msgid "I think I've heard of that somewhere before."
 msgstr ""
 
 #: 02705:48
-
-msgid "{Mei}\n\"You really may be a great man one day. You can't even remember that detail?\""
+msgid ""
+"{Mei}\n"
+"\"You really may be a great man one day. You can't even remember that detail?\""
 msgstr ""
 
 #: 02705:49
-
-msgid "{Kazushi}\n\"I'm sorry. I'm sure I've heard of it somewhere before.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm sorry. I'm sure I've heard of it somewhere before.\""
 msgstr ""
 
 #: 02705:50
-
 msgid "That's a lie - I'm not sure at all. I tend to sleep through class when the lecture gets boring."
 msgstr ""
 
 #: 02705:53
-
-msgid "{Mei}\n\"A homunculus is an artificial life-form created by using alchemy.\""
+msgid ""
+"{Mei}\n"
+"\"A homunculus is an artificial life-form created by using alchemy.\""
 msgstr ""
 
 #: 02705:54
-
-msgid "{Kazushi}\n\"An artificial life-form?\""
+msgid ""
+"{Kazushi}\n"
+"\"An artificial life-form?\""
 msgstr ""
 
 #: 02705:55
-
-msgid "I took another look at the picture. There was a tiny person inside the bottle...\nThis looks just like..."
+msgid ""
+"I took another look at the picture. There was a tiny person inside the bottle...\n"
+"This looks just like..."
 msgstr ""
 
 #: 02705:56
-
-msgid "{Kazushi}\n\"Speaking of which, it was like this when Natsume-chan first appeared.\""
+msgid ""
+"{Kazushi}\n"
+"\"Speaking of which, it was like this when Natsume-chan first appeared.\""
 msgstr ""
 
 #: 02705:57
-
 msgid "Natsume-chan had originally been trapped inside a glass bottle. She'd appeared from nowhere."
 msgstr ""
 
 #: 02705:58
-
 msgid "That was exactly the same case as in this picture."
 msgstr ""
 
 #: 02705:59
-
-msgid "{Kazushi}\n\"So Natsume-chan's a homunculus?\""
+msgid ""
+"{Kazushi}\n"
+"\"So Natsume-chan's a homunculus?\""
 msgstr ""
 
 #: 02705:62
-
-msgid "{Mei}\n\"I can't say for certain. I've never seen a homunculus as complete or matured as she is.\""
+msgid ""
+"{Mei}\n"
+"\"I can't say for certain. I've never seen a homunculus as complete or matured as she is.\""
 msgstr ""
 
 #: 02705:63
-
 msgid "It's hard to believe that she was newly born at that point as she was fully grown when we let her out of the bottle."
 msgstr ""
 
 #: 02705:64
-
-msgid "{Kazushi}\n\"Then what is she?\""
+msgid ""
+"{Kazushi}\n"
+"\"Then what is she?\""
 msgstr ""
 
 #: 02705:67
-
-msgid "{Mei}\n\"I don't know. She could be a homunculus, but it's hard to tell.\""
+msgid ""
+"{Mei}\n"
+"\"I don't know. She could be a homunculus, but it's hard to tell.\""
 msgstr ""
 
 #: 02705:68
-
 msgid "Mei-sensei didn't know either. I wonder what the principal was trying to create with that experiment."
 msgstr ""
 
 #: 02705:69
-
 msgid "We don't even know if the experiment was a success or a failure."
 msgstr ""
 
 #: 02705:72
-
-msgid "{Mei}\n\"However, what I do know is that a long time ago, the staff at this school used to regularly conduct research on homunculi. It's definitely a possibility.\""
+msgid ""
+"{Mei}\n"
+"\"However, what I do know is that a long time ago, the staff at this school used to regularly conduct research on homunculi. It's definitely a possibility.\""
 msgstr ""
 
 #: 02705:73
-
-msgid "{Kazushi}\n\"Research homunculi......?\""
+msgid ""
+"{Kazushi}\n"
+"\"Research homunculi......?\""
 msgstr ""
 
 #: 02705:75
-
 msgid "I thought the alchemy we're learning in this school was supposed to be used for the betterment of everyday life. Stuff like enlarging vegetables, or improving bait to catch fish well, not homunculi."
 msgstr ""
 
 #: 02705:77
-
 msgid "It's not supposed to be anything like the witchcraft we're discussing here!"
 msgstr ""
 
 #: 02705:78
-
-msgid "{Kazushi}\n\"Why did they want to experiment with creating a homunculus?\""
+msgid ""
+"{Kazushi}\n"
+"\"Why did they want to experiment with creating a homunculus?\""
 msgstr ""
 
 #: 02705:81
-
-msgid "{Mei}\n\"They say god created man. I think man is always trying to find a way to become god.\""
+msgid ""
+"{Mei}\n"
+"\"They say god created man. I think man is always trying to find a way to become god.\""
 msgstr ""
 
 #: 02705:82
-
-msgid "{Kazushi}\n\"You think we can really find the way?\""
+msgid ""
+"{Kazushi}\n"
+"\"You think we can really find the way?\""
 msgstr ""
 
 #: 02705:83
-
-msgid "I don't think so - and it would be scary if we could.\nI don't think I want to think so."
+msgid ""
+"I don't think so - and it would be scary if we could.\n"
+"I don't think I want to think so."
 msgstr ""
 
 #: 02705:86
-
-msgid "{Mei}\n\"I doubt it. I don't want to think we can either.\""
+msgid ""
+"{Mei}\n"
+"\"I doubt it. I don't want to think we can either.\""
 msgstr ""
 
 #: 02705:87
-
 msgid "I felt so relieved that she agreed with me on this."
 msgstr ""
 
 #: 02705:89
-
-msgid "{Mei}\n\"Either way, I'm sure that Amamiya-san needs some time to adjust to her new surroundings. Please take good care of her, especially since she seems to be quite attached to you.\""
+msgid ""
+"{Mei}\n"
+"\"Either way, I'm sure that Amamiya-san needs some time to adjust to her new surroundings. Please take good care of her, especially since she seems to be quite attached to you.\""
 msgstr ""
 
 #: 02705:91
-
-msgid "{Kazushi}\n\"Yes, for some reason.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes, for some reason.\""
 msgstr ""
 
 #: 02705:92
-
 msgid "I really didn't know why."
 msgstr ""
 
 #: 02705:93
-
-msgid "{Kazushi}\n\"Well, don't worry about it. I'll make sure to look after her.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, don't worry about it. I'll make sure to look after her.\""
 msgstr ""
 
 #: 02705:96
-
-msgid "{Mei}\n\"Thank you. Shall we head back now?\""
+msgid ""
+"{Mei}\n"
+"\"Thank you. Shall we head back now?\""
 msgstr ""
 
 #: 02705:97
-
 msgid "She checked the clock on the wall to find out what time it was. It was still too early for me to go back."
 msgstr ""
 
 #: 02705:98
-
-msgid "{Kazushi}\n\"Just a minute...\""
+msgid ""
+"{Kazushi}\n"
+"\"Just a minute...\""
 msgstr ""
 
 #: 02705:99
-
 msgid "It hadn't even been an hour since I left the dorm."
 msgstr ""
 
 #: 02705:100
-
-msgid "{Kazushi}\n\"Actually, I can't go back to my room for another hour. Would you mind going for a walk with me?\""
+msgid ""
+"{Kazushi}\n"
+"\"Actually, I can't go back to my room for another hour. Would you mind going for a walk with me?\""
 msgstr ""
 
 #: 02705:103
-
-msgid "{Mei}\n\"You can't go back for exactly another hour? Why are you being so specific?\""
+msgid ""
+"{Mei}\n"
+"\"You can't go back for exactly another hour? Why are you being so specific?\""
 msgstr ""
 
 #: 02705:104
-
-msgid "{Kazushi}\n\"It's a long story......\""
+msgid ""
+"{Kazushi}\n"
+"\"It's a long story......\""
 msgstr ""
 
 #: 02705:105
-
-msgid "{Mei}\n\"Are you boys doing something bad again? Do I need to go and check your room?\""
+msgid ""
+"{Mei}\n"
+"\"Are you boys doing something bad again? Do I need to go and check your room?\""
 msgstr ""
 
 #: 02705:106
-
-msgid "{Kazushi}\n\"Oh no! You seriously don't want to do that! I don't want you to be traumatized!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh no! You seriously don't want to do that! I don't want you to be traumatized!\""
 msgstr ""
 
 #: 02705:109
-
-msgid "{Mei}\n\"What are you talking about? I don't understand a word you're saying.\""
+msgid ""
+"{Mei}\n"
+"\"What are you talking about? I don't understand a word you're saying.\""
 msgstr ""
 
 #: 02705:110
-
-msgid "{Kazushi}\n\"Please just trust me on this!\""
+msgid ""
+"{Kazushi}\n"
+"\"Please just trust me on this!\""
 msgstr ""
-

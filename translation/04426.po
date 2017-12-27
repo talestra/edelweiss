@@ -8,41 +8,47 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 04426:9
-
-msgid "{Appo}\n\"Kazushi, what were you in your previous life?\""
+msgid ""
+"{Appo}\n"
+"\"Kazushi, what were you in your previous life?\""
 msgstr ""
 
 #: 04426:10
-
-msgid "{Kazushi}\n\"What? What kind of question is that all of a sudden?\""
+msgid ""
+"{Kazushi}\n"
+"\"What? What kind of question is that all of a sudden?\""
 msgstr ""
 
 #: 04426:11
-
-msgid "{Appo}\n\"I was a hamburger. A fortune teller in my hometown in the late night shopping district told me, so this is fact.\""
+msgid ""
+"{Appo}\n"
+"\"I was a hamburger. A fortune teller in my hometown in the late night shopping district told me, so this is fact.\""
 msgstr ""
 
 #: 04426:12
-
-msgid "{Kazushi}\n\"Oh, I remember that liar! He told me I was going to die within three days - and he did it three times!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, I remember that liar! He told me I was going to die within three days - and he did it three times!\""
 msgstr ""
 
 #: 04426:15
-
-msgid "{Appo}\n\"And as one who used to be hamburger meat, I have a desire to be held between two buns!!\""
+msgid ""
+"{Appo}\n"
+"\"And as one who used to be hamburger meat, I have a desire to be held between two buns!!\""
 msgstr ""
 
 #: 04426:16
-
-msgid "{Kazushi}\n\"Then wouldn't a hot dog or a sandwich do?\""
+msgid ""
+"{Kazushi}\n"
+"\"Then wouldn't a hot dog or a sandwich do?\""
 msgstr ""
 
 #: 04426:19
-
-msgid "{Appo}\n\"Either way, I want to be pressed between two thighs. But these guys can't understand such refined taste. Kazushi, say something to them.\""
+msgid ""
+"{Appo}\n"
+"\"Either way, I want to be pressed between two thighs. But these guys can't understand such refined taste. Kazushi, say something to them.\""
 msgstr ""
-

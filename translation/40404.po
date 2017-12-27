@@ -8,5826 +8,6123 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 40404:7
-
-msgid "{Kazushi}\n\"Thanks for the meal!\""
+msgid ""
+"{Kazushi}\n"
+"\"Thanks for the meal!\""
 msgstr ""
 
 #: 40404:10
-
-msgid "{Natsume}\n\"Ngh... you're fast.\""
+msgid ""
+"{Natsume}\n"
+"\"Ngh... you're fast.\""
 msgstr ""
 
 #: 40404:11
-
 msgid "Natsume-chan put down her chopsticks, muttering in frustration. I won the speed-eating competition."
 msgstr ""
 
 #: 40404:12
-
-msgid "{Kazushi}\n\"Hahaha. You challenged me ten years too early. No, make that a hundred years too early. I'll eat this dessert as my prize.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hahaha. You challenged me ten years too early. No, make that a hundred years too early. I'll eat this dessert as my prize.\""
 msgstr ""
 
 #: 40404:15
-
 msgid "Her pudding was mine, now. Natsume-chan glared at me with tearful eyes, but a deal's a deal. I gladly took it."
 msgstr ""
 
 #: 40404:16
-
-msgid "{Natsume}\n\"Haruma wasn't fair. You swallowed it without hardly chewing it, didn't you?\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma wasn't fair. You swallowed it without hardly chewing it, didn't you?\""
 msgstr ""
 
 #: 40404:17
-
-msgid "{Kazushi}\n\"I didn't have time to taste it since it was a competition.\""
+msgid ""
+"{Kazushi}\n"
+"\"I didn't have time to taste it since it was a competition.\""
 msgstr ""
 
 #: 40404:22
-
-msgid "{Rin}\n\"Well, I spent a lot of time on it, so I wish you would've at least tasted it.\""
+msgid ""
+"{Rin}\n"
+"\"Well, I spent a lot of time on it, so I wish you would've at least tasted it.\""
 msgstr ""
 
 #: 40404:23
-
-msgid "{Kazushi}\n\"Oh, sorry about that. I'll have another one, and I'll enjoy the taste this time.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, sorry about that. I'll have another one, and I'll enjoy the taste this time.\""
 msgstr ""
 
 #: 40404:27
-
-msgid "{Natsume}\n\"How about another round? Please, another round!\""
+msgid ""
+"{Natsume}\n"
+"\"How about another round? Please, another round!\""
 msgstr ""
 
 #: 40404:28
-
-msgid "{Kazushi}\n\"Are you kidding me? You don't know when to stop, do you? Okay, I'll beat you head-on again.\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you kidding me? You don't know when to stop, do you? Okay, I'll beat you head-on again.\""
 msgstr ""
 
 #: 40404:33
-
-msgid "{Rin}\n\"Oh, I know he won't taste it again.\""
+msgid ""
+"{Rin}\n"
+"\"Oh, I know he won't taste it again.\""
 msgstr ""
 
 #: 40404:38
-
-msgid "{Mei}\n\"Hey, wait a second.\""
+msgid ""
+"{Mei}\n"
+"\"Hey, wait a second.\""
 msgstr ""
 
 #: 40404:39
-
 msgid "Mei-sensei was running up to us."
 msgstr ""
 
 #: 40404:40
-
-msgid "{Mei}\n\"You're done eating, aren't you, Haruma-kun?\""
+msgid ""
+"{Mei}\n"
+"\"You're done eating, aren't you, Haruma-kun?\""
 msgstr ""
 
 #: 40404:41
-
-msgid "{Kazushi}\n\"Kind of... But we were about to have a second round.\""
+msgid ""
+"{Kazushi}\n"
+"\"Kind of... But we were about to have a second round.\""
 msgstr ""
 
 #: 40404:44
-
-msgid "{Mei}\n\"Before you start that, can you go fetch somebody?\""
+msgid ""
+"{Mei}\n"
+"\"Before you start that, can you go fetch somebody?\""
 msgstr ""
 
 #: 40404:45
-
-msgid "{Kazushi}\n\"Somebody?\""
+msgid ""
+"{Kazushi}\n"
+"\"Somebody?\""
 msgstr ""
 
 #: 40404:50
-
-msgid "{Kazushi}\n\"Oh, Miya-san.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, Miya-san.\""
 msgstr ""
 
 #: 40404:53
-
 msgid "Miya-san was waiting when I reached the spot Mei-sensei asked me to go to."
 msgstr ""
 
 #: 40404:56
-
-msgid "{Amamiya}\n\"Thank God! I'm glad it was you picking me up.\""
+msgid ""
+"{Amamiya}\n"
+"\"Thank God! I'm glad it was you picking me up.\""
 msgstr ""
 
 #: 40404:57
-
-msgid "{Kazushi}\n\"Why are you here?\""
+msgid ""
+"{Kazushi}\n"
+"\"Why are you here?\""
 msgstr ""
 
 #: 40404:58
-
 msgid "There was a huge trunk underneath his feet. He looked like he was moving somewhere."
 msgstr ""
 
 #: 40404:61
-
-msgid "{Amamiya}\n\"As a matter of fact, I'll be living here starting today.\""
+msgid ""
+"{Amamiya}\n"
+"\"As a matter of fact, I'll be living here starting today.\""
 msgstr ""
 
 #: 40404:62
-
-msgid "{Kazushi}\n\"Are you really moving in?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you really moving in?\""
 msgstr ""
 
 #: 40404:63
-
 msgid "No wonder he had a ton of luggage."
 msgstr ""
 
 #: 40404:64
-
-msgid "{Amamiya}\n\"The director of the school store went on a summer holiday, and he won't come back until the second semester.\""
+msgid ""
+"{Amamiya}\n"
+"\"The director of the school store went on a summer holiday, and he won't come back until the second semester.\""
 msgstr ""
 
 #: 40404:65
-
-msgid "{Kazushi}\n\"So you're here as his replacement?\""
+msgid ""
+"{Kazushi}\n"
+"\"So you're here as his replacement?\""
 msgstr ""
 
 #: 40404:68
-
-msgid "{Amamiya}\n\"Well, to be honest, that's just an excuse.\""
+msgid ""
+"{Amamiya}\n"
+"\"Well, to be honest, that's just an excuse.\""
 msgstr ""
 
 #: 40404:69
-
 msgid "Suddenly, Miya-san made a stern face, and drooped his shoulders. Something must've happened to him."
 msgstr ""
 
 #: 40404:72
-
-msgid "{Amamiya}\n\"Actually, I had a dream about Natsume, and it wasn't good one.\""
+msgid ""
+"{Amamiya}\n"
+"\"Actually, I had a dream about Natsume, and it wasn't good one.\""
 msgstr ""
 
 #: 40404:73
-
 msgid "Miya-san's face turned even more serious. I wondered how bad it was, and started worrying a little bit."
 msgstr ""
 
 #: 40404:74
-
-msgid "{Kazushi}\n\"What kind of dream did you have?\""
+msgid ""
+"{Kazushi}\n"
+"\"What kind of dream did you have?\""
 msgstr ""
 
 #: 40404:75
-
-msgid "{Amamiya}\n\"I hate to even talk about, but in the dream, Natsume was shedding blood.\""
+msgid ""
+"{Amamiya}\n"
+"\"I hate to even talk about, but in the dream, Natsume was shedding blood.\""
 msgstr ""
 
 #: 40404:76
-
-msgid "{Kazushi}\n\"Oh... Blood?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh... Blood?\""
 msgstr ""
 
 #: 40404:77
-
 msgid "At first, I visualized an image like the stain she left on her sheets. I hoped Miya-san's bad premonition wasn't from us..."
 msgstr ""
 
 #: 40404:78
-
-msgid "{Amamiya}\n\"I'm afraid that if something happened to Natsume... I wouldn't be able to let them off easily. Thanks to you, Haruma-kun, I'm ready for anything for her.\""
+msgid ""
+"{Amamiya}\n"
+"\"I'm afraid that if something happened to Natsume... I wouldn't be able to let them off easily. Thanks to you, Haruma-kun, I'm ready for anything for her.\""
 msgstr ""
 
 #: 40404:79
-
-msgid "{Kazushi}\n\"You can't let them off? Wh-what do you plan to do?\""
+msgid ""
+"{Kazushi}\n"
+"\"You can't let them off? Wh-what do you plan to do?\""
 msgstr ""
 
 #: 40404:82
-
-msgid "{Amamiya}\n\"Look at this, I've already prepared myself.\""
+msgid ""
+"{Amamiya}\n"
+"\"Look at this, I've already prepared myself.\""
 msgstr ""
 
 #: 40404:83
-
 msgid "Miya-san put down a slim parcel he carried on his shoulder. He opened it, and I saw a katana in there."
 msgstr ""
 
 #: 40404:84
-
-msgid "{Kazushi}\n\"W-what's that?\""
+msgid ""
+"{Kazushi}\n"
+"\"W-what's that?\""
 msgstr ""
 
 #: 40404:87
-
-msgid "{Amamiya}\n\"This is a noted sword passed down through the generations in my family. I know I don't look it, but I used to practice kendo. It was only at school, though.\""
+msgid ""
+"{Amamiya}\n"
+"\"This is a noted sword passed down through the generations in my family. I know I don't look it, but I used to practice kendo. It was only at school, though.\""
 msgstr ""
 
 #: 40404:88
-
-msgid "{Kazushi}\n\"Th-that's...\""
+msgid ""
+"{Kazushi}\n"
+"\"Th-that's...\""
 msgstr ""
 
 #: 40404:89
-
-msgid "{Amamiya}\n\"I can kill anything with this.\""
+msgid ""
+"{Amamiya}\n"
+"\"I can kill anything with this.\""
 msgstr ""
 
 #: 40404:90
-
-msgid "{Kazushi}\n\"I'm sure you can.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm sure you can.\""
 msgstr ""
 
 #: 40404:91
-
 msgid "I knew what even a first-timer could do that with one of those. Oh, shit. If he finds out I did Natsume-chan, he's gonna kill me!"
 msgstr ""
 
 #: 40404:92
-
 msgid "I knew Miya-san would kill me without hesitation with the fatherly attitude he regained."
 msgstr ""
 
 #: 40404:93
-
-msgid "{Kazushi}\n\"Uh, umm, I should help carry your luggage, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"Uh, umm, I should help carry your luggage, right?\""
 msgstr ""
 
 #: 40404:94
-
-msgid "{Amamiya}\n\"Oh, thank you.\""
+msgid ""
+"{Amamiya}\n"
+"\"Oh, thank you.\""
 msgstr ""
 
 #: 40404:95
-
-msgid "{Kazushi}\n\"I'll get that for you.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'll get that for you.\""
 msgstr ""
 
 #: 40404:96
-
 msgid "I casually reached out my hand to take the sword."
 msgstr ""
 
 #: 40404:99
-
-msgid "{Amamiya}\n\"Don't worry about this. I'll get it.\""
+msgid ""
+"{Amamiya}\n"
+"\"Don't worry about this. I'll get it.\""
 msgstr ""
 
 #: 40404:100
-
 msgid "He took it first. I failed."
 msgstr ""
 
 #: 40404:101
-
-msgid "{Kazushi}\n\"...Then shall we head out?\""
+msgid ""
+"{Kazushi}\n"
+"\"...Then shall we head out?\""
 msgstr ""
 
 #: 40404:106
-
-msgid "{Natsume}\n\"Oh, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"Oh, Haruma.\""
 msgstr ""
 
 #: 40404:107
-
-msgid "{Kazushi}\n\"Oh, Natsume-chan, good timing.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, Natsume-chan, good timing.\""
 msgstr ""
 
 #: 40404:112
-
-msgid "{Amamiya}\n\"Hey, Natsume. Did you know your dad will be working at the school store?\""
+msgid ""
+"{Amamiya}\n"
+"\"Hey, Natsume. Did you know your dad will be working at the school store?\""
 msgstr ""
 
 #: 40404:115
-
-msgid "{Natsume}\n\"...what?\""
+msgid ""
+"{Natsume}\n"
+"\"...what?\""
 msgstr ""
 
 #: 40404:116
-
 msgid "Natsume-chan made a disgusted face."
 msgstr ""
 
 #: 40404:119
-
-msgid "{Amamiya}\n\"W-why are you making a face like that? Don't you want to be with Papa?\""
+msgid ""
+"{Amamiya}\n"
+"\"W-why are you making a face like that? Don't you want to be with Papa?\""
 msgstr ""
 
 #: 40404:120
-
-msgid "{Natsume}\n\"It's embarrassing to have your parents at school.\""
+msgid ""
+"{Natsume}\n"
+"\"It's embarrassing to have your parents at school.\""
 msgstr ""
 
 #: 40404:121
-
-msgid "{Kazushi}\n\"Oh, yeah, I know what you mean.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, yeah, I know what you mean.\""
 msgstr ""
 
 #: 40404:122
-
-msgid "{Amamiya}\n\"Oh, come on...\""
+msgid ""
+"{Amamiya}\n"
+"\"Oh, come on...\""
 msgstr ""
 
 #: 40404:125
-
-msgid "{Natsume}\n\"Starting tomorrow you make yourself small in the corner and be sure not to stand out.\""
+msgid ""
+"{Natsume}\n"
+"\"Starting tomorrow you make yourself small in the corner and be sure not to stand out.\""
 msgstr ""
 
 #: 40404:128
-
-msgid "{Amamiya}\n\"O-okay...\""
+msgid ""
+"{Amamiya}\n"
+"\"O-okay...\""
 msgstr ""
 
 #: 40404:129
-
 msgid "I knew he came all the way here to protect Natsume-chan. How sad it is to be a father."
 msgstr ""
 
 #: 40404:130
-
 msgid "I wondered if my dad would be nice like him if I was a girl."
 msgstr ""
 
 #: 40404:131
-
 msgid "I know my dad used to buy secretly buy gifts for my little sister. I wished I was born a girl."
 msgstr ""
 
 #: 40404:135
-
-msgid "{Kazushi}\n\"So, what were you here to pick up, Natsume-chan?\""
+msgid ""
+"{Kazushi}\n"
+"\"So, what were you here to pick up, Natsume-chan?\""
 msgstr ""
 
 #: 40404:138
-
-msgid "{Natsume}\n\"I came here to buy my school supplies for tomorrow.\""
+msgid ""
+"{Natsume}\n"
+"\"I came here to buy my school supplies for tomorrow.\""
 msgstr ""
 
 #: 40404:139
-
-msgid "{Kazushi}\n\"Oh, right.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, right.\""
 msgstr ""
 
 #: 40404:140
-
 msgid "Natsume-chan will finally be starting at our school. Well, it's gonna be fun."
 msgstr ""
 
 #: 40404:145
-
-msgid "{Amamiya}\n\"Well, I can buy the stuff you'll need for you as a gift. Consider it a late present from me in honor of your admission. Do they sell schoolbags here?\""
+msgid ""
+"{Amamiya}\n"
+"\"Well, I can buy the stuff you'll need for you as a gift. Consider it a late present from me in honor of your admission. Do they sell schoolbags here?\""
 msgstr ""
 
 #: 40404:146
-
-msgid "{Kazushi}\n\"Not the kind you're looking for. This isn't an elementary school.\""
+msgid ""
+"{Kazushi}\n"
+"\"Not the kind you're looking for. This isn't an elementary school.\""
 msgstr ""
 
 #: 40404:149
-
-msgid "{Natsume}\n\"This guy was gone when I needed my first schoolbag. I think time must have stopped for him since then.\""
+msgid ""
+"{Natsume}\n"
+"\"This guy was gone when I needed my first schoolbag. I think time must have stopped for him since then.\""
 msgstr ""
 
 #: 40404:152
-
-msgid "{Amamiya}\n\"Tell me anything you want from the store. Papa's poor, but I can give you whatever you want as a gift.\""
+msgid ""
+"{Amamiya}\n"
+"\"Tell me anything you want from the store. Papa's poor, but I can give you whatever you want as a gift.\""
 msgstr ""
 
 #: 40404:153
-
-msgid "{Kazushi}\n\"You still have to pay, though.\""
+msgid ""
+"{Kazushi}\n"
+"\"You still have to pay, though.\""
 msgstr ""
 
 #: 40404:154
-
 msgid "He was the kind of father who tried doing favors for his daughter, even it meant abusing his authority. It was hard to speak up against his tearful effort."
 msgstr ""
 
 #: 40404:157
-
-msgid "{Natsume}\n\"That's enough. You're embarrassing, so go away.\""
+msgid ""
+"{Natsume}\n"
+"\"That's enough. You're embarrassing, so go away.\""
 msgstr ""
 
 #: 40404:160
-
-msgid "{Amamiya}\n\"What? Papa's embarrassing? How?\""
+msgid ""
+"{Amamiya}\n"
+"\"What? Papa's embarrassing? How?\""
 msgstr ""
 
 #: 40404:163
-
-msgid "{Natsume}\n\"Just go away! Be more considerate, and leave me alone with Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"Just go away! Be more considerate, and leave me alone with Haruma.\""
 msgstr ""
 
 #: 40404:164
-
-msgid "{Amamiya}\n\"W-what do you think you're going to do with him alone?\""
+msgid ""
+"{Amamiya}\n"
+"\"W-what do you think you're going to do with him alone?\""
 msgstr ""
 
 #: 40404:167
-
-msgid "{Natsume}\n\"There's nothing wrong with two lovers being alone together, is there?\""
+msgid ""
+"{Natsume}\n"
+"\"There's nothing wrong with two lovers being alone together, is there?\""
 msgstr ""
 
 #: 40404:168
-
-msgid "{Kazushi}\n\"Oh, Natsume-chan...\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, Natsume-chan...\""
 msgstr ""
 
 #: 40404:171
-
-msgid "{Amamiya}\n\"Lovers...?\""
+msgid ""
+"{Amamiya}\n"
+"\"Lovers...?\""
 msgstr ""
 
 #: 40404:172
-
 msgid "HHHHHH?! Miya-san grabbed the katana!!"
 msgstr ""
 
 #: 40404:173
-
-msgid "{Amamiya}\n\"P-Papa hasn't heard anything about that. This must be a misunderstanding.\""
+msgid ""
+"{Amamiya}\n"
+"\"P-Papa hasn't heard anything about that. This must be a misunderstanding.\""
 msgstr ""
 
 #: 40404:174
-
 msgid "H-he's smiling! He's angry and smiling! I didn't know it was possible to do both!"
 msgstr ""
 
 #: 40404:177
-
-msgid "{Natsume}\n\"You hadn't? Haruma had a crush on me, so I decided to go out with him.\""
+msgid ""
+"{Natsume}\n"
+"\"You hadn't? Haruma had a crush on me, so I decided to go out with him.\""
 msgstr ""
 
 #: 40404:178
-
-msgid "{Kazushi}\n\"Huh? Is that how it went?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Is that how it went?\""
 msgstr ""
 
 #: 40404:182
-
-msgid "{Amamiya}\n\"O-ohh? Haruma-kun likes Natsume, huh? Haruma-kun, aren't you getting a little ahead of yourself?\""
+msgid ""
+"{Amamiya}\n"
+"\"O-ohh? Haruma-kun likes Natsume, huh? Haruma-kun, aren't you getting a little ahead of yourself?\""
 msgstr ""
 
 #: 40404:183
-
-msgid "{Kazushi}\n\"I-I'm not!\""
+msgid ""
+"{Kazushi}\n"
+"\"I-I'm not!\""
 msgstr ""
 
 #: 40404:184
-
 msgid "SHHHNK!"
 msgstr ""
 
 #: 40404:185
-
 msgid "H-he just unsheathed his sword!!"
 msgstr ""
 
 #: 40404:186
-
-msgid "{Kazushi}\n\"Umm, uhh, well...\""
+msgid ""
+"{Kazushi}\n"
+"\"Umm, uhh, well...\""
 msgstr ""
 
 #: 40404:187
-
-msgid "{Kazushi}\n\"Please let me go out with Natsume-chan!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Please let me go out with Natsume-chan!!\""
 msgstr ""
 
 #: 40404:189
-
 msgid "I bowed at his feet and tried to find a way out with sincerity."
 msgstr ""
 
 #: 40404:190
-
 msgid "Wh-what!?"
 msgstr ""
 
 #: 40404:193
-
-msgid "{Amamiya}\n\"I won't permit it!!\""
+msgid ""
+"{Amamiya}\n"
+"\"I won't permit it!!\""
 msgstr ""
 
 #: 40404:195
-
 msgid "FWWWM!!"
 msgstr ""
 
 #: 40404:196
-
-msgid "{Kazushi}\n\"Huh...?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh...?!\""
 msgstr ""
 
 #: 40404:197
-
 msgid "I lifted my head since I felt the wind blast, then saw his sword flash by in front of my face."
 msgstr ""
 
 #: 40404:198
-
-msgid "{Kazushi}\n\"Hhhh?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hhhh?!\""
 msgstr ""
 
 #: 40404:199
-
 msgid "He was an ogre. He was an ogre named father."
 msgstr ""
 
 #: 40404:203
-
-msgid "{Natsume}\n\"Haruma! Run now!\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma! Run now!\""
 msgstr ""
 
 #: 40404:205
-
-msgid "{Kazushi}\n\"Hhhhhah!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hhhhhah!!\""
 msgstr ""
 
 #: 40404:207
-
 msgid "I dashed away as soon as Natsume-chan spoke out."
 msgstr ""
 
 #: 40404:210
-
-msgid "{Amamiya}\n\"Wait!!!\""
+msgid ""
+"{Amamiya}\n"
+"\"Wait!!!\""
 msgstr ""
 
 #: 40404:214
-
-msgid "{Kazushi}\n\"Ugyaaaaaaahhh!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Ugyaaaaaaahhh!!\""
 msgstr ""
 
 #: 40404:215
-
-msgid "{Natsume}\n\"Ah, Haruma!\""
+msgid ""
+"{Natsume}\n"
+"\"Ah, Haruma!\""
 msgstr ""
 
 #: 40404:216
-
 msgid "And that was how our summer holidays came to an end."
 msgstr ""
 
 #: 40404:219
-
 msgid "And so the new semester began."
 msgstr ""
 
 #: 40404:224
-
-msgid "{Natsume}\n\"What do you mean we're in different classes?\""
+msgid ""
+"{Natsume}\n"
+"\"What do you mean we're in different classes?\""
 msgstr ""
 
 #: 40404:225
-
 msgid "Natsume-chan didn't waste time getting pissed off during the new term. Her face turned into a scowl, and she threw a negative aura all around her."
 msgstr ""
 
 #: 40404:226
-
-msgid "{Kazushi}\n\"What can you do? We ARE in a different grades.\""
+msgid ""
+"{Kazushi}\n"
+"\"What can you do? We ARE in a different grades.\""
 msgstr ""
 
 #: 40404:229
-
-msgid "{Natsume}\n\"There's gotta be SOMETHING we can do. You give up way too easily, that's why your grades are low.\""
+msgid ""
+"{Natsume}\n"
+"\"There's gotta be SOMETHING we can do. You give up way too easily, that's why your grades are low.\""
 msgstr ""
 
 #: 40404:230
-
-msgid "{Kazushi}\n\"Don't talk about my grades. They have nothing to do with this problem.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't talk about my grades. They have nothing to do with this problem.\""
 msgstr ""
 
 #: 40404:235
-
-msgid "{Haruka}\n\"Take it easy, you guys.\""
+msgid ""
+"{Haruka}\n"
+"\"Take it easy, you guys.\""
 msgstr ""
 
 #: 40404:238
-
-msgid "{Natsume}\n\"How can I take it easy in this situation? Who? Who should I go complain to?\""
+msgid ""
+"{Natsume}\n"
+"\"How can I take it easy in this situation? Who? Who should I go complain to?\""
 msgstr ""
 
 #: 40404:239
-
-msgid "{Kazushi}\n\"I don't know.\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't know.\""
 msgstr ""
 
 #: 40404:240
-
-msgid "{Haruka}\n\"I guess that'd be Grandma.\""
+msgid ""
+"{Haruka}\n"
+"\"I guess that'd be Grandma.\""
 msgstr ""
 
 #: 40404:241
-
-msgid "{Natsume}\n\"Hisae, huh?\""
+msgid ""
+"{Natsume}\n"
+"\"Hisae, huh?\""
 msgstr ""
 
 #: 40404:242
-
 msgid "Natsume-chan took a piece of paper from her skirt pocket after thinking for a while. It looked like a store flyer."
 msgstr ""
 
 #: 40404:245
-
-msgid "{Haruka}\n\"Oh, you're the kind who uses flyers for scrap paper?\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, you're the kind who uses flyers for scrap paper?\""
 msgstr ""
 
 #: 40404:248
-
-msgid "{Natsume}\n\"It'd be a waste of paper to just throw them away.\""
+msgid ""
+"{Natsume}\n"
+"\"It'd be a waste of paper to just throw them away.\""
 msgstr ""
 
 #: 40404:249
-
 msgid "She scribbled on the back of flyer as she came out about being lower middle class."
 msgstr ""
 
 #: 40404:250
-
-msgid "{Kazushi}\n\"What are you going to do with it?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you going to do with it?\""
 msgstr ""
 
 #: 40404:253
-
-msgid "{Natsume}\n\"Watch.\""
+msgid ""
+"{Natsume}\n"
+"\"Watch.\""
 msgstr ""
 
 #: 40404:254
-
 msgid "SCRIBBLE..."
 msgstr ""
 
 #: 40404:255
-
-msgid "{Kazushi}\n\"What are you writing? 'Hisae, die...' What!?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you writing? 'Hisae, die...' What!?\""
 msgstr ""
 
 #: 40404:258
-
-msgid "{Haruka}\n\"Ah, ahaha... A-are you going to kill Grandma?\""
+msgid ""
+"{Haruka}\n"
+"\"Ah, ahaha... A-are you going to kill Grandma?\""
 msgstr ""
 
 #: 40404:259
-
 msgid "Haruka, who had just seen a death sentence for her family member, let out a dry laugh."
 msgstr ""
 
 #: 40404:260
-
-msgid "{Kazushi}\n\"It's not funny.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's not funny.\""
 msgstr ""
 
 #: 40404:263
-
-msgid "{Haruka}\n\"Because...\""
+msgid ""
+"{Haruka}\n"
+"\"Because...\""
 msgstr ""
 
 #: 40404:266
-
-msgid "{Natsume}\n\"Watch. I cut this into the shape of a monster, and give it a drop of my blood. Then you'll see a monster that can devour Hisae.\""
+msgid ""
+"{Natsume}\n"
+"\"Watch. I cut this into the shape of a monster, and give it a drop of my blood. Then you'll see a monster that can devour Hisae.\""
 msgstr ""
 
 #: 40404:267
-
 msgid "What an awful thing to think..."
 msgstr ""
 
 #: 40404:268
-
-msgid "{Kazushi}\n\"Can you do that? Is that alchemy too?\""
+msgid ""
+"{Kazushi}\n"
+"\"Can you do that? Is that alchemy too?\""
 msgstr ""
 
 #: 40404:271
-
-msgid "{Haruka}\n\"Alchemy doesn't do that kind of thing. You must be joking, right? It's more like magic, I think.\""
+msgid ""
+"{Haruka}\n"
+"\"Alchemy doesn't do that kind of thing. You must be joking, right? It's more like magic, I think.\""
 msgstr ""
 
 #: 40404:274
-
-msgid "{Natsume}\n\"Do you know who I am? I'm no ordinary alchemist.\""
+msgid ""
+"{Natsume}\n"
+"\"Do you know who I am? I'm no ordinary alchemist.\""
 msgstr ""
 
 #: 40404:277
-
-msgid "{Natsume}\n\"The mysterious stone you've all been looking for exists inside me. Because my blood itself is the very mystery you alchemists have been seeking.\""
+msgid ""
+"{Natsume}\n"
+"\"The mysterious stone you've all been looking for exists inside me. Because my blood itself is the very mystery you alchemists have been seeking.\""
 msgstr ""
 
 #: 40404:280
-
-msgid "{Haruka}\n\"Wow, sounds about right. You're awesome, Natsume-chan.\""
+msgid ""
+"{Haruka}\n"
+"\"Wow, sounds about right. You're awesome, Natsume-chan.\""
 msgstr ""
 
 #: 40404:281
-
 msgid "That's right. I could say Natsume-chan was known as one of the world's top alchemists."
 msgstr ""
 
 #: 40404:282
-
-msgid "{Kazushi}\n\"But you're not saying a piece of paper could turn into a monster, are you?\""
+msgid ""
+"{Kazushi}\n"
+"\"But you're not saying a piece of paper could turn into a monster, are you?\""
 msgstr ""
 
 #: 40404:283
-
-msgid "{Natsume}\n\"Yes, I seriously mean it. It'll come out of Natsume space-time.\""
+msgid ""
+"{Natsume}\n"
+"\"Yes, I seriously mean it. It'll come out of Natsume space-time.\""
 msgstr ""
 
 #: 40404:284
-
-msgid "{Haruka}\n\"Natsume space-time?\""
+msgid ""
+"{Haruka}\n"
+"\"Natsume space-time?\""
 msgstr ""
 
 #: 40404:285
-
-msgid "{Natsume}\n\"Natsume space-time is a convenient pocket dimension. So, I'll have this monster eat Hisae and then I'll be in the same class as Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"Natsume space-time is a convenient pocket dimension. So, I'll have this monster eat Hisae and then I'll be in the same class as Haruma.\""
 msgstr ""
 
 #: 40404:286
-
-msgid "{Kazushi}\n\"No, no, no! Hold on!\""
+msgid ""
+"{Kazushi}\n"
+"\"No, no, no! Hold on!\""
 msgstr ""
 
 #: 40404:287
-
 msgid "I rushed to stop her. I wished I could see a real monster appear, but it would be too late by the time that happened, so I had to stop her now."
 msgstr ""
 
 #: 40404:290
-
-msgid "{Haruka}\n\"I bet you'll make some great friends in your freshman class, so why don't you give it a try?\""
+msgid ""
+"{Haruka}\n"
+"\"I bet you'll make some great friends in your freshman class, so why don't you give it a try?\""
 msgstr ""
 
 #: 40404:291
-
-msgid "{Kazushi}\n\"She's right. You have to give new things a try.\""
+msgid ""
+"{Kazushi}\n"
+"\"She's right. You have to give new things a try.\""
 msgstr ""
 
 #: 40404:294
-
-msgid "{Natsume}\n\"Freshmen are childish. Being with them would wear me out.\""
+msgid ""
+"{Natsume}\n"
+"\"Freshmen are childish. Being with them would wear me out.\""
 msgstr ""
 
 #: 40404:295
-
-msgid "Well, Natsume-chan, you're rather childish too...\nBut I wouldn't say that to her face because she'd get cross with me again."
+msgid ""
+"Well, Natsume-chan, you're rather childish too...\n"
+"But I wouldn't say that to her face because she'd get cross with me again."
 msgstr ""
 
 #: 40404:296
-
-msgid "{Kazushi}\n\"Why don't you at least go and give it a shot? And if you still don't like it, we'll take it from there. Don't dislike something without even having tried it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Why don't you at least go and give it a shot? And if you still don't like it, we'll take it from there. Don't dislike something without even having tried it.\""
 msgstr ""
 
 #: 40404:299
-
-msgid "{Natsume}\n\"O-okay. I'll try it once, but if I don't like it, I won't do it again.\""
+msgid ""
+"{Natsume}\n"
+"\"O-okay. I'll try it once, but if I don't like it, I won't do it again.\""
 msgstr ""
 
 #: 40404:300
-
-msgid "{Kazushi}\n\"Well, we'll cross that bridge when we get to it. Come to the cafeteria at lunch time and let me know how it goes.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, we'll cross that bridge when we get to it. Come to the cafeteria at lunch time and let me know how it goes.\""
 msgstr ""
 
 #: 40404:301
-
-msgid "{Natsume}\n\"...Okay.\""
+msgid ""
+"{Natsume}\n"
+"\"...Okay.\""
 msgstr ""
 
 #: 40404:305
-
-msgid "{Kazushi}\n\"Ten minutes left, huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Ten minutes left, huh?\""
 msgstr ""
 
 #: 40404:306
-
 msgid "There was another ten minutes to go until lunch time. I think I did nothing but watch the clock since that morning."
 msgstr ""
 
 #: 40404:309
-
-msgid "{Mizuki}\n\"Are you that worried about Natsume-chan? I think you're being overprotective of her.\""
+msgid ""
+"{Mizuki}\n"
+"\"Are you that worried about Natsume-chan? I think you're being overprotective of her.\""
 msgstr ""
 
 #: 40404:310
-
-msgid "{Kazushi}\n\"I'm not worried about Natsume-chan. I'm worried about whether or not a monster is rampaging in her classroom.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm not worried about Natsume-chan. I'm worried about whether or not a monster is rampaging in her classroom.\""
 msgstr ""
 
 #: 40404:313
-
-msgid "{Mizuki}\n\"Do what?\""
+msgid ""
+"{Mizuki}\n"
+"\"Do what?\""
 msgstr ""
 
 #: 40404:314
-
 msgid "Natsume-chan was very clear about what she did and didn't like. I hope she's getting along well with her class. I doubt she's being bullied, but..."
 msgstr ""
 
 #: 40404:315
-
-msgid "{Kazushi}\n\"Nine minutes to go? Is that clock stopped?\""
+msgid ""
+"{Kazushi}\n"
+"\"Nine minutes to go? Is that clock stopped?\""
 msgstr ""
 
 #: 40404:318
-
-msgid "{Mizuki}\n\"It's moving. It's been exactly one minute. Come on, if you're a man, you'll settle down.\""
+msgid ""
+"{Mizuki}\n"
+"\"It's moving. It's been exactly one minute. Come on, if you're a man, you'll settle down.\""
 msgstr ""
 
 #: 40404:319
-
-msgid "{Kazushi}\n\"I know, but...\""
+msgid ""
+"{Kazushi}\n"
+"\"I know, but...\""
 msgstr ""
 
 #: 40404:321
-
-msgid "{Kazushi}\n\"Hm?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hm?\""
 msgstr ""
 
 #: 40404:324
-
 msgid "I heard hasty footsteps coming from the hallway."
 msgstr ""
 
 #: 40404:325
-
-msgid "{Mizuki}\n\"What is it?\""
+msgid ""
+"{Mizuki}\n"
+"\"What is it?\""
 msgstr ""
 
 #: 40404:329
-
-msgid "{Yagami}\n\"Who's running out there? We're still in the middle of class.\""
+msgid ""
+"{Yagami}\n"
+"\"Who's running out there? We're still in the middle of class.\""
 msgstr ""
 
 #: 40404:331
-
 msgid "CLOMP-CLOMP-CLOMP!"
 msgstr ""
 
 #: 40404:332
-
 msgid "The sound of footsteps came closer."
 msgstr ""
 
 #: 40404:333
-
-msgid "{Natsume}\n\"Haruma! Haruma!\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma! Haruma!\""
 msgstr ""
 
 #: 40404:334
-
 msgid "I heard the person who was running through the corridors. She was calling my name..."
 msgstr ""
 
 #: 40404:337
-
-msgid "{Yagami}\n\"Hey, Kazushi?\""
+msgid ""
+"{Yagami}\n"
+"\"Hey, Kazushi?\""
 msgstr ""
 
 #: 40404:338
-
-msgid "{Kazushi}\n\"S-sorry about that.\""
+msgid ""
+"{Kazushi}\n"
+"\"S-sorry about that.\""
 msgstr ""
 
 #: 40404:339
-
 msgid "If I sat by the window, I would've jumped out without a second thought. However, I couldn't do that from the center of the classroom."
 msgstr ""
 
 #: 40404:341
-
 msgid "I had to suck it up and endure being the focus of my classmates' attention for the moment."
 msgstr ""
 
 #: 40404:344
-
 msgid "RATTLE!"
 msgstr ""
 
 #: 40404:345
-
 msgid "The door opened sooner than I expected. A small-framed girl burst through the entrance."
 msgstr ""
 
 #: 40404:348
-
-msgid "{Natsume}\n\"Haruma! Listen! We baked cookies at home economics!!\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma! Listen! We baked cookies at home economics!!\""
 msgstr ""
 
 #: 40404:349
-
 msgid "Natsume-chan was swinging a parcel of paper napkins in her hand as she shamelessly rushed inside the classroom."
 msgstr ""
 
 #: 40404:353
-
-msgid "{Yagami}\n\"Amamiya, look here...\""
+msgid ""
+"{Yagami}\n"
+"\"Amamiya, look here...\""
 msgstr ""
 
 #: 40404:354
-
 msgid "Yagami-sensei rubbed his temple. I was getting a headache too."
 msgstr ""
 
 #: 40404:359
-
-msgid "{Natsume}\n\"My class already finished, ten minutes early.\""
+msgid ""
+"{Natsume}\n"
+"\"My class already finished, ten minutes early.\""
 msgstr ""
 
 #: 40404:360
-
-msgid "{Yagami}\n\"And our class is still proceeding on schedule.\""
+msgid ""
+"{Yagami}\n"
+"\"And our class is still proceeding on schedule.\""
 msgstr ""
 
 #: 40404:361
-
-msgid "{Kazushi}\n\"I'm sorry about this.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm sorry about this.\""
 msgstr ""
 
 #: 40404:364
-
-msgid "{Lower-grade girl 1}\n\"Hey, Natsume!\""
+msgid ""
+"{Lower-grade girl 1}\n"
+"\"Hey, Natsume!\""
 msgstr ""
 
 #: 40404:365
-
-msgid "{Kazushi}\n\"Hm?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hm?\""
 msgstr ""
 
 #: 40404:366
-
 msgid "When I look carefully, I saw two girls calling for Natsume-chan. I wondered if they were Natsume-chan's classmates, but they looked younger than their age."
 msgstr ""
 
 #: 40404:367
-
 msgid "They looked like they wanted to come in and stop Natsume-chan from interrupting our class, but they were stranded at the doorway."
 msgstr ""
 
 #: 40404:368
-
-msgid "{Lower-grade girl 2}\n\"This is a second year classroom. This isn't good, Natsume.\""
+msgid ""
+"{Lower-grade girl 2}\n"
+"\"This is a second year classroom. This isn't good, Natsume.\""
 msgstr ""
 
 #: 40404:369
-
-msgid "{Lower-grade girl 1}\n\"Oh, I'm sorry! Sorry for interrupting, guys!\""
+msgid ""
+"{Lower-grade girl 1}\n"
+"\"Oh, I'm sorry! Sorry for interrupting, guys!\""
 msgstr ""
 
 #: 40404:370
-
 msgid "They looked like good kids. I mean, I should say they looked normal, rather than good."
 msgstr ""
 
 #: 40404:373
-
-msgid "{Natsume}\n\"It's okay, because this is Haruma's class.\""
+msgid ""
+"{Natsume}\n"
+"\"It's okay, because this is Haruma's class.\""
 msgstr ""
 
 #: 40404:374
-
-msgid "{Kazushi}\n\"Why is it okay if it's my class?\""
+msgid ""
+"{Kazushi}\n"
+"\"Why is it okay if it's my class?\""
 msgstr ""
 
 #: 40404:378
-
-msgid "{Pierre}\n\"Because you'll take responsibility for her?\""
+msgid ""
+"{Pierre}\n"
+"\"Because you'll take responsibility for her?\""
 msgstr ""
 
 #: 40404:379
-
-msgid "{Kazushi}\n\"What? Is that how it goes?\""
+msgid ""
+"{Kazushi}\n"
+"\"What? Is that how it goes?\""
 msgstr ""
 
 #: 40404:383
-
-msgid "{Yagami}\n\"Yes, I would say so. You come to the teachers' room later, Kazushi.\""
+msgid ""
+"{Yagami}\n"
+"\"Yes, I would say so. You come to the teachers' room later, Kazushi.\""
 msgstr ""
 
 #: 40404:384
-
-msgid "{Kazushi}\n\"Um...sure...\""
+msgid ""
+"{Kazushi}\n"
+"\"Um...sure...\""
 msgstr ""
 
 #: 40404:385
-
 msgid "I guess I'll be late for lunch."
 msgstr ""
 
 #: 40404:389
-
-msgid "{Natsume}\n\"Haruma, Haruma, this is Hanako and Tanaka Kaoruko.\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma, Haruma, this is Hanako and Tanaka Kaoruko.\""
 msgstr ""
 
 #: 40404:390
-
-msgid "{Hanako}\n\"You're totally wrong!!\""
+msgid ""
+"{Hanako}\n"
+"\"You're totally wrong!!\""
 msgstr ""
 
 #: 40404:391
-
 msgid "As usual, she couldn't remember people's names."
 msgstr ""
 
 #: 40404:392
-
-msgid "{Tanaka Kaoruko}\n\"Hey, could he be Natsume's boyfriend?\""
+msgid ""
+"{Tanaka Kaoruko}\n"
+"\"Hey, could he be Natsume's boyfriend?\""
 msgstr ""
 
 #: 40404:393
-
-msgid "{Hanako}\n\"What? Really?\""
+msgid ""
+"{Hanako}\n"
+"\"What? Really?\""
 msgstr ""
 
 #: 40404:394
-
 msgid "They kept staring at me without blinking. Their eyes were shaped like shining hearts."
 msgstr ""
 
 #: 40404:397
-
-msgid "{Natsume}\n\"Yup, he's my servant.\""
+msgid ""
+"{Natsume}\n"
+"\"Yup, he's my servant.\""
 msgstr ""
 
 #: 40404:398
-
-msgid "{Kazushi}\n\"I'm your servant... Really?\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm your servant... Really?\""
 msgstr ""
 
 #: 40404:401
-
-msgid "{Natsume}\n\"We've done the dirty too.\""
+msgid ""
+"{Natsume}\n"
+"\"We've done the dirty too.\""
 msgstr ""
 
 #: 40404:402
-
-msgid "{Kazushi}\n\"You do the dirty with your servants?\""
+msgid ""
+"{Kazushi}\n"
+"\"You do the dirty with your servants?\""
 msgstr ""
 
 #: 40404:408
-
-msgid "{Pierre}\n\"That's not the point to mention.\""
+msgid ""
+"{Pierre}\n"
+"\"That's not the point to mention.\""
 msgstr ""
 
 #: 40404:411
-
-msgid "{Appo}\n\"Did you really do the dirty with Natsume-chan?\""
+msgid ""
+"{Appo}\n"
+"\"Did you really do the dirty with Natsume-chan?\""
 msgstr ""
 
 #: 40404:412
-
-msgid "{Kazushi}\n\"Oops...\""
+msgid ""
+"{Kazushi}\n"
+"\"Oops...\""
 msgstr ""
 
 #: 40404:415
-
 msgid "When I realized where I was, the entire class was dead quiet. I felt cold stares all over me, especially from the girls."
 msgstr ""
 
 #: 40404:418
-
-msgid "{Mizuki}\n\"Hey, Natsume-chan, come over here.\""
+msgid ""
+"{Mizuki}\n"
+"\"Hey, Natsume-chan, come over here.\""
 msgstr ""
 
 #: 40404:423
-
-msgid "{Natsume}\n\"Hm? What is it?\""
+msgid ""
+"{Natsume}\n"
+"\"Hm? What is it?\""
 msgstr ""
 
 #: 40404:428
-
-msgid "{Fuusen}\n\"Just come over here. I have something to talk to you about.\""
+msgid ""
+"{Fuusen}\n"
+"\"Just come over here. I have something to talk to you about.\""
 msgstr ""
 
 #: 40404:431
-
 msgid "Natsume-chan was taken away by the girls."
 msgstr ""
 
 #: 40404:432
-
-msgid "{Natsume}\n\"What's going on?\""
+msgid ""
+"{Natsume}\n"
+"\"What's going on?\""
 msgstr ""
 
 #: 40404:433
-
 msgid "It had been about ten seconds since Natsume-chan was surrounded by the girls, and they all lifted their heads in unison."
 msgstr ""
 
 #: 40404:439
-
-msgid "{Sakura}\n\"Oh, Harucchi~!\""
+msgid ""
+"{Sakura}\n"
+"\"Oh, Harucchi~!\""
 msgstr ""
 
 #: 40404:442
-
-msgid "{Mizuki}\n\"You fiend! What are you doing to this poor little girl?!\""
+msgid ""
+"{Mizuki}\n"
+"\"You fiend! What are you doing to this poor little girl?!\""
 msgstr ""
 
 #: 40404:443
-
-msgid "{Kazushi}\n\"What?! She may be small, but she's only a year younger than I am!\""
+msgid ""
+"{Kazushi}\n"
+"\"What?! She may be small, but she's only a year younger than I am!\""
 msgstr ""
 
 #: 40404:446
-
-msgid "{Tanaka Kaoruko}\n\"We didn't know that Natsume was ahead of us in that kind of thing.\""
+msgid ""
+"{Tanaka Kaoruko}\n"
+"\"We didn't know that Natsume was ahead of us in that kind of thing.\""
 msgstr ""
 
 #: 40404:447
-
-msgid "{Hanako}\n\"You're dating your sempai... You must be very mature. How cool.\""
+msgid ""
+"{Hanako}\n"
+"\"You're dating your sempai... You must be very mature. How cool.\""
 msgstr ""
 
 #: 40404:450
-
-msgid "{Natsume}\n\"Do you think so? Then, why don't you two find somebody in here? Does anybody have any interest in dating these two girls?\""
+msgid ""
+"{Natsume}\n"
+"\"Do you think so? Then, why don't you two find somebody in here? Does anybody have any interest in dating these two girls?\""
 msgstr ""
 
 #: 40404:456
-
-msgid "{Pierre}\n\"Yes! Here! Over here!!\""
+msgid ""
+"{Pierre}\n"
+"\"Yes! Here! Over here!!\""
 msgstr ""
 
 #: 40404:457
-
-msgid "{Daigo}\n\"I-if you wouldn't mind me...\""
+msgid ""
+"{Daigo}\n"
+"\"I-if you wouldn't mind me...\""
 msgstr ""
 
 #: 40404:458
-
-msgid "{Tanaka Kaoruko}\n\"No thank you.\""
+msgid ""
+"{Tanaka Kaoruko}\n"
+"\"No thank you.\""
 msgstr ""
 
 #: 40404:465
-
-msgid "{Mizuki}\n\"You've already been dumped.\""
+msgid ""
+"{Mizuki}\n"
+"\"You've already been dumped.\""
 msgstr ""
 
 #: 40404:468
-
-msgid "{Ran}\n\"I told you, if you pay the membership fee, I'll introduce you to three girls every month.\""
+msgid ""
+"{Ran}\n"
+"\"I told you, if you pay the membership fee, I'll introduce you to three girls every month.\""
 msgstr ""
 
 #: 40404:469
-
-msgid "{Kazushi}\n\"What kind of membership is that?\""
+msgid ""
+"{Kazushi}\n"
+"\"What kind of membership is that?\""
 msgstr ""
 
 #: 40404:474
-
-msgid "{Yagami}\n\"I couldn't care less, but you're all forgetting that we're still in the middle of class.\""
+msgid ""
+"{Yagami}\n"
+"\"I couldn't care less, but you're all forgetting that we're still in the middle of class.\""
 msgstr ""
 
 #: 40404:480
-
-msgid "{Sakura}\n\"It's over, right, sensei?\""
+msgid ""
+"{Sakura}\n"
+"\"It's over, right, sensei?\""
 msgstr ""
 
 #: 40404:485
-
-msgid "{Yagami}\n\"Jeez... I can see all of you are still carrying vacation fever, but you'd better fix that as soon as possible because midterms are just around the corner!\""
+msgid ""
+"{Yagami}\n"
+"\"Jeez... I can see all of you are still carrying vacation fever, but you'd better fix that as soon as possible because midterms are just around the corner!\""
 msgstr ""
 
 #: 40404:489
-
-msgid "{Ran}\n\"Don't worry, sensei! I'll give them the copies of my notes for 5000 yen per subject!\""
+msgid ""
+"{Ran}\n"
+"\"Don't worry, sensei! I'll give them the copies of my notes for 5000 yen per subject!\""
 msgstr ""
 
 #: 40404:495
-
-msgid "{Pierre}\n\"That sounds really expensive!\""
+msgid ""
+"{Pierre}\n"
+"\"That sounds really expensive!\""
 msgstr ""
 
 #: 40404:496
-
-msgid "{Daigo}\n\"How about 3000 yen...no...2000 yen!\""
+msgid ""
+"{Daigo}\n"
+"\"How about 3000 yen...no...2000 yen!\""
 msgstr ""
 
 #: 40404:501
-
-msgid "{Yagami}\n\"Sounds like Kamoike needs to lower her prices or quite a few are going to fail.\""
+msgid ""
+"{Yagami}\n"
+"\"Sounds like Kamoike needs to lower her prices or quite a few are going to fail.\""
 msgstr ""
 
 #: 40404:505
-
-msgid "{Natsume}\n\"Second years must be really busy. Anyway, shut up and eat this cookie, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"Second years must be really busy. Anyway, shut up and eat this cookie, Haruma.\""
 msgstr ""
 
 #: 40404:506
-
-msgid "{Kazushi}\n\"Okay, okay.\""
+msgid ""
+"{Kazushi}\n"
+"\"Okay, okay.\""
 msgstr ""
 
 #: 40404:507
-
 msgid "Thank god that Natsume-chan joined the school. It looks like we'll have a lot of fun."
 msgstr ""
 
 #: 40404:512
-
 msgid "Finally, the first day of class was over."
 msgstr ""
 
 #: 40404:513
-
 msgid "When I went to Natsume-chan's classroom to meet her, the girls from this afternoon had already left."
 msgstr ""
 
 #: 40404:514
-
-msgid "{Kazushi}\n\"Did your friends go home already?\""
+msgid ""
+"{Kazushi}\n"
+"\"Did your friends go home already?\""
 msgstr ""
 
 #: 40404:517
-
-msgid "{Natsume}\n\"They told me to say hi to you and went home.\""
+msgid ""
+"{Natsume}\n"
+"\"They told me to say hi to you and went home.\""
 msgstr ""
 
 #: 40404:518
-
-msgid "{Kazushi}\n\"I guess they tried to be considerate.\""
+msgid ""
+"{Kazushi}\n"
+"\"I guess they tried to be considerate.\""
 msgstr ""
 
 #: 40404:519
-
 msgid "My kohai were all trying to give us time. What a bad sempai I am."
 msgstr ""
 
 #: 40404:520
-
-msgid "{Kazushi}\n\"But I'm glad you made some friends in no time.\""
+msgid ""
+"{Kazushi}\n"
+"\"But I'm glad you made some friends in no time.\""
 msgstr ""
 
 #: 40404:521
-
 msgid "I worried about her, but I guess she got along with her class, and grabbed the interest of the kids in her grade as well as her seniors."
 msgstr ""
 
 #: 40404:524
-
-msgid "{Natsume}\n\"I don't know if I can call them friends.\""
+msgid ""
+"{Natsume}\n"
+"\"I don't know if I can call them friends.\""
 msgstr ""
 
 #: 40404:525
-
-msgid "{Kazushi}\n\"They are your friends, aren't they? You should remember their names soon.\""
+msgid ""
+"{Kazushi}\n"
+"\"They are your friends, aren't they? You should remember their names soon.\""
 msgstr ""
 
 #: 40404:528
-
-msgid "{Natsume}\n\"I already know their names. Hanako and Tanaka Kaoruko.\""
+msgid ""
+"{Natsume}\n"
+"\"I already know their names. Hanako and Tanaka Kaoruko.\""
 msgstr ""
 
 #: 40404:529
-
 msgid "For your information, their real names were Shimura Yae, and Suzuki Chikako. I was amazed that they were totally different."
 msgstr ""
 
 #: 40404:532
-
-msgid "{Natsume}\n\"The freshman class wasn't bad as I thought.\""
+msgid ""
+"{Natsume}\n"
+"\"The freshman class wasn't bad as I thought.\""
 msgstr ""
 
 #: 40404:533
-
-msgid "{Kazushi}\n\"See? I told you so.\""
+msgid ""
+"{Kazushi}\n"
+"\"See? I told you so.\""
 msgstr ""
 
 #: 40404:536
-
-msgid "{Natsume}\n\"Quit while you're ahead.\""
+msgid ""
+"{Natsume}\n"
+"\"Quit while you're ahead.\""
 msgstr ""
 
 #: 40404:537
-
-msgid "{Kazushi}\n\"Don't look at me with pity.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't look at me with pity.\""
 msgstr ""
 
 #: 40404:540
-
-msgid "{Natsume}\n\".........Hm?\""
+msgid ""
+"{Natsume}\n"
+"\".........Hm?\""
 msgstr ""
 
 #: 40404:541
-
 msgid "Suddenly, Natsume-chan looked at the sky."
 msgstr ""
 
 #: 40404:542
-
-msgid "{Kazushi}\n\"What's wrong?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's wrong?\""
 msgstr ""
 
 #: 40404:543
-
-msgid "{Natsume}\n\"The wind stopped...\""
+msgid ""
+"{Natsume}\n"
+"\"The wind stopped...\""
 msgstr ""
 
 #: 40404:544
-
-msgid "{Kazushi}\n\"Wind?\""
+msgid ""
+"{Kazushi}\n"
+"\"Wind?\""
 msgstr ""
 
 #: 40404:545
-
 msgid "I noticed when she said it, because the wind that was blowing through Natsume-chan's hair until now had suddenly died down."
 msgstr ""
 
 #: 40404:547
-
 msgid "I felt like the hot air was growing stagnant and building up around us. The humid feel against my skin was fraying my nerves."
 msgstr ""
 
 #: 40404:548
-
-msgid "{Kazushi}\n\"Oh... What's that smell?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh... What's that smell?\""
 msgstr ""
 
 #: 40404:549
-
 msgid "There was a sweet aroma wafting through the hot air. It was a very sweet fragrance, like that of fruit starting to rot."
 msgstr ""
 
 #: 40404:550
-
-msgid "{Kazushi}\n\"I think it's because of fall. Well, it might be a bit too early to call it fall...\""
+msgid ""
+"{Kazushi}\n"
+"\"I think it's because of fall. Well, it might be a bit too early to call it fall...\""
 msgstr ""
 
 #: 40404:553
-
-msgid "{Natsume}\n\"........................\""
+msgid ""
+"{Natsume}\n"
+"\"........................\""
 msgstr ""
 
 #: 40404:554
-
 msgid "Natsume-chan didn't say anything, but looked up at the blue sky of late summer."
 msgstr ""
 
 #: 40404:559
-
 msgid "I hadn't realized it yet, but the color of that sky was very similar to one that that I'd seen somewhere else before."
 msgstr ""
 
 #: 40404:560
-
 msgid "I had a hard time falling asleep that night."
 msgstr ""
 
 #: 40404:561
-
-msgid "{Kazushi}\n\"I don't know why I can't get to sleep. I'm usually out like a light.\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't know why I can't get to sleep. I'm usually out like a light.\""
 msgstr ""
 
 #: 40404:562
-
 msgid "I was known for being able to fall asleep instantly, but now I was suffering from insomnia. What a promotion that was..."
 msgstr ""
 
 #: 40404:563
-
-msgid "{Kazushi}\n\"I know I shouldn't try to force myself to sleep at times like this.\""
+msgid ""
+"{Kazushi}\n"
+"\"I know I shouldn't try to force myself to sleep at times like this.\""
 msgstr ""
 
 #: 40404:564
-
 msgid "I think I should try taking a walk. It looks nice outside, with the breeze and all."
 msgstr ""
 
 #: 40404:568
-
 msgid "It's so nice out here. It feels like a gentle autumn wind."
 msgstr ""
 
 #: 40404:569
-
-msgid "{Kazushi}\n\"It's already September, isn't it?\""
+msgid ""
+"{Kazushi}\n"
+"\"It's already September, isn't it?\""
 msgstr ""
 
 #: 40404:570
-
 msgid "This summer passed so quickly. I knew every summer seemed to fly by, but I felt this summer went super fast for me."
 msgstr ""
 
 #: 40404:571
-
-msgid "{Kazushi}\n\"Huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh?\""
 msgstr ""
 
 #: 40404:576
-
 msgid "Oh, Natsume-chan. What's she doing here by herself?"
 msgstr ""
 
 #: 40404:577
-
-msgid "{Kazushi}\n\"Hm?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hm?\""
 msgstr ""
 
 #: 40404:578
-
 msgid "I asked myself that question. I remembered I'd met Natsume-chan at midnight before like this."
 msgstr ""
 
 #: 40404:579
-
 msgid "But that was only in my dream."
 msgstr ""
 
 #: 40404:580
-
-msgid "{Kazushi}\n\"I wonder if I'm dreaming now.\""
+msgid ""
+"{Kazushi}\n"
+"\"I wonder if I'm dreaming now.\""
 msgstr ""
 
 #: 40404:581
-
 msgid "And also, the air seemed to have the same qualities. There was a suffocatingly sweet aroma, like the scent of flowers."
 msgstr ""
 
 #: 40404:582
-
-msgid "{Kazushi}\n\"Natsume-chan, we're not back in that dream again, are we?\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan, we're not back in that dream again, are we?\""
 msgstr ""
 
 #: 40404:585
-
-msgid "{Natsume}\n\"Hm?\""
+msgid ""
+"{Natsume}\n"
+"\"Hm?\""
 msgstr ""
 
 #: 40404:586
-
 msgid "I think she noticed my voice."
 msgstr ""
 
 #: 40404:587
-
-msgid "{Natsume}\n\"Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma.\""
 msgstr ""
 
 #: 40404:590
-
 msgid "Natsume-chan rushed over to me and held my hand, like a child needing to stay hand in hand with an adult."
 msgstr ""
 
 #: 40404:591
-
-msgid "{Kazushi}\n\"What are you doing out by yourself at this hour? This isn't a dream, is it?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you doing out by yourself at this hour? This isn't a dream, is it?\""
 msgstr ""
 
 #: 40404:594
-
-msgid "{Natsume}\n\"No, this is reality.\""
+msgid ""
+"{Natsume}\n"
+"\"No, this is reality.\""
 msgstr ""
 
 #: 40404:595
-
-msgid "{Kazushi}\n\"Oh, I see.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, I see.\""
 msgstr ""
 
 #: 40404:596
-
 msgid "I was relieved."
 msgstr ""
 
 #: 40404:597
-
-msgid "{Kazushi}\n\"I got flustered when I thought that you went back to the other world again.\""
+msgid ""
+"{Kazushi}\n"
+"\"I got flustered when I thought that you went back to the other world again.\""
 msgstr ""
 
 #: 40404:600
-
-msgid "{Natsume}\n\"I'm here. But...\""
+msgid ""
+"{Natsume}\n"
+"\"I'm here. But...\""
 msgstr ""
 
 #: 40404:601
-
 msgid "I looked up at the sky, wondering where this sweet aroma was coming from."
 msgstr ""
 
 #: 40404:604
-
-msgid "{Natsume}\n\".........\""
+msgid ""
+"{Natsume}\n"
+"\".........\""
 msgstr ""
 
 #: 40404:605
-
 msgid "Natsume-chan kept looking at the night sky without moving. Her palm was getting sweaty in my hand for a change. She usually didn't sweat much."
 msgstr ""
 
 #: 40404:606
-
-msgid "{Kazushi}\n\"What's wrong?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's wrong?\""
 msgstr ""
 
 #: 40404:609
-
-msgid "{Natsume}\n\"Is it really alright for me to be here...?\""
+msgid ""
+"{Natsume}\n"
+"\"Is it really alright for me to be here...?\""
 msgstr ""
 
 #: 40404:610
-
 msgid "She mumbled to herself. I'd only had a moment of relief and now I was worried about her again."
 msgstr ""
 
 #: 40404:611
-
-msgid "{Kazushi}\n\"What's wrong? Did something happen?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's wrong? Did something happen?\""
 msgstr ""
 
 #: 40404:614
-
-msgid "{Natsume}\n\"...No, nothing.\""
+msgid ""
+"{Natsume}\n"
+"\"...No, nothing.\""
 msgstr ""
 
 #: 40404:615
-
-msgid "{Kazushi}\n\"Are you sure?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you sure?\""
 msgstr ""
 
 #: 40404:618
-
-msgid "{Natsume}\n\".........\""
+msgid ""
+"{Natsume}\n"
+"\".........\""
 msgstr ""
 
 #: 40404:619
-
 msgid "She looked like something was troubling. I wanted to know what was going on."
 msgstr ""
 
 #: 40404:620
-
-msgid "{Natsume}\n\"I wish I could ride your bicycle again.\""
+msgid ""
+"{Natsume}\n"
+"\"I wish I could ride your bicycle again.\""
 msgstr ""
 
 #: 40404:621
-
-msgid "{Kazushi}\n\"What? My bicycle?\""
+msgid ""
+"{Kazushi}\n"
+"\"What? My bicycle?\""
 msgstr ""
 
 #: 40404:624
-
-msgid "{Natsume}\n\"......Mhmm.\""
+msgid ""
+"{Natsume}\n"
+"\"......Mhmm.\""
 msgstr ""
 
 #: 40404:625
-
-msgid "{Kazushi}\n\"Oh, you can have that anytime you want. Do you wanna go for a ride this weekend?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, you can have that anytime you want. Do you wanna go for a ride this weekend?\""
 msgstr ""
 
 #: 40404:628
-
-msgid "{Natsume}\n\"Yeah.\""
+msgid ""
+"{Natsume}\n"
+"\"Yeah.\""
 msgstr ""
 
 #: 40404:629
-
 msgid "But somehow, she sounded blue. She seemed to be worrying about something, and I couldn't feel happy, even after I promised her a date."
 msgstr ""
 
 #: 40404:630
-
 msgid "What's going on? It must be this sweet aroma causing it. It really stirred up my emotions."
 msgstr ""
 
 #: 40404:633
-
 msgid "Thanks to that stench, I forgot to give her a goodnight kiss."
 msgstr ""
 
 #: 40404:639
-
 msgid "*Rustle*"
 msgstr ""
 
 #: 40404:640
-
 msgid "A dark shadow passed through the woods that night. My night vision was working well and I saw it moving fast without ever stopping."
 msgstr ""
 
 #: 40404:641
-
 msgid "The shadow wasn't big, but rather a smaller silhouette. The gray hair stood out in the darkness..."
 msgstr ""
 
 #: 40404:644
-
 msgid "It was Aozora Hisae."
 msgstr ""
 
 #: 40404:646
-
-msgid "{Principal}\n\"Hm...\""
+msgid ""
+"{Principal}\n"
+"\"Hm...\""
 msgstr ""
 
 #: 40404:647
-
 msgid "I didn't know when she came to a stop, but she did before I knew it. She checked underneath her feet and looked around her."
 msgstr ""
 
 #: 40404:648
-
 msgid "She seemed to be searching for something."
 msgstr ""
 
 #: 40404:651
-
-msgid "{Principal}\n\"......\""
+msgid ""
+"{Principal}\n"
+"\"......\""
 msgstr ""
 
 #: 40404:652
-
 msgid "Satisfied with the spot, Hisae dropped something down there. A white flower standing out in the darkness."
 msgstr ""
 
 #: 40404:654
-
 msgid "Walking around the woods, Hisae planted flowers here and there. If you looked at them from above, you'd see a circle drawn around the woods."
 msgstr ""
 
 #: 40404:655
-
 msgid "Basically, it was a circle surrounding Eiden Academy, which stood at the summit."
 msgstr ""
 
 #: 40404:657
-
 msgid "An ordinary person wouldn't be able to see it, but the places where Hisae placed her spell formed an invisible boundary. It was a line to divide that outside and that inside."
 msgstr ""
 
 #: 40404:659
-
 msgid "When the border's beginning and end overlapped, it would close as a full circle."
 msgstr ""
 
 #: 40404:664
-
-msgid "{Kazushi}\n\"Ugh, I can't...\""
+msgid ""
+"{Kazushi}\n"
+"\"Ugh, I can't...\""
 msgstr ""
 
 #: 40404:666
-
 msgid "I kicked my blanket off as I woke up. I couldn't sleep in this humid air, and I looked at the time."
 msgstr ""
 
 #: 40404:667
-
-msgid "{Kazushi}\n\"It's still three in the morning.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's still three in the morning.\""
 msgstr ""
 
 #: 40404:668
-
 msgid "It was an odd time, not yet morning, but no longer night..."
 msgstr ""
 
 #: 40404:669
-
-msgid "{Appo}\n\"ZZZZZ~~~~\""
+msgid ""
+"{Appo}\n"
+"\"ZZZZZ~~~~\""
 msgstr ""
 
 #: 40404:670
-
 msgid "Appo had been snoring away all night. I could tell he felt hot, because his blanket was also kicked off far away and his gut was uncovered."
 msgstr ""
 
 #: 40404:671
-
-msgid "{Kazushi}\n\"Why is it so hot?\""
+msgid ""
+"{Kazushi}\n"
+"\"Why is it so hot?\""
 msgstr ""
 
 #: 40404:672
-
 msgid "Why does it have to be this humid, even when it's almost autumn?"
 msgstr ""
 
 #: 40404:673
-
-msgid "{Kazushi}\n\"Oh yeah, I don't hear any bugs tonight.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh yeah, I don't hear any bugs tonight.\""
 msgstr ""
 
 #: 40404:674
-
 msgid "I remembered Natsume-chan mentioning the tunnel of bugs the other night, but tonight, it was quiet."
 msgstr ""
 
 #: 40404:675
-
 msgid "This silence could be one of the reasons why I can't sleep."
 msgstr ""
 
 #: 40404:676
-
-msgid "{Kazushi}\n\"What could it be?\""
+msgid ""
+"{Kazushi}\n"
+"\"What could it be?\""
 msgstr ""
 
 #: 40404:680
-
 msgid "I went outside since I couldn't sleep. The temperature was bearable when I felt the breeze, but without it, it was outrageously humid."
 msgstr ""
 
 #: 40404:681
-
-msgid "{Kazushi}\n\"This is reality, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"This is reality, right?\""
 msgstr ""
 
 #: 40404:682
-
 msgid "I questioned whether or not this was a dream. It kind of felt like there wasn't much reality in the air."
 msgstr ""
 
 #: 40404:683
-
-msgid "{Kazushi}\n\"This could just be my imagination.\""
+msgid ""
+"{Kazushi}\n"
+"\"This could just be my imagination.\""
 msgstr ""
 
 #: 40404:684
-
 msgid "I knew Appo was sleeping in the dorm room. If I was in that other world, Natsume-chan would be the only one there. And she's not in that world anymore, either."
 msgstr ""
 
 #: 40404:685
-
-msgid "{Kazushi}\n\"Oh, yeah, Natsume-chan.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, yeah, Natsume-chan.\""
 msgstr ""
 
 #: 40404:686
-
 msgid "I was worried about Natsume-chan. I had a bad feeling, just because I didn't give her a goodnight kiss tonight."
 msgstr ""
 
 #: 40404:687
-
-msgid "{Kazushi}\n\"I think I should go and check with the girls' dorm.\""
+msgid ""
+"{Kazushi}\n"
+"\"I think I should go and check with the girls' dorm.\""
 msgstr ""
 
 #: 40404:692
-
-msgid "{Amamiya}\n\"Oh, Haruma-kun.\""
+msgid ""
+"{Amamiya}\n"
+"\"Oh, Haruma-kun.\""
 msgstr ""
 
 #: 40404:693
-
 msgid "I saw Miya-san in front of girls' dorm."
 msgstr ""
 
 #: 40404:694
-
-msgid "{Kazushi}\n\"Oh, Miya-san.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, Miya-san.\""
 msgstr ""
 
 #: 40404:695
-
 msgid "I was surprised to see Miya-san this late."
 msgstr ""
 
 #: 40404:696
-
-msgid "{Kazushi}\n\"What are you doing up this late?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you doing up this late?\""
 msgstr ""
 
 #: 40404:699
-
-msgid "{Amamiya}\n\"That's what I wanted to ask you. Why are you here, anyway?\""
+msgid ""
+"{Amamiya}\n"
+"\"That's what I wanted to ask you. Why are you here, anyway?\""
 msgstr ""
 
 #: 40404:700
-
 msgid "*Glare...* Miya-san's gentle eyes glared at me this time."
 msgstr ""
 
 #: 40404:703
-
-msgid "{Amamiya}\n\"You're not planning to sneak into Natsume's room for anything tonight, are you?\""
+msgid ""
+"{Amamiya}\n"
+"\"You're not planning to sneak into Natsume's room for anything tonight, are you?\""
 msgstr ""
 
 #: 40404:704
-
 msgid "This was Amamiya Side B. He glared at me, filled with paternal love that freaked me out."
 msgstr ""
 
 #: 40404:705
-
-msgid "{Kazushi}\n\"Oh no, I'd never dream of it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh no, I'd never dream of it.\""
 msgstr ""
 
 #: 40404:706
-
 msgid "I shook my head as hard as I could in denial."
 msgstr ""
 
 #: 40404:707
-
-msgid "{Kazushi}\n\"But, it is true I came to see Natsume-chan. I'm worried about her.\""
+msgid ""
+"{Kazushi}\n"
+"\"But, it is true I came to see Natsume-chan. I'm worried about her.\""
 msgstr ""
 
 #: 40404:710
-
-msgid "{Amamiya}\n\"You too?\""
+msgid ""
+"{Amamiya}\n"
+"\"You too?\""
 msgstr ""
 
 #: 40404:711
-
-msgid "{Kazushi}\n\"Then I guess the same goes for you, Miya-san?\""
+msgid ""
+"{Kazushi}\n"
+"\"Then I guess the same goes for you, Miya-san?\""
 msgstr ""
 
 #: 40404:714
-
-msgid "{Amamiya}\n\"I just have this bad feeling.\""
+msgid ""
+"{Amamiya}\n"
+"\"I just have this bad feeling.\""
 msgstr ""
 
 #: 40404:715
-
 msgid "He stroked his chest, as if he could rid himself of his frustration by doing that."
 msgstr ""
 
 #: 40404:718
-
-msgid "{Amamiya}\n\"I thought I was too nervous about it, but if you feel the same way I do, then it may not just be my imagination.\""
+msgid ""
+"{Amamiya}\n"
+"\"I thought I was too nervous about it, but if you feel the same way I do, then it may not just be my imagination.\""
 msgstr ""
 
 #: 40404:719
-
-msgid "{Kazushi}\n\"Do you mean something's happened to Natsume-chan?\""
+msgid ""
+"{Kazushi}\n"
+"\"Do you mean something's happened to Natsume-chan?\""
 msgstr ""
 
 #: 40404:720
-
 msgid "Miya-san looked up at girls' dorm anxiously."
 msgstr ""
 
 #: 40404:721
-
-msgid "{Amamiya}\n\"Let's go and check!\""
+msgid ""
+"{Amamiya}\n"
+"\"Let's go and check!\""
 msgstr ""
 
 #: 40404:726
-
 msgid "*Knock, knock*"
 msgstr ""
 
 #: 40404:727
-
-msgid "{Kazushi}\n\"Natsume-chan! Natsume-chan!\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan! Natsume-chan!\""
 msgstr ""
 
 #: 40404:728
-
 msgid "I called to her quietly. I didn't feel anything bad happening in this silence."
 msgstr ""
 
 #: 40404:731
-
-msgid "{Amamiya}\n\"Natsume, are you asleep?\""
+msgid ""
+"{Amamiya}\n"
+"\"Natsume, are you asleep?\""
 msgstr ""
 
 #: 40404:732
-
 msgid "We kept calling for her, but there was no answer."
 msgstr ""
 
 #: 40404:733
-
-msgid "{Kazushi}\n\"She might be asleep. Let's go inside.\""
+msgid ""
+"{Kazushi}\n"
+"\"She might be asleep. Let's go inside.\""
 msgstr ""
 
 #: 40404:736
-
-msgid "{Amamiya}\n\"Okay.\""
+msgid ""
+"{Amamiya}\n"
+"\"Okay.\""
 msgstr ""
 
 #: 40404:737
-
 msgid "Miya-san placed his hand on the doorknob. It turned easily."
 msgstr ""
 
 #: 40404:740
-
-msgid "{Kazushi}\n\"Natsume-chan.\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan.\""
 msgstr ""
 
 #: 40404:741
-
 msgid "In we went."
 msgstr ""
 
 #: 40404:744
-
-msgid "{Amamiya}\n\"Natsume? Are you here?\""
+msgid ""
+"{Amamiya}\n"
+"\"Natsume? Are you here?\""
 msgstr ""
 
 #: 40404:745
-
 msgid "Miya-san looked down at the bottom bunk."
 msgstr ""
 
 #: 40404:746
-
-msgid "{Kazushi}\n\"Natsume-chan uses the top bunk.\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan uses the top bunk.\""
 msgstr ""
 
 #: 40404:749
-
-msgid "{Amamiya}\n\"Okay... Wait, why do you know that?\""
+msgid ""
+"{Amamiya}\n"
+"\"Okay... Wait, why do you know that?\""
 msgstr ""
 
 #: 40404:750
-
 msgid "The eyes gleaming in the darkness were evil."
 msgstr ""
 
 #: 40404:751
-
-msgid "{Kazushi}\n\"Well, because she told me.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, because she told me.\""
 msgstr ""
 
 #: 40404:754
-
-msgid "{Amamiya}\n\"Oh, I see... Sorry, I guess I'm too nervous.\""
+msgid ""
+"{Amamiya}\n"
+"\"Oh, I see... Sorry, I guess I'm too nervous.\""
 msgstr ""
 
 #: 40404:755
-
-msgid "{Kazushi}\n\"It's okay. But Natsume-chan... doesn't seem to be here.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's okay. But Natsume-chan... doesn't seem to be here.\""
 msgstr ""
 
 #: 40404:756
-
 msgid "She wasn't in the top bunk, either. The room was completely empty."
 msgstr ""
 
 #: 40404:759
-
-msgid "{Amamiya}\n\"I think she used the bed tonight. That means she was asleep, but she got up and went somewhere.\""
+msgid ""
+"{Amamiya}\n"
+"\"I think she used the bed tonight. That means she was asleep, but she got up and went somewhere.\""
 msgstr ""
 
 #: 40404:760
-
-msgid "{Kazushi}\n\"Where would she go at this hour?\""
+msgid ""
+"{Kazushi}\n"
+"\"Where would she go at this hour?\""
 msgstr ""
 
 #: 40404:761
-
-msgid "{Amamiya}\n\"I don't know. She may be outside getting some fresh air.\""
+msgid ""
+"{Amamiya}\n"
+"\"I don't know. She may be outside getting some fresh air.\""
 msgstr ""
 
 #: 40404:762
-
-msgid "{Kazushi}\n\"It's really hot tonight.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's really hot tonight.\""
 msgstr ""
 
 #: 40404:763
-
 msgid "It felt hotter than before. What was going on with this heat?"
 msgstr ""
 
 #: 40404:764
-
 msgid "I glanced outside and saw something strange."
 msgstr ""
 
 #: 40404:765
-
-msgid "{Kazushi}\n\"There's smoke...\""
+msgid ""
+"{Kazushi}\n"
+"\"There's smoke...\""
 msgstr ""
 
 #: 40404:766
-
 msgid "I could see pitch black smoke trailing outside the window."
 msgstr ""
 
 #: 40404:770
-
-msgid "{Andou}\n\"Fire! Fire!\""
+msgid ""
+"{Andou}\n"
+"\"Fire! Fire!\""
 msgstr ""
 
 #: 40404:773
-
 msgid "It was Andou's voice. With her cries as its cue, it became noisy outside."
 msgstr ""
 
 #: 40404:774
-
-msgid "{Amamiya}\n\"Fire?\""
+msgid ""
+"{Amamiya}\n"
+"\"Fire?\""
 msgstr ""
 
 #: 40404:775
-
 msgid "I smelled something burning, but where was it coming from?"
 msgstr ""
 
 #: 40404:778
-
-msgid "{Amamiya}\n\"Haruma-kun, let's get outside.\""
+msgid ""
+"{Amamiya}\n"
+"\"Haruma-kun, let's get outside.\""
 msgstr ""
 
 #: 40404:779
-
-msgid "{Kazushi}\n\"Right!\""
+msgid ""
+"{Kazushi}\n"
+"\"Right!\""
 msgstr ""
 
 #: 40404:783
-
 msgid "The outside was full of black smoke. What heat! It feels like I'm in a steaming sauna."
 msgstr ""
 
 #: 40404:784
-
-msgid "{Kazushi}\n\"There was nothing happening just a moment ago...\""
+msgid ""
+"{Kazushi}\n"
+"\"There was nothing happening just a moment ago...\""
 msgstr ""
 
 #: 40404:785
-
 msgid "It meant the flames were spreading quickly. I didn't have a good view thanks to all the black smoke, but I could catch glimpses of red flames behind it."
 msgstr ""
 
 #: 40404:788
-
-msgid "{Amamiya}\n\"Over there!\""
+msgid ""
+"{Amamiya}\n"
+"\"Over there!\""
 msgstr ""
 
 #: 40404:789
-
 msgid "Miya-san dashed off, and I chased after him."
 msgstr ""
 
 #: 40404:790
-
 msgid "I looked down from the edge of the school property, and could see where the fire was coming from."
 msgstr ""
 
 #: 40404:791
-
-msgid "{Kazushi}\n\"The woods...\""
+msgid ""
+"{Kazushi}\n"
+"\"The woods...\""
 msgstr ""
 
 #: 40404:792
-
 msgid "The woods surrounding our mountain were on fire - and they weren't only burning in one section."
 msgstr ""
 
 #: 40404:793
-
 msgid "The fire was spreading through the woods in all directions."
 msgstr ""
 
 #: 40404:796
-
-msgid "{Amamiya}\n\"We're surrounded.\""
+msgid ""
+"{Amamiya}\n"
+"\"We're surrounded.\""
 msgstr ""
 
 #: 40404:797
-
-msgid "{Kazushi}\n\"Oh, no...How are we going to escape like this?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, no...How are we going to escape like this?\""
 msgstr ""
 
 #: 40404:798
-
 msgid "You have to go through the woods to leave the school, and the woods were burning, which meant we had no way out."
 msgstr ""
 
 #: 40404:799
-
 msgid "Everybody was panicking. More students left the dorm as they noticed the commotion. There were a lot of people hanging out in front of it."
 msgstr ""
 
 #: 40404:800
-
 msgid "They all freaked out when they found out the fire was surrounding us."
 msgstr ""
 
 #: 40404:803
-
-msgid "{Amamiya}\n\"This is bad. I hope they don't start to panic.\""
+msgid ""
+"{Amamiya}\n"
+"\"This is bad. I hope they don't start to panic.\""
 msgstr ""
 
 #: 40404:804
-
 msgid "I saw lots of male students coming from the boys' dorm too, and I noticed Pierre in the crowd."
 msgstr ""
 
 #: 40404:810
-
-msgid "{Pierre}\n\"Hey, Kazushi! It's terrible!!\""
+msgid ""
+"{Pierre}\n"
+"\"Hey, Kazushi! It's terrible!!\""
 msgstr ""
 
 #: 40404:811
-
-msgid "{Daigo}\n\"The woods are on fire! The flames are getting higher!\""
+msgid ""
+"{Daigo}\n"
+"\"The woods are on fire! The flames are getting higher!\""
 msgstr ""
 
 #: 40404:812
-
-msgid "{Kazushi}\n\"I know! Just try to stay calm!\""
+msgid ""
+"{Kazushi}\n"
+"\"I know! Just try to stay calm!\""
 msgstr ""
 
 #: 40404:815
-
 msgid "There was no way out, but the students ran around in a panic, trying to escape. In case you didn't know, that usually makes the situation worse."
 msgstr ""
 
 #: 40404:818
-
-msgid "{Appo}\n\"Fuu-chan! Fuu-chan, are you alright?!\""
+msgid ""
+"{Appo}\n"
+"\"Fuu-chan! Fuu-chan, are you alright?!\""
 msgstr ""
 
 #: 40404:823
-
-msgid "{Fuusen}\n\"Ah-chan! Your Kazuko is safe!\""
+msgid ""
+"{Fuusen}\n"
+"\"Ah-chan! Your Kazuko is safe!\""
 msgstr ""
 
 #: 40404:828
-
 msgid "They cuddled happily to celebrate their reunion."
 msgstr ""
 
 #: 40404:833
-
-msgid "{Sakura}\n\"I'm glad you're together and all that, but we can't escape from here, can we?\""
+msgid ""
+"{Sakura}\n"
+"\"I'm glad you're together and all that, but we can't escape from here, can we?\""
 msgstr ""
 
 #: 40404:834
-
 msgid "Sakura was usually indifferent about things, but this time, her face was pale."
 msgstr ""
 
 #: 40404:835
-
 msgid "I didn't blame her. If the flames grew higher than they were now, all of us would be wiped out."
 msgstr ""
 
 #: 40404:839
-
-msgid "{Amamiya}\n\"Is this a... giant furnace?\""
+msgid ""
+"{Amamiya}\n"
+"\"Is this a... giant furnace?\""
 msgstr ""
 
 #: 40404:840
-
 msgid "Miya-san muttered, as he looked at the burning flames."
 msgstr ""
 
 #: 40404:841
-
-msgid "{Kazushi}\n\"A giant furnace?\""
+msgid ""
+"{Kazushi}\n"
+"\"A giant furnace?\""
 msgstr ""
 
 #: 40404:842
-
-msgid "{Amamiya}\n\"I mean the situation we're in now. Don't you think it's similar?\""
+msgid ""
+"{Amamiya}\n"
+"\"I mean the situation we're in now. Don't you think it's similar?\""
 msgstr ""
 
 #: 40404:843
-
-msgid "{Kazushi}\n\"......ah.\""
+msgid ""
+"{Kazushi}\n"
+"\"......ah.\""
 msgstr ""
 
 #: 40404:844
-
 msgid "If you objectively analyzed our circumstances, you'd notice we were confined to the school property with no way out."
 msgstr ""
 
 #: 40404:845
-
 msgid "And there were flames burning beneath us."
 msgstr ""
 
 #: 40404:846
-
 msgid "It's was similar with our lab equipment - like a flask sitting over a burner."
 msgstr ""
 
 #: 40404:847
-
 msgid "The flames of the woods were the fire of our burner, the flask was Eiden Academy, and inside of it was..."
 msgstr ""
 
 #: 40404:850
-
-msgid "{Amamiya}\n\"The male principal and female principal...\""
+msgid ""
+"{Amamiya}\n"
+"\"The male principal and female principal...\""
 msgstr ""
 
 #: 40404:851
-
-msgid "{Kazushi}\n\"Boys and girls?\""
+msgid ""
+"{Kazushi}\n"
+"\"Boys and girls?\""
 msgstr ""
 
 #: 40404:852
-
 msgid "We aren't the ingredients, are we?"
 msgstr ""
 
 #: 40404:853
-
-msgid "{Kazushi}\n\"Who would do this?\""
+msgid ""
+"{Kazushi}\n"
+"\"Who would do this?\""
 msgstr ""
 
 #: 40404:856
-
-msgid "{Amamiya}\n\"Hisae-san.\""
+msgid ""
+"{Amamiya}\n"
+"\"Hisae-san.\""
 msgstr ""
 
 #: 40404:857
-
-msgid "{Kazushi}\n\"The principal?\""
+msgid ""
+"{Kazushi}\n"
+"\"The principal?\""
 msgstr ""
 
 #: 40404:858
-
-msgid "{Amamiya}\n\"I think she's trying to draw forth a great power by using a giant furnace.\""
+msgid ""
+"{Amamiya}\n"
+"\"I think she's trying to draw forth a great power by using a giant furnace.\""
 msgstr ""
 
 #: 40404:859
-
-msgid "{Kazushi}\n\"Shit!! Is she insane!?\""
+msgid ""
+"{Kazushi}\n"
+"\"Shit!! Is she insane!?\""
 msgstr ""
 
 #: 40404:860
-
 msgid "We had to stop her immediately. Where was the principal? I couldn't see either the principal or Natsume-chan."
 msgstr ""
 
 #: 40404:866
-
-msgid "{Haruka}\n\"Everybody, calm down!!\""
+msgid ""
+"{Haruka}\n"
+"\"Everybody, calm down!!\""
 msgstr ""
 
 #: 40404:867
-
-msgid "{Mei}\n\"Don't run! Stay as a group!\""
+msgid ""
+"{Mei}\n"
+"\"Don't run! Stay as a group!\""
 msgstr ""
 
 #: 40404:874
-
-msgid "{Yagami}\n\"Hey! All the boys should come over here! You get water from the pool and water tank, and put out fire!!\""
+msgid ""
+"{Yagami}\n"
+"\"Hey! All the boys should come over here! You get water from the pool and water tank, and put out fire!!\""
 msgstr ""
 
 #: 40404:875
-
-msgid "{Panchu}\n\"Don'' 'o a'in' s'ared! If you 'an' 'o 'o home ali'e, you lis'en 'o Sen'ei!\""
+msgid ""
+"{Panchu}\n"
+"\"Don'' 'o a'in' s'ared! If you 'an' 'o 'o home ali'e, you lis'en 'o Sen'ei!\""
 msgstr ""
 
 #: 40404:878
-
 msgid "Thanks to Yagami-sensei and Panchu, all the boys quickly calmed down."
 msgstr ""
 
 #: 40404:881
-
-msgid "{Mei}\n\"I'll take a roll call, so come on over here, everybody! Is anybody missing?\""
+msgid ""
+"{Mei}\n"
+"\"I'll take a roll call, so come on over here, everybody! Is anybody missing?\""
 msgstr ""
 
 #: 40404:882
-
 msgid "I could also see the girls were recovering their composure."
 msgstr ""
 
 #: 40404:887
-
-msgid "{Fuusen}\n\"Mei-chan! Natsume-chan is missing!\""
+msgid ""
+"{Fuusen}\n"
+"\"Mei-chan! Natsume-chan is missing!\""
 msgstr ""
 
 #: 40404:890
-
-msgid "{Mei}\n\"Anyone! Has anyone seen Amamiya-san?! Is there anyone who's seen Amamiya-san?!\""
+msgid ""
+"{Mei}\n"
+"\"Anyone! Has anyone seen Amamiya-san?! Is there anyone who's seen Amamiya-san?!\""
 msgstr ""
 
 #: 40404:895
-
 msgid "Mei-sensei was shouting, but nobody knew where Natsume-chan was. Miya's face turned white."
 msgstr ""
 
 #: 40404:896
-
-msgid "{Kazushi}\n\"Don't worry. Natsume-chan wouldn't get wrapped up in this that easily.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't worry. Natsume-chan wouldn't get wrapped up in this that easily.\""
 msgstr ""
 
 #: 40404:897
-
-msgid "{Amamiya}\n\"That's right. It's not very easy to hurt that girl in the first place.\""
+msgid ""
+"{Amamiya}\n"
+"\"That's right. It's not very easy to hurt that girl in the first place.\""
 msgstr ""
 
 #: 40404:898
-
 msgid "That's right. Natsume-chan's existence was special."
 msgstr ""
 
 #: 40404:899
-
 msgid "She held enough power to destroy this world if she wanted."
 msgstr ""
 
 #: 40404:907
-
-msgid "{Pierre}\n\"Hey, Kazushi! I heard Natsume-chan isn't here.\""
+msgid ""
+"{Pierre}\n"
+"\"Hey, Kazushi! I heard Natsume-chan isn't here.\""
 msgstr ""
 
 #: 40404:908
-
 msgid "The three of them were rushing over here."
 msgstr ""
 
 #: 40404:911
-
-msgid "{Appo}\n\"What are you daydreaming about? Let's go and look for her!\""
+msgid ""
+"{Appo}\n"
+"\"What are you daydreaming about? Let's go and look for her!\""
 msgstr ""
 
 #: 40404:912
-
-msgid "{Daigo}\n\"Let's split up!\""
+msgid ""
+"{Daigo}\n"
+"\"Let's split up!\""
 msgstr ""
 
 #: 40404:913
-
-msgid "{Kazushi}\n\"Thanks for your help!\""
+msgid ""
+"{Kazushi}\n"
+"\"Thanks for your help!\""
 msgstr ""
 
 #: 40404:919
-
-msgid "{Panchu}\n\"Then we'll 'li' in'o 'wo s'ua's, one 'o 'u' ou' 'he fire, an' ano'her 'o 'earch.\""
+msgid ""
+"{Panchu}\n"
+"\"Then we'll 'li' in'o 'wo s'ua's, one 'o 'u' ou' 'he fire, an' ano'her 'o 'earch.\""
 msgstr ""
 
 #: 40404:921
-
 msgid "We started moving on Panchu's command."
 msgstr ""
 
 #: 40404:927
-
-msgid "{Amamiya}\n\"Damn it! This side is blocked.\""
+msgid ""
+"{Amamiya}\n"
+"\"Damn it! This side is blocked.\""
 msgstr ""
 
 #: 40404:928
-
 msgid "The woods were raging from the flames. I felt the burning heat just from standing here."
 msgstr ""
 
 #: 40404:929
-
 msgid "And then, I saw a small figure behind the flames."
 msgstr ""
 
 #: 40404:932
-
-msgid "{Amamiya}\n\"Hisae-san...\""
+msgid ""
+"{Amamiya}\n"
+"\"Hisae-san...\""
 msgstr ""
 
 #: 40404:933
-
 msgid "It was Hisae, not Natsume. As he quietly called out to her, the small figure turned around."
 msgstr ""
 
 #: 40404:938
-
-msgid "{Principal}\n\"Oh, it's Miya-san.\""
+msgid ""
+"{Principal}\n"
+"\"Oh, it's Miya-san.\""
 msgstr ""
 
 #: 40404:939
-
 msgid "Contrary to Amamiya-san's expectation, Hisae was in her right mind."
 msgstr ""
 
 #: 40404:940
-
 msgid "Although he thought she went mad and started the fire in the woods, she was perfectly calm, which made her that much more terrifying."
 msgstr ""
 
 #: 40404:941
-
 msgid "Amamiya couldn't understand how she could come to regard the entire school as a mere furnace if she was in her right mind."
 msgstr ""
 
 #: 40404:942
-
-msgid "{Amamiya}\n\"Hisae-san, please stop this.\""
+msgid ""
+"{Amamiya}\n"
+"\"Hisae-san, please stop this.\""
 msgstr ""
 
 #: 40404:943
-
 msgid "It wasn't too late at this point. If she put out the fire and stopped the refinement, we could all be okay, but if she kept going..."
 msgstr ""
 
 #: 40404:946
-
-msgid "{Principal}\n\"Miya, your daughter is phenomenal.\""
+msgid ""
+"{Principal}\n"
+"\"Miya, your daughter is phenomenal.\""
 msgstr ""
 
 #: 40404:949
-
-msgid "{Amamiya}\n\"What?\""
+msgid ""
+"{Amamiya}\n"
+"\"What?\""
 msgstr ""
 
 #: 40404:950
-
 msgid "Amamiya got nervous when he heard the principal suddenly mentioning Natsume."
 msgstr ""
 
 #: 40404:952
-
-msgid "{Principal}\n\"Although it was incomplete, the stone she swallowed was completely absorbed into her body. And the only time its power nearly took control was immediately after she swallowed it.\""
+msgid ""
+"{Principal}\n"
+"\"Although it was incomplete, the stone she swallowed was completely absorbed into her body. And the only time its power nearly took control was immediately after she swallowed it.\""
 msgstr ""
 
 #: 40404:956
-
-msgid "{Principal}\n\"Like father, like daughter... She definitely inherited the Amamiya family's alchemist blood.\""
+msgid ""
+"{Principal}\n"
+"\"Like father, like daughter... She definitely inherited the Amamiya family's alchemist blood.\""
 msgstr ""
 
 #: 40404:957
-
 msgid "Miya felt terrified when he heard Hisae speaking in a calm manner."
 msgstr ""
 
 #: 40404:960
-
-msgid "{Amamiya}\n\"Don't tell me Natsume's...\""
+msgid ""
+"{Amamiya}\n"
+"\"Don't tell me Natsume's...\""
 msgstr ""
 
 #: 40404:961
-
 msgid "He felt his hair stand on end and his body grow hot."
 msgstr ""
 
 #: 40404:964
-
-msgid "{Principal}\n\"She's a living mystery. The power she has is under her control. But that is because that stone was still incomplete.\""
+msgid ""
+"{Principal}\n"
+"\"She's a living mystery. The power she has is under her control. But that is because that stone was still incomplete.\""
 msgstr ""
 
 #: 40404:965
-
-msgid "{Amamiya}\n\"Do you mean this is a re-refinement?\""
+msgid ""
+"{Amamiya}\n"
+"\"Do you mean this is a re-refinement?\""
 msgstr ""
 
 #: 40404:966
-
 msgid "The edges of her lips were raised, as if in a triumphant smile."
 msgstr ""
 
 #: 40404:967
-
 msgid "This burning forest was the furnace for alchemy. The school was the flask - the philosopher's egg."
 msgstr ""
 
 #: 40404:968
-
 msgid "And the thing being refined was the mysterious stone inside Natsume."
 msgstr ""
 
 #: 40404:969
-
 msgid "Was she trying to re-refine the stone whose refinement was interrupted?"
 msgstr ""
 
 #: 40404:970
-
-msgid "{Principal}\n\"We don't want to waste something that's made it this far.\""
+msgid ""
+"{Principal}\n"
+"\"We don't want to waste something that's made it this far.\""
 msgstr ""
 
 #: 40404:973
-
-msgid "{Amamiya}\n\"What's going to happen to Natsume?\""
+msgid ""
+"{Amamiya}\n"
+"\"What's going to happen to Natsume?\""
 msgstr ""
 
 #: 40404:974
-
 msgid "The balance between Natsume and the stone seemed perfect."
 msgstr ""
 
 #: 40404:975
-
 msgid "But we didn't know what would happen when they became unbalanced."
 msgstr ""
 
 #: 40404:978
-
-msgid "{Principal}\n\"We'll only know what's going to happen once we try; otherwise nothing will happen for sure.\""
+msgid ""
+"{Principal}\n"
+"\"We'll only know what's going to happen once we try; otherwise nothing will happen for sure.\""
 msgstr ""
 
 #: 40404:981
-
-msgid "{Amamiya}\n\"Nothing needs to happen.\""
+msgid ""
+"{Amamiya}\n"
+"\"Nothing needs to happen.\""
 msgstr ""
 
 #: 40404:982
-
-msgid "{Principal}\n\"I need power. Without power, I cannot make that miracle happen.\""
+msgid ""
+"{Principal}\n"
+"\"I need power. Without power, I cannot make that miracle happen.\""
 msgstr ""
 
 #: 40404:983
-
-msgid "{Amamiya}\n\"That's beyond human ability. Please open your eyes. What you're trying to do is...\""
+msgid ""
+"{Amamiya}\n"
+"\"That's beyond human ability. Please open your eyes. What you're trying to do is...\""
 msgstr ""
 
 #: 40404:986
-
-msgid "{Principal}\n\"Be quiet!\""
+msgid ""
+"{Principal}\n"
+"\"Be quiet!\""
 msgstr ""
 
 #: 40404:987
-
 msgid "Hisae uttered angrily, giving Amamiya-san a glaring look."
 msgstr ""
 
 #: 40404:988
-
-msgid "{Principal}\n\"If you say it's not within human ability, then I simply need to go beyond that.\""
+msgid ""
+"{Principal}\n"
+"\"If you say it's not within human ability, then I simply need to go beyond that.\""
 msgstr ""
 
 #: 40404:989
-
-msgid "{Amamiya}\n\"I sympathize with you. But I have something I must protect as well. So please, put out this fire.\""
+msgid ""
+"{Amamiya}\n"
+"\"I sympathize with you. But I have something I must protect as well. So please, put out this fire.\""
 msgstr ""
 
 #: 40404:992
-
-msgid "{Principal}\n\"I cannot do that.\""
+msgid ""
+"{Principal}\n"
+"\"I cannot do that.\""
 msgstr ""
 
 #: 40404:993
-
 msgid "Hisae and Amamiya looked at each other. They were staring at each other without blinking, as if their gazes sent sparks flying."
 msgstr ""
 
 #: 40404:996
-
-msgid "{Amamiya}\n\"Then I will have to stop you by force.\""
+msgid ""
+"{Amamiya}\n"
+"\"Then I will have to stop you by force.\""
 msgstr ""
 
 #: 40404:997
-
 msgid "He turned to Hisae with determination, and Hisae responded to him with a gentle smile."
 msgstr ""
 
 #: 40404:1001
-
-msgid "{Kazushi}\n\"Natsume-chan! Where are you?\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan! Where are you?\""
 msgstr ""
 
 #: 40404:1004
-
-msgid "{Appo}\n\"Natsume-chan! I'll give you some candy, so come out!\""
+msgid ""
+"{Appo}\n"
+"\"Natsume-chan! I'll give you some candy, so come out!\""
 msgstr ""
 
 #: 40404:1005
-
 msgid "We ran around calling her name, but still no answer..."
 msgstr ""
 
 #: 40404:1006
-
-msgid "{Appo}\n\"I don't think she's here?\""
+msgid ""
+"{Appo}\n"
+"\"I don't think she's here?\""
 msgstr ""
 
 #: 40404:1007
-
-msgid "{Kazushi}\n\"She wasn't in the girls' dorm, and nobody can leave the school grounds...so, the last possibility is ...\""
+msgid ""
+"{Kazushi}\n"
+"\"She wasn't in the girls' dorm, and nobody can leave the school grounds...so, the last possibility is ...\""
 msgstr ""
 
 #: 40404:1008
-
-msgid "{Appo}\n\"Pierre and Daigo are looking up by the lab.\""
+msgid ""
+"{Appo}\n"
+"\"Pierre and Daigo are looking up by the lab.\""
 msgstr ""
 
 #: 40404:1010
-
-msgid "{Kazushi}\n\"Then, where else should we look?\""
+msgid ""
+"{Kazushi}\n"
+"\"Then, where else should we look?\""
 msgstr ""
 
 #: 40404:1011
-
 msgid "I thought the fire must be near, because I could clearly hear the crackling of the flames."
 msgstr ""
 
 #: 40404:1014
-
-msgid "{Appo}\n\"Hey, don't you think it's quiet out there?\""
+msgid ""
+"{Appo}\n"
+"\"Hey, don't you think it's quiet out there?\""
 msgstr ""
 
 #: 40404:1015
-
-msgid "{Kazushi}\n\"What?\""
+msgid ""
+"{Kazushi}\n"
+"\"What?\""
 msgstr ""
 
 #: 40404:1016
-
 msgid "When he said that, I realized that I could hear the roaring flames nearby because no other sound was interrupting them."
 msgstr ""
 
 #: 40404:1017
-
 msgid "I didn't hear the commotion of people like before."
 msgstr ""
 
 #: 40404:1018
-
 msgid "It sounded like nobody was out there."
 msgstr ""
 
 #: 40404:1019
-
-msgid "{Kazushi}\n\"Did everyone evacuate somewhere?\""
+msgid ""
+"{Kazushi}\n"
+"\"Did everyone evacuate somewhere?\""
 msgstr ""
 
 #: 40404:1022
-
-msgid "{Appo}\n\"They probably did. We should get going, too.\""
+msgid ""
+"{Appo}\n"
+"\"They probably did. We should get going, too.\""
 msgstr ""
 
 #: 40404:1023
-
 msgid "Appo must've been feeling something bad, because his face looked very nervous."
 msgstr ""
 
 #: 40404:1024
-
-msgid "{Kazushi}\n\"Let's head back real quick.\""
+msgid ""
+"{Kazushi}\n"
+"\"Let's head back real quick.\""
 msgstr ""
 
 #: 40404:1028
-
 msgid "As soon as we got out, I felt the stiflingly hot air. The black smoke turned white, creating a hazy view all over."
 msgstr ""
 
 #: 40404:1031
-
-msgid "{Appo}\n\"Whoa, it's hot.\""
+msgid ""
+"{Appo}\n"
+"\"Whoa, it's hot.\""
 msgstr ""
 
 #: 40404:1032
-
 msgid "The smell of hot air and burning smoke. A different smell hung thick in the air together with those scents of burning."
 msgstr ""
 
 #: 40404:1035
-
-msgid "{Appo}\n\"Hmm... What's that smell?\""
+msgid ""
+"{Appo}\n"
+"\"Hmm... What's that smell?\""
 msgstr ""
 
 #: 40404:1036
-
 msgid "It smelled like rusting iron. That's..."
 msgstr ""
 
 #: 40404:1037
-
-msgid "{Kazushi}\n\"Do you smell blood...?\""
+msgid ""
+"{Kazushi}\n"
+"\"Do you smell blood...?\""
 msgstr ""
 
 #: 40404:1038
-
 msgid "It was the stifling smell of blood."
 msgstr ""
 
 #: 40404:1041
-
-msgid "{Appo}\n\"Smells like someone's period.\""
+msgid ""
+"{Appo}\n"
+"\"Smells like someone's period.\""
 msgstr ""
 
 #: 40404:1042
-
-msgid "{Kazushi}\n\"Why do you have to use that example?\""
+msgid ""
+"{Kazushi}\n"
+"\"Why do you have to use that example?\""
 msgstr ""
 
 #: 40404:1045
-
-msgid "{Appo}\n\"Because right now Fuu-chan's...\""
+msgid ""
+"{Appo}\n"
+"\"Because right now Fuu-chan's...\""
 msgstr ""
 
 #: 40404:1046
-
-msgid "{Kazushi}\n\"Don't say it. I don't want to hear it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't say it. I don't want to hear it.\""
 msgstr ""
 
 #: 40404:1049
-
-msgid "{Appo}\n\"C'mon... Well, I guess there's nobody here.\""
+msgid ""
+"{Appo}\n"
+"\"C'mon... Well, I guess there's nobody here.\""
 msgstr ""
 
 #: 40404:1050
-
 msgid "I looked around again. There was so much commotion people nearly panicked before, but now no one was here."
 msgstr ""
 
 #: 40404:1051
-
-msgid "{Appo}\n\"Everyone must have evacuated somewhere...\""
+msgid ""
+"{Appo}\n"
+"\"Everyone must have evacuated somewhere...\""
 msgstr ""
 
 #: 40404:1052
-
 msgid "*Slip!*."
 msgstr ""
 
 #: 40404:1056
-
-msgid "{Appo}\n\"Wah...!\""
+msgid ""
+"{Appo}\n"
+"\"Wah...!\""
 msgstr ""
 
 #: 40404:1061
-
 msgid "Appo tripped and fell down."
 msgstr ""
 
 #: 40404:1062
-
-msgid "{Kazushi}\n\"Are you okay?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you okay?\""
 msgstr ""
 
 #: 40404:1065
-
-msgid "{Appo}\n\"Ouch... I slipped on something... Hhhhhhh?!!!\""
+msgid ""
+"{Appo}\n"
+"\"Ouch... I slipped on something... Hhhhhhh?!!!\""
 msgstr ""
 
 #: 40404:1066
-
 msgid "Appo screamed as he looked down beneath his feet."
 msgstr ""
 
 #: 40404:1069
-
-msgid "{Appo}\n\"Blood... this is blood!\""
+msgid ""
+"{Appo}\n"
+"\"Blood... this is blood!\""
 msgstr ""
 
 #: 40404:1070
-
 msgid "There was a puddle of blood underneath his feet. When I looked carefully, I saw the ground completely drenched in dark red."
 msgstr ""
 
 #: 40404:1071
-
-msgid "{Kazushi}\n\"I-is this all blood?\""
+msgid ""
+"{Kazushi}\n"
+"\"I-is this all blood?\""
 msgstr ""
 
 #: 40404:1072
-
-msgid "{Appo}\n\"What's going on here? Where is everybody?\""
+msgid ""
+"{Appo}\n"
+"\"What's going on here? Where is everybody?\""
 msgstr ""
 
 #: 40404:1073
-
-msgid "{Kazushi}\n\"What the hell happened here?\""
+msgid ""
+"{Kazushi}\n"
+"\"What the hell happened here?\""
 msgstr ""
 
 #: 40404:1076
-
 msgid "Then, the wind blew. The white smoke trailed away and the view was clear."
 msgstr ""
 
 #: 40404:1077
-
-msgid "{Kazushi}\n\"Ugh?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Ugh?!\""
 msgstr ""
 
 #: 40404:1079
-
 msgid "I wondered if it was due to the flames. The night sky burned a bright red, as if the very sky itself had been stained with blood."
 msgstr ""
 
 #: 40404:1081
-
 msgid "Our world was full of red, and in the middle of that red world..."
 msgstr ""
 
 #: 40404:1083
-
 msgid "Stood a certain someone."
 msgstr ""
 
 #: 40404:1084
-
-msgid "{Kazushi}\n\"Huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh?\""
 msgstr ""
 
 #: 40404:1085
-
 msgid "Who is that?!"
 msgstr ""
 
 #: 40404:1094
-
-msgid "{Principal}\n\"Ngh?!\""
+msgid ""
+"{Principal}\n"
+"\"Ngh?!\""
 msgstr ""
 
 #: 40404:1097
-
 msgid "Amamiya threw himself against Hisae, and she crashed with her back on the ground. Then, Amamiya quickly climbed on top of her."
 msgstr ""
 
 #: 40404:1101
-
-msgid "{Amamiya}\n\"It's all over! Now put out these fires!\""
+msgid ""
+"{Amamiya}\n"
+"\"It's all over! Now put out these fires!\""
 msgstr ""
 
 #: 40404:1102
-
 msgid "Amamiya had won for certain, but Hisae just grinned."
 msgstr ""
 
 #: 40404:1106
-
-msgid "{Principal}\n\"I think it's a little too late for that.\""
+msgid ""
+"{Principal}\n"
+"\"I think it's a little too late for that.\""
 msgstr ""
 
 #: 40404:1110
-
-msgid "{Amamiya}\n\"What?!\""
+msgid ""
+"{Amamiya}\n"
+"\"What?!\""
 msgstr ""
 
 #: 40404:1111
-
 msgid "Hisae looked up at the sky as well as Miya-san, who followed her lead."
 msgstr ""
 
 #: 40404:1112
-
-msgid "{Amamiya}\n\"This is...\""
+msgid ""
+"{Amamiya}\n"
+"\"This is...\""
 msgstr ""
 
 #: 40404:1113
-
 msgid "There was a blood red sky hovering over their heads."
 msgstr ""
 
 #: 40404:1114
-
-msgid "{Principal}\n\"Rubedo.\""
+msgid ""
+"{Principal}\n"
+"\"Rubedo.\""
 msgstr ""
 
 #: 40404:1115
-
 msgid "Rubedo - the name of the final stage in alchemy. It proved how far Hisae's refining had come."
 msgstr ""
 
 #: 40404:1116
-
 msgid "It meant the stone inside Natsume was coming close to completion."
 msgstr ""
 
 #: 40404:1119
-
-msgid "{Amamiya}\n\"Natsume!\""
+msgid ""
+"{Amamiya}\n"
+"\"Natsume!\""
 msgstr ""
 
 #: 40404:1120
-
 msgid "When he called his daughter's name..."
 msgstr ""
 
 #: 40404:1127
-
-msgid "{Amamiya}\n\"Ow...!\""
+msgid ""
+"{Amamiya}\n"
+"\"Ow...!\""
 msgstr ""
 
 #: 40404:1131
-
 msgid "Hisae stabbed Amamiya's heart with a dagger."
 msgstr ""
 
 #: 40404:1132
-
-msgid "{Amamiya}\n\"Hisae...san.\""
+msgid ""
+"{Amamiya}\n"
+"\"Hisae...san.\""
 msgstr ""
 
 #: 40404:1136
-
 msgid "Amamiya-san collapsed, spewing up blood through his mouth. Then Hisae crawled over Amamiya's body on the ground."
 msgstr ""
 
 #: 40404:1139
-
 msgid "She stood up and started walking, her gleaming eyes looking straight up into the air."
 msgstr ""
 
 #: 40404:1146
-
 msgid "I didn't realize who it was at first. No, I knew immediately. There was no way I'd mistake that figure."
 msgstr ""
 
 #: 40404:1148
-
 msgid "My rational nature refused to accept it. I knew for certain that it was Natsume-chan."
 msgstr ""
 
 #: 40404:1149
-
-msgid "{Appo}\n\"W-what's that? A Japanese sword?\""
+msgid ""
+"{Appo}\n"
+"\"W-what's that? A Japanese sword?\""
 msgstr ""
 
 #: 40404:1150
-
 msgid "Natsume-chan was holding a Japanese sword that was as long as her body. The blade and her body were both stained in fresh blood."
 msgstr ""
 
 #: 40404:1151
-
 msgid "I didn't want to think about whose blood it was."
 msgstr ""
 
 #: 40404:1152
-
-msgid "{Kazushi}\n\"Natsume-chan...\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan...\""
 msgstr ""
 
 #: 40404:1153
-
-msgid "{Natsume}\n\"......\""
+msgid ""
+"{Natsume}\n"
+"\"......\""
 msgstr ""
 
 #: 40404:1154
-
 msgid "Her eyes were hidden by her hair as she looked at me."
 msgstr ""
 
 #: 40404:1155
-
-msgid "{Appo}\n\"Hhh... hhhh?!\""
+msgid ""
+"{Appo}\n"
+"\"Hhh... hhhh?!\""
 msgstr ""
 
 #: 40404:1156
-
 msgid "Appo crawled back on all fours."
 msgstr ""
 
 #: 40404:1157
-
-msgid "{Kazushi}\n\"Hey, Appo!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, Appo!\""
 msgstr ""
 
 #: 40404:1158
-
-msgid "{Natsume}\n\"...!!!\""
+msgid ""
+"{Natsume}\n"
+"\"...!!!\""
 msgstr ""
 
 #: 40404:1159
-
 msgid "Natsume-chan flew towards Appo like the wind, her bloody red sword shining in the blazing fire."
 msgstr ""
 
 #: 40404:1161
-
-msgid "{Kazushi}\n\"Natsume...!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume...!!\""
 msgstr ""
 
 #: 40404:1166
-
 msgid "SWISH!!!"
 msgstr ""
 
 #: 40404:1167
-
-msgid "{Kazushi}\n\"!!?\""
+msgid ""
+"{Kazushi}\n"
+"\"!!?\""
 msgstr ""
 
 #: 40404:1168
-
 msgid "The sword brutally swung down, and cleanly severed Appo's head."
 msgstr ""
 
 #: 40404:1169
-
 msgid "His head flew through the air, struck the blood stained ground, and rolled several meters away."
 msgstr ""
 
 #: 40404:1172
-
-msgid "{Kazushi}\n\"A-Appo...\""
+msgid ""
+"{Kazushi}\n"
+"\"A-Appo...\""
 msgstr ""
 
 #: 40404:1173
-
-msgid "I couldn't find the words to describe this sheer terror. At the same time, I felt numb and couldn't move my body.\nWhat the hell's going on here?"
+msgid ""
+"I couldn't find the words to describe this sheer terror. At the same time, I felt numb and couldn't move my body.\n"
+"What the hell's going on here?"
 msgstr ""
 
 #: 40404:1176
-
-msgid "{Natsume}\n\".........\""
+msgid ""
+"{Natsume}\n"
+"\".........\""
 msgstr ""
 
 #: 40404:1177
-
 msgid "I found Natsume-chan standing in front of me as I was petrified."
 msgstr ""
 
 #: 40404:1178
-
-msgid "{Kazushi}\n\"Natsume-chan...\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan...\""
 msgstr ""
 
 #: 40404:1179
-
 msgid "That was all I could say. I wondered if she was defeated by the power of the stone in her body."
 msgstr ""
 
 #: 40404:1182
-
-msgid "{Natsume}\n\"......\""
+msgid ""
+"{Natsume}\n"
+"\"......\""
 msgstr ""
 
 #: 40404:1183
-
 msgid "Natsume-chan silently turned her sword in my direction, pointing the tip at my heart."
 msgstr ""
 
 #: 40404:1184
-
-msgid "{Kazushi}\n\"Natsume-chan...\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan...\""
 msgstr ""
 
 #: 40404:1187
-
-msgid "{Natsume}\n\"Ngh!!\""
+msgid ""
+"{Natsume}\n"
+"\"Ngh!!\""
 msgstr ""
 
 #: 40404:1188
-
 msgid "Natsume-chan looked down. She looks like she was grimacing in agony."
 msgstr ""
 
 #: 40404:1189
-
-msgid "{Kazushi}\n\"Natsume......\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume......\""
 msgstr ""
 
 #: 40404:1192
-
-msgid "{Natsume}\n\"Nggh!!\""
+msgid ""
+"{Natsume}\n"
+"\"Nggh!!\""
 msgstr ""
 
 #: 40404:1193
-
 msgid "I steadied myself at the moment when Natsume-chan closed her eyes."
 msgstr ""
 
 #: 40404:1194
-
 msgid "Natsume-chan used her body to point her sword at me."
 msgstr ""
 
 #: 40404:1196
-
 msgid "I closed my eyes as well. I didn't try to ward it off; I spread my arms out to take in her attack."
 msgstr ""
 
 #: 40404:1198
-
 msgid "*Shooom!*"
 msgstr ""
 
 #: 40404:1199
-
 msgid "I felt something run through me. Then, something soft and small fell against my chest."
 msgstr ""
 
 #: 40404:1200
-
-msgid "{Natsume}\n\"Huh...?\""
+msgid ""
+"{Natsume}\n"
+"\"Huh...?\""
 msgstr ""
 
 #: 40404:1201
-
 msgid "I held something lovely and warm in my arms."
 msgstr ""
 
 #: 40404:1205
-
 msgid "When I opened my eyes, I saw Natsume-chan."
 msgstr ""
 
 #: 40404:1206
-
 msgid "Her eyes popped open, and she looked up at my face in surprise."
 msgstr ""
 
 #: 40404:1207
-
-msgid "{Natsume}\n\"Why?\""
+msgid ""
+"{Natsume}\n"
+"\"Why?\""
 msgstr ""
 
 #: 40404:1208
-
 msgid "I wondered if she wanted to know why I didn't fend off her sword, or..."
 msgstr ""
 
 #: 40404:1209
-
-msgid "{Kazushi}\n\"I thought so.\""
+msgid ""
+"{Kazushi}\n"
+"\"I thought so.\""
 msgstr ""
 
 #: 40404:1210
-
-msgid "{Natsume}\n\"Huh...?\""
+msgid ""
+"{Natsume}\n"
+"\"Huh...?\""
 msgstr ""
 
 #: 40404:1211
-
 msgid "Her eyes opened wider in surprise. The sword was impaled up to the hilt in my chest, but I wasn't feeling any pain."
 msgstr ""
 
 #: 40404:1212
-
 msgid "It just felt...weird."
 msgstr ""
 
 #: 40404:1213
-
-msgid "{Kazushi}\n\"If you don't think it hurts, it doesn't.\""
+msgid ""
+"{Kazushi}\n"
+"\"If you don't think it hurts, it doesn't.\""
 msgstr ""
 
 #: 40404:1214
-
-msgid "{Natsume}\n\"W-why?\""
+msgid ""
+"{Natsume}\n"
+"\"W-why?\""
 msgstr ""
 
 #: 40404:1215
-
-msgid "{Kazushi}\n\"Because I trust you, Natsume-chan. And because I figured it out.\""
+msgid ""
+"{Kazushi}\n"
+"\"Because I trust you, Natsume-chan. And because I figured it out.\""
 msgstr ""
 
 #: 40404:1218
-
-msgid "{Natsume}\n\"What are you talking about?\""
+msgid ""
+"{Natsume}\n"
+"\"What are you talking about?\""
 msgstr ""
 
 #: 40404:1219
-
-msgid "{Kazushi}\n\"Someone trying to kill me wouldn't make such a painful face. That's how I figured out that you didn't want to do such an evil thing to me.\""
+msgid ""
+"{Kazushi}\n"
+"\"Someone trying to kill me wouldn't make such a painful face. That's how I figured out that you didn't want to do such an evil thing to me.\""
 msgstr ""
 
 #: 40404:1222
-
-msgid "{Natsume}\n\"But...it's too hard to kill you, even in my dreams, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"But...it's too hard to kill you, even in my dreams, Haruma.\""
 msgstr ""
 
 #: 40404:1223
-
 msgid "That's right. This was only a dream. I'd been feeling like something was off. We were back in that dream world."
 msgstr ""
 
 #: 40404:1224
-
 msgid "That's why I didn't feel pain, even when I got stabbed. But, I couldn't understand one thing: why was everybody else here?"
 msgstr ""
 
 #: 40404:1225
-
-msgid "{Kazushi}\n\"What's going on here?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's going on here?\""
 msgstr ""
 
 #: 40404:1226
-
 msgid "Natsume-chan backed away from me. I saw her removing the sword from my body. It didn't hurt, but it felt sickening."
 msgstr ""
 
 #: 40404:1229
-
-msgid "{Natsume}\n\"Right now we're in a big philosopher's egg - a flask.\""
+msgid ""
+"{Natsume}\n"
+"\"Right now we're in a big philosopher's egg - a flask.\""
 msgstr ""
 
 #: 40404:1230
-
-msgid "{Kazushi}\n\"Oh, so I thought right then.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, so I thought right then.\""
 msgstr ""
 
 #: 40404:1231
-
 msgid "Miya-san's hypothesis was right. This was a been a gigantic refining experiment."
 msgstr ""
 
 #: 40404:1232
-
-msgid "{Natsume}\n\"The entirety of the school's grounds are overlapping with that world. We're in the middle of a large-scale cross-breeding of worlds.\""
+msgid ""
+"{Natsume}\n"
+"\"The entirety of the school's grounds are overlapping with that world. We're in the middle of a large-scale cross-breeding of worlds.\""
 msgstr ""
 
 #: 40404:1233
-
 msgid "In other words, the cross-breeding of worlds that usually happened only in small flasks was suddenly occurring all over the campus?"
 msgstr ""
 
 #: 40404:1234
-
-msgid "{Kazushi}\n\"Then... this place is in that world?\""
+msgid ""
+"{Kazushi}\n"
+"\"Then... this place is in that world?\""
 msgstr ""
 
 #: 40404:1237
-
-msgid "{Natsume}\n\"Half is. The other half is in our original world. It is in both and at the same time, in neither.\""
+msgid ""
+"{Natsume}\n"
+"\"Half is. The other half is in our original world. It is in both and at the same time, in neither.\""
 msgstr ""
 
 #: 40404:1238
-
-msgid "{Kazushi}\n\"Where'd everybody go?\""
+msgid ""
+"{Kazushi}\n"
+"\"Where'd everybody go?\""
 msgstr ""
 
 #: 40404:1239
-
 msgid "When I looked around, I saw that Appo's head had disappeared, meaning he shouldn't have actually died."
 msgstr ""
 
 #: 40404:1242
-
-msgid "{Natsume}\n\"I forcefully sent him back to the other world. Nobody dies in this world because death does not exist here. With death comes a new awakening.\""
+msgid ""
+"{Natsume}\n"
+"\"I forcefully sent him back to the other world. Nobody dies in this world because death does not exist here. With death comes a new awakening.\""
 msgstr ""
 
 #: 40404:1243
-
-msgid "{Kazushi}\n\"I see.\""
+msgid ""
+"{Kazushi}\n"
+"\"I see.\""
 msgstr ""
 
 #: 40404:1244
-
 msgid "Awakening... If we woke up, we'd all go back to the world we used to belong to. I guess that meant everybody was safe. That thought made me relieved."
 msgstr ""
 
 #: 40404:1245
-
-msgid "{Kazushi}\n\"You saved us, Natsume-chan.\""
+msgid ""
+"{Kazushi}\n"
+"\"You saved us, Natsume-chan.\""
 msgstr ""
 
 #: 40404:1248
-
-msgid "{Natsume}\n\"I just did it for myself. Otherwise, I wouldn't have a home to go back to.\""
+msgid ""
+"{Natsume}\n"
+"\"I just did it for myself. Otherwise, I wouldn't have a home to go back to.\""
 msgstr ""
 
 #: 40404:1249
-
-msgid "{Kazushi}\n\"I see.\""
+msgid ""
+"{Kazushi}\n"
+"\"I see.\""
 msgstr ""
 
 #: 40404:1250
-
 msgid "I felt happy when I heard Natsume-chan calling the place where we spent time together home."
 msgstr ""
 
 #: 40404:1251
-
-msgid "{Kazushi}\n\"But, that was dangerous way to handle things. I wish you could've done it a little more gently.\""
+msgid ""
+"{Kazushi}\n"
+"\"But, that was dangerous way to handle things. I wish you could've done it a little more gently.\""
 msgstr ""
 
 #: 40404:1252
-
 msgid "Well, that was perfectly in tune for Natsume-chan."
 msgstr ""
 
 #: 40404:1255
-
-msgid "{Natsume}\n\"They needed a shock such as the thought that they were dead. Without a strong shock like that, they couldn't wake up from inside the dream.\""
+msgid ""
+"{Natsume}\n"
+"\"They needed a shock such as the thought that they were dead. Without a strong shock like that, they couldn't wake up from inside the dream.\""
 msgstr ""
 
 #: 40404:1256
-
 msgid "If you want to wake someone who was asleep, you just need to wiggle their body, but only a person who's not sleeping can do that."
 msgstr ""
 
 #: 40404:1257
-
 msgid "To wake up from within a dream, you need a shock like the one Natsume-chan gave them."
 msgstr ""
 
 #: 40404:1260
-
-msgid "{Natsume}\n\"So you need to die too, Haruma. Hurry up and die.\""
+msgid ""
+"{Natsume}\n"
+"\"So you need to die too, Haruma. Hurry up and die.\""
 msgstr ""
 
 #: 40404:1261
-
 msgid "She raised the sword."
 msgstr ""
 
 #: 40404:1262
-
-msgid "{Kazushi}\n\"Hey, hold on, hold on! What about you, Natsume-chan?!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, hold on, hold on! What about you, Natsume-chan?!\""
 msgstr ""
 
 #: 40404:1263
-
 msgid "After sending us away, what would you do here all by yourself?"
 msgstr ""
 
 #: 40404:1264
-
-msgid "{Natsume}\n\"I wouldn't worry about that if I were you. Hurry up and die.\""
+msgid ""
+"{Natsume}\n"
+"\"I wouldn't worry about that if I were you. Hurry up and die.\""
 msgstr ""
 
 #: 40404:1265
-
 msgid "*Woosh, swish, slash*"
 msgstr ""
 
 #: 40404:1266
-
-msgid "{Kazushi}\n\"Wah! Hey, hey, hey! This won't help!\""
+msgid ""
+"{Kazushi}\n"
+"\"Wah! Hey, hey, hey! This won't help!\""
 msgstr ""
 
 #: 40404:1267
-
 msgid "As you said, death doesn't exist in this world."
 msgstr ""
 
 #: 40404:1268
-
 msgid "So what killed everyone wasn't the wound from the sword, but the perception that \"one dies when stabbed\"."
 msgstr ""
 
 #: 40404:1269
-
 msgid "Once you realized that common sense didn't apply, and death didn't exist here, then you can't die."
 msgstr ""
 
 #: 40404:1270
-
-msgid "{Natsume}\n\"Die. Die. Die.\""
+msgid ""
+"{Natsume}\n"
+"\"Die. Die. Die.\""
 msgstr ""
 
 #: 40404:1271
-
 msgid "*Woosh, swish, slash*"
 msgstr ""
 
 #: 40404:1272
-
-msgid "{Kazushi}\n\"No, I won't die, and it won't hurt either. But it's not very pleasant, so could you please stop?\""
+msgid ""
+"{Kazushi}\n"
+"\"No, I won't die, and it won't hurt either. But it's not very pleasant, so could you please stop?\""
 msgstr ""
 
 #: 40404:1275
-
-msgid "{Natsume}\n\"Grrr...\""
+msgid ""
+"{Natsume}\n"
+"\"Grrr...\""
 msgstr ""
 
 #: 40404:1276
-
 msgid "Natsume-chan was bewildered."
 msgstr ""
 
 #: 40404:1279
-
-msgid "{Natsume}\n\"What am I gonna do? Now you can't get back, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"What am I gonna do? Now you can't get back, Haruma.\""
 msgstr ""
 
 #: 40404:1280
-
-msgid "{Kazushi}\n\"How can I go back and leave you here all alone? I'll only go back when you come with me.\""
+msgid ""
+"{Kazushi}\n"
+"\"How can I go back and leave you here all alone? I'll only go back when you come with me.\""
 msgstr ""
 
 #: 40404:1283
-
-msgid "{Natsume}\n\"We don't have much time to think about that.\""
+msgid ""
+"{Natsume}\n"
+"\"We don't have much time to think about that.\""
 msgstr ""
 
 #: 40404:1284
-
 msgid "Just then, I felt somebody behind me."
 msgstr ""
 
 #: 40404:1285
-
-msgid "{Principal}\n\"Look at this...\""
+msgid ""
+"{Principal}\n"
+"\"Look at this...\""
 msgstr ""
 
 #: 40404:1288
-
 msgid "The voice caused us to turn around by reflex, and there was the person who caused this whole affair: the principal."
 msgstr ""
 
 #: 40404:1292
-
-msgid "{Kazushi}\n\"Principal!\""
+msgid ""
+"{Kazushi}\n"
+"\"Principal!\""
 msgstr ""
 
 #: 40404:1293
-
 msgid "The principal was wobbling over to us, staring straight at Natsume-chan."
 msgstr ""
 
 #: 40404:1294
-
-msgid "{Principal}\n\"How did you manage to remain sane? Why isn't the stone inside you maturing?\""
+msgid ""
+"{Principal}\n"
+"\"How did you manage to remain sane? Why isn't the stone inside you maturing?\""
 msgstr ""
 
 #: 40404:1299
-
-msgid "{Natsume}\n\"So that's what you were refining. Too bad. This stone is no longer what you made, Hisae.\""
+msgid ""
+"{Natsume}\n"
+"\"So that's what you were refining. Too bad. This stone is no longer what you made, Hisae.\""
 msgstr ""
 
 #: 40404:1300
-
-msgid "{Principal}\n\"What did you say?\""
+msgid ""
+"{Principal}\n"
+"\"What did you say?\""
 msgstr ""
 
 #: 40404:1303
-
-msgid "{Natsume}\n\"I have Haruma's blood inside me now. It's been tempered by me and Haruma. Haruma has also damaged it for me.\""
+msgid ""
+"{Natsume}\n"
+"\"I have Haruma's blood inside me now. It's been tempered by me and Haruma. Haruma has also damaged it for me.\""
 msgstr ""
 
 #: 40404:1304
-
 msgid "I felt happy when Natsume-chan smiled at me. I guess I helped her out, even if only a little."
 msgstr ""
 
 #: 40404:1305
-
-msgid "{Principal}\n\"You're lying.\""
+msgid ""
+"{Principal}\n"
+"\"You're lying.\""
 msgstr ""
 
 #: 40404:1306
-
 msgid "The principal was glaring at Natsume-chan and I, casting the enormous feeling of hatred that she felt in our direction."
 msgstr ""
 
 #: 40404:1310
-
-msgid "{Natsume}\n\"Do you hate me? I've always hated you.\""
+msgid ""
+"{Natsume}\n"
+"\"Do you hate me? I've always hated you.\""
 msgstr ""
 
 #: 40404:1311
-
-msgid "{Natsume}\n\"I haven't liked you since the time you first visited us to see Papa when I was little. I knew you'd take Papa away from me someday.\""
+msgid ""
+"{Natsume}\n"
+"\"I haven't liked you since the time you first visited us to see Papa when I was little. I knew you'd take Papa away from me someday.\""
 msgstr ""
 
 #: 40404:1312
-
 msgid "It could have been women's intuition. After all, everything that happened was exactly as Natsume-chan had feared."
 msgstr ""
 
 #: 40404:1313
-
 msgid "Because Miya-san had to come to this island, leaving Natsume-chan alone at home."
 msgstr ""
 
 #: 40404:1316
-
-msgid "{Natsume}\n\"But the situation has changed. I feel sorry for you, Hisae.\""
+msgid ""
+"{Natsume}\n"
+"\"But the situation has changed. I feel sorry for you, Hisae.\""
 msgstr ""
 
 #: 40404:1321
-
-msgid "{Principal}\n\"What did you say?\""
+msgid ""
+"{Principal}\n"
+"\"What did you say?\""
 msgstr ""
 
 #: 40404:1322
-
 msgid "The principal became angry with what she'd said. It must have been a massive humiliation for her."
 msgstr ""
 
 #: 40404:1325
-
-msgid "{Natsume}\n\"You always blame yourself for things that can't be helped. That's why I feel sorry for you.\""
+msgid ""
+"{Natsume}\n"
+"\"You always blame yourself for things that can't be helped. That's why I feel sorry for you.\""
 msgstr ""
 
 #: 40404:1326
-
-msgid "{Principal}\n\"How... How dare you...\""
+msgid ""
+"{Principal}\n"
+"\"How... How dare you...\""
 msgstr ""
 
 #: 40404:1327
-
 msgid "The principal looked furious. I really didn't get what Natsume-chan meant, but I saw the principal becoming agitated by it."
 msgstr ""
 
 #: 40404:1330
-
-msgid "{Natsume}\n\"You poor thing. I realized that once I met Haruma. That's why I'm sending you back too, Hisae.\""
+msgid ""
+"{Natsume}\n"
+"\"You poor thing. I realized that once I met Haruma. That's why I'm sending you back too, Hisae.\""
 msgstr ""
 
 #: 40404:1331
-
 msgid "Natsume-chan raised her sword."
 msgstr ""
 
 #: 40404:1335
-
-msgid "{Principal}\n\"Ah...?\""
+msgid ""
+"{Principal}\n"
+"\"Ah...?\""
 msgstr ""
 
 #: 40404:1336
-
 msgid "The principal mumbled pitifully in front of Natsume-chan's bare sword. Without trying to defend herself, the principal closed her eyes, offering up her body."
 msgstr ""
 
 #: 40404:1337
-
-msgid "{Natsume}\n\"See you later...\""
+msgid ""
+"{Natsume}\n"
+"\"See you later...\""
 msgstr ""
 
 #: 40404:1343
-
 msgid "Natsume-chan cut down the principal with her sword. She fell, vanishing away as if she was melting into the earth."
 msgstr ""
 
 #: 40404:1346
-
-msgid "{Natsume}\n\"You're the last one to go, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"You're the last one to go, Haruma.\""
 msgstr ""
 
 #: 40404:1347
-
-msgid "{Kazushi}\n\"No, you need to come, too. I won't go home without you.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, you need to come, too. I won't go home without you.\""
 msgstr ""
 
 #: 40404:1350
-
-msgid "{Natsume}\n\"But you don't know when...\""
+msgid ""
+"{Natsume}\n"
+"\"But you don't know when...\""
 msgstr ""
 
 #: 40404:1354
-
 msgid "Just then, the world began to brighten up. The sky was changing rapidly from a blood red to fresh, pale blue."
 msgstr ""
 
 #: 40404:1355
-
 msgid "The sky became clear in the blink of an eye."
 msgstr ""
 
 #: 40404:1358
-
-msgid "{Natsume}\n\"Oh...\""
+msgid ""
+"{Natsume}\n"
+"\"Oh...\""
 msgstr ""
 
 #: 40404:1362
-
-msgid "{Kazushi}\n\"This is...\""
+msgid ""
+"{Kazushi}\n"
+"\"This is...\""
 msgstr ""
 
 #: 40404:1363
-
 msgid "White flowers where blooming everywhere. It was quiet. The sounds of the flames were gone."
 msgstr ""
 
 #: 40404:1366
-
-msgid "{Natsume}\n\"It's too late. It's been completely replaced.\""
+msgid ""
+"{Natsume}\n"
+"\"It's too late. It's been completely replaced.\""
 msgstr ""
 
 #: 40404:1367
-
-msgid "{Kazushi}\n\"Replaced...? Then we're in that world now?\""
+msgid ""
+"{Kazushi}\n"
+"\"Replaced...? Then we're in that world now?\""
 msgstr ""
 
 #: 40404:1368
-
 msgid "The place where Natsume-chan and I met for the first time. Where there was no concept of time. And we were completely sealed in."
 msgstr ""
 
 #: 40404:1375
-
-msgid "{Amamiya}\n\"Hm... Huh?!\""
+msgid ""
+"{Amamiya}\n"
+"\"Hm... Huh?!\""
 msgstr ""
 
 #: 40404:1376
-
 msgid "Amamiya sprung to his feet and checked his body. But there were no cuts from where Hisae had stabbed him."
 msgstr ""
 
 #: 40404:1377
-
-msgid "{Amamiya}\n\"A dream...?\""
+msgid ""
+"{Amamiya}\n"
+"\"A dream...?\""
 msgstr ""
 
 #: 40404:1378
-
 msgid "It was natural to think it was a dream. But something wasn't right. There was no reason for him to be sleeping there."
 msgstr ""
 
 #: 40404:1379
-
-msgid "{Principal}\n\"Mmm...\""
+msgid ""
+"{Principal}\n"
+"\"Mmm...\""
 msgstr ""
 
 #: 40404:1380
-
 msgid "He noticed Hisae laying there beside him."
 msgstr ""
 
 #: 40404:1383
-
-msgid "{Amamiya}\n\"Hisae-san?\""
+msgid ""
+"{Amamiya}\n"
+"\"Hisae-san?\""
 msgstr ""
 
 #: 40404:1384
-
 msgid "He called out to her, prompting Hisae to open her eyes."
 msgstr ""
 
 #: 40404:1389
-
-msgid "{Principal}\n\"Where am I?\""
+msgid ""
+"{Principal}\n"
+"\"Where am I?\""
 msgstr ""
 
 #: 40404:1390
-
 msgid "She looked around as if she'd just woken up from a dream. She took a deep sigh as she started understanding the situation around her."
 msgstr ""
 
 #: 40404:1391
-
-msgid "{Principal}\n\"It would appear I was saved.\""
+msgid ""
+"{Principal}\n"
+"\"It would appear I was saved.\""
 msgstr ""
 
 #: 40404:1392
-
 msgid "Then she realized that Natsume's true motive was to save her."
 msgstr ""
 
 #: 40404:1393
-
 msgid "\"I was hoping I could get closer to him.\""
 msgstr ""
 
 #: 40404:1396
-
-msgid "{Amamiya}\n\"Where's Natsume? Where are those two?\""
+msgid ""
+"{Amamiya}\n"
+"\"Where's Natsume? Where are those two?\""
 msgstr ""
 
 #: 40404:1397
-
 msgid "Amamiya was looking for his daughter, but she was nowhere to be found."
 msgstr ""
 
 #: 40404:1398
-
-msgid "{Principal}\n\"Those two are probably still in there. They must be trapped there by now.\""
+msgid ""
+"{Principal}\n"
+"\"Those two are probably still in there. They must be trapped there by now.\""
 msgstr ""
 
 #: 40404:1401
-
-msgid "{Amamiya}\n\"No way!!\""
+msgid ""
+"{Amamiya}\n"
+"\"No way!!\""
 msgstr ""
 
 #: 40404:1402
-
 msgid "Amamiya fell into despair. \"Once again, I failed to save her.\""
 msgstr ""
 
 #: 40404:1406
-
-msgid "{Amamiya}\n\"No, not yet.\""
+msgid ""
+"{Amamiya}\n"
+"\"No, not yet.\""
 msgstr ""
 
 #: 40404:1407
-
 msgid "If I give up hope on her now, things will end the same as before. I promised Kazushi that I would be a good father for Natsume."
 msgstr ""
 
 #: 40404:1408
-
 msgid "I know there has to be something I can do to save her."
 msgstr ""
 
 #: 40404:1413
-
 msgid "We were just standing there. It was the ideal world for an alchemist. With it closed off, it became perfect."
 msgstr ""
 
 #: 40404:1416
-
-msgid "{Natsume}\n\"Uugh...\""
+msgid ""
+"{Natsume}\n"
+"\"Uugh...\""
 msgstr ""
 
 #: 40404:1417
-
 msgid "Natsume-chan gave a grunt, and dropped her rear end on the grass. She just sat still in a feminine way."
 msgstr ""
 
 #: 40404:1418
-
-msgid "{Kazushi}\n\"What happened? Are you hurt somewhere?\""
+msgid ""
+"{Kazushi}\n"
+"\"What happened? Are you hurt somewhere?\""
 msgstr ""
 
 #: 40404:1421
-
-msgid "{Natsume}\n\"I'm sorry, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"I'm sorry, Haruma.\""
 msgstr ""
 
 #: 40404:1422
-
 msgid "I was puzzled when she suddenly apologized to me, since she'd never done that before."
 msgstr ""
 
 #: 40404:1423
-
-msgid "{Kazushi}\n\"What's wrong? Why are you apologizing to me?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's wrong? Why are you apologizing to me?\""
 msgstr ""
 
 #: 40404:1424
-
-msgid "{Natsume}\n\"I can't send you back there anymore. We've been completely taken in.\""
+msgid ""
+"{Natsume}\n"
+"\"I can't send you back there anymore. We've been completely taken in.\""
 msgstr ""
 
 #: 40404:1425
-
 msgid "That's what she'd been thinking about."
 msgstr ""
 
 #: 40404:1426
-
-msgid "{Kazushi}\n\"Are you worried about something small like that? It isn't your fault, is it?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you worried about something small like that? It isn't your fault, is it?\""
 msgstr ""
 
 #: 40404:1429
-
-msgid "{Natsume}\n\"Yes, it is my fault.\""
+msgid ""
+"{Natsume}\n"
+"\"Yes, it is my fault.\""
 msgstr ""
 
 #: 40404:1430
-
 msgid "Natsume-chan drooped her head in sadness. I don't think I'd ever seen Natsume-chan feeling down like this before."
 msgstr ""
 
 #: 40404:1431
-
-msgid "{Natsume}\n\"I could've sent you away like I did to Hisae, but I couldn't do that to you.\""
+msgid ""
+"{Natsume}\n"
+"\"I could've sent you away like I did to Hisae, but I couldn't do that to you.\""
 msgstr ""
 
 #: 40404:1432
-
-msgid "{Natsume}\n\"That's why you got caught up in this too.\""
+msgid ""
+"{Natsume}\n"
+"\"That's why you got caught up in this too.\""
 msgstr ""
 
 #: 40404:1433
-
 msgid "Natsume-chan frowned as if trying to endure something. Her lips were trembling harder and harder."
 msgstr ""
 
 #: 40404:1435
-
-msgid "{Natsume}\n\"Whahh... eegh...\""
+msgid ""
+"{Natsume}\n"
+"\"Whahh... eegh...\""
 msgstr ""
 
 #: 40404:1436
-
 msgid "She couldn't bear it any longer, and started letting out sobs."
 msgstr ""
 
 #: 40404:1437
-
-msgid "{Natsume}\n\"I know it's my fault that you couldn't go back.\""
+msgid ""
+"{Natsume}\n"
+"\"I know it's my fault that you couldn't go back.\""
 msgstr ""
 
 #: 40404:1438
-
 msgid "Natsume-chan began shedding tears as she glared at me."
 msgstr ""
 
 #: 40404:1439
-
-msgid "{Kazushi}\n\"Natsume-chan...\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan...\""
 msgstr ""
 
 #: 40404:1440
-
 msgid "She was crying. I felt ashamed of myself for not knowing what to say to her."
 msgstr ""
 
 #: 40404:1441
-
-msgid "{Natsume}\n\"I could've sent you away if I wanted, but I had a tremendous sense of hesitation until the last moment.\""
+msgid ""
+"{Natsume}\n"
+"\"I could've sent you away if I wanted, but I had a tremendous sense of hesitation until the last moment.\""
 msgstr ""
 
 #: 40404:1442
-
-msgid "{Kazushi}\n\"Because you were thinking about me, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"Because you were thinking about me, right?\""
 msgstr ""
 
 #: 40404:1443
-
 msgid "She knew I wouldn't die for real, but she hesitated to kill me with a sword."
 msgstr ""
 
 #: 40404:1444
-
-msgid "{Natsume}\n\"No, it's not that... *sniff*....\""
+msgid ""
+"{Natsume}\n"
+"\"No, it's not that... *sniff*....\""
 msgstr ""
 
 #: 40404:1445
-
-msgid "{Kazushi}\n\"Huh? It's not?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? It's not?\""
 msgstr ""
 
 #: 40404:1448
-
-msgid "{Natsume}\n\"Actually, I was afraid of being alone again... If you left, I'd have nobody with me, so I just wanted to keep you here no matter what.\""
+msgid ""
+"{Natsume}\n"
+"\"Actually, I was afraid of being alone again... If you left, I'd have nobody with me, so I just wanted to keep you here no matter what.\""
 msgstr ""
 
 #: 40404:1449
-
 msgid "Her twisted lips pressed further down, and her face was a mess of tears."
 msgstr ""
 
 #: 40404:1450
-
-msgid "{Natsume}\n\"I wanted to be with you, Haruma. When I thought about being separated from you, I just couldn't deal with it.\""
+msgid ""
+"{Natsume}\n"
+"\"I wanted to be with you, Haruma. When I thought about being separated from you, I just couldn't deal with it.\""
 msgstr ""
 
 #: 40404:1451
-
-msgid "{Natsume}\n\"I was ready to live by myself when Mama died. If I'd never gotten to know you, I probably would've been fine staying alone forever.\""
+msgid ""
+"{Natsume}\n"
+"\"I was ready to live by myself when Mama died. If I'd never gotten to know you, I probably would've been fine staying alone forever.\""
 msgstr ""
 
 #: 40404:1452
-
-msgid "{Natsume}\n\"I could bear that before, but not anymore. You made me long to be with people. So you should take responsibility and stay with me forever...\""
+msgid ""
+"{Natsume}\n"
+"\"I could bear that before, but not anymore. You made me long to be with people. So you should take responsibility and stay with me forever...\""
 msgstr ""
 
 #: 40404:1453
-
 msgid "Her small frame was making larger movements as she shuddered. I had to wonder what this poor girl was still afraid of and enduring even now."
 msgstr ""
 
 #: 40404:1454
-
-msgid "{Natsume}\n\"You'll always be with me...\""
+msgid ""
+"{Natsume}\n"
+"\"You'll always be with me...\""
 msgstr ""
 
 #: 40404:1455
-
-msgid "{Kazushi}\n\"Sure.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure.\""
 msgstr ""
 
 #: 40404:1456
-
-msgid "{Natsume}\n\"Huh?\""
+msgid ""
+"{Natsume}\n"
+"\"Huh?\""
 msgstr ""
 
 #: 40404:1457
-
-msgid "{Kazushi}\n\"I'll always be with you. Actually, I was going to ask you to stay with me.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'll always be with you. Actually, I was going to ask you to stay with me.\""
 msgstr ""
 
 #: 40404:1458
-
 msgid "I would never turn Natsume-chan away. I would never leave her behind and go somewhere."
 msgstr ""
 
 #: 40404:1459
-
-msgid "{Natsume}\n\".........\""
+msgid ""
+"{Natsume}\n"
+"\".........\""
 msgstr ""
 
 #: 40404:1460
-
-msgid "{Kazushi}\n\"What are you looking at?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you looking at?\""
 msgstr ""
 
 #: 40404:1461
-
-msgid "{Natsume}\n\"You, with me?\""
+msgid ""
+"{Natsume}\n"
+"\"You, with me?\""
 msgstr ""
 
 #: 40404:1462
-
-msgid "{Kazushi}\n\"Yeah, I'll stay with you. We're together now, aren't we?\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, I'll stay with you. We're together now, aren't we?\""
 msgstr ""
 
 #: 40404:1463
-
-msgid "{Natsume}\n\"Are you sure it's okay?\""
+msgid ""
+"{Natsume}\n"
+"\"Are you sure it's okay?\""
 msgstr ""
 
 #: 40404:1464
-
-msgid "{Kazushi}\n\"Of course.\""
+msgid ""
+"{Kazushi}\n"
+"\"Of course.\""
 msgstr ""
 
 #: 40404:1465
-
 msgid "She nodded in a big swooping curve, and a wave of tears broke out to splash down her face."
 msgstr ""
 
 #: 40404:1466
-
-msgid "{Natsume}\n\"Whaa, eegh... Waaaaaaaaaa!!!\""
+msgid ""
+"{Natsume}\n"
+"\"Whaa, eegh... Waaaaaaaaaa!!!\""
 msgstr ""
 
 #: 40404:1467
-
 msgid "Natsume-chan began to cry, wailing louder than a little kid without shame."
 msgstr ""
 
 #: 40404:1468
-
-msgid "{Kazushi}\n\"Why do you have to cry?\""
+msgid ""
+"{Kazushi}\n"
+"\"Why do you have to cry?\""
 msgstr ""
 
 #: 40404:1469
-
 msgid "Smiling bitterly, I held Natsume-chan's small frame as she continued to bawl. Then, she flung her arms around me and cried louder."
 msgstr ""
 
 #: 40404:1470
-
-msgid "{Natsume}\n\"Eegh, hahh, waaaaaaaaaa!!!\""
+msgid ""
+"{Natsume}\n"
+"\"Eegh, hahh, waaaaaaaaaa!!!\""
 msgstr ""
 
 #: 40404:1471
-
 msgid "Her tense string finally snapped. I wondered how much pressure it held. How much had she endured with her tiny body?"
 msgstr ""
 
 #: 40404:1473
-
 msgid "Natsume-chan kept crying as if tear gland was ruptured."
 msgstr ""
 
 #: 40404:1476
-
-msgid "{Natsume}\n\"Wahah, eegh, eehhh...\""
+msgid ""
+"{Natsume}\n"
+"\"Wahah, eegh, eehhh...\""
 msgstr ""
 
 #: 40404:1477
-
 msgid "She finally settled down after crying for a while; her tears dried up and only a few sobs remaining."
 msgstr ""
 
 #: 40404:1478
-
-msgid "{Kazushi}\n\"Do you feel better?\""
+msgid ""
+"{Kazushi}\n"
+"\"Do you feel better?\""
 msgstr ""
 
 #: 40404:1479
-
-msgid "{Natsume}\n\".........Uh-huh.\""
+msgid ""
+"{Natsume}\n"
+"\".........Uh-huh.\""
 msgstr ""
 
 #: 40404:1480
-
 msgid "She nodded as she clung onto my body. She wouldn't remove her hands, and I could feel her firm grip on my body."
 msgstr ""
 
 #: 40404:1481
-
 msgid "It was the first time I'd seen Natsume-chan get so emotional."
 msgstr ""
 
 #: 40404:1482
-
 msgid "She must've been bottling everything up until now."
 msgstr ""
 
 #: 40404:1483
-
 msgid "She couldn't see her dad for a long time, got banished to that weird world... She had to bear all those things patiently and all by herself."
 msgstr ""
 
 #: 40404:1484
-
-msgid "{Kazushi}\n\"You don't need to worry about it anymore. If you want me to be with you forever, I'll gladly do so.\""
+msgid ""
+"{Kazushi}\n"
+"\"You don't need to worry about it anymore. If you want me to be with you forever, I'll gladly do so.\""
 msgstr ""
 
 #: 40404:1485
-
-msgid "{Kazushi}\n\"Well, even if you don't like it, I'll still be here with you.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, even if you don't like it, I'll still be here with you.\""
 msgstr ""
 
 #: 40404:1486
-
-msgid "{Natsume}\n\"Really?\""
+msgid ""
+"{Natsume}\n"
+"\"Really?\""
 msgstr ""
 
 #: 40404:1487
-
-msgid "{Kazushi}\n\"Really.\""
+msgid ""
+"{Kazushi}\n"
+"\"Really.\""
 msgstr ""
 
 #: 40404:1490
-
-msgid "{Natsume}\n\"What'll happen if you're lying? You may regret staying in this place.\""
+msgid ""
+"{Natsume}\n"
+"\"What'll happen if you're lying? You may regret staying in this place.\""
 msgstr ""
 
 #: 40404:1491
-
-msgid "{Kazushi}\n\"I'll never regret it.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'll never regret it.\""
 msgstr ""
 
 #: 40404:1492
-
-msgid "{Natsume}\n\"You finally got me out, and now we're back where we started? We're back to the beginning.\""
+msgid ""
+"{Natsume}\n"
+"\"You finally got me out, and now we're back where we started? We're back to the beginning.\""
 msgstr ""
 
 #: 40404:1493
-
 msgid "She was right. I saved her from this world, but she was back there once again."
 msgstr ""
 
 #: 40404:1494
-
 msgid "But it wasn't exactly same as before."
 msgstr ""
 
 #: 40404:1495
-
-msgid "{Kazushi}\n\"This time, I'm here with you.\""
+msgid ""
+"{Kazushi}\n"
+"\"This time, I'm here with you.\""
 msgstr ""
 
 #: 40404:1498
-
 msgid "Natsume-chan lifted her head, and I smiled at her, as she still looked anxious."
 msgstr ""
 
 #: 40404:1499
-
-msgid "{Kazushi}\n\"Don't you see? It's different from before. We're together this time - you're not here by yourself anymore.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't you see? It's different from before. We're together this time - you're not here by yourself anymore.\""
 msgstr ""
 
 #: 40404:1500
-
 msgid "Right. She's not alone. We're together... that's a big difference."
 msgstr ""
 
 #: 40404:1501
-
-msgid "{Kazushi}\n\"Since you really decided to be with me, I'll never let you down in your decision. I'll prove to you it wasn't the wrong one.\""
+msgid ""
+"{Kazushi}\n"
+"\"Since you really decided to be with me, I'll never let you down in your decision. I'll prove to you it wasn't the wrong one.\""
 msgstr ""
 
 #: 40404:1504
-
-msgid "{Natsume}\n\"But, this is it. There's no way to go back home.\""
+msgid ""
+"{Natsume}\n"
+"\"But, this is it. There's no way to go back home.\""
 msgstr ""
 
 #: 40404:1505
-
-msgid "{Kazushi}\n\"No, we'll get back.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, we'll get back.\""
 msgstr ""
 
 #: 40404:1508
-
-msgid "{Natsume}\n\"What?\""
+msgid ""
+"{Natsume}\n"
+"\"What?\""
 msgstr ""
 
 #: 40404:1509
-
 msgid "Natsume-chan looked surprised, because in her mind, she thought she could never go back. But I never doubted we'd be able to return."
 msgstr ""
 
 #: 40404:1510
-
-msgid "{Kazushi}\n\"How could I dare stay in this kind of place for all my life? They say it's an ideal world, but I'll feel suffocated if I live here.\""
+msgid ""
+"{Kazushi}\n"
+"\"How could I dare stay in this kind of place for all my life? They say it's an ideal world, but I'll feel suffocated if I live here.\""
 msgstr ""
 
 #: 40404:1513
-
-msgid "{Natsume}\n\"Whatever you say, we can't get out here.\""
+msgid ""
+"{Natsume}\n"
+"\"Whatever you say, we can't get out here.\""
 msgstr ""
 
 #: 40404:1514
-
-msgid "{Kazushi}\n\"Yes we can.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes we can.\""
 msgstr ""
 
 #: 40404:1517
-
-msgid "{Natsume}\n\"What? ...How?\""
+msgid ""
+"{Natsume}\n"
+"\"What? ...How?\""
 msgstr ""
 
 #: 40404:1518
-
 msgid "My grades weren't very good, and I didn't know much about alchemy, so I didn't have any brilliant thoughts or methods."
 msgstr ""
 
 #: 40404:1519
-
 msgid "There was a limit to what I can do."
 msgstr ""
 
 #: 40404:1520
-
-msgid "{Kazushi}\n\"You said this was the world created by human desire, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"You said this was the world created by human desire, right?\""
 msgstr ""
 
 #: 40404:1523
-
-msgid "{Natsume}\n\"Yeah? I said that...\""
+msgid ""
+"{Natsume}\n"
+"\"Yeah? I said that...\""
 msgstr ""
 
 #: 40404:1524
-
-msgid "{Kazushi}\n\"I agree with you.\""
+msgid ""
+"{Kazushi}\n"
+"\"I agree with you.\""
 msgstr ""
 
 #: 40404:1525
-
 msgid "I thought it was stupid to believe in immortality or changing lead into gold, but somebody obviously wanted it pretty badly."
 msgstr ""
 
 #: 40404:1526
-
 msgid "That person longed for it strong enough to create the world we're in now."
 msgstr ""
 
 #: 40404:1527
-
 msgid "Sure, you might be able to get the gold and eternity that person wanted here."
 msgstr ""
 
 #: 40404:1528
-
 msgid "But I believed they weren't necessary for obtaining happiness."
 msgstr ""
 
 #: 40404:1529
-
-msgid "{Kazushi}\n\"If this is a twisted world, then this world doesn't need to exist.\""
+msgid ""
+"{Kazushi}\n"
+"\"If this is a twisted world, then this world doesn't need to exist.\""
 msgstr ""
 
 #: 40404:1532
-
-msgid "{Natsume}\n\"What?\""
+msgid ""
+"{Natsume}\n"
+"\"What?\""
 msgstr ""
 
 #: 40404:1533
-
 msgid "I held Natsume-chan's hand as she looked at me in surprise."
 msgstr ""
 
 #: 40404:1534
-
-msgid "{Kazushi}\n\"Then let's destroy this place, and go back where we belong.\""
+msgid ""
+"{Kazushi}\n"
+"\"Then let's destroy this place, and go back where we belong.\""
 msgstr ""
 
 #: 40404:1535
-
-msgid "{Natsume}\n\"Destroy this place?\""
+msgid ""
+"{Natsume}\n"
+"\"Destroy this place?\""
 msgstr ""
 
 #: 40404:1536
-
-msgid "{Kazushi}\n\"Who needs a place like this? Don't you wanna go back?\""
+msgid ""
+"{Kazushi}\n"
+"\"Who needs a place like this? Don't you wanna go back?\""
 msgstr ""
 
 #: 40404:1537
-
 msgid "I gripped her hand and looked into her eyes. I saw the light of resolve returning to those lost eyes."
 msgstr ""
 
 #: 40404:1540
-
-msgid "{Natsume}\n\"Yeah, I want to go back with you.\""
+msgid ""
+"{Natsume}\n"
+"\"Yeah, I want to go back with you.\""
 msgstr ""
 
 #: 40404:1541
-
 msgid "Natsume-chan nodded, determinately."
 msgstr ""
 
 #: 40404:1542
-
-msgid "{Kazushi}\n\"Then let's go home.\""
+msgid ""
+"{Kazushi}\n"
+"\"Then let's go home.\""
 msgstr ""
 
 #: 40404:1543
-
 msgid "I pulled on her hands and helped her stand up."
 msgstr ""
 
 #: 40404:1544
-
-msgid "{Kazushi}\n\"I know everybody's waiting for us.\""
+msgid ""
+"{Kazushi}\n"
+"\"I know everybody's waiting for us.\""
 msgstr ""
 
 #: 40404:1551
-
-msgid "{Natsume}\n\"But how are you going to destroy this?\""
+msgid ""
+"{Natsume}\n"
+"\"But how are you going to destroy this?\""
 msgstr ""
 
 #: 40404:1552
-
-msgid "{Kazushi}\n\"No idea! We're just going to destroy it!\""
+msgid ""
+"{Kazushi}\n"
+"\"No idea! We're just going to destroy it!\""
 msgstr ""
 
 #: 40404:1554
-
 msgid "I take a shovel from the garden, and began hammering repeatedly on the school walls."
 msgstr ""
 
 #: 40404:1555
-
-msgid "{Kazushi}\n\"Gaaaah! It's so hard! It's not breaking at all!\""
+msgid ""
+"{Kazushi}\n"
+"\"Gaaaah! It's so hard! It's not breaking at all!\""
 msgstr ""
 
 #: 40404:1558
-
-msgid "{Natsume}\n\"I think you're wasting your time by doing that.\""
+msgid ""
+"{Natsume}\n"
+"\"I think you're wasting your time by doing that.\""
 msgstr ""
 
 #: 40404:1559
-
 msgid "I felt a stinging sensation in my hands. I wasn't sure if I could make it happen that way."
 msgstr ""
 
 #: 40404:1560
-
-msgid "{Kazushi}\n\"That's odd. I thought I could do it. Was it just my imagination?\""
+msgid ""
+"{Kazushi}\n"
+"\"That's odd. I thought I could do it. Was it just my imagination?\""
 msgstr ""
 
 #: 40404:1561
-
 msgid "I figured we could just break it without really thinking, but I guess not?"
 msgstr ""
 
 #: 40404:1564
-
-msgid "{Natsume}\n\"...No, if you thought you could do it, then you might be able to.\""
+msgid ""
+"{Natsume}\n"
+"\"...No, if you thought you could do it, then you might be able to.\""
 msgstr ""
 
 #: 40404:1565
-
 msgid "Her words gave me a great encouragement when I was going to give up."
 msgstr ""
 
 #: 40404:1566
-
-msgid "{Kazushi}\n\"Really? Think I can?\""
+msgid ""
+"{Kazushi}\n"
+"\"Really? Think I can?\""
 msgstr ""
 
 #: 40404:1569
-
-msgid "{Natsume}\n\"Our instinct is right pretty often. If that's what you thought, then maybe we can. I'm sure that instinct is right.\""
+msgid ""
+"{Natsume}\n"
+"\"Our instinct is right pretty often. If that's what you thought, then maybe we can. I'm sure that instinct is right.\""
 msgstr ""
 
 #: 40404:1570
-
-msgid "{Kazushi}\n\"I guess you're right. I feel better now that I have your green light.\""
+msgid ""
+"{Kazushi}\n"
+"\"I guess you're right. I feel better now that I have your green light.\""
 msgstr ""
 
 #: 40404:1572
-
 msgid "The problem was how we could do it. Being in a world created by alchemy, it was clear that we couldn't do it with brute force alone."
 msgstr ""
 
 #: 40404:1573
-
-msgid "{Kazushi}\n\"Natsume-chan, can't you shoot destructo-beams or something with alchemy?\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan, can't you shoot destructo-beams or something with alchemy?\""
 msgstr ""
 
 #: 40404:1576
-
-msgid "{Natsume}\n\"What do you think I am? Is that the kind of girlfriend you want?\""
+msgid ""
+"{Natsume}\n"
+"\"What do you think I am? Is that the kind of girlfriend you want?\""
 msgstr ""
 
 #: 40404:1577
-
-msgid "{Kazushi}\n\"No... but electric shocks might be just right.\""
+msgid ""
+"{Kazushi}\n"
+"\"No... but electric shocks might be just right.\""
 msgstr ""
 
 #: 40404:1578
-
-msgid "{Natsume}\n\"I can't do that either. Are you a masochist?\""
+msgid ""
+"{Natsume}\n"
+"\"I can't do that either. Are you a masochist?\""
 msgstr ""
 
 #: 40404:1579
-
-msgid "{Kazushi}\n\"I don't know. I could be...\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't know. I could be...\""
 msgstr ""
 
 #: 40404:1582
-
-msgid "{Natsume}\n\"I see...\""
+msgid ""
+"{Natsume}\n"
+"\"I see...\""
 msgstr ""
 
 #: 40404:1583
-
 msgid "She was seriously contemplating something."
 msgstr ""
 
 #: 40404:1586
-
-msgid "{Natsume}\n\"...No!\""
+msgid ""
+"{Natsume}\n"
+"\"...No!\""
 msgstr ""
 
 #: 40404:1587
-
 msgid "Suddenly, she was herself again."
 msgstr ""
 
 #: 40404:1590
-
-msgid "{Natsume}\n\"Haruma, I don't know why, but you seem to be compatible with this place so I'm sure you'll think of a good idea.\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma, I don't know why, but you seem to be compatible with this place so I'm sure you'll think of a good idea.\""
 msgstr ""
 
 #: 40404:1591
-
-msgid "{Kazushi}\n\"I'm compatible with it?\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm compatible with it?\""
 msgstr ""
 
 #: 40404:1592
-
 msgid "I didn't know that, but Natsume-chan wanted to believe it."
 msgstr ""
 
 #: 40404:1593
-
-msgid "{Natsume}\n\"Think about it: it isn't right for you to be able to come in and out of this world through your dreams. You must have a connection to this place.\""
+msgid ""
+"{Natsume}\n"
+"\"Think about it: it isn't right for you to be able to come in and out of this world through your dreams. You must have a connection to this place.\""
 msgstr ""
 
 #: 40404:1594
-
-msgid "{Kazushi}\n\"What kind of connection?\""
+msgid ""
+"{Kazushi}\n"
+"\"What kind of connection?\""
 msgstr ""
 
 #: 40404:1597
-
-msgid "{Natsume}\n\"I don't know.\""
+msgid ""
+"{Natsume}\n"
+"\"I don't know.\""
 msgstr ""
 
 #: 40404:1598
-
 msgid "Natsume-chan lost her confidence. I knew there wasn't any evidence for it, but I felt something strong about that place."
 msgstr ""
 
 #: 40404:1599
-
 msgid "I felt some kind of agitation inside me, but I didn't know the cause of it."
 msgstr ""
 
 #: 40404:1603
-
-msgid "{Kazushi}\n\"Oh...\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh...\""
 msgstr ""
 
 #: 40404:1604
-
 msgid "Then, something lit up out of nowhere. Natsume-chan noticed it as well."
 msgstr ""
 
 #: 40404:1607
-
-msgid "{Natsume}\n\"Looks like somebody's attempting a refinement.\""
+msgid ""
+"{Natsume}\n"
+"\"Looks like somebody's attempting a refinement.\""
 msgstr ""
 
 #: 40404:1608
-
 msgid "Natsume-chan muttered, looking at our surroundings."
 msgstr ""
 
 #: 40404:1609
-
-msgid "{Kazushi}\n\"A refinement? Who could it... Oh!\""
+msgid ""
+"{Kazushi}\n"
+"\"A refinement? Who could it... Oh!\""
 msgstr ""
 
 #: 40404:1610
-
 msgid "If there's a refinement going on, it must be in our original world. Alchemic refinement was one way to approach this world from ours."
 msgstr ""
 
 #: 40404:1611
-
 msgid "So that means there's a path between the two now, right?"
 msgstr ""
 
 #: 40404:1612
-
-msgid "{Natsume}\n\"Hey, Haruma!\""
+msgid ""
+"{Natsume}\n"
+"\"Hey, Haruma!\""
 msgstr ""
 
 #: 40404:1613
-
 msgid "I heard Natsume-chan shouting at me, and then I found the reason."
 msgstr ""
 
 #: 40404:1614
-
-msgid "{Kazushi}\n\"That's!\""
+msgid ""
+"{Kazushi}\n"
+"\"That's!\""
 msgstr ""
 
 #: 40404:1615
-
 msgid "I saw a column of light rising from the corner of the island, shooting up from the ground all the way into the sky."
 msgstr ""
 
 #: 40404:1616
-
-msgid "{Kazushi}\n\"Natsume-chan, over there?\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan, over there?\""
 msgstr ""
 
 #: 40404:1617
-
-msgid "{Natsume}\n\"Yeah, over there. That's where the other space is intervening with this one.\""
+msgid ""
+"{Natsume}\n"
+"\"Yeah, over there. That's where the other space is intervening with this one.\""
 msgstr ""
 
 #: 40404:1618
-
-msgid "{Kazushi}\n\"Okay, let's hurry.\""
+msgid ""
+"{Kazushi}\n"
+"\"Okay, let's hurry.\""
 msgstr ""
 
 #: 40404:1623
-
 msgid "The beam was coming from basement directly under the school."
 msgstr ""
 
 #: 40404:1624
-
-msgid "{Kazushi}\n\"I didn't know this kind of thing existed under the school.\""
+msgid ""
+"{Kazushi}\n"
+"\"I didn't know this kind of thing existed under the school.\""
 msgstr ""
 
 #: 40404:1627
-
-msgid "{Natsume}\n\"Haruma, look over there!\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma, look over there!\""
 msgstr ""
 
 #: 40404:1628
-
 msgid "Natsume-chan pointed into the back. Even I could feel the tremendous energy emanating from it."
 msgstr ""
 
 #: 40404:1629
-
 msgid "I knew something had to be happening over there, so we hurried up and went to check it out."
 msgstr ""
 
 #: 40404:1630
-
-msgid "{Kazushi}\n\"Ah...\""
+msgid ""
+"{Kazushi}\n"
+"\"Ah...\""
 msgstr ""
 
 #: 40404:1631
-
 msgid "And then we saw it."
 msgstr ""
 
 #: 40404:1634
-
-msgid "{Natsume}\n\"Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma.\""
 msgstr ""
 
 #: 40404:1635
-
-msgid "{Kazushi}\n\"Yeah.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah.\""
 msgstr ""
 
 #: 40404:1636
-
 msgid "What we saw was a tiny stone, about the size of an egg. It wasn't particularly big, and sat easily in the palm of your hand."
 msgstr ""
 
 #: 40404:1637
-
-msgid "{Kazushi}\n\"This is no ordinary rock, is it?\""
+msgid ""
+"{Kazushi}\n"
+"\"This is no ordinary rock, is it?\""
 msgstr ""
 
 #: 40404:1638
-
-msgid "{Natsume}\n\"No, it's...\""
+msgid ""
+"{Natsume}\n"
+"\"No, it's...\""
 msgstr ""
 
 #: 40404:1641
-
 msgid "SKREEEEEEEEEEEE..."
 msgstr ""
 
 #: 40404:1642
-
-msgid "{Kazushi}\n\"Ow...\""
+msgid ""
+"{Kazushi}\n"
+"\"Ow...\""
 msgstr ""
 
 #: 40404:1643
-
 msgid "Just then, I heard a shrill noise from somewhere."
 msgstr ""
 
 #: 40404:1644
-
-msgid "{Kazushi}\n\"Ngh, what is it?\""
+msgid ""
+"{Kazushi}\n"
+"\"Ngh, what is it?\""
 msgstr ""
 
 #: 40404:1645
-
 msgid "It became a louder buzzing, going straight into my ear."
 msgstr ""
 
 #: 40404:1646
-
-msgid "{Amamiya}\n\"Natsume! Haruma-kun?!\""
+msgid ""
+"{Amamiya}\n"
+"\"Natsume! Haruma-kun?!\""
 msgstr ""
 
 #: 40404:1647
-
-msgid "{Kazushi}\n\"Oh...!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh...!\""
 msgstr ""
 
 #: 40404:1650
-
-msgid "{Natsume}\n\"Papa!\""
+msgid ""
+"{Natsume}\n"
+"\"Papa!\""
 msgstr ""
 
 #: 40404:1651
-
 msgid "It was Miya-san's voice. We couldn't see his figure, but we heard his voice for sure."
 msgstr ""
 
 #: 40404:1652
-
-msgid "{Kazushi}\n\"Where are you, Miya-san?\""
+msgid ""
+"{Kazushi}\n"
+"\"Where are you, Miya-san?\""
 msgstr ""
 
 #: 40404:1653
-
 msgid "Where was he? Where was his voice coming from?"
 msgstr ""
 
 #: 40404:1654
-
-msgid "{Natsume}\n\"He's not on this side. He's contacting us from the other world.\""
+msgid ""
+"{Natsume}\n"
+"\"He's not on this side. He's contacting us from the other world.\""
 msgstr ""
 
 #: 40404:1661
-
-msgid "{Amamiya}\n\"Are you there, Natsume?!\""
+msgid ""
+"{Amamiya}\n"
+"\"Are you there, Natsume?!\""
 msgstr ""
 
 #: 40404:1662
-
-msgid "{Natsume}\n\"Papa!\""
+msgid ""
+"{Natsume}\n"
+"\"Papa!\""
 msgstr ""
 
 #: 40404:1663
-
 msgid "The figures of those two appeared in the flask. Amamiya was relieved to see them looking alright, but it was still too early for that."
 msgstr ""
 
 #: 40404:1664
-
-msgid "{Kazushi}\n\"Were you doing a refinement just now?\""
+msgid ""
+"{Kazushi}\n"
+"\"Were you doing a refinement just now?\""
 msgstr ""
 
 #: 40404:1665
-
-msgid "{Amamiya}\n\"Yes, I'm glad you noticed it. I'm speaking to you through the overlapping space that occurs as part of the refinement. It was a gamble, but I'm glad it worked.\""
+msgid ""
+"{Amamiya}\n"
+"\"Yes, I'm glad you noticed it. I'm speaking to you through the overlapping space that occurs as part of the refinement. It was a gamble, but I'm glad it worked.\""
 msgstr ""
 
 #: 40404:1666
-
 msgid "It was a specific form of communication that could only occur inside the flask connecting the two worlds during an experiment."
 msgstr ""
 
 #: 40404:1667
-
 msgid "In other words, it wasn't alchemy being used to create something new but to overlap the two worlds."
 msgstr ""
 
 #: 40404:1668
-
 msgid "It was just an emergency measure, and luckily it actually worked."
 msgstr ""
 
 #: 40404:1669
-
-msgid "{Amamiya}\n\"Everybody here is helping me, but it's unstable and I don't think it'll last.\""
+msgid ""
+"{Amamiya}\n"
+"\"Everybody here is helping me, but it's unstable and I don't think it'll last.\""
 msgstr ""
 
 #: 40404:1670
-
-msgid "{Kazushi}\n\"Everybody?\""
+msgid ""
+"{Kazushi}\n"
+"\"Everybody?\""
 msgstr ""
 
 #: 40404:1673
-
-msgid "{Amamiya}\n\"Yes. Everybody is giving me a hand.\""
+msgid ""
+"{Amamiya}\n"
+"\"Yes. Everybody is giving me a hand.\""
 msgstr ""
 
 #: 40404:1674
-
 msgid "Amamiya kept looking at the flame, his forehead covered in sweat. I could see him concentrating a great deal on the experiment."
 msgstr ""
 
 #: 40404:1677
-
-msgid "{Amamiya}\n\"Ngh...\""
+msgid ""
+"{Amamiya}\n"
+"\"Ngh...\""
 msgstr ""
 
 #: 40404:1678
-
 msgid "Amamiya groaned."
 msgstr ""
 
 #: 40404:1679
-
 msgid "Then we heard noise in the feed, and the image of the two got blurred."
 msgstr ""
 
 #: 40404:1683
-
-msgid "{Appo}\n\"Hey, the flame's going out!\""
+msgid ""
+"{Appo}\n"
+"\"Hey, the flame's going out!\""
 msgstr ""
 
 #: 40404:1688
-
-msgid "{Pierre}\n\"You fix it! I'm too busy with this!!\""
+msgid ""
+"{Pierre}\n"
+"\"You fix it! I'm too busy with this!!\""
 msgstr ""
 
 #: 40404:1692
-
-msgid "{Mizuki}\n\"Hey! Don't fight! It causes bad reception.\""
+msgid ""
+"{Mizuki}\n"
+"\"Hey! Don't fight! It causes bad reception.\""
 msgstr ""
 
 #: 40404:1696
-
-msgid "{Haruka}\n\"Pay attention, everybody! Focus on nothing but the two of them!!\""
+msgid ""
+"{Haruka}\n"
+"\"Pay attention, everybody! Focus on nothing but the two of them!!\""
 msgstr ""
 
 #: 40404:1697
-
 msgid "Everybody was in the laboratory. Kazushi's friends, Natsume's classmates..."
 msgstr ""
 
 #: 40404:1698
-
 msgid "Everybody was praying for their return."
 msgstr ""
 
 #: 40404:1699
-
 msgid "Their strong wish worked as a bridge between us and them, at least."
 msgstr ""
 
 #: 40404:1703
-
-msgid "{Haruka}\n\"Kazushi-kun, get back here! We all want you to return!\""
+msgid ""
+"{Haruka}\n"
+"\"Kazushi-kun, get back here! We all want you to return!\""
 msgstr ""
 
 #: 40404:1708
-
-msgid "{Daigo}\n\"Don't forget you still owe me a hundred yen! You got to come back for that.\""
+msgid ""
+"{Daigo}\n"
+"\"Don't forget you still owe me a hundred yen! You got to come back for that.\""
 msgstr ""
 
 #: 40404:1709
-
-msgid "{Kazushi}\n\"Everybody's there, huh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Everybody's there, huh?\""
 msgstr ""
 
 #: 40404:1710
-
 msgid "Haruka and Kazushi's classmates..."
 msgstr ""
 
 #: 40404:1713
-
-msgid "{Tanaka Kaoruko}\n\"Natsume, I've cooked some delicious stuff for you, so come home soon!\""
+msgid ""
+"{Tanaka Kaoruko}\n"
+"\"Natsume, I've cooked some delicious stuff for you, so come home soon!\""
 msgstr ""
 
 #: 40404:1714
-
-msgid "{Hanako}\n\"We promised we were going to go to the new sweet shop together!\""
+msgid ""
+"{Hanako}\n"
+"\"We promised we were going to go to the new sweet shop together!\""
 msgstr ""
 
 #: 40404:1715
-
-msgid "{Natsume}\n\"Tanaka Kaoruko and Hanako...\""
+msgid ""
+"{Natsume}\n"
+"\"Tanaka Kaoruko and Hanako...\""
 msgstr ""
 
 #: 40404:1716
-
 msgid "Natsume's classmates, Suzuki Chikako and Shimura Yae..."
 msgstr ""
 
 #: 40404:1719
-
-msgid "{Panchu}\n\"Hey, Ka'ushi!\""
+msgid ""
+"{Panchu}\n"
+"\"Hey, Ka'ushi!\""
 msgstr ""
 
 #: 40404:1720
-
-msgid "{Kazushi}\n\"P-Panchu-sempai! H-hey!\""
+msgid ""
+"{Kazushi}\n"
+"\"P-Panchu-sempai! H-hey!\""
 msgstr ""
 
 #: 40404:1723
-
-msgid "{Panchu}\n\"I'm 'un'ry. Go 'uy me 'ome 'read.\""
+msgid ""
+"{Panchu}\n"
+"\"I'm 'un'ry. Go 'uy me 'ome 'read.\""
 msgstr ""
 
 #: 40404:1724
-
-msgid "{Kazushi}\n\"S-sure, I'll get right on it!\""
+msgid ""
+"{Kazushi}\n"
+"\"S-sure, I'll get right on it!\""
 msgstr ""
 
 #: 40404:1725
-
-msgid "{Kazushi}\n\"Natsume-chan, we're in trouble! We have to get back quick!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Natsume-chan, we're in trouble! We have to get back quick!!\""
 msgstr ""
 
 #: 40404:1726
-
-msgid "{Natsume}\n\"Haruma, a gofer...?\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma, a gofer...?\""
 msgstr ""
 
 #: 40404:1729
-
-msgid "{Panchu}\n\"I'm 'i''ing.\""
+msgid ""
+"{Panchu}\n"
+"\"I'm 'i''ing.\""
 msgstr ""
 
 #: 40404:1730
-
-msgid "{Kazushi}\n\"Y-you were kidding?! Yeah!\""
+msgid ""
+"{Kazushi}\n"
+"\"Y-you were kidding?! Yeah!\""
 msgstr ""
 
 #: 40404:1733
-
-msgid "{Panchu}\n\"Jus' 'ome 'ack 'oon. I'll 'a'e 'ome 'eli'ous 'elon-'an 'or you.\""
+msgid ""
+"{Panchu}\n"
+"\"Jus' 'ome 'ack 'oon. I'll 'a'e 'ome 'eli'ous 'elon-'an 'or you.\""
 msgstr ""
 
 #: 40404:1734
-
-msgid "{Kazushi}\n\"Y-yeah!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Y-yeah!!\""
 msgstr ""
 
 #: 40404:1738
-
-msgid "{Mei}\n\"Haruma-kun, Amamiya-san. Are you both unhurt?\""
+msgid ""
+"{Mei}\n"
+"\"Haruma-kun, Amamiya-san. Are you both unhurt?\""
 msgstr ""
 
 #: 40404:1739
-
-msgid "{Natsume}\n\"Oh, Yagi-sensei, we're fine.\""
+msgid ""
+"{Natsume}\n"
+"\"Oh, Yagi-sensei, we're fine.\""
 msgstr ""
 
 #: 40404:1743
-
-msgid "{Yagami}\n\"Kazushi, you're a man, so make sure you protect Amamiya. I hope to see you both in good health, soon.\""
+msgid ""
+"{Yagami}\n"
+"\"Kazushi, you're a man, so make sure you protect Amamiya. I hope to see you both in good health, soon.\""
 msgstr ""
 
 #: 40404:1744
-
-msgid "{Kazushi}\n\"Yes, I will.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes, I will.\""
 msgstr ""
 
 #: 40404:1746
-
 msgid "Panchu, Yagami, Mei, and the other teachers... They were all waiting for Kazushi and Natsume to come back."
 msgstr ""
 
 #: 40404:1750
-
 msgid "Everybody wanted us to come back, and cooperated in helping us with our return."
 msgstr ""
 
 #: 40404:1751
-
-msgid "{Kazushi}\n\"Thanks, guys.\""
+msgid ""
+"{Kazushi}\n"
+"\"Thanks, guys.\""
 msgstr ""
 
 #: 40404:1752
-
-msgid "{Appo}\n\"What's that for? If you have time for that shit, why don't you hurry up and get back here?\""
+msgid ""
+"{Appo}\n"
+"\"What's that for? If you have time for that shit, why don't you hurry up and get back here?\""
 msgstr ""
 
 #: 40404:1753
-
-msgid "{Kazushi}\n\"Ggh, I know.\""
+msgid ""
+"{Kazushi}\n"
+"\"Ggh, I know.\""
 msgstr ""
 
 #: 40404:1754
-
-msgid "{Pierre}\n\"Natsume-chaaan! Come back to us soon!\""
+msgid ""
+"{Pierre}\n"
+"\"Natsume-chaaan! Come back to us soon!\""
 msgstr ""
 
 #: 40404:1755
-
-msgid "{Sakura}\n\"We miss you Natsume-chan!!! Come cosplay with me again!\""
+msgid ""
+"{Sakura}\n"
+"\"We miss you Natsume-chan!!! Come cosplay with me again!\""
 msgstr ""
 
 #: 40404:1756
-
-msgid "{Natsume}\n\"No thank you, but I'll be back soon.\""
+msgid ""
+"{Natsume}\n"
+"\"No thank you, but I'll be back soon.\""
 msgstr ""
 
 #: 40404:1757
-
 msgid "Natsume-chan smiled at their encouraging words."
 msgstr ""
 
 #: 40404:1758
-
-msgid "{Amamiya}\n\"So, tell me about the situation over there.\""
+msgid ""
+"{Amamiya}\n"
+"\"So, tell me about the situation over there.\""
 msgstr ""
 
 #: 40404:1761
-
-msgid "{Natsume}\n\"We're completely closed in. There's no way out... Can you do anything about it?\""
+msgid ""
+"{Natsume}\n"
+"\"We're completely closed in. There's no way out... Can you do anything about it?\""
 msgstr ""
 
 #: 40404:1762
-
-msgid "{Amamiya}\n\"It's not easy. Unlike your time, we don't even have your bodies here. You've been sucked in completely.\""
+msgid ""
+"{Amamiya}\n"
+"\"It's not easy. Unlike your time, we don't even have your bodies here. You've been sucked in completely.\""
 msgstr ""
 
 #: 40404:1763
-
-msgid "{Amamiya}\n\"We can barely communicate now by doing our best.\""
+msgid ""
+"{Amamiya}\n"
+"\"We can barely communicate now by doing our best.\""
 msgstr ""
 
 #: 40404:1764
-
-msgid "{Kazushi}\n\"Really? I think I have no choice but to destroy this world.\""
+msgid ""
+"{Kazushi}\n"
+"\"Really? I think I have no choice but to destroy this world.\""
 msgstr ""
 
 #: 40404:1765
-
-msgid "{Amamiya}\n\"Destroy? Do you have some kind of plan?\""
+msgid ""
+"{Amamiya}\n"
+"\"Destroy? Do you have some kind of plan?\""
 msgstr ""
 
 #: 40404:1768
-
-msgid "{Natsume}\n\"Haruma thinks he can destroy this world.\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma thinks he can destroy this world.\""
 msgstr ""
 
 #: 40404:1769
-
-msgid "{Amamiya}\n\"What? You mean... destroy it?\""
+msgid ""
+"{Amamiya}\n"
+"\"What? You mean... destroy it?\""
 msgstr ""
 
 #: 40404:1770
-
-msgid "{Kazushi}\n\"I think that's the only way left for us to get out of this place.\""
+msgid ""
+"{Kazushi}\n"
+"\"I think that's the only way left for us to get out of this place.\""
 msgstr ""
 
 #: 40404:1771
-
-msgid "{Amamiya}\n\"Yes, you may be right...\""
+msgid ""
+"{Amamiya}\n"
+"\"Yes, you may be right...\""
 msgstr ""
 
 #: 40404:1772
-
-msgid "{Haruka}\n\"Is it possible to do that?\""
+msgid ""
+"{Haruka}\n"
+"\"Is it possible to do that?\""
 msgstr ""
 
 #: 40404:1773
-
-msgid "{Mei}\n\"'Destroy the world' sounds a little too abstract.\""
+msgid ""
+"{Mei}\n"
+"\"'Destroy the world' sounds a little too abstract.\""
 msgstr ""
 
 #: 40404:1774
-
-msgid "{Ran}\n\"It's like destroying this Earth, right?\""
+msgid ""
+"{Ran}\n"
+"\"It's like destroying this Earth, right?\""
 msgstr ""
 
 #: 40404:1775
-
-msgid "{Daigo}\n\"That's impossible.\""
+msgid ""
+"{Daigo}\n"
+"\"That's impossible.\""
 msgstr ""
 
 #: 40404:1776
-
-msgid "{Kazushi}\n\"Well, it's not as difficult as you think. We just need to destroy this thing.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, it's not as difficult as you think. We just need to destroy this thing.\""
 msgstr ""
 
 #: 40404:1777
-
 msgid "There was a red stone shining with a golden hue in front of my eyes. That was all I needed to break."
 msgstr ""
 
 #: 40404:1778
-
 msgid "And no, there was no logic to that."
 msgstr ""
 
 #: 40404:1779
-
 msgid "Just somehow I was confident about that."
 msgstr ""
 
 #: 40404:1780
-
-msgid "{Amamiya}\n\"Kazushi... What's that stone for?\""
+msgid ""
+"{Amamiya}\n"
+"\"Kazushi... What's that stone for?\""
 msgstr ""
 
 #: 40404:1781
-
-msgid "{Principal}\n\"Is there a stone before you?!\""
+msgid ""
+"{Principal}\n"
+"\"Is there a stone before you?!\""
 msgstr ""
 
 #: 40404:1782
-
-msgid "{Kazushi}\n\"Uhh...?\""
+msgid ""
+"{Kazushi}\n"
+"\"Uhh...?\""
 msgstr ""
 
 #: 40404:1783
-
 msgid "Suddenly, I heard an unexpected voice."
 msgstr ""
 
 #: 40404:1784
-
-msgid "{Natsume}\n\"Hisae...\""
+msgid ""
+"{Natsume}\n"
+"\"Hisae...\""
 msgstr ""
 
 #: 40404:1788
-
-msgid "{Principal}\n\"Is there a stone there?\""
+msgid ""
+"{Principal}\n"
+"\"Is there a stone there?\""
 msgstr ""
 
 #: 40404:1789
-
 msgid "Hisae finally broke her silence and uttered a question. Before that, she was sitting down in the corner of the room like a dead person."
 msgstr ""
 
 #: 40404:1790
-
 msgid "She straightened her body all of a sudden and spoke to Kazushi."
 msgstr ""
 
 #: 40404:1795
-
-msgid "{Haruka}\n\"Are you okay, Grandma?\""
+msgid ""
+"{Haruka}\n"
+"\"Are you okay, Grandma?\""
 msgstr ""
 
 #: 40404:1798
-
-msgid "{Principal}\n\"I'm fine. Anyway, tell me more about the stone.\""
+msgid ""
+"{Principal}\n"
+"\"I'm fine. Anyway, tell me more about the stone.\""
 msgstr ""
 
 #: 40404:1799
-
 msgid "Hisae seemed to care a great deal about the stone."
 msgstr ""
 
 #: 40404:1800
-
-msgid "{Kazushi}\n\"There is one here.\""
+msgid ""
+"{Kazushi}\n"
+"\"There is one here.\""
 msgstr ""
 
 #: 40404:1801
-
-msgid "{Principal}\n\"Can you tell me what kind of stone?\""
+msgid ""
+"{Principal}\n"
+"\"Can you tell me what kind of stone?\""
 msgstr ""
 
 #: 40404:1802
-
-msgid "{Kazushi}\n\"Um...\""
+msgid ""
+"{Kazushi}\n"
+"\"Um...\""
 msgstr ""
 
 #: 40404:1805
-
 msgid "Hisae listened carefully as Kazushi told her about its characteristics."
 msgstr ""
 
 #: 40404:1808
-
-msgid "{Principal}\n\"I see. There's no mistaking it.\""
+msgid ""
+"{Principal}\n"
+"\"I see. There's no mistaking it.\""
 msgstr ""
 
 #: 40404:1809
-
 msgid "Hisae nodded deeply at the same time as Amamiya's face went pale."
 msgstr ""
 
 #: 40404:1815
-
-msgid "{Amamiya}\n\"Is it possible that they have the stone which was lost from the island a long time ago?\""
+msgid ""
+"{Amamiya}\n"
+"\"Is it possible that they have the stone which was lost from the island a long time ago?\""
 msgstr ""
 
 #: 40404:1816
-
-msgid "{Haruka}\n\"Is it the one you've been looking for since then, grandma?\""
+msgid ""
+"{Haruka}\n"
+"\"Is it the one you've been looking for since then, grandma?\""
 msgstr ""
 
 #: 40404:1817
-
 msgid "That rang a bell for Amamiya and Haruka. Both of them were surprised."
 msgstr ""
 
 #: 40404:1822
-
-msgid "{Principal}\n\"Yes, that is the stone which should have been sleeping under this island, lost together with that man. It is this island's black box of alchemy.\""
+msgid ""
+"{Principal}\n"
+"\"Yes, that is the stone which should have been sleeping under this island, lost together with that man. It is this island's black box of alchemy.\""
 msgstr ""
 
 #: 40404:1823
-
-msgid "{Kazushi}\n\"Black box?\""
+msgid ""
+"{Kazushi}\n"
+"\"Black box?\""
 msgstr ""
 
 #: 40404:1824
-
-msgid "{Principal}\n\"The reason the alchemy was so successful on this island is because of that stone.\""
+msgid ""
+"{Principal}\n"
+"\"The reason the alchemy was so successful on this island is because of that stone.\""
 msgstr ""
 
 #: 40404:1829
-
-msgid "{Amamiya}\n\"The stone inside Natsume was a fabrication of that stone. It is was merely a replica, and the one you see before you is the original.\""
+msgid ""
+"{Amamiya}\n"
+"\"The stone inside Natsume was a fabrication of that stone. It is was merely a replica, and the one you see before you is the original.\""
 msgstr ""
 
 #: 40404:1830
-
-msgid "{Natsume}\n\"I see. This stone is...\""
+msgid ""
+"{Natsume}\n"
+"\"I see. This stone is...\""
 msgstr ""
 
 #: 40404:1831
-
-msgid "{Kazushi}\n\"I didn't know this stone was so special.\""
+msgid ""
+"{Kazushi}\n"
+"\"I didn't know this stone was so special.\""
 msgstr ""
 
 #: 40404:1832
-
-msgid "{Principal}\n\"And I think that it's the source of power which keeps the world together over there.\""
+msgid ""
+"{Principal}\n"
+"\"And I think that it's the source of power which keeps the world together over there.\""
 msgstr ""
 
 #: 40404:1833
-
-msgid "{Kazushi}\n\"That means this world'll disappear if I break it, right?\""
+msgid ""
+"{Kazushi}\n"
+"\"That means this world'll disappear if I break it, right?\""
 msgstr ""
 
 #: 40404:1834
-
-msgid "{Natsume}\n\"Then we can come home?\""
+msgid ""
+"{Natsume}\n"
+"\"Then we can come home?\""
 msgstr ""
 
 #: 40404:1837
-
 msgid "Hisae paused for their questions, but she didn't seem to know how to answer them."
 msgstr ""
 
 #: 40404:1838
-
 msgid "Finally, she nodded."
 msgstr ""
 
 #: 40404:1841
-
-msgid "{Principal}\n\"If you could break the stone, the world would probably disappear.\""
+msgid ""
+"{Principal}\n"
+"\"If you could break the stone, the world would probably disappear.\""
 msgstr ""
 
 #: 40404:1842
-
-msgid "{Kazushi}\n\"I thought so.\""
+msgid ""
+"{Kazushi}\n"
+"\"I thought so.\""
 msgstr ""
 
 #: 40404:1843
-
-msgid "{Principal}\n\"However, I don't know if you'll be able to come back here or not, even if you are successful in your attempt.\""
+msgid ""
+"{Principal}\n"
+"\"However, I don't know if you'll be able to come back here or not, even if you are successful in your attempt.\""
 msgstr ""
 
 #: 40404:1844
-
-msgid "{Principal}\n\"I think the chances are in your favor, but I cannot say it won't be dangerous.\""
+msgid ""
+"{Principal}\n"
+"\"I think the chances are in your favor, but I cannot say it won't be dangerous.\""
 msgstr ""
 
 #: 40404:1845
-
-msgid "{Kazushi}\n\"It's still worth trying... Well, really it's the only chance we have left.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's still worth trying... Well, really it's the only chance we have left.\""
 msgstr ""
 
 #: 40404:1846
-
-msgid "{Principal}\n\"That's right.\""
+msgid ""
+"{Principal}\n"
+"\"That's right.\""
 msgstr ""
 
 #: 40404:1847
-
 msgid "Hisae sounded very sad about their final option."
 msgstr ""
 
 #: 40404:1852
-
-msgid "{Haruka}\n\"Are you sure they can break that stone, Grandma?\""
+msgid ""
+"{Haruka}\n"
+"\"Are you sure they can break that stone, Grandma?\""
 msgstr ""
 
 #: 40404:1853
-
 msgid "Haruka wanted to make sure of it, noticing Hisae's feelings."
 msgstr ""
 
 #: 40404:1854
-
-msgid "{Principal}\n\"...............\""
+msgid ""
+"{Principal}\n"
+"\"...............\""
 msgstr ""
 
 #: 40404:1855
-
 msgid "Hisae became contemplative when Haruka said so."
 msgstr ""
 
 #: 40404:1856
-
-msgid "{Kazushi}\n\"It's not supposed to be broken, is it?\""
+msgid ""
+"{Kazushi}\n"
+"\"It's not supposed to be broken, is it?\""
 msgstr ""
 
 #: 40404:1857
-
-msgid "{Natsume}\n\"Is this stone that important to you?\""
+msgid ""
+"{Natsume}\n"
+"\"Is this stone that important to you?\""
 msgstr ""
 
 #: 40404:1862
-
-msgid "{Amamiya}\n\"Hisae has been looking for that for a long time, and she needs its power.\""
+msgid ""
+"{Amamiya}\n"
+"\"Hisae has been looking for that for a long time, and she needs its power.\""
 msgstr ""
 
 #: 40404:1867
-
-msgid "{Haruka}\n\"It is very important to my Grandma. It would be great if you could find your way back without destroying it.\""
+msgid ""
+"{Haruka}\n"
+"\"It is very important to my Grandma. It would be great if you could find your way back without destroying it.\""
 msgstr ""
 
 #: 40404:1868
-
-msgid "{Kazushi}\n\"I see. But if I don't break this then...\""
+msgid ""
+"{Kazushi}\n"
+"\"I see. But if I don't break this then...\""
 msgstr ""
 
 #: 40404:1871
-
 msgid "Kazushi was lost in thought. Nobody seemed to have a better idea, and silence quickly prevailed."
 msgstr ""
 
 #: 40404:1874
-
-msgid "{Principal}\n\"No, please destroy the stone.\""
+msgid ""
+"{Principal}\n"
+"\"No, please destroy the stone.\""
 msgstr ""
 
 #: 40404:1875
-
 msgid "Ultimately, it was Hisae who broke the silence."
 msgstr ""
 
 #: 40404:1876
-
-msgid "{Principal}\n\"Please destroy the stone and come back here.\""
+msgid ""
+"{Principal}\n"
+"\"Please destroy the stone and come back here.\""
 msgstr ""
 
 #: 40404:1882
-
-msgid "{Haruka}\n\"Grandma, are you sure?\""
+msgid ""
+"{Haruka}\n"
+"\"Grandma, are you sure?\""
 msgstr ""
 
 #: 40404:1883
-
-msgid "{Amamiya}\n\"You've been looking for the stone for years, haven't you? You stirred up such a great fuss over it today......\""
+msgid ""
+"{Amamiya}\n"
+"\"You've been looking for the stone for years, haven't you? You stirred up such a great fuss over it today......\""
 msgstr ""
 
 #: 40404:1884
-
 msgid "Hisae smiled at the two who registered such concern about her feelings."
 msgstr ""
 
 #: 40404:1889
-
-msgid "{Principal}\n\"It doesn't matter anymore. It probably is the only way that they can come back here.\""
+msgid ""
+"{Principal}\n"
+"\"It doesn't matter anymore. It probably is the only way that they can come back here.\""
 msgstr ""
 
 #: 40404:1892
-
-msgid "{Principal}\n\"Besides, I feel like he wants this as well. Like he wants them to destroy that stone.\""
+msgid ""
+"{Principal}\n"
+"\"Besides, I feel like he wants this as well. Like he wants them to destroy that stone.\""
 msgstr ""
 
 #: 40404:1893
-
-msgid "{Kazushi}\n\"Umm, so is it okay to break it?\""
+msgid ""
+"{Kazushi}\n"
+"\"Umm, so is it okay to break it?\""
 msgstr ""
 
 #: 40404:1894
-
-msgid "{Principal}\n\"Yes. Go ahead and damage it as much as you want.\""
+msgid ""
+"{Principal}\n"
+"\"Yes. Go ahead and damage it as much as you want.\""
 msgstr ""
 
 #: 40404:1895
-
-msgid "{Natsume}\n\"You can't change your mind later, though.\""
+msgid ""
+"{Natsume}\n"
+"\"You can't change your mind later, though.\""
 msgstr ""
 
 #: 40404:1898
-
-msgid "{Principal}\n\"Of course I won't. I'm just not sure it's going to be that easy to destroy it.\""
+msgid ""
+"{Principal}\n"
+"\"Of course I won't. I'm just not sure it's going to be that easy to destroy it.\""
 msgstr ""
 
 #: 40404:1899
-
-msgid "{Principal}\n\"Do you think you can do it?\""
+msgid ""
+"{Principal}\n"
+"\"Do you think you can do it?\""
 msgstr ""
 
 #: 40404:1900
-
-msgid "{Kazushi}\n\"Sure, we can.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure, we can.\""
 msgstr ""
 
 #: 40404:1901
-
 msgid "Surprisingly, Kazushi replied with confidence."
 msgstr ""
 
 #: 40404:1902
-
-msgid "{Natsume}\n\"Do you know you're giving her a rash promise?\""
+msgid ""
+"{Natsume}\n"
+"\"Do you know you're giving her a rash promise?\""
 msgstr ""
 
 #: 40404:1903
-
-msgid "{Kazushi}\n\"I feel like I can manage it.\""
+msgid ""
+"{Kazushi}\n"
+"\"I feel like I can manage it.\""
 msgstr ""
 
 #: 40404:1904
-
 msgid "Kazushi sounded like he had confidence. Hisae believed him, even though she didn't see any basis for his words."
 msgstr ""
 
 #: 40404:1906
-
-msgid "{Kazushi}\n\"Well, we're going to break it now. I think it might be best for you to stop the burner over there.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, we're going to break it now. I think it might be best for you to stop the burner over there.\""
 msgstr ""
 
 #: 40404:1909
-
-msgid "{Amamiya}\n\"You're right, it may have some influence here otherwise. But you should know that once we disable the burner, we'll lose communication.\""
+msgid ""
+"{Amamiya}\n"
+"\"You're right, it may have some influence here otherwise. But you should know that once we disable the burner, we'll lose communication.\""
 msgstr ""
 
 #: 40404:1910
-
-msgid "{Kazushi}\n\"Yeah, I know. We'll talk when we get home.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, I know. We'll talk when we get home.\""
 msgstr ""
 
 #: 40404:1911
-
 msgid "That was very impressive. Kazushi was confident in their ability to return."
 msgstr ""
 
 #: 40404:1915
-
-msgid "{Appo}\n\"I'll take a nap and wait for you guys.\""
+msgid ""
+"{Appo}\n"
+"\"I'll take a nap and wait for you guys.\""
 msgstr ""
 
 #: 40404:1916
-
-msgid "{Kazushi}\n\"Yeah, we'll be there soon.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, we'll be there soon.\""
 msgstr ""
 
 #: 40404:1920
-
-msgid "{Principal}\n\"Well, take care of the rest, okay?\""
+msgid ""
+"{Principal}\n"
+"\"Well, take care of the rest, okay?\""
 msgstr ""
 
 #: 40404:1921
-
-msgid "{Kazushi}\n\"We sure will. We'll be there, and you'll pay whatever compensation you owe us.\""
+msgid ""
+"{Kazushi}\n"
+"\"We sure will. We'll be there, and you'll pay whatever compensation you owe us.\""
 msgstr ""
 
 #: 40404:1923
-
 msgid "Kazushi replied reliably. Hisae wore a slight smile on her face. She was certain they would do it."
 msgstr ""
 
 #: 40404:1924
-
 msgid "She wanted to believe that."
 msgstr ""
 
 #: 40404:1926
-
 msgid "As soon as our communication was blocked, the world fell silent."
 msgstr ""
 
 #: 40404:1927
-
-msgid "{Kazushi}\n\"Well, let's finish this up quickly and go home.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, let's finish this up quickly and go home.\""
 msgstr ""
 
 #: 40404:1930
-
-msgid "{Natsume}\n\"How can you be so confident about this, Haruma?\""
+msgid ""
+"{Natsume}\n"
+"\"How can you be so confident about this, Haruma?\""
 msgstr ""
 
 #: 40404:1931
-
 msgid "Natsume-chan couldn't figure out why I was acting so full of confidence - it must've looked weird to her."
 msgstr ""
 
 #: 40404:1934
-
-msgid "{Natsume}\n\"You made that rash promise with Hisae, but can you really destroy the stone? In case you didn't know, this is the greatest mystery created by alchemy.\""
+msgid ""
+"{Natsume}\n"
+"\"You made that rash promise with Hisae, but can you really destroy the stone? In case you didn't know, this is the greatest mystery created by alchemy.\""
 msgstr ""
 
 #: 40404:1935
-
-msgid "{Kazushi}\n\"Oh, that so? No wonder the principal seemed like she didn't want me to break it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, that so? No wonder the principal seemed like she didn't want me to break it.\""
 msgstr ""
 
 #: 40404:1936
-
 msgid "But I still didn't have a choice. Unless we destroyed the stone, we'd never destroy this world either."
 msgstr ""
 
 #: 40404:1937
-
-msgid "{Kazushi}\n\"I know I have to do it no matter what. And yes, that is my final answer.\""
+msgid ""
+"{Kazushi}\n"
+"\"I know I have to do it no matter what. And yes, that is my final answer.\""
 msgstr ""
 
 #: 40404:1940
-
-msgid "{Natsume}\n\"I agree with you. This place feels like a jail, and looks like a person I hate.\""
+msgid ""
+"{Natsume}\n"
+"\"I agree with you. This place feels like a jail, and looks like a person I hate.\""
 msgstr ""
 
 #: 40404:1941
-
-msgid "{Kazushi}\n\"A person you hate?\""
+msgid ""
+"{Kazushi}\n"
+"\"A person you hate?\""
 msgstr ""
 
 #: 40404:1944
-
-msgid "{Natsume}\n\"That and this place makes me feel very sad.\""
+msgid ""
+"{Natsume}\n"
+"\"That and this place makes me feel very sad.\""
 msgstr ""
 
 #: 40404:1945
-
 msgid "I knew what she was trying to say. This was a sad place - maybe that's why I wanted to destroy it."
 msgstr ""
 
 #: 40404:1946
-
-msgid "{Kazushi}\n\"Well, are you ready?\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, are you ready?\""
 msgstr ""
 
 #: 40404:1947
-
 msgid "We faced the stone at the same time. Before I knew it, Natsume-chan was holding her katana."
 msgstr ""
 
 #: 40404:1949
-
-msgid "{Kazushi}\n\"I still wonder why this thing exists.\""
+msgid ""
+"{Kazushi}\n"
+"\"I still wonder why this thing exists.\""
 msgstr ""
 
 #: 40404:1950
-
 msgid "The stone's glow pulsed, as if it was breathing."
 msgstr ""
 
 #: 40404:1953
-
-msgid "{Natsume}\n\"All I know is that some alchemist created it.\""
+msgid ""
+"{Natsume}\n"
+"\"All I know is that some alchemist created it.\""
 msgstr ""
 
 #: 40404:1954
-
 msgid "She carefully stared at the stone."
 msgstr ""
 
 #: 40404:1957
-
-msgid "{Natsume}\n\"It's well made. It must have been synthesized by a famous alchemist, but why keep it hidden below the school?\""
+msgid ""
+"{Natsume}\n"
+"\"It's well made. It must have been synthesized by a famous alchemist, but why keep it hidden below the school?\""
 msgstr ""
 
 #: 40404:1958
-
 msgid "Based on her amazed look, Natsume-chan obviously thought the stone was invaluable."
 msgstr ""
 
 #: 40404:1959
-
-msgid "{Kazushi}\n\"I don't understand why that distinguished alchemist would create a sad world like this and not a happy one.\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't understand why that distinguished alchemist would create a sad world like this and not a happy one.\""
 msgstr ""
 
 #: 40404:1962
-
-msgid "{Natsume}\n\"It might've been different people who made the stone and then built this sad world.\""
+msgid ""
+"{Natsume}\n"
+"\"It might've been different people who made the stone and then built this sad world.\""
 msgstr ""
 
 #: 40404:1963
-
-msgid "{Kazushi}\n\"Huh? Really?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Really?\""
 msgstr ""
 
 #: 40404:1966
-
-msgid "{Natsume}\n\"That's the feeling I get. This stone just brought somebody's dream to life.\""
+msgid ""
+"{Natsume}\n"
+"\"That's the feeling I get. This stone just brought somebody's dream to life.\""
 msgstr ""
 
 #: 40404:1967
-
-msgid "{Kazushi}\n\"Really?\""
+msgid ""
+"{Kazushi}\n"
+"\"Really?\""
 msgstr ""
 
 #: 40404:1968
-
 msgid "It could make dreams come true, so why would that person want to make such a sad world?"
 msgstr ""
 
 #: 40404:1969
-
 msgid "He could be a very sad person like this world."
 msgstr ""
 
 #: 40404:1972
-
-msgid "{Natsume}\n\"If we utilize this carefully, it could make your dream come true, Haruma.\""
+msgid ""
+"{Natsume}\n"
+"\"If we utilize this carefully, it could make your dream come true, Haruma.\""
 msgstr ""
 
 #: 40404:1973
-
-msgid "{Kazushi}\n\"No thanks.\""
+msgid ""
+"{Kazushi}\n"
+"\"No thanks.\""
 msgstr ""
 
 #: 40404:1974
-
 msgid "All I wanted was to go back to where I belonged with Natsume-chan. I didn't care about the stone, so long as I could achieve that."
 msgstr ""
 
 #: 40404:1975
-
-msgid "{Kazushi}\n\"What about you? If you want a dream to come true, why not ask it before we break it?\""
+msgid ""
+"{Kazushi}\n"
+"\"What about you? If you want a dream to come true, why not ask it before we break it?\""
 msgstr ""
 
 #: 40404:1978
-
-msgid "{Natsume}\n\"No thanks.\""
+msgid ""
+"{Natsume}\n"
+"\"No thanks.\""
 msgstr ""
 
 #: 40404:1979
-
 msgid "Natsume-chan also shook her head, a slight smile on her face."
 msgstr ""
 
 #: 40404:1980
-
-msgid "{Natsume}\n\"I already have someone who can make my dream come true.\""
+msgid ""
+"{Natsume}\n"
+"\"I already have someone who can make my dream come true.\""
 msgstr ""
 
 #: 40404:1981
-
-msgid "{Kazushi}\n\"You do? Who?\""
+msgid ""
+"{Kazushi}\n"
+"\"You do? Who?\""
 msgstr ""
 
 #: 40404:1984
-
-msgid "{Natsume}\n\"It's...\""
+msgid ""
+"{Natsume}\n"
+"\"It's...\""
 msgstr ""
 
 #: 40404:1985
-
 msgid "Her cheeks blushed, and she closed her lips without continuing her words."
 msgstr ""
 
 #: 40404:1986
-
-msgid "{Kazushi}\n\"Oh, come on! Don't leave me hanging.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, come on! Don't leave me hanging.\""
 msgstr ""
 
 #: 40404:1987
-
-msgid "{Natsume}\n\"I'll tell you when we get home.\""
+msgid ""
+"{Natsume}\n"
+"\"I'll tell you when we get home.\""
 msgstr ""
 
 #: 40404:1988
-
-msgid "{Kazushi}\n\"Okay.\""
+msgid ""
+"{Kazushi}\n"
+"\"Okay.\""
 msgstr ""
 
 #: 40404:1989
-
 msgid "Then..."
 msgstr ""
 
 #: 40404:1990
-
-msgid "{Kazushi}\n\"Let's go home. To everyone!\""
+msgid ""
+"{Kazushi}\n"
+"\"Let's go home. To everyone!\""
 msgstr ""
 
 #: 40404:1993
-
-msgid "{Natsume}\n\"Can we really make it?\""
+msgid ""
+"{Natsume}\n"
+"\"Can we really make it?\""
 msgstr ""
 
 #: 40404:1994
-
-msgid "{Kazushi}\n\"I think we'll be fine. Even in the worst case, we're together, aren't we? We can start our new life here.\""
+msgid ""
+"{Kazushi}\n"
+"\"I think we'll be fine. Even in the worst case, we're together, aren't we? We can start our new life here.\""
 msgstr ""
 
 #: 40404:1995
-
 msgid "If I was the only one to live here, it wasn't worth thinking about, but we'd be together, so it didn't sound all bad."
 msgstr ""
 
 #: 40404:1996
-
-msgid "{Natsume}\n\"Yeah, I wouldn't be lonely if you were with me.\""
+msgid ""
+"{Natsume}\n"
+"\"Yeah, I wouldn't be lonely if you were with me.\""
 msgstr ""
 
 #: 40404:1997
-
 msgid "It would be great for us if we could go back, but if we couldn't make it, we'd still be okay together. It was an easy bet."
 msgstr ""
 
 #: 40404:1998
-
-msgid "{Kazushi}\n\"Well, we had so much cheerfulness before. I'm sure it'll be quieter with just the two of us.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, we had so much cheerfulness before. I'm sure it'll be quieter with just the two of us.\""
 msgstr ""
 
 #: 40404:1999
-
-msgid "{Natsume}\n\"So in the worst case scenario, we give birth and make more.\""
+msgid ""
+"{Natsume}\n"
+"\"So in the worst case scenario, we give birth and make more.\""
 msgstr ""
 
 #: 40404:2000
-
-msgid "{Kazushi}\n\"Huh? Give birth?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Give birth?\""
 msgstr ""
 
 #: 40404:2001
-
-msgid "{Natsume}\n\"Here we are, man and woman. That might very well be all we need.\""
+msgid ""
+"{Natsume}\n"
+"\"Here we are, man and woman. That might very well be all we need.\""
 msgstr ""
 
 #: 40404:2002
-
 msgid "The alchemy of fusing male and female elements to give birth to something new, huh?"
 msgstr ""
 
 #: 40404:2003
-
 msgid "It's natural for men and women to do that."
 msgstr ""
 
 #: 40404:2004
-
-msgid "{Kazushi}\n\"Okay! Then we'll give birth!\""
+msgid ""
+"{Kazushi}\n"
+"\"Okay! Then we'll give birth!\""
 msgstr ""
 
 #: 40404:2005
-
-msgid "{Natsume}\n\"You idiot! That's only if we can't go back. Don't prioritize it!\""
+msgid ""
+"{Natsume}\n"
+"\"You idiot! That's only if we can't go back. Don't prioritize it!\""
 msgstr ""
 
 #: 40404:2006
-
-msgid "{Kazushi}\n\"Oh, that's right.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, that's right.\""
 msgstr ""
 
 #: 40404:2007
-
 msgid "I put my hand on hers, tightening her grip on the sword."
 msgstr ""
 
 #: 40404:2008
-
-msgid "{Kazushi}\n\"It's like cutting a wedding cake together.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's like cutting a wedding cake together.\""
 msgstr ""
 
 #: 40404:2009
-
-msgid "{Natsume}\n\"It's our first joint deed. I know most married couples have done things like this all the time by the time they're wed.\""
+msgid ""
+"{Natsume}\n"
+"\"It's our first joint deed. I know most married couples have done things like this all the time by the time they're wed.\""
 msgstr ""
 
 #: 40404:2010
-
-msgid "{Natsume}\n\"'Virgin road' makes you laugh, doesn't it?\""
+msgid ""
+"{Natsume}\n"
+"\"'Virgin road' makes you laugh, doesn't it?\""
 msgstr ""
 
 #: 40404:2011
-
-msgid "{Kazushi}\n\"Don't throw a wet blanket over this!\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't throw a wet blanket over this!\""
 msgstr ""
 
 #: 40404:2012
-
 msgid "We raised our hands, slowly."
 msgstr ""
 
 #: 40404:2013
-
-msgid "{Natsume}\n\"Can we break it?\""
+msgid ""
+"{Natsume}\n"
+"\"Can we break it?\""
 msgstr ""
 
 #: 40404:2014
-
-msgid "{Kazushi}\n\"Of course we can.\""
+msgid ""
+"{Kazushi}\n"
+"\"Of course we can.\""
 msgstr ""
 
 #: 40404:2015
-
 msgid "I hesitated no longer. For a moment, I saw ahead and glimpsed the stone already cut in half."
 msgstr ""
 
 #: 40404:2016
-
 msgid "It's strange, time didn't exist in this world, but I saw the future."
 msgstr ""
 
 #: 40404:2017
-
-msgid "{Kazushi}\n\"Are you ready now?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you ready now?\""
 msgstr ""
 
 #: 40404:2018
-
-msgid "{Natsume}\n\"Yeah!\""
+msgid ""
+"{Natsume}\n"
+"\"Yeah!\""
 msgstr ""
 
 #: 40404:2019
-
 msgid "We didn't overstrain ourselves. We just banged down our hands with force."
 msgstr ""
 
 #: 40404:2020
-
 msgid "The sword slid straight into the black stone."
 msgstr ""
 
 #: 40404:2023
-
 msgid "Suddenly, an explosion of light filled my entire vision."
 msgstr ""
 
 #: 40404:2024
-
-msgid "{Kazushi}\n\"Ugh... Whoaa!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Ugh... Whoaa!!\""
 msgstr ""
 
 #: 40404:2025
-
-msgid "{Natsume}\n\"Haruma!!\""
+msgid ""
+"{Natsume}\n"
+"\"Haruma!!\""
 msgstr ""
 
 #: 40404:2026
-
 msgid "We grabbed each other's hands tightly, refusing to let go."
 msgstr ""
 
 #: 40404:2027
-
 msgid "A torrent of light encircled us."
 msgstr ""
 
 #: 40404:2030
-
 msgid "I realized that the two of us were all that remained of this world, and even the school building had gone."
 msgstr ""
 
 #: 40404:2031
-
 msgid "There was a carpet of flowers all around us, and we were standing there by ourselves, hand in hand."
 msgstr ""
 
 #: 40404:2032
-
-msgid "{Kazushi}\n\"What just happened?\""
+msgid ""
+"{Kazushi}\n"
+"\"What just happened?\""
 msgstr ""
 
 #: 40404:2033
-
 msgid "Did I fail? Did the alternative world become a real world for just the two of us?"
 msgstr ""
 
 #: 40404:2036
-
-msgid "{Natsume}\n\"Ah...\""
+msgid ""
+"{Natsume}\n"
+"\"Ah...\""
 msgstr ""
 
 #: 40404:2039
-
 msgid "Natsume-chan muttered, as she looked at the sky."
 msgstr ""
 
 #: 40404:2041
-
 msgid "*CRACK...*"
 msgstr ""
 
 #: 40404:2042
-
 msgid "I heard a cracking sound."
 msgstr ""
 
 #: 40404:2043
-
-msgid "{Kazushi}\n\"Oh...\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh...\""
 msgstr ""
 
 #: 40404:2046
-
 msgid "I muttered in a pitiful voice. As I looked at the sky, I saw a spider's web of cracks, a series of black lines cutting through the brilliant blue."
 msgstr ""
 
 #: 40404:2047
-
 msgid "*CRACK, CRACK...*"
 msgstr ""
 
 #: 40404:2048
-
 msgid "The cracks were getting bigger, and light was pouring through the gaps."
 msgstr ""
 
 #: 40404:2049
-
-msgid "{Kazushi}\n\"The sky's cracking in half...\""
+msgid ""
+"{Kazushi}\n"
+"\"The sky's cracking in half...\""
 msgstr ""
 
 #: 40404:2050
-
 msgid "The stream of light burst through as the cracking sound continued."
 msgstr ""
 
 #: 40404:2053
-
 msgid "*Creak... creak...*"
 msgstr ""
 
 #: 40404:2054
-
 msgid "The sky creaked against itself. As it continued filling with cracks, light flowed out across the sky."
 msgstr ""
 
 #: 40404:2055
-
 msgid "Then..."
 msgstr ""
 
 #: 40404:2059
-
 msgid "The sky split with a loud crack. Then, like a boiled egg, the broken shell began to peel away."
 msgstr ""
 
 #: 40404:2060
-
-msgid "{Natsume}\n\"It really looks like an egg. No wonder it's called a philosopher's egg.\""
+msgid ""
+"{Natsume}\n"
+"\"It really looks like an egg. No wonder it's called a philosopher's egg.\""
 msgstr ""
 
 #: 40404:2061
-
 msgid "A Philosopher's Stone. The flask used for alchemy. The early alchemists thought of it as an egg."
 msgstr ""
 
 #: 40404:2062
-
 msgid "I figured there must be some kind of reason for it."
 msgstr ""
 
 #: 40404:2063
-
-msgid "{Kazushi}\n\"I guess the world might look like an egg.\""
+msgid ""
+"{Kazushi}\n"
+"\"I guess the world might look like an egg.\""
 msgstr ""
 
 #: 40404:2064
-
 msgid "The fragments of the peeling sky fluttered to the ground like snow."
 msgstr ""
 
 #: 40404:2065
-
-msgid "{Natsume}\n\"The sky is falling. It's like snow.\""
+msgid ""
+"{Natsume}\n"
+"\"The sky is falling. It's like snow.\""
 msgstr ""
 
 #: 40404:2066
-
 msgid "It looked like snow falling from the sky, but it was actually flower petals."
 msgstr ""
 
 #: 40404:2067
-
 msgid "The flower petals were falling down one after another, piling up on the ground."
 msgstr ""
 
 #: 40404:2068
-
-msgid "{Natsume}\n\"It's beautiful...\""
+msgid ""
+"{Natsume}\n"
+"\"It's beautiful...\""
 msgstr ""
 
 #: 40404:2069
-
-msgid "{Kazushi}\n\"Yeah, it is beautiful. But what's gonna happen after this?\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, it is beautiful. But what's gonna happen after this?\""
 msgstr ""
 
 #: 40404:2070
-
 msgid "The stopped world was crumbling apart. The world that had been perfect was crumbling away."
 msgstr ""
 
 #: 40404:2071
-
-msgid "{Natsume}\n\"It's over. This sealed off world has lost its balance and will soon disappear.\""
+msgid ""
+"{Natsume}\n"
+"\"It's over. This sealed off world has lost its balance and will soon disappear.\""
 msgstr ""
 
 #: 40404:2072
-
-msgid "{Kazushi}\n\"I see.\""
+msgid ""
+"{Kazushi}\n"
+"\"I see.\""
 msgstr ""
 
 #: 40404:2073
-
 msgid "The sky looked golden. I could see the morning sun beyond the crumbling sky."
 msgstr ""
 
 #: 40404:2074
-
-msgid "{Kazushi}\n\"Think everyone's there, beyond the sky?\""
+msgid ""
+"{Kazushi}\n"
+"\"Think everyone's there, beyond the sky?\""
 msgstr ""
 
 #: 40404:2075
-
-msgid "{Natsume}\n\"Yeah, I think so.\""
+msgid ""
+"{Natsume}\n"
+"\"Yeah, I think so.\""
 msgstr ""
 
 #: 40404:2076
-
-msgid "{Kazushi}\n\"All right. Then...\""
+msgid ""
+"{Kazushi}\n"
+"\"All right. Then...\""
 msgstr ""
 
 #: 40404:2077
-
 msgid "I threw the dangerous sword away, and gripped Natsume-chan's hand again."
 msgstr ""
 
 #: 40404:2078
-
-msgid "{Kazushi}\n\"Let's go.\""
+msgid ""
+"{Kazushi}\n"
+"\"Let's go.\""
 msgstr ""
 
 #: 40404:2079
-
 msgid "I smiled at her, pulling her hand. Her smile shone bright as it bathed in the morning sun."
 msgstr ""
 
 #: 40404:2080
-
-msgid "{Kazushi}\n\"Let's head home to everyone.\""
+msgid ""
+"{Kazushi}\n"
+"\"Let's head home to everyone.\""
 msgstr ""
 
 #: 40404:2081
-
-msgid "{Natsume}\n\"Yes!\""
+msgid ""
+"{Natsume}\n"
+"\"Yes!\""
 msgstr ""
-

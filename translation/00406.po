@@ -8,1316 +8,1422 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 00406:10
-
-msgid "{Kazushi}\n\"What a nice breeze...\""
+msgid ""
+"{Kazushi}\n"
+"\"What a nice breeze...\""
 msgstr ""
 
 #: 00406:11
-
 msgid "I couldn't fall asleep because of this afternoon, so I decided to go for a walk."
 msgstr ""
 
 #: 00406:12
-
-msgid "{Kazushi}\n\"I still see her panties every time I close my eyes.\""
+msgid ""
+"{Kazushi}\n"
+"\"I still see her panties every time I close my eyes.\""
 msgstr ""
 
 #: 00406:13
-
 msgid "I made eye contact with her too."
 msgstr ""
 
 #: 00406:14
-
-msgid "{Kazushi}\n\"Why did sensei stay quiet after she noticed us?\""
+msgid ""
+"{Kazushi}\n"
+"\"Why did sensei stay quiet after she noticed us?\""
 msgstr ""
 
 #: 00406:15
-
-msgid "{Mei}\n\"Haruma-kun.\""
+msgid ""
+"{Mei}\n"
+"\"Haruma-kun.\""
 msgstr ""
 
 #: 00406:16
-
-msgid "{Kazushi}\n\"Yes? Ah!\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes? Ah!\""
 msgstr ""
 
 #: 00406:19
-
-msgid "{Kazushi}\n\"M-M-Mei-sensei!!\""
+msgid ""
+"{Kazushi}\n"
+"\"M-M-Mei-sensei!!\""
 msgstr ""
 
 #: 00406:20
-
 msgid "I couldn't help but shout, and my voice echoed in the night sky. Her timing was perfect."
 msgstr ""
 
 #: 00406:23
-
-msgid "{Mei}\n\"You shouldn't shout someone's name so loudly. It's already late at night. You'll wake the others and they'll come to check on us.\""
+msgid ""
+"{Mei}\n"
+"\"You shouldn't shout someone's name so loudly. It's already late at night. You'll wake the others and they'll come to check on us.\""
 msgstr ""
 
 #: 00406:24
-
-msgid "{Kazushi}\n\"S-sorry...\""
+msgid ""
+"{Kazushi}\n"
+"\"S-sorry...\""
 msgstr ""
 
 #: 00406:25
-
 msgid "Mei-sensei was acting the same as usual. Her tone was calm and gentle."
 msgstr ""
 
 #: 00406:26
-
 msgid "I'm surprised she can talk like this to the guy who snuck in and peeped on her while changing this afternoon."
 msgstr ""
 
 #: 00406:27
-
 msgid "Oh yeah. I haven't apologized for that. Maybe that's why I don't feel right about it."
 msgstr ""
 
 #: 00406:30
-
-msgid "{Mei}\n\"What are you doing so late? Out for a walk?\""
+msgid ""
+"{Mei}\n"
+"\"What are you doing so late? Out for a walk?\""
 msgstr ""
 
 #: 00406:31
-
-msgid "{Kazushi}\n\"Um, yes.\""
+msgid ""
+"{Kazushi}\n"
+"\"Um, yes.\""
 msgstr ""
 
 #: 00406:34
-
-msgid "{Mei}\n\"Oh? So you have a moment? Could I have you come with me then?\""
+msgid ""
+"{Mei}\n"
+"\"Oh? So you have a moment? Could I have you come with me then?\""
 msgstr ""
 
 #: 00406:35
-
-msgid "{Kazushi}\n\"Huh? Now?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Now?\""
 msgstr ""
 
 #: 00406:36
-
 msgid "I wonder what she needs me for......"
 msgstr ""
 
 #: 00406:39
-
 msgid "*SLURP*"
 msgstr ""
 
 #: 00406:40
-
 msgid "The sound of us slurping up noodles and the delicious smell of pork sauce filled the garden."
 msgstr ""
 
 #: 00406:43
-
-msgid "{Mei}\n\"Hahh...I wonder why ramen tastes so much better late at night.\""
+msgid ""
+"{Mei}\n"
+"\"Hahh...I wonder why ramen tastes so much better late at night.\""
 msgstr ""
 
 #: 00406:44
-
 msgid "Sensei carried her ramen bowl in happiness. We looked quite the odd couple. We fixed it the cafeteria and brought it out here."
 msgstr ""
 
 #: 00406:47
-
-msgid "{Mei}\n\"Haruma-kun, are you eating yours?\""
+msgid ""
+"{Mei}\n"
+"\"Haruma-kun, are you eating yours?\""
 msgstr ""
 
 #: 00406:48
-
-msgid "{Kazushi}\n\"Yes, I am......\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes, I am......\""
 msgstr ""
 
 #: 00406:51
-
-msgid "{Mei}\n\"It's really good, isn't it? Make sure you eat it.\""
+msgid ""
+"{Mei}\n"
+"\"It's really good, isn't it? Make sure you eat it.\""
 msgstr ""
 
 #: 00406:52
-
-msgid "{Kazushi}\n\"Yes......\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes......\""
 msgstr ""
 
 #: 00406:53
-
 msgid "Why am I eating ramen with sensei at this hour? What's she trying to do?"
 msgstr ""
 
 #: 00406:54
-
-msgid "{Kazushi}\n\"Umm...\""
+msgid ""
+"{Kazushi}\n"
+"\"Umm...\""
 msgstr ""
 
 #: 00406:57
-
-msgid "{Mei}\n\"Haruma-kun, there's something bothering you, right?\""
+msgid ""
+"{Mei}\n"
+"\"Haruma-kun, there's something bothering you, right?\""
 msgstr ""
 
 #: 00406:58
-
-msgid "{Kazushi}\n\"Huh? Bothering...me?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Bothering...me?\""
 msgstr ""
 
 #: 00406:59
-
-msgid "{Mei}\n\"It's causing you to build up stress, isn't it? I'm here to listen if you need somebody to talk to.\""
+msgid ""
+"{Mei}\n"
+"\"It's causing you to build up stress, isn't it? I'm here to listen if you need somebody to talk to.\""
 msgstr ""
 
 #: 00406:60
-
 msgid "Why is she asking me this all of a sudden?"
 msgstr ""
 
 #: 00406:63
-
-msgid "{Mei}\n\"You're a boy in puberty, after all. I think it's only natural for you to have things bothering you. That pent up stress is what's driving you boys to sexual crimes, right?\""
+msgid ""
+"{Mei}\n"
+"\"You're a boy in puberty, after all. I think it's only natural for you to have things bothering you. That pent up stress is what's driving you boys to sexual crimes, right?\""
 msgstr ""
 
 #: 00406:64
-
-msgid "{Kazushi}\n\"Sexual crimes!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Sexual crimes!!\""
 msgstr ""
 
 #: 00406:65
-
 msgid "Is she talking about our peeping this afternoon? I can't argue with it being a crime, but sensei, I think you're reading too deeply?"
 msgstr ""
 
 #: 00406:68
-
-msgid "{Mei}\n\"I've never been in charge of teaching boys before, so honestly, I'm not sure what to do. I grew up in an all girls' academy.\""
+msgid ""
+"{Mei}\n"
+"\"I've never been in charge of teaching boys before, so honestly, I'm not sure what to do. I grew up in an all girls' academy.\""
 msgstr ""
 
 #: 00406:71
-
-msgid "{Mei}\n\"But I'll do my best to understand you boys, so I'd like you to be more open with me.\""
+msgid ""
+"{Mei}\n"
+"\"But I'll do my best to understand you boys, so I'd like you to be more open with me.\""
 msgstr ""
 
 #: 00406:72
-
-msgid "{Kazushi}\n\"Uhh...\""
+msgid ""
+"{Kazushi}\n"
+"\"Uhh...\""
 msgstr ""
 
 #: 00406:73
-
 msgid "What should I say? The first thing sensei is misunderstanding is..."
 msgstr ""
 
 #: 00406:74
-
-msgid "{Kazushi}\n\"Umm, you don't need to think about it too hard. What we did this afternoon, well...... I'm truly sorry!\""
+msgid ""
+"{Kazushi}\n"
+"\"Umm, you don't need to think about it too hard. What we did this afternoon, well...... I'm truly sorry!\""
 msgstr ""
 
 #: 00406:77
-
 msgid "I bowed my head low in apology."
 msgstr ""
 
 #: 00406:78
-
-msgid "{Kazushi}\n\"But we weren't peeping on you to let off steam or because something was bothering us. We, well... we were just interested in your naked body...\""
+msgid ""
+"{Kazushi}\n"
+"\"But we weren't peeping on you to let off steam or because something was bothering us. We, well... we were just interested in your naked body...\""
 msgstr ""
 
 #: 00406:79
-
 msgid "Why am I confessing such embarrassing details? But, if I don't make it clear, she'll continue to misunderstand."
 msgstr ""
 
 #: 00406:82
-
-msgid "{Mei}\n\"My naked body? Ohh, so that's what it was.\""
+msgid ""
+"{Mei}\n"
+"\"My naked body? Ohh, so that's what it was.\""
 msgstr ""
 
 #: 00406:83
-
 msgid "Sensei nodded in understanding."
 msgstr ""
 
 #: 00406:84
-
-msgid "{Mei}\n\"I suppose all boys your age are most interested in sex.\""
+msgid ""
+"{Mei}\n"
+"\"I suppose all boys your age are most interested in sex.\""
 msgstr ""
 
 #: 00406:85
-
-msgid "{Kazushi}\n\"To be perfectly clear, that's it...... I'm truly sorry!\""
+msgid ""
+"{Kazushi}\n"
+"\"To be perfectly clear, that's it...... I'm truly sorry!\""
 msgstr ""
 
 #: 00406:86
-
 msgid "I felt extremely embarrassed to have her put it so calmly. I bowed my head to her once again."
 msgstr ""
 
 #: 00406:89
-
-msgid "{Mei}\n\"It's alright. Chin up.\""
+msgid ""
+"{Mei}\n"
+"\"It's alright. Chin up.\""
 msgstr ""
 
 #: 00406:90
-
 msgid "Sensei spoke to me with a gentle voice. When I raised my head, I was greeted with her gentle smile."
 msgstr ""
 
 #: 00406:91
-
-msgid "{Mei}\n\"You're a good kid, Haruma-kun. It seems easy, but it's actually quite hard to admit your mistakes and apologize.\""
+msgid ""
+"{Mei}\n"
+"\"You're a good kid, Haruma-kun. It seems easy, but it's actually quite hard to admit your mistakes and apologize.\""
 msgstr ""
 
 #: 00406:92
-
-msgid "{Kazushi}\n\"I'm not very good at all. But sensei... Aren't you mad at us?\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm not very good at all. But sensei... Aren't you mad at us?\""
 msgstr ""
 
 #: 00406:95
-
-msgid "{Mei}\n\"That's an odd question. Of course I am.\""
+msgid ""
+"{Mei}\n"
+"\"That's an odd question. Of course I am.\""
 msgstr ""
 
 #: 00406:96
-
 msgid "That's what she said, but she didn't look it. She continue to wear her gentle smile."
 msgstr ""
 
 #: 00406:99
-
-msgid "{Mei}\n\"But most of all, I wanted to know why you boys did such a thing. I was sure there had to be a reason for it.\""
+msgid ""
+"{Mei}\n"
+"\"But most of all, I wanted to know why you boys did such a thing. I was sure there had to be a reason for it.\""
 msgstr ""
 
 #: 00406:100
-
-msgid "{Kazushi}\n\"I'm sorry there wasn't a better reason.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm sorry there wasn't a better reason.\""
 msgstr ""
 
 #: 00406:103
-
-msgid "{Mei}\n\"No, I'm glad there isn't something bothering you all. Now, I know you're young boys and you can't help but be interested, but don't do that again, alright?\""
+msgid ""
+"{Mei}\n"
+"\"No, I'm glad there isn't something bothering you all. Now, I know you're young boys and you can't help but be interested, but don't do that again, alright?\""
 msgstr ""
 
 #: 00406:104
-
-msgid "{Kazushi}\n\"I won't. I really do feel bad about it.\""
+msgid ""
+"{Kazushi}\n"
+"\"I won't. I really do feel bad about it.\""
 msgstr ""
 
 #: 00406:105
-
 msgid "I bowed my head to her once again. Then I felt sensei's soft hand reach over and rub it."
 msgstr ""
 
 #: 00406:108
-
-msgid "{Mei}\n\"If you feel bad for what you've done, then that's enough. What's important is not to make the same mistake twice. Now, that's the end of this discussion.\""
+msgid ""
+"{Mei}\n"
+"\"If you feel bad for what you've done, then that's enough. What's important is not to make the same mistake twice. Now, that's the end of this discussion.\""
 msgstr ""
 
 #: 00406:109
-
 msgid "She took her hand off of my head. I kind of wish she hadn't."
 msgstr ""
 
 #: 00406:110
-
-msgid "{Kazushi}\n\"Umm, that's it? No punishment?\""
+msgid ""
+"{Kazushi}\n"
+"\"Umm, that's it? No punishment?\""
 msgstr ""
 
 #: 00406:113
-
-msgid "{Mei}\n\"No, that's it. Look, your noodles are starting to go limp. Hurry up and eat.\""
+msgid ""
+"{Mei}\n"
+"\"No, that's it. Look, your noodles are starting to go limp. Hurry up and eat.\""
 msgstr ""
 
 #: 00406:114
-
 msgid "We were forgiven so easily. Yagami-sensei would've given us a few good blows each. I was almost let down by how easily we got off."
 msgstr ""
 
 #: 00406:117
-
-msgid "{Mei}\n\"They're a little soft, but they're still good, aren't they?\""
+msgid ""
+"{Mei}\n"
+"\"They're a little soft, but they're still good, aren't they?\""
 msgstr ""
 
 #: 00406:118
-
 msgid "I couldn't take my eyes off her face."
 msgstr ""
 
 #: 00406:119
-
 msgid "Mei-sensei really was like a kind older sister. No wonder she was well liked by both the guys and the girls."
 msgstr ""
 
 #: 00406:120
-
 msgid "She really was an ideal woman."
 msgstr ""
 
 #: 00406:121
-
-msgid "{Kazushi}\n\"..................\""
+msgid ""
+"{Kazushi}\n"
+"\"..................\""
 msgstr ""
 
 #: 00406:122
-
 msgid "But something was missing. I wanted to see Mei-sensei acting more angry, or shy, or something else."
 msgstr ""
 
 #: 00406:123
-
 msgid "Maybe I'm just being picky."
 msgstr ""
 
 #: 00406:126
-
-msgid "{Mei}\n\"What's wrong? You're not hungry?\""
+msgid ""
+"{Mei}\n"
+"\"What's wrong? You're not hungry?\""
 msgstr ""
 
 #: 00406:127
-
-msgid "{Kazushi}\n\"Oh, no, it's nothing. I'll eat them now.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh, no, it's nothing. I'll eat them now.\""
 msgstr ""
 
 #: 00406:128
-
 msgid "I bet those are the kinds of expressions Mei-sensei only shows to someone special to her."
 msgstr ""
 
 #: 00406:129
-
 msgid "To someone special..."
 msgstr ""
 
 #: 00406:130
-
 msgid "I wonder what kind of man a mature woman like Mei-sensei likes?"
 msgstr ""
 
 #: 00406:133
-
-msgid "{Mei}\n\"That was delicious.\""
+msgid ""
+"{Mei}\n"
+"\"That was delicious.\""
 msgstr ""
 
 #: 00406:134
-
 msgid "She looked up at the sky with satisfaction after finishing her ramen."
 msgstr ""
 
 #: 00406:136
-
 msgid "The night sky was filled with a blanket of stars and a waning moon."
 msgstr ""
 
 #: 00406:137
-
 msgid "We could never see this in the city."
 msgstr ""
 
 #: 00406:138
-
-msgid "{Mei}\n\"The moon's beautiful tonight.\""
+msgid ""
+"{Mei}\n"
+"\"The moon's beautiful tonight.\""
 msgstr ""
 
 #: 00406:139
-
 msgid "To me, Mei-sensei was far more beautiful than the moon and all the stars in the sky combined."
 msgstr ""
 
 #: 00406:151
-
 msgid "Morning classes ended and it was time for lunch."
 msgstr ""
 
 #: 00406:154
-
-msgid "{Mizuki}\n\"..................\""
+msgid ""
+"{Mizuki}\n"
+"\"..................\""
 msgstr ""
 
 #: 00406:155
-
 msgid "Hinata-san sits next to me, but we still haven't really had a chance to talk. I think it's because she's avoiding me."
 msgstr ""
 
 #: 00406:158
-
-msgid "{Mizuki}\n\"..................\""
+msgid ""
+"{Mizuki}\n"
+"\"..................\""
 msgstr ""
 
 #: 00406:159
-
 msgid "Hinata-san left her seat without a word. She does that every time class ends - immediately going somewhere else."
 msgstr ""
 
 #: 00406:160
-
 msgid "That's why I've never had a proper conversation with her."
 msgstr ""
 
 #: 00406:161
-
-msgid "{Kazushi}\n\"Hey, Hinata-san...\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, Hinata-san...\""
 msgstr ""
 
 #: 00406:164
-
-msgid "{Mizuki}\n\"Huh? What?\""
+msgid ""
+"{Mizuki}\n"
+"\"Huh? What?\""
 msgstr ""
 
 #: 00406:165
-
 msgid "She didn't expect me to talk to her and seemed a little surprised."
 msgstr ""
 
 #: 00406:168
-
-msgid "{Mizuki}\n\"What can I do for you?\""
+msgid ""
+"{Mizuki}\n"
+"\"What can I do for you?\""
 msgstr ""
 
 #: 00406:169
-
-msgid "{Kazushi}\n\"Nothing. I just wanted to talk to you.\""
+msgid ""
+"{Kazushi}\n"
+"\"Nothing. I just wanted to talk to you.\""
 msgstr ""
 
 #: 00406:172
-
-msgid "{Mizuki}\n\"What's there to talk about?\""
+msgid ""
+"{Mizuki}\n"
+"\"What's there to talk about?\""
 msgstr ""
 
 #: 00406:173
-
-msgid "{Kazushi}\n\"Well... just to chat.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well... just to chat.\""
 msgstr ""
 
 #: 00406:176
-
-msgid "{Mizuki}\n\"......Did you remember something, by chance?\""
+msgid ""
+"{Mizuki}\n"
+"\"......Did you remember something, by chance?\""
 msgstr ""
 
 #: 00406:177
-
-msgid "{Kazushi}\n\"Remember something? What do you mean?\""
+msgid ""
+"{Kazushi}\n"
+"\"Remember something? What do you mean?\""
 msgstr ""
 
 #: 00406:180
-
 msgid "Hinata-san stared at me for a few seconds, and then averted her eyes in relief."
 msgstr ""
 
 #: 00406:181
-
-msgid "{Kazushi}\n\"What's that look for?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's that look for?\""
 msgstr ""
 
 #: 00406:184
-
-msgid "{Mizuki}\n\"Nothing, really. Sorry, but I need to be somewhere. Later.\""
+msgid ""
+"{Mizuki}\n"
+"\"Nothing, really. Sorry, but I need to be somewhere. Later.\""
 msgstr ""
 
 #: 00406:189
-
 msgid "After that, she dashed off. I was fascinated by the animal-like nimbleness and supple movements of her body."
 msgstr ""
 
 #: 00406:190
-
-msgid "{Kazushi}\n\"Amazing, it's like her legs are made of springs. I wonder if she's an athlete.\""
+msgid ""
+"{Kazushi}\n"
+"\"Amazing, it's like her legs are made of springs. I wonder if she's an athlete.\""
 msgstr ""
 
 #: 00406:193
-
-msgid "{Pierre}\n\"What are you staring at? Are you interested in Mizuki-chan?\""
+msgid ""
+"{Pierre}\n"
+"\"What are you staring at? Are you interested in Mizuki-chan?\""
 msgstr ""
 
 #: 00406:194
-
 msgid "Pierre piped in with a chiding tone and a broad grin."
 msgstr ""
 
 #: 00406:195
-
-msgid "{Kazushi}\n\"Hey, Pierre.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, Pierre.\""
 msgstr ""
 
 #: 00406:202
-
 msgid "Appo and Daigo were with him. They were all smiling, which means they must have caught me staring at Mizuki."
 msgstr ""
 
 #: 00406:203
-
-msgid "{Daigo}\n\"You two aren't getting along, are you?\""
+msgid ""
+"{Daigo}\n"
+"\"You two aren't getting along, are you?\""
 msgstr ""
 
 #: 00406:204
-
-msgid "{Kazushi}\n\"Well, I don't quite think that's it. I feel like she's being a little awkward or trying to keep her distance.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, I don't quite think that's it. I feel like she's being a little awkward or trying to keep her distance.\""
 msgstr ""
 
 #: 00406:205
-
-msgid "{Appo}\n\"Maybe she just hates you, physically speaking. Some people are compatible, so some have to be incompatible too.\""
+msgid ""
+"{Appo}\n"
+"\"Maybe she just hates you, physically speaking. Some people are compatible, so some have to be incompatible too.\""
 msgstr ""
 
 #: 00406:206
-
-msgid "{Kazushi}\n\"Physically? It's bad, though, when you need to sit next to each other in class every day.\""
+msgid ""
+"{Kazushi}\n"
+"\"Physically? It's bad, though, when you need to sit next to each other in class every day.\""
 msgstr ""
 
 #: 00406:209
-
-msgid "{Pierre}\n\"We should be changing our seats, soon. I'm going to sit right in front of Mei-chan.\""
+msgid ""
+"{Pierre}\n"
+"\"We should be changing our seats, soon. I'm going to sit right in front of Mei-chan.\""
 msgstr ""
 
 #: 00406:212
-
-msgid "{Appo}\n\"Right, except I'm the one in front of Mei-chan.\""
+msgid ""
+"{Appo}\n"
+"\"Right, except I'm the one in front of Mei-chan.\""
 msgstr ""
 
 #: 00406:215
-
-msgid "{Daigo}\n\"You can both sit in front of her.\""
+msgid ""
+"{Daigo}\n"
+"\"You can both sit in front of her.\""
 msgstr ""
 
 #: 00406:216
-
-msgid "{Kazushi}\n\"Seat changes...\""
+msgid ""
+"{Kazushi}\n"
+"\"Seat changes...\""
 msgstr ""
 
 #: 00406:217
-
 msgid "I hoped to get along with Mizuki before that happened."
 msgstr ""
 
 #: 00406:220
-
-msgid "{Appo}\n\"Getting down over it won't help. Let's go grab lunch. There's bound to be plenty of girls in the cafeteria.\""
+msgid ""
+"{Appo}\n"
+"\"Getting down over it won't help. Let's go grab lunch. There's bound to be plenty of girls in the cafeteria.\""
 msgstr ""
 
 #: 00406:223
-
-msgid "{Pierre}\n\"Like mature, upper class girls. When I think they drop their handkerchief, I'll pick it up and go after them.\""
+msgid ""
+"{Pierre}\n"
+"\"Like mature, upper class girls. When I think they drop their handkerchief, I'll pick it up and go after them.\""
 msgstr ""
 
 #: 00406:224
-
-msgid "{Daigo}\n\"You want to play drop the handkerchief?\""
+msgid ""
+"{Daigo}\n"
+"\"You want to play drop the handkerchief?\""
 msgstr ""
 
 #: 00406:227
-
-msgid "{Appo}\n\"Come on, let's go!\""
+msgid ""
+"{Appo}\n"
+"\"Come on, let's go!\""
 msgstr ""
 
 #: 00406:234
-
-msgid "{Haruka}\n\"Kyah!\""
+msgid ""
+"{Haruka}\n"
+"\"Kyah!\""
 msgstr ""
 
 #: 00406:241
-
-msgid "{Kazushi}\n\"Uwah!?\""
+msgid ""
+"{Kazushi}\n"
+"\"Uwah!?\""
 msgstr ""
 
 #: 00406:242
-
 msgid "I bumped into someone as soon as I stepped out of the classroom."
 msgstr ""
 
 #: 00406:245
-
-msgid "{Haruka}\n\"Owww... I hit my nose.\""
+msgid ""
+"{Haruka}\n"
+"\"Owww... I hit my nose.\""
 msgstr ""
 
 #: 00406:246
-
 msgid "She must have hit her nose on my chest. She had tears in her eyes."
 msgstr ""
 
 #: 00406:247
-
-msgid "{Kazushi}\n\"Ah, sorry! Your nose isn't bleeding is it?\""
+msgid ""
+"{Kazushi}\n"
+"\"Ah, sorry! Your nose isn't bleeding is it?\""
 msgstr ""
 
 #: 00406:250
-
-msgid "{Haruka}\n\"Ah... Oh, Kazushi-kun. No, I don't think my nose is bleeding.\""
+msgid ""
+"{Haruka}\n"
+"\"Ah... Oh, Kazushi-kun. No, I don't think my nose is bleeding.\""
 msgstr ""
 
 #: 00406:251
-
 msgid "She rubbed her nose, but there wasn't any blood."
 msgstr ""
 
 #: 00406:256
-
-msgid "{Appo}\n\"Haruka-chan, you came to visit our class AGAIN?\""
+msgid ""
+"{Appo}\n"
+"\"Haruka-chan, you came to visit our class AGAIN?\""
 msgstr ""
 
 #: 00406:263
-
-msgid "{Pierre}\n\"Why do you like our class so much? Don't tell me there's a guy you're interested in?\""
+msgid ""
+"{Pierre}\n"
+"\"Why do you like our class so much? Don't tell me there's a guy you're interested in?\""
 msgstr ""
 
 #: 00406:266
-
-msgid "{Haruka}\n\"...kind of?\""
+msgid ""
+"{Haruka}\n"
+"\"...kind of?\""
 msgstr ""
 
 #: 00406:271
-
 msgid "They were joking, but her answer was a surprise. Haruka's interested in some guy in our class?"
 msgstr ""
 
 #: 00406:276
-
-msgid "{Appo}\n\"Ah, I knew it. Girls who've lived in a boarding school without any male contact are helpless before my pheromones.\""
+msgid ""
+"{Appo}\n"
+"\"Ah, I knew it. Girls who've lived in a boarding school without any male contact are helpless before my pheromones.\""
 msgstr ""
 
 #: 00406:281
-
-msgid "{Daigo}\n\"I don't think it's you, Appo. I'd even go so far as to bet 1,000,000 yen on that.\""
+msgid ""
+"{Daigo}\n"
+"\"I don't think it's you, Appo. I'd even go so far as to bet 1,000,000 yen on that.\""
 msgstr ""
 
 #: 00406:284
-
-msgid "{Appo}\n\"What?! But the fact that I can't accept that bet makes me ashamed of myself.\""
+msgid ""
+"{Appo}\n"
+"\"What?! But the fact that I can't accept that bet makes me ashamed of myself.\""
 msgstr ""
 
 #: 00406:289
-
-msgid "{Haruka}\n\"Hmm, but I'm not sure yet. I need to find out whether or not it's true.\""
+msgid ""
+"{Haruka}\n"
+"\"Hmm, but I'm not sure yet. I need to find out whether or not it's true.\""
 msgstr ""
 
 #: 00406:294
-
-msgid "{Pierre}\n\"I see. You need to discern whether or not it's true love for you?\""
+msgid ""
+"{Pierre}\n"
+"\"I see. You need to discern whether or not it's true love for you?\""
 msgstr ""
 
 #: 00406:295
-
-msgid "{Kazushi}\n\"Hmm, that's cautious. But if it was true love, wouldn't you be unable to think about it or stop yourself?\""
+msgid ""
+"{Kazushi}\n"
+"\"Hmm, that's cautious. But if it was true love, wouldn't you be unable to think about it or stop yourself?\""
 msgstr ""
 
 #: 00406:298
-
-msgid "{Haruka}\n\"Huh? Love?\""
+msgid ""
+"{Haruka}\n"
+"\"Huh? Love?\""
 msgstr ""
 
 #: 00406:301
-
-msgid "{Pierre}\n\"Good point, Kazushi. Love is something you feel. I don't think falling in love is something you really think about when it happens.\""
+msgid ""
+"{Pierre}\n"
+"\"Good point, Kazushi. Love is something you feel. I don't think falling in love is something you really think about when it happens.\""
 msgstr ""
 
 #: 00406:304
-
-msgid "{Haruka}\n\"Uhh, umm, I didn't mean love... but you might be right about feeling things. Yeah, I feel it...\""
+msgid ""
+"{Haruka}\n"
+"\"Uhh, umm, I didn't mean love... but you might be right about feeling things. Yeah, I feel it...\""
 msgstr ""
 
 #: 00406:305
-
 msgid "Haruka trailed off, mumbling to herself. I wonder what kind of guy she's into? It'd be nice if I could find my destined partner by feeling."
 msgstr ""
 
 #: 00406:309
-
-msgid "{Daigo}\n\"Anyways, food. I'm getting in a foul mood.\""
+msgid ""
+"{Daigo}\n"
+"\"Anyways, food. I'm getting in a foul mood.\""
 msgstr ""
 
 #: 00406:310
-
-msgid "{Pierre}\n\"Alright, hold on a little longer.\""
+msgid ""
+"{Pierre}\n"
+"\"Alright, hold on a little longer.\""
 msgstr ""
 
 #: 00406:311
-
-msgid "{Kazushi}\n\"Oh yeah, we're heading down for food. Did you want to join us, Haruka?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh yeah, we're heading down for food. Did you want to join us, Haruka?\""
 msgstr ""
 
 #: 00406:315
-
-msgid "{Haruka}\n\"Oh, sure, I'm coming, I'm coming. I was thinking of getting lunch too.\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, sure, I'm coming, I'm coming. I was thinking of getting lunch too.\""
 msgstr ""
 
 #: 00406:322
-
-msgid "{Appo}\n\"Did you hear? 'I'm coming.' Say it again!\""
+msgid ""
+"{Appo}\n"
+"\"Did you hear? 'I'm coming.' Say it again!\""
 msgstr ""
 
 #: 00406:323
-
-msgid "{Haruka}\n\"Hmm? Sure... I'm coming, I'm coming!\""
+msgid ""
+"{Haruka}\n"
+"\"Hmm? Sure... I'm coming, I'm coming!\""
 msgstr ""
 
 #: 00406:324
-
-msgid "{Pierre}\n\"Ooh! So good!\""
+msgid ""
+"{Pierre}\n"
+"\"Ooh! So good!\""
 msgstr ""
 
 #: 00406:325
-
-msgid "{Appo}\n\"Th-then, hey, what's another word for cat?\""
+msgid ""
+"{Appo}\n"
+"\"Th-then, hey, what's another word for cat?\""
 msgstr ""
 
 #: 00406:326
-
-msgid "{Kazushi}\n\"Huh? Hey, you're not...\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Hey, you're not...\""
 msgstr ""
 
 #: 00406:327
-
 msgid "Is he really going to make her say it?"
 msgstr ""
 
 #: 00406:330
-
-msgid "{Haruka}\n\"Umm... A pussy?\""
+msgid ""
+"{Haruka}\n"
+"\"Umm... A pussy?\""
 msgstr ""
 
 #: 00406:331
-
 msgid "She said it!"
 msgstr ""
 
 #: 00406:332
-
-msgid "{Pierre}\n\"Again! Without the 'a'!\""
+msgid ""
+"{Pierre}\n"
+"\"Again! Without the 'a'!\""
 msgstr ""
 
 #: 00406:333
-
-msgid "{Haruka}\n\"Without 'a'? Umm... pussy?\""
+msgid ""
+"{Haruka}\n"
+"\"Without 'a'? Umm... pussy?\""
 msgstr ""
 
 #: 00406:336
-
-msgid "{Appo}\n\"Keep it coming! Pussy, pussy!\""
+msgid ""
+"{Appo}\n"
+"\"Keep it coming! Pussy, pussy!\""
 msgstr ""
 
 #: 00406:339
-
-msgid "{Haruka}\n\"Pussy, pussy? Pussy! Pussy!\""
+msgid ""
+"{Haruka}\n"
+"\"Pussy, pussy? Pussy! Pussy!\""
 msgstr ""
 
 #: 00406:342
-
-msgid "{Pierre}\n\"Now say it like it's your cat!\""
+msgid ""
+"{Pierre}\n"
+"\"Now say it like it's your cat!\""
 msgstr ""
 
 #: 00406:345
-
-msgid "{Haruka}\n\"My pussy! My pussy!\""
+msgid ""
+"{Haruka}\n"
+"\"My pussy! My pussy!\""
 msgstr ""
 
 #: 00406:351
-
-msgid "{Pierre}\n\"Ohhh!! Amazing! That was amazing, Haruka-chan!\""
+msgid ""
+"{Pierre}\n"
+"\"Ohhh!! Amazing! That was amazing, Haruka-chan!\""
 msgstr ""
 
 #: 00406:352
-
-msgid "{Appo}\n\"Haruka-chan, you're my angel!\""
+msgid ""
+"{Appo}\n"
+"\"Haruka-chan, you're my angel!\""
 msgstr ""
 
 #: 00406:353
-
 msgid "The two of them were both moved to tears."
 msgstr ""
 
 #: 00406:360
-
-msgid "{Daigo}\n\"You guys are terrible.\""
+msgid ""
+"{Daigo}\n"
+"\"You guys are terrible.\""
 msgstr ""
 
 #: 00406:361
-
-msgid "{Haruka}\n\"Hey, what's going on? Why did that make them so happy?\""
+msgid ""
+"{Haruka}\n"
+"\"Hey, what's going on? Why did that make them so happy?\""
 msgstr ""
 
 #: 00406:362
-
-msgid "{Kazushi}\n\"Don't think about it. Also, you should never mention it to anybody else.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't think about it. Also, you should never mention it to anybody else.\""
 msgstr ""
 
 #: 00406:363
-
 msgid "We'd be even more infamous if she does."
 msgstr ""
 
 #: 00406:371
-
-msgid "{Pierre}\n\"I love Haruka. She plays along so well.\""
+msgid ""
+"{Pierre}\n"
+"\"I love Haruka. She plays along so well.\""
 msgstr ""
 
 #: 00406:372
-
-msgid "{Appo}\n\"Me too! I'm so touched!\""
+msgid ""
+"{Appo}\n"
+"\"Me too! I'm so touched!\""
 msgstr ""
 
 #: 00406:375
-
-msgid "{Haruka}\n\"What? Really? I don't know why, but thank you.\""
+msgid ""
+"{Haruka}\n"
+"\"What? Really? I don't know why, but thank you.\""
 msgstr ""
 
 #: 00406:376
-
 msgid "She's even thanking us. I couldn't get my mind off of Haruka's 'pussy'. She is definitely not a girl who can be safely left alone."
 msgstr ""
 
 #: 00406:383
-
-msgid "{Daigo}\n\"I wonder what there is to eat for lunch today.\""
+msgid ""
+"{Daigo}\n"
+"\"I wonder what there is to eat for lunch today.\""
 msgstr ""
 
 #: 00406:388
-
-msgid "{Haruka}\n\"The cafeteria ladies come to cook lunch, so it's just like any other school lunch. There's a shop too, so there's a lot of variety for lunch.\""
+msgid ""
+"{Haruka}\n"
+"\"The cafeteria ladies come to cook lunch, so it's just like any other school lunch. There's a shop too, so there's a lot of variety for lunch.\""
 msgstr ""
 
 #: 00406:389
-
-msgid "{Kazushi}\n\"Sounds good.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sounds good.\""
 msgstr ""
 
 #: 00406:390
-
 msgid "The menu was posted on the counter."
 msgstr ""
 
 #: 00406:394
-
-msgid "{Pierre}\n\"She's right. There's so much to choose from.\""
+msgid ""
+"{Pierre}\n"
+"\"She's right. There's so much to choose from.\""
 msgstr ""
 
 #: 00406:395
-
 msgid "Just as Haruka said, there was a wide variety of options. There was Western food, Chinese food, and various donburi too."
 msgstr ""
 
 #: 00406:396
-
-msgid "{Kazushi}\n\"No wonder it's so crowded.\""
+msgid ""
+"{Kazushi}\n"
+"\"No wonder it's so crowded.\""
 msgstr ""
 
 #: 00406:397
-
 msgid "We could barely spot any free seats."
 msgstr ""
 
 #: 00406:403
-
-msgid "{Haruka}\n\"Our only choice is to buy bread from the shop or get lunch here. Even on breaks, we're forbidden to leave the academy during school. Also, there are some girls who make their own lunches.\""
+msgid ""
+"{Haruka}\n"
+"\"Our only choice is to buy bread from the shop or get lunch here. Even on breaks, we're forbidden to leave the academy during school. Also, there are some girls who make their own lunches.\""
 msgstr ""
 
 #: 00406:405
-
-msgid "{Kazushi}\n\"Bento boxes?\""
+msgid ""
+"{Kazushi}\n"
+"\"Bento boxes?\""
 msgstr ""
 
 #: 00406:407
-
 msgid "If I had a girlfriend, I wonder if she'd make one for me? We could eat together in the shade of a tree, and once we're done, I could fall asleep on her lap..."
 msgstr ""
 
 #: 00406:408
-
-msgid "{Kazushi}\n\"It's a must.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's a must.\""
 msgstr ""
 
 #: 00406:414
-
-msgid "{Haruka}\n\"Um... guys... It looks like Kazushi-kun's brain shut off.\""
+msgid ""
+"{Haruka}\n"
+"\"Um... guys... It looks like Kazushi-kun's brain shut off.\""
 msgstr ""
 
 #: 00406:415
-
-msgid "{Appo}\n\"Just leave him alone. It's a pretty popular disease.\""
+msgid ""
+"{Appo}\n"
+"\"Just leave him alone. It's a pretty popular disease.\""
 msgstr ""
 
 #: 00406:416
-
-msgid "{Haruka}\n\"It's infectious? That's scary.\""
+msgid ""
+"{Haruka}\n"
+"\"It's infectious? That's scary.\""
 msgstr ""
 
 #: 00406:417
-
-msgid "{Kazushi}\n\"Huh? What's wrong?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? What's wrong?\""
 msgstr ""
 
 #: 00406:418
-
 msgid "Everyone was looking at me weird."
 msgstr ""
 
 #: 00406:421
-
-msgid "{Haruka}\n\"You need to take better care of yourself.\""
+msgid ""
+"{Haruka}\n"
+"\"You need to take better care of yourself.\""
 msgstr ""
 
 #: 00406:422
-
-msgid "{Kazushi}\n\"What are you talking about?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you talking about?\""
 msgstr ""
 
 #: 00406:427
-
-msgid "{Pierre}\n\"All right! Let's order up some grub!\""
+msgid ""
+"{Pierre}\n"
+"\"All right! Let's order up some grub!\""
 msgstr ""
 
 #: 00406:431
-
-msgid "{Appo}\n\"Hey! There's Mei.\""
+msgid ""
+"{Appo}\n"
+"\"Hey! There's Mei.\""
 msgstr ""
 
 #: 00406:435
-
 msgid "We saw Mei-sensei eating in the corner with a few other girls around her."
 msgstr ""
 
 #: 00406:436
-
-msgid "{Kazushi}\n\"Stop calling her just Mei.\""
+msgid ""
+"{Kazushi}\n"
+"\"Stop calling her just Mei.\""
 msgstr ""
 
 #: 00406:440
-
-msgid "{Appo}\n\"Mei's popular with the ladies too. That's my woman.\""
+msgid ""
+"{Appo}\n"
+"\"Mei's popular with the ladies too. That's my woman.\""
 msgstr ""
 
 #: 00406:445
-
-msgid "{Haruka}\n\"Huh? Your woman? Mei-chan is?\""
+msgid ""
+"{Haruka}\n"
+"\"Huh? Your woman? Mei-chan is?\""
 msgstr ""
 
 #: 00406:446
-
-msgid "{Kazushi}\n\"Don't mind him, that's his imagination running rampant. It's a pretty popular disease.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't mind him, that's his imagination running rampant. It's a pretty popular disease.\""
 msgstr ""
 
 #: 00406:449
-
-msgid "{Haruka}\n\"It seems like everybody's got some kind of disease.\""
+msgid ""
+"{Haruka}\n"
+"\"It seems like everybody's got some kind of disease.\""
 msgstr ""
 
 #: 00406:452
-
-msgid "{Appo}\n\"I'm going to sit next to her! Let me eat lunch with my Mei!\""
+msgid ""
+"{Appo}\n"
+"\"I'm going to sit next to her! Let me eat lunch with my Mei!\""
 msgstr ""
 
 #: 00406:456
-
-msgid "{Pierre}\n\"First, let's buy our lunch. What should I get?\""
+msgid ""
+"{Pierre}\n"
+"\"First, let's buy our lunch. What should I get?\""
 msgstr ""
 
 #: 00406:460
-
-msgid "{Daigo}\n\"Seafood pizza, BLT sandwich, caesar salad... These are all barely snacks.\""
+msgid ""
+"{Daigo}\n"
+"\"Seafood pizza, BLT sandwich, caesar salad... These are all barely snacks.\""
 msgstr ""
 
 #: 00406:464
-
-msgid "{Haruka}\n\"Of course. This used to be an all-girls' school, you know.\""
+msgid ""
+"{Haruka}\n"
+"\"Of course. This used to be an all-girls' school, you know.\""
 msgstr ""
 
 #: 00406:465
-
 msgid "There were a lot of items on the menu for the girls. That means the bowls, ramen, fried rice, and such at the end of the menu must have been added for the guys."
 msgstr ""
 
 #: 00406:468
-
-msgid "{Daigo}\n\"I'm going with ramen and katsudon.\""
+msgid ""
+"{Daigo}\n"
+"\"I'm going with ramen and katsudon.\""
 msgstr ""
 
 #: 00406:472
-
-msgid "{Pierre}\n\"Treating ramen as a side of soup? I'll take a BBQ beef meal.\""
+msgid ""
+"{Pierre}\n"
+"\"Treating ramen as a side of soup? I'll take a BBQ beef meal.\""
 msgstr ""
 
 #: 00406:477
-
-msgid "{Haruka}\n\"Wow. Boys eat a lot for lunch. What're you going to get, Kazushi-kun?\""
+msgid ""
+"{Haruka}\n"
+"\"Wow. Boys eat a lot for lunch. What're you going to get, Kazushi-kun?\""
 msgstr ""
 
 #: 00406:478
-
-msgid "{Kazushi}\n\"Let's see......\""
+msgid ""
+"{Kazushi}\n"
+"\"Let's see......\""
 msgstr ""
 
 #: 00406:479
-
 msgid "I looked at the prices. Everything was reasonably priced. It's my first meal, so I can be a little extravagant."
 msgstr ""
 
 #: 00406:480
-
-msgid "{Kazushi}\n\"Oh!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh!\""
 msgstr ""
 
 #: 00406:481
-
 msgid "I suddenly remembered something terrible. I quickly pulled out my wallet and looked inside. Just as I thought, it was nearly empty.\""
 msgstr ""
 
 #: 00406:482
-
-msgid "{Kazushi}\n\"Oh no......\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh no......\""
 msgstr ""
 
 #: 00406:485
-
-msgid "{Haruka}\n\"What's wrong?\""
+msgid ""
+"{Haruka}\n"
+"\"What's wrong?\""
 msgstr ""
 
 #: 00406:486
-
 msgid "Because I had to pay Ran hush money and other expenses, I had used up a lot of it. I didn't have any leeway now."
 msgstr ""
 
 #: 00406:487
-
 msgid "I'm not completely out yet, but I have to last the month on what's left inside. I can't afford much."
 msgstr ""
 
 #: 00406:492
-
-msgid "{Pierre}\n\"What's wrong? You broke?\""
+msgid ""
+"{Pierre}\n"
+"\"What's wrong? You broke?\""
 msgstr ""
 
 #: 00406:493
-
-msgid "{Kazushi}\n\"Not quite, but I forgot that I'm getting close.\""
+msgid ""
+"{Kazushi}\n"
+"\"Not quite, but I forgot that I'm getting close.\""
 msgstr ""
 
 #: 00406:497
-
-msgid "{Daigo}\n\"Even though we just got here? Kazushi, what have you been spending it on?\""
+msgid ""
+"{Daigo}\n"
+"\"Even though we just got here? Kazushi, what have you been spending it on?\""
 msgstr ""
 
 #: 00406:498
-
-msgid "{Kazushi}\n\"I've actually had to lay out for quite a bit.\""
+msgid ""
+"{Kazushi}\n"
+"\"I've actually had to lay out for quite a bit.\""
 msgstr ""
 
 #: 00406:501
-
 msgid "What should I do?"
 msgstr ""
 
 #: 00406:502
-
 msgid "We live in dorms, so I don't think I'll need money for anything other than food, but it's only our second day, so I don't know how much I'll need."
 msgstr ""
 
 #: 00406:503
-
 msgid "There might be some point where we go to the town to hang out, and I'd like to go for those kinds of events. If I ever get a date, I'll need to have money or I'll look stupid."
 msgstr ""
 
 #: 00406:504
-
 msgid "I think I'll save a few yen and get some bread or something from the vending machine."
 msgstr ""
 
 #: 00406:505
-
-msgid "{Kazushi}\n\"Sorry, guys. I'm gonna grab some bread from the machines.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sorry, guys. I'm gonna grab some bread from the machines.\""
 msgstr ""
 
 #: 00406:508
-
-msgid "{Appo}\n\"You're that hard up?\""
+msgid ""
+"{Appo}\n"
+"\"You're that hard up?\""
 msgstr ""
 
 #: 00406:509
-
-msgid "{Kazushi}\n\"Yep.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yep.\""
 msgstr ""
 
 #: 00406:514
-
-msgid "{Daigo}\n\"Is that going to be enough?\""
+msgid ""
+"{Daigo}\n"
+"\"Is that going to be enough?\""
 msgstr ""
 
 #: 00406:515
-
-msgid "{Kazushi}\n\"I'm a man. I'll survive.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm a man. I'll survive.\""
 msgstr ""
 
 #: 00406:516
-
 msgid "I'm a liar. I knew I'd be starving later on."
 msgstr ""
 
 #: 00406:521
-
-msgid "{Haruka}\n\"If you want, you can have some of my lunch.\""
+msgid ""
+"{Haruka}\n"
+"\"If you want, you can have some of my lunch.\""
 msgstr ""
 
 #: 00406:522
-
-msgid "{Kazushi}\n\"Huh? Your lunch?\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? Your lunch?\""
 msgstr ""
 
 #: 00406:525
-
-msgid "{Haruka}\n\"I make my lunch every day. I came here just to eat with you guys.\""
+msgid ""
+"{Haruka}\n"
+"\"I make my lunch every day. I came here just to eat with you guys.\""
 msgstr ""
 
 #: 00406:526
-
-msgid "{Kazushi}\n\"Really? But I'd feel bad.\""
+msgid ""
+"{Kazushi}\n"
+"\"Really? But I'd feel bad.\""
 msgstr ""
 
 #: 00406:527
-
-msgid "{Haruka}\n\"It's fine, it's fine. It doesn't bother me. I usually don't eat much anyways, and I'm not that hungry either.\""
+msgid ""
+"{Haruka}\n"
+"\"It's fine, it's fine. It doesn't bother me. I usually don't eat much anyways, and I'm not that hungry either.\""
 msgstr ""
 
 #: 00406:528
-
-msgid "{Kazushi}\n\"Yeah, but...\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, but...\""
 msgstr ""
 
 #: 00406:529
-
 msgid "I felt bad taking food away from her. We'd just met yesterday."
 msgstr ""
 
 #: 00406:533
-
-msgid "{Mei}\n\"You look like you're having some trouble.\""
+msgid ""
+"{Mei}\n"
+"\"You look like you're having some trouble.\""
 msgstr ""
 
 #: 00406:534
-
-msgid "{Kazushi}\n\"Ah, sensei.\""
+msgid ""
+"{Kazushi}\n"
+"\"Ah, sensei.\""
 msgstr ""
 
 #: 00406:535
-
 msgid "Mei-sensei was standing in front of me, holding her purse. She must be here to buy something."
 msgstr ""
 
 #: 00406:536
-
-msgid "{Mei}\n\"What's the problem?\""
+msgid ""
+"{Mei}\n"
+"\"What's the problem?\""
 msgstr ""
 
 #: 00406:541
-
-msgid "{Appo}\n\"Oh, it's nothing for you to worry about, Mei: Kazushi's just a poor fool. Now why don't we leave them and eat together.\""
+msgid ""
+"{Appo}\n"
+"\"Oh, it's nothing for you to worry about, Mei: Kazushi's just a poor fool. Now why don't we leave them and eat together.\""
 msgstr ""
 
 #: 00406:545
-
-msgid "{Pierre}\n\"He's got great nerve to drop the honorific in front of her.\""
+msgid ""
+"{Pierre}\n"
+"\"He's got great nerve to drop the honorific in front of her.\""
 msgstr ""
 
 #: 00406:548
-
-msgid "{Appo}\n\"What? Was I doing it again?\nI was in my own world......\""
+msgid ""
+"{Appo}\n"
+"\"What? Was I doing it again?\n"
+"I was in my own world......\""
 msgstr ""
 
 #: 00406:549
-
 msgid "Appo's sickness was getting a lot worse."
 msgstr ""
 
 #: 00406:554
-
-msgid "{Mei}\n\"Haruma-kun, you don't have any lunch money? What are you planning to do?\""
+msgid ""
+"{Mei}\n"
+"\"Haruma-kun, you don't have any lunch money? What are you planning to do?\""
 msgstr ""
 
 #: 00406:555
-
 msgid "It was rather embarrassing to have everybody worrying about me because of money."
 msgstr ""
 
 #: 00406:560
-
-msgid "{Appo}\n\"Am I just being ignored?\""
+msgid ""
+"{Appo}\n"
+"\"Am I just being ignored?\""
 msgstr ""
 
 #: 00406:564
-
-msgid "{Pierre}\n\"You started acting like you were the king. Kazushi is in a position to trigger her maternal instincts. My conclusion is that Mei-chan goes for younger men.\""
+msgid ""
+"{Pierre}\n"
+"\"You started acting like you were the king. Kazushi is in a position to trigger her maternal instincts. My conclusion is that Mei-chan goes for younger men.\""
 msgstr ""
 
 #: 00406:567
-
-msgid "{Appo}\n\"Oh no! My Mei!\""
+msgid ""
+"{Appo}\n"
+"\"Oh no! My Mei!\""
 msgstr ""
 
 #: 00406:572
-
-msgid "{Mei}\n\"You're young and hungry, right? You shouldn't skip lunch. You're a growing boy who needs his nutrition.\""
+msgid ""
+"{Mei}\n"
+"\"You're young and hungry, right? You shouldn't skip lunch. You're a growing boy who needs his nutrition.\""
 msgstr ""
 
 #: 00406:573
-
 msgid "I don't know if she likes younger men, but I was happy that she was concerned about me."
 msgstr ""
 
 #: 00406:574
-
-msgid "{Kazushi}\n\"It's fine. I was thinking I'd just get some bread from the vending machine.\""
+msgid ""
+"{Kazushi}\n"
+"\"It's fine. I was thinking I'd just get some bread from the vending machine.\""
 msgstr ""
 
 #: 00406:577
-
-msgid "{Mei}\n\"Oh? Will that be enough?\""
+msgid ""
+"{Mei}\n"
+"\"Oh? Will that be enough?\""
 msgstr ""
 
 #: 00406:582
-
-msgid "{Haruka}\n\"Just have my bento. I don't mind, really.\""
+msgid ""
+"{Haruka}\n"
+"\"Just have my bento. I don't mind, really.\""
 msgstr ""
 
 #: 00406:583
-
-msgid "{Kazushi}\n\"Then what're you going to eat? I'd feel bad if you had to spend money buying lunch when you already brought one.\""
+msgid ""
+"{Kazushi}\n"
+"\"Then what're you going to eat? I'd feel bad if you had to spend money buying lunch when you already brought one.\""
 msgstr ""
 
 #: 00406:586
-
-msgid "{Haruka}\n\"It's OK.\""
+msgid ""
+"{Haruka}\n"
+"\"It's OK.\""
 msgstr ""
 
 #: 00406:589
-
-msgid "{Mei}\n\"I can lend you some money, if you'd like?\""
+msgid ""
+"{Mei}\n"
+"\"I can lend you some money, if you'd like?\""
 msgstr ""
 
 #: 00406:590
-
-msgid "{Kazushi}\n\"Lend me money? You?\""
+msgid ""
+"{Kazushi}\n"
+"\"Lend me money? You?\""
 msgstr ""
 
 #: 00406:591
-
-msgid "{Mei}\n\"I'd only be lending it. You can pay me back next month when your allowance comes in. You won't feel bad about that, will you?\""
+msgid ""
+"{Mei}\n"
+"\"I'd only be lending it. You can pay me back next month when your allowance comes in. You won't feel bad about that, will you?\""
 msgstr ""
 
 #: 00406:592
-
-msgid "{Kazushi}\n\"Well if that's the case...\""
+msgid ""
+"{Kazushi}\n"
+"\"Well if that's the case...\""
 msgstr ""
 
 #: 00406:593
-
 msgid "Borrowing money from a teacher on the second day of school..."
 msgstr ""
 
 #: 00406:596
-
-msgid "{Haruka}\n\"You don't have to borrow any money, you can just eat my bento. Really, I don't mind.\""
+msgid ""
+"{Haruka}\n"
+"\"You don't have to borrow any money, you can just eat my bento. Really, I don't mind.\""
 msgstr ""
 
 #: 00406:597
-
 msgid "That's what she says. As for me, which should I choose..."
 msgstr ""
-

@@ -8,1771 +8,1982 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 00806:8
-
-msgid "{Kazushi}\n\"Well guys, this is it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well guys, this is it.\""
 msgstr ""
 
 #: 00806:9
-
 msgid "It's our first Alchemy class."
 msgstr ""
 
 #: 00806:10
-
-msgid "{Kazushi}\n\"I'm getting nervous.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm getting nervous.\""
 msgstr ""
 
 #: 00806:13
-
-msgid "{Mizuki}\n\"You guys'll be alright. It's not that hard.\""
+msgid ""
+"{Mizuki}\n"
+"\"You guys'll be alright. It's not that hard.\""
 msgstr ""
 
 #: 00806:14
-
 msgid "It was a surprise to see Hinata-san of all people encouraging us."
 msgstr ""
 
 #: 00806:15
-
-msgid "{Kazushi}\n\"The principal is going to be watching us, you know.\""
+msgid ""
+"{Kazushi}\n"
+"\"The principal is going to be watching us, you know.\""
 msgstr ""
 
 #: 00806:16
-
-msgid "{Mizuki}\n\"You'll be okay as long as you take it seriously. She probably plans to forgive you regardless.\""
+msgid ""
+"{Mizuki}\n"
+"\"You'll be okay as long as you take it seriously. She probably plans to forgive you regardless.\""
 msgstr ""
 
 #: 00806:17
-
-msgid "{Kazushi}\n\"I hope so.\""
+msgid ""
+"{Kazushi}\n"
+"\"I hope so.\""
 msgstr ""
 
 #: 00806:27
-
-msgid "{Pierre}\n\"Let's go, Kazushi!\""
+msgid ""
+"{Pierre}\n"
+"\"Let's go, Kazushi!\""
 msgstr ""
 
 #: 00806:28
-
 msgid "Pierre and the others came over. The class was being held in one of the lab rooms."
 msgstr ""
 
 #: 00806:29
-
-msgid "{Appo}\n\"What should we bring?\""
+msgid ""
+"{Appo}\n"
+"\"What should we bring?\""
 msgstr ""
 
 #: 00806:30
-
-msgid "{Daigo}\n\"We weren't provided any books, right?\""
+msgid ""
+"{Daigo}\n"
+"\"We weren't provided any books, right?\""
 msgstr ""
 
 #: 00806:36
-
-msgid "{Mizuki}\n\"I don't think you guys need to bring anything. The textbooks will be provided later.\""
+msgid ""
+"{Mizuki}\n"
+"\"I don't think you guys need to bring anything. The textbooks will be provided later.\""
 msgstr ""
 
 #: 00806:37
-
-msgid "{Kazushi}\n\"I see.\nWell then, shall we?\""
+msgid ""
+"{Kazushi}\n"
+"\"I see.\n"
+"Well then, shall we?\""
 msgstr ""
 
 #: 00806:38
-
 msgid "We were the only ones left in our classroom. We didn't know what was going to happen, so we headed to the laboratory in excitement."
 msgstr ""
 
 #: 00806:44
-
 msgid "The room looked just like any other chemistry lab. The instruments lying out, the flasks, the test tubes, and the burners all looked the same as chemistry equipment."
 msgstr ""
 
 #: 00806:49
-
-msgid "{Pierre}\n\"So this is an alchemist's atelier? It does kind of have that feeling to it.\""
+msgid ""
+"{Pierre}\n"
+"\"So this is an alchemist's atelier? It does kind of have that feeling to it.\""
 msgstr ""
 
 #: 00806:50
-
-msgid "{Appo}\n\"Where should we sit?\""
+msgid ""
+"{Appo}\n"
+"\"Where should we sit?\""
 msgstr ""
 
 #: 00806:54
-
-msgid "{Mizuki}\n\"Anywhere you want.\""
+msgid ""
+"{Mizuki}\n"
+"\"Anywhere you want.\""
 msgstr ""
 
 #: 00806:58
-
-msgid "{Ran}\n\"The girls have already formed their groups, so Kazushi, you can sit with me.\""
+msgid ""
+"{Ran}\n"
+"\"The girls have already formed their groups, so Kazushi, you can sit with me.\""
 msgstr ""
 
 #: 00806:59
-
 msgid "Just as Ran said, most of the girls were already sitting in their groups, so we took our seats beside her."
 msgstr ""
 
 #: 00806:63
-
-msgid "{Ran}\n\"Okay, the rest is up to you.\""
+msgid ""
+"{Ran}\n"
+"\"Okay, the rest is up to you.\""
 msgstr ""
 
 #: 00806:65
-
 msgid "And with that, Ran leaned over on the desk. She was intending to sleep through class."
 msgstr ""
 
 #: 00806:66
-
-msgid "{Kazushi}\n\"Hey, Ran, we don't know heads or tails from this stuff, so we're counting on you to help.\""
+msgid ""
+"{Kazushi}\n"
+"\"Hey, Ran, we don't know heads or tails from this stuff, so we're counting on you to help.\""
 msgstr ""
 
 #: 00806:69
-
-msgid "{Pierre}\n\"Not only that, the principal's coming to watch us today. We have to show her our good side.\""
+msgid ""
+"{Pierre}\n"
+"\"Not only that, the principal's coming to watch us today. We have to show her our good side.\""
 msgstr ""
 
 #: 00806:74
-
-msgid "{Ran}\n\"Oh yeah, she is. That means I can't sleep!\""
+msgid ""
+"{Ran}\n"
+"\"Oh yeah, she is. That means I can't sleep!\""
 msgstr ""
 
 #: 00806:75
-
-msgid "{Kazushi}\n\"Don't sleep - show us how to do it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't sleep - show us how to do it.\""
 msgstr ""
 
 #: 00806:78
-
-msgid "{Ran}\n\"Yeah, that's not happening. I'm a complete failure in this class.\""
+msgid ""
+"{Ran}\n"
+"\"Yeah, that's not happening. I'm a complete failure in this class.\""
 msgstr ""
 
 #: 00806:79
-
-msgid "{Kazushi}\n\"......seriously?\""
+msgid ""
+"{Kazushi}\n"
+"\"......seriously?\""
 msgstr ""
 
 #: 00806:82
-
-msgid "{Ran}\n\"It's true. I can't get a single experiment to go right.\""
+msgid ""
+"{Ran}\n"
+"\"It's true. I can't get a single experiment to go right.\""
 msgstr ""
 
 #: 00806:86
-
-msgid "{Appo}\n\"I think we picked the wrong girl to partner with?\""
+msgid ""
+"{Appo}\n"
+"\"I think we picked the wrong girl to partner with?\""
 msgstr ""
 
 #: 00806:87
-
-msgid "{Pierre}\n\"Maybe we did.\""
+msgid ""
+"{Pierre}\n"
+"\"Maybe we did.\""
 msgstr ""
 
 #: 00806:88
-
-msgid "{Kazushi}\n\"But didn't Haruka say that anyone could do it with practice?\""
+msgid ""
+"{Kazushi}\n"
+"\"But didn't Haruka say that anyone could do it with practice?\""
 msgstr ""
 
 #: 00806:92
-
-msgid "{Ran}\n\"I'm especially untalented, I guess. Well, most people manage to get some reaction or another, but me? None at all.\""
+msgid ""
+"{Ran}\n"
+"\"I'm especially untalented, I guess. Well, most people manage to get some reaction or another, but me? None at all.\""
 msgstr ""
 
 #: 00806:95
-
-msgid "{Ran}\n\"That's why I hate this class. You could even say I loathe it.\""
+msgid ""
+"{Ran}\n"
+"\"That's why I hate this class. You could even say I loathe it.\""
 msgstr ""
 
 #: 00806:96
-
 msgid "She clenched her fist in hatred. She must really suck at this."
 msgstr ""
 
 #: 00806:100
-
-msgid "{Appo}\n\"I think this girl's no good to us. Who else can we partner up with...?\""
+msgid ""
+"{Appo}\n"
+"\"I think this girl's no good to us. Who else can we partner up with...?\""
 msgstr ""
 
 #: 00806:103
-
 msgid "We looked around the room, but all of the girls were chatting and acting like we weren't even there."
 msgstr ""
 
 #: 00806:106
-
-msgid "{Pierre}\n\"Hey, Rin-chan, do want to do the experiment with us?\""
+msgid ""
+"{Pierre}\n"
+"\"Hey, Rin-chan, do want to do the experiment with us?\""
 msgstr ""
 
 #: 00806:112
-
-msgid "{Rin}\n\"Huh? M-me? Uhh...\""
+msgid ""
+"{Rin}\n"
+"\"Huh? M-me? Uhh...\""
 msgstr ""
 
 #: 00806:113
-
-msgid "{Sakura}\n\"Sorry, guys. The principal is coming today, right? Rin gets stage fright, so she won't be of much help.\""
+msgid ""
+"{Sakura}\n"
+"\"Sorry, guys. The principal is coming today, right? Rin gets stage fright, so she won't be of much help.\""
 msgstr ""
 
 #: 00806:114
-
 msgid "We were the ones under major pressure to show off our good side today."
 msgstr ""
 
 #: 00806:115
-
-msgid "{Kazushi}\n\"Don't worry about it, then. This is our problem to deal with.\""
+msgid ""
+"{Kazushi}\n"
+"\"Don't worry about it, then. This is our problem to deal with.\""
 msgstr ""
 
 #: 00806:120
-
-msgid "{Pierre}\n\"He's right. Maybe next time?\""
+msgid ""
+"{Pierre}\n"
+"\"He's right. Maybe next time?\""
 msgstr ""
 
 #: 00806:124
-
-msgid "{Rin}\n\"I'm sorry. Let's do it next time?\""
+msgid ""
+"{Rin}\n"
+"\"I'm sorry. Let's do it next time?\""
 msgstr ""
 
 #: 00806:128
-
-msgid "{Pierre}\n\"'Let's do it next time'...She's so cute!\""
+msgid ""
+"{Pierre}\n"
+"\"'Let's do it next time'...She's so cute!\""
 msgstr ""
 
 #: 00806:133
-
-msgid "{Appo}\n\"If you say something like that, it makes me wanna do more and more... Deh-heh.\""
+msgid ""
+"{Appo}\n"
+"\"If you say something like that, it makes me wanna do more and more... Deh-heh.\""
 msgstr ""
 
 #: 00806:140
-
-msgid "{Rin}\n\"Hhh?!!\""
+msgid ""
+"{Rin}\n"
+"\"Hhh?!!\""
 msgstr ""
 
 #: 00806:141
-
-msgid "{Sakura}\n\"What's wrong?\""
+msgid ""
+"{Sakura}\n"
+"\"What's wrong?\""
 msgstr ""
 
 #: 00806:142
-
-msgid "{Rin}\n\"I felt a chill running up my spine...I wonder if it was the wind?\""
+msgid ""
+"{Rin}\n"
+"\"I felt a chill running up my spine...I wonder if it was the wind?\""
 msgstr ""
 
 #: 00806:146
-
-msgid "{Appo}\n\"Deh-heh, deh-heh!\""
+msgid ""
+"{Appo}\n"
+"\"Deh-heh, deh-heh!\""
 msgstr ""
 
 #: 00806:147
-
-msgid "{Kazushi}\n\"Stop undressing her with your eyes!\""
+msgid ""
+"{Kazushi}\n"
+"\"Stop undressing her with your eyes!\""
 msgstr ""
 
 #: 00806:154
-
-msgid "{Daigo}\n\"Appo always starts doing that if we take our eyes off him.\""
+msgid ""
+"{Daigo}\n"
+"\"Appo always starts doing that if we take our eyes off him.\""
 msgstr ""
 
 #: 00806:155
-
-msgid "{Pierre}\n\"But I really don't think there are any other girls who will pair with us.\""
+msgid ""
+"{Pierre}\n"
+"\"But I really don't think there are any other girls who will pair with us.\""
 msgstr ""
 
 #: 00806:156
-
-msgid "{Kazushi}\n\"Looks like it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Looks like it.\""
 msgstr ""
 
 #: 00806:157
-
 msgid "We should thank Ran just for being here with us."
 msgstr ""
 
 #: 00806:160
-
-msgid "{Ran}\n *zzzzzzzzzzzzzzzzzzzzzzz*"
+msgid ""
+"{Ran}\n"
+" *zzzzzzzzzzzzzzzzzzzzzzz*"
 msgstr ""
 
 #: 00806:161
-
 msgid "Even if she's asleep."
 msgstr ""
 
 #: 00806:162
-
-msgid "{Kazushi}\n\"Oi, Ran, at least try and stay awake, OK?\""
+msgid ""
+"{Kazushi}\n"
+"\"Oi, Ran, at least try and stay awake, OK?\""
 msgstr ""
 
 #: 00806:165
-
-msgid "{Ran}\n\"What......?\nSorry, sorry.\""
+msgid ""
+"{Ran}\n"
+"\"What......?\n"
+"Sorry, sorry.\""
 msgstr ""
 
 #: 00806:166
-
-msgid "{Kazushi}\n\"Are you really that bad at this class? Maybe it's genuinely difficult.\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you really that bad at this class? Maybe it's genuinely difficult.\""
 msgstr ""
 
 #: 00806:170
-
-msgid "{Pierre}\n\"Of course it's difficult. It's similar to magic, right? Is it something that can even be taught?\""
+msgid ""
+"{Pierre}\n"
+"\"Of course it's difficult. It's similar to magic, right? Is it something that can even be taught?\""
 msgstr ""
 
 #: 00806:171
-
 msgid "He's got a point. Magic always seems like it would be impossible without already pos-sessing some kind of strange power."
 msgstr ""
 
 #: 00806:175
-
-msgid "{Ran}\n\"Oh, don't worry about that. Alchemy isn't magic or some superpower, it's just another type of science.\""
+msgid ""
+"{Ran}\n"
+"\"Oh, don't worry about that. Alchemy isn't magic or some superpower, it's just another type of science.\""
 msgstr ""
 
 #: 00806:176
-
-msgid "{Kazushi}\n\"So you don't need to be from a pureblood wizarding family or anything?\""
+msgid ""
+"{Kazushi}\n"
+"\"So you don't need to be from a pureblood wizarding family or anything?\""
 msgstr ""
 
 #: 00806:177
-
-msgid "{Ran}\n\"I don't think so. As long as you follow the proper procedures, anyone can use it to some extent.\""
+msgid ""
+"{Ran}\n"
+"\"I don't think so. As long as you follow the proper procedures, anyone can use it to some extent.\""
 msgstr ""
 
 #: 00806:180
-
-msgid "{Ran}\n\"Not that it's done me any good, though!\""
+msgid ""
+"{Ran}\n"
+"\"Not that it's done me any good, though!\""
 msgstr ""
 
 #: 00806:181
-
 msgid "Even though she's laughing on the outside, I'm sure that deep inside she's wishing that she was good at it."
 msgstr ""
 
 #: 00806:182
-
 msgid "If she had any talent for alchemy, she'd probably be using it to synthesise money."
 msgstr ""
 
 #: 00806:188
-
-msgid "{Appo}\n\"I still think it sounds hard. Do you think we have a chance?\""
+msgid ""
+"{Appo}\n"
+"\"I still think it sounds hard. Do you think we have a chance?\""
 msgstr ""
 
 #: 00806:189
-
-msgid "{Pierre}\n\"I'm going to make myself master it to overcome this disgrace!\""
+msgid ""
+"{Pierre}\n"
+"\"I'm going to make myself master it to overcome this disgrace!\""
 msgstr ""
 
 #: 00806:193
-
-msgid "{Ran}\n\"Oh, no, no, you guys'll be fine. The only one who's never succeeded in this class is me. I've seen everyone else do great.\""
+msgid ""
+"{Ran}\n"
+"\"Oh, no, no, you guys'll be fine. The only one who's never succeeded in this class is me. I've seen everyone else do great.\""
 msgstr ""
 
 #: 00806:196
-
-msgid "{Pierre}\n\"Seriously? Then we can turn lead into gold?\""
+msgid ""
+"{Pierre}\n"
+"\"Seriously? Then we can turn lead into gold?\""
 msgstr ""
 
 #: 00806:199
-
-msgid "{Ran}\n\"Oh, don't get your hopes up or you'll be let down. That's not an easy thing to do. Besides, the alchemy here is...\""
+msgid ""
+"{Ran}\n"
+"\"Oh, don't get your hopes up or you'll be let down. That's not an easy thing to do. Besides, the alchemy here is...\""
 msgstr ""
 
 #: 00806:200
-
-msgid "{Haruka}\n\"Used to transform an object one step closer to its ideal form.\""
+msgid ""
+"{Haruka}\n"
+"\"Used to transform an object one step closer to its ideal form.\""
 msgstr ""
 
 #: 00806:201
-
 msgid "Haruka finished the description instead of Ran."
 msgstr ""
 
 #: 00806:208
-
-msgid "{Kazushi}\n\"Huh? It's Haruka.\""
+msgid ""
+"{Kazushi}\n"
+"\"Huh? It's Haruka.\""
 msgstr ""
 
 #: 00806:211
-
-msgid "{Haruka}\n\"Tee-hee, I came again.\""
+msgid ""
+"{Haruka}\n"
+"\"Tee-hee, I came again.\""
 msgstr ""
 
 #: 00806:212
-
 msgid "Haruka stuck her tongue out. This girl never learns."
 msgstr ""
 
 #: 00806:217
-
-msgid "{Ran}\n\"Why are you so obsessed with being in our class? This never happened before.\""
+msgid ""
+"{Ran}\n"
+"\"Why are you so obsessed with being in our class? This never happened before.\""
 msgstr ""
 
 #: 00806:220
-
-msgid "{Haruka}\n\"Oh, you know. But today's special. Grandm...The principal is coming to observe, right?\""
+msgid ""
+"{Haruka}\n"
+"\"Oh, you know. But today's special. Grandm...The principal is coming to observe, right?\""
 msgstr ""
 
 #: 00806:224
-
-msgid "{Appo}\n\"That's why we're so nervous! So please go on a date with us!!\""
+msgid ""
+"{Appo}\n"
+"\"That's why we're so nervous! So please go on a date with us!!\""
 msgstr ""
 
 #: 00806:227
-
-msgid "{Haruka}\n\"What? I don't get what you're talking about.\""
+msgid ""
+"{Haruka}\n"
+"\"What? I don't get what you're talking about.\""
 msgstr ""
 
 #: 00806:231
-
-msgid "{Pierre}\n\"Ignore him. He doesn't make sense half the time anyways.\""
+msgid ""
+"{Pierre}\n"
+"\"Ignore him. He doesn't make sense half the time anyways.\""
 msgstr ""
 
 #: 00806:235
-
-msgid "{Daigo}\n\"It's a rather common disease.\""
+msgid ""
+"{Daigo}\n"
+"\"It's a rather common disease.\""
 msgstr ""
 
 #: 00806:238
-
-msgid "{Haruka}\n\"Shouldn't you be seeing someone about that?\""
+msgid ""
+"{Haruka}\n"
+"\"Shouldn't you be seeing someone about that?\""
 msgstr ""
 
 #: 00806:242
-
 msgid "Haruka sat down next to Ran, joining our group."
 msgstr ""
 
 #: 00806:243
-
-msgid "{Haruka}\n\"Can I join you guys?\""
+msgid ""
+"{Haruka}\n"
+"\"Can I join you guys?\""
 msgstr ""
 
 #: 00806:248
-
-msgid "{Pierre}\n\"But of course, madame. You are more than welcome!\""
+msgid ""
+"{Pierre}\n"
+"\"But of course, madame. You are more than welcome!\""
 msgstr ""
 
 #: 00806:252
-
-msgid "{Daigo}\n\"Four boys and two girls.\nWe need two more girls to balance out the group.\""
+msgid ""
+"{Daigo}\n"
+"\"Four boys and two girls.\n"
+"We need two more girls to balance out the group.\""
 msgstr ""
 
 #: 00806:257
-
-msgid "{Haruka}\n\"Let's see...\nHey, Mizuki-chan! Come join us!\""
+msgid ""
+"{Haruka}\n"
+"\"Let's see...\n"
+"Hey, Mizuki-chan! Come join us!\""
 msgstr ""
 
 #: 00806:258
-
 msgid "Haruka took a look around and spotted Hinata-san."
 msgstr ""
 
 #: 00806:263
-
-msgid "{Mizuki}\n\"Me?\""
+msgid ""
+"{Mizuki}\n"
+"\"Me?\""
 msgstr ""
 
 #: 00806:266
-
-msgid "{Haruka}\n\"We need more girls to balance out the group.\""
+msgid ""
+"{Haruka}\n"
+"\"We need more girls to balance out the group.\""
 msgstr ""
 
 #: 00806:267
-
-msgid "{Mizuki}\n\"Do I have to?\""
+msgid ""
+"{Mizuki}\n"
+"\"Do I have to?\""
 msgstr ""
 
 #: 00806:268
-
 msgid "Hinata-san just doesn't seem to want to be with us."
 msgstr ""
 
 #: 00806:271
-
-msgid "{Haruka}\n\"Don't act like that.\nYou're more than welcome here!\""
+msgid ""
+"{Haruka}\n"
+"\"Don't act like that.\n"
+"You're more than welcome here!\""
 msgstr ""
 
 #: 00806:274
-
-msgid "{Mizuki}\n\"It's not a question of being welcomed...\""
+msgid ""
+"{Mizuki}\n"
+"\"It's not a question of being welcomed...\""
 msgstr ""
 
 #: 00806:275
-
-msgid "{Haruka}\n\"Come join us!\""
+msgid ""
+"{Haruka}\n"
+"\"Come join us!\""
 msgstr ""
 
 #: 00806:278
-
 msgid "Haruka actually went and dragged Hinata-san over to where we were sitting."
 msgstr ""
 
 #: 00806:283
-
-msgid "{Haruka}\n\"Mizuki-chan is a bit of a shy girl, so be nice to her, boys.\""
+msgid ""
+"{Haruka}\n"
+"\"Mizuki-chan is a bit of a shy girl, so be nice to her, boys.\""
 msgstr ""
 
 #: 00806:284
-
-msgid "{Mizuki}\n\"This isn't a dating service!\""
+msgid ""
+"{Mizuki}\n"
+"\"This isn't a dating service!\""
 msgstr ""
 
 #: 00806:288
-
-msgid "{Ran}\n\"Mizuki, you know it's no use trying to make Haruka understand. Now we have three girls, and while I'm useless, we have Haruka with us.\""
+msgid ""
+"{Ran}\n"
+"\"Mizuki, you know it's no use trying to make Haruka understand. Now we have three girls, and while I'm useless, we have Haruka with us.\""
 msgstr ""
 
 #: 00806:291
-
-msgid "{Mizuki}\n\"Fine. It's a lot easier to do it with Haruka.\""
+msgid ""
+"{Mizuki}\n"
+"\"Fine. It's a lot easier to do it with Haruka.\""
 msgstr ""
 
 #: 00806:292
-
 msgid "They were both relying on Haruka. Was Haruka that good at alchemy?"
 msgstr ""
 
 #: 00806:295
-
-msgid "{Kazushi}\n\"Oh yeah. As we were saying...\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh yeah. As we were saying...\""
 msgstr ""
 
 #: 00806:296
-
 msgid "What was it Haruka said? Bring an object one step closer to its ideal form?"
 msgstr ""
 
 #: 00806:297
-
 msgid "I'd never heard anything like that."
 msgstr ""
 
 #: 00806:300
-
-msgid "{Ran}\n\"Haruka, these guys don't know the first letter of alchemy, so teach them.\""
+msgid ""
+"{Ran}\n"
+"\"Haruka, these guys don't know the first letter of alchemy, so teach them.\""
 msgstr ""
 
 #: 00806:306
-
-msgid "{Appo}\n\"That sounded so bossy!\""
+msgid ""
+"{Appo}\n"
+"\"That sounded so bossy!\""
 msgstr ""
 
 #: 00806:307
-
-msgid "{Pierre}\n\"Ran-chan, I thought you were a complete failure at alchemy?\""
+msgid ""
+"{Pierre}\n"
+"\"Ran-chan, I thought you were a complete failure at alchemy?\""
 msgstr ""
 
 #: 00806:311
-
-msgid "{Ran}\n\"The older, the wiser.\""
+msgid ""
+"{Ran}\n"
+"\"The older, the wiser.\""
 msgstr ""
 
 #: 00806:315
-
-msgid "{Haruka}\n\"It's your first time, so just relax and try to enjoy it.\""
+msgid ""
+"{Haruka}\n"
+"\"It's your first time, so just relax and try to enjoy it.\""
 msgstr ""
 
 #: 00806:316
-
-msgid "{Kazushi}\n\"We can do that.\""
+msgid ""
+"{Kazushi}\n"
+"\"We can do that.\""
 msgstr ""
 
 #: 00806:318
-
-msgid "{Haruka}\n\"Here comes the teacher.\""
+msgid ""
+"{Haruka}\n"
+"\"Here comes the teacher.\""
 msgstr ""
 
 #: 00806:326
-
 msgid "It's Mei-sensei! I didn't know she taught alchemy!"
 msgstr ""
 
 #: 00806:332
-
 msgid "...and here comes the principal."
 msgstr ""
 
 #: 00806:339
-
-msgid "{Appo}\n\"There she is. She didn't have to come.\""
+msgid ""
+"{Appo}\n"
+"\"There she is. She didn't have to come.\""
 msgstr ""
 
 #: 00806:340
-
-msgid "{Daigo}\n\"She's already got her eye on us!\""
+msgid ""
+"{Daigo}\n"
+"\"She's already got her eye on us!\""
 msgstr ""
 
 #: 00806:345
-
 msgid "She peered around the classroom, eager to spot us like a hawk seeking its prey."
 msgstr ""
 
 #: 00806:346
-
-msgid "{Principal}\n\"..................\""
+msgid ""
+"{Principal}\n"
+"\"..................\""
 msgstr ""
 
 #: 00806:347
-
-msgid "{Kazushi}\n\"Ack!\""
+msgid ""
+"{Kazushi}\n"
+"\"Ack!\""
 msgstr ""
 
 #: 00806:348
-
 msgid "I hate it when she stares at me. I can't calm down at all."
 msgstr ""
 
 #: 00806:349
-
 msgid "And why's she so focused on me anyways?"
 msgstr ""
 
 #: 00806:353
-
-msgid "{Haruka}\n\"..................\""
+msgid ""
+"{Haruka}\n"
+"\"..................\""
 msgstr ""
 
 #: 00806:354
-
 msgid "Maybe she's actually looking at Haruka. Yeah, she doesn't know about me anyways."
 msgstr ""
 
 #: 00806:358
-
-msgid "{Appo}\n\"Look at how her eyes went straight for Kazushi.\nDude, she so thinks you're hot.\""
+msgid ""
+"{Appo}\n"
+"\"Look at how her eyes went straight for Kazushi.\n"
+"Dude, she so thinks you're hot.\""
 msgstr ""
 
 #: 00806:359
-
-msgid "{Kazushi}\n\"I thought you already lay claim to her.\""
+msgid ""
+"{Kazushi}\n"
+"\"I thought you already lay claim to her.\""
 msgstr ""
 
 #: 00806:362
-
-msgid "{Appo}\n\"I gave up. Winning her away from you would be too much work. Lucky you, Kazushi.\""
+msgid ""
+"{Appo}\n"
+"\"I gave up. Winning her away from you would be too much work. Lucky you, Kazushi.\""
 msgstr ""
 
 #: 00806:363
-
-msgid "{Kazushi}\n\"Oh no, no, no. I could never compete against you, Appo.\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh no, no, no. I could never compete against you, Appo.\""
 msgstr ""
 
 #: 00806:364
-
-msgid "{Appo}\n\"Please, don't mind me. I'm all about Mei-chan now. Oh yeah, Daigo, you like older women, right?\""
+msgid ""
+"{Appo}\n"
+"\"Please, don't mind me. I'm all about Mei-chan now. Oh yeah, Daigo, you like older women, right?\""
 msgstr ""
 
 #: 00806:369
-
-msgid "{Daigo}\n\"Too old.\""
+msgid ""
+"{Daigo}\n"
+"\"Too old.\""
 msgstr ""
 
 #: 00806:374
-
-msgid "{Mei}\n\"All right, everybody, let's get started. Now, as you know, the principal has decided to observe our class today, so everybody needs to do their best, OK?\""
+msgid ""
+"{Mei}\n"
+"\"All right, everybody, let's get started. Now, as you know, the principal has decided to observe our class today, so everybody needs to do their best, OK?\""
 msgstr ""
 
 #: 00806:378
-
-msgid "{Principal}\n\"There's no need to put in that much extra effort. Just treat this like any normal day, class.\""
+msgid ""
+"{Principal}\n"
+"\"There's no need to put in that much extra effort. Just treat this like any normal day, class.\""
 msgstr ""
 
 #: 00806:379
-
 msgid "She focused her attention on us."
 msgstr ""
 
 #: 00806:382
-
-msgid "{Principal}\n\"This is something new for you boys. I'm looking forward to the outcome.\""
+msgid ""
+"{Principal}\n"
+"\"This is something new for you boys. I'm looking forward to the outcome.\""
 msgstr ""
 
 #: 00806:384
-
-msgid "{Boys}\n\"Yes, Ma'am!\""
+msgid ""
+"{Boys}\n"
+"\"Yes, Ma'am!\""
 msgstr ""
 
 #: 00806:387
-
-msgid "{Mei}\n\"Wow, you boys are excited, aren't you?\""
+msgid ""
+"{Mei}\n"
+"\"Wow, you boys are excited, aren't you?\""
 msgstr ""
 
 #: 00806:391
-
-msgid "{Ran}\n\"If we ever manage to make money from this we split it evenly, OK?\""
+msgid ""
+"{Ran}\n"
+"\"If we ever manage to make money from this we split it evenly, OK?\""
 msgstr ""
 
 #: 00806:397
-
-msgid "{Daigo}\n\"We can use alchemy to make money?\""
+msgid ""
+"{Daigo}\n"
+"\"We can use alchemy to make money?\""
 msgstr ""
 
 #: 00806:398
-
-msgid "{Haruka}\n\"Not today. We're doing something different first.\""
+msgid ""
+"{Haruka}\n"
+"\"Not today. We're doing something different first.\""
 msgstr ""
 
 #: 00806:402
-
-msgid "{Appo}\n\"Oh yeah?\""
+msgid ""
+"{Appo}\n"
+"\"Oh yeah?\""
 msgstr ""
 
 #: 00806:405
-
-msgid "{Daigo}\n\"It's the first class of the semester, Appo.\""
+msgid ""
+"{Daigo}\n"
+"\"It's the first class of the semester, Appo.\""
 msgstr ""
 
 #: 00806:410
-
-msgid "{Mei}\n\"Right, then, let's begin. As I'm sure you've all heard already, this class is about alchemy.\""
+msgid ""
+"{Mei}\n"
+"\"Right, then, let's begin. As I'm sure you've all heard already, this class is about alchemy.\""
 msgstr ""
 
 #: 00806:411
-
-msgid "{Mei}\n\"Since the boys haven't studied alchemy before, let me give you all a brief synopsis.\""
+msgid ""
+"{Mei}\n"
+"\"Since the boys haven't studied alchemy before, let me give you all a brief synopsis.\""
 msgstr ""
 
 #: 00806:412
-
 msgid "So far this is no different from anything else we've studied."
 msgstr ""
 
 #: 00806:415
-
 msgid "Mei-sensei wrote \"Alchemy\" on the chalkboard."
 msgstr ""
 
 #: 00806:420
-
-msgid "{Mei}\n\"I'm sure you've all heard of alchemy before. It's most commonly recognized as a method of turning lead into gold.\""
+msgid ""
+"{Mei}\n"
+"\"I'm sure you've all heard of alchemy before. It's most commonly recognized as a method of turning lead into gold.\""
 msgstr ""
 
 #: 00806:421
-
 msgid "The class rang out with a surprised reaction from the boys."
 msgstr ""
 
 #: 00806:422
-
 msgid "Of course they would. We were going to learn how to turn lead into gold."
 msgstr ""
 
 #: 00806:426
-
-msgid "{Mei}\n\"This is because alchemy's original aim was to transform base metals into gold. However, there are now several different branches of alchemy, and the science has become specialized.\""
+msgid ""
+"{Mei}\n"
+"\"This is because alchemy's original aim was to transform base metals into gold. However, there are now several different branches of alchemy, and the science has become specialized.\""
 msgstr ""
 
 #: 00806:432
-
-msgid "{Appo}\n\"Excuse me! That was too difficult for me to understand!\""
+msgid ""
+"{Appo}\n"
+"\"Excuse me! That was too difficult for me to understand!\""
 msgstr ""
 
 #: 00806:433
-
 msgid "Appo raised his hand and spoke up. He had courage."
 msgstr ""
 
 #: 00806:437
-
-msgid "{Andou}\n\"What is he doing? Exposing his stupidity?\""
+msgid ""
+"{Andou}\n"
+"\"What is he doing? Exposing his stupidity?\""
 msgstr ""
 
 #: 00806:438
-
-msgid "{Appo}\n\"Please teach me gently!\""
+msgid ""
+"{Appo}\n"
+"\"Please teach me gently!\""
 msgstr ""
 
 #: 00806:439
-
 msgid "The girls looked at him in shock, but Appo didn't care. Mei-sensei was the only one in his eyes."
 msgstr ""
 
 #: 00806:443
-
-msgid "{Mei}\n\"Alright. In other words, rather than remaining a technology exclusively for turning lead into gold, alchemy has become a science adapted for many other purposes.\""
+msgid ""
+"{Mei}\n"
+"\"Alright. In other words, rather than remaining a technology exclusively for turning lead into gold, alchemy has become a science adapted for many other purposes.\""
 msgstr ""
 
 #: 00806:447
-
-msgid "{Pierre}\n\"Like what?\""
+msgid ""
+"{Pierre}\n"
+"\"Like what?\""
 msgstr ""
 
 #: 00806:449
-
-msgid "{Mei}\n\"The alchemy we study at this school is a technology used for improving our daily lives. We have adapted it for various fields, and even use it to create manufactured goods.\""
+msgid ""
+"{Mei}\n"
+"\"The alchemy we study at this school is a technology used for improving our daily lives. We have adapted it for various fields, and even use it to create manufactured goods.\""
 msgstr ""
 
 #: 00806:454
-
-msgid "{Daigo}\n\"Manufactured goods? You sell things?\""
+msgid ""
+"{Daigo}\n"
+"\"Manufactured goods? You sell things?\""
 msgstr ""
 
 #: 00806:458
-
-msgid "{Mei}\n\"Have you seen the produce stands across the island?\nAll of the fruits and vegetables for sale are the product of our alchemy.\""
+msgid ""
+"{Mei}\n"
+"\"Have you seen the produce stands across the island?\n"
+"All of the fruits and vegetables for sale are the product of our alchemy.\""
 msgstr ""
 
 #: 00806:461
-
-msgid "{Mei}\n\"That's why the vegetables are able to be so big while retaining their natural flavour.\""
+msgid ""
+"{Mei}\n"
+"\"That's why the vegetables are able to be so big while retaining their natural flavour.\""
 msgstr ""
 
 #: 00806:465
-
-msgid "{Daigo}\n\"Oh yeah, I remember.\""
+msgid ""
+"{Daigo}\n"
+"\"Oh yeah, I remember.\""
 msgstr ""
 
 #: 00806:466
-
 msgid "I remembered the grocer's we saw that day too. There were onions as big as my head. I didn't know those were made with alchemy."
 msgstr ""
 
 #: 00806:470
-
-msgid "{Mei}\n\"I think it will be a lot easier to demonstrate, so allow me to show you.\""
+msgid ""
+"{Mei}\n"
+"\"I think it will be a lot easier to demonstrate, so allow me to show you.\""
 msgstr ""
 
 #: 00806:472
-
 msgid "Mei-sensei took out a flask with some strange liquid and an ordinary tomato-not one of the huge tomato's at the grocers."
 msgstr ""
 
 #: 00806:473
-
-msgid "{Mei}\n\"This solution is like... yes, like a medicine that we alchemically refined to alter the properties of a substance. When you pour it on this tomato...\""
+msgid ""
+"{Mei}\n"
+"\"This solution is like... yes, like a medicine that we alchemically refined to alter the properties of a substance. When you pour it on this tomato...\""
 msgstr ""
 
 #: 00806:474
-
 msgid "She tipped the flask and the liquid dripped out onto the tomato."
 msgstr ""
 
 #: 00806:482
-
-msgid "{Appo}\n\"Hhhh?!\""
+msgid ""
+"{Appo}\n"
+"\"Hhhh?!\""
 msgstr ""
 
 #: 00806:483
-
 msgid "There was a flash of light like a tiny explosion. Appo's voice cracked as he screamed and the girls gave him mocking looks."
 msgstr ""
 
 #: 00806:489
-
-msgid "{Fuusen}\n\"Wow, how pathetic. He doesn't have any balls. I bet he doesn't have a dick either.\""
+msgid ""
+"{Fuusen}\n"
+"\"Wow, how pathetic. He doesn't have any balls. I bet he doesn't have a dick either.\""
 msgstr ""
 
 #: 00806:492
-
-msgid "{Andou}\n\"Probably a tiny one.\""
+msgid ""
+"{Andou}\n"
+"\"Probably a tiny one.\""
 msgstr ""
 
 #: 00806:493
-
-msgid "{Fuusen}\n\"A true drill dick.\""
+msgid ""
+"{Fuusen}\n"
+"\"A true drill dick.\""
 msgstr ""
 
 #: 00806:498
-
-msgid "{Appo}\n\"Bah! Y-you're wrong! You want me to prove it to you?!\""
+msgid ""
+"{Appo}\n"
+"\"Bah! Y-you're wrong! You want me to prove it to you?!\""
 msgstr ""
 
 #: 00806:499
-
 msgid "Appo started taking off his clothes."
 msgstr ""
 
 #: 00806:503
-
-msgid "{Mizuki}\n\"Kyah! Stop it!!\""
+msgid ""
+"{Mizuki}\n"
+"\"Kyah! Stop it!!\""
 msgstr ""
 
 #: 00806:507
-
-msgid "{Appo}\n\"I need to defend the honour of my manhood!!\""
+msgid ""
+"{Appo}\n"
+"\"I need to defend the honour of my manhood!!\""
 msgstr ""
 
 #: 00806:512
-
-msgid "{Pierre}\n\"Dude, it's hanging out in the open!\nEveryone can see it!\""
+msgid ""
+"{Pierre}\n"
+"\"Dude, it's hanging out in the open!\n"
+"Everyone can see it!\""
 msgstr ""
 
 #: 00806:519
-
-msgid "{Haruka}\n\"Kyah!\""
+msgid ""
+"{Haruka}\n"
+"\"Kyah!\""
 msgstr ""
 
 #: 00806:520
-
-msgid "{Ran}\n\"Ahaha, you still wear white briefs?!\""
+msgid ""
+"{Ran}\n"
+"\"Ahaha, you still wear white briefs?!\""
 msgstr ""
 
 #: 00806:524
-
-msgid "{Fuusen}\n\"Why don't you ask Mei-chan for that liquid? You could use it as a penis enhancer.\""
+msgid ""
+"{Fuusen}\n"
+"\"Why don't you ask Mei-chan for that liquid? You could use it as a penis enhancer.\""
 msgstr ""
 
 #: 00806:528
-
-msgid "{Appo}\n\"Shut up!!\""
+msgid ""
+"{Appo}\n"
+"\"Shut up!!\""
 msgstr ""
 
 #: 00806:532
-
-msgid "{Pierre}\n\"Don't cry.\""
+msgid ""
+"{Pierre}\n"
+"\"Don't cry.\""
 msgstr ""
 
 #: 00806:536
-
-msgid "{Daigo}\n\"Getting upset just makes them seem right.\""
+msgid ""
+"{Daigo}\n"
+"\"Getting upset just makes them seem right.\""
 msgstr ""
 
 #: 00806:539
-
-msgid "{Appo}\n\"I hate that girl!\nMei-sensei, can we use alchemy to change her into a pig?\""
+msgid ""
+"{Appo}\n"
+"\"I hate that girl!\n"
+"Mei-sensei, can we use alchemy to change her into a pig?\""
 msgstr ""
 
 #: 00806:542
-
-msgid "{Daigo}\n\"Just put your pants back on already.\""
+msgid ""
+"{Daigo}\n"
+"\"Just put your pants back on already.\""
 msgstr ""
 
 #: 00806:546
-
-msgid "{Mizuki}\n\"Ugh, stop this. I can't believe you just did that...\""
+msgid ""
+"{Mizuki}\n"
+"\"Ugh, stop this. I can't believe you just did that...\""
 msgstr ""
 
 #: 00806:547
-
 msgid "Hinata-san seemed to be bad with dirty jokes like this. Her face was bright red."
 msgstr ""
 
 #: 00806:552
-
-msgid "{Mei}\n\"Quiet down, everyone! It's immature to make fun of a person's physical defects. You should watch over him kindly.\""
+msgid ""
+"{Mei}\n"
+"\"Quiet down, everyone! It's immature to make fun of a person's physical defects. You should watch over him kindly.\""
 msgstr ""
 
 #: 00806:553
-
-msgid "{Mei}\n\"Getting back to the tomato...\""
+msgid ""
+"{Mei}\n"
+"\"Getting back to the tomato...\""
 msgstr ""
 
 #: 00806:554
-
 msgid "She ended the discussion with her casually spoken cruel remark and drew our attention to the tomato. We were all surprised by what we saw."
 msgstr ""
 
 #: 00806:556
-
-msgid "{Kazushi}\n\"Wow!\nLook at it!\""
+msgid ""
+"{Kazushi}\n"
+"\"Wow!\n"
+"Look at it!\""
 msgstr ""
 
 #: 00806:557
-
 msgid "The tomato was huge, just like what we'd seen in the shops. With a drop of the liquid, it grew in an instant. It was almost like magic."
 msgstr ""
 
 #: 00806:558
-
-msgid "{Mei}\n\"In practice, we usually apply this to the seeds. Seeds which have been improved by alchemy produce incredibly large and delicious fruits and vegetables.\""
+msgid ""
+"{Mei}\n"
+"\"In practice, we usually apply this to the seeds. Seeds which have been improved by alchemy produce incredibly large and delicious fruits and vegetables.\""
 msgstr ""
 
 #: 00806:562
-
-msgid "{Haruka}\n\"All the fruits and vegetables in our town are improved by alchemy. Some are even sold wholesale to top class restaurants in the city.\""
+msgid ""
+"{Haruka}\n"
+"\"All the fruits and vegetables in our town are improved by alchemy. Some are even sold wholesale to top class restaurants in the city.\""
 msgstr ""
 
 #: 00806:563
-
-msgid "{Kazushi}\n\"Wow! To restaurants? That's awesome!\""
+msgid ""
+"{Kazushi}\n"
+"\"Wow! To restaurants? That's awesome!\""
 msgstr ""
 
 #: 00806:568
-
-msgid "{Ran}\n\"So that's how we can use alchemy to make money!\""
+msgid ""
+"{Ran}\n"
+"\"So that's how we can use alchemy to make money!\""
 msgstr ""
 
 #: 00806:571
-
-msgid "{Haruka}\n\"I suppose that's true. Do you have ANY interests besides money?\""
+msgid ""
+"{Haruka}\n"
+"\"I suppose that's true. Do you have ANY interests besides money?\""
 msgstr ""
 
 #: 00806:574
-
-msgid "{Ran}\n\"But that's what started this whole alchemy thing in the first place, right?\""
+msgid ""
+"{Ran}\n"
+"\"But that's what started this whole alchemy thing in the first place, right?\""
 msgstr ""
 
 #: 00806:577
-
-msgid "{Haruka}\n\"But that's just scratching the surface...\""
+msgid ""
+"{Haruka}\n"
+"\"But that's just scratching the surface...\""
 msgstr ""
 
 #: 00806:582
-
-msgid "{Pierre}\n\"Can we make love potions?\""
+msgid ""
+"{Pierre}\n"
+"\"Can we make love potions?\""
 msgstr ""
 
 #: 00806:583
-
-msgid "{Kazushi}\n\"Good idea!\n...I mean shut it Pierre, there's girls around.\""
+msgid ""
+"{Kazushi}\n"
+"\"Good idea!\n"
+"...I mean shut it Pierre, there's girls around.\""
 msgstr ""
 
 #: 00806:589
-
 msgid "The girls must have overheard us. They gave us looks of \"You're disgusting\"."
 msgstr ""
 
 #: 00806:590
-
-msgid "{Andou}\n\"Men are just horrible.\""
+msgid ""
+"{Andou}\n"
+"\"Men are just horrible.\""
 msgstr ""
 
 #: 00806:591
-
-msgid "{Ran}\n\"I'm not putting anything you guys touch into my mouth.\""
+msgid ""
+"{Ran}\n"
+"\"I'm not putting anything you guys touch into my mouth.\""
 msgstr ""
 
 #: 00806:596
-
-msgid "{Appo}\n\"I wonder if alchemy can make x-ray specs.\""
+msgid ""
+"{Appo}\n"
+"\"I wonder if alchemy can make x-ray specs.\""
 msgstr ""
 
 #: 00806:597
-
-msgid "{Kazushi}\n\"Save the ideas for another time, Appo.\""
+msgid ""
+"{Kazushi}\n"
+"\"Save the ideas for another time, Appo.\""
 msgstr ""
 
 #: 00806:603
-
-msgid "{Daigo}\n\"Sorry, girls. They're not really bad guys, you know.\""
+msgid ""
+"{Daigo}\n"
+"\"Sorry, girls. They're not really bad guys, you know.\""
 msgstr ""
 
 #: 00806:604
-
-msgid "{Haruka}\n\"Ahaha...\""
+msgid ""
+"{Haruka}\n"
+"\"Ahaha...\""
 msgstr ""
 
 #: 00806:605
-
 msgid "Haruka and Ran were the only two laughing. All the other girls were looking at us with horror. It made my stomach ache."
 msgstr ""
 
 #: 00806:610
-
-msgid "{Mei}\n\"Everyone, quiet! Just so you know, this is only a technique for enhancing the substance's basic properties.\""
+msgid ""
+"{Mei}\n"
+"\"Everyone, quiet! Just so you know, this is only a technique for enhancing the substance's basic properties.\""
 msgstr ""
 
 #: 00806:612
-
-msgid "{Mei}\n\"Everything in nature has its own properties, and if you try to change something in a way that doesn't suit the object or its properties, then your refinement will fail, so pay close attention.\""
+msgid ""
+"{Mei}\n"
+"\"Everything in nature has its own properties, and if you try to change something in a way that doesn't suit the object or its properties, then your refinement will fail, so pay close attention.\""
 msgstr ""
 
 #: 00806:614
-
-msgid "{Mei}\n\"If you try to force a transformation the results can literally be explosive. You have to be careful, OK?\""
+msgid ""
+"{Mei}\n"
+"\"If you try to force a transformation the results can literally be explosive. You have to be careful, OK?\""
 msgstr ""
 
 #: 00806:617
-
 msgid "I'm sure that last part was directed at us. Mei-sensei was looking at us with concern."
 msgstr ""
 
 #: 00806:618
-
-msgid "{Kazushi}\n\"See? You have to watch what you're doing.\""
+msgid ""
+"{Kazushi}\n"
+"\"See? You have to watch what you're doing.\""
 msgstr ""
 
 #: 00806:623
-
-msgid "{Appo}\n\"I will, OK? I promise.\""
+msgid ""
+"{Appo}\n"
+"\"I will, OK? I promise.\""
 msgstr ""
 
 #: 00806:627
-
-msgid "{Ran}\n\"Well, it won't succeed that easily, anyways.\""
+msgid ""
+"{Ran}\n"
+"\"Well, it won't succeed that easily, anyways.\""
 msgstr ""
 
 #: 00806:631
-
-msgid "{Mizuki}\n\"You won't be doing anything drastic as beginners. At most you'll start with changing colours or something simple like that.\""
+msgid ""
+"{Mizuki}\n"
+"\"You won't be doing anything drastic as beginners. At most you'll start with changing colours or something simple like that.\""
 msgstr ""
 
 #: 00806:632
-
-msgid "{Kazushi}\n\"It sounds fun, though. I wanna get started!\""
+msgid ""
+"{Kazushi}\n"
+"\"It sounds fun, though. I wanna get started!\""
 msgstr ""
 
 #: 00806:633
-
 msgid "I'm getting excited about having a new challenge."
 msgstr ""
 
 #: 00806:638
-
-msgid "{Haruka}\n\"You like it already?\nI'm glad.\""
+msgid ""
+"{Haruka}\n"
+"\"You like it already?\n"
+"I'm glad.\""
 msgstr ""
 
 #: 00806:639
-
-msgid "{Kazushi}\n\"Sure! It sounds like fun, so I want to give it a try.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure! It sounds like fun, so I want to give it a try.\""
 msgstr ""
 
 #: 00806:642
-
-msgid "{Haruka}\n\"You might find it complicated at the beginning, but I'm sure you'll get the hang of it. I'm sure you will, Kazushi-kun.\""
+msgid ""
+"{Haruka}\n"
+"\"You might find it complicated at the beginning, but I'm sure you'll get the hang of it. I'm sure you will, Kazushi-kun.\""
 msgstr ""
 
 #: 00806:643
-
-msgid "{Kazushi}\n\"You think? I still don't know anything.\""
+msgid ""
+"{Kazushi}\n"
+"\"You think? I still don't know anything.\""
 msgstr ""
 
 #: 00806:645
-
 msgid "I couldn't wait to try something. I can't believe a mysterious thing like alchemy exists in this world."
 msgstr ""
 
 #: 00806:646
-
 msgid "It's been a while since I've had to face a challenge like this."
 msgstr ""
 
 #: 00806:647
-
 msgid "It reminded me of my first day at elementary school. Unfortunately, I couldn't keep up with class and soon fell behind."
 msgstr ""
 
 #: 00806:650
-
-msgid "{Mei}\n\"Since this is their first day, let's perform a simple group experiment. Girls, please partner up with a boy and help him out.\""
+msgid ""
+"{Mei}\n"
+"\"Since this is their first day, let's perform a simple group experiment. Girls, please partner up with a boy and help him out.\""
 msgstr ""
 
 #: 00806:651
-
-msgid "{Kazushi}\n\"Let's do it!\""
+msgid ""
+"{Kazushi}\n"
+"\"Let's do it!\""
 msgstr ""
 
 #: 00806:653
-
 msgid "Every group was given their materials for the experiment. We received a flask and a gas burner, like most chemistry experiments."
 msgstr ""
 
 #: 00806:654
-
 msgid "And a fresh-cut flower for some reason."
 msgstr ""
 
 #: 00806:655
-
-msgid "{Kazushi}\n\"What's the flower for?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's the flower for?\""
 msgstr ""
 
 #: 00806:656
-
 msgid "The color was different, but it looked like the flowers we picked the other day."
 msgstr ""
 
 #: 00806:659
-
-msgid "{Haruka}\n\"That flower is our academy's secret for successful alchemy.\""
+msgid ""
+"{Haruka}\n"
+"\"That flower is our academy's secret for successful alchemy.\""
 msgstr ""
 
 #: 00806:664
-
-msgid "{Pierre}\n\"The secret?\""
+msgid ""
+"{Pierre}\n"
+"\"The secret?\""
 msgstr ""
 
 #: 00806:669
-
-msgid "{Mei}\n\"Let me explain.\""
+msgid ""
+"{Mei}\n"
+"\"Let me explain.\""
 msgstr ""
 
 #: 00806:670
-
 msgid "Mei-sensei sounded like this was something very important."
 msgstr ""
 
 #: 00806:671
-
-msgid "{Mei}\n\"The fundamental methodology for alchemy is to mix two substances such as sulphur and mercury, apply heat, and give birth to a brand new substance.\""
+msgid ""
+"{Mei}\n"
+"\"The fundamental methodology for alchemy is to mix two substances such as sulphur and mercury, apply heat, and give birth to a brand new substance.\""
 msgstr ""
 
 #: 00806:672
-
-msgid "{Mei}\n\"At our academy, we use this flower as a catalyst for the synthesis reaction.\""
+msgid ""
+"{Mei}\n"
+"\"At our academy, we use this flower as a catalyst for the synthesis reaction.\""
 msgstr ""
 
 #: 00806:677
-
-msgid "{Daigo}\n\"So it's like glue?\""
+msgid ""
+"{Daigo}\n"
+"\"So it's like glue?\""
 msgstr ""
 
 #: 00806:681
-
-msgid "{Rin}\n\"Oh, and that's how it connects to the process of cooking?\""
+msgid ""
+"{Rin}\n"
+"\"Oh, and that's how it connects to the process of cooking?\""
 msgstr ""
 
 #: 00806:685
-
-msgid "{Mei}\n\"That's a good example.\""
+msgid ""
+"{Mei}\n"
+"\"That's a good example.\""
 msgstr ""
 
 #: 00806:689
-
-msgid "{Mei}\n\"However, we still have yet to understand why this flower acts as a catalyst to improve the reaction. All we know is that it does help.\""
+msgid ""
+"{Mei}\n"
+"\"However, we still have yet to understand why this flower acts as a catalyst to improve the reaction. All we know is that it does help.\""
 msgstr ""
 
 #: 00806:693
-
-msgid "{Principal}\n\"We believe this flower's presence is what allowed alchemy to evolve on this island.\""
+msgid ""
+"{Principal}\n"
+"\"We believe this flower's presence is what allowed alchemy to evolve on this island.\""
 msgstr ""
 
 #: 00806:694
-
 msgid "The principal opened her mouth for the first time since the start of class. Her words reached my ears and snuck their way into my brain."
 msgstr ""
 
 #: 00806:695
-
-msgid "{Principal}\n\"By using this flower to enhance the reaction, the time required for refinements is shortened, and we are able to mass produce alchemic products.\""
+msgid ""
+"{Principal}\n"
+"\"By using this flower to enhance the reaction, the time required for refinements is shortened, and we are able to mass produce alchemic products.\""
 msgstr ""
 
 #: 00806:699
-
-msgid "{Haruka}\n\"Those flowers are the reason we're able to churn out enough seeds for commercial agriculture. Alchemic refinement requires a massive amount of time otherwise.\""
+msgid ""
+"{Haruka}\n"
+"\"Those flowers are the reason we're able to churn out enough seeds for commercial agriculture. Alchemic refinement requires a massive amount of time otherwise.\""
 msgstr ""
 
 #: 00806:700
-
-msgid "{Kazushi}\n\"I see......\""
+msgid ""
+"{Kazushi}\n"
+"\"I see......\""
 msgstr ""
 
 #: 00806:701
-
 msgid "Now we understood why the flowers were so important."
 msgstr ""
 
 #: 00806:705
-
-msgid "{Pierre}\n\"So if we use these flowers, then even amateurs like us are able to perform alchemy?\""
+msgid ""
+"{Pierre}\n"
+"\"So if we use these flowers, then even amateurs like us are able to perform alchemy?\""
 msgstr ""
 
 #: 00806:710
-
-msgid "{Mei}\n\"You still need a degree of training. If you study hard, you'll soon be able to succeed.\""
+msgid ""
+"{Mei}\n"
+"\"You still need a degree of training. If you study hard, you'll soon be able to succeed.\""
 msgstr ""
 
 #: 00806:714
-
-msgid "{Appo}\n\"Wow, amazing! Then hurry up and teach us something!\""
+msgid ""
+"{Appo}\n"
+"\"Wow, amazing! Then hurry up and teach us something!\""
 msgstr ""
 
 #: 00806:718
-
-msgid "{Mei}\n\"Let's begin by taking on an easy refinement today. Place the ingredients you have into the flask and begin heating them.\""
+msgid ""
+"{Mei}\n"
+"\"Let's begin by taking on an easy refinement today. Place the ingredients you have into the flask and begin heating them.\""
 msgstr ""
 
 #: 00806:719
-
-msgid "{Kazushi}\n\"What's the end result supposed to be?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's the end result supposed to be?\""
 msgstr ""
 
 #: 00806:722
-
-msgid "{Mei}\n\"It's a surprise. You'll find out if you get it right.\""
+msgid ""
+"{Mei}\n"
+"\"It's a surprise. You'll find out if you get it right.\""
 msgstr ""
 
 #: 00806:723
-
-msgid "{Kazushi}\n\"All right!\""
+msgid ""
+"{Kazushi}\n"
+"\"All right!\""
 msgstr ""
 
 #: 00806:729
-
-msgid "{Appo}\n\"I wonder what we'll get? I wonder what we'll get? It's like a happy meal prize!\""
+msgid ""
+"{Appo}\n"
+"\"I wonder what we'll get? I wonder what we'll get? It's like a happy meal prize!\""
 msgstr ""
 
 #: 00806:730
-
-msgid "{Daigo}\n\"Put these in here?\""
+msgid ""
+"{Daigo}\n"
+"\"Put these in here?\""
 msgstr ""
 
 #: 00806:734
-
-msgid "{Haruka}\n\"Yep, that's it. Mix those two chemicals in the flask.\""
+msgid ""
+"{Haruka}\n"
+"\"Yep, that's it. Mix those two chemicals in the flask.\""
 msgstr ""
 
 #: 00806:738
-
-msgid "{Pierre}\n\"What do we do with the flower?\""
+msgid ""
+"{Pierre}\n"
+"\"What do we do with the flower?\""
 msgstr ""
 
 #: 00806:739
-
 msgid "They said the flower was the catalyst."
 msgstr ""
 
 #: 00806:743
-
-msgid "{Mizuki}\n\"Don't add that yet. You have to put it in at just the right time.\""
+msgid ""
+"{Mizuki}\n"
+"\"Don't add that yet. You have to put it in at just the right time.\""
 msgstr ""
 
 #: 00806:744
-
-msgid "{Kazushi}\n\"I see. That's complicated.\""
+msgid ""
+"{Kazushi}\n"
+"\"I see. That's complicated.\""
 msgstr ""
 
 #: 00806:748
-
-msgid "{Haruka}\n\"Now, light the burner.\""
+msgid ""
+"{Haruka}\n"
+"\"Now, light the burner.\""
 msgstr ""
 
 #: 00806:752
-
-msgid "{Appo}\n\"Can I light the flame!?\nI like to start fires!!\""
+msgid ""
+"{Appo}\n"
+"\"Can I light the flame!?\n"
+"I like to start fires!!\""
 msgstr ""
 
 #: 00806:756
-
-msgid "{Daigo}\n\"...that sounds scary.\""
+msgid ""
+"{Daigo}\n"
+"\"...that sounds scary.\""
 msgstr ""
 
 #: 00806:760
-
-msgid "{Pierre}\n\"I like playing with fire too, but I'd rather set fire to a girl's heart!\""
+msgid ""
+"{Pierre}\n"
+"\"I like playing with fire too, but I'd rather set fire to a girl's heart!\""
 msgstr ""
 
 #: 00806:764
-
-msgid "{Appo}\n\"..................\nMe too!\nPierre, you stole my line!\""
+msgid ""
+"{Appo}\n"
+"\"..................\n"
+"Me too!\n"
+"Pierre, you stole my line!\""
 msgstr ""
 
 #: 00806:765
-
-msgid "{Kazushi}\n\"Just hurry up and light it.\""
+msgid ""
+"{Kazushi}\n"
+"\"Just hurry up and light it.\""
 msgstr ""
 
 #: 00806:770
-
 msgid "They finally got the burner lit."
 msgstr ""
 
 #: 00806:773
-
-msgid "{Haruka}\n\"It needs to be just a little bit stronger. Use that knob to adjust it.\""
+msgid ""
+"{Haruka}\n"
+"\"It needs to be just a little bit stronger. Use that knob to adjust it.\""
 msgstr ""
 
 #: 00806:775
-
 msgid "The magical liquid inside the flask started boiling."
 msgstr ""
 
 #: 00806:780
-
-msgid "{Pierre}\n\"Now it's starting to look like magic.\""
+msgid ""
+"{Pierre}\n"
+"\"Now it's starting to look like magic.\""
 msgstr ""
 
 #: 00806:781
-
-msgid "{Haruka}\n\"Time to add the flower.\""
+msgid ""
+"{Haruka}\n"
+"\"Time to add the flower.\""
 msgstr ""
 
 #: 00806:782
-
 msgid "I picked up the flower and dropped it into the flask for us. It was a red flower, so the liquid turned pink."
 msgstr ""
 
 #: 00806:787
-
-msgid "{Mei}\n\"There are three stages to the refinement. Black, White, and Red, each indicated by the color of the contents.\""
+msgid ""
+"{Mei}\n"
+"\"There are three stages to the refinement. Black, White, and Red, each indicated by the color of the contents.\""
 msgstr ""
 
 #: 00806:788
-
 msgid "Everyone watched their flasks as Mei-sensei gave her explanation."
 msgstr ""
 
 #: 00806:792
-
-msgid "{Daigo}\n\"Look!\""
+msgid ""
+"{Daigo}\n"
+"\"Look!\""
 msgstr ""
 
 #: 00806:793
-
 msgid "The liquid in the flask began to turn a shade of black. The faint pink liquid quickly became opaque."
 msgstr ""
 
 #: 00806:797
-
-msgid "{Mei}\n\"Now listen up. This is when adjusting the temperature is most important. As the reaction stage progresses, you'll need to adjust the flame.\""
+msgid ""
+"{Mei}\n"
+"\"Now listen up. This is when adjusting the temperature is most important. As the reaction stage progresses, you'll need to adjust the flame.\""
 msgstr ""
 
 #: 00806:798
-
 msgid "According to her explanation, the liquid will go from black, to white, to red. We'll have to adjust the burner each time it changes."
 msgstr ""
 
 #: 00806:800
-
-msgid "{Mei}\n\"Even if you think you're done once you've combined the proper ingredients, you'll produce a completely different result if the refinement process stops anywhere along this period.\""
+msgid ""
+"{Mei}\n"
+"\"Even if you think you're done once you've combined the proper ingredients, you'll produce a completely different result if the refinement process stops anywhere along this period.\""
 msgstr ""
 
 #: 00806:802
-
-msgid "{Mei}\n\"For every combination whose refinement we know, there are many combinations we don't. A change in the process can also cause something entirely new to be refined.\""
+msgid ""
+"{Mei}\n"
+"\"For every combination whose refinement we know, there are many combinations we don't. A change in the process can also cause something entirely new to be refined.\""
 msgstr ""
 
 #: 00806:808
-
-msgid "{Pierre}\n\"That's cool. I wonder if we can make anything valuable?\""
+msgid ""
+"{Pierre}\n"
+"\"That's cool. I wonder if we can make anything valuable?\""
 msgstr ""
 
 #: 00806:809
-
-msgid "{Ran}\n\"I keep my eyes on the pharmaceutical industry too. If we get lucky, we could develop a cure for cancer and make a killing!\""
+msgid ""
+"{Ran}\n"
+"\"I keep my eyes on the pharmaceutical industry too. If we get lucky, we could develop a cure for cancer and make a killing!\""
 msgstr ""
 
 #: 00806:813
-
-msgid "{Mizuki}\n\"There she goes about money again.\""
+msgid ""
+"{Mizuki}\n"
+"\"There she goes about money again.\""
 msgstr ""
 
 #: 00806:817
-
-msgid "{Appo}\n\"Let her, let her. It's her dream.\""
+msgid ""
+"{Appo}\n"
+"\"Let her, let her. It's her dream.\""
 msgstr ""
 
 #: 00806:821
-
-msgid "{Daigo}\n\"But Mei-sensei already knows what we're going to make, right? So long as we use the ingredients they gave us and follow their directions.\""
+msgid ""
+"{Daigo}\n"
+"\"But Mei-sensei already knows what we're going to make, right? So long as we use the ingredients they gave us and follow their directions.\""
 msgstr ""
 
 #: 00806:822
-
-msgid "{Kazushi}\n\"Well, this is our first time. She had to make it easy.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, this is our first time. She had to make it easy.\""
 msgstr ""
 
 #: 00806:825
-
-msgid "{Appo}\n\"Well that's no fun.\nWhy don't we try adding something extra?\""
+msgid ""
+"{Appo}\n"
+"\"Well that's no fun.\n"
+"Why don't we try adding something extra?\""
 msgstr ""
 
 #: 00806:828
-
 msgid "Appo started whispering to us."
 msgstr ""
 
 #: 00806:829
-
-msgid "{Daigo}\n\"We shouldn't mess around today.\""
+msgid ""
+"{Daigo}\n"
+"\"We shouldn't mess around today.\""
 msgstr ""
 
 #: 00806:833
-
-msgid "{Pierre}\n\"Idiot, men are adventurers! If you stick to well worn path, you'll never be a good man.\""
+msgid ""
+"{Pierre}\n"
+"\"Idiot, men are adventurers! If you stick to well worn path, you'll never be a good man.\""
 msgstr ""
 
 #: 00806:834
-
-msgid "{Appo}\n\"In other words, you'll never be popular.\""
+msgid ""
+"{Appo}\n"
+"\"In other words, you'll never be popular.\""
 msgstr ""
 
 #: 00806:838
-
-msgid "{Daigo}\n\"Th-that wouldn't be good. I want to lose my virginity by the end of this year!\""
+msgid ""
+"{Daigo}\n"
+"\"Th-that wouldn't be good. I want to lose my virginity by the end of this year!\""
 msgstr ""
 
 #: 00806:839
-
-msgid "{Kazushi}\n\"...me too. What do we do?\""
+msgid ""
+"{Kazushi}\n"
+"\"...me too. What do we do?\""
 msgstr ""
 
 #: 00806:843
-
-msgid "{Pierre}\n\"The answer is simple. We simply derail our train. We become outlaws!\""
+msgid ""
+"{Pierre}\n"
+"\"The answer is simple. We simply derail our train. We become outlaws!\""
 msgstr ""
 
 #: 00806:844
-
-msgid "{Appo}\n\"I doesn't matter what era we're in, girls love a bad guy. You know, rugged bad.\""
+msgid ""
+"{Appo}\n"
+"\"I doesn't matter what era we're in, girls love a bad guy. You know, rugged bad.\""
 msgstr ""
 
 #: 00806:845
-
-msgid "{Kazushi}\n\"That's so true.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's so true.\""
 msgstr ""
 
 #: 00806:849
-
-msgid "{Daigo}\n\"I'll stray! I'll stray! I'll stray from any path in order to get a girl!\""
+msgid ""
+"{Daigo}\n"
+"\"I'll stray! I'll stray! I'll stray from any path in order to get a girl!\""
 msgstr ""
 
 #: 00806:853
-
-msgid "{Pierre}\n\"I think you're about to stray onto a path you shouldn't.\""
+msgid ""
+"{Pierre}\n"
+"\"I think you're about to stray onto a path you shouldn't.\""
 msgstr ""
 
 #: 00806:854
-
-msgid "{Kazushi}\n\"So what do we do? Add something crazy to the mix?\""
+msgid ""
+"{Kazushi}\n"
+"\"So what do we do? Add something crazy to the mix?\""
 msgstr ""
 
 #: 00806:855
-
-msgid "{Appo}\n\"What do we have?\""
+msgid ""
+"{Appo}\n"
+"\"What do we have?\""
 msgstr ""
 
 #: 00806:858
-
 msgid "We looked around, but all we had were pens, pencils, paper, etc. It'd be hard to mix those in."
 msgstr ""
 
 #: 00806:861
-
-msgid "{Ran}\n\"Why are you guys whispering to each other?\""
+msgid ""
+"{Ran}\n"
+"\"Why are you guys whispering to each other?\""
 msgstr ""
 
 #: 00806:862
-
-msgid "{Kazushi}\n\"No reason...\""
+msgid ""
+"{Kazushi}\n"
+"\"No reason...\""
 msgstr ""
 
 #: 00806:867
-
-msgid "{Mizuki}\n\"Are you guys starting trouble again?\""
+msgid ""
+"{Mizuki}\n"
+"\"Are you guys starting trouble again?\""
 msgstr ""
 
 #: 00806:871
-
-msgid "{Pierre}\n\"Of course not. We are good boys.\""
+msgid ""
+"{Pierre}\n"
+"\"Of course not. We are good boys.\""
 msgstr ""
 
 #: 00806:876
-
-msgid "{Haruka}\n\"Hey, it's changing colour again. We need to adjust the heat.\""
+msgid ""
+"{Haruka}\n"
+"\"Hey, it's changing colour again. We need to adjust the heat.\""
 msgstr ""
 
 #: 00806:877
-
-msgid "{Kazushi}\n\"I got it.\""
+msgid ""
+"{Kazushi}\n"
+"\"I got it.\""
 msgstr ""
 
 #: 00806:878
-
 msgid "Now the solution's turning white."
 msgstr ""
 
 #: 00806:883
-
-msgid "{Pierre}\n(Pretend you're adjusting the flame and throw something in.)"
+msgid ""
+"{Pierre}\n"
+"(Pretend you're adjusting the flame and throw something in.)"
 msgstr ""
 
 #: 00806:884
-
-msgid "{Kazushi}\n(Got it.)"
+msgid ""
+"{Kazushi}\n"
+"(Got it.)"
 msgstr ""
 
 #: 00806:885
-
 msgid "But what should I add?"
 msgstr ""
 
 #: 00806:889
-
-msgid "{Haruka}\n\"Okay, now!\""
+msgid ""
+"{Haruka}\n"
+"\"Okay, now!\""
 msgstr ""
 
 #: 00806:890
-
-msgid "{Kazushi}\n\"What? Oh yeah!\nGot it!\""
+msgid ""
+"{Kazushi}\n"
+"\"What? Oh yeah!\n"
+"Got it!\""
 msgstr ""
 
 #: 00806:895
-
-msgid "{Appo}\n(Here, Kazushi, add this!)"
+msgid ""
+"{Appo}\n"
+"(Here, Kazushi, add this!)"
 msgstr ""
 
 #: 00806:896
-
 msgid "Appo handed me something looks like a string."
 msgstr ""
 
 #: 00806:897
-
-msgid "{Kazushi}\n(Thanks!)"
+msgid ""
+"{Kazushi}\n"
+"(Thanks!)"
 msgstr ""
 
 #: 00806:900
-
 msgid "I pretended to adjust the heat and dropped it in without taking a close look at it."
 msgstr ""
 
 #: 00806:906
-
-msgid "{Kazushi}\n\"What the--!?\""
+msgid ""
+"{Kazushi}\n"
+"\"What the--!?\""
 msgstr ""
 
 #: 00806:912
-
 msgid "*BOOM!*"
 msgstr ""
 
 #: 00806:921
-
-msgid "{Appo}\n\"Why'd it explode?!\""
+msgid ""
+"{Appo}\n"
+"\"Why'd it explode?!\""
 msgstr ""
 
 #: 00806:922
-
-msgid "{Kazushi}\n\"I thought I died.\""
+msgid ""
+"{Kazushi}\n"
+"\"I thought I died.\""
 msgstr ""
 
 #: 00806:924
-
 msgid "The blazing column leapt straight towards the ceiling and left a circular scorch mark. Luckily, it didn't spread anywhere else."
 msgstr ""
 
 #: 00806:929
-
-msgid "{Ran}\n\"Wow! Alchemy is scary.\""
+msgid ""
+"{Ran}\n"
+"\"Wow! Alchemy is scary.\""
 msgstr ""
 
 #: 00806:930
-
-msgid "{Mizuki}\n\"I've never seen that before. What did you guys do!?\""
+msgid ""
+"{Mizuki}\n"
+"\"I've never seen that before. What did you guys do!?\""
 msgstr ""
 
 #: 00806:931
-
 msgid "I'm nearly 100% positive that what we added did it."
 msgstr ""
 
 #: 00806:932
-
-msgid "{Kazushi}\n\"What did you give me?\""
+msgid ""
+"{Kazushi}\n"
+"\"What did you give me?\""
 msgstr ""
 
 #: 00806:936
-
-msgid "{Appo}\n\"One of my pubic hairs.\""
+msgid ""
+"{Appo}\n"
+"\"One of my pubic hairs.\""
 msgstr ""
 
 #: 00806:937
-
-msgid "{Mizuki}\n\"Egggh?!!\""
+msgid ""
+"{Mizuki}\n"
+"\"Egggh?!!\""
 msgstr ""
 
 #: 00806:940
-
 msgid "The other girls apparently heard us and took a few more steps away."
 msgstr ""
 
 #: 00806:945
-
-msgid "{Mei}\n\"You guys......\""
+msgid ""
+"{Mei}\n"
+"\"You guys......\""
 msgstr ""
 
 #: 00806:946
-
-msgid "{Ran}\n\"That's disgusting.\""
+msgid ""
+"{Ran}\n"
+"\"That's disgusting.\""
 msgstr ""
 
 #: 00806:947
-
-msgid "{Kazushi}\n\"You gave me one of your pubic hairs!? I had to touch that!\""
+msgid ""
+"{Kazushi}\n"
+"\"You gave me one of your pubic hairs!? I had to touch that!\""
 msgstr ""
 
 #: 00806:952
-
-msgid "{Daigo}\n\"You should sterilize your hands.\""
+msgid ""
+"{Daigo}\n"
+"\"You should sterilize your hands.\""
 msgstr ""
 
 #: 00806:953
-
-msgid "{Kazushi}\n\"I'm going to the infirmary...\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm going to the infirmary...\""
 msgstr ""
 
 #: 00806:965
-
-msgid "{Appo}\n\"You don't need to actually go. ......You're hurting me.\""
+msgid ""
+"{Appo}\n"
+"\"You don't need to actually go. ......You're hurting me.\""
 msgstr ""
 
 #: 00806:966
-
-msgid "{Kazushi}\n\"Be hurt! I can't believe you made me touch that!\""
+msgid ""
+"{Kazushi}\n"
+"\"Be hurt! I can't believe you made me touch that!\""
 msgstr ""
 
 #: 00806:968
-
 msgid "I washed my hands until my fingerprints had melted off and the air around me reeked of disinfectant."
 msgstr ""
 
 #: 00806:971
-
-msgid "{Mei}\n\"You guys are keeping me very busy. I'll give you one more chance.\""
+msgid ""
+"{Mei}\n"
+"\"You guys are keeping me very busy. I'll give you one more chance.\""
 msgstr ""
 
 #: 00806:979
-
-msgid "{Boys}\n\"Thank you!\""
+msgid ""
+"{Boys}\n"
+"\"Thank you!\""
 msgstr ""
 
 #: 00806:985
-
-msgid "{Principal}\n\"This time, form pairs of one boy and one girl each.\""
+msgid ""
+"{Principal}\n"
+"\"This time, form pairs of one boy and one girl each.\""
 msgstr ""
 
 #: 00806:986
-
-msgid "{Kazushi}\n\"What?\""
+msgid ""
+"{Kazushi}\n"
+"\"What?\""
 msgstr ""
 
 #: 00806:987
-
 msgid "I was surprised to hear the principal speak. So was Mei-sensei."
 msgstr ""
 
 #: 00806:991
-
-msgid "{Mei}\n\"You want them to pair up?\""
+msgid ""
+"{Mei}\n"
+"\"You want them to pair up?\""
 msgstr ""
 
 #: 00806:995
-
-msgid "{Principal}\n\"Yes, starting with you. Haruma-kun, give it a try.\""
+msgid ""
+"{Principal}\n"
+"\"Yes, starting with you. Haruma-kun, give it a try.\""
 msgstr ""
 
 #: 00806:996
-
-msgid "{Kazushi}\n\"Me?\""
+msgid ""
+"{Kazushi}\n"
+"\"Me?\""
 msgstr ""
 
 #: 00806:997
-
-msgid "{Principal}\n\"You're free to choose your pairs. However, compatibility is important to keep in mind. Consider the beginning of your experiment to be the act of selecting your partner.\""
+msgid ""
+"{Principal}\n"
+"\"You're free to choose your pairs. However, compatibility is important to keep in mind. Consider the beginning of your experiment to be the act of selecting your partner.\""
 msgstr ""
 
 #: 00806:998
-
 msgid "The principal spoke to me, but why was I chosen? Was there some reason to it?"
 msgstr ""
 
 #: 00806:1002
-
-msgid "{Mei}\n\"Choose somebody, Haruma-kun.\""
+msgid ""
+"{Mei}\n"
+"\"Choose somebody, Haruma-kun.\""
 msgstr ""
 
 #: 00806:1003
-
-msgid "{Kazushi}\n\"Yes, Ma'am.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yes, Ma'am.\""
 msgstr ""
 
 #: 00806:1005
-
 msgid "Anyways, I've been designated, so I have to do it. They said it's important to choose my partner, but who should I pick?"
 msgstr ""
-

@@ -8,816 +8,923 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 01106:14
-
-msgid "{Sakura}\n\"It's OK. Let's ask them.\""
+msgid ""
+"{Sakura}\n"
+"\"It's OK. Let's ask them.\""
 msgstr ""
 
 #: 01106:15
-
-msgid "{Mizuki}\n\"I'm not sure......\""
+msgid ""
+"{Mizuki}\n"
+"\"I'm not sure......\""
 msgstr ""
 
 #: 01106:16
-
-msgid "{Fuusen}\n\"I don't want to have to ask the boys.\""
+msgid ""
+"{Fuusen}\n"
+"\"I don't want to have to ask the boys.\""
 msgstr ""
 
 #: 01106:17
-
-msgid "What's going on?\nSome of the girls are gazing at us and whispering."
+msgid ""
+"What's going on?\n"
+"Some of the girls are gazing at us and whispering."
 msgstr ""
 
 #: 01106:25
-
-msgid "{Pierre}\n\"Hey, aren't the girls acting strange?\""
+msgid ""
+"{Pierre}\n"
+"\"Hey, aren't the girls acting strange?\""
 msgstr ""
 
 #: 01106:26
-
-msgid "{Kazushi}\n\"You've noticed it too?\""
+msgid ""
+"{Kazushi}\n"
+"\"You've noticed it too?\""
 msgstr ""
 
 #: 01106:29
-
-msgid "{Daigo}\n\"What are you guys talking about?\""
+msgid ""
+"{Daigo}\n"
+"\"What are you guys talking about?\""
 msgstr ""
 
 #: 01106:30
-
-msgid "{Pierre}\n\"Why are you so slow, Daigo? See, look how the girls keep glancing at us?\""
+msgid ""
+"{Pierre}\n"
+"\"Why are you so slow, Daigo? See, look how the girls keep glancing at us?\""
 msgstr ""
 
 #: 01106:33
-
 msgid "Whenever we looked over at the group of girls, they all averted their eyes. They were clearly watching us."
 msgstr ""
 
 #: 01106:34
-
-msgid "{Kazushi}\n\"Did we do something wrong again?\""
+msgid ""
+"{Kazushi}\n"
+"\"Did we do something wrong again?\""
 msgstr ""
 
 #: 01106:37
-
-msgid "{Daigo}\n\"No, we haven't. Be more confident, or you'll look suspicious.\""
+msgid ""
+"{Daigo}\n"
+"\"No, we haven't. Be more confident, or you'll look suspicious.\""
 msgstr ""
 
 #: 01106:42
-
-msgid "{Pierre}\n\"The girls are watching me...\nI'm getting so turned on!\""
+msgid ""
+"{Pierre}\n"
+"\"The girls are watching me...\n"
+"I'm getting so turned on!\""
 msgstr ""
 
 #: 01106:43
-
-msgid "{Kazushi}\n\"Pierre's the suspicious one. Quit letting your perversion out. They'll start thinking I'm a pervert too.\""
+msgid ""
+"{Kazushi}\n"
+"\"Pierre's the suspicious one. Quit letting your perversion out. They'll start thinking I'm a pervert too.\""
 msgstr ""
 
 #: 01106:51
-
-msgid "{Sakura}\n\"Can I talk to you guys for a second?\""
+msgid ""
+"{Sakura}\n"
+"\"Can I talk to you guys for a second?\""
 msgstr ""
 
 #: 01106:52
-
 msgid "They finally approached us. Sakura and Hinata-san were with them."
 msgstr ""
 
 #: 01106:53
-
-msgid "{Kazushi}\n\"Sure, what's up?\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure, what's up?\""
 msgstr ""
 
 #: 01106:54
-
-msgid "{Mizuki}\n\"We need to ask you guys a big favor......\""
+msgid ""
+"{Mizuki}\n"
+"\"We need to ask you guys a big favor......\""
 msgstr ""
 
 #: 01106:55
-
 msgid "Sakura and Hinata-san were acting as representatives while the other girls continued to watch us from afar."
 msgstr ""
 
 #: 01106:62
-
-msgid "{Pierre}\n\"A favor? From us?\""
+msgid ""
+"{Pierre}\n"
+"\"A favor? From us?\""
 msgstr ""
 
 #: 01106:63
-
 msgid "We've never had girls ask us for a favour before. Pierre was wondering if this might be some kind of practical joke."
 msgstr ""
 
 #: 01106:68
-
-msgid "{Pierre}\n(Do you think it's a trap?)"
+msgid ""
+"{Pierre}\n"
+"(Do you think it's a trap?)"
 msgstr ""
 
 #: 01106:69
-
-msgid "{Kazushi}\n(A trap? Come on, they're our classmates.)"
+msgid ""
+"{Kazushi}\n"
+"(A trap? Come on, they're our classmates.)"
 msgstr ""
 
 #: 01106:70
-
-msgid "{Daigo}\n(But the girls asking us for a favour is really suspicious...)"
+msgid ""
+"{Daigo}\n"
+"(But the girls asking us for a favour is really suspicious...)"
 msgstr ""
 
 #: 01106:71
-
 msgid "True, it is suspicious..."
 msgstr ""
 
 #: 01106:78
-
-msgid "{Mizuki}\n\"What are you guys whispering about? If you won't do it, just say so.\""
+msgid ""
+"{Mizuki}\n"
+"\"What are you guys whispering about? If you won't do it, just say so.\""
 msgstr ""
 
 #: 01106:81
-
-msgid "{Sakura}\n\"Don't say that. Could you at least hear us out?\""
+msgid ""
+"{Sakura}\n"
+"\"Don't say that. Could you at least hear us out?\""
 msgstr ""
 
 #: 01106:82
-
-msgid "{Kazushi}\n\"Sure, we don't mind at all.\""
+msgid ""
+"{Kazushi}\n"
+"\"Sure, we don't mind at all.\""
 msgstr ""
 
 #: 01106:83
-
 msgid "We can make our decision after we hear the matter. I sent that message to Pierre and Daigo with my eyes."
 msgstr ""
 
 #: 01106:86
-
-msgid "{Sakura}\n\"Well, Harucchi, do you believe in ghosts?\""
+msgid ""
+"{Sakura}\n"
+"\"Well, Harucchi, do you believe in ghosts?\""
 msgstr ""
 
 #: 01106:87
-
-msgid "{Kazushi}\n\"G-ghosts?!\""
+msgid ""
+"{Kazushi}\n"
+"\"G-ghosts?!\""
 msgstr ""
 
 #: 01106:88
-
 msgid "So it's shady right from the start? Maybe we shouldn't have listened."
 msgstr ""
 
 #: 01106:89
-
-msgid "{Sakura}\n\"Maybe you guys won't believe what I'm going to tell you...\""
+msgid ""
+"{Sakura}\n"
+"\"Maybe you guys won't believe what I'm going to tell you...\""
 msgstr ""
 
 #: 01106:90
-
-msgid "{Mizuki}\n\"There's a ghost in our dorm!\""
+msgid ""
+"{Mizuki}\n"
+"\"There's a ghost in our dorm!\""
 msgstr ""
 
 #: 01106:91
-
 msgid "I knew it."
 msgstr ""
 
 #: 01106:97
-
 msgid "I wish I hadn't heard that."
 msgstr ""
 
 #: 01106:98
-
-msgid "{Kazushi}\n\"Oh no! I'm scared!\""
+msgid ""
+"{Kazushi}\n"
+"\"Oh no! I'm scared!\""
 msgstr ""
 
 #: 01106:103
-
-msgid "{Pierre}\n\"I told you I didn't want to hear it.\""
+msgid ""
+"{Pierre}\n"
+"\"I told you I didn't want to hear it.\""
 msgstr ""
 
 #: 01106:104
-
 msgid "The favour they wanted to ask us was easy to deduce from there."
 msgstr ""
 
 #: 01106:105
-
 msgid "They want us to find out why the ghost appeared and make it go away."
 msgstr ""
 
 #: 01106:106
-
 msgid "That's what they want."
 msgstr ""
 
 #: 01106:107
-
-msgid "{Daigo}\n\"How are we supposed to find out why they're being haunted?\""
+msgid ""
+"{Daigo}\n"
+"\"How are we supposed to find out why they're being haunted?\""
 msgstr ""
 
 #: 01106:108
-
-msgid "{Pierre}\n\"It's not like we can exorcize it anyways. How about it? Wanna just pretend to do it and go peep on them instead?\""
+msgid ""
+"{Pierre}\n"
+"\"It's not like we can exorcize it anyways. How about it? Wanna just pretend to do it and go peep on them instead?\""
 msgstr ""
 
 #: 01106:109
-
-msgid "{Kazushi}\n\"Come on, guys.\nWe said we'd do it so we should take care of it.\nWhere'd Appo go, anyways?\""
+msgid ""
+"{Kazushi}\n"
+"\"Come on, guys.\n"
+"We said we'd do it so we should take care of it.\n"
+"Where'd Appo go, anyways?\""
 msgstr ""
 
 #: 01106:110
-
 msgid "We hadn't seen him since after lunch."
 msgstr ""
 
 #: 01106:113
-
-msgid "{Pierre}\n\"He probably thought it would be a pain in the arse and bolted.\nAnyhow, it's time to go.\""
+msgid ""
+"{Pierre}\n"
+"\"He probably thought it would be a pain in the arse and bolted.\n"
+"Anyhow, it's time to go.\""
 msgstr ""
 
 #: 01106:114
-
-msgid "They said the ghost tends to show up around 2AM.\nIt's almost two now."
+msgid ""
+"They said the ghost tends to show up around 2AM.\n"
+"It's almost two now."
 msgstr ""
 
 #: 01106:117
-
-msgid "{Daigo}\n\"The ghost is female, right?\nYou think she's hot?\""
+msgid ""
+"{Daigo}\n"
+"\"The ghost is female, right?\n"
+"You think she's hot?\""
 msgstr ""
 
 #: 01106:118
-
-msgid "{Pierre}\n\"Make sure you don't fall for her, OK?\""
+msgid ""
+"{Pierre}\n"
+"\"Make sure you don't fall for her, OK?\""
 msgstr ""
 
 #: 01106:121
-
-msgid "{Daigo}\n\"I dunno. If she's really hot......\""
+msgid ""
+"{Daigo}\n"
+"\"I dunno. If she's really hot......\""
 msgstr ""
 
 #: 01106:122
-
-msgid "{Kazushi}\n\"Are you serious? Don't fall for a ghost!\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you serious? Don't fall for a ghost!\""
 msgstr ""
 
 #: 01106:123
-
 msgid "I think we need to watch out not just for the ghost, but also for Daigo."
 msgstr ""
 
 #: 01106:125
-
 msgid "Creak..."
 msgstr ""
 
 #: 01106:131
-
-msgid "{Kazushi}\n\"Did you guys hear that?\""
+msgid ""
+"{Kazushi}\n"
+"\"Did you guys hear that?\""
 msgstr ""
 
 #: 01106:133
-
 msgid "Creak..."
 msgstr ""
 
 #: 01106:134
-
 msgid "I could hear the sound of the floor creaking and the two of them gulping."
 msgstr ""
 
 #: 01106:139
-
-msgid "{Pierre}\n\"We told the girls to stay in their rooms, right?\nThat means there really is a ghost!\""
+msgid ""
+"{Pierre}\n"
+"\"We told the girls to stay in their rooms, right?\n"
+"That means there really is a ghost!\""
 msgstr ""
 
 #: 01106:140
-
-msgid "{Daigo}\n\"You think she's pretty?\""
+msgid ""
+"{Daigo}\n"
+"\"You think she's pretty?\""
 msgstr ""
 
 #: 01106:141
-
-msgid "{Kazushi}\n\"You're not seriously going to fall for a dead chick, are you?\nDon't make me stop being your friend.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're not seriously going to fall for a dead chick, are you?\n"
+"Don't make me stop being your friend.\""
 msgstr ""
 
 #: 01106:144
-
 msgid "Creak......creak......"
 msgstr ""
 
 #: 01106:145
-
-msgid "{Pierre}\n\"It's coming this way.\""
+msgid ""
+"{Pierre}\n"
+"\"It's coming this way.\""
 msgstr ""
 
 #: 01106:146
-
 msgid "The footsteps were coming closer. They were just around the corner."
 msgstr ""
 
 #: 01106:147
-
-msgid "{Kazushi}\n\"Please don't come this way......\""
+msgid ""
+"{Kazushi}\n"
+"\"Please don't come this way......\""
 msgstr ""
 
 #: 01106:148
-
-msgid "{Pierre}\n\"What are we going to do?\nShould we capture her?\""
+msgid ""
+"{Pierre}\n"
+"\"What are we going to do?\n"
+"Should we capture her?\""
 msgstr ""
 
 #: 01106:149
-
-msgid "{Daigo}\n\"It's OK to molest a ghost, right?\""
+msgid ""
+"{Daigo}\n"
+"\"It's OK to molest a ghost, right?\""
 msgstr ""
 
 #: 01106:150
-
-msgid "{Kazushi}\n\"You're planning to assault her? Stop that! Take those dangerous ideas and pitch them out the window!\""
+msgid ""
+"{Kazushi}\n"
+"\"You're planning to assault her? Stop that! Take those dangerous ideas and pitch them out the window!\""
 msgstr ""
 
 #: 01106:151
-
-msgid "{Daigo}\n\"HNNNGH! HNNNGH!\""
+msgid ""
+"{Daigo}\n"
+"\"HNNNGH! HNNNGH!\""
 msgstr ""
 
 #: 01106:152
-
 msgid "Daigo's breath came out of his nose like a bull. He looked ready to charge at any minute."
 msgstr ""
 
 #: 01106:154
-
 msgid "Creak..."
 msgstr ""
 
 #: 01106:155
-
-msgid "{Kazushi}\n\"Eh?\""
+msgid ""
+"{Kazushi}\n"
+"\"Eh?\""
 msgstr ""
 
 #: 01106:156
-
 msgid "While we were distracted with Daigo, she got even closer. She's almost here!"
 msgstr ""
 
 #: 01106:157
-
-msgid "{Pierre}\n\"She's coming......!\""
+msgid ""
+"{Pierre}\n"
+"\"She's coming......!\""
 msgstr ""
 
 #: 01106:158
-
-msgid "{Kazushi}\n\"Let's get......\""
+msgid ""
+"{Kazushi}\n"
+"\"Let's get......\""
 msgstr ""
 
 #: 01106:162
-
-msgid "{Daigo}\n\"HHHHNNGHH!!\""
+msgid ""
+"{Daigo}\n"
+"\"HHHHNNGHH!!\""
 msgstr ""
 
 #: 01106:164
-
 msgid "Daigo's huge body rushed into the dark!"
 msgstr ""
 
 #: 01106:166
-
 msgid "When the suspicious girl rounded the corner, Daigo moved as fast as lighting and pinned her down like an angry god."
 msgstr ""
 
 #: 01106:171
-
-msgid "{Pierre}\n\"We got her!!\nWe captured the ghost!!\""
+msgid ""
+"{Pierre}\n"
+"\"We got her!!\n"
+"We captured the ghost!!\""
 msgstr ""
 
 #: 01106:175
-
-msgid "{Daigo}\n\"HHHHNGHH! HHHHHNGHH!\""
+msgid ""
+"{Daigo}\n"
+"\"HHHHNGHH! HHHHHNGHH!\""
 msgstr ""
 
 #: 01106:177
-
-msgid "{Ghost}\n\"S-stop it! Forgive me! Gah! He's got a hard on! He's gonna rape me!!\""
+msgid ""
+"{Ghost}\n"
+"\"S-stop it! Forgive me! Gah! He's got a hard on! He's gonna rape me!!\""
 msgstr ""
 
 #: 01106:178
-
-msgid "{Kazushi}\n\"Daigo! Restrain yourself! You still have a future ahead of you!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Daigo! Restrain yourself! You still have a future ahead of you!!\""
 msgstr ""
 
 #: 01106:181
-
-msgid "{Pierre}\n\"Yeah, wait a sec.\nDoesn't her voice sound familiar?\""
+msgid ""
+"{Pierre}\n"
+"\"Yeah, wait a sec.\n"
+"Doesn't her voice sound familiar?\""
 msgstr ""
 
 #: 01106:183
-
-msgid "{Ghost}\n\"Noo! Ah! Aaaaaahhhhh!!\""
+msgid ""
+"{Ghost}\n"
+"\"Noo! Ah! Aaaaaahhhhh!!\""
 msgstr ""
 
 #: 01106:184
-
-msgid "{Kazushi}\n\"You're right...\nI think we hear this voice every day.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're right...\n"
+"I think we hear this voice every day.\""
 msgstr ""
 
 #: 01106:185
-
-msgid "{Ghost}\n\"Daigo, Stop! Ah! Bgaah...Bgaaaaaaaahhh!!!\""
+msgid ""
+"{Ghost}\n"
+"\"Daigo, Stop! Ah! Bgaah...Bgaaaaaaaahhh!!!\""
 msgstr ""
 
 #: 01106:186
-
 msgid "That death cry was definitely Appo's."
 msgstr ""
 
 #: 01106:189
-
-msgid "{Kazushi}\n\"Appo! What are you doing here?\""
+msgid ""
+"{Kazushi}\n"
+"\"Appo! What are you doing here?\""
 msgstr ""
 
 #: 01106:190
-
 msgid "Appo was wearing a wig and women's clothing."
 msgstr ""
 
 #: 01106:195
-
-msgid "{Daigo}\n\"Wha? Huh? Appo?\""
+msgid ""
+"{Daigo}\n"
+"\"Wha? Huh? Appo?\""
 msgstr ""
 
 #: 01106:196
-
-msgid "{Kazushi}\n\"What are you doing here?\nWhy are you wearing that?\""
+msgid ""
+"{Kazushi}\n"
+"\"What are you doing here?\n"
+"Why are you wearing that?\""
 msgstr ""
 
 #: 01106:203
-
-msgid "{Pierre}\n\"You're the ghost?\nStop dicking us around!\""
+msgid ""
+"{Pierre}\n"
+"\"You're the ghost?\n"
+"Stop dicking us around!\""
 msgstr ""
 
 #: 01106:207
-
-msgid "{Appo}\n\"I'm not dicking around!\nI'm dead serious!\""
+msgid ""
+"{Appo}\n"
+"\"I'm not dicking around!\n"
+"I'm dead serious!\""
 msgstr ""
 
 #: 01106:208
-
 msgid "Though being dead serious about cross-dressing and sneaking around the girls' dorm is..."
 msgstr ""
 
 #: 01106:209
-
-msgid "{Appo}\n\"I found out that it was easy to sneak in here if I disguised myself as a girl!\""
+msgid ""
+"{Appo}\n"
+"\"I found out that it was easy to sneak in here if I disguised myself as a girl!\""
 msgstr ""
 
 #: 01106:210
-
-msgid "{Pierre}\n\"And if that's what you were up to, then why didn't you tell us? Why did you go off and do it by yourself?\""
+msgid ""
+"{Pierre}\n"
+"\"And if that's what you were up to, then why didn't you tell us? Why did you go off and do it by yourself?\""
 msgstr ""
 
 #: 01106:213
-
-msgid "{Appo}\n\"Well... It was a great idea for once. I wanted to monopolize this paradise for while first.\""
+msgid ""
+"{Appo}\n"
+"\"Well... It was a great idea for once. I wanted to monopolize this paradise for while first.\""
 msgstr ""
 
 #: 01106:216
-
-msgid "{Daigo}\n\"You're a real generous one, you are.\""
+msgid ""
+"{Daigo}\n"
+"\"You're a real generous one, you are.\""
 msgstr ""
 
 #: 01106:217
-
-msgid "{Appo}\n\"I was going to share the idea, though, once I was satisfied that it worked. Honest?\""
+msgid ""
+"{Appo}\n"
+"\"I was going to share the idea, though, once I was satisfied that it worked. Honest?\""
 msgstr ""
 
 #: 01106:218
-
-msgid "{Kazushi}\n\"That's enough.\""
+msgid ""
+"{Kazushi}\n"
+"\"That's enough.\""
 msgstr ""
 
 #: 01106:219
-
 msgid "Anyway, we found out the ghost was Appo. I'd like to say case closed, but..."
 msgstr ""
 
 #: 01106:220
-
-msgid "{Kazushi}\n\"What should we tell the girls?\""
+msgid ""
+"{Kazushi}\n"
+"\"What should we tell the girls?\""
 msgstr ""
 
 #: 01106:223
-
-msgid "{Appo}\n\"Please!\nDon't turn me in!\nI don't want to them to lose their clean-cut image of me!\""
+msgid ""
+"{Appo}\n"
+"\"Please!\n"
+"Don't turn me in!\n"
+"I don't want to them to lose their clean-cut image of me!\""
 msgstr ""
 
 #: 01106:224
-
-msgid "{Kazushi}\n\"I don't think they've ever had a clean-cut image of you.\""
+msgid ""
+"{Kazushi}\n"
+"\"I don't think they've ever had a clean-cut image of you.\""
 msgstr ""
 
 #: 01106:227
-
-msgid "{Pierre}\n\"We can just make something up.\nLet's feed them a yarn and tell them we took care of it or something.\""
+msgid ""
+"{Pierre}\n"
+"\"We can just make something up.\n"
+"Let's feed them a yarn and tell them we took care of it or something.\""
 msgstr ""
 
 #: 01106:230
-
-msgid "{Daigo}\n\"But......\""
+msgid ""
+"{Daigo}\n"
+"\"But......\""
 msgstr ""
 
 #: 01106:231
-
-msgid "{Kazushi}\n\"But what?\""
+msgid ""
+"{Kazushi}\n"
+"\"But what?\""
 msgstr ""
 
 #: 01106:234
-
-msgid "{Daigo}\n\"I think they've already found out.\""
+msgid ""
+"{Daigo}\n"
+"\"I think they've already found out.\""
 msgstr ""
 
 #: 01106:237
-
-msgid "{Pierre}\n\"Huh?\n...SHIT!\""
+msgid ""
+"{Pierre}\n"
+"\"Huh?\n"
+"...SHIT!\""
 msgstr ""
 
 #: 01106:247
-
 msgid "The girls had us surrounded before we knew it."
 msgstr ""
 
 #: 01106:248
-
-msgid "{Pierre}\n\"When did they get here?\""
+msgid ""
+"{Pierre}\n"
+"\"When did they get here?\""
 msgstr ""
 
 #: 01106:249
-
-msgid "{Fuusen}\n\"Anyone will notice when you're that loud! I knew the whole ghost problem was just you guys!\""
+msgid ""
+"{Fuusen}\n"
+"\"Anyone will notice when you're that loud! I knew the whole ghost problem was just you guys!\""
 msgstr ""
 
 #: 01106:250
-
-msgid "{Kazushi}\n\"Wait, you're including us too?\""
+msgid ""
+"{Kazushi}\n"
+"\"Wait, you're including us too?\""
 msgstr ""
 
 #: 01106:259
-
-msgid "{Pierre}\n\"Hey, it wasn't us! It was just Appo...\""
+msgid ""
+"{Pierre}\n"
+"\"Hey, it wasn't us! It was just Appo...\""
 msgstr ""
 
 #: 01106:262
-
-msgid "{Appo}\n\"Yes, it was all of us!\""
+msgid ""
+"{Appo}\n"
+"\"Yes, it was all of us!\""
 msgstr ""
 
 #: 01106:263
-
-msgid "{Kazushi}\n\"Traitor!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Traitor!!\""
 msgstr ""
 
 #: 01106:264
-
-msgid "{Appo}\n\"What? I thought we were friends!!\""
+msgid ""
+"{Appo}\n"
+"\"What? I thought we were friends!!\""
 msgstr ""
 
 #: 01106:265
-
-msgid "{Daigo}\n\"This is NOT a good time to be arguing, guys.\""
+msgid ""
+"{Daigo}\n"
+"\"This is NOT a good time to be arguing, guys.\""
 msgstr ""
 
 #: 01106:275
-
 msgid "It seemed like we were waking up more of the girls, who joined in the crowds surrounding us."
 msgstr ""
 
 #: 01106:276
-
-msgid "{Kazushi}\n\"Why don't we all calm down?\nThen we can sit down and talk this through like sensible people...\""
+msgid ""
+"{Kazushi}\n"
+"\"Why don't we all calm down?\n"
+"Then we can sit down and talk this through like sensible people...\""
 msgstr ""
 
 #: 01106:279
-
-msgid "{Fuusen}\n\"It's the death penalty for you. Okay?\""
+msgid ""
+"{Fuusen}\n"
+"\"It's the death penalty for you. Okay?\""
 msgstr ""
 
 #: 01106:280
-
-msgid "{Kazushi}\n\"No! Not okay!\""
+msgid ""
+"{Kazushi}\n"
+"\"No! Not okay!\""
 msgstr ""
 
 #: 01106:285
-
-msgid "{Fuusen}\n\"Rei! Get them!\""
+msgid ""
+"{Fuusen}\n"
+"\"Rei! Get them!\""
 msgstr ""
 
 #: 01106:290
-
 msgid "Big Rei stepped out from the crowd."
 msgstr ""
 
 #: 01106:291
-
-msgid "{Kazushi}\n\"Hear us out!\""
+msgid ""
+"{Kazushi}\n"
+"\"Hear us out!\""
 msgstr ""
 
 #: 01106:295
-
-msgid "{Appo}\n\"And here comes Andou Rei, closing in for the finish. She's getting closer! She's almost there! Her thick, log-like arms are reaching out!\""
+msgid ""
+"{Appo}\n"
+"\"And here comes Andou Rei, closing in for the finish. She's getting closer! She's almost there! Her thick, log-like arms are reaching out!\""
 msgstr ""
 
 #: 01106:298
-
-msgid "{Appo}\n\"Wow, she's grabbing me by the collar! My legs! My legs are flailing in the air! I'm floating! What amazing power!\""
+msgid ""
+"{Appo}\n"
+"\"Wow, she's grabbing me by the collar! My legs! My legs are flailing in the air! I'm floating! What amazing power!\""
 msgstr ""
 
 #: 01106:299
-
-msgid "{Andou}\n\"You're annoying! Shut up and get flattened like a pancake! Hngh!\""
+msgid ""
+"{Andou}\n"
+"\"You're annoying! Shut up and get flattened like a pancake! Hngh!\""
 msgstr ""
 
 #: 01106:308
-
 msgid "*SMASH*"
 msgstr ""
 
 #: 01106:310
-
-msgid "{Kazushi}\n\"L-look at that! Appo looks like a tomato!\""
+msgid ""
+"{Kazushi}\n"
+"\"L-look at that! Appo looks like a tomato!\""
 msgstr ""
 
 #: 01106:313
-
-msgid "{Andou}\n\"Who's next?\nYou?\""
+msgid ""
+"{Andou}\n"
+"\"Who's next?\n"
+"You?\""
 msgstr ""
 
 #: 01106:317
-
-msgid "{Pierre}\n\"No......please......\""
+msgid ""
+"{Pierre}\n"
+"\"No......please......\""
 msgstr ""
 
 #: 01106:323
-
 msgid "*SMASH*"
 msgstr ""
 
 #: 01106:325
-
-msgid "{Kazushi}\n\"What the--!?\""
+msgid ""
+"{Kazushi}\n"
+"\"What the--!?\""
 msgstr ""
 
 #: 01106:335
-
-msgid "{Kazushi}\n\"Ouch......\""
+msgid ""
+"{Kazushi}\n"
+"\"Ouch......\""
 msgstr ""
 
 #: 01106:336
-
-msgid "My head hurt like hell.\nWe all got our asses kicked by Big Rei."
+msgid ""
+"My head hurt like hell.\n"
+"We all got our asses kicked by Big Rei."
 msgstr ""
 
 #: 01106:339
-
-msgid "{Appo}\n\"I'm ashamed of you guys.\""
+msgid ""
+"{Appo}\n"
+"\"I'm ashamed of you guys.\""
 msgstr ""
 
 #: 01106:344
-
-msgid "{Pierre}\n\"You were the first one to go down. Besides, if it weren't for you, this wouldn't have happened to us.\""
+msgid ""
+"{Pierre}\n"
+"\"You were the first one to go down. Besides, if it weren't for you, this wouldn't have happened to us.\""
 msgstr ""
 
 #: 01106:345
-
-msgid "{Appo}\n\"I know...\nI'm sorry...\""
+msgid ""
+"{Appo}\n"
+"\"I know...\n"
+"I'm sorry...\""
 msgstr ""
 
 #: 01106:352
-
-msgid "{Daigo}\n\"I think they've gone back to hating us.\""
+msgid ""
+"{Daigo}\n"
+"\"I think they've gone back to hating us.\""
 msgstr ""
 
 #: 01106:353
-
-msgid "{Kazushi}\n\"Definitely.\""
+msgid ""
+"{Kazushi}\n"
+"\"Definitely.\""
 msgstr ""
 
 #: 01106:354
-
-msgid "{Appo}\n\"It's my fault. I'm sorry. Hey, pass the merbromin.\""
+msgid ""
+"{Appo}\n"
+"\"It's my fault. I'm sorry. Hey, pass the merbromin.\""
 msgstr ""
 
 #: 01106:355
-
-msgid "{Kazushi}\n\"Well, what's done is done.\""
+msgid ""
+"{Kazushi}\n"
+"\"Well, what's done is done.\""
 msgstr ""
 
 #: 01106:356
-
 msgid "That said, it's going to be tough to face them from tomorrow on."
 msgstr ""
 
 #: 01106:357
-
-msgid "{Kazushi}\n\"I'm so scared to see them tomorrow.\""
+msgid ""
+"{Kazushi}\n"
+"\"I'm so scared to see them tomorrow.\""
 msgstr ""
 
 #: 01106:365
-
 msgid "Just as we expected, sitting in class that day felt like sitting on bed of nails."
 msgstr ""
 
 #: 01106:372
-
-msgid "{Pierre}\n\"I wanna go home......\""
+msgid ""
+"{Pierre}\n"
+"\"I wanna go home......\""
 msgstr ""
 
 #: 01106:373
-
-msgid "{Daigo}\n\"...my stomach hurts...\""
+msgid ""
+"{Daigo}\n"
+"\"...my stomach hurts...\""
 msgstr ""
 
 #: 01106:376
-
-msgid "{Appo}\n\"Hey!\nWhat are you guys looking at!?\""
+msgid ""
+"{Appo}\n"
+"\"Hey!\n"
+"What are you guys looking at!?\""
 msgstr ""
 
 #: 01106:377
-
-msgid "{Kazushi}\n\"Stop!!\nDon't yell at them!!\""
+msgid ""
+"{Kazushi}\n"
+"\"Stop!!\n"
+"Don't yell at them!!\""
 msgstr ""
 
 #: 01106:378
-
 msgid "Just as they say, 'the little dogs bark the loudest'. He had to put up a strong front to bear the oppressive atmosphere."
 msgstr ""
 
 #: 01106:385
-
-msgid "{Fuusen}\n\"What a loser.\""
+msgid ""
+"{Fuusen}\n"
+"\"What a loser.\""
 msgstr ""
 
 #: 01106:388
-
-msgid "{Appo}\n\"You calling me a loser!?\""
+msgid ""
+"{Appo}\n"
+"\"You calling me a loser!?\""
 msgstr ""
 
 #: 01106:392
-
-msgid "{Andou}\n\"You got a problem with that?\""
+msgid ""
+"{Andou}\n"
+"\"You got a problem with that?\""
 msgstr ""
 
 #: 01106:395
-
-msgid "{Appo}\n\"Hhhh!? Yip, yip, yip!!\""
+msgid ""
+"{Appo}\n"
+"\"Hhhh!? Yip, yip, yip!!\""
 msgstr ""
 
 #: 01106:400
-
-msgid "{Daigo}\n\"...total loser.\""
+msgid ""
+"{Daigo}\n"
+"\"...total loser.\""
 msgstr ""
 
 #: 01106:401
-
 msgid "After Andou beat the crap out of us last night, a single glare was enough to make us cower."
 msgstr ""
 
 #: 01106:413
-
-msgid "{Appo}\n\"We've lost that loving feeling.\""
+msgid ""
+"{Appo}\n"
+"\"We've lost that loving feeling.\""
 msgstr ""
 
 #: 01106:414
-
-msgid "{Pierre}\n\"I don't care which one it's from.\nI need some girly love.\""
+msgid ""
+"{Pierre}\n"
+"\"I don't care which one it's from.\n"
+"I need some girly love.\""
 msgstr ""
 
 #: 01106:415
-
-msgid "{Daigo}\n\"We've lost more confidence than the world's ever seen.\""
+msgid ""
+"{Daigo}\n"
+"\"We've lost more confidence than the world's ever seen.\""
 msgstr ""
 
 #: 01106:416
-
-msgid "{Kazushi}\n\"We have.\""
+msgid ""
+"{Kazushi}\n"
+"\"We have.\""
 msgstr ""
 
 #: 01106:417
-
 msgid "Isn't there anyone who'll still be nice to us?"
 msgstr ""
 
 #: 01106:434
-
 msgid "I don't think so......"
 msgstr ""
 
 #: 01106:435
-
-msgid "{Kazushi}\n\"On days like this, we should just go back to the dorm and sleep.\""
+msgid ""
+"{Kazushi}\n"
+"\"On days like this, we should just go back to the dorm and sleep.\""
 msgstr ""
 
 #: 01106:441
-
-msgid "{Pierre}\n\"Yeah, we should.\""
+msgid ""
+"{Pierre}\n"
+"\"Yeah, we should.\""
 msgstr ""
-

@@ -8,751 +8,894 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 04206:9
-
-msgid "{Kazushi}\n\"We should go to bed now.\""
+msgid ""
+"{Kazushi}\n"
+"\"We should go to bed now.\""
 msgstr ""
 
 #: 04206:10
-
-msgid "{Appo}\n\"*Yawn* Yeah, we should.\""
+msgid ""
+"{Appo}\n"
+"\"*Yawn* Yeah, we should.\""
 msgstr ""
 
 #: 04206:17
-
-msgid "{Daigo}\n\"Kazushi, Appo! It's an emergency!!\""
+msgid ""
+"{Daigo}\n"
+"\"Kazushi, Appo! It's an emergency!!\""
 msgstr ""
 
 #: 04206:18
-
 msgid "Big Daigo rushed into our room just as we were about to sleep."
 msgstr ""
 
 #: 04206:19
-
-msgid "{Kazushi}\n\"What is it?\nWhat is the matter?\""
+msgid ""
+"{Kazushi}\n"
+"\"What is it?\n"
+"What is the matter?\""
 msgstr ""
 
 #: 04206:24
-
-msgid "{Daigo}\n\"Give me a second. I need to drink something first!\""
+msgid ""
+"{Daigo}\n"
+"\"Give me a second. I need to drink something first!\""
 msgstr ""
 
 #: 04206:25
-
-msgid "{Appo}\n\"Calm down. What do you want?\""
+msgid ""
+"{Appo}\n"
+"\"Calm down. What do you want?\""
 msgstr ""
 
 #: 04206:26
-
-msgid "{Daigo}\n\"Just give me something!\""
+msgid ""
+"{Daigo}\n"
+"\"Just give me something!\""
 msgstr ""
 
 #: 04206:27
-
-msgid "{Kazushi}\n\"Here, drink this.\""
+msgid ""
+"{Kazushi}\n"
+"\"Here, drink this.\""
 msgstr ""
 
 #: 04206:30
-
-msgid "{Daigo}\n\"*Gulp Gulp Gulp* Phah! Thanks, now I'm calm. By the way, what's that weird taste?\""
+msgid ""
+"{Daigo}\n"
+"\"*Gulp Gulp Gulp* Phah! Thanks, now I'm calm. By the way, what's that weird taste?\""
 msgstr ""
 
 #: 04206:31
-
-msgid "{Kazushi}\n\"VapoRub.\""
+msgid ""
+"{Kazushi}\n"
+"\"VapoRub.\""
 msgstr ""
 
 #: 04206:34
-
-msgid "{Daigo}\n\"That's medicine you rub on your chest! What are you making me drink!?\""
+msgid ""
+"{Daigo}\n"
+"\"That's medicine you rub on your chest! What are you making me drink!?\""
 msgstr ""
 
 #: 04206:35
-
-msgid "{Kazushi}\n\"You're the one who said anything would be fine.\""
+msgid ""
+"{Kazushi}\n"
+"\"You're the one who said anything would be fine.\""
 msgstr ""
 
 #: 04206:36
-
-msgid "{Appo}\n\"Don't worry. There wasn't much left so we diluted it with water. Quit complaining.\""
+msgid ""
+"{Appo}\n"
+"\"Don't worry. There wasn't much left so we diluted it with water. Quit complaining.\""
 msgstr ""
 
 #: 04206:37
-
-msgid "{Daigo}\n\"Ah, well in that case it may be good for me. No! This is no time to act calm! Something's wrong with Pierre! Come quick!!\""
+msgid ""
+"{Daigo}\n"
+"\"Ah, well in that case it may be good for me. No! This is no time to act calm! Something's wrong with Pierre! Come quick!!\""
 msgstr ""
 
 #: 04206:38
-
-msgid "{Kazushi}\n\"Yeah, the name Pierre is a pretty bad nickname.\""
+msgid ""
+"{Kazushi}\n"
+"\"Yeah, the name Pierre is a pretty bad nickname.\""
 msgstr ""
 
 #: 04206:39
-
-msgid "{Daigo}\n\"I know that, but that's not it! Just come with me!\""
+msgid ""
+"{Daigo}\n"
+"\"I know that, but that's not it! Just come with me!\""
 msgstr ""
 
 #: 04206:40
-
-msgid "{Appo}\n\"Alright, alright!\""
+msgid ""
+"{Appo}\n"
+"\"Alright, alright!\""
 msgstr ""
 
 #: 04206:49
-
-msgid "{Kazushi}\n\"So, Daigo, how exactly is Pierre being weirder than usual?\""
+msgid ""
+"{Kazushi}\n"
+"\"So, Daigo, how exactly is Pierre being weirder than usual?\""
 msgstr ""
 
 #: 04206:50
-
-msgid "{Daigo}\n\"He just took off after saying 'The time is ripe'.\""
+msgid ""
+"{Daigo}\n"
+"\"He just took off after saying 'The time is ripe'.\""
 msgstr ""
 
 #: 04206:53
-
-msgid "{Appo}\n\"What did he mean by that?\""
+msgid ""
+"{Appo}\n"
+"\"What did he mean by that?\""
 msgstr ""
 
 #: 04206:56
-
-msgid "{Appo}\n\"Oh, there he is! Hey, Pierre!!\""
+msgid ""
+"{Appo}\n"
+"\"Oh, there he is! Hey, Pierre!!\""
 msgstr ""
 
 #: 04206:61
-
-msgid "{Pierre}\n\"Heh, heh, heh...\""
+msgid ""
+"{Pierre}\n"
+"\"Heh, heh, heh...\""
 msgstr ""
 
 #: 04206:62
-
-msgid "{Kazushi}\n\"Pierre?\""
+msgid ""
+"{Kazushi}\n"
+"\"Pierre?\""
 msgstr ""
 
 #: 04206:63
-
-msgid "{Pierre}\n\"MWAH HAH HAH HAH HAH!\""
+msgid ""
+"{Pierre}\n"
+"\"MWAH HAH HAH HAH HAH!\""
 msgstr ""
 
 #: 04206:69
-
-msgid "{Daigo}\n\"What's wrong with you?\""
+msgid ""
+"{Daigo}\n"
+"\"What's wrong with you?\""
 msgstr ""
 
 #: 04206:74
-
-msgid "{Pierre}\n\"From now on, you are to call me Pierre the Alchemist!\""
+msgid ""
+"{Pierre}\n"
+"\"From now on, you are to call me Pierre the Alchemist!\""
 msgstr ""
 
 #: 04206:75
-
-msgid "{Kazushi}\n\"Did you get a hair stuck in your throat? You're acting strange.\""
+msgid ""
+"{Kazushi}\n"
+"\"Did you get a hair stuck in your throat? You're acting strange.\""
 msgstr ""
 
 #: 04206:78
-
-msgid "{Pierre}\n\"No! I didn't eat anything bad. I'm not acting strange, either!\""
+msgid ""
+"{Pierre}\n"
+"\"No! I didn't eat anything bad. I'm not acting strange, either!\""
 msgstr ""
 
 #: 04206:81
-
-msgid "{Pierre}\n\"I have accidentally created a drug that will revolutionize this rotten world!\""
+msgid ""
+"{Pierre}\n"
+"\"I have accidentally created a drug that will revolutionize this rotten world!\""
 msgstr ""
 
 #: 04206:87
-
-msgid "{Kazushi}\n\"......what should we do with this kid?\""
+msgid ""
+"{Kazushi}\n"
+"\"......what should we do with this kid?\""
 msgstr ""
 
 #: 04206:88
-
-msgid "{Daigo}\n\"Maybe he's been single too long and finally lost his mind.\""
+msgid ""
+"{Daigo}\n"
+"\"Maybe he's been single too long and finally lost his mind.\""
 msgstr ""
 
 #: 04206:89
-
-msgid "{Appo}\n\"Hey, Pierre, I'm going to tell you three things. If any of them sound familiar to you, then you need to come to the nurse's office with us, OK?\""
+msgid ""
+"{Appo}\n"
+"\"Hey, Pierre, I'm going to tell you three things. If any of them sound familiar to you, then you need to come to the nurse's office with us, OK?\""
 msgstr ""
 
 #: 04206:107
-
-msgid "{Pierre}\n\"None of them! Listen, you fools! I have successfully brewed a love potion!\""
+msgid ""
+"{Pierre}\n"
+"\"None of them! Listen, you fools! I have successfully brewed a love potion!\""
 msgstr ""
 
 #: 04206:108
-
-msgid "{Kazushi}\n\"A love potion?\""
+msgid ""
+"{Kazushi}\n"
+"\"A love potion?\""
 msgstr ""
 
 #: 04206:111
-
-msgid "{Pierre}\n\"Last time we had alchemy lab I started messing about, and somehow made a kind of pretty looking liquid. Anyways, it looked so good, I went ahead and drank it.\""
+msgid ""
+"{Pierre}\n"
+"\"Last time we had alchemy lab I started messing about, and somehow made a kind of pretty looking liquid. Anyways, it looked so good, I went ahead and drank it.\""
 msgstr ""
 
 #: 04206:116
-
-msgid "{Daigo}\n\"You drank it!?\""
+msgid ""
+"{Daigo}\n"
+"\"You drank it!?\""
 msgstr ""
 
 #: 04206:123
-
-msgid "{Appo}\n\"What the hell were you thinking!!? You're lucky to still be alive!\""
+msgid ""
+"{Appo}\n"
+"\"What the hell were you thinking!!? You're lucky to still be alive!\""
 msgstr ""
 
 #: 04206:128
-
-msgid "{Pierre}\n\"I'm still alive, so it doesn't matter. I drank it, I couldn't help but get turned on...\nMy body started heating up...\""
+msgid ""
+"{Pierre}\n"
+"\"I'm still alive, so it doesn't matter. I drank it, I couldn't help but get turned on...\n"
+"My body started heating up...\""
 msgstr ""
 
 #: 04206:133
-
-msgid "{Daigo}\n\"Is that why you've been walking funny lately?\""
+msgid ""
+"{Daigo}\n"
+"\"Is that why you've been walking funny lately?\""
 msgstr ""
 
 #: 04206:137
-
-msgid "{Pierre}\n\"Then it finally hit me. Without a doubt, it was an aphrodisiac!\""
+msgid ""
+"{Pierre}\n"
+"\"Then it finally hit me. Without a doubt, it was an aphrodisiac!\""
 msgstr ""
 
 #: 04206:138
-
-msgid "{Kazushi}\n\"An aphrodisiac? ...You mean those things they only sell by mail-order in sketchy magazines?\""
+msgid ""
+"{Kazushi}\n"
+"\"An aphrodisiac? ...You mean those things they only sell by mail-order in sketchy magazines?\""
 msgstr ""
 
 #: 04206:139
-
-msgid "{Pierre}\n\"I tried it on Hosoi and Itou from the next class. It was unbelievable.\""
+msgid ""
+"{Pierre}\n"
+"\"I tried it on Hosoi and Itou from the next class. It was unbelievable.\""
 msgstr ""
 
 #: 04206:140
-
-msgid "{Kazushi}\n\"What happened?\""
+msgid ""
+"{Kazushi}\n"
+"\"What happened?\""
 msgstr ""
 
 #: 04206:143
-
-msgid "{Pierre}\n\"They crossed it. They crossed the line. Despite both being men.\""
+msgid ""
+"{Pierre}\n"
+"\"They crossed it. They crossed the line. Despite both being men.\""
 msgstr ""
 
 #: 04206:148
-
-msgid "{Daigo}\n\"No way!! Are you serious!?\""
+msgid ""
+"{Daigo}\n"
+"\"No way!! Are you serious!?\""
 msgstr ""
 
 #: 04206:149
-
-msgid "{Pierre}\n\"So I got an idea. Why don't we try some on the girls and then show up for them when it's at full effect?\""
+msgid ""
+"{Pierre}\n"
+"\"So I got an idea. Why don't we try some on the girls and then show up for them when it's at full effect?\""
 msgstr ""
 
 #: 04206:150
-
-msgid "{Pierre}\n\"How would they react?\nYes, Appo?\""
+msgid ""
+"{Pierre}\n"
+"\"How would they react?\n"
+"Yes, Appo?\""
 msgstr ""
 
 #: 04206:157
-
-msgid "{Appo}\n\"I...I think the animals within them will be awakened!!\""
+msgid ""
+"{Appo}\n"
+"\"I...I think the animals within them will be awakened!!\""
 msgstr ""
 
 #: 04206:160
-
-msgid "{Pierre}\n\"Right? Right? You think so, right? That's why I've already given them some sweets spiked with it!\""
+msgid ""
+"{Pierre}\n"
+"\"Right? Right? You think so, right? That's why I've already given them some sweets spiked with it!\""
 msgstr ""
 
 #: 04206:161
-
-msgid "{Kazushi}\n\"Are you serious!? Who did you give them to!?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you serious!? Who did you give them to!?\""
 msgstr ""
 
 #: 04206:162
-
-msgid "{Pierre}\n\"Lessee, I gave them to...\""
+msgid ""
+"{Pierre}\n"
+"\"Lessee, I gave them to...\""
 msgstr ""
 
 #: 04206:169
-
-msgid "{Sakura}\n\"Hey, girls! Pierre brought me a cake! Why don't we eat this together?\""
+msgid ""
+"{Sakura}\n"
+"\"Hey, girls! Pierre brought me a cake! Why don't we eat this together?\""
 msgstr ""
 
 #: 04206:174
-
-msgid "{Rin}\n\"Oooh, it's a waffle cake. I didn't know that Pierre had that kind of hobby.\""
+msgid ""
+"{Rin}\n"
+"\"Oooh, it's a waffle cake. I didn't know that Pierre had that kind of hobby.\""
 msgstr ""
 
 #: 04206:181
-
-msgid "{Ran}\n\"Be careful, girls. He might have an ulterior motive.\""
+msgid ""
+"{Ran}\n"
+"\"Be careful, girls. He might have an ulterior motive.\""
 msgstr ""
 
 #: 04206:182
-
-msgid "{Sakura}\n\"Ahahaha. If that's so, he's using a really old school trick. Trying to bait girls with candy.\""
+msgid ""
+"{Sakura}\n"
+"\"Ahahaha. If that's so, he's using a really old school trick. Trying to bait girls with candy.\""
 msgstr ""
 
 #: 04206:185
-
-msgid "{Ran}\n\"Given how old school his hairstyle is, I think I'll pass.\""
+msgid ""
+"{Ran}\n"
+"\"Given how old school his hairstyle is, I think I'll pass.\""
 msgstr ""
 
 #: 04206:186
-
-msgid "{Rin}\n\"It looks delicious. I wonder if he made this.\""
+msgid ""
+"{Rin}\n"
+"\"It looks delicious. I wonder if he made this.\""
 msgstr ""
 
 #: 04206:189
-
-msgid "{Sakura}\n\"He asked me to share my impression of it after eating it.\""
+msgid ""
+"{Sakura}\n"
+"\"He asked me to share my impression of it after eating it.\""
 msgstr ""
 
 #: 04206:192
-
-msgid "{Rin}\n\"Wow, a researcher, huh? But I just don't see him baking sweets for a hobby.\""
+msgid ""
+"{Rin}\n"
+"\"Wow, a researcher, huh? But I just don't see him baking sweets for a hobby.\""
 msgstr ""
 
 #: 04206:197
-
-msgid "{Kazushi}\n\"You made Sakura try it?\""
+msgid ""
+"{Kazushi}\n"
+"\"You made Sakura try it?\""
 msgstr ""
 
 #: 04206:200
-
-msgid "{Pierre}\n\"Girlslovesweetsloveeatmeeatgirlsloveeat, okay?\""
+msgid ""
+"{Pierre}\n"
+"\"Girlslovesweetsloveeatmeeatgirlsloveeat, okay?\""
 msgstr ""
 
 #: 04206:206
-
-msgid "{Daigo}\n\"What is going on inside his head?\""
+msgid ""
+"{Daigo}\n"
+"\"What is going on inside his head?\""
 msgstr ""
 
 #: 04206:207
-
-msgid "{Appo}\n\"I think this must be a side effect of the drug. Honestly, he's two points away from me calling the cops.\""
+msgid ""
+"{Appo}\n"
+"\"I think this must be a side effect of the drug. Honestly, he's two points away from me calling the cops.\""
 msgstr ""
 
 #: 04206:212
-
-msgid "{Pierre}\n\"The girls should be eating the cake in the cafeteria by now. And soon she'll be here to tell me how it is. And she might not be the only one who's eaten it...\""
+msgid ""
+"{Pierre}\n"
+"\"The girls should be eating the cake in the cafeteria by now. And soon she'll be here to tell me how it is. And she might not be the only one who's eaten it...\""
 msgstr ""
 
 #: 04206:217
-
-msgid "{Appo}\n\"Wait a minute!\nAre you saying......?\""
+msgid ""
+"{Appo}\n"
+"\"Wait a minute!\n"
+"Are you saying......?\""
 msgstr ""
 
 #: 04206:218
-
-msgid "{Daigo}\n\"You're the man!\""
+msgid ""
+"{Daigo}\n"
+"\"You're the man!\""
 msgstr ""
 
 #: 04206:219
-
-msgid "{Pierre}\n\"The great, late-night matchup of Pierre VS the female army, will be hosted in Eiden Academy!\""
+msgid ""
+"{Pierre}\n"
+"\"The great, late-night matchup of Pierre VS the female army, will be hosted in Eiden Academy!\""
 msgstr ""
 
 #: 04206:220
-
-msgid "{Kazushi}\n\"You must be dreaming......\""
+msgid ""
+"{Kazushi}\n"
+"\"You must be dreaming......\""
 msgstr ""
 
 #: 04206:221
-
-msgid "{Pierre}\n\"Hah, hah, hah! Call me a strategist, Kazushi! Bite in girls! Bite in! Then I'll be the one biting into you! Nom nom! Badmp badmp! MWAHAHAHAHA!!\""
+msgid ""
+"{Pierre}\n"
+"\"Hah, hah, hah! Call me a strategist, Kazushi! Bite in girls! Bite in! Then I'll be the one biting into you! Nom nom! Badmp badmp! MWAHAHAHAHA!!\""
 msgstr ""
 
 #: 04206:230
-
-msgid "{Sakura}\n\"Here's the tea. Should we get started?\""
+msgid ""
+"{Sakura}\n"
+"\"Here's the tea. Should we get started?\""
 msgstr ""
 
 #: 04206:233
-
-msgid "{Rin}\n\"Oh! Hi, Iida-senpai. What are you doing here?\""
+msgid ""
+"{Rin}\n"
+"\"Oh! Hi, Iida-senpai. What are you doing here?\""
 msgstr ""
 
 #: 04206:240
-
-msgid "{Panchu}\n\"Oh. I 'as 'akin' 'ome 'rea' in 'he 'itchen.\""
+msgid ""
+"{Panchu}\n"
+"\"Oh. I 'as 'akin' 'ome 'rea' in 'he 'itchen.\""
 msgstr ""
 
 #: 04206:243
-
-msgid "{Sakura}\n\"Wow! They look delicious! And they're fresh out of the oven!!\""
+msgid ""
+"{Sakura}\n"
+"\"Wow! They look delicious! And they're fresh out of the oven!!\""
 msgstr ""
 
 #: 04206:246
-
-msgid "{Rin}\n\"It's so true. They look so delicious!!\""
+msgid ""
+"{Rin}\n"
+"\"It's so true. They look so delicious!!\""
 msgstr ""
 
 #: 04206:249
-
-msgid "{Panchu}\n\"Yeah. I'm 're''y 'onfi'en' in 'his 'atch. I''s my firs' 'ime 'a'in' u'uisu an'an.\""
+msgid ""
+"{Panchu}\n"
+"\"Yeah. I'm 're''y 'onfi'en' in 'his 'atch. I''s my firs' 'ime 'a'in' u'uisu an'an.\""
 msgstr ""
 
 #: 04206:250
-
-msgid "{Sakura}\n\"We don't get to eat freshly baked bread around here very often.\""
+msgid ""
+"{Sakura}\n"
+"\"We don't get to eat freshly baked bread around here very often.\""
 msgstr ""
 
 #: 04206:251
-
-msgid "{Rin}\n\"I don't think I can bake them this well, either.\""
+msgid ""
+"{Rin}\n"
+"\"I don't think I can bake them this well, either.\""
 msgstr ""
 
 #: 04206:254
-
-msgid "{Panchu}\n\"...'o you 'irls 'an' 'o 'ry?\""
+msgid ""
+"{Panchu}\n"
+"\"...'o you 'irls 'an' 'o 'ry?\""
 msgstr ""
 
 #: 04206:255
-
-msgid "{Sakura}\n\"Do you mean that!? I'd be happy to!\""
+msgid ""
+"{Sakura}\n"
+"\"Do you mean that!? I'd be happy to!\""
 msgstr ""
 
 #: 04206:258
-
-msgid "{Rin}\n\"But what should we do with this waffle cake?\""
+msgid ""
+"{Rin}\n"
+"\"But what should we do with this waffle cake?\""
 msgstr ""
 
 #: 04206:259
-
-msgid "{Sakura}\n\"How about we give it to Panchu-senpai in exchange?\""
+msgid ""
+"{Sakura}\n"
+"\"How about we give it to Panchu-senpai in exchange?\""
 msgstr ""
 
 #: 04206:262
-
-msgid "{Panchu}\n\"Wha' is 'his?\""
+msgid ""
+"{Panchu}\n"
+"\"Wha' is 'his?\""
 msgstr ""
 
 #: 04206:265
-
-msgid "{Sakura}\n\"Pierre-kun made this. He wanted us to tell him how it was, so please make sure you do after you eat it!\""
+msgid ""
+"{Sakura}\n"
+"\"Pierre-kun made this. He wanted us to tell him how it was, so please make sure you do after you eat it!\""
 msgstr ""
 
 #: 04206:268
-
-msgid "{Panchu}\n\"Hmm, 'ierre, huh? Hamgh. I''s 'oo sweet. 'i' he use 'oo 'u'h su'ar? I' has a s'ran'e 'as'e 'oo.\""
+msgid ""
+"{Panchu}\n"
+"\"Hmm, 'ierre, huh? Hamgh. I''s 'oo sweet. 'i' he use 'oo 'u'h su'ar? I' has a s'ran'e 'as'e 'oo.\""
 msgstr ""
 
 #: 04206:271
-
-msgid "{Rin}\n\"He said he'd be cleaning the gates in front of the girls' dorm while waiting for us if you need to see him.\""
+msgid ""
+"{Rin}\n"
+"\"He said he'd be cleaning the gates in front of the girls' dorm while waiting for us if you need to see him.\""
 msgstr ""
 
 #: 04206:274
-
-msgid "{Sakura}\n\"Panfu-semfai, you're freah is sho helicioush!\""
+msgid ""
+"{Sakura}\n"
+"\"Panfu-semfai, you're freah is sho helicioush!\""
 msgstr ""
 
 #: 04206:277
-
-msgid "{Panchu}\n\"Hmm. Now I'm im'resse'. Well, I'll 'o 'rin' hi' some 'rea' for a sna''.\""
+msgid ""
+"{Panchu}\n"
+"\"Hmm. Now I'm im'resse'. Well, I'll 'o 'rin' hi' some 'rea' for a sna''.\""
 msgstr ""
 
 #: 04206:278
-
-msgid "{Sakura}\n\"You're sho hind!\""
+msgid ""
+"{Sakura}\n"
+"\"You're sho hind!\""
 msgstr ""
 
 #: 04206:279
-
-msgid "{Rin}\n\"Can you tell him we said thanks?\""
+msgid ""
+"{Rin}\n"
+"\"Can you tell him we said thanks?\""
 msgstr ""
 
 #: 04206:280
-
-msgid "{Panchu}\n\"Sure.\""
+msgid ""
+"{Panchu}\n"
+"\"Sure.\""
 msgstr ""
 
 #: 04206:288
-
-msgid "{Panchu}\n\"Wha's 'his...?\""
+msgid ""
+"{Panchu}\n"
+"\"Wha's 'his...?\""
 msgstr ""
 
 #: 04206:289
-
-msgid "{Panchu}\n\"My 'o'y feels so ho'...\""
+msgid ""
+"{Panchu}\n"
+"\"My 'o'y feels so ho'...\""
 msgstr ""
 
 #: 04206:290
-
-msgid "{Panchu}\n\"I feel li'e......\""
+msgid ""
+"{Panchu}\n"
+"\"I feel li'e......\""
 msgstr ""
 
 #: 04206:293
-
-msgid "{Panchu}\n\"I really wan' 'o...\""
+msgid ""
+"{Panchu}\n"
+"\"I really wan' 'o...\""
 msgstr ""
 
 #: 04206:296
-
-msgid "{Panchu}\n\"'oesn'' 'a''er who...\""
+msgid ""
+"{Panchu}\n"
+"\"'oesn'' 'a''er who...\""
 msgstr ""
 
 #: 04206:299
-
-msgid "{Panchu}\n\"............\""
+msgid ""
+"{Panchu}\n"
+"\"............\""
 msgstr ""
 
 #: 04206:302
-
-msgid "{Panchu}\n\"......'u'' someone.\""
+msgid ""
+"{Panchu}\n"
+"\"......'u'' someone.\""
 msgstr ""
 
 #: 04206:310
-
-msgid "{Pierre}\n\"I hear them! I can hear them!! The footsteps of my angels climbing the stairway to pleasure!\""
+msgid ""
+"{Pierre}\n"
+"\"I hear them! I can hear them!! The footsteps of my angels climbing the stairway to pleasure!\""
 msgstr ""
 
 #: 04206:311
-
-msgid "{Kazushi}\n\"We don't hear anything.\""
+msgid ""
+"{Kazushi}\n"
+"\"We don't hear anything.\""
 msgstr ""
 
 #: 04206:314
-
-msgid "{Pierre}\n\"What are you still doing here, you fools!? Go hide somewhere! I will let you see the moment I become a man from the front row!\""
+msgid ""
+"{Pierre}\n"
+"\"What are you still doing here, you fools!? Go hide somewhere! I will let you see the moment I become a man from the front row!\""
 msgstr ""
 
 #: 04206:318
-
-msgid "{Appo}\n\"You dumbass.\""
+msgid ""
+"{Appo}\n"
+"\"You dumbass.\""
 msgstr ""
 
 #: 04206:326
-
-msgid "{Pierre}\n\"Ouch! What did you do that for? You really hit me that time!\""
+msgid ""
+"{Pierre}\n"
+"\"Ouch! What did you do that for? You really hit me that time!\""
 msgstr ""
 
 #: 04206:330
-
-msgid "{Appo}\n\"I thought we were supposed to be friends! I'm so sad! I'm so sad, Pierre!\""
+msgid ""
+"{Appo}\n"
+"\"I thought we were supposed to be friends! I'm so sad! I'm so sad, Pierre!\""
 msgstr ""
 
 #: 04206:333
-
-msgid "{Pierre}\n\"Appo......\""
+msgid ""
+"{Pierre}\n"
+"\"Appo......\""
 msgstr ""
 
 #: 04206:334
-
-msgid "{Appo}\n\"I thought we were like brothers! We share the rough times in half, and double the good things, like a family!\""
+msgid ""
+"{Appo}\n"
+"\"I thought we were like brothers! We share the rough times in half, and double the good things, like a family!\""
 msgstr ""
 
 #: 04206:337
-
-msgid "{Pierre}\n\"Like a family...\""
+msgid ""
+"{Pierre}\n"
+"\"Like a family...\""
 msgstr ""
 
 #: 04206:340
-
-msgid "{Appo}\n\"Stand up, Pierre. Everyone is equal in our family...\""
+msgid ""
+"{Appo}\n"
+"\"Stand up, Pierre. Everyone is equal in our family...\""
 msgstr ""
 
 #: 04206:343
-
-msgid "{Appo}\n\"Let me call you Aniki for today.\""
+msgid ""
+"{Appo}\n"
+"\"Let me call you Aniki for today.\""
 msgstr ""
 
 #: 04206:346
-
-msgid "{Pierre}\n\"My little brother!\""
+msgid ""
+"{Pierre}\n"
+"\"My little brother!\""
 msgstr ""
 
 #: 04206:349
-
-msgid "{Appo}\n\"Aniki!\""
+msgid ""
+"{Appo}\n"
+"\"Aniki!\""
 msgstr ""
 
 #: 04206:350
-
-msgid "{Appo}\n\"So, Aniki! If there are too many for you to handle, call on me, your little brother, for help! You can call on me first!\""
+msgid ""
+"{Appo}\n"
+"\"So, Aniki! If there are too many for you to handle, call on me, your little brother, for help! You can call on me first!\""
 msgstr ""
 
 #: 04206:357
-
-msgid "{Daigo}\n\"Appo, you traitor!\""
+msgid ""
+"{Daigo}\n"
+"\"Appo, you traitor!\""
 msgstr ""
 
 #: 04206:358
-
-msgid "{Kazushi}\n\"You just wanna be a part of it!\""
+msgid ""
+"{Kazushi}\n"
+"\"You just wanna be a part of it!\""
 msgstr ""
 
 #: 04206:361
-
-msgid "{Appo}\n\"Shut up! You guys are still just babies. Shut up and watch your big brothers duke it out for love!\""
+msgid ""
+"{Appo}\n"
+"\"Shut up! You guys are still just babies. Shut up and watch your big brothers duke it out for love!\""
 msgstr ""
 
 #: 04206:367
-
-msgid "{Pierre}\n\"Hey! Someone's coming this way! Hide!\""
+msgid ""
+"{Pierre}\n"
+"\"Hey! Someone's coming this way! Hide!\""
 msgstr ""
 
 #: 04206:371
-
 msgid "We jumped into the bushes."
 msgstr ""
 
 #: 04206:375
-
-msgid "{Pierre}\n\"Oh my! Cleaning is so tiring! But I'm happy to help beautify my beloved school!\""
+msgid ""
+"{Pierre}\n"
+"\"Oh my! Cleaning is so tiring! But I'm happy to help beautify my beloved school!\""
 msgstr ""
 
 #: 04206:376
-
-msgid "{Kazushi}\n\"What is that?\""
+msgid ""
+"{Kazushi}\n"
+"\"What is that?\""
 msgstr ""
 
 #: 04206:377
-
-msgid "{Appo}\n\"His idea of foreplay.\""
+msgid ""
+"{Appo}\n"
+"\"His idea of foreplay.\""
 msgstr ""
 
 #: 04206:380
-
-msgid "{Pierre}\n\"And...... I have one more thing to be happy about.\""
+msgid ""
+"{Pierre}\n"
+"\"And...... I have one more thing to be happy about.\""
 msgstr ""
 
 #: 04206:381
-
-msgid "{Pierre}\n\"It's you coming here for me.\""
+msgid ""
+"{Pierre}\n"
+"\"It's you coming here for me.\""
 msgstr ""
 
 #: 04206:382
-
-msgid "{Daigo}\n\"He's giving me goosebumps.\""
+msgid ""
+"{Daigo}\n"
+"\"He's giving me goosebumps.\""
 msgstr ""
 
 #: 04206:383
-
-msgid "{Kazushi}\n\"Who's there?\""
+msgid ""
+"{Kazushi}\n"
+"\"Who's there?\""
 msgstr ""
 
 #: 04206:384
-
-msgid "{Appo}\n\"It's too dark to see.\""
+msgid ""
+"{Appo}\n"
+"\"It's too dark to see.\""
 msgstr ""
 
 #: 04206:387
-
-msgid "{Pierre}\n\"To make today a special day, I will be brave enough to confess this to you!\""
+msgid ""
+"{Pierre}\n"
+"\"To make today a special day, I will be brave enough to confess this to you!\""
 msgstr ""
 
 #: 04206:390
-
-msgid "{Pierre}\n\"I want to have a special relationship with......!\""
+msgid ""
+"{Pierre}\n"
+"\"I want to have a special relationship with......!\""
 msgstr ""
 
 #: 04206:394
-
-msgid "{Panchu}\n\"......\""
+msgid ""
+"{Panchu}\n"
+"\"......\""
 msgstr ""
 
 #: 04206:399
-
-msgid "{Pierre}\n\"Youuuuuuuuuuuuu! What?! Why?! Why?!\""
+msgid ""
+"{Pierre}\n"
+"\"Youuuuuuuuuuuuu! What?! Why?! Why?!\""
 msgstr ""
 
 #: 04206:402
-
-msgid "{Panchu}\n\"A s'ecial......re'ation'hip...?\""
+msgid ""
+"{Panchu}\n"
+"\"A s'ecial......re'ation'hip...?\""
 msgstr ""
 
 #: 04206:405
-
-msgid "{Pierre}\n\"Why!? Why are you here, Panchu-sempai!?\""
+msgid ""
+"{Pierre}\n"
+"\"Why!? Why are you here, Panchu-sempai!?\""
 msgstr ""
 
 #: 04206:408
-
-msgid "{Panchu}\n\"A s'ecial......re'ation'ship... One o' one?\""
+msgid ""
+"{Panchu}\n"
+"\"A s'ecial......re'ation'ship... One o' one?\""
 msgstr ""
 
 #: 04206:409
-
-msgid "{Pierre}\n\"No! Not at all! There is nothing special about us!! Just sempai and kohai!!\""
+msgid ""
+"{Pierre}\n"
+"\"No! Not at all! There is nothing special about us!! Just sempai and kohai!!\""
 msgstr ""
 
 #: 04206:412
-
-msgid "{Panchu}\n\"For 'ome 'eason my 'o'y's no' 'ight......I''s 'ravin' 'lood...\""
+msgid ""
+"{Panchu}\n"
+"\"For 'ome 'eason my 'o'y's no' 'ight......I''s 'ravin' 'lood...\""
 msgstr ""
 
 #: 04206:413
-
-msgid "{Kazushi}\n\"What's Panchu-sempai doing here?\""
+msgid ""
+"{Kazushi}\n"
+"\"What's Panchu-sempai doing here?\""
 msgstr ""
 
 #: 04206:414
-
-msgid "{Daigo}\n\"What should we do, big brother?\""
+msgid ""
+"{Daigo}\n"
+"\"What should we do, big brother?\""
 msgstr ""
 
 #: 04206:415
-
-msgid "{Appo}\n\"Are you guys stupid? At a time like this, you watch how your big brother set an example and sacrificed himself for your survival! How can we go out there and deal with that!?\""
+msgid ""
+"{Appo}\n"
+"\"Are you guys stupid? At a time like this, you watch how your big brother set an example and sacrificed himself for your survival! How can we go out there and deal with that!?\""
 msgstr ""
 
 #: 04206:416
-
 msgid "Pierre's face was pale enough to be a ghost as Panchu-sempai closed in."
 msgstr ""
 
 #: 04206:417
-
-msgid "{Panchu}\n\"A''ight, 'ierre... 'ome 'his 'ay...... Le''s form our s'ecial re'ation'hip.\""
+msgid ""
+"{Panchu}\n"
+"\"A''ight, 'ierre... 'ome 'his 'ay...... Le''s form our s'ecial re'ation'hip.\""
 msgstr ""
 
 #: 04206:418
-
-msgid "{Pierre}\n\"Seriously! I insist! Don't worry about what I said earlier!\nHelp me, my brothers! Oh, where are my precious brothers?!\""
+msgid ""
+"{Pierre}\n"
+"\"Seriously! I insist! Don't worry about what I said earlier!\n"
+"Help me, my brothers! Oh, where are my precious brothers?!\""
 msgstr ""
 
 #: 04206:419
-
-msgid "{Panchu}\n\"'ierre...... 'ulp A or 'ulp B... whi'h 'o you 'refer?\""
+msgid ""
+"{Panchu}\n"
+"\"'ierre...... 'ulp A or 'ulp B... whi'h 'o you 'refer?\""
 msgstr ""
 
 #: 04206:422
-
-msgid "{Pierre}\n\"......B?\""
+msgid ""
+"{Pierre}\n"
+"\"......B?\""
 msgstr ""
 
 #: 04206:425
-
-msgid "{Panchu}\n\"'loo'y 'ulp I' is 'hen.\""
+msgid ""
+"{Panchu}\n"
+"\"'loo'y 'ulp I' is 'hen.\""
 msgstr ""
 
 #: 04206:430
-
-msgid "{Pierre}\n\"No!!\""
+msgid ""
+"{Pierre}\n"
+"\"No!!\""
 msgstr ""
 
 #: 04206:433
-
 msgid "With a scream, Pierre disappeared into the trees with Panchu-sempai."
 msgstr ""
 
 #: 04206:434
-
-msgid "{Kazushi}\n\"As you said, the animal within was surely awakened.\""
+msgid ""
+"{Kazushi}\n"
+"\"As you said, the animal within was surely awakened.\""
 msgstr ""
 
 #: 04206:439
-
-msgid "{Daigo}\n\"The only difference was......\""
+msgid ""
+"{Daigo}\n"
+"\"The only difference was......\""
 msgstr ""
 
 #: 04206:440
-
-msgid "{Appo}\n\"The footsteps he heard were not from the angels, but from the grim reaper...\""
+msgid ""
+"{Appo}\n"
+"\"The footsteps he heard were not from the angels, but from the grim reaper...\""
 msgstr ""
 
 #: 04206:441
-
 msgid "Later, we heard from Daigo that Pierre had returned early in the morning and covered in blood, whereupon he silently crawled under the covers and cried until dawn."
 msgstr ""
-

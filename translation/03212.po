@@ -8,301 +8,327 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0 \n"
 "Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es\n"
+" Content-Transfer-Encoding: 8bit \n"
+"Language: es \n"
 
 #: 03212:5
-
-msgid "{Kazushi}\n\"That's enough......\""
+msgid ""
+"{Kazushi}\n"
+"\"That's enough......\""
 msgstr ""
 
 #: 03212:10
-
 msgid "Just when I decided to help her out, Mizuki looked at me like a hunter about to shoot a deer."
 msgstr ""
 
 #: 03212:11
-
-msgid "{Kazushi}\n\"......?\""
+msgid ""
+"{Kazushi}\n"
+"\"......?\""
 msgstr ""
 
 #: 03212:12
-
 msgid "I have a bad feeling about this."
 msgstr ""
 
 #: 03212:16
-
-msgid "{Mizuki}\n\"O-oh well. If you're going to be that insistent, I'll have to confess.\""
+msgid ""
+"{Mizuki}\n"
+"\"O-oh well. If you're going to be that insistent, I'll have to confess.\""
 msgstr ""
 
 #: 03212:17
-
 msgid "Mizuki spoke in a near monotone as she walked toward me and put her arm around mine."
 msgstr ""
 
 #: 03212:21
-
-msgid "{Kazushi}\n\"H-hey?\""
+msgid ""
+"{Kazushi}\n"
+"\"H-hey?\""
 msgstr ""
 
 #: 03212:22
-
 msgid "She held me closer. Mizuki was trying to let everyone know that we had a special relationship."
 msgstr ""
 
 #: 03212:25
-
-msgid "{Mizuki}\n(Help me out here! Play along!)"
+msgid ""
+"{Mizuki}\n"
+"(Help me out here! Play along!)"
 msgstr ""
 
 #: 03212:26
-
-msgid "{Kazushi}\n\"Are you sure......?\""
+msgid ""
+"{Kazushi}\n"
+"\"Are you sure......?\""
 msgstr ""
 
 #: 03212:27
-
-msgid "I could feel her breasts against my arm.\nThey're so soft..."
+msgid ""
+"I could feel her breasts against my arm.\n"
+"They're so soft..."
 msgstr ""
 
 #: 03212:30
-
-msgid "{Mizuki}\n\"I wanted to keep this quiet, but you saw how insistent they were. You don't mind, do you?\""
+msgid ""
+"{Mizuki}\n"
+"\"I wanted to keep this quiet, but you saw how insistent they were. You don't mind, do you?\""
 msgstr ""
 
 #: 03212:31
-
 msgid "Mizuki was making things up to explain herself away."
 msgstr ""
 
 #: 03212:39
-
-msgid "{Sakura}\n\"Does that mean you two are already...?\""
+msgid ""
+"{Sakura}\n"
+"\"Does that mean you two are already...?\""
 msgstr ""
 
 #: 03212:40
-
-msgid "{Mizuki}\n\"Sorry for keeping it quiet. Yeah, we're already going out.\""
+msgid ""
+"{Mizuki}\n"
+"\"Sorry for keeping it quiet. Yeah, we're already going out.\""
 msgstr ""
 
 #: 03212:43
-
 msgid "Again, in nearly a monotone. Of course, none of it was true. Mizuki only picked me because we made eye contact."
 msgstr ""
 
 #: 03212:44
-
 msgid "They say a drowning person will even grab out at leaves. In short, she was drowning at that moment, and I was a piece of straw nearby."
 msgstr ""
 
 #: 03212:48
-
-msgid "{Haruka}\n\"WHHAAAAAAAAAT?! You and Kazushi-kun?! Since when!?\""
+msgid ""
+"{Haruka}\n"
+"\"WHHAAAAAAAAAT?! You and Kazushi-kun?! Since when!?\""
 msgstr ""
 
 #: 03212:51
-
-msgid "{Mizuki}\n\"......since yesterday?\""
+msgid ""
+"{Mizuki}\n"
+"\"......since yesterday?\""
 msgstr ""
 
 #: 03212:52
-
-msgid "{Kazushi}\n\"What? Yesterday?\""
+msgid ""
+"{Kazushi}\n"
+"\"What? Yesterday?\""
 msgstr ""
 
 #: 03212:57
-
-msgid "{Rin}\n\"Since yesterday? Oh, I see. There are a lot of people who use summer break as their chance to start going out.\""
+msgid ""
+"{Rin}\n"
+"\"Since yesterday? Oh, I see. There are a lot of people who use summer break as their chance to start going out.\""
 msgstr ""
 
 #: 03212:62
-
-msgid "{Ran}\n\"Are you guys serious?\nKazushi, I don't recall making an arrangement between you and Mizuki.\""
+msgid ""
+"{Ran}\n"
+"\"Are you guys serious?\n"
+"Kazushi, I don't recall making an arrangement between you and Mizuki.\""
 msgstr ""
 
 #: 03212:65
-
-msgid "{Mizuki}\n\"Why would he need your permission?\""
+msgid ""
+"{Mizuki}\n"
+"\"Why would he need your permission?\""
 msgstr ""
 
 #: 03212:70
-
-msgid "{Mizuki}\n\"...wait. Is there something going on between you two!?\""
+msgid ""
+"{Mizuki}\n"
+"\"...wait. Is there something going on between you two!?\""
 msgstr ""
 
 #: 03212:71
-
 msgid "Mizuki quickly whispered to me in a panic. I shook my head."
 msgstr ""
 
 #: 03212:72
-
-msgid "{Kazushi}\n\"No, there's not.\""
+msgid ""
+"{Kazushi}\n"
+"\"No, there's not.\""
 msgstr ""
 
 #: 03212:75
-
-msgid "{Mizuki}\n\"......you scared me.\nIs there someone besides me?\""
+msgid ""
+"{Mizuki}\n"
+"\"......you scared me.\n"
+"Is there someone besides me?\""
 msgstr ""
 
 #: 03212:76
-
-msgid "{Kazushi}\n\"Nope.\""
+msgid ""
+"{Kazushi}\n"
+"\"Nope.\""
 msgstr ""
 
 #: 03212:79
-
-msgid "{Mizuki}\n\"So, I'm not causing any problems here, am I? Good.\""
+msgid ""
+"{Mizuki}\n"
+"\"So, I'm not causing any problems here, am I? Good.\""
 msgstr ""
 
 #: 03212:80
-
 msgid "I'm glad to see you're relieved, but how about the problems you're causing me?"
 msgstr ""
 
 #: 03212:85
-
-msgid "{Ran}\n\"Are you two really going out? You sure don't look like a couple.\""
+msgid ""
+"{Ran}\n"
+"\"Are you two really going out? You sure don't look like a couple.\""
 msgstr ""
 
 #: 03212:88
-
-msgid "{Mizuki}\n\"Yes, we are. Right, Kazushi?\""
+msgid ""
+"{Mizuki}\n"
+"\"Yes, we are. Right, Kazushi?\""
 msgstr ""
 
 #: 03212:89
-
 msgid "She yanked my arm. It was her sign for me to agree."
 msgstr ""
 
 #: 03212:90
-
-msgid "{Kazushi}\n\"Yup, we are...\""
+msgid ""
+"{Kazushi}\n"
+"\"Yup, we are...\""
 msgstr ""
 
 #: 03212:91
-
 msgid "Congratulations me! I've got my first girlfriend."
 msgstr ""
 
 #: 03212:92
-
 msgid "...Is this really okay?"
 msgstr ""
 
 #: 03212:99
-
-msgid "{Sakura}\n\"Harucchi and Mizuki. I didn't expect that, but well...\""
+msgid ""
+"{Sakura}\n"
+"\"Harucchi and Mizuki. I didn't expect that, but well...\""
 msgstr ""
 
 #: 03212:103
-
-msgid "{Rin}\n\"She pretended not to be interested, and then she easily got a guy. Pretty girls have all the luck.\""
+msgid ""
+"{Rin}\n"
+"\"She pretended not to be interested, and then she easily got a guy. Pretty girls have all the luck.\""
 msgstr ""
 
 #: 03212:106
-
-msgid "{Mizuki}\n\"I'm just average.\nYou're the pretty one, Rin. Right, Kazushi?\""
+msgid ""
+"{Mizuki}\n"
+"\"I'm just average.\n"
+"You're the pretty one, Rin. Right, Kazushi?\""
 msgstr ""
 
 #: 03212:107
-
 msgid "Don't ask me that. How am I supposed to answer in this position?"
 msgstr ""
 
 #: 03212:108
-
-msgid "{Kazushi}\n\"I think you're much prettier, Mizuki.\""
+msgid ""
+"{Kazushi}\n"
+"\"I think you're much prettier, Mizuki.\""
 msgstr ""
 
 #: 03212:109
-
 msgid "......like that?"
 msgstr ""
 
 #: 03212:114
-
-msgid "{Mizuki}\n\"What? I'm pretty?\""
+msgid ""
+"{Mizuki}\n"
+"\"What? I'm pretty?\""
 msgstr ""
 
 #: 03212:115
-
 msgid "She looked astonished. Come on, why are you acting shocked?"
 msgstr ""
 
 #: 03212:116
-
-msgid "{Kazushi}\n(Hey, quit dazing out! I'm playing along for your sake!)"
+msgid ""
+"{Kazushi}\n"
+"(Hey, quit dazing out! I'm playing along for your sake!)"
 msgstr ""
 
 #: 03212:119
-
-msgid "{Mizuki}\n(Oh, yeah......)"
+msgid ""
+"{Mizuki}\n"
+"(Oh, yeah......)"
 msgstr ""
 
 #: 03212:126
-
-msgid "{Mizuki}\n\"Wh-wh-what are you say? Y-y-you're embarrassing me in front of everyone. Jeez, you're so silly, Kazushi!\""
+msgid ""
+"{Mizuki}\n"
+"\"Wh-wh-what are you say? Y-y-you're embarrassing me in front of everyone. Jeez, you're so silly, Kazushi!\""
 msgstr ""
 
 #: 03212:127
-
-msgid "{Kazushi}\n\"Ahahahaha. Not as silly as you, Mizuki.\""
+msgid ""
+"{Kazushi}\n"
+"\"Ahahahaha. Not as silly as you, Mizuki.\""
 msgstr ""
 
 #: 03212:128
-
-msgid "{Mizuki}\n\"No, no, I'm not as silly as you.\""
+msgid ""
+"{Mizuki}\n"
+"\"No, no, I'm not as silly as you.\""
 msgstr ""
 
 #: 03212:129
-
-msgid "{Kazushi}\n\"Ahahahaha.\""
+msgid ""
+"{Kazushi}\n"
+"\"Ahahahaha.\""
 msgstr ""
 
 #: 03212:130
-
-msgid "{Mizuki}\n\"Ahahahaha.\""
+msgid ""
+"{Mizuki}\n"
+"\"Ahahahaha.\""
 msgstr ""
 
 #: 03212:131
-
 msgid "Are we doing all right fooling them?"
 msgstr ""
 
 #: 03212:135
-
-msgid "{Haruka}\n\"Wow...\nYou guys really are going out.\""
+msgid ""
+"{Haruka}\n"
+"\"Wow...\n"
+"You guys really are going out.\""
 msgstr ""
 
 #: 03212:136
-
 msgid "Yes, it worked."
 msgstr ""
 
 #: 03212:140
-
-msgid "{Ran}\n\"They still look suspicious.\""
+msgid ""
+"{Ran}\n"
+"\"They still look suspicious.\""
 msgstr ""
 
 #: 03212:144
-
-msgid "{Rin}\n\"Well of course they're a little awkward. They just started going out yesterday. But good for you two.\""
+msgid ""
+"{Rin}\n"
+"\"Well of course they're a little awkward. They just started going out yesterday. But good for you two.\""
 msgstr ""
 
 #: 03212:145
-
 msgid "This is working out pretty well, but will it be OK later on? We've made it so Mizuki's dating me..."
 msgstr ""
 
 #: 03212:150
-
-msgid "{Mizuki}\n(Don't worry, they'll forget all about this in a hurry.)"
+msgid ""
+"{Mizuki}\n"
+"(Don't worry, they'll forget all about this in a hurry.)"
 msgstr ""
 
 #: 03212:151
-
-msgid "{Kazushi}\n(They'd better...)"
+msgid ""
+"{Kazushi}\n"
+"(They'd better...)"
 msgstr ""
-

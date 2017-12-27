@@ -93,9 +93,9 @@ object TranslateGame {
             val po = PO.load(translationDir["${file.basename}.po"].readString().lines())
             val acme = po.toAcme()
             val translatedOps = BssTranslation.translate2(scriptOps) { id, full, title, body ->
-                acme[id]?.text?.replace('“', '"')?.replace('”', '"')
-                        ?: full
+                acme[id]?.text?.replace('“', '"')?.replace('”', '"') ?: full
             }
+            //val translatedOps = scriptOps
             val translatedScriptBytes = BSS.save(translatedOps)
             outputDir[file.basename].writeBytes(translatedScriptBytes)
         }
