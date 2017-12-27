@@ -1,5 +1,6 @@
 package com.talestra.edelweiss
 
+import com.soywiz.korio.error.invalidOp
 import com.soywiz.korio.lang.LATIN1
 import com.soywiz.korio.lang.UTF8
 import com.soywiz.korio.lang.toString
@@ -150,4 +151,17 @@ class ACME {
     override fun toString(): String {
         return entries.map { it.toString() }.joinToString("")
     }
+}
+
+fun PO.toAcme(): ACME {
+    val acme = ACME()
+    for (e in entries) {
+        var text = e.msgstr
+        if (text.isEmpty()) text = e.msgid
+        for (ref in e.references) {
+            val id = ref.split(':').last().toIntOrNull() ?: invalidOp("Expected id in $ref")
+            acme.add(id, text)
+        }
+    }
+    return acme
 }

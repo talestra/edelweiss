@@ -7,9 +7,7 @@ import com.soywiz.korio.Korio
 import com.soywiz.korio.async.toList
 import com.soywiz.korio.vfs.VfsFile
 import com.soywiz.korio.vfs.localCurrentDirVfs
-import com.talestra.edelweiss.ARC
-import com.talestra.edelweiss.EdelweissImage
-import com.talestra.edelweiss.openAsArc
+import com.talestra.edelweiss.*
 
 object TranslateGame {
     lateinit var gameDir: VfsFile
@@ -23,6 +21,7 @@ object TranslateGame {
 
         translateSysGrp()
         translateGraphic()
+        translateScript()
     }
 
     suspend fun VfsFile.getBak(): VfsFile {
@@ -72,7 +71,7 @@ object TranslateGame {
     suspend fun translateGraphic() {
         println("Translating data02001.arc...")
         val patchDir = translationDir["images/graphic"].jail()
-        val outputDir = gameDir["Graphic/CVTD"].ensureParents().jail()
+        val outputDir = gameDir["Graphic/CVTD"].apply { mkdirs() }.jail()
         val arc = gameDir["data02001.arc"].openAsArc()
         for (file in arc) {
             val out = translateImage(patchDir, file.basename) { file.readBytes() }
@@ -80,6 +79,25 @@ object TranslateGame {
                 println(file.basename)
                 outputDir[file.basename].writeBytes(out)
             }
+        }
+    }
+
+    suspend fun translateScript() {
+        println("Translating script (data01000.arc)...")
+        val outputDir = gameDir["Script/CVTD"].apply { mkdirs() }.jail()
+        val arc = gameDir["data01000.arc"].openAsArc()
+        for (file in arc) {
+            println(" - $file")
+            val scriptBytes = DSC.decompressIfRequired(file.readAll())
+            val scriptOps = BSS.load(scriptBytes)
+            val po = PO.load(translationDir["${file.basename}.po"].readString().lines())
+            val acme = po.toAcme()
+            val translatedOps = BssTranslation.translate2(scriptOps) { id, full, title, body ->
+                acme[id]?.text?.replace('“', '"')?.replace('”', '"')
+                        ?: full
+            }
+            val translatedScriptBytes = BSS.save(translatedOps)
+            outputDir[file.basename].writeBytes(translatedScriptBytes)
         }
     }
 }

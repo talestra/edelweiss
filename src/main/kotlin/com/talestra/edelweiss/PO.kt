@@ -21,9 +21,11 @@ class PO(val entries: List<Entry>) {
         }
 
         private fun ssplit(kind: String, text: String): List<String> {
-            val parts = text.split2('\n').withIndex()
-            return parts.map {
-                if (it.index == 0) "$kind ${it.value.quoted}" else it.value.quoted
+            val parts = text.split2('\n')
+            if (parts.size == 1) {
+                return listOf("$kind ${parts[0].quoted}")
+            } else {
+                return listOf("$kind \"\"") + parts.map { it.quoted }
             }
         }
 

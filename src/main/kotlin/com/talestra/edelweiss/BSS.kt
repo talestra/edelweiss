@@ -25,7 +25,7 @@ open class BSS(var charset: Charset) {
         const val AUDIO = 0x1_80
     }
 
-    class OP(var type: Int, var ori_pos: Int, var args: ArrayList<Any?>) {
+    data class OP(var type: Int, var ori_pos: Int, var args: ArrayList<Any?>) {
         val byteSize: Int get() = 4 + args.size * 4
 
         fun int(index: Int) = args[index] as Int

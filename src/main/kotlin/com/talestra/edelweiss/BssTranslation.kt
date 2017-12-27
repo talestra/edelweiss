@@ -1,5 +1,7 @@
 package com.talestra.edelweiss
 
+import com.soywiz.korio.error.invalidOp
+
 
 object BssTranslation {
     class BssStack {
@@ -195,4 +197,79 @@ object BssTranslation {
 
         return acme
     }
+
+    fun generateFullMessage(title: String?, text: String) = if (title != null && title != "") "{$title}\n$text" else text
+
+    fun translate2(scriptOps: List<BSS.OP>, translator: (id: Int, full: String, title: String?, text: String) -> String): List<BSS.OP> {
+        val lout = ArrayList(scriptOps)
+        val stack = arrayListOf<Ref<BSS.OP>>()
+        var scriptLine = 0
+        for ((opIndex, op) in scriptOps.withIndex()) {
+            when (op.type) {
+                BSS.Opcodes.SCRIPT_LINE -> {
+                    stack.clear()
+                    scriptLine = op.int(1)
+                }
+                BSS.Opcodes.PUSH_INT -> stack.add(lout.ref(opIndex))
+                BSS.Opcodes.PUSH_PTR -> stack.add(lout.ref(opIndex))
+                BSS.Opcodes.PUSH_STR -> stack.add(lout.ref(opIndex))
+                BSS.Opcodes.TEXT_PUT -> {
+                    val pushText = stack[stack.size - 1]
+                    val pushTitle = stack[stack.size - 2]
+
+                    val titleStr = pushTitle.value.str(0)
+                    val textStr = pushText.value.str(0)?.trim() ?: invalidOp("${pushTitle.value} :: $stack")
+
+                    val msg = generateFullMessage(titleStr, textStr)
+                    val tmsg = translator(scriptLine, msg, titleStr, textStr)
+                    val title: String
+                    val body: String
+
+                    if (titleStr != null && titleStr.isNotBlank()) {
+                        val parts = tmsg.split('\n', limit = 2)
+                        if (parts.size != 2) invalidOp("Parts(${parts.size}): ${parts} : '$titleStr', '$textStr'")
+                        val (titleEnc, body2) = parts
+                        title = titleEnc.replace("{", "").replace("}", "")
+                        body = body2
+                    } else {
+                        title = ""
+                        body = tmsg
+                    }
+
+                    if (titleStr != null && titleStr.isNotBlank()) {
+                        pushTitle.value = pushTitle.value.copy(args = arrayListOf(title))
+                    }
+                    pushText.value = pushText.value.copy(args = arrayListOf(body))
+                    //println("$title -- $body")
+                    stack.clear()
+                }
+                else -> Unit
+            }
+        }
+        return lout.toList()
+    }
+}
+
+interface Ref<T> {
+    var value: T
+}
+
+//data class IntRef(override var value: Int) : Ref<Int>
+
+fun <T> MutableList<T>.ref(index: Int) = RefInArrayList(this, index)
+fun <K, T> MutableMap<K, T>.ref(key: K) = RefInMap(this, key)
+
+class RefInArrayList<T>(val array: MutableList<T>, val index: Int) : Ref<T> {
+    override var value: T
+        get() = array[index]
+        set(value) = run { array[index] = value }
+
+    override fun toString(): String = "$value"
+}
+
+class RefInMap<K, T>(val map: MutableMap<K, T>, val key: K) : Ref<T> {
+    override var value: T
+        get() = map[key]!!
+        set(value) = run { map[key] = value }
+    override fun toString(): String = "$value"
 }
