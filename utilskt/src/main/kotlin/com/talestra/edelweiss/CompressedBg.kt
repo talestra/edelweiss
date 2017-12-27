@@ -49,6 +49,11 @@ object CompressedBg {
     class Node(val vv: IntArray = IntArray(6)) {
         constructor(a: Int, b: Int, c: Int, d: Int, e: Int, f: Int) : this(intArrayOf(a, b, c, d, e, f))
 
+        fun child(index: Int) = vv[4 + index]
+        fun child(index: Boolean) = vv[4 + index.toInt()]
+        val isBranch: Boolean get() = vv[2] == 1
+        val isLeaf: Boolean get() = vv[2] != 1
+
         override fun toString(): String = format("(%d, %d, %d, %d, %d, %d)", vv[0].toUnsigned(), vv[1].toUnsigned(), vv[2].toUnsigned(), vv[3].toUnsigned(), vv[4].toUnsigned(), vv[5].toUnsigned())
     }
 
@@ -88,8 +93,8 @@ object CompressedBg {
 
         //data1 = data1.copyOf(header.data1_len)
         val data1 = ByteArray(header.data1_len)
-        uncompress_huffman(datahf, data1, table2, method2_res)
-        val data3 = uncompress_rle(data1, ByteArray(header.w * header.h * 4))
+        uncompressHuffman(datahf, data1, table2, method2_res)
+        val data3 = uncompressRle(data1, ByteArray(header.w * header.h * 4))
 
         //for (d in data3) println(d)
 
@@ -99,18 +104,23 @@ object CompressedBg {
         return Bitmap32(header.w, header.h, data)
     }
 
-    // Read a variable value from a pointer.
-    private fun readVariable(data: ByteArray, ptr: IntRef): Int {
-        var c = 0
-        var v = 0
-        var shift = 0
-        do {
-            c = data.getu(ptr.v)
-            ptr.v++
-            v = v or ((c and 0x7F) shl shift)
-            shift += 7
-        } while ((c and 0x80) != 0)
-        return v
+    class MiniReader(val data: ByteArray, var pos: Int = 0) {
+        val hasMore: Boolean get() = pos < data.size
+
+        // Read a variable value from a pointer.
+        fun readVariable(): Int {
+            var c = 0
+            var v = 0
+            var shift = 0
+            do {
+                c = data.getu(pos++)
+                v = v or ((c and 0x7F) shl shift)
+                shift += 7
+            } while ((c and 0x80) != 0)
+            return v
+        }
+
+        fun readByte() = data[pos++]
     }
 
     private fun decode_chunk0(data: ByteArray, ihash_val: Int) {
@@ -138,9 +148,9 @@ object CompressedBg {
     }
 
     private fun process_chunk0(data0: ByteArray, table: IntArray, count: Int = 0x100) {
-        val ptr = IntRef(0)
+        val mr = MiniReader(data0)
         //println(data0)
-        for (n in 0 until count) table[n] = readVariable(data0, ptr)
+        for (n in 0 until count) table[n] = mr.readVariable()
     }
 
     private fun method2(table1: IntArray, table2: Array<Node>): Int {
@@ -212,44 +222,43 @@ object CompressedBg {
         return cnodes - 1
     }
 
-    private fun uncompress_huffman(src: ByteArray, dst: ByteArray, nodes: Array<Node>, method2_res: Int) {
+    private fun uncompressHuffman(src: ByteArray, dst: ByteArray, nodes: Array<Node>, defaultValue: Int) {
         var mask = 0
-        var s = 0
-        var c = 0
+        var bits = 0
+        var srcPos = 0
 
         for (n in 0 until dst.size) {
-            var cvalue = method2_res
+            var cvalue = defaultValue
 
-            while (nodes[cvalue].vv[2] == 1) {
+            while (nodes[cvalue].isBranch) {
                 if (mask == 0) {
-                    c = src.getu(s++)
+                    bits = src.getu(srcPos++)
                     mask = 0x80
                 }
 
-                val bit = ((c and mask) != 0).toInt()
+                val bit = (bits and mask) != 0
                 mask = mask ushr 1
-
-                cvalue = nodes[cvalue].vv[4 + bit]
+                cvalue = nodes[cvalue].child(bit)
             }
 
             dst[n] = cvalue.toByte()
         }
     }
 
-    private fun uncompress_rle(src: ByteArray, dst: ByteArray): ByteArray {
-        val s = IntRef(0)
+    private fun uncompressRle(src: ByteArray, dst: ByteArray): ByteArray {
+        val mr = MiniReader(src)
         var d = 0
         var type = false
 
-        while (s.v < src.size) {
-            val len = readVariable(src, s)
+        while (mr.hasMore) {
+            val len = mr.readVariable()
             // RLE (for byte 00).
             if (type) {
                 for (n in 0 until len) dst[d++] = 0
             }
             // Copy from stream.
             else {
-                for (n in 0 until len) dst[d++] = src[s.v++]
+                for (n in 0 until len) dst[d++] = mr.readByte()
             }
             type = !type
         }
