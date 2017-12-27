@@ -5,6 +5,7 @@ import kotlin.math.min
 object LZ {
     class MatchResult(var pos: Int = 0, var len: Int = 0)
 
+    // @TODO: Improve performance by feeding data and maintaining a dictionary!
     fun find_variable_match(s: UByteArraySlice, match: UByteArraySlice, mres: MatchResult, min_dist: Int = 0) {
         mres.pos = 0
         mres.len = 0
