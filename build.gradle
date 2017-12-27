@@ -40,3 +40,8 @@ kotlin {
         coroutines "enable"
     }
 }
+
+task generatePoFiles(type: JavaExec) {
+    main = "com.talestra.edelweiss.scripts.GeneratePoFiles"
+    classpath = sourceSets.main.runtimeClasspath
+}
