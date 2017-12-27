@@ -1,0 +1,4053 @@
+# Comments for '40204'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 40204:7
+
+msgid "{Kazushi}\n\"All right! He's open today.\""
+msgstr ""
+
+#: 40204:8
+
+msgid "I'm glad I woke up early and gathered all the change I could find."
+msgstr ""
+
+#: 40204:9
+
+msgid "{Kazushi}\n\"Hello.\""
+msgstr ""
+
+#: 40204:10
+
+msgid "I called out as I entered the store, and Miya-san came out from the back."
+msgstr ""
+
+#: 40204:13
+
+msgid "{Miya}\n\"Oh, Haruma-kun. Welcome.\""
+msgstr ""
+
+#: 40204:14
+
+msgid "He was always in the back room. Maybe he didn't want to work too hard."
+msgstr ""
+
+#: 40204:15
+
+msgid "{Kazushi}\n\"I'm looking for some chopsticks and a rice bowl. Also, do you have any tea cups?\""
+msgstr ""
+
+#: 40204:16
+
+msgid "{Miya}\n\"Yeah, of course. So, you decided to get your own dinnerware? I thought the guys like you didn't care.\""
+msgstr ""
+
+#: 40204:17
+
+msgid "{Kazushi}\n\"It's not for me...\""
+msgstr ""
+
+#: 40204:18
+
+msgid "But then I stopped talking. It was kind of embarrassing to admit that I was actually buying them for a girl."
+msgstr ""
+
+#: 40204:21
+
+msgid "Miya-san smiled kindly."
+msgstr ""
+
+#: 40204:22
+
+msgid "{Miya}\n\"Mhmm, so you're getting them for a girl, then?\""
+msgstr ""
+
+#: 40204:23
+
+msgid "{Kazushi}\n\"Woah!? You read my mind!! Do you have ESP?!\""
+msgstr ""
+
+#: 40204:24
+
+msgid "{Miya}\n\"I could tell by looking at your face. I have a lot of feminine items in stock. Most of the customers here are girls, you know?\""
+msgstr ""
+
+#: 40204:25
+
+msgid "Miya-san led me to the back. There, I saw a section filled with household items, like chopsticks, cups, and dishes."
+msgstr ""
+
+#: 40204:26
+
+msgid "Like Miya-san said, it was almost entirely girly stuff."
+msgstr ""
+
+#: 40204:29
+
+msgid "{Miya}\n\"What kind of girl is she? What kind of design would she like?\""
+msgstr ""
+
+#: 40204:30
+
+msgid "{Kazushi}\n\"Well...\""
+msgstr ""
+
+#: 40204:31
+
+msgid "I thought about Natsume-chan. What would she like?"
+msgstr ""
+
+#: 40204:32
+
+msgid "{Kazushi}\n\"She looks rather small and cute, so maybe this fancy stuff would suit her?\""
+msgstr ""
+
+#: 40204:33
+
+msgid "{Kazushi}\n\"Then again, she is a bit strange. Maybe she has unusual taste too.\""
+msgstr ""
+
+#: 40204:36
+
+msgid "{Miya}\n\"In other words, she's younger than you?\""
+msgstr ""
+
+#: 40204:37
+
+msgid "{Kazushi}\n\"Uhh, yeah. Oh, you know, it's that new girl. Amamiya Natsume-chan.\""
+msgstr ""
+
+#: 40204:42
+
+msgid "{Miya}\n\"O-oh...\""
+msgstr ""
+
+#: 40204:43
+
+msgid "Miya-san's expression grew dark the instant I mentioned her name."
+msgstr ""
+
+#: 40204:44
+
+msgid "{Kazushi}\n\"Umm, is there something wrong with Natsume-chan?\""
+msgstr ""
+
+#: 40204:47
+
+msgid "{Miya}\n\"No... I just haven't seen her yet, so I don't really know what she's like.\""
+msgstr ""
+
+#: 40204:48
+
+msgid "{Kazushi}\n\"Oh...\""
+msgstr ""
+
+#: 40204:49
+
+msgid "It sounded like he was panicking to make something up. Something was fishy."
+msgstr ""
+
+#: 40204:50
+
+msgid "I'd remembered what I heard yesterday. The grocer said that the girl who came to look for her father looked just like Natsume-chan."
+msgstr ""
+
+#: 40204:51
+
+msgid "{Kazushi}\n\"Did you know Natsume-chan, Miya-san?\""
+msgstr ""
+
+#: 40204:52
+
+msgid "That was the feeling I got. He seemed like he knew her, but was hiding it."
+msgstr ""
+
+#: 40204:55
+
+msgid "{Miya}\n\"No, I haven't seen her yet. She just got here, right?\""
+msgstr ""
+
+#: 40204:56
+
+msgid "{Kazushi}\n\"That's what I thought, but I wasn't sure. The man at the grocery store said he saw someone just like her a few years ago.\""
+msgstr ""
+
+#: 40204:57
+
+msgid "{Kazushi}\n\"Do you know anything about that?\""
+msgstr ""
+
+#: 40204:58
+
+msgid "{Miya}\n\"Don't think so. I'm not the type who gets out much. I don't think I've heard of it.\""
+msgstr ""
+
+#: 40204:59
+
+msgid "He has to know something. I can feel it."
+msgstr ""
+
+#: 40204:60
+
+msgid "{Kazushi}\n\"Is that so? So you don't know anything?\""
+msgstr ""
+
+#: 40204:61
+
+msgid "{Miya}\n\"Unfortunately not.\""
+msgstr ""
+
+#: 40204:62
+
+msgid "He knew, but wasn't going to talk. That's the impression I got. Maybe he wasn't out yesterday? I was with Nastume-chan yesterday, so..."
+msgstr ""
+
+#: 40204:63
+
+msgid "Am I over-thinking this? But I just can't shake my doubts."
+msgstr ""
+
+#: 40204:66
+
+msgid "{Miya}\n\"I don't know about her, but I'll give you a piece of advice.\""
+msgstr ""
+
+#: 40204:67
+
+msgid "{Kazushi}\n\"Some advice?\""
+msgstr ""
+
+#: 40204:68
+
+msgid "Miya-san's tone changed. It didn't sound like the usual kindly shopkeeper."
+msgstr ""
+
+#: 40204:69
+
+msgid "{Miya}\n\"I don't think you should get too close to that girl, Amamiya Natsume.\""
+msgstr ""
+
+#: 40204:70
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 40204:71
+
+msgid "What kind of advice was that? He said he didn't know her, but then he said that?"
+msgstr ""
+
+#: 40204:72
+
+msgid "It sounded like he knew her very well from the statement he just made. Why would he say I shouldn't get involved with her if he didn't know her?"
+msgstr ""
+
+#: 40204:73
+
+msgid "{Kazushi}\n\"Miya-san, you do know about Natsume-chan, don't you?\""
+msgstr ""
+
+#: 40204:76
+
+msgid "{Miya}\n\"Who knows.\""
+msgstr ""
+
+#: 40204:77
+
+msgid "He just shook his head, refusing to give me an answer. But the way he didn't answer seemed like an answer in itself."
+msgstr ""
+
+#: 40204:78
+
+msgid "{Miya}\n\"......\""
+msgstr ""
+
+#: 40204:79
+
+msgid "Miya-san didn't say anything; he just looked at the dinnerware in the store. Then he grabbed a set."
+msgstr ""
+
+#: 40204:82
+
+msgid "{Miya}\n\"I think you should get this one if you're giving it to her.\""
+msgstr ""
+
+#: 40204:83
+
+msgid "It was a set with cute cat designs on it."
+msgstr ""
+
+#: 40204:84
+
+msgid "{Kazushi}\n\"Why did you pick that one?\""
+msgstr ""
+
+#: 40204:87
+
+msgid "{Miya}\n\"......\""
+msgstr ""
+
+#: 40204:88
+
+msgid "But he didn't say anything at all. I wondered why he looked so lonely as he held his silence."
+msgstr ""
+
+#: 40204:89
+
+msgid "That was why I couldn't ask him anymore."
+msgstr ""
+
+#: 40204:94
+
+msgid "{Kazushi}\n\"It sure is weird.\""
+msgstr ""
+
+#: 40204:95
+
+msgid "I did get the gift for Natsume-chan, but I didn't feel right about it. I just couldn't understand."
+msgstr ""
+
+#: 40204:96
+
+msgid "{Kazushi}\n\"I'm so sure Miya-san knows something about Natsume-chan, so why's he acting like he doesn't know her?\""
+msgstr ""
+
+#: 40204:97
+
+msgid "But why does he know her? Who is Natsume-chan?"
+msgstr ""
+
+#: 40204:98
+
+msgid "{Kazushi}\n\"I don't know a thing about her.\""
+msgstr ""
+
+#: 40204:99
+
+msgid "Where did she come from - and why did she appear like that?"
+msgstr ""
+
+#: 40204:100
+
+msgid "{Kazushi}\n\"I can find out about all that later. In the meantime, I should give this to her.\""
+msgstr ""
+
+#: 40204:105
+
+msgid "{Kazushi}\n\"Have you seen Natsume-chan?\""
+msgstr ""
+
+#: 40204:106
+
+msgid "I brought the gift to the cafeteria, but I couldn't find Natsume-chan."
+msgstr ""
+
+#: 40204:111
+
+msgid "{Pierre}\n\"Hmm, she doesn't seem to be around.\""
+msgstr ""
+
+#: 40204:114
+
+msgid "{Daigo}\n\"Maybe she's asleep? You know, overdoing her nap or something.\""
+msgstr ""
+
+#: 40204:118
+
+msgid "{Rin}\n\"That's so cute. Do you think she has her belly out?\""
+msgstr ""
+
+#: 40204:122
+
+msgid "{Sakura}\n\"Shouldn't we go and wake her up? I'll go, and assault her while I'm at it.\""
+msgstr ""
+
+#: 40204:124
+
+msgid "Thock!"
+msgstr ""
+
+#: 40204:127
+
+msgid "{Sakura}\n\"Ouch!\""
+msgstr ""
+
+#: 40204:128
+
+msgid "{Kazushi}\n\"Don't assault her. You're dangerous.\""
+msgstr ""
+
+#: 40204:132
+
+msgid "{Daigo}\n\"Maybe you should wait a while?\""
+msgstr ""
+
+#: 40204:133
+
+msgid "{Kazushi}\n\"I guess...\""
+msgstr ""
+
+#: 40204:136
+
+msgid "........."
+msgstr ""
+
+#: 40204:137
+
+msgid "..."
+msgstr ""
+
+#: 40204:138
+
+msgid "But Natsume-chan didn't even show up for dinner."
+msgstr ""
+
+#: 40204:143
+
+msgid "I went over to the girls' dorm to find out."
+msgstr ""
+
+#: 40204:144
+
+msgid "{Kazushi}\n\"Is she asleep?\""
+msgstr ""
+
+#: 40204:145
+
+msgid "There weren't any lights on in her room. Could she not be feeling well? It was a hot day today, so maybe she's dehydrated?"
+msgstr ""
+
+#: 40204:148
+
+msgid "{Haruka}\n\"Huh? Kazushi-kun?\""
+msgstr ""
+
+#: 40204:149
+
+msgid "Haruka came over. She had an ice cream in her mouth, and her hair was wet. It appeared that she just came back from the bath."
+msgstr ""
+
+#: 40204:150
+
+msgid "{Kazushi}\n\"Hey. Just finished your bath?\""
+msgstr ""
+
+#: 40204:151
+
+msgid "Haruka smiled, her smooth skin like a clean, boiled egg."
+msgstr ""
+
+#: 40204:154
+
+msgid "{Haruka}\n\"Ice cream tastes best right after a bath. I love summer.\""
+msgstr ""
+
+#: 40204:155
+
+msgid "She liked the summer because of the ice cream... That was so like Haruka, but I didn't feel like chatting."
+msgstr ""
+
+#: 40204:156
+
+msgid "{Kazushi}\n\"Hey, have you seen Natsume-chan?\""
+msgstr ""
+
+#: 40204:159
+
+msgid "{Haruka}\n\"Natsume-chan? No. I haven't seen her. What happened?\""
+msgstr ""
+
+#: 40204:160
+
+msgid "{Kazushi}\n\"She didn't come to dinner, and the lights are off in her room.\""
+msgstr ""
+
+#: 40204:163
+
+msgid "{Haruka}\n\"Huh? She didn't eat dinner? But she's a growing girl.\""
+msgstr ""
+
+#: 40204:164
+
+msgid "She looked up at Natsume-chan's room, worried. The curtains were open, but the room was too dark to see inside of it."
+msgstr ""
+
+#: 40204:167
+
+msgid "{Haruka}\n\"Well, I'll go to her room, and see what's going on. Hold this.\""
+msgstr ""
+
+#: 40204:171
+
+msgid "She made me hold her ice cream, and ran."
+msgstr ""
+
+#: 40204:172
+
+msgid "A couple minutes later, the lights went on in Natsume-chan's room. The window opened, and Haruka looked out from it."
+msgstr ""
+
+#: 40204:173
+
+msgid "{Haruka}\n\"She's not here.\""
+msgstr ""
+
+#: 40204:174
+
+msgid "{Kazushi}\n\"No? Is she in the bathroom?\""
+msgstr ""
+
+#: 40204:175
+
+msgid "{Haruka}\n\"I don't know. Let me check.\""
+msgstr ""
+
+#: 40204:176
+
+msgid "Haruka disappeared."
+msgstr ""
+
+#: 40204:178
+
+msgid "Another couple minutes, and Haruka came out from the main entrance."
+msgstr ""
+
+#: 40204:182
+
+msgid "{Haruka}\n\"She's not there, either. I don't think she's in the dorm.\""
+msgstr ""
+
+#: 40204:183
+
+msgid "{Kazushi}\n\"I wonder where she went, skipping dinner like that...\""
+msgstr ""
+
+#: 40204:184
+
+msgid "{Haruka}\n\"I don't know. When do you think she disappeared?\""
+msgstr ""
+
+#: 40204:185
+
+msgid "{Kazushi}\n\"I haven't seen her since this morning. I was off campus and all.\""
+msgstr ""
+
+#: 40204:186
+
+msgid "{Haruka}\n\"Let's look around, then.\""
+msgstr ""
+
+#: 40204:187
+
+msgid "{Kazushi}\n\"OK...\""
+msgstr ""
+
+#: 40204:194
+
+msgid "CRASH!!"
+msgstr ""
+
+#: 40204:195
+
+msgid "Suddenly, we heard the shrill sound of something breaking, and stopped."
+msgstr ""
+
+#: 40204:196
+
+msgid "{Haruka}\n\"What was that?\""
+msgstr ""
+
+#: 40204:197
+
+msgid "{Kazushi}\n\"It sounded like a window breaking. Where is it?\""
+msgstr ""
+
+#: 40204:200
+
+msgid "{Haruka}\n\"Over there, I think!\""
+msgstr ""
+
+#: 40204:201
+
+msgid "We turned around. It was coming from the school building."
+msgstr ""
+
+#: 40204:202
+
+msgid "{Kazushi}\n\"Let's go!\""
+msgstr ""
+
+#: 40204:203
+
+msgid "I had a bad feeling."
+msgstr ""
+
+#: 40204:208
+
+msgid "{Kazushi}\n\"Where is it?\""
+msgstr ""
+
+#: 40204:210
+
+msgid "CRASH!!"
+msgstr ""
+
+#: 40204:211
+
+msgid "That noise again. This time, it was closer."
+msgstr ""
+
+#: 40204:214
+
+msgid "{Haruka}\n\"Over there!\""
+msgstr ""
+
+#: 40204:215
+
+msgid "{Kazushi}\n\"Is it in the lab?\""
+msgstr ""
+
+#: 40204:220
+
+msgid "The lab was deadly silent."
+msgstr ""
+
+#: 40204:221
+
+msgid "{Kazushi}\n\"Did it really come from here?\""
+msgstr ""
+
+#: 40204:222
+
+msgid "It was really quiet - perhaps I could say it was too quiet."
+msgstr ""
+
+#: 40204:225
+
+msgid "{Haruka}\n\"What is this... The air feels tight.\""
+msgstr ""
+
+#: 40204:226
+
+msgid "{Kazushi}\n\"The air?\""
+msgstr ""
+
+#: 40204:227
+
+msgid "I waved my hand through the air around me. It didn't seem to be any different than usual to me."
+msgstr ""
+
+#: 40204:230
+
+msgid "{Haruka}\n\"I'm sure there's someone in here.\""
+msgstr ""
+
+#: 40204:231
+
+msgid "{Kazushi}\n\"Is it Natsume-chan?\""
+msgstr ""
+
+#: 40204:234
+
+msgid "{Haruka}\n\"I don't know. But they might not be alone.\""
+msgstr ""
+
+#: 40204:235
+
+msgid "{Kazushi}\n\"How many people?\""
+msgstr ""
+
+#: 40204:236
+
+msgid "There were a few people inside. And they were doing something to break the windows? Was Natsume-chan in trouble?"
+msgstr ""
+
+#: 40204:239
+
+msgid "{Haruka}\n\"Do you want to go in?\""
+msgstr ""
+
+#: 40204:240
+
+msgid "In other words, she was telling me it could get dangerous."
+msgstr ""
+
+#: 40204:241
+
+msgid "{Kazushi}\n\"Shouldn't you wait here, Haruka?\""
+msgstr ""
+
+#: 40204:242
+
+msgid "I didn't want her to get involved in anything dangerous. But Haruka laughed it off."
+msgstr ""
+
+#: 40204:245
+
+msgid "{Haruka}\n\"You're ten years too early to worry about me, Kazushi-kun. Alright, let's go in together.\""
+msgstr ""
+
+#: 40204:249
+
+msgid "{Kazushi}\n\"It's so dark...\""
+msgstr ""
+
+#: 40204:250
+
+msgid "The lab was pitch black inside, like the darkest night. The curtains were open, but it seemed like the light from outside was shut out for some reason."
+msgstr ""
+
+#: 40204:251
+
+msgid "It was too dark to see."
+msgstr ""
+
+#: 40204:254
+
+msgid "{Haruka}\n\"There's someone here...\""
+msgstr ""
+
+#: 40204:256
+
+msgid "Haruka sounded nervous. I tried to see as hard as I could. Then, I saw a person's small figure in the dark."
+msgstr ""
+
+#: 40204:257
+
+msgid "{Kazushi}\n\"Natsume-chan?\""
+msgstr ""
+
+#: 40204:260
+
+msgid "{Principal}\n\"Haruka and Haruma-kun, is it?\""
+msgstr ""
+
+#: 40204:261
+
+msgid "That wasn't Natsume-chan's voice, but rather the principal's."
+msgstr ""
+
+#: 40204:265
+
+msgid "{Haruka}\n\"I thought it was you, grandma.\""
+msgstr ""
+
+#: 40204:266
+
+msgid "Haruka sounded like she knew what was going on. I relaxed a bit and set foot inside. We could finally see as our eyes grew accustomed to the darkness."
+msgstr ""
+
+#: 40204:269
+
+msgid "{Haruka}\n\"Ah!!\""
+msgstr ""
+
+#: 40204:270
+
+msgid "Haruka found it little bit faster than I did. I was looking at it as she made a sound."
+msgstr ""
+
+#: 40204:272
+
+msgid "{Kazushi}\n\"Wha...\""
+msgstr ""
+
+#: 40204:273
+
+msgid "I couldn't believe what I was looking at. Natsume-chan was on the floor, and we immediately knew why."
+msgstr ""
+
+#: 40204:274
+
+msgid "Something like a knife was plunged into her chest. It wasn't in very deep, but the blade shone with the cold light of the moon."
+msgstr ""
+
+#: 40204:275
+
+msgid "{Kazushi}\n\"Natsume-chan?!\""
+msgstr ""
+
+#: 40204:276
+
+msgid "{Haruka}\n\"Wh-why?\""
+msgstr ""
+
+#: 40204:277
+
+msgid "It was like we were in a dream. Nothing seemed real to me - maybe a dream would have been more real."
+msgstr ""
+
+#: 40204:278
+
+msgid "But you don't think you're dreaming when you are."
+msgstr ""
+
+#: 40204:279
+
+msgid "{Haruka}\n\"What happened? Grandma!!\""
+msgstr ""
+
+#: 40204:280
+
+msgid "Haruka yelled out. Natsume-chan moved a little, as if trying to respond."
+msgstr ""
+
+#: 40204:281
+
+msgid "{Kazushi}\n\"Natsume-chan!!\""
+msgstr ""
+
+#: 40204:282
+
+msgid "{Natsume}\n\"Mm...\""
+msgstr ""
+
+#: 40204:283
+
+msgid "We stood there, motionless, like time was frozen, but we started to move as soon as Natsume-chan made some noise."
+msgstr ""
+
+#: 40204:284
+
+msgid "We ran over to Natsume-chan and she looked at me with her big round eyes."
+msgstr ""
+
+#: 40204:285
+
+msgid "{Natsume}\n\"Haruma...\""
+msgstr ""
+
+#: 40204:286
+
+msgid "It looked painful, but it didn't seem real. Maybe because Natsume-chan wasn't acting like it hurt her."
+msgstr ""
+
+#: 40204:287
+
+msgid "{Kazushi}\n\"Hold on. I'll get that knife out of you...\""
+msgstr ""
+
+#: 40204:288
+
+msgid "{Natsume}\n\"I don't care about that.\""
+msgstr ""
+
+#: 40204:289
+
+msgid "She said, and grabbed my arm. I was surprised by how powerful her grip was."
+msgstr ""
+
+#: 40204:290
+
+msgid "{Natsume}\n\"Haruma.\""
+msgstr ""
+
+#: 40204:291
+
+msgid "She looked up at me. I couldn't move, as I felt like I was sucked into her huge eyes."
+msgstr ""
+
+#: 40204:292
+
+msgid "{Kazushi}\n\"We need to do something about this...\""
+msgstr ""
+
+#: 40204:293
+
+msgid "{Natsume}\n\"No. Stay here.\""
+msgstr ""
+
+#: 40204:294
+
+msgid "She grabbed my arm harder."
+msgstr ""
+
+#: 40204:295
+
+msgid "{Natsume}\n\"It's all just a waste. I don't have anything as I am now.\""
+msgstr ""
+
+#: 40204:296
+
+msgid "{Kazushi}\n\"Huh? What?\""
+msgstr ""
+
+#: 40204:297
+
+msgid "Natsume-chan moved her eyes. She was looking at the principal, who just stood there without saying anything."
+msgstr ""
+
+#: 40204:298
+
+msgid "{Haruka}\n\"What? What are you talking about?\""
+msgstr ""
+
+#: 40204:299
+
+msgid "{Kazushi}\n\"Principal. What is the meaning to all of this?!\""
+msgstr ""
+
+#: 40204:300
+
+msgid "{Principal}\n\"Fear not. She is neither injured, nor will she die. After all, she isn't human.\""
+msgstr ""
+
+#: 40204:301
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 40204:302
+
+msgid "Natsume-chan isn't human? What do you mean?"
+msgstr ""
+
+#: 40204:303
+
+msgid "{Haruka}\n\"What do you mean she's not human?\""
+msgstr ""
+
+#: 40204:304
+
+msgid "{Natsume}\n\"Haruma...\""
+msgstr ""
+
+#: 40204:305
+
+msgid "The hand grabbed me a little more tightly, and I looked at her."
+msgstr ""
+
+#: 40204:306
+
+msgid "{Kazushi}\n\"Huh...?\""
+msgstr ""
+
+#: 40204:307
+
+msgid "I was taken aback as I looked at her. It seemed as if Natsume-chan was vanishing into the darkness."
+msgstr ""
+
+#: 40204:308
+
+msgid "{Kazushi}\n\"What's going on? Natsume-chan??\""
+msgstr ""
+
+#: 40204:309
+
+msgid "I grabbed her hand. I felt her hands sharply in the beginning, but then it started to feel like I was grasping at clouds."
+msgstr ""
+
+#: 40204:310
+
+msgid "{Natsume}\n\"Thank you for telling me that you liked me.\""
+msgstr ""
+
+#: 40204:311
+
+msgid "{Kazushi}\n\"What are you saying all of a sudden? I can say it again, you know?\""
+msgstr ""
+
+#: 40204:312
+
+msgid "{Natsume}\n\"No, that's enough.\""
+msgstr ""
+
+#: 40204:313
+
+msgid "{Kazushi}\n\"What? Idiot! I'll tell you again! Natsume-chan, I like you! I like you!\""
+msgstr ""
+
+#: 40204:314
+
+msgid "{Natsume}\n\"Idiot...\""
+msgstr ""
+
+#: 40204:315
+
+msgid "Maybe it was just me, but she seemed embarrassed. Her figure was getting increasingly transparent, and it was hard to see her."
+msgstr ""
+
+#: 40204:316
+
+msgid "Her red lips and the shine of her eyes were the last to go."
+msgstr ""
+
+#: 40204:317
+
+msgid "{Kazushi}\n\"Hey, where are you going! Natsume-chan!?\""
+msgstr ""
+
+#: 40204:318
+
+msgid "Her lips and eyes made one last smile."
+msgstr ""
+
+#: 40204:319
+
+msgid "{Natsume}\n\"Haruma, bye-bye.\""
+msgstr ""
+
+#: 40204:321
+
+msgid "Those were her final words, and her body melted into the darkness and disappeared."
+msgstr ""
+
+#: 40204:322
+
+msgid "{Kazushi}\n\"Natsume-chan? Natsume-chan!!\""
+msgstr ""
+
+#: 40204:323
+
+msgid "{Haruka}\n\"Oh...\""
+msgstr ""
+
+#: 40204:324
+
+msgid "My arms were still in the shape I held Natsume-chan in, but now I was holding onto emptiness."
+msgstr ""
+
+#: 40204:325
+
+msgid "{Haruka}\n\"Natsume-chan disappeared...\""
+msgstr ""
+
+#: 40204:326
+
+msgid "The warmth of her body was replaced by the cold of night."
+msgstr ""
+
+#: 40204:327
+
+msgid "{Kazushi}\n\"Natsume-chan!\""
+msgstr ""
+
+#: 40204:328
+
+msgid "I called out, but nothing came back. The proof that she existed disappeared just like that."
+msgstr ""
+
+#: 40204:329
+
+msgid "{Haruka}\n\"What is this? What's going on, Grandma?\""
+msgstr ""
+
+#: 40204:330
+
+msgid "I'd never heard Haruka get upset like that, and now she was yelling at the principal. The principal was looking at the emptiness in my arm."
+msgstr ""
+
+#: 40204:331
+
+msgid "{Principal}\n\"She was not a human being.\""
+msgstr ""
+
+#: 40204:332
+
+msgid "Her unrealistic comment brought me back to reality. I couldn't believe what she was saying."
+msgstr ""
+
+#: 40204:333
+
+msgid "{Kazushi}\n\"What do you mean she wasn't human?\""
+msgstr ""
+
+#: 40204:334
+
+msgid "{Haruka}\n\"Huh? Do you mean...\""
+msgstr ""
+
+#: 40204:335
+
+msgid "Haruka thought of something, and looked at the space where Natsume-chan was laying just a moment ago."
+msgstr ""
+
+#: 40204:336
+
+msgid "{Haruka}\n\"Could she have been a homunculus?\""
+msgstr ""
+
+#: 40204:337
+
+msgid "{Kazushi}\n\"A homunculus?\""
+msgstr ""
+
+#: 40204:338
+
+msgid "I'd never heard that word. Wait, have I heard it somewhere?"
+msgstr ""
+
+#: 40204:339
+
+msgid "{Haruka}\n\"It's an artificially created lifeform. It's always been a goal amongst alchemists to create a perfect living creature using alchemy.\""
+msgstr ""
+
+#: 40204:340
+
+msgid "{Kazushi}\n\"Artificially? Can you do that?\""
+msgstr ""
+
+#: 40204:341
+
+msgid "{Haruka}\n\"They did...or so it seems. I'm not sure.\""
+msgstr ""
+
+#: 40204:342
+
+msgid "Haruka looked at the principal."
+msgstr ""
+
+#: 40204:343
+
+msgid "{Principal}\n\"All I can say is that it is possible to a certain extent.\""
+msgstr ""
+
+#: 40204:344
+
+msgid "{Kazushi}\n\"So, what about Natsume-chan?\""
+msgstr ""
+
+#: 40204:345
+
+msgid "Was she the end result of the certain extent that the principal mentioned? She was no different from any of us."
+msgstr ""
+
+#: 40204:346
+
+msgid "{Principal}\n\"But she wasn't a homunculus either.\""
+msgstr ""
+
+#: 40204:347
+
+msgid "The principal denied Haruka's theory as well."
+msgstr ""
+
+#: 40204:348
+
+msgid "{Haruka}\n\"She wasn't a homunculus? So, she wasn't human, and wasn't created artificially? How could that happen?\""
+msgstr ""
+
+#: 40204:349
+
+msgid "Could anything like that exist? No way. If it does, then it's just like..."
+msgstr ""
+
+#: 40204:350
+
+msgid "{Principal}\n\"She was simply a dream. Nothing more than an illusion.\""
+msgstr ""
+
+#: 40204:351
+
+msgid "The principal whispered as if she read my mind."
+msgstr ""
+
+#: 40204:352
+
+msgid "{Haruka}\n\"Natsume-chan, an illusion?\""
+msgstr ""
+
+#: 40204:353
+
+msgid "{Kazushi}\n\"No way!!\""
+msgstr ""
+
+#: 40204:354
+
+msgid "{Principal}\n\"Can you really say it's absurd? There is no proof that she existed. There are no records she ever attended this academy.\""
+msgstr ""
+
+#: 40204:355
+
+msgid "{Principal}\n\"Have you ever seen a human disappear in front of a group of people?\""
+msgstr ""
+
+#: 40204:356
+
+msgid "{Kazushi}\n\"But...\""
+msgstr ""
+
+#: 40204:357
+
+msgid "She was with us until yesterday. She ate with us, and Sakura stuck her into some costume, and we rode Haruka's bike together, and she cried, and got upset..."
+msgstr ""
+
+#: 40204:358
+
+msgid "{Principal}\n\"She did not die. There is no corpse remaining here either. There is no proof of her existence nor her disappearance.\""
+msgstr ""
+
+#: 40204:359
+
+msgid "{Principal}\n\"If that is the case, then it is natural to think that she never existed in the first place, don't you think?\""
+msgstr ""
+
+#: 40204:360
+
+msgid "{Haruka}\n\"Then, what was that Natsume-chan who hung out with us?\""
+msgstr ""
+
+#: 40204:361
+
+msgid "{Principal}\n\"She was just a illusion. The people in your dreams disappear when you wake up, do they not?\""
+msgstr ""
+
+#: 40204:362
+
+msgid "{Haruka}\n\"No way... Natsume-chan did exist. Right, Kazushi-kun?\""
+msgstr ""
+
+#: 40204:363
+
+msgid "{Kazushi}\n\"Illusion... A dream?\""
+msgstr ""
+
+#: 40204:364
+
+msgid "{Haruka}\n\"Kazushi-kun?\""
+msgstr ""
+
+#: 40204:365
+
+msgid "Something's nagging me about this, but what?"
+msgstr ""
+
+#: 40204:366
+
+msgid "{Haruka}\n\"Are you fine with this?! Kazushi-kun!\""
+msgstr ""
+
+#: 40204:367
+
+msgid "{Kazushi}\n\"Of course not!! Of course I'm not, but...\""
+msgstr ""
+
+#: 40204:368
+
+msgid "Where did Natsume-chan go? A 'dream'? ...Why was that bugging me so?"
+msgstr ""
+
+#: 40204:373
+
+msgid "The next day."
+msgstr ""
+
+#: 40204:378
+
+msgid "{Mizuki}\n\"What? What do you mean?\""
+msgstr ""
+
+#: 40204:379
+
+msgid "{Haruka}\n\"I'm telling you...\""
+msgstr ""
+
+#: 40204:380
+
+msgid "Haruka explained to everyone about what had happened to Natsume-chan. I'm not sure of exactly what she said, because I wasn't listening."
+msgstr ""
+
+#: 40204:389
+
+msgid "{Appo}\n\"I don't get it. So where did Natsume-chan go??\""
+msgstr ""
+
+#: 40204:390
+
+msgid "{Kazushi}\n\"Hrmm...\""
+msgstr ""
+
+#: 40204:391
+
+msgid "{Daigo}\n\"Is she coming back in time for next semester?\""
+msgstr ""
+
+#: 40204:392
+
+msgid "{Kazushi}\n\"Hmm... I wonder...\""
+msgstr ""
+
+#: 40204:395
+
+msgid "{Pierre}\n\"What? Even you don't know? That's so not like you, Kazushi!\""
+msgstr ""
+
+#: 40204:396
+
+msgid "{Kazushi}\n\"Sorry. I'm thinking about something else.\""
+msgstr ""
+
+#: 40204:402
+
+msgid "{Sakura}\n\"Hold on, you guys! Leave him alone.\""
+msgstr ""
+
+#: 40204:407
+
+msgid "{Appo}\n\"Well, we want to understand it, too. Fuu-chan, what's going on?\""
+msgstr ""
+
+#: 40204:411
+
+msgid "{Fuusen}\n\"They mean...\""
+msgstr ""
+
+#: 40204:415
+
+msgid "{Ran}\n\"You guys are such idiots. They won't understand, anyway.\""
+msgstr ""
+
+#: 40204:419
+
+msgid "{Daigo}\n\"Well, Kazushi said...\""
+msgstr ""
+
+#: 40204:423
+
+msgid "{Mizuki}\n\"I'm telling you to leave him alone!\""
+msgstr ""
+
+#: 40204:424
+
+msgid "{Kazushi}\n\"Oh, sorry. I need to think about something.\""
+msgstr ""
+
+#: 40204:427
+
+msgid "I left my seat. I couldn't tell what was bugging me about this, but I needed to figure it out..."
+msgstr ""
+
+#: 40204:428
+
+msgid "........."
+msgstr ""
+
+#: 40204:429
+
+msgid "..."
+msgstr ""
+
+#: 40204:434
+
+msgid "{Rin}\n\"Haruma-kun's gone.\""
+msgstr ""
+
+#: 40204:435
+
+msgid "{Mizuki}\n\"He took it really hard. I feel sorry for him.\""
+msgstr ""
+
+#: 40204:439
+
+msgid "{Sakura}\n\"Maybe I really do need to go out with him?\""
+msgstr ""
+
+#: 40204:443
+
+msgid "{Ran}\n\"Geh?! What?! When did that happen?\""
+msgstr ""
+
+#: 40204:447
+
+msgid "{Pierre}\n\"So, what happened to Natsume-chan?\""
+msgstr ""
+
+#: 40204:451
+
+msgid "{Mizuki}\n\"We told you... Hahh, you just don't get it.\""
+msgstr ""
+
+#: 40204:459
+
+msgid "{Daigo}\n\"Well... Kazushi isn't saying anything.\""
+msgstr ""
+
+#: 40204:462
+
+msgid "{Appo}\n\"He may need more time. He is an idiot, after all.\""
+msgstr ""
+
+#: 40204:465
+
+msgid "{Pierre}\n\"Then there's nothing we can do for him now. Let's go out and have fun.\""
+msgstr ""
+
+#: 40204:471
+
+msgid "{Ran}\n\"Well aren't you all carefree while your friend's suffering.\""
+msgstr ""
+
+#: 40204:474
+
+msgid "But whether I hesitated, pondered the problem, or came to a standstill, time continued to pass on its own."
+msgstr ""
+
+#: 40204:476
+
+msgid "The days of summer flew by and were gone in no time."
+msgstr ""
+
+#: 40204:488
+
+msgid "{Appo}\n\"Man, we had fun today.\""
+msgstr ""
+
+#: 40204:489
+
+msgid "{Daigo}\n\"Only one more week of summer break.\""
+msgstr ""
+
+#: 40204:490
+
+msgid "{Pierre}\n\"What do you want to do tomorrow? Do you want to go to the mountains to catch some bugs?\""
+msgstr ""
+
+#: 40204:497
+
+msgid "{Ran}\n\"That sounds great! If we catch a lot of beetles, we can sell them off in Tokyo department stores!\""
+msgstr ""
+
+#: 40204:501
+
+msgid "{Mizuki}\n\"Ran, is money all you think about?\""
+msgstr ""
+
+#: 40204:504
+
+msgid "{Ran}\n\"I know a good place for that. I'll tell you for 5000 yen a head. Anyone interested? You can pay for that in no time!\""
+msgstr ""
+
+#: 40204:508
+
+msgid "{Sakura}\n\"I see. That's how you make money.\""
+msgstr ""
+
+#: 40204:512
+
+msgid "{Rin}\n\"I don't like bugs.\""
+msgstr ""
+
+#: 40204:515
+
+msgid "{Kazushi}\n\"......\""
+msgstr ""
+
+#: 40204:518
+
+msgid "{Daigo}\n\"What about you, Kazushi?\""
+msgstr ""
+
+#: 40204:519
+
+msgid "{Kazushi}\n\"Huh? Yeah, I'll join you guys. What were we doing tomorrow? Fishing?\""
+msgstr ""
+
+#: 40204:523
+
+msgid "{Haruka}\n\"Uhh... yeah, right. Fishing might be good too.\""
+msgstr ""
+
+#: 40204:524
+
+msgid "{Kazushi}\n\"Huh? Was I wrong? Sorry, I wasn't paying attention.\""
+msgstr ""
+
+#: 40204:528
+
+msgid "{Pierre}\n\"No, don't worry about it. You still thinking?\""
+msgstr ""
+
+#: 40204:529
+
+msgid "{Kazushi}\n\"Yeah, a bit.\""
+msgstr ""
+
+#: 40204:533
+
+msgid "{Appo}\n\"How much longer you gonna take? You better hurry up, because summer is ending.\""
+msgstr ""
+
+#: 40204:534
+
+msgid "{Kazushi}\n\"Yeah, you're right.\""
+msgstr ""
+
+#: 40204:535
+
+msgid "{Appo}\n\"Oh? Well, do what you can.\""
+msgstr ""
+
+#: 40204:536
+
+msgid "{Kazushi}\n\"Yeah, sure.\""
+msgstr ""
+
+#: 40204:537
+
+msgid "Summer break would be over soon, and I hadn't worked out a way to get Natsume-chan back."
+msgstr ""
+
+#: 40204:542
+
+msgid "{Kazushi}\n\"Maybe she really didn't exist...\""
+msgstr ""
+
+#: 40204:543
+
+msgid "It was a cruel thing, but as the time passed, Natsume-chan seemed more and more like a dream at times."
+msgstr ""
+
+#: 40204:544
+
+msgid "{Kazushi}\n\"Amamiya Natsume...\""
+msgstr ""
+
+#: 40204:545
+
+msgid "Was she really an illusion? What is an illusion? The principal said she was like a dream..."
+msgstr ""
+
+#: 40204:546
+
+msgid "{Kazushi}\n\"A dream, huh? I wonder if I can see her, even if it's only in a dream?\""
+msgstr ""
+
+#: 40204:547
+
+msgid "I closed my eyes, hoping for Natsume-chan to show up in the darkness of the back of my eyes."
+msgstr ""
+
+#: 40204:548
+
+msgid "{Kazushi}\n\"Even if it's only a dream... huh?\""
+msgstr ""
+
+#: 40204:549
+
+msgid "...A dream? Dream..."
+msgstr ""
+
+#: 40204:550
+
+msgid "{Kazushi}\n\"......\""
+msgstr ""
+
+#: 40204:562
+
+msgid "{Kazushi}\n\"Huh...?\""
+msgstr ""
+
+#: 40204:563
+
+msgid "What was that? When did that happened?"
+msgstr ""
+
+#: 40204:564
+
+msgid "{Kazushi}\n\"......was that a dream?\""
+msgstr ""
+
+#: 40204:565
+
+msgid "Sometimes, you remember a dream you had a few days ago. This was kind of like that."
+msgstr ""
+
+#: 40204:566
+
+msgid "{Kazushi}\n\"I dreamed of Natsume-chan... when?\""
+msgstr ""
+
+#: 40204:567
+
+msgid "It's not unusual to dream of someone you like. Maybe I dreamt of Natsume-chan once before and just recalled it."
+msgstr ""
+
+#: 40204:568
+
+msgid "But..."
+msgstr ""
+
+#: 40204:571
+
+msgid "{Appo}\n\"Why are you staring at the ceiling?\""
+msgstr ""
+
+#: 40204:572
+
+msgid "{Kazushi}\n\"...I see. It was all a dream from the start. Then...\""
+msgstr ""
+
+#: 40204:573
+
+msgid "{Appo}\n\"Huh? What happened?\""
+msgstr ""
+
+#: 40204:574
+
+msgid "{Kazushi}\n\"...I'm going to sleep!\""
+msgstr ""
+
+#: 40204:576
+
+msgid "I covered myself up in my futon."
+msgstr ""
+
+#: 40204:577
+
+msgid "{Kazushi}\n\"Good night!\""
+msgstr ""
+
+#: 40204:580
+
+msgid "{Appo}\n\"Huh? Good night...\""
+msgstr ""
+
+#: 40204:586
+
+msgid "{Kazushi}\n\"......Huh?\""
+msgstr ""
+
+#: 40204:587
+
+msgid "I woke up. It was morning."
+msgstr ""
+
+#: 40204:588
+
+msgid "{Kazushi}\n\"What about the dream?\""
+msgstr ""
+
+#: 40204:589
+
+msgid "I guess I didn't have any dreams."
+msgstr ""
+
+#: 40204:590
+
+msgid "{Kazushi}\n\"That's not right. Why?\""
+msgstr ""
+
+#: 40204:591
+
+msgid "I thought if I could see her in my dreams. Could I not see her anymore?"
+msgstr ""
+
+#: 40204:592
+
+msgid "{Kazushi}\n\"Wait. Hold on.\""
+msgstr ""
+
+#: 40204:593
+
+msgid "What would seeing her in my dreams do?"
+msgstr ""
+
+#: 40204:594
+
+msgid "I don't even know why Natsume-chan would be in my dreams in the first place. That's not the right place."
+msgstr ""
+
+#: 40204:595
+
+msgid "{Kazushi}\n\"I have to bring her here somehow.\""
+msgstr ""
+
+#: 40204:596
+
+msgid "Natsume-chan, where are you?"
+msgstr ""
+
+#: 40204:597
+
+msgid "{Kazushi}\n\"You really exist, don't you?\""
+msgstr ""
+
+#: 40204:598
+
+msgid "You're not just some dream. You're not just some artificial homunculus either. The girl, Amamiya Natsume, exists somewhere."
+msgstr ""
+
+#: 40204:599
+
+msgid "{Kazushi}\n\"Natsume-chan...\""
+msgstr ""
+
+#: 40204:600
+
+msgid "I called out her name. And the taste of iron returned to my lips. I could feel it."
+msgstr ""
+
+#: 40204:601
+
+msgid "It was as faint as a spider's thread, but I could feel my connection to Natsume-chan. We were joined by that bond."
+msgstr ""
+
+#: 40204:602
+
+msgid "Natsume-chan exists in this world for sure."
+msgstr ""
+
+#: 40204:603
+
+msgid "{Kazushi}\n\"If you're going to keep sleeping, I'll have to come wake you.\""
+msgstr ""
+
+#: 40204:604
+
+msgid "I have to wake her up somehow."
+msgstr ""
+
+#: 40204:609
+
+msgid "{Kazushi}\n\"Maybe we haven't even met Natsume-chan yet.\""
+msgstr ""
+
+#: 40204:612
+
+msgid "{Pierre}\n\"After all that time thinking, there he goes spouting nonsense again.\""
+msgstr ""
+
+#: 40204:613
+
+msgid "Everybody looked at me like I was a weirdo. I understood that. I'm sure I was making absurd remarks."
+msgstr ""
+
+#: 40204:617
+
+msgid "{Haruka}\n\"Hey, what do you mean?\""
+msgstr ""
+
+#: 40204:618
+
+msgid "{Kazushi}\n\"My first meeting with Natsume-chan was in my dreams.\""
+msgstr ""
+
+#: 40204:622
+
+msgid "{Ran}\n\"What? Are you OK, Kazushi? Have you finally snapped?\""
+msgstr ""
+
+#: 40204:623
+
+msgid "{Kazushi}\n\"No, I'm perfectly fine. Don't worry.\""
+msgstr ""
+
+#: 40204:627
+
+msgid "{Mizuki}\n\"So, you're serious. What do you mean you met Natsume-chan in your dreams?\""
+msgstr ""
+
+#: 40204:632
+
+msgid "{Sakura}\n\"Then, who was the Natsume-chan we met? Was that a dream too?\""
+msgstr ""
+
+#: 40204:636
+
+msgid "{Rin}\n\"But I wasn't sleeping.\""
+msgstr ""
+
+#: 40204:637
+
+msgid "{Kazushi}\n\"No, not quite. That was...\""
+msgstr ""
+
+#: 40204:640
+
+msgid "\"I'm just a shadow.\""
+msgstr ""
+
+#: 40204:641
+
+msgid "That was what Natsume-chan said. Maybe it was just as she said - what we'd seen was only her shadow."
+msgstr ""
+
+#: 40204:642
+
+msgid "I didn't fully understand it, so it was hard to explain, but I tried to say what I was feeling at the time."
+msgstr ""
+
+#: 40204:645
+
+msgid "{Haruka}\n\"A shadow? You mean like a doppelganger?\""
+msgstr ""
+
+#: 40204:646
+
+msgid "{Kazushi}\n\"Maybe.\""
+msgstr ""
+
+#: 40204:647
+
+msgid "{Kazushi}\n\"But I'm sure there's a real Natsume-chan somewhere. One that's not a doppleganger or the Natsume-chan from my dream.\""
+msgstr ""
+
+#: 40204:648
+
+msgid "It was just an instinct, but I was so sure, because I could feel it in my skin."
+msgstr ""
+
+#: 40204:651
+
+msgid "{Haruka}\n\"You said you bled when your lips hit, right? It might only be a coincidence you two met, but you may have formed a special link that moment.\""
+msgstr ""
+
+#: 40204:652
+
+msgid "{Kazushi}\n\"A special link...\""
+msgstr ""
+
+#: 40204:655
+
+msgid "{Haruka}\n\"Blood has long been the symbol of a contract. Even if it was just coincidental, you and Natsume-chan made a contract together.\""
+msgstr ""
+
+#: 40204:656
+
+msgid "{Kazushi}\n\"Is that why I can feel the link with Natsume-chan?\""
+msgstr ""
+
+#: 40204:659
+
+msgid "{Haruka}\n\"Maybe. Hey, can you trail that feeling? If you can, then maybe we can find out where Natsume-chan is.\""
+msgstr ""
+
+#: 40204:660
+
+msgid "{Kazushi}\n\"Trail it...?\""
+msgstr ""
+
+#: 40204:661
+
+msgid "I did feel a link to Natsume-chan, and I was certain Natsume-chan resided on the other end of the link."
+msgstr ""
+
+#: 40204:662
+
+msgid "But it was such a tiny, fine, spider's thread kind of feeling. When I tried to follow my lead, I lost it because it was too fine."
+msgstr ""
+
+#: 40204:665
+
+msgid "{Haruka}\n\"No, huh?\""
+msgstr ""
+
+#: 40204:670
+
+msgid "{Mizuki}\n\"Do you have any other leads?\""
+msgstr ""
+
+#: 40204:671
+
+msgid "{Kazushi}\n\"Other leads... Oh, yeah!\""
+msgstr ""
+
+#: 40204:672
+
+msgid "I remembered. The only lead we had in order to know about her."
+msgstr ""
+
+#: 40204:673
+
+msgid "{Kazushi}\n\"Natsume-chan was looking for her father.\""
+msgstr ""
+
+#: 40204:674
+
+msgid "I totally forgot. I was hoping to find him for her, but I remembered it now."
+msgstr ""
+
+#: 40204:677
+
+msgid "{Mizuki}\n\"Her father?\""
+msgstr ""
+
+#: 40204:681
+
+msgid "{Daigo}\n\"Her father's on this island?\""
+msgstr ""
+
+#: 40204:685
+
+msgid "{Pierre}\n\"You mean, she's a local?\""
+msgstr ""
+
+#: 40204:689
+
+msgid "{Haruka}\n\"No, that's not right, or I'd have already known her.\""
+msgstr ""
+
+#: 40204:692
+
+msgid "{Kazushi}\n\"The man at the grocery store said he'd seen someone just like Natsume-chan, and that girl was looking for her father.\""
+msgstr ""
+
+#: 40204:693
+
+msgid "Natsume-chan wasn't living on this island, but her father was. And she came to visit him."
+msgstr ""
+
+#: 40204:694
+
+msgid "That made sense."
+msgstr ""
+
+#: 40204:697
+
+msgid "{Ran}\n\"I'll find out more about that story. Don't worry, I won't charge you too much.\""
+msgstr ""
+
+#: 40204:702
+
+msgid "{Pierre}\n\"But she's going to charge him anyways?\""
+msgstr ""
+
+#: 40204:703
+
+msgid "{Kazushi}\n\"I'll pay whatever you ask. So please, Ran.\""
+msgstr ""
+
+#: 40204:707
+
+msgid "{Ran}\n\"Sure, don't worry. You guys help me.\""
+msgstr ""
+
+#: 40204:708
+
+msgid "Ran called out for Appo and the other guys."
+msgstr ""
+
+#: 40204:716
+
+msgid "{Appo}\n\"Why do I have to do this?\""
+msgstr ""
+
+#: 40204:717
+
+msgid "{Pierre}\n\"Well, come on. It might be fun.\""
+msgstr ""
+
+#: 40204:718
+
+msgid "{Daigo}\n\"Leave it to us.\""
+msgstr ""
+
+#: 40204:719
+
+msgid "{Kazushi}\n\"Yeah, I'm counting on you.\""
+msgstr ""
+
+#: 40204:725
+
+msgid "{Haruka}\n\"I'll help, too. If she's still on this island, then I think she must have something to do with alchemy.\""
+msgstr ""
+
+#: 40204:726
+
+msgid "{Kazushi}\n\"I think so, too.\""
+msgstr ""
+
+#: 40204:728
+
+msgid "I met Natsume-chan in my dreams, and she disappeared in front of Haruka and I. There were too many mysteries."
+msgstr ""
+
+#: 40204:729
+
+msgid "It had to have something to do with alchemy."
+msgstr ""
+
+#: 40204:732
+
+msgid "{Haruka}\n\"If that's the case, then our school has something to do with this...\""
+msgstr ""
+
+#: 40204:733
+
+msgid "Haruka didn't say anything, but she must have been thinking of the principal - and so was I."
+msgstr ""
+
+#: 40204:734
+
+msgid "The principal was there when Natsume-chan disappeared, and she acted weird."
+msgstr ""
+
+#: 40204:735
+
+msgid "{Haruka}\n\"I'm pretty sure she's somewhere on this campus, and I think my grandma is hiding something.\""
+msgstr ""
+
+#: 40204:736
+
+msgid "{Kazushi}\n\"Yeah... maybe.\""
+msgstr ""
+
+#: 40204:738
+
+msgid "I was sure the principal knew something. And so did..."
+msgstr ""
+
+#: 40204:739
+
+msgid "{Kazushi}\n\"Hey, Ran?\""
+msgstr ""
+
+#: 40204:742
+
+msgid "{Ran}\n\"Huh? What?\""
+msgstr ""
+
+#: 40204:743
+
+msgid "{Kazushi}\n\"I want you to investigate a certain person. I think it'll make your job much easier.\""
+msgstr ""
+
+#: 40204:744
+
+msgid "{Ran}\n\"In regards to her father, right? Who?\""
+msgstr ""
+
+#: 40204:745
+
+msgid "{Kazushi}\n\"Yeah. It's...\""
+msgstr ""
+
+#: 40204:750
+
+msgid "{Kazushi}\n\"Hello.\""
+msgstr ""
+
+#: 40204:753
+
+msgid "{Miya}\n\"Oh, Haruma-kun.\""
+msgstr ""
+
+#: 40204:754
+
+msgid "Miya-san was in the storefront, which was was unusual for him. It was like he knew I was coming and he was waiting for me."
+msgstr ""
+
+#: 40204:755
+
+msgid "{Kazushi}\n\"Do you already know why I'm here too?\""
+msgstr ""
+
+#: 40204:756
+
+msgid "I immediately felt that. Miya-san smiled at me."
+msgstr ""
+
+#: 40204:759
+
+msgid "{Miya}\n\"I heard that the girls at the school were investigating me. Something unusual like that gets around much faster than you think.\""
+msgstr ""
+
+#: 40204:760
+
+msgid "The girls he mentioned must've been Ran and the other guys. Maybe they were doing it on purpose so that Miya-san noticed it."
+msgstr ""
+
+#: 40204:761
+
+msgid "Which helped me to talk to him directly."
+msgstr ""
+
+#: 40204:762
+
+msgid "{Kazushi}\n\"Miya-san, you know where Natsume-chan is, don't you?\""
+msgstr ""
+
+#: 40204:763
+
+msgid "I asked him directly."
+msgstr ""
+
+#: 40204:766
+
+msgid "{Miya}\n\"......\""
+msgstr ""
+
+#: 40204:767
+
+msgid "He didn't answer, but that silence made me believe he knew something about it."
+msgstr ""
+
+#: 40204:768
+
+msgid "{Kazushi}\n\"You do, don't you? Please tell me.\""
+msgstr ""
+
+#: 40204:769
+
+msgid "{Miya}\n\"That girl... she's the one they say disappeared, right? Why would I know about her?\""
+msgstr ""
+
+#: 40204:770
+
+msgid "{Kazushi}\n\"Because how can a father not know about his own daughter?\""
+msgstr ""
+
+#: 40204:773
+
+msgid "There was no give and take. But my direct exchange was effective enough."
+msgstr ""
+
+#: 40204:776
+
+msgid "{Miya}\n\"...\""
+msgstr ""
+
+#: 40204:777
+
+msgid "Maybe he was expecting this."
+msgstr ""
+
+#: 40204:778
+
+msgid "He looked down as he gave up, and understood what was going on."
+msgstr ""
+
+#: 40204:779
+
+msgid "{Kazushi}\n\"So it's true, then? Ran said it was really hard to find your real name. You haven't told anyone on this island about it.\""
+msgstr ""
+
+#: 40204:780
+
+msgid "{Miya}\n\"An alchemist is like a small magician. And no good will come from to any magician whose real name is known.\""
+msgstr ""
+
+#: 40204:781
+
+msgid "He wanted to say it was OK to hide his real name because of that? He didn't mean anything else? But none of that mattered now."
+msgstr ""
+
+#: 40204:782
+
+msgid "{Kazushi}\n\"The 'Miya' came from 'Amamiya' didn't it Amamiya Renji-san, AKA Miya-san.\""
+msgstr ""
+
+#: 40204:783
+
+msgid "That was his real name. Amamiya... the same last name as Natsume-chan's."
+msgstr ""
+
+#: 40204:784
+
+msgid "Amamiya may not be such a unique last name. But on a remote island like this, you won't find it everywhere."
+msgstr ""
+
+#: 40204:787
+
+msgid "{Amamiya}\n\"Yes. Everybody has called me that since long ago.\""
+msgstr ""
+
+#: 40204:788
+
+msgid "Miya-san didn't try to hide anything. Maybe he never intended to hide it, but simply never said anything."
+msgstr ""
+
+#: 40204:789
+
+msgid "If that was so, then it was painfully ironic. If everybody knew his real name, then it would have been so easy for Natsume-chan to find Miya-san."
+msgstr ""
+
+#: 40204:790
+
+msgid "Pierre and other guys looked into Natsume-chan's trail too. She had been going around town asking about Miya-san."
+msgstr ""
+
+#: 40204:791
+
+msgid "{Kazushi}\n\"Miya-san...... Amamiya-san, Natsume-chan is looking for you.\""
+msgstr ""
+
+#: 40204:794
+
+msgid "{Amamiya}\n\"......\""
+msgstr ""
+
+#: 40204:795
+
+msgid "Miya-san had a bitter expression on his face. It seemed like Miya-san knew Natsume-chan was looking for him."
+msgstr ""
+
+#: 40204:796
+
+msgid "Then, why weren't they together?"
+msgstr ""
+
+#: 40204:797
+
+msgid "{Kazushi}\n\"Did you not go and see Natsume-chan? Did you know, and not step up to tell her you were her father? Why didn't you?\""
+msgstr ""
+
+#: 40204:798
+
+msgid "Miya-san laughed for some reason. It was a cynical laugh, and it made me feel bad."
+msgstr ""
+
+#: 40204:801
+
+msgid "{Amamiya}\n\"I'm... I'm nothing as great as a father. I've never done anything fatherly for that girl.\""
+msgstr ""
+
+#: 40204:802
+
+msgid "A string of bitter words spun from his mouth."
+msgstr ""
+
+#: 40204:803
+
+msgid "{Amamiya}\n\"Of course I knew Natsume came looking for me. This is a small island; if someone new arrives, everyone talks about it.\""
+msgstr ""
+
+#: 40204:804
+
+msgid "It wasn't just the guy at the grocery store, but lots of other people in town remembered her. Of course Miya-san wouldn't have missed that."
+msgstr ""
+
+#: 40204:807
+
+msgid "{Amamiya}\n\"But, I didn't see her. No, I couldn't.\""
+msgstr ""
+
+#: 40204:808
+
+msgid "{Kazushi}\n\"Why?\""
+msgstr ""
+
+#: 40204:809
+
+msgid "Why couldn't a father see his own daughter?"
+msgstr ""
+
+#: 40204:812
+
+msgid "{Amamiya}\n\"At the time, I was in the middle of a huge experiment, which in alchemy requires a lot of time.\""
+msgstr ""
+
+#: 40204:813
+
+msgid "{Amamiya}\n\"Even though the power of this island greatly reduced the time, that experiment still took us several years.\""
+msgstr ""
+
+#: 40204:814
+
+msgid "{Amamiya}\n\"We were at the stage where we had nearly completed it. I couldn't just abandon it at that time.\""
+msgstr ""
+
+#: 40204:815
+
+msgid "{Kazushi}\n\"But, I'm sure you could have seen her for a few minutes. It sounds like you're making excuses.\""
+msgstr ""
+
+#: 40204:816
+
+msgid "{Amamiya}\n\"If I had, my heart would've wavered. Any disturbance to the alchemist will affect the experiment.\""
+msgstr ""
+
+#: 40204:817
+
+msgid "Miya-san said, and shook his head."
+msgstr ""
+
+#: 40204:820
+
+msgid "{Amamiya}\n\"...No. Maybe I was just using that as an excuse like you said.\""
+msgstr ""
+
+#: 40204:821
+
+msgid "{Amamiya}\n\"I didn't know how to face that girl. Maybe I was afraid to see her.\""
+msgstr ""
+
+#: 40204:822
+
+msgid "Miya-san shut himself in the lab, and tried not to let her know where he was."
+msgstr ""
+
+#: 40204:823
+
+msgid "{Amamiya}\n\"But Natsume pinned down where it was.\""
+msgstr ""
+
+#: 40204:824
+
+msgid "{Kazushi}\n\"Natsume-chan did?\""
+msgstr ""
+
+#: 40204:827
+
+msgid "{Amamiya}\n\"Yes. She has good intuition. Maybe she had a great potential as an alchemist.\""
+msgstr ""
+
+#: 40204:828
+
+msgid "Miya-san looked happy when he said that. Perhaps it was his face as a father."
+msgstr ""
+
+#: 40204:829
+
+msgid "{Kazushi}\n\"So Natsume-chan did see you, then.\""
+msgstr ""
+
+#: 40204:830
+
+msgid "I'm sure that's what happened after she found his lab."
+msgstr ""
+
+#: 40204:833
+
+msgid "{Amamiya}\n\"She came. Well, so I heard.\""
+msgstr ""
+
+#: 40204:834
+
+msgid "{Kazushi}\n\"So you heard?\""
+msgstr ""
+
+#: 40204:837
+
+msgid "{Amamiya}\n\"The timing was bad, because I wasn't in the lab at the time. Hisae-san was.\""
+msgstr ""
+
+#: 40204:838
+
+msgid "{Kazushi}\n\"What? The principal was?\""
+msgstr ""
+
+#: 40204:839
+
+msgid "{Amamiya}\n\"She's also an alchemist, and we were joint researchers. Since our grand experiment was finally nearing its climax, she stopped by to see it for herself.\""
+msgstr ""
+
+#: 40204:840
+
+msgid "So Natsume-chan and the principal knew each other. Come to think of it, they did act like it."
+msgstr ""
+
+#: 40204:841
+
+msgid "But it didn't seem like they had a good relationship."
+msgstr ""
+
+#: 40204:842
+
+msgid "{Kazushi}\n\"So? What happened then?\""
+msgstr ""
+
+#: 40204:843
+
+msgid "Did something happen to sour their relationship? But Miya-san shook his head."
+msgstr ""
+
+#: 40204:846
+
+msgid "{Amamiya}\n\"I don't know. When I went back, the experiment had already finished.\""
+msgstr ""
+
+#: 40204:847
+
+msgid "{Kazushi}\n\"What? Really?\""
+msgstr ""
+
+#: 40204:848
+
+msgid "{Amamiya}\n\"The experiment was coming along well, but it had been interrupted right before it was successfully completed. It was a failure, and I found Natsume-chan on the ground.\""
+msgstr ""
+
+#: 40204:849
+
+msgid "The failed experiment. Natsume-chan on the floor..."
+msgstr ""
+
+#: 40204:850
+
+msgid "{Kazushi}\n\"What do you mean?\""
+msgstr ""
+
+#: 40204:853
+
+msgid "{Amamiya}\n\"In that experiment, we were trying to synthesize a mysterious rock that once existed a long time ago on this island.\""
+msgstr ""
+
+#: 40204:854
+
+msgid "{Kazushi}\n\"A mysterious rock?\""
+msgstr ""
+
+#: 40204:855
+
+msgid "{Amamiya}\n\"It was located underground on this island, but it disappeared after a certain incident. Hisae-san is the only one who knows all the details.\""
+msgstr ""
+
+#: 40204:856
+
+msgid "{Amamiya}\n\"She looked all over the place, but couldn't find it. Well, to be honest, she's still looking for it. And at the same time, she's been trying to make the same stone on her own.\""
+msgstr ""
+
+#: 40204:857
+
+msgid "{Kazushi}\n\"What is this stone?\""
+msgstr ""
+
+#: 40204:858
+
+msgid "{Amamiya}\n\"It's probably similar to what people call the Philosopher's Stone. It is the highest substance made by alchemy. That mysterious existence is said to grant people eternal life.\""
+msgstr ""
+
+#: 40204:859
+
+msgid "{Kazushi}\n\"Eternal life?\""
+msgstr ""
+
+#: 40204:860
+
+msgid "You mean immortality? But, that's... ridiculous..."
+msgstr ""
+
+#: 40204:862
+
+msgid "{Amamiya}\n\"It's an unfulfilled dream that man has chased since the dawn of history. In alchemy it's called the Philosopher's Stone, in Chinese Taoism, the material has been called the Golden Elixir.\""
+msgstr ""
+
+#: 40204:864
+
+msgid "{Amamiya}\n\"That was the purpose of our experiment.\""
+msgstr ""
+
+#: 40204:865
+
+msgid "As I listened to his explanation I was reminded that this absentminded man was an alchemist too. Though it all went over my head."
+msgstr ""
+
+#: 40204:866
+
+msgid "{Kazushi}\n\"Do you really think that immortality exists?\""
+msgstr ""
+
+#: 40204:867
+
+msgid "{Amamiya}\n\"It's not about whether or not it exists. You have to start from 'it exists'. Otherwise, you can't understand what we do as alchemists.\""
+msgstr ""
+
+#: 40204:868
+
+msgid "I couldn't understand it. I didn't believe in eternal life, and I wouldn't even want it."
+msgstr ""
+
+#: 40204:869
+
+msgid "{Amamiya}\n\"The reason why I was called out to this island was to make this mysterious material for ourselves once again.\""
+msgstr ""
+
+#: 40204:871
+
+msgid "{Amamiya}\n\"Hisae-san invited me out to this island as her co-researcher. Then, to be honest, I was taken in by the wonders of this island.\""
+msgstr ""
+
+#: 40204:872
+
+msgid "{Amamiya}\n\"You see, this island has a magical power, and it was fascinating. I was sure that I'd be able to accomplish what I had never done before on this island.\""
+msgstr ""
+
+#: 40204:873
+
+msgid "{Amamiya}\n\"I planned to stay for six months, and then it became a year, two years, and I forgot all about time as I lost myself in my research. Of course, my wife gave up on me.\""
+msgstr ""
+
+#: 40204:874
+
+msgid "{Amamiya}\n\"I can understand that. I never thought about my family. And the time passed by so quickly.\""
+msgstr ""
+
+#: 40204:879
+
+msgid "Natsume-chan came to the island after he had spent so many years here, and he'd nearly forgotten about his old life."
+msgstr ""
+
+#: 40204:880
+
+msgid "{Amamiya}\n\"When I found out that Natsume...my daughter... came to the island, I was so surprised. And then I heard that she was looking for me.\""
+msgstr ""
+
+#: 40204:881
+
+msgid "{Kazushi}\n\"But you avoided her. Why didn't you see her?\""
+msgstr ""
+
+#: 40204:882
+
+msgid "{Amamiya}\n\"I thought about it, but I was a coward. I was scared.\""
+msgstr ""
+
+#: 40204:885
+
+msgid "{Amamiya}\n\"I told myself, 'Once this experiment is over, once this succeeds, then...' and kept myself in the lab.\""
+msgstr ""
+
+#: 40204:886
+
+msgid "{Kazushi}\n\"How can a father be scared of seeing his own daughter?\""
+msgstr ""
+
+#: 40204:887
+
+msgid "That was such a sad story, but Miya-san was smiling cynically."
+msgstr ""
+
+#: 40204:888
+
+msgid "{Amamiya}\n\"You're right. I hate myself for that.\""
+msgstr ""
+
+#: 40204:889
+
+msgid "{Kazushi}\n\"Why did the experiment fail? It was almost finished, right?\""
+msgstr ""
+
+#: 40204:890
+
+msgid "{Amamiya}\n\"The refinement was going almost perfectly, and it was about to be completed, but it was taken away right before it finished.\""
+msgstr ""
+
+#: 40204:891
+
+msgid "{Kazushi}\n\"Who took it away?\""
+msgstr ""
+
+#: 40204:895
+
+msgid "{Amamiya}\n\"Natsume did. And now the stone resides inside of her.\""
+msgstr ""
+
+#: 40204:896
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 40204:897
+
+msgid "{Amamiya}\n\"Natsume swallowed the nearly complete Philosopher's Stone.\""
+msgstr ""
+
+#: 40204:898
+
+msgid "{Kazushi}\n\"She swallowed it? Can you swallow a rock like that?\""
+msgstr ""
+
+#: 40204:899
+
+msgid "{Amamiya}\n\"The stone she ate was not just any old rock. The Philosopher's Stone is a actually a fluidic material.\""
+msgstr ""
+
+#: 40204:900
+
+msgid "{Kazushi}\n\"A liquid rock?\""
+msgstr ""
+
+#: 40204:901
+
+msgid "I couldn't imagine it. But if it was a liquid, I guess it'd be easy to drink, unlike a normal rock."
+msgstr ""
+
+#: 40204:902
+
+msgid "Could her body handle that?"
+msgstr ""
+
+#: 40204:903
+
+msgid "{Kazushi}\n\"Why did Natsume-chan do such a thing?\""
+msgstr ""
+
+#: 40204:906
+
+msgid "{Amamiya}\n\"She hated alchemy. I think she wanted to take alchemy away from me because I never had time for her.\""
+msgstr ""
+
+#: 40204:907
+
+msgid "Miya-san said he never thought about his family. Natsume-chan thought alchemy took her father away from her."
+msgstr ""
+
+#: 40204:910
+
+msgid "{Amamiya}\n\"The stone she ate was then absorbed from within, spreading to every corner of her body, becoming her blood and bones.\""
+msgstr ""
+
+#: 40204:911
+
+msgid "{Amamiya}\n\"Therefore, she may be the closest any human has come to the mysteries of alchemy.\""
+msgstr ""
+
+#: 40204:912
+
+msgid "I couldn't believe she had made such a important accomplishment. She didn't look like it."
+msgstr ""
+
+#: 40204:913
+
+msgid "{Kazushi}\n\"But, then, where's Natsume-chan now? What happened to her after that?\""
+msgstr ""
+
+#: 40204:916
+
+msgid "{Amamiya}\n\"Natsume has been sleeping.\""
+msgstr ""
+
+#: 40204:917
+
+msgid "{Kazushi}\n\"Sleeping?\""
+msgstr ""
+
+#: 40204:918
+
+msgid "I knew it. That's why we met in my dreams. Was she still dreaming now?"
+msgstr ""
+
+#: 40204:919
+
+msgid "{Kazushi}\n\"But, how did it happen? Isn't she waking up?\""
+msgstr ""
+
+#: 40204:920
+
+msgid "{Amamiya}\n\"She was put to sleep.\""
+msgstr ""
+
+#: 40204:921
+
+msgid "{Kazushi}\n\"By whom? Why was she put to sleep?\""
+msgstr ""
+
+#: 40204:922
+
+msgid "Maybe it was something Miya-san didn't want to talk about. He looked sad."
+msgstr ""
+
+#: 40204:925
+
+msgid "{Amamiya}\n\"It might have been because of the stone, but Natsume attacked Hisae-san right after she drank it.\""
+msgstr ""
+
+#: 40204:926
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 40204:927
+
+msgid "Natsume-chan attacked the principal?"
+msgstr ""
+
+#: 40204:928
+
+msgid "{Amamiya}\n\"Hisae-san said she felt scared for her life. Natsume's power was overwhelming.\""
+msgstr ""
+
+#: 40204:929
+
+msgid "{Kazushi}\n\"That Natsume-chan? No way!\""
+msgstr ""
+
+#: 40204:930
+
+msgid "Could it have been the stone's influence?"
+msgstr ""
+
+#: 40204:931
+
+msgid "{Amamiya}\n\"It might have been from the shock of taking some foreign object into her body. Sometimes, antibodies react to alchemical substances.\""
+msgstr ""
+
+#: 40204:934
+
+msgid "{Amamiya}\n\"I think her body and the stone are likely to have familiarized themselves with each other by now and I think we can safely wake her, but I'm not sure if testing that...\""
+msgstr ""
+
+#: 40204:935
+
+msgid "In the end he still thought it was too dangerous."
+msgstr ""
+
+#: 40204:936
+
+msgid "{Kazushi}\n\"Then what are you going to do about Natsume-chan? Are you going to force her to sleep forever?\""
+msgstr ""
+
+#: 40204:939
+
+msgid "{Amamiya}\n\"That was Hisae-san's decision. She has her own plan.\""
+msgstr ""
+
+#: 40204:940
+
+msgid "{Kazushi}\n\"Then what's going to happen to Natsume-chan?!\""
+msgstr ""
+
+#: 40204:941
+
+msgid "I noticed myself yelling. I couldn't accept that, even if it was the principal's decision."
+msgstr ""
+
+#: 40204:944
+
+msgid "{Amamiya}\n\"That's why I have tried to make use of alchemy in the field of medicine. I'm trying to discover a way to remove the stone from Natsume, but I haven't been successful.\""
+msgstr ""
+
+#: 40204:945
+
+msgid "He said that the rock melted inside of Natsume-chan and became her blood and bones. Would it be possible to remove it from her?"
+msgstr ""
+
+#: 40204:946
+
+msgid "It all sounded so vague."
+msgstr ""
+
+#: 40204:947
+
+msgid "{Kazushi}\n\"When will you be able to save Natsume-chan? I can't wait that long.\""
+msgstr ""
+
+#: 40204:948
+
+msgid "Miya-san seemed to understand that, and he looked at me in distress."
+msgstr ""
+
+#: 40204:949
+
+msgid "{Amamiya}\n\"The stone she ate is very special. It is said that the stone controls death and regeneration.\""
+msgstr ""
+
+#: 40204:950
+
+msgid "That immortality stuff again. I really couldn't believe it."
+msgstr ""
+
+#: 40204:953
+
+msgid "{Amamiya}\n\"In other words, the stone not only grants eternal life, but is capable of reviving the dead.\""
+msgstr ""
+
+#: 40204:954
+
+msgid "{Kazushi}\n\"Reviving the dead?\""
+msgstr ""
+
+#: 40204:955
+
+msgid "Is something that ridiculous possible? And that thought made this man and the principal seem frightening."
+msgstr ""
+
+#: 40204:956
+
+msgid "{Amamiya}\n\"At least, that's what we were aiming for. But Natsume took the stone before it was completed. We don't know how it affects people.\""
+msgstr ""
+
+#: 40204:957
+
+msgid "Because Natsume-chan ate it before it was completed... How did the incomplete stone affect the human body? Moreover, there was Natsume-chan's behavior after drinking it."
+msgstr ""
+
+#: 40204:958
+
+msgid "And the fact that Natsume-chan attacked on the principal with overwhelming power."
+msgstr ""
+
+#: 40204:961
+
+msgid "{Amamiya}\n\"The legends say that the god who controls immortality was once a god who brought death upon people.\""
+msgstr ""
+
+#: 40204:962
+
+msgid "{Kazushi}\n\"What? That's the total opposite.\""
+msgstr ""
+
+#: 40204:963
+
+msgid "{Amamiya}\n\"People thought if you prayed to the god of death, then he may spare you from it. That lead to the belief that praying to that god would grant you eternal life.\""
+msgstr ""
+
+#: 40204:964
+
+msgid "The god who controlled immortality was originally the god of destruction and creation."
+msgstr ""
+
+#: 40204:965
+
+msgid "The god who destroyed everything, then created a totally new world. So, it also led to a belief in regeneration."
+msgstr ""
+
+#: 40204:966
+
+msgid "{Amamiya}\n\"Hisae-san believes that the glimpse of power Natsume displayed is related to that.\""
+msgstr ""
+
+#: 40204:967
+
+msgid "{Kazushi}\n\"So you think Natsume-chan would harm other people? That's nonsense! Natsume-chan would never do that!\""
+msgstr ""
+
+#: 40204:970
+
+msgid "{Amamiya}\n\"I know that she's not like that, but the power which lies inside of her may be beyond her control.\""
+msgstr ""
+
+#: 40204:971
+
+msgid "{Amamiya}\n\"I'm not sure if I could stop her should the stone's power take control. I can't let Natsume become a murderer.\""
+msgstr ""
+
+#: 40204:972
+
+msgid "Of course, I didn't want Natsume-chan to harm anyone. I understood how he felt."
+msgstr ""
+
+#: 40204:973
+
+msgid "But the Natsume-chan I knew would never do that. I couldn't believe that there was a possibility of that happening."
+msgstr ""
+
+#: 40204:974
+
+msgid "He didn't know how Natsume-chan was now. He couldn't know her, since he hadn't seen her for a long time."
+msgstr ""
+
+#: 40204:975
+
+msgid "That's why he couldn't believe in her, even if he wanted to."
+msgstr ""
+
+#: 40204:976
+
+msgid "{Amamiya}\n\"I want her to lead a normal, peaceful life. That's why we need to be cautious about this.\""
+msgstr ""
+
+#: 40204:977
+
+msgid "Miya-san didn't show his tears, but he looked like he was crying to me."
+msgstr ""
+
+#: 40204:978
+
+msgid "This is wrong. This isn't right for Miya-san, nor for Natsume-chan."
+msgstr ""
+
+#: 40204:979
+
+msgid "{Kazushi}\n\"I think we should go retrieve Natsume-chan.\""
+msgstr ""
+
+#: 40204:980
+
+msgid "I could confidently say that Natsume-chan would never harm another soul. I knew something Miya-san didn't."
+msgstr ""
+
+#: 40204:981
+
+msgid "I know how she is now. Natsume-chan is lonely from the empty world she's been contained in."
+msgstr ""
+
+#: 40204:982
+
+msgid "{Kazushi}\n\"Natsume-chan is all alone now! Don't you need to protect her as a father?\""
+msgstr ""
+
+#: 40204:983
+
+msgid "I yelled out unconsciously. Miya-san looked down sadly."
+msgstr ""
+
+#: 40204:985
+
+msgid "{Amamiya}\n\"......\""
+msgstr ""
+
+#: 40204:986
+
+msgid "{Amamiya}\n\"......I'm powerless. I can't do anything for her. Do I have the right to say that I'm her father?\""
+msgstr ""
+
+#: 40204:987
+
+msgid "He let it out bitterly. I could see he was in agony about something, but I didn't feel any sympathy for him."
+msgstr ""
+
+#: 40204:988
+
+msgid "{Amamiya}\n\"I ran and hid from her without ever seeing her, and after all that I can't even wake her up from her sleep. What right do I have to call myself her father...\""
+msgstr ""
+
+#: 40204:989
+
+msgid "{Kazushi}\n\"I don't know much, but if you say you don't have the right, then shouldn't you go earn it?\""
+msgstr ""
+
+#: 40204:992
+
+msgid "{Amamiya}\n\"What?\""
+msgstr ""
+
+#: 40204:993
+
+msgid "{Kazushi}\n\"A doctor without the rights to be one may have to quit his job, but you can't quit being a parent.\""
+msgstr ""
+
+#: 40204:996
+
+msgid "{Amamiya}\n\"Well...\""
+msgstr ""
+
+#: 40204:997
+
+msgid "{Kazushi}\n\"Then you just need to earn the right. You're the only father Natsume-chan has, and no one can replace you.\""
+msgstr ""
+
+#: 40204:998
+
+msgid "{Amamiya}\n\"...\""
+msgstr ""
+
+#: 40204:999
+
+msgid "I'm not sure what kind of an effect I had on him, but Miya-san seemed lost for words."
+msgstr ""
+
+#: 40204:1000
+
+msgid "{Amamiya}\n\"......\""
+msgstr ""
+
+#: 40204:1001
+
+msgid "Miya-san went silent for a long time. The sound of the clock was the only sound we could hear, and it was loud. Then, Miya-san suddenly inhaled."
+msgstr ""
+
+#: 40204:1004
+
+msgid "{Amamiya}\n\"...Natsume was so sickly as a little girl. She was catching colds all the time, and we were so worried about her all year round.\""
+msgstr ""
+
+#: 40204:1005
+
+msgid "He started to reminisce."
+msgstr ""
+
+#: 40204:1006
+
+msgid "{Amamiya}\n\"I stayed home with her a lot until she was four or five. I had a lab at home.\""
+msgstr ""
+
+#: 40204:1007
+
+msgid "{Amamiya}\n\"Natsume was in the lab all the time. She liked to see me working in the lab.\""
+msgstr ""
+
+#: 40204:1008
+
+msgid "{Amamiya}\n\"She was using the furnace by the age of three. Maybe she learned by watching me. I may sound stupid, but I think she had a talent for alchemy.\""
+msgstr ""
+
+#: 40204:1011
+
+msgid "{Amamiya}\n\"The three of us were always together. Those may have been the happiest days of my life.\""
+msgstr ""
+
+#: 40204:1012
+
+msgid "{Kazushi}\n\"I'm sure you can return to that life. So, let's go pick up Natsume-chan.\""
+msgstr ""
+
+#: 40204:1015
+
+msgid "{Amamiya}\n\"You're right, Haruma-kun. If I don't have the right to be a parent, then I have to earn it.\""
+msgstr ""
+
+#: 40204:1016
+
+msgid "He smiled cynically."
+msgstr ""
+
+#: 40204:1019
+
+msgid "{Amamiya}\n\"You can't quit being a parent, just because you don't have the right. That is so true. I wonder why I didn't think of that before.\""
+msgstr ""
+
+#: 40204:1020
+
+msgid "{Kazushi}\n\"Smart people think too hard, and alchemists sound like smart people.\""
+msgstr ""
+
+#: 40204:1021
+
+msgid "{Amamiya}\n\"I'm sure I'm the biggest idiot on this earth.\""
+msgstr ""
+
+#: 40204:1022
+
+msgid "{Kazushi}\n\"Idiots would act first without thinking.\""
+msgstr ""
+
+#: 40204:1023
+
+msgid "That would be me, and I made so many mistakes doing it..."
+msgstr ""
+
+#: 40204:1026
+
+msgid "{Amamiya}\n\"Really... I guess I need to be more of an idiot in order to make people happy.\""
+msgstr ""
+
+#: 40204:1027
+
+msgid "He smiled sadly, but not carelessly. It was a stronger smile than before."
+msgstr ""
+
+#: 40204:1028
+
+msgid "The man with the renewed strength looked at me."
+msgstr ""
+
+#: 40204:1029
+
+msgid "{Amamiya}\n\"OK. Let's go save Natsume.\""
+msgstr ""
+
+#: 40204:1030
+
+msgid "{Kazushi}\n\"Really?!\""
+msgstr ""
+
+#: 40204:1031
+
+msgid "{Amamiya}\n\"I have made my decision. As her father, I'll protect Natsume no matter what happens.\""
+msgstr ""
+
+#: 40204:1032
+
+msgid "Miya-san looked like a father already."
+msgstr ""
+
+#: 40204:1033
+
+msgid "Natsume-chan, the father you were looking for is right here."
+msgstr ""
+
+#: 40204:1034
+
+msgid "I'll bring him to you now."
+msgstr ""
+
+#: 40204:1041
+
+msgid "The narrow stairs led down into the darkness."
+msgstr ""
+
+#: 40204:1042
+
+msgid "{Kazushi}\n\"Natsume-chan is here??\""
+msgstr ""
+
+#: 40204:1043
+
+msgid "{Amamiya}\n\"She's placed under a heavy seal. I'm not sure it'll be easy to save her...\""
+msgstr ""
+
+#: 40204:1044
+
+msgid "{Kazushi}\n\"We need to get to her. We can't start complaining now.\""
+msgstr ""
+
+#: 40204:1045
+
+msgid "{Amamiya}\n\"......You're right.\""
+msgstr ""
+
+#: 40204:1046
+
+msgid "I began losing my sense of time because of the darkness, and the spiral staircase confused my sense of distance."
+msgstr ""
+
+#: 40204:1047
+
+msgid "I'm not sure how far down we've gone, but it feels like these stairs are leading us to hell."
+msgstr ""
+
+#: 40204:1050
+
+msgid "*Clink...*"
+msgstr ""
+
+#: 40204:1051
+
+msgid "The sound of Miya-san's footsteps changed. The floor was made of a different material, and Miya-san came to a stop."
+msgstr ""
+
+#: 40204:1052
+
+msgid "{Kazushi}\n\"Miya-san?\""
+msgstr ""
+
+#: 40204:1053
+
+msgid "{Amamiya}\n\"This is it.\""
+msgstr ""
+
+#: 40204:1054
+
+msgid "He raised the lamp in his hand: there was a stone door, and we saw a huge lock hanging on the bar."
+msgstr ""
+
+#: 40204:1055
+
+msgid "{Amamiya}\n\"Don't worry.\""
+msgstr ""
+
+#: 40204:1056
+
+msgid "He informed me, and nodded. He took out a huge ring full of keys, selected one of them, and put it into the lock."
+msgstr ""
+
+#: 40204:1058
+
+msgid "*Click...*"
+msgstr ""
+
+#: 40204:1059
+
+msgid "We heard the weighty sound of the lock opening."
+msgstr ""
+
+#: 40204:1060
+
+msgid "{Amamiya}\n\"Let's go.\""
+msgstr ""
+
+#: 40204:1061
+
+msgid "{Kazushi}\n\"OK.\""
+msgstr ""
+
+#: 40204:1068
+
+msgid "We found her as soon as we entered the room."
+msgstr ""
+
+#: 40204:1069
+
+msgid "{Kazushi}\n\"Natsume-chan!!\""
+msgstr ""
+
+#: 40204:1070
+
+msgid "I found her! It's Natsume-chan! I've found her at last."
+msgstr ""
+
+#: 40204:1071
+
+msgid "This was the real Natsume-chan, not a dream or a shadow."
+msgstr ""
+
+#: 40204:1072
+
+msgid "{Kazushi}\n\"Natsume-chan!!\""
+msgstr ""
+
+#: 40204:1073
+
+msgid "I shook her shoulders, but she didn't wake up."
+msgstr ""
+
+#: 40204:1075
+
+msgid "*Slap! Slap!*"
+msgstr ""
+
+#: 40204:1076
+
+msgid "I slapped her cheeks."
+msgstr ""
+
+#: 40204:1077
+
+msgid "{Kazushi}\n\"Natsume-chan! Wake up! We came to get you!!\""
+msgstr ""
+
+#: 40204:1078
+
+msgid "{Amamiya}\n\"Natsume! Natsume, wake up!\""
+msgstr ""
+
+#: 40204:1080
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40204:1081
+
+msgid "She wasn't waking up. There was no response at all."
+msgstr ""
+
+#: 40204:1082
+
+msgid "{Kazushi}\n\"Why?\""
+msgstr ""
+
+#: 40204:1083
+
+msgid "{Amamiya}\n\"She isn't just sleeping. She was put into a state of apparent death to suspend the stone's power.\""
+msgstr ""
+
+#: 40204:1084
+
+msgid "{Kazushi}\n\"Then how can we wake her up?\""
+msgstr ""
+
+#: 40204:1085
+
+msgid "{Amamiya}\n\"Maybe some kind of shock will do it...\""
+msgstr ""
+
+#: 40204:1086
+
+msgid "{Kazushi}\n\"We have to punch her?!\""
+msgstr ""
+
+#: 40204:1087
+
+msgid "{Amamiya}\n\"D-don't be so violent!!\""
+msgstr ""
+
+#: 40204:1088
+
+msgid "That's right. I need to calm down. I know. I have a better plan."
+msgstr ""
+
+#: 40204:1089
+
+msgid "{Kazushi}\n\"Miya-san, please close your eyes.\""
+msgstr ""
+
+#: 40204:1090
+
+msgid "{Amamiya}\n\"What? My eyes?\""
+msgstr ""
+
+#: 40204:1091
+
+msgid "{Kazushi}\n\"Hurry!!\""
+msgstr ""
+
+#: 40204:1092
+
+msgid "{Amamiya}\n\"Oh, uh, OK...\""
+msgstr ""
+
+#: 40204:1093
+
+msgid "Miya-san closed his eyes. I watched out for him, and gazed into Natsume-chan's face."
+msgstr ""
+
+#: 40204:1094
+
+msgid "I was thinking about the time I first met her in my dream."
+msgstr ""
+
+#: 40204:1095
+
+msgid "This time, it was totally the opposite. Was she looking into my face like this?"
+msgstr ""
+
+#: 40204:1096
+
+msgid "And then..."
+msgstr ""
+
+#: 40204:1097
+
+msgid "{Kazushi}\n\"Natsume-chan.\""
+msgstr ""
+
+#: 40204:1098
+
+msgid "I called out for Natsume-chan with all my heart, and lowered my face to hers."
+msgstr ""
+
+#: 40204:1099
+
+msgid "Haruka said Natsume-chan and I had some kind of contract."
+msgstr ""
+
+#: 40204:1100
+
+msgid "Was that contract still in effect? I kissed the red lips that looked like a flower in bloom against her pale face."
+msgstr ""
+
+#: 40204:1101
+
+msgid "{Kazushi}\n\"......\""
+msgstr ""
+
+#: 40204:1102
+
+msgid "I kissed her, praying to blow my life into her."
+msgstr ""
+
+#: 40204:1106
+
+msgid "I felt the wind."
+msgstr ""
+
+#: 40204:1109
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 40204:1110
+
+msgid "{Kazushi}\n\"Natsume-chan!!\""
+msgstr ""
+
+#: 40204:1113
+
+msgid "Natsume-chan was standing all alone in a middle of a windy field filled with flowers. Her long hair billowing in the wind. Were we in heaven?"
+msgstr ""
+
+#: 40204:1114
+
+msgid "{Kazushi}\n\"Natsume-chan!\""
+msgstr ""
+
+#: 40204:1115
+
+msgid "Natsume-chan turned around."
+msgstr ""
+
+#: 40204:1118
+
+msgid "{Natsume}\n\"Haruma... You again? You're persistent.\""
+msgstr ""
+
+#: 40204:1119
+
+msgid "I understood now. I met her here a long time ago, and I made my promise to her here."
+msgstr ""
+
+#: 40204:1120
+
+msgid "{Kazushi}\n\"I came to find you, just like I promised.\""
+msgstr ""
+
+#: 40204:1121
+
+msgid "I walked over to Natsume-chan."
+msgstr ""
+
+#: 40204:1122
+
+msgid "{Kazushi}\n\"Come home with me.\""
+msgstr ""
+
+#: 40204:1125
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40204:1126
+
+msgid "Natsume-chan was just standing there, not moving at all."
+msgstr ""
+
+#: 40204:1127
+
+msgid "{Kazushi}\n\"What's wrong?\""
+msgstr ""
+
+#: 40204:1128
+
+msgid "{Natsume}\n\"Is it alright to leave this place?\""
+msgstr ""
+
+#: 40204:1129
+
+msgid "{Kazushi}\n\"Yeah, you can. Come back to the real world with me.\""
+msgstr ""
+
+#: 40204:1132
+
+msgid "{Natsume}\n\"I see...\""
+msgstr ""
+
+#: 40204:1133
+
+msgid "But she wasn't moving."
+msgstr ""
+
+#: 40204:1134
+
+msgid "{Kazushi}\n\"What is it?\""
+msgstr ""
+
+#: 40204:1135
+
+msgid "Natsume-chan was shaking a little."
+msgstr ""
+
+#: 40204:1138
+
+msgid "{Natsume}\n\"I'm a little bit scared of leaving.\""
+msgstr ""
+
+#: 40204:1139
+
+msgid "{Kazushi}\n\"Why? What do you mean?\""
+msgstr ""
+
+#: 40204:1140
+
+msgid "{Natsume}\n\"That weird rock is inside of me. That powerful rock. I'm not sure what that thing'll make me do.\""
+msgstr ""
+
+#: 40204:1141
+
+msgid "{Natsume}\n\"And Papa might refuse to see me again.\""
+msgstr ""
+
+#: 40204:1142
+
+msgid "{Kazushi}\n\"It's unusual for you to be so timid.\""
+msgstr ""
+
+#: 40204:1143
+
+msgid "Natsume-chan looked up and pouted her lips."
+msgstr ""
+
+#: 40204:1146
+
+msgid "{Natsume}\n\"Even I get scared when I have to decide on something important.\""
+msgstr ""
+
+#: 40204:1147
+
+msgid "She looked more girlish than usual. It made me smile."
+msgstr ""
+
+#: 40204:1150
+
+msgid "{Natsume}\n\"What are you smiling about?\""
+msgstr ""
+
+#: 40204:1151
+
+msgid "{Kazushi}\n\"I'm glad to learn that you're a normal girl after all.\""
+msgstr ""
+
+#: 40204:1154
+
+msgid "That surprised Natsume-chan for some reason."
+msgstr ""
+
+#: 40204:1155
+
+msgid "{Natsume}\n\"Do you think I'm a normal girl?\""
+msgstr ""
+
+#: 40204:1157
+
+msgid "{Kazushi}\n\"Sure. At first, I was kind of worried that you might be this great girl everyone was talking about, and that I wouldn't have a chance, but you're a perfectly ordinary girl.\""
+msgstr ""
+
+#: 40204:1159
+
+msgid "Natsume-chan was so small. I wasn't sure if she had this great power or not, but she was still an ordinary girl for her age."
+msgstr ""
+
+#: 40204:1160
+
+msgid "I wanted to protect her. That strong will was coming up inside of me."
+msgstr ""
+
+#: 40204:1161
+
+msgid "{Kazushi}\n\"Don't worry. Nobody is going to harm you, and you are not going to harm anybody else.\""
+msgstr ""
+
+#: 40204:1162
+
+msgid "{Kazushi}\n\"You know everybody, don't you? Appo, Pierre, and Daigo. Haruka, and Mizuki, and all the other girls.\""
+msgstr ""
+
+#: 40204:1163
+
+msgid "{Kazushi}\n\"They all helped me and supported me. They're all waiting for you. So, I have to bring you back to where we came from.\""
+msgstr ""
+
+#: 40204:1164
+
+msgid "{Kazushi}\n\"And Miya-san... your dad... swore that he'd protect you as well.\""
+msgstr ""
+
+#: 40204:1167
+
+msgid "{Natsume}\n\"Papa did?\""
+msgstr ""
+
+#: 40204:1168
+
+msgid "{Kazushi}\n\"Yeah. He said he wants to be your father for real this time. So let's go.\""
+msgstr ""
+
+#: 40204:1171
+
+msgid "I took her hand. Natsume-chan looked up as I pulled her arm."
+msgstr ""
+
+#: 40204:1172
+
+msgid "{Kazushi}\n\"Let's go.\""
+msgstr ""
+
+#: 40204:1173
+
+msgid "I smiled to her."
+msgstr ""
+
+#: 40204:1176
+
+msgid "{Natsume}\n\"......OK.\""
+msgstr ""
+
+#: 40204:1178
+
+msgid "The wind blew hard on us again."
+msgstr ""
+
+#: 40204:1183
+
+msgid "I was still kissing Natsume-chan while Miya-san kept his eyes closed. Maybe everything happened in a second."
+msgstr ""
+
+#: 40204:1184
+
+msgid "{Natsume}\n\"...Mm.\""
+msgstr ""
+
+#: 40204:1185
+
+msgid "Natsume's lips moved a little. It felt like her breath was coming into me from where our lips met."
+msgstr ""
+
+#: 40204:1186
+
+msgid "{Natsume}\n\"Mm... Mm...\""
+msgstr ""
+
+#: 40204:1187
+
+msgid "Her cold body was becoming warmer. It seemed like her life came forth from somewhere and filled her little body with heat."
+msgstr ""
+
+#: 40204:1189
+
+msgid "{Natsume}\n\"Ha...\""
+msgstr ""
+
+#: 40204:1190
+
+msgid "She let a breath out from her rose-like lips. I let my lips go."
+msgstr ""
+
+#: 40204:1191
+
+msgid "{Kazushi}\n\"Natsume-chan!!\""
+msgstr ""
+
+#: 40204:1192
+
+msgid "{Amamiya}\n\"Natsume?! Natsume!!\""
+msgstr ""
+
+#: 40204:1193
+
+msgid "Miya-san opened his eyes, and called out for Natsume-chan. Her long eyelashes moved a little."
+msgstr ""
+
+#: 40204:1194
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40204:1195
+
+msgid "Then, she opened her eyes."
+msgstr ""
+
+#: 40204:1196
+
+msgid "{Kazushi}\n\"Natsume-chan!!\""
+msgstr ""
+
+#: 40204:1197
+
+msgid "I called her name and Natsume-chan frowned."
+msgstr ""
+
+#: 40204:1198
+
+msgid "{Natsume}\n\"Haruma, you're too loud.\""
+msgstr ""
+
+#: 40204:1199
+
+msgid "{Kazushi}\n\"Huh? S-sorry.\""
+msgstr ""
+
+#: 40204:1200
+
+msgid "She was mad at me. Natsume-chan rubbed her eyes like she was still sleepy."
+msgstr ""
+
+#: 40204:1201
+
+msgid "{Kazushi}\n\"How do you feel? Is anything different?\""
+msgstr ""
+
+#: 40204:1202
+
+msgid "{Natsume}\n\"Is what different?\""
+msgstr ""
+
+#: 40204:1203
+
+msgid "She placed her hand on her chest."
+msgstr ""
+
+#: 40204:1204
+
+msgid "{Natsume}\n\"Ungh?!\""
+msgstr ""
+
+#: 40204:1205
+
+msgid "{Amamiya}\n\"Natsume?!\""
+msgstr ""
+
+#: 40204:1206
+
+msgid "{Kazushi}\n\"Natsume-chan?!\""
+msgstr ""
+
+#: 40204:1207
+
+msgid "{Natsume}\n\"Blood... Blood!\""
+msgstr ""
+
+#: 40204:1208
+
+msgid "{Kazushi}\n\"Blood? Don't tell me...\""
+msgstr ""
+
+#: 40204:1209
+
+msgid "Was she being controlled by the power of the stone?"
+msgstr ""
+
+#: 40204:1210
+
+msgid "{Amamiya}\n\"Haruma-kun, get back.\""
+msgstr ""
+
+#: 40204:1211
+
+msgid "Miya-san stepped in front of me."
+msgstr ""
+
+#: 40204:1212
+
+msgid "{Amamiya}\n\"I'll protect you, even if it takes my life!.\""
+msgstr ""
+
+#: 40204:1213
+
+msgid "The air became tense. Natsume-chan!!"
+msgstr ""
+
+#: 40204:1214
+
+msgid "{Natsume}\n\"Just kidding. It's a joke.\""
+msgstr ""
+
+#: 40204:1215
+
+msgid "{Amamiya}\n\"Huh?\""
+msgstr ""
+
+#: 40204:1216
+
+msgid "{Kazushi}\n\"A-a joke?\""
+msgstr ""
+
+#: 40204:1217
+
+msgid "Natsume-chan stuck her tongue out. That was the Natsume-chan I knew... Or was she little a bit more mischievous?"
+msgstr ""
+
+#: 40204:1218
+
+msgid "{Natsume}\n\"I'm perfectly fine. My breasts seem bigger though.\""
+msgstr ""
+
+#: 40204:1219
+
+msgid "{Amamiya}\n\"Are you sure? How do you feel?\""
+msgstr ""
+
+#: 40204:1220
+
+msgid "{Natsume}\n\"Fine. I'm not going to become a killing machine.\""
+msgstr ""
+
+#: 40204:1221
+
+msgid "{Amamiya}\n\"Oh, good...\""
+msgstr ""
+
+#: 40204:1222
+
+msgid "I felt relaxed. That was the Natsume-chan I knew, for certain."
+msgstr ""
+
+#: 40204:1223
+
+msgid "{Kazushi}\n\"Man. You scared me.\""
+msgstr ""
+
+#: 40204:1224
+
+msgid "{Natsume}\n\"Haruma, it's because you're slow. It's been half a month since then.\""
+msgstr ""
+
+#: 40204:1225
+
+msgid "She glared at me with sleepy eyes. She had tears in her eyes, so she wasn't as scary."
+msgstr ""
+
+#: 40204:1226
+
+msgid "{Kazushi}\n\"Sorry. But we finally meet for real.\""
+msgstr ""
+
+#: 40204:1227
+
+msgid "I only knew her in my dream, and the shadow of her. But I finally met the real Natsume-chan."
+msgstr ""
+
+#: 40204:1228
+
+msgid "{Natsume}\n\"Yes. Finally.\""
+msgstr ""
+
+#: 40204:1229
+
+msgid "Natsume-chan laughed. Her smile made me so happy, I forgot about Miya-san and hugged her tight."
+msgstr ""
+
+#: 40204:1230
+
+msgid "{Kazushi}\n\"Natsume-chan!\""
+msgstr ""
+
+#: 40204:1231
+
+msgid "{Natsume}\n\"Ugggh... I-I can't breathe...\""
+msgstr ""
+
+#: 40204:1232
+
+msgid "{Kazushi}\n\"Oh, sorry.\""
+msgstr ""
+
+#: 40204:1233
+
+msgid "Maybe it was too hard. She looked up in my arms, and her eyes stopped over my shoulders."
+msgstr ""
+
+#: 40204:1237
+
+msgid "{Amamiya}\n\"Oh...\""
+msgstr ""
+
+#: 40204:1242
+
+msgid "Miya-san froze as Natsume-chan looked at him. She withered him so instantly, it was hard to believe how brave he was a second ago."
+msgstr ""
+
+#: 40204:1243
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40204:1244
+
+msgid "{Amamiya}\n\"Uhh... umm...\""
+msgstr ""
+
+#: 40204:1245
+
+msgid "{Kazushi}\n\"Miya-san, say something.\""
+msgstr ""
+
+#: 40204:1248
+
+msgid "{Amamiya}\n\"Uh, umm...well...\""
+msgstr ""
+
+#: 40204:1251
+
+msgid "{Natsume}\n\"......!!\""
+msgstr ""
+
+#: 40204:1252
+
+msgid "Natsume-chan jumped suddenly as she glared at Miya-san."
+msgstr ""
+
+#: 40204:1253
+
+msgid "{Natsume}\n\"Stupid Papa!\""
+msgstr ""
+
+#: 40204:1254
+
+msgid "She clung to his neck and yelled out."
+msgstr ""
+
+#: 40204:1255
+
+msgid "{Natsume}\n\"Stupid! Worthless! That's why Mama ran out on you!\""
+msgstr ""
+
+#: 40204:1258
+
+msgid "{Amamiya}\n\"I-I'm sorry... Well, I'm sure sorry's not enough, but...\""
+msgstr ""
+
+#: 40204:1261
+
+msgid "{Natsume}\n\"Mama died.\""
+msgstr ""
+
+#: 40204:1264
+
+msgid "{Amamiya}\n\"What?\""
+msgstr ""
+
+#: 40204:1265
+
+msgid "{Natsume}\n\"I came here to tell you that.\""
+msgstr ""
+
+#: 40204:1268
+
+msgid "{Amamiya}\n\"Is that so? ...I see...\""
+msgstr ""
+
+#: 40204:1269
+
+msgid "Miya-san gave Natsume-chan a hug."
+msgstr ""
+
+#: 40204:1270
+
+msgid "{Amamiya}\n\"I'm sorry... I'm sorry, Natsume... Ahh...\""
+msgstr ""
+
+#: 40204:1273
+
+msgid "{Natsume}\n\"Stupid, I can't breathe... You smell old...\""
+msgstr ""
+
+#: 40204:1274
+
+msgid "Natsume-chan wiggled in Miya-san's arms. She was crying, but trying to hide it by acting mad."
+msgstr ""
+
+#: 40204:1275
+
+msgid "But Miya-san continued to hold Natsume-chan as she rested in his arms."
+msgstr ""
+
+#: 40204:1276
+
+msgid "I don't know how long it went on..."
+msgstr ""
+
+#: 40204:1279
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40204:1282
+
+msgid "Natsume-chan looked up, and our eyes met."
+msgstr ""
+
+#: 40204:1283
+
+msgid "{Kazushi}\n\"Welcome back.\""
+msgstr ""
+
+#: 40204:1284
+
+msgid "It just came out naturally. Natsume-chan looked surprised at first, but then smiled."
+msgstr ""
+
+#: 40204:1285
+
+msgid "It was the first time I saw her smile like that."
+msgstr ""
+
+#: 40204:1288
+
+msgid "{Natsume}\n\"...Yeah. I'm back.\""
+msgstr ""
+
+#: 40204:1289
+
+msgid "That was how we met for the first time as well as how we reunited."
+msgstr ""
+
+#: 40204:1296
+
+msgid "{Appo}\n\"There they are!\""
+msgstr ""
+
+#: 40204:1297
+
+msgid "{Haruka}\n\"Kazushi-kun!\""
+msgstr ""
+
+#: 40204:1298
+
+msgid "Everybody was waiting for us to come out of the cave."
+msgstr ""
+
+#: 40204:1302
+
+msgid "{Ran}\n\"Wow, that's the real live Natsume-chan?!\""
+msgstr ""
+
+#: 40204:1306
+
+msgid "{Sakura}\n\"Kyaaaaah! She's 3.5 times plumper than the fake one!\""
+msgstr ""
+
+#: 40204:1311
+
+msgid "{Natsume}\n\"Hey, don't pinch my cheeks. Don't come close, you're irritating.\""
+msgstr ""
+
+#: 40204:1313
+
+msgid "Everybody surrounded Natsume-chan in a second."
+msgstr ""
+
+#: 40204:1316
+
+msgid "{Natsume}\n\"Agh, I can't see. Papa!\""
+msgstr ""
+
+#: 40204:1321
+
+msgid "{Amamiya}\n\"What?\""
+msgstr ""
+
+#: 40204:1323
+
+msgid "Natsume-chan jumped on Miya-san's back, and climbed up to his shoulders like a monkey. She was riding on his shoulders."
+msgstr ""
+
+#: 40204:1324
+
+msgid "{Amamiya}\n\"Woah! N-Natsume, you're heavy?\""
+msgstr ""
+
+#: 40204:1325
+
+msgid "{Natsume}\n\"There, now I can see. Come on, go, go, hurry.\""
+msgstr ""
+
+#: 40204:1326
+
+msgid "{Amamiya}\n\"O-okay... uhh, yeah...\""
+msgstr ""
+
+#: 40204:1327
+
+msgid "Miya-san was thin, so he was staggering, but you could tell he was concentrating on not letting go of Natsume-chan as hard as he could."
+msgstr ""
+
+#: 40204:1328
+
+msgid "It was like watching him try to be the best dad he could be to make up for lost time."
+msgstr ""
+
+#: 40204:1329
+
+msgid "{Kazushi}\n\"Man. I'm jealous.\""
+msgstr ""
+
+#: 40204:1330
+
+msgid "I felt silly being jealous of her dad."
+msgstr ""
+
+#: 40204:1331
+
+msgid "{Kazushi}\n\"Oh...\""
+msgstr ""
+
+#: 40204:1332
+
+msgid "I looked up for no reason, and noticed a silhouette standing by the window in the lab building."
+msgstr ""
+
+#: 40204:1333
+
+msgid "It was the principal. She had a smile on her face as she looked down on Natsume-chan and everybody else."
+msgstr ""
+
+#: 40204:1334
+
+msgid "Was she happy about the father and daughter reunion?"
+msgstr ""
+
+#: 40204:1335
+
+msgid "Was that all?"
+msgstr ""
+
+#: 40204:1336
+
+msgid "It seemed like everything came about too easily, now that I think about it."
+msgstr ""
+
+#: 40204:1337
+
+msgid "What was the principal thinking about? Her quiet gaze seemed foreboding to me."
+msgstr ""
+

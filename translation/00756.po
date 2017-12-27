@@ -1,0 +1,203 @@
+# Comments for '00756'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 00756:10
+
+msgid "{Kazushi}\n\"Can I ask you a question?\""
+msgstr ""
+
+#: 00756:13
+
+msgid "{Mei}\n\"Sure. What is it?\""
+msgstr ""
+
+#: 00756:14
+
+msgid "{Kazushi}\n\"Is there anything you want?\""
+msgstr ""
+
+#: 00756:17
+
+msgid "{Mei}\n\"Nothing particularly.\""
+msgstr ""
+
+#: 00756:18
+
+msgid "That was fast."
+msgstr ""
+
+#: 00756:19
+
+msgid "{Kazushi}\n\"Nothing?\""
+msgstr ""
+
+#: 00756:20
+
+msgid "{Mei}\n\"I can't think of anything, but why are you asking me this?\""
+msgstr ""
+
+#: 00756:21
+
+msgid "I wasn't expecting that. That answer wouldn't help us at all."
+msgstr ""
+
+#: 00756:22
+
+msgid "{Kazushi}\n\"Nothing? Not designer bags or jewellery or anything?\""
+msgstr ""
+
+#: 00756:25
+
+msgid "{Mei}\n\"I'm not into that kind of stuff.\""
+msgstr ""
+
+#: 00756:26
+
+msgid "{Kazushi}\n\"I see......\""
+msgstr ""
+
+#: 00756:29
+
+msgid "{Mei}\n\"I'm a big believer in the philosophy that material goods will never satisfy your heart.\""
+msgstr ""
+
+#: 00756:30
+
+msgid "{Kazushi}\n\"All right......\""
+msgstr ""
+
+#: 00756:31
+
+msgid "What a selfless person. Maybe she's some kind of goddess?"
+msgstr ""
+
+#: 00756:32
+
+msgid "Oops. I'm here to get some ideas for our gift."
+msgstr ""
+
+#: 00756:33
+
+msgid "{Kazushi}\n\"It doesn't have to be a material good. It could be spiritual as well.\""
+msgstr ""
+
+#: 00756:36
+
+msgid "{Mei}\n\"Let's see. If I had to say...\""
+msgstr ""
+
+#: 00756:37
+
+msgid "{Kazushi}\n\"If you had to say?\""
+msgstr ""
+
+#: 00756:38
+
+msgid "{Mei}\n\"..................\""
+msgstr ""
+
+#: 00756:41
+
+msgid "{Mei}\n\"No, I can't think of anything. At least not something you can receive from anybody.\""
+msgstr ""
+
+#: 00756:42
+
+msgid "{Kazushi}\n\"What do you mean by that?\""
+msgstr ""
+
+#: 00756:43
+
+msgid "{Mei}\n\"No, it's nothing. I'm sorry I'm just a boring woman.\""
+msgstr ""
+
+#: 00756:44
+
+msgid "{Kazushi}\n\"No, that's not true at all. Sensei, I think you're terrific.\""
+msgstr ""
+
+#: 00756:47
+
+msgid "{Mei}\n\"Oh, why thank you. You're terrific too, Haruma-kun.\""
+msgstr ""
+
+#: 00756:48
+
+msgid "{Kazushi}\n\"Thanks......\""
+msgstr ""
+
+#: 00756:49
+
+msgid "Oh, no. I could feel my face turning red."
+msgstr ""
+
+#: 00756:50
+
+msgid "Mei-sensei really is a nice, mature, kind, and understanding person."
+msgstr ""
+
+#: 00756:51
+
+msgid "But I wonder what she was about to say earlier? She looked like there was something she wanted."
+msgstr ""
+
+#: 00756:54
+
+msgid "{Mei}\n\"Why are you asking me this?\nWere you going to give me a present?\""
+msgstr ""
+
+#: 00756:55
+
+msgid "{Kazushi}\n\"Oh, no, I was going to use it as reference.\""
+msgstr ""
+
+#: 00756:58
+
+msgid "{Mei}\n\"Oh, have you found a girl you like? Look at you.\""
+msgstr ""
+
+#: 00756:59
+
+msgid "{Kazushi}\n\"No! It's nothing like that.\""
+msgstr ""
+
+#: 00756:62
+
+msgid "{Mei}\n\"Oh, it's not? Well, if you're trying to give someone a present, it's not the present that matters.\""
+msgstr ""
+
+#: 00756:65
+
+msgid "{Mei}\n\"So long as you put your heart into choosing it, I think they'll be happy with anything.\""
+msgstr ""
+
+#: 00756:66
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 00756:67
+
+msgid "I'm sure that's something only Mei-sensei would think, while most others would never be so humble."
+msgstr ""
+
+#: 00756:68
+
+msgid "She's truly a good person."
+msgstr ""
+
+#: 00756:69
+
+msgid "...Although it didn't give me any good ideas."
+msgstr ""
+

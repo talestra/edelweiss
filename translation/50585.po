@@ -1,0 +1,738 @@
+# Comments for '50585'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 50585:7
+
+msgid "Our summer had nearly passed away. There were only a few more days before out hot summer came to an end."
+msgstr ""
+
+#: 50585:9
+
+msgid "{Mei}\n\"The breeze feels so good.\""
+msgstr ""
+
+#: 50585:10
+
+msgid "Mei seemed to be getting more and more beautiful lately. She was nearly perfect."
+msgstr ""
+
+#: 50585:11
+
+msgid "She doesn't have to become that beautiful. All I want is for her to be with me forever and ever, that's all."
+msgstr ""
+
+#: 50585:12
+
+msgid "However, as she gets more beautiful, she keeps intriguing me even more."
+msgstr ""
+
+#: 50585:13
+
+msgid "{Mei}\n\"The sky is beautiful, isn't it?\""
+msgstr ""
+
+#: 50585:14
+
+msgid "Mei was the one that's beautiful. Her eyes were like beautiful lakes, and the sky reflected in them was several times more beautiful than the real sky above me."
+msgstr ""
+
+#: 50585:15
+
+msgid "Maybe she was seeing this world a lot more beautifully than we do. Sometimes I couldn't help thinking that way."
+msgstr ""
+
+#: 50585:16
+
+msgid "I even felt like her gaze was making the world beautiful. Perhaps whether something is beautiful or tainted is determined by the heart of the beholder."
+msgstr ""
+
+#: 50585:17
+
+msgid "Mei's heart was certainly exceptionally beautiful. She was the greatest work God had created."
+msgstr ""
+
+#: 50585:18
+
+msgid "It was almost like the deep, rich flow of time was polishing the ore that was Mei into a beautiful gem."
+msgstr ""
+
+#: 50585:19
+
+msgid "{Mei}\n\"Your hand.\""
+msgstr ""
+
+#: 50585:20
+
+msgid "The next thing I knew, her slender white hand was being held out to me. I took her hand and gently held it back."
+msgstr ""
+
+#: 50585:21
+
+msgid "{Mei}\n\"Hee-hee.\""
+msgstr ""
+
+#: 50585:22
+
+msgid "Her small hand was entwined with mine. That innocent strength pulled me around behind her."
+msgstr ""
+
+#: 50585:23
+
+msgid "{Kazushi}\n\"You'll fall if you run like that.\""
+msgstr ""
+
+#: 50585:24
+
+msgid "{Mei}\n\"Then we'll be together when we do.\""
+msgstr ""
+
+#: 50585:25
+
+msgid "I felt like she was becoming more and more transparent as the days went by. She was so precious, and yet it was so heart-rending."
+msgstr ""
+
+#: 50585:26
+
+msgid "We both knew these days wouldn't continue on for much longer."
+msgstr ""
+
+#: 50585:31
+
+msgid "This was one of Mei's favorite places. By the time we'd had several dates, the place was filled with a carpet of white flowers."
+msgstr ""
+
+#: 50585:32
+
+msgid "I loved looking up at her as I lay my head down on her lap in the middle of that field filled with the white flowers."
+msgstr ""
+
+#: 50585:33
+
+msgid "{Kazushi}\n\".....................\""
+msgstr ""
+
+#: 50585:34
+
+msgid "{Mei}\n\"What?\""
+msgstr ""
+
+#: 50585:35
+
+msgid "She noticed my glance and asked me."
+msgstr ""
+
+#: 50585:36
+
+msgid "{Kazushi}\n\"I was just looking at you.\""
+msgstr ""
+
+#: 50585:37
+
+msgid "{Mei}\n\"You're silly. Why don't you ever fall asleep? I'm letting you use my lap.\""
+msgstr ""
+
+#: 50585:38
+
+msgid "She always seemed to complain about that. But it wasn't my fault - she was too beautiful for me to take my eyes off of her."
+msgstr ""
+
+#: 50585:39
+
+msgid "I also felt like she might disappear the moment I looked away since she became more transparent every day."
+msgstr ""
+
+#: 50585:40
+
+msgid "{Mei}\n\"What are you thinking about?\""
+msgstr ""
+
+#: 50585:41
+
+msgid "{Kazushi}\n\"Hmm, tonight's dinner.\""
+msgstr ""
+
+#: 50585:42
+
+msgid "{Mei}\n\"Ah, same as me, then.\""
+msgstr ""
+
+#: 50585:43
+
+msgid "{Kazushi}\n\"Huh? You were really thinking about dinner?\""
+msgstr ""
+
+#: 50585:44
+
+msgid "{Mei}\n\"What do you mean? Did you lie about thinking about dinner?\""
+msgstr ""
+
+#: 50585:45
+
+msgid "{Kazushi}\n\"Oh, no. I feel like curry tonight.\""
+msgstr ""
+
+#: 50585:46
+
+msgid "{Mei}\n\"Maybe curry with pork cutlet.\""
+msgstr ""
+
+#: 50585:47
+
+msgid "Mei sure ate well as usual. Maybe eating was keeping her in this world still.\n......Heh, how nice that'd be."
+msgstr ""
+
+#: 50585:48
+
+msgid "If that was the case, I would feed her a lot every single day and keep her here with me forever."
+msgstr ""
+
+#: 50585:49
+
+msgid "{Mei}\n\"Tears......\""
+msgstr ""
+
+#: 50585:50
+
+msgid "Mei wiped the corner of my eye. Her finger tip was wet."
+msgstr ""
+
+#: 50585:51
+
+msgid "{Kazushi}\n\"I'm sleepy.\""
+msgstr ""
+
+#: 50585:52
+
+msgid "{Mei}\n\"Then why don't you fall asleep?\""
+msgstr ""
+
+#: 50585:53
+
+msgid "{Kazushi}\n\"Kind of dozing off feels good.\""
+msgstr ""
+
+#: 50585:54
+
+msgid "I closed my eyes, but I wasn't really sleepy."
+msgstr ""
+
+#: 50585:55
+
+msgid "I only closed my eyes because it felt so nice and fluffy on Mei's lap. I really was just nodding off."
+msgstr ""
+
+#: 50585:56
+
+msgid "{Mei}\n\"Hee-hee...\""
+msgstr ""
+
+#: 50585:57
+
+msgid "Even with my eyes closed, I could tell Mei was looking down on me with a smile.\nI wonder if she thinks I'm really asleep."
+msgstr ""
+
+#: 50585:58
+
+msgid "{Mei}\n\"I think I was born to fall in love.\""
+msgstr ""
+
+#: 50585:59
+
+msgid "She whispered to no one in particular. I felt a special meaning behind those words and opened my eyes. Just as I thought, she was looking down on me with a smile."
+msgstr ""
+
+#: 50585:60
+
+msgid "{Kazushi}\n\"Did you remember something?\""
+msgstr ""
+
+#: 50585:61
+
+msgid "Did she remember something about herself? I don't know why, but I just felt that way."
+msgstr ""
+
+#: 50585:62
+
+msgid "{Mei}\n\"Once upon a time, there were two lovers who often came to this spot on a date.\""
+msgstr ""
+
+#: 50585:63
+
+msgid "{Kazushi}\n\"Uh-huh?\""
+msgstr ""
+
+#: 50585:64
+
+msgid "It didn't seem like it had anything to do with us. I didn't know what she was talking about, so I continued to listen."
+msgstr ""
+
+#: 50585:65
+
+msgid "{Mei}\n\"The two of them got along well and loved each other very much. Anyone who saw them could easily tell it was so. 'A human's 'love' is a very beautiful emotion,' she thought.\""
+msgstr ""
+
+#: 50585:66
+
+msgid "That last line sounded like it was Mei's own opinion, but this was supposed to be a fairy tale."
+msgstr ""
+
+#: 50585:67
+
+msgid "I couldn't see where Mei was going with this yet."
+msgstr ""
+
+#: 50585:68
+
+msgid "{Mei}\n\"'I want to know this beautiful emotion. I want to experience it,' she thought.\""
+msgstr ""
+
+#: 50585:69
+
+msgid "{Kazushi}\n\"You did?\""
+msgstr ""
+
+#: 50585:70
+
+msgid "{Mei}\n\"Who knows? ...I wonder who she is?\""
+msgstr ""
+
+#: 50585:71
+
+msgid "She giggled. Well, I guess it doesn't matter. Maybe it's one of those made up stories."
+msgstr ""
+
+#: 50585:72
+
+msgid "Mei continued."
+msgstr ""
+
+#: 50585:73
+
+msgid "{Mei}\n\"After that, a lot of things happened. She witnessed suffering and hardship. But still, her admiration towards the feeling of 'love' only grew stronger.\""
+msgstr ""
+
+#: 50585:74
+
+msgid "{Mei}\n\"Many days and many months passed, then finally her chance came. It was her chance to experience 'love'.\""
+msgstr ""
+
+#: 50585:75
+
+msgid "{Mei}\n\"And the one who gave her that chance, the one who led her to admire love, was herself.\""
+msgstr ""
+
+#: 50585:76
+
+msgid "Mei paused there and smiled."
+msgstr ""
+
+#: 50585:77
+
+msgid "{Mei}\n\"That's how the fairy tale goes.\""
+msgstr ""
+
+#: 50585:78
+
+msgid "That was the ending."
+msgstr ""
+
+#: 50585:79
+
+msgid "{Kazushi}\n\"I see, it's just a fairy tale.\""
+msgstr ""
+
+#: 50585:80
+
+msgid "{Mei}\n\"Yep, just a fairy tale. I looked into lots of them.\""
+msgstr ""
+
+#: 50585:81
+
+msgid "I really wasn't interested in finding out if what she was telling was merely a fairy tale or if it was suggesting some kind of truth."
+msgstr ""
+
+#: 50585:82
+
+msgid "But every single word that came from Mei was more precious to me than anything else. I wasn't going to miss even a single word from her."
+msgstr ""
+
+#: 50585:83
+
+msgid "So I always listened to her very carefully."
+msgstr ""
+
+#: 50585:84
+
+msgid "{Mei}\n\"Then she fell in love.\""
+msgstr ""
+
+#: 50585:85
+
+msgid "{Kazushi}\n\"I see. Then did she find out what it's like to be in love?\""
+msgstr ""
+
+#: 50585:86
+
+msgid "That's what Mei wanted to know. That's what I promised her I would let her experience."
+msgstr ""
+
+#: 50585:87
+
+msgid "Mei thought for a moment and then smiled mischievously."
+msgstr ""
+
+#: 50585:89
+
+msgid "{Mei}\n\"It's a secret.\""
+msgstr ""
+
+#: 50585:90
+
+msgid "Her radiant smile almost made me cry. So, Mei's prediction was right."
+msgstr ""
+
+#: 50585:91
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 50585:92
+
+msgid "{Mei}\n\"Yes. Thank you.\""
+msgstr ""
+
+#: 50585:94
+
+msgid "She brought her face close and over mine, gently pecking me on my lips. They barely touched, but it was incredible kiss."
+msgstr ""
+
+#: 50585:95
+
+msgid "I probably will never feel such an impressionable kiss ever again in my life."
+msgstr ""
+
+#: 50585:97
+
+msgid "{Mei}\n\"Can I ask you one final favor?\""
+msgstr ""
+
+#: 50585:98
+
+msgid "{Kazushi}\n\"Of course.\""
+msgstr ""
+
+#: 50585:99
+
+msgid "I gave her an immediate reply. I will do whatever she wants me to do right now."
+msgstr ""
+
+#: 50585:100
+
+msgid "{Mei}\n\"I wasn't really Ibuki Mei-san, was I?\""
+msgstr ""
+
+#: 50585:101
+
+msgid "Mei was never Ibuki Mei-san. She was an artificial existence, made to look like Ibuki Mei."
+msgstr ""
+
+#: 50585:102
+
+msgid "The experiment to revive Ibuki Mei ended in failure, and gave birth to Mei."
+msgstr ""
+
+#: 50585:103
+
+msgid "{Mei}\n\"I've already grown used to it, but isn't it a little strange to give someone else's name when naming yourself? So, I want a new name.\""
+msgstr ""
+
+#: 50585:104
+
+msgid "{Kazushi}\n\"A new name?\""
+msgstr ""
+
+#: 50585:105
+
+msgid "I had no idea that her favor was something that humble."
+msgstr ""
+
+#: 50585:106
+
+msgid "{Kazushi}\n\"You want me to name you?\""
+msgstr ""
+
+#: 50585:107
+
+msgid "{Mei}\n\"Yes, I want you to name me, Kazushi-kun.\""
+msgstr ""
+
+#: 50585:108
+
+msgid "{Kazushi}\n\"I see. Then I'll have to give you a good name.\""
+msgstr ""
+
+#: 50585:109
+
+msgid "What would be good? It's hard to come up with something nice all of a sudden."
+msgstr ""
+
+#: 50585:110
+
+msgid "Shouldn't I really look into things like stroke counts and stuff?"
+msgstr ""
+
+#: 50585:111
+
+msgid "{Kazushi}\n\"Can that be homework?\""
+msgstr ""
+
+#: 50585:112
+
+msgid "{Mei}\n\"No. I want it now, because...\""
+msgstr ""
+
+#: 50585:113
+
+msgid "She started to say something and stopped, but I knew what she was going to say. She might not have another chance."
+msgstr ""
+
+#: 50585:114
+
+msgid "{Kazushi}\n\"Okay, then I need to give you one now, huh?\""
+msgstr ""
+
+#: 50585:115
+
+msgid "I thought seriously. What would be a good name for Mei?"
+msgstr ""
+
+#: 50585:116
+
+msgid "{Mei}\n\"I wonder what you will come up with?\""
+msgstr ""
+
+#: 50585:117
+
+msgid "She looked at me with such anticipation I felt pressured."
+msgstr ""
+
+#: 50585:118
+
+msgid "{Kazushi}\n\"Well, first off, the last name can be Haruma, right?\""
+msgstr ""
+
+#: 50585:119
+
+msgid "{Mei}\n\"What? That's cutting corners!!\""
+msgstr ""
+
+#: 50585:120
+
+msgid "{Kazushi}\n\"We'll have the same last name eventually, so why not?\""
+msgstr ""
+
+#: 50585:121
+
+msgid "{Mei}\n\"That's kind of high-handed. Oh, well. Then my first name?\""
+msgstr ""
+
+#: 50585:122
+
+msgid "{Kazushi}\n\"Your first name, let's see...\""
+msgstr ""
+
+#: 50585:123
+
+msgid "The first name is the challenge. Right now, it's Mei........."
+msgstr ""
+
+#: 50585:124
+
+msgid "{Kazushi}\n\"Oh, I know!\""
+msgstr ""
+
+#: 50585:125
+
+msgid "I came up with something. I told it to Mei."
+msgstr ""
+
+#: 50585:126
+
+msgid "{Mei}\n\"Ok, I like that!\""
+msgstr ""
+
+#: 50585:127
+
+msgid "Mei nodded as if she really liked it. Then she repeated the name many times to herself, savoring it."
+msgstr ""
+
+#: 50585:128
+
+msgid "{Mei}\n\"Thank you, I will treasure it.\""
+msgstr ""
+
+#: 50585:132
+
+msgid "Our summer break was over and the second semester started. There were little changes from before."
+msgstr ""
+
+#: 50585:136
+
+msgid "{Principal}\n\"My name is Aozora, and starting this semester, I will be in charge of this class. I know this change has come in the middle of the year, but I hope we can all get along well.\""
+msgstr ""
+
+#: 50585:139
+
+msgid "The principal was in charge of us now. It had been decades since she last taught, but I imagine the events with Mei had an influence on her."
+msgstr ""
+
+#: 50585:142
+
+msgid "The library no longer has a bibliosoph. Instead, we have students in charge of it."
+msgstr ""
+
+#: 50585:143
+
+msgid "I volunteered myself to be one."
+msgstr ""
+
+#: 50585:146
+
+msgid "{Kazushi}\n\"Hmm, I see.\""
+msgstr ""
+
+#: 50585:147
+
+msgid "Even now, I still research this island's folklore from time to time."
+msgstr ""
+
+#: 50585:149
+
+msgid "{Kazushi}\n\"Oh, this is...\""
+msgstr ""
+
+#: 50585:150
+
+msgid "There was one folktale amongst them that especially caught my eyes."
+msgstr ""
+
+#: 50585:151
+
+msgid "{Kazushi}\n\"The Legend of Eiden Island's Goddess...\""
+msgstr ""
+
+#: 50585:152
+
+msgid "Long ago, Eiden Island was regarded as sacred and believed to be the island where a goddess of unparalleled beauty resided."
+msgstr ""
+
+#: 50585:153
+
+msgid "She was once a human who was courted by countless men for her great beauty, yet she refused to marry any of them, and was turned into a goddess."
+msgstr ""
+
+#: 50585:154
+
+msgid "{Kazushi}\n\"What a strange story... But was she really that beautiful? Well, I'm sure Mei is even more beautiful.\""
+msgstr ""
+
+#: 50585:155
+
+msgid "{Kazushi}\n\"Right, Mei?\""
+msgstr ""
+
+#: 50585:156
+
+msgid "I whispered her name, thinking she might suddenly appear if I called her."
+msgstr ""
+
+#: 50585:157
+
+msgid "....................."
+msgstr ""
+
+#: 50585:158
+
+msgid "Of course, there was no reply."
+msgstr ""
+
+#: 50585:161
+
+msgid "Since then, the flowed bed has been in constant bloom. It wasn't long before autumn would really start setting in, but this one place continued to look like spring."
+msgstr ""
+
+#: 50585:162
+
+msgid "I lay down, burying myself in the flowers and looking up at the sky."
+msgstr ""
+
+#: 50585:164
+
+msgid "{Kazushi}\n\"Wow, such a vast, clear sky.\""
+msgstr ""
+
+#: 50585:165
+
+msgid "It's still hot most days, but the sky was definitely an autumn sky."
+msgstr ""
+
+#: 50585:166
+
+msgid "Autumn came, winter came, and then spring and summer came again. Whenever I thought about the natural changing of seasons, my mind drifted afar."
+msgstr ""
+
+#: 50585:167
+
+msgid "How many seasons will I have to spend without Mei from now on?"
+msgstr ""
+
+#: 50585:168
+
+msgid "{Kazushi}\n\"This is tough.\""
+msgstr ""
+
+#: 50585:169
+
+msgid "Mei is no longer here.\nThe person I loved the most is no longer anywhere.\nThat's the reality of it."
+msgstr ""
+
+#: 50585:170
+
+msgid "As time goes by, the feeling of loss seems to weigh even heavier on me. Sometimes I feel like the weight of that reality will crush me."
+msgstr ""
+
+#: 50585:171
+
+msgid "But I don't want to go back and redo things. It may have only been a short time, but I can say with confidence that we were truly happy."
+msgstr ""
+
+#: 50585:172
+
+msgid "I will never forget the time we spent together. The memories from those days will radiantly live forever in my heart."
+msgstr ""
+
+#: 50585:173
+
+msgid "So........."
+msgstr ""
+
+#: 50585:174
+
+msgid "{Kazushi}\n\"Goodbye, Mei.\""
+msgstr ""
+
+#: 50585:175
+
+msgid "So I will say goodbye with a smile..."
+msgstr ""
+

@@ -1,0 +1,413 @@
+# Comments for '03505'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 03505:7
+
+msgid "{Kazushi}\n\"I hope there's still some food left for me...\""
+msgstr ""
+
+#: 03505:8
+
+msgid "It was almost 2PM. I know it's summer break, but I really slept late."
+msgstr ""
+
+#: 03505:9
+
+msgid "{Kazushi}\n\"I slept for over ten hours... No wonder I'm so hungry.\""
+msgstr ""
+
+#: 03505:10
+
+msgid "I'd starve to death if I didn't get to eat anything until dinner. Unfortunately, I didn't see anybody at the counter."
+msgstr ""
+
+#: 03505:11
+
+msgid "None of the old cafeteria ladies who usually ladled out our lunch with a smile were there."
+msgstr ""
+
+#: 03505:12
+
+msgid "{Kazushi}\n\"Hello.\nIs anyone working!!?\nI'm starving!!\""
+msgstr ""
+
+#: 03505:13
+
+msgid "I made a pitiful voice, hoping somebody would hear me in the kitchen."
+msgstr ""
+
+#: 03505:14
+
+msgid "{Cafeteria Lady}\n\"Oh, hi.\nYou missed your lunch?\""
+msgstr ""
+
+#: 03505:15
+
+msgid "The old lady had changed out of her apron and into her casual clothes, but that didn't stop me from begging her."
+msgstr ""
+
+#: 03505:16
+
+msgid "{Kazushi}\n\"I didn't eat anything this morning. I'm dying!!\""
+msgstr ""
+
+#: 03505:17
+
+msgid "{Cafeteria Lady}\n\"You must be.\nYou should've woken up earlier.\nIt's your own fault.\""
+msgstr ""
+
+#: 03505:18
+
+msgid "{Kazushi}\n\"I wasn't sleeping!\nI was doing Mei-sensei a favour and cleaning up the library!\""
+msgstr ""
+
+#: 03505:19
+
+msgid "{Mei}\n\"I don't recall asking that favor of you.\""
+msgstr ""
+
+#: 03505:20
+
+msgid "Shit!"
+msgstr ""
+
+#: 03505:21
+
+msgid "I snapped my head around while freaking out."
+msgstr ""
+
+#: 03505:26
+
+msgid "There was Mei-sensei, head of the library, enjoying her meal."
+msgstr ""
+
+#: 03505:27
+
+msgid "{Mei}\n\"You even had to skip your lunch to help me out. I feel so terrible.\""
+msgstr ""
+
+#: 03505:28
+
+msgid "{Kazushi}\n\"N-no... don't. I'm perfectly fine.\""
+msgstr ""
+
+#: 03505:31
+
+msgid "{Mei}\n\"Don't say that. Haruma-kun, you look hungry, so let me treat you to lunch.\""
+msgstr ""
+
+#: 03505:32
+
+msgid "{Kazushi}\n\"No! You don't have to do it.\""
+msgstr ""
+
+#: 03505:33
+
+msgid "I was sleeping in! If I let her buy me lunch, who knows what the repercussions will be?"
+msgstr ""
+
+#: 03505:36
+
+msgid "{Mei}\n\"I think you should let me buy your lunch. After all, the result's going to be the same.\""
+msgstr ""
+
+#: 03505:37
+
+msgid "{Kazushi}\n\"It is?\""
+msgstr ""
+
+#: 03505:38
+
+msgid "Whether I reject her offer or not, it looks like I'll be spending the afternoon doing chores for her."
+msgstr ""
+
+#: 03505:39
+
+msgid "{Mei}\n\"What do you say?\""
+msgstr ""
+
+#: 03505:40
+
+msgid "She never dropped her smile, which didn't exactly make me happy at the moment."
+msgstr ""
+
+#: 03505:41
+
+msgid "{Kazushi}\n\"......thank you.\""
+msgstr ""
+
+#: 03505:42
+
+msgid "I should at least eat and get some energy for whatever she's going to make me do."
+msgstr ""
+
+#: 03505:45
+
+msgid "{Kazushi}\n\"Let's get it on!!\""
+msgstr ""
+
+#: 03505:48
+
+msgid "{Mei}\n\"You're so energetic! It seems like it was worth treating you to lunch.\""
+msgstr ""
+
+#: 03505:49
+
+msgid "I had fresh energy from lunch, but I also calmed down and realized something important: we cleaned the library right before the start of summer break."
+msgstr ""
+
+#: 03505:50
+
+msgid "It shouldn't be a lot of work."
+msgstr ""
+
+#: 03505:51
+
+msgid "{Kazushi}\n\"So where do we start?\""
+msgstr ""
+
+#: 03505:52
+
+msgid "I asked her, knowing there wasn't too much to do."
+msgstr ""
+
+#: 03505:55
+
+msgid "{Mei}\n\"Actually, I'd like to ask you to do some carpentry. The shelf over there is broken.\""
+msgstr ""
+
+#: 03505:56
+
+msgid "I followed her eyes to the deep end of the room."
+msgstr ""
+
+#: 03505:57
+
+msgid "{Kazushi}\n\"My......\""
+msgstr ""
+
+#: 03505:58
+
+msgid "There was a bookshelf in the far corner of the room which was literally crumbling apart. The books that had fallen out just lay there on the floor."
+msgstr ""
+
+#: 03505:61
+
+msgid "{Mei}\n\"It's too heavy for me to move it by myself.\""
+msgstr ""
+
+#: 03505:62
+
+msgid "Of course it was. There was a load of magic tomes as thick as phone books resting on it."
+msgstr ""
+
+#: 03505:63
+
+msgid "{Kazushi}\n\"Let me start by picking up the fallen books.\""
+msgstr ""
+
+#: 03505:64
+
+msgid "After that I'll need to repair the shelves, put the books back, and clean up..."
+msgstr ""
+
+#: 03505:65
+
+msgid "I think it's going to take my entire afternoon."
+msgstr ""
+
+#: 03505:66
+
+msgid "I already used half of my day sleeping, and now I'm going to use the rest for this."
+msgstr ""
+
+#: 03505:67
+
+msgid "{Kazushi}\n\"I'll start with these books.\""
+msgstr ""
+
+#: 03505:68
+
+msgid "Oh well. She bought me lunch, and it's my fault for oversleeping."
+msgstr ""
+
+#: 03505:71
+
+msgid "{Mei}\n\"I'm so glad you're helping me out. We really needed to get some boys like you in.\""
+msgstr ""
+
+#: 03505:72
+
+msgid "{Kazushi}\n\"No worries. This is piece of cake for me.\""
+msgstr ""
+
+#: 03505:73
+
+msgid "I acted tough, but I really would've been better off doing this before lunch. Getting paid in advance halved my motivation."
+msgstr ""
+
+#: 03505:76
+
+msgid "{Mei}\n\"Thanks again. I'll pay you back for this when we're finished.\""
+msgstr ""
+
+#: 03505:77
+
+msgid "{Kazushi}\n\"Eh? But you've already bought me lunch...\""
+msgstr ""
+
+#: 03505:80
+
+msgid "{Mei}\n\"That's because you were stumbling around due to hunger. That's why I thought I'd help you get some energy back.\""
+msgstr ""
+
+#: 03505:83
+
+msgid "{Mei}\n\"But it takes more than just a meal to motivate you, right?\""
+msgstr ""
+
+#: 03505:84
+
+msgid "She read me like a book. Mei-sensei was really good at understanding how I feel."
+msgstr ""
+
+#: 03505:85
+
+msgid "{Kazushi}\n\"No, a meal was enough.\nI'm glad that I can help you out.\""
+msgstr ""
+
+#: 03505:86
+
+msgid "I actually did feel glad that I could. I really wanted to be encouraged and make myself of more use to her like this."
+msgstr ""
+
+#: 03505:87
+
+msgid "{Kazushi}\n\"You can count on me!!\""
+msgstr ""
+
+#: 03505:92
+
+msgid "{Kazushi}\n\"Finally......\""
+msgstr ""
+
+#: 03505:93
+
+msgid "It was almost getting dark by the time we finished everything."
+msgstr ""
+
+#: 03505:96
+
+msgid "{Mei}\n\"Great job. Here's a towel.\""
+msgstr ""
+
+#: 03505:97
+
+msgid "She handed me a cold towel she'd prepared for me in advance. It was nice and cool."
+msgstr ""
+
+#: 03505:100
+
+msgid "{Mei}\n\"It turned out much better than I expected. I didn't know you were so good with your hands, Haruma-kun. Reliable guys like that are wonderful.\""
+msgstr ""
+
+#: 03505:101
+
+msgid "She knew how to make me happy."
+msgstr ""
+
+#: 03505:102
+
+msgid "{Kazushi}\n\"You really mean what you said?\""
+msgstr ""
+
+#: 03505:105
+
+msgid "{Mei}\n\"Of course I do. You should be more confident about yourself.\""
+msgstr ""
+
+#: 03505:106
+
+msgid "Her smile made me wanna believe her."
+msgstr ""
+
+#: 03505:109
+
+msgid "{Mei}\n\"Thanks again. I'm glad you're here for me.\""
+msgstr ""
+
+#: 03505:110
+
+msgid "{Kazushi}\n\"How did you take care of problems like this before the boys got here?\""
+msgstr ""
+
+#: 03505:111
+
+msgid "{Mei}\n\"We used to have to ask someone from the town to come help. Like the older man from the general store who comes and goes.\""
+msgstr ""
+
+#: 03505:112
+
+msgid "{Kazushi}\n\"General store? ...Oh.\""
+msgstr ""
+
+#: 03505:113
+
+msgid "Miya-san, that was his name."
+msgstr ""
+
+#: 03505:114
+
+msgid "{Kazushi}\n\"But I don't remember him hiring anyone else. Wasn't it hard for him to leave the shop empty and come help you out?\""
+msgstr ""
+
+#: 03505:117
+
+msgid "{Mei}\n\"That was the problem. We always had to wait until he had a day off first.\""
+msgstr ""
+
+#: 03505:120
+
+msgid "{Mei}\n\"Besides, he's not as reliable as you are.\""
+msgstr ""
+
+#: 03505:121
+
+msgid "Mei-sensei spoke with a bitter smile. He sure didn't seem so reliable..."
+msgstr ""
+
+#: 03505:124
+
+msgid "{Mei}\n\"It's a big comfort to have boys like you here with us. There's all these inconveniences, plus it's dangerous with just girls. Just having you guys here puts us at ease.\""
+msgstr ""
+
+#: 03505:125
+
+msgid "{Kazushi}\n\"Thanks......\""
+msgstr ""
+
+#: 03505:126
+
+msgid "Even I felt bashful after sensei went that far. I couldn't help but grin."
+msgstr ""
+
+#: 03505:129
+
+msgid "{Mei}\n\"Can I ask you for some more favors during summer break?\""
+msgstr ""
+
+#: 03505:130
+
+msgid "Her big attractive eyes were peering into my soul. I felt like she could suck my whole body into her eyes."
+msgstr ""
+

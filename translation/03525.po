@@ -1,0 +1,43 @@
+# Comments for '03525'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 03525:5
+
+msgid "Is this all a part of her plan? I don't mind doing her a favor, but I should at least act like I'm not a pushover."
+msgstr ""
+
+#: 03525:6
+
+msgid "{Kazushi}\n\"Do I get something in return next time?\""
+msgstr ""
+
+#: 03525:7
+
+msgid "She responded to me with a smile."
+msgstr ""
+
+#: 03525:11
+
+msgid "{Mei}\n\"Oh yes, I haven't thanked you yet, have I? What would you like?\""
+msgstr ""
+
+#: 03525:12
+
+msgid "{Kazushi}\n\"Let's see.\""
+msgstr ""
+
+#: 03525:13
+
+msgid "The sunset lit up Mei-sensei in madder red as she looked at me, waiting for my answer. I pretended to think for a bit, so that I could watch her a little longer."
+msgstr ""
+

@@ -1,0 +1,2128 @@
+# Comments for '01706'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 01706:8
+
+msgid "{Principal}\n\"Today we're going to clean the entire school.\""
+msgstr ""
+
+#: 01706:9
+
+msgid "I was wondering why we were all gathered here this morning when she told us that."
+msgstr ""
+
+#: 01706:13
+
+msgid "{Pierre}\n\"Having a cleaning day on our day off!? That's so not cool!\""
+msgstr ""
+
+#: 01706:18
+
+msgid "{Daigo}\n\"I've heard it's tradition to do this every year before summer break.\""
+msgstr ""
+
+#: 01706:19
+
+msgid "{Kazushi}\n\"We've still got ten days before break, don't we? Isn't this a bit early?\""
+msgstr ""
+
+#: 01706:23
+
+msgid "{Ran}\n\"It was this time last year, too. Why do they always have it right before finals?\""
+msgstr ""
+
+#: 01706:24
+
+msgid "{Pierre}\n\"Agh, there's finals, too? They really don't need to make us do this right now.\""
+msgstr ""
+
+#: 01706:28
+
+msgid "{Daigo}\n\"It's not like we've ever studied for finals anyways.\""
+msgstr ""
+
+#: 01706:33
+
+msgid "{Sakura}\n\"Oh, hey guys, why don't we all study together?\""
+msgstr ""
+
+#: 01706:34
+
+msgid "Sakura seemed really proud of her idea."
+msgstr ""
+
+#: 01706:39
+
+msgid "{Pierre}\n\"Study, huh? I guess it wouldn't be that bad with a bunch of girls.\""
+msgstr ""
+
+#: 01706:43
+
+msgid "{Appo}\n\"Are you sure, though? We might end up studying something else, you know?\""
+msgstr ""
+
+#: 01706:46
+
+msgid "{Sakura}\n\"Huh? Study what else?\""
+msgstr ""
+
+#: 01706:50
+
+msgid "{Fuusen}\n\"Hey, Sakura.\""
+msgstr ""
+
+#: 01706:54
+
+msgid "{Sakura}\n\"......what!?\""
+msgstr ""
+
+#: 01706:58
+
+msgid "Andou's hands reached out and grabbed Sakura's face, pressing her cheeks until she looked like a drowned goldfish."
+msgstr ""
+
+#: 01706:59
+
+msgid "{Sakura}\n\"Fw-fwah're hoo hoin?!\""
+msgstr ""
+
+#: 01706:63
+
+msgid "{Fuusen}\n\"We're still in morning assembly, so face forward.\""
+msgstr ""
+
+#: 01706:67
+
+msgid "{Andou}\n\"That's right! It's bad manners not to. We are the ladies of Eiden Academy. We must act ladylike.\""
+msgstr ""
+
+#: 01706:68
+
+msgid "{Sakura}\n\"I heh ih! I heh ih alweahy!\""
+msgstr ""
+
+#: 01706:73
+
+msgid "{Fuusen}\n\"Hmph.\""
+msgstr ""
+
+#: 01706:75
+
+msgid "Andou finally took her hands off of Sakura. Then, after a mean glance over at us, both her and Fuusen looked forward."
+msgstr ""
+
+#: 01706:78
+
+msgid "{Pierre}\n\"Those two aren't very nice.\""
+msgstr ""
+
+#: 01706:83
+
+msgid "{Daigo}\n\"Don't bother. They've always being mean.\""
+msgstr ""
+
+#: 01706:84
+
+msgid "{Kazushi}\n\"Daigo's right.\""
+msgstr ""
+
+#: 01706:85
+
+msgid "Nobody wanted a fight. It's always easiest just to ignore mean people."
+msgstr ""
+
+#: 01706:90
+
+msgid "{Principal}\n\"Now, please return to your classrooms and follow your homeroom instructor's directions.\""
+msgstr ""
+
+#: 01706:91
+
+msgid "The morning assembly was over before we knew it."
+msgstr ""
+
+#: 01706:99
+
+msgid "{Appo}\n\"Good, good, okay, set it down.\""
+msgstr ""
+
+#: 01706:100
+
+msgid "{Kazushi}\n\"One, two!\""
+msgstr ""
+
+#: 01706:105
+
+msgid "{Daigo}\n\"Three!\""
+msgstr ""
+
+#: 01706:107
+
+msgid "A massive cloud of dust whooshed through the air as we moved a heavy bookshelf. All the girls looking on raised a cheer."
+msgstr ""
+
+#: 01706:110
+
+msgid "{Rin}\n\"Amazing! That's boys for you. You carried it so easily!\""
+msgstr ""
+
+#: 01706:115
+
+msgid "{Sakura}\n\"We could never move that before. It's so different with men around!\""
+msgstr ""
+
+#: 01706:119
+
+msgid "{Pierre}\n\"You're finally starting to understand us? But, don't you think you're a little late in realizing that?\""
+msgstr ""
+
+#: 01706:122
+
+msgid "{Pierre}\n\"We should get to know each other more. Why don't we have a mixer sometime soon?\""
+msgstr ""
+
+#: 01706:127
+
+msgid "{Yagami}\n\"Hey, stop hitting on your classmates without a good reason!\""
+msgstr ""
+
+#: 01706:128
+
+msgid "{Kazushi}\n\"Come on; let us run with it a little!\""
+msgstr ""
+
+#: 01706:129
+
+msgid "We haven't had much luck around them before, but I'm glad we stuck through it now."
+msgstr ""
+
+#: 01706:133
+
+msgid "{Appo}\n\"I feel like crying, I never thought they'd appreciate us so much......\""
+msgstr ""
+
+#: 01706:134
+
+msgid "{Kazushi}\n\"Go ahead. Cry as much as you want.\""
+msgstr ""
+
+#: 01706:139
+
+msgid "{Pierre}\n\"Kazushi, are you crying already? What are you doing crying just because the girls made a little fuss over you?\""
+msgstr ""
+
+#: 01706:142
+
+msgid "{Appo}\n\"You'll never understand, Pierre! You're an amateur! That old hooker was nice, wasn't she!\""
+msgstr ""
+
+#: 01706:145
+
+msgid "{Pierre}\n\"Don't say that so loud! They'll think it's true!\""
+msgstr ""
+
+#: 01706:150
+
+msgid "{Daigo}\n\"Anything else we can help with?\""
+msgstr ""
+
+#: 01706:155
+
+msgid "{Appo}\n\"Anything! I'll do anything!!\""
+msgstr ""
+
+#: 01706:159
+
+msgid "{Rin}\n\"Then could you get rid of all those disgusting green caterpillars in the field?\""
+msgstr ""
+
+#: 01706:163
+
+msgid "{Daigo}\n\"I can do that. I'll even nurture them until they've turned into butterflies.\""
+msgstr ""
+
+#: 01706:166
+
+msgid "{Rin}\n\"What? They become butterflies? Like the story of the ugly duckling?\""
+msgstr ""
+
+#: 01706:167
+
+msgid "I never knew that girls were so ignorant about this stuff. It's kind of cute."
+msgstr ""
+
+#: 01706:174
+
+msgid "{Pierre}\n\"All right. Well, Daigo, teach her what you know.\""
+msgstr ""
+
+#: 01706:177
+
+msgid "{Daigo}\n\"I'll teach it so simply that even a monkey would understand.\""
+msgstr ""
+
+#: 01706:180
+
+msgid "{Rin}\n\"I don't like the way you put that, but... Sakura, would you like to join us?\""
+msgstr ""
+
+#: 01706:187
+
+msgid "{Sakura}\n\"It might be dangerous if I come? You know some people get the urge to tease the one they like?\""
+msgstr ""
+
+#: 01706:188
+
+msgid "Sakura was definitely planning to tease Fujisaki-san with the caterpillars."
+msgstr ""
+
+#: 01706:191
+
+msgid "{Rin}\n\"That wouldn't be teasing, that would be bullying. You don't have to come with us.\""
+msgstr ""
+
+#: 01706:194
+
+msgid "{Sakura}\n\"I'm only kidding! I won't tease you, so take me with you guys!\""
+msgstr ""
+
+#: 01706:199
+
+msgid "{Daigo}\n\"We'll be back soon......\""
+msgstr ""
+
+#: 01706:200
+
+msgid "He's already nervous."
+msgstr ""
+
+#: 01706:205
+
+msgid "{Pierre}\n\"Let me go with you guys just in case.\""
+msgstr ""
+
+#: 01706:206
+
+msgid "{Daigo}\n\"Thanks!\""
+msgstr ""
+
+#: 01706:210
+
+msgid "{Pierre}\n\"Who else wants to go to the garden and hear a lecture on butterflies from Daigo?\""
+msgstr ""
+
+#: 01706:211
+
+msgid "{Girl 1}\n\"I wanna go!\""
+msgstr ""
+
+#: 01706:212
+
+msgid "{Girl 2}\n\"Me too!\""
+msgstr ""
+
+#: 01706:214
+
+msgid "A few more girls showed their interest. Daigo and Pierre looked as happy as could be as they led the girls out."
+msgstr ""
+
+#: 01706:215
+
+msgid "{Kazushi}\n\"I didn't expect that.\""
+msgstr ""
+
+#: 01706:218
+
+msgid "{Haruka}\n\"It's great. Everybody's starting to get along.\""
+msgstr ""
+
+#: 01706:219
+
+msgid "{Kazushi}\n\"I thought we were hated, but I guess that's not so?\""
+msgstr ""
+
+#: 01706:220
+
+msgid "The change would be too fast if they had hated us."
+msgstr ""
+
+#: 01706:224
+
+msgid "{Ran}\n\"We've never disliked you guys, have we, Mizuki?\""
+msgstr ""
+
+#: 01706:229
+
+msgid "{Mizuki}\n\"We just didn't know how to get along with you, I think. That's how it was for me.\""
+msgstr ""
+
+#: 01706:233
+
+msgid "{Appo}\n\"If I'd known this, I wouldn't have skipped cleaning duty. I could've shown off my appeal even earlier.\""
+msgstr ""
+
+#: 01706:236
+
+msgid "{Mizuki}\n\"So you didn't do your part before......\""
+msgstr ""
+
+#: 01706:240
+
+msgid "{Ran}\n\"Appo, you shouldn't have said anything.\""
+msgstr ""
+
+#: 01706:243
+
+msgid "{Appo}\n\"Well anyways, from now on, let us do the manual labor. Men and women each have our different specialties after all. We should continue to help each other out.\""
+msgstr ""
+
+#: 01706:250
+
+msgid "{Fuusen}\n\"Hmph. Somebody's in a good mood.\""
+msgstr ""
+
+#: 01706:251
+
+msgid "As if on cue, the two girls who always looked down on us made an appearance."
+msgstr ""
+
+#: 01706:255
+
+msgid "{Appo}\n\"Hello, Fuusen Kazuko-san.\""
+msgstr ""
+
+#: 01706:256
+
+msgid "Unlike usual, Appo didn't make an effort to be unfriendly towards Fuusen like he usually did. That just goes to show how good his mood is today."
+msgstr ""
+
+#: 01706:257
+
+msgid "{Fuusen}\n\"What're you smiling about? Are you making fun of us?\""
+msgstr ""
+
+#: 01706:258
+
+msgid "{Appo}\n\"No, not at all. More importantly, what are you two cleaning? Do you need any help?\""
+msgstr ""
+
+#: 01706:261
+
+msgid "{Fuusen}\n\"What's with that? Treating us as surplus. How rude.\""
+msgstr ""
+
+#: 01706:265
+
+msgid "{Andou}\n\"That's right. We don't need help from any men.\""
+msgstr ""
+
+#: 01706:269
+
+msgid "{Fuusen}\n\"Enjoy being on cloud nine while you can. Be careful not to fall back to earth.\""
+msgstr ""
+
+#: 01706:272
+
+msgid "With that parting remark, they fled out the door. Silence was left behind them."
+msgstr ""
+
+#: 01706:275
+
+msgid "{Haruka}\n\"Oh, Kazuko-chan and Rei-chan are being difficult.\""
+msgstr ""
+
+#: 01706:276
+
+msgid "{Kazushi}\n\"Well, we've had a bad history with them. They've hated us since day one.\""
+msgstr ""
+
+#: 01706:279
+
+msgid "{Haruka}\n\"That's not true. They were both really excited about having boys in our school.\""
+msgstr ""
+
+#: 01706:284
+
+msgid "{Appo}\n\"They were?\""
+msgstr ""
+
+#: 01706:285
+
+msgid "{Haruka}\n\"They were. They're just not being honest.\""
+msgstr ""
+
+#: 01706:286
+
+msgid "{Kazushi}\n\"Those two were......\""
+msgstr ""
+
+#: 01706:287
+
+msgid "I thought they were the root of all evil waiting to snap at anything."
+msgstr ""
+
+#: 01706:290
+
+msgid "{Appo}\n\"Well, forget them. It's not our job to worry about them. Does anyone need a hand?\""
+msgstr ""
+
+#: 01706:293
+
+msgid "{Haruka}\n\"Oh, then can you change the light bulb in the principal's office? It burned out, but the ceiling's so high we can barely reach it with a stepladder and we're afraid.\""
+msgstr ""
+
+#: 01706:294
+
+msgid "{Kazushi}\n\"That'll be easy.\""
+msgstr ""
+
+#: 01706:298
+
+msgid "{Mizuki}\n\"Oh! Can you change one in the girls' dorm as well? One's been flickering and it's about to go out.\""
+msgstr ""
+
+#: 01706:301
+
+msgid "{Appo}\n\"We can go inside the girl's dorm?! I might get hard as soon as we walk in!\""
+msgstr ""
+
+#: 01706:304
+
+msgid "{Mizuki}\n\"Hard......What?!!\nNever mind!\""
+msgstr ""
+
+#: 01706:307
+
+msgid "{Appo}\n\"Did I say something wrong?\""
+msgstr ""
+
+#: 01706:308
+
+msgid "{Kazushi}\n\"You're a little too honest with your desires sometimes.\""
+msgstr ""
+
+#: 01706:313
+
+msgid "{Haruka}\n\"But the one in the hall needs to get changed! I'm too scared to go the bathroom at night with the lights out.\""
+msgstr ""
+
+#: 01706:314
+
+msgid "{Kazushi}\n\"You heard her, Mizuki, so please bear with it? I'll go too, and there's no worries if we're all together, right?\""
+msgstr ""
+
+#: 01706:319
+
+msgid "{Mizuki}\n\"Well, in that case...\""
+msgstr ""
+
+#: 01706:322
+
+msgid "{Haruka}\n\"The ladder is in storage, so let's go get that first.\""
+msgstr ""
+
+#: 01706:326
+
+msgid "{Appo}\n\"Yeah! Let's go!\""
+msgstr ""
+
+#: 01706:335
+
+msgid "{Fuusen}\n\"Seeing those losers happy gets me all riled up.\""
+msgstr ""
+
+#: 01706:336
+
+msgid "{Andou}\n\"They're simple because they're stupid. They're panty-pinching perverts too.\""
+msgstr ""
+
+#: 01706:339
+
+msgid "{Fuusen}\n\"Why did they have to go and make us coed! We were happy enough with just girls! Argh, it's so irritating!\""
+msgstr ""
+
+#: 01706:342
+
+msgid "{Andou}\n\"Ah, Kazuko-chan, watch out!\""
+msgstr ""
+
+#: 01706:349
+
+msgid "I heard something shattering."
+msgstr ""
+
+#: 01706:352
+
+msgid "{Mizuki}\n\"What was that?\""
+msgstr ""
+
+#: 01706:357
+
+msgid "{Haruka}\n\"It came from inside I think?\""
+msgstr ""
+
+#: 01706:358
+
+msgid "{Kazushi}\n\"Probably.\""
+msgstr ""
+
+#: 01706:359
+
+msgid "We could sense somebody panicking inside. So it must have come from the lab section."
+msgstr ""
+
+#: 01706:363
+
+msgid "{Ran}\n\"That sounded bad, didn't it?\""
+msgstr ""
+
+#: 01706:366
+
+msgid "{Haruka}\n\"This place is full of dangerous chemicals, too. I hope that sound wasn't one of the vials shattering.\""
+msgstr ""
+
+#: 01706:370
+
+msgid "{Kazushi}\n\"Is that smoke...?\""
+msgstr ""
+
+#: 01706:371
+
+msgid "We saw black smoke billowing out of a half-open window."
+msgstr ""
+
+#: 01706:374
+
+msgid "{Appo}\n\"Isn't this bad? That's a fire, right?\""
+msgstr ""
+
+#: 01706:375
+
+msgid "My instinct was telling me that something was terribly wrong."
+msgstr ""
+
+#: 01706:376
+
+msgid "{Kazushi}\n\"Let's go check it out!\""
+msgstr ""
+
+#: 01706:381
+
+msgid "{Kazushi}\n\"Is everybody all right?\""
+msgstr ""
+
+#: 01706:382
+
+msgid "An enormous amount of smoke flooded the corridor as I opened the door for the room."
+msgstr ""
+
+#: 01706:385
+
+msgid "{Mizuki}\n\"So much smoke!\""
+msgstr ""
+
+#: 01706:390
+
+msgid "{Ran}\n\"Something's burning!\""
+msgstr ""
+
+#: 01706:396
+
+msgid "{Haruka}\n\"Oh no......what do we do...\""
+msgstr ""
+
+#: 01706:399
+
+msgid "I saw two figures collapsed on the floor beyond the smoke. They were girls. There was a burning cardboard box next to them."
+msgstr ""
+
+#: 01706:400
+
+msgid "The girls were passed out and motionless. I didn't know who they were, but their backs looked so lovely, I wanted to help them."
+msgstr ""
+
+#: 01706:401
+
+msgid "It's every man's natural instinct to rescue a damsel in distress, despite what logic may say."
+msgstr ""
+
+#: 01706:404
+
+msgid "{Ran}\n\"We need to get them out of here before they get burned!\""
+msgstr ""
+
+#: 01706:409
+
+msgid "{Mizuki}\n\"I'll go get some water!\""
+msgstr ""
+
+#: 01706:413
+
+msgid "{Haruka}\n\"Don't bring water; get the fire extinguisher! It should be around here somewhere!\""
+msgstr ""
+
+#: 01706:416
+
+msgid "{Ran}\n\"I'll go get the teachers to help!\""
+msgstr ""
+
+#: 01706:421
+
+msgid "All the girls ran in different directions. The rest of us had to figure out a way to get to the people in the corner."
+msgstr ""
+
+#: 01706:424
+
+msgid "{Appo}\n\"Hang in there!\nWe'll be right over!\""
+msgstr ""
+
+#: 01706:426
+
+msgid "Appo bravely jumped into the smoke without a second thought."
+msgstr ""
+
+#: 01706:427
+
+msgid "{Kazushi}\n\"I'm going in there, too!\""
+msgstr ""
+
+#: 01706:430
+
+msgid "{Appo}\n\"No! Kazushi, you stay there and wait for my call!\""
+msgstr ""
+
+#: 01706:431
+
+msgid "Appo stopped me from following him in."
+msgstr ""
+
+#: 01706:432
+
+msgid "{Appo}\n\"Let me go take a look!\""
+msgstr ""
+
+#: 01706:434
+
+msgid "I never knew he was so courageous."
+msgstr ""
+
+#: 01706:435
+
+msgid "{Appo}\n\"Are you guys all right!? I'm here to help you guys!\""
+msgstr ""
+
+#: 01706:438
+
+msgid "{???}\n\"Ah, hmm?\""
+msgstr ""
+
+#: 01706:439
+
+msgid "One of them was regaining consciousness as Appo tried talking to them."
+msgstr ""
+
+#: 01706:440
+
+msgid "{Appo}\n\"Are you awake? Are you hurt?\""
+msgstr ""
+
+#: 01706:441
+
+msgid "He reached out to lift one of the girls."
+msgstr ""
+
+#: 01706:442
+
+msgid "{Appo}\n\"I might touch you somewhere inappropriate, but please dealt with it since it's so I can save you.\""
+msgstr ""
+
+#: 01706:443
+
+msgid "Despite what he said, it seemed like he was feeling her up..."
+msgstr ""
+
+#: 01706:445
+
+msgid "{???}\n\"No, not there!\""
+msgstr ""
+
+#: 01706:446
+
+msgid "The girl let out a sexy moan. Hey, hey, you really are touching her inappropriately..."
+msgstr ""
+
+#: 01706:447
+
+msgid "{???}\n\"Are you sure you need to touch me there?\nAHH!\""
+msgstr ""
+
+#: 01706:448
+
+msgid "Isn't this illegal?"
+msgstr ""
+
+#: 01706:449
+
+msgid "{Kazushi}\n\"I need to go in and stop Appo!\""
+msgstr ""
+
+#: 01706:450
+
+msgid "I jumped into the smoke."
+msgstr ""
+
+#: 01706:453
+
+msgid "{Appo}\n\"Heh, heh, heh......You have a nice body. Now, turn this way and show me that lovely face......\""
+msgstr ""
+
+#: 01706:454
+
+msgid "Appo helped her to stand up."
+msgstr ""
+
+#: 01706:460
+
+msgid "{Fuusen}\n\"..................you?\""
+msgstr ""
+
+#: 01706:468
+
+msgid "Despite the smoke, I saw her face clearly, and time froze. I don't think anyone moved for a full minute."
+msgstr ""
+
+#: 01706:477
+
+msgid "{Appo}\n\"Gah! Fuusen!?\""
+msgstr ""
+
+#: 01706:478
+
+msgid "Appo was the first of us to came back to reality."
+msgstr ""
+
+#: 01706:481
+
+msgid "{Fuusen}\n\"That was you?\""
+msgstr ""
+
+#: 01706:484
+
+msgid "{Appo}\n\"Good lord! You shouldn't have such a sexy back!!\""
+msgstr ""
+
+#: 01706:485
+
+msgid "Appo was getting mad like it was her fault. I couldn't blame him, though. Who would've thought that back belonged to Fuusen."
+msgstr ""
+
+#: 01706:488
+
+msgid "On the other hand, Fuusen paid no heed to his anger. She wore a different expression, looking at Appo as if she was stealing glances at him."
+msgstr ""
+
+#: 01706:489
+
+msgid "{Fuusen}\n\"You put your life on the line to save me?\""
+msgstr ""
+
+#: 01706:492
+
+msgid "{Appo}\n\"...eh?\""
+msgstr ""
+
+#: 01706:493
+
+msgid "Fuusen looked at Appo like he was her knight in shining armour."
+msgstr ""
+
+#: 01706:494
+
+msgid "{Fuusen}\n\"You fought your way through this smoke to save me?\""
+msgstr ""
+
+#: 01706:495
+
+msgid "For the first time, Fuusen was showing Appo her feminine side. She put on an innocent act and flirtatiously approached Appo."
+msgstr ""
+
+#: 01706:496
+
+msgid "{Appo}\n\"What are you talking about......?\""
+msgstr ""
+
+#: 01706:497
+
+msgid "Appo was getting goosebumps all over his body. Fuusen moved in even closer."
+msgstr ""
+
+#: 01706:498
+
+msgid "{Appo}\n\"Why are you getting close to me?\""
+msgstr ""
+
+#: 01706:499
+
+msgid "{Fuusen}\n\"......are you the prince I've always waited for?\""
+msgstr ""
+
+#: 01706:500
+
+msgid "{Appo}\n\"What? What prince......?\""
+msgstr ""
+
+#: 01706:505
+
+msgid "Right at that moment, blue flames leapt from a fallen cardboard box next to them."
+msgstr ""
+
+#: 01706:509
+
+msgid "{Appo}\n\"Watch out!!\""
+msgstr ""
+
+#: 01706:514
+
+msgid "{Fuusen}\n\"Kyah!?\""
+msgstr ""
+
+#: 01706:517
+
+msgid "I'm sure Appo only saved her the second time by reflex, but her affection rating was steadily climbing. Heck, I think he just triggered her flag."
+msgstr ""
+
+#: 01706:520
+
+msgid "{Fuusen}\n\"My darling......\""
+msgstr ""
+
+#: 01706:525
+
+msgid "{Appo}\n\"What did you just call me!?\""
+msgstr ""
+
+#: 01706:526
+
+msgid "Fuusen looked at Appo like she'd never looked at him before. Those were the eyes of a girl in love."
+msgstr ""
+
+#: 01706:527
+
+msgid "{Fuusen}\n\"Ahh, my body's so hot! This must be the passionate heat of love!\""
+msgstr ""
+
+#: 01706:528
+
+msgid "{Kazushi}\n\"No, you're surrounded by fire! Now quit stalling and get out of here, both of you!\""
+msgstr ""
+
+#: 01706:531
+
+msgid "I was catching glimpses of the fires growing bigger. The smoke was getting worse, too."
+msgstr ""
+
+#: 01706:532
+
+msgid "We could hardly see them at this point."
+msgstr ""
+
+#: 01706:533
+
+msgid "{Kazushi}\n\"Guys, listen to me!\nYou need to get out of here NOW.\""
+msgstr ""
+
+#: 01706:534
+
+msgid "{Fuusen}\n\"*Cough cough*...Wait! Rei's in the preparation room in back!\""
+msgstr ""
+
+#: 01706:535
+
+msgid "{Kazushi}\n\"You mean Andou, right? Let me take care of her! You guys just go!\""
+msgstr ""
+
+#: 01706:536
+
+msgid "{Appo}\n\"All right!\""
+msgstr ""
+
+#: 01706:537
+
+msgid "Appo replied......"
+msgstr ""
+
+#: 01706:540
+
+msgid "{Fuusen}\n\"@#$%\\!?\""
+msgstr ""
+
+#: 01706:541
+
+msgid "About a second later, I heard a muffled scream."
+msgstr ""
+
+#: 01706:542
+
+msgid "{Kazushi}\n\"What was that sound?\""
+msgstr ""
+
+#: 01706:543
+
+msgid "Appo emerged from the smoke."
+msgstr ""
+
+#: 01706:546
+
+msgid "{Appo}\n\"*Cough cough*! That's a lot of smoke in there!! Reminds me of the time we threw a smoke bomb into our upperclassmen's classroom!\""
+msgstr ""
+
+#: 01706:547
+
+msgid "Appo was carrying Fuusen on his back. She seemed to be unconscious."
+msgstr ""
+
+#: 01706:548
+
+msgid "{Kazushi}\n\"Is she all right?\""
+msgstr ""
+
+#: 01706:549
+
+msgid "{Appo}\n\"I had to knock her out. If I rescued her again, the misunderstanding would be worse.\""
+msgstr ""
+
+#: 01706:550
+
+msgid "{Kazushi}\n\"What a pain. Why not act cool?\""
+msgstr ""
+
+#: 01706:551
+
+msgid "{Appo}\n\"Just shut up and rescue Rei!\""
+msgstr ""
+
+#: 01706:552
+
+msgid "{Kazushi}\n\"Got it!\""
+msgstr ""
+
+#: 01706:554
+
+msgid "Appo and Fuusen disappeared from the inferno and made their escape."
+msgstr ""
+
+#: 01706:555
+
+msgid "{Kazushi}\n\"Hey! Andou! Andre!\""
+msgstr ""
+
+#: 01706:556
+
+msgid "{Andou}\n\"Don't call me Andre!\""
+msgstr ""
+
+#: 01706:557
+
+msgid "I heard her screaming from the back of the room."
+msgstr ""
+
+#: 01706:560
+
+msgid "The door in back flew open and her giant body appeared from behind it. There were two fire extinguishers in her hands."
+msgstr ""
+
+#: 01706:561
+
+msgid "{Kazushi}\n\"We've got to get out of here!\""
+msgstr ""
+
+#: 01706:564
+
+msgid "{Andou}\n\"Wait, where's Kazuko-chan?\""
+msgstr ""
+
+#: 01706:565
+
+msgid "{Kazushi}\n\"Appo's already gotten her to safety! We need to go. NOW.\""
+msgstr ""
+
+#: 01706:566
+
+msgid "{Andou}\n\"That Apple did?\""
+msgstr ""
+
+#: 01706:567
+
+msgid "She seemed a bit surprised."
+msgstr ""
+
+#: 01706:570
+
+msgid "{Andou}\n\"Kazuko-chan was saved by that...I'll never forgive him!!\""
+msgstr ""
+
+#: 01706:571
+
+msgid "Her big hands twisted off the cap of the fire extinguisher."
+msgstr ""
+
+#: 01706:574
+
+msgid "*FWOOSH!*"
+msgstr ""
+
+#: 01706:575
+
+msgid "The cap hung off the extinguisher as the foam sprayed out. I shivered before her might."
+msgstr ""
+
+#: 01706:578
+
+msgid "She dismantled the second bottle and sprayed the liquid around, putting out the fire."
+msgstr ""
+
+#: 01706:579
+
+msgid "{Andou}\n\"Let's go!\""
+msgstr ""
+
+#: 01706:582
+
+msgid "She grabbed my waist, and threw me over her shoulder."
+msgstr ""
+
+#: 01706:583
+
+msgid "I was shocked by how high my eyes were from the floor."
+msgstr ""
+
+#: 01706:584
+
+msgid "{Kazushi}\n\"Hey, Andou-san?\""
+msgstr ""
+
+#: 01706:587
+
+msgid "{Andou}\n\"Shut up, talk later.\""
+msgstr ""
+
+#: 01706:590
+
+msgid "*SMASH*"
+msgstr ""
+
+#: 01706:591
+
+msgid "{Kazushi}\n\"Ggghahh!!\""
+msgstr ""
+
+#: 01706:592
+
+msgid "You're crushing my chest! My ribs..."
+msgstr ""
+
+#: 01706:593
+
+msgid "{Andou}\n\"Stay still, OK?\""
+msgstr ""
+
+#: 01706:594
+
+msgid "{Kazushi}\n\"Yes......\""
+msgstr ""
+
+#: 01706:604
+
+msgid "{Yagami}\n\"This was an accident?\""
+msgstr ""
+
+#: 01706:605
+
+msgid "They were asking about what happened while we were being treated in the nurse's office."
+msgstr ""
+
+#: 01706:610
+
+msgid "{Haruka}\n\"Some of the chemical bottles which fell on the floor were of a highly flammable nature.\""
+msgstr ""
+
+#: 01706:611
+
+msgid "Which was the truth."
+msgstr ""
+
+#: 01706:616
+
+msgid "{Mizuki}\n\"And that caused the fire.\""
+msgstr ""
+
+#: 01706:617
+
+msgid "{Kazushi}\n\"I'm so glad it didn't turn out to be a big one.\""
+msgstr ""
+
+#: 01706:618
+
+msgid "The fire itself wasn't as big as we thought, considering the amount of smoke we saw."
+msgstr ""
+
+#: 01706:622
+
+msgid "{Pierre}\n\"But now we have another problem.\""
+msgstr ""
+
+#: 01706:628
+
+msgid "{Appo}\n *Bugugugugugugugugugu*"
+msgstr ""
+
+#: 01706:629
+
+msgid "Appo covered himself with a blanket, attempting to hide as Fuusen sat next to the bed trying to nurse him."
+msgstr ""
+
+#: 01706:630
+
+msgid "Appo's goal in knocking her out completely failed, and now she was showering him with gratitude...or something more."
+msgstr ""
+
+#: 01706:631
+
+msgid "{Fuusen}\n\"It's all right. There's nothing to worry about now.\""
+msgstr ""
+
+#: 01706:632
+
+msgid "{Appo}\n\"Hiii!\""
+msgstr ""
+
+#: 01706:633
+
+msgid "Fuusen looked somewhat cute trying to nurse the man she loved."
+msgstr ""
+
+#: 01706:634
+
+msgid "{Kazushi}\n\"Hey, Fuusen actually looks OK for once.\""
+msgstr ""
+
+#: 01706:639
+
+msgid "{Pierre}\n\"That's easy for you to say. Put yourself in Appo's shoes and you'd go nuts too.\""
+msgstr ""
+
+#: 01706:644
+
+msgid "{Daigo}\n\"We should probably hide everything with a sharp edge from Appo.\""
+msgstr ""
+
+#: 01706:645
+
+msgid "{Kazushi}\n\"I just hope he doesn't try to commit suicide.\""
+msgstr ""
+
+#: 01706:652
+
+msgid "{Fuusen}\n\"Don't worry, darling. I'll stay and nurse you all night long.\""
+msgstr ""
+
+#: 01706:653
+
+msgid "{Appo}\n\"Hiiii?!!\""
+msgstr ""
+
+#: 01706:654
+
+msgid "Appo remained hidden under the blanket. This was turning into a scene from a disaster movie."
+msgstr ""
+
+#: 01706:659
+
+msgid "{Yagami}\n\"It's great to see those two finally getting along.\""
+msgstr ""
+
+#: 01706:660
+
+msgid "Yagami-sensei must have pretty bad eyesight if he sees Appo fearing for his future as a happy occasion."
+msgstr ""
+
+#: 01706:667
+
+msgid "{Mei}\n\"Excuse me, Yagami-sensei?\""
+msgstr ""
+
+#: 01706:668
+
+msgid "Mei-sensei motioned for Yagami-sensei to join her outside so they could talk privately."
+msgstr ""
+
+#: 01706:669
+
+msgid "I had a dark sense of foreboding."
+msgstr ""
+
+#: 01706:672
+
+msgid "{Yagami}\n\"What is it?\""
+msgstr ""
+
+#: 01706:675
+
+msgid "Even though their words weren't clear once the door was closed, I could tell that something serious was going on by the tones of their voices."
+msgstr ""
+
+#: 01706:678
+
+msgid "{Daigo}\n\"I wonder what they're talking about.\""
+msgstr ""
+
+#: 01706:679
+
+msgid "{Kazushi}\n\"I don't know......\""
+msgstr ""
+
+#: 01706:683
+
+msgid "{Yagami}\n\"Hey girls......\""
+msgstr ""
+
+#: 01706:684
+
+msgid "Yagami-sensei motioned for Fuusen and Andou to join him."
+msgstr ""
+
+#: 01706:688
+
+msgid "{Mei}\n\"The principal wants to speak with you two. You know what that means, right?\""
+msgstr ""
+
+#: 01706:693
+
+msgid "{Fuusen}\n\"I think so......\""
+msgstr ""
+
+#: 01706:697
+
+msgid "{Andou}\n\"Kazuko-chan...\""
+msgstr ""
+
+#: 01706:698
+
+msgid "{Mei}\n\"Let's go.\""
+msgstr ""
+
+#: 01706:701
+
+msgid "The two girls seemed to know exactly why they were being summoned as they left the nurse's office with heavy footsteps."
+msgstr ""
+
+#: 01706:704
+
+msgid "{Appo}\n\"Phew...\""
+msgstr ""
+
+#: 01706:709
+
+msgid "{Pierre}\n\"Are you sure you're gonna leave them to face the principal alone?\""
+msgstr ""
+
+#: 01706:710
+
+msgid "{Kazushi}\n\"Why, what do you think'll happen to those two?\""
+msgstr ""
+
+#: 01706:711
+
+msgid "{Appo}\n\"They'll probably just be suspended for a while. They broke something important, it seems.\""
+msgstr ""
+
+#: 01706:715
+
+msgid "{Daigo}\n\"They broke something?\""
+msgstr ""
+
+#: 01706:716
+
+msgid "{Kazushi}\n\"Who knows... Well, they may have broken something, but I doubt they'll be expelled.\""
+msgstr ""
+
+#: 01706:717
+
+msgid "{Pierre}\n\"Expelled, huh? How nostalgic.\""
+msgstr ""
+
+#: 01706:718
+
+msgid "{Kazushi}\n\"That happened to us what, a year ago, was it?\""
+msgstr ""
+
+#: 01706:721
+
+msgid "{Daigo}\n\"I remember my mom was crying.\""
+msgstr ""
+
+#: 01706:726
+
+msgid "{Appo}\n\"..................\""
+msgstr ""
+
+#: 01706:727
+
+msgid "Appo silently stood up. He tried to leave without even looking at us."
+msgstr ""
+
+#: 01706:732
+
+msgid "{Daigo}\n\"Where are you going?\""
+msgstr ""
+
+#: 01706:733
+
+msgid "{Appo}\n\"I'm going to take a leak.\""
+msgstr ""
+
+#: 01706:738
+
+msgid "That's all he said. After he left, we all looked at each other."
+msgstr ""
+
+#: 01706:743
+
+msgid "{Pierre}\n\"What should we do? Appo just went.\""
+msgstr ""
+
+#: 01706:744
+
+msgid "{Kazushi}\n\"Well......\""
+msgstr ""
+
+#: 01706:747
+
+msgid "{Daigo}\n\"Sometimes he tries to be the hero.\""
+msgstr ""
+
+#: 01706:748
+
+msgid "{Kazushi}\n\"We shouldn't let him go by himself.\""
+msgstr ""
+
+#: 01706:754
+
+msgid "{Principal}\n\"Do you understand, girls?\""
+msgstr ""
+
+#: 01706:760
+
+msgid "{Fuusen}\n\"Yes, ma'am.\""
+msgstr ""
+
+#: 01706:761
+
+msgid "{Andou}\n\"We are truly sorry.\""
+msgstr ""
+
+#: 01706:763
+
+msgid "*SLAM*"
+msgstr ""
+
+#: 01706:769
+
+msgid "{Appo}\n\"Wait just a minute!\""
+msgstr ""
+
+#: 01706:770
+
+msgid "We jumped into the principal's office."
+msgstr ""
+
+#: 01706:771
+
+msgid "{Appo}\n\"I'll take the punishment instead of them!\""
+msgstr ""
+
+#: 01706:772
+
+msgid "Appo's voice erupted as he leapt into the room."
+msgstr ""
+
+#: 01706:776
+
+msgid "{Fuusen}\n\"What are you talking about? Why are you......?\""
+msgstr ""
+
+#: 01706:780
+
+msgid "{Pierre}\n\"We've already been on the verge of expulsion! We're not afraid of anything!\""
+msgstr ""
+
+#: 01706:782
+
+msgid "{Kazushi}\n\"Please punish us instead!!\""
+msgstr ""
+
+#: 01706:785
+
+msgid "{Appo}\n\"And please forgive them!\""
+msgstr ""
+
+#: 01706:789
+
+msgid "{Fuusen}\n\"Appo...Jinnai-kun...\""
+msgstr ""
+
+#: 01706:790
+
+msgid "Fuusen called Appo by his name. I think this is the first time? Wait... she remembered it?"
+msgstr ""
+
+#: 01706:794
+
+msgid "The principal beamed as she looked at us. There wasn't a trace of tension in the air. Why did this feel too peaceful to me?"
+msgstr ""
+
+#: 01706:795
+
+msgid "{Principal}\n\"I see. Then, if you insist, I'll have you boys pay the penalty instead.\""
+msgstr ""
+
+#: 01706:796
+
+msgid "She told us that without hesitation."
+msgstr ""
+
+#: 01706:800
+
+msgid "{Appo}\n\"Really?\""
+msgstr ""
+
+#: 01706:804
+
+msgid "{Daigo}\n\"Are we getting kicked out?\""
+msgstr ""
+
+#: 01706:805
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 01706:814
+
+msgid "{Appo}\n\"What!? Cleaning toilets!? That's it?\""
+msgstr ""
+
+#: 01706:815
+
+msgid "{Kazushi}\n\"We got ahead of ourselves this time.\""
+msgstr ""
+
+#: 01706:820
+
+msgid "{Pierre}\n\"But isn't that a bit too different from our case? Why's she so lenient with them?\""
+msgstr ""
+
+#: 01706:824
+
+msgid "{Daigo}\n\"Stop talking, you guys. Let's just get it over with.\""
+msgstr ""
+
+#: 01706:829
+
+msgid "{Appo}\n\"Ahh, this pisses me off. This pisses me off so much, I'm gonna take a shit!\""
+msgstr ""
+
+#: 01706:832
+
+msgid "He locked himself in one of the stalls."
+msgstr ""
+
+#: 01706:835
+
+msgid "{Pierre}\n\"You'd better clean that one yourself, afterwards.\""
+msgstr ""
+
+#: 01706:844
+
+msgid "{Appo}\n\"Shit! Why are we doing this for them......?\""
+msgstr ""
+
+#: 01706:849
+
+msgid "{Pierre}\n\"Shit, it smells nasty in here, too. Isn't cleaning toilets a bit too old-fashioned of a punishment? They should've just kicked those two out.\""
+msgstr ""
+
+#: 01706:854
+
+msgid "{Daigo}\n\"I'm hungry.\nIt's getting late.\""
+msgstr ""
+
+#: 01706:855
+
+msgid "We could see the sun starting to glow orange as it set."
+msgstr ""
+
+#: 01706:859
+
+msgid "{Appo}\n\"I wonder if the girls really appreciate us? Shouldn't they be thanking us now?\""
+msgstr ""
+
+#: 01706:860
+
+msgid "{Kazushi}\n\"I think Fuusen is falling in love with you.\""
+msgstr ""
+
+#: 01706:863
+
+msgid "{Appo}\n\"That's not funny......\""
+msgstr ""
+
+#: 01706:867
+
+msgid "{Pierre}\n\"They should be helping us. Or even just waiting for us to finish to say thanks would be nice.\""
+msgstr ""
+
+#: 01706:872
+
+msgid "{Daigo}\n\"Don't expect too much from them.\nYou'll just get more depressed later.\""
+msgstr ""
+
+#: 01706:873
+
+msgid "{Kazushi}\n\"Don't be such a cynic, Daigo.\""
+msgstr ""
+
+#: 01706:874
+
+msgid "{Daigo}\n\"I don't expect much from a dream.\""
+msgstr ""
+
+#: 01706:875
+
+msgid "He's quite a pessimist.\nUnfortunately, he's also right most of the time."
+msgstr ""
+
+#: 01706:876
+
+msgid "{Kazushi}\n\"Well, you're right. It's not like we expected anything out of it when we offered.\""
+msgstr ""
+
+#: 01706:881
+
+msgid "{Appo}\n\"Are you an idiot? Of course I was expecting something! Who the hell would do this out of good will alone!\""
+msgstr ""
+
+#: 01706:882
+
+msgid "{Kazushi}\n\"What, you were?!\""
+msgstr ""
+
+#: 01706:883
+
+msgid "{Appo}\n\"I was trying to get some attention from the other girls, too!\""
+msgstr ""
+
+#: 01706:884
+
+msgid "{Kazushi}\n\"Why you little--\""
+msgstr ""
+
+#: 01706:888
+
+msgid "{Pierre}\n\"Well, I have to admit that I was thinking the same thing.\""
+msgstr ""
+
+#: 01706:893
+
+msgid "{Daigo}\n\"Me too......\""
+msgstr ""
+
+#: 01706:894
+
+msgid "{Kazushi}\n\"You guys......\""
+msgstr ""
+
+#: 01706:899
+
+msgid "{Appo}\n\"Of course! Shiiit! They should show some consideration and bring us some used panties.\""
+msgstr ""
+
+#: 01706:900
+
+msgid "{Kazushi}\n\"I thought you've already been punished for that.\nYou still want their panties after that?\""
+msgstr ""
+
+#: 01706:904
+
+msgid "{Pierre}\n\"Just ignore him.\nLet's hurry back.\nI wanna take a shower.\""
+msgstr ""
+
+#: 01706:906
+
+msgid "Just as we were picking up our pace to go back, we saw a few girls up ahead."
+msgstr ""
+
+#: 01706:909
+
+msgid "{Haruka}\n\"Hey! Kazushi-kun!!\""
+msgstr ""
+
+#: 01706:914
+
+msgid "{Mizuki}\n\"Hey guys!\""
+msgstr ""
+
+#: 01706:915
+
+msgid "Two girls waved at us."
+msgstr ""
+
+#: 01706:916
+
+msgid "{Kazushi}\n\"Oh hey!\nWhat are you girls doing?\""
+msgstr ""
+
+#: 01706:920
+
+msgid "{Haruka}\n\"Are you guys done with the cleaning?\""
+msgstr ""
+
+#: 01706:924
+
+msgid "{Pierre}\n\"Why yes we are. What? Where you all worried about us?\""
+msgstr ""
+
+#: 01706:928
+
+msgid "{Mizuki}\n\"It wasn't just us...\""
+msgstr ""
+
+#: 01706:930
+
+msgid "They waved at somebody behind them."
+msgstr ""
+
+#: 01706:939
+
+msgid "{Appo}\n\"Ugh. Not those two!\""
+msgstr ""
+
+#: 01706:945
+
+msgid "Two girls stepped over towards us.\nThey seemed too ashamed to even look at us."
+msgstr ""
+
+#: 01706:950
+
+msgid "{Mizuki}\n\"Go for it.\""
+msgstr ""
+
+#: 01706:955
+
+msgid "{Haruka}\n\"You promised me you'd tell them.\nGo for it.\""
+msgstr ""
+
+#: 01706:960
+
+msgid "{Fuusen}\n\"I know!\""
+msgstr ""
+
+#: 01706:961
+
+msgid "Fuusen was finally convinced by Haruka.\nShe stared at Appo and opened her mouth."
+msgstr ""
+
+#: 01706:964
+
+msgid "{Fuusen}\n\"You......come with me.\""
+msgstr ""
+
+#: 01706:968
+
+msgid "{Appo}\n\"Huh? What? Are you ordering me?\""
+msgstr ""
+
+#: 01706:973
+
+msgid "{Haruka}\n\"No, she's not.\nShe's asking you out.\""
+msgstr ""
+
+#: 01706:976
+
+msgid "{Appo}\n\"What do you mean \"she's asking me out\"?\nWhy do I have to...\""
+msgstr ""
+
+#: 01706:980
+
+msgid "{Fuusen}\n\"Just shut up and come with me!\""
+msgstr ""
+
+#: 01706:981
+
+msgid "{Appo}\n\"Hey......!?\""
+msgstr ""
+
+#: 01706:984
+
+msgid "Fuusen yanked Appo off by the arm.\nShe was serious about pulling him away."
+msgstr ""
+
+#: 01706:987
+
+msgid "{Pierre}\n\"What's going on?\""
+msgstr ""
+
+#: 01706:991
+
+msgid "{Mizuki}\n\"We should all go.\nI'll show you guys something interesting.\""
+msgstr ""
+
+#: 01706:992
+
+msgid "{Kazushi}\n\"All of us?\""
+msgstr ""
+
+#: 01706:996
+
+msgid "{Haruka}\n\"Just come with us!\""
+msgstr ""
+
+#: 01706:998
+
+msgid "Haruka pushed us by our backs.\nMizuki led us on the way."
+msgstr ""
+
+#: 01706:1001
+
+msgid "{Daigo}\n\"What's going on?\""
+msgstr ""
+
+#: 01706:1005
+
+msgid "{Pierre}\n\"I don't know. Let's just follow them.\""
+msgstr ""
+
+#: 01706:1008
+
+msgid "Appo and Fuusen made their way to the island's edge. It was a little higher area than the rest, just up a gentle slope."
+msgstr ""
+
+#: 01706:1009
+
+msgid "{Kazushi}\n\"Where are they?\""
+msgstr ""
+
+#: 01706:1012
+
+msgid "{Haruka}\n\"Behind that hill.\""
+msgstr ""
+
+#: 01706:1017
+
+msgid "{Pierre}\n\"What's over there?\""
+msgstr ""
+
+#: 01706:1021
+
+msgid "{Mizuki}\n\"You'll find out.\""
+msgstr ""
+
+#: 01706:1022
+
+msgid "They just smiled at us and stayed silent.\nWe were going to have to go over and see it for ourselves."
+msgstr ""
+
+#: 01706:1028
+
+msgid "{Kazushi}\n\"Wow...\""
+msgstr ""
+
+#: 01706:1029
+
+msgid "I lost my breath when I saw the view."
+msgstr ""
+
+#: 01706:1030
+
+msgid "{Pierre}\n\"Wow......\""
+msgstr ""
+
+#: 01706:1031
+
+msgid "{Daigo}\n\"What a sunset......\""
+msgstr ""
+
+#: 01706:1032
+
+msgid "The vivid orange light of the sunset melted and sank into the ocean. There were several people watching it."
+msgstr ""
+
+#: 01706:1033
+
+msgid "{Ran}\n\"Hey, Kazushi!\""
+msgstr ""
+
+#: 01706:1034
+
+msgid "Ran was one of them.\nShe waved at me."
+msgstr ""
+
+#: 01706:1035
+
+msgid "{Ran}\n\"They removed the ban on boys visiting this area so you could see the view today. We knew you'd have to see this.\""
+msgstr ""
+
+#: 01706:1036
+
+msgid "{Kazushi}\n\"You're right.\""
+msgstr ""
+
+#: 01706:1037
+
+msgid "I couldn't even understand what she was saying.\nI couldn't think of anything but this view."
+msgstr ""
+
+#: 01706:1038
+
+msgid "{Mizuki}\n\"Isn't this great? Whenever the weather's nice, you can see this sunset. It's especially beautiful from summer into fall.\""
+msgstr ""
+
+#: 01706:1039
+
+msgid "{Haruka}\n\"When it's a clear evening, we all come here to watch.\nThis is the best place on the whole island to see the sunset.\""
+msgstr ""
+
+#: 01706:1040
+
+msgid "{Kazushi}\n\"I see. I never knew.\""
+msgstr ""
+
+#: 01706:1041
+
+msgid "{Haruka}\n\"I'm sorry we couldn't tell you boys earlier.\""
+msgstr ""
+
+#: 01706:1042
+
+msgid "{Mizuki}\n\"Some of the girls were against it, but now even Kazuko and them are okay with it.\""
+msgstr ""
+
+#: 01706:1043
+
+msgid "We saw Fuusen and Appo standing off to the side by themselves.\nThey were standing very close to one another."
+msgstr ""
+
+#: 01706:1044
+
+msgid "Their distance from each other seemed like it was expressing their intimacy. It was close enough to make one's heart race. They might even have been holding each other's hand."
+msgstr ""
+
+#: 01706:1045
+
+msgid "I doubted it, but this sunset was so romantic it made me think so."
+msgstr ""
+
+#: 01706:1046
+
+msgid "{Mizuki}\n\"Isn't it beautiful?\""
+msgstr ""
+
+#: 01706:1047
+
+msgid "{Kazushi}\n\"I can't imagine a better surprise...\""
+msgstr ""
+
+#: 01706:1048
+
+msgid "The view really touched my heart."
+msgstr ""
+
+#: 01706:1049
+
+msgid "The entire sky was painted orange, and Pierre, Daigo, Haruka, Mizuki, Appo, Fuusen, and probably even me all had an orange glow about them."
+msgstr ""
+
+#: 01706:1051
+
+msgid "The calm surface of the water soaked in the fading sunset, and shone brightly like a field full of countless glittering jewels. No one could take their eyes off that majestic splendor."
+msgstr ""
+
+#: 01706:1053
+
+msgid "Everyone faced the same sunset with their own feelings and in their own way, like a field of sunflowers, in awe of this view."
+msgstr ""
+
+#: 01706:1054
+
+msgid "{Haruka}\n\"This is my most favourite view on the island. I've looked at it since I was a little girl, so it brings back lots of memories.\""
+msgstr ""
+
+#: 01706:1055
+
+msgid "{Mizuki}\n\"It's certainly mine.\nWe don't need words to express ourselves while we watch this.\""
+msgstr ""
+
+#: 01706:1056
+
+msgid "{Kazushi}\n\"I think this will become my favourite, too.\nMaybe it already has.\""
+msgstr ""
+
+#: 01706:1057
+
+msgid "This is an odd, but warming feeling.\nIt's like everybody's heart has connected right at this moment."
+msgstr ""
+
+#: 01706:1058
+
+msgid "And a certainty that everyone else feels the same as well. Maybe it's just my imagination, but that's how it felt."
+msgstr ""
+
+#: 01706:1059
+
+msgid "{Kazushi}\n\"Does it touch your heart too, Ran?\""
+msgstr ""
+
+#: 01706:1060
+
+msgid "{Ran}\n\"Even I'm a girl who understands the beauty of simple things. Every day, I wish those sparkles were all real jewels.\""
+msgstr ""
+
+#: 01706:1061
+
+msgid "{Kazushi}\n\"That's so you.\""
+msgstr ""
+
+#: 01706:1062
+
+msgid "{Ran}\n\"It really does look like the ocean is filled with jewels though.\""
+msgstr ""
+
+#: 01706:1063
+
+msgid "{Haruka}\n\"But if that were true, they'd all get taken away and there'd be no water left in the sea.\""
+msgstr ""
+
+#: 01706:1064
+
+msgid "{Ran}\n\"Yeah. Humanity's greed is endless. Seriously, people...hahh.\""
+msgstr ""
+
+#: 01706:1065
+
+msgid "{Mizuki}\n\"I don't think you should be lamenting that...\""
+msgstr ""
+
+#: 01706:1066
+
+msgid "{Daigo}\n *sniff*"
+msgstr ""
+
+#: 01706:1067
+
+msgid "I heard someone sniffing. Sparkling tears where flowing from Daigo's eyes and nose."
+msgstr ""
+
+#: 01706:1068
+
+msgid "{Mizuki}\n\"Why are you crying?\""
+msgstr ""
+
+#: 01706:1069
+
+msgid "{Ran}\n\"Look at this guy! He's actually crying!\""
+msgstr ""
+
+#: 01706:1070
+
+msgid "{Kazushi}\n\"Don't point and laugh! Daigo, are you okay?\""
+msgstr ""
+
+#: 01706:1071
+
+msgid "Deep down inside, Daigo's actually a sentimentalist."
+msgstr ""
+
+#: 01706:1072
+
+msgid "{Daigo}\n\"Beautiful......it's so beautiful.\""
+msgstr ""
+
+#: 01706:1073
+
+msgid "{Haruka}\n\"You don't have to cry. Here, you can borrow my handkerchief.\""
+msgstr ""
+
+#: 01706:1074
+
+msgid "{Daigo}\n\"......thank you!\""
+msgstr ""
+
+#: 01706:1075
+
+msgid "Daigo blew his nose with her handkerchief.\nThe sound of it killed the mood."
+msgstr ""
+
+#: 01706:1076
+
+msgid "{Haruka}\n\"Uhhh... On second thought, keep it.\""
+msgstr ""
+
+#: 01706:1077
+
+msgid "{Daigo}\n\"......it's so beautiful......\""
+msgstr ""
+
+#: 01706:1078
+
+msgid "{Kazushi}\n\"Stop crying, Daigo.\nYou're making me cry, too!\""
+msgstr ""
+
+#: 01706:1079
+
+msgid "I don't know why, but this awe-inspiring view brings me to shed manly tears."
+msgstr ""
+
+#: 01706:1080
+
+msgid "{Kazushi}\n *sniff*"
+msgstr ""
+
+#: 01706:1081
+
+msgid "{Ran}\n\"Wow.\nAre you crying too, Kazushi?\""
+msgstr ""
+
+#: 01706:1082
+
+msgid "{Pierre}\n\"You guys are such girls.\nI like that about you, though.\""
+msgstr ""
+
+#: 01706:1083
+
+msgid "{Haruka}\n\"I never knew that boys could be so romantic.\n...It makes me wanna cry, too!\""
+msgstr ""
+
+#: 01706:1084
+
+msgid "{Kazushi}\n\"This is so beautiful.\nThe beauty of nature.\""
+msgstr ""
+
+#: 01706:1085
+
+msgid "We kept watching the sun until it completely disappeared below the horizon."
+msgstr ""
+
+#: 01706:1086
+
+msgid "For the first time, I felt like I had become a true resident of this island."
+msgstr ""
+

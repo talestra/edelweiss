@@ -1,0 +1,413 @@
+# Comments for '50505'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 50505:9
+
+msgid "{Principal}\n\"I see...\""
+msgstr ""
+
+#: 50505:10
+
+msgid "That was all the principal said after hearing our decision."
+msgstr ""
+
+#: 50505:15
+
+msgid "{Miya}\n\"Is this what you've decided together?\""
+msgstr ""
+
+#: 50505:16
+
+msgid "{Kazushi}\n\"Yes.\""
+msgstr ""
+
+#: 50505:20
+
+msgid "{Mei}\n\"I'm sorry for being selfish......\""
+msgstr ""
+
+#: 50505:21
+
+msgid "{Kazushi}\n\"But no matter what you two say, no matter if the whole world is opposed to us being together, I have no intention of leaving Mei.\""
+msgstr ""
+
+#: 50505:24
+
+msgid "{Mei}\n\"I want to be with Kazushi-kun too.\""
+msgstr ""
+
+#: 50505:25
+
+msgid "That was what we decided after our talk. Well, there wasn't much to talk about though. We simply followed our honest feelings."
+msgstr ""
+
+#: 50505:29
+
+msgid "{Principal}\n\"But as a result, Ibuki-sensei... Mei's disappearance will only be hastened. That may sound cruel, but it is an undeniable truth.\""
+msgstr ""
+
+#: 50505:30
+
+msgid "{Kazushi}\n\"I am aware of that.\""
+msgstr ""
+
+#: 50505:31
+
+msgid "It was a harsh reality, and a sad future that was very hard to accept."
+msgstr ""
+
+#: 50505:32
+
+msgid "{Principal}\n\"But what about you, Mei?\""
+msgstr ""
+
+#: 50505:37
+
+msgid "{Mei}\n\"I'll be alright. Kazushi-kun is the one who will truly suffer.\""
+msgstr ""
+
+#: 50505:42
+
+msgid "{Miya}\n\"You may be right. Partings are always hardest for those left behind. And yet, Kazushi-kun...?\""
+msgstr ""
+
+#: 50505:43
+
+msgid "{Kazushi}\n\"I want to make Mei happy in my own way.\""
+msgstr ""
+
+#: 50505:47
+
+msgid "{Mei}\n\"I want to make Mei MEIjorly happy.\""
+msgstr ""
+
+#: 50505:48
+
+msgid "{Kazushi}\n\"Huh?!\""
+msgstr ""
+
+#: 50505:49
+
+msgid "I was astonished. She corrected me."
+msgstr ""
+
+#: 50505:50
+
+msgid "{Kazushi}\n\"D-do I need to rephrase it?\""
+msgstr ""
+
+#: 50505:53
+
+msgid "{Mei}\n\".....................\""
+msgstr ""
+
+#: 50505:54
+
+msgid "A silent yes. O-oh, well..."
+msgstr ""
+
+#: 50505:55
+
+msgid "{Kazushi}\n\"I want to make Mei MEIjorly happy.\""
+msgstr ""
+
+#: 50505:56
+
+msgid "{Kazushi}\n\"...hey, it doesn't sound right to say something like this again. We had such a good mood going.\""
+msgstr ""
+
+#: 50505:62
+
+msgid "{Principal}\n\"......Pff.\""
+msgstr ""
+
+#: 50505:63
+
+msgid "{Kazushi}\n\"Ah.........\""
+msgstr ""
+
+#: 50505:64
+
+msgid "The principal was looking down and her shoulders were shaking. This was unusual: The principal was trying not to laugh."
+msgstr ""
+
+#: 50505:67
+
+msgid "{Miya}\n\"Hahaha, I can tell you two sure are happy. I see, so Mei-chan's happy...\""
+msgstr ""
+
+#: 50505:71
+
+msgid "{Mei}\n\"Yes, very much so.\""
+msgstr ""
+
+#: 50505:74
+
+msgid "{Miya}\n\"Hisae-san, what do you think?\""
+msgstr ""
+
+#: 50505:75
+
+msgid "The principal wiped her tears while still looking down. Was it that funny? Maybe she wasn't as scary as I thought."
+msgstr ""
+
+#: 50505:80
+
+msgid "{Principal}\n\"If that's what Mei... the both of you want, then go ahead.\""
+msgstr ""
+
+#: 50505:81
+
+msgid "The principal said so rather bluntly, without many words. Mei grabbed my hand with such joy."
+msgstr ""
+
+#: 50505:85
+
+msgid "{Mei}\n\"Thank you, both of you.\""
+msgstr ""
+
+#: 50505:86
+
+msgid "Her smile was true. It's kind of late to ask, but was Mei always this beautiful? Both the principal and Miya-san's eyes were glued to her smile."
+msgstr ""
+
+#: 50505:87
+
+msgid "Mei let go of my hand and then faced the two of them. She bowed deeply to them."
+msgstr ""
+
+#: 50505:90
+
+msgid "{Mei}\n\"Both of you, thank you for creating me. I will be happy.\""
+msgstr ""
+
+#: 50505:91
+
+msgid "Her head was still down. I took a bow next to her too."
+msgstr ""
+
+#: 50505:92
+
+msgid "{Kazushi}\n\"I will make her happy, I promise. Thank you very much.\""
+msgstr ""
+
+#: 50505:95
+
+msgid "{Mei}\n\"Well, then...excuse us.\""
+msgstr ""
+
+#: 50505:103
+
+msgid "{Miya}\n\"Phew, I was kind of nervous.\""
+msgstr ""
+
+#: 50505:106
+
+msgid "{Principal}\n\"Indeed. It's been a while since I've laughed and smiled. How many decades has it been?\""
+msgstr ""
+
+#: 50505:107
+
+msgid "{Miya}\n\"I feel like I just saw my daughter off at her wedding.\""
+msgstr ""
+
+#: 50505:110
+
+msgid "{Principal}\n\"Except one day, that will happen to you for real.\""
+msgstr ""
+
+#: 50505:113
+
+msgid "{Miya}\n\"Yes... I sure hope so.\""
+msgstr ""
+
+#: 50505:114
+
+msgid "{Principal}\n\"To be honest, I didn't care one bit about the person named Ibuki Mei. She just happened to be a perfect test subject.\""
+msgstr ""
+
+#: 50505:117
+
+msgid "{Miya}\n\"I'm sure that's how it started. That's how you were.\""
+msgstr ""
+
+#: 50505:120
+
+msgid "{Miya}\n\"But you sure took very good care of Mei-chan. You kept her close to you and loved her.\""
+msgstr ""
+
+#: 50505:123
+
+msgid "{Principal}\n\"That's only because she came out as such a beautiful girl. I was so ashamed of my vulgarity.\""
+msgstr ""
+
+#: 50505:126
+
+msgid "{Miya}\n\"Mei-chan sure was beautiful. She was basically a clone of Ibuki Mei, so how could she be so different?\""
+msgstr ""
+
+#: 50505:129
+
+msgid "{Principal}\n\"Who knows... perhaps a different soul of a higher-order took up residence in that body.\""
+msgstr ""
+
+#: 50505:132
+
+msgid "{Miya}\n\"What do you mean by higher order?\""
+msgstr ""
+
+#: 50505:135
+
+msgid "{Principal}\n\"No, I'm only joking. But somehow, I feel like I've met her somewhere a long time ago......\""
+msgstr ""
+
+#: 50505:136
+
+msgid "{Miya}\n\"A long time ago?\""
+msgstr ""
+
+#: 50505:139
+
+msgid "{Principal}\n\"No, I really am just kidding.\""
+msgstr ""
+
+#: 50505:145
+
+msgid "I opened the door quietly and looked in."
+msgstr ""
+
+#: 50505:146
+
+msgid "{Kazushi}\n\"I don't see anybody.\""
+msgstr ""
+
+#: 50505:149
+
+msgid "{Mei}\n\"It's a summer break.\""
+msgstr ""
+
+#: 50505:150
+
+msgid "Mei said she wanted to see the classroom out of the blue, so we stopped on the way."
+msgstr ""
+
+#: 50505:151
+
+msgid "{Kazushi}\n\"It feels so different when there's nobody in it.\""
+msgstr ""
+
+#: 50505:152
+
+msgid "{Mei}\n\"It does.\""
+msgstr ""
+
+#: 50505:154
+
+msgid "I sat at my desk. It had been over a month since I sat there. I couldn't feel comfortable because it felt like it belonged to someone else."
+msgstr ""
+
+#: 50505:157
+
+msgid "{Mei}\n\"This was Hinata-san's seat, right?\""
+msgstr ""
+
+#: 50505:158
+
+msgid "Mei sat down at the desk next to mine. It was such a refreshing feeling, almost like it was the first day of school."
+msgstr ""
+
+#: 50505:159
+
+msgid "{Mei}\n\"If I was the same age as you, we could have taken the same classes together.\""
+msgstr ""
+
+#: 50505:160
+
+msgid "{Kazushi}\n\"That's OK. Since you were my teacher, we were able to look at each other every day.\""
+msgstr ""
+
+#: 50505:163
+
+msgid "{Mei}\n\"Do you think so? I'd rather we were looking together in the same direction than facing each other.\""
+msgstr ""
+
+#: 50505:164
+
+msgid "{Kazushi}\n\"Do you?\""
+msgstr ""
+
+#: 50505:167
+
+msgid "{Mei}\n\"Because if we were to walk together, we can't walk facing each other, can we?\""
+msgstr ""
+
+#: 50505:168
+
+msgid "{Kazushi}\n\"Well, you're right, but......if we were to hug, we can't do it facing the same direction, right?\""
+msgstr ""
+
+#: 50505:171
+
+msgid "{Mei}\n\"Ohh, there you go with your naughty thoughts again.\""
+msgstr ""
+
+#: 50505:172
+
+msgid "She sounded a little sulky. But, her shoulder touched mine. We were very close."
+msgstr ""
+
+#: 50505:175
+
+msgid "{Mei}\n\"Mmm.........\""
+msgstr ""
+
+#: 50505:176
+
+msgid "Mei stuck out her rosy lips, and I place mine on top of them. It was the first time we kissed in the classroom."
+msgstr ""
+
+#: 50505:177
+
+msgid "{Mei}\n\"Ahh......mmm.........\""
+msgstr ""
+
+#: 50505:178
+
+msgid "Our lips parted. With that one kiss, Mei's eyes began to water."
+msgstr ""
+
+#: 50505:179
+
+msgid "{Kazushi}\n\"......Can I kiss you again?\""
+msgstr ""
+
+#: 50505:180
+
+msgid "{Mei}\n\"Yeah......\""
+msgstr ""
+
+#: 50505:181
+
+msgid "Mei nods. We wanted to embrace each other whenever we had a chance. That's how we felt."
+msgstr ""
+
+#: 50505:182
+
+msgid "Neither one of us even mentioned it, but we both knew this might be the last time we would ever be in the same classroom together."
+msgstr ""
+
+#: 50505:183
+
+msgid "Our time together might not last until the new semester."
+msgstr ""
+

@@ -1,0 +1,1763 @@
+# Comments for '00303'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 00303:8
+
+msgid "{Kazushi}\n\"That was exhausting.\""
+msgstr ""
+
+#: 00303:9
+
+msgid "I let myself get too relaxed, so class left me MEIjorly......I mean, majorly tired."
+msgstr ""
+
+#: 00303:13
+
+msgid "{Ran}\n\"It must be tough coming in halfway through the courses.\""
+msgstr ""
+
+#: 00303:14
+
+msgid "{Kazushi}\n\"What a time we picked to transfer. Well, at least summer break is around the corner.\""
+msgstr ""
+
+#: 00303:15
+
+msgid "We had final exams before that, but once we overcame those, it was summer break."
+msgstr ""
+
+#: 00303:16
+
+msgid "{Kazushi}\n\"Our summer break... Oh.\""
+msgstr ""
+
+#: 00303:17
+
+msgid "I just realized something very important."
+msgstr ""
+
+#: 00303:18
+
+msgid "{Kazushi}\n\"Do you guys leave the island and go home during your breaks?\""
+msgstr ""
+
+#: 00303:19
+
+msgid "I hadn't thought about it. We just got here, so the thought of going home was hardly on our minds, but if everyone else goes home, there's no point staying."
+msgstr ""
+
+#: 00303:20
+
+msgid "{Ran}\n\"I don't. It's such a pain.\""
+msgstr ""
+
+#: 00303:25
+
+msgid "{Sakura}\n\"I don't leave either.\""
+msgstr ""
+
+#: 00303:26
+
+msgid "Takase sat in the seat diagonally in front of me. She turned around and raised her hand."
+msgstr ""
+
+#: 00303:27
+
+msgid "{Kazushi}\n\"Wow, so plenty of girls stay behind?\""
+msgstr ""
+
+#: 00303:28
+
+msgid "{Ran}\n\"I'd say most of them do. We go home for New Year's break, but most of us stay for the summer.\""
+msgstr ""
+
+#: 00303:29
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 00303:30
+
+msgid "That's a relief. Now I know our summer won't go to waste. That was almost the whole reason we came here."
+msgstr ""
+
+#: 00303:31
+
+msgid "{Kazushi}\n\"But don't most of the parents want their daughters to come home?\""
+msgstr ""
+
+#: 00303:34
+
+msgid "{Ran}\n\"Plus, you know, at least on New Year's we get some money, but there's nothing in the summer. Besides, the travel fee is crazy too.\""
+msgstr ""
+
+#: 00303:37
+
+msgid "{Sakura}\n\"I don't think that's the reason. You always reduce everything to money, Ran.\""
+msgstr ""
+
+#: 00303:40
+
+msgid "{Ran}\n\"The only mouths you can trust are a dead man's and a coin purse's.\""
+msgstr ""
+
+#: 00303:41
+
+msgid "{Kazushi}\n\"That's not funny.\""
+msgstr ""
+
+#: 00303:44
+
+msgid "{Sakura}\n\"That's just how Ran is, so be careful Haruma-kun.\""
+msgstr ""
+
+#: 00303:48
+
+msgid "{Haruka}\n\"That's right, Kazushi-kun. You'd better watch out for Ran - she'll chew you up until there's nothing left but bones and the hair from your bottom.\""
+msgstr ""
+
+#: 00303:49
+
+msgid "Haruka poked her head into our class."
+msgstr ""
+
+#: 00303:50
+
+msgid "{Sakura}\n\"Oh, Harunyan, you're back again?\""
+msgstr ""
+
+#: 00303:51
+
+msgid "{Haruka}\n\"Yeah, I came again.\""
+msgstr ""
+
+#: 00303:52
+
+msgid "Haruka wasn't giving up; she still came to our class. Maybe she didn't have a place in her own class anymore?"
+msgstr ""
+
+#: 00303:55
+
+msgid "{Haruka}\n\"But you know, that phrase is strange. We don't have any hair on our bottoms. Even monkeys don't, right?\""
+msgstr ""
+
+#: 00303:56
+
+msgid "{Kazushi}\n\"No, some people do. Daigo's like a jungle down there.\""
+msgstr ""
+
+#: 00303:59
+
+msgid "{Haruka}\n\"What? He does? Butt hair? No way!\""
+msgstr ""
+
+#: 00303:60
+
+msgid "She stood up and tried to look at her own butt. Don't flip your skirt up to check! See? Now we saw them."
+msgstr ""
+
+#: 00303:63
+
+msgid "{Sakura}\n\"Hey! Behave yourself! We can see your underwear!\""
+msgstr ""
+
+#: 00303:64
+
+msgid "Takase quickly pulled her skirt back down. Haruka finally realized what she was doing and jumped back."
+msgstr ""
+
+#: 00303:67
+
+msgid "Haruka flushed with embarrassment."
+msgstr ""
+
+#: 00303:70
+
+msgid "{Haruka}\n\"Oops! I hope nobody saw my underwear.\""
+msgstr ""
+
+#: 00303:71
+
+msgid "{Kazushi}\n\"Not at all!\""
+msgstr ""
+
+#: 00303:72
+
+msgid "Actually I did. They were blue. To go with her last name I guess?"
+msgstr ""
+
+#: 00303:75
+
+msgid "{Sakura}\n\"Harunyan, you're so naive. That's part of what makes you cute, though.\""
+msgstr ""
+
+#: 00303:82
+
+msgid "{Ran}\n\"Haruka, your guard's too lax. You have to be careful about the guys watching you now. If you're going to show them your panties, do it through me.\""
+msgstr ""
+
+#: 00303:83
+
+msgid "{Kazushi}\n\"Don't try to profit off this... You really are all about money, huh?\""
+msgstr ""
+
+#: 00303:86
+
+msgid "{Haruka}\n\"Hey, why did we all start talking about butt hair?\""
+msgstr ""
+
+#: 00303:87
+
+msgid "{Kazushi}\n\"Because you brought it up, Haruka.\""
+msgstr ""
+
+#: 00303:90
+
+msgid "{Haruka}\n\"Wah?! That's not true. Don't turn me into some butt hair maniac!\""
+msgstr ""
+
+#: 00303:91
+
+msgid "{Kazushi}\n\"Is she serious?\""
+msgstr ""
+
+#: 00303:94
+
+msgid "{Ran}\n\"That's Haruka.\""
+msgstr ""
+
+#: 00303:95
+
+msgid "She's hard to understand."
+msgstr ""
+
+#: 00303:98
+
+msgid "{Sakura}\n\"We weren't talking about bottom hair. We were talking about summer break.\""
+msgstr ""
+
+#: 00303:101
+
+msgid "{Haruka}\n\"That's right! Summer break!\nAnd this year, the boys will be here for it! I'm so excited.\""
+msgstr ""
+
+#: 00303:102
+
+msgid "She looked at me and smiled. Her smile made me even more excited about our summer break."
+msgstr ""
+
+#: 00303:105
+
+msgid "{Ran}\n\"You're staying here, of course, aren't you, Haruka?\""
+msgstr ""
+
+#: 00303:108
+
+msgid "{Haruka}\n\"Naturally. This IS my home, after all.\""
+msgstr ""
+
+#: 00303:109
+
+msgid "{Kazushi}\n\"That's right.\""
+msgstr ""
+
+#: 00303:110
+
+msgid "Haruka was born and raised here on this island. Of course her home is here."
+msgstr ""
+
+#: 00303:111
+
+msgid "{Haruka}\n\"Everyone stays here for the break.\nThe tides won't reach the harbor, anyways.\""
+msgstr ""
+
+#: 00303:112
+
+msgid "{Kazushi}\n\"What's that about the tides?\""
+msgstr ""
+
+#: 00303:113
+
+msgid "{Sakura}\n\"Remember, you saw it yesterday, right Haruma-kun? The tides stay incredibly low through the season.\""
+msgstr ""
+
+#: 00303:114
+
+msgid "{Kazushi}\n\"Oh yeah, we did see that!\nThat was scary!\""
+msgstr ""
+
+#: 00303:115
+
+msgid "{Sakura}\n\"When the tides get low, boats can't reach us here. That's why they had you guys transfer in at high tide.\""
+msgstr ""
+
+#: 00303:116
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 00303:117
+
+msgid "If the ships can't dock, then they can't leave either. That's the whole reason we couldn't leave."
+msgstr ""
+
+#: 00303:118
+
+msgid "This truly is an isolated island on the distant sea. What a place we've come to."
+msgstr ""
+
+#: 00303:119
+
+msgid "{Haruka}\n\"Nature is amazing.\""
+msgstr ""
+
+#: 00303:120
+
+msgid "{Kazushi}\n\"I know. We all got so scared last night.\""
+msgstr ""
+
+#: 00303:121
+
+msgid "{Fuusen}\n\"Why are you giving us such a perverted face?\""
+msgstr ""
+
+#: 00303:122
+
+msgid "{Kazushi}\n\"Grk!\""
+msgstr ""
+
+#: 00303:130
+
+msgid "Two pairs of eyes filled with loathing were cast upon us. Fuusen and Andou have treated us like enemies ever since yesterday."
+msgstr ""
+
+#: 00303:131
+
+msgid "{Andou}\n\"Hey, Haruka-chan, you shouldn't talk to those boys.\""
+msgstr ""
+
+#: 00303:132
+
+msgid "{Fuusen}\n\"Haruka-chan, if you're not careful enough, they'll get you pregnant before you know it.\""
+msgstr ""
+
+#: 00303:133
+
+msgid "{Kazushi}\n\"What!?\""
+msgstr ""
+
+#: 00303:134
+
+msgid "What's wrong with this bitch? There's a limit to how mean one can be!"
+msgstr ""
+
+#: 00303:139
+
+msgid "{Haruka}\n\"What? Is that true? Will you get me pregnant?\""
+msgstr ""
+
+#: 00303:140
+
+msgid "{Kazushi}\n\"Don't listen to them, Haruka. That's not going to happen.\""
+msgstr ""
+
+#: 00303:146
+
+msgid "{Andou}\n\"Do you still have your underwear on?\nThey haven't stolen it off from you, have they?\""
+msgstr ""
+
+#: 00303:151
+
+msgid "{Haruka}\n\"Oh my god!?\""
+msgstr ""
+
+#: 00303:152
+
+msgid "She checked inside her skirt again.\nI got to have a second peek."
+msgstr ""
+
+#: 00303:157
+
+msgid "{Sakura}\n\"I'm safe! Mine are still on!\""
+msgstr ""
+
+#: 00303:158
+
+msgid "{Kazushi}\n\"Not you too, Takase? Besides, how could we be ever be skilled enough to steal the underwear you're wearing?\""
+msgstr ""
+
+#: 00303:165
+
+msgid "{Ran}\n\"I know, right? If you had that kind of technique, you'd be a splendid pickpocket.\""
+msgstr ""
+
+#: 00303:166
+
+msgid "{Kazushi}\n\"No, that's wrong. Pick-pocketing isn't splendid.\""
+msgstr ""
+
+#: 00303:173
+
+msgid "{Andou}\n\"Hey, Ran.\""
+msgstr ""
+
+#: 00303:174
+
+msgid "For some reason they were ganging up on Ran."
+msgstr ""
+
+#: 00303:175
+
+msgid "{Ran}\n\"What is it?\""
+msgstr ""
+
+#: 00303:176
+
+msgid "{Fuusen}\n\"Are these beasts under your jurisdiction, Ran? If they are, then make sure they're well-trained. We know you're going to sucker them either way.\""
+msgstr ""
+
+#: 00303:179
+
+msgid "{Ran}\n\"Well, they aren't. But what's it matter to you who my mates are?\""
+msgstr ""
+
+#: 00303:180
+
+msgid "Ran smiled back, but her eyes were challenging Fuusen. Fuusen shuddered under the pressure."
+msgstr ""
+
+#: 00303:181
+
+msgid "{Fuusen}\n\"W-what?!\""
+msgstr ""
+
+#: 00303:184
+
+msgid "{Ran}\n\"I'm telling you I don't want to hear people talking behind my back about who I hang out with. I will do things the way I want to.\""
+msgstr ""
+
+#: 00303:187
+
+msgid "{Fuusen}\n\"H-hmph! Look at you talk big! You clearly don't know the meaning of sisterhood.\""
+msgstr ""
+
+#: 00303:190
+
+msgid "{Ran}\n\"If your idea of sisterhood means going to the toilet in groups, then count me out.\""
+msgstr ""
+
+#: 00303:191
+
+msgid "Ran scoffed at Fuusen's insult. She was acting cool, like a lone wolf, but... was Ran an outsider in this class?"
+msgstr ""
+
+#: 00303:192
+
+msgid "Well, Ran didn't seem to care."
+msgstr ""
+
+#: 00303:193
+
+msgid "{Andou}\n\"Fine. Let's just leave this thing alone.\""
+msgstr ""
+
+#: 00303:196
+
+msgid "{Fuusen}\n\"Boys, especially you four, let me tell you this now: we girls won't talk to any of you, so don't come chatting us up or trying to be buddy-buddy.\""
+msgstr ""
+
+#: 00303:197
+
+msgid "{Kazushi}\n\"Huh? No one else said that. Are you saying you're going to ignore us? Is this some kind of bullying?\""
+msgstr ""
+
+#: 00303:203
+
+msgid "{Sakura}\n\"Am I included in this?\""
+msgstr ""
+
+#: 00303:208
+
+msgid "{Haruka}\n\"I'm not, right? I'm not even in this class.\""
+msgstr ""
+
+#: 00303:215
+
+msgid "{Fuusen}\n\"Sakura, Haruka-chan, if you have any self-respect, then you better not get involved with any boys.\""
+msgstr ""
+
+#: 00303:218
+
+msgid "{Andou}\n\"I don't want to talk to some sex criminal who steals underwear. I don't even want to breath the same air as them.\""
+msgstr ""
+
+#: 00303:219
+
+msgid "{Kazushi}\n\"Wha?! Don't you think that's a little too spiteful?\""
+msgstr ""
+
+#: 00303:220
+
+msgid "What's the point of coming to an all girls' school if they won't talk to us?"
+msgstr ""
+
+#: 00303:225
+
+msgid "{Ran}\n\"Wow, they really hate you.\""
+msgstr ""
+
+#: 00303:229
+
+msgid "{Haruka}\n\"Come on, everybody. Let's stop fighting and try to get along.\""
+msgstr ""
+
+#: 00303:235
+
+msgid "{Andou}\n\"No way! They ate my panties!! They're perverts!\""
+msgstr ""
+
+#: 00303:236
+
+msgid "{Kazushi}\n\"Hang on, we didn't eat them! Who the hell would eat panties?!\""
+msgstr ""
+
+#: 00303:239
+
+msgid "{Andou}\n\"Hah! That's exactly what you did! I can't believe we're so unfortunate to be in the same class as these things.\""
+msgstr ""
+
+#: 00303:240
+
+msgid "{Fuusen}\n\"Doesn't it smell bad around here? I need to disinfect it.\""
+msgstr ""
+
+#: 00303:242
+
+msgid "Fuusen pulled out a bottle of perfume and started spraying the air around us."
+msgstr ""
+
+#: 00303:243
+
+msgid "{Kazushi}\n\"Uwah! This reeks! What is it?!\""
+msgstr ""
+
+#: 00303:244
+
+msgid "{Fuusen}\n\"Hah! Commoner! How can you say that Dior's Poison reeks?!\""
+msgstr ""
+
+#: 00303:246
+
+msgid "{Kazushi}\n\"Oh, so it is poison! Are you some kind of wrestling heel now?! *Cough, cough, cough!*\""
+msgstr ""
+
+#: 00303:247
+
+msgid "She kept spraying her poisonous mist on me."
+msgstr ""
+
+#: 00303:251
+
+msgid "That's when the door was slammed open."
+msgstr ""
+
+#: 00303:256
+
+msgid "{Daigo}\n\"What the hell are you guys doing!?\""
+msgstr ""
+
+#: 00303:260
+
+msgid "Daigo just returned from the bathroom and rushed towards us."
+msgstr ""
+
+#: 00303:265
+
+msgid "{Fuusen}\n\"Uh-oh, here comes pops.\""
+msgstr ""
+
+#: 00303:268
+
+msgid "{Daigo}\n\"Don't call me pops!\""
+msgstr ""
+
+#: 00303:272
+
+msgid "{Andou}\n\"If you're middle-aged, you're middle aged. I can't help that.\""
+msgstr ""
+
+#: 00303:275
+
+msgid "{Daigo}\n\"Urgh... F-fine, talk about me, but don't talk shit about my friends!\""
+msgstr ""
+
+#: 00303:278
+
+msgid "{Andou}\n\"What's he saying? All I hear are mumbles. What a creep.\""
+msgstr ""
+
+#: 00303:279
+
+msgid "{Daigo}\n\"Kazushi... is... our...!\""
+msgstr ""
+
+#: 00303:280
+
+msgid "He started having trouble getting the words out. His giant body trembled. This is bad. When he gets cornered, he explodes."
+msgstr ""
+
+#: 00303:287
+
+msgid "{Pierre}\n\"What's going on?\""
+msgstr ""
+
+#: 00303:288
+
+msgid "Pierre and Appo came back with perfect timing."
+msgstr ""
+
+#: 00303:295
+
+msgid "{Appo}\n\"What? This mis-carved bitch is at it again? Quit harassing my friends!\""
+msgstr ""
+
+#: 00303:296
+
+msgid "They rushed for us too. Now it was three boys against two girls and one big mess waiting to happen."
+msgstr ""
+
+#: 00303:304
+
+msgid "{Fuusen}\n\"What are you covering for each other for? You're all a bunch of creeps!\""
+msgstr ""
+
+#: 00303:305
+
+msgid "{Andou}\n\"I've had enough, let's go.\""
+msgstr ""
+
+#: 00303:306
+
+msgid "{Fuusen}\n\"Sakura, Haruka-chan, you two come with us.\""
+msgstr ""
+
+#: 00303:313
+
+msgid "{Haruka}\n\"Uwah? Me too?\""
+msgstr ""
+
+#: 00303:314
+
+msgid "{Sakura}\n\"Uh, umm, I'll see you later, Haruma-kun and friends.\""
+msgstr ""
+
+#: 00303:333
+
+msgid "{Appo}\n\"I never want to see you again!\""
+msgstr ""
+
+#: 00303:339
+
+msgid "{Ran}\n\"Jeez, they come in, and all they do is cause a fuss. This is why I hate girls.\""
+msgstr ""
+
+#: 00303:340
+
+msgid "I was really worried about Ran when she said that. Is she getting along well with the girls in our class?"
+msgstr ""
+
+#: 00303:341
+
+msgid "{Kazushi}\n\"What about you, Ran? You don't have to stick up for us.\""
+msgstr ""
+
+#: 00303:344
+
+msgid "{Ran}\n\"I don't care.\""
+msgstr ""
+
+#: 00303:345
+
+msgid "{Kazushi}\n\"Don't care...but?\""
+msgstr ""
+
+#: 00303:348
+
+msgid "{Ran}\n\"It doesn't matter, okay? Besides, you guys really look like losers.\""
+msgstr ""
+
+#: 00303:349
+
+msgid "She looked at us with a triumphant grin. Us? Losers?"
+msgstr ""
+
+#: 00303:350
+
+msgid "{Ran}\n\"The biggest mistake you guys made was not letting me handle everything. Next time, let me take care of it.\""
+msgstr ""
+
+#: 00303:351
+
+msgid "{Kazushi}\n\"What are you talking about?\""
+msgstr ""
+
+#: 00303:354
+
+msgid "{Ran}\n\"I'm talking about your failure yesterday. You didn't go through me, you wound up in that horrible predicament.\""
+msgstr ""
+
+#: 00303:357
+
+msgid "{Ran}\n\"Next time you guys plan something, you should consult with me first.\nI know everything about this school.\""
+msgstr ""
+
+#: 00303:360
+
+msgid "{Ran}\n\"I can even show you around the off-limits places where boys only dream of going.\""
+msgstr ""
+
+#: 00303:366
+
+msgid "{Appo}\n\"Are you serious!?\""
+msgstr ""
+
+#: 00303:367
+
+msgid "{Pierre}\n\"Is that place Heaven?!\""
+msgstr ""
+
+#: 00303:372
+
+msgid "{Ran}\n\"You will ascend directly to heaven. Of course, it depends on how dedicated you are.\""
+msgstr ""
+
+#: 00303:378
+
+msgid "{Appo}\n\"What are you saying, madam? We are always of utmost devotion. Whip 'em out guys!\""
+msgstr ""
+
+#: 00303:385
+
+msgid "{Daigo}\n\"Whip what out?\""
+msgstr ""
+
+#: 00303:388
+
+msgid "{Appo}\n\"We need to show her how sincere our devotion is. Come on, come on.\""
+msgstr ""
+
+#: 00303:394
+
+msgid "{Ran}\n\"Hey, you're smarter than I thought. The rest of you should learn from him.\""
+msgstr ""
+
+#: 00303:395
+
+msgid "{Kazushi}\n\"Fine.\""
+msgstr ""
+
+#: 00303:396
+
+msgid "I could feel my wallet getting lighter and lighter every day."
+msgstr ""
+
+#: 00303:401
+
+msgid "Ran guided us to an ornate building."
+msgstr ""
+
+#: 00303:402
+
+msgid "{Kazushi}\n\"Hey, isn't this...\""
+msgstr ""
+
+#: 00303:403
+
+msgid "Yep, this is the girl's dorm. The very place we dreamed of living in before we found out about our shack."
+msgstr ""
+
+#: 00303:406
+
+msgid "{Ran}\n\"Welcome, welcome, this is the girl's dorm. Within lies all everything both open and hidden about the girls of Eiden Academy.\""
+msgstr ""
+
+#: 00303:412
+
+msgid "{Appo}\n\"I'm feeling faint already...\""
+msgstr ""
+
+#: 00303:413
+
+msgid "{Pierre}\n\"Are you OK, Appo?\nACK! You've got a bloody nose!\""
+msgstr ""
+
+#: 00303:417
+
+msgid "{Ran}\n\"I'm pleased to see you're already enjoying my services.\""
+msgstr ""
+
+#: 00303:421
+
+msgid "{Daigo}\n\"Is it OK to take pictures once we're inside?\""
+msgstr ""
+
+#: 00303:424
+
+msgid "{Ran}\n\"Photography will incur an additional fee. The cost is 500 yen per photo, or 5,000 yen to take as many as you'd like.\""
+msgstr ""
+
+#: 00303:425
+
+msgid "{Kazushi}\n\"Wha!? That's too much!\""
+msgstr ""
+
+#: 00303:428
+
+msgid "{Daigo}\n\"Here. 5,000 yen.\""
+msgstr ""
+
+#: 00303:429
+
+msgid "{Kazushi}\n\"..the hell!? He's actually paying it!\""
+msgstr ""
+
+#: 00303:430
+
+msgid "I didn't know Daigo was rich."
+msgstr ""
+
+#: 00303:437
+
+msgid "{Appo}\n\"And me.\""
+msgstr ""
+
+#: 00303:438
+
+msgid "{Pierre}\n\"And me.\""
+msgstr ""
+
+#: 00303:439
+
+msgid "Everyone paid her 5,000 yen. I didn't know any of you were so wealthy..."
+msgstr ""
+
+#: 00303:444
+
+msgid "{Ran}\n\"What about you, Kazushi?\""
+msgstr ""
+
+#: 00303:445
+
+msgid "{Kazushi}\n\"I didn't bring my camera.\""
+msgstr ""
+
+#: 00303:446
+
+msgid "Not to mention that you've already taken all of my money."
+msgstr ""
+
+#: 00303:447
+
+msgid "{Ran}\n\"I see. Now then, is everybody ready?\""
+msgstr ""
+
+#: 00303:455
+
+msgid "Everyone else was in a trance, like living bobble-heads."
+msgstr ""
+
+#: 00303:461
+
+msgid "{Ran}\n\"Then let us begin the Eiden Academy Mystery Tour!\""
+msgstr ""
+
+#: 00303:466
+
+msgid "{Appo}\n\"Be quiet, guys!\""
+msgstr ""
+
+#: 00303:467
+
+msgid "{Pierre}\n\"Got it.\""
+msgstr ""
+
+#: 00303:468
+
+msgid "The four of us tiptoed our way through the hall just like thieves. Though what we were trying to do made us no better than thieves."
+msgstr ""
+
+#: 00303:471
+
+msgid "{Ran}\n\"You guys are too tense. Relax.\""
+msgstr ""
+
+#: 00303:472
+
+msgid "{Kazushi}\n\"But we're going to be in serious trouble if we get caught. Men are forbidden here, right?\""
+msgstr ""
+
+#: 00303:473
+
+msgid "If we're caught walking along in here, we're done for. As soon as we're spotted, we're out."
+msgstr ""
+
+#: 00303:476
+
+msgid "{Ran}\n\"You're fine. What time is it? It's class time, right? No one will be here.\""
+msgstr ""
+
+#: 00303:477
+
+msgid "Ran easily reassured us. I had completely forgotten about that. No student would be in the dorm now."
+msgstr ""
+
+#: 00303:483
+
+msgid "{Appo}\n\"There's no one here?\""
+msgstr ""
+
+#: 00303:484
+
+msgid "{Pierre}\n\"What's the point of sneaking into a dorm with no one in it?\""
+msgstr ""
+
+#: 00303:489
+
+msgid "{Ran}\n\"For a gang of perverts, you're pretty dumb. This is the only time you're able to sneak into the girls' dorm. Because no one is here, you can walk around and enjoy it.\""
+msgstr ""
+
+#: 00303:490
+
+msgid "{Kazushi}\n\"I guess that's true.\""
+msgstr ""
+
+#: 00303:491
+
+msgid "If we came while people were around, we'd get caught in no time."
+msgstr ""
+
+#: 00303:494
+
+msgid "{Ran}\n\"Besides, it's not like there isn't anybody here.\""
+msgstr ""
+
+#: 00303:495
+
+msgid "Ran was up to something."
+msgstr ""
+
+#: 00303:500
+
+msgid "{Appo}\n\"Who's here?\""
+msgstr ""
+
+#: 00303:503
+
+msgid "{Ran}\n\"Heh heh, just keep quiet and follow me. You'll get what you paid for.\""
+msgstr ""
+
+#: 00303:508
+
+msgid "{Ran}\n\"Shh. Be quiet now.\""
+msgstr ""
+
+#: 00303:509
+
+msgid "Ran led the way and signalled for us to be silent. Then she stopped in front of the door to one of the rooms."
+msgstr ""
+
+#: 00303:514
+
+msgid "{Pierre}\n\"Whose room is this?\""
+msgstr ""
+
+#: 00303:515
+
+msgid "{Ran}\n\"At this time, all of the students are in class. So, the only remaining people who could possibly in this dorm are?\""
+msgstr ""
+
+#: 00303:516
+
+msgid "{Kazushi}\n\"The old lady who cleans?\""
+msgstr ""
+
+#: 00303:520
+
+msgid "{Daigo}\n\"The old ladies who cook?\""
+msgstr ""
+
+#: 00303:524
+
+msgid "{Pierre}\n\"The principal?\""
+msgstr ""
+
+#: 00303:527
+
+msgid "{Ran}\n\"You all like old ladies don't you? Some fetish for mature women?\""
+msgstr ""
+
+#: 00303:528
+
+msgid "{Kazushi}\n\"No.\""
+msgstr ""
+
+#: 00303:531
+
+msgid "{Ran}\n\"Do you think I set an entry fee to show you some old hag's room?\""
+msgstr ""
+
+#: 00303:534
+
+msgid "{Ran}\n\"Though, if you are interested, let me know. I know a good place for that and we can negotiate for that later.\""
+msgstr ""
+
+#: 00303:538
+
+msgid "{Appo}\n\"We're not interested.\""
+msgstr ""
+
+#: 00303:542
+
+msgid "{Pierre}\n\"So whose room is this, then?\""
+msgstr ""
+
+#: 00303:545
+
+msgid "{Ran}\n\"If you think for a moment, you should know. Who do you think of who isn't an old lady or a student?\""
+msgstr ""
+
+#: 00303:546
+
+msgid "It's not a girl in class, but it's not an old lady either. A young woman who's not a student..."
+msgstr ""
+
+#: 00303:547
+
+msgid "{Kazushi}\n\"Ah!!\""
+msgstr ""
+
+#: 00303:556
+
+msgid "It struck us all like lighting."
+msgstr ""
+
+#: 00303:557
+
+msgid "{Appo}\n\"I-I know! It's Mei-chan's!\""
+msgstr ""
+
+#: 00303:563
+
+msgid "{Ran}\n\"Bingo! Correct!\""
+msgstr ""
+
+#: 00303:567
+
+msgid "{Pierre}\n\"Ohhhhhh, so this is her room.\""
+msgstr ""
+
+#: 00303:568
+
+msgid "It was amazing. All of a sudden, the room looked special."
+msgstr ""
+
+#: 00303:573
+
+msgid "{Daigo}\n\"S-sensei's i-inside?!\""
+msgstr ""
+
+#: 00303:577
+
+msgid "{Ran}\n\"Mei-chan's routine is to take a one-hour nap after eating lunch. And it's just after lunch right now.\""
+msgstr ""
+
+#: 00303:585
+
+msgid "{Appo}\n\"I can see her sleeping!?\""
+msgstr ""
+
+#: 00303:586
+
+msgid "{Pierre}\n\"Move!! Let me see!!\""
+msgstr ""
+
+#: 00303:587
+
+msgid "{Daigo}\n\"Me too!\""
+msgstr ""
+
+#: 00303:591
+
+msgid "My 'friends' started fighting for the best seat.\nRan gave me a smile."
+msgstr ""
+
+#: 00303:594
+
+msgid "{Ran}\n\"You're not interested, Kazushi?\""
+msgstr ""
+
+#: 00303:595
+
+msgid "{Kazushi}\n\"I'm too late! There's no room!\""
+msgstr ""
+
+#: 00303:598
+
+msgid "{Ran}\n\"Heh heh, how unfortunate. For an extra charge, I can show you to a VIP seat?\""
+msgstr ""
+
+#: 00303:599
+
+msgid "{Kazushi}\n\"I don't have any more money.\""
+msgstr ""
+
+#: 00303:602
+
+msgid "{Ran}\n\"Go earn some. You're here to earn money and finance me. Go work hard, Kazushi.\""
+msgstr ""
+
+#: 00303:605
+
+msgid "{Kazushi}\n\"What kind of a request is that?\""
+msgstr ""
+
+#: 00303:606
+
+msgid "I'm impressed she can say that with such confidence. It's hard to argue when she's that clear."
+msgstr ""
+
+#: 00303:607
+
+msgid "{Mei}\n\"Mmmmm......\""
+msgstr ""
+
+#: 00303:608
+
+msgid "We heard her waking up."
+msgstr ""
+
+#: 00303:609
+
+msgid "{Kazushi}\n\"Wasn't that her voice?\""
+msgstr ""
+
+#: 00303:610
+
+msgid "{Pierre}\n\"Mei-chan woke up. Wow, her sleepy eyes are so sexy.\""
+msgstr ""
+
+#: 00303:611
+
+msgid "{Kazushi}\n\"That sexy? Let me see too.\""
+msgstr ""
+
+#: 00303:612
+
+msgid "{Appo}\n\"S-s-she started changing! Strip, strip, strip, strip!\""
+msgstr ""
+
+#: 00303:613
+
+msgid "{Kazushi}\n\"Say wha!?\""
+msgstr ""
+
+#: 00303:614
+
+msgid "I squeezed in between them and peeked inside."
+msgstr ""
+
+#: 00303:618
+
+msgid "{Kazushi}\n\"Oh my......\""
+msgstr ""
+
+#: 00303:622
+
+msgid "This is the first time we see her wearing casual clothes. Her thin shirt was sweaty and sexily sticking to her skin."
+msgstr ""
+
+#: 00303:623
+
+msgid "{Mei}\n\"My underwear got sweaty too. I guess I'll need to change it.\""
+msgstr ""
+
+#: 00303:624
+
+msgid "{Pierre}\n\"U-un-under...\""
+msgstr ""
+
+#: 00303:625
+
+msgid "{Appo}\n\"Strip! Strip the underwear off!\""
+msgstr ""
+
+#: 00303:626
+
+msgid "{Kazushi}\n\"Wow. This is getting interesting.\""
+msgstr ""
+
+#: 00303:627
+
+msgid "{Ran}\n\"This service is too good. I should charge extra.\""
+msgstr ""
+
+#: 00303:628
+
+msgid "{Kazushi}\n\"Oh my......\""
+msgstr ""
+
+#: 00303:629
+
+msgid "{Appo}\n\"I-I saw so much, I actually feel guilty about that!\""
+msgstr ""
+
+#: 00303:630
+
+msgid "{Pierre}\n\"Me too. Ran-chan, I'll pay the additional fee.\""
+msgstr ""
+
+#: 00303:631
+
+msgid "{Daigo}\n\"Me, too.\""
+msgstr ""
+
+#: 00303:632
+
+msgid "{Ran}\n\"Wow, really? I'm glad you're all cowards.\""
+msgstr ""
+
+#: 00303:633
+
+msgid "I don't know why we felt like we had to pay Ran extra or why we felt like we'd be forgiven if we paid her, but we all paid up."
+msgstr ""
+
+#: 00303:634
+
+msgid "Then, once we paid her, we felt like getting our money's worth."
+msgstr ""
+
+#: 00303:635
+
+msgid "{Kazushi}\n\"All right, guys. Let's get back to the show.\""
+msgstr ""
+
+#: 00303:636
+
+msgid "Mei-sensei was in nothing but her underwear."
+msgstr ""
+
+#: 00303:637
+
+msgid "{Mei}\n\"I wish I had time for a shower. I should at least wipe myself off and change...\""
+msgstr ""
+
+#: 00303:638
+
+msgid "She turned her back to us. All we could see was her sexy back, and her front reflected in her mirror."
+msgstr ""
+
+#: 00303:639
+
+msgid "{Pierre}\n\"What a figure! Look at the legs she's got on her!\""
+msgstr ""
+
+#: 00303:640
+
+msgid "{Appo}\n\"Her boobs are plump and bouncy. That! That my friends, is a woman! The other girls need to learn a lesson from her!\""
+msgstr ""
+
+#: 00303:641
+
+msgid "{Ran}\n\"Have you guys forgotten that I'm standing right here?\""
+msgstr ""
+
+#: 00303:642
+
+msgid "Most likely. They were too focused on peeking to notice anything going on around them."
+msgstr ""
+
+#: 00303:643
+
+msgid "Our eyes were fixed on every move Mei-sensei made."
+msgstr ""
+
+#: 00303:644
+
+msgid "{Ran}\n\"This isn't fun anymore.\""
+msgstr ""
+
+#: 00303:645
+
+msgid "{Kazushi}\n\"Come on, Ran. You should watch too. You don't get this chance often.\""
+msgstr ""
+
+#: 00303:646
+
+msgid "{Ran}\n\"I'm being completely treated like a guy, aren't I?\""
+msgstr ""
+
+#: 00303:647
+
+msgid "Ran still ended up looking inside the room anyways."
+msgstr ""
+
+#: 00303:648
+
+msgid "{Ran}\n\"Yeah, she's sexy......\""
+msgstr ""
+
+#: 00303:649
+
+msgid "{Appo}\n\"Geh heh heh...\""
+msgstr ""
+
+#: 00303:650
+
+msgid "{Pierre}\n\"Come on, show me your tits.\""
+msgstr ""
+
+#: 00303:651
+
+msgid "{Ran}\n\"But sexy enough to make you all look like this?\""
+msgstr ""
+
+#: 00303:652
+
+msgid "Ran's voice carried a hint of jealousy."
+msgstr ""
+
+#: 00303:653
+
+msgid "{Mei}\n\"I hate summer. I get too sweaty between my boobs. This could cause a rash.\""
+msgstr ""
+
+#: 00303:654
+
+msgid "She was about to wipe the sweat from her cleavage! Her hands reached around her back to the hook of her bra."
+msgstr ""
+
+#: 00303:655
+
+msgid "{Boys}\n\"Gulp!\""
+msgstr ""
+
+#: 00303:656
+
+msgid "We all stopped breathing in anticipation of her next move."
+msgstr ""
+
+#: 00303:657
+
+msgid "But for some reason, she froze in place."
+msgstr ""
+
+#: 00303:658
+
+msgid "{Mei}\n\"..................\""
+msgstr ""
+
+#: 00303:659
+
+msgid "She had a sudden flash of inspiration."
+msgstr ""
+
+#: 00303:660
+
+msgid "We couldn't move, either. We kept silent."
+msgstr ""
+
+#: 00303:661
+
+msgid "She started looking at herself in the mirror."
+msgstr ""
+
+#: 00303:662
+
+msgid "{Mei}\n\"Maybe I'm... an alien from outer space.\""
+msgstr ""
+
+#: 00303:663
+
+msgid "{Boys}\n\"What?!\""
+msgstr ""
+
+#: 00303:664
+
+msgid "She finally moved to mutter that?! What does Mei-sensei mean she's an alien?"
+msgstr ""
+
+#: 00303:665
+
+msgid "{Pierre}\n\"Is Mei-chan an alien?\""
+msgstr ""
+
+#: 00303:666
+
+msgid "{Ran}\n\"I don't know. I've never heard she is.\""
+msgstr ""
+
+#: 00303:667
+
+msgid "{Appo}\n\"But she thinks she is.\""
+msgstr ""
+
+#: 00303:668
+
+msgid "{Kazushi}\n\"She's an alien?\""
+msgstr ""
+
+#: 00303:669
+
+msgid "{Mei}\n\"..................\""
+msgstr ""
+
+#: 00303:670
+
+msgid "Sensei stared in the mirror as if she was trying to uncover her own identity."
+msgstr ""
+
+#: 00303:671
+
+msgid "Then her lips moved again."
+msgstr ""
+
+#: 00303:672
+
+msgid "{Mei}\n\"MEI in Black. Men In Black.\""
+msgstr ""
+
+#: 00303:674
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 00303:675
+
+msgid "{Mei}\n\"I can use that. I should write it down.\""
+msgstr ""
+
+#: 00303:676
+
+msgid "She grabbed a nearby notepad and jotted it down."
+msgstr ""
+
+#: 00303:679
+
+msgid "{Daigo}\n\"Mei in black......?\""
+msgstr ""
+
+#: 00303:680
+
+msgid "{Pierre}\n\"Another pun?\""
+msgstr ""
+
+#: 00303:681
+
+msgid "{Appo}\n\"Sensei's such a clever little MEInx...\""
+msgstr ""
+
+#: 00303:682
+
+msgid "Appo's bad joke filled everyone with the urge to kill. Yet that aside..."
+msgstr ""
+
+#: 00303:683
+
+msgid "{Daigo}\n\"Hey......\""
+msgstr ""
+
+#: 00303:685
+
+msgid "By the time we recovered from the bad puns and started watching again, she was already wearing a new bra."
+msgstr ""
+
+#: 00303:686
+
+msgid "{Appo}\n\"We missed it!?\""
+msgstr ""
+
+#: 00303:687
+
+msgid "{Pierre}\n\"Shiiiiit!\""
+msgstr ""
+
+#: 00303:688
+
+msgid "{Ran}\n\"Too bad, boys.\""
+msgstr ""
+
+#: 00303:689
+
+msgid "{Daigo}\n\"A black bra. So sexy...\""
+msgstr ""
+
+#: 00303:690
+
+msgid "{Mei}\n\"Yes, today we'll go with a black bra. My bra is black. Mei In Black, after all.\""
+msgstr ""
+
+#: 00303:691
+
+msgid "{Appo}\n\"Ah, ah, ahhh...\""
+msgstr ""
+
+#: 00303:692
+
+msgid "{Pierre}\n\"I'm down...\""
+msgstr ""
+
+#: 00303:693
+
+msgid "{Mei}\n\"I'm on a roll today. I bet I'll do great this afternoon, too.\""
+msgstr ""
+
+#: 00303:694
+
+msgid "She thought it was hilarious."
+msgstr ""
+
+#: 00303:695
+
+msgid "{Kazushi}\n\"Oh...\""
+msgstr ""
+
+#: 00303:696
+
+msgid "H-huh? Is it just me, or is she looking at us in the mirror?"
+msgstr ""
+
+#: 00303:697
+
+msgid "{Mei}\n\"..................\""
+msgstr ""
+
+#: 00303:698
+
+msgid "S-she sees us, right? No, no way..."
+msgstr ""
+
+#: 00303:699
+
+msgid "{Kazushi}\n\"Let's try this?\""
+msgstr ""
+
+#: 00303:700
+
+msgid "I made a funny face just to see if she'd noticed us."
+msgstr ""
+
+#: 00303:701
+
+msgid "{Mei}\n\"Pfft!\""
+msgstr ""
+
+#: 00303:702
+
+msgid "She laughed! Shit, she can see us! She knows we're here!!"
+msgstr ""
+
+#: 00303:703
+
+msgid "{Appo}\n\"Oh yeah, where's my camera?\""
+msgstr ""
+
+#: 00303:704
+
+msgid "{Pierre}\n\"That's right! We paid 5,000 yen for photo rights.\""
+msgstr ""
+
+#: 00303:705
+
+msgid "The guys were finally getting ready to take pictures. They didn't realize that she had noticed us!"
+msgstr ""
+
+#: 00303:706
+
+msgid "{Mei}\n\"..................\""
+msgstr ""
+
+#: 00303:707
+
+msgid "We need to run now. I don't know why, but sensei's willing to act like she doesn't notice."
+msgstr ""
+
+#: 00303:708
+
+msgid "{Kazushi}\n\"Hey, let's get out of here. We'll be in trouble if anyone comes!\""
+msgstr ""
+
+#: 00303:709
+
+msgid "{Appo}\n\"What are you saying? Stupid Kazushi!\""
+msgstr ""
+
+#: 00303:710
+
+msgid "{Pierre}\n\"Remember? It's during class time. Now for pictures!\""
+msgstr ""
+
+#: 00303:711
+
+msgid "Pictures are bad, guys! If you take any, she won't stay quiet!"
+msgstr ""
+
+#: 00303:712
+
+msgid "{Appo}\n\"Ready? Cheese!\""
+msgstr ""
+
+#: 00303:713
+
+msgid "{Kazushi}\n\"Dumbass!\""
+msgstr ""
+
+#: 00303:714
+
+msgid "I covered up his camera lens."
+msgstr ""
+
+#: 00303:720
+
+msgid "{Appo}\n\"Ah! You covered it with your hand! What are you doing?!\""
+msgstr ""
+
+#: 00303:721
+
+msgid "{Kazushi}\n\"We really need to stop. Now.\""
+msgstr ""
+
+#: 00303:726
+
+msgid "{Ran}\n\"Yeah, he's right. You hadn't turned your flash off either.\""
+msgstr ""
+
+#: 00303:730
+
+msgid "{Pierre}\n\"Yeah, what idiot keeps the flash on when he's taking undercover pictures? Mei-chan'll notice!\""
+msgstr ""
+
+#: 00303:733
+
+msgid "{Appo}\n\"Sorry, I still don't quite get how it works...\""
+msgstr ""
+
+#: 00303:738
+
+msgid "{Ran}\n\"No, this isn't the time! Oh, we're busted.\""
+msgstr ""
+
+#: 00303:739
+
+msgid "{Kazushi}\n\"Busted? Uwah!?\""
+msgstr ""
+
+#: 00303:747
+
+msgid "The mysterious weeds from the corridors were rushing towards us."
+msgstr ""
+
+#: 00303:752
+
+msgid "{Pierre}\n\"What is that!?\""
+msgstr ""
+
+#: 00303:753
+
+msgid "Ivy! The ivy was snaking its way over to get us!"
+msgstr ""
+
+#: 00303:754
+
+msgid "{Appo}\n\"What's going on!?\""
+msgstr ""
+
+#: 00303:759
+
+msgid "{Ran}\n\"It's the dorm's security system. It found us because of Appo's flash.\""
+msgstr ""
+
+#: 00303:760
+
+msgid "{Kazushi}\n\"You call this a security system!?\""
+msgstr ""
+
+#: 00303:761
+
+msgid "Is this because of alchemy as well? That ivy is moving like some living creature!"
+msgstr ""
+
+#: 00303:762
+
+msgid "{Ran}\n\"You don't want it to catch you! Now run!\""
+msgstr ""
+
+#: 00303:767
+
+msgid "{Daigo}\n\"Run where?\""
+msgstr ""
+
+#: 00303:768
+
+msgid "Several vines of ivy were coming at us from all directions. There was no escape to our left or right."
+msgstr ""
+
+#: 00303:773
+
+msgid "{Ran}\n\"There! Through the window! Jump!\""
+msgstr ""
+
+#: 00303:774
+
+msgid "Ran opened the window telling us to jump."
+msgstr ""
+
+#: 00303:775
+
+msgid "{Kazushi}\n\"Got it! Come on!\""
+msgstr ""
+
+#: 00303:777
+
+msgid "{Pierre}\n\"Ahhhhhh!!\""
+msgstr ""
+
+#: 00303:779
+
+msgid "We jumped through the window. We became birds."
+msgstr ""
+
+#: 00303:781
+
+msgid "{Pierre}\n\"This is 3rd floor!!!\""
+msgstr ""
+
+#: 00303:783
+
+msgid "{Appo}\n\"No!!\""
+msgstr ""
+
+#: 00303:792
+
+msgid "{Ran}\n\"Are you guys all right......?\""
+msgstr ""
+
+#: 00303:793
+
+msgid "{Kazushi}\n\"What do you think?\""
+msgstr ""
+
+#: 00303:794
+
+msgid "{Ran}\n\"You're still alive! That's all that matters!\""
+msgstr ""
+

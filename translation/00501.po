@@ -1,0 +1,838 @@
+# Comments for '00501'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 00501:11
+
+msgid "I'd love to take Haruka up on her offer. I am hungry, and I'm hesitant to borrow money from sensei."
+msgstr ""
+
+#: 00501:12
+
+msgid "{Kazushi}\n\"Are you sure I can have your lunch box?\""
+msgstr ""
+
+#: 00501:15
+
+msgid "She looked delighted when I asked to make sure."
+msgstr ""
+
+#: 00501:16
+
+msgid "{Haruka}\n\"You'll eat my bento? Yes, I'm sure it's alright! I'm not sure if you'll like it's taste, though.\""
+msgstr ""
+
+#: 00501:19
+
+msgid "{Mei}\n\"Oh, so you're sharing a bento then? How nice to be young.\""
+msgstr ""
+
+#: 00501:20
+
+msgid "Sensei's teasing smile made me feel bashful. That's right. I'll be sharing it with Haruka, just like a couple."
+msgstr ""
+
+#: 00501:29
+
+msgid "{Pierre}\n\"Hoo, nice work, Kazushi. Was this your plan all along?\""
+msgstr ""
+
+#: 00501:30
+
+msgid "{Appo}\n\"Somebody check his wallet.\""
+msgstr ""
+
+#: 00501:31
+
+msgid "{Daigo}\n\"Kazushi hides his perversion well.\""
+msgstr ""
+
+#: 00501:32
+
+msgid "{Kazushi}\n\"I really don't have any money. Besides, I'd never do anything that crafty.\""
+msgstr ""
+
+#: 00501:35
+
+msgid "{Appo}\n\"Come on, we'll leave those two lovebirds to eat their lunch without us. Meanwhile, why don't we eat lunch together, Mei-chan?\""
+msgstr ""
+
+#: 00501:42
+
+msgid "{Mei}\n\"Yes, yes, but could you at least call me sensei?\""
+msgstr ""
+
+#: 00501:46
+
+msgid "{Pierre}\n\"Hey, don't monopolize Mei-chan! We're eating with you!\""
+msgstr ""
+
+#: 00501:49
+
+msgid "{Mei}\n\"Call me sensei... Hmm, maybe I don't put off enough authority?\""
+msgstr ""
+
+#: 00501:54
+
+msgid "Everyone trod off to the cafeteria. That left the two of us alone. I felt a little shy about it."
+msgstr ""
+
+#: 00501:55
+
+msgid "{Haruka}\n\"Let's go this way.\""
+msgstr ""
+
+#: 00501:56
+
+msgid "Haruka blushed a bit as she smiled too. This is totally what youth is all about. I never expected to get this lucky."
+msgstr ""
+
+#: 00501:57
+
+msgid "It was so worth coming out to this island."
+msgstr ""
+
+#: 00501:64
+
+msgid "We decided to eat outside."
+msgstr ""
+
+#: 00501:65
+
+msgid "{Kazushi}\n\"Do you always bring a bento and eat outside?\""
+msgstr ""
+
+#: 00501:68
+
+msgid "{Haruka}\n\"I like eating outside. Doesn't it make you feel good?\""
+msgstr ""
+
+#: 00501:69
+
+msgid "I looked up the bright, clear blue sky. There weren't any tall buildings around us, so the sky was expansive."
+msgstr ""
+
+#: 00501:70
+
+msgid "Although, in return, we had the noontime sun beating straight down on us."
+msgstr ""
+
+#: 00501:73
+
+msgid "{Haruka}\n\"Let's eat under that tree.\""
+msgstr ""
+
+#: 00501:74
+
+msgid "We spotted a perfect place to shade us from the sunlight."
+msgstr ""
+
+#: 00501:78
+
+msgid "{Kazushi}\n\"It's nice and cool in the shade.\""
+msgstr ""
+
+#: 00501:79
+
+msgid "It's surprising how much difference a little shade can make."
+msgstr ""
+
+#: 00501:80
+
+msgid "{Haruka}\n\"This island never gets too humid, so the weather's nice and crisp. There's also a lot of trees and other plants around.\""
+msgstr ""
+
+#: 00501:81
+
+msgid "She opened her bento box.\nIt was a pretty lunch with lots of rice and side dishes packed separately."
+msgstr ""
+
+#: 00501:82
+
+msgid "{Kazushi}\n\"Wow, you really prepared a lot of stuff. I was just expecting something small and light.\""
+msgstr ""
+
+#: 00501:83
+
+msgid "{Haruka}\n\"I told you, you don't have to worry about taking away my food.\""
+msgstr ""
+
+#: 00501:84
+
+msgid "The wide assortment of dishes made her lunchbox appealingly colourful. It all looked delicious."
+msgstr ""
+
+#: 00501:85
+
+msgid "{Kazushi}\n\"This looks really good! Did you make all this?\""
+msgstr ""
+
+#: 00501:86
+
+msgid "{Haruka}\n\"Yep! I'm not sure if it turned out well, though.\""
+msgstr ""
+
+#: 00501:87
+
+msgid "She's definitely being modest. It looked good enough to sell."
+msgstr ""
+
+#: 00501:88
+
+msgid "{Kazushi}\n\"I can tell it's delicious just by looking at it.\""
+msgstr ""
+
+#: 00501:89
+
+msgid "{Haruka}\n\"Really? I hope so. Here, go ahead and eat up.\""
+msgstr ""
+
+#: 00501:90
+
+msgid "She handed me a pair of chopsticks. They were short with a feminine design. Is it OK for me to use Haruka's chopsticks?"
+msgstr ""
+
+#: 00501:91
+
+msgid "{Kazushi}\n\"Can I start?\""
+msgstr ""
+
+#: 00501:92
+
+msgid "{Haruka}\n\"Please do.\""
+msgstr ""
+
+#: 00501:93
+
+msgid "I carried the first bite to my mouth."
+msgstr ""
+
+#: 00501:94
+
+msgid "{Kazushi}\n\"Munch, munch...\""
+msgstr ""
+
+#: 00501:95
+
+msgid "{Haruka}\n\"How is it?\""
+msgstr ""
+
+#: 00501:96
+
+msgid "{Kazushi}\n\"Mmmmm..................\""
+msgstr ""
+
+#: 00501:97
+
+msgid "{Haruka}\n\"H-huh? I-is there something wrong?\""
+msgstr ""
+
+#: 00501:98
+
+msgid "{Kazushi}\n\"Delicious!!\""
+msgstr ""
+
+#: 00501:99
+
+msgid "It was like heaven in my mouth!\nI'd never tasted anything like this before. The taste bordered on gourmet."
+msgstr ""
+
+#: 00501:100
+
+msgid "{Kazushi}\n\"Did you really make this, Haruka? I mean, it might be rude to ask that, but that's how delicious it is!\""
+msgstr ""
+
+#: 00501:101
+
+msgid "{Haruka}\n\"I'm glad you liked it.\nI actually used alchemy to prepare it.\""
+msgstr ""
+
+#: 00501:102
+
+msgid "{Kazushi}\n\"What? Alchemy?\""
+msgstr ""
+
+#: 00501:103
+
+msgid "My hands froze as I stared into the bento box."
+msgstr ""
+
+#: 00501:104
+
+msgid "{Kazushi}\n\"Well, nothing looks strange at least?\""
+msgstr ""
+
+#: 00501:105
+
+msgid "{Haruka}\n\"Oh come on, it's not poisoned.\""
+msgstr ""
+
+#: 00501:106
+
+msgid "But still, can you make a bento with alchemy? She didn't slip some dangerous drug in did she?"
+msgstr ""
+
+#: 00501:107
+
+msgid "I fearfully tried another bite."
+msgstr ""
+
+#: 00501:108
+
+msgid "{Kazushi}\n\"Well, I guess it does taste good.\""
+msgstr ""
+
+#: 00501:109
+
+msgid "I mean it's REALLY delicious."
+msgstr ""
+
+#: 00501:110
+
+msgid "{Haruka}\n\"See? It tastes good, doesn't it?\""
+msgstr ""
+
+#: 00501:111
+
+msgid "{Kazushi}\n\"Yeah, it tastes amazing! I didn't know alchemy could do things like this.\""
+msgstr ""
+
+#: 00501:112
+
+msgid "{Haruka}\n\"Alchemy is used to sublimate an object into its perfect state. By using alchemy, a plain, ordinary dish can be made into something delicious like this.\""
+msgstr ""
+
+#: 00501:113
+
+msgid "{Kazushi}\n\"That's really useful.\""
+msgstr ""
+
+#: 00501:114
+
+msgid "{Haruka}\n\"The motto we hold to the alchemy we study at this academy is 'be useful in everyday life'. It's not suspicious like black magic or anything.\""
+msgstr ""
+
+#: 00501:115
+
+msgid "{Kazushi}\n\"Oh, I see. I think black magic is the exact image I had of it. To be honest, I thought it was something sinister.\""
+msgstr ""
+
+#: 00501:116
+
+msgid "I had an image of three witches making some kind of potion in the basement."
+msgstr ""
+
+#: 00501:117
+
+msgid "{Haruka}\n\"Everybody thinks that way in the beginning. Are you getting interested now?\""
+msgstr ""
+
+#: 00501:118
+
+msgid "{Kazushi}\n\"Actually, I am.\""
+msgstr ""
+
+#: 00501:119
+
+msgid "Practical alchemy, huh? I wonder what they'll be teaching us. It might be pretty fun."
+msgstr ""
+
+#: 00501:120
+
+msgid "{Haruka}\n\"I was so sure you'd be interested in alchemy, Kazushi-kun. I hoped you would be.\""
+msgstr ""
+
+#: 00501:121
+
+msgid "I felt like there was something more behind those words of hers. She sounded like she wanted to make me interested in alchemy."
+msgstr ""
+
+#: 00501:122
+
+msgid "{Haruka}\n\"Keep eating. Soon you'll be able to use alchemy to make your own lunches like this.\""
+msgstr ""
+
+#: 00501:123
+
+msgid "{Kazushi}\n\"Wow, that's really convenient...\""
+msgstr ""
+
+#: 00501:124
+
+msgid "Is it? Is it convenient to use alchemy to cook good food? ...It certainly is useful alchemy, though."
+msgstr ""
+
+#: 00501:125
+
+msgid "But more importantly, if you want to make tasty food, shouldn't you just learn to cook?"
+msgstr ""
+
+#: 00501:129
+
+msgid "{Haruka}\n\"What's wrong?\""
+msgstr ""
+
+#: 00501:130
+
+msgid "She gave me a worried look."
+msgstr ""
+
+#: 00501:131
+
+msgid "{Haruka}\n\"Does everything taste right?\""
+msgstr ""
+
+#: 00501:132
+
+msgid "{Kazushi}\n\"No, no. Everything tastes amazing. It all tastes like something that might be served at a high class restaurant. Not that I know what that actually tastes like.\""
+msgstr ""
+
+#: 00501:133
+
+msgid "It's really good. But for some reason, the taste seems to diminish the more I eat."
+msgstr ""
+
+#: 00501:134
+
+msgid "{Kazushi}\n\"..................\""
+msgstr ""
+
+#: 00501:137
+
+msgid "{Haruka}\n\"W-what is it? Did I say something wrong?\""
+msgstr ""
+
+#: 00501:138
+
+msgid "She's worried because I stopped eating and started to think, but I can't explain cooking well either."
+msgstr ""
+
+#: 00501:139
+
+msgid "So then..."
+msgstr ""
+
+#: 00501:140
+
+msgid "{Kazushi}\n\"Do you think we could use the school's kitchen?\""
+msgstr ""
+
+#: 00501:141
+
+msgid "{Haruka}\n\"The one in the cafeteria? Now?\""
+msgstr ""
+
+#: 00501:142
+
+msgid "{Kazushi}\n\"Yeah, now. Lunch is almost over so everyone should be gone, right?\""
+msgstr ""
+
+#: 00501:145
+
+msgid "{Haruka}\n\"I suppose so. I don't think they'd mind, but why do you need to use the kitchen?\""
+msgstr ""
+
+#: 00501:146
+
+msgid "{Kazushi}\n\"Your lunch was so good that it's inspired me to do some cooking.\""
+msgstr ""
+
+#: 00501:149
+
+msgid "{Haruka}\n\"For me?\""
+msgstr ""
+
+#: 00501:150
+
+msgid "{Kazushi}\n\"Come with me.\""
+msgstr ""
+
+#: 00501:157
+
+msgid "{Haruka}\n\"Kazushi-kun! The bell just rang! Lunch is over now!\""
+msgstr ""
+
+#: 00501:158
+
+msgid "{Kazushi}\n\"Yes! I made it in time!\""
+msgstr ""
+
+#: 00501:160
+
+msgid "I jumped out from the kitchen with a dish I prepared for her."
+msgstr ""
+
+#: 00501:161
+
+msgid "{Haruka}\n\"Actually you didn't make it in time.\nLunch is long over.\""
+msgstr ""
+
+#: 00501:162
+
+msgid "{Kazushi}\n\"But you're still hungry, right?\""
+msgstr ""
+
+#: 00501:163
+
+msgid "I placed the dish down in front of her. It was the one dish I could cook, omurice."
+msgstr ""
+
+#: 00501:166
+
+msgid "{Haruka}\n\"Wow!?\nYou made this?\""
+msgstr ""
+
+#: 00501:167
+
+msgid "{Kazushi}\n\"Yeah. It's actually edible.\""
+msgstr ""
+
+#: 00501:170
+
+msgid "{Haruka}\n\"It looks so good!\nBut I don't have time to eat.\""
+msgstr ""
+
+#: 00501:171
+
+msgid "Haruka kept glancing at the clock. As thick-headed as she can be sometimes, she's still earnest and punctual. You could even say she's a stickler for rules."
+msgstr ""
+
+#: 00501:172
+
+msgid "{Kazushi}\n\"It's okay to be a little late. What's one or two hours compared to our long lives?\""
+msgstr ""
+
+#: 00501:173
+
+msgid "I forced the spoon into her hand."
+msgstr ""
+
+#: 00501:174
+
+msgid "{Kazushi}\n\"Bon appetit.\""
+msgstr ""
+
+#: 00501:175
+
+msgid "I stared straight at her and wouldn't let her object. Haruka finally gave in with a sigh."
+msgstr ""
+
+#: 00501:178
+
+msgid "{Haruka}\n\"Oh, all right. I didn't know that you had an aggressive streak.\""
+msgstr ""
+
+#: 00501:179
+
+msgid "{Kazushi}\n\"That's because we've only met just recently. There's still a lot we don't know about each other.\""
+msgstr ""
+
+#: 00501:182
+
+msgid "{Haruka}\n\"OK. First I'll find out if you're as good of a cook as you say.\""
+msgstr ""
+
+#: 00501:183
+
+msgid "She scooped up a spoonful of chicken with rice and half-done eggs."
+msgstr ""
+
+#: 00501:184
+
+msgid "{Haruka}\n*munch munch munch*"
+msgstr ""
+
+#: 00501:185
+
+msgid "{Kazushi}\n\"How is it?\""
+msgstr ""
+
+#: 00501:188
+
+msgid "She gave me a look of surprise."
+msgstr ""
+
+#: 00501:191
+
+msgid "{Haruka}\n\"Yeah... It's really good! Did you actually make this, Kazushi-kun?\""
+msgstr ""
+
+#: 00501:192
+
+msgid "{Kazushi}\n\"I see, it's good, huh? It's good enough that you're doubting my integrity?\""
+msgstr ""
+
+#: 00501:195
+
+msgid "{Haruka}\n\"Sorry.\nBut....this is so yummy!\""
+msgstr ""
+
+#: 00501:198
+
+msgid "She started wolfing it down like there was no tomorrow."
+msgstr ""
+
+#: 00501:199
+
+msgid "I felt really proud to watch her enjoy eating something I made."
+msgstr ""
+
+#: 00501:200
+
+msgid "{Haruka}\n\"It's really good. Kazushi-kun, you're a great cook. I'm really surprised.\""
+msgstr ""
+
+#: 00501:201
+
+msgid "{Kazushi}\n\"Well, this is the only thing I can make well, but my picky little sister loves it. It's the one dish in my repertoire I'm confident in.\""
+msgstr ""
+
+#: 00501:202
+
+msgid "{Kazushi}\n\"I'm glad you liked it too.\""
+msgstr ""
+
+#: 00501:205
+
+msgid "{Haruka}\n\"Yeah, it really is very delicious. It's your little sister's favourite?\""
+msgstr ""
+
+#: 00501:206
+
+msgid "{Kazushi}\n\"She liked it enough to eat it every day.\""
+msgstr ""
+
+#: 00501:209
+
+msgid "{Haruka}\n\"Every day? You had to cook every day?\""
+msgstr ""
+
+#: 00501:210
+
+msgid "She started tossing questions out my way."
+msgstr ""
+
+#: 00501:211
+
+msgid "{Kazushi}\n\"Only for a bit. We had some family issues to sort out a while back, so we kept having bentos and take-out, but...\""
+msgstr ""
+
+#: 00501:212
+
+msgid "Because of mental stress from those issues, and also because she was sick of take-out, my sister stopped eating."
+msgstr ""
+
+#: 00501:213
+
+msgid "When that happened, I tried making all kinds of things to get her to eat something, but she refused them all. When I was at my wits end, I made omurice."
+msgstr ""
+
+#: 00501:214
+
+msgid "{Kazushi}\n\"I still failed on my first attempt. But despite my big failure, my omurice was the first thing she ate.\""
+msgstr ""
+
+#: 00501:215
+
+msgid "She went on and on about how awful it was. I got so fed up with hearing that that I practiced making it. Now, it's the one dish that I can feel confident in making."
+msgstr ""
+
+#: 00501:216
+
+msgid "I was confident because even though my sister refused to eat gourmet sushi or food from famous restaurants, the one thing she would eat was my omurice."
+msgstr ""
+
+#: 00501:219
+
+msgid "{Haruka}\n\"Oh... I see...\""
+msgstr ""
+
+#: 00501:220
+
+msgid "I explained this all to Haruka without going into much detail about our family crisis, but thankfully she didn't pry into it. She's actually quite considerate."
+msgstr ""
+
+#: 00501:221
+
+msgid "{Haruka}\n\"So it tastes this good because you put your heart into learning how to make it for someone. No wonder it has a comforting taste.\""
+msgstr ""
+
+#: 00501:222
+
+msgid "{Kazushi}\n\"I'm not sure about that, but I did do my best to make it so you would enjoy it.\""
+msgstr ""
+
+#: 00501:225
+
+msgid "{Haruka}\n\"Oh... I see...\""
+msgstr ""
+
+#: 00501:226
+
+msgid "She got my point."
+msgstr ""
+
+#: 00501:227
+
+msgid "{Haruka}\n\"I wonder, is that something you can't do with alchemy?\""
+msgstr ""
+
+#: 00501:228
+
+msgid "{Kazushi}\n\"Who knows? I sure don't. But I do think you can make good food without relying on alchemy.\""
+msgstr ""
+
+#: 00501:231
+
+msgid "{Haruka}\n\"You're right. If I want to cook good food, I should just practice hard and do my best.\""
+msgstr ""
+
+#: 00501:234
+
+msgid "{Haruka}\n\"Maybe I've been depending too much on alchemy for everything I do.\""
+msgstr ""
+
+#: 00501:235
+
+msgid "She stared at her hands with a self-deprecating smile."
+msgstr ""
+
+#: 00501:238
+
+msgid "{Haruka}\n\"The truth is, I'm horrible at cooking. I learned alchemy before anything else like cooking.\""
+msgstr ""
+
+#: 00501:239
+
+msgid "{Haruka}\n\"When I first cooked something, it came out terrible. But with alchemy, it was easy to turn into something good.\""
+msgstr ""
+
+#: 00501:240
+
+msgid "{Haruka}\n\"That's why I never really learned how to cook. I never had to try and learn how to do it through trial and error.\""
+msgstr ""
+
+#: 00501:241
+
+msgid "{Kazushi}\n\"I had to struggle so much just to perfect one dish. But when I finally did, I was really happy.\""
+msgstr ""
+
+#: 00501:244
+
+msgid "{Haruka}\n\"I think that's how it's supposed to be. It was just never that way for me.\""
+msgstr ""
+
+#: 00501:245
+
+msgid "Her smile looked so lonely."
+msgstr ""
+
+#: 00501:246
+
+msgid "{Kazushi}\n\"Well, look, everyone is different. I'm not criticizing you or anything, Haruka.\""
+msgstr ""
+
+#: 00501:247
+
+msgid "{Kazushi}\n\"That's probably the normal response for someone who studied alchemy. How would I know?\""
+msgstr ""
+
+#: 00501:250
+
+msgid "{Haruka}\n\"No, by using alchemy for everything, I think I may have lost sight of its true purpose. Thank you for teaching me that, Kazushi-kun.\""
+msgstr ""
+
+#: 00501:251
+
+msgid "She showed me a happy smile."
+msgstr ""
+
+#: 00501:254
+
+msgid "Her sincere look and soft lips caught my eyes."
+msgstr ""
+
+#: 00501:255
+
+msgid "{Haruka}\n\"What's your favourite food, Kazushi-kun?\""
+msgstr ""
+
+#: 00501:256
+
+msgid "{Kazushi}\n\"Me? I umm, well... I like curry, ramen and hamburgers?\""
+msgstr ""
+
+#: 00501:259
+
+msgid "{Haruka}\n\"You like the same things little kids do!\""
+msgstr ""
+
+#: 00501:260
+
+msgid "{Kazushi}\n\"You're right.\nBut boys tend not to have such refined tastes.\""
+msgstr ""
+
+#: 00501:261
+
+msgid "{Haruka}\n\"I see. Well, then next time, I'll have to give real cooking a try. When I do, I'll have you eat my food again, Kazushi-kun.\""
+msgstr ""
+
+#: 00501:264
+
+msgid "{Haruka}\n\"Next time, I'm going to make you say \"This is delicious!\" from the bottom of your heart.\""
+msgstr ""
+
+#: 00501:265
+
+msgid "{Kazushi}\n\"Don't get me wrong. I seriously meant your lunch was delicious today.\""
+msgstr ""
+
+#: 00501:266
+
+msgid "It wasn't a lie. And I knew she knew it."
+msgstr ""
+
+#: 00501:269
+
+msgid "{Haruka}\n\"Of course it was. I worked my best alchemy on that lunch. It should have been on the same level as a top-class restaurant.\""
+msgstr ""
+
+#: 00501:270
+
+msgid "She was silent for a minute after she said that."
+msgstr ""
+
+#: 00501:273
+
+msgid "{Haruka}\n\"But don't expect too much next time, OK? I'm great at alchemy, but I'm really not good at proper cooking.\""
+msgstr ""
+
+#: 00501:274
+
+msgid "{Kazushi}\n\"Don't worry. Just the fact that you cooked for me will make me happy.\""
+msgstr ""
+
+#: 00501:275
+
+msgid "{Haruka}\n\"I'm relieved to hear that. Then look forward to next time without looking forward to too much.\""
+msgstr ""
+
+#: 00501:276
+
+msgid "{Kazushi}\n\"That's a difficult request. I can't wait though.\""
+msgstr ""
+
+#: 00501:277
+
+msgid "I'm kind of looking forward to finding out how bad her cooking is. I swore to myself that I would eat it all, no matter how awful it was."
+msgstr ""
+

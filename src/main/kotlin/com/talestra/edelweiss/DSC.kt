@@ -418,4 +418,4 @@ object DSC {
 }
 
 fun ByteArray.compressDsc(level: Int = 9, seed: Int = 0) = DSC.compress(this, level, seed)
-fun ByteArray.decompressDsc() = DSC.decompress(this)
+fun ByteArray.uncompressDsc() = DSC.decompress(this)

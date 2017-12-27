@@ -1,0 +1,4638 @@
+# Comments for '10101'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 10101:7
+
+msgid "Haruka led me here, to the flower garden where the two of us first met."
+msgstr ""
+
+#: 10101:8
+
+msgid "{Kazushi}\n\"Is this where you wanted to come?\""
+msgstr ""
+
+#: 10101:9
+
+msgid "It was unexpected. I thought she'd want to go to the village or the beach."
+msgstr ""
+
+#: 10101:13
+
+msgid "{Haruka}\n\"This is the place I'm most attached to on this island.\""
+msgstr ""
+
+#: 10101:14
+
+msgid "She sat down as she told me that with a smile.\nAfter hesitating for a moment, I sat down next to her."
+msgstr ""
+
+#: 10101:15
+
+msgid "{Kazushi}\n\"I see......\""
+msgstr ""
+
+#: 10101:16
+
+msgid "My voice cracked. Of course I was hesitating. This was just like a date."
+msgstr ""
+
+#: 10101:17
+
+msgid "Uh-oh, once I focused on that, I started getting nervous."
+msgstr ""
+
+#: 10101:18
+
+msgid "{Kazushi}\n\"Calm down......calm down......\""
+msgstr ""
+
+#: 10101:19
+
+msgid "This may be a good time to remember what Pierre said."
+msgstr ""
+
+#: 10101:25
+
+msgid "{Pierre}\n\"The key to a woman's heart lies between her legs. But unless you feel around at the door, you'll never find where it's hidden.\""
+msgstr ""
+
+#: 10101:28
+
+msgid "{Pierre}\n\"Her heart stands there waiting to be unlocked! So whisper, \"I want to touch your heart,\" and reach between those legs.\""
+msgstr ""
+
+#: 10101:32
+
+msgid "Thank you Pierre."
+msgstr ""
+
+#: 10101:33
+
+msgid "{Kazushi}\n\"I wanna touch your heart!\""
+msgstr ""
+
+#: 10101:34
+
+msgid "I snuck my hand in between Haruka's legs."
+msgstr ""
+
+#: 10101:37
+
+msgid "{Haruka}\n\"Kya!?\""
+msgstr ""
+
+#: 10101:41
+
+msgid "{Kazushi}\n\"Ouch!!\""
+msgstr ""
+
+#: 10101:42
+
+msgid "Before my hand reached the goal,\nshe gave me a good counter punch."
+msgstr ""
+
+#: 10101:45
+
+msgid "{Haruka}\n\"Sorry!!\nMy body instinctively reacted to danger...\""
+msgstr ""
+
+#: 10101:46
+
+msgid "{Kazushi}\n\"No. I'm sorry, too.\""
+msgstr ""
+
+#: 10101:47
+
+msgid "I knew it wasn't a good idea.\nI should be more patient."
+msgstr ""
+
+#: 10101:50
+
+msgid "{Haruka}\n\"Oh, maybe you thought it would be fun to have a wrestling match?\""
+msgstr ""
+
+#: 10101:51
+
+msgid "{Kazushi}\n\"What? Umm......\""
+msgstr ""
+
+#: 10101:52
+
+msgid "I think it's better leave it that way."
+msgstr ""
+
+#: 10101:55
+
+msgid "{Haruka}\n\"I had a feeling just talking would be boring to guys. Would you rather go spearfishing or hunting in the mountains?\""
+msgstr ""
+
+#: 10101:56
+
+msgid "{Kazushi}\n\"Well, it doesn't have to be that wild.\""
+msgstr ""
+
+#: 10101:59
+
+msgid "{Haruka}\n\"Yeah?\nI still don't know much about boys, and it kinda worries me.\""
+msgstr ""
+
+#: 10101:60
+
+msgid "{Kazushi}\n\"Really? You already seem to know a lot about us.\""
+msgstr ""
+
+#: 10101:61
+
+msgid "It felt like she'd been with us right from the start."
+msgstr ""
+
+#: 10101:64
+
+msgid "{Haruka}\n\"Hey, Kazushi-kun, what's your family like?\""
+msgstr ""
+
+#: 10101:65
+
+msgid "Her eyes grew wide in delight. But sadly, there's not much to my family to cause anybody delight, though."
+msgstr ""
+
+#: 10101:66
+
+msgid "{Kazushi}\n\"There's not much to say, really. My family's pretty ordinary. We live in a small house that my grandpa built.\""
+msgstr ""
+
+#: 10101:69
+
+msgid "{Haruka}\n\"You've got a grandpa?\""
+msgstr ""
+
+#: 10101:70
+
+msgid "{Kazushi}\n\"No, he died when I was little.\""
+msgstr ""
+
+#: 10101:71
+
+msgid "{Haruka}\n\"I see.\nWhat about your parents?\""
+msgstr ""
+
+#: 10101:72
+
+msgid "{Kazushi}\n\"If my memory is correct, I have a little sister too.\""
+msgstr ""
+
+#: 10101:73
+
+msgid "{Haruka}\n\"So there are four people in your family? It sounds like fun.\""
+msgstr ""
+
+#: 10101:74
+
+msgid "{Kazushi}\n\"How about your family?\""
+msgstr ""
+
+#: 10101:75
+
+msgid "I know her grandmother is our principal, but I don't know anything about the rest of her family."
+msgstr ""
+
+#: 10101:76
+
+msgid "{Haruka}\n\"Right now it's just me and grandma. Not that it matters, since I live in the dorms. My parents are in Tokyo.\""
+msgstr ""
+
+#: 10101:77
+
+msgid "{Kazushi}\n\"Huh, they are? You're living away from them?\""
+msgstr ""
+
+#: 10101:78
+
+msgid "I didn't know her family, really.\nShe'd never told me about her parents before."
+msgstr ""
+
+#: 10101:79
+
+msgid "{Haruka}\n\"It's because of my dad's job.\nI stayed here because I wanted to.\""
+msgstr ""
+
+#: 10101:80
+
+msgid "{Kazushi}\n\"Your dad's job? Isn't he an alchemist too?\""
+msgstr ""
+
+#: 10101:81
+
+msgid "It was only natural to think so.\nHaruka shook her head though, and smiled."
+msgstr ""
+
+#: 10101:84
+
+msgid "{Haruka}\n\"My dad's a run of the mill salaryman. My mom's a housewife. They have nothing to do with alchemy.\""
+msgstr ""
+
+#: 10101:85
+
+msgid "{Kazushi}\n\"Is that right?\""
+msgstr ""
+
+#: 10101:86
+
+msgid "I thought her whole family would have been alchemists, but it turns out that wasn't the case."
+msgstr ""
+
+#: 10101:87
+
+msgid "Not like back in the day, I guess that alchemists have a freedom to choose alternative occupations nowadays."
+msgstr ""
+
+#: 10101:90
+
+msgid "{Haruka}\n\"My father didn't get along with grandma. He thinks that alchemy is old-fashioned and shady.\""
+msgstr ""
+
+#: 10101:91
+
+msgid "{Kazushi}\n\"I can believe that some people would think that way.\""
+msgstr ""
+
+#: 10101:92
+
+msgid "Well, more than some people. That may actually be the popular opinion regarding alchemy in general - I know it's how I first thought about it."
+msgstr ""
+
+#: 10101:95
+
+msgid "{Haruka}\n\"And yet that father majored in pharmaceutics and works as a researcher for a pharmaceutical company. It doesn't seem all that different to me.\""
+msgstr ""
+
+#: 10101:96
+
+msgid "Her smile seemed a bit sad. She must have been caught between her father and her grandma. And yet Haruka chose..."
+msgstr ""
+
+#: 10101:97
+
+msgid "{Kazushi}\n\"But you chose to stay here and pursue the path of alchemy, right?\""
+msgstr ""
+
+#: 10101:98
+
+msgid "That's why she's here, away from her parents."
+msgstr ""
+
+#: 10101:101
+
+msgid "{Haruka}\n\"I've always admired my grandma, ever since I was little.\""
+msgstr ""
+
+#: 10101:102
+
+msgid "{Kazushi}\n\"The principal?\""
+msgstr ""
+
+#: 10101:103
+
+msgid "{Haruka}\n\"Yep.\""
+msgstr ""
+
+#: 10101:104
+
+msgid "She turned around, taking in the white flowers that surrounded us. They were beautiful, like a field of snowflakes. She looked around, cherishing the tiny flowers."
+msgstr ""
+
+#: 10101:107
+
+msgid "{Haruka}\n\"I believe I told you about this before...\nMy grandparents met on this island.\""
+msgstr ""
+
+#: 10101:108
+
+msgid "{Kazushi}\n\"Yeah, you did. And this flower garden is their special place.\""
+msgstr ""
+
+#: 10101:109
+
+msgid "We destroyed the flower beds when we first arrived.\nThis is where Haruka's grandpa proposed to the principal."
+msgstr ""
+
+#: 10101:112
+
+msgid "{Haruka}\n\"Even though he died a long time ago and I don't know much about him, they're my ideal couple.\""
+msgstr ""
+
+#: 10101:113
+
+msgid "{Kazushi}\n\"Even though you don't know much about him?\""
+msgstr ""
+
+#: 10101:114
+
+msgid "{Haruka}\n\"My grandma always told me stories about him while I was growing up. Whenever she talks about him, she becomes really happy and beautiful.\""
+msgstr ""
+
+#: 10101:117
+
+msgid "{Haruka}\n\"That's why I'm convinced that they had such a magical time together. I've always dreamed of having a romance like theirs.\""
+msgstr ""
+
+#: 10101:118
+
+msgid "She talked about it as if it was the epitome of her dreams and fantasies. It made me smile, imagining the principal as a young and beautiful girl."
+msgstr ""
+
+#: 10101:119
+
+msgid "{Kazushi}\n\"That's why you stayed here.\""
+msgstr ""
+
+#: 10101:122
+
+msgid "{Haruka}\n\"That too. I wanted to help my grandma with her research as well, but...\n...I don't know anymore.\""
+msgstr ""
+
+#: 10101:123
+
+msgid "Haruka became quiet. She pulled some grass and weeds out of the ground, and threw them into the air."
+msgstr ""
+
+#: 10101:124
+
+msgid "{Kazushi}\n\"Were you arguing with the principal earlier?\""
+msgstr ""
+
+#: 10101:125
+
+msgid "I tried to say it as nonchalantly as possible.\nHaruka didn't answer me."
+msgstr ""
+
+#: 10101:126
+
+msgid "{Kazushi}\n\"It's only natural to have arguments with your family sometimes. My parents and I never agree on anything, and you should see the way I fight with my little sister sometimes.\""
+msgstr ""
+
+#: 10101:127
+
+msgid "{Haruka}\n\"It's little different from fighting.\""
+msgstr ""
+
+#: 10101:128
+
+msgid "Haruka selected her words to fit around mine.\nShe looked a bit worried."
+msgstr ""
+
+#: 10101:129
+
+msgid "{Kazushi}\n\"How is it different from fighting?\""
+msgstr ""
+
+#: 10101:130
+
+msgid "{Haruka}\n\"Well...\nIf it's a fight, you can always make up later, but I don't think that's going to happen this time.\""
+msgstr ""
+
+#: 10101:131
+
+msgid "{Kazushi}\n\"Is it that serious?\""
+msgstr ""
+
+#: 10101:134
+
+msgid "Haruka nodded her head with a serious face."
+msgstr ""
+
+#: 10101:135
+
+msgid "{Haruka}\n\"I can't agree with the way she's doing things.\nI don't believe in making sacrifices in order to achieve something.\""
+msgstr ""
+
+#: 10101:136
+
+msgid "{Haruka}\n\"Especially when it means a lot to me......\""
+msgstr ""
+
+#: 10101:137
+
+msgid "She tightly clenched her fists in rage.\nShe must be seriously angry at the principal."
+msgstr ""
+
+#: 10101:138
+
+msgid "{Kazushi}\n\"What exactly did she do?\""
+msgstr ""
+
+#: 10101:139
+
+msgid "It's hard to imagine that the Principal would do something that unforgivable. And for what?"
+msgstr ""
+
+#: 10101:142
+
+msgid "{Haruka}\n\"Kazushi-kun.\""
+msgstr ""
+
+#: 10101:143
+
+msgid "Haruka held my hands in hers. She gripped them tightly and looked straight into my eyes. I'd never seen her so desperate before."
+msgstr ""
+
+#: 10101:144
+
+msgid "{Haruka}\n\"Alchemy in itself is not evil. If you use it correctly, it will help us. It all depends on how it's used.\""
+msgstr ""
+
+#: 10101:145
+
+msgid "{Haruka}\n\"I want you to know that, no matter what.\""
+msgstr ""
+
+#: 10101:146
+
+msgid "Her words sounded like a prayer. They entered my body and diffused themselves out to every edge of my body."
+msgstr ""
+
+#: 10101:147
+
+msgid "{Haruka}\n\"Please......\""
+msgstr ""
+
+#: 10101:148
+
+msgid "Her giant eyes were about to suck me in. They seemed capable of taking me to a different world."
+msgstr ""
+
+#: 10101:149
+
+msgid "She didn't have to ask me like this. My answer for her has already been decided."
+msgstr ""
+
+#: 10101:150
+
+msgid "{Kazushi}\n\"I trust you, Haruka.\""
+msgstr ""
+
+#: 10101:153
+
+msgid "{Haruka}\n\"You do?\nI'm so glad!\""
+msgstr ""
+
+#: 10101:154
+
+msgid "She seemed so relieved that she couldn't help romping around the garden like a child. It made me happy that my small words could provide her with so much comfort."
+msgstr ""
+
+#: 10101:157
+
+msgid "{Haruka}\n\"Oh hey!\nWhat do you want to do most right now?\""
+msgstr ""
+
+#: 10101:158
+
+msgid "She looked me in the eyes with delight in her own.\nHer face was so close, it made me shy."
+msgstr ""
+
+#: 10101:159
+
+msgid "{Kazushi}\n\"Well......\""
+msgstr ""
+
+#: 10101:160
+
+msgid "I wasn't prepared to answer that question.\nI looked up to the sky and saw white clouds swimming overhead."
+msgstr ""
+
+#: 10101:161
+
+msgid "{Kazushi}\n\"I might want to fly in the sky.\""
+msgstr ""
+
+#: 10101:162
+
+msgid "Haruka looked up in the sky, following my eyes."
+msgstr ""
+
+#: 10101:164
+
+msgid "{Kazushi}\n\"I wish I could fly like those clouds in the sky. I've always dreamed of flying, ever since I was a little kid - I even hurt myself when I spread out a sheet and leapt from a tree once.\""
+msgstr ""
+
+#: 10101:166
+
+msgid "{Haruka}\n\"The sky......\nI like that!\""
+msgstr ""
+
+#: 10101:168
+
+msgid "Haruka leapt to her feet.\nShe pulled me up as well."
+msgstr ""
+
+#: 10101:171
+
+msgid "{Haruka}\n\"Let's go!\""
+msgstr ""
+
+#: 10101:172
+
+msgid "{Kazushi}\n\"Go where?\""
+msgstr ""
+
+#: 10101:173
+
+msgid "{Haruka}\n\"To the sky!!\""
+msgstr ""
+
+#: 10101:174
+
+msgid "{Kazushi}\n\"...huh?\""
+msgstr ""
+
+#: 10101:179
+
+msgid "Haruka took me to the experiment ward instead of the sky."
+msgstr ""
+
+#: 10101:182
+
+msgid "{Haruka}\n\"Nnngh...\""
+msgstr ""
+
+#: 10101:183
+
+msgid "Haruka stared into the fire under her flask."
+msgstr ""
+
+#: 10101:184
+
+msgid "{Kazushi}\n\"What are we doing here?\""
+msgstr ""
+
+#: 10101:187
+
+msgid "{Haruka}\n\"I'm going to make you fly!\""
+msgstr ""
+
+#: 10101:188
+
+msgid "She said it so easily."
+msgstr ""
+
+#: 10101:189
+
+msgid "{Kazushi}\n\"Can you do that?\""
+msgstr ""
+
+#: 10101:192
+
+msgid "{Haruka}\n\"We can through alchemy. They say even levitation is possible with a Philosopher's Stone.\""
+msgstr ""
+
+#: 10101:193
+
+msgid "{Kazushi}\n\"Philosopher's stone?\""
+msgstr ""
+
+#: 10101:194
+
+msgid "{Haruka}\n\"Of course, we can't make that, but we don't need something that effective now. After all, it only takes a little extra in order to fly.\""
+msgstr ""
+
+#: 10101:195
+
+msgid "{Haruka}\n\"For an instance......a bird's wings.\""
+msgstr ""
+
+#: 10101:196
+
+msgid "{Kazushi}\n\"Wings......?\""
+msgstr ""
+
+#: 10101:200
+
+msgid "Both of my arms had been draped with wings made from bird's feathers stiffened with wax."
+msgstr ""
+
+#: 10101:201
+
+msgid "Why did she have these things? And before my eyes lay the cliff."
+msgstr ""
+
+#: 10101:202
+
+msgid "{Kazushi}\n\"Am I taking off from here?\""
+msgstr ""
+
+#: 10101:205
+
+msgid "{Haruka}\n\"That's right!\""
+msgstr ""
+
+#: 10101:206
+
+msgid "She gave me a big smile.\nWhen we first arrived on the island, there was still water along the cliff's edge, but not anymore."
+msgstr ""
+
+#: 10101:207
+
+msgid "I looked down. If I fail, I will die......"
+msgstr ""
+
+#: 10101:208
+
+msgid "My knees were shaking with fear."
+msgstr ""
+
+#: 10101:209
+
+msgid "{Haruka}\n\"Don't worry.\nWe'll be adding power to those wings using alchemy.\nJust flap them like you were a bird.\""
+msgstr ""
+
+#: 10101:210
+
+msgid "{Kazushi}\n\"Are you sure about this?\""
+msgstr ""
+
+#: 10101:213
+
+msgid "{Haruka}\n\"I'm positive.\nHere, watch.\""
+msgstr ""
+
+#: 10101:214
+
+msgid "She poured the solution that she just made in the lab onto the wings."
+msgstr ""
+
+#: 10101:220
+
+msgid "They shined for a second. Even less - a split second."
+msgstr ""
+
+#: 10101:221
+
+msgid "{Haruka}\n\"There, now you can fly.\""
+msgstr ""
+
+#: 10101:222
+
+msgid "{Kazushi}\n\"Wait a minute.\nDon't you think that was a weak reaction?\""
+msgstr ""
+
+#: 10101:223
+
+msgid "I'd been witness to alchemy in action a few times after moving to this island, but I may not have had enough experience to be able to tell."
+msgstr ""
+
+#: 10101:224
+
+msgid "But as far as I knew, that still seemed weak to me."
+msgstr ""
+
+#: 10101:225
+
+msgid "{Haruka}\n\"I'm sure it's fine. I did it the same way I always do.\""
+msgstr ""
+
+#: 10101:226
+
+msgid "{Kazushi}\n\"Really?\nBut......\""
+msgstr ""
+
+#: 10101:229
+
+msgid "{Haruka}\n\"Are you that worried?\nDo you want me to fly first?\""
+msgstr ""
+
+#: 10101:230
+
+msgid "She confidently snatched the wings from my arms and walked towards the cliff's edge."
+msgstr ""
+
+#: 10101:231
+
+msgid "{Kazushi}\n\"Wait!\nLet me go first!\""
+msgstr ""
+
+#: 10101:234
+
+msgid "I snatched the wings back from Haruka.\nKnowing her, she might let them go before actually flying."
+msgstr ""
+
+#: 10101:235
+
+msgid "I also have a bad feeling about this."
+msgstr ""
+
+#: 10101:238
+
+msgid "{Haruka}\n\"Sure, go ahead.\nI knew you couldn't wait!\""
+msgstr ""
+
+#: 10101:239
+
+msgid "{Kazushi}\n\"Are you sure this thing will make us fly?\""
+msgstr ""
+
+#: 10101:242
+
+msgid "{Haruka}\n\"Absolutely.\nMy alchemy isn't the same as grandma's.\nMy alchemy is for making people happy.\""
+msgstr ""
+
+#: 10101:243
+
+msgid "{Kazushi}\n\"All right.\nI got it.\""
+msgstr ""
+
+#: 10101:245
+
+msgid "If she's that certain, I'll trust her.\nI made sure of my grip, and stepped closer to the cliff."
+msgstr ""
+
+#: 10101:246
+
+msgid "{Kazushi}\n\"Oh my......\""
+msgstr ""
+
+#: 10101:247
+
+msgid "It was so high that I was starting to get vertigo."
+msgstr ""
+
+#: 10101:250
+
+msgid "{Haruka}\n\"Whatever you do, don't let go of the wings. The rest is easy - just let the wind carry you off.\""
+msgstr ""
+
+#: 10101:251
+
+msgid "{Kazushi}\n\"O-okay......\""
+msgstr ""
+
+#: 10101:253
+
+msgid "I wonder if sky divers and bungee jumpers feel this way.\nBut if I don't commit to taking the chance, I'm never gonna be able to fly."
+msgstr ""
+
+#: 10101:254
+
+msgid "{Kazushi}\n\"All right, here I go!!\""
+msgstr ""
+
+#: 10101:255
+
+msgid "I had to scream to make up my mind."
+msgstr ""
+
+#: 10101:256
+
+msgid "*WHOOSH*"
+msgstr ""
+
+#: 10101:258
+
+msgid "A gust of wind blew against my back right at that moment."
+msgstr ""
+
+#: 10101:259
+
+msgid "{Haruka}\n\"Now, Kazushi-kun!\""
+msgstr ""
+
+#: 10101:260
+
+msgid "Her voice pushed against my back.\nI felt my body falling forward in slow motion."
+msgstr ""
+
+#: 10101:261
+
+msgid "*float*"
+msgstr ""
+
+#: 10101:262
+
+msgid "That's when I realized I was floating in mid-air."
+msgstr ""
+
+#: 10101:268
+
+msgid "{Kazushi}\n *AAAAAAAAAAAAAAAHHHHHHHHHHHHH!!!!!!!!!!!!!!!*"
+msgstr ""
+
+#: 10101:269
+
+msgid "I was experiencing the feeling of free-fall.\nFalling......yes, I'm definitely falling."
+msgstr ""
+
+#: 10101:270
+
+msgid "{Kazushi}\n\"Isn't this falling?\nI think this is falling!!\""
+msgstr ""
+
+#: 10101:272
+
+msgid "Haruka was already way above me and well out of hearing distance. I don't know who I was screaming at, but I was shouting at the top of my voice nonetheless. The rocky shoreline was getting closer."
+msgstr ""
+
+#: 10101:274
+
+msgid "{Haruka}\n\"Kazushi-kun?! Kazushi-kun, fly!!\""
+msgstr ""
+
+#: 10101:276
+
+msgid "I thought I heard Haruka's voice from way up above, but no matter how hard I flapped my arms, the wings didn't help me to fly."
+msgstr ""
+
+#: 10101:277
+
+msgid "{Kazushi}\n\"Guts!?\nAre guts what I'm missing now? HRAAAAAAAAAAAAHH!!\""
+msgstr ""
+
+#: 10101:284
+
+msgid "I screamed as loud as I could to put more guts and spirit into my fight, but that didn't change how fast I plummeted. The ocean's surface was approaching me with a terrifyingly fierce speed."
+msgstr ""
+
+#: 10101:286
+
+msgid "{Kazushi}\n\"I'm gonna die!!!!!!\""
+msgstr ""
+
+#: 10101:287
+
+msgid "I'm falling!!\nI'm gonna be seagull food!"
+msgstr ""
+
+#: 10101:293
+
+msgid "{Kazushi}\n\"What......!?\""
+msgstr ""
+
+#: 10101:294
+
+msgid "Something was shining in my eyes. I couldn't believe it - it was me!"
+msgstr ""
+
+#: 10101:295
+
+msgid "{Kazushi}\n\"What's going on?\""
+msgstr ""
+
+#: 10101:296
+
+msgid "I don't know what happened, but I could tell that I was falling much more slowly than before.\nBut the ocean's surface is just right there..."
+msgstr ""
+
+#: 10101:299
+
+msgid "*SPLASH*"
+msgstr ""
+
+#: 10101:300
+
+msgid "I fell into the ocean."
+msgstr ""
+
+#: 10101:301
+
+msgid "{Haruka}\n\"Kazushi-kuuuuuuuuun!!!?\""
+msgstr ""
+
+#: 10101:308
+
+msgid "*taptap*"
+msgstr ""
+
+#: 10101:309
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 10101:311
+
+msgid "*taptap*"
+msgstr ""
+
+#: 10101:312
+
+msgid "{Kazushi}\n\"......Where am I?\""
+msgstr ""
+
+#: 10101:314
+
+msgid "I woke up feeling someone tapping on my cheeks. I felt something soft underneath my head as well.\n...oh yeah. Haruka must have saved me."
+msgstr ""
+
+#: 10101:317
+
+msgid "{Natsume}\n\"Oh, you're alive.\""
+msgstr ""
+
+#: 10101:318
+
+msgid "{Kazushi}\n\"Huh......?\""
+msgstr ""
+
+#: 10101:319
+
+msgid "The first thing I saw when I opened my eyes was a close up of Natsume-chan's face."
+msgstr ""
+
+#: 10101:320
+
+msgid "{Kazushi}\n\"N-Natsume-chan?!\""
+msgstr ""
+
+#: 10101:324
+
+msgid "I shot up like a rocket. It was Natsume-chan's knees providing that soft pillow underneath my head."
+msgstr ""
+
+#: 10101:325
+
+msgid "And I was soaking wet from head to feet."
+msgstr ""
+
+#: 10101:326
+
+msgid "{Kazushi}\n\"You saved me?\""
+msgstr ""
+
+#: 10101:329
+
+msgid "{Natsume}\n\"If you'd crashed into the ocean like that, even you wouldn't have survived.\""
+msgstr ""
+
+#: 10101:330
+
+msgid "{Kazushi}\n\"Y-you're right. Thanks for saving me.\""
+msgstr ""
+
+#: 10101:333
+
+msgid "{Natsume}\n\"Don't thank me.\nBe my servant instead.\""
+msgstr ""
+
+#: 10101:334
+
+msgid "{Kazushi}\n\"Your servant? I kind of already am.\""
+msgstr ""
+
+#: 10101:335
+
+msgid "Natsume-chan has always been bossy anyways."
+msgstr ""
+
+#: 10101:338
+
+msgid "{Natsume}\n\"I'm not joking.\nYou should stay close to me.\""
+msgstr ""
+
+#: 10101:339
+
+msgid "She sounded oddly serious. The tone of her voice was the same as always, but those words held a heavier air to them."
+msgstr ""
+
+#: 10101:340
+
+msgid "Her eyes are telling me she's serious. Besides, I've never heard her telling a joke."
+msgstr ""
+
+#: 10101:341
+
+msgid "{Kazushi}\n\"You said I should stay close to you?\""
+msgstr ""
+
+#: 10101:344
+
+msgid "{Natsume}\n\"I wouldn't let you be put into that kind of danger.\""
+msgstr ""
+
+#: 10101:345
+
+msgid "{Kazushi}\n\"Natsume-chan......?\""
+msgstr ""
+
+#: 10101:346
+
+msgid "She looked a bit different today.\nI didn't know how to respond to her."
+msgstr ""
+
+#: 10101:354
+
+msgid "{Haruka}\n\"Kazushi-kun!!\""
+msgstr ""
+
+#: 10101:355
+
+msgid "Haruka hurried towards me as she ran down the stairs.\nShe was out of breath, and her knees were shaking."
+msgstr ""
+
+#: 10101:358
+
+msgid "{Natsume}\n\"You suck.\""
+msgstr ""
+
+#: 10101:359
+
+msgid "Natsume-chan spoke on my behalf.\nHaruka looked up in surprise to see Natsume-chan watching over me."
+msgstr ""
+
+#: 10101:362
+
+msgid "{Haruka}\n\"Natsume-chan......why are you here?\""
+msgstr ""
+
+#: 10101:363
+
+msgid "{Natsume}\n\"You suck.\nYou almost killed Haruma.\""
+msgstr ""
+
+#: 10101:364
+
+msgid "Natsume-chan blamed Haruka again.\nHaruka's face was turning red."
+msgstr ""
+
+#: 10101:367
+
+msgid "{Haruka}\n\"...that wasn't supposed to happen...\nI did everything right...\""
+msgstr ""
+
+#: 10101:368
+
+msgid "{Natsume}\n\"But you failed.\nHaruma, you hurt?\""
+msgstr ""
+
+#: 10101:371
+
+msgid "{Haruka}\n\"Oh......Kazushi-kun, are you all right!?\""
+msgstr ""
+
+#: 10101:374
+
+msgid "{Natsume}\n\"Too late.\""
+msgstr ""
+
+#: 10101:377
+
+msgid "{Haruka}\n\"......sorry......\""
+msgstr ""
+
+#: 10101:378
+
+msgid "{Natsume}\n\"Shut up. Haruma, nurse's office.\""
+msgstr ""
+
+#: 10101:379
+
+msgid "{Kazushi}\n\"Oh, right. But I'm all right. You saved me. Right, Natsume-chan?\""
+msgstr ""
+
+#: 10101:380
+
+msgid "Just when I thought I would plummet into the ocean, I felt like something was protecting me. I barely felt anything when I hit the water."
+msgstr ""
+
+#: 10101:384
+
+msgid "{Natsume}\n\"You're soaked. You need to change.\""
+msgstr ""
+
+#: 10101:385
+
+msgid "{Kazushi}\n\"Oh yeah, I should.\""
+msgstr ""
+
+#: 10101:386
+
+msgid "Natsume's little hand helped me stand up."
+msgstr ""
+
+#: 10101:390
+
+msgid "{Haruka}\n\"..................\""
+msgstr ""
+
+#: 10101:391
+
+msgid "Haruka stayed down on the ground and didn't move at all."
+msgstr ""
+
+#: 10101:392
+
+msgid "{Kazushi}\n\"Let's go, Haruka.\""
+msgstr ""
+
+#: 10101:393
+
+msgid "{Haruka}\n\"......I'm so sorry.\""
+msgstr ""
+
+#: 10101:394
+
+msgid "{Kazushi}\n\"Don't worry about it. Nothing happened to me, and everybody makes mistakes.\""
+msgstr ""
+
+#: 10101:395
+
+msgid "{Haruka}\n\"But......\""
+msgstr ""
+
+#: 10101:399
+
+msgid "{Natsume}\n\"Leave her here.\""
+msgstr ""
+
+#: 10101:400
+
+msgid "{Kazushi}\n\"Hey......\""
+msgstr ""
+
+#: 10101:402
+
+msgid "Natsume's little body sharply tugged me along behind her. Haruka was still kneeling on the beach, drooping her head like a wilting flower."
+msgstr ""
+
+#: 10101:409
+
+msgid "{Appo}\n\"Good!! He's still alive!!\""
+msgstr ""
+
+#: 10101:414
+
+msgid "{Daigo}\n\"He is one tough guy.\""
+msgstr ""
+
+#: 10101:415
+
+msgid "{Kazushi}\n\"Is that the first thing you have to say to a friend who nearly died?\""
+msgstr ""
+
+#: 10101:420
+
+msgid "{Pierre}\n\"You fell off the cliff and into the ocean. Who'd normally survive that?\""
+msgstr ""
+
+#: 10101:421
+
+msgid "{Kazushi}\n\"Natsume-chan saved me.\nOtherwise......\""
+msgstr ""
+
+#: 10101:422
+
+msgid "I stopped."
+msgstr ""
+
+#: 10101:426
+
+msgid "{Haruka}\n\"..................\""
+msgstr ""
+
+#: 10101:427
+
+msgid "Haruka stayed silent as she sat in the corner of the room."
+msgstr ""
+
+#: 10101:433
+
+msgid "{Mei}\n\"Anyways, I'm glad to see you're OK.\nWhat happened?\""
+msgstr ""
+
+#: 10101:434
+
+msgid "{Pierre}\n\"I know...\nIt's hard to believe that Haruka's alchemy would fail.\""
+msgstr ""
+
+#: 10101:435
+
+msgid "Haruka explained to everyone what we were trying to do with difficulty and few words."
+msgstr ""
+
+#: 10101:439
+
+msgid "{Mizuki}\n\"I know. And it's not something Haruka would normally do either.\""
+msgstr ""
+
+#: 10101:443
+
+msgid "{Sakura}\n\"Right? Fail or not, it's dangerous. Harunyan wouldn't usually do something that dangerous.\""
+msgstr ""
+
+#: 10101:448
+
+msgid "{Haruka}\n\"......sorry.\""
+msgstr ""
+
+#: 10101:449
+
+msgid "\"Sorry\" was the only word Haruka could bring herself to say all day - and there was one person who'd been watching her extra critically."
+msgstr ""
+
+#: 10101:456
+
+msgid "{Principal}\n\"Look at all the trouble you've caused.\""
+msgstr ""
+
+#: 10101:457
+
+msgid "It's the principal. She was watching Haruka coldly and from a distance, as if she wasn't Haruka's own grandmother. I could almost see the sparks flying between them."
+msgstr ""
+
+#: 10101:458
+
+msgid "{Principal}\n\"Alchemy is supposed to be used for enriching people's life. Look what happened when you used it for your curiosity.\""
+msgstr ""
+
+#: 10101:463
+
+msgid "{Haruka}\n\"...I already understood that!\""
+msgstr ""
+
+#: 10101:464
+
+msgid "Haruka looked up and stared down the Principal. I could almost see the sparks continue flying between them."
+msgstr ""
+
+#: 10101:465
+
+msgid "{Principal}\n\"If you really did know, then how could something like this happen?\""
+msgstr ""
+
+#: 10101:468
+
+msgid "{Haruka}\n\"...I feel sorry for Kazushi-kun, but I know that I completed the synthesis properly like I usually do. The accident shouldn't have happened.\""
+msgstr ""
+
+#: 10101:469
+
+msgid "{Principal}\n\"It shouldn't have happened? Then why did it?\""
+msgstr ""
+
+#: 10101:472
+
+msgid "{Haruka}\n\"Umm......\""
+msgstr ""
+
+#: 10101:475
+
+msgid "Haruka took back what she was about to say, but a look of surprise and realization took over her face as she turned back to the principal."
+msgstr ""
+
+#: 10101:476
+
+msgid "{Haruka}\n\"...did you do this?\nDid you do something to sabotage the experiment?\""
+msgstr ""
+
+#: 10101:477
+
+msgid "Haruka said something awful."
+msgstr ""
+
+#: 10101:478
+
+msgid "{Kazushi}\n\"Don't tell me......\""
+msgstr ""
+
+#: 10101:482
+
+msgid "{Mei}\n\"Of course not.\nThe Principal would never do such a terrible thing.\""
+msgstr ""
+
+#: 10101:483
+
+msgid "{Haruka}\n\"That's because you don't know anything!!\""
+msgstr ""
+
+#: 10101:484
+
+msgid "{Mei}\n\"We don't know what?\""
+msgstr ""
+
+#: 10101:487
+
+msgid "{Haruka}\n\"Umm......\""
+msgstr ""
+
+#: 10101:488
+
+msgid "Haruka's speech began to falter. This must have something to do with what Haruka and the principal were arguing about earlier."
+msgstr ""
+
+#: 10101:492
+
+msgid "{Principal}\n\"What a troublesome child. What makes you think I'd do such a dangerous thing? There's no meaning to doing so.\""
+msgstr ""
+
+#: 10101:495
+
+msgid "{Haruka}\n\"I can't think of any other reason for the modifications to fail like that!\""
+msgstr ""
+
+#: 10101:496
+
+msgid "The principal couldn't help but let out a depressing sigh."
+msgstr ""
+
+#: 10101:499
+
+msgid "{Principal}\n\"I don't know what to say to you anymore... All you ever do is blame others for your failings, and can't be bothered to reflect on yourself and your own flaws.\""
+msgstr ""
+
+#: 10101:500
+
+msgid "{Haruka}\n\"But......\""
+msgstr ""
+
+#: 10101:505
+
+msgid "{Natsume}\n\"Hisae didn't do anything.\""
+msgstr ""
+
+#: 10101:506
+
+msgid "Natsume-chan interrupted the other two. She said it quietly, without looking at either of them as she remained seated at my bedside."
+msgstr ""
+
+#: 10101:507
+
+msgid "{Natsume}\n\"Hisae didn't do anything. It was your mistake, Ao.\""
+msgstr ""
+
+#: 10101:511
+
+msgid "{Haruka}\n\"But......but......\""
+msgstr ""
+
+#: 10101:512
+
+msgid "Haruka was rendered speechless.\nThat's how convincing Natsume-chan sounded."
+msgstr ""
+
+#: 10101:517
+
+msgid "{Principal}\n\"She's right.\nI didn't do anything.\""
+msgstr ""
+
+#: 10101:520
+
+msgid "{Haruka}\n\"...you're lying!\""
+msgstr ""
+
+#: 10101:525
+
+msgid "{Natsume}\n\"It's the truth. Hisae just watched, smiling.\""
+msgstr ""
+
+#: 10101:530
+
+msgid "{Mei}\n\"What......?\""
+msgstr ""
+
+#: 10101:534
+
+msgid "{Principal}\n\"Amamiya-san, your jokes are going too far.\""
+msgstr ""
+
+#: 10101:537
+
+msgid "{Natsume}\n\"Hmph.\""
+msgstr ""
+
+#: 10101:540
+
+msgid "These three women were creating a tense atmosphere."
+msgstr ""
+
+#: 10101:541
+
+msgid "I was right in the middle of all three, nearly getting crushed under the pressure."
+msgstr ""
+
+#: 10101:542
+
+msgid "{Kazushi}\n\"Hey, look, I'm all right. Why don't we put this all behind us?\""
+msgstr ""
+
+#: 10101:545
+
+msgid "{Haruka}\n\"I still don't get it. I went through the proper routine and used the right materials. Something like this never should've happened...\""
+msgstr ""
+
+#: 10101:550
+
+msgid "{Principal}\n\"You still don't understand what was wrong with you, do you?\""
+msgstr ""
+
+#: 10101:551
+
+msgid "The principal sounded as if she pitied her."
+msgstr ""
+
+#: 10101:554
+
+msgid "{Principal}\n\"You undertook the alchemy just to spite me. How could you achieve a positive result with such a twisted motive?\""
+msgstr ""
+
+#: 10101:555
+
+msgid "{Haruka}\n\"I did it to......\""
+msgstr ""
+
+#: 10101:557
+
+msgid "The principal was probably right. Haruka could only be quiet and frustrated. Natsume-chan took the opportunity to kick Haruka while she was down."
+msgstr ""
+
+#: 10101:562
+
+msgid "{Natsume}\n\"I agree.\nYou were only thinking of Haruma as a tool at the time, Ao.\""
+msgstr ""
+
+#: 10101:565
+
+msgid "{Haruka}\n\"That's not true! I wasn't!\""
+msgstr ""
+
+#: 10101:568
+
+msgid "{Natsume}\n\"You didn't do it for Haruma. You just wanted to show Hisae that you were right, and you put Haruma in danger for that sake.\""
+msgstr ""
+
+#: 10101:571
+
+msgid "{Haruka}\n\"I-I didn't......\""
+msgstr ""
+
+#: 10101:572
+
+msgid "It was obvious that Haruka was being cornered."
+msgstr ""
+
+#: 10101:575
+
+msgid "{Kazushi}\n\"Wait a minute you two.\nI was the one who asked Haruka to help me fly.\""
+msgstr ""
+
+#: 10101:576
+
+msgid "Not only was the Principal blaming Haruka, but so was Natsume-chan. Everybody else was incapable of understanding what was going on."
+msgstr ""
+
+#: 10101:577
+
+msgid "I was the only one who could speak on Haruka's behalf."
+msgstr ""
+
+#: 10101:578
+
+msgid "{Kazushi}\n\"If I asked her for something else, like to let me eat my fill of good food or something, I never would have been put into danger in the first place.\""
+msgstr ""
+
+#: 10101:579
+
+msgid "{Kazushi}\n\"She just wanted to make my dream come true. She didn't mean to cause any harm.\""
+msgstr ""
+
+#: 10101:582
+
+msgid "{Natsume}\n\"You're a fool for being so nice.\nYou almost got yourself killed.\""
+msgstr ""
+
+#: 10101:583
+
+msgid "{Kazushi}\n\"Well......I really appreciate your help Natsume-chan. Thank you.\""
+msgstr ""
+
+#: 10101:584
+
+msgid "{Natsume}\n\"You don't need to say that. It's Ao's fault.\""
+msgstr ""
+
+#: 10101:589
+
+msgid "{Haruka}\n\"..................\""
+msgstr ""
+
+#: 10101:590
+
+msgid "Haruka had completely lost the argument and was feeling even more down."
+msgstr ""
+
+#: 10101:594
+
+msgid "{Principal}\n\"You once blamed me for using any means necessary so long as it meant getting what I wanted. But now you've proven to yourself that you're the same.\""
+msgstr ""
+
+#: 10101:597
+
+msgid "{Haruka}\n\"I am not!\nI am not like......\""
+msgstr ""
+
+#: 10101:600
+
+msgid "Her voice faded and she couldn't continue."
+msgstr ""
+
+#: 10101:601
+
+msgid "She looked so small, I thought she might fade away too, and I couldn't take my eyes off of her."
+msgstr ""
+
+#: 10101:608
+
+msgid "{Appo}\n\"Well, you had a bad day.\""
+msgstr ""
+
+#: 10101:609
+
+msgid "{Kazushi}\n\"I'm all right in the end.\""
+msgstr ""
+
+#: 10101:610
+
+msgid "{Appo}\n\"Did you see Haruka after all that?\nWe didn't even see her at dinner.\""
+msgstr ""
+
+#: 10101:611
+
+msgid "{Kazushi}\n\"Me neither.\""
+msgstr ""
+
+#: 10101:612
+
+msgid "I hope she's not feeling down and moping around."
+msgstr ""
+
+#: 10101:613
+
+msgid "{Appo}\n\"Why don't you go and see her if you're worried?\""
+msgstr ""
+
+#: 10101:614
+
+msgid "{Kazushi}\n\"Good idea. Maybe I will.\""
+msgstr ""
+
+#: 10101:615
+
+msgid "I've been thinking about her all the time since the incident.\nI'm not going to sleep well unless I check up on her."
+msgstr ""
+
+#: 10101:618
+
+msgid "{Appo}\n\"And why don't you go confess to her while you're at it.\""
+msgstr ""
+
+#: 10101:619
+
+msgid "Sometimes Appo says these things way too easily."
+msgstr ""
+
+#: 10101:620
+
+msgid "{Kazushi}\n\"What? Confess to her? What are you saying?\""
+msgstr ""
+
+#: 10101:623
+
+msgid "{Appo}\n\"You like her, don't you?\""
+msgstr ""
+
+#: 10101:624
+
+msgid "He looked at me with a more serious face than I'd ever seen on him before. I was hoping that he was just fooling around with me, but I guess not."
+msgstr ""
+
+#: 10101:625
+
+msgid "{Kazushi}\n\"...you're right. I do like her. A lot.\""
+msgstr ""
+
+#: 10101:626
+
+msgid "And so I told Appo the truth.\nI don't know when I realized how much I liked her.\nMaybe since the first day we met."
+msgstr ""
+
+#: 10101:627
+
+msgid "I love Haruka. My heart started hurting as I realized my feelings for her."
+msgstr ""
+
+#: 10101:628
+
+msgid "Appo looked at me with a smile."
+msgstr ""
+
+#: 10101:631
+
+msgid "{Appo}\n\"I knew it from the start.\""
+msgstr ""
+
+#: 10101:632
+
+msgid "{Kazushi}\n\"How can you not like Haruka? She's kind to everybody, and it's nice how she looks like she has it together, but doesn't always...\""
+msgstr ""
+
+#: 10101:633
+
+msgid "{Kazushi}\n\"She's got good style and a cute voice. Her figure's just what I like too. She's exactly my type, isn't she?\""
+msgstr ""
+
+#: 10101:634
+
+msgid "When I started listing off all the things I liked about her, I realized that she was perfect for me. It made me wonder why I took so long to fall in love with her to start with..."
+msgstr ""
+
+#: 10101:637
+
+msgid "{Appo}\n\"When you fall for someone, it's only natural to find yourself thinking that way. I can't believe how I used to hate Fuusen...\""
+msgstr ""
+
+#: 10101:640
+
+msgid "{Appo}\n\"You can't find such a pretty girl as Fuusen just anywhere, you know...\""
+msgstr ""
+
+#: 10101:641
+
+msgid "{Kazushi}\n\"Really......?\""
+msgstr ""
+
+#: 10101:642
+
+msgid "I couldn't laugh at what he said.\nLove can change your entire world."
+msgstr ""
+
+#: 10101:645
+
+msgid "{Appo}\n\"I think your feelings for Haruka are true.\nHere, I wanna give you a present.\""
+msgstr ""
+
+#: 10101:646
+
+msgid "{Kazushi}\n\"Huh? ...Hey!\""
+msgstr ""
+
+#: 10101:647
+
+msgid "He threw me something. I caught it in the air, and when I looked at that small box, I was in shock."
+msgstr ""
+
+#: 10101:648
+
+msgid "{Kazushi}\n\"Hey, this is......!!\""
+msgstr ""
+
+#: 10101:649
+
+msgid "{Appo}\n\"Why are you so surprised?\nIt's a rubber.\nYou're going to need it.\""
+msgstr ""
+
+#: 10101:650
+
+msgid "It was indeed a condom."
+msgstr ""
+
+#: 10101:653
+
+msgid "{Appo}\n\"That one's super thin.\nYou'll forget it's even on you.\nCome back as a man!\""
+msgstr ""
+
+#: 10101:654
+
+msgid "{Kazushi}\n\"Y-you idiot... it's too early for this. I haven't even confessed to her yet, let alone received her consent...\""
+msgstr ""
+
+#: 10101:655
+
+msgid "{Kazushi}\n\"Even if she agrees to go out with me, we should start by holding hands, and then have a gentle kiss...\""
+msgstr ""
+
+#: 10101:656
+
+msgid "{Appo}\n\"I don't think you two will be able to take it so slowly. It's not like lovers can just brake on a dime. Besides, can you hide that raging hard-on you've got with your morals?\""
+msgstr ""
+
+#: 10101:657
+
+msgid "{Kazushi}\n\"That's impossible.\""
+msgstr ""
+
+#: 10101:660
+
+msgid "{Appo}\n\"See? You won't be able to stop if both of you get that way, and you'll be in trouble if you don't have it when you need it, so take it. Think of it as a good luck charm.\""
+msgstr ""
+
+#: 10101:661
+
+msgid "{Kazushi}\n\"I see.\nThanks.\""
+msgstr ""
+
+#: 10101:662
+
+msgid "Wow, I have a condom. I feel like a man now."
+msgstr ""
+
+#: 10101:665
+
+msgid "{Appo}\n\"I'm sure she'll accept your feelings.\nI can tell she likes you too.\""
+msgstr ""
+
+#: 10101:666
+
+msgid "{Kazushi}\n\"You think so?\nSeriously?\""
+msgstr ""
+
+#: 10101:667
+
+msgid "{Appo}\n\"I do. That's why I'm telling you to go see her. Just show her the condom and say \"Please let me fuck you!\" That one always works.\""
+msgstr ""
+
+#: 10101:668
+
+msgid "{Kazushi}\n\"It does? That sounds like what a psychopath would do...\""
+msgstr ""
+
+#: 10101:671
+
+msgid "{Appo}\n\"I'm the expert, remember? Girls like aggressive guys. The first time you go for it, you gotta act like you could almost rape her.\""
+msgstr ""
+
+#: 10101:672
+
+msgid "{Kazushi}\n\"I should?\nWow, times have changed.\nAll right, I'm going in!\""
+msgstr ""
+
+#: 10101:675
+
+msgid "{Appo}\n\"Don't mistake the back hole for the front one. They're a lot closer than you think. A bit of advice from the expert.\""
+msgstr ""
+
+#: 10101:676
+
+msgid "{Kazushi}\n\"Thanks.\nWish me luck!\""
+msgstr ""
+
+#: 10101:681
+
+msgid "{Kazushi}\n\"Front hole, back hole......front hole, back hole...... back hole, back hole...\""
+msgstr ""
+
+#: 10101:682
+
+msgid "I can't afford to miss the right hole! Being off by just a couple inches would ruin our first time."
+msgstr ""
+
+#: 10101:683
+
+msgid "The more I think about it, the more I feel the pressure hitting..."
+msgstr ""
+
+#: 10101:684
+
+msgid "{Kazushi}\n\"Front hole, front hole, front hole... Not the back hole, not the back hole, not the back hole...\""
+msgstr ""
+
+#: 10101:687
+
+msgid "{Rin}\n\"What's the back hole?\""
+msgstr ""
+
+#: 10101:688
+
+msgid "{Kazushi}\n\"The back hole is a place you shouldn't put...\""
+msgstr ""
+
+#: 10101:689
+
+msgid "{Kazushi}\n\"Fu-Fujisaki-san?!\""
+msgstr ""
+
+#: 10101:690
+
+msgid "She looked like she just gotten out of the bath.\nHer wet hair made her look sexier than usual."
+msgstr ""
+
+#: 10101:693
+
+msgid "{Rin}\n\"Hey, what's this back hole you were just mumbling about? What kind of a hole is that?\""
+msgstr ""
+
+#: 10101:694
+
+msgid "{Kazushi}\n\"Umm......\""
+msgstr ""
+
+#: 10101:695
+
+msgid "Her innocent way of asking made me feel even more ashamed to tell the truth."
+msgstr ""
+
+#: 10101:696
+
+msgid "{Kazushi}\n\"It's not something I should tell to a pure person like you.\""
+msgstr ""
+
+#: 10101:699
+
+msgid "{Rin}\n\"I'm not pure or anything.\""
+msgstr ""
+
+#: 10101:700
+
+msgid "{Kazushi}\n\"Yes, you are.\nBy the way, is Haruka here?\""
+msgstr ""
+
+#: 10101:701
+
+msgid "I changed the subject in a hurry. If Rin continued to insist I tell her what I was talking about, I'd want to bite my tongue off and die."
+msgstr ""
+
+#: 10101:704
+
+msgid "{Rin}\n\"You came to see Haruka?\nDo you want me to go get her for you?\""
+msgstr ""
+
+#: 10101:705
+
+msgid "{Kazushi}\n\"That'll be great.\nThanks.\""
+msgstr ""
+
+#: 10101:708
+
+msgid "{Rin}\n\"Sure. Should I tell her you're here for something about the back hole?\""
+msgstr ""
+
+#: 10101:709
+
+msgid "{Kazushi}\n\"No, you do not have to tell her why I'm here.\""
+msgstr ""
+
+#: 10101:714
+
+msgid "{Kazushi}\n\"What? She's in the experiment ward? At this hour?\""
+msgstr ""
+
+#: 10101:715
+
+msgid "{Rin}\n\"I know.\nIt sounds like she's been in there all day after...well...\""
+msgstr ""
+
+#: 10101:716
+
+msgid "After the fallout from the accident, I guess."
+msgstr ""
+
+#: 10101:717
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 10101:718
+
+msgid "I wonder what she's experimenting on now. She must be trying to figure out what went wrong earlier."
+msgstr ""
+
+#: 10101:719
+
+msgid "{Kazushi}\n\"Thanks. I'll go and find her in the lab.\""
+msgstr ""
+
+#: 10101:722
+
+msgid "{Rin}\n\"No, don't worry about it. So, what's the back hole?\""
+msgstr ""
+
+#: 10101:723
+
+msgid "{Kazushi}\n\"Never mind that!\""
+msgstr ""
+
+#: 10101:728
+
+msgid "The door was open, but the lights were off. I quietly made my way in."
+msgstr ""
+
+#: 10101:729
+
+msgid "{Kazushi}\n\"Haruka? Are you there??\""
+msgstr ""
+
+#: 10101:731
+
+msgid "SHATTER!!"
+msgstr ""
+
+#: 10101:732
+
+msgid "{Kazushi}\n\"What was that!?\""
+msgstr ""
+
+#: 10101:733
+
+msgid "It sounded like a glass falling and shattering.\nIt was from the room at the end of the corridor."
+msgstr ""
+
+#: 10101:736
+
+msgid "{Haruka}\n\"Aaargh, jeez! Why can't I do it?!\""
+msgstr ""
+
+#: 10101:737
+
+msgid "An irritated voice.\nIt was Haruka."
+msgstr ""
+
+#: 10101:740
+
+msgid "I saw Haruka standing at the end of the room, panting in frustration. On the floor, a broken flask lay destroyed in a puddle of its previous contents."
+msgstr ""
+
+#: 10101:741
+
+msgid "{Kazushi}\n\"Haruka.\""
+msgstr ""
+
+#: 10101:745
+
+msgid "I tried saying her name as quietly as possible so I wouldn't startle her. She still jumped a bit in surprise and turned around. I could see tears welling up in her eyes as she was about to cry."
+msgstr ""
+
+#: 10101:747
+
+msgid "{Haruka}\n\"Kazushi-kun......?\""
+msgstr ""
+
+#: 10101:750
+
+msgid "She recognized me and began to relax, if only for a split second.\nShe looked down awkwardly at the floor."
+msgstr ""
+
+#: 10101:751
+
+msgid "{Haruka}\n\"What are you doing here so late?\""
+msgstr ""
+
+#: 10101:752
+
+msgid "I knew she still felt responsible for what happened today."
+msgstr ""
+
+#: 10101:753
+
+msgid "{Kazushi}\n\"What are you doing here?\nI heard you've been locked in yourself here all day. What are you doing?\""
+msgstr ""
+
+#: 10101:755
+
+msgid "I walked across the room to where she was.\nThat was when I noticed the lab was a mess."
+msgstr ""
+
+#: 10101:756
+
+msgid "There were more broken flasks. Unfamiliar tools and solutions were scattered across the desks and the floor."
+msgstr ""
+
+#: 10101:757
+
+msgid "{Kazushi}\n\"What's all this?\""
+msgstr ""
+
+#: 10101:760
+
+msgid "{Haruka}\n\"Whatever I try...I keep failing...I don't know why......\""
+msgstr ""
+
+#: 10101:761
+
+msgid "She responded to me with pain and disappointment in her voice. She must have been going like this for at least ten hours."
+msgstr ""
+
+#: 10101:762
+
+msgid "And she's been failing the entire time too. No wonder she seems exhausted."
+msgstr ""
+
+#: 10101:763
+
+msgid "{Haruka}\n\"I don't know what's happening to me. I've never had a string of failures like this before.\""
+msgstr ""
+
+#: 10101:764
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 10101:765
+
+msgid "{Haruka}\n\"Even when I first tried alchemy I was able to succeed.\nSure, it was something easy, but I was still able to pull it off.\""
+msgstr ""
+
+#: 10101:766
+
+msgid "{Kazushi}\n\"On your first try?\nWow, you really are talented!\""
+msgstr ""
+
+#: 10101:769
+
+msgid "{Haruka}\n\"My grandma told me I had talent too. Even though she left my father to decide for himself, she strongly recommended that I pursue alchemy.\""
+msgstr ""
+
+#: 10101:770
+
+msgid "For a moment, she looked very happy."
+msgstr ""
+
+#: 10101:771
+
+msgid "Since Haruka admired the Principal so much, those words must have really made her happy."
+msgstr ""
+
+#: 10101:774
+
+msgid "{Haruka}\n\"I can't do anything now.\nMaybe I deserve this for acting selfish and putting you in danger.\""
+msgstr ""
+
+#: 10101:775
+
+msgid "She smiled helplessly. It was obvious that she was very weak and on the verge of collapse."
+msgstr ""
+
+#: 10101:777
+
+msgid "{Kazushi}\n\"Hey, why don't you take a little break? When things aren't going your way, sometimes the best thing to do is to step away from the problem for a bit and come back to it later. You can try again after you rest for a bit.\""
+msgstr ""
+
+#: 10101:779
+
+msgid "{Haruka}\n\"......maybe you're right.\nMaybe I need a break......\""
+msgstr ""
+
+#: 10101:781
+
+msgid "She flopped down on a chair like a worn out doll.\nI couldn't see her face in the shadows, but her silhouette looked so small, like she was crying."
+msgstr ""
+
+#: 10101:782
+
+msgid "It's killing me to see her like this."
+msgstr ""
+
+#: 10101:783
+
+msgid "{Kazushi}\n\"Can I sit with you?\""
+msgstr ""
+
+#: 10101:784
+
+msgid "She nodded her head without saying a word. I pulled over a chair and sat down in front of her."
+msgstr ""
+
+#: 10101:786
+
+msgid "{Kazushi}\n\"Umm......\""
+msgstr ""
+
+#: 10101:787
+
+msgid "I wanted to cheer her up, but I didn't know what words would be best."
+msgstr ""
+
+#: 10101:788
+
+msgid "{Haruka}\n\"Kazushi-kun, are you sure you're still feeling OK after the accident?\""
+msgstr ""
+
+#: 10101:789
+
+msgid "{Kazushi}\n\"I'm perfectly fine. Being healthy is one of the few things I'm actually good at, so don't worry about me anymore.\""
+msgstr ""
+
+#: 10101:790
+
+msgid "{Haruka}\n\"I'm truly sorry......\""
+msgstr ""
+
+#: 10101:791
+
+msgid "{Kazushi}\n\"I said don't worry......\""
+msgstr ""
+
+#: 10101:792
+
+msgid "{Haruka}\n\"What grandma said today really made me think. I used to believe that my purposes for using alchemy were different from hers, but in the end, we turned out to be the same.\""
+msgstr ""
+
+#: 10101:793
+
+msgid "{Haruka}\n\"Maybe the fact that I can't do anything with alchemy now means I shouldn't use it anymore...\""
+msgstr ""
+
+#: 10101:794
+
+msgid "Everything she said was buried under negativity.\nShe had absolutely no confidence anymore.\nI knew how she was feeling - I'd been there myself."
+msgstr ""
+
+#: 10101:795
+
+msgid "{Haruka}\n\"I'm sorry I put you in such terrible danger. I promise it won't happen again, so please forgive me.\""
+msgstr ""
+
+#: 10101:796
+
+msgid "She lowered her head even further to show her deepest apologies.\nIt made me sad that all she's done is apologize to me."
+msgstr ""
+
+#: 10101:797
+
+msgid "{Kazushi}\n\"You've been doing nothing but apologizing to me. I already told you it's okay, so get some rest. Thinking about it now isn't going to help matters.\""
+msgstr ""
+
+#: 10101:798
+
+msgid "There's a time for everybody where, no matter what you do, you keep failing. I understand exactly how she's feeling now because that's how I was when I first arrived on the island."
+msgstr ""
+
+#: 10101:799
+
+msgid "That's why I know Haruka won't be able to think of anything good right now."
+msgstr ""
+
+#: 10101:800
+
+msgid "{Kazushi}\n\"Try to clear your mind, and take a deep breath.\""
+msgstr ""
+
+#: 10101:801
+
+msgid "{Haruka}\n\"Take a deep breath?\""
+msgstr ""
+
+#: 10101:802
+
+msgid "{Kazushi}\n\"That's right. At times like this, when we feel bad or our body's not doing well, we forget to breathe properly. And that only makes things worse.\""
+msgstr ""
+
+#: 10101:803
+
+msgid "Haruka closed her eyes as if she was trying to listen to her own breathing."
+msgstr ""
+
+#: 10101:804
+
+msgid "{Haruka}\n\"Breathing......ah, you're right. I can tell that my breathing's been shallow now. Breathing is one of the basic keys to alchemy too.\""
+msgstr ""
+
+#: 10101:805
+
+msgid "{Kazushi}\n\"Right? So, just take a few deep breaths. Breath in......and out......\""
+msgstr ""
+
+#: 10101:806
+
+msgid "{Haruka}\n *uhhhhh* *huuuuuu*"
+msgstr ""
+
+#: 10101:807
+
+msgid "I made her repeat the process.\nShe began to calm down as she listened to me.\nHer willingness to try was one of her best traits."
+msgstr ""
+
+#: 10101:808
+
+msgid "{Haruka}\n *uhhhhh* *huuuuuu*"
+msgstr ""
+
+#: 10101:809
+
+msgid "As she kept breathing deeply, her pale face gradually regained its color."
+msgstr ""
+
+#: 10101:810
+
+msgid "{Kazushi}\n\"People can always show at least some strength so long as they breathe properly. Yet while we do it unconsciously, it's not easy to do properly.\""
+msgstr ""
+
+#: 10101:811
+
+msgid "{Haruka}\n\"I agree.\nI thought I knew it well.\""
+msgstr ""
+
+#: 10101:812
+
+msgid "{Kazushi}\n\"How do you feel now?\nDo you feel better?\""
+msgstr ""
+
+#: 10101:813
+
+msgid "{Haruka}\n\"Yes, I do.\nThanks.\""
+msgstr ""
+
+#: 10101:814
+
+msgid "I'm glad she managed to calm down some. She still looked depressed, but at least she should be able to talk with me."
+msgstr ""
+
+#: 10101:815
+
+msgid "{Kazushi}\n\"So you're having trouble with your experiments?\""
+msgstr ""
+
+#: 10101:816
+
+msgid "{Haruka}\n\"Yeah, to the point where it's laughable. I can't even do what I used to accomplish with ease.\""
+msgstr ""
+
+#: 10101:817
+
+msgid "{Kazushi}\n\"I see.\nIt happens to everyone.\nMaybe it'll fix itself once you get some sleep?\""
+msgstr ""
+
+#: 10101:818
+
+msgid "{Haruka}\n\"You think so?\nMaybe you're right.\nI might go to bed early today.\""
+msgstr ""
+
+#: 10101:819
+
+msgid "Even though she sounded like she was agreeing with me, I could tell it wasn't what she was really thinking.\nShe's only playing along because she still feels guilty."
+msgstr ""
+
+#: 10101:820
+
+msgid "{Haruka}\n\"I want to thank you for being so kind to me, even though I made you go through such an ordeal. You said you'd trust me, but...\""
+msgstr ""
+
+#: 10101:821
+
+msgid "{Kazushi}\n\"Stop.\""
+msgstr ""
+
+#: 10101:822
+
+msgid "I covered her mouth. I didn't want to hear her saying \"sorry\" any more."
+msgstr ""
+
+#: 10101:823
+
+msgid "{Haruka}\n\"Mmmmm......!?\""
+msgstr ""
+
+#: 10101:824
+
+msgid "{Kazushi}\n\"No more saying 'I'm sorry'.\""
+msgstr ""
+
+#: 10101:825
+
+msgid "The girl I love is hurting because of me. Even though it wasn't my fault, my existence is what's causing her such pressure."
+msgstr ""
+
+#: 10101:826
+
+msgid "She nodded her head up and down to let me know she understood. I let her go."
+msgstr ""
+
+#: 10101:827
+
+msgid "{Kazushi}\n\"No more apologizing, OK?\""
+msgstr ""
+
+#: 10101:828
+
+msgid "{Haruka}\n\"...got it.\nI've been apologizing all day.\nSorr--\""
+msgstr ""
+
+#: 10101:829
+
+msgid "She closed her mouth as soon as she realized what she was doing. After forbidding her from saying sorry, she spoke a lot fewer words."
+msgstr ""
+
+#: 10101:830
+
+msgid "After a while, Haruka gave a big sigh."
+msgstr ""
+
+#: 10101:831
+
+msgid "{Haruka}\n\"You don't have to waste your time worrying about me.\nI don't want to do any more damage to you.\""
+msgstr ""
+
+#: 10101:832
+
+msgid "We didn't fight or anything, but her words created a distance between us and it made me sad."
+msgstr ""
+
+#: 10101:833
+
+msgid "{Kazushi}\n\"You're being silly. Don't say such things.\""
+msgstr ""
+
+#: 10101:834
+
+msgid "Haruka's words really made me sad - I almost started crying."
+msgstr ""
+
+#: 10101:835
+
+msgid "{Haruka}\n\"It's all because I'm an idiot.\""
+msgstr ""
+
+#: 10101:836
+
+msgid "{Kazushi}\n\"Stop it. You are not an idiot.\""
+msgstr ""
+
+#: 10101:837
+
+msgid "{Haruka}\n\"Alchemy was the only thing I could do better than other people, but not anymore. Besides, I can no longer trust grandma.\""
+msgstr ""
+
+#: 10101:838
+
+msgid "{Haruka}\n\"It's too late for me to leave the island and go live with my dad. He won't want me around. When I told him I was staying here, I caused him some serious trouble.\""
+msgstr ""
+
+#: 10101:839
+
+msgid "{Haruka}\n\"I've got nowhere to go.\""
+msgstr ""
+
+#: 10101:840
+
+msgid "She still kept saying such negative things.\nShe wasn't crying; she was smiling as if she'd completely given up."
+msgstr ""
+
+#: 10101:841
+
+msgid "{Kazushi}\n\"You shouldn't be so negative. It's just that things aren't going your way for now.\""
+msgstr ""
+
+#: 10101:842
+
+msgid "{Haruka}\n\"But I'm just a......\""
+msgstr ""
+
+#: 10101:843
+
+msgid "{Kazushi}\n\"Stop treating yourself like that.\""
+msgstr ""
+
+#: 10101:844
+
+msgid "{Haruka}\n\"But......\""
+msgstr ""
+
+#: 10101:845
+
+msgid "She didn't stop!!\nI got frustrated."
+msgstr ""
+
+#: 10101:846
+
+msgid "{Kazushi}\n\"Come on, I said stop it already! Don't say such bad things about the girl I love!!\""
+msgstr ""
+
+#: 10101:847
+
+msgid "I was screaming before I knew it."
+msgstr ""
+
+#: 10101:849
+
+msgid "{Haruka}\n\"What? The girl you love?\""
+msgstr ""
+
+#: 10101:850
+
+msgid "{Kazushi}\n\"Huh...?\""
+msgstr ""
+
+#: 10101:851
+
+msgid "I felt the blood drain from my face. I just wound up confessing to her. Haruka was shocked at how sudden it was, too."
+msgstr ""
+
+#: 10101:852
+
+msgid "{Haruka}\n\"What did you say?\nWho loves who?\""
+msgstr ""
+
+#: 10101:853
+
+msgid "{Kazushi}\n\"Well, I...\""
+msgstr ""
+
+#: 10101:854
+
+msgid "{Haruka}\n\"You?\""
+msgstr ""
+
+#: 10101:855
+
+msgid "Her big eyes caught me out.\nI couldn't return her gaze."
+msgstr ""
+
+#: 10101:856
+
+msgid "{Kazushi}\n\"Haruka, I...... I love you!!\""
+msgstr ""
+
+#: 10101:857
+
+msgid "I told her with frustration, and without averting my gaze."
+msgstr ""
+
+#: 10101:858
+
+msgid "{Haruka}\n\"..................eh?\""
+msgstr ""
+
+#: 10101:859
+
+msgid "For a moment she acted like she didn't hear it, but then she opened her mouth in shock. I thought I must have failed and started to regret it, but it was already too late."
+msgstr ""
+
+#: 10101:860
+
+msgid "{Haruka}\n\"You......love me......!?\nYou do......?\""
+msgstr ""
+
+#: 10101:861
+
+msgid "{Kazushi}\n\"Why are you so surprised?\nI'm sure lots of other boys have felt the same way...\""
+msgstr ""
+
+#: 10101:862
+
+msgid "{Haruka}\n\"No, not at all!!\nNo one's ever confessed their love to me before...\""
+msgstr ""
+
+#: 10101:863
+
+msgid "{Kazushi}\n\"No way. Are you serious?\""
+msgstr ""
+
+#: 10101:864
+
+msgid "{Haruka}\n\"You're the first boys on the island in ages, remember?\""
+msgstr ""
+
+#: 10101:865
+
+msgid "{Kazushi}\n\"Oh yeah, that's right.\nDoes this mean I'm the first one to tell you this?\""
+msgstr ""
+
+#: 10101:866
+
+msgid "{Haruka}\n\"Y-you're the first.\nFor the first time, somebody's told me that he loves me.\""
+msgstr ""
+
+#: 10101:867
+
+msgid "It seemed that this was a big thing for her. Her face went bright red and she was speechless."
+msgstr ""
+
+#: 10101:868
+
+msgid "I really wanted to know her answer. Even if came out accidentally, I still confessed to her."
+msgstr ""
+
+#: 10101:869
+
+msgid "{Kazushi}\n\"And, umm, how about you......?\""
+msgstr ""
+
+#: 10101:870
+
+msgid "{Haruka}\n\"Huh? Wh-what about me?!\""
+msgstr ""
+
+#: 10101:871
+
+msgid "{Kazushi}\n\"What do you think about me?\""
+msgstr ""
+
+#: 10101:872
+
+msgid "It's so embarrassing to have to ask her about myself like this. It should be a cinch for her to answer me - it's either yes or no..."
+msgstr ""
+
+#: 10101:873
+
+msgid "{Haruka}\n\"M-me?\nAbout you?\""
+msgstr ""
+
+#: 10101:874
+
+msgid "{Kazushi}\n\"Yes......and?\""
+msgstr ""
+
+#: 10101:876
+
+msgid "{Haruka}\n\"What do you mean......?\""
+msgstr ""
+
+#: 10101:877
+
+msgid "Haruka looked at the ground and got all quiet. Her face was so red that I felt sorry for her."
+msgstr ""
+
+#: 10101:878
+
+msgid "{Haruka}\n\"Well, I......\""
+msgstr ""
+
+#: 10101:879
+
+msgid "I couldn't breathe while I was waiting for her answer. I was standing still, but my heart was pounding hard like a runner who had just finished a marathon."
+msgstr ""
+
+#: 10101:880
+
+msgid "Her flushed face turned pale as she thought it over."
+msgstr ""
+
+#: 10101:881
+
+msgid "{Haruka}\n\"Oh...I see...\""
+msgstr ""
+
+#: 10101:882
+
+msgid "She said something unrelated to the situation as she let out a big sigh."
+msgstr ""
+
+#: 10101:883
+
+msgid "{Kazushi}\n\"What's wrong?\""
+msgstr ""
+
+#: 10101:884
+
+msgid "{Haruka}\n\"I can't believe I didn't notice......\""
+msgstr ""
+
+#: 10101:885
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 10101:886
+
+msgid "She finally looked up. I was surprised to see a tear drop trailing from her eyes."
+msgstr ""
+
+#: 10101:887
+
+msgid "{Kazushi}\n\"What...?\""
+msgstr ""
+
+#: 10101:888
+
+msgid "Tears kept coming from her eyes."
+msgstr ""
+
+#: 10101:889
+
+msgid "{Haruka}\n *sniff* *boohoo*"
+msgstr ""
+
+#: 10101:890
+
+msgid "{Kazushi}\n\"Why--?\nWhy are you crying?\""
+msgstr ""
+
+#: 10101:891
+
+msgid "{Haruka}\n\"I'm sorry, Kazushi-kun!\nI'm sorry...!!\"\n*BWAAAAHHHHHH*"
+msgstr ""
+
+#: 10101:892
+
+msgid "{Kazushi}\n\"Hey, don't cry, OK......?\""
+msgstr ""
+
+#: 10101:893
+
+msgid "{Haruka}\n *BWAAAAAHHHH*"
+msgstr ""
+
+#: 10101:894
+
+msgid "{Kazushi}\n\"Hey? Why?\""
+msgstr ""
+
+#: 10101:895
+
+msgid "This wasn't the time to ask for an answer. I had no idea what was going on, so I just tried to calm her down, but the more I did, the more she cried."
+msgstr ""
+
+#: 10101:902
+
+msgid "{Pierre}\n\"Hey, Kazushi, pass the soy sauce.\""
+msgstr ""
+
+#: 10101:903
+
+msgid "{Kazushi}\n\"Here.\""
+msgstr ""
+
+#: 10101:905
+
+msgid "I reached out for the bottle of soy sauce.\nA delicate hand with thin fingers touched mine from the opposite direction."
+msgstr ""
+
+#: 10101:908
+
+msgid "{Haruka}\n\"...eh?\""
+msgstr ""
+
+#: 10101:909
+
+msgid "It was Haruka."
+msgstr ""
+
+#: 10101:912
+
+msgid "{Haruka}\n\"S-sorry!\""
+msgstr ""
+
+#: 10101:913
+
+msgid "Haruka jerked her hand back."
+msgstr ""
+
+#: 10101:919
+
+msgid "{Haruka}\n\"Oops!\""
+msgstr ""
+
+#: 10101:921
+
+msgid "When Haruka pulled her hand back, she knocked over the bottle. The soy sauce went dripping all over the table."
+msgstr ""
+
+#: 10101:922
+
+msgid "{Kazushi}\n\"Oh no......\""
+msgstr ""
+
+#: 10101:923
+
+msgid "{Haruka}\n\"Ah, I'm sorry! Here, use my handkerchief!\""
+msgstr ""
+
+#: 10101:924
+
+msgid "{Kazushi}\n\"You don't wanna ruin your handkerchief on something like this. Hey, can someone get us a washcloth?\""
+msgstr ""
+
+#: 10101:928
+
+msgid "{Rin}\n\"Oh, hold on a second.\""
+msgstr ""
+
+#: 10101:930
+
+msgid "Fujisaki-san ran off to get one.\nHaruka was panicking."
+msgstr ""
+
+#: 10101:933
+
+msgid "{Fuusen}\n\"What are you doing, Haruka?\nYou're acting like this is some school comedy.\""
+msgstr ""
+
+#: 10101:938
+
+msgid "{Haruka}\n\"Don't just stand and watch, Kazuko-chan. Can you help me?\""
+msgstr ""
+
+#: 10101:939
+
+msgid "{Fuusen}\n\"You're just like a baby.\""
+msgstr ""
+
+#: 10101:943
+
+msgid "{Rin}\n\"Here, use this.\""
+msgstr ""
+
+#: 10101:944
+
+msgid "Fujisaki-san tossed the washcloth to Haruka. She used it to wipe up the mess."
+msgstr ""
+
+#: 10101:947
+
+msgid "{Haruka}\n\"Oh no.\nIt's almost empty.\""
+msgstr ""
+
+#: 10101:950
+
+msgid "{Rin}\n\"It's really unusual for you to mess up like this, Haruka-chan.\""
+msgstr ""
+
+#: 10101:954
+
+msgid "{Ran}\n\"You think so? If you ask me, Haruka counts as a klutz.\""
+msgstr ""
+
+#: 10101:958
+
+msgid "{Sakura}\n\"Hey, just now, you panicked and jerked back when you touched Harucchi's hand, right? Harunyan, isn't that a bit much?\""
+msgstr ""
+
+#: 10101:961
+
+msgid "Sakura was good at spotting details. Haruka was surely overreacting. It's probably because I confessed my feelings to her last night."
+msgstr ""
+
+#: 10101:962
+
+msgid "I ended up not getting a response from her.\nMaybe her tears were the answer - she didn't do anything but cry."
+msgstr ""
+
+#: 10101:963
+
+msgid "She couldn't reject me with words, so that's why she had to cry.\nShe's a kind girl."
+msgstr ""
+
+#: 10101:968
+
+msgid "{Ran}\n\"Did we miss anything between you two?\""
+msgstr ""
+
+#: 10101:969
+
+msgid "Ran's eyes shined with delight as if she'd caught a whiff of something."
+msgstr ""
+
+#: 10101:973
+
+msgid "{Haruka}\n\"What?\nWhat do you mean?\""
+msgstr ""
+
+#: 10101:974
+
+msgid "{Ran}\n\"I'm the one who's asking.\""
+msgstr ""
+
+#: 10101:979
+
+msgid "{Mizuki}\n\"Hey, Kazushi, did you do something to her?\""
+msgstr ""
+
+#: 10101:980
+
+msgid "{Kazushi}\n\"What have I done to deserve being blamed right off the bat?\""
+msgstr ""
+
+#: 10101:984
+
+msgid "{Andou}\n\"It's always the man who does something evil.\""
+msgstr ""
+
+#: 10101:985
+
+msgid "{Kazushi}\n\"That's oppression.\""
+msgstr ""
+
+#: 10101:989
+
+msgid "{Haruka}\n\"Stop it, everybody.\nI'm the one who's at fault...\""
+msgstr ""
+
+#: 10101:990
+
+msgid "Her uncharacteristically depressing tone of voice worried everybody at the table. The heavy atmosphere spread over the rest of us too."
+msgstr ""
+
+#: 10101:994
+
+msgid "{Mizuki}\n\"Hey! Tell us what happened!!\""
+msgstr ""
+
+#: 10101:995
+
+msgid "{Kazushi}\n\"Well......\""
+msgstr ""
+
+#: 10101:1000
+
+msgid "{Ran}\n\"Don't even try saying nothing happened.\""
+msgstr ""
+
+#: 10101:1004
+
+msgid "{Fuusen}\n\"Haruma-kun, come back behind the gym later.\""
+msgstr ""
+
+#: 10101:1005
+
+msgid "{Kazushi}\n\"What? Oh no......\""
+msgstr ""
+
+#: 10101:1010
+
+msgid "{Haruka}\n\"..................\""
+msgstr ""
+
+#: 10101:1015
+
+msgid "They actually called me over to lobby of the girls' dorm instead of the gym."
+msgstr ""
+
+#: 10101:1018
+
+msgid "{Fuusen}\n\"What happened between you and Haruka?\""
+msgstr ""
+
+#: 10101:1023
+
+msgid "{Ran}\n\"It's obvious that you two aren't yourselves.\""
+msgstr ""
+
+#: 10101:1024
+
+msgid "{Kazushi}\n\"Umm, can you please let me go home?\""
+msgstr ""
+
+#: 10101:1025
+
+msgid "When you're surrounded by enemies like this, you can't explain anything rationally."
+msgstr ""
+
+#: 10101:1030
+
+msgid "{Andou}\n\"Don't even think about escaping from here.\""
+msgstr ""
+
+#: 10101:1031
+
+msgid "Andou towered in front of the door, blocking the only exit I had."
+msgstr ""
+
+#: 10101:1035
+
+msgid "{Natsume}\n\"Should we torture him?\""
+msgstr ""
+
+#: 10101:1036
+
+msgid "She said such a horrible thing with a childlike face."
+msgstr ""
+
+#: 10101:1037
+
+msgid "{Kazushi}\n\"Natsume-chan, please don't say such a thing with your innocent face. Also... why are you holding a pair of pliers?\""
+msgstr ""
+
+#: 10101:1042
+
+msgid "{Ran}\n\"You! Start talking so you can get it off your chest.\""
+msgstr ""
+
+#: 10101:1043
+
+msgid "{Kazushi}\n\"I don't have anything to say!!\""
+msgstr ""
+
+#: 10101:1046
+
+msgid "{Natsume}\n\"........................\""
+msgstr ""
+
+#: 10101:1047
+
+msgid "{Kazushi}\n\"Urk......\""
+msgstr ""
+
+#: 10101:1048
+
+msgid "The girls were surrounding me with their stares.\nThis is already becoming torture for me. I couldn't handle it anymore."
+msgstr ""
+
+#: 10101:1049
+
+msgid "{Kazushi}\n\"Well, actually......\""
+msgstr ""
+
+#: 10101:1052
+
+msgid "They got me talking really easily.\nI told them what happened last night.\nShame on me."
+msgstr ""
+
+#: 10101:1053
+
+msgid "But I actually wanted to hear their opinions on why Haruka started to cry. I had to give away some information."
+msgstr ""
+
+#: 10101:1059
+
+msgid "{Fuusen}\n\"Oh-ho?\""
+msgstr ""
+
+#: 10101:1060
+
+msgid "After I told them what happened, I felt some of the pressure easing up."
+msgstr ""
+
+#: 10101:1065
+
+msgid "{Andou}\n\"It's just another love story.\""
+msgstr ""
+
+#: 10101:1069
+
+msgid "{Ran}\n\"I know, it's boring. I shouldn't have asked.\""
+msgstr ""
+
+#: 10101:1070
+
+msgid "{Kazushi}\n\"What do you mean? You girls forced me to talk.\""
+msgstr ""
+
+#: 10101:1073
+
+msgid "{Fuusen}\n\"Don't be so bored, Ran.\""
+msgstr ""
+
+#: 10101:1074
+
+msgid "{Ran}\n\"But I thought this was something more interesting.\""
+msgstr ""
+
+#: 10101:1077
+
+msgid "{Kazushi}\n\"I'm not here to entertain you or tell jokes. I did what you asked for, and now it's your turn. Why do you think Haruka started crying?\""
+msgstr ""
+
+#: 10101:1082
+
+msgid "They made eye contact with each other and gave each other troubled looks."
+msgstr ""
+
+#: 10101:1083
+
+msgid "{Kazushi}\n\"Is it so hard for you guys to tell me your opinions?\""
+msgstr ""
+
+#: 10101:1084
+
+msgid "They were starting to worry me."
+msgstr ""
+
+#: 10101:1087
+
+msgid "{Mizuki}\n\"Well, you know?\""
+msgstr ""
+
+#: 10101:1090
+
+msgid "{Sakura}\n\"Harucchi just hates and hates you, so of course?\""
+msgstr ""
+
+#: 10101:1094
+
+msgid "Sakura's words stubbed my heart."
+msgstr ""
+
+#: 10101:1096
+
+msgid "{Kazushi}\n\"You think she hates me that much?\""
+msgstr ""
+
+#: 10101:1097
+
+msgid "I didn't know that.\nIt made me want to cry.\n...actually, I was already crying."
+msgstr ""
+
+#: 10101:1098
+
+msgid "I felt something warm pooling up around my eyes and dripping down my face."
+msgstr ""
+
+#: 10101:1102
+
+msgid "{Rin}\n\"Hey, girls, that's mean, stop it. He's really crying.\""
+msgstr ""
+
+#: 10101:1105
+
+msgid "{Sakura}\n\"Ahaha, you're so cute, Harucchi. We're just joking.\""
+msgstr ""
+
+#: 10101:1106
+
+msgid "{Kazushi}\n\"What? What do you mean you're just joking? Which part is the joke and which isn't? I can't tell anymore...\""
+msgstr ""
+
+#: 10101:1111
+
+msgid "{Natsume}\n\"Take responsibility.\""
+msgstr ""
+
+#: 10101:1112
+
+msgid "Natsume-chan spoke out."
+msgstr ""
+
+#: 10101:1113
+
+msgid "{Kazushi}\n\"Responsibility? For what?\""
+msgstr ""
+
+#: 10101:1114
+
+msgid "{Natsume}\n\"It's your fault Ao's become impotent, Haruma.\""
+msgstr ""
+
+#: 10101:1115
+
+msgid "{Kazushi}\n\"Impotent? You mean the reason Haruka can't use alchemy is my fault?\""
+msgstr ""
+
+#: 10101:1118
+
+msgid "{Natsume}\n\"Because she nearly hurt you, Ao's completely shrivelled up. When it comes to alchemy, the alchemist's mental world has a great impact on the results.\""
+msgstr ""
+
+#: 10101:1119
+
+msgid "{Natsume}\n\"Thus, Ao fails.\""
+msgstr ""
+
+#: 10101:1120
+
+msgid "{Kazushi}\n\"You're saying that the reason why she can't do alchemy anymore is psychological?\""
+msgstr ""
+
+#: 10101:1121
+
+msgid "{Natsume}\n\".........yep.\""
+msgstr ""
+
+#: 10101:1122
+
+msgid "{Kazushi}\n\"Oh, so in the end, she's just in a slump.\""
+msgstr ""
+
+#: 10101:1127
+
+msgid "{Fuusen}\n\"To make a long story short, that's what's going on. Most of the time, something like this can be easily cured by removing the reason in question.\""
+msgstr ""
+
+#: 10101:1128
+
+msgid "I've gone through something like this on my own before. Usually it's something small that you need to take care of in order to overcome a slump. In her case, the reason is..."
+msgstr ""
+
+#: 10101:1129
+
+msgid "{Kazushi}\n\"And I'm the reason.\""
+msgstr ""
+
+#: 10101:1130
+
+msgid "{Fuusen}\n\"Haruka-chan's the type who has a strong sense of responsibility. If she thinks she might fail and hurt someone again, she'll get too nervous and wind up failing.\""
+msgstr ""
+
+#: 10101:1131
+
+msgid "{Natsume}\n\"Exactly. Even more so when the one she hurt is you.\""
+msgstr ""
+
+#: 10101:1132
+
+msgid "{Kazushi}\n\"Even more so because it's me?\""
+msgstr ""
+
+#: 10101:1135
+
+msgid "{Natsume}\n\"......it's nothing.\""
+msgstr ""
+
+#: 10101:1136
+
+msgid "I didn't get the last part. Anyway, I found out that the reason why she keeps failing is because of me."
+msgstr ""
+
+#: 10101:1137
+
+msgid "{Kazushi}\n\"Then, you think my confession only disturbed her feelings even more?\""
+msgstr ""
+
+#: 10101:1140
+
+msgid "{Natsume}\n\"Yes, because you can't read between the lines.\""
+msgstr ""
+
+#: 10101:1144
+
+msgid "{Mizuki}\n\"Tell me about it. If you were going to confess, you should've considered the mood and timing better.\""
+msgstr ""
+
+#: 10101:1148
+
+msgid "{Sakura}\n\"I know. Now you might have ruined your chance.\""
+msgstr ""
+
+#: 10101:1149
+
+msgid "{Kazushi}\n\"Seriously? That sucks...\""
+msgstr ""
+
+#: 10101:1150
+
+msgid "No wonder I keep failing in my pursuits to ask out girls. I think I just extended my record of consecutive rejections."
+msgstr ""
+
+#: 10101:1155
+
+msgid "{Kazushi}\n\"Ouch!?\""
+msgstr ""
+
+#: 10101:1159
+
+msgid "Out of nowhere, Natsume-chan slapped me across the back."
+msgstr ""
+
+#: 10101:1160
+
+msgid "{Natsume}\n\"If you have time to get depressed, then go see Ao now.\""
+msgstr ""
+
+#: 10101:1161
+
+msgid "{Kazushi}\n\"Right now?\nBut what can I do......?\""
+msgstr ""
+
+#: 10101:1162
+
+msgid "I might disturb her even more."
+msgstr ""
+
+#: 10101:1163
+
+msgid "{Kazushi}\n\"Maybe I should leave her alone for a while......\""
+msgstr ""
+
+#: 10101:1166
+
+msgid "{Natsume}\n\"Stupid. You're stupid, Haruma, so don't think.\""
+msgstr ""
+
+#: 10101:1167
+
+msgid "{Kazushi}\n\"Stupid?!\""
+msgstr ""
+
+#: 10101:1171
+
+msgid "{Fuusen}\n\"I agree. It's better for you not to think, Haruma-kun.\""
+msgstr ""
+
+#: 10101:1176
+
+msgid "{Mizuki}\n\"You love Haruka, right? Then you need to be beside her right now, when she needs you most.\""
+msgstr ""
+
+#: 10101:1183
+
+msgid "{Ran}\n\"You know that's what you really want to do, and thinking it over isn't like you. Act like yourself, even though I'm not happy about it.\""
+msgstr ""
+
+#: 10101:1187
+
+msgid "Sakura and Mizuki stood up, opening a path out of the circle for me."
+msgstr ""
+
+#: 10101:1192
+
+msgid "{Rin}\n\"You should go now.\nGood luck!\""
+msgstr ""
+
+#: 10101:1193
+
+msgid "{Sakura}\n\"Say hi to Harunyan for us.\""
+msgstr ""
+
+#: 10101:1194
+
+msgid "Their eyes were telling me to go get her.\nI felt like they gave me the courage to go see her."
+msgstr ""
+
+#: 10101:1195
+
+msgid "{Kazushi}\n\"Yes, I will.\nThanks, girls.\""
+msgstr ""
+
+#: 10101:1200
+
+msgid "{Ran}\n\"Just go already!\""
+msgstr ""
+
+#: 10101:1205
+
+msgid "{Natsume}\n\"And don't come back.\""
+msgstr ""
+
+#: 10101:1210
+
+msgid "{Fuusen}\n\"By the way, Haruka's not in her room. Do you have any idea where she might be?\""
+msgstr ""
+
+#: 10101:1211
+
+msgid "It's already late at night and she's not in her room. Where would Haruka want to go when she's depressed?"
+msgstr ""
+
+#: 10101:1212
+
+msgid "{Kazushi}\n\"Yeah, I know one place.\""
+msgstr ""
+
+#: 10101:1217
+
+msgid "And for once, I was right."
+msgstr ""
+
+#: 10101:1218
+
+msgid "{Kazushi}\n\"Hey!\""
+msgstr ""
+
+#: 10101:1219
+
+msgid "I called out to her from behind."
+msgstr ""
+
+#: 10101:1222
+
+msgid "{Haruka}\n\".........ah.\""
+msgstr ""
+
+#: 10101:1223
+
+msgid "She looked confused to see me."
+msgstr ""
+
+#: 10101:1226
+
+msgid "{Haruka}\n\"H-hey...\""
+msgstr ""
+
+#: 10101:1229
+
+msgid "She tried to smile at me but just stared at the ground instead."
+msgstr ""
+
+#: 10101:1230
+
+msgid "She usually looks at me to the point where I get shy, but lately she's been avoiding eye contact. That by itself is enough to hurt me."
+msgstr ""
+
+#: 10101:1231
+
+msgid "{Kazushi}\n\"..................\""
+msgstr ""
+
+#: 10101:1232
+
+msgid "Shit, don't give in. Right now, Haruka's the one in trouble. What are you doing getting down?"
+msgstr ""
+
+#: 10101:1233
+
+msgid "{Kazushi}\n\"You're still taking care of this place like always?\""
+msgstr ""
+
+#: 10101:1234
+
+msgid "I decided to talk to her. She looked straight ahead, holding her knees together."
+msgstr ""
+
+#: 10101:1235
+
+msgid "I saw a watering can beside her and what looked like the same chemicals she had when we first met here. She must have been taking care of the flowers."
+msgstr ""
+
+#: 10101:1238
+
+msgid "{Haruka}\n\"No one else knows how to take care of the flowers. However, I might not be able to anymore.\""
+msgstr ""
+
+#: 10101:1239
+
+msgid "{Kazushi}\n\"What do you mean? You've been taking good care of this place till today.\""
+msgstr ""
+
+#: 10101:1240
+
+msgid "{Haruka}\n\"But look at them.\""
+msgstr ""
+
+#: 10101:1241
+
+msgid "I didn't realize it until she pointed out, but none of the flowers looked healthy. All the buds were sagging."
+msgstr ""
+
+#: 10101:1244
+
+msgid "{Haruka}\n\"I've never let this happen before. There was a time when I couldn't make them bloom, but I've never let them be sick like this.\""
+msgstr ""
+
+#: 10101:1245
+
+msgid "{Kazushi}\n\"Isn't it because it's been so hot lately? Maybe they're just not getting enough water?\""
+msgstr ""
+
+#: 10101:1246
+
+msgid "{Haruka}\n\"Don't you remember? These aren't ordinary flowers. It's not because they aren't getting enough water. These flowers need a smooth flow of energy from this island.\""
+msgstr ""
+
+#: 10101:1247
+
+msgid "{Kazushi}\n\"Energy from the island?\""
+msgstr ""
+
+#: 10101:1248
+
+msgid "{Haruka}\n\"In order to do so, the caretaker needs to clearly visualize them growing healthy. They also have to synthesize the fertilizer to make it happen.\""
+msgstr ""
+
+#: 10101:1249
+
+msgid "{Kazushi}\n\"I didn't understand everything you said, but it sure sounds very difficult. You've always been able to do that, and to me, that's amazing.\""
+msgstr ""
+
+#: 10101:1252
+
+msgid "{Haruka}\n\"That's not true at all. Right now, I can't even remember how I was able to take care of them before. Ahaha...\""
+msgstr ""
+
+#: 10101:1253
+
+msgid "Haruka smiled helplessly.\nIt's killing me to watch her this way."
+msgstr ""
+
+#: 10101:1254
+
+msgid "I took my eyes off of Haruka and looked around the moonlit flower garden."
+msgstr ""
+
+#: 10101:1255
+
+msgid "{Kazushi}\n\"This is where I met you for the first time.\""
+msgstr ""
+
+#: 10101:1256
+
+msgid "I clearly remembered that day."
+msgstr ""
+
+#: 10101:1257
+
+msgid "{Kazushi}\n\"......oops.\""
+msgstr ""
+
+#: 10101:1258
+
+msgid "Maybe I shouldn't try to remember that day. I'm sure Haruka wouldn't want me to remember how she was that day."
+msgstr ""
+
+#: 10101:1261
+
+msgid "{Haruka}\n\"......something wrong?\""
+msgstr ""
+
+#: 10101:1262
+
+msgid "She noticed something off and looked up at me."
+msgstr ""
+
+#: 10101:1263
+
+msgid "{Kazushi}\n\"It's nothing! I'm not recalling anything odd!\""
+msgstr ""
+
+#: 10101:1266
+
+msgid "{Haruka}\n\"AH!\""
+msgstr ""
+
+#: 10101:1267
+
+msgid "Oh shit, she remembered!\nHaruka's face quickly turned bright red."
+msgstr ""
+
+#: 10101:1270
+
+msgid "{Haruka}\n\"I'd like it if you didn't recall the time we first met too much.\""
+msgstr ""
+
+#: 10101:1271
+
+msgid "{Kazushi}\n\"I-I know.\nI'm trying to erase my memory right now.\""
+msgstr ""
+
+#: 10101:1272
+
+msgid "Come on, make it disappear.\nAt least just for now."
+msgstr ""
+
+#: 10101:1275
+
+msgid "{Haruka}\n\"But I was really surprised that day. All the flowers here bloomed at once. That was the first time I'd ever seen that.\""
+msgstr ""
+
+#: 10101:1276
+
+msgid "{Kazushi}\n\"First time? Why? Aren't flowers supposed to bloom every year?\""
+msgstr ""
+
+#: 10101:1277
+
+msgid "{Haruka}\n\"I told you, these aren't ordinary flowers. Even the same seed will bloom into a slightly different flower depending on the care you give it.\""
+msgstr ""
+
+#: 10101:1278
+
+msgid "{Kazushi}\n\"Different flowers from the same seed?\""
+msgstr ""
+
+#: 10101:1279
+
+msgid "{Haruka}\n\"It's just like synthesis in alchemy. There are several stages, and what flower blooms is determined by how much we can improve it each time.\""
+msgstr ""
+
+#: 10101:1280
+
+msgid "{Haruka}\n\"The white flowers we saw that day belonged to the highest stage. That was the first time I'd seen those flowers bloom since I started caring for them.\""
+msgstr ""
+
+#: 10101:1281
+
+msgid "{Kazushi}\n\"Really? I managed to witness something amazing, then.\""
+msgstr ""
+
+#: 10101:1282
+
+msgid "I didn't know how lucky I was. I'd always been like that though..."
+msgstr ""
+
+#: 10101:1283
+
+msgid "I use my luck up on things that don't really matter."
+msgstr ""
+
+#: 10101:1286
+
+msgid "{Haruka}\n\"I don't think that was a coincidence.\""
+msgstr ""
+
+#: 10101:1287
+
+msgid "Haruka smiled at me for some reason."
+msgstr ""
+
+#: 10101:1288
+
+msgid "{Haruka}\n\"I don't think it was a coincidence that you were there.\""
+msgstr ""
+
+#: 10101:1289
+
+msgid "{Kazushi}\n\"What do you mean?\""
+msgstr ""
+
+#: 10101:1292
+
+msgid "{Haruka}\n\"You weren't there when they bloomed by coincidence, it was the opposite. They bloomed because you were there.\""
+msgstr ""
+
+#: 10101:1293
+
+msgid "{Kazushi}\n\"They bloomed because I was there?\n..................why?\""
+msgstr ""
+
+#: 10101:1294
+
+msgid "Why did they bloom because I was there? No matter how the flowers were set to bloom, there was no way to anticipate me showing up."
+msgstr ""
+
+#: 10101:1295
+
+msgid "{Kazushi}\n\"But I was only here by coincidence. I didn't do anything.\""
+msgstr ""
+
+#: 10101:1296
+
+msgid "That's right - I didn't do anything.\nAll I did was wander over after falling off the bridge."
+msgstr ""
+
+#: 10101:1297
+
+msgid "{Haruka}\n\"But that's exactly the same way that things happened for my grandparents.\""
+msgstr ""
+
+#: 10101:1298
+
+msgid "{Kazushi}\n\"What? What's exactly the same?\""
+msgstr ""
+
+#: 10101:1301
+
+msgid "{Haruka}\n\"No! It's nothing!\""
+msgstr ""
+
+#: 10101:1302
+
+msgid "Haruka evaded my question. I wondered what she meant by exactly the same with her grandparents. It bothered me."
+msgstr ""
+
+#: 10101:1305
+
+msgid "{Haruka}\n\"You know my grandma has been observing you, right? She thinks there's something special about you.\""
+msgstr ""
+
+#: 10101:1306
+
+msgid "{Kazushi}\n\"The principal? Seriously?\""
+msgstr ""
+
+#: 10101:1307
+
+msgid "She's had her eyes on me? That's not good at all."
+msgstr ""
+
+#: 10101:1308
+
+msgid "{Kazushi}\n\"I wonder what she could have possibly seen in me. It's got to be a mistake.\""
+msgstr ""
+
+#: 10101:1309
+
+msgid "{Kazushi}\n\"I've never practiced alchemy before in my life, and it's not like I've got special powers. I've never even bent a spoon, either.\""
+msgstr ""
+
+#: 10101:1310
+
+msgid "I would be in awe if I could do anything like that, but at the same time, I know I'm not talented in ways like that."
+msgstr ""
+
+#: 10101:1313
+
+msgid "{Haruka}\n\"We know for a fact it wasn't mere coincidence. However, we can't understand the reason either. That's why we've been observing you.\""
+msgstr ""
+
+#: 10101:1314
+
+msgid "{Kazushi}\n\"What......observing?\""
+msgstr ""
+
+#: 10101:1315
+
+msgid "...observing. It took me a while to comprehend what she was saying."
+msgstr ""
+
+#: 10101:1316
+
+msgid "{Haruka}\n\"There must be something special about you. We thought whatever it is might give us a hint towards breaking the wall in front of us, and...\""
+msgstr ""
+
+#: 10101:1317
+
+msgid "She looked straight into my eyes and let it out."
+msgstr ""
+
+#: 10101:1320
+
+msgid "{Haruka}\n\"That's why I got close to you.\""
+msgstr ""
+
+#: 10101:1321
+
+msgid "{Kazushi}\n\"Got close to me......\""
+msgstr ""
+
+#: 10101:1322
+
+msgid "Her words sounded so cold, so heavy. It was hard to believe that a statement like that could come from her mouth."
+msgstr ""
+
+#: 10101:1325
+
+msgid "{Haruka}\n\"Do you understand now?\""
+msgstr ""
+
+#: 10101:1326
+
+msgid "Is this Haruka I know?\nIt seemed like somebody replaced her."
+msgstr ""
+
+#: 10101:1329
+
+msgid "{Haruka}\n\"Are you in shock?\""
+msgstr ""
+
+#: 10101:1330
+
+msgid "{Kazushi}\n\"......no.\""
+msgstr ""
+
+#: 10101:1331
+
+msgid "If I had taken her words as full truth, it probably would've been a shock."
+msgstr ""
+
+#: 10101:1334
+
+msgid "{Haruka}\n\"You're disappointed with me, aren't you? I got close to you for a specific purpose, under my grandma's orders.\""
+msgstr ""
+
+#: 10101:1335
+
+msgid "{Kazushi}\n\"I see.\nBut you didn't have to tell me that.\""
+msgstr ""
+
+#: 10101:1338
+
+msgid "{Haruka}\n\"You didn't want to know?\""
+msgstr ""
+
+#: 10101:1339
+
+msgid "{Kazushi}\n\"I don't care, but I think you're the one who didn't want me to know. You didn't have to care for me so much.\""
+msgstr ""
+
+#: 10101:1341
+
+msgid "Haruka looked at me in disbelief."
+msgstr ""
+
+#: 10101:1344
+
+msgid "{Haruka}\n\"Why? Don't you hate me for spying on you? Haven't you lost all interest in a girl like that?\""
+msgstr ""
+
+#: 10101:1345
+
+msgid "{Kazushi}\n\"Not really.\""
+msgstr ""
+
+#: 10101:1346
+
+msgid "{Haruka}\n\"Why? Why don't you?\""
+msgstr ""
+
+#: 10101:1347
+
+msgid "Haruka came at in me in disbelief, but I really didn't care."
+msgstr ""
+
+#: 10101:1348
+
+msgid "{Kazushi}\n\"You shouldn't be surprised to see me not getting angry at you. I have many reasons to love you.\""
+msgstr ""
+
+#: 10101:1349
+
+msgid "{Kazushi}\n\"I've been watching you from the first day I got here. This can't stop me from loving you.\""
+msgstr ""
+
+#: 10101:1352
+
+msgid "{Haruka}\n\"I'm just saying, I'm a terrible person......\""
+msgstr ""
+
+#: 10101:1354
+
+msgid "{Kazushi}\n\"I may be telling you more than you want to hear, but I'm genuinely crazy about you. I know that you're not a bad person, because I wouldn't have fallen in love with you if you were.\""
+msgstr ""
+
+#: 10101:1358
+
+msgid "{Haruka}\n\"But I......\""
+msgstr ""
+
+#: 10101:1359
+
+msgid "{Kazushi}\n\"Besides, if we called you a bad person, then all the girls in the whole world are bad people.\""
+msgstr ""
+
+#: 10101:1362
+
+msgid "{Haruka}\n\"I'm telling you that's not true... Jeez! Kazushi-kun, why won't you listen to me at all?!\""
+msgstr ""
+
+#: 10101:1365
+
+msgid "Haruka rushed towards me, raising her fist like a child running into a fight. I accepted her anger and grabbed her fists."
+msgstr ""
+
+#: 10101:1366
+
+msgid "{Haruka}\n\"Urgh! I can't move!\""
+msgstr ""
+
+#: 10101:1367
+
+msgid "{Kazushi}\n\"See? You can't shake me off, can you? And you can't shake my love for you either.\""
+msgstr ""
+
+#: 10101:1368
+
+msgid "{Haruka}\n\"Rrgh! This isn't fair!\nLet go of me!\""
+msgstr ""
+
+#: 10101:1369
+
+msgid "{Kazushi}\n\"You want me to?\""
+msgstr ""
+
+#: 10101:1370
+
+msgid "I released her hands."
+msgstr ""
+
+#: 10101:1375
+
+msgid "As soon as I let go of her hands, her small fist hit me in my cheek. The impact was minimal."
+msgstr ""
+
+#: 10101:1379
+
+msgid "{Haruka}\n\"Ouch!\""
+msgstr ""
+
+#: 10101:1380
+
+msgid "It was Haruka who cried out.\nShe held her hand in pain."
+msgstr ""
+
+#: 10101:1381
+
+msgid "{Kazushi}\n\"You've hurt yourself.\nLet me see.\""
+msgstr ""
+
+#: 10101:1384
+
+msgid "{Haruka}\n\"Huh?\""
+msgstr ""
+
+#: 10101:1385
+
+msgid "Her fist was turning red. I wrapped her fist with my palms and rubbed it gently to make the pain go away. Haruka just stood still while I did."
+msgstr ""
+
+#: 10101:1388
+
+msgid "{Haruka}\n\"How can you be so nice to me?\""
+msgstr ""
+
+#: 10101:1389
+
+msgid "{Kazushi}\n\"Duh. It's because I love you.\nAll boys stop being mean to the girls they like after they finish elementary school.\""
+msgstr ""
+
+#: 10101:1390
+
+msgid "{Haruka}\n\"You love me? ......I think you're making a mistake. I don't deserve love from somebody like you.\""
+msgstr ""
+
+#: 10101:1391
+
+msgid "{Kazushi}\n\"It's your choice to think that way, but it's also my choice to love you. You're very attractive to me.\""
+msgstr ""
+
+#: 10101:1394
+
+msgid "Haruka's face went red in an instant."
+msgstr ""
+
+#: 10101:1395
+
+msgid "{Haruka}\n\"I think...\nI think you need to get your eyes checked.\nYou should see the optometrist.\""
+msgstr ""
+
+#: 10101:1396
+
+msgid "{Kazushi}\n\"No. I'm positive. You are the most attractive girl in the whole world. If my eyes didn't see you that way, I'd trade them in for for new ones.\""
+msgstr ""
+
+#: 10101:1399
+
+msgid "{Haruka}\n\"What's with that? I'm not like that. Kazushi-kun, you're not listening to me at all.\""
+msgstr ""
+
+#: 10101:1400
+
+msgid "{Kazushi}\n\"I am listening to you. I don't understand it very well, but you and the Principal want to study me, right?\""
+msgstr ""
+
+#: 10101:1401
+
+msgid "{Haruka}\n\"That's right.\nAnd that's why I got close to you......\""
+msgstr ""
+
+#: 10101:1402
+
+msgid "{Kazushi}\n\"You should've told me that in the first place. I would've been happy to cooperate.\""
+msgstr ""
+
+#: 10101:1405
+
+msgid "{Haruka}\n\"What? You'd have cooperated?\""
+msgstr ""
+
+#: 10101:1406
+
+msgid "{Kazushi}\n\"I can be of help to you guys, right? In that case, let me help you.\""
+msgstr ""
+
+#: 10101:1409
+
+msgid "{Haruka}\n\"Umm......uhh......\""
+msgstr ""
+
+#: 10101:1410
+
+msgid "She stared at me in absolute disbelief. She was stunned, and unable to move."
+msgstr ""
+
+#: 10101:1411
+
+msgid "{Kazushi}\n\"It always makes me happy to do things with you, and you'd be able to study a lot about me, right? In that case, it's a win-win situation.\""
+msgstr ""
+
+#: 10101:1414
+
+msgid "{Haruka}\n\"But... I'm not sure if you really understand what we want to do with you. What if it was something like experimenting on your body?\""
+msgstr ""
+
+#: 10101:1415
+
+msgid "{Kazushi}\n\"Is it?\nIs it going to hurt?\""
+msgstr ""
+
+#: 10101:1416
+
+msgid "{Haruka}\n\"I don't know...but what if it did?\""
+msgstr ""
+
+#: 10101:1417
+
+msgid "{Kazushi}\n\"Then I'd still do it!\""
+msgstr ""
+
+#: 10101:1420
+
+msgid "{Haruka}\n\"How can you say that without thinking about it!? You're too trusting!!\""
+msgstr ""
+
+#: 10101:1421
+
+msgid "{Kazushi}\n\"I'm not blindly trusting anyone.\nI'm willing to place my trust in you.\""
+msgstr ""
+
+#: 10101:1424
+
+msgid "{Haruka}\n\"In me......?\""
+msgstr ""
+
+#: 10101:1425
+
+msgid "{Kazushi}\n\"I trust you. So if it's something you're doing, I can trust that it must be the right thing.\""
+msgstr ""
+
+#: 10101:1426
+
+msgid "{Kazushi}\n\"And it's not because I'm in love with you. I trust you as a person. I've only known you for a month, but I can trust you.\""
+msgstr ""
+
+#: 10101:1429
+
+msgid "{Haruka}\n\"But......\""
+msgstr ""
+
+#: 10101:1430
+
+msgid "Here she goes with the \"buts\" again."
+msgstr ""
+
+#: 10101:1431
+
+msgid "{Kazushi}\n\"Just shut up!\""
+msgstr ""
+
+#: 10101:1432
+
+msgid "I pulled her forward by force."
+msgstr ""
+
+#: 10101:1436
+
+msgid "{Haruka}\n\"......hey!\""
+msgstr ""
+
+#: 10101:1437
+
+msgid "Her small body collapsed against my chest. I hugged her tightly to my body."
+msgstr ""
+
+#: 10101:1438
+
+msgid "{Kazushi}\n\"I don't care if you were a bad girl. I don't care if you're plotting something or not. So just tell me whether you like me or not.\""
+msgstr ""
+
+#: 10101:1439
+
+msgid "Haruka grabbed my forearms tightly, and pressed her forehead against my chest."
+msgstr ""
+
+#: 10101:1441
+
+msgid "{Haruka}\n\"..................love you.\""
+msgstr ""
+
+#: 10101:1442
+
+msgid "She said it with the quietest possible voice against my chest."
+msgstr ""
+
+#: 10101:1443
+
+msgid "{Kazushi}\n\"...huh?\""
+msgstr ""
+
+#: 10101:1444
+
+msgid "Time had stopped, and the sounds of the forest were gone. Only Haruka and I remained in the entire world."
+msgstr ""
+
+#: 10101:1445
+
+msgid "{Kazushi}\n\"Do you really mean that?\nYou're not lying, are you?\""
+msgstr ""
+
+#: 10101:1446
+
+msgid "{Haruka}\n\"I don't lie. You don't get to go to heaven if you become a liar.\""
+msgstr ""
+
+#: 10101:1447
+
+msgid "{Kazushi}\n\"So you're telling me the truth, then?\""
+msgstr ""
+
+#: 10101:1448
+
+msgid "Haruka nodded her head. To me, that small nod had just as big of an impact as if the Earth split into two."
+msgstr ""
+
+#: 10101:1449
+
+msgid "My eyes felt hot and stung. Something warm trickled down my face."
+msgstr ""
+
+#: 10101:1450
+
+msgid "{Haruka}\n\"......is it raining?\""
+msgstr ""
+
+#: 10101:1451
+
+msgid "She looked up, and opened her eyes widely in surprise."
+msgstr ""
+
+#: 10101:1452
+
+msgid "{Haruka}\n\"Why are you crying?\""
+msgstr ""
+
+#: 10101:1453
+
+msgid "{Kazushi}\n\"I've never been happier......\""
+msgstr ""
+
+#: 10101:1454
+
+msgid "I couldn't hold back my tears. I knew it was embarrassing to cry like this over having my confession accepted, but I just couldn't stop."
+msgstr ""
+
+#: 10101:1455
+
+msgid "{Haruka}\n\"......are you that happy?\""
+msgstr ""
+
+#: 10101:1456
+
+msgid "{Kazushi}\n\"I wouldn't mind if I died today...\""
+msgstr ""
+
+#: 10101:1457
+
+msgid "{Haruka}\n\"What? You can't die today. I don't want you to die.\""
+msgstr ""
+
+#: 10101:1458
+
+msgid "{Kazushi}\n\"I know. I won't die if you want me to stay alive.\""
+msgstr ""
+
+#: 10101:1459
+
+msgid "{Haruka}\n\"Please.\""
+msgstr ""
+
+#: 10101:1463
+
+msgid "Haruka smiled at me and stood on her tiptoes.\nHer face got really close to mine.\nShe mumbled something while I was in shock."
+msgstr ""
+
+#: 10101:1464
+
+msgid "{Kazushi}\n\"I couldn't hear you.\""
+msgstr ""
+
+#: 10101:1467
+
+msgid "{Haruka}\n\"I put a spell on you. So alchemy will protect you.\""
+msgstr ""
+
+#: 10101:1468
+
+msgid "{Kazushi}\n\"Alchemy will protect me?\""
+msgstr ""
+
+#: 10101:1469
+
+msgid "{Haruka}\n\"That's right. Lower your head.\""
+msgstr ""
+
+#: 10101:1470
+
+msgid "{Kazushi}\n\"S-sure?\""
+msgstr ""
+
+#: 10101:1472
+
+msgid "I bent over as I was told.\nHaruka slowly walked towards me with a devoted smile on her face."
+msgstr ""
+
+#: 10101:1473
+
+msgid "I stood there, losing my focus on the world."
+msgstr ""
+
+#: 10101:1474
+
+msgid "*kiss*"
+msgstr ""
+
+#: 10101:1475
+
+msgid "I felt a pair of small, moist lips pressed against my forehead. They were Haruka's.\nHaruka was kissing my forehead."
+msgstr ""
+
+#: 10101:1476
+
+msgid "My forehead started feeling warm where she kissed me, and that warmth spread out over my entire body."
+msgstr ""
+
+#: 10101:1477
+
+msgid "{Kazushi}\n\"Umm......\""
+msgstr ""
+
+#: 10101:1480
+
+msgid "I thought I was still out of focus.\nHaruka gave me a big smile."
+msgstr ""
+
+#: 10101:1481
+
+msgid "{Haruka}\n\"There you go.\nAlchemy will protect you.\""
+msgstr ""
+
+#: 10101:1482
+
+msgid "{Kazushi}\n\"T-thank you.\""
+msgstr ""
+
+#: 10101:1483
+
+msgid "I couldn't see her face clearly.\nI could still feel her lips on my forehead."
+msgstr ""
+
+#: 10101:1486
+
+msgid "{Haruka}\n\"What's wrong?\nYour face is all red.\""
+msgstr ""
+
+#: 10101:1487
+
+msgid "{Kazushi}\n\"It's because you surprised me.\""
+msgstr ""
+
+#: 10101:1488
+
+msgid "{Haruka}\n\"I did?\""
+msgstr ""
+
+#: 10101:1489
+
+msgid "{Kazushi}\n\"Well, you kissed......\""
+msgstr ""
+
+#: 10101:1492
+
+msgid "Even though it as only on my forehead, it was still a kiss. Now Haruka's face was turning all red."
+msgstr ""
+
+#: 10101:1493
+
+msgid "{Haruka}\n\"Th-that wasn't a kiss, it was a charm. I didn't mean it like that.\""
+msgstr ""
+
+#: 10101:1494
+
+msgid "{Kazushi}\n\"I-I know. It just put a spell on me, right? You don't have to deny it so desperately.\""
+msgstr ""
+
+#: 10101:1495
+
+msgid "{Haruka}\n\"But you don't want to kiss me, do you?\""
+msgstr ""
+
+#: 10101:1496
+
+msgid "{Kazushi}\n\"Why wouldn't I? I absolutely want to.\""
+msgstr ""
+
+#: 10101:1499
+
+msgid "{Haruka}\n\"You want to kiss? With me?\""
+msgstr ""
+
+#: 10101:1500
+
+msgid "{Kazushi}\n\"Of course I do. I really want to kiss you.\""
+msgstr ""
+
+#: 10101:1501
+
+msgid "{Haruka}\n\"You want to kiss me that much?\""
+msgstr ""
+
+#: 10101:1502
+
+msgid "{Kazushi}\n\"I want to do it so much, it's driving me crazy.\""
+msgstr ""
+
+#: 10101:1503
+
+msgid "{Haruka}\n\"I don't want you to go crazy. Should we try it?\""
+msgstr ""
+
+#: 10101:1504
+
+msgid "{Kazushi}\n\"What? I can?\""
+msgstr ""
+
+#: 10101:1507
+
+msgid "{Haruka}\n\"Y-yeah......\""
+msgstr ""
+
+#: 10101:1508
+
+msgid "{Kazushi}\n\"Well......shall we?\""
+msgstr ""
+
+#: 10101:1509
+
+msgid "{Haruka}\n\"All right......\""
+msgstr ""
+
+#: 10101:1512
+
+msgid "She looked up and closed her eyes. I could easily tell how nervous she was just from seeing how her long eyelashes shook."
+msgstr ""
+
+#: 10101:1513
+
+msgid "{Kazushi}\n\"............well.\""
+msgstr ""
+
+#: 10101:1514
+
+msgid "{Haruka}\n\"What's wrong.\""
+msgstr ""
+
+#: 10101:1515
+
+msgid "Haruka opened one eye."
+msgstr ""
+
+#: 10101:1516
+
+msgid "{Kazushi}\n\"Should I close my eyes too?\""
+msgstr ""
+
+#: 10101:1517
+
+msgid "{Haruka}\n\"Huh? I-I don't know.\""
+msgstr ""
+
+#: 10101:1518
+
+msgid "{Kazushi}\n\"If I close my eyes, I might miss your lips.\""
+msgstr ""
+
+#: 10101:1519
+
+msgid "{Haruka}\n\"Oh, you're right. What should we do?\""
+msgstr ""
+
+#: 10101:1520
+
+msgid "{Kazushi}\n\"Have you kissed anyone before?\""
+msgstr ""
+
+#: 10101:1523
+
+msgid "{Haruka}\n\"Of course not.\nI've never had a boyfriend.\nHave you ever kissed a girl before?\""
+msgstr ""
+
+#: 10101:1524
+
+msgid "{Kazushi}\n\"I've never done it either. This is my first time.\""
+msgstr ""
+
+#: 10101:1527
+
+msgid "{Haruka}\n\"This is your first time? That makes us equal.\""
+msgstr ""
+
+#: 10101:1528
+
+msgid "{Kazushi}\n\"That's right!\""
+msgstr ""
+
+#: 10101:1529
+
+msgid "We both laughed awkwardly, but then we quickly became silent once again."
+msgstr ""
+
+#: 10101:1532
+
+msgid "{Haruka}\n\"..................\nWell then......\""
+msgstr ""
+
+#: 10101:1533
+
+msgid "Haruka closed her eyes again.\nI decided to close my eyes too."
+msgstr ""
+
+#: 10101:1535
+
+msgid "{Kazushi}\n\"..................\""
+msgstr ""
+
+#: 10101:1536
+
+msgid "Even though I closed my eyes, I felt like I could still see her face. I followed the vision imprinted on the back of my eyelids and felt her lips covering mine."
+msgstr ""
+
+#: 10101:1537
+
+msgid "{Haruka}\n\"Nnn......\""
+msgstr ""
+
+#: 10101:1538
+
+msgid "Her lips closed tightly in reaction to the contact. They were moist and soft, yet firm like a flower bud."
+msgstr ""
+
+#: 10101:1539
+
+msgid "{Haruka}\n\"Mmm, ah......\""
+msgstr ""
+
+#: 10101:1540
+
+msgid "I don't remember how long we kept our lips locked together. We finally let go of each other when we needed to breathe."
+msgstr ""
+
+#: 10101:1544
+
+msgid "{Haruka}\n *uhhhh* *huuuuhhhh*"
+msgstr ""
+
+#: 10101:1545
+
+msgid "After a long sigh, Haruka peered up at me with moist eyes."
+msgstr ""
+
+#: 10101:1548
+
+msgid "{Haruka}\n\"We kissed.\""
+msgstr ""
+
+#: 10101:1549
+
+msgid "{Kazushi}\n\"Y-yep.\""
+msgstr ""
+
+#: 10101:1551
+
+msgid "My face was burning with embarrassment. Haruka's face was red from the excitement as well.\nShe's never been as cute as she is now."
+msgstr ""
+
+#: 10101:1554
+
+msgid "{Haruka}\n\"My face feels like it's burning, and my heart's pounding.\""
+msgstr ""
+
+#: 10101:1555
+
+msgid "{Kazushi}\n\"Me too......oh, but...\""
+msgstr ""
+
+#: 10101:1556
+
+msgid "I suddenly thought of something."
+msgstr ""
+
+#: 10101:1557
+
+msgid "{Haruka}\n\"What is it?\""
+msgstr ""
+
+#: 10101:1558
+
+msgid "{Kazushi}\n\"We didn't put our tongues inside of each other, did we?\""
+msgstr ""
+
+#: 10101:1559
+
+msgid "We just covered each other's lips, and forgot to put our tongues in."
+msgstr ""
+
+#: 10101:1562
+
+msgid "{Haruka}\n\"Put our tongues in?\nYou mean tongues?\nWe're supposed to do that?\""
+msgstr ""
+
+#: 10101:1563
+
+msgid "{Kazushi}\n\"I think that's what lovers do.\""
+msgstr ""
+
+#: 10101:1564
+
+msgid "{Haruka}\n\"Tongue......!? Haaahhh......\""
+msgstr ""
+
+#: 10101:1565
+
+msgid "Haruka took a big sigh as her face became red once again."
+msgstr ""
+
+#: 10101:1566
+
+msgid "{Kazushi}\n\"I'd never want to lick someone else's tongue, but if it was yours, I'd like to give it a go.\""
+msgstr ""
+
+#: 10101:1569
+
+msgid "{Haruka}\n\"Kazushi-kun licking my tongue......\""
+msgstr ""
+
+#: 10101:1570
+
+msgid "Another big sigh from Haruka.\nShe seemed particularly dizzy and embarrassed."
+msgstr ""
+
+#: 10101:1571
+
+msgid "{Haruka}\n\"We have to go through all that to officially make it a lover's kiss?\""
+msgstr ""
+
+#: 10101:1572
+
+msgid "{Kazushi}\n\"I think so......\nBecause in some other countries, people kiss on the lips as a greeting.\""
+msgstr ""
+
+#: 10101:1575
+
+msgid "{Haruka}\n\"I see. That's no good. We have to use our tongues, then.\""
+msgstr ""
+
+#: 10101:1576
+
+msgid "{Kazushi}\n\"Should we try again?\""
+msgstr ""
+
+#: 10101:1579
+
+msgid "{Haruka}\n\"S-sure.\""
+msgstr ""
+
+#: 10101:1580
+
+msgid "We started over again. She closed her eyes for a second time, and waited for me as I covered her lips."
+msgstr ""
+
+#: 10101:1582
+
+msgid "{Haruka}\n\"Nnnn......\""
+msgstr ""
+
+#: 10101:1583
+
+msgid "Maybe because she knew what to expect this time, Haruka had opened her mouth a little bit. And for that reason, it felt even softer than before."
+msgstr ""
+
+#: 10101:1584
+
+msgid "{Kazushi}\n\"Nn......\""
+msgstr ""
+
+#: 10101:1585
+
+msgid "I made up my mind, and slid my tongue into the opening."
+msgstr ""
+
+#: 10101:1586
+
+msgid "{Haruka}\n\"Nnnnn!?\""
+msgstr ""
+
+#: 10101:1587
+
+msgid "Haruka murmured in surprise.\nShe almost bit my tongue off too."
+msgstr ""
+
+#: 10101:1588
+
+msgid "{Haruka}\n\"Nn, n... Ah......\""
+msgstr ""
+
+#: 10101:1589
+
+msgid "The tip of my tongue touched hers. She pulled it back for a second out of surprise, but soon began using it to play with mine."
+msgstr ""
+
+#: 10101:1590
+
+msgid "{Haruka}\n\"Nnn......N...Ah............\""
+msgstr ""
+
+#: 10101:1591
+
+msgid "Kissing with tongue was making me lightheaded.\nHaruka's tongue was so soft and so hot, and her saliva was numbingly sweet."
+msgstr ""
+
+#: 10101:1595
+
+msgid "{Haruka}\n\"Haah, mmm, hah, aahh......\""
+msgstr ""
+
+#: 10101:1596
+
+msgid "When it grew hard to breath, we finally parted our lips. Her lips glistened with the moisture from both of us. It looked so seductive."
+msgstr ""
+
+#: 10101:1599
+
+msgid "{Haruka}\n\"What happened to me......?\nI feel dizzy.\""
+msgstr ""
+
+#: 10101:1600
+
+msgid "{Kazushi}\n\"Me too.\""
+msgstr ""
+
+#: 10101:1601
+
+msgid "Haruka rested her head on my chest. I could feel her entire body going limp."
+msgstr ""
+
+#: 10101:1604
+
+msgid "{Haruka}\n\"I never knew how good a real kiss would feel. I wonder if everyone else is doing this too?\""
+msgstr ""
+
+#: 10101:1605
+
+msgid "{Kazushi}\n\"I don't know. I can only assume that Appo and Fuusen are.\""
+msgstr ""
+
+#: 10101:1606
+
+msgid "Those two are doing far more wild things than this."
+msgstr ""
+
+#: 10101:1609
+
+msgid "{Haruka}\n\"I see. Maybe I'll ask Kazuko-chan about it next time I have a chance.\""
+msgstr ""
+
+#: 10101:1610
+
+msgid "{Kazushi}\n\"It might be best not to take what Fuusen says seriously, though.\""
+msgstr ""
+
+#: 10101:1611
+
+msgid "Heaven only knows what kind of kinky stuff they'd teach Haruka.\n......actually, I don't think I'd mind if they did."
+msgstr ""
+
+#: 10101:1614
+
+msgid "{Haruka}\n\"Umm, Kazushi-kun?\""
+msgstr ""
+
+#: 10101:1616
+
+msgid "She suddenly kneeled down on the spot with a serious face."
+msgstr ""
+
+#: 10101:1619
+
+msgid "{Haruka}\n\"Thank you for falling in love with me. I will do my best to become a person worthy of your affection.\""
+msgstr ""
+
+#: 10101:1621
+
+msgid "She bowed her head to the ground, her fingers out in front of her."
+msgstr ""
+
+#: 10101:1622
+
+msgid "{Kazushi}\n\"I will do the same for you!!\""
+msgstr ""
+
+#: 10101:1624
+
+msgid "I hurried down to the ground. I bowed and touched my forehead to the grass to show her I felt the same way."
+msgstr ""
+
+#: 10101:1627
+
+msgid "When we both raised our heads, we found each other's faces really close. We had to laugh because we were both embarrassed."
+msgstr ""
+
+#: 10101:1628
+
+msgid "{Haruka}\n\"Ahaha, this is so embarrassing!\nI can't believe you're my boyfriend now.\""
+msgstr ""
+
+#: 10101:1629
+
+msgid "{Kazushi}\n\"That's right. And you're my g-girlfriend.\""
+msgstr ""
+
+#: 10101:1630
+
+msgid "{Haruka}\n\"I'm your girlfriend, huh? Ahaha.\""
+msgstr ""
+
+#: 10101:1631
+
+msgid "{Kazushi}\n\"I'm your boyfriend. Haha...\""
+msgstr ""
+
+#: 10101:1633
+
+msgid "After staring at each other for a while, our faces naturally got closer once again."
+msgstr ""
+
+#: 10101:1635
+
+msgid "{Kazushi}\n\"Just one more time......\""
+msgstr ""
+
+#: 10101:1636
+
+msgid "{Haruka}\n\"Sure......Nnnn......\""
+msgstr ""
+
+#: 10101:1638
+
+msgid "We covered each other's lips once again while we were still on our knees. We kept saying \"one more time\", \"just one more time\", until in the end, we had kissed 23 times that day."
+msgstr ""
+

@@ -1,0 +1,1418 @@
+# Comments for '30103'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 30103:7
+
+msgid "The next day, I went into the village with no real destination in mind."
+msgstr ""
+
+#: 30103:8
+
+msgid "{Kazushi}\n\"I wonder if there are any part-time jobs available? Not like I'd make that much in one day anyways.\""
+msgstr ""
+
+#: 30103:9
+
+msgid "{Grocery Store Worker}\n\"Hey, young man! What's wrong? You look like you're in poor shape.\""
+msgstr ""
+
+#: 30103:10
+
+msgid "The man at the grocery store said hello to me."
+msgstr ""
+
+#: 30103:11
+
+msgid "{Kazushi}\n\"Do I really look that way?\""
+msgstr ""
+
+#: 30103:12
+
+msgid "{Grocery Store Worker}\n\"Yeah. If you look so darn dejected, then Lady Luck'll run right away from you.\""
+msgstr ""
+
+#: 30103:13
+
+msgid "{Kazushi}\n\"Really? Even Lady Luck?\""
+msgstr ""
+
+#: 30103:14
+
+msgid "{Grocery Store Worker}\n\"Yep, she'll tuck her tail and skedaddle. What's wrong, you got money troubles?\""
+msgstr ""
+
+#: 30103:15
+
+msgid "{Kazushi}\n\"Actually, kind of.\""
+msgstr ""
+
+#: 30103:16
+
+msgid "{Grocery Store Worker}\n\"Then all the worse! You've gotta put on a prosperous face or your business'll go south.\""
+msgstr ""
+
+#: 30103:17
+
+msgid "{Kazushi}\n\"Really? I see.\""
+msgstr ""
+
+#: 30103:18
+
+msgid "He's right. Nothing good'll come from looking misfortunate. I have to at least act prosperous."
+msgstr ""
+
+#: 30103:19
+
+msgid "{Kazushi}\n\"Alright! Pops, money! Give me some money!\""
+msgstr ""
+
+#: 30103:20
+
+msgid "{Grocery Store Worker}\n\"What? Now you're robbing me? Hey, Dear! Bring out my cleaver!!\""
+msgstr ""
+
+#: 30103:21
+
+msgid "{Kazushi}\n\"No, I'm joking, just kidding! Don't kill me!\""
+msgstr ""
+
+#: 30103:22
+
+msgid "An old lady came out from around back with a huge cleaver in her hands scaring me."
+msgstr ""
+
+#: 30103:23
+
+msgid "{Grocery Store Worker}\n\"Ahaha, I'm just messing with you! So, how much do you need?\""
+msgstr ""
+
+#: 30103:24
+
+msgid "{Kazushi}\n\"Well...100,000 yen.\""
+msgstr ""
+
+#: 30103:25
+
+msgid "{Grocery Store Worker}\n\"That's a lot of money. Bill collectors on your tail or something?\""
+msgstr ""
+
+#: 30103:26
+
+msgid "{Kazushi}\n\"Not really, I just need the money. Do you know of any jobs I can do? Any kind of work would be fine, even if it's a little harsh.\""
+msgstr ""
+
+#: 30103:27
+
+msgid "{Grocery Store Worker}\n\"Well...we all got enough people working around here. Even during the summer, we don't get too many tourists coming to this island.\""
+msgstr ""
+
+#: 30103:28
+
+msgid "{Kazushi}\n\"Right...\""
+msgstr ""
+
+#: 30103:29
+
+msgid "If only college girls would come visit this island, then it'd be a bit more active. It was so quiet, even during summer break."
+msgstr ""
+
+#: 30103:30
+
+msgid "{Kazushi}\n\"Well, I guess I'll check down at the harbor. They say to hop on a boat if you can't repay your debts. Fishing's the best way to make money.\""
+msgstr ""
+
+#: 30103:31
+
+msgid "{Grocery Store Worker}\n\"Nope. Never heard that before in my life, but I don't think there'll be much work to find down there either, especially during low tide.\""
+msgstr ""
+
+#: 30103:32
+
+msgid "{Kazushi}\n\"I see. Thanks anyways!\""
+msgstr ""
+
+#: 30103:33
+
+msgid "{Grocery Store Worker}\n\"Hey, take this watermelon.\""
+msgstr ""
+
+#: 30103:34
+
+msgid "Using the cleaver, he cut the watermelon in half. Its pleasant smell filled the air."
+msgstr ""
+
+#: 30103:35
+
+msgid "{Grocery Store Worker}\n\"The watermelons on this island taste amazing. They're big and sweet.\""
+msgstr ""
+
+#: 30103:36
+
+msgid "Yeah, it did look juicy and delicious. I bit into before it started attracting any bugs."
+msgstr ""
+
+#: 30103:37
+
+msgid "{Kazushi}\n\"Wow! So sweet! You did this with alchemy too?\""
+msgstr ""
+
+#: 30103:38
+
+msgid "{Grocery Store Worker}\n\"Yup. Alchemy's some amazing stuff.\""
+msgstr ""
+
+#: 30103:39
+
+msgid "If you really can turn lead into gold with alchemy, then it should be pretty easy to make 100,000 yen."
+msgstr ""
+
+#: 30103:40
+
+msgid "{Kazushi}\n\"I guess I just have to focus on one thing at a time. Thanks, pops!\""
+msgstr ""
+
+#: 30103:41
+
+msgid "{Grocery Store Worker}\n\"Good luck!\""
+msgstr ""
+
+#: 30103:44
+
+msgid "The harbor was like a ghost town. No one was around."
+msgstr ""
+
+#: 30103:45
+
+msgid "{Kazushi}\n\"Not a chance, huh?\""
+msgstr ""
+
+#: 30103:46
+
+msgid "I looked down from edge of the cliff, which was dizzily high."
+msgstr ""
+
+#: 30103:47
+
+msgid "{Kazushi}\n\"Looks pretty scary. You'd die instantly if you fell from here...\""
+msgstr ""
+
+#: 30103:51
+
+msgid "{Mei}\n\"Boo!!\""
+msgstr ""
+
+#: 30103:52
+
+msgid "{Kazushi}\n\"Hhh!!?\""
+msgstr ""
+
+#: 30103:54
+
+msgid "I jumped up in surprise and suddenly found there was no ground beneath my feet."
+msgstr ""
+
+#: 30103:55
+
+msgid "{Kazushi}\n\"Wah! Wah! Waaah!!\""
+msgstr ""
+
+#: 30103:58
+
+msgid "{Mei}\n\"Watch out!\""
+msgstr ""
+
+#: 30103:61
+
+msgid "Mei-sensei caught my body and pulled me back up off the ledge. I made it back to solid ground."
+msgstr ""
+
+#: 30103:62
+
+msgid "{Kazushi}\n\"I-I thought was going to die... Please don't surprise me like that in a place like this...\""
+msgstr ""
+
+#: 30103:66
+
+msgid "{Mei}\n\"Sorry. I was just kidding.\""
+msgstr ""
+
+#: 30103:67
+
+msgid "{Kazushi}\n\"Please pick a better time and place!\""
+msgstr ""
+
+#: 30103:68
+
+msgid "{Mei}\n\"Right, I'm really sorry. By the way, we're 500m above sea level, so if you did fall, you'd be a goner for sure.\""
+msgstr ""
+
+#: 30103:69
+
+msgid "{Kazushi}\n\"If you were aware of that, then be careful! Hahh...\""
+msgstr ""
+
+#: 30103:70
+
+msgid "I was trembling."
+msgstr ""
+
+#: 30103:73
+
+msgid "{Mei}\n\"But you're partly to blame for standing there like that, Haruma-kun. Anyone would want to give you a shove.\""
+msgstr ""
+
+#: 30103:74
+
+msgid "{Kazushi}\n\"Stop thinking such dangerous thoughts!\""
+msgstr ""
+
+#: 30103:77
+
+msgid "{Mei}\n\"Please don't be so upset. I'm not going to do it again.\""
+msgstr ""
+
+#: 30103:78
+
+msgid "Mei-sensei purred like a cat. Is this a women's technique to dodge the topic?"
+msgstr ""
+
+#: 30103:79
+
+msgid "{Kazushi}\n\"Fine then.\""
+msgstr ""
+
+#: 30103:80
+
+msgid "Actually, her technique was working..."
+msgstr ""
+
+#: 30103:83
+
+msgid "{Mei}\n\"What are you doing here? Worried about something?\""
+msgstr ""
+
+#: 30103:84
+
+msgid "{Kazushi}\n\"Well, in fact...\""
+msgstr ""
+
+#: 30103:85
+
+msgid "Mei-sensei might lend it to me if I told her, but I couldn't rely on her like that."
+msgstr ""
+
+#: 30103:86
+
+msgid "{Mei}\n\"What's the matter?\""
+msgstr ""
+
+#: 30103:87
+
+msgid "{Kazushi}\n\"Umm... Is it really true that alchemy can turn lead into gold?\""
+msgstr ""
+
+#: 30103:88
+
+msgid "After hesitating, I asked something else. It wasn't entirely off topic, and it wasn't much different from a question I'd ask in class so she'd likely answer."
+msgstr ""
+
+#: 30103:91
+
+msgid "{Mei}\n\"Oh, it's good to hear you finally asking something about alchemy. You must be getting interested in it.\""
+msgstr ""
+
+#: 30103:92
+
+msgid "{Kazushi}\n\"Yeah, sort of...\""
+msgstr ""
+
+#: 30103:93
+
+msgid "My motives seemed a bit impure..."
+msgstr ""
+
+#: 30103:96
+
+msgid "{Mei}\n\"But yes... Turning lead into gold is one of the ultimate goals of alchemy, so realistically doing so is difficult.\""
+msgstr ""
+
+#: 30103:97
+
+msgid "{Mei}\n\"And if that's your reason for studying alchemy, I'd recommend quitting while you're ahead.\""
+msgstr ""
+
+#: 30103:98
+
+msgid "{Kazushi}\n\"That seems wrong? Alchemy was founded to profit humanity, so why can't you use it for money?\""
+msgstr ""
+
+#: 30103:99
+
+msgid "Why should you give up on alchemy if money's your goal when it's supposed to create gold? That's a bit crazy."
+msgstr ""
+
+#: 30103:100
+
+msgid "{Mei}\n\"It's because the true purpose of alchemy is much greater than that.\""
+msgstr ""
+
+#: 30103:101
+
+msgid "{Kazushi}\n\"The true purpose...?\""
+msgstr ""
+
+#: 30103:102
+
+msgid "I think Haruka said the same thing once. Is alchemy valuable for something other than making gold?"
+msgstr ""
+
+#: 30103:103
+
+msgid "{Mei}\n\"Of course, there is a technique for producing gold that's been passed down. It's rumored that Eiden Academy was built using treasure earned through such techniques.\""
+msgstr ""
+
+#: 30103:104
+
+msgid "{Kazushi}\n\"Our Academy? Through alchemy?\""
+msgstr ""
+
+#: 30103:105
+
+msgid "{Mei}\n\"Just a rumor, though.\""
+msgstr ""
+
+#: 30103:106
+
+msgid "{Kazushi}\n\"They should have built a better dorm for the boys, then.\""
+msgstr ""
+
+#: 30103:109
+
+msgid "{Mei}\n\"Again it's just a rumor.\""
+msgstr ""
+
+#: 30103:110
+
+msgid "The boys' dorm put aside..."
+msgstr ""
+
+#: 30103:111
+
+msgid "Our school was quite aged, but judging from the decorum, a lot of gold went into building it. To me, it held the extravagant taste of nouveau riche."
+msgstr ""
+
+#: 30103:112
+
+msgid "That was made with money earned through alchemy? How damn much gold did they create?"
+msgstr ""
+
+#: 30103:115
+
+msgid "{Mei}\n\"What are you thinking about? Again, it's only hearsay, so don't get too attached to the idea, okay?\""
+msgstr ""
+
+#: 30103:116
+
+msgid "Guess I looked too serious. Mei-sensei advised me out of genuine concern."
+msgstr ""
+
+#: 30103:117
+
+msgid "{Kazushi}\n\"I understand. It would be fascinating if it was true, though, don't you think?\""
+msgstr ""
+
+#: 30103:120
+
+msgid "{Mei}\n\"It is, but remember, alchemy works based on the principle of equivalent exchange. In other words, you'll have to pay an equivalent price in order to get it.\""
+msgstr ""
+
+#: 30103:121
+
+msgid "{Kazushi}\n\"A price... huh.\""
+msgstr ""
+
+#: 30103:122
+
+msgid "I'm not quite sure what \"principle of equivalent exchange\" means, but I took it to be similar to \"there's no such thing as a free lunch\".\""
+msgstr ""
+
+#: 30103:123
+
+msgid "It's true. More often than not, easy money is too good to be true."
+msgstr ""
+
+#: 30103:124
+
+msgid "{Kazushi}\n\"Well, alchemy's not gonna work for me here, then.\""
+msgstr ""
+
+#: 30103:125
+
+msgid "All I could do was this..."
+msgstr ""
+
+#: 30103:126
+
+msgid "{Kazushi}\n\"Mei-sensei, please forgive me for once.\""
+msgstr ""
+
+#: 30103:129
+
+msgid "{Mei}\n\"What? What is it?\""
+msgstr ""
+
+#: 30103:137
+
+msgid "{Ran}\n\"Hey, hey. Have you seen Kazushi? I haven't seen him all day.\""
+msgstr ""
+
+#: 30103:143
+
+msgid "{Pierre}\n\"Nope. We've been looking for him everywhere...\""
+msgstr ""
+
+#: 30103:148
+
+msgid "{Appo}\n\"Maybe he's sleeping somewhere. One of his skills IS the ability to pass out wherever he feels like.\""
+msgstr ""
+
+#: 30103:153
+
+msgid "{Daigo}\n\"But he always wakes up before mealtimes. Isn't it too late for that?\""
+msgstr ""
+
+#: 30103:157
+
+msgid "{Pierre}\n\"Yeah...\""
+msgstr ""
+
+#: 30103:161
+
+msgid "{Ran}\n\"Don't tell me he ran out on me?!\""
+msgstr ""
+
+#: 30103:162
+
+msgid "{Daigo}\n\"Hmm? Ran out on you? What?\""
+msgstr ""
+
+#: 30103:165
+
+msgid "{Ran}\n\"Oh, no, nothing.\""
+msgstr ""
+
+#: 30103:168
+
+msgid "{Daigo}\n\"I don't get what's going on, but Kazushi wouldn't run.\""
+msgstr ""
+
+#: 30103:171
+
+msgid "{Ran}\n\"What?\""
+msgstr ""
+
+#: 30103:174
+
+msgid "{Daigo}\n\"Kazushi wouldn't run. So I'm pretty sure you're just worrying over nothing, Kamoike.\""
+msgstr ""
+
+#: 30103:175
+
+msgid "{Ran}\n\"Really? How do you know?\""
+msgstr ""
+
+#: 30103:179
+
+msgid "{Pierre}\n\"I just know. We go way back. We know a lot of about that guy.\""
+msgstr ""
+
+#: 30103:185
+
+msgid "{Appo}\n\"Just leave him alone, he's fine. By the way, Fuu-chan wants to talk to you, Ran-chan.\""
+msgstr ""
+
+#: 30103:188
+
+msgid "{Ran}\n\"What? Kazuko?\""
+msgstr ""
+
+#: 30103:193
+
+msgid "{Fuusen}\n\"Ran, are you hiding something from us?\""
+msgstr ""
+
+#: 30103:194
+
+msgid "Ran looked puzzled by the sudden question. For one thing, it was Fuusen Kazuko asking her. They spoke casually of late, but there were never close friends."
+msgstr ""
+
+#: 30103:197
+
+msgid "{Ran}\n\"Hiding something from you? I know there's plenty of things I don't tell you, but we were never a pair who told each other everything either.\""
+msgstr ""
+
+#: 30103:200
+
+msgid "{Fuusen}\n\"You and me...maybe so. But what about... Haruka-chan or Mizuki-chan? Would you tell them something important?\""
+msgstr ""
+
+#: 30103:201
+
+msgid "She had less and less of a clue what Kazuko was saying. What was she talking about? What did she want out of Ran?"
+msgstr ""
+
+#: 30103:202
+
+msgid "{Ran}\n\"What is this? Don't beat around the bush; just get to the point.\""
+msgstr ""
+
+#: 30103:203
+
+msgid "Her mind was on Kazushi right now. If he was sleeping then fine, but what if he got in an accident or something?"
+msgstr ""
+
+#: 30103:204
+
+msgid "On the day he first arrived, he fell from the suspension bridge..."
+msgstr ""
+
+#: 30103:205
+
+msgid "{Fuusen}\n\"If you don't want to tell us, I won't force you. But in exchange, shut up and take this.\""
+msgstr ""
+
+#: 30103:206
+
+msgid "Kazuko handed Ran a brown envelope and her nose began to twitch. It had an all-too familiar smell inside."
+msgstr ""
+
+#: 30103:209
+
+msgid "{Ran}\n\"What? Why? You're giving this to me?\""
+msgstr ""
+
+#: 30103:210
+
+msgid "She was already opening the envelope as she asked. No, she was already looking inside. It was a wad of bills like she thought."
+msgstr ""
+
+#: 30103:211
+
+msgid "Nearly all 1,000 yen bills, and a few 10,000 yen ones too."
+msgstr ""
+
+#: 30103:214
+
+msgid "{Ran}\n\"102,800 yen...right?\""
+msgstr ""
+
+#: 30103:217
+
+msgid "{Fuusen}\n\"Bingo! Wow, how'd you figure out the exact amount from just a glance? What are you?\""
+msgstr ""
+
+#: 30103:220
+
+msgid "{Ran}\n\"So, why are you giving this to me, Kazuko? ...Huh?\""
+msgstr ""
+
+#: 30103:221
+
+msgid "Then she realized a bunch of girls were gathered behind Kazuko. There were about ten of them."
+msgstr ""
+
+#: 30103:224
+
+msgid "{Fuusen}\n\"Hey, Ah-chan, guys, can you give us a bit?\""
+msgstr ""
+
+#: 30103:229
+
+msgid "{Appo}\n\"Sure, got it. Hey! Get out of the cafeteria, men!\""
+msgstr ""
+
+#: 30103:233
+
+msgid "Appo took off with the guys, leaving the girls alone."
+msgstr ""
+
+#: 30103:234
+
+msgid "As a few of the girls surrounded Ran, she felt a bit intimidated."
+msgstr ""
+
+#: 30103:237
+
+msgid "{Ran}\n\"What? What's with everyone?\""
+msgstr ""
+
+#: 30103:245
+
+msgid "{Mizuki}\n\"That's our question. I thought we were friends.\""
+msgstr ""
+
+#: 30103:251
+
+msgid "{Ran}\n\"What? What are you talking about?\""
+msgstr ""
+
+#: 30103:259
+
+msgid "{Sakura}\n\"Come on! Stop acting stupid, Ran! We all know it.\""
+msgstr ""
+
+#: 30103:260
+
+msgid "{Rin}\n\"We know Haruma-kun has been trying to raise money for you.\""
+msgstr ""
+
+#: 30103:266
+
+msgid "{Ran}\n\"Huh... Oh... 100,000 yen...\""
+msgstr ""
+
+#: 30103:267
+
+msgid "There was just over 100,000 yen inside the envelope. Ran finally remembered asking Kazushi to lend her that much money."
+msgstr ""
+
+#: 30103:268
+
+msgid "{Ran}\n\"What? Why did you guys bring it to me?\""
+msgstr ""
+
+#: 30103:269
+
+msgid "Why did they do this? Did it have anything to do with Kazushi's disappearance?"
+msgstr ""
+
+#: 30103:270
+
+msgid "{Ran}\n\"Where's Kazushi?\""
+msgstr ""
+
+#: 30103:275
+
+msgid "{Fuusen}\n\"What? Has Haruma-kun disappeared?\""
+msgstr ""
+
+#: 30103:276
+
+msgid "It seems Kazuko doesn't know his whereabouts either, and neither did any of the other girls. Where in the world is Haruma Kazushi?"
+msgstr ""
+
+#: 30103:280
+
+msgid "{Andou}\n\"Haruma-kun's missing? Don't tell me he ran out on you?\""
+msgstr ""
+
+#: 30103:284
+
+msgid "{Mizuki}\n\"No, Kazushi wouldn't do that...\""
+msgstr ""
+
+#: 30103:288
+
+msgid "{Haruka}\n\"That's right. Kazushi-kun will take responsibility for it.\""
+msgstr ""
+
+#: 30103:292
+
+msgid "{Ran}\n\"Umm, responsibility for what? What is this money for?\""
+msgstr ""
+
+#: 30103:293
+
+msgid "\"There's something going on behind my back...\"\nRan was beginning to feel nervous."
+msgstr ""
+
+#: 30103:297
+
+msgid "{Fuusen}\n\"Everyone donated some. It's 100,000 yen and a bit more. Is that enough?\""
+msgstr ""
+
+#: 30103:298
+
+msgid "{Ran}\n\"Enough? Enough for what?\""
+msgstr ""
+
+#: 30103:299
+
+msgid "Ran had no clue what was going on. Why were the girls suddenly raising the money she'd asked to borrow from Kazushi?"
+msgstr ""
+
+#: 30103:300
+
+msgid "This was making for a very oppressive atmosphere."
+msgstr ""
+
+#: 30103:304
+
+msgid "{Sakura}\n\"So? Did you find a good doctor? I don't suggest using the clinic here on the island.\""
+msgstr ""
+
+#: 30103:307
+
+msgid "{Ran}\n\"What? A doctor?\""
+msgstr ""
+
+#: 30103:311
+
+msgid "{Rin}\n\"I can ask a friend of mine to arrange a boat for you if you need one. And don't worry, he won't tell anyone.\""
+msgstr ""
+
+#: 30103:312
+
+msgid "{Ran}\n\"Who needs a doctor? I don't?\""
+msgstr ""
+
+#: 30103:316
+
+msgid "{Fuusen}\n\"You don't need to hide it. We all know.\""
+msgstr ""
+
+#: 30103:319
+
+msgid "{Ran}\n\"Maybe you do, but I've got no idea what you guys are talking about!\""
+msgstr ""
+
+#: 30103:320
+
+msgid "Ran and the other girls stared at each other in silence."
+msgstr ""
+
+#: 30103:325
+
+msgid "{Sakura}\n\"Hey, this sounds strange...doesn't it?\""
+msgstr ""
+
+#: 30103:330
+
+msgid "{Rin}\n\"Yes... she doesn't seem to be lying, either.\""
+msgstr ""
+
+#: 30103:337
+
+msgid "{Mizuki}\n\"Maybe Ran's not really pregnant...\""
+msgstr ""
+
+#: 30103:338
+
+msgid "Ran was astonished by what she just heard - and they weren't kidding."
+msgstr ""
+
+#: 30103:346
+
+msgid "{Ran}\n\"What? Pregnant? Who the hell's baby am I supposed to be pregnant with?!\""
+msgstr ""
+
+#: 30103:351
+
+msgid "{Fuusen}\n\"Well... Haruma-kun's, right? Haruma-kun got you knocked up, and...\""
+msgstr ""
+
+#: 30103:354
+
+msgid "{Ran}\n\"W-why would I be pregnant with Kazushi's baby? Where'd you get that kind of crazy idea from?\""
+msgstr ""
+
+#: 30103:355
+
+msgid "Ran was beet red. How in the world did she end up pregnant with Kazushi's kid?"
+msgstr ""
+
+#: 30103:359
+
+msgid "{Mizuki}\n\"See? I told you! I knew this whole thing sounded fishy.\""
+msgstr ""
+
+#: 30103:362
+
+msgid "{Fuusen}\n\"..................\""
+msgstr ""
+
+#: 30103:366
+
+msgid "{Rin}\n\"What am I going to do? I already made my special red bean rice for dinner tonight...\""
+msgstr ""
+
+#: 30103:371
+
+msgid "{Ran}\n\"Red bean rice? Rin, listen...\""
+msgstr ""
+
+#: 30103:372
+
+msgid "Ran became even more flushed. It was rare to see her face that red."
+msgstr ""
+
+#: 30103:376
+
+msgid "{Sakura}\n\"Well, we just can eat the rice for dinner. It wasn't a celebration anyways.\""
+msgstr ""
+
+#: 30103:381
+
+msgid "{Rin}\n\"Oh, you're right... Even if she were pregnant, at the hospital the baby would be... right...\""
+msgstr ""
+
+#: 30103:385
+
+msgid "{Fuusen}\n\"Looks like that was false too. Well, in the end it's all good.\""
+msgstr ""
+
+#: 30103:389
+
+msgid "{Mizuki}\n\"It's not good! Kazuko, you're the one who said it in the first place!\""
+msgstr ""
+
+#: 30103:392
+
+msgid "{Fuusen}\n\"Well, it's because Kazushi was trying like crazy to raise that kind of money out of nowhere... What else would you think?\""
+msgstr ""
+
+#: 30103:393
+
+msgid "Everyone sighed with relief. They thought Ran had become pregnant and Kazushi was trying to raise the money for an abortion."
+msgstr ""
+
+#: 30103:398
+
+msgid "{Ran}\n\"How'd you come up with that idea? You all just jumped the gun.\""
+msgstr ""
+
+#: 30103:403
+
+msgid "{Haruka}\n\"Because...\""
+msgstr ""
+
+#: 30103:407
+
+msgid "{Fuusen}\n\"Because you and Haruma-kun have been so close to each other lately.\""
+msgstr ""
+
+#: 30103:410
+
+msgid "{Ran}\n\"Me and Kazushi? ...Is that how we looked?\""
+msgstr ""
+
+#: 30103:414
+
+msgid "{Sakura}\n\"By all means. Everyone thinks the same thing.\""
+msgstr ""
+
+#: 30103:418
+
+msgid "{Rin}\n\"You started hanging out with us recently too, so we all figured that if you were in love that explained everything.\""
+msgstr ""
+
+#: 30103:422
+
+msgid "{Ran}\n\"In love with someone?\""
+msgstr ""
+
+#: 30103:423
+
+msgid "She became flushed again while everyone chuckled at her."
+msgstr ""
+
+#: 30103:426
+
+msgid "{Ran}\n\"Kazushi's a nice guy, and I like him, but...\""
+msgstr ""
+
+#: 30103:427
+
+msgid "But love didn't quite sound right. There wasn't any special relationship between them."
+msgstr ""
+
+#: 30103:428
+
+msgid "{Ran}\n\"But Kazushi's gone now.\""
+msgstr ""
+
+#: 30103:429
+
+msgid "The guys said he wouldn't run away, but she had no clue."
+msgstr ""
+
+#: 30103:433
+
+msgid "{Mizuki}\n\"Where did Kazushi go then?\""
+msgstr ""
+
+#: 30103:437
+
+msgid "{Haruka}\n\"All the food from lunch will be gone soon.\""
+msgstr ""
+
+#: 30103:442
+
+msgid "{Mei}\n\"What's up, everyone?\""
+msgstr ""
+
+#: 30103:443
+
+msgid "Mei-sensei approached the girls huddling together with a concerned look."
+msgstr ""
+
+#: 30103:444
+
+msgid "{Mei}\n\"Anything wrong?\""
+msgstr ""
+
+#: 30103:449
+
+msgid "{Fuusen}\n\"No, there's nothing wrong. She's not pregnant.\""
+msgstr ""
+
+#: 30103:452
+
+msgid "{Mei}\n\"What? Pregnant? What happened?\""
+msgstr ""
+
+#: 30103:453
+
+msgid "Mei-sensei became really worried."
+msgstr ""
+
+#: 30103:457
+
+msgid "{Mizuki}\n\"Sensei, we haven't seen Haruma-kun around. Have you heard anything?\""
+msgstr ""
+
+#: 30103:460
+
+msgid "{Mei}\n\"Oh, Haruma-kun.\""
+msgstr ""
+
+#: 30103:461
+
+msgid "Everyone felt she knew something about him from her tone."
+msgstr ""
+
+#: 30103:465
+
+msgid "{Fuusen}\n\"Where is Haruma-kun?\""
+msgstr ""
+
+#: 30103:468
+
+msgid "{Mei}\n\"Umm, I told him no, you know? But Haruma-kun seemed to have his own reasons and insisted, so...\""
+msgstr ""
+
+#: 30103:472
+
+msgid "{Ran}\n\"Umm, I don't get it at all? Where is Kazushi?\""
+msgstr ""
+
+#: 30103:475
+
+msgid "{Mei}\n\"Umm... He went home.\""
+msgstr ""
+
+#: 30103:478
+
+msgid "{Ran}\n\"..................What!?\""
+msgstr ""
+
+#: 30103:486
+
+msgid "It was raining tonight."
+msgstr ""
+
+#: 30103:489
+
+msgid "{Ran}\n\"Wow, it's really pouring down.\""
+msgstr ""
+
+#: 30103:490
+
+msgid "The rain woke Ran up and she went outside alone. Far below, she could see the sea churning beneath her."
+msgstr ""
+
+#: 30103:491
+
+msgid "{Ran}\n\"The ocean's going wild.\""
+msgstr ""
+
+#: 30103:492
+
+msgid "You couldn't come back by boat in this. Kazushi probably wouldn't be back tonight."
+msgstr ""
+
+#: 30103:495
+
+msgid "{Ran}\n\"Will he ever be coming back?\""
+msgstr ""
+
+#: 30103:496
+
+msgid "Ran felt worried as she watched the turbulent waves.\n\"I never thought Kazushi would leave the island. I shouldn't have said such a thing...\""
+msgstr ""
+
+#: 30103:497
+
+msgid "{Ran}\n\"He might enjoy his home.\""
+msgstr ""
+
+#: 30103:498
+
+msgid "She went home during her first New Year's break as a freshman. She felt so comfortable there that she didn't want to return to the island."
+msgstr ""
+
+#: 30103:499
+
+msgid "{Ran}\n\"Kazushi might not be returning...\""
+msgstr ""
+
+#: 30103:500
+
+msgid "\"Why do I keep thinking so negatively? Was I always this pessimistic?\" she thought."
+msgstr ""
+
+#: 30103:503
+
+msgid "{Ran}\n\"What's wrong with me?\""
+msgstr ""
+
+#: 30103:504
+
+msgid "She didn't feel like herself, and she couldn't calm down. It was the first time she had ever felt so restless."
+msgstr ""
+
+#: 30103:505
+
+msgid "It's just a guy who's been around for a while and isn't here anymore. That's it."
+msgstr ""
+
+#: 30103:508
+
+msgid "{Ran}\n\"Geez...what that hell am I thinking and doing here?\""
+msgstr ""
+
+#: 30103:509
+
+msgid "She knew standing here and getting soaked wouldn't help anything, but she couldn't move."
+msgstr ""
+
+#: 30103:510
+
+msgid "{Appo}\n\"What're you doing here?\""
+msgstr ""
+
+#: 30103:513
+
+msgid "Ran was startled to hear Appo's voice. She never expected to run into anyone outside at midnight."
+msgstr ""
+
+#: 30103:519
+
+msgid "{Fuusen}\n\"You don't have to be that surprised, Ran.\""
+msgstr ""
+
+#: 30103:520
+
+msgid "Appo and Kazuko were holding each other's arms under one umbrella."
+msgstr ""
+
+#: 30103:523
+
+msgid "{Fuusen}\n\"You're soaked. Is it your hobby to get soaking wet while watching the sea or something?\""
+msgstr ""
+
+#: 30103:527
+
+msgid "{Ran}\n\"Sort of. I feel like doing this once a year.\""
+msgstr ""
+
+#: 30103:530
+
+msgid "{Fuusen}\n\"Alright. I won't say anything else, but be careful or you'll catch a cold even though it's summer.\""
+msgstr ""
+
+#: 30103:531
+
+msgid "Kazuko's tone was a bit curt, but Ran went beyond surprise at her concern and felt bashful. Kazuko really had changed lately."
+msgstr ""
+
+#: 30103:532
+
+msgid "...ever since she started seeing Appo."
+msgstr ""
+
+#: 30103:535
+
+msgid "{Ran}\n\"Thanks for your concern. I'm going back now.\""
+msgstr ""
+
+#: 30103:536
+
+msgid "There was no point staying here any longer. It was almost time for lights out anyways."
+msgstr ""
+
+#: 30103:541
+
+msgid "{Appo}\n\"Oh, yeah, we were heading to Fuu-chan's room. I probably won't be back until tomorrow afternoon.\""
+msgstr ""
+
+#: 30103:542
+
+msgid "Appo said as if talking to himself."
+msgstr ""
+
+#: 30103:543
+
+msgid "Ran thought he was bragging... but then realized it."
+msgstr ""
+
+#: 30103:548
+
+msgid "{Fuusen}\n\"So that means there won't be anybody in your room, right? I don't think Haruma-kun will be back tonight...\""
+msgstr ""
+
+#: 30103:549
+
+msgid "Kazuko's right. If Appo wasn't coming back to the room, then there would be no one in Kazushi's room."
+msgstr ""
+
+#: 30103:552
+
+msgid "{Appo}\n\"Let's hurry up and get to yours!\""
+msgstr ""
+
+#: 30103:555
+
+msgid "{Fuusen}\n\"Hee-hee... I wonder how many times you'll send me to heaven tonight?\""
+msgstr ""
+
+#: 30103:558
+
+msgid "Ran shuddered with disgust at their conversation, but reminded herself that they were a couple and it's totally OK for them to talk about stuff like that."
+msgstr ""
+
+#: 30103:559
+
+msgid "Then again, Ran didn't even want to imagine what they were planning to do."
+msgstr ""
+
+#: 30103:562
+
+msgid "{Fuusen}\n\"You're not going back to the dorm, Ran?\""
+msgstr ""
+
+#: 30103:567
+
+msgid "{Ran}\n\"You go on ahead. I'll be back later.\""
+msgstr ""
+
+#: 30103:570
+
+msgid "{Fuusen}\n\"Okay. See you then.\""
+msgstr ""
+
+#: 30103:573
+
+msgid "{Ran}\n\"See you. You two have a good night.\""
+msgstr ""
+
+#: 30103:578
+
+msgid "{Ran}\n\"It reeks...\""
+msgstr ""
+
+#: 30103:579
+
+msgid "It was sweaty, and there's an unwashed smell of boys everywhere. This must be what a typical man's room was like."
+msgstr ""
+
+#: 30103:580
+
+msgid "It was quite a mess."
+msgstr ""
+
+#: 30103:581
+
+msgid "{Ran}\n\"How can they sleep in here? Boys are really tough.\""
+msgstr ""
+
+#: 30103:582
+
+msgid "Ran searched for something to wipe herself off with and found a drawer with Kazushi's clothes. When she opened it she found a bath towel."
+msgstr ""
+
+#: 30103:583
+
+msgid "She borrowed it and wiped herself off."
+msgstr ""
+
+#: 30103:584
+
+msgid "{Ran}\n\"I'll borrow his clothes, too...\""
+msgstr ""
+
+#: 30103:585
+
+msgid "She took her wet clothes off and put on Kazushi's school shirt. She felt much better with a dry set of clothes on."
+msgstr ""
+
+#: 30103:586
+
+msgid "{Ran}\n *Ahhhhhhhhhhh*"
+msgstr ""
+
+#: 30103:587
+
+msgid "Ran sat down by the window with the lights off. She didn't want to risk anyone peeking in and finding her."
+msgstr ""
+
+#: 30103:588
+
+msgid "She saw unmade beds laid out next to her."
+msgstr ""
+
+#: 30103:589
+
+msgid "{Ran}\n\"Which one is...?\""
+msgstr ""
+
+#: 30103:590
+
+msgid "Kazushi's?"
+msgstr ""
+
+#: 30103:591
+
+msgid "{Ran}\n\"..................\""
+msgstr ""
+
+#: 30103:593
+
+msgid "Ran gingerly smelled both of the mattresses."
+msgstr ""
+
+#: 30103:594
+
+msgid "{Ran}\n *sniff sniff*"
+msgstr ""
+
+#: 30103:595
+
+msgid "{Ran}\n\"What the hell am I doing? I'm acting like a dog...\""
+msgstr ""
+
+#: 30103:596
+
+msgid "Maybe she was, because she could tell which one is Kazushi's by the scent."
+msgstr ""
+
+#: 30103:597
+
+msgid "{Ran}\n\"How could I tell?\""
+msgstr ""
+
+#: 30103:598
+
+msgid "She didn't know. She'd never paid attention to his scent before, but she knew at first sniff."
+msgstr ""
+
+#: 30103:599
+
+msgid "{Ran}\n\"Okay, maybe just a little bit.\""
+msgstr ""
+
+#: 30103:601
+
+msgid "She laid down on Kazushi's bed, putting her forehead on his pillow and breathing in his scent."
+msgstr ""
+
+#: 30103:602
+
+msgid "{Ran}\n\"Wow...\""
+msgstr ""
+
+#: 30103:603
+
+msgid "She sighed deeply, and really felt like she was being a woman."
+msgstr ""
+
+#: 30103:604
+
+msgid "{Ran}\n\"Uh... I'm getting horny...\""
+msgstr ""
+
+#: 30103:605
+
+msgid "She was starting to have fun. She was having fun knowing that she was getting turned on. She buried her face in his pillow and held it close."
+msgstr ""
+
+#: 30103:607
+
+msgid "{Ran}\n\"Hahaha. I'm totally acting like a pervert.\""
+msgstr ""
+
+#: 30103:609
+
+msgid "She flapped her legs around on his futon as she held the pillow close. As she took a deep breath of his scent her head became dizzy."
+msgstr ""
+
+#: 30103:610
+
+msgid "{Ran}\n\"Hmm... Shortage of oxygen...\""
+msgstr ""
+
+#: 30103:611
+
+msgid "She toned herself down, and as she closed her eyes, her consciousness began to fade. She could feel herself growing relaxed."
+msgstr ""
+
+#: 30103:612
+
+msgid "And as she relaxed she grew sleepy."
+msgstr ""
+
+#: 30103:613
+
+msgid "Wearing Kazushi's clothes and towel and sleeping in his futon, she felt like she was enveloped in his presence."
+msgstr ""
+
+#: 30103:614
+
+msgid "{Ran}\n\"Uh... I'm so sleepy...\""
+msgstr ""
+
+#: 30103:616
+
+msgid "If she fell asleep, she'd have a nice night's rest. She couldn't win against that temptation, and Ran steadily drifted off to sleep."
+msgstr ""
+
+#: 30103:617
+
+msgid "{Ran}\n\"Uhh...\""
+msgstr ""
+
+#: 30103:618
+
+msgid "It was quiet outside now. The rain must have stopped. The quiet, dim room was just like an aquarium at night."
+msgstr ""
+
+#: 30103:619
+
+msgid "{Ran}\n\"I really am falling asle...\""
+msgstr ""
+
+#: 30103:620
+
+msgid "\"I wonder if anything good is going to happen when I wake up tomorrow.\"\nThinking that, Ran went into a deep, deep slumber."
+msgstr ""
+

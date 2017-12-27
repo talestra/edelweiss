@@ -1,0 +1,263 @@
+# Comments for '01804'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 01804:9
+
+msgid "{Kazushi}\n\"Hmm......\""
+msgstr ""
+
+#: 01804:10
+
+msgid "I don't know why, but I suddenly stopped walking. But then again, I wasn't sure if I was really walking in the first place."
+msgstr ""
+
+#: 01804:11
+
+msgid "{Kazushi}\n\"Wait a minute, where am I going?\""
+msgstr ""
+
+#: 01804:12
+
+msgid "Right, first question: Why am I even here? As I continued walking, I figured out that I didn't know where I was headed."
+msgstr ""
+
+#: 01804:13
+
+msgid "{Kazushi}\n\"Damn, I'm really out of it.\""
+msgstr ""
+
+#: 01804:14
+
+msgid "I looked around once more."
+msgstr ""
+
+#: 01804:15
+
+msgid "{Kazushi}\n\"Hmm?\""
+msgstr ""
+
+#: 01804:16
+
+msgid "That's......"
+msgstr ""
+
+#: 01804:17
+
+msgid "{Kazushi}\n\"Natsume-chan.\""
+msgstr ""
+
+#: 01804:20
+
+msgid "Natsume-chan slowed turned towards me when I called her. Her movement was almost mechanical, like a doll. She would be as cute as a doll if she didn't speak."
+msgstr ""
+
+#: 01804:21
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 01804:22
+
+msgid "Even though she saw me, Natsume-chan didn't say anything, as usual."
+msgstr ""
+
+#: 01804:23
+
+msgid "{Kazushi}\n\"What are you doing here all by yourself?\""
+msgstr ""
+
+#: 01804:24
+
+msgid "She's always alone. I'm worried about whether or not she really has any friends. I can't leave her on her own."
+msgstr ""
+
+#: 01804:27
+
+msgid "{Natsume}\n\"It's you again. Why do you keep coming here, Haruma? Is it a choice, or...\""
+msgstr ""
+
+#: 01804:28
+
+msgid "I could tell that she was really trying to decipher something about me when she looked into my eyes. It made me uncomfortable."
+msgstr ""
+
+#: 01804:29
+
+msgid "{Kazushi}\n\"What can I say? It's a small island and we both live here. I'm pretty sure that we're bound to run into each other every now and then, right?\""
+msgstr ""
+
+#: 01804:32
+
+msgid "{Natsume}\n\"............boring. Chatting with you is boring.\""
+msgstr ""
+
+#: 01804:33
+
+msgid "{Kazushi}\n\"Well, I wasn't trying to be entertaining...\""
+msgstr ""
+
+#: 01804:34
+
+msgid "{Natsume}\n\"I see.\""
+msgstr ""
+
+#: 01804:36
+
+msgid "It seemed like she didn't care much, and she started walking away."
+msgstr ""
+
+#: 01804:38
+
+msgid "{Kazushi}\n\"Where are you going?\""
+msgstr ""
+
+#: 01804:41
+
+msgid "{Natsume}\n\"Why are you following me? It's best not to bother with me.\""
+msgstr ""
+
+#: 01804:42
+
+msgid "{Kazushi}\n\"Don't say that. If you keep up that attitude where you try to keep people away, then one day there won't be anybody left around you.\""
+msgstr ""
+
+#: 01804:45
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 01804:48
+
+msgid "I didn't know if what I said meant anything to her, but it definitely made her stop walking."
+msgstr ""
+
+#: 01804:49
+
+msgid "{Kazushi}\n\"Huh? Natsume-chan?\""
+msgstr ""
+
+#: 01804:50
+
+msgid "She stared at me with her back still facing me. I think she's angry."
+msgstr ""
+
+#: 01804:51
+
+msgid "{Kazushi}\n\"I'm sorry. I think I said that in a way that upset you. I apologize.\""
+msgstr ""
+
+#: 01804:54
+
+msgid "{Natsume}\n\"No, it's OK. Maybe you're right.\""
+msgstr ""
+
+#: 01804:55
+
+msgid "I was surprised. Normally she wouldn't accept anything I said. This really isn't like her."
+msgstr ""
+
+#: 01804:56
+
+msgid "Maybe I said something I shouldn't have?"
+msgstr ""
+
+#: 01804:57
+
+msgid "{Kazushi}\n\"Um... I'm really sorry about what I said. Are you mad at me?\""
+msgstr ""
+
+#: 01804:60
+
+msgid "{Natsume}\n\"I'm not really mad, but...\""
+msgstr ""
+
+#: 01804:61
+
+msgid "{Kazushi}\n\"But?\""
+msgstr ""
+
+#: 01804:62
+
+msgid "{Natsume}\n\"Maybe it's my fault, like you said, and that's why Papa left me.\""
+msgstr ""
+
+#: 01804:63
+
+msgid "{Kazushi}\n\"Papa?\""
+msgstr ""
+
+#: 01804:64
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 01804:65
+
+msgid "Although Natsume-chan was right in front of me, her back seemed very small and distant. It was the first time I'd ever heard her mention her family."
+msgstr ""
+
+#: 01804:66
+
+msgid "I didn't know what was going on, but I was sure that I hurt Natsume-chan's feelings somehow."
+msgstr ""
+
+#: 01804:67
+
+msgid "{Kazushi}\n\"Natsume-chan......\""
+msgstr ""
+
+#: 01804:71
+
+msgid "{Natsume}\n\"It's fine. Don't worry about it. I'm all right by myself.\""
+msgstr ""
+
+#: 01804:73
+
+msgid "She started walking off again, so I chased after her."
+msgstr ""
+
+#: 01804:76
+
+msgid "{Natsume}\n\"Nothing is going to happen, even if you follow me.\""
+msgstr ""
+
+#: 01804:77
+
+msgid "{Kazushi}\n\"No, I'll go with you. Do you honestly think I'd just let someone who says she's fine on her own go without someone else beside her?\""
+msgstr ""
+
+#: 01804:80
+
+msgid "{Natsume}\n\"I told you, I'm okay. Stop being nosy.\""
+msgstr ""
+
+#: 01804:81
+
+msgid "{Kazushi}\n\"Then since I'm nosy, let me ask a nosy question: where did your Papa go, Natsume-chan?\""
+msgstr ""
+
+#: 01804:84
+
+msgid "I knew it was a personal question, but I just couldn't help trying to find out more about her. She heaved an exasperated sigh."
+msgstr ""
+
+#: 01804:87
+
+msgid "{Natsume}\n\"You really are nosy. Why do you care so much about me?\""
+msgstr ""
+
+#: 01804:88
+
+msgid "{Kazushi}\n\"What do you mean \"why\"?\""
+msgstr ""
+

@@ -1,0 +1,438 @@
+# Comments for '20302'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 20302:9
+
+msgid "{Kazushi}\n\"Yeaaaaaah!!\""
+msgstr ""
+
+#: 20302:10
+
+msgid "{Mizuki}\n\"Kazushi! You're almost there! Just a little more!\""
+msgstr ""
+
+#: 20302:11
+
+msgid "I could see Mizuki cheering me on. The goal was right there!"
+msgstr ""
+
+#: 20302:12
+
+msgid "{Kazushi}\n\"Yeaaaaaah!!\""
+msgstr ""
+
+#: 20302:13
+
+msgid "Seeing the finish line, I pulled myself together for one final spurt: five meters to go, three meters, one meter..."
+msgstr ""
+
+#: 20302:14
+
+msgid "I touched the swimming pool's tiled wall."
+msgstr ""
+
+#: 20302:16
+
+msgid "{Mizuki}\n\"Gooooooal!!\""
+msgstr ""
+
+#: 20302:17
+
+msgid "With Mizuki's cry in joy, I set my feet on bottom of the pool."
+msgstr ""
+
+#: 20302:18
+
+msgid "{Kazushi}\n\"I made it! Yeah! I did it!!\""
+msgstr ""
+
+#: 20302:21
+
+msgid "{Mizuki}\n\"Great job! You did it, Kazushi!\""
+msgstr ""
+
+#: 20302:22
+
+msgid "I cried in joy and excitement as I hugged Mizuki, who was all smiles.\nI was finally able to swim 50 whole meters."
+msgstr ""
+
+#: 20302:23
+
+msgid "{Kazushi}\n\"Thank you, ladies and gentlemen! I never even dreamed the day I could swim would ever come! I'm so happy to be alive!\""
+msgstr ""
+
+#: 20302:26
+
+msgid "{Mizuki}\n\"Hey, isn't that a little too much?\""
+msgstr ""
+
+#: 20302:27
+
+msgid "{Kazushi}\n\"Of course not. When I couldn't swim, that meant there were many less hours I could spend together with you.\""
+msgstr ""
+
+#: 20302:28
+
+msgid "{Kazushi}\n\"I know how your body system works. You need to be in the water at least for a couple hours. Otherwise, your body begins to act up. Right?\""
+msgstr ""
+
+#: 20302:31
+
+msgid "{Mizuki}\n\"Don't talk like I'm some addict in withdrawal. But you did a great job today so I'll let you off.\""
+msgstr ""
+
+#: 20302:32
+
+msgid "Oh! Mizuki is being so kind today! I'm so happy! So happy to be able to swim!!"
+msgstr ""
+
+#: 20302:33
+
+msgid "{Mizuki}\n\"You must be tired. Let's call a day.\""
+msgstr ""
+
+#: 20302:34
+
+msgid "{Kazushi}\n\"Yeah. I'm going to change, then.\""
+msgstr ""
+
+#: 20302:38
+
+msgid "{Kazushi}\n\"I'm back!\""
+msgstr ""
+
+#: 20302:39
+
+msgid "{Kazushi}\n\"Hmm? Why are you still in your swimsuit?\""
+msgstr ""
+
+#: 20302:42
+
+msgid "{Mizuki}\n\"I'm fine like this. I'm going to take a shower as soon as I get back anyways, plus I didn't want you to peep on me changing.\""
+msgstr ""
+
+#: 20302:43
+
+msgid "I've accidentally seen her naked on a whole bunch of occasions. I guess she's got a persecution complex about it now."
+msgstr ""
+
+#: 20302:44
+
+msgid "{Kazushi}\n\"None of them were on purpose.\""
+msgstr ""
+
+#: 20302:47
+
+msgid "{Mizuki}\n\"Look who's talking.\""
+msgstr ""
+
+#: 20302:48
+
+msgid "{Kazushi}\n\"Besides, I tried hard today. What's wrong with a little peek?\""
+msgstr ""
+
+#: 20302:51
+
+msgid "{Mizuki}\n\"I don't see the logic there?\""
+msgstr ""
+
+#: 20302:52
+
+msgid "{Kazushi}\n\"I should get some kind of a reward for that. Yes, that's right! A reward!\""
+msgstr ""
+
+#: 20302:53
+
+msgid "I tried hard and did a good job today, so I deserve a reward, don't I? Mizuki's being nice today and said she wouldn't shout at me or anything."
+msgstr ""
+
+#: 20302:56
+
+msgid "{Mizuki}\n\"What is it all of a sudden? I don't have anything though. I can get you something inexpensive.\""
+msgstr ""
+
+#: 20302:57
+
+msgid "{Kazushi}\n\"No, it won't cost anything. I'm not a man who's interested in anything with a price tag.\""
+msgstr ""
+
+#: 20302:58
+
+msgid "What I want is Mizuki. Because of her period, it's been five days since we made love for the first time."
+msgstr ""
+
+#: 20302:59
+
+msgid "I want to do it so bad. Otherwise I feel like I'm regaining my virginity."
+msgstr ""
+
+#: 20302:62
+
+msgid "{Mizuki}\n\"You mean something you can't buy? Something you can't buy...... What is it? ......Oh.\""
+msgstr ""
+
+#: 20302:65
+
+msgid "She thought of something and her cheeks flushed red."
+msgstr ""
+
+#: 20302:66
+
+msgid "{Mizuki}\n\"S-stupid Kazushi...\""
+msgstr ""
+
+#: 20302:67
+
+msgid "{Kazushi}\n\"There you go! You got it, huh?\""
+msgstr ""
+
+#: 20302:68
+
+msgid "{Mizuki}\n\"Yeah, I got it ......you pervert.\""
+msgstr ""
+
+#: 20302:69
+
+msgid "Yes! It seems she knows what I really want. This just shows how tight our bond is."
+msgstr ""
+
+#: 20302:70
+
+msgid "{Kazushi}\n\"But why am I a pervert? It's only natural for us to make love to each other.\""
+msgstr ""
+
+#: 20302:73
+
+msgid "{Mizuki}\n\"Because... you want me to give you a blow job, right?\""
+msgstr ""
+
+#: 20302:74
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 20302:75
+
+msgid "My head spun around a bit in a world of rapture. Her imagination was beyond mine."
+msgstr ""
+
+#: 20302:76
+
+msgid "{Kazushi}\n\"No, I just wanted to make love again. We haven't had our second time yet.\""
+msgstr ""
+
+#: 20302:79
+
+msgid "{Mizuki}\n\"What? S-so you weren't... going to ask me to suck on your thing?\""
+msgstr ""
+
+#: 20302:80
+
+msgid "{Kazushi}\n\"No, I just wanted to make love to you normally. That's as far as I'd gotten. But now that you bring up the idea, I'd love to.\""
+msgstr ""
+
+#: 20302:83
+
+msgid "{Mizuki}\n\"N-no way? With my mouth?\""
+msgstr ""
+
+#: 20302:84
+
+msgid "{Kazushi}\n\"W-with your mouth.\""
+msgstr ""
+
+#: 20302:85
+
+msgid "Now I can't see anything but Mizuki's mouth. Just thinking of her mouth sucking on my cock makes me..."
+msgstr ""
+
+#: 20302:88
+
+msgid "{Mizuki}\n\"Wah?!\""
+msgstr ""
+
+#: 20302:90
+
+msgid "Mizuki sharply turned herself around."
+msgstr ""
+
+#: 20302:91
+
+msgid "{Kazushi}\n\"W-what?\""
+msgstr ""
+
+#: 20302:94
+
+msgid "{Mizuki}\n\"Down in front! In front!\""
+msgstr ""
+
+#: 20302:95
+
+msgid "{Kazushi}\n\"Down in front... oh.\""
+msgstr ""
+
+#: 20302:96
+
+msgid "There was a huge tent pitched between my legs. Even I think my body's a little too honest at times."
+msgstr ""
+
+#: 20302:99
+
+msgid "{Mizuki}\n\"Jeez, Stupid Kazushi! Stupid Kazushi! Pervert!\""
+msgstr ""
+
+#: 20302:100
+
+msgid "{Kazushi}\n\"I-I can't help it! I just imagined you giving me a blow job. That's it.\""
+msgstr ""
+
+#: 20302:103
+
+msgid "{Mizuki}\n\"Y-you idiot. I'm not going to do that.\""
+msgstr ""
+
+#: 20302:104
+
+msgid "{Kazushi}\n\"Huh? Really?\""
+msgstr ""
+
+#: 20302:105
+
+msgid "All of a sudden, her answer plunged me into darkness. I nearly tipped over, but I barely managed to stand firm."
+msgstr ""
+
+#: 20302:106
+
+msgid "{Kazushi}\n\"You aren't gonna do it? After setting my expectations like this?\""
+msgstr ""
+
+#: 20302:109
+
+msgid "{Mizuki}\n\"Wh-why are you about to cry? Don't give me those puppy dog eyes. I never said I was I going to suck it.\""
+msgstr ""
+
+#: 20302:110
+
+msgid "{Kazushi}\n\"But Mizuki, you brought the subject up in the first place. That's why my dick got so big like this...\""
+msgstr ""
+
+#: 20302:111
+
+msgid "My crotch was tensing up at the limit of my shorts. Mizuki kept glancing down at it, unable to get her mind off of it."
+msgstr ""
+
+#: 20302:112
+
+msgid "The fact that Mizuki was staring at it made me yearn for it."
+msgstr ""
+
+#: 20302:115
+
+msgid "{Mizuki}\n\"But, I don't know...how...with my mouth...\""
+msgstr ""
+
+#: 20302:116
+
+msgid "{Kazushi}\n\"I'll tell you now that my thing isn't dirty at all. I just took a shower, and I can go wash it again if you want me to!\""
+msgstr ""
+
+#: 20302:117
+
+msgid "{Mizuki}\n\"No, I didn't think it's dirty...\""
+msgstr ""
+
+#: 20302:118
+
+msgid "Mizuki glanced at my crotch, which was about to explode. My dick was aching for her under the weight of her eyes."
+msgstr ""
+
+#: 20302:119
+
+msgid "{Mizuki}\n\"D-do you want me to do it that badly?\""
+msgstr ""
+
+#: 20302:120
+
+msgid "{Kazushi}\n\"Of course!\""
+msgstr ""
+
+#: 20302:121
+
+msgid "I replied vigorously, with no hesitation."
+msgstr ""
+
+#: 20302:122
+
+msgid "{Mizuki}\n\"If I, umm, do it with my mouth... will you be happy?\""
+msgstr ""
+
+#: 20302:123
+
+msgid "{Kazushi}\n\"I'll be more than happy! I could die for three days!\""
+msgstr ""
+
+#: 20302:126
+
+msgid "{Mizuki}\n\"What do you mean dead for three days? You wouldn't be dead then. Though I don't want you to die at all...\""
+msgstr ""
+
+#: 20302:127
+
+msgid "{Kazushi}\n\"So? You still don't want to do it? I won't push you to...\""
+msgstr ""
+
+#: 20302:128
+
+msgid "I've become pessimistic in case she dislikes me for being so demanding. If she did, that would be the end of my life."
+msgstr ""
+
+#: 20302:131
+
+msgid "{Mizuki}\n\"...............alright.\""
+msgstr ""
+
+#: 20302:132
+
+msgid "But her answer was positive."
+msgstr ""
+
+#: 20302:133
+
+msgid "{Kazushi}\n\"What? Are you sure?\""
+msgstr ""
+
+#: 20302:134
+
+msgid "Her straightforward agreement surprised me. I didn't think she'd say okay so easily."
+msgstr ""
+
+#: 20302:137
+
+msgid "{Mizuki}\n\"This is your reward, okay? For swimming 50 meters.\""
+msgstr ""
+
+#: 20302:138
+
+msgid "{Kazushi}\n\"R-right! I worked hard!\""
+msgstr ""
+
+#: 20302:139
+
+msgid "{Mizuki}\n\"Th-that's right. It's not because I want to, it's because you worked hard, okay?\""
+msgstr ""
+
+#: 20302:140
+
+msgid "{Kazushi}\n\"Yes. Yes!\""
+msgstr ""
+

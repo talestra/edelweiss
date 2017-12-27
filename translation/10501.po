@@ -1,0 +1,168 @@
+# Comments for '10501'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 10501:9
+
+msgid "{Haruka}\n\"Huh...?\""
+msgstr ""
+
+#: 10501:10
+
+msgid "Haruka opened her eyes, but her face still looked vacant. She must still be half asleep."
+msgstr ""
+
+#: 10501:11
+
+msgid "{Haruka}\n\"What was I...\""
+msgstr ""
+
+#: 10501:12
+
+msgid "{Kazushi}\n\"You fell asleep. Aren't you cold?\""
+msgstr ""
+
+#: 10501:13
+
+msgid "The wind had picked up quite a bit. The long, green blades of grass swayed, making the path of wind clear as day."
+msgstr ""
+
+#: 10501:14
+
+msgid "There's nothing but grassy prairie for as far as the eye can see. It's a magnificent view from here, and one we'd never see in Japan."
+msgstr ""
+
+#: 10501:15
+
+msgid "{Haruka}\n\"Yeah, I am getting a little cold.\""
+msgstr ""
+
+#: 10501:16
+
+msgid "Haruka sat up and cuddled up to me."
+msgstr ""
+
+#: 10501:17
+
+msgid "{Haruka}\n\"Ahh, so warm!\""
+msgstr ""
+
+#: 10501:18
+
+msgid "{Kazushi}\n\"Hey, don't use me as your body warmer.\""
+msgstr ""
+
+#: 10501:19
+
+msgid "{Haruka}\n\"Why not? What's wrong with it? You're happy to cuddle up with Haruka-chan, aren't you?\""
+msgstr ""
+
+#: 10501:20
+
+msgid "{Kazushi}\n\"Not really.\""
+msgstr ""
+
+#: 10501:21
+
+msgid "I teased her because she could see into my mind."
+msgstr ""
+
+#: 10501:22
+
+msgid "{Haruka}\n\"Oh, is that right? Are you bored with me?\""
+msgstr ""
+
+#: 10501:23
+
+msgid "Haruka took my joke literally and looked sad."
+msgstr ""
+
+#: 10501:24
+
+msgid "{Kazushi}\n\"Hey.\""
+msgstr ""
+
+#: 10501:25
+
+msgid "I held her hands and pulled her up."
+msgstr ""
+
+#: 10501:26
+
+msgid "{Haruka}\n\"I had a dream last night, about a long time ago.\""
+msgstr ""
+
+#: 10501:27
+
+msgid "{Kazushi}\n\"Oh yeah? To me, every day is like a dream.\""
+msgstr ""
+
+#: 10501:28
+
+msgid "Haruka and I were now in a foreign country together. We made our dream come true, which is why every day feels like a fantasy."
+msgstr ""
+
+#: 10501:29
+
+msgid "{Haruka}\n\"Yeah, me too.\""
+msgstr ""
+
+#: 10501:30
+
+msgid "Haruka had never left the island once since she was born. I thought she would be worried after suddenly being brought somewhere so far away, but she was enjoying every day."
+msgstr ""
+
+#: 10501:31
+
+msgid "{Haruka}\n\"Hey, where are we going next?\""
+msgstr ""
+
+#: 10501:32
+
+msgid "She asked me with her eyes sparkling."
+msgstr ""
+
+#: 10501:33
+
+msgid "{Kazushi}\n\"Well, where do you want to go, Haruka?\""
+msgstr ""
+
+#: 10501:34
+
+msgid "This is a huge continent. We'll eventually make our way somewhere as long as we keep on driving."
+msgstr ""
+
+#: 10501:35
+
+msgid "{Haruka}\n\"It doesn't matter where as long as I'm with you.\""
+msgstr ""
+
+#: 10501:36
+
+msgid "I can go anywhere I want too as long as I can see her smile. I feel like we can go to places unseen together."
+msgstr ""
+
+#: 10501:37
+
+msgid "{Kazushi}\n\"Shall we go, then?\""
+msgstr ""
+
+#: 10501:38
+
+msgid "{Haruka}\n\"Yes. Let's go!\""
+msgstr ""
+
+#: 10501:39
+
+msgid "Haruka leapt up and dragged me by the hands. We ran around outside, not knowing where our next destination would be.\nBut it doesn't matter, as long as we're together."
+msgstr ""
+

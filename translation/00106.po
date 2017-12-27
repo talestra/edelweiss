@@ -1,0 +1,7863 @@
+# Comments for '00106'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 00106:253
+
+msgid "{???}\n\"Hey!\""
+msgstr ""
+
+#: 00106:254
+
+msgid "{???}\n\"Wake up!! Kazushi!!\""
+msgstr ""
+
+#: 00106:255
+
+msgid ".................."
+msgstr ""
+
+#: 00106:256
+
+msgid "{???}\n\"Are you OK?\""
+msgstr ""
+
+#: 00106:257
+
+msgid "{???}\n\"Hurk...Ulgh...\""
+msgstr ""
+
+#: 00106:258
+
+msgid "..................\nWhat do you want?"
+msgstr ""
+
+#: 00106:259
+
+msgid "{???}\n\"It's coming up! I'm gonna hurl!\""
+msgstr ""
+
+#: 00106:260
+
+msgid "...............Hurl?"
+msgstr ""
+
+#: 00106:261
+
+msgid "{???}\n\"Bleeeeegch!\""
+msgstr ""
+
+#: 00106:262
+
+msgid "{???}\n\"D-disgusting, dude!\""
+msgstr ""
+
+#: 00106:263
+
+msgid "{???}\n\"Don't throw up there! Hey, Kazushi! Kazushi!!\""
+msgstr ""
+
+#: 00106:264
+
+msgid "{Kazushi}\n\"Hmm? ...What are you being so loud for?\""
+msgstr ""
+
+#: 00106:288
+
+msgid "{Appo}\n\"Bleeeeegch!\""
+msgstr ""
+
+#: 00106:289
+
+msgid "The first thing I saw when I opened my eyes was Appo vomiting all over the boat. His face was green and Pierre was nervously trying to help him."
+msgstr ""
+
+#: 00106:294
+
+msgid "{Pierre}\n\"This isn't working! If you're gonna puke, puke here, in this hand-made etiquette bag!\""
+msgstr ""
+
+#: 00106:298
+
+msgid "{Appo}\n\"Bleeeeeegch!\""
+msgstr ""
+
+#: 00106:305
+
+msgid "{Daigo}\n\"Do you always carry around a spare bag for this kind of emergency?\""
+msgstr ""
+
+#: 00106:308
+
+msgid "{Pierre}\n\"Of course not. It's Appo's.\""
+msgstr ""
+
+#: 00106:309
+
+msgid "I just woke up and I was already about to puke. I turned my eyes up and away from that disgusting sight."
+msgstr ""
+
+#: 00106:330
+
+msgid "The sun shone brightly in the clear blue sky above us. The refreshing smell of the ocean washed over my heart. All around us there was nothing but ocean, ocean and more ocean."
+msgstr ""
+
+#: 00106:331
+
+msgid "I could feel the strong sunlight giving me a good tan."
+msgstr ""
+
+#: 00106:332
+
+msgid "That's right, we're cruising on a ship. We left port several hours ago and already lost sight of land. All we could see was the endless ocean."
+msgstr ""
+
+#: 00106:333
+
+msgid "The waves of the ocean make me feel calm and relaxed."
+msgstr ""
+
+#: 00106:334
+
+msgid "{Kazushi}\n\"This is so soothing. I love being out here.\""
+msgstr ""
+
+#: 00106:350
+
+msgid "{Pierre}\n\"Stop ignoring us and do something to help out!!\""
+msgstr ""
+
+#: 00106:354
+
+msgid "{Appo}\n\"Ah! Kazushi!\nYou've got a raging hard-on!\nBleeegch!\""
+msgstr ""
+
+#: 00106:376
+
+msgid "{Pierre}\n\"Again?! You're jumping the gun, man!\""
+msgstr ""
+
+#: 00106:377
+
+msgid "{Kazushi}\n\"I can't do anything about it! It's morning wood - that's all!\""
+msgstr ""
+
+#: 00106:382
+
+msgid "{Daigo}\n\"Kazushi always gets morning wood.\""
+msgstr ""
+
+#: 00106:385
+
+msgid "{Pierre}\n\"Don't sleep at a time like this!\""
+msgstr ""
+
+#: 00106:386
+
+msgid "{Kazushi}\n\"I can't help it. I've been so excited that I haven't slept for three days.\""
+msgstr ""
+
+#: 00106:387
+
+msgid "It was true. I'd only slept about five hours total in the last week - that's how much I was looking forward to this trip."
+msgstr ""
+
+#: 00106:390
+
+msgid "{Daigo}\n\"You're really tough.\""
+msgstr ""
+
+#: 00106:393
+
+msgid "{Pierre}\n\"On the other hand...\""
+msgstr ""
+
+#: 00106:398
+
+msgid "{Appo}\n\"Kill me!... Just kill me already! Bleeeeegch!\""
+msgstr ""
+
+#: 00106:399
+
+msgid "{Kazushi}\n\"Don't die on us. We're almost there.\""
+msgstr ""
+
+#: 00106:400
+
+msgid "I kindly rubbed my comrade's back as I enjoyed the grandeur of the ocean."
+msgstr ""
+
+#: 00106:401
+
+msgid "{Kazushi}\n\"We've worked so hard for this day. Let's all set foot into paradise together!\""
+msgstr ""
+
+#: 00106:404
+
+msgid "{Appo}\n\"Kazushi, Kazushii... Blegh, blegh, blegh, bleegh!!\""
+msgstr ""
+
+#: 00106:414
+
+msgid "{Kazushi}\n\"Don't hug me while you're puking!\""
+msgstr ""
+
+#: 00106:415
+
+msgid "{Pierre}\n\"You rubbed his back! It won't stop now!\""
+msgstr ""
+
+#: 00106:416
+
+msgid "{Daigo}\n\"At least make him puke over the side of the boat and into the ocean.\""
+msgstr ""
+
+#: 00106:430
+
+msgid "{Guy with a Pompadour}\n\"He' 'ou 'uys! Don' 'ollu'e 'he o'ean!\""
+msgstr ""
+
+#: 00106:431
+
+msgid "We suddenly found ourselves in the shadow of a big man. We stood at attention as a conditioned reflex."
+msgstr ""
+
+#: 00106:432
+
+msgid "{Kazushi}\n\"Ah, Panchu-sempai! How are you?\""
+msgstr ""
+
+#: 00106:434
+
+msgid "{Panchu}\n\"Don' 'ollu'e 'he o'ean!\nDon' 'hrow u' 'he 'reakfas' 'our 'others 'ade 'or 'ou. If 'ou're a 'an, the' use 'our 'ill 'o hol' i' in!\""
+msgstr ""
+
+#: 00106:435
+
+msgid "It's hard to understand what this guy says, but there were several legends about him at our old academy and he commanded the respect of everyone."
+msgstr ""
+
+#: 00106:436
+
+msgid "His unique manner of speech started some rumours like, \"He ate too much bread and it killed his speech centre,\" or \"Maybe he's not actually Japanese?\""
+msgstr ""
+
+#: 00106:437
+
+msgid "But after about half a year, I began to understand most of what he said."
+msgstr ""
+
+#: 00106:438
+
+msgid "After one particular incident, we realized we couldn't go against him."
+msgstr ""
+
+#: 00106:443
+
+msgid "{Appo}\n\"Yes, Sir! I'll use my... will to...\""
+msgstr ""
+
+#: 00106:446
+
+msgid "{Panchu}\n\"Ea' 'his 'an' be 'rong.\""
+msgstr ""
+
+#: 00106:447
+
+msgid "He handed Appo a bag full of anpan. For some reason, Panchu always carries bread with him."
+msgstr ""
+
+#: 00106:448
+
+msgid "His nickname, Panchu, comes from the way he always carries anpan with him.....I think. Maybe."
+msgstr ""
+
+#: 00106:449
+
+msgid "I don't think there's a reason other than the anpan he carries, but I never bothered asking."
+msgstr ""
+
+#: 00106:452
+
+msgid "{Panchu}\n\"Ea' i' all a' once.\""
+msgstr ""
+
+#: 00106:455
+
+msgid "Panchu jammed the bread into Appo's mouth."
+msgstr ""
+
+#: 00106:459
+
+msgid "{Appo}\n\"......NNNNGGGGG......\""
+msgstr ""
+
+#: 00106:460
+
+msgid "Sempai was a hearty man. He never held back."
+msgstr ""
+
+#: 00106:461
+
+msgid "{Appo}\n\"......NNNGGGG......\""
+msgstr ""
+
+#: 00106:466
+
+msgid "{Pierre}\n(Don't puke, don't puke, don't puke!)"
+msgstr ""
+
+#: 00106:467
+
+msgid "{Kazushi}\n(Willpower!! Show us your guts, Appo!!)"
+msgstr ""
+
+#: 00106:468
+
+msgid "{Appo}\n\"...NNNNGGGG...\""
+msgstr ""
+
+#: 00106:472
+
+msgid "Appo showed us his true guts. He swallowed the bread down in a single gulp."
+msgstr ""
+
+#: 00106:473
+
+msgid "He really proved his manliness."
+msgstr ""
+
+#: 00106:479
+
+msgid "{Daigo}\n\"Good job, Appo!\""
+msgstr ""
+
+#: 00106:480
+
+msgid "{Pierre}\n\"Now that's our Anpanman!\""
+msgstr ""
+
+#: 00106:485
+
+msgid "{Panchu}\n\"I's 'ood, isn' it?\""
+msgstr ""
+
+#: 00106:489
+
+msgid "{Appo}\n\"!!\""
+msgstr ""
+
+#: 00106:490
+
+msgid "Appo covered his mouth. We could tell he was about to break."
+msgstr ""
+
+#: 00106:495
+
+msgid "{Panchu}\n\"Huh? Wha's 'ron' 'ow?\""
+msgstr ""
+
+#: 00106:497
+
+msgid "By the time we realized what would happen...it was too late."
+msgstr ""
+
+#: 00106:502
+
+msgid "{Appo}\n\"...........Blaaaargh!\""
+msgstr ""
+
+#: 00106:512
+
+msgid "{Daigo}\n\"He threw up again.\""
+msgstr ""
+
+#: 00106:513
+
+msgid "{Pierre}\n\"Guts, my ass.\""
+msgstr ""
+
+#: 00106:525
+
+msgid "{Appo}\n\"Give me a break! How could I eat that damn bread when I was puking all over the boat?\""
+msgstr ""
+
+#: 00106:530
+
+msgid "{Daigo}\n\"Uh-oh. Now he said it.\""
+msgstr ""
+
+#: 00106:531
+
+msgid "Appo just threw oil onto the fire."
+msgstr ""
+
+#: 00106:536
+
+msgid "{Panchu}\n\"Wha' 'he' hell' 'ou 'ay!? Wha' 'he hell 'id 'ou 'us 'all my 'read?!\""
+msgstr ""
+
+#: 00106:537
+
+msgid "See? Big fire. Sempai looked terrifying as he grabbed Appo by the collar. Appo's toes came right off the deck."
+msgstr ""
+
+#: 00106:542
+
+msgid "{Panchu}\n\"Wha' 'he hell 'ere 'ou 'hinkin' 'hrowin' u' 'read 'ade b' 'he Ida Family Bakery!? You 'ayin' our 'rea' isn' 'oo' e'ough 'or 'ou?!\""
+msgstr ""
+
+#: 00106:543
+
+msgid "{Appo}\n\"Hurg... hurg...\""
+msgstr ""
+
+#: 00106:544
+
+msgid "{Kazushi}\n\"We're sorry, we're sorry! But he's really on the edge! We'll apologize on his behalf, so please bestow your forgiveness!\""
+msgstr ""
+
+#: 00106:545
+
+msgid "{Panchu}\n\"How woul' 'ou 'ow how a 'aker 'eels?! Do 'ou 'ow wha' i's 'ike 'o have a 'assma'e as' 'Do 'ou 'ave frui'a'es in your 'akery?'?!\""
+msgstr ""
+
+#: 00106:549
+
+msgid "{Panchu}\n\"Do 'ou 'ow wha' i's 'ike 'o ha'e 'hem 'ease 'ou, 'ayin' 'Gross! You' 'akery is 'illed 'ith 'frui'a'es!'?!\""
+msgstr ""
+
+#: 00106:550
+
+msgid "{Everybody}\n\"We're so sorry!!!!!!!\""
+msgstr ""
+
+#: 00106:554
+
+msgid "{Yagami}\n\"Well, well, look at this horrible mess. I believe this is what they call 'gruesome'.\""
+msgstr ""
+
+#: 00106:559
+
+msgid "{Pierre}\n\"Ah, Yagami-sensei! Mornin'!\""
+msgstr ""
+
+#: 00106:560
+
+msgid "{Kazushi}\n\"M-mornin'!\""
+msgstr ""
+
+#: 00106:564
+
+msgid "This was our old homeroom teacher, Yagami-sensei. He's leading this trip for us."
+msgstr ""
+
+#: 00106:567
+
+msgid "{Yagami}\n\"Hey, Ida. I don't know what happened between you two, but I think it's time you forgave them.\""
+msgstr ""
+
+#: 00106:568
+
+msgid "Sensei turned a warm smile to Panchu. He always wore such a nice smile, though, so that was only normal."
+msgstr ""
+
+#: 00106:573
+
+msgid "{Panchu}\n\"Ye' 'ir.\""
+msgstr ""
+
+#: 00106:574
+
+msgid "Yet Panchu backed down in front of that smile."
+msgstr ""
+
+#: 00106:575
+
+msgid "Yagami-sensei was the only teacher Panchu never had an issue with."
+msgstr ""
+
+#: 00106:578
+
+msgid "{Yagami}\n\"Look at how awful this area is, though. You boys make sure to clean it up, okay?\""
+msgstr ""
+
+#: 00106:582
+
+msgid "{Pierre}\n\"Huh? Us?\""
+msgstr ""
+
+#: 00106:583
+
+msgid "{Yagami}\n\"Friends are supposed to look out for friends. Next time you're in trouble, Appo will help you out too.\""
+msgstr ""
+
+#: 00106:584
+
+msgid "{Yagami}\n\"Isn't friendship beautiful?\""
+msgstr ""
+
+#: 00106:585
+
+msgid "He was talking to the wind, not us. His eyes squinted as he looked up at the sky, but I didn't see anything up there."
+msgstr ""
+
+#: 00106:589
+
+msgid "{Yagami}\n\"Isn't it?\""
+msgstr ""
+
+#: 00106:590
+
+msgid "{Kazushi}\n\"Yes, I suppose.\""
+msgstr ""
+
+#: 00106:591
+
+msgid "Yagami-sensei was a bit of an obscure person. It always seemed hard to grasp what he was thinking about. That's why there were several rumours about him."
+msgstr ""
+
+#: 00106:592
+
+msgid "{Kazushi}\n\"Then let's get cleaning.\""
+msgstr ""
+
+#: 00106:593
+
+msgid "To be honest, we're all terrified of our teacher."
+msgstr ""
+
+#: 00106:594
+
+msgid "We didn't know why, but he was the one teacher Panchu didn't go against. That was enough reason for us to watch out."
+msgstr ""
+
+#: 00106:611
+
+msgid "{Daigo}\n\"What's this green stuff?\""
+msgstr ""
+
+#: 00106:614
+
+msgid "{Pierre}\n\"It's grass! Don't look at it, it's disgusting.\""
+msgstr ""
+
+#: 00106:615
+
+msgid "{Daigo}\n\"Dude, Appo, don't eat the grass.\""
+msgstr ""
+
+#: 00106:616
+
+msgid "{Kazushi}\n\"That anpan reeks...\""
+msgstr ""
+
+#: 00106:617
+
+msgid "{Appo}\n\"Blegh, blegh...\""
+msgstr ""
+
+#: 00106:620
+
+msgid "{Pierre}\n\"Don't puke where we're cleaning. Think about something fun and hold it in.\""
+msgstr ""
+
+#: 00106:621
+
+msgid "{Kazushi}\n\"He's right. We went through a tough test to get here together.\""
+msgstr ""
+
+#: 00106:624
+
+msgid "{Daigo}\n\"All four of us together, just like we promised.\""
+msgstr ""
+
+#: 00106:625
+
+msgid "{Appo}\n\"Who would let themselves fail that test?! ...It's an all-girls boarding school! It's our final chance to be popular...blegh.\""
+msgstr ""
+
+#: 00106:626
+
+msgid "{Kazushi}\n\"Don't say final. This is our new beginning!\""
+msgstr ""
+
+#: 00106:629
+
+msgid "{Pierre}\n\"Yeah, a new beginning. The beginning of our pink legend!\""
+msgstr ""
+
+#: 00106:632
+
+msgid "{Daigo}\n\"I've never been popular in my entire life.\""
+msgstr ""
+
+#: 00106:633
+
+msgid "{Kazushi}\n\"Me neither.\""
+msgstr ""
+
+#: 00106:636
+
+msgid "{Appo}\n\"We've never been popular with girls!\""
+msgstr ""
+
+#: 00106:639
+
+msgid "{Pierre}\n\"And why are we proud of this?\""
+msgstr ""
+
+#: 00106:642
+
+msgid "{Appo}\n\"But what about in an all-girls school?!\""
+msgstr ""
+
+#: 00106:645
+
+msgid "{Daigo}\n\"Do you even think I could be popular at an all-girls school?\""
+msgstr ""
+
+#: 00106:648
+
+msgid "{Pierre}\n\"I've heard that any man, no matter how ugly, will be popular in an all-girls school.\""
+msgstr ""
+
+#: 00106:649
+
+msgid "{Kazushi}\n\"I hear that a lot, but is it true? No matter how ugly?\""
+msgstr ""
+
+#: 00106:652
+
+msgid "{Pierre}\n\"It's true. And look at us, we're okay.\""
+msgstr ""
+
+#: 00106:655
+
+msgid "{Daigo}\n\"We're not bad. Just a little bit off the mark.\""
+msgstr ""
+
+#: 00106:656
+
+msgid "{Kazushi}\n\"Yeah, if you add one \"handsome\" and divide us in half, we'd be handsome.\""
+msgstr ""
+
+#: 00106:659
+
+msgid "{Pierre}\n\"Wouldn't that leave us without the handsome you added?\""
+msgstr ""
+
+#: 00106:662
+
+msgid "{Appo}\n\"Shut up!! Look? We, the guys who look okay, are about to enter the land where any ugly man can be popular, right? They'll come. Oh will they come. They'll come sniffing!\""
+msgstr ""
+
+#: 00106:663
+
+msgid "{Kazushi}\n\"Sniffing what?\""
+msgstr ""
+
+#: 00106:666
+
+msgid "{Appo}\n\"Pher-o-mon-es! They'll be mad, crazy for us! The females can smell out the males!!\""
+msgstr ""
+
+#: 00106:672
+
+msgid "{Pierre}\n\"Oh my? Who's he? He looks...fine...\""
+msgstr ""
+
+#: 00106:673
+
+msgid "{Appo}\n\"Why hello, my lady. Where might your entrance be? Knock, knock!\""
+msgstr ""
+
+#: 00106:674
+
+msgid "{Pierre}\n\"Oh! Look! There's a guest coming between my legs!\""
+msgstr ""
+
+#: 00106:677
+
+msgid "{Appo}\n\"Knock, knock! Knock, knock!\""
+msgstr ""
+
+#: 00106:678
+
+msgid "{Pierre}\n\"No! Wait! Nobody's ever opened my door before!\nPlease! Wait!\""
+msgstr ""
+
+#: 00106:681
+
+msgid "{Appo}\n\"Knock, knock! Knock, knock! Knock, knock!\""
+msgstr ""
+
+#: 00106:682
+
+msgid "{Pierre}\n\"Welcome! Welcome to my humble home!\""
+msgstr ""
+
+#: 00106:683
+
+msgid "{Kazushi}\n\"......\""
+msgstr ""
+
+#: 00106:690
+
+msgid "{Daigo}\n\"Done?\""
+msgstr ""
+
+#: 00106:695
+
+msgid "{Appo}\n\"Yeah, that's good. But I swear that's what's gonna happen!\""
+msgstr ""
+
+#: 00106:698
+
+msgid "{Pierre}\n\"He's right.\""
+msgstr ""
+
+#: 00106:701
+
+msgid "{Appo}\n\"Just think about it. Girls in puberty isolated on an island. You know what that means, right?\""
+msgstr ""
+
+#: 00106:702
+
+msgid "{Kazushi}\n\"No, what does it mean?\""
+msgstr ""
+
+#: 00106:703
+
+msgid "{Appo}\n\"It means that we won't have to do anything to get them. They're gonna come to us.\""
+msgstr ""
+
+#: 00106:704
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 00106:707
+
+msgid "{Appo}\n\"We've made so many mistakes trying, trying to make ourselves popular, but this time, they're coming after us!\""
+msgstr ""
+
+#: 00106:710
+
+msgid "{Pierre}\n\"Yeah, Appo was reported to the police when he tried to return the girl he crushed over's commuter pass to her.\""
+msgstr ""
+
+#: 00106:713
+
+msgid "{Daigo}\n\"Hey Appo, remember when you wore cologne for the first time and that girl told you to take a shower?\""
+msgstr ""
+
+#: 00106:716
+
+msgid "{Appo}\n\"Enough about my past! There's a treasure chest of memories waiting for us, so drop it!\""
+msgstr ""
+
+#: 00106:719
+
+msgid "{Appo}\n\"Look, guys, this is like throwing catnip to a herd of strays.\""
+msgstr ""
+
+#: 00106:720
+
+msgid "{Kazushi}\n\"C-captain! I think that's borderline criminal!\""
+msgstr ""
+
+#: 00106:723
+
+msgid "{Pierre}\n\"Girls at a girls' school bursting with sexual desire have only two roads to take. Either they comfort themselves alone, or they join the lily tribe.\""
+msgstr ""
+
+#: 00106:726
+
+msgid "{Daigo}\n\"What's the lilly tribe?\""
+msgstr ""
+
+#: 00106:729
+
+msgid "{Pierre}\n\"It means lesbians. I just saw this in a magazine, but the survey said that 40% of the girls at a girl's school are lesbians. In boarding schools, it was 60% lesbian.\""
+msgstr ""
+
+#: 00106:730
+
+msgid "{Pierre}\n\"In other words, most of them are lesbians!\""
+msgstr ""
+
+#: 00106:733
+
+msgid "{Daigo}\n\"Seriously? T-that's amazing.\""
+msgstr ""
+
+#: 00106:736
+
+msgid "{Pierre}\n\"Yeah. I remember that the article was written by some Dr. somebody or another.\""
+msgstr ""
+
+#: 00106:737
+
+msgid "{Kazushi}\n\"Isn't it bad for us if they're all lesbians? Won't they just ignore us guys?\""
+msgstr ""
+
+#: 00106:740
+
+msgid "{Appo}\n\"You're naive! You're naive, Haruma-kun! They say that only 10% of them are truly lesbians. Most of them just don't have any other option.\""
+msgstr ""
+
+#: 00106:741
+
+msgid "{Daigo}\n\"W-what a waste!\""
+msgstr ""
+
+#: 00106:744
+
+msgid "{Pierre}\n\"Yes! Exactly! It's such a waste for young girls to lie with each other and comfort each other just because they have no other option! It is blasphemy upon God!\""
+msgstr ""
+
+#: 00106:747
+
+msgid "{Appo}\n\"Our mission, should we choose to accept it, is to rescue those girls from their crooked ways!\""
+msgstr ""
+
+#: 00106:748
+
+msgid "{Pierre}\n\"We shall fill the holes in their hearts and bodies! Their holes! Their holes!\""
+msgstr ""
+
+#: 00106:749
+
+msgid "{Kazushi}\n\"Their...holes... Wow.\""
+msgstr ""
+
+#: 00106:755
+
+msgid "{Daigo}\n\"I've only seen their holes in porn. I'm a little worried that I won't be able to find them.\""
+msgstr ""
+
+#: 00106:756
+
+msgid "{Pierre}\n\"Don't dream it, feel it! Let your instincts guide your hips! Then their hole shall open before you!\""
+msgstr ""
+
+#: 00106:759
+
+msgid "{Daigo}\n\"Like this?\""
+msgstr ""
+
+#: 00106:762
+
+msgid "{Pierre}\n\"No, lower!\""
+msgstr ""
+
+#: 00106:763
+
+msgid "{Daigo}\n\"You mean like this?\""
+msgstr ""
+
+#: 00106:766
+
+msgid "{Pierre}\n\"That's a different hole! The two are surprisingly close, so be careful!\""
+msgstr ""
+
+#: 00106:769
+
+msgid "{Daigo}\n\"T-this is difficult.\""
+msgstr ""
+
+#: 00106:770
+
+msgid "{Kazushi}\n\"If it's that difficult, and if we hesitate when the time comes, won't they leave us? I refuse to miss my chance!\""
+msgstr ""
+
+#: 00106:773
+
+msgid "{Pierre}\n\"Doggie style makes that easier!\nLet's get some practice in, then! Get down on all fours, Kazushi!\""
+msgstr ""
+
+#: 00106:774
+
+msgid "{Kazushi}\n\"Huh? Me? Why me?\""
+msgstr ""
+
+#: 00106:777
+
+msgid "{Pierre}\n\"Don't dream it, feel it!\""
+msgstr ""
+
+#: 00106:778
+
+msgid "{Kazushi}\n\"R-right! Feel it; don't think about it. Okay, got it!\""
+msgstr ""
+
+#: 00106:779
+
+msgid "I stopped thinking and got on the deck on all fours. I felt like something that could never be undone was about to happen."
+msgstr ""
+
+#: 00106:782
+
+msgid "{Pierre}\n\"Alright, Daigo. Go for it.\""
+msgstr ""
+
+#: 00106:783
+
+msgid "{Daigo}\n\"I'm kinda nervous.\""
+msgstr ""
+
+#: 00106:788
+
+msgid "Daigo hesitantly leaned onto me. He was heavy."
+msgstr ""
+
+#: 00106:791
+
+msgid "{Daigo}\n\"So like this?\""
+msgstr ""
+
+#: 00106:792
+
+msgid "Press."
+msgstr ""
+
+#: 00106:793
+
+msgid "{Kazushi}\n\"Gah! T-that's not it! The butt! That's the butt!\""
+msgstr ""
+
+#: 00106:794
+
+msgid "{Daigo}\n\"Like this? Is this good?\""
+msgstr ""
+
+#: 00106:797
+
+msgid "{Pierre}\n\"Right there! Put your soul into it and thrust!\""
+msgstr ""
+
+#: 00106:798
+
+msgid "{Kazushi}\n\"Wait, wait, wait!! This is definitely wrong! I know I wasn't born to be doing this!!\""
+msgstr ""
+
+#: 00106:799
+
+msgid "I felt like I needed to say, \"Mom, I'm sorry.\""
+msgstr ""
+
+#: 00106:802
+
+msgid "{Daigo}\n\"Like this? Is this good?\""
+msgstr ""
+
+#: 00106:803
+
+msgid "{Kazushi}\n\"It's not good! I'm sorry, I'm sorry, I'm sorry! Please forgive me!\""
+msgstr ""
+
+#: 00106:806
+
+msgid "{Pierre}\n\"...yeah, I think we might break Kazushi if we go any further, so let's leave the joke at that.\""
+msgstr ""
+
+#: 00106:811
+
+msgid "Daigo finally got off of me. I felt so violated."
+msgstr ""
+
+#: 00106:812
+
+msgid "{Kazushi}\n\"Ugh, that was awful... I was about to bite my own tongue off. That was a bad joke.\""
+msgstr ""
+
+#: 00106:817
+
+msgid "{Appo}\n\"You should've figured it out sooner. Hurk. Ughh, I'm feeling sick again.\""
+msgstr ""
+
+#: 00106:821
+
+msgid "That was when I realized Yagami-sensei was backing away from us."
+msgstr ""
+
+#: 00106:824
+
+msgid "{Yagami}\n\"I realize you're excited and want to have fun, but please behave yourselves. After all, we're heading to...\""
+msgstr ""
+
+#: 00106:829
+
+msgid "{Daigo}\n\"Hey, guys, land ho!\""
+msgstr ""
+
+#: 00106:830
+
+msgid "Appo suddenly raised his head and we all ran to the prow of the boat."
+msgstr ""
+
+#: 00106:831
+
+msgid "All eyes were on the island waiting for us to arrive."
+msgstr ""
+
+#: 00106:879
+
+msgid "{Yagami}\n\"Now remember, we're heading to a boarding school for girls... Is anybody listening to me?\""
+msgstr ""
+
+#: 00106:883
+
+msgid "{Panchu}\n\"Hey, ai' 'eads! Don' 'an' on 'he 'ame 'ide! You'll 'ock 'he 'oat!\""
+msgstr ""
+
+#: 00106:885
+
+msgid "Panchu was shouting, but everyone was entranced by the island."
+msgstr ""
+
+#: 00106:888
+
+msgid "{Yagami}\n\"I'm glad to see such earnest eyes. Now if only you'd put that passion into something else. Hmph.\""
+msgstr ""
+
+#: 00106:890
+
+msgid "Sensei forced a smile as he lit a cigarette and the salty breeze carried away the smoke."
+msgstr ""
+
+#: 00106:900
+
+msgid "{Appo}\n\"Our... our paradise awaits...Blegh, blegh.\""
+msgstr ""
+
+#: 00106:901
+
+msgid "{Kazushi}\n\"Stop throwing up. Act straight!! If you still look that green, they'll hate you on first sight.\""
+msgstr ""
+
+#: 00106:904
+
+msgid "{Pierre}\n\"Shit, I'm getting a boner.\""
+msgstr ""
+
+#: 00106:910
+
+msgid "{Yagami}\n\"You guys really do have a lot of energy. Why don't you use that for a club or something?\""
+msgstr ""
+
+#: 00106:911
+
+msgid "{Kazushi}\n\"I'll think about it, Yagami-sensei.\""
+msgstr ""
+
+#: 00106:913
+
+msgid "Maybe that could work. Our destination is a garden of women, a girls boarding school with a proud history."
+msgstr ""
+
+#: 00106:914
+
+msgid "Playing tennis with a bunch of cute girls could be fun."
+msgstr ""
+
+#: 00106:921
+
+msgid "{Pierre}\n\"It's finally here. Look, there is where our destinies lie.\""
+msgstr ""
+
+#: 00106:922
+
+msgid "Pierre looked bright eyed at the island."
+msgstr ""
+
+#: 00106:923
+
+msgid "{Kazushi}\n\"You're right, Pierre.\""
+msgstr ""
+
+#: 00106:924
+
+msgid "All of us must think the same way, really. Our academy was threatened with closure when this all girls' school started enrolling boys."
+msgstr ""
+
+#: 00106:925
+
+msgid "I don't know why an all girls' school suddenly decided to enrol men, but apparently they changed their policy. It was perfect timing."
+msgstr ""
+
+#: 00106:926
+
+msgid "It was hard for us to imagine it was just a coincidence."
+msgstr ""
+
+#: 00106:929
+
+msgid "{Daigo}\n\"We're almost there.\""
+msgstr ""
+
+#: 00106:933
+
+msgid "Our boat entered the port. There were a lot of fishermen here. It looked like a pretty lively island."
+msgstr ""
+
+#: 00106:934
+
+msgid "{Fisherman A}\n\"Today was the one day I didn't want to be late, so I pushed her hard, and now look at her. She's a piece of junk!\""
+msgstr ""
+
+#: 00106:935
+
+msgid "{Fisherman B}\n\"C'mon, let's hurry up and fix her so we can set sail! Today's 'the day'.\""
+msgstr ""
+
+#: 00106:936
+
+msgid "{Fisherman A}\n\"You're right. Being late to dinner and getting yelled at by the wife is one thing, but we can't be late on 'the day'.\""
+msgstr ""
+
+#: 00106:937
+
+msgid "I kept overhearing people saying \"the day.\" I wonder what's going on that's so special?"
+msgstr ""
+
+#: 00106:938
+
+msgid "{Appo}\n\"Look at the smoke coming out of that boat!\""
+msgstr ""
+
+#: 00106:939
+
+msgid "That's a chug boat, right? The smokestack was putting out poisonous looking smoke."
+msgstr ""
+
+#: 00106:940
+
+msgid "{Pierre}\n\"You won't find an engine that old anywhere except in the boonies like here.\""
+msgstr ""
+
+#: 00106:941
+
+msgid "{Kazushi}\n\"I'm far more curious about what fuel it runs on than how old it is.\""
+msgstr ""
+
+#: 00106:942
+
+msgid "I was really worried about how safe it was to spread that smoke."
+msgstr ""
+
+#: 00106:943
+
+msgid "{Kazushi}\n\"Look, seagulls!\""
+msgstr ""
+
+#: 00106:944
+
+msgid "The seagulls were flocking around the boat. They weren't avoiding the smoke, they were enjoying it."
+msgstr ""
+
+#: 00106:945
+
+msgid "Perhaps that smoke smells good to them? Either way, I guess it's not harmful."
+msgstr ""
+
+#: 00106:946
+
+msgid "{Daigo}\n\"Oh...\""
+msgstr ""
+
+#: 00106:952
+
+msgid "After a little bump, our boat came to a stop. We were right alongside the pier. One of the crew hopped out and secured the boat with rope."
+msgstr ""
+
+#: 00106:953
+
+msgid "{Yagami}\n\"Everyone, we're here! Don't push, and step off the boat in an orderly fashion!\""
+msgstr ""
+
+#: 00106:954
+
+msgid "No one listened to his instructions as we all rushed to get off. We cut in line too."
+msgstr ""
+
+#: 00106:961
+
+msgid "{Pierre}\n\"This may be one small step for man, but one giant leap for...\""
+msgstr ""
+
+#: 00106:966
+
+msgid "{Appo}\n\"Move it!\""
+msgstr ""
+
+#: 00106:975
+
+msgid "{Appo}\n\"Woohoo!\nI'm here!\""
+msgstr ""
+
+#: 00106:976
+
+msgid "{Kazushi}\n\"Yeah!!\""
+msgstr ""
+
+#: 00106:982
+
+msgid "{Pierre}\n\"Nghh! ...Gggeh...\""
+msgstr ""
+
+#: 00106:988
+
+msgid "{Yagami}\n\"Guys, you're trampling your friend.\""
+msgstr ""
+
+#: 00106:996
+
+msgid "{Appo}\n\"Don't mind.\""
+msgstr ""
+
+#: 00106:997
+
+msgid "{Daigo}\n\"Don't mind.\""
+msgstr ""
+
+#: 00106:1003
+
+msgid "{Kazushi}\n\"We're finally here! Our new frontier!\""
+msgstr ""
+
+#: 00106:1004
+
+msgid "The brilliant sun shone down on us. Part of the island rose before us, as if it was stretching out towards the sky."
+msgstr ""
+
+#: 00106:1005
+
+msgid "On top of that peak stood a building that was probably our new school. It looked just like a foreign castle."
+msgstr ""
+
+#: 00106:1006
+
+msgid "{Kazushi}\n\"That's where my princess is waiting for me.\""
+msgstr ""
+
+#: 00106:1013
+
+msgid "{Pierre}\n\"Since when have you been a poet?\""
+msgstr ""
+
+#: 00106:1016
+
+msgid "{Appo}\n\"Kazushi is right! My princess awaits therein!\""
+msgstr ""
+
+#: 00106:1019
+
+msgid "{Daigo}\n\"My princess...\""
+msgstr ""
+
+#: 00106:1023
+
+msgid "It was almost like we'd entered a different country. Everything we saw looked so new to us."
+msgstr ""
+
+#: 00106:1024
+
+msgid "{Kazushi}\n\"Hey, girls!!\nI'll be there soon!!\""
+msgstr ""
+
+#: 00106:1025
+
+msgid "I couldn't resist the rising urge to shout."
+msgstr ""
+
+#: 00106:1032
+
+msgid "{Appo}\n\"I'll be there, too!!\""
+msgstr ""
+
+#: 00106:1033
+
+msgid "{Pierre}\n\"Do you hear me, kittens??\""
+msgstr ""
+
+#: 00106:1034
+
+msgid "{Daigo}\n\"Marry me!!\""
+msgstr ""
+
+#: 00106:1035
+
+msgid "Our screams echoed in the sky."
+msgstr ""
+
+#: 00106:1041
+
+msgid "{Yagami}\n\"You guys...\""
+msgstr ""
+
+#: 00106:1042
+
+msgid "His tone of voice went past anger and straight into shame."
+msgstr ""
+
+#: 00106:1046
+
+msgid "{Elegant Old Lady}\n\"My my, such energetic young lads.\""
+msgstr ""
+
+#: 00106:1047
+
+msgid "A refined lady with white-gray hair spoke as she walked towards us."
+msgstr ""
+
+#: 00106:1048
+
+msgid "She looked over us all with bright eyes."
+msgstr ""
+
+#: 00106:1051
+
+msgid "{Elegant Old Lady}\n\"My, my.\""
+msgstr ""
+
+#: 00106:1052
+
+msgid "I made eye contact with her.\nShe looked older than my mother, but her eyes were as clear as marbles."
+msgstr ""
+
+#: 00106:1053
+
+msgid "I don't know why, but those eyes made me feel uncomfortable. I averted my gaze."
+msgstr ""
+
+#: 00106:1058
+
+msgid "{Yagami}\n\"It's a pleasure to meet you. My name is Yagami, I'm in charge of these boys. The students and I are looking forward to working with you.\""
+msgstr ""
+
+#: 00106:1059
+
+msgid "The way that Yagami-sensei introduced himself told us that she was a higher ranked teacher than him."
+msgstr ""
+
+#: 00106:1062
+
+msgid "{Yagami}\n\"This is Principal Aozora Hisae, head of this academy. Say hello, everyone.\""
+msgstr ""
+
+#: 00106:1063
+
+msgid "{Boys}\n\"Nice to meet you, Ma'am.\""
+msgstr ""
+
+#: 00106:1064
+
+msgid "Our greeting echoed over the island. The principle put on an elegant smile and laughed like a little girl."
+msgstr ""
+
+#: 00106:1069
+
+msgid "{Principal}\n\"Thank you all for coming to this distant island. Welcome to Eiden Island.\""
+msgstr ""
+
+#: 00106:1070
+
+msgid "{Principal}\n\"On behalf of all the teachers and students, I welcome you to our academy.\""
+msgstr ""
+
+#: 00106:1071
+
+msgid "The guys all heaved deep sighs at her elegant greeting. We had never been greeted so kindly before."
+msgstr ""
+
+#: 00106:1072
+
+msgid "This must be what women are like in a garden of women."
+msgstr ""
+
+#: 00106:1078
+
+msgid "{Appo}\n\"I'll take that one! We're bound by destiny! I'm gonna marry her!\""
+msgstr ""
+
+#: 00106:1079
+
+msgid "{Kazushi}\n\"Whoa, whoa, hold on man! You're being too hasty.\""
+msgstr ""
+
+#: 00106:1080
+
+msgid "{Daigo}\n\"Don't you think she might have three or four 16 year old granddaughters?\""
+msgstr ""
+
+#: 00106:1087
+
+msgid "{Yagami}\n\"Hey, pipe down you guys. Don't embarrass me the moment we arrive.\""
+msgstr ""
+
+#: 00106:1088
+
+msgid "We got quiet after Mr. Yagami told us off.\nStill, we couldn't help but whisper about what was going to happen from now on."
+msgstr ""
+
+#: 00106:1095
+
+msgid "{Pierre}\n(Hey, I think we're in a tight spot.)"
+msgstr ""
+
+#: 00106:1096
+
+msgid "{Appo}\n(We can't do anything if Yagami-sensei has his eyes on us.)"
+msgstr ""
+
+#: 00106:1097
+
+msgid "{Kazushi}\n(Shall we ditch him and go?)"
+msgstr ""
+
+#: 00106:1101
+
+msgid "{Daigo}\n(That's dangerous. Who knows what'll happen if he finds out.)"
+msgstr ""
+
+#: 00106:1102
+
+msgid "We had to plan our strategy carefully while the Principal and Mr. Yagami were talking."
+msgstr ""
+
+#: 00106:1105
+
+msgid "{Appo}\n(I can't wait any longer. They're introducing us to the girls after this, right?)"
+msgstr ""
+
+#: 00106:1108
+
+msgid "{Appo}\n(Look at all the guys with us. If we behave and watch out for Yagami, we'll just get buried in the crowd.)"
+msgstr ""
+
+#: 00106:1109
+
+msgid "{Kazushi}\n(That's right!\nFirst impressions are everything!)"
+msgstr ""
+
+#: 00106:1113
+
+msgid "{Pierre}\n\"Should we go, then?\""
+msgstr ""
+
+#: 00106:1117
+
+msgid "{Daigo}\n\"Go?\nWhere are we going to go?\""
+msgstr ""
+
+#: 00106:1118
+
+msgid "{Kazushi}\n\"Quietly now. If they find out, we won't get off easy.\""
+msgstr ""
+
+#: 00106:1122
+
+msgid "{Appo}\n\"We can do it.\nIt's nothing like what we've done in the past.\""
+msgstr ""
+
+#: 00106:1123
+
+msgid "We looked around.\nEverybody was focused on the principal."
+msgstr ""
+
+#: 00106:1128
+
+msgid "{Principal}\n\"Now, allow me to give you a tour of the academy. It's a bit of walk, but please try not to get separated. There are some dangerous places on this island.\""
+msgstr ""
+
+#: 00106:1129
+
+msgid "They were about to start moving. The whole group was brimming with excitement. If we're ditching them, now's the time."
+msgstr ""
+
+#: 00106:1133
+
+msgid "{Yagami}\n\"All right, let's get moving. Stay in line!\""
+msgstr ""
+
+#: 00106:1135
+
+msgid "We went to the back of the line."
+msgstr ""
+
+#: 00106:1142
+
+msgid "{Pierre}\n\"Okay, now's our chance. Let's slip out while they move.\""
+msgstr ""
+
+#: 00106:1143
+
+msgid "{Kazushi}\n\"One...two...NOW!\""
+msgstr ""
+
+#: 00106:1152
+
+msgid "{Kazushi}\n\"This island is pretty prosperous.\""
+msgstr ""
+
+#: 00106:1153
+
+msgid "That was my first impression. There were plenty of stores, and even traffic lights too. The cars were strange, but they were there."
+msgstr ""
+
+#: 00106:1158
+
+msgid "{Pierre}\n\"Is that a bus?\""
+msgstr ""
+
+#: 00106:1159
+
+msgid "{Daigo}\n\"I think it's a trolley.\""
+msgstr ""
+
+#: 00106:1160
+
+msgid "{Kazushi}\n\"But look at those exhaust fumes. That's not electric.\""
+msgstr ""
+
+#: 00106:1163
+
+msgid "Even though it said \"environmentally friendly\" on the body, it put out a lot of green and pink fumes, just like the boat we had seen in the port."
+msgstr ""
+
+#: 00106:1166
+
+msgid "{Appo}\n\"Look over there! That's all fish!\""
+msgstr ""
+
+#: 00106:1168
+
+msgid "There was a huge pile of tuna on the back of that strange three-wheeled truck waiting for the stoplight. They looked like they were ready to fall out."
+msgstr ""
+
+#: 00106:1175
+
+msgid "{Pierre}\n\"They can catch tuna on this island? I can't wait to see our lunches. I bet we can eat a ton of fresh fish!\""
+msgstr ""
+
+#: 00106:1178
+
+msgid "{Daigo}\n\"Check out that grocery store.\""
+msgstr ""
+
+#: 00106:1180
+
+msgid "We saw tons of fresh fruits and vegetables in the store."
+msgstr ""
+
+#: 00106:1181
+
+msgid "The onions were the size of a person's head. Beneath the blossoms of some hydroponic tulips there were some ripe cucumbers and other strange fresh vegetables."
+msgstr ""
+
+#: 00106:1182
+
+msgid "{Kazushi}\n\"Fresh mountain and ocean produce.\nWe've really come to a good place.\""
+msgstr ""
+
+#: 00106:1185
+
+msgid "{Pierre}\n\"Now this is an isolated island in the distant seas! They catch strange things to eat. I haven't even seen most of these.\""
+msgstr ""
+
+#: 00106:1187
+
+msgid "{Grocery Store Worker}\n\"Are you kids the ones who came here to study?\""
+msgstr ""
+
+#: 00106:1188
+
+msgid "A laid back man started talking to us."
+msgstr ""
+
+#: 00106:1195
+
+msgid "{Kazushi}\n\"Yes, we are. Nice to meet you!\""
+msgstr ""
+
+#: 00106:1196
+
+msgid "{Grocery Store Worker}\n\"I knew it!\nHere, take this!\""
+msgstr ""
+
+#: 00106:1197
+
+msgid "He tossed us some huge bulbs of garlic. They were as big as watermelons. They hit our chests with a heavy thud."
+msgstr ""
+
+#: 00106:1200
+
+msgid "{Appo}\n\"This is for us?\""
+msgstr ""
+
+#: 00106:1201
+
+msgid "{Grocery Store Worker}\n\"Sure is. Everybody on this island loves that school.\""
+msgstr ""
+
+#: 00106:1202
+
+msgid "{Grocery Store Worker}\n\"That school's what helps my produce grow so well. Eat that for some energy so you can study hard.\""
+msgstr ""
+
+#: 00106:1203
+
+msgid "{Kazushi}\n\"Thank you very much.\""
+msgstr ""
+
+#: 00106:1204
+
+msgid "{Daigo}\n\"I wonder what the academy has to do with that grocery store?\""
+msgstr ""
+
+#: 00106:1205
+
+msgid "{Kazushi}\n\"Maybe they have a good agricultural program or something.\""
+msgstr ""
+
+#: 00106:1206
+
+msgid "{Pierre}\n\"Or maybe the school buys a lot of food from the local stores.\""
+msgstr ""
+
+#: 00106:1209
+
+msgid "{Appo}\n\"Hey!\nAre there any pretty girls at that school?\""
+msgstr ""
+
+#: 00106:1210
+
+msgid "{Grocery Store Worker}\n\"Oh yes!! You'll see a bunch of them.\""
+msgstr ""
+
+#: 00106:1217
+
+msgid "{Boys}\n\"Woohoo!\""
+msgstr ""
+
+#: 00106:1218
+
+msgid "{Grocery Store Worker}\n\"I still think the best looking one is the principal, Hisae-san.\nShe was truly beautiful when she was younger.\""
+msgstr ""
+
+#: 00106:1225
+
+msgid "{Pierre}\n\"Are we talking about the same principal?\""
+msgstr ""
+
+#: 00106:1226
+
+msgid "{Kazushi}\n\"Yup. Appo's wife.\""
+msgstr ""
+
+#: 00106:1229
+
+msgid "{Appo}\n\"Wait!\nI take that back!!\""
+msgstr ""
+
+#: 00106:1230
+
+msgid "{Grocery Store Worker}\n\"Her granddaughter goes to that school, too.\nGive that girl a bit of time, and I bet she'll look as beautiful as Hisae-san did.\""
+msgstr ""
+
+#: 00106:1231
+
+msgid "He stared off into the distance. I think the principal must have been really beautiful back in their day."
+msgstr ""
+
+#: 00106:1238
+
+msgid "{Pierre}\n\"The Principal's granddaughter, huh? I bet she's strict.\""
+msgstr ""
+
+#: 00106:1239
+
+msgid "{Daigo}\n\"I bet she wears glasses. But that's hot too!\""
+msgstr ""
+
+#: 00106:1240
+
+msgid "{Appo}\n\"Any sexy young teachers?\""
+msgstr ""
+
+#: 00106:1241
+
+msgid "{Grocery Store Worker}\n\"Sure. She's only been out of college for a few years. She used to be a student at this academy, but she came back to teach.\""
+msgstr ""
+
+#: 00106:1242
+
+msgid "{Grocery Store Worker}\n\"She wasn't very impressive then, but now she's a total hottie.\""
+msgstr ""
+
+#: 00106:1245
+
+msgid "{Appo}\n\"What about her tits?!\""
+msgstr ""
+
+#: 00106:1246
+
+msgid "{Grocery Store Worker}\n\"About the same size as my melons here.\""
+msgstr ""
+
+#: 00106:1251
+
+msgid "{Kazushi}\n\"That means they're the size of watermelons!!\""
+msgstr ""
+
+#: 00106:1252
+
+msgid "{Appo}\n\"Wow! Watermelons! Watermelons! Watermelons! Watermelons! Melons! Melons! Thank you very much!\""
+msgstr ""
+
+#: 00106:1253
+
+msgid "{Pierre}\n\"Hey, now. Don't claim her for yourself! I might even...\""
+msgstr ""
+
+#: 00106:1256
+
+msgid "{Appo}\n\"I'll put my mark on her before anyone else can!\""
+msgstr ""
+
+#: 00106:1260
+
+msgid "Appo started running off."
+msgstr ""
+
+#: 00106:1261
+
+msgid "{Pierre}\n\"Wait up!!\""
+msgstr ""
+
+#: 00106:1265
+
+msgid "Pierre started chasing him."
+msgstr ""
+
+#: 00106:1266
+
+msgid "{Kazushi}\n\"Hey, guys, wait up!\""
+msgstr ""
+
+#: 00106:1267
+
+msgid "{Grocery Store Worker}\n\"Ahahahahaha! That's how young men should be!\""
+msgstr ""
+
+#: 00106:1270
+
+msgid "{Daigo}\n\"I'm sorry. We can be pretty stupid sometimes.\""
+msgstr ""
+
+#: 00106:1271
+
+msgid "{Grocery Store Worker}\n\"Don't worry about it! That's how healthy boys should be! It might take you a while to get used to this place, but good luck!\""
+msgstr ""
+
+#: 00106:1274
+
+msgid "{Kazushi}\n\"It was nice to meet you.\""
+msgstr ""
+
+#: 00106:1275
+
+msgid "The people here are nice and there's lots of hot girls. I think I'm gonna like it here."
+msgstr ""
+
+#: 00106:1282
+
+msgid "We had to walk all the way up the hill to get to the school.\nThe houses in the surrounding area were pretty old."
+msgstr ""
+
+#: 00106:1287
+
+msgid "{Pierre}\n\"Are you sure this is the right way?\""
+msgstr ""
+
+#: 00106:1288
+
+msgid "{Appo}\n\"Won't it be shorter to cut through this way?\""
+msgstr ""
+
+#: 00106:1289
+
+msgid "{Kazushi}\n\"Maybe. Want to try?\""
+msgstr ""
+
+#: 00106:1293
+
+msgid "{Daigo}\n\"Forget it, guys. We'll just get lost.\""
+msgstr ""
+
+#: 00106:1298
+
+msgid "{Pierre}\n\"Hey guys, what's that?\""
+msgstr ""
+
+#: 00106:1300
+
+msgid "Pierre was looking up at the sky."
+msgstr ""
+
+#: 00106:1301
+
+msgid "We saw part of a building up on the hill."
+msgstr ""
+
+#: 00106:1302
+
+msgid "{Kazushi}\n\"Huh? Is that the academy? Are we almost there?\""
+msgstr ""
+
+#: 00106:1305
+
+msgid "{Daigo}\n\"The academy's over there.\""
+msgstr ""
+
+#: 00106:1306
+
+msgid "Daigo pointed to the castle-like building at the peak of this mountain. It was a long ways above us."
+msgstr ""
+
+#: 00106:1311
+
+msgid "{Appo}\n\"What do you think that building is, then?\""
+msgstr ""
+
+#: 00106:1318
+
+msgid "{Pierre}\n\"It's kinda weird seeing such a modern building here. Let's check it out.\""
+msgstr ""
+
+#: 00106:1324
+
+msgid "We could see the whole building after making a quick turn."
+msgstr ""
+
+#: 00106:1325
+
+msgid "{Kazushi}\n\"What the--\""
+msgstr ""
+
+#: 00106:1326
+
+msgid "It was actually a huge gate."
+msgstr ""
+
+#: 00106:1329
+
+msgid "{Appo}\n\"What's this huge gate for?\""
+msgstr ""
+
+#: 00106:1335
+
+msgid "{Pierre}\n\"Could this be part of our new school?\""
+msgstr ""
+
+#: 00106:1336
+
+msgid "{Daigo}\n\"Can't be. It's still a serious hike from here to the school.\""
+msgstr ""
+
+#: 00106:1337
+
+msgid "Daigo was right. Our school remained a good walk from where we were. The gate, meanwhile, had some weird marks written on it. It was very suspicious."
+msgstr ""
+
+#: 00106:1342
+
+msgid "{Appo}\n\"It looks like the gateway to heaven.\""
+msgstr ""
+
+#: 00106:1343
+
+msgid "{Kazushi}\n\"Or the gateway down to hell.\""
+msgstr ""
+
+#: 00106:1344
+
+msgid "It looked kind of scary to me."
+msgstr ""
+
+#: 00106:1347
+
+msgid "{Appo}\n\"Right, I'm going in first!\""
+msgstr ""
+
+#: 00106:1348
+
+msgid "Appo marched through without hesitating."
+msgstr ""
+
+#: 00106:1349
+
+msgid "{Appo}\n\"Since I went through it first that means I get first dibs on a girl, OK?\""
+msgstr ""
+
+#: 00106:1350
+
+msgid "{Kazushi}\n\"Since when did we agree on that?\""
+msgstr ""
+
+#: 00106:1354
+
+msgid "{Pierre}\n\"I'm the second!\""
+msgstr ""
+
+#: 00106:1359
+
+msgid "{Daigo}\n\"Hold it.\""
+msgstr ""
+
+#: 00106:1360
+
+msgid "Daigo stopped Pierre right before he passed through the gate."
+msgstr ""
+
+#: 00106:1361
+
+msgid "{Pierre}\n\"Let go of me. I said I'm the second!\""
+msgstr ""
+
+#: 00106:1362
+
+msgid "{Daigo}\n\"That's not fair!\""
+msgstr ""
+
+#: 00106:1363
+
+msgid "{Pierre}\n\"Appo started it!\""
+msgstr ""
+
+#: 00106:1364
+
+msgid "{Kazushi}\n\"That one's null. We're doing this again on the count of three.\""
+msgstr ""
+
+#: 00106:1369
+
+msgid "{Appo}\n\"No we won't! I was first!\""
+msgstr ""
+
+#: 00106:1370
+
+msgid "Appo started running."
+msgstr ""
+
+#: 00106:1374
+
+msgid "{Daigo}\n\"Hey! Wait!\""
+msgstr ""
+
+#: 00106:1380
+
+msgid "{Appo}\n\"Yahoo!\""
+msgstr ""
+
+#: 00106:1381
+
+msgid "Appo rushed off with agile movements, like his limiter had been released, until we started to lose sight of him."
+msgstr ""
+
+#: 00106:1385
+
+msgid "{Pierre}\n\"Shit! After him! After him! He's gonna steal all the girls!\""
+msgstr ""
+
+#: 00106:1386
+
+msgid "{Kazushi}\n\"Get back here, you!\""
+msgstr ""
+
+#: 00106:1397
+
+msgid "{Appo}\n\"Hah, hah, hah....Ugh...I feel sick...\""
+msgstr ""
+
+#: 00106:1398
+
+msgid "Appo ran out of breath and we caught up in no time."
+msgstr ""
+
+#: 00106:1403
+
+msgid "{Pierre}\n\"You thought that'd work when you have the least stamina of all of us?\""
+msgstr ""
+
+#: 00106:1408
+
+msgid "{Daigo}\n\"Oi! Come and take a look at this!\""
+msgstr ""
+
+#: 00106:1410
+
+msgid "Daigo peered through the bushes down the cliff. We were shocked by what we found."
+msgstr ""
+
+#: 00106:1411
+
+msgid "{Kazushi}\n\"Stairs?\nLooks like they lead down to the ocean.\""
+msgstr ""
+
+#: 00106:1412
+
+msgid "They stairs continued down so far that we couldn't see where they ended."
+msgstr ""
+
+#: 00106:1417
+
+msgid "{Pierre}\n\"You don't think they go to the bottom of the ocean, do you?\""
+msgstr ""
+
+#: 00106:1418
+
+msgid "{Daigo}\n\"Why would they? For mermaids?\""
+msgstr ""
+
+#: 00106:1419
+
+msgid "{Kazushi}\n\"I thought mermaids lived underwater?\""
+msgstr ""
+
+#: 00106:1426
+
+msgid "{Appo}\n\"But there has to be a reason for these stairs. Kazushi, go down and look.\""
+msgstr ""
+
+#: 00106:1427
+
+msgid "{Kazushi}\n\"Sure, I'll be right back. ...Hey, wait?! How am I supposed to do that?!\""
+msgstr ""
+
+#: 00106:1432
+
+msgid "{Pierre}\n\"Hey, Appo, why don't you go--\""
+msgstr ""
+
+#: 00106:1435
+
+msgid "{Appo}\n\"Huh? No! Stop!\""
+msgstr ""
+
+#: 00106:1439
+
+msgid "They both started carrying Appo over. Appo was small enough for Daigo to easily carry him by himself."
+msgstr ""
+
+#: 00106:1440
+
+msgid "{Appo}\n\"No! Seriously!\""
+msgstr ""
+
+#: 00106:1441
+
+msgid "{Kazushi}\n\"Geez, don't hurt him.\""
+msgstr ""
+
+#: 00106:1442
+
+msgid "{???}\n\"Ah!\""
+msgstr ""
+
+#: 00106:1443
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 00106:1444
+
+msgid "I thought I was dreaming. There was a rocky area jutting out nearby. A mermaid was actually sitting on the rocks."
+msgstr ""
+
+#: 00106:1448
+
+msgid "{Kazushi}\n\"Seriously?\""
+msgstr ""
+
+#: 00106:1450
+
+msgid "{Mermaid?}\n\"......\""
+msgstr ""
+
+#: 00106:1451
+
+msgid "{Kazushi}\n\"You're kidding me? ...Wait, are mermaids supposed to be naked?!\""
+msgstr ""
+
+#: 00106:1452
+
+msgid "She was NAKED. I mean, look at those boobs! Those boobs! Bare breasts beneath the bright sun!"
+msgstr ""
+
+#: 00106:1453
+
+msgid "Don't mermaids use seashells or something?! I could see her nipples! Wow, is it alright to see so much!?"
+msgstr ""
+
+#: 00106:1454
+
+msgid "{Mermaid?}\n\"------!!\""
+msgstr ""
+
+#: 00106:1459
+
+msgid "{Kazushi}\n\"She ran away!\""
+msgstr ""
+
+#: 00106:1460
+
+msgid "She slipped right back into the ocean."
+msgstr ""
+
+#: 00106:1461
+
+msgid "{Kazushi}\n\"Shit, she caught me eye-raping her.\""
+msgstr ""
+
+#: 00106:1468
+
+msgid "{Daigo}\n\"What happened, Kazushi?\""
+msgstr ""
+
+#: 00106:1469
+
+msgid "{Appo}\n\"What the hell are you doing!?\nGive me some help, here!\""
+msgstr ""
+
+#: 00106:1470
+
+msgid "{Kazushi}\n\"Oh, sorry.\nI was just watching a mermaid.\""
+msgstr ""
+
+#: 00106:1475
+
+msgid "{Daigo}\n\"A mermaid? Are you serious?\""
+msgstr ""
+
+#: 00106:1476
+
+msgid "Daigo finally let go of Appo."
+msgstr ""
+
+#: 00106:1481
+
+msgid "{Pierre}\n\"Idiot. Mermaids don't exist.\""
+msgstr ""
+
+#: 00106:1482
+
+msgid "{Kazushi}\n\"No, she was there. She was beautiful too. And no bra either.\""
+msgstr ""
+
+#: 00106:1487
+
+msgid "{Appo}\n\"NO BRA!?\nYou mean you got to see her tits!?\""
+msgstr ""
+
+#: 00106:1488
+
+msgid "{Kazushi}\n\"Yup.\""
+msgstr ""
+
+#: 00106:1491
+
+msgid "{Appo}\n\"Seriously!?\nWhere is she?\""
+msgstr ""
+
+#: 00106:1492
+
+msgid "{Kazushi}\n\"She's gone.\""
+msgstr ""
+
+#: 00106:1495
+
+msgid "{Appo}\n\"Dumbass! Why didn't you tell us sooner!\""
+msgstr ""
+
+#: 00106:1496
+
+msgid "{Kazushi}\n\"She was only there for a second.\""
+msgstr ""
+
+#: 00106:1503
+
+msgid "{Pierre}\n\"Are you sure? You didn't mistake something else for a mermaid did you? You know, what's that...\""
+msgstr ""
+
+#: 00106:1506
+
+msgid "{Appo}\n\"You mean a sea lion? You've got to be pretty stupid to mistake that for a mermaid.\""
+msgstr ""
+
+#: 00106:1507
+
+msgid "{Kazushi}\n\"I'm telling you it was a mermaid. She ran away when we made eye contact.\""
+msgstr ""
+
+#: 00106:1510
+
+msgid "{Pierre}\n\"Seriously? You sure it wasn't just a naked girl then?\""
+msgstr ""
+
+#: 00106:1511
+
+msgid "{Kazushi}\n\"....or that...\""
+msgstr ""
+
+#: 00106:1512
+
+msgid "It could've been just a girl. I don't think mermaids exist."
+msgstr ""
+
+#: 00106:1515
+
+msgid "{Appo}\n\"Hey! Where'd that girl go?!\""
+msgstr ""
+
+#: 00106:1516
+
+msgid "{Kazushi}\n\"She swam off into the ocean behind that rock.\""
+msgstr ""
+
+#: 00106:1519
+
+msgid "{Pierre}\n\"Where? I don't see her!\""
+msgstr ""
+
+#: 00106:1520
+
+msgid "{Kazushi}\n\"She's under water.\""
+msgstr ""
+
+#: 00106:1521
+
+msgid "{Pierre}\n\"Then she's got to surface sooner or later. No human can hold their breath that long.\""
+msgstr ""
+
+#: 00106:1524
+
+msgid "{Appo}\n\"That's right!\nCome out, come out, wherever you are!\""
+msgstr ""
+
+#: 00106:1528
+
+msgid "We all stared at the surface of the water."
+msgstr ""
+
+#: 00106:1529
+
+msgid "One minute."
+msgstr ""
+
+#: 00106:1530
+
+msgid "Two minutes."
+msgstr ""
+
+#: 00106:1531
+
+msgid "......nothing."
+msgstr ""
+
+#: 00106:1538
+
+msgid "{Pierre}\n\"She's not coming up!\""
+msgstr ""
+
+#: 00106:1539
+
+msgid "{Kazushi}\n\"This is really weird. It's been at least three minutes by now.\""
+msgstr ""
+
+#: 00106:1540
+
+msgid "{Appo}\n\"How can anyone hold their breath for so long?\""
+msgstr ""
+
+#: 00106:1541
+
+msgid "{Daigo}\n\"Maybe she was a real mermaid?\""
+msgstr ""
+
+#: 00106:1544
+
+msgid "{Pierre}\n\"She didn't drown, did she?\""
+msgstr ""
+
+#: 00106:1545
+
+msgid "{Kazushi}\n\"No way...\""
+msgstr ""
+
+#: 00106:1549
+
+msgid "One more minute.\nTwo more--\nIt's been five minutes."
+msgstr ""
+
+#: 00106:1556
+
+msgid "{Appo}\n\"This is bad. This is very bad.\""
+msgstr ""
+
+#: 00106:1557
+
+msgid "{Pierre}\n\"She must have drowned!\""
+msgstr ""
+
+#: 00106:1558
+
+msgid "{Kazushi}\n\"This is horrible! We've got to help her!\""
+msgstr ""
+
+#: 00106:1559
+
+msgid "{Daigo}\n\"I'll go get some help.\""
+msgstr ""
+
+#: 00106:1563
+
+msgid "As Daigo got ready to bolt, he froze in his footsteps."
+msgstr ""
+
+#: 00106:1566
+
+msgid "{Pierre}\n\"What are you doing?\nI thought you were going to run for help!\""
+msgstr ""
+
+#: 00106:1567
+
+msgid "We heard a blood-curdling scream from Pierre."
+msgstr ""
+
+#: 00106:1568
+
+msgid "{Kazushi}\n\"What's going on... Oh!?\""
+msgstr ""
+
+#: 00106:1569
+
+msgid "I turned around as I was about to take my clothes off, and let out a cry. That was a shock!"
+msgstr ""
+
+#: 00106:1575
+
+msgid "That thing was really strange!"
+msgstr ""
+
+#: 00106:1576
+
+msgid "{Kazushi}\n\"A signpost?\""
+msgstr ""
+
+#: 00106:1577
+
+msgid "{Signpost}\n\"Unauthorized personnel forbidden. Danger. Leave.\""
+msgstr ""
+
+#: 00106:1585
+
+msgid "{Appo}\n\"I-i-it's talking sign language!!\""
+msgstr ""
+
+#: 00106:1591
+
+msgid "{Signpost}\n\"Pay fine. Pay fine.\""
+msgstr ""
+
+#: 00106:1599
+
+msgid "{Pierre}\n\"It's walking and talking?!\""
+msgstr ""
+
+#: 00106:1600
+
+msgid "{Kazushi}\n\"What is this place!?\""
+msgstr ""
+
+#: 00106:1601
+
+msgid "The signpost was closing in on us. Why the hell is a signpost after us?!"
+msgstr ""
+
+#: 00106:1607
+
+msgid "{Signpost}\n\"Leave. Pay fine.\""
+msgstr ""
+
+#: 00106:1615
+
+msgid "{Appo}\n\"Everybody run!!\""
+msgstr ""
+
+#: 00106:1619
+
+msgid "Appo was running and screaming at the same time."
+msgstr ""
+
+#: 00106:1620
+
+msgid "{Pierre}\n\"Wait for us!\""
+msgstr ""
+
+#: 00106:1627
+
+msgid "Pierre and Daigo followed Appo."
+msgstr ""
+
+#: 00106:1630
+
+msgid "{Signpost}\n\"Pay the fine.\""
+msgstr ""
+
+#: 00106:1631
+
+msgid "{Kazushi}\n\"What does it want from us!?\""
+msgstr ""
+
+#: 00106:1636
+
+msgid "Fear got the best of me and I beat it. I ran as fast as I could."
+msgstr ""
+
+#: 00106:1638
+
+msgid "{Signpost}\n\"Halt! Halt!\""
+msgstr ""
+
+#: 00106:1639
+
+msgid "{Kazushi}\n\"It's chasing after us!\""
+msgstr ""
+
+#: 00106:1640
+
+msgid "Not only could it run, it was running faster than we were!"
+msgstr ""
+
+#: 00106:1641
+
+msgid "{Appo}\n\"What the hell?! Why is a signpost chasing us?!\""
+msgstr ""
+
+#: 00106:1642
+
+msgid "{Daigo}\n\"There is something seriously wrong with this island!\""
+msgstr ""
+
+#: 00106:1643
+
+msgid "{Kazushi}\n\"Now do you believe I saw a mermaid?!\""
+msgstr ""
+
+#: 00106:1644
+
+msgid "{Appo}\n\"Definitely! A mermaid sounds a lot more realistic than a living sign board!\""
+msgstr ""
+
+#: 00106:1645
+
+msgid "{Pierre}\n\"Who cares about that! It's catching up to us! Let's split up!\""
+msgstr ""
+
+#: 00106:1646
+
+msgid "{Kazushi}\n\"I'm going this way!\""
+msgstr ""
+
+#: 00106:1647
+
+msgid "{Signpost}\n\"Halt! Halt!\""
+msgstr ""
+
+#: 00106:1648
+
+msgid "{Kazushi}\n\"No, not me, them!\""
+msgstr ""
+
+#: 00106:1649
+
+msgid "{Appo}\n\"We're going this way!\""
+msgstr ""
+
+#: 00106:1650
+
+msgid "{Daigo}\n\"Sorry, Kazushi!\""
+msgstr ""
+
+#: 00106:1651
+
+msgid "They went the other way."
+msgstr ""
+
+#: 00106:1658
+
+msgid "{Kazushi}\n\"Heartless cowards!!\""
+msgstr ""
+
+#: 00106:1659
+
+msgid "The sign board was closing in on me."
+msgstr ""
+
+#: 00106:1660
+
+msgid "{Signpost}\n\"Halt! Go slow.\""
+msgstr ""
+
+#: 00106:1661
+
+msgid "{Kazushi}\n\"Hyah! I'm scared! I'm scared, Mommy!\""
+msgstr ""
+
+#: 00106:1662
+
+msgid "There is definitely something wrong with this island!"
+msgstr ""
+
+#: 00106:1668
+
+msgid "{Kazushi}\n\"Hah, hah, hah!\""
+msgstr ""
+
+#: 00106:1669
+
+msgid "{Kazushi}\n\"I-is it still?\""
+msgstr ""
+
+#: 00106:1672
+
+msgid "{Kazushi}\n\"SHIT! It is!\""
+msgstr ""
+
+#: 00106:1673
+
+msgid "{Signpost}\n\"Halt! Halt!\""
+msgstr ""
+
+#: 00106:1674
+
+msgid "{Kazushi}\n\"Are you insane? Of course I'm not going to stop!!\""
+msgstr ""
+
+#: 00106:1675
+
+msgid "I don't know what it'll do to me if I stop! I can't let myself stop! I'm not going to lose a contest of stamina!"
+msgstr ""
+
+#: 00106:1682
+
+msgid "{Signpost}\n\"Halt. Halt.\""
+msgstr ""
+
+#: 00106:1684
+
+msgid "{Kazushi}\n\"I-I'm done for...\""
+msgstr ""
+
+#: 00106:1685
+
+msgid "It started closing the gap.\nI knew I should have worked out more lately."
+msgstr ""
+
+#: 00106:1686
+
+msgid "{Kazushi}\n\"I swear I'll join a sports club if I survive!\""
+msgstr ""
+
+#: 00106:1687
+
+msgid "And of course this was all uphill. Even a marathon runner would slow down."
+msgstr ""
+
+#: 00106:1690
+
+msgid "{Signpost}\n\"Halt. Suspend your action.\""
+msgstr ""
+
+#: 00106:1691
+
+msgid "{Kazushi}\n\"I forgot! Machines don't get tired!\""
+msgstr ""
+
+#: 00106:1692
+
+msgid "But is it really a machine?\nIt looks like it's alive."
+msgstr ""
+
+#: 00106:1694
+
+msgid "{Kazushi}\n\"Either way, this is REALLY FRICKIN' WERID!\""
+msgstr ""
+
+#: 00106:1695
+
+msgid "{???}\n\"Hey! Something bothering you?\""
+msgstr ""
+
+#: 00106:1696
+
+msgid "{Kazushi}\n\"Are you blind?! Of course there is!!\""
+msgstr ""
+
+#: 00106:1697
+
+msgid "{???}\n\"Want me to do something for you?\""
+msgstr ""
+
+#: 00106:1698
+
+msgid "{Kazushi}\n\"Something?\""
+msgstr ""
+
+#: 00106:1699
+
+msgid "Who am I talking to?"
+msgstr ""
+
+#: 00106:1700
+
+msgid "I looked up at where the voice was coming from."
+msgstr ""
+
+#: 00106:1703
+
+msgid "{Girl in the Tree}\n\"I'm up here.\nHe can't climb, you know.\""
+msgstr ""
+
+#: 00106:1704
+
+msgid "She was telling me to get up in the tree."
+msgstr ""
+
+#: 00106:1705
+
+msgid "{Kazushi}\n\"Who are you!?\""
+msgstr ""
+
+#: 00106:1706
+
+msgid "It was a girl. She was wearing a uniform I hadn't seen before. Was it Eiden Academy's uniform?"
+msgstr ""
+
+#: 00106:1707
+
+msgid "Does that mean she goes to our school?"
+msgstr ""
+
+#: 00106:1708
+
+msgid "{Girl in the Tree}\n\"Don't just stand there, hurry up!\""
+msgstr ""
+
+#: 00106:1709
+
+msgid "{Kazushi}\n\"Right!\""
+msgstr ""
+
+#: 00106:1710
+
+msgid "I desperately grabbed onto the tree and shimmied up the trunk. A hand was held out before me. I grabbed it."
+msgstr ""
+
+#: 00106:1711
+
+msgid "Her hand was small and soft.\nIt made me wonder: when WAS the last time I got to hold a girl's hand?"
+msgstr ""
+
+#: 00106:1712
+
+msgid "{Girl in the Tree}\n\"There you go!\""
+msgstr ""
+
+#: 00106:1713
+
+msgid "{Kazushi}\n\"Wah! Whoa!\""
+msgstr ""
+
+#: 00106:1716
+
+msgid "I almost fell down, but somehow managed to settle in between branches."
+msgstr ""
+
+#: 00106:1719
+
+msgid "{Kazushi}\n\"Phew. You saved me. Thanks a lot.\""
+msgstr ""
+
+#: 00106:1722
+
+msgid "{Girl in the Tree}\n\"You don't have to thank me. Now then.\""
+msgstr ""
+
+#: 00106:1723
+
+msgid "She held her hand out again. Her small, soft looking hand."
+msgstr ""
+
+#: 00106:1725
+
+msgid "I gave her a handshake."
+msgstr ""
+
+#: 00106:1728
+
+msgid "{Girl in the Tree}\n\"What are you doing!?\""
+msgstr ""
+
+#: 00106:1730
+
+msgid "Slap!"
+msgstr ""
+
+#: 00106:1731
+
+msgid "She slapped my hand away. I felt wounded."
+msgstr ""
+
+#: 00106:1732
+
+msgid "{Girl in the Tree}\n\"That's not what I'm asking for. You would've died without my help, you know.\""
+msgstr ""
+
+#: 00106:1733
+
+msgid "{Kazushi}\n\"You mean that thing was going to kill me?\""
+msgstr ""
+
+#: 00106:1736
+
+msgid "{Girl in the Tree}\n\"Yeah it would've. It's a killing machine designed by this academy to eliminate any and all intruders.\""
+msgstr ""
+
+#: 00106:1737
+
+msgid "{Kazushi}\n\"That thing's a killing machine?!\""
+msgstr ""
+
+#: 00106:1738
+
+msgid "{Signpost}\n\"Halt. Halt.\""
+msgstr ""
+
+#: 00106:1739
+
+msgid "It was staring up at us from the tree's roots. Looks like she was right; it couldn't climb up here."
+msgstr ""
+
+#: 00106:1740
+
+msgid "{Kazushi}\n\"What does a school need with a killer sign board on patrol?\""
+msgstr ""
+
+#: 00106:1743
+
+msgid "{Girl in the Tree}\n\"You don't know?\""
+msgstr ""
+
+#: 00106:1744
+
+msgid "{Kazushi}\n\"I don't know anything!\nWe just arrived this morning!\""
+msgstr ""
+
+#: 00106:1747
+
+msgid "{Girl in the Tree}\n\"I suppose so. You're one of the boys who just came here, right?\""
+msgstr ""
+
+#: 00106:1748
+
+msgid "She smiled.\nHow could she smile under circumstances like these?"
+msgstr ""
+
+#: 00106:1751
+
+msgid "{Girl in the Tree}\n\"Well then, you're definitely going to need my help in the future.\""
+msgstr ""
+
+#: 00106:1752
+
+msgid "{Kazushi}\n\"What's that supposed to mean?\""
+msgstr ""
+
+#: 00106:1755
+
+msgid "{Girl in the Tree}\n\"I'm Kamoike Ran. 'The orchid blooms on a pond with a duck'. You?\""
+msgstr ""
+
+#: 00106:1756
+
+msgid "{Kazushi}\n\"Haruma. Haruma Kazushi. 'The greatest ambition during spring.'\""
+msgstr ""
+
+#: 00106:1757
+
+msgid "Why am I giving an extended introduction right now? Ran was laughing and enjoying herself, though."
+msgstr ""
+
+#: 00106:1758
+
+msgid "That smile gets me trapped in her pace."
+msgstr ""
+
+#: 00106:1762
+
+msgid "{Ran}\n\"The greatest ambition. So, Kazushi, huh? Yeah, I like your name.\""
+msgstr ""
+
+#: 00106:1763
+
+msgid "She's pretty cute when she smiles. However..."
+msgstr ""
+
+#: 00106:1764
+
+msgid "{Kazushi}\n\"It's nice to meet you, but should we really be enjoying the moment?\""
+msgstr ""
+
+#: 00106:1765
+
+msgid "For a brief second we forgot about the murder machine beneath us."
+msgstr ""
+
+#: 00106:1768
+
+msgid "{Ran}\n\"You can call me Ran. I'll call you Kazushi, okay?\""
+msgstr ""
+
+#: 00106:1769
+
+msgid "She's not listening to me."
+msgstr ""
+
+#: 00106:1770
+
+msgid "{Kazushi}\n\"Tell me, why does this school need a killing machine!\""
+msgstr ""
+
+#: 00106:1773
+
+msgid "{Ran}\n\"This island is a secret weapons factory for the army.\nYou speak about this and you'll disappear in your sleep, OK?\""
+msgstr ""
+
+#: 00106:1774
+
+msgid "{Kazushi}\n\"Are you serious!?\""
+msgstr ""
+
+#: 00106:1775
+
+msgid "I didn't want to know something like that! Why do I have to get wrapped up in some big conspiracy?!"
+msgstr ""
+
+#: 00106:1778
+
+msgid "{Ran}\n\"So, come, come.\""
+msgstr ""
+
+#: 00106:1781
+
+msgid "She pulled out her purse and opened her wallet. The money rattled inside."
+msgstr ""
+
+#: 00106:1782
+
+msgid "It looked like a frog's mouth."
+msgstr ""
+
+#: 00106:1785
+
+msgid "{Ran}\n\"Come on, money, money. Hush money. I won't tell anyone that you know about our government's deadly secret.\""
+msgstr ""
+
+#: 00106:1786
+
+msgid "{Kazushi}\n\"Oh, I see. Gotta pay that.\""
+msgstr ""
+
+#: 00106:1787
+
+msgid "{Ran}\n\"Uh-huh. You have to. You're a good person, Kazushi.\""
+msgstr ""
+
+#: 00106:1788
+
+msgid "What's the going rate for hush money? Anyways, I pulled out my wallet and opened the change pouch. There was a fair amount of coins in there."
+msgstr ""
+
+#: 00106:1791
+
+msgid "{Ran}\n\"No, not that one, the other one.\""
+msgstr ""
+
+#: 00106:1792
+
+msgid "Ran's voice took on a sugary tone. Her finger pointed to the pouch with bills."
+msgstr ""
+
+#: 00106:1793
+
+msgid "{Kazushi}\n\"I see.\nI guess it IS top secret.\""
+msgstr ""
+
+#: 00106:1796
+
+msgid "{Ran}\n\"That's right.\""
+msgstr ""
+
+#: 00106:1797
+
+msgid "Oh well. I gave her one of my bills. Who would've thought the money I got as a farewell gift would be spent here."
+msgstr ""
+
+#: 00106:1800
+
+msgid "{Ran}\n\"Another one.\""
+msgstr ""
+
+#: 00106:1801
+
+msgid "{Kazushi}\n\"What? That's too much!\""
+msgstr ""
+
+#: 00106:1802
+
+msgid "I don't wanna blow every last cent I have on my first day."
+msgstr ""
+
+#: 00106:1805
+
+msgid "{Ran}\n\"Do you want to be killed by that thing beneath us?\""
+msgstr ""
+
+#: 00106:1806
+
+msgid "She pointed at the Sign Board.\nIt was still waiting for me to head down."
+msgstr ""
+
+#: 00106:1807
+
+msgid "{Kazushi}\n\"You're right.\nI forgot about that.\""
+msgstr ""
+
+#: 00106:1808
+
+msgid "If money can buy my life. I will be happy to pay."
+msgstr ""
+
+#: 00106:1811
+
+msgid "Ran took the two bills and happily shoved them down the frog's mouth. I leaned over to peek in."
+msgstr ""
+
+#: 00106:1812
+
+msgid "She's saved up quite a lot in there."
+msgstr ""
+
+#: 00106:1815
+
+msgid "{Ran}\n\"Thank you, come again.\nNow, let me go down and talk to that thing.\""
+msgstr ""
+
+#: 00106:1816
+
+msgid "She sounded so carefree and easy as she started climbing down the tree."
+msgstr ""
+
+#: 00106:1817
+
+msgid "{Kazushi}\n\"Talk to it? Is that okay? He's dangerous?!\""
+msgstr ""
+
+#: 00106:1818
+
+msgid "{Ran}\n\"Don't worry!\nI'll take care of it!\""
+msgstr ""
+
+#: 00106:1820
+
+msgid "She smiled and jumped down on the ground."
+msgstr ""
+
+#: 00106:1821
+
+msgid "{Kazushi}\n\"Oi...\""
+msgstr ""
+
+#: 00106:1826
+
+msgid "She gave the sign board a massive drop kick as she jumped to the ground. The Killing Machine was obviously in a great deal of pain."
+msgstr ""
+
+#: 00106:1829
+
+msgid "{Ran}\n\"Oops. Are you all right?\""
+msgstr ""
+
+#: 00106:1830
+
+msgid "She finally stood up and got off of the machine."
+msgstr ""
+
+#: 00106:1834
+
+msgid "{Signpost}\n\"#*$&@#........!!!!????......\""
+msgstr ""
+
+#: 00106:1838
+
+msgid "It was obviously broken.\nI saw Ran's face go pale."
+msgstr ""
+
+#: 00106:1839
+
+msgid "{Ran}\n\"Uh oh.\nDid I break it?\""
+msgstr ""
+
+#: 00106:1840
+
+msgid "{Kazushi}\n\"You took care of it in one blow!\""
+msgstr ""
+
+#: 00106:1843
+
+msgid "{Ran}\n\"No, it's actually...\""
+msgstr ""
+
+#: 00106:1849
+
+msgid "{Signpost}\n\"#$&*#$@!!\""
+msgstr ""
+
+#: 00106:1850
+
+msgid "The killing machine stood back up.\nWasn't that a bad sign?"
+msgstr ""
+
+#: 00106:1854
+
+msgid "{Kazushi}\n\"Hey, Ran, is everything OK?\""
+msgstr ""
+
+#: 00106:1855
+
+msgid "{Ran}\n\"Actually... it's now running out of control.\""
+msgstr ""
+
+#: 00106:1859
+
+msgid "{Signpost}\n\"#$*&(@#$---!!\""
+msgstr ""
+
+#: 00106:1860
+
+msgid "The killing machine leapt over to attack Ran."
+msgstr ""
+
+#: 00106:1864
+
+msgid "{Ran}\n\"Ack!\""
+msgstr ""
+
+#: 00106:1865
+
+msgid "It missed Ran by an inch."
+msgstr ""
+
+#: 00106:1870
+
+msgid "{Kazushi}\n\"Whoa!!\""
+msgstr ""
+
+#: 00106:1871
+
+msgid "It rammed into the thick tree and made it shake. It was really powerful."
+msgstr ""
+
+#: 00106:1876
+
+msgid "{Signpost}\n\"....#&*$(@!\""
+msgstr ""
+
+#: 00106:1880
+
+msgid "{Ran}\n\"Stay away from me!\""
+msgstr ""
+
+#: 00106:1881
+
+msgid "{Kazushi}\n\"Look out! We have to defeat it!!\""
+msgstr ""
+
+#: 00106:1884
+
+msgid "{Ran}\n\"This isn't what I was expecting to happen.\""
+msgstr ""
+
+#: 00106:1885
+
+msgid "Looks like Ran is out of ideas.\nThis is not good."
+msgstr ""
+
+#: 00106:1889
+
+msgid "{Signpost}\n\"#$&*@$@...!!\""
+msgstr ""
+
+#: 00106:1893
+
+msgid "{Ran}\n\"No! Stay away!\""
+msgstr ""
+
+#: 00106:1894
+
+msgid "The killing machine bent its body and looked like it was ready to jump. This was bad!"
+msgstr ""
+
+#: 00106:1896
+
+msgid "{Kazushi}\n\"H-h-h-hold it right there!\""
+msgstr ""
+
+#: 00106:1897
+
+msgid "I jumped down from the tree before I could think about it and landed between Ran and the killing machine."
+msgstr ""
+
+#: 00106:1904
+
+msgid "{Ran}\n\"Wow! Kazushi!?\""
+msgstr ""
+
+#: 00106:1905
+
+msgid "{Kazushi}\n\"Y-y-y-y-you bastard! I-I-I-I'm the one you're after!\""
+msgstr ""
+
+#: 00106:1906
+
+msgid "{Ran}\n\"Why are you shaking so much?\""
+msgstr ""
+
+#: 00106:1907
+
+msgid "{Kazushi}\n\"I-I-I-I'm shaking with excitement!\""
+msgstr ""
+
+#: 00106:1908
+
+msgid "My knees were shaking, but who wouldn't be scared? The killing machine was right in front of me."
+msgstr ""
+
+#: 00106:1909
+
+msgid "{Signpost}\n\"#*$(##(!......\""
+msgstr ""
+
+#: 00106:1910
+
+msgid "{Kazushi}\n\"W-what you're doing is wrong! War isn't the answer! If your mother knew you'd become an instrument of death, she'd be crying!\""
+msgstr ""
+
+#: 00106:1913
+
+msgid "{Ran}\n\"I don't think a guilt trip's going to stop it. He doesn't understand language anymore.\""
+msgstr ""
+
+#: 00106:1914
+
+msgid "{Kazushi}\n\"Ka-kannitch deer helpen?\""
+msgstr ""
+
+#: 00106:1915
+
+msgid "{Ran}\n\"German won't change that.\""
+msgstr ""
+
+#: 00106:1916
+
+msgid "{Signpost}\n\"#*$&@ ......!!\""
+msgstr ""
+
+#: 00106:1917
+
+msgid "My words were unable to stop the killing machine. Do I have no other choice but to fight?!"
+msgstr ""
+
+#: 00106:1918
+
+msgid "{Kazushi}\n\"How am I supposed to fight this thing?\nI'm bare handed!\""
+msgstr ""
+
+#: 00106:1921
+
+msgid "{Ran}\n\"Too late for that now!\""
+msgstr ""
+
+#: 00106:1925
+
+msgid "{Signpost}\n\"#@*$@--------!\""
+msgstr ""
+
+#: 00106:1926
+
+msgid "{Kazushi}\n\"Don't!!\""
+msgstr ""
+
+#: 00106:1939
+
+msgid "{Appo}\n\"We're here!! Where are the girls?! The girls!!\""
+msgstr ""
+
+#: 00106:1946
+
+msgid "{Daigo}\n\"I wonder if Kazushi's OK.\""
+msgstr ""
+
+#: 00106:1947
+
+msgid "{Pierre}\n\"He's fine.\nWe've put him through worse things than that.\""
+msgstr ""
+
+#: 00106:1950
+
+msgid "{Appo}\n\"Poor guy, so unlucky. On the other hand, our luck was great.\nLook what we found by climbing over the cliff.\""
+msgstr ""
+
+#: 00106:1951
+
+msgid "{Pierre}\n\"I don't understand how you can like that stuff. It's what's inside that counts.\""
+msgstr ""
+
+#: 00106:1954
+
+msgid "{Daigo}\n\"This is amazing. It's like we've stumbled into a foreign country.\""
+msgstr ""
+
+#: 00106:1957
+
+msgid "{Appo}\n\"It has the air of a crowd of caged ladies. Exactly what you'd expect from a garden of women. And what's this smell?\""
+msgstr ""
+
+#: 00106:1960
+
+msgid "{Pierre}\n\"That's our Appo. I knew you'd recognize this bittersweet scent.\""
+msgstr ""
+
+#: 00106:1963
+
+msgid "{Daigo}\n\"What are you guys sniffing at so hard?\""
+msgstr ""
+
+#: 00106:1966
+
+msgid "{Appo}\n\"You mean you don't know?! You can't tell what this unique, sweet and bitter fragrance is?!\""
+msgstr ""
+
+#: 00106:1967
+
+msgid "{Daigo}\n\"I'm all stuffed up from my allergies.\""
+msgstr ""
+
+#: 00106:1968
+
+msgid "{Pierre}\n\"Poor Daigo. This building is filled with this bittersweet scent of girls.\""
+msgstr ""
+
+#: 00106:1971
+
+msgid "{Daigo}\n\"G-girls?! Hoo! Hoo!\""
+msgstr ""
+
+#: 00106:1972
+
+msgid "{Appo}\n\"Look, I know you want to smell the girls, but why are you opening your mouth?\""
+msgstr ""
+
+#: 00106:1973
+
+msgid "{Daigo}\n\"This way I can smell them. Whoa... You can smell the girls.\""
+msgstr ""
+
+#: 00106:1976
+
+msgid "{Pierre}\n\"Do I even want to know what you're doing with that bag, Appo?\""
+msgstr ""
+
+#: 00106:1979
+
+msgid "{Appo}\n\"I'm trying to seal this scent in the bag.\""
+msgstr ""
+
+#: 00106:1980
+
+msgid "{Pierre}\n\"If you had a bag sitting around then why didn't you use it on the boat, earlier?\""
+msgstr ""
+
+#: 00106:1987
+
+msgid "{A Girl}\n\"Umm, excuse me...\""
+msgstr ""
+
+#: 00106:1995
+
+msgid "{Boys}\n\"WOW!!!\""
+msgstr ""
+
+#: 00106:2001
+
+msgid "{A Girl}\n\"You're the boys who just got here, right?\""
+msgstr ""
+
+#: 00106:2009
+
+msgid "{Appo}\n\"Hey...she spoke to us! Does this mean she's flirting with us?\""
+msgstr ""
+
+#: 00106:2010
+
+msgid "{Daigo}\n\"Just that counts?\""
+msgstr ""
+
+#: 00106:2013
+
+msgid "{Pierre}\n\"Now that's a girls' school. Girls are much more forward these days.\""
+msgstr ""
+
+#: 00106:2019
+
+msgid "{A Girl}\n\"Excuse me....\""
+msgstr ""
+
+#: 00106:2025
+
+msgid "{Daigo}\n\"Somebody say something to her.\""
+msgstr ""
+
+#: 00106:2026
+
+msgid "{Appo}\n\"Oh, Umm, well... Hard may we help you?!\""
+msgstr ""
+
+#: 00106:2033
+
+msgid "{A Girl}\n\"What?\""
+msgstr ""
+
+#: 00106:2037
+
+msgid "{Pierre}\n\"Why are you getting so nervous?\""
+msgstr ""
+
+#: 00106:2040
+
+msgid "{Appo}\n\"You know why!\nIt's because I'm talking to a girl.\""
+msgstr ""
+
+#: 00106:2043
+
+msgid "{Pierre}\n\"You don't know how to handle girls? Fine. I'll show you how it's done.\""
+msgstr ""
+
+#: 00106:2049
+
+msgid "{A Girl}\n\"Actually, if you guys are busy...\""
+msgstr ""
+
+#: 00106:2054
+
+msgid "{Pierre}\n\"Just a minute!\""
+msgstr ""
+
+#: 00106:2055
+
+msgid "{A Girl}\n\"Hyah! W-what?\""
+msgstr ""
+
+#: 00106:2058
+
+msgid "{Pierre}\n\"I foresee, nay I predict... that you and I will fall in love.\""
+msgstr ""
+
+#: 00106:2059
+
+msgid "{A Girl}\n\"Do what? Why?\""
+msgstr ""
+
+#: 00106:2062
+
+msgid "{Pierre}\n\"Because it's summer!\""
+msgstr ""
+
+#: 00106:2065
+
+msgid "{A Girl}\n\"Oh, I see. Yeah, the heat'll do that to you.\nDon't worry, you'll be able to think straight again when it cools down at night.\""
+msgstr ""
+
+#: 00106:2068
+
+msgid "{Pierre}\n\"Huh? It's not working?\""
+msgstr ""
+
+#: 00106:2075
+
+msgid "{Appo}\n\"She's not giving you the time of day.\""
+msgstr ""
+
+#: 00106:2076
+
+msgid "{A Girl}\n\"Look... wasn't there another person with you?\""
+msgstr ""
+
+#: 00106:2080
+
+msgid "{Daigo}\n\"Another guy? You mean Kazushi?\nDo you know him?\""
+msgstr ""
+
+#: 00106:2083
+
+msgid "{A Girl}\n\"Huh? Oh... No, not really.\""
+msgstr ""
+
+#: 00106:2084
+
+msgid "{Appo}\n\"Hey, Pierre. Why do you think she's blushing?\""
+msgstr ""
+
+#: 00106:2088
+
+msgid "{Pierre}\n\"It can't be... Is she Kazushi's childhood friend?!\""
+msgstr ""
+
+#: 00106:2093
+
+msgid "{Daigo}\n\"That's such an overused archetype...\""
+msgstr ""
+
+#: 00106:2094
+
+msgid "{Appo}\n\"Why, God!?\nWhy is it always Kazushi who gets lucky!?\""
+msgstr ""
+
+#: 00106:2098
+
+msgid "{A Girl}\n\"Look, I don't know what you're talking about, but I've only met him once.\""
+msgstr ""
+
+#: 00106:2103
+
+msgid "{Appo}\n\"Oh, really? I nearly panicked to think he had gotten that far ahead of us at the starting line.\""
+msgstr ""
+
+#: 00106:2104
+
+msgid "{Daigo}\n\"But she's still met Kazushi once before?\""
+msgstr ""
+
+#: 00106:2105
+
+msgid "{A Girl}\n\"Oh, so his name's Kazushi? What's his last name?\""
+msgstr ""
+
+#: 00106:2108
+
+msgid "{Daigo}\n\"It's Haruma.\""
+msgstr ""
+
+#: 00106:2109
+
+msgid "{A Girl}\n\"Haruma Kazushi, huh?\""
+msgstr ""
+
+#: 00106:2113
+
+msgid "{Pierre}\n\"So what's your name, then?\""
+msgstr ""
+
+#: 00106:2114
+
+msgid "{A Girl}\n\"Oh, I'm Hinata. Hinata Mizuki.\""
+msgstr ""
+
+#: 00106:2117
+
+msgid "{Pierre}\n\"Mizuki-chan, huh? That's a nice name!\""
+msgstr ""
+
+#: 00106:2119
+
+msgid "{Mizuki}\n\"Never heard that one before. It's a pretty average name.\""
+msgstr ""
+
+#: 00106:2120
+
+msgid "{Pierre}\n\"My friends call me Pierre!\""
+msgstr ""
+
+#: 00106:2123
+
+msgid "{Appo}\n\"I'm Appo!!\""
+msgstr ""
+
+#: 00106:2127
+
+msgid "{Daigo}\n\"My name's--\""
+msgstr ""
+
+#: 00106:2128
+
+msgid "{Mizuki}\n\"So what's Haruma-kun like?\""
+msgstr ""
+
+#: 00106:2131
+
+msgid "{Daigo}\n\"My name is...\""
+msgstr ""
+
+#: 00106:2132
+
+msgid "{Mizuki}\n\"No, tell me about Haruma-kun.\""
+msgstr ""
+
+#: 00106:2136
+
+msgid "{Pierre}\n\"Why him?\""
+msgstr ""
+
+#: 00106:2139
+
+msgid "{Appo}\n\"Why's this girl so hung up on Kazushi? What's going on between you two?\""
+msgstr ""
+
+#: 00106:2142
+
+msgid "{Mizuki}\n\"There's nothing going on between us. I'd prefer you not to get any strange ideas.\""
+msgstr ""
+
+#: 00106:2145
+
+msgid "{Mizuki}\n\"So where is he now?\""
+msgstr ""
+
+#: 00106:2148
+
+msgid "{Appo}\n\"See? She's TOTALLY into Kazushi...\""
+msgstr ""
+
+#: 00106:2151
+
+msgid "{Pierre}\n\"Why is Kazushi so popular?\""
+msgstr ""
+
+#: 00106:2152
+
+msgid "{Appo}\n\"This is no fun. He can go get himself killed!\""
+msgstr ""
+
+#: 00106:2157
+
+msgid "{Kazushi}\n\"Crap, it's a dead end!\""
+msgstr ""
+
+#: 00106:2158
+
+msgid "We were trapped on a suspension bridge held with ropes. There was no where left to run."
+msgstr ""
+
+#: 00106:2161
+
+msgid "{Ran}\n\"Here it comes!\""
+msgstr ""
+
+#: 00106:2166
+
+msgid "{Signpost}\n\"EXTERMINATE!!\""
+msgstr ""
+
+#: 00106:2167
+
+msgid "{Kazushi}\n\"It's going to murder us!!\""
+msgstr ""
+
+#: 00106:2168
+
+msgid "The killing machine steadily closed in on us. Behind us was more bridge. Below, the forest. It was a long way down."
+msgstr ""
+
+#: 00106:2169
+
+msgid "We knew that if we fell, we'd die."
+msgstr ""
+
+#: 00106:2170
+
+msgid "{Ran}\n\"Oh no! This is it! W-what do we do?!\""
+msgstr ""
+
+#: 00106:2171
+
+msgid "{Kazushi}\n\"R-Ran, get back! Hide behind me!\""
+msgstr ""
+
+#: 00106:2172
+
+msgid "{Ran}\n\"Don't push me!\nI don't wanna fall!\""
+msgstr ""
+
+#: 00106:2173
+
+msgid "I felt something soft press against my back. She smelled good too."
+msgstr ""
+
+#: 00106:2174
+
+msgid "{Kazushi}\n\"Don't stand so close to me.\""
+msgstr ""
+
+#: 00106:2175
+
+msgid "{Ran}\n\"I'm trying not to.\""
+msgstr ""
+
+#: 00106:2176
+
+msgid "Ran clung even tighter to me. I was right up against a girl! My heart was pounding like crazy."
+msgstr ""
+
+#: 00106:2177
+
+msgid "{Ran}\n\"Kazushi, is your heart racing?\""
+msgstr ""
+
+#: 00106:2178
+
+msgid "Her soft whisper got me all excited."
+msgstr ""
+
+#: 00106:2179
+
+msgid "{Kazushi}\n\"Look where we are, now...\""
+msgstr ""
+
+#: 00106:2180
+
+msgid "{Ran}\n\"Y-you're right. Mine's racing too.\""
+msgstr ""
+
+#: 00106:2181
+
+msgid "{Kazushi}\n\"R-right?\""
+msgstr ""
+
+#: 00106:2182
+
+msgid "{Ran}\n\"H-hey, have you heard of the 'Suspension Bridge Effect'?\""
+msgstr ""
+
+#: 00106:2183
+
+msgid "I'd heard about it but couldn't remember any of the details."
+msgstr ""
+
+#: 00106:2184
+
+msgid "{Kazushi}\n\"What is it?\""
+msgstr ""
+
+#: 00106:2186
+
+msgid "{Ran}\n\"When a man and a woman are both together in a dangerous situation, like being on a suspension bridge, they mistake their sense of danger for love, and fall in love with each other.\""
+msgstr ""
+
+#: 00106:2188
+
+msgid "{Kazushi}\n\"Y-yeah, I think I've heard of that. But why does that matter?\""
+msgstr ""
+
+#: 00106:2189
+
+msgid "{Ran}\n\"This is that exact situation isn't it? We're on a suspension bridge, and danger is right in front of us.\""
+msgstr ""
+
+#: 00106:2190
+
+msgid "{Kazushi}\n\"Yeah, that's true.\""
+msgstr ""
+
+#: 00106:2191
+
+msgid "{Ran}\n\"I think it's happening to me right now.\""
+msgstr ""
+
+#: 00106:2192
+
+msgid "{Kazushi}\n\"What?!\""
+msgstr ""
+
+#: 00106:2193
+
+msgid "I turned around and her face was directly up against mine. My heart skipped a few beats."
+msgstr ""
+
+#: 00106:2194
+
+msgid "{Ran}\n\"Hey!! Watch out!\""
+msgstr ""
+
+#: 00106:2195
+
+msgid "{Signpost}\n\"You feeling lucky, punk?\""
+msgstr ""
+
+#: 00106:2199
+
+msgid "When I turned my head back around, I saw the machine in the air trying to get us."
+msgstr ""
+
+#: 00106:2200
+
+msgid "{Kazushi}\n\"No!!\""
+msgstr ""
+
+#: 00106:2201
+
+msgid "{Ran}\n\"Ah!?\""
+msgstr ""
+
+#: 00106:2205
+
+msgid "I pushed Ran to the side.\nFor my heroism, I took a full tackle from the machine."
+msgstr ""
+
+#: 00106:2208
+
+msgid "{Kazushi}\n\"This position...!!\""
+msgstr ""
+
+#: 00106:2210
+
+msgid "A tomoe nage! Use their strength as they push forward, roll back and fling them behind you!"
+msgstr ""
+
+#: 00106:2211
+
+msgid "{Kazushi}\n\"Take this!!\""
+msgstr ""
+
+#: 00106:2212
+
+msgid "{Signpost}\n\"#$@*&#@--!?\""
+msgstr ""
+
+#: 00106:2213
+
+msgid "{Kazushi}\n\"My judo throw actually worked!\""
+msgstr ""
+
+#: 00106:2215
+
+msgid "It was a perfectly executed tomoe nage. I threw the machine over the bridge and it fell all the way to the bottom."
+msgstr ""
+
+#: 00106:2219
+
+msgid "{Ran}\n\"Hey, Kazushi!!\""
+msgstr ""
+
+#: 00106:2220
+
+msgid "{Kazushi}\n\"Oh, shit...\""
+msgstr ""
+
+#: 00106:2221
+
+msgid "I couldn't stop my body from spinning backwards. I felt a bad feeling run up my spine as I spun."
+msgstr ""
+
+#: 00106:2222
+
+msgid "...but by then it was too late."
+msgstr ""
+
+#: 00106:2225
+
+msgid "{Ran}\n\"Kazushi!!\""
+msgstr ""
+
+#: 00106:2227
+
+msgid "I saw Ran stretching out her arm, but she wasn't fast enough."
+msgstr ""
+
+#: 00106:2229
+
+msgid "{Kazushi}\n\"...no-----------!!\""
+msgstr ""
+
+#: 00106:2238
+
+msgid "{Ran}\n\"No way... Kazushi died? ...I just met a guy, and it's already farewell?! That's too fast!\""
+msgstr ""
+
+#: 00106:2241
+
+msgid ".................."
+msgstr ""
+
+#: 00106:2242
+
+msgid "............"
+msgstr ""
+
+#: 00106:2243
+
+msgid "......"
+msgstr ""
+
+#: 00106:2245
+
+msgid "{Kazushi}\n\"..........Huh?\""
+msgstr ""
+
+#: 00106:2249
+
+msgid "{Kazushi}\n\"......? What happened?\""
+msgstr ""
+
+#: 00106:2250
+
+msgid "I tried to lift my heavy eyelids.\nThere was a green canopy above me. I must have been in some forest."
+msgstr ""
+
+#: 00106:2251
+
+msgid "{Kazushi}\n\"Where am I?\""
+msgstr ""
+
+#: 00106:2252
+
+msgid "It took me a while to realize that I wasn't in my room."
+msgstr ""
+
+#: 00106:2253
+
+msgid "{Kazushi}\n\"Oh yeah, I fell from the bridge.\""
+msgstr ""
+
+#: 00106:2254
+
+msgid "This must be the forest I saw from on the bridge. Broken branches were everywhere after cushioning my fall."
+msgstr ""
+
+#: 00106:2255
+
+msgid "{Kazushi}\n\"I can't believe I'm still alive!\""
+msgstr ""
+
+#: 00106:2256
+
+msgid "It looks like I'm not severely hurt. I must be someone special."
+msgstr ""
+
+#: 00106:2257
+
+msgid "{Kazushi}\n\"Ouch... I'm scratched all over, though.\""
+msgstr ""
+
+#: 00106:2258
+
+msgid "No broken bones, no bruises, and no bleeding though. Talk about a miracle."
+msgstr ""
+
+#: 00106:2259
+
+msgid "{Kazushi}\n\"Where is this, anyways?\""
+msgstr ""
+
+#: 00106:2260
+
+msgid "I could barely see the mountain peak through the thick canopy. I better head that way."
+msgstr ""
+
+#: 00106:2261
+
+msgid "{Kazushi}\n\"I shouldn't get lost as long as I keep that in my sight.\""
+msgstr ""
+
+#: 00106:2265
+
+msgid "{Kazushi}\n\"I'm so lost.\""
+msgstr ""
+
+#: 00106:2266
+
+msgid "I had walked for a while, but I was still stuck in the forest. I didn't know it was so big."
+msgstr ""
+
+#: 00106:2267
+
+msgid "{Kazushi}\n\"Is this a forest or a labyrinth?\""
+msgstr ""
+
+#: 00106:2268
+
+msgid "Is this one of those places where you lose all sense of direction? Will I be stuck here, unable to reach the academy, until I rot?"
+msgstr ""
+
+#: 00106:2269
+
+msgid "{Kazushi}\n\"I should be fine...\""
+msgstr ""
+
+#: 00106:2270
+
+msgid "No matter how hard I tried to deny it, I felt incredibly alone."
+msgstr ""
+
+#: 00106:2271
+
+msgid "{Kazushi}\n\"Is anybody out there?\""
+msgstr ""
+
+#: 00106:2272
+
+msgid "I quickened my pace. Everything looked the same no matter where I went. I hoped I wasn't walking in a circle."
+msgstr ""
+
+#: 00106:2273
+
+msgid "This is like a maze."
+msgstr ""
+
+#: 00106:2275
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 00106:2276
+
+msgid "Just before I started to cry, I finally saw the end of the forest."
+msgstr ""
+
+#: 00106:2277
+
+msgid "{Kazushi}\n\"Yes! Almost there!\""
+msgstr ""
+
+#: 00106:2279
+
+msgid "I ran straight towards the light."
+msgstr ""
+
+#: 00106:2283
+
+msgid "{Kazushi}\n\"Wow......\""
+msgstr ""
+
+#: 00106:2284
+
+msgid "I wound up right in the middle of a huge flower bed. Small white flowers were growing everywhere. They were all still buds."
+msgstr ""
+
+#: 00106:2285
+
+msgid "{Kazushi}\n\"What kind of flowers are these?\""
+msgstr ""
+
+#: 00106:2286
+
+msgid "They were a pristine shade of white, and their petals reminded me of snow. They looked so pure I hesitated to touch them."
+msgstr ""
+
+#: 00106:2287
+
+msgid "It'll be amazing when all these flowers bloom."
+msgstr ""
+
+#: 00106:2288
+
+msgid "{???}\n\"..................\""
+msgstr ""
+
+#: 00106:2289
+
+msgid "At that moment, I heard the faint sound of someone's voice breaking the quiet."
+msgstr ""
+
+#: 00106:2290
+
+msgid "It was the voice of a young girl."
+msgstr ""
+
+#: 00106:2291
+
+msgid "{Kazushi}\n\"Is somebody...\""
+msgstr ""
+
+#: 00106:2292
+
+msgid "...there?"
+msgstr ""
+
+#: 00106:2294
+
+msgid "I saw the owner of the voice I heard. It was such a shocking to sight to behold I was speechless."
+msgstr ""
+
+#: 00106:2295
+
+msgid "She was naked. Stark naked. In her birthday suit."
+msgstr ""
+
+#: 00106:2296
+
+msgid "Be it a mermaid, or this girl, this island was full of naked girls. Is this secretly some kind of nudist beach? What a liberal island."
+msgstr ""
+
+#: 00106:2297
+
+msgid "{Kazushi}\n\"..................\""
+msgstr ""
+
+#: 00106:2298
+
+msgid "For some reason, it wasn't erotic at all. It was more like she looked divine."
+msgstr ""
+
+#: 00106:2299
+
+msgid "And I could see the reason why."
+msgstr ""
+
+#: 00106:2300
+
+msgid "{Kazushi}\n\"She's shining?\""
+msgstr ""
+
+#: 00106:2301
+
+msgid "She was radiating a heavenly light from her body. Even the ground beneath her and the air around her was shining."
+msgstr ""
+
+#: 00106:2302
+
+msgid "Even though there was no wind, her hair trailed through the air as if she were flying."
+msgstr ""
+
+#: 00106:2303
+
+msgid "I couldn't take my eyes off of her."
+msgstr ""
+
+#: 00106:2306
+
+msgid "{Naked Girl}\n\"...Phew.\""
+msgstr ""
+
+#: 00106:2307
+
+msgid "She opened her eyes."
+msgstr ""
+
+#: 00106:2308
+
+msgid "{Naked Girl}\n\"The air is not so pure today.\nIt's probably because of the new students from the mainland.\""
+msgstr ""
+
+#: 00106:2309
+
+msgid "She must be talking about us. She could be one of the students."
+msgstr ""
+
+#: 00106:2311
+
+msgid "{Naked Girl}\n\"I need to head back soon too. I guess my job will be getting harder to do now. Oh well, I doubt any boys will wander in here.\""
+msgstr ""
+
+#: 00106:2313
+
+msgid "I'm sorry, but I'm already here, miss. Is all right for you to stay naked in front of me?"
+msgstr ""
+
+#: 00106:2315
+
+msgid "I don't think she could hear the voice in my head, but she whipped around and spotted me."
+msgstr ""
+
+#: 00106:2316
+
+msgid "{Kazushi}\n\"Um, hi.\""
+msgstr ""
+
+#: 00106:2317
+
+msgid "{Naked Girl}\n\"...what?!\""
+msgstr ""
+
+#: 00106:2318
+
+msgid "Her big eyes were wide open in shock and disbelief. They were beautiful eyes."
+msgstr ""
+
+#: 00106:2319
+
+msgid "Thm-thmp!"
+msgstr ""
+
+#: 00106:2320
+
+msgid "My heart leapt as she started at me. It felt like the air around us was pulsating with tension."
+msgstr ""
+
+#: 00106:2321
+
+msgid "I was captivated by that feeling."
+msgstr ""
+
+#: 00106:2322
+
+msgid "Our gazes intertwined. It felt like we were connected to each other by our gazes."
+msgstr ""
+
+#: 00106:2323
+
+msgid "But above all of that, she was amazingly beautiful."
+msgstr ""
+
+#: 00106:2324
+
+msgid "{Kazushi}\n\"Uh, umm, I didn't...\""
+msgstr ""
+
+#: 00106:2325
+
+msgid "I tried to make an excuse for myself, but I was so nervous that I couldn't talk straight. I couldn't look away from her."
+msgstr ""
+
+#: 00106:2326
+
+msgid "Her lips slowly began to part."
+msgstr ""
+
+#: 00106:2327
+
+msgid "{Naked Girl}\n\"A......\""
+msgstr ""
+
+#: 00106:2328
+
+msgid "{Kazushi}\n\"A?\""
+msgstr ""
+
+#: 00106:2329
+
+msgid "She slowly drew a deep breath."
+msgstr ""
+
+#: 00106:2332
+
+msgid "{Naked Girl}\n\"Ah---------!!\""
+msgstr ""
+
+#: 00106:2333
+
+msgid "She screamed so loud that entire forest could hear her."
+msgstr ""
+
+#: 00106:2334
+
+msgid "{Naked Girl}\n\"Ah--! Ah---!!\""
+msgstr ""
+
+#: 00106:2335
+
+msgid "{Kazushi}\n\"P-please calm down! I know it's hard, but calm down! I'm not a bad guy!\""
+msgstr ""
+
+#: 00106:2336
+
+msgid "{Naked Girl}\n\"Someone who really wasn't a bad guy wouldn't need to say he wasn't!\""
+msgstr ""
+
+#: 00106:2337
+
+msgid "{Kazushi}\n\"You may be right.\""
+msgstr ""
+
+#: 00106:2338
+
+msgid "Why am I convinced!?"
+msgstr ""
+
+#: 00106:2339
+
+msgid "{Naked Girl}\n\"W-who are you?! H-how did you get here?!\""
+msgstr ""
+
+#: 00106:2340
+
+msgid "{Kazushi}\n\"I was lost in the forest and found my way here accidentally...\""
+msgstr ""
+
+#: 00106:2341
+
+msgid "{Naked Girl}\n\"I don't believe you! I'm in...... Ah...\""
+msgstr ""
+
+#: 00106:2342
+
+msgid "Her eyes went wide."
+msgstr ""
+
+#: 00106:2343
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 00106:2347
+
+msgid "Suddenly, out of nowhere, all of the white flowers began to bloom."
+msgstr ""
+
+#: 00106:2348
+
+msgid "{Kazushi}\n\"Wow...\""
+msgstr ""
+
+#: 00106:2349
+
+msgid "It was like watching a video on fast forward as every single bud began to blossom around us. It was my first time seeing such a mysterious sight."
+msgstr ""
+
+#: 00106:2350
+
+msgid "The flowers were as white as snow, and sparkled like crystals. I felt like I was standing in a snowfield."
+msgstr ""
+
+#: 00106:2351
+
+msgid "{Naked Girl}\n\"No way... I can't believe this...\""
+msgstr ""
+
+#: 00106:2352
+
+msgid "Me neither."
+msgstr ""
+
+#: 00106:2353
+
+msgid "{Kazushi}\n\"Why is this happening all of a sudden?\""
+msgstr ""
+
+#: 00106:2354
+
+msgid "{Naked Girl}\n\"I don't know, but...\""
+msgstr ""
+
+#: 00106:2355
+
+msgid "She was about to go on, but then she realized I was looking at her body and scrunched up. I quickly averted my gaze."
+msgstr ""
+
+#: 00106:2356
+
+msgid "{Naked Girl}\n\"Turn around, please! I'll get my clothes on!\""
+msgstr ""
+
+#: 00106:2357
+
+msgid "{Kazushi}\n\"I'm sorry!\""
+msgstr ""
+
+#: 00106:2358
+
+msgid "I looked away as quickly as I could."
+msgstr ""
+
+#: 00106:2363
+
+msgid "{Naked Girl}\n\"..................\""
+msgstr ""
+
+#: 00106:2364
+
+msgid "I could hear the faint sounds of her breath and the rustling of clothes. It was making my imagination run wild."
+msgstr ""
+
+#: 00106:2365
+
+msgid "{Kazushi}\n\"Oops.\""
+msgstr ""
+
+#: 00106:2366
+
+msgid "As I thought about it, my crotch suddenly grew happy. No! Don't get hard! Stop it, Johnny!"
+msgstr ""
+
+#: 00106:2367
+
+msgid "{Naked Girl}\n\"You're one of the boys who just got here, right?\""
+msgstr ""
+
+#: 00106:2368
+
+msgid "Just as I couldn't take the silence, she started talking to me. Thank god. The distraction caused my crotch to settle down."
+msgstr ""
+
+#: 00106:2369
+
+msgid "{Kazushi}\n\"That's right. I told you I'm not a bad guy.\""
+msgstr ""
+
+#: 00106:2370
+
+msgid "{Naked Girl}\n\"That's not enough to tell me if you're bad or not.\""
+msgstr ""
+
+#: 00106:2371
+
+msgid "{Kazushi}\n\"You have a point.\nI could be a bad new guy.\""
+msgstr ""
+
+#: 00106:2372
+
+msgid "I couldn't blame her for being suspicious. It's not like we'd met before."
+msgstr ""
+
+#: 00106:2373
+
+msgid "Well then, I guess I just have to come with a way to prove that I'm OK."
+msgstr ""
+
+#: 00106:2374
+
+msgid "{Kazushi}\n\"Oh yeah!\""
+msgstr ""
+
+#: 00106:2375
+
+msgid "{Naked Girl}\n\"What?\""
+msgstr ""
+
+#: 00106:2376
+
+msgid "{Kazushi}\n\"We haven't introduced ourselves yet.\nMy name's Haruma Kazushi. What's yours?\""
+msgstr ""
+
+#: 00106:2377
+
+msgid "{Naked Girl}\n\"Oh, me? Umm, my name's Aozora Haruka. I'm a sophomore at Eiden Academy.\""
+msgstr ""
+
+#: 00106:2378
+
+msgid "{Kazushi}\n\"You're a sophomore? Me too.\""
+msgstr ""
+
+#: 00106:2380
+
+msgid "{Haruka}\n\"You are?\""
+msgstr ""
+
+#: 00106:2381
+
+msgid "Her tone took a turn for the friendlier."
+msgstr ""
+
+#: 00106:2382
+
+msgid "{Haruka}\n\"It's been a while since I've had a chance to talk to a boy my age. Most of the men on this island are a lot older than I am.\""
+msgstr ""
+
+#: 00106:2383
+
+msgid "{Kazushi}\n\"Really? That's no fun.\""
+msgstr ""
+
+#: 00106:2384
+
+msgid "{Haruka}\n\"They're all really old. There are not many children on the island, either, which is why we only have one school.\""
+msgstr ""
+
+#: 00106:2385
+
+msgid "She was right:\nI hadn't seen a single kid since I got here."
+msgstr ""
+
+#: 00106:2386
+
+msgid "{Haruka}\n\"They all go to school on the mainland and leave the island once they get old enough. That's why there's only old people left here.\""
+msgstr ""
+
+#: 00106:2387
+
+msgid "{Kazushi}\n\"Really? That must be lonely.\""
+msgstr ""
+
+#: 00106:2388
+
+msgid "{Haruka}\n\"I just haven't talked to a boy for so long that it's making me nervous.\""
+msgstr ""
+
+#: 00106:2389
+
+msgid "{Haruka}\n\"I'm sorry. I forgot that we just met. I should talk more politely.\""
+msgstr ""
+
+#: 00106:2390
+
+msgid "{Kazushi}\n\"It's OK. It's a sign that you don't think I'm a bad person. I really did get lost and wander into here.\""
+msgstr ""
+
+#: 00106:2391
+
+msgid "{Haruka}\n\"Oh, yes... I believe you. Even if you were trying to peek at me, you wouldn't have found this place.\""
+msgstr ""
+
+#: 00106:2392
+
+msgid "{Kazushi}\n\"What do you mean?\""
+msgstr ""
+
+#: 00106:2395
+
+msgid "{Haruka}\n\"You can turn around, by the way.\""
+msgstr ""
+
+#: 00106:2400
+
+msgid "With her permission, I turned back around.\nShe was in her school uniform."
+msgstr ""
+
+#: 00106:2401
+
+msgid "She looked very pretty in it."
+msgstr ""
+
+#: 00106:2404
+
+msgid "{Haruka}\n\"Don't stare at me like that!\nIt's like you're undressing me with your eyes!\""
+msgstr ""
+
+#: 00106:2405
+
+msgid "She noticed that I couldn't keep my eyes off her."
+msgstr ""
+
+#: 00106:2406
+
+msgid "{Kazushi}\n\"I'm sorry.\nIt's just... I'm not used to being with a girl.\""
+msgstr ""
+
+#: 00106:2409
+
+msgid "{Haruka}\n\"You're not?\nGood. I'm not used to being with a boy, either.\""
+msgstr ""
+
+#: 00106:2410
+
+msgid "{Kazushi}\n\"I guess that makes us even.\""
+msgstr ""
+
+#: 00106:2411
+
+msgid "{Haruka}\n\"I guess so.\""
+msgstr ""
+
+#: 00106:2412
+
+msgid "She laughed for a second before lowering her head."
+msgstr ""
+
+#: 00106:2415
+
+msgid "{Haruka}\n\"Kazushi-kun, would you please forget what you saw earlier?\nOtherwise I won't be able to look you in the face.\""
+msgstr ""
+
+#: 00106:2416
+
+msgid "{Kazushi}\n\"Of course.\nConsider it forgotten.\""
+msgstr ""
+
+#: 00106:2417
+
+msgid "I lied. There's no way I'm ever forgetting that. I already burned it into memory."
+msgstr ""
+
+#: 00106:2420
+
+msgid "{Haruka}\n\"Nice to meet you, Kazushi-kun.\""
+msgstr ""
+
+#: 00106:2421
+
+msgid "She offered to shake my hand."
+msgstr ""
+
+#: 00106:2422
+
+msgid "{Kazushi}\n\"Nice to meet you...Aozora-san.\""
+msgstr ""
+
+#: 00106:2425
+
+msgid "{Haruka}\n\"Call me Haruka. I'll call you Kazushi-kun.\""
+msgstr ""
+
+#: 00106:2426
+
+msgid "Haruka's hands were as soft as the white flowers around us."
+msgstr ""
+
+#: 00106:2431
+
+msgid "{Haruka}\n\"Here we are.\""
+msgstr ""
+
+#: 00106:2432
+
+msgid "{Kazushi}\n\"What the--no fair!\nI walked forever trying to find my way back here.\""
+msgstr ""
+
+#: 00106:2433
+
+msgid "{Haruka}\n\"This whole mountain is like my backyard.\""
+msgstr ""
+
+#: 00106:2435
+
+msgid "Thanks to Haruka, I found my way back to the road. All I had to do now was follow it to the academy."
+msgstr ""
+
+#: 00106:2438
+
+msgid "{Ran}\n\"Ah! It's Kazushi!\""
+msgstr ""
+
+#: 00106:2439
+
+msgid "I saw Ran running toward me.\nShe dived into my arms."
+msgstr ""
+
+#: 00106:2458
+
+msgid "{Haruka}\n\"What's going on!?\""
+msgstr ""
+
+#: 00106:2460
+
+msgid "Haruka was surprised, to say the least. You can't exactly blame her, either. I mean, you don't just see a girl publicly jumping into a guy's arms every day."
+msgstr ""
+
+#: 00106:2464
+
+msgid "{Ran}\n\"Hey, are you alright? Are you hurt anywhere? Are you safe?\""
+msgstr ""
+
+#: 00106:2465
+
+msgid "She was actually worried about me! Her feelings touched my heart."
+msgstr ""
+
+#: 00106:2466
+
+msgid "{Kazushi}\n\"I'm sorry for worrying you. But look, all I have are some scratches.\""
+msgstr ""
+
+#: 00106:2469
+
+msgid "{Ran}\n\"You sure? Thank god!\""
+msgstr ""
+
+#: 00106:2470
+
+msgid "She didn't show any sign of wanting to leave my arms."
+msgstr ""
+
+#: 00106:2471
+
+msgid "{Kazushi}\n\"Uh, umm, Ran? I think you should let go of me.\""
+msgstr ""
+
+#: 00106:2472
+
+msgid "Had I ever been in a situation like this before?\nI don't think I've ever had to ask a girl to get off of me."
+msgstr ""
+
+#: 00106:2477
+
+msgid "Haruka just stood there, trying to figure out what was going on."
+msgstr ""
+
+#: 00106:2478
+
+msgid "{Haruka}\n\"Um, just what happened? Hey, Ran?\""
+msgstr ""
+
+#: 00106:2481
+
+msgid "{Ran}\n\"Hmm?\""
+msgstr ""
+
+#: 00106:2482
+
+msgid "Ran looked up and finally realized that Haruka was there with us. She stared at Haruka with a blank look on her face."
+msgstr ""
+
+#: 00106:2483
+
+msgid "{Ran}\n\"Huh? Haruka? What are you doing here?\""
+msgstr ""
+
+#: 00106:2484
+
+msgid "{Haruka}\n\"That's what I'd like to know.\nWhat happened between you two?\""
+msgstr ""
+
+#: 00106:2485
+
+msgid "Seemed like they knew each other. They all go to the same boarding school, so I guess it's only natural."
+msgstr ""
+
+#: 00106:2488
+
+msgid "{Ran}\n\"You won't believe what happened. First, Kazushi, oh, by the way, this is Kazushi, but...\""
+msgstr ""
+
+#: 00106:2491
+
+msgid "{Haruka}\n\"Oh, yes, we've met.\""
+msgstr ""
+
+#: 00106:2494
+
+msgid "{Ran}\n\"Oh yeah? Anyways, so Kazushi fell off the bridge, see.\""
+msgstr ""
+
+#: 00106:2497
+
+msgid "{Haruka}\n\"What? You don't mean THAT bridge, do you?\""
+msgstr ""
+
+#: 00106:2498
+
+msgid "Haruka looked at me with surprise written across her face.\nAnybody who knew that bridge would have done the same."
+msgstr ""
+
+#: 00106:2499
+
+msgid "{Haruka}\n\"...you guys are joking, right?\""
+msgstr ""
+
+#: 00106:2500
+
+msgid "{Kazushi}\n\"We're being totally serious. I met you after I fell from the bridge and got lost in the forest.\""
+msgstr ""
+
+#: 00106:2501
+
+msgid "{Haruka}\n\"And you're still alive?\""
+msgstr ""
+
+#: 00106:2502
+
+msgid "{Kazushi}\n\"Somehow, yes.\""
+msgstr ""
+
+#: 00106:2503
+
+msgid "Haruka couldn't believe it. Even I had a hard time believing it now that I looked back on it."
+msgstr ""
+
+#: 00106:2506
+
+msgid "{Ran}\n\"I'm so glad you're safe! I never imagined I would ever see anyone fall off that bridge. I thought my heart was going to stop.\""
+msgstr ""
+
+#: 00106:2507
+
+msgid "{Kazushi}\n\"That's my line. I find it strange to be alive.\""
+msgstr ""
+
+#: 00106:2510
+
+msgid "{Ran}\n\"Seriously.\nNot only are you alive, but you didn't get hurt.\nAre you sure you're really human?\""
+msgstr ""
+
+#: 00106:2511
+
+msgid "{Kazushi}\n\"I wonder about that as well.\nMaybe I'm one of the chosen people of heaven.\""
+msgstr ""
+
+#: 00106:2514
+
+msgid "{Ran}\n\"You must be! You must be! If not, then I'll choose you! I'm so glad you're alive!\""
+msgstr ""
+
+#: 00106:2515
+
+msgid "She's really happy that I'm alive - so happy that she still hasn't let me go."
+msgstr ""
+
+#: 00106:2518
+
+msgid "{Haruka}\n\"Umm, Ran, you know Kazushi-kun?\""
+msgstr ""
+
+#: 00106:2519
+
+msgid "I guess she asked that because we were still hugging each other."
+msgstr ""
+
+#: 00106:2522
+
+msgid "{Ran}\n\"I do. We had a bit of an incident.\""
+msgstr ""
+
+#: 00106:2523
+
+msgid "{Haruka}\n\"An incident?\""
+msgstr ""
+
+#: 00106:2526
+
+msgid "{Ran}\n\"Kinda.\""
+msgstr ""
+
+#: 00106:2527
+
+msgid "Ran hugged me tighter. I could feel her soft breasts against my chest."
+msgstr ""
+
+#: 00106:2530
+
+msgid "{Ran}\n\"Did you know, Kazushi?\nHaruka is the principal's granddaughter.\""
+msgstr ""
+
+#: 00106:2531
+
+msgid "{Kazushi}\n\"The principal's...granddaughter...?\""
+msgstr ""
+
+#: 00106:2532
+
+msgid "I remembered that the old man at the grocery mentioned something about that."
+msgstr ""
+
+#: 00106:2533
+
+msgid "{Kazushi}\n\"Of course! You were born and raised here - that's why you know your way around so well!\""
+msgstr ""
+
+#: 00106:2536
+
+msgid "{Haruka}\n\"That's right!\nSo I'M the one you should look for if you have any questions about the island.\""
+msgstr ""
+
+#: 00106:2537
+
+msgid "Haruka offered to shake my hand again."
+msgstr ""
+
+#: 00106:2538
+
+msgid "{Kazushi}\n\"Thanks.\""
+msgstr ""
+
+#: 00106:2539
+
+msgid "I shook her hand."
+msgstr ""
+
+#: 00106:2542
+
+msgid "{Haruka}\n\"YO-SORO!\""
+msgstr ""
+
+#: 00106:2543
+
+msgid "{Kazushi}\n\"YO-SORO?\""
+msgstr ""
+
+#: 00106:2544
+
+msgid "What does \"YO-SORO\" mean?\nAnyways, I've already come to like hanging out with Haruka."
+msgstr ""
+
+#: 00106:2545
+
+msgid "{Ran}\n\"So what were you doing here?\""
+msgstr ""
+
+#: 00106:2548
+
+msgid "{Haruka}\n\"I had work to do for my grand- I mean the principal.\""
+msgstr ""
+
+#: 00106:2549
+
+msgid "{Ran}\n\"That's right.\nThis side of the school is her...\""
+msgstr ""
+
+#: 00106:2552
+
+msgid "{Haruka}\n\"I'm in charge of it. It's so much trouble.\""
+msgstr ""
+
+#: 00106:2553
+
+msgid "Haruka's complaining about something.\nI think she means the flower bed."
+msgstr ""
+
+#: 00106:2556
+
+msgid "{Ran}\n\"Like grandmother, like granddaughter.\nI sure can't take care of that.\""
+msgstr ""
+
+#: 00106:2557
+
+msgid "I don't know what the hell they're talking about."
+msgstr ""
+
+#: 00106:2571
+
+msgid "{Daigo}\n\"Hey, it's Kazushi!\""
+msgstr ""
+
+#: 00106:2572
+
+msgid "{Pierre}\n\"Hey! Kazushi!!\""
+msgstr ""
+
+#: 00106:2573
+
+msgid "{Appo}\n\"We really couldn't leave you to die, so we finally came to rescue you!\""
+msgstr ""
+
+#: 00106:2574
+
+msgid "Here come the boys.\nAlong with a girl that I don't know."
+msgstr ""
+
+#: 00106:2580
+
+msgid "{Mizuki}\n\"Ah...!?\""
+msgstr ""
+
+#: 00106:2581
+
+msgid "One of the girls stopped as if she recognised me.\nShe appeared unhappy to see me, but I've no idea why."
+msgstr ""
+
+#: 00106:2586
+
+msgid "{Ran}\n\"What're you doing here, Mizuki?\nDon't tell me you got picked up by the boys here!\""
+msgstr ""
+
+#: 00106:2589
+
+msgid "{Mizuki}\n\"Of course not!!\""
+msgstr ""
+
+#: 00106:2590
+
+msgid "Ran was only kidding, but Mizuki turned bright red and denied it."
+msgstr ""
+
+#: 00106:2597
+
+msgid "{Mizuki}\n\"Hey, Haruka, why are you with them?\""
+msgstr ""
+
+#: 00106:2598
+
+msgid "{Haruka}\n\"It's a long story.\""
+msgstr ""
+
+#: 00106:2601
+
+msgid "{Ran}\n\"Okay, then let me introduce Kazushi to you, Mizuki. He's Haruma Kazushi, one of the boys who just transferred here.\""
+msgstr ""
+
+#: 00106:2606
+
+msgid "Ran pushed me towards Mizuki."
+msgstr ""
+
+#: 00106:2607
+
+msgid "{Kazushi}\n\"Nice to meet you.\""
+msgstr ""
+
+#: 00106:2608
+
+msgid "{Mizuki}\n\"Oh, yeah, nice to meet you.\""
+msgstr ""
+
+#: 00106:2609
+
+msgid "She couldn't have been any more reluctant to meet me, as if she were already upset with me about something."
+msgstr ""
+
+#: 00106:2610
+
+msgid "{Kazushi}\n\"Umm, is there something wrong?\""
+msgstr ""
+
+#: 00106:2613
+
+msgid "{Mizuki}\n\"Huh? What? You don't remember?\""
+msgstr ""
+
+#: 00106:2614
+
+msgid "{Kazushi}\n\"Remember? Have we met before?\""
+msgstr ""
+
+#: 00106:2619
+
+msgid "{Ran}\n\"What? You met? Before meeting me?\""
+msgstr ""
+
+#: 00106:2620
+
+msgid "{Mizuki}\n\"No! We haven't!\nI just met him here for the first time!\""
+msgstr ""
+
+#: 00106:2621
+
+msgid "{Kazushi}\n\"Yeah?\nWell, then, it's nice to meet you for the first time.\""
+msgstr ""
+
+#: 00106:2625
+
+msgid "I offered to shake her hand."
+msgstr ""
+
+#: 00106:2626
+
+msgid "{Mizuki}\n\"Ummm...\""
+msgstr ""
+
+#: 00106:2627
+
+msgid "Hinata-san didn't move; she just stared at my hand with a troubled look."
+msgstr ""
+
+#: 00106:2628
+
+msgid "{Kazushi}\n\"Oh, sorry. Am I being too pushy?\""
+msgstr ""
+
+#: 00106:2631
+
+msgid "{Mizuki}\n\"No, it's just... I'm not used to shaking hands with anybody.\""
+msgstr ""
+
+#: 00106:2632
+
+msgid "She gave my hand a limp shake.\nI have a feeling that we've met somewhere before."
+msgstr ""
+
+#: 00106:2633
+
+msgid "However, she says we haven't."
+msgstr ""
+
+#: 00106:2639
+
+msgid "{Appo}\n\"Hey, Kazushi, you've got some explaining to do.\nJust when we thought you might be dead, you show up surrounded by pretty girls.\""
+msgstr ""
+
+#: 00106:2640
+
+msgid "{Pierre}\n\"Good job, Kazushi. How did you manage to pick them up?\""
+msgstr ""
+
+#: 00106:2641
+
+msgid "{Kazushi}\n\"I didn't \"pick them up.\"\""
+msgstr ""
+
+#: 00106:2648
+
+msgid "{Haruka}\n\"We were 'picked up'?\""
+msgstr ""
+
+#: 00106:2649
+
+msgid "{Ran}\n\"Good job, Kazushi-\""
+msgstr ""
+
+#: 00106:2650
+
+msgid "{Kazushi}\n\"Ran, could you not make fun of me too?\""
+msgstr ""
+
+#: 00106:2659
+
+msgid "{Appo}\n\"Hey, Kazushi! Stop hogging them to yourself and introduce us too!\""
+msgstr ""
+
+#: 00106:2660
+
+msgid "{Pierre}\n\"Yeah, he's right! Don't go building your personal harem already!\""
+msgstr ""
+
+#: 00106:2661
+
+msgid "{Daigo}\n\"Kazushi, you'll get your lecture later.\""
+msgstr ""
+
+#: 00106:2662
+
+msgid "{Kazushi}\n\"Alright, already. Haruka, Ran, these are my friends...\""
+msgstr ""
+
+#: 00106:2667
+
+msgid "{Appo}\n\"I'm Appo! Back home they call me the black sun. Maybe because I'm kind of like a leader to these guys?\""
+msgstr ""
+
+#: 00106:2671
+
+msgid "{Appo}\n\"I'm very naughty at times, but I have the heart of an angel. I'm not very good at my studies, but I'll risk my life for love! If you could remember this passionate man, I would be very happy.\""
+msgstr ""
+
+#: 00106:2678
+
+msgid "{Haruka}\n\"Kazushi-kun, why's he called Appo?\""
+msgstr ""
+
+#: 00106:2679
+
+msgid "{Kazushi}\n\"Because his figure and hairstyle make him look like a poisoned apple.\""
+msgstr ""
+
+#: 00106:2680
+
+msgid "{Ran}\n\"Makes sense.\""
+msgstr ""
+
+#: 00106:2685
+
+msgid "{Appo}\n\"It's nice to meet you! I'm truly pleased to meet you! I'm honoured to meet you!\""
+msgstr ""
+
+#: 00106:2689
+
+msgid "{Pierre}\n\"Next is me... I'm Pierre. A pleasure to meet you. Amongst these men, I am like a fallen angel...\""
+msgstr ""
+
+#: 00106:2695
+
+msgid "{Ran}\n\"Pierre? Are you a half?\""
+msgstr ""
+
+#: 00106:2696
+
+msgid "{Haruka}\n\"You mean like returned from abroad? Amazing! I've never met one before!\""
+msgstr ""
+
+#: 00106:2701
+
+msgid "{Pierre}\n\"Sorry, ladies, I'm 100% Japanese.\""
+msgstr ""
+
+#: 00106:2706
+
+msgid "{Mizuki}\n\"Then why 'Pierre'?\""
+msgstr ""
+
+#: 00106:2709
+
+msgid "{Pierre}\n\"......\""
+msgstr ""
+
+#: 00106:2713
+
+msgid "{Ran}\n\"You just think it's cool to have a Western name, don't you?\""
+msgstr ""
+
+#: 00106:2716
+
+msgid "{Pierre}\n\"So what!?\""
+msgstr ""
+
+#: 00106:2717
+
+msgid "{Kazushi}\n\"Are you a psychic or something, Ran?\""
+msgstr ""
+
+#: 00106:2722
+
+msgid "{Daigo}\n\"My name is Daigo. I am very pleased to meet you.\""
+msgstr ""
+
+#: 00106:2728
+
+msgid "{Haruka}\n\"Is Daigo-kun a mecha or a robot?\""
+msgstr ""
+
+#: 00106:2729
+
+msgid "{Mizuki}\n\"His eyes look scary...\""
+msgstr ""
+
+#: 00106:2730
+
+msgid "{Kazushi}\n\"He's just nervous because he's never talked to girls before.\""
+msgstr ""
+
+#: 00106:2737
+
+msgid "{Appo}\n\"You're so relaxed it makes me sick, Kazushi!!\""
+msgstr ""
+
+#: 00106:2738
+
+msgid "{Pierre}\n\"You already made your harem didn't you! Are you King already!? Are you King already?!\""
+msgstr ""
+
+#: 00106:2739
+
+msgid "{Kazushi}\n\"No, I met them accidentally. And shouldn't we get back to school?\""
+msgstr ""
+
+#: 00106:2748
+
+msgid "{Haruka}\n\"We'll take you guys there.\nJust follow us!\""
+msgstr ""
+
+#: 00106:2751
+
+msgid "{Kazushi}\n\"Wow!! Look at this building!\nIs this our school!?\""
+msgstr ""
+
+#: 00106:2752
+
+msgid "It was built in western architecture and looked like it had some history to it. We were going to a fancy school now, unlike our previous schools."
+msgstr ""
+
+#: 00106:2758
+
+msgid "{Yagami}\n\"You guys....!\""
+msgstr ""
+
+#: 00106:2759
+
+msgid "It wasn't just our new school awaiting our arrival."
+msgstr ""
+
+#: 00106:2760
+
+msgid "{Kazushi}\n\"Oh, sensei...\""
+msgstr ""
+
+#: 00106:2764
+
+msgid "{Appo}\n\"Shit! He's angry!\""
+msgstr ""
+
+#: 00106:2765
+
+msgid "It's been a while since we've really seen him get upset."
+msgstr ""
+
+#: 00106:2769
+
+msgid "{Haruka}\n\"Wow, he looks scary. Who is he?\""
+msgstr ""
+
+#: 00106:2774
+
+msgid "{Pierre}\n\"That's our teacher.\nHe's usually really nice.\""
+msgstr ""
+
+#: 00106:2778
+
+msgid "{Daigo}\n\"This is not good.\""
+msgstr ""
+
+#: 00106:2779
+
+msgid "He calmly walked towards us with an air of sharp authority."
+msgstr ""
+
+#: 00106:2784
+
+msgid "{Yagami}\n\"You all broke off from the group didn't you? You've got quite some nerve to play hooky on your first day here.\""
+msgstr ""
+
+#: 00106:2785
+
+msgid "{Kazushi}\n\"N-no, please don't mention it. We're undeserving of your compliments...\""
+msgstr ""
+
+#: 00106:2788
+
+msgid "{Yagami}\n\"That wasn't a compliment! Now line yourselves up!\""
+msgstr ""
+
+#: 00106:2789
+
+msgid "{Kazushi}\n\"Yes, sir!\""
+msgstr ""
+
+#: 00106:2792
+
+msgid "We lined up in front of him just as we were told. His eyes were bulging out of their sockets."
+msgstr ""
+
+#: 00106:2793
+
+msgid "{Yagami}\n\"You boys know why I'm angry, right?\""
+msgstr ""
+
+#: 00106:2797
+
+msgid "{Appo}\n\"Yes, sir!\nBecause we didn't follow the rules!\""
+msgstr ""
+
+#: 00106:2801
+
+msgid "{Yagami}\n\"Then close your eyes and grit your teeth.\""
+msgstr ""
+
+#: 00106:2802
+
+msgid "{Kazushi}\n\"Yes, sir!\""
+msgstr ""
+
+#: 00106:2803
+
+msgid "Sensei wound up his fist as we braced for impact."
+msgstr ""
+
+#: 00106:2807
+
+msgid "{Mizuki}\n\"Huh? Wait, what?\""
+msgstr ""
+
+#: 00106:2812
+
+msgid "{Kazushi}\n\"Ggeh!!\""
+msgstr ""
+
+#: 00106:2817
+
+msgid "{Pierre}\n\"Hebph!\""
+msgstr ""
+
+#: 00106:2823
+
+msgid "{Appo}\n\"Gguh!!\""
+msgstr ""
+
+#: 00106:2829
+
+msgid "{Daigo}\n\"Gghoh!\""
+msgstr ""
+
+#: 00106:2833
+
+msgid "We all must have flown about three meters before landing like empty husks."
+msgstr ""
+
+#: 00106:2836
+
+msgid "{Ran}\n\"Whoohoo! That was awesome!\""
+msgstr ""
+
+#: 00106:2837
+
+msgid "That hurt. I didn't think we'd be able to get up for a while."
+msgstr ""
+
+#: 00106:2843
+
+msgid "{Haruka}\n\"Is that legal?\""
+msgstr ""
+
+#: 00106:2844
+
+msgid "{Mizuki}\n\"Are they still alive?\""
+msgstr ""
+
+#: 00106:2845
+
+msgid "Ran was the only girl who found it entertaining. The other two were frightened. It was too much for this elegant school."
+msgstr ""
+
+#: 00106:2855
+
+msgid "{Appo}\n\"Ghaaaah! That hurt!!\""
+msgstr ""
+
+#: 00106:2856
+
+msgid "{Pierre}\n\"I don't think I'll ever get used to that.\""
+msgstr ""
+
+#: 00106:2862
+
+msgid "{Yagami}\n\"You think I'll let you get used to it? Now cut it out and learn your lesson already. My fist isn't weak, but I don't want to break it against you.\""
+msgstr ""
+
+#: 00106:2863
+
+msgid "{Kazushi}\n\"Why don't you hit us a little more softly if you're so worried about your fist?\""
+msgstr ""
+
+#: 00106:2866
+
+msgid "{Yagami}\n\"I am hitting you softly.\""
+msgstr ""
+
+#: 00106:2874
+
+msgid "{Pierre}\n\"Are you serious?\""
+msgstr ""
+
+#: 00106:2875
+
+msgid "{Appo}\n\"Then what would happen if he ever hit us at 100%?!\""
+msgstr ""
+
+#: 00106:2881
+
+msgid "{Yagami}\n\"Please keep your misbehaviour at the point where I don't lose control.\""
+msgstr ""
+
+#: 00106:2882
+
+msgid "{Kazushi}\n\"Yes, sir.\""
+msgstr ""
+
+#: 00106:2887
+
+msgid "{Pierre}\n\"What might cause you to totally flip?\""
+msgstr ""
+
+#: 00106:2888
+
+msgid "{Yagami}\n\"Please don't commit any sex crimes. I'm serious.\""
+msgstr ""
+
+#: 00106:2892
+
+msgid "{Appo}\n\"Uh-oh.\""
+msgstr ""
+
+#: 00106:2893
+
+msgid "{Kazushi}\n\"What do you mean \"Uh-oh\"? Were you planning to commit them?\""
+msgstr ""
+
+#: 00106:2894
+
+msgid "I'm going to have to keep an eye on him."
+msgstr ""
+
+#: 00106:2899
+
+msgid "{Haruka}\n\"Umm, are you alright? Can you get up?\""
+msgstr ""
+
+#: 00106:2900
+
+msgid "The girls looked down in shock at our crumpled bodies. They didn't know what to do."
+msgstr ""
+
+#: 00106:2901
+
+msgid "{Kazushi}\n\"It's all right. We're used to this.\""
+msgstr ""
+
+#: 00106:2906
+
+msgid "{Pierre}\n\"If you don't mind, you could lend us your hand. Your lap would be better.\""
+msgstr ""
+
+#: 00106:2912
+
+msgid "{Pierre}\n\"Ouch......!\""
+msgstr ""
+
+#: 00106:2913
+
+msgid "{Yagami}\n\"Don't get full of yourself.\""
+msgstr ""
+
+#: 00106:2921
+
+msgid "{Sexy Lady}\n\"Hey! What's going on!?\""
+msgstr ""
+
+#: 00106:2922
+
+msgid "All of a sudden, a sexy lady showed up.\nShe gave Yagami-sensei a mean look after seeing us on the floor."
+msgstr ""
+
+#: 00106:2923
+
+msgid "{Sexy Lady}\n\"Explain to me what's going on!\""
+msgstr ""
+
+#: 00106:2924
+
+msgid "She looked very pretty, but her voice had authority. She sounded really upset."
+msgstr ""
+
+#: 00106:2925
+
+msgid "{Yagami}\n\"Ibuki-sensei, I apologize for the commotion. It's all sorted out now.\""
+msgstr ""
+
+#: 00106:2927
+
+msgid "{Ibuki-sensei}\n\"What do you mean, 'sorted out'?\""
+msgstr ""
+
+#: 00106:2928
+
+msgid "She looked at us with bewilderment. Her eyes were slender and sexy."
+msgstr ""
+
+#: 00106:2929
+
+msgid "{Appo}\n\"Whooooaa...\""
+msgstr ""
+
+#: 00106:2930
+
+msgid "Appo was in heaven just looking at her."
+msgstr ""
+
+#: 00106:2931
+
+msgid "{Ibuki-sensei}\n\"What happened here?\""
+msgstr ""
+
+#: 00106:2932
+
+msgid "{Yagami}\n\"Well these boys were acting up again, so I just had to punish them a little.\""
+msgstr ""
+
+#: 00106:2933
+
+msgid "Yagami-sensei was all smiles.\nIbuki-sensei, on the other hand, still looked upset."
+msgstr ""
+
+#: 00106:2934
+
+msgid "{Ibuki-sensei}\n\"Was this corporal punishment?\""
+msgstr ""
+
+#: 00106:2935
+
+msgid "{Yagami}\n\"I guess you could call it that.\""
+msgstr ""
+
+#: 00106:2936
+
+msgid "{Ibuki-sensei}\n\"What do you mean \"I guess you can call it that\"?!\nIt was obviously corporal punishment!\""
+msgstr ""
+
+#: 00106:2937
+
+msgid "She raised her voice. When she was angry she looked strong and attractive."
+msgstr ""
+
+#: 00106:2938
+
+msgid "{Pierre}\n\"Hey, guys, isn't she the hot teacher that the old guy from the grocery store mentioned?\""
+msgstr ""
+
+#: 00106:2939
+
+msgid "{Appo}\n\"Oh yeah! The one who's going to be my future wife!\""
+msgstr ""
+
+#: 00106:2940
+
+msgid "{Pierre}\n\"She's not your wife, she's mine!\""
+msgstr ""
+
+#: 00106:2941
+
+msgid "{Daigo}\n\"In your dreams.\""
+msgstr ""
+
+#: 00106:2942
+
+msgid "{Appo}\n\"Sensei! Ibuki-sensei! Can we have your first name please?!\""
+msgstr ""
+
+#: 00106:2943
+
+msgid "{Ibuki-sensei}\n\"Huh? Oh, my name? I'm Ibuki Mei. I'm a teacher at this academy.\""
+msgstr ""
+
+#: 00106:2944
+
+msgid "{Appo}\n\"Mei! Mei! My Mei!\""
+msgstr ""
+
+#: 00106:2945
+
+msgid "{Pierre}\n\"She's not yours! Mei-chan, huh? What a pretty name.\""
+msgstr ""
+
+#: 00106:2947
+
+msgid "{Mei}\n\"...You're quite lively.\""
+msgstr ""
+
+#: 00106:2948
+
+msgid "She must have been surprised to see us getting all energetic again so quickly."
+msgstr ""
+
+#: 00106:2954
+
+msgid "{Yagami}\n\"See? I told you they're fine. These guys never learn.\""
+msgstr ""
+
+#: 00106:2955
+
+msgid "{Mei}\n\"That doesn't give you a reason for corporal punishment. I don't know about your last school, but please refrain from that here.\""
+msgstr ""
+
+#: 00106:2958
+
+msgid "{Yagami}\n\"Do you have any better ideas, because nothing else works on them!\""
+msgstr ""
+
+#: 00106:2959
+
+msgid "{Mei}\n\"They're people too. If you talk to them, they will understand.\""
+msgstr ""
+
+#: 00106:2960
+
+msgid "Mei-sensei was standing up for us. She was our new goddess."
+msgstr ""
+
+#: 00106:2961
+
+msgid "We never had such a sexy teacher backing us up before."
+msgstr ""
+
+#: 00106:2970
+
+msgid "{Daigo}\n\"I would love for her to trample on me.\""
+msgstr ""
+
+#: 00106:2971
+
+msgid "{Kazushi}\n\"Don't start saying perverted things all of a sudden.\""
+msgstr ""
+
+#: 00106:2972
+
+msgid "{Pierre}\n\"The kind, gentle teacher you adore goes out of her way to trample on you. That's the spirit. I feel you, Daigo!\""
+msgstr ""
+
+#: 00106:2973
+
+msgid "{Kazushi}\n\"You do?\""
+msgstr ""
+
+#: 00106:2974
+
+msgid "{Appo}\n\"I want her to verbally abuse me with that lovely voice. I want her to scream, 'You rotten apple!'\""
+msgstr ""
+
+#: 00106:2975
+
+msgid "{Kazushi}\n\"You guys are sick.\""
+msgstr ""
+
+#: 00106:2983
+
+msgid "{Mei}\n\"What are you guys talking about?\""
+msgstr ""
+
+#: 00106:2984
+
+msgid "{Yagami}\n\"Now you can see what I mean. They won't listen to you.\""
+msgstr ""
+
+#: 00106:2987
+
+msgid "{Mei}\n\"That's not true. If you talk to them, they will understand. You must talk to them until they do.\""
+msgstr ""
+
+#: 00106:2990
+
+msgid "{Yagami}\n\"That would be ideal, yes, but you don't understand, Ibuki-sensei.\""
+msgstr ""
+
+#: 00106:2993
+
+msgid "{Mei}\n\"What don't I understand?\""
+msgstr ""
+
+#: 00106:2996
+
+msgid "{Yagami}\n\"They understand that if they do something wrong, they'll be hit. Yet they still did something to justify those consequences.\""
+msgstr ""
+
+#: 00106:2997
+
+msgid "{Yagami}\n\"It's like a promise between us. So, fulfilling my promise to hit them is for their sakes as well.\""
+msgstr ""
+
+#: 00106:2998
+
+msgid "{Mei}\n\"I'm still opposed to corporal punishment. They're students, not animals.\""
+msgstr ""
+
+#: 00106:3001
+
+msgid "{Yagami}\n\"Hah! I wouldn't hit them if they were animals. I hit them because they're people!\""
+msgstr ""
+
+#: 00106:3002
+
+msgid "Yagami-sensei suddenly stopped being polite. He had a bad habit of becoming rougher with his tone the more he grew sick of something."
+msgstr ""
+
+#: 00106:3005
+
+msgid "The two of them were staring each other down. It looked like sparks were flying between their eyes."
+msgstr ""
+
+#: 00106:3006
+
+msgid "{Appo}\n\"That's my wife - she doesn't take crap from anybody!\""
+msgstr ""
+
+#: 00106:3007
+
+msgid "{Pierre}\n\"She's kind of scary.\""
+msgstr ""
+
+#: 00106:3010
+
+msgid "But Ibuki-sensei was the first to look away."
+msgstr ""
+
+#: 00106:3011
+
+msgid "{Mei}\n\"Fine.\nEither way I'm taking them to the nurse's office.\""
+msgstr ""
+
+#: 00106:3014
+
+msgid "{Yagami}\n\"They can lick those wounds and be fine.\""
+msgstr ""
+
+#: 00106:3018
+
+msgid "{Mei}\n\"Can you stand? I'll lead you to the nurse's office.\""
+msgstr ""
+
+#: 00106:3019
+
+msgid "She ignored Yagami-sensei and held her hand out to us."
+msgstr ""
+
+#: 00106:3020
+
+msgid "When I grabbed her hand, I caught a whiff of a pleasant smell that must have been her perfume."
+msgstr ""
+
+#: 00106:3021
+
+msgid "{Mei}\n\"Come on, let's go.\""
+msgstr ""
+
+#: 00106:3026
+
+msgid "{Haruka}\n\"Wait, let me help you!\""
+msgstr ""
+
+#: 00106:3031
+
+msgid "{Yagami}\n\"You boys behave yourselves, OK?\""
+msgstr ""
+
+#: 00106:3039
+
+msgid "{Boys}\n\"Yes, sir!\""
+msgstr ""
+
+#: 00106:3045
+
+msgid "{Mei}\n\"Right, let's get going.\""
+msgstr ""
+
+#: 00106:3048
+
+msgid "Even the nurse's office was nicer than at our old school. It was clean and calming. I guess this is how they're supposed to be."
+msgstr ""
+
+#: 00106:3051
+
+msgid "{Pierre}\n\"You know, I think the only time I ever imagined going to the nurse's office was for a nap.\""
+msgstr ""
+
+#: 00106:3056
+
+msgid "{Appo}\n\"Guys! This bed smells like girls!!\""
+msgstr ""
+
+#: 00106:3057
+
+msgid "Appo suddenly dived onto the bed. He was panting as he rubbed his face into the pillow."
+msgstr ""
+
+#: 00106:3058
+
+msgid "{Kazushi}\n\"Dude! Behave!\""
+msgstr ""
+
+#: 00106:3059
+
+msgid "All the girls were watching him."
+msgstr ""
+
+#: 00106:3066
+
+msgid "{Mei}\n\"Okay, we'll treat you, so please sit down. I think all we can do is put ice on it though.\""
+msgstr ""
+
+#: 00106:3067
+
+msgid "{Haruka}\n\"The icepacks should be over there. I think we only have two, so we'll have to put some ice in bags for them.\""
+msgstr ""
+
+#: 00106:3074
+
+msgid "{Funny Face Girl}\n\"There you are, Ibuki-sensei.\""
+msgstr ""
+
+#: 00106:3075
+
+msgid "Another girl entered the nurse's office."
+msgstr ""
+
+#: 00106:3076
+
+msgid "From the neck down, she had a great body, but her face looked funny, and not in the laughing sense. She was glaring at us too."
+msgstr ""
+
+#: 00106:3081
+
+msgid "{Mei}\n\"Hello, Fuusen-san. How can I help you?\""
+msgstr ""
+
+#: 00106:3082
+
+msgid "I see. Her name is Fuusen."
+msgstr ""
+
+#: 00106:3086
+
+msgid "{Fuusen}\n\"Can you come with us, please? This is disgusting.\""
+msgstr ""
+
+#: 00106:3089
+
+msgid "{Mei}\n\"What's so gross that you need a teacher?\""
+msgstr ""
+
+#: 00106:3092
+
+msgid "{Fuusen}\n\"It's totally disgusting. Just follow me.\""
+msgstr ""
+
+#: 00106:3093
+
+msgid "Fuusen was trying to drag Mei-sensei out of the room."
+msgstr ""
+
+#: 00106:3096
+
+msgid "{Mei}\n\"OK, OK, just give me a second.\""
+msgstr ""
+
+#: 00106:3097
+
+msgid "She turned around, and her face was clearly apologetic."
+msgstr ""
+
+#: 00106:3101
+
+msgid "{Mei}\n\"Sorry, boys, but I have to take care of this. I'll be right back, OK? Cool it off with some ice while I'm gone.\""
+msgstr ""
+
+#: 00106:3102
+
+msgid "{Kazushi}\n\"Don't worry, we're fine. Take your time.\""
+msgstr ""
+
+#: 00106:3108
+
+msgid "{Appo}\n\"Moron. We want her back as soon as possible!\""
+msgstr ""
+
+#: 00106:3109
+
+msgid "{Pierre}\n\"Sensei, it gets lonely without you, so please come back soon.\""
+msgstr ""
+
+#: 00106:3114
+
+msgid "{Mei}\n\"I promise I'll be back as soon as possible. Aozora-san, please take care of them.\""
+msgstr ""
+
+#: 00106:3118
+
+msgid "{Haruka}\n\"Don't worry, I'll take good care of them!\""
+msgstr ""
+
+#: 00106:3123
+
+msgid "{Fuusen}\n\"Hold on. Haruka-chan, you girls should come too. I think it might have to do with you too.\""
+msgstr ""
+
+#: 00106:3130
+
+msgid "{Mizuki}\n\"Us too?\""
+msgstr ""
+
+#: 00106:3137
+
+msgid "{Mei}\n\"OK, tell us what's going on.\""
+msgstr ""
+
+#: 00106:3138
+
+msgid "{Fuusen}\n\"I can't say it here.\""
+msgstr ""
+
+#: 00106:3139
+
+msgid "She shot us a nasty glance as she said that."
+msgstr ""
+
+#: 00106:3142
+
+msgid "{Mei}\n\"Yes, yes, I get it. Okay boys, we'll be back soon.\""
+msgstr ""
+
+#: 00106:3149
+
+msgid "{Haruka}\n\"Sorry, Kazushi-kun.\""
+msgstr ""
+
+#: 00106:3155
+
+msgid "Everyone left with Fuusen. Only us guys were left here."
+msgstr ""
+
+#: 00106:3162
+
+msgid "{Appo}\n\"What the hell was that? Was that thing on the same side as the sign chasing us earlier?\""
+msgstr ""
+
+#: 00106:3163
+
+msgid "{Pierre}\n\"Genre-wise, I'd say she's the ugly friend.\""
+msgstr ""
+
+#: 00106:3164
+
+msgid "{Daigo}\n\"Her face looks like it was carved left-handed and blind.\""
+msgstr ""
+
+#: 00106:3165
+
+msgid "{Kazushi}\n\"I wonder what happened?\""
+msgstr ""
+
+#: 00106:3166
+
+msgid "She gave us a frigid stare before she left."
+msgstr ""
+
+#: 00106:3167
+
+msgid "{Kazushi}\n\"She must be from the same planet as you are, Appo. You're both just as round.\""
+msgstr ""
+
+#: 00106:3170
+
+msgid "{Appo}\n\"Don't even joke about that. I certainly didn't come all this way to spend time with someone like her!\""
+msgstr ""
+
+#: 00106:3171
+
+msgid "{Daigo}\n\"Says the guy who claimed the Principal when he landed.\""
+msgstr ""
+
+#: 00106:3174
+
+msgid "{Appo}\n\"But I now know what a true woman is. Ibuki Mei...my goddess.\""
+msgstr ""
+
+#: 00106:3175
+
+msgid "{Kazushi}\n\"Ibuki-sensei, huh? She certainly does have a mature charm. She really smells good too.\""
+msgstr ""
+
+#: 00106:3180
+
+msgid "{Appo}\n\"WHAT!?\nYou've smelled my Mei!?\""
+msgstr ""
+
+#: 00106:3181
+
+msgid "{Kazushi}\n\"You're already calling her \"Mei\"?\""
+msgstr ""
+
+#: 00106:3184
+
+msgid "{Appo}\n\"Whatever. I have this!\""
+msgstr ""
+
+#: 00106:3185
+
+msgid "He took out a pair of women's underwear from his pocket. They were a really sexy pair too."
+msgstr ""
+
+#: 00106:3186
+
+msgid "{Kazushi}\n\"Th-those are see-through?! What the hell?! Where did you get those?!\""
+msgstr ""
+
+#: 00106:3189
+
+msgid "{Appo}\n\"Destiny delivered it unto my hands.\""
+msgstr ""
+
+#: 00106:3190
+
+msgid "{Kazushi}\n\"Liar! You stole it, didn't you?! You guys too?!\""
+msgstr ""
+
+#: 00106:3196
+
+msgid "I glared at Pierre and Daigo, but they both shook their heads in disagreement."
+msgstr ""
+
+#: 00106:3197
+
+msgid "{Pierre}\n\"You know I'm not interested in clean underwear. On the girl is the way to go.\""
+msgstr ""
+
+#: 00106:3198
+
+msgid "{Daigo}\n\"I told him not to do it.\""
+msgstr ""
+
+#: 00106:3202
+
+msgid "{Appo}\n\"Or so he says, but I know you slipped a pair of knee socks into your pockets!\""
+msgstr ""
+
+#: 00106:3205
+
+msgid "{Daigo}\n\"Gulp!\""
+msgstr ""
+
+#: 00106:3206
+
+msgid "{Kazushi}\n\"Are you serious?!\nWhy SOCKS!?\""
+msgstr ""
+
+#: 00106:3209
+
+msgid "{Daigo}\n\"They were so small, and really cute. The one-point strawberry set them off, and the slight stain behind the knee...\""
+msgstr ""
+
+#: 00106:3213
+
+msgid "{Pierre}\n\"Hey, hey, keep your perversion to normal fetishes.\""
+msgstr ""
+
+#: 00106:3218
+
+msgid "{Appo}\n\"Mei!\nMei!!\""
+msgstr ""
+
+#: 00106:3219
+
+msgid "Appo was writhing on the bed as he pressed the panties against his mouth."
+msgstr ""
+
+#: 00106:3220
+
+msgid "{Kazushi}\n\"Hey, keep it down!\nYou're gonna get caught!\""
+msgstr ""
+
+#: 00106:3221
+
+msgid "{Appo}\n\"Mei!\nMei!!\""
+msgstr ""
+
+#: 00106:3222
+
+msgid "Appo had the panties to his nose and was too intoxicated with them to listen to me."
+msgstr ""
+
+#: 00106:3223
+
+msgid "{Kazushi}\n\"Hey, listen to me!\nYou're not supposed to eat that!\""
+msgstr ""
+
+#: 00106:3226
+
+msgid "{Appo}\n\"What? Here, I'll give your own pair, Kazushi. Now put it on your head.\""
+msgstr ""
+
+#: 00106:3231
+
+msgid "He put a pair of someone's underwear on my head."
+msgstr ""
+
+#: 00106:3232
+
+msgid "{Kazushi}\n\"Don't do that to me! Now, cut it out! We look like total perverts right now!\""
+msgstr ""
+
+#: 00106:3237
+
+msgid "{Daigo}\n\"Wow, those look good on you, Kazushi.\""
+msgstr ""
+
+#: 00106:3238
+
+msgid "{Kazushi}\n\"Stop it!\""
+msgstr ""
+
+#: 00106:3240
+
+msgid "{Mei}\n\"That's weird. You guys looked everywhere, right?\""
+msgstr ""
+
+#: 00106:3241
+
+msgid "{Fuusen}\n\"I'm telling you, we did! They disappeared as soon as those boys got here!\""
+msgstr ""
+
+#: 00106:3242
+
+msgid "{Kazushi}\n\"Oh shit...\""
+msgstr ""
+
+#: 00106:3252
+
+msgid "It was too late. The door swung open and the girls poured in."
+msgstr ""
+
+#: 00106:3253
+
+msgid "Their eyes fell right on Appo, happily toying with his panties on the bed, and me, with the pair over my head."
+msgstr ""
+
+#: 00106:3254
+
+msgid "{Haruka}\n\"...What the!?\""
+msgstr ""
+
+#: 00106:3255
+
+msgid "{Ran}\n\"Wow, Kazushi... I didn't know you were into that?\""
+msgstr ""
+
+#: 00106:3256
+
+msgid "{Kazushi}\n\"No! I can explain!\""
+msgstr ""
+
+#: 00106:3262
+
+msgid "{Fuusen}\n\"Kyaah!! Those are Rei's panties!\""
+msgstr ""
+
+#: 00106:3263
+
+msgid "She pointed at the pair I was wearing at my head."
+msgstr ""
+
+#: 00106:3271
+
+msgid "{Appo}\n\"..........................huh?\""
+msgstr ""
+
+#: 00106:3272
+
+msgid "{Pierre}\n\"Rei?\""
+msgstr ""
+
+#: 00106:3273
+
+msgid "The funny faced girl kept shouting as we froze."
+msgstr ""
+
+#: 00106:3279
+
+msgid "{Fuusen}\n\"Rei! Rei! I found them! I found your favourite pair!!\""
+msgstr ""
+
+#: 00106:3283
+
+msgid "{Big Girl}\n\".....................\""
+msgstr ""
+
+#: 00106:3284
+
+msgid "{Kazushi}\n\"Wh-wh-wh-wh-wh?!\""
+msgstr ""
+
+#: 00106:3292
+
+msgid "{Appo}\n\"A man? A beast?\""
+msgstr ""
+
+#: 00106:3293
+
+msgid "{Pierre}\n\"S-she's barely a primate, right?!\""
+msgstr ""
+
+#: 00106:3294
+
+msgid "{Daigo}\n\"She must be the PE teacher or some kind of cosplayer!\""
+msgstr ""
+
+#: 00106:3295
+
+msgid "She reminded me of the statue of Atlas I saw in a museum."
+msgstr ""
+
+#: 00106:3301
+
+msgid "{Big Girl}\n\"...N...\""
+msgstr ""
+
+#: 00106:3302
+
+msgid "{Kazushi}\n\"N?\""
+msgstr ""
+
+#: 00106:3303
+
+msgid "{Big Girl}\n\"...No.\""
+msgstr ""
+
+#: 00106:3309
+
+msgid "{Ran}\n\"Everybody! Watch out!\""
+msgstr ""
+
+#: 00106:3310
+
+msgid "{Haruka}\n\"Your ears! Cover your ears!!\""
+msgstr ""
+
+#: 00106:3311
+
+msgid "{Kazushi}\n\"Our ears?\""
+msgstr ""
+
+#: 00106:3318
+
+msgid "{Big Girl}\n\"NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!\""
+msgstr ""
+
+#: 00106:3327
+
+msgid "{Boys}\n\"Gwaaaaaaaaaaaah!!\""
+msgstr ""
+
+#: 00106:3328
+
+msgid "Her scream-or should I say war cry?-rang throughout the entire school."
+msgstr ""
+
+#: 00106:3329
+
+msgid "The other students would report finding dead birds on the streets for days afterwards."
+msgstr ""
+
+#: 00106:3336
+
+msgid "{Big Girl}\n\"NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!\""
+msgstr ""
+
+#: 00106:3337
+
+msgid "Her scream went on forever."
+msgstr ""
+
+#: 00106:3341
+
+msgid "{Big Girl}\n\"...This is terrible...\""
+msgstr ""
+
+#: 00106:3345
+
+msgid "{Appo}\n\"What's terrible is your very exis--!!\""
+msgstr ""
+
+#: 00106:3346
+
+msgid "Pierre bolted to cover Appo's mouth. We didn't want to find out how much worse this could get if we let him finish."
+msgstr ""
+
+#: 00106:3350
+
+msgid "{Big Girl}\n\"M...m...my favourites!!\""
+msgstr ""
+
+#: 00106:3351
+
+msgid "{Kazushi}\n\"Am I wearing yours, then?\""
+msgstr ""
+
+#: 00106:3354
+
+msgid "{Big Girl}\n\"Yes!! I worked hard to save up for and order them!\""
+msgstr ""
+
+#: 00106:3355
+
+msgid "{Kazushi}\n\"Oops!\nI'm very sorry!\""
+msgstr ""
+
+#: 00106:3357
+
+msgid "I took them off my head as fast as possible. It was already too late, though."
+msgstr ""
+
+#: 00106:3362
+
+msgid "{Fuusen}\n\"I can't believe you'd put a girl's panties on your head! What kind of sick thoughts are going through your mind, pervert?!\""
+msgstr ""
+
+#: 00106:3363
+
+msgid "{Kazushi}\n\"No, I just couldn't stop him. You might not believe me, but...\""
+msgstr ""
+
+#: 00106:3366
+
+msgid "{Fuusen}\n\"Of course we won't believe you! Sensei, I told you it was them! Say something to them!\""
+msgstr ""
+
+#: 00106:3370
+
+msgid "{Mei}\n\"Yes, well...umm...\""
+msgstr ""
+
+#: 00106:3371
+
+msgid "She was lost in thought for a couple seconds before she spoke."
+msgstr ""
+
+#: 00106:3375
+
+msgid "{Mei}\n\"Haruma-kun, was it? Listen, underwear's designed to be worn around your waist, not on your head.\""
+msgstr ""
+
+#: 00106:3380
+
+msgid "{Fuusen}\n\"That's not the point! This is a crime! They stole our underwear!!\""
+msgstr ""
+
+#: 00106:3384
+
+msgid "{Appo}\n\"She's lying! She has to be lying!! These panties are yours? How the hell can you fit into this tiny strip of cloth?\""
+msgstr ""
+
+#: 00106:3385
+
+msgid "He compared the girl and the underwear in his hand."
+msgstr ""
+
+#: 00106:3386
+
+msgid "{Fuusen}\n\"Those are hers, no mistake! Every lady wants a sexy pair to wear on a date!\""
+msgstr ""
+
+#: 00106:3387
+
+msgid "{Kazushi}\n\"Her special date underwear...\""
+msgstr ""
+
+#: 00106:3390
+
+msgid "{Appo}\n\"Hold it! ...You, a date?\""
+msgstr ""
+
+#: 00106:3391
+
+msgid "{Fuusen}\n\"Ahh! Rei, don't cry! I know a pervert had your panties in his mouth, but--!\""
+msgstr ""
+
+#: 00106:3396
+
+msgid "{Big Girl}\n\"I haven't even had a chance to wash them!\""
+msgstr ""
+
+#: 00106:3400
+
+msgid "Appo's face turned pale as soon as he heard that."
+msgstr ""
+
+#: 00106:3403
+
+msgid "{Appo}\n\"Bleeeeeeeegh.\""
+msgstr ""
+
+#: 00106:3409
+
+msgid "{Daigo}\n\"He's throwing up again.\""
+msgstr ""
+
+#: 00106:3410
+
+msgid "{Pierre}\n\"In the sink! In the sink!\""
+msgstr ""
+
+#: 00106:3415
+
+msgid "{Appo}\n\"You liar! Don't pull that shit! What do you need date underwear for?! When would you wear these? Karate? Judo? Wrestling?!\""
+msgstr ""
+
+#: 00106:3416
+
+msgid "{Kazushi}\n\"Don't yell while you're puking!\""
+msgstr ""
+
+#: 00106:3421
+
+msgid "{Big Girl}\n\"Y-you're so mean! Wh-why are you saying that? ...What did I do to you?!\""
+msgstr ""
+
+#: 00106:3422
+
+msgid "She was in tears.\nUnlike her looks, she was a really sensitive girl. I think we're complete bad guys here."
+msgstr ""
+
+#: 00106:3425
+
+msgid "{Appo}\n\"W-why are you crying? That doesn't fit you at all.\""
+msgstr ""
+
+#: 00106:3428
+
+msgid "{Big Girl}\n\"Noooo! I've had enough!\""
+msgstr ""
+
+#: 00106:3429
+
+msgid "She went past being upset with us to hatred."
+msgstr ""
+
+#: 00106:3436
+
+msgid "{Daigo}\n\"I think you should give them back to her, Appo.\""
+msgstr ""
+
+#: 00106:3437
+
+msgid "{Pierre}\n\"Daigo's right. Give them back to her.\""
+msgstr ""
+
+#: 00106:3442
+
+msgid "{Appo}\n\"...Here you go.\""
+msgstr ""
+
+#: 00106:3443
+
+msgid "Appo gave the big girl back her underwear. She took one look at the underwear and started streaming tears again."
+msgstr ""
+
+#: 00106:3447
+
+msgid "{Big Girl}\n\"He stained my panties!!\""
+msgstr ""
+
+#: 00106:3452
+
+msgid "{Appo}\n\"What?!\""
+msgstr ""
+
+#: 00106:3456
+
+msgid "{Fuusen}\n\"What did you do?! What did you do to Rei's panties?! Y-you didn't possibly wrap these around and jerk...\""
+msgstr ""
+
+#: 00106:3459
+
+msgid "{Appo}\n\"Hell no! Thank god I didn't! That stain was already-\""
+msgstr ""
+
+#: 00106:3462
+
+msgid "{Appo}\n\"Ugh...I licked those things...\""
+msgstr ""
+
+#: 00106:3466
+
+msgid "{Big Girl}\n\"You scumbag! I hope you die!\""
+msgstr ""
+
+#: 00106:3467
+
+msgid "{Appo}\n\"Bleeeeeeeeegh!!\""
+msgstr ""
+
+#: 00106:3470
+
+msgid "{Big Girl}\n\"Now I can't wear them anymore! What are you going to do about this?!\""
+msgstr ""
+
+#: 00106:3473
+
+msgid "{Appo}\n\"S-screw that! If I'd known they were yours, I wouldn't have done anything to them!\""
+msgstr ""
+
+#: 00106:3474
+
+msgid "Appo was starting to lose it too."
+msgstr ""
+
+#: 00106:3478
+
+msgid "{Fuusen}\n\"Hah! Impudent thief! Arrest them, sensei!\""
+msgstr ""
+
+#: 00106:3483
+
+msgid "{Mei}\n\"Now, boys. Your prank went too far this time. This is a crime, you know?\""
+msgstr ""
+
+#: 00106:3484
+
+msgid "{Kazushi}\n\"Boys? You're including me?!\""
+msgstr ""
+
+#: 00106:3489
+
+msgid "{Fuusen}\n\"You were wearing them!\""
+msgstr ""
+
+#: 00106:3493
+
+msgid "{Big Girl}\n\"Noooooooooo!\nI've never been more embarrassed in my entire life! And by complete strangers!\""
+msgstr ""
+
+#: 00106:3495
+
+msgid "She went feral, rampaging like an upset mother bear tearing apart her own panties."
+msgstr ""
+
+#: 00106:3496
+
+msgid "{Pierre}\n\"She's not human.\""
+msgstr ""
+
+#: 00106:3497
+
+msgid "{Daigo}\n\"This is bad.\""
+msgstr ""
+
+#: 00106:3498
+
+msgid "The only other person her size was terrified, too."
+msgstr ""
+
+#: 00106:3499
+
+msgid "{Big Girl}\n\"NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!\""
+msgstr ""
+
+#: 00106:3500
+
+msgid "The glass in the windows shook. The girls all covered their ears as she screamed."
+msgstr ""
+
+#: 00106:3501
+
+msgid "{Big Girl}\n\"Unforgivable! Unforgivable! Unforgivable! This is unforgivable!!\""
+msgstr ""
+
+#: 00106:3502
+
+msgid "{Appo}\n\"Calm down!\nYou look so much prettier when you're happy!\""
+msgstr ""
+
+#: 00106:3503
+
+msgid "{Pierre}\n\"Nice try, Appo.\""
+msgstr ""
+
+#: 00106:3504
+
+msgid "{Big Girl}\n\"Hraaaaaaaaaagh!!\""
+msgstr ""
+
+#: 00106:3510
+
+msgid "{Appo}\n\"Bgyaaaaaaah!!\""
+msgstr ""
+
+#: 00106:3512
+
+msgid "{Pierre}\n\"Wow!\nShe sent Appo flying!\""
+msgstr ""
+
+#: 00106:3513
+
+msgid "{Big Girl}\n\"Hraaaaaaaaaagh!!\""
+msgstr ""
+
+#: 00106:3517
+
+msgid "{Pierre}\n\"Bgyaaaaaaah!!\""
+msgstr ""
+
+#: 00106:3519
+
+msgid "{Kazushi}\n\"H-hhh?! She just sent two guys into orbit?!\""
+msgstr ""
+
+#: 00106:3520
+
+msgid "{Big Girl}\n\"Hrooooooaagh!!\""
+msgstr ""
+
+#: 00106:3527
+
+msgid "{Daigo}\n\"Ggbyaaaaaah!!\""
+msgstr ""
+
+#: 00106:3530
+
+msgid "{Kazushi}\n\"Why me???????\""
+msgstr ""
+
+#: 00106:3535
+
+msgid "{Big Girl}\n\"Hah, hah, hah...\""
+msgstr ""
+
+#: 00106:3541
+
+msgid "{Big Girl}\n\"Waaaaaaaaaaaaaahn! I can't take this!!\""
+msgstr ""
+
+#: 00106:3546
+
+msgid "{Fuusen}\n\"Don't cry, Rei. Accidents happen!\""
+msgstr ""
+
+#: 00106:3553
+
+msgid "{Haruka}\n\"You think they're even still alive?\""
+msgstr ""
+
+#: 00106:3554
+
+msgid "{Ran}\n\"Guess the nurses's office did nothing for them.\""
+msgstr ""
+
+#: 00106:3559
+
+msgid "{Mei}\n\"Well, it might be tough teaching boys. I hope I'm cut out for it...\""
+msgstr ""
+
+#: 00106:3564
+
+msgid "{Yagami}\n\"YOU IDIOTS!\""
+msgstr ""
+
+#: 00106:3565
+
+msgid "He was so livid that he didn't even have the energy to punch us."
+msgstr ""
+
+#: 00106:3566
+
+msgid "{Kazushi}\n\"It's all right, you don't have to say anything. We feel terrible already this time.\""
+msgstr ""
+
+#: 00106:3571
+
+msgid "{Appo}\n\"I'm sorry.\""
+msgstr ""
+
+#: 00106:3572
+
+msgid "{Yagami}\n\"No dinner for you tonight!\""
+msgstr ""
+
+#: 00106:3580
+
+msgid "{Pierre}\n\"Gah?!\""
+msgstr ""
+
+#: 00106:3581
+
+msgid "{Kazushi}\n\"How cruel!!\""
+msgstr ""
+
+#: 00106:3582
+
+msgid "{Daigo}\n\"The tuna... The mountain produce...\""
+msgstr ""
+
+#: 00106:3588
+
+msgid "{Yagami}\n\"You guys better be back here later with apology letters. And be thankful that's all you face.\""
+msgstr ""
+
+#: 00106:3589
+
+msgid "{Kazushi}\n\"Yes, sir.\""
+msgstr ""
+
+#: 00106:3590
+
+msgid "No dinner...... That's rough..."
+msgstr ""
+
+#: 00106:3593
+
+msgid "This is what they call social punishment. All the girls kept their distance and whispered as we passed by through the corridors."
+msgstr ""
+
+#: 00106:3594
+
+msgid "{Girl A}\n\"Those are the underwear thieves. Gross, right?\""
+msgstr ""
+
+#: 00106:3595
+
+msgid "{Girl B}\n\"I heard they even when through the trash by the toilets.\""
+msgstr ""
+
+#: 00106:3596
+
+msgid "{Girl C}\n\"That's so perverted.\""
+msgstr ""
+
+#: 00106:3597
+
+msgid "{Kazushi}\n\"..................\""
+msgstr ""
+
+#: 00106:3598
+
+msgid "{Girl D}\n\"We've got to be careful. They might try and sneak into our rooms at night.\""
+msgstr ""
+
+#: 00106:3599
+
+msgid "{Girl E}\n\"I heard they've managed to get some of us pregnant already!\""
+msgstr ""
+
+#: 00106:3606
+
+msgid "{Appo}\n\"How is that even possible?\""
+msgstr ""
+
+#: 00106:3607
+
+msgid "{Pierre}\n\"I don't even have the strength to respond to them.\""
+msgstr ""
+
+#: 00106:3611
+
+msgid "He was right. His voice was so hollow."
+msgstr ""
+
+#: 00106:3612
+
+msgid "They say that rumors grow, but this one spread like wildfire and grew even worse."
+msgstr ""
+
+#: 00106:3613
+
+msgid "No one was willing to come near us or even make eye contact."
+msgstr ""
+
+#: 00106:3616
+
+msgid "{Pierre}\n\"Excuse me, you there. Which way is the men's bathroom?\""
+msgstr ""
+
+#: 00106:3617
+
+msgid "{Girl A}\n\"Hyah!\""
+msgstr ""
+
+#: 00106:3620
+
+msgid "They often ignored us. Most of them ran away from us. They seemed to think just talking to us would get them pregnant."
+msgstr ""
+
+#: 00106:3623
+
+msgid "{Pierre}\n\"Oh, come on. How are we supposed to pick up chicks like this?\""
+msgstr ""
+
+#: 00106:3624
+
+msgid "{Kazushi}\n\"That's not going to happen for a while.\""
+msgstr ""
+
+#: 00106:3625
+
+msgid "The girls looked at me like I was filth when I just walked down the hall. I finally understood what it felt like to be the kid everybody picks on."
+msgstr ""
+
+#: 00106:3629
+
+msgid "{Daigo}\n\"What are we going to do now?\""
+msgstr ""
+
+#: 00106:3630
+
+msgid "Daigo's voice was full of anxiety.\nHe's actually a very sensitive guy. He was already worrying about his life here."
+msgstr ""
+
+#: 00106:3631
+
+msgid "{Kazushi}\n\"Don't worry so much!\nThings were just as bad as when we started at our last school!\""
+msgstr ""
+
+#: 00106:3638
+
+msgid "{Appo}\n\"Yeah, that's true. Things couldn't have gotten any worse than that, but we pulled through somehow.\""
+msgstr ""
+
+#: 00106:3639
+
+msgid "{Pierre}\n\"This is nothing compared to that!\""
+msgstr ""
+
+#: 00106:3642
+
+msgid "{Daigo}\n\"You're right. We're going to be fine.\""
+msgstr ""
+
+#: 00106:3643
+
+msgid "{Kazushi}\n\"Let's keep our heads up and explore our new surroundings!\""
+msgstr ""
+
+#: 00106:3646
+
+msgid "{Pierre}\n\"That's right! We should find the important spots now while we can!\""
+msgstr ""
+
+#: 00106:3649
+
+msgid "{Appo}\n\"Yeah, we haven't even seen our dorm yet!\nLet's go see what our room is going to be like!\""
+msgstr ""
+
+#: 00106:3650
+
+msgid "{Kazushi}\n\"Right. It might be really extravagant too. Speaking of our dorm...where is it?\""
+msgstr ""
+
+#: 00106:3651
+
+msgid "None of us knew."
+msgstr ""
+
+#: 00106:3654
+
+msgid "{Appo}\n\"I bet she'd know.\""
+msgstr ""
+
+#: 00106:3658
+
+msgid "{Girl}\n\"Kyaaaah!!\""
+msgstr ""
+
+#: 00106:3660
+
+msgid "...Another one ran away."
+msgstr ""
+
+#: 00106:3664
+
+msgid "{Appo}\n\"I didn't even say anything! Who the hell would ask you, pig! Die! Perish!\""
+msgstr ""
+
+#: 00106:3665
+
+msgid "Appo flipped her off. The girls gave him even sharper looks than before."
+msgstr ""
+
+#: 00106:3670
+
+msgid "Someone threw a rock."
+msgstr ""
+
+#: 00106:3675
+
+msgid "{Appo}\n\"Uwah?! Ouch!\""
+msgstr ""
+
+#: 00106:3683
+
+msgid "{Pierre}\n\"Hey! Don't throw rocks, got it?!\""
+msgstr ""
+
+#: 00106:3685
+
+msgid "{Daigo}\n\"I knew it! It won't work here! We should have never transferred to a girls' school!\""
+msgstr ""
+
+#: 00106:3687
+
+msgid "{Kazushi}\n\"Don't get depressed so soon.\""
+msgstr ""
+
+#: 00106:3689
+
+msgid "We were completely treated as the away team."
+msgstr ""
+
+#: 00106:3695
+
+msgid "{Haruka}\n\"Everybody stop it!\""
+msgstr ""
+
+#: 00106:3696
+
+msgid "Haruka's strong voice filled the hall."
+msgstr ""
+
+#: 00106:3697
+
+msgid "{Haruka}\n\"That's enough speaking behind their backs!\nIf you have something to say to the boys, say it to their faces.\""
+msgstr ""
+
+#: 00106:3698
+
+msgid "Haruka stood in front of us and glared accusingly at the students. She was just like a hero of justice."
+msgstr ""
+
+#: 00106:3699
+
+msgid "Definitely not the same as my first impression."
+msgstr ""
+
+#: 00106:3705
+
+msgid "{Girl}\n\"Yeah, Harunyan is right.\""
+msgstr ""
+
+#: 00106:3706
+
+msgid "Two students came forward from the crowd."
+msgstr ""
+
+#: 00106:3707
+
+msgid "{Haruka}\n\"Ah! Sakura and Rin-chan!\""
+msgstr ""
+
+#: 00106:3708
+
+msgid "They must know each other."
+msgstr ""
+
+#: 00106:3717
+
+msgid "{Pierre}\n\"Ooh, those girls are pretty cute too. Girls' schools are full of pretty women!\""
+msgstr ""
+
+#: 00106:3718
+
+msgid "{Appo}\n\"You sure? I think they're lacking a little something. Breasts to be specific.\""
+msgstr ""
+
+#: 00106:3719
+
+msgid "{Kazushi}\n\"They're just fine the way they are.\""
+msgstr ""
+
+#: 00106:3727
+
+msgid "No, they weren't super beauties, but they were pretty enough, just the type of girls who would be popular with the guys."
+msgstr ""
+
+#: 00106:3729
+
+msgid "{Sakura}\n\"Harunyan's right. We shouldn't whisper behind their backs.\""
+msgstr ""
+
+#: 00106:3730
+
+msgid "{Rin}\n\"Y-yes. I understand your feelings, but not all of the boys are perverts, right?\""
+msgstr ""
+
+#: 00106:3731
+
+msgid "{Sakura}\n\"Uh-huh. Only a few of them are perverts.\""
+msgstr ""
+
+#: 00106:3732
+
+msgid "{Kazushi}\n\"Oh, we could be the 'them' in question.\""
+msgstr ""
+
+#: 00106:3737
+
+msgid "For an instant, everything froze. Then they suddenly erupted in chatter."
+msgstr ""
+
+#: 00106:3740
+
+msgid "{Rin}\n\"Is that true?\""
+msgstr ""
+
+#: 00106:3744
+
+msgid "{Pierre}\n\"Kazushi, you dumbass. Don't be honest about that!\""
+msgstr ""
+
+#: 00106:3747
+
+msgid "{Sakura}\n\"He's right. You're way too honest.\""
+msgstr ""
+
+#: 00106:3748
+
+msgid "She pointed at me and started laughing. She's a cheerful girl."
+msgstr ""
+
+#: 00106:3753
+
+msgid "{Haruka}\n\"Anyways!\nI know you're all unsure about the sudden changes, but no more speaking behind each other's backs, OK?\""
+msgstr ""
+
+#: 00106:3756
+
+msgid "{Haruka}\n\"If you have any worries, or anything you'd like to say, then let me know. I'm here to listen.\""
+msgstr ""
+
+#: 00106:3757
+
+msgid "Her tone was kind and gentle. Everyone there began to relax. The crowd dispersed before we knew it."
+msgstr ""
+
+#: 00106:3761
+
+msgid "{Pierre}\n\"Phew, I was worried for a minute.\""
+msgstr ""
+
+#: 00106:3767
+
+msgid "{Sakura}\n\"I bet that was rough.\""
+msgstr ""
+
+#: 00106:3768
+
+msgid "Sakura was very friendly, and talking to us."
+msgstr ""
+
+#: 00106:3769
+
+msgid "The other girl, Rin, was still hiding behind Sakura. She was bigger than Sakura, though, so she wasn't hidden at all."
+msgstr ""
+
+#: 00106:3770
+
+msgid "{Sakura}\n\"We girls are pretty scary in a pack, aren't we?\""
+msgstr ""
+
+#: 00106:3771
+
+msgid "{Kazushi}\n\"You're right. It was scary when they had us surrounded.\""
+msgstr ""
+
+#: 00106:3772
+
+msgid "{Sakura}\n\"Right? So it's best not to anger them.\""
+msgstr ""
+
+#: 00106:3776
+
+msgid "{Daigo}\n\"But those rumors have already spread.\""
+msgstr ""
+
+#: 00106:3780
+
+msgid "{Haruka}\n\"Girls love to gossip. Rumours spread instantly here.\""
+msgstr ""
+
+#: 00106:3787
+
+msgid "{Sakura}\n\"Yup. I heard too. They grew pretty big since they started.\""
+msgstr ""
+
+#: 00106:3788
+
+msgid "{Rin}\n\"Is it true that one of you wore a pair of underwear on his head?\""
+msgstr ""
+
+#: 00106:3792
+
+msgid "{Appo}\n\"Oh, that was Kazushi. This guy.\""
+msgstr ""
+
+#: 00106:3793
+
+msgid "{Rin}\n\"Hh...\""
+msgstr ""
+
+#: 00106:3794
+
+msgid "{Kazushi}\n\"You forced it on me!\""
+msgstr ""
+
+#: 00106:3798
+
+msgid "{Haruka}\n\"That went a little too far. Girls are sensitive about these things.\""
+msgstr ""
+
+#: 00106:3802
+
+msgid "{Sakura}\n\"True. Once the rumors spread this far, there's not much you can do.\""
+msgstr ""
+
+#: 00106:3806
+
+msgid "{Pierre}\n\"But now no one will even talk to us. We don't even know where our dorm is.\""
+msgstr ""
+
+#: 00106:3809
+
+msgid "{Haruka}\n\"Very well. I'll show you the way.\""
+msgstr ""
+
+#: 00106:3813
+
+msgid "{Appo}\n\"Really? Are you sure?\""
+msgstr ""
+
+#: 00106:3814
+
+msgid "{Kazushi}\n\"Are you sure that's alright? They won't start bullying you for helping us, will they?\""
+msgstr ""
+
+#: 00106:3818
+
+msgid "{Rin}\n\"That's not going to happen.\""
+msgstr ""
+
+#: 00106:3822
+
+msgid "{Sakura}\n\"Harunyan's the principal's granddaughter. Besides, everyone trusts her.\""
+msgstr ""
+
+#: 00106:3826
+
+msgid "{Haruka}\n\"I don't know about that, but the principal did ask me to show you guys around.\""
+msgstr ""
+
+#: 00106:3829
+
+msgid "{Sakura}\n\"She's best for the job. No one will say anything about Harunyan.\""
+msgstr ""
+
+#: 00106:3830
+
+msgid "{Kazushi}\n\"Is that true?\""
+msgstr ""
+
+#: 00106:3831
+
+msgid "Then that means we can count on her? Haruka gave us a reassuring smile as if she guessed what was on my mind."
+msgstr ""
+
+#: 00106:3835
+
+msgid "{Haruka}\n\"It's alright. Well, why don't I show you to the dorms?\""
+msgstr ""
+
+#: 00106:3836
+
+msgid "{Kazushi}\n\"Please, if you will.\""
+msgstr ""
+
+#: 00106:3837
+
+msgid "{Haruka}\n\"Let's go.\""
+msgstr ""
+
+#: 00106:3840
+
+msgid "As we followed Haruka, a gorgeous building came into view."
+msgstr ""
+
+#: 00106:3841
+
+msgid "{Kazushi}\n\"Is that it?\""
+msgstr ""
+
+#: 00106:3844
+
+msgid "{Haruka}\n\"That's the girls' dorm. It has heating, air conditioning, and tight security. It's really nice.\""
+msgstr ""
+
+#: 00106:3852
+
+msgid "{Pierre}\n\"No kidding!!\""
+msgstr ""
+
+#: 00106:3853
+
+msgid "{Appo}\n\"Then since the men's dorm is new, it'll be even more extravagant, right?!\""
+msgstr ""
+
+#: 00106:3854
+
+msgid "{Kazushi}\n\"That's right!\nI can't wait to see it! Where is it?\""
+msgstr ""
+
+#: 00106:3860
+
+msgid "{Haruka}\n\"Uh, well, it's just up ahead.\""
+msgstr ""
+
+#: 00106:3868
+
+msgid "{Appo}\n\"Come on, move it!\""
+msgstr ""
+
+#: 00106:3869
+
+msgid "{Pierre}\n\"How amazing do you think it is?! I can't wait!\""
+msgstr ""
+
+#: 00106:3870
+
+msgid "{Daigo}\n\"Wait for me!\""
+msgstr ""
+
+#: 00106:3882
+
+msgid "{Haruka}\n\"Guys, I think you should lower your expectations. They're gone.\""
+msgstr ""
+
+#: 00106:3887
+
+msgid "We ran straight ahead for a while, but only thing we saw was an old shack."
+msgstr ""
+
+#: 00106:3888
+
+msgid "{Kazushi}\n\"This is weird.\nThere wasn't a fork in the path or anything, was there?\""
+msgstr ""
+
+#: 00106:3893
+
+msgid "{Appo}\n\"Where? Where? Where's the men's dorm?\""
+msgstr ""
+
+#: 00106:3894
+
+msgid "{Pierre}\n\"It could be a bit further down. Let's keep going.\""
+msgstr ""
+
+#: 00106:3899
+
+msgid "{Daigo}\n\"No way, this is a dead end. Could this shack really be it?\""
+msgstr ""
+
+#: 00106:3906
+
+msgid "Our expectations had rocketed sky high and now plunged like a lead balloon."
+msgstr ""
+
+#: 00106:3915
+
+msgid "{Haruka}\n\"Hah, hah... You guys are so fast.\""
+msgstr ""
+
+#: 00106:3916
+
+msgid "We knew this shack was going to be our home by her sad face."
+msgstr ""
+
+#: 00106:3919
+
+msgid "{Haruka}\n\"I'm sorry. The transfer was so sudden we didn't have much time.\""
+msgstr ""
+
+#: 00106:3924
+
+msgid "{Pierre}\n\"No time? But still, isn't this a bit too half-assed?\""
+msgstr ""
+
+#: 00106:3925
+
+msgid "{Kazushi}\n\"At least it's got air conditioning, right?\""
+msgstr ""
+
+#: 00106:3926
+
+msgid "{Haruka}\n\"Sorry, it doesn't. They said a heater and an air conditioner wouldn't help in there.\""
+msgstr ""
+
+#: 00106:3927
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 00106:3931
+
+msgid "{Appo}\n\"But look at the different between this and their dorm! We carried ourselves all the way to this remote island to get this awful reception?!\""
+msgstr ""
+
+#: 00106:3934
+
+msgid "{Haruka}\n\"I'm terribly sorry.\""
+msgstr ""
+
+#: 00106:3935
+
+msgid "{Kazushi}\n\"Don't blame Haruka. She didn't build it.\""
+msgstr ""
+
+#: 00106:3939
+
+msgid "{Pierre}\n\"That's true, but still, this is...\""
+msgstr ""
+
+#: 00106:3942
+
+msgid "We shouldn't have seen the girls' dorm first. The difference in scale is what was bringing us down."
+msgstr ""
+
+#: 00106:3949
+
+msgid "{Daigo}\n\"Suddenly I'm not so sure that it was a good idea to move to this island anymore...\""
+msgstr ""
+
+#: 00106:3950
+
+msgid "{Kazushi}\n\"Stop being so overly sensitive, Daigo. It'll work out.\""
+msgstr ""
+
+#: 00106:3951
+
+msgid "{Pierre}\n\"Together, we can get through anything.\""
+msgstr ""
+
+#: 00106:3952
+
+msgid "I wanted to think we'd manage, but there was such a let down between the ideal and our reality that I didn't have much confidence."
+msgstr ""
+
+#: 00106:3958
+
+msgid "{Haruka}\n\"Um... I'm really sorry. Let me know if you have any trouble. I'll try to get the principal to do what we can.\""
+msgstr ""
+
+#: 00106:3959
+
+msgid "{Kazushi}\n\"Thanks, but this really isn't your fault, OK?\""
+msgstr ""
+
+#: 00106:3962
+
+msgid "{Haruka}\n\"Thanks. I didn't expect that I'd be the one who needs encouraging.\""
+msgstr ""
+
+#: 00106:3963
+
+msgid "She tapped her head and stuck out her tongue as she smiled, but it was a restrained smile."
+msgstr ""
+
+#: 00106:3964
+
+msgid "I had to say something to lighten the mood, but didn't know what to talk about."
+msgstr ""
+
+#: 00106:3967
+
+msgid "{Haruka}\n\"Umm, so what now? Shall I show you around somewhere else?\""
+msgstr ""
+
+#: 00106:3968
+
+msgid "Everybody was so depressed that nobody could answer her question."
+msgstr ""
+
+#: 00106:3969
+
+msgid "{Kazushi}\n\"Hey, guys, let's just drop our stuff for now and rest. We can ask her to come back after a break.\""
+msgstr ""
+
+#: 00106:3972
+
+msgid "{Haruka}\n\"Yeah, that's a good idea. I'll be heading back, then, but if you need anything, just let me know.\""
+msgstr ""
+
+#: 00106:3973
+
+msgid "{Kazushi}\n\"Thanks.\""
+msgstr ""
+
+#: 00106:3978
+
+msgid "Haruka waved as she left. Once we lost sight of her, we felt like a pack of abandoned dogs."
+msgstr ""
+
+#: 00106:3985
+
+msgid "{Pierre}\n\"You think we'll be able to get used to living in this shack?\""
+msgstr ""
+
+#: 00106:3986
+
+msgid "Everyone glanced at the shack with disgust. That was our new home? It had been our final hope, so the shock was severe."
+msgstr ""
+
+#: 00106:3987
+
+msgid "{Daigo}\n\"Should we go inside?\""
+msgstr ""
+
+#: 00106:3988
+
+msgid "{Kazushi}\n\"I'm kind of reluctant, myself.\""
+msgstr ""
+
+#: 00106:3989
+
+msgid "{Appo}\n\"I'll go put my stuff down.\""
+msgstr ""
+
+#: 00106:3995
+
+msgid "He was back as soon as he walked inside. He was covered in sweat."
+msgstr ""
+
+#: 00106:4000
+
+msgid "{Appo}\n\"What the fuck?! It's a sauna in there!! You can't live in a place like that!!\""
+msgstr ""
+
+#: 00106:4007
+
+msgid "{Pierre}\n\"Thought so. The sun's still high.\""
+msgstr ""
+
+#: 00106:4008
+
+msgid "{Daigo}\n\"The roof's just a sheet of iron, right? That's going to turn it into a hothouse in the afternoon.\""
+msgstr ""
+
+#: 00106:4009
+
+msgid "{Kazushi}\n\"At least it has a roof to keep the rain out... Right?\""
+msgstr ""
+
+#: 00106:4013
+
+msgid "Okay, both were equally big problems. If we kept standing here, we'd wind up with heat stroke. For now, we wandered over to the shade."
+msgstr ""
+
+#: 00106:4020
+
+msgid "{Daigo}\n\"I'm hungry...\""
+msgstr ""
+
+#: 00106:4021
+
+msgid "{Pierre}\n\"We don't get dinner tonight, remember?\""
+msgstr ""
+
+#: 00106:4022
+
+msgid "{Appo}\n\"Stop, don't remind me. How much longer until breakfast tomorrow?\""
+msgstr ""
+
+#: 00106:4023
+
+msgid "He must be starving after how much he threw up on the boat."
+msgstr ""
+
+#: 00106:4024
+
+msgid "{Kazushi}\n\"Well, it's no use staying here. Let's go for a walk.\""
+msgstr ""
+
+#: 00106:4033
+
+msgid "{Pierre}\n\"Are we allowed to walk around? I thought we were supposed to be confined to our rooms.\""
+msgstr ""
+
+#: 00106:4034
+
+msgid "{Kazushi}\n\"I'm just trying to lighten the mood.\""
+msgstr ""
+
+#: 00106:4035
+
+msgid "{Daigo}\n\"I'm hungry...\""
+msgstr ""
+
+#: 00106:4036
+
+msgid "{Appo}\n\"Neither our normal nor our sexual appetites have any outlet. I feel like we've had 90% of our youth stolen from us.\""
+msgstr ""
+
+#: 00106:4037
+
+msgid "I know we brought part of this on ourselves, but we were finished."
+msgstr ""
+
+#: 00106:4042
+
+msgid "Even the ocean breeze which felt so good when we arrived now feels like an annoying mockery of our situation."
+msgstr ""
+
+#: 00106:4043
+
+msgid "We all stopped at a point overlooking the harbor."
+msgstr ""
+
+#: 00106:4046
+
+msgid "{Pierre}\n\"The port's so quiet now.\""
+msgstr ""
+
+#: 00106:4051
+
+msgid "{Appo}\n\"It was like a festival when we came ashore. I think we've been had.\""
+msgstr ""
+
+#: 00106:4058
+
+msgid "We couldn't have imagined how quiet it got at night. It felt like magic had been cast on the island."
+msgstr ""
+
+#: 00106:4059
+
+msgid "We looked down at the port and reflected on all of our dreams that had already been crushed by this island."
+msgstr ""
+
+#: 00106:4060
+
+msgid "No one said a word. No one moved an inch. No one knew what to do from here on."
+msgstr ""
+
+#: 00106:4061
+
+msgid "{Kazushi}\n\"Maybe this is karma for what we did.\""
+msgstr ""
+
+#: 00106:4062
+
+msgid "We felt like we had ruined everybody's party."
+msgstr ""
+
+#: 00106:4063
+
+msgid "{Pierre}\n\"I thought I'd be popular without having to say anything at an all girls' school.\""
+msgstr ""
+
+#: 00106:4064
+
+msgid "{Appo}\n\"I've had a breakthrough. Unpopular men are unpopular everywhere.\""
+msgstr ""
+
+#: 00106:4065
+
+msgid "{Kazushi}\n\"Don't be so hard on yourselves. Something good will happen.\""
+msgstr ""
+
+#: 00106:4066
+
+msgid "{Daigo}\n\"But everyone treats us like criminals.\""
+msgstr ""
+
+#: 00106:4067
+
+msgid "{Pierre}\n\"Tripping up at the starting line sure hurt us bad. They stay away from us like we're perverts now.\""
+msgstr ""
+
+#: 00106:4068
+
+msgid "{Kazushi}\n\"Honestly, I think that was a big mistake. Those rumors spread in no time.\""
+msgstr ""
+
+#: 00106:4069
+
+msgid "{Appo}\n\"I'm sorry.\""
+msgstr ""
+
+#: 00106:4070
+
+msgid "It was shocking to see Appo being so honest. He really must be feeling weak."
+msgstr ""
+
+#: 00106:4071
+
+msgid "Actually...it wasn't just Appo. We were all weak. The girls weren't talking to us. Our room was a shack."
+msgstr ""
+
+#: 00106:4072
+
+msgid "We thought that everything would go great for us if we came here, but that was all just an empty dream."
+msgstr ""
+
+#: 00106:4073
+
+msgid "But we had still hoped for some kind of major change."
+msgstr ""
+
+#: 00106:4074
+
+msgid "But I guess things would just stay the same."
+msgstr ""
+
+#: 00106:4075
+
+msgid "{Kazushi}\n\"What should we do now?\""
+msgstr ""
+
+#: 00106:4076
+
+msgid "I looked at everyone's faces, waiting for someone to answer me."
+msgstr ""
+
+#: 00106:4079
+
+msgid "{Pierre}\n\"Do you honestly think something good is going to happen to us here?\""
+msgstr ""
+
+#: 00106:4080
+
+msgid "{Appo}\n\"None of the girls will even talk to us. I'm not gonna get any girls here.\""
+msgstr ""
+
+#: 00106:4083
+
+msgid "{Daigo}\n\"Real girls are scary!\""
+msgstr ""
+
+#: 00106:4086
+
+msgid "{Pierre}\n\"Um, Daigo, you seriously sounded like a looney just now.\""
+msgstr ""
+
+#: 00106:4089
+
+msgid "{Daigo}\n\"I'm scared of what they're saying about us, too.\""
+msgstr ""
+
+#: 00106:4092
+
+msgid "{Pierre}\n\"...true.\""
+msgstr ""
+
+#: 00106:4093
+
+msgid "{Kazushi}\n\"You're right.\""
+msgstr ""
+
+#: 00106:4097
+
+msgid "We were all filled with a sense of despair. The sky was blue, the clouds were white, green forest was everywhere, and the blue ocean was all around us."
+msgstr ""
+
+#: 00106:4098
+
+msgid "This was supposed to be the perfect summer - yet our hopes were completely dashed."
+msgstr ""
+
+#: 00106:4099
+
+msgid "{Kazushi}\n\"Hah...\""
+msgstr ""
+
+#: 00106:4100
+
+msgid "I took a few deep breaths so that I could clear my head."
+msgstr ""
+
+#: 00106:4101
+
+msgid "This kind of thing happens sometimes. There were some crazy moments, but there were some pretty cute girls. Maybe this was a great island."
+msgstr ""
+
+#: 00106:4102
+
+msgid "...But maybe not for us?"
+msgstr ""
+
+#: 00106:4103
+
+msgid "{Kazushi}\n\"Should we go home?\""
+msgstr ""
+
+#: 00106:4110
+
+msgid "Everybody raised their heads, as if they didn't understand me."
+msgstr ""
+
+#: 00106:4111
+
+msgid "{Daigo}\n\"Go home?\""
+msgstr ""
+
+#: 00106:4112
+
+msgid "{Pierre}\n\"How? We don't have any way to travel.\""
+msgstr ""
+
+#: 00106:4113
+
+msgid "{Kazushi}\n\"There were boats in the port, right? Let's steal one and make our escape.\""
+msgstr ""
+
+#: 00106:4114
+
+msgid "{Appo}\n\"Are you serious!? You want to go home?\""
+msgstr ""
+
+#: 00106:4116
+
+msgid "{Pierre}\n\"You sure? We all studied so hard to pass the entrance exams. I know we're in bad right now, but there's nothing but girls here. If we keep at it, maybe we'll get at least one chance...\""
+msgstr ""
+
+#: 00106:4118
+
+msgid "Pierre didn't continue."
+msgstr ""
+
+#: 00106:4121
+
+msgid "{Pierre}\n\"Whatever.\nI don't care any more. It's impossible to do anything when you feel this down.\""
+msgstr ""
+
+#: 00106:4122
+
+msgid "{Kazushi}\n\"Right?! So let's do something really crazy. Let's steal a boat and sail home!!\""
+msgstr ""
+
+#: 00106:4125
+
+msgid "{Appo}\n\"Yeah, why not? Let's stun those girls who talked bad about us!\""
+msgstr ""
+
+#: 00106:4126
+
+msgid "{Pierre}\n\"Let's show them what we're capable of!\""
+msgstr ""
+
+#: 00106:4129
+
+msgid "{Daigo}\n\"But none of us know how to pilot a boat.\""
+msgstr ""
+
+#: 00106:4130
+
+msgid "{Kazushi}\n\"We'll figure it out somehow! I have my motorcyclist's license! The boat said Mayaha on the engine, so I bet it runs the same!\""
+msgstr ""
+
+#: 00106:4133
+
+msgid "{Pierre}\n\"Alright!\nLet's get ready for our great escape!\""
+msgstr ""
+
+#: 00106:4136
+
+msgid "{Appo}\n\"Everybody pack your bags! We'll meet back here in five minutes!\""
+msgstr ""
+
+#: 00106:4137
+
+msgid "{Kazushi}\n\"We'll show 'em what we can do!\""
+msgstr ""
+
+#: 00106:4140
+
+msgid "{Boys}\n\"YEAH!\""
+msgstr ""
+
+#: 00106:4141
+
+msgid "That's right. If we fail once, just start over and try again! Our possibilities are still as countless as the stars!"
+msgstr ""
+
+#: 00106:4145
+
+msgid "{Kazushi}\n\"There's no one here, right?\nLet's move!\""
+msgstr ""
+
+#: 00106:4151
+
+msgid "We ran with our luggage in tow. The bustling harbor from this morning was now dead quiet."
+msgstr ""
+
+#: 00106:4152
+
+msgid "We could hear each and every one of our footsteps."
+msgstr ""
+
+#: 00106:4158
+
+msgid "{Daigo}\n\"Hey, is it supposed to be this quiet?\""
+msgstr ""
+
+#: 00106:4165
+
+msgid "{Pierre}\n\"Fishermen have to go to bed super early. I bet they're already home and finished drinking.\""
+msgstr ""
+
+#: 00106:4166
+
+msgid "{Appo}\n\"Which makes our job super easy! Let's steal a boat now and quickly make our way home.\""
+msgstr ""
+
+#: 00106:4167
+
+msgid "{Daigo}\n\"Which boat should we take, then?\""
+msgstr ""
+
+#: 00106:4170
+
+msgid "{Appo}\n\"Let's get the coolest looking one!\""
+msgstr ""
+
+#: 00106:4171
+
+msgid "{Kazushi}\n\"That'd mean it's that one! Move out!\""
+msgstr ""
+
+#: 00106:4175
+
+msgid "We spotted an awesome looking boat and dashed towards it."
+msgstr ""
+
+#: 00106:4190
+
+msgid "All of a sudden, we heard the sound of the earth shaking and the calm ocean surface began to bubble."
+msgstr ""
+
+#: 00106:4191
+
+msgid "{Appo}\n\"What now!?\""
+msgstr ""
+
+#: 00106:4199
+
+msgid "The sound grew louder and the ocean waves grew bigger. It looked like something might leap out of the water at any minute."
+msgstr ""
+
+#: 00106:4204
+
+msgid "{Pierre}\n\"There is something seriously fucked up with this island!\""
+msgstr ""
+
+#: 00106:4205
+
+msgid "{Kazushi}\n\"The boat's just up ahead!\nWe're almost there!\""
+msgstr ""
+
+#: 00106:4211
+
+msgid "All of a sudden, the boats began to sink."
+msgstr ""
+
+#: 00106:4218
+
+msgid "{Kazushi}\n\"All the boats are sinking!\""
+msgstr ""
+
+#: 00106:4219
+
+msgid "{Daigo}\n\"No...The ocean is sinking!\""
+msgstr ""
+
+#: 00106:4226
+
+msgid "The surface of the water drifted farther down. Or was the island rising higher? I couldn't tell."
+msgstr ""
+
+#: 00106:4227
+
+msgid "Either way, the water went father away."
+msgstr ""
+
+#: 00106:4344
+
+msgid "{Kazushi}\n\"The boats...\""
+msgstr ""
+
+#: 00106:4345
+
+msgid "{Appo}\n\"No way...\""
+msgstr ""
+
+#: 00106:4346
+
+msgid "{Pierre}\n\"What the hell is going on!?\""
+msgstr ""
+
+#: 00106:4347
+
+msgid "We couldn't do anything but watch:"
+msgstr ""
+
+#: 00106:4361
+
+msgid "The water level sank several hundred meters."
+msgstr ""
+
+#: 00106:4362
+
+msgid "Now we can't escape!!"
+msgstr ""
+
+#: 00106:4363
+
+msgid "{Boys}\n\"No one told us about this!!\""
+msgstr ""
+

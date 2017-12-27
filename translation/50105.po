@@ -1,0 +1,2743 @@
+# Comments for '50105'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 50105:13
+
+msgid "{Appo}\n\"WHAAAAAAAT?! You confessed to Mei-chan?!\""
+msgstr ""
+
+#: 50105:14
+
+msgid "{Daigo}\n\"Man...... Way to be direct, Kazushi.\""
+msgstr ""
+
+#: 50105:17
+
+msgid "{Pierre}\n\"As expected of the summer time. But you sure have some balls to confess to Mei-chan like that.\""
+msgstr ""
+
+#: 50105:18
+
+msgid "{Kazushi}\n\"I'm just as surprised at myself.\""
+msgstr ""
+
+#: 50105:19
+
+msgid "In actuality, I didn't really put any thought into it. Once I opened my mouth, I couldn't retreat and could only push forward after that."
+msgstr ""
+
+#: 50105:22
+
+msgid "{Appo}\n\"Grr...... Mei-chan was supposed to be my wife though......\""
+msgstr ""
+
+#: 50105:23
+
+msgid "{Kazushi}\n\"You've got Fuusen, don't you? You keep that up and I'll tell her about this.\""
+msgstr ""
+
+#: 50105:26
+
+msgid "{Appo}\n\"W-wait! Don't do that!\""
+msgstr ""
+
+#: 50105:29
+
+msgid "{Pierre}\n\"How pathetic. Are you that pussy-whipped? Be a man, do the right thing.\""
+msgstr ""
+
+#: 50105:32
+
+msgid "{Appo}\n\"Shut up. There's nothing wrong with that.\""
+msgstr ""
+
+#: 50105:35
+
+msgid "{Pierre}\n\"When it comes to girls, just give it to them hard once and they will be obedient. Girls are after all......\""
+msgstr ""
+
+#: 50105:39
+
+msgid "{Fuusen}\n\"Hephaestus vu Pygmalion.\""
+msgstr ""
+
+#: 50105:40
+
+msgid "She murmured a series of indecipherable words."
+msgstr ""
+
+#: 50105:41
+
+msgid "{Kazushi}\n\"What is tha......?\""
+msgstr ""
+
+#: 50105:44
+
+msgid "{Pierre}\n\"Guwaaaaah?!!!\""
+msgstr ""
+
+#: 50105:51
+
+msgid "{Daigo}\n\"Wh-what the?\""
+msgstr ""
+
+#: 50105:54
+
+msgid "{Appo}\n\"Fu-Fuu-chan?!\""
+msgstr ""
+
+#: 50105:59
+
+msgid "{Fuusen}\n\"Ah-chan, 'allo 'allo.\""
+msgstr ""
+
+#: 50105:60
+
+msgid "That Fuusen, when did she get in here? Well, besides that, Pierre was acting strangely. He looked ready to rip his chest apart with that pained look on his face."
+msgstr ""
+
+#: 50105:65
+
+msgid "{Pierre}\n\"Ugahh, ugahh...... Urk!!!\""
+msgstr ""
+
+#: 50105:69
+
+msgid "He spit out something vaguely green!!"
+msgstr ""
+
+#: 50105:72
+
+msgid "{Pierre}\n\"S-save me......\""
+msgstr ""
+
+#: 50105:73
+
+msgid "He clung to Fuusen's feet with tears in his eyes. What the heck just happened?"
+msgstr ""
+
+#: 50105:77
+
+msgid "{Fuusen}\n\"Enunn......\""
+msgstr ""
+
+#: 50105:81
+
+msgid "Fuusen snapped her fingers. Pierre then let his breath out like that and collapsed on the ground."
+msgstr ""
+
+#: 50105:86
+
+msgid "{Pierre}\n\"Haa, haa...... I-I thought I was a goner......\""
+msgstr ""
+
+#: 50105:87
+
+msgid "{Daigo}\n\"What the heck just happened?\""
+msgstr ""
+
+#: 50105:94
+
+msgid "{Appo}\n\"Fuu-chan comes from a long line of black magic users.\""
+msgstr ""
+
+#: 50105:95
+
+msgid "{Kazushi}\n\"Black magic? Seriously?!\""
+msgstr ""
+
+#: 50105:96
+
+msgid "{Daigo}\n\"That's disturbing.\""
+msgstr ""
+
+#: 50105:99
+
+msgid "{Pierre}\n\"Freaky...... freaky black magic......\""
+msgstr ""
+
+#: 50105:100
+
+msgid "Fuusen turned her nose up at Pierre, then promptly became her normal self when she turned to the rest of us."
+msgstr ""
+
+#: 50105:106
+
+msgid "{Fuusen}\n\"It isn't nice to be mean to Ah-chan, okay?\""
+msgstr ""
+
+#: 50105:111
+
+msgid "{Pierre}\n\"Y-yes! I understand!\""
+msgstr ""
+
+#: 50105:112
+
+msgid "Pierre suddenly acted like an obedient dog."
+msgstr ""
+
+#: 50105:116
+
+msgid "{Fuusen}\n\"Well, what were you talking about? It was something about Mei-chan and Ah-chan was it?\""
+msgstr ""
+
+#: 50105:121
+
+msgid "{Appo}\n\"Geh!\""
+msgstr ""
+
+#: 50105:125
+
+msgid "{Daigo}\n\"Ah, it was about how Mei-sensei is Appo's wi-mmph?!\""
+msgstr ""
+
+#: 50105:129
+
+msgid "Appo quickly covered Daigo's mouth."
+msgstr ""
+
+#: 50105:132
+
+msgid "{Appo}\n\"Oh no it was nothing interesting! Daigo, did you not just hear me talking about how Fuu-chan is a legitimate successor to a legacy of black magic----?!\""
+msgstr ""
+
+#: 50105:133
+
+msgid "{Daigo}\n\"Mmmph-! Mmmph-!\""
+msgstr ""
+
+#: 50105:138
+
+msgid "{Fuusen}\n\"What are you guys doing?\""
+msgstr ""
+
+#: 50105:143
+
+msgid "{Pierre}\n\"No, it really was nothing important. We were talking about how Kazushi confessed to Mei-chan.\""
+msgstr ""
+
+#: 50105:146
+
+msgid "{Fuusen}\n\"Oh my! To Mei-chan?! Haruma-kun did?!\""
+msgstr ""
+
+#: 50105:147
+
+msgid "Fuusen's eyes suddenly sparkled. The feminine nature of her sparkling eyes alone made me sick."
+msgstr ""
+
+#: 50105:150
+
+msgid "{Fuusen}\n\"But to speak from the heart like that to Mei-chan, it's like a challenger going against insurmountable odds.\""
+msgstr ""
+
+#: 50105:151
+
+msgid "{Kazushi}\n\"Well, I can't deny that.\""
+msgstr ""
+
+#: 50105:154
+
+msgid "{Fuusen}\n\"But, I have nothing against that kind of youthful recklessness. In this case, you should go after Mei-chan. I'm totally cheering for you, Haruma-kun.\""
+msgstr ""
+
+#: 50105:157
+
+msgid "{Pierre}\n\"That's right. At this rate you have to do her.\""
+msgstr ""
+
+#: 50105:161
+
+msgid "{Appo}\n\"Yeah, fucking her is the only way to go now.\""
+msgstr ""
+
+#: 50105:162
+
+msgid "{Kazushi}\n\"Wait. That did not sound right at all.\""
+msgstr ""
+
+#: 50105:165
+
+msgid "{Appo}\n\"No, I'm totally serious. Summer is all about fucking.\""
+msgstr ""
+
+#: 50105:169
+
+msgid "{Fuusen}\n\"They're right. You have no choice but to fuck her. But don't worry. Once you fuck a girl, she'll be head over heels for you.\""
+msgstr ""
+
+#: 50105:170
+
+msgid "{Kazushi}\n\"Fuusen, not you too......\""
+msgstr ""
+
+#: 50105:174
+
+msgid "{Pierre}\n\"Well, it's summer after all. Daigo, you should do your best too. Kazushi is going to leave you in the dust.\""
+msgstr ""
+
+#: 50105:178
+
+msgid "{Daigo}\n\"If that happens, I'll be the only virgin here...... and that's bad. Really, really bad......\""
+msgstr ""
+
+#: 50105:179
+
+msgid "He seemed so agitated all of a sudden."
+msgstr ""
+
+#: 50105:180
+
+msgid "{Kazushi}\n\"Hey, I haven't gotten very far yet...... I just confessed today, so I'm going to spend the entire summer trying to get to the next base......\""
+msgstr ""
+
+#: 50105:183
+
+msgid "{Daigo}\n\"We-well, in that case, I'll have to go with an escort service. Do you think they'd actually come here if I called one?\""
+msgstr ""
+
+#: 50105:184
+
+msgid "He took out a flyer he had. Where'd he get that anyway?"
+msgstr ""
+
+#: 50105:185
+
+msgid "But in general, it was rare to see him make jokes like this. Wait, his eyes look serious!"
+msgstr ""
+
+#: 50105:189
+
+msgid "{Appo}\n\"So you're finally going to go for it, Daigo?\""
+msgstr ""
+
+#: 50105:190
+
+msgid "{Pierre}\n\"Do it, do it now! Tomorrow we'll talk to a fisherman and get us a boat to use!\""
+msgstr ""
+
+#: 50105:194
+
+msgid "{Daigo}\n\"Y-yeah!\""
+msgstr ""
+
+#: 50105:195
+
+msgid "This conversation is still going. But... they can't be serious about getting a hooker, right?"
+msgstr ""
+
+#: 50105:198
+
+msgid "{Daigo}\n\"Kazushi, you also do your best! We can do it!!\""
+msgstr ""
+
+#: 50105:199
+
+msgid "{Kazushi}\n\"A-ah......\""
+msgstr ""
+
+#: 50105:200
+
+msgid "This was getting complicated."
+msgstr ""
+
+#: 50105:205
+
+msgid "{Kazushi}\n\"Today looks like a beautiful day.\""
+msgstr ""
+
+#: 50105:206
+
+msgid "I got up and noticed that Appo was gone. Seems he headed out while I was asleep."
+msgstr ""
+
+#: 50105:207
+
+msgid "{Kazushi}\n\"Where did he go off to?\""
+msgstr ""
+
+#: 50105:208
+
+msgid "I was a bit curious, but regardless, I headed towards the library."
+msgstr ""
+
+#: 50105:214
+
+msgid "{Kazushi}\n\"'mornin!\""
+msgstr ""
+
+#: 50105:218
+
+msgid "{Mei}\n\"Oh my......\""
+msgstr ""
+
+#: 50105:219
+
+msgid "Mei-sensei smiled a bit as she looked at me. Just looking at her smile filled me with happiness in the morning."
+msgstr ""
+
+#: 50105:222
+
+msgid "{Mei}\n\"A bit early, aren't you? I'm impressed that you got up this early, even though it's summer vacation.\""
+msgstr ""
+
+#: 50105:223
+
+msgid "{Kazushi}\n\"Well, I don't exactly have a lot of time.\""
+msgstr ""
+
+#: 50105:224
+
+msgid "In any case, I have until the end of summer to win her over. Exactly one month. I don't want to waste time."
+msgstr ""
+
+#: 50105:227
+
+msgid "{Mei}\n\"You're right. Time goes by just like that. It would be a waste to let it all pass without realizing it.\""
+msgstr ""
+
+#: 50105:228
+
+msgid "{Kazushi}\n\"Exactly. So, is there anything I can help you with today?\""
+msgstr ""
+
+#: 50105:229
+
+msgid "I looked around the library. It was cleaned not too long ago, and given that there weren't any students in there reading this morning, it was rather quiet."
+msgstr ""
+
+#: 50105:232
+
+msgid "{Mei}\n\"There isn't anything I can think of right now. Did you wake up early just to give me a hand?\""
+msgstr ""
+
+#: 50105:233
+
+msgid "{Kazushi}\n\"There isn't much I can do besides this. I want to convince you as much as possible.\""
+msgstr ""
+
+#: 50105:236
+
+msgid "{Mei}\n\"Oh my......\""
+msgstr ""
+
+#: 50105:237
+
+msgid "She looked flabbergasted."
+msgstr ""
+
+#: 50105:238
+
+msgid "{Mei}\n\"What you said yesterday... you were serious, weren't you?\""
+msgstr ""
+
+#: 50105:239
+
+msgid "{Kazushi}\n\"Eh? Of course. Did you think I was joking?\""
+msgstr ""
+
+#: 50105:242
+
+msgid "{Mei}\n\"Well not exactly...... I wondered if a young person like yourself would simply forget it the next day.\""
+msgstr ""
+
+#: 50105:243
+
+msgid "{Kazushi}\n\"No way!! Even if I don't have a good memory, this is not something I would forget.\""
+msgstr ""
+
+#: 50105:246
+
+msgid "{Mei}\n\"Really?\""
+msgstr ""
+
+#: 50105:247
+
+msgid "She paused in amazement. I guess she wasn't one to understand what it was like for someone to show an interest in her."
+msgstr ""
+
+#: 50105:248
+
+msgid "This summer was not going to be enough time to show her my feelings towards her. The road ahead is a long one."
+msgstr ""
+
+#: 50105:249
+
+msgid "{Kazushi}\n\"Sensei, did you have any plans for today?\""
+msgstr ""
+
+#: 50105:252
+
+msgid "{Mei}\n\"There are some things I need to look up. It's a personal matter, so I wouldn't need your assistance with it.\""
+msgstr ""
+
+#: 50105:253
+
+msgid "{Kazushi}\n\"Oh, but I'd be delighted to help.\""
+msgstr ""
+
+#: 50105:256
+
+msgid "{Mei}\n\"Really? Kazushi-kun, if you insist then I wouldn't mind.\""
+msgstr ""
+
+#: 50105:257
+
+msgid "{Kazushi}\n\"Of course...... wait what?\""
+msgstr ""
+
+#: 50105:258
+
+msgid "Just then, I thought I heard her say something different. Did she just......"
+msgstr ""
+
+#: 50105:259
+
+msgid "{Kazushi}\n\"Ah, Kazushi-kun she said?\""
+msgstr ""
+
+#: 50105:260
+
+msgid "She just called me Kazushi-kun. Not Haruma-kun like she normally does."
+msgstr ""
+
+#: 50105:263
+
+msgid "{Mei}\n\"Just for the summer vacation. If I call you the way I normally do, then I won't be able to remove myself from being a teacher.\""
+msgstr ""
+
+#: 50105:264
+
+msgid "It is refreshing to hear just my first name. Mei-sensei always referred to the boys with a \"-kun\", so this alone made it feel special."
+msgstr ""
+
+#: 50105:265
+
+msgid "{Kazushi}\n\"Well, maybe I could call you Mei as well?\""
+msgstr ""
+
+#: 50105:268
+
+msgid "{Mei}\n\"Hey, don't get carried away now.\""
+msgstr ""
+
+#: 50105:269
+
+msgid "{Kazushi}\n\"Ah, I guess not.\""
+msgstr ""
+
+#: 50105:270
+
+msgid "However, this was more than enough. To think I could be that happy with just the way she said my name."
+msgstr ""
+
+#: 50105:273
+
+msgid "{Mei}\n\"Well, I'm off then.\""
+msgstr ""
+
+#: 50105:275
+
+msgid "With that, Mei-sensei stood up from her chair."
+msgstr ""
+
+#: 50105:276
+
+msgid "{Kazushi}\n\"Where are you going?\""
+msgstr ""
+
+#: 50105:277
+
+msgid "{Mei}\n\"Like I said, I'm going to go look something up.\""
+msgstr ""
+
+#: 50105:279
+
+msgid "She walked over to the bookshelves. I hurriedly followed after her."
+msgstr ""
+
+#: 50105:280
+
+msgid "{Kazushi}\n\"I said I'll help you out. What are you trying to find?\""
+msgstr ""
+
+#: 50105:283
+
+msgid "{Mei}\n\"It's in regards to the island's legends and folktales. I've got a bit of an interest in it.\""
+msgstr ""
+
+#: 50105:284
+
+msgid "{Kazushi}\n\"I see......\""
+msgstr ""
+
+#: 50105:285
+
+msgid "Or that's all I could say. It was something I certainly had no interest in. But, if that's what sensei is interested in, then I will become interested as well."
+msgstr ""
+
+#: 50105:286
+
+msgid "Sensei walked past the tall bookshelves and suddenly came to a stop at one of the racks."
+msgstr ""
+
+#: 50105:287
+
+msgid "{Mei}\n\"This rack contains all the books that concern the island's folktales and legends.\""
+msgstr ""
+
+#: 50105:288
+
+msgid "There were a lot of old books. There seemed to be a lot of handmade volumes as well, judging from the hand-sewn covers on some of them."
+msgstr ""
+
+#: 50105:289
+
+msgid "{Kazushi}\n\"There are quite a lot of books, aren't there?\""
+msgstr ""
+
+#: 50105:292
+
+msgid "{Mei}\n\"There are quite a lot of books that were self-published or were never publicly sold. Look at the penmanship on this.\""
+msgstr ""
+
+#: 50105:294
+
+msgid "She took one book down and opened it up for me. The book looked more like someone's notebook with their writings in it."
+msgstr ""
+
+#: 50105:298
+
+msgid "{Mei}\n\"This island may not be well-known by society, but it seems there were quite a number of scholars with an interest in this place. Of course, this was long before this school was built.\""
+msgstr ""
+
+#: 50105:300
+
+msgid "That's the reason for all these old books. This school is rather old in itself, but apparently there was quite a lot written about this place beforehand."
+msgstr ""
+
+#: 50105:301
+
+msgid "{Kazushi}\n\"Are there any interesting stories about the island?\""
+msgstr ""
+
+#: 50105:302
+
+msgid "I didn't really have a lot of interest in it, but I asked anyway. My mind was more or less focused on drawing her affection, even if only by a little bit."
+msgstr ""
+
+#: 50105:305
+
+msgid "{Mei}\n\"There's a legend that the flowers on this island were in fact stars that fell from the sky.\""
+msgstr ""
+
+#: 50105:306
+
+msgid "{Kazushi}\n\"Stars that turned into flowers? Ah, could that be......\""
+msgstr ""
+
+#: 50105:307
+
+msgid "Something flashed in my mind. Through the power of love, the image of a star-shaped flower came to mind."
+msgstr ""
+
+#: 50105:308
+
+msgid "{Kazushi}\n\"It's that flower right? The one used in alchemy?\""
+msgstr ""
+
+#: 50105:309
+
+msgid "The flowers used in alchemy. The flowers that the principal carefully tended to."
+msgstr ""
+
+#: 50105:312
+
+msgid "{Mei}\n\"Oh my, you are correct. Yes, those flowers. There's folktales that mentions that those flowers were born from the stars.\""
+msgstr ""
+
+#: 50105:313
+
+msgid "{Kazushi}\n\"Wow, it's rather romantic, isn't it?\""
+msgstr ""
+
+#: 50105:314
+
+msgid "Just the two of us alone talking about romantic matters made for a rather intoxicating state of affairs. This summer will definitely be different from the others."
+msgstr ""
+
+#: 50105:317
+
+msgid "{Mei}\n\"Kazushi-kun, are you also interested in this?\""
+msgstr ""
+
+#: 50105:318
+
+msgid "{Kazushi}\n\"Of course, of course! This Haruma is a romantic. Some may say a man who is a non-stop romantic!\""
+msgstr ""
+
+#: 50105:321
+
+msgid "{Mei}\n\"Oh my. So then you're, Haroman-kun.\""
+msgstr ""
+
+#: 50105:322
+
+msgid "{Mei}\n\"Haroman-kun......Haruman-kun.\""
+msgstr ""
+
+#: 50105:323
+
+msgid "It had an odd ring to it as she said it twice."
+msgstr ""
+
+#: 50105:324
+
+msgid "{Kazushi}\n\"Am......amusing!\""
+msgstr ""
+
+#: 50105:325
+
+msgid "Love is a matter of faith. If Mei-sensei enjoys them, then I will also enjoy puns. Long live puns!"
+msgstr ""
+
+#: 50105:328
+
+msgid "{Mei}\n\"Well, if you are that interested, then why don't we find some more together?\""
+msgstr ""
+
+#: 50105:329
+
+msgid "{Kazushi}\n\"Absolutely! Yes, let's do that!\""
+msgstr ""
+
+#: 50105:330
+
+msgid "As long as I am with her, I'll take remedial lessons or even clean the restrooms just to make that happen."
+msgstr ""
+
+#: 50105:333
+
+msgid "{Mei}\n\"Okay Kazushi-kun, why don't you take this notepad and jot down 100 puns for me.\""
+msgstr ""
+
+#: 50105:334
+
+msgid "{Kazushi}\n\"Huh? Puns?\""
+msgstr ""
+
+#: 50105:335
+
+msgid "{Mei}\n\"Training like this will give you an edge when looking for a job, but be careful with your material - I really hate bad puns.\""
+msgstr ""
+
+#: 50105:336
+
+msgid "{Kazushi}\n\"Eh? Really?\""
+msgstr ""
+
+#: 50105:337
+
+msgid "{Mei}\n\"Ah, that's my pun notebook. You can look in it, but you can't steal my material, okay?\""
+msgstr ""
+
+#: 50105:338
+
+msgid "{Kazushi}\n\"Uhm, well, this wasn't what I had an interest in...... If possible, let's talk more about the legend of this island.\""
+msgstr ""
+
+#: 50105:341
+
+msgid "{Mei}\n\"Oh my, is that so? I see......\""
+msgstr ""
+
+#: 50105:342
+
+msgid "I didn't think she would look that disappointed."
+msgstr ""
+
+#: 50105:347
+
+msgid "Of course, I also forgot how I'm exceptionally weak against the printed word."
+msgstr ""
+
+#: 50105:348
+
+msgid "{Kazushi}\n\"............-----------\""
+msgstr ""
+
+#: 50105:349
+
+msgid "{Kazushi}\n\"......Huh?!\""
+msgstr ""
+
+#: 50105:350
+
+msgid "Crap, I fell asleep!"
+msgstr ""
+
+#: 50105:353
+
+msgid "{Mei}\n\"..................\""
+msgstr ""
+
+#: 50105:354
+
+msgid "Huh?! She's looking at me!!"
+msgstr ""
+
+#: 50105:355
+
+msgid "{Kazushi}\n\"......a-ah. I see, mmhmm.\""
+msgstr ""
+
+#: 50105:356
+
+msgid "I nodded while looking at the book. I did not nod off, I swear."
+msgstr ""
+
+#: 50105:359
+
+msgid "{Mei}\n\"......heh. Heheh......\""
+msgstr ""
+
+#: 50105:360
+
+msgid "She laughed at me. My cover is blown."
+msgstr ""
+
+#: 50105:363
+
+msgid "{Mei}\n\"So it is boring, isn't it? It's all right. You don't have to go through the trouble if you don't want to.\""
+msgstr ""
+
+#: 50105:364
+
+msgid "{Kazushi}\n\"No, I really do want to do this. I guess my body just disagrees.\""
+msgstr ""
+
+#: 50105:365
+
+msgid "{Mei}\n\"Well if you were interested, I don't think you'd be so bored as to fall asleep like that.\""
+msgstr ""
+
+#: 50105:366
+
+msgid "{Kazushi}\n\"No, it's you that I have an interest in.\""
+msgstr ""
+
+#: 50105:369
+
+msgid "{Mei}\n\"Eh, me?\""
+msgstr ""
+
+#: 50105:370
+
+msgid "{Kazushi}\n\"My interest in the legends surrounding the island was only secondary to......ah.\""
+msgstr ""
+
+#: 50105:373
+
+msgid "{Mei}\n\"Oh?\""
+msgstr ""
+
+#: 50105:374
+
+msgid "{Kazushi}\n\"Ah, crap! I spilled the beans!\""
+msgstr ""
+
+#: 50105:375
+
+msgid "The conversation got a bit too honest, I guess."
+msgstr ""
+
+#: 50105:378
+
+msgid "{Mei}\n\"Really, Kazushi-kun, you are really something...... heheh.\""
+msgstr ""
+
+#: 50105:379
+
+msgid "She laughed at me again."
+msgstr ""
+
+#: 50105:380
+
+msgid "{Kazushi}\n\"I'm sorry......\""
+msgstr ""
+
+#: 50105:381
+
+msgid "(Morale -20!)"
+msgstr ""
+
+#: 50105:384
+
+msgid "{Mei}\n\"You don't need to feel so down. Oh, what have you got there? Let me take a look at it.\""
+msgstr ""
+
+#: 50105:385
+
+msgid "Mei-sensei snatched the book out of my hands."
+msgstr ""
+
+#: 50105:386
+
+msgid "{Mei}\n\"Ah, it's this. There's some interesting stuff in this book.\""
+msgstr ""
+
+#: 50105:387
+
+msgid "The book I was reading (well, wasn't really reading) seemed to be something sensei was familiar with."
+msgstr ""
+
+#: 50105:390
+
+msgid "{Mei}\n\"It's about the legend of the upside down island. Somewhere in the sea on a clear day, you can see the reflection of an upside down island.\""
+msgstr ""
+
+#: 50105:391
+
+msgid "{Mei}\n\"In the olden days, people thought there was another island in the seas called the \"Upside Down Island\", and they used to think that only on this day could it be entered.\""
+msgstr ""
+
+#: 50105:392
+
+msgid "{Kazushi}\n\"An island under the sea? If that's case, then how could they breathe if they went there?\""
+msgstr ""
+
+#: 50105:393
+
+msgid "{Mei}\n\"Well, it wasn't exactly under the sea per se. It was as if there was another world, and when the island appeared in the ocean it was like a gateway to that world.\""
+msgstr ""
+
+#: 50105:396
+
+msgid "{Mei}\n\"Probably an old fashioned way of describing the \"gateway to the otherworld\" perhaps.\""
+msgstr ""
+
+#: 50105:397
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 50105:398
+
+msgid "I can't tell if I understand this or not. People back then thought about some odd things."
+msgstr ""
+
+#: 50105:399
+
+msgid "{Kazushi}\n\"So, when the island appears, it's possible to leap into the sea and enter the island in the other world then?\""
+msgstr ""
+
+#: 50105:402
+
+msgid "{Mei}\n\"Perhaps so. But even though it looks exactly the same, nothing lives there, so it sounds like a pretty lonely island.\""
+msgstr ""
+
+#: 50105:403
+
+msgid "{Kazushi}\n\"In that case, I wouldn't really want to go there...... Wait, so does that mean someone has actually gone there and seen it for themselves?\""
+msgstr ""
+
+#: 50105:404
+
+msgid "If that wasn't the case, there wouldn't be any way to know that about the island."
+msgstr ""
+
+#: 50105:405
+
+msgid "{Mei}\n\"Well, it's just a folk tale. In actuality, there's no way that could be possible so perhaps it's more a metaphor than anything else.\""
+msgstr ""
+
+#: 50105:406
+
+msgid "Metaphor......so like an analogy?"
+msgstr ""
+
+#: 50105:409
+
+msgid "{Mei}\n\"So, what do you think? This kind of story is pretty interesting, isn't it?\""
+msgstr ""
+
+#: 50105:410
+
+msgid "{Kazushi}\n\"I just think that people back then came up with some strange things.\""
+msgstr ""
+
+#: 50105:411
+
+msgid "One wouldn't normally think that the island reflected in the ocean was an island in another world and the gateway to it."
+msgstr ""
+
+#: 50105:412
+
+msgid "{Mei}\n\"I agree that people back then must have had rather active imaginations.\""
+msgstr ""
+
+#: 50105:413
+
+msgid "{Kazushi}\n\"Perhaps a bit too active.\""
+msgstr ""
+
+#: 50105:416
+
+msgid "{Mei}\n\"Of course, just this text alone does not verify that anything in these folktales and legends actually happened. But, I think there's a meaning behind them.\""
+msgstr ""
+
+#: 50105:417
+
+msgid "{Kazushi}\n\"There's no smoke without fire... that kind of thing?\""
+msgstr ""
+
+#: 50105:418
+
+msgid "{Mei}\n\"Exactly. There are a lot of mysterious folktales that have been passed down, so I'm sure there's certainly something special about them.\""
+msgstr ""
+
+#: 50105:419
+
+msgid "{Kazushi}\n\"Well, this island also...... Well, there's alchemy.\""
+msgstr ""
+
+#: 50105:420
+
+msgid "This island has plenty of mysteries to it. In other words, it must certainly have many interesting legends."
+msgstr ""
+
+#: 50105:423
+
+msgid "{Mei}\n\"That may be so - like how materials are so well-refined here. There are certainly a lot of things we don't understand about this place.\""
+msgstr ""
+
+#: 50105:426
+
+msgid "{Mei}\n\"Within these folktales may be some sort of hidden hint. It's interesting to read them, imaging things like that.\""
+msgstr ""
+
+#: 50105:427
+
+msgid "{Kazushi}\n\"I see. As expected of you sensei, you have some profound thoughts.\""
+msgstr ""
+
+#: 50105:430
+
+msgid "{Mei}\n\"It's nothing like that.\""
+msgstr ""
+
+#: 50105:431
+
+msgid "{Kazushi}\n\"In the past, have you always had interest in this......ah.\""
+msgstr ""
+
+#: 50105:432
+
+msgid "I realized it as soon as I asked. There was no way sensei would remember if she had an interest in this in the past."
+msgstr ""
+
+#: 50105:433
+
+msgid "{Kazushi}\n\"Uhm, sorry......\""
+msgstr ""
+
+#: 50105:434
+
+msgid "I apologized and she gave me a gentle smile."
+msgstr ""
+
+#: 50105:437
+
+msgid "{Mei}\n\"You don't need to apologize. Besides, even though the memories of my past are gone, I suspect that may be tied into my interest in all of this.\""
+msgstr ""
+
+#: 50105:438
+
+msgid "{Kazushi}\n\"Is that so?\""
+msgstr ""
+
+#: 50105:441
+
+msgid "{Mei}\n\"Whether it's about history, or the past, or how things work, or how things appear, these are matters that I have a lot of interest in.\""
+msgstr ""
+
+#: 50105:444
+
+msgid "{Mei}\n\"I mean look, my own past is rather unknown so I just kind of figured I'd have an interest in all this. I can't rely on self-analysis alone.\""
+msgstr ""
+
+#: 50105:445
+
+msgid "{Kazushi}\n\"Ah, that makes sense.\""
+msgstr ""
+
+#: 50105:447
+
+msgid "Perhaps it's because you don't have a past. Though she was laughing as she said it, I was certain there were a lot of things on her mind."
+msgstr ""
+
+#: 50105:452
+
+msgid "{Mei}\n\"I know, maybe you should tell me about your past, Kazushi-kun. What were you like as a kid?\""
+msgstr ""
+
+#: 50105:453
+
+msgid "{Kazushi}\n\"Eh? Me?\""
+msgstr ""
+
+#: 50105:456
+
+msgid "{Mei}\n\"Yep.\""
+msgstr ""
+
+#: 50105:457
+
+msgid "She leaned over to listen. Apparently she was really into stuff like this."
+msgstr ""
+
+#: 50105:458
+
+msgid "{Kazushi}\n\"Well, there isn't really anything interesting to talk about.\""
+msgstr ""
+
+#: 50105:459
+
+msgid "If sensei wanted to know more, then I wanted to tell her as much as I could. If she was interested, then that alone made me happy."
+msgstr ""
+
+#: 50105:460
+
+msgid "{Kazushi}\n\"What should I talk about? For starters, there's the case of the first love thief......\""
+msgstr ""
+
+#: 50105:465
+
+msgid "{Mei}\n\"Really...... That actually......\""
+msgstr ""
+
+#: 50105:466
+
+msgid "{Kazushi}\n\"When the girl I liked said I made her sick, was quite the battle wound......\""
+msgstr ""
+
+#: 50105:467
+
+msgid "{Mei}\n\"That's... well... that's understandable. But what happened to make her say that to you?\""
+msgstr ""
+
+#: 50105:470
+
+msgid "{Kazushi}\n\"Even though my looks aren't that bad, I'm just never popular, right?\""
+msgstr ""
+
+#: 50105:473
+
+msgid "{Mei}\n\"Oh, you think your looks aren't bad? Good, it's nice to see you so positive, Kazushi-kun. I'm sure that means your life will be bright too.\""
+msgstr ""
+
+#: 50105:474
+
+msgid "{Kazushi}\n\"Do you think so? I don't think things have been all that bright though.\""
+msgstr ""
+
+#: 50105:477
+
+msgid "{Mei}\n\"Really? I wonder if perhaps it would be better if you didn't have any memories.\""
+msgstr ""
+
+#: 50105:478
+
+msgid "Huh? In telling the dark tale of my youthful love life, I think I might have hit a bad note or something."
+msgstr ""
+
+#: 50105:479
+
+msgid "{Kazushi}\n\"I'm sure I am an exception. I have no doubts that your early life must have been wonderful.\""
+msgstr ""
+
+#: 50105:480
+
+msgid "I really meant it. I could not imagine a beautiful, wise, and kind person like her having lived nothing but a good life."
+msgstr ""
+
+#: 50105:483
+
+msgid "{Mei}\n\"That's fine if that's the case. But for something that nice, I wish I could remember some of it.\""
+msgstr ""
+
+#: 50105:486
+
+msgid "{Mei}\n\"Perhaps my past was greatly troubling, and I wonder if that's why I can't remember it? Perhaps those memories are locked deep inside my psyche or something.\""
+msgstr ""
+
+#: 50105:487
+
+msgid "{Kazushi}\n\"Again, I don't think so. I guarantee it - without a doubt!\""
+msgstr ""
+
+#: 50105:490
+
+msgid "{Mei}\n\"Really now......? Kazushi-kun, if that's the way you put it then that does put me at ease.\""
+msgstr ""
+
+#: 50105:491
+
+msgid "Sensei smiled slightly at me."
+msgstr ""
+
+#: 50105:492
+
+msgid "{Kazushi}\n\"I'm sure your memories will return to you some day. You should take it easy. I-I'm with you anyway!\""
+msgstr ""
+
+#: 50105:493
+
+msgid "I blurted that out in a moment of confusion. She looked surprised at first, but then she started to chuckle."
+msgstr ""
+
+#: 50105:496
+
+msgid "{Mei}\n\"You're right. Kazushi-kun is with me after all. ......eheheh.\""
+msgstr ""
+
+#: 50105:497
+
+msgid "But she laughed at me again."
+msgstr ""
+
+#: 50105:498
+
+msgid "{Kazushi}\n\"But I was being serious.\""
+msgstr ""
+
+#: 50105:501
+
+msgid "{Mei}\n\"Eheheh, I'm sorry. But I am really happy.\""
+msgstr ""
+
+#: 50105:502
+
+msgid "It wasn't a big deal, but for her to say that made me feel like I was dancing on air. I wanted her to share her smile with me even more."
+msgstr ""
+
+#: 50105:503
+
+msgid "{Kazushi}\n\"Well, let me find some more books for you. I'll go look at the inner shelves!!\""
+msgstr ""
+
+#: 50105:504
+
+msgid "{Mei}\n\"Oh my, really? If you find any interesting books, please show them to me, okay?\""
+msgstr ""
+
+#: 50105:505
+
+msgid "{Kazushi}\n\"Yes, of course.\""
+msgstr ""
+
+#: 50105:507
+
+msgid "I gratefully accepted the task of finding more books that fit her fancy. I went further down the bookshelves that I'd never seen before."
+msgstr ""
+
+#: 50105:508
+
+msgid "{Kazushi}\n\"With all this here, I'm sure I'll find something interesting.\""
+msgstr ""
+
+#: 50105:509
+
+msgid "I gazed at the catalog of spines, which seemed to be arranged chaotically to me. However, the titles didn't enter my head at all."
+msgstr ""
+
+#: 50105:510
+
+msgid "{Kazushi}\n\"My eyes are getting blurry looking at all this.\""
+msgstr ""
+
+#: 50105:511
+
+msgid "I decide to look for the novel shelf, and soon I was deep within the library. Shortly thereafter, I came upon an unfamiliar door."
+msgstr ""
+
+#: 50105:514
+
+msgid "{Kazushi}\n\"What's with this door?\""
+msgstr ""
+
+#: 50105:515
+
+msgid "This was the farthest end of the library. The space was dark as light from windows didn't reach here at all."
+msgstr ""
+
+#: 50105:516
+
+msgid "And there stood the door. It was a grand and ornate door. It really seemed more fit as a door from a castle in a foreign country."
+msgstr ""
+
+#: 50105:517
+
+msgid "However, it appeared that no one had used it for a long time as the door knob was covered in dust. On top of that, a bookshelf was covering up half the door anyway."
+msgstr ""
+
+#: 50105:518
+
+msgid "But it didn't seem like anyone would use it, much less see it with it half covered like this."
+msgstr ""
+
+#: 50105:519
+
+msgid "{Kazushi}\n\"I wonder what's in there.\""
+msgstr ""
+
+#: 50105:520
+
+msgid "I tried the knob."
+msgstr ""
+
+#: 50105:522
+
+msgid "*Clack......clack clack......*"
+msgstr ""
+
+#: 50105:523
+
+msgid "{Kazushi}\n\"It seems to be locked.\""
+msgstr ""
+
+#: 50105:525
+
+msgid "The door was completely forgotten over time, but it was still kept locked. That did pique my interest."
+msgstr ""
+
+#: 50105:526
+
+msgid "{Kazushi}\n\"There are probably some very important books stored in there. Perhaps there are some ancient books in there.\""
+msgstr ""
+
+#: 50105:527
+
+msgid "I couldn't help but think about it. I decided to go ask sensei if she knew anything."
+msgstr ""
+
+#: 50105:528
+
+msgid "{Kazushi}\n\"Sensei!\""
+msgstr ""
+
+#: 50105:531
+
+msgid "{Mei}\n\"Did you find any interesting books?\""
+msgstr ""
+
+#: 50105:532
+
+msgid "{Kazushi}\n\"Ah, I'm still working on that. What's the door at the far end for?\""
+msgstr ""
+
+#: 50105:535
+
+msgid "{Mei}\n\"Door at the far end?\""
+msgstr ""
+
+#: 50105:536
+
+msgid "Sensei responded in a puzzled manner. She didn't appear to know what I was talking about."
+msgstr ""
+
+#: 50105:537
+
+msgid "{Kazushi}\n\"Yeah, there's a door at the far end of the library. It's old and looks like it hasn't been used in ages.\""
+msgstr ""
+
+#: 50105:540
+
+msgid "{Mei}\n\"I didn't know about that. Where is it exactly?\""
+msgstr ""
+
+#: 50105:541
+
+msgid "{Kazushi}\n\"It's over here.\""
+msgstr ""
+
+#: 50105:543
+
+msgid "I took her over to it. But it seemed strange that the teacher in charge didn't know about it."
+msgstr ""
+
+#: 50105:544
+
+msgid "Even though I just saw it, I couldn't help but have a feeling that maybe I dreamt it up."
+msgstr ""
+
+#: 50105:545
+
+msgid "But it certainly wasn't a dream as the door was right in front of us."
+msgstr ""
+
+#: 50105:546
+
+msgid "{Kazushi}\n\"This is it.\""
+msgstr ""
+
+#: 50105:547
+
+msgid "Sensei went up close to it and tried the door knob."
+msgstr ""
+
+#: 50105:551
+
+msgid "{Mei}\n\"It does appear to be locked.\""
+msgstr ""
+
+#: 50105:552
+
+msgid "She tried pulling on it a few times but it wouldn't budge."
+msgstr ""
+
+#: 50105:554
+
+msgid "{Kazushi}\n\"Don't you have a key for that?\""
+msgstr ""
+
+#: 50105:557
+
+msgid "{Mei}\n\"I don't think so...... I didn't even know about this door in the first place.\""
+msgstr ""
+
+#: 50105:558
+
+msgid "It really appeared that she didn't know. But is that really the case?"
+msgstr ""
+
+#: 50105:559
+
+msgid "{Kazushi}\n\"You had always been the person who cleaned and organized the books though, right?\""
+msgstr ""
+
+#: 50105:562
+
+msgid "{Mei}\n\"Not past tense, I still do it, you know.\""
+msgstr ""
+
+#: 50105:563
+
+msgid "{Kazushi}\n\"But despite that, you've never noticed this door?\""
+msgstr ""
+
+#: 50105:566
+
+msgid "{Mei}\n\"Nope.\""
+msgstr ""
+
+#: 50105:567
+
+msgid "How could that be? I didn't know about it up until now either, but that's on the grounds that this just happens to be the first time I've gone this far in."
+msgstr ""
+
+#: 50105:568
+
+msgid "But I imagined that sensei knew the ins and outs of this room completely."
+msgstr ""
+
+#: 50105:569
+
+msgid "{Kazushi}\n\"It's not possible that this was......built recently huh?\""
+msgstr ""
+
+#: 50105:572
+
+msgid "{Mei}\n\"To put a single door in here would have needed some level of construction work.\""
+msgstr ""
+
+#: 50105:573
+
+msgid "{Kazushi}\n\"That's true.\""
+msgstr ""
+
+#: 50105:574
+
+msgid "And if such construction was being conducted, there would have been no way for her not to know about it. It's almost have if the door appeared out of nowhere in the wall."
+msgstr ""
+
+#: 50105:575
+
+msgid "{Kazushi}\n\"I'm becoming more and more curious about it. I wonder what's inside?\""
+msgstr ""
+
+#: 50105:578
+
+msgid "{Mei}\n\"Hmm, who knows? But at this school, there are many doors like this that can't be opened.\""
+msgstr ""
+
+#: 50105:579
+
+msgid "{Kazushi}\n\"A door that can't be opened......\""
+msgstr ""
+
+#: 50105:582
+
+msgid "{Mei}\n\"A door like this is probably sealed up because there's something dangerous inside, I suppose. The very existence of doors like that is hidden, and it's rare to find one.\""
+msgstr ""
+
+#: 50105:583
+
+msgid "Things like doors that can't be opened are typical for a school's seven mysteries, but here it sounded like more than a rumor."
+msgstr ""
+
+#: 50105:584
+
+msgid "{Kazushi}\n\"Well, I guess that means it would be best not to open this door.\""
+msgstr ""
+
+#: 50105:587
+
+msgid "{Mei}\n\"That's probably the case. However, since I've never noticed it before, I am a bit curious now.\""
+msgstr ""
+
+#: 50105:588
+
+msgid "There was an eerie look in her eyes as she looked at the door. The cicadas outside the window sounded increasingly distant as an otherworldly silence seemed to fall over us."
+msgstr ""
+
+#: 50105:589
+
+msgid "I wondered just what kind of door this was."
+msgstr ""
+
+#: 50105:600
+
+msgid "{Kazushi}\n\"So it seemed that the she was rather intrigued by that door.\""
+msgstr ""
+
+#: 50105:601
+
+msgid "After that, we didn't say much as we were probably both thinking about it."
+msgstr ""
+
+#: 50105:602
+
+msgid "For someone like her who'd lost her memories, a \"door not in her memory\" probably held a special significance to her."
+msgstr ""
+
+#: 50105:603
+
+msgid "{Kazushi}\n\"She seemed to appear somewhat disappointed to me.\""
+msgstr ""
+
+#: 50105:604
+
+msgid "Perhaps she was thinking that more of her memory had been lost, and thus she felt suspicious of it."
+msgstr ""
+
+#: 50105:609
+
+msgid "{Pierre}\n\"Well, it's certainly perfect timing. The time to strike is when she's troubled.\""
+msgstr ""
+
+#: 50105:610
+
+msgid "Pierre's answer was rather simple."
+msgstr ""
+
+#: 50105:615
+
+msgid "{Fuusen}\n\"You're right. A girl in that state would be easy to land.\""
+msgstr ""
+
+#: 50105:616
+
+msgid "{Kazushi}\n\"Fuusen, why are you also...... but is that it? Is it really all right to take advantage of her moment of weakness?\""
+msgstr ""
+
+#: 50105:617
+
+msgid "To think that asking for advice on \"how to cheer up a troubled girl\" would get me answers like this."
+msgstr ""
+
+#: 50105:621
+
+msgid "{Appo}\n\"To hesitate at this point... Kazushi, you need to bone up.\""
+msgstr ""
+
+#: 50105:622
+
+msgid "Appo looked surprisingly serious as he said that."
+msgstr ""
+
+#: 50105:623
+
+msgid "{Kazushi}\n\"B-bone up you say?\""
+msgstr ""
+
+#: 50105:624
+
+msgid "I straightened up and listen. Appo cleared his throat and carried an air of importance around him before he finally decided to speak."
+msgstr ""
+
+#: 50105:628
+
+msgid "{Appo}\n\"I'm talking about boning up in regards to dealing with someone you like.\""
+msgstr ""
+
+#: 50105:629
+
+msgid "{Kazushi}\n\"W-wait what now?! W-what did I do wrong?!!\""
+msgstr ""
+
+#: 50105:630
+
+msgid "Just saying that I needed to have more confidence had decimated what little self-confidence I had. But whether or not I was prepared wasn't something I'd thought about."
+msgstr ""
+
+#: 50105:635
+
+msgid "{Pierre}\n\"What's wrong with going after her while she's weak? In any case, go after Mei-chan. If you're prepared to bring her happiness, it should be more than enough.\""
+msgstr ""
+
+#: 50105:639
+
+msgid "{Appo}\n\"Fuu-chan said it as well. Girls are happier when someone loves them rather than the other way around. To love and be loved back is the greatest happiness in the universe...... if you know what I mean.\""
+msgstr ""
+
+#: 50105:644
+
+msgid "{Fuusen}\n\"Girls are satisfied if they are in love. If someone knows that they are loved, then there is no place for uneasiness.\""
+msgstr ""
+
+#: 50105:645
+
+msgid "{Kazushi}\n\"Is that right?\""
+msgstr ""
+
+#: 50105:648
+
+msgid "{Fuusen}\n\"That's right.\""
+msgstr ""
+
+#: 50105:649
+
+msgid "Fuusen smiled as she tried to cheer me up."
+msgstr ""
+
+#: 50105:652
+
+msgid "{Fuusen}\n\"I'll be rooting for you, Haruma-kun. Kazushi and Kazuko, only a character separates our names. That makes us rather close.\""
+msgstr ""
+
+#: 50105:653
+
+msgid "All of a sudden, she was acting with a sense of affinity towards me."
+msgstr ""
+
+#: 50105:654
+
+msgid "{Kazushi}\n\"Well no, we're not exactly family here. But thank you. I'll do my best.\""
+msgstr ""
+
+#: 50105:657
+
+msgid "{Appo}\n\"Grr! Your name and Fuu-chan's are only a character off and now she feels close to you! You're killin' me, Kazushi!\""
+msgstr ""
+
+#: 50105:658
+
+msgid "{Kazushi}\n\"No, that's fine. Just pretend that that isn't the case.\""
+msgstr ""
+
+#: 50105:665
+
+msgid "{Daigo}\n\"Are you jealous? I didn't think there would be people jealous over Fuusen.\""
+msgstr ""
+
+#: 50105:666
+
+msgid "{Pierre}\n\"They say love is blind. That is certainly the case here.\""
+msgstr ""
+
+#: 50105:673
+
+msgid "{Fuusen}\n\"Don't worry, Ah-chan. Fuu only belongs to Ah-chan.\""
+msgstr ""
+
+#: 50105:676
+
+msgid "{Appo}\n\"Well, how about you let me rest on your lap?\""
+msgstr ""
+
+#: 50105:679
+
+msgid "While calming Appo down, Fuusen nodded at us again."
+msgstr ""
+
+#: 50105:682
+
+msgid "{Fuusen}\n\"You can't leave Mei-chan alone, no matter what. When a girl is down, she wants someone to be there for her. Thus, it may be a good chance for you.\""
+msgstr ""
+
+#: 50105:683
+
+msgid "{Kazushi}\n\"I see...... Yeah, I got it. Thanks for the advice.\""
+msgstr ""
+
+#: 50105:684
+
+msgid "I didn't think there would ever be a day when I'd thank Fuusen. But to my surprise, she was actually a nice girl."
+msgstr ""
+
+#: 50105:685
+
+msgid "Was she always like this, or did she change when she started going out with Appo?"
+msgstr ""
+
+#: 50105:686
+
+msgid "I wonder if I could be a man that could positively influence Mei-sensei. I wonder how I can reduce her uneasiness."
+msgstr ""
+
+#: 50105:691
+
+msgid "{Kazushi}\n\"Everyone should be asleep by now.\""
+msgstr ""
+
+#: 50105:692
+
+msgid "Instead of sleeping, I dizzily came to my destination."
+msgstr ""
+
+#: 50105:693
+
+msgid "I could see that the lights were out through the windows of the girls' dorm. It was to be expected, since it was around two in the morning."
+msgstr ""
+
+#: 50105:694
+
+msgid "{Kazushi}\n\"I'm sure sensei is also asleep by now.\""
+msgstr ""
+
+#: 50105:695
+
+msgid "I wanted to say that Mei-sensei's room was on the third floor. As expected, her light was turned off."
+msgstr ""
+
+#: 50105:696
+
+msgid "{Kazushi}\n\"I wonder what I'm thinking. My intuition is probably completely off as well.\""
+msgstr ""
+
+#: 50105:697
+
+msgid "I had a feeling that maybe sensei was lonely by herself. It was probably on my mind after seeing how uneasy she looked today - it was the first time I've ever seen her like that."
+msgstr ""
+
+#: 50105:698
+
+msgid "{Kazushi}\n\"It wouldn't be bad if she was sound asleep.\""
+msgstr ""
+
+#: 50105:699
+
+msgid "It'd be nice if she wasn't having nightmares either. And then, a light turned on in a dorm room's window, and someone opened it."
+msgstr ""
+
+#: 50105:700
+
+msgid "I could make out the silhouette of someone looking at me. It was sensei."
+msgstr ""
+
+#: 50105:703
+
+msgid "{Mei}\n\"Huh, is that really you, Kazushi-kun?\""
+msgstr ""
+
+#: 50105:704
+
+msgid "{Kazushi}\n\"It's no joke. It's really me.\""
+msgstr ""
+
+#: 50105:705
+
+msgid "{Mei}\n\"Really, now. It felt strange to think that it was you, Kazushi-kun.\""
+msgstr ""
+
+#: 50105:706
+
+msgid "I didn't know what was going on, but she seemed surprised that I was there."
+msgstr ""
+
+#: 50105:707
+
+msgid "{Kazushi}\n\"Is it weird that I'm standing here?\""
+msgstr ""
+
+#: 50105:710
+
+msgid "{Mei}\n\"Well, I suppose you could say that. This is the girls' dorm after all. Looking up at the girls' dorm every night is rather suspicious behavior.\""
+msgstr ""
+
+#: 50105:711
+
+msgid "{Kazushi}\n\"Geh, that's true......\""
+msgstr ""
+
+#: 50105:712
+
+msgid "Now that I thought about it, it would be hard not to label me as a pervert in this situation."
+msgstr ""
+
+#: 50105:714
+
+msgid "{Mizuki}\n\"Mmm, who could that be at this hour......?\""
+msgstr ""
+
+#: 50105:717
+
+msgid "The window right above my head opened up. Mizuki stuck her head out, half-asleep and eyes shut."
+msgstr ""
+
+#: 50105:719
+
+msgid "{Mizuki}\n\"Mmm...... Is there someone out there......?\""
+msgstr ""
+
+#: 50105:720
+
+msgid "Ah, this would certainly fall under the rather unamusing pattern of being mistaken for a pervert."
+msgstr ""
+
+#: 50105:723
+
+msgid "{Mei}\n(Kazushi-kun! Come up here!)"
+msgstr ""
+
+#: 50105:724
+
+msgid "She mouthed out the words and gestured with her hands."
+msgstr ""
+
+#: 50105:725
+
+msgid "{Kazushi}\n\"Come up there......but......\""
+msgstr ""
+
+#: 50105:727
+
+msgid "{Mizuki}\n\"Mmm......huhh......is there someone theree? Ehh, is it a guuy......?\""
+msgstr ""
+
+#: 50105:728
+
+msgid "Oh, hell. Mizuki was starting to open her eyes."
+msgstr ""
+
+#: 50105:731
+
+msgid "{Mei}\n(Hurry! There's going to be trouble if you're seen!)"
+msgstr ""
+
+#: 50105:732
+
+msgid "{Kazushi}\n(G-got it!)"
+msgstr ""
+
+#: 50105:734
+
+msgid "I decided to do as she said. I quickly ducked down and out of Mizuki's visual range I hurried over to the door."
+msgstr ""
+
+#: 50105:737
+
+msgid "{Mizuki}\n\"Mmm......huh, there's no one there......\""
+msgstr ""
+
+#: 50105:742
+
+msgid "I knew where sensei's room was. Though the lights were off and everything was pitch black, I managed to make it without any near-misses."
+msgstr ""
+
+#: 50105:744
+
+msgid "*Knock knock......*"
+msgstr ""
+
+#: 50105:745
+
+msgid "I quietly knocked."
+msgstr ""
+
+#: 50105:746
+
+msgid "The door suddenly opened."
+msgstr ""
+
+#: 50105:750
+
+msgid "{Mei}\n\"Get in here, quickly.\""
+msgstr ""
+
+#: 50105:751
+
+msgid "{Kazushi}\n\"Okay......wha......?\""
+msgstr ""
+
+#: 50105:754
+
+msgid "She grabbed my hand and pulled me inside."
+msgstr ""
+
+#: 50105:755
+
+msgid "{Kazushi}\n\"That was a bit rough.\""
+msgstr ""
+
+#: 50105:758
+
+msgid "{Mei}\n\"Ssh. Be quiet. The walls are rather thin.\""
+msgstr ""
+
+#: 50105:759
+
+msgid "Her voice was rather quiet as she worried about the sound traveling through to the next room. That nervousness transferred through to me as I quieted my breathing."
+msgstr ""
+
+#: 50105:760
+
+msgid "{Kazushi}\n\"Wouldn't it have been better if I didn't come in here?\""
+msgstr ""
+
+#: 50105:761
+
+msgid "I could have chosen to run, but I'd gotten myself into a dangerous situation instead. Of course, this is more because she told me to..."
+msgstr ""
+
+#: 50105:764
+
+msgid "{Mei}\n\"Well, more like I didn't expect you to be there and I got surprised......\""
+msgstr ""
+
+#: 50105:765
+
+msgid "She said it again. It's as if she was expecting me to be there and was then surprised that she was correct in her expectation."
+msgstr ""
+
+#: 50105:766
+
+msgid "{Kazushi}\n\"Why are you so surprised? Could it be that you were thinking about me?\""
+msgstr ""
+
+#: 50105:769
+
+msgid "{Mei}\n\"No, that isn't......\""
+msgstr ""
+
+#: 50105:770
+
+msgid "Her face turned red. Did I nail it?"
+msgstr ""
+
+#: 50105:771
+
+msgid "{Kazushi}\n\"Could it be true? That you were thinking about me?\""
+msgstr ""
+
+#: 50105:772
+
+msgid "{Mei}\n\"Ka-Kazushi-kun, it wasn't what you're thinking of. It's just that you came to mind.\""
+msgstr ""
+
+#: 50105:773
+
+msgid "She quietly mumbled some excuses, but I couldn't really hear her. I'd never seen her this agitated before."
+msgstr ""
+
+#: 50105:776
+
+msgid "{Mei}\n\"It's just that I couldn't really sleep...... I was just thinking that I wanted to have a boyfriend close by in a situation like this.\""
+msgstr ""
+
+#: 50105:777
+
+msgid "{Kazushi}\n\"That's why I came to mind?\""
+msgstr ""
+
+#: 50105:780
+
+msgid "{Mei}\n\"After all, Kazushi-kun, you said you liked me......\""
+msgstr ""
+
+#: 50105:781
+
+msgid "She pouted her lips. Just seeing her acting like a child made me feel kind of giddy."
+msgstr ""
+
+#: 50105:784
+
+msgid "{Mei}\n\"Since I couldn't sleep, I was thinking about some random things. It's been a while since I couldn't sleep like this.\""
+msgstr ""
+
+#: 50105:785
+
+msgid "She didn't say it, but I wondered if what happened earlier in the day had an effect on her. And the reason why I came to the girls dorm was because of that as well."
+msgstr ""
+
+#: 50105:786
+
+msgid "If that's the case, then my coming here isn't merely a coincidence?"
+msgstr ""
+
+#: 50105:789
+
+msgid "{Mei}\n\"But it is true that having a boy come into my room at this hour was a rash thing for me to do.\""
+msgstr ""
+
+#: 50105:790
+
+msgid "{Kazushi}\n\"You don't need to worry, though. After all, I won't do anything.\""
+msgstr ""
+
+#: 50105:791
+
+msgid "{Mei}\n\"Kazushi-kun, I didn't say you were going to do anything to me. It's just that no one is going to think that would be the case though.\""
+msgstr ""
+
+#: 50105:792
+
+msgid "{Kazushi}\n\"But you told me to come up here, you know?\""
+msgstr ""
+
+#: 50105:795
+
+msgid "{Mei}\n\"That's because...... I... was thinking I felt like having someone to talk to......\""
+msgstr ""
+
+#: 50105:796
+
+msgid "She answered with a helpless look on her face. Tonight she looked as if she was a little girl. It made me want to devote myself to protecting her."
+msgstr ""
+
+#: 50105:799
+
+msgid "{Mei}\n\"But it's already late. Kazushi-kun, I think it's best that you return to your room. I'm sorry for dragging you in here.\""
+msgstr ""
+
+#: 50105:800
+
+msgid "{Kazushi}\n\"Well, now that I'm here, why don't we talk about something?\""
+msgstr ""
+
+#: 50105:803
+
+msgid "{Mei}\n\"Eh, but......\""
+msgstr ""
+
+#: 50105:804
+
+msgid "Sensei was really only speaking with regard to common sense. She was holding back her true feelings. In actuality, she probably wanted me to stay."
+msgstr ""
+
+#: 50105:805
+
+msgid "Or perhaps that's what I really hoped was true."
+msgstr ""
+
+#: 50105:806
+
+msgid "{Kazushi}\n\"Besides, making all that noise coming in and out will certainly get someone's attention. It may be best to wait it out a bit.\""
+msgstr ""
+
+#: 50105:809
+
+msgid "{Mei}\n\"Perhaps that is so...... In that case, would you care for a cup of tea?\""
+msgstr ""
+
+#: 50105:810
+
+msgid "{Kazushi}\n\"I'd love to.\""
+msgstr ""
+
+#: 50105:811
+
+msgid "{Mei}\n\"Wait just a moment, okay?\""
+msgstr ""
+
+#: 50105:813
+
+msgid "She stood up and went to fetch an electric pot and cup. Sensei looked relieved as she prepared. Perhaps she really was feeling lonely."
+msgstr ""
+
+#: 50105:814
+
+msgid "From the get go, it was the loss of her memory that bothered her. On top of that, I was certain that everything that happened today added to that uneasiness."
+msgstr ""
+
+#: 50105:815
+
+msgid "At times like this, she'd had to deal with this uneasiness by herself, but if I could lend my energy to help her......"
+msgstr ""
+
+#: 50105:817
+
+msgid "As I was thinking about this, I saw a steaming cup in front of me."
+msgstr ""
+
+#: 50105:822
+
+msgid "{Mei}\n\"Here you go. I hope you don't mind that it's hot.\""
+msgstr ""
+
+#: 50105:823
+
+msgid "{Kazushi}\n\"I would happily drink anything you made.\""
+msgstr ""
+
+#: 50105:824
+
+msgid "I accepted the cup. Sensei smiled weakly at me."
+msgstr ""
+
+#: 50105:827
+
+msgid "{Mei}\n\"You sound like a bogus marriage swindler.\""
+msgstr ""
+
+#: 50105:828
+
+msgid "{Kazushi}\n\"Not only am I a marriage swindler, but I'm bogus as well? That's cruel.\""
+msgstr ""
+
+#: 50105:829
+
+msgid "{Mei}\n\"Really, you are trouble. Heheh......\""
+msgstr ""
+
+#: 50105:830
+
+msgid "{Kazushi}\n\"Huh, so in the end I'm still in trouble. How cruel...\""
+msgstr ""
+
+#: 50105:831
+
+msgid "{Mei}\n\"Heheh......ahahah......\""
+msgstr ""
+
+#: 50105:833
+
+msgid "Her laughter was like the sound of bells. It was enough to make me break into a big grin as well."
+msgstr ""
+
+#: 50105:834
+
+msgid "In the dead of night in sensei's room, the two of us drank tea while having a lively conversation. It was like a dream to me."
+msgstr ""
+
+#: 50105:835
+
+msgid "Well, it's okay if this is just a dream. I wouldn't mind seeing a dream like this every day."
+msgstr ""
+
+#: 50105:838
+
+msgid "{Mei}\n\"Oh, I forgot we can't laugh too loud. Ahh, but it's so fun.\""
+msgstr ""
+
+#: 50105:839
+
+msgid "I relished this wonderful feeling. Just having her smile for me was enough to fill my heart."
+msgstr ""
+
+#: 50105:840
+
+msgid "It wasn't a sense of happiness or fun, but a more calming feeling."
+msgstr ""
+
+#: 50105:841
+
+msgid "'I want to protect her smile.' That feeling suddenly sprouted within me."
+msgstr ""
+
+#: 50105:846
+
+msgid "{Mei}\n\"Zzz, zzz......\""
+msgstr ""
+
+#: 50105:847
+
+msgid "{Kazushi}\n\"She's sleeping like an angel.\""
+msgstr ""
+
+#: 50105:848
+
+msgid "While we talked, she fell asleep at her desk. She didn't stir, even when I carried her to bed. Her sleeping expression was serene."
+msgstr ""
+
+#: 50105:849
+
+msgid "{Kazushi}\n\"Well, I'll head back then.\""
+msgstr ""
+
+#: 50105:850
+
+msgid "I wanted to continue to look at her sleeping face, but my reasoning wouldn't allow it."
+msgstr ""
+
+#: 50105:851
+
+msgid "{Kazushi}\n\"Good night.\""
+msgstr ""
+
+#: 50105:852
+
+msgid "I said that to her sleeping face as I stood up----"
+msgstr ""
+
+#: 50105:853
+
+msgid "*Squeeze*......"
+msgstr ""
+
+#: 50105:854
+
+msgid "......and as I was standing up, something started pulling on my shirt."
+msgstr ""
+
+#: 50105:855
+
+msgid "Sensei's hand was grabbing onto the bottom of my shirt."
+msgstr ""
+
+#: 50105:856
+
+msgid "{Kazushi}\n\"Sensei, please let go!\""
+msgstr ""
+
+#: 50105:857
+
+msgid "{Mei}\n\"Zzz-......mmm......zzz-,zzz-......\""
+msgstr ""
+
+#: 50105:858
+
+msgid "{Kazushi}\n\"Sensei!\""
+msgstr ""
+
+#: 50105:859
+
+msgid "Her slender fingers gripped my shirt and refused to let go. I could pull with force, but I thought I'd damage her beautiful fingers that way."
+msgstr ""
+
+#: 50105:860
+
+msgid "{Kazushi}\n\"Well this is different.\""
+msgstr ""
+
+#: 50105:861
+
+msgid "{Mei}\n\"Zzz-, zzz-......ahaha, eheheh......\""
+msgstr ""
+
+#: 50105:862
+
+msgid "{Kazushi}\n\"Huh, she's laughing. Is she dreaming?\""
+msgstr ""
+
+#: 50105:863
+
+msgid "I wondered what she was seeing in her dreams. Just looking at her sleeping face all I could see was an innocent girl sleeping."
+msgstr ""
+
+#: 50105:864
+
+msgid "Well, that could be a possibility. For someone like her to lose her memories of the past, she may not be much different than a young girl."
+msgstr ""
+
+#: 50105:865
+
+msgid "And yet she has the charm of a knowledgeable older sister around her."
+msgstr ""
+
+#: 50105:866
+
+msgid "{Kazushi}\n\"Which of these is the real you, sensei?\""
+msgstr ""
+
+#: 50105:867
+
+msgid "{Mei}\n\"Zzz-......, zzz-......\""
+msgstr ""
+
+#: 50105:868
+
+msgid "Perhaps she didn't even know. Or rather, perhaps she was the most perplexed about it in this case."
+msgstr ""
+
+#: 50105:869
+
+msgid "{Kazushi}\n\"I have to do what I can for her.\""
+msgstr ""
+
+#: 50105:870
+
+msgid "Who cares which one is really her? The person is in front of me is Ibuki Mei."
+msgstr ""
+
+#: 50105:871
+
+msgid "I will watch over her and make sure that she doesn't lose anything else. I always will......"
+msgstr ""
+
+#: 50105:874
+
+msgid "As I left the girls dorm, I could see the sun rising in the sky to the east. It was almost morning."
+msgstr ""
+
+#: 50105:875
+
+msgid "After watching over sensei's sleeping face, so much time had already elapsed."
+msgstr ""
+
+#: 50105:876
+
+msgid "{Kazushi}\n\"I'd better get back and get some rest.\""
+msgstr ""
+
+#: 50105:877
+
+msgid "How long should I sleep? It's summer vacation, so it's not a matter of how long I can sleep, but more that I want to see sensei again as soon as possible."
+msgstr ""
+
+#: 50105:878
+
+msgid "{Kazushi}\n\"And this is despite having just seen her.\""
+msgstr ""
+
+#: 50105:879
+
+msgid "I weakly laughed to myself. She was already asleep anyway, so there would have been no reason to act cool when it would have been nice to have just spent the night there."
+msgstr ""
+
+#: 50105:880
+
+msgid "{Kazushi}\n\"Well, that would've been a bad idea.\""
+msgstr ""
+
+#: 50105:883
+
+msgid "{Principal}\n\"Yes it would.\""
+msgstr ""
+
+#: 50105:884
+
+msgid "{Kazushi}\n\"Huh......!!!!!!\""
+msgstr ""
+
+#: 50105:885
+
+msgid "I was surprised as I didn't think I'd run into anyone at this hour, let alone the principal of all people."
+msgstr ""
+
+#: 50105:886
+
+msgid "{Kazushi}\n\"Ah, g-good evening!\""
+msgstr ""
+
+#: 50105:887
+
+msgid "My voice suddenly cracked. The principal smiled at me gracefully. It was a smile that certainly did not fit with the time."
+msgstr ""
+
+#: 50105:890
+
+msgid "{Principal}\n\"Good evening. There's a nice full moon tonight.\""
+msgstr ""
+
+#: 50105:891
+
+msgid "She looked up into the peaceful night sky. The moon had already started to wane, and soon it seemed as though it was suspended above the school building."
+msgstr ""
+
+#: 50105:893
+
+msgid "With a pure smile on her face, the principal continued to look at the moonlit night. Every time I looked at her, she looked refined - so refined that it was hard to really approach her."
+msgstr ""
+
+#: 50105:895
+
+msgid "{Kazushi}\n\"Uhm...... Well, I'd best be off.\""
+msgstr ""
+
+#: 50105:897
+
+msgid "That was rather awkward. I quickly bowed and headed away from the area."
+msgstr ""
+
+#: 50105:900
+
+msgid "{Principal}\n\"Haruma-kun.\""
+msgstr ""
+
+#: 50105:902
+
+msgid "She said my name as I prepared to leave. She remembered my name......that was unexpected enough to stop me in my tracks."
+msgstr ""
+
+#: 50105:903
+
+msgid "{Kazushi}\n\"Y-yes, what is it?\""
+msgstr ""
+
+#: 50105:904
+
+msgid "Her marble-like eyes looked right at me. I was rather uncomfortable against those eyes - she may have been Haruka's grandma, but the feeling didn't seem right."
+msgstr ""
+
+#: 50105:905
+
+msgid "Haruka was a girl whose bottomless cheerfulness was always uplifting, but people like her grandma always left me uneasy."
+msgstr ""
+
+#: 50105:906
+
+msgid "{Principal}\n\"Though it may be summer vacation, I don't think it's a good idea to be sneaking around the girls' dorm.\""
+msgstr ""
+
+#: 50105:907
+
+msgid "I guess she did see me coming out of there. I don't want to cause sensei trouble, so I'd better explain myself."
+msgstr ""
+
+#: 50105:908
+
+msgid "{Kazushi}\n\"Sorry, I got a bit carried away when talking with a friend.\""
+msgstr ""
+
+#: 50105:909
+
+msgid "And that was my excuse. I trembled as I thought about what would happen if she asked me who that might have been."
+msgstr ""
+
+#: 50105:910
+
+msgid "In any case, I'll say that I was visiting Ran. No matter what, I couldn't bring up sensei's name in this."
+msgstr ""
+
+#: 50105:913
+
+msgid "{Principal}\n\"Is Ibuki-sensei already asleep?\""
+msgstr ""
+
+#: 50105:914
+
+msgid "{Kazushi}\n\"Eh......\""
+msgstr ""
+
+#: 50105:915
+
+msgid "I was at a loss for words as the principal seemed to almost read my mind. As usual, she smiled at me."
+msgstr ""
+
+#: 50105:918
+
+msgid "{Principal}\n\"It seems you've been visiting the library a lot lately. If you found good things to read then that's fine, but...\""
+msgstr ""
+
+#: 50105:919
+
+msgid "{Kazushi}\n\"Well, I... uhh......\""
+msgstr ""
+
+#: 50105:920
+
+msgid "How did she know that I frequenting the library? No, that didn't really matter. What was it that she wanted to say to me?"
+msgstr ""
+
+#: 50105:925
+
+msgid "{Principal}\n\"Now if it is an interest in something other than books, I'll ask you to curtail your reckless behavior.\""
+msgstr ""
+
+#: 50105:926
+
+msgid "It was a roundabout way of saying it. That kind of annoyed me."
+msgstr ""
+
+#: 50105:927
+
+msgid "{Kazushi}\n\"What do you mean by reckless behavior?\""
+msgstr ""
+
+#: 50105:928
+
+msgid "{Principal}\n\"What I am saying is not to get yourself involved with Ibuki Mei.\""
+msgstr ""
+
+#: 50105:930
+
+msgid "She said it rather clearly and with a gentle voice. The way she spoke made it sound like both a warning and an order. Despite that, there was a faint smile on her gentle face which rather made me uneasy."
+msgstr ""
+
+#: 50105:932
+
+msgid "{Kazushi}\n\"This has nothing to do with Mei-sensei. I barged in there on my own accord.\""
+msgstr ""
+
+#: 50105:935
+
+msgid "{Principal}\n\"I understand that. That is why I am warning you against getting involved with her. Ibuki Mei will not reciprocate your feelings.\""
+msgstr ""
+
+#: 50105:936
+
+msgid "Now she'd stopped beating around the bush. This weird feeling is starting to get me angry."
+msgstr ""
+
+#: 50105:937
+
+msgid "{Kazushi}\n\"I don't really care about what you have to say. All I know is that I like Mei-sensei. I am not asking anything of her.\""
+msgstr ""
+
+#: 50105:938
+
+msgid "Of course, I wanted sensei to like me back as well. But beyond that, her smile and her happiness were all that I found truly important to me at the time."
+msgstr ""
+
+#: 50105:939
+
+msgid "As I watched her sleep, I realized that my feelings had started to change towards her."
+msgstr ""
+
+#: 50105:942
+
+msgid "{Principal}\n\"Love with no reward, giving love, selfless love...... I see, this is rather noble indeed.\""
+msgstr ""
+
+#: 50105:943
+
+msgid "It didn't seem like she was praising me at all. It only felt like she was making fun of me."
+msgstr ""
+
+#: 50105:944
+
+msgid "{Kazushi}\n\"Besides, how are you so sure about how sensei feels that you can say that she doesn't like me? A person's feelings are always capable of changing.\""
+msgstr ""
+
+#: 50105:947
+
+msgid "{Principal}\n\"Yes, a person's emotions are something that easily changes. However, nobody knows exactly where these easily changing emotions come from.\""
+msgstr ""
+
+#: 50105:948
+
+msgid "She looked right at me. I found myself unable to move my body, as if it was paralyzed."
+msgstr ""
+
+#: 50105:949
+
+msgid "{Kazushi}\n\"It comes...... from the heart?\""
+msgstr ""
+
+#: 50105:950
+
+msgid "Only my lips could move, as if answering her questions was all I could do. The principal furrowed her brow."
+msgstr ""
+
+#: 50105:953
+
+msgid "{Principal}\n\"Yes, the heart. Everything comes from the heart. Whether it is loving a girl, hating a man, feeling the beauty of dawn, or sensing the stench of a maggot-filled corpse......\""
+msgstr ""
+
+#: 50105:954
+
+msgid "{Principal}\n\"You feel all of that in your heart. And that heart, where do you think it is?\""
+msgstr ""
+
+#: 50105:955
+
+msgid "What exactly was she trying to say? What is it that she wanted to say?"
+msgstr ""
+
+#: 50105:956
+
+msgid "{Kazushi}\n\"The heart is......\""
+msgstr ""
+
+#: 50105:957
+
+msgid "Where would it be?"
+msgstr ""
+
+#: 50105:958
+
+msgid "{Principal}\n\"You do not know where the heart is. The organ that is the heart is something you will never find, even if you search the entire human body.\""
+msgstr ""
+
+#: 50105:959
+
+msgid "Despite asking me the question, the principal finished her lecture instead. I still couldn't move."
+msgstr ""
+
+#: 50105:962
+
+msgid "{Principal}\n\"If the brain says that is the case, then it is a rather scientific matter of deduction, but I don't think it is quite that simple.\""
+msgstr ""
+
+#: 50105:963
+
+msgid "{Principal}\n\"Of course, it is true that as an organ that stores our memories, the brain does what it can to contribute to defining our identities.\""
+msgstr ""
+
+#: 50105:964
+
+msgid "Memory...... Lately it's been a term that I've had quite an interest in. What is identity? In context, it describes what we individually are."
+msgstr ""
+
+#: 50105:965
+
+msgid "{Kazushi}\n\"Well, what happens to someone who's completely lost their memories?\""
+msgstr ""
+
+#: 50105:966
+
+msgid "For someone to lose what it is to be a person, what would that......"
+msgstr ""
+
+#: 50105:967
+
+msgid "{Principal}\n\"A person who has completely lost their memories, you say? And who would that be?\""
+msgstr ""
+
+#: 50105:968
+
+msgid "She put the ball back in my court."
+msgstr ""
+
+#: 50105:969
+
+msgid "{Kazushi}\n\"Who, you say......?\""
+msgstr ""
+
+#: 50105:970
+
+msgid "Sensei is who she is. There can be nothing beyond that."
+msgstr ""
+
+#: 50105:971
+
+msgid "{Principal}\n\"Haruma-kun, you are aware of the fact that Ibuki-sensei has lost her memories, yes?\""
+msgstr ""
+
+#: 50105:972
+
+msgid "Hearing that, I nodded."
+msgstr ""
+
+#: 50105:973
+
+msgid "{Kazushi}\n\"Ma'am, do you know about the incident that caused Mei-sensei to lose her memory? What happened?\""
+msgstr ""
+
+#: 50105:974
+
+msgid "The principal's eyes narrowed as it was my turn to ask a question. Though she continued smiling, it seemed like she was scowling at me."
+msgstr ""
+
+#: 50105:977
+
+msgid "{Principal}\n\"It's for your own good that I'm telling you to not get involved.\""
+msgstr ""
+
+#: 50105:978
+
+msgid "An answer that really isn't an answer at all. It really seems that the principal doesn't wish for me to get involved with Mei-sensei."
+msgstr ""
+
+#: 50105:980
+
+msgid "Certainly it would be something of a scandal for a teacher to be romantically involved with a student, but I could sense that the reason behind the principal's warning was far more nuanced than that."
+msgstr ""
+
+#: 50105:982
+
+msgid "{Kazushi}\n\"What do you mean that this is for my own good? I'll decide for myself what's good for me.\""
+msgstr ""
+
+#: 50105:985
+
+msgid "{Principal}\n\"You don't understand the situation at all. Without understanding, you cannot judge between right and wrong. And there are times in this world where ignorance is bliss.\""
+msgstr ""
+
+#: 50105:986
+
+msgid "That was quite a reasonable response. Trying to soothe my defiant attitude, the principal gently smiled."
+msgstr ""
+
+#: 50105:989
+
+msgid "{Principal}\n\"I don't want you to misunderstand me, as this really is for your sake, okay? After all, Haruma-kun, you are a dear student to me.\""
+msgstr ""
+
+#: 50105:990
+
+msgid "{Principal}\n\"If at all possible, I do not want to see my students looking sad.\""
+msgstr ""
+
+#: 50105:991
+
+msgid "I can't honestly take the principal's words at face value. By taking away my ability to move and clearly hiding something, she made it hard for me to agree with her."
+msgstr ""
+
+#: 50105:994
+
+msgid "{Principal}\n\"From your facial expression, I can see you are not convinced.\""
+msgstr ""
+
+#: 50105:995
+
+msgid "{Kazushi}\n\"Of course I'm not. After all, it is very hard for me to be convinced without knowing what's going on.\""
+msgstr ""
+
+#: 50105:998
+
+msgid "{Principal}\n\"I see...... But I have warned you nevertheless.\""
+msgstr ""
+
+#: 50105:1000
+
+msgid "With the discussion having ended, she turned around and walked away. As soon as she left my eyesight, I felt control of my body return to me."
+msgstr ""
+
+#: 50105:1001
+
+msgid "{Kazushi}\n\"..................\""
+msgstr ""
+
+#: 50105:1002
+
+msgid "No matter how many things I wanted to ask her, I stood there silently. I stood there as she disappeared from sight."
+msgstr ""
+
+#: 50105:1003
+
+msgid "Besides, she wouldn't have told me, even if I'd asked. And regardless of what she said, I had no interest in following her advice."
+msgstr ""
+
+#: 50105:1004
+
+msgid "Only one thing bothered me..."
+msgstr ""
+
+#: 50105:1005
+
+msgid "{Kazushi}\n\"Is Mei-sensei...... She is herself after all, right?\""
+msgstr ""
+

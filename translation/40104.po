@@ -1,0 +1,2583 @@
+# Comments for '40104'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 40104:8
+
+msgid "{Kazushi}\n\"Natsume-chan? Are you here?\""
+msgstr ""
+
+#: 40104:9
+
+msgid "I called out, loudly, to try and find her. As it was the middle of summer vacation, the campus was as quiet as it could be."
+msgstr ""
+
+#: 40104:16
+
+msgid "I walked around, listening to my own footsteps. It was cool inside the building, even without air conditioning, and it was nice."
+msgstr ""
+
+#: 40104:17
+
+msgid "{Kazushi}\n\"Maybe I should take a nap here.\""
+msgstr ""
+
+#: 40104:18
+
+msgid "It was pleasantly cool, and would make the best spot."
+msgstr ""
+
+#: 40104:19
+
+msgid "{Cat}\n\"Meow...\""
+msgstr ""
+
+#: 40104:21
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 40104:22
+
+msgid "I heard the sound of a cat. There was a cat inside the building."
+msgstr ""
+
+#: 40104:23
+
+msgid "{Kazushi}\n\"I wonder where it could be? Meow? Meow?\""
+msgstr ""
+
+#: 40104:24
+
+msgid "I called out in cat. Not that I actually knew it."
+msgstr ""
+
+#: 40104:25
+
+msgid "{Kazushi}\n\"Mee? Meow?\""
+msgstr ""
+
+#: 40104:26
+
+msgid "{Cat}\n\"Meow. Meow.\""
+msgstr ""
+
+#: 40104:27
+
+msgid "{Kazushi}\n\"Oh, it worked.\""
+msgstr ""
+
+#: 40104:28
+
+msgid "The cat answered. So, there was a cat somewhere."
+msgstr ""
+
+#: 40104:29
+
+msgid "{Kazushi}\n\"Meow? Meow, meow.\""
+msgstr ""
+
+#: 40104:30
+
+msgid "{Cat}\n\"Mee. Mee. Mee.\""
+msgstr ""
+
+#: 40104:31
+
+msgid "I followed the cat's cries. It sounded like it was coming from one of the freshman classrooms."
+msgstr ""
+
+#: 40104:32
+
+msgid "{Kazushi}\n\"Meow? Meow?\""
+msgstr ""
+
+#: 40104:33
+
+msgid "{Cat?}\n\"Zzz.\""
+msgstr ""
+
+#: 40104:34
+
+msgid "\"Zzzz\"? That doesn't sound like a cat. What kind of cat makes a sound like that?"
+msgstr ""
+
+#: 40104:35
+
+msgid "{Kazushi}\n\"Quietly, quietly...\""
+msgstr ""
+
+#: 40104:37
+
+msgid "I slowly opened the door, trying not to surprise the cat."
+msgstr ""
+
+#: 40104:40
+
+msgid "{Kazushi}\n\"Where are you? Meow? Meow?\""
+msgstr ""
+
+#: 40104:41
+
+msgid "{Cat}\n\"Meow.\""
+msgstr ""
+
+#: 40104:42
+
+msgid "The cry came from under the desk by the window. I tip-toed to get close to the desk."
+msgstr ""
+
+#: 40104:43
+
+msgid "{Kazushi}\n\"Meow?\""
+msgstr ""
+
+#: 40104:44
+
+msgid "I tried to look under the desk as I called out to it."
+msgstr ""
+
+#: 40104:48
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 40104:49
+
+msgid "There was a huge cat sleeping there, curled up and surrounded by some regular cats."
+msgstr ""
+
+#: 40104:50
+
+msgid "{Kazushi}\n\"There you are, Natsume-chan! But what are you wearing...\""
+msgstr ""
+
+#: 40104:51
+
+msgid "Is she cosplaying? I remembered Sakura saying something about dressing her up, but I didn't know this was what she were talking about."
+msgstr ""
+
+#: 40104:52
+
+msgid "{Kazushi}\n\"Sakura forced you to wear this, huh?\""
+msgstr ""
+
+#: 40104:53
+
+msgid "Maybe that's why Natsume-chan ran away and hid inside the school building. And then she fell asleep while hiding."
+msgstr ""
+
+#: 40104:54
+
+msgid "{Kazushi}\n\"But...\""
+msgstr ""
+
+#: 40104:55
+
+msgid "{Cat}\n\"Meow.\""
+msgstr ""
+
+#: 40104:56
+
+msgid "Look at all these cats around her. Is she the type that cats love? Or did the cat ears draw them in?"
+msgstr ""
+
+#: 40104:58
+
+msgid "{Natsume}\n\"Mm...\""
+msgstr ""
+
+#: 40104:59
+
+msgid "Natsume-chan was frowning, and her eyebrows tensed due to a cat sleeping on her chest.\nOn the other hand, she looks cute when she's mad..."
+msgstr ""
+
+#: 40104:60
+
+msgid "{Kazushi}\n\"Uh-oh, I may be about to set foot down a path that mustn't be tread.\""
+msgstr ""
+
+#: 40104:61
+
+msgid "This kind of play can get addicting. Well, it's not play, but..."
+msgstr ""
+
+#: 40104:62
+
+msgid "{Kazushi}\n\"...Guess I'll wake her up.\""
+msgstr ""
+
+#: 40104:63
+
+msgid "I couldn't let her sleep like this for long."
+msgstr ""
+
+#: 40104:64
+
+msgid "{Kazushi}\n\"Natsume-chan, Natsume-chan. It's morning.\""
+msgstr ""
+
+#: 40104:65
+
+msgid "{Natsume}\n\"Mm...\""
+msgstr ""
+
+#: 40104:66
+
+msgid "{Kazushi}\n\"Natsume-chan, Natsume-chan.\""
+msgstr ""
+
+#: 40104:67
+
+msgid "{Natsume}\n\"Uuuhh... uuh?\""
+msgstr ""
+
+#: 40104:68
+
+msgid "Her long eyelashes were moving. She might almost be capable of waking up."
+msgstr ""
+
+#: 40104:69
+
+msgid "{Kazushi}\n\"Natsume-chan! If you don't wake up soon, Sakura's going to come get you!\""
+msgstr ""
+
+#: 40104:70
+
+msgid "{Natsume}\n\"Mm...\""
+msgstr ""
+
+#: 40104:71
+
+msgid "She moaned, and slowly opened her heavy eyelids."
+msgstr ""
+
+#: 40104:73
+
+msgid "{Natsume}\n\"Auu... Haruma?\""
+msgstr ""
+
+#: 40104:74
+
+msgid "She looked at me, still half asleep."
+msgstr ""
+
+#: 40104:75
+
+msgid "{Kazushi}\n\"It's Haruma. Don't sleep here, sleep in back in your room.\""
+msgstr ""
+
+#: 40104:76
+
+msgid "{Natsume}\n\"Uuuhhh...\""
+msgstr ""
+
+#: 40104:77
+
+msgid "She moaned, and sounded like she was in a bad mood. Was it because she just woke up? Either way, she rubbed her sleepy eyes."
+msgstr ""
+
+#: 40104:78
+
+msgid "{Natsume}\n\"Mmmm...\""
+msgstr ""
+
+#: 40104:79
+
+msgid "{Kazushi}\n\"Hey, hey. Don't rub your eyes too much. Are your hands clean? You could get sick if you rubbed your eyes with dirty hands.\""
+msgstr ""
+
+#: 40104:80
+
+msgid "I tried to stop her from rubbing her eyes, but she gave me a dirty look despite still being sleepy."
+msgstr ""
+
+#: 40104:81
+
+msgid "{Natsume}\n\"Mm... You always get in my way.\""
+msgstr ""
+
+#: 40104:82
+
+msgid "{Kazushi}\n\"No, that's not true. Come on. Wake up.\""
+msgstr ""
+
+#: 40104:84
+
+msgid "{Natsume}\n\"Zzz...\""
+msgstr ""
+
+#: 40104:85
+
+msgid "{Kazushi}\n\"Hey, don't go back to sleep.\""
+msgstr ""
+
+#: 40104:86
+
+msgid "She was just like my spoiled little sister.\nI can't leave her alone for anything..."
+msgstr ""
+
+#: 40104:88
+
+msgid "{Natsume}\n\"Mm... Haruma, you woke me up today. It's the opposite of last time.\""
+msgstr ""
+
+#: 40104:89
+
+msgid "{Kazushi}\n\"What do you mean? Opposite?\""
+msgstr ""
+
+#: 40104:90
+
+msgid "{Natsume}\n\"You didn't kiss me today, right?\""
+msgstr ""
+
+#: 40104:91
+
+msgid "Natsume-chan made a weird comment, and wiped her lips. I thought I saw blood on her hand, but it was just my imagination."
+msgstr ""
+
+#: 40104:92
+
+msgid "...but why blood? Isn't that a bit too weird, even for my imagination?"
+msgstr ""
+
+#: 40104:93
+
+msgid "{Kazushi}\n\"What kiss are you talking about? I didn't kiss you while you were sleeping!\""
+msgstr ""
+
+#: 40104:94
+
+msgid "{Natsume}\n\"How dare you! Well, I guess twice isn't very different from once.\""
+msgstr ""
+
+#: 40104:95
+
+msgid "{Kazushi}\n\"I haven't kissed you once before.\""
+msgstr ""
+
+#: 40104:96
+
+msgid "Because I've never kissed ANYONE in my life before. Not that I'm proud of it."
+msgstr ""
+
+#: 40104:97
+
+msgid "{Natsume}\n\"Anyway, I'm glad you're here, Haruma. Go get my clothes. I can't go out like this.\""
+msgstr ""
+
+#: 40104:98
+
+msgid "{Kazushi}\n\"Yeah. I guess.\""
+msgstr ""
+
+#: 40104:99
+
+msgid "If she went out like this, she might get kidnapped by some crazy maniac."
+msgstr ""
+
+#: 40104:100
+
+msgid "{Kazushi}\n\"Well, wait here.\""
+msgstr ""
+
+#: 40104:101
+
+msgid "{Natsume}\n\"I'll be going back to sleep until then.\""
+msgstr ""
+
+#: 40104:102
+
+msgid "She's going back to sleep? I'd better hurry."
+msgstr ""
+
+#: 40104:113
+
+msgid "{Sakura}\n\"Aww, she changed. What a waste.\""
+msgstr ""
+
+#: 40104:116
+
+msgid "{Mizuki}\n\"Yeah, a little bit.\""
+msgstr ""
+
+#: 40104:117
+
+msgid "I had to ask Sakura and Mizuki to fetch Natsume-chan's clothes for me. I felt awkward going into the girls' dorm."
+msgstr ""
+
+#: 40104:118
+
+msgid "{Kazushi}\n\"She sure did look awfully good in it, though. It's too bad.\""
+msgstr ""
+
+#: 40104:121
+
+msgid "{Sakura}\n\"Wow, here he is, the lolicon.\""
+msgstr ""
+
+#: 40104:124
+
+msgid "{Natsume}\n\"Haruma, are you?\""
+msgstr ""
+
+#: 40104:125
+
+msgid "{Kazushi}\n\"I am not a lolicon! Don't make such horrible comments.\""
+msgstr ""
+
+#: 40104:128
+
+msgid "{Natsume}\n\"No wonder your gaze always sticks to me like a slug.\""
+msgstr ""
+
+#: 40104:131
+
+msgid "{Mizuki}\n\"R-really... I thought you were at least a good guy at heart.\""
+msgstr ""
+
+#: 40104:132
+
+msgid "{Kazushi}\n\"I am a nice guy!\""
+msgstr ""
+
+#: 40104:133
+
+msgid "{Sakura}\n\"Let's all bully him as a class next semester. On the first day of school, we'll leave a vase with a chrysanthemum on his desk, and we'll all ignore Harucchi.\""
+msgstr ""
+
+#: 40104:134
+
+msgid "{Kazushi}\n\"No! Please don't do that!!\""
+msgstr ""
+
+#: 40104:135
+
+msgid "It made me shiver just thinking about such a bleak life."
+msgstr ""
+
+#: 40104:138
+
+msgid "{Natsume}\n\"You're a meanie, Umeko. Don't come near me anymore.\""
+msgstr ""
+
+#: 40104:143
+
+msgid "{Sakura}\n\"Ah, I'm kidding, I'm kidding. Onee-chan's a kind girl. I'll bring more cute clothes for you to wear, okay?\""
+msgstr ""
+
+#: 40104:146
+
+msgid "{Natsume}\n\"I don't need them. I won't wear them anymore.\""
+msgstr ""
+
+#: 40104:147
+
+msgid "Natsume-chan was in quite a foul mood. I'm not taking Sakura's side, but they did look good on her."
+msgstr ""
+
+#: 40104:148
+
+msgid "......I'm not a lolicon, okay?"
+msgstr ""
+
+#: 40104:151
+
+msgid "{Mizuki}\n\"See? Natsume-chan's upset because you forced her to wear that, Sakura!\""
+msgstr ""
+
+#: 40104:154
+
+msgid "{Sakura}\n\"Then maybe we can try a hot nurse next time.\""
+msgstr ""
+
+#: 40104:155
+
+msgid "{Natsume}\n\"No 'then'. No 'then'.\""
+msgstr ""
+
+#: 40104:156
+
+msgid "{Kazushi}\n\"It's not about whether she looks good in it or not. By the way, just who and where did you get those outfits?\""
+msgstr ""
+
+#: 40104:159
+
+msgid "{Sakura}\n\"I have a secret route. Do you want to know about it, Harucchi?\""
+msgstr ""
+
+#: 40104:160
+
+msgid "{Kazushi}\n\"N-no, thank you.\""
+msgstr ""
+
+#: 40104:161
+
+msgid "I don't have anyone to wear this stuff for me. ...wait, that's not the problem here."
+msgstr ""
+
+#: 40104:164
+
+msgid "{Natsume}\n\"Anyway, don't come near me anymore, Umeko. No closer than two meters, got it?\""
+msgstr ""
+
+#: 40104:167
+
+msgid "{Sakura}\n\"What? Seriously?\""
+msgstr ""
+
+#: 40104:170
+
+msgid "{Mizuki}\n\"You brought this upon yourself. You'd better say you're sorry.\""
+msgstr ""
+
+#: 40104:175
+
+msgid "{Sakura}\n\"OK, fine. Just don't hate me.\""
+msgstr ""
+
+#: 40104:176
+
+msgid "Sakura tried to hug Natsume-chan, but she slipped away and hid behind Mizuki's back."
+msgstr ""
+
+#: 40104:183
+
+msgid "{Mizuki}\n\"Just stop that. That girl's so scary, isn't she?\""
+msgstr ""
+
+#: 40104:186
+
+msgid "{Natsume}\n\"...\""
+msgstr ""
+
+#: 40104:187
+
+msgid "She was nodding. I guess Natsume-chan's scared of Sakura."
+msgstr ""
+
+#: 40104:190
+
+msgid "{Sakura}\n\"But speaking of scary people, Harucchi's worse if you ask me. After all, he's your natural enemy.\""
+msgstr ""
+
+#: 40104:191
+
+msgid "{Kazushi}\n\"Why would I be her natural enemy?\""
+msgstr ""
+
+#: 40104:194
+
+msgid "{Sakura}\n\"Because you're a lolicon. That's totally dangerous. Has he attacked you?\""
+msgstr ""
+
+#: 40104:195
+
+msgid "She said it jokingly, but Natsume-chan nodded her agreement seriously."
+msgstr ""
+
+#: 40104:198
+
+msgid "{Natsume}\n\"He didn't today, though.\""
+msgstr ""
+
+#: 40104:203
+
+msgid "{Sakura & Mizuki}\n\"What? Today??\""
+msgstr ""
+
+#: 40104:204
+
+msgid "{Kazushi}\n\"W-what do you mean, today? I haven't done anything like that.\""
+msgstr ""
+
+#: 40104:205
+
+msgid "{Natsume}\n\"You did.\""
+msgstr ""
+
+#: 40104:206
+
+msgid "{Kazushi}\n\"What? What did I do?\""
+msgstr ""
+
+#: 40104:209
+
+msgid "{Mizuki}\n\"What did he do to you? What did this man do to you?!\""
+msgstr ""
+
+#: 40104:212
+
+msgid "{Natsume}\n\"He acted like he was asleep, and when I got close to him, he kissed me.\""
+msgstr ""
+
+#: 40104:213
+
+msgid "{Kazushi}\n\"Hey, hey, hey!\""
+msgstr ""
+
+#: 40104:218
+
+msgid "{Sakura}\n\"Y-y-you fiend!!\""
+msgstr ""
+
+#: 40104:219
+
+msgid "Why does she sound so happy? But that's not the problem, either."
+msgstr ""
+
+#: 40104:220
+
+msgid "{Kazushi}\n\"Hey, Natsume-chan, I'm telling you, I don't know anything about that!!\""
+msgstr ""
+
+#: 40104:223
+
+msgid "{Natsume}\n\"Yes, you do.\""
+msgstr ""
+
+#: 40104:226
+
+msgid "{Mizuki}\n\"Kazushi, you disappoint me. Pretending to sleep and attacking a girl isn't fair!\""
+msgstr ""
+
+#: 40104:227
+
+msgid "{Kazushi}\n\"No! This is all a big misunderstanding! I didn't do anything like that!\""
+msgstr ""
+
+#: 40104:230
+
+msgid "{Natsume}\n\"Well, it's fine. I just think of it the same way I would if a stray dog bit me.\""
+msgstr ""
+
+#: 40104:231
+
+msgid "{Kazushi}\n\"A stray dog... But, I'm telling you, I didn't do that!\""
+msgstr ""
+
+#: 40104:234
+
+msgid "{Sakura}\n\"Crying away in bed won't help you! We should let the law handle this!\""
+msgstr ""
+
+#: 40104:235
+
+msgid "{Kazushi}\n\"Wait, the law? Hold on a second...\""
+msgstr ""
+
+#: 40104:238
+
+msgid "{Mizuki}\n\"Shut up, you bastard! Go home!\""
+msgstr ""
+
+#: 40104:241
+
+msgid "{Sakura}\n\"Death penalty! Death penalty!\""
+msgstr ""
+
+#: 40104:242
+
+msgid "It took them just a short while to turn me into such a criminal."
+msgstr ""
+
+#: 40104:245
+
+msgid "{Natsume}\n\"Death penalty! Death penalty!\""
+msgstr ""
+
+#: 40104:246
+
+msgid "Natsume-chan's voice sounded happy."
+msgstr ""
+
+#: 40104:247
+
+msgid "{Kazushi}\n\"Natsume-chan, are you having fun with this?\""
+msgstr ""
+
+#: 40104:250
+
+msgid "{Natsume}\n\"Shut up, you bastard!\""
+msgstr ""
+
+#: 40104:251
+
+msgid "She sure looked like she was having fun, so she must've been. Well, it's fine as long as she's happy."
+msgstr ""
+
+#: 40104:252
+
+msgid "Is it?"
+msgstr ""
+
+#: 40104:263
+
+msgid "{Mizuki}\n\"I never thought you'd do anything like that.\""
+msgstr ""
+
+#: 40104:266
+
+msgid "{Sakura}\n\"Harucchi's actually a nice guy, in spite of how he looks.\""
+msgstr ""
+
+#: 40104:267
+
+msgid "{Kazushi}\n\"What do you mean? How do I look?\""
+msgstr ""
+
+#: 40104:270
+
+msgid "{Sakura}\n\"A depressed young man?\""
+msgstr ""
+
+#: 40104:271
+
+msgid "{Kazushi}\n\"Well, that's the truth...\""
+msgstr ""
+
+#: 40104:272
+
+msgid "But I guess we cleared up that misunderstanding, so at least that's a start."
+msgstr ""
+
+#: 40104:275
+
+msgid "{Natsume}\n\"Why are you two causing such a fuss? It doesn't matter to you what Haruma does to me, does it?\""
+msgstr ""
+
+#: 40104:278
+
+msgid "{Sakura}\n\"Of course it matters. We can't just leave it alone.\""
+msgstr ""
+
+#: 40104:281
+
+msgid "{Mizuki}\n\"We can't allow Kazushi to create more victims.\""
+msgstr ""
+
+#: 40104:282
+
+msgid "Mmm...Mizuki must still hold some kind of grudge against me. Ah well, it's inevitable."
+msgstr ""
+
+#: 40104:285
+
+msgid "{Natsume}\n\"I think everyone's too worked up over Haruma.\""
+msgstr ""
+
+#: 40104:286
+
+msgid "Natsume-chan was so cool about it compared to those two."
+msgstr ""
+
+#: 40104:289
+
+msgid "{Mizuki}\n\"But, wouldn't you hate it if he did something to you?\""
+msgstr ""
+
+#: 40104:290
+
+msgid "{Kazushi}\n\"I'm telling you, I'm not like that!\""
+msgstr ""
+
+#: 40104:293
+
+msgid "{Natsume}\n\"Not really. I can't let the likes of Haruma get me upset at everything.\""
+msgstr ""
+
+#: 40104:294
+
+msgid "{Kazushi}\n\"What do you mean, 'the likes of'?\""
+msgstr ""
+
+#: 40104:295
+
+msgid "Sakura and Mizuki exchanged confused looks with each other."
+msgstr ""
+
+#: 40104:298
+
+msgid "{Sakura}\n\"So...\""
+msgstr ""
+
+#: 40104:299
+
+msgid "{Mizuki}\n\"It's OK with you if Kazushi does something to you?\""
+msgstr ""
+
+#: 40104:300
+
+msgid "{Natsume}\n\"I don't care.\""
+msgstr ""
+
+#: 40104:303
+
+msgid "{Sakura}\n\"Then, what about me?\""
+msgstr ""
+
+#: 40104:304
+
+msgid "Sakura looked all excited, but Natsume-chan took offence."
+msgstr ""
+
+#: 40104:307
+
+msgid "{Natsume}\n\"......Don't even make that joke, or I'll make you cry.\""
+msgstr ""
+
+#: 40104:310
+
+msgid "{Sakura}\n\"Gaaaaaaah...\""
+msgstr ""
+
+#: 40104:311
+
+msgid "{Mizuki}\n\"Stop that. Hey, Sakura!\""
+msgstr ""
+
+#: 40104:312
+
+msgid "{Sakura}\n\"Mm. This...\""
+msgstr ""
+
+#: 40104:318
+
+msgid "Sakura and Mizuki were discussing something."
+msgstr ""
+
+#: 40104:323
+
+msgid "{Sakura}\n\"So you think so too, Mizuki?\""
+msgstr ""
+
+#: 40104:324
+
+msgid "{Mizuki}\n\"Not just thinking but actually...\""
+msgstr ""
+
+#: 40104:325
+
+msgid "They were whispering, so I couldn't hear everything, but they seemed to agree on something."
+msgstr ""
+
+#: 40104:326
+
+msgid "{Kazushi}\n\"Hey, what are you talking about?\""
+msgstr ""
+
+#: 40104:327
+
+msgid "They were talking about something, but eventually brought us back into the conversation. Then, they looked Natsume-chan in the eyes."
+msgstr ""
+
+#: 40104:334
+
+msgid "{Sakura}\n\"Natsume-chan, do you like Harucchi?\""
+msgstr ""
+
+#: 40104:335
+
+msgid "......"
+msgstr ""
+
+#: 40104:336
+
+msgid "{Kazushi}\n\"......huh?! What are you saying all of a sudden?!\""
+msgstr ""
+
+#: 40104:339
+
+msgid "{Mizuki}\n\"Just leave it to us.\""
+msgstr ""
+
+#: 40104:340
+
+msgid "{Kazushi}\n\"Leave it to you?\""
+msgstr ""
+
+#: 40104:343
+
+msgid "{Sakura}\n\"So, what do you think? Do you like him?\""
+msgstr ""
+
+#: 40104:344
+
+msgid "{Natsume}\n\"Mm...? I never thought about it. Why?\""
+msgstr ""
+
+#: 40104:347
+
+msgid "{Mizuki}\n\"Well, Kazushi said he likes you. So, what do you want to do?\""
+msgstr ""
+
+#: 40104:348
+
+msgid "{Kazushi}\n\"Hey, you guys!\""
+msgstr ""
+
+#: 40104:349
+
+msgid "What the hell are they talking about? They were totally ignoring my feelings, and the gears of fate were starting to turn."
+msgstr ""
+
+#: 40104:350
+
+msgid "{Kazushi}\n\"Hey, hold on. What are you talking about?\""
+msgstr ""
+
+#: 40104:353
+
+msgid "{Mizuki}\n\"Calm down! You'd better take responsibility, you know. Re-spon-si-bil-i-ty.\""
+msgstr ""
+
+#: 40104:354
+
+msgid "{Kazushi}\n\"What responsibility? I haven't done anything!\""
+msgstr ""
+
+#: 40104:357
+
+msgid "{Sakura}\n\"How about you Natsume-chan? Do you want him to take responsibility?\""
+msgstr ""
+
+#: 40104:360
+
+msgid "{Natsume}\n\"Responsibility? .........Yeah.\""
+msgstr ""
+
+#: 40104:361
+
+msgid "Natsume-chan thought for a while, and nodded like a toy bird."
+msgstr ""
+
+#: 40104:364
+
+msgid "{Mizuki}\n\"Wow, fabulous! I saw the moment of blossoming love!\""
+msgstr ""
+
+#: 40104:365
+
+msgid "{Kazushi}\n\"Hey, she doesn't understand what 'taking responsibility' means!\""
+msgstr ""
+
+#: 40104:366
+
+msgid "{Kazushi}\n\"I don't even understand. What kind of responsibility are we talking about?\""
+msgstr ""
+
+#: 40104:371
+
+msgid "{Sakura}\n\"That doesn't matter now. You guys should just start going out!\""
+msgstr ""
+
+#: 40104:372
+
+msgid "A whisper from the devil. What a cunning smile she has."
+msgstr ""
+
+#: 40104:373
+
+msgid "{Kazushi}\n\"What are you saying. It's unfair...\""
+msgstr ""
+
+#: 40104:376
+
+msgid "{Sakura}\n\"You'll never get a girlfriend by playing fair, Harucchi.\""
+msgstr ""
+
+#: 40104:377
+
+msgid "{Kazushi}\n\"Wha... for real?\""
+msgstr ""
+
+#: 40104:378
+
+msgid "I've been trying to play fair all along, and sure enough, I don't have a girlfriend. Is that what's been wrong with me?"
+msgstr ""
+
+#: 40104:381
+
+msgid "{Sakura}\n\"Besides, Natsume-chan might be up for it more than you think. She's always sticking around you, Harucchi.\""
+msgstr ""
+
+#: 40104:386
+
+msgid "{Mizuki}\n\"Hey, so has love blossomed yet or not?\""
+msgstr ""
+
+#: 40104:387
+
+msgid "{Kazushi}\n\"No. Not yet.\""
+msgstr ""
+
+#: 40104:390
+
+msgid "{Sakura}\n\"It's about to blossom. Right, Natsume-chan?\""
+msgstr ""
+
+#: 40104:396
+
+msgid "Sakura was calling for Natsume-chan, and..."
+msgstr ""
+
+#: 40104:399
+
+msgid "{Sakura}\n\"Harucchi said he likes you, so he wants you to be his girlfriend.\""
+msgstr ""
+
+#: 40104:402
+
+msgid "I can't believe she said that."
+msgstr ""
+
+#: 40104:403
+
+msgid "{Kazushi}\n\"Hey!! What are you saying?\""
+msgstr ""
+
+#: 40104:406
+
+msgid "{Sakura}\n\"It's OK. It's OK.\""
+msgstr ""
+
+#: 40104:407
+
+msgid "Sakura waited for Natsume-chan's reply like it wasn't any of her concern. Natsume-chan stared at me for a while, and looked down."
+msgstr ""
+
+#: 40104:411
+
+msgid "{Natsume}\n\"I'm sorry.\""
+msgstr ""
+
+#: 40104:412
+
+msgid "She bowed politely, and stated her rejection. I felt all the energy drain out of me as soon as I heard that."
+msgstr ""
+
+#: 40104:418
+
+msgid "{Mizuki}\n\"Huh? Love didn't blossom?\""
+msgstr ""
+
+#: 40104:419
+
+msgid "{Sakura}\n\"Huh? Ahaha, I guess it didn't work.\""
+msgstr ""
+
+#: 40104:420
+
+msgid "{Kazushi}\n\"Don't laugh!\""
+msgstr ""
+
+#: 40104:421
+
+msgid "She turned me down. What is this hollow feeling?"
+msgstr ""
+
+#: 40104:422
+
+msgid "{Kazushi}\n\"Why do I have to get rejected when I didn't even get the chance to confess... What are you going to do about this?\""
+msgstr ""
+
+#: 40104:425
+
+msgid "{Sakura}\n\"Well, we had the best intentions...but we didn't think she'd reject you. Honestly!\""
+msgstr ""
+
+#: 40104:426
+
+msgid "I had no idea of what they were up to, but Sakura seemed to believe it would genuinely work out. Of course, nothing could ever be that easy."
+msgstr ""
+
+#: 40104:429
+
+msgid "{Mizuki}\n\"Hey, so what's wrong with Kazushi? I know he's a dumb idiot, a pervert, and lacking in the looks, but yeah, that's plenty wrong.\""
+msgstr ""
+
+#: 40104:430
+
+msgid "She was making a list of my flaws out loud and reached her own conclusion. That's unspeakably awful!"
+msgstr ""
+
+#: 40104:437
+
+msgid "{Natsume}\n\"I just can't do it.\""
+msgstr ""
+
+#: 40104:440
+
+msgid "{Sakura}\n\"Huh? Why? Why? Do you happen to like girls, Natsume-chan?\""
+msgstr ""
+
+#: 40104:441
+
+msgid "{Natsume}\n\"Because I can't remain here long.\""
+msgstr ""
+
+#: 40104:442
+
+msgid "{Kazushi}\n\"Huh? You can't stay here long?\""
+msgstr ""
+
+#: 40104:445
+
+msgid "{Mizuki}\n\"Hey, what does that mean?\""
+msgstr ""
+
+#: 40104:448
+
+msgid "{Sakura}\n\"Yeah, what do you mean? Are you going somewhere?\""
+msgstr ""
+
+#: 40104:449
+
+msgid "Natsume-chan was attacked on all sides by questions, and she frowned like she was reaching her breaking point."
+msgstr ""
+
+#: 40104:452
+
+msgid "{Natsume}\n\"Don't ask me everything. Think for yourself.\""
+msgstr ""
+
+#: 40104:453
+
+msgid "{Kazushi}\n\"We're asking because we don't understand.\""
+msgstr ""
+
+#: 40104:459
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40104:460
+
+msgid "She turned her back to us and refused to answer any more questions."
+msgstr ""
+
+#: 40104:463
+
+msgid "{Sakura}\n\"Is Natsume-chan going away somewhere? See, Harucchi? You need to hold onto her so that she won't leave.\""
+msgstr ""
+
+#: 40104:464
+
+msgid "{Kazushi}\n\"Well, I'm obviously unable to do that.\""
+msgstr ""
+
+#: 40104:467
+
+msgid "{Mizuki}\n\"What a wuss.\""
+msgstr ""
+
+#: 40104:468
+
+msgid "{Kazushi}\n\"It's not my fault. I can't make everything happen all by myself.\""
+msgstr ""
+
+#: 40104:469
+
+msgid "If I could try and change things I would, but Natsume-chan seemed put off by me, and I couldn't force myself upon her."
+msgstr ""
+
+#: 40104:470
+
+msgid "{Kazushi}\n\"Well, she rejected me, after all...\""
+msgstr ""
+
+#: 40104:471
+
+msgid "The fact that she didn't take me as her boyfriend was starting to affect me. She actually rejected me..."
+msgstr ""
+
+#: 40104:474
+
+msgid "{Sakura}\n\"Huh? Huh? Huh? Harucchi, you look pale?\""
+msgstr ""
+
+#: 40104:475
+
+msgid "{Kazushi}\n\"I can't take it. The fact that Natsume-chan rejected me is finally hitting home.\""
+msgstr ""
+
+#: 40104:478
+
+msgid "{Mizuki}\n\"What? Are you OK? What are we going to do, Sakura?\""
+msgstr ""
+
+#: 40104:481
+
+msgid "{Sakura}\n\"Uh, I'm sorry... Then, umm, Harucchi, would you like to go out with me?\""
+msgstr ""
+
+#: 40104:488
+
+msgid "{Natsume}\n\"......?!?\""
+msgstr ""
+
+#: 40104:494
+
+msgid "{Mizuki}\n\"Huh? Really? Sakura, did you like Kazushi?\""
+msgstr ""
+
+#: 40104:495
+
+msgid "{Kazushi}\n\"D-do you?\""
+msgstr ""
+
+#: 40104:500
+
+msgid "{Natsume}\n\"......?!?\""
+msgstr ""
+
+#: 40104:506
+
+msgid "{Sakura}\n\"Don't be so surprised, you guys. Well, it's not like I hate Harucchi. I like him on the level of 'he works in the worst case scenario'.\""
+msgstr ""
+
+#: 40104:507
+
+msgid "{Kazushi}\n\"I'm your worst case scenario...\""
+msgstr ""
+
+#: 40104:508
+
+msgid "So she doesn't really like me. Is she just feeling sorry for me? I'm probably even more worthless than I thought..."
+msgstr ""
+
+#: 40104:511
+
+msgid "{Sakura}\n\"But well... it's okay. It might be fun to have a random summer fling like that.\""
+msgstr ""
+
+#: 40104:512
+
+msgid "{Kazushi}\n\"You're a loose woman, Sakura. You should take better care of yourself.\""
+msgstr ""
+
+#: 40104:517
+
+msgid "{Natsume}\n\"...\""
+msgstr ""
+
+#: 40104:518
+
+msgid "{Kazushi}\n\"See? Natsume-chan thinks so, too.\""
+msgstr ""
+
+#: 40104:524
+
+msgid "{Sakura}\n\"Agh, enough, quit griping. I have made my decision! I'm going to go out with Harucchi!\""
+msgstr ""
+
+#: 40104:525
+
+msgid "{Kazushi}\n\"You've made your decision?\""
+msgstr ""
+
+#: 40104:528
+
+msgid "{Sakura}\n\"I'm starting to think this is the best idea ever! Let's have fun, Harucchi!\""
+msgstr ""
+
+#: 40104:529
+
+msgid "She decided to be my girlfriend on her own, and now clung to my arm."
+msgstr ""
+
+#: 40104:532
+
+msgid "{Mizuki}\n\"Does this mean love's blossomed?\""
+msgstr ""
+
+#: 40104:533
+
+msgid "{Kazushi}\n\"No, no, no.\""
+msgstr ""
+
+#: 40104:536
+
+msgid "{Sakura}\n\"Harucchi! Yeah, I'm getting used to it. It might be a great idea for real!\""
+msgstr ""
+
+#: 40104:537
+
+msgid "{Kazushi}\n\"Are you serious?\""
+msgstr ""
+
+#: 40104:541
+
+msgid "Am I actually going to get to date Sakura? What am I going to do?!"
+msgstr ""
+
+#: 40104:546
+
+msgid "{Kazushi}\n\"Huh...?\""
+msgstr ""
+
+#: 40104:547
+
+msgid "Something made a really loud noise next to me."
+msgstr ""
+
+#: 40104:552
+
+msgid "{Sakura}\n\"Fumiii?\""
+msgstr ""
+
+#: 40104:553
+
+msgid "Sakura was like a marionette with the strings cut. The whites of her eyes were showing."
+msgstr ""
+
+#: 40104:560
+
+msgid "{Mizuki}\n\"N-Natsume-chan?\""
+msgstr ""
+
+#: 40104:561
+
+msgid "Natsume-chan had a frying pan in her hand. Where did she get that?"
+msgstr ""
+
+#: 40104:562
+
+msgid "{Mizuki}\n\"Huh? Did you get her with that? Sakura, are you okay?\""
+msgstr ""
+
+#: 40104:563
+
+msgid "{Sakura}\n\"Fumiii...\""
+msgstr ""
+
+#: 40104:564
+
+msgid "Maybe not."
+msgstr ""
+
+#: 40104:565
+
+msgid "{Kazushi}\n\"Sakura? Hey, Sakura? This is bad.\""
+msgstr ""
+
+#: 40104:566
+
+msgid "{Natsume}\n\"Umeko, don't come within 3 meters of Haruma or me.\""
+msgstr ""
+
+#: 40104:567
+
+msgid "{Kazushi}\n\"I don't think she can hear you...\""
+msgstr ""
+
+#: 40104:568
+
+msgid "{Sakura}\n\"Fumii...\""
+msgstr ""
+
+#: 40104:573
+
+msgid "We took her to the nurse's office, and put her to bed."
+msgstr ""
+
+#: 40104:574
+
+msgid "She wasn't injured too badly, and they gave her some pills and rubbed some ointment made from a special herb mixture on there."
+msgstr ""
+
+#: 40104:577
+
+msgid "{Mizuki}\n\"Don't worry, this stuff's the best. I used it when I cut my legs swimming near some rocks. It only took that night to heal up.\""
+msgstr ""
+
+#: 40104:578
+
+msgid "{Kazushi}\n\"OK, so she should be fine, then.\""
+msgstr ""
+
+#: 40104:580
+
+msgid "{Sakura}\n\"Zzz...zzz...\""
+msgstr ""
+
+#: 40104:581
+
+msgid "Sakura had calmed down, and was sleeping well. Natsume-chan was looking over Sakura in her bed."
+msgstr ""
+
+#: 40104:585
+
+msgid "{Natsume}\n\"...\""
+msgstr ""
+
+#: 40104:586
+
+msgid "She started drawing a giant moustache on Sakura with a marker."
+msgstr ""
+
+#: 40104:587
+
+msgid "{Kazushi}\n\"Hey! You can't draw on people's faces, especially when they're asleep.\""
+msgstr ""
+
+#: 40104:588
+
+msgid "{Natsume}\n\"Why not? It's a nice mustache.\""
+msgstr ""
+
+#: 40104:589
+
+msgid "Indeed, Sakura already had quite a dandyish moustache."
+msgstr ""
+
+#: 40104:590
+
+msgid "{Kazushi}\n\"You can't do that even if it does look nice. Sakura's out cold because of you - do you really understand what you did?\""
+msgstr ""
+
+#: 40104:593
+
+msgid "{Natsume}\n\"......Yeah.\""
+msgstr ""
+
+#: 40104:594
+
+msgid "It looked like she was capable of feeling guilt after all."
+msgstr ""
+
+#: 40104:595
+
+msgid "{Natsume}\n\"I had a small part in it.\""
+msgstr ""
+
+#: 40104:596
+
+msgid "Only a small part?"
+msgstr ""
+
+#: 40104:597
+
+msgid "{Kazushi}\n\"You can't hit someone with a frying pan from behind again, OK?\""
+msgstr ""
+
+#: 40104:598
+
+msgid "{Natsume}\n\"I won't do it again. I just got a little upset.\""
+msgstr ""
+
+#: 40104:599
+
+msgid "{Kazushi}\n\"You can't do that even if you get upset. Promise?\""
+msgstr ""
+
+#: 40104:600
+
+msgid "It seemed childish, but I made her pinky swear."
+msgstr ""
+
+#: 40104:603
+
+msgid "{Natsume}\n\"I got it. Don't rub it in.\""
+msgstr ""
+
+#: 40104:608
+
+msgid "{Mizuki}\n\"Looks like Natsume-chan understands. I'm sure Sakura's happy in her grave.\""
+msgstr ""
+
+#: 40104:609
+
+msgid "{Kazushi}\n\"She's alive. It's kind of like a wake, surrounding her like this.\""
+msgstr ""
+
+#: 40104:612
+
+msgid "{Sakura}\n\"Zzz... zzz...\""
+msgstr ""
+
+#: 40104:613
+
+msgid "She sure slept well. Natsume-chan sat on the chair next to Sakura's bed, and looked down at her face."
+msgstr ""
+
+#: 40104:616
+
+msgid "{Natsume}\n\"I'll stay with her, so you all can go.\""
+msgstr ""
+
+#: 40104:617
+
+msgid "She was willing to stay until Sakura wakes up. She must've been feeling guilty."
+msgstr ""
+
+#: 40104:618
+
+msgid "{Kazushi}\n\"I'll stay here too.\""
+msgstr ""
+
+#: 40104:619
+
+msgid "I grabbed a chair, and sat next to Natsume-chan."
+msgstr ""
+
+#: 40104:623
+
+msgid "{Mizuki}\n\"Well... should I be going?\""
+msgstr ""
+
+#: 40104:624
+
+msgid "Mizuki was still standing up and trying to decide if she should sit down as well. She looked restless, and her eyes darted around the room."
+msgstr ""
+
+#: 40104:625
+
+msgid "{Kazushi}\n\"Don't mind us. But we'll be here, so you're free to go.\""
+msgstr ""
+
+#: 40104:629
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40104:633
+
+msgid "{Mizuki}\n\"Are you sure? Then I guess I'll leave it up to you guys...\""
+msgstr ""
+
+#: 40104:636
+
+msgid "She forced herself to smile, and bolted from the nurse's office. What on Earth was she thinking?"
+msgstr ""
+
+#: 40104:639
+
+msgid "{Natsume}\n\".........\""
+msgstr ""
+
+#: 40104:640
+
+msgid "Natsume-chan kept looking at Sakura's sleeping face, but I felt like she was thinking about me."
+msgstr ""
+
+#: 40104:641
+
+msgid "{Kazushi}\n\"Oh. Should I leave as well?\""
+msgstr ""
+
+#: 40104:642
+
+msgid "I remembered that she just rejected me a few minutes earlier - I'd forgotten about it in all the chaos."
+msgstr ""
+
+#: 40104:643
+
+msgid "Why would I remember that now that we were alone?"
+msgstr ""
+
+#: 40104:644
+
+msgid "{Kazushi}\n\"I'll leave if I'm in the way...\""
+msgstr ""
+
+#: 40104:647
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40104:648
+
+msgid "But instead, Natsume-chan shook her head. I guess it's OK for me to stay."
+msgstr ""
+
+#: 40104:649
+
+msgid "{Natsume}\n\"I never thought you were in the way.\""
+msgstr ""
+
+#: 40104:650
+
+msgid "{Kazushi}\n\"Yeah? Well, if you insist, though you did reject me just now.\""
+msgstr ""
+
+#: 40104:653
+
+msgid "{Natsume}\n\"I didn't reject you.\""
+msgstr ""
+
+#: 40104:654
+
+msgid "{Kazushi}\n\"What? But...\""
+msgstr ""
+
+#: 40104:655
+
+msgid "What she said was \"I'm sorry\", but isn't that a rejection?"
+msgstr ""
+
+#: 40104:658
+
+msgid "{Natsume}\n\"I'm just a shadow. That's why I can't answer. I said sorry for not being able to answer.\""
+msgstr ""
+
+#: 40104:659
+
+msgid "{Kazushi}\n\"Uhh...\""
+msgstr ""
+
+#: 40104:660
+
+msgid "She apologized for being unable to answer? I don't understand..."
+msgstr ""
+
+#: 40104:661
+
+msgid "But I guess that means she didn't reject me, after all. But shadow?"
+msgstr ""
+
+#: 40104:662
+
+msgid "{Kazushi}\n\"What do you mean by shadow?\""
+msgstr ""
+
+#: 40104:665
+
+msgid "{Natsume}\n\"I don't know. Don't ask me everything. Think for yourself.\""
+msgstr ""
+
+#: 40104:666
+
+msgid "{Kazushi}\n\"I am, but this is confusing.\""
+msgstr ""
+
+#: 40104:667
+
+msgid "A shadow, huh? What does she mean? Like shadows and light?"
+msgstr ""
+
+#: 40104:668
+
+msgid "If Natsume-chan is a shadow, then where's the light?"
+msgstr ""
+
+#: 40104:671
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40104:672
+
+msgid "But Natsume-chan seemed unwilling to answer me. She just looked mad, and kept staring at Sakura's face."
+msgstr ""
+
+#: 40104:674
+
+msgid "At that moment, I felt like Natsume-chan could vanish in an instant. Her existence felt thin and weak."
+msgstr ""
+
+#: 40104:675
+
+msgid "Come to think of it, the way she appeared from nowhere was unreal. It's like her existence wasn't rooted to this world."
+msgstr ""
+
+#: 40104:676
+
+msgid "She might vanish if you look away..."
+msgstr ""
+
+#: 40104:677
+
+msgid "{Kazushi}\n\"Then I'll think about it myself. I should be able to work out the answer if I really think about it, right?\""
+msgstr ""
+
+#: 40104:678
+
+msgid "That's why I wanted a stronger connection with her. I wanted to be connected to her as much as possible. If thinking will connect us, then I'll think away."
+msgstr ""
+
+#: 40104:681
+
+msgid "{Natsume}\n\"You should understand without thinking. You already know.\""
+msgstr ""
+
+#: 40104:682
+
+msgid "{Kazushi}\n\"What? Really?\""
+msgstr ""
+
+#: 40104:683
+
+msgid "Now I understood even less. I already knew?"
+msgstr ""
+
+#: 40104:685
+
+msgid "{Sakura}\n\"Wahh! Give me back my saddle!\""
+msgstr ""
+
+#: 40104:686
+
+msgid "Sakura's voice startled my thoughts away. I thought she was awake, but she was just talking in her sleep."
+msgstr ""
+
+#: 40104:687
+
+msgid "{Sakura}\n\"We can't reach the goal without a saddle...\""
+msgstr ""
+
+#: 40104:688
+
+msgid "{Kazushi}\n\"What goal?\""
+msgstr ""
+
+#: 40104:691
+
+msgid "{Natsume}\n\"Umeko's an idiot, even in her sleep.\""
+msgstr ""
+
+#: 40104:692
+
+msgid "We both watched as Sakura continued to sleep. What should I do? How can I approach Natsume-chan..."
+msgstr ""
+
+#: 40104:693
+
+msgid "{Kazushi}\n\"Can I stay by your side, Natsume-chan? If you don't mind, then can I continue staying by your side?\""
+msgstr ""
+
+#: 40104:696
+
+msgid "{Natsume}\n\"I don't mind.\""
+msgstr ""
+
+#: 40104:697
+
+msgid "That was a plain answer, but it made me feel relaxed. So, we could still hang out like we used to."
+msgstr ""
+
+#: 40104:698
+
+msgid "{Kazushi}\n\"OK. Then let's do it.\""
+msgstr ""
+
+#: 40104:699
+
+msgid "{Natsume}\n\"OK.\""
+msgstr ""
+
+#: 40104:700
+
+msgid "It seemed like a lot of things had happened, but we were back to the start. No progress and no retreat."
+msgstr ""
+
+#: 40104:701
+
+msgid "However, it felt different from just standing still."
+msgstr ""
+
+#: 40104:702
+
+msgid "We took two steps forward and two steps back, but we still took those steps. Maybe I was closer to her by at least a little bit."
+msgstr ""
+
+#: 40104:703
+
+msgid "But things became more confusing as I got closer."
+msgstr ""
+
+#: 40104:707
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40104:708
+
+msgid "{Kazushi}\n\"I told you not to draw a moustache on her.\""
+msgstr ""
+
+#: 40104:715
+
+msgid "{Sakura}\n\"No, the dead dog said not to go here.\""
+msgstr ""
+
+#: 40104:716
+
+msgid "{Kazushi}\n\"That was a dangerous episode. What happened to the saddle? Did she reach the goal?\""
+msgstr ""
+
+#: 40104:719
+
+msgid "{Sakura}\n\"Huh? What are you talking about?\""
+msgstr ""
+
+#: 40104:720
+
+msgid "Didn't she remember that dream? Well, it's nice that she's back in reality."
+msgstr ""
+
+#: 40104:722
+
+msgid "{Kazushi}\n\"I told you, human life is very important. Never make light of it again, okay?\""
+msgstr ""
+
+#: 40104:723
+
+msgid "I preached to Natsume-chan, who was sitting next to me."
+msgstr ""
+
+#: 40104:726
+
+msgid "{Natsume}\n\"Mmm, mmm...yeah...\""
+msgstr ""
+
+#: 40104:728
+
+msgid "She wasn't really listening. She was having trouble eating her buttered corn."
+msgstr ""
+
+#: 40104:729
+
+msgid "{Kazushi}\n\"You're pretty bad with chopsticks.\""
+msgstr ""
+
+#: 40104:732
+
+msgid "{Natsume}\n\"Shut up.\""
+msgstr ""
+
+#: 40104:737
+
+msgid "{Rin}\n\"Aren't those chopsticks too long for you, Natsume-chan?\""
+msgstr ""
+
+#: 40104:744
+
+msgid "{Mizuki}\n\"Oh, yeah. Those are the cafeteria chopsticks. Don't you have some of your own?\""
+msgstr ""
+
+#: 40104:748
+
+msgid "She was using the chopsticks supplied by the cafeteria."
+msgstr ""
+
+#: 40104:749
+
+msgid "All the boys didn't mind using them, but the girls always carried around their own personal chopsticks."
+msgstr ""
+
+#: 40104:750
+
+msgid "I guess they hated the thought of using the same chopsticks as the boys, even if they got washed after every meal."
+msgstr ""
+
+#: 40104:751
+
+msgid "Apparently all the girls bought their own before we arrived."
+msgstr ""
+
+#: 40104:752
+
+msgid "None of the guys cared about it at all, so we used the school's chopsticks, but Natsume-chan didn't have her own, either."
+msgstr ""
+
+#: 40104:757
+
+msgid "{Haruka}\n\"Those may be too long for you. Do you want to go buy some chopsticks of your own tomorrow? I can show you the town as well.\""
+msgstr ""
+
+#: 40104:760
+
+msgid "{Sakura}\n\"Why don't you ask Harucchi to show you around, then? You'd like that better, right Natsume-chan?\""
+msgstr ""
+
+#: 40104:765
+
+msgid "{Natsume}\n\"...I'll do that. Haruma, take me.\""
+msgstr ""
+
+#: 40104:766
+
+msgid "{Kazushi}\n\"Are you alright with me?\""
+msgstr ""
+
+#: 40104:767
+
+msgid "{Natsume}\n\"......Yeah.\""
+msgstr ""
+
+#: 40104:768
+
+msgid "I guess I don't have a reason to say no."
+msgstr ""
+
+#: 40104:769
+
+msgid "{Kazushi}\n\"Ok! Let's go tomorrow.\""
+msgstr ""
+
+#: 40104:770
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40104:774
+
+msgid "{Haruka}\n\"Then I'll lend you my bike. You'll have to push it up the hill when you come back, but it's super fast going down!\""
+msgstr ""
+
+#: 40104:778
+
+msgid "{Natsume}\n\"I can't ride a bike.\""
+msgstr ""
+
+#: 40104:779
+
+msgid "{Kazushi}\n\"Really? Then you can ride on the back. Let's borrow the bike!\""
+msgstr ""
+
+#: 40104:782
+
+msgid "{Natsume}\n\"! ...!\""
+msgstr ""
+
+#: 40104:783
+
+msgid "She was nodding like crazy. She seemed to be curious about it, so I felt like looking forward to hit."
+msgstr ""
+
+#: 40104:789
+
+msgid "We hit the hill with great momentum."
+msgstr ""
+
+#: 40104:790
+
+msgid "{Kazushi}\n\"We're going fast, so hang on tight!\""
+msgstr ""
+
+#: 40104:791
+
+msgid "{Natsume}\n\"Y-yeah...\""
+msgstr ""
+
+#: 40104:792
+
+msgid "{Natsume}\n\"Wow?\""
+msgstr ""
+
+#: 40104:793
+
+msgid "I leaned forward to gather speed. I was still pedaling as hard as I could."
+msgstr ""
+
+#: 40104:794
+
+msgid "The bike was going faster and faster."
+msgstr ""
+
+#: 40104:795
+
+msgid "{Natsume}\n\"W-wooow!!\""
+msgstr ""
+
+#: 40104:796
+
+msgid "{Kazushi}\n\"Hey, hang on tight!\""
+msgstr ""
+
+#: 40104:797
+
+msgid "She'd only put her hands on my shoulders, so I told her to hang on tight."
+msgstr ""
+
+#: 40104:798
+
+msgid "It felt like a small, warm creature was sitting against my back. It was a comforting feeling."
+msgstr ""
+
+#: 40104:799
+
+msgid "{Kazushi}\n\"Ok! Let's go faster!\""
+msgstr ""
+
+#: 40104:800
+
+msgid "{Natsume}\n\"E-even faster?\""
+msgstr ""
+
+#: 40104:801
+
+msgid "{Kazushi}\n\"Even faster!\""
+msgstr ""
+
+#: 40104:804
+
+msgid "I pedaled some more. We were going so fast, it was hard to tell if we were going downhill or we were flat out falling."
+msgstr ""
+
+#: 40104:805
+
+msgid "The landscaping on both sides passed by us at unbelievable speed."
+msgstr ""
+
+#: 40104:806
+
+msgid "{Natsume}\n\"Woooooow, wooooow?\""
+msgstr ""
+
+#: 40104:807
+
+msgid "{Kazushi}\n\"It's like a roller-coaster, huh?\""
+msgstr ""
+
+#: 40104:808
+
+msgid "{Natsume}\n\"......!\""
+msgstr ""
+
+#: 40104:809
+
+msgid "She tightened her grip. I felt it as a token of her trust, and it made me feel good."
+msgstr ""
+
+#: 40104:810
+
+msgid "{Kazushi}\n\"This feels great!! Why don't you practice riding a bike, Natsume-chan?\""
+msgstr ""
+
+#: 40104:811
+
+msgid "{Natsume}\n\"...No. I'll ask you.\""
+msgstr ""
+
+#: 40104:812
+
+msgid "{Kazushi}\n\"Come on, it's so much fun to ride one on your own!\""
+msgstr ""
+
+#: 40104:813
+
+msgid "{Natsume}\n\"No. You're my driver.\""
+msgstr ""
+
+#: 40104:814
+
+msgid "{Kazushi}\n\"I'm your driver? I guess that's fine with me, but it's pretty unusual that you've never ridden a bike.\""
+msgstr ""
+
+#: 40104:815
+
+msgid "{Natsume}\n\"My mom didn't ride one. No one taught me.\""
+msgstr ""
+
+#: 40104:816
+
+msgid "{Kazushi}\n\"How about your dad?\""
+msgstr ""
+
+#: 40104:817
+
+msgid "Wasn't that a father's responsibility?"
+msgstr ""
+
+#: 40104:818
+
+msgid "{Natsume}\n\"Papa...\""
+msgstr ""
+
+#: 40104:819
+
+msgid "As soon as I asked her about her father, she stopped talking. It was a gloomy silence."
+msgstr ""
+
+#: 40104:820
+
+msgid "Was that something I shouldn't have asked?"
+msgstr ""
+
+#: 40104:821
+
+msgid "{Kazushi}\n\"Well, ask me anytime you want to ride a bike. I'll give you a ride.\""
+msgstr ""
+
+#: 40104:822
+
+msgid "{Natsume}\n\"Ok, I'll do that.\""
+msgstr ""
+
+#: 40104:823
+
+msgid "I guess she had her reasons. It would make me happy if she talked to me about whatever problems she had someday."
+msgstr ""
+
+#: 40104:824
+
+msgid "{Kazushi}\n\"Wow!\""
+msgstr ""
+
+#: 40104:825
+
+msgid "At that moment, we saw the sparkling ocean in front of us."
+msgstr ""
+
+#: 40104:826
+
+msgid "The blue ocean was reflecting the sun, and it looked like the ocean was sprinkling countless jewels all over the place."
+msgstr ""
+
+#: 40104:827
+
+msgid "I felt like we were diving into the ocean as we zoomed downhill towards it."
+msgstr ""
+
+#: 40104:828
+
+msgid "{Kazushi}\n\"Natsume-chan! Look, in front!\""
+msgstr ""
+
+#: 40104:829
+
+msgid "Natsume-chan poked her head around my shoulder. She opened her eyes into the blowing wind, and looked at the view beneath us."
+msgstr ""
+
+#: 40104:830
+
+msgid "{Natsume}\n\"Ah, the ocean... or the sky?\""
+msgstr ""
+
+#: 40104:831
+
+msgid "As we went downhill, we were greeted by the blue sky and the ocean. It was hard to tell where the ocean ended and the sky began."
+msgstr ""
+
+#: 40104:832
+
+msgid "{Natsume}\n\"It's like we're flying.\""
+msgstr ""
+
+#: 40104:833
+
+msgid "{Kazushi}\n\"Yeah!!\""
+msgstr ""
+
+#: 40104:834
+
+msgid "I felt like my body was being torn to pieces as the wind blew hard on us."
+msgstr ""
+
+#: 40104:835
+
+msgid "I felt like I was being torn into smaller and smaller pieces and melting into the air. It was almost like flying."
+msgstr ""
+
+#: 40104:836
+
+msgid "{Natsume}\n\"Amazing! It feels incredible!\""
+msgstr ""
+
+#: 40104:837
+
+msgid "Natsume-chan sounded excited. That might've been the first time I ever heard her like that."
+msgstr ""
+
+#: 40104:838
+
+msgid "{Kazushi}\n\"Does it? Okay, then we're going to fly even more!!\""
+msgstr ""
+
+#: 40104:839
+
+msgid "{Natsume}\n\"Ah...\""
+msgstr ""
+
+#: 40104:842
+
+msgid "I stood up from the saddle. I stepped on the pedals as hard as I could to make it fly."
+msgstr ""
+
+#: 40104:843
+
+msgid "{Natsume}\n\"Ah, that's enough. That's enough.\""
+msgstr ""
+
+#: 40104:844
+
+msgid "{Kazushi}\n\"Not yet!\""
+msgstr ""
+
+#: 40104:845
+
+msgid "{Natsume}\n\"Hhh... Kyaaaaaaaaaahhhhh!!\""
+msgstr ""
+
+#: 40104:846
+
+msgid "We became the wind."
+msgstr ""
+
+#: 40104:853
+
+msgid "{Natsume}\n\"*sniff, blow...hic*\""
+msgstr ""
+
+#: 40104:854
+
+msgid "I made her cry. Maybe I got too excited."
+msgstr ""
+
+#: 40104:855
+
+msgid "{Kazushi}\n\"S-sorry! I didn't think you were crying.\""
+msgstr ""
+
+#: 40104:856
+
+msgid "{Natsume}\n\"I said \"Stop.\"\""
+msgstr ""
+
+#: 40104:857
+
+msgid "{Kazushi}\n\"I couldn't hear because of the wind. I would've risked my life to stop if I'd heard you.\""
+msgstr ""
+
+#: 40104:860
+
+msgid "{Natsume}\n\"Haruma, death penalty.\""
+msgstr ""
+
+#: 40104:861
+
+msgid "{Kazushi}\n\"Th-the death penalty? That's harsh.\""
+msgstr ""
+
+#: 40104:864
+
+msgid "{Natsume}\n\"Wah... *sniff*\""
+msgstr ""
+
+#: 40104:865
+
+msgid "It really got to me when she told me I should be executed as she cried."
+msgstr ""
+
+#: 40104:866
+
+msgid "{Kazushi}\n\"I'm really sorry. I'll buy you an ice cream. Would you forgive me if I did that?\""
+msgstr ""
+
+#: 40104:869
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 40104:870
+
+msgid "Natsume-chan still looked upset, and continued ignoring me. I was going to have to actually buy one and give it to her. Did Miya-san sell ice cream at his shop?"
+msgstr ""
+
+#: 40104:872
+
+msgid "{Kazushi}\n\"Miya-san! Give me an ice cream!\""
+msgstr ""
+
+#: 40104:873
+
+msgid "Silence."
+msgstr ""
+
+#: 40104:874
+
+msgid "No answer. Maybe he's not here."
+msgstr ""
+
+#: 40104:875
+
+msgid "{Kazushi}\n\"Well, this sucks. We can't buy anything if he's not here.\""
+msgstr ""
+
+#: 40104:878
+
+msgid "{Natsume}\n\"Ice cream...\""
+msgstr ""
+
+#: 40104:879
+
+msgid "Now Natsume-chan was asking for an ice cream flat out. Was there any other place that sold ice cream?"
+msgstr ""
+
+#: 40104:880
+
+msgid "{Kazushi}\n\"Oh! How about that?\""
+msgstr ""
+
+#: 40104:882
+
+msgid "The grocer was selling cut fruit frozen on a stick. It was about the same price as ice cream too."
+msgstr ""
+
+#: 40104:883
+
+msgid "It was a bit unusual, but the girls seemed to dig it."
+msgstr ""
+
+#: 40104:884
+
+msgid "{Kazushi}\n\"See? Doesn't it look good? Let's get that!\""
+msgstr ""
+
+#: 40104:885
+
+msgid "I held Natsume-chan's hand and walked her to the grocery store."
+msgstr ""
+
+#: 40104:886
+
+msgid "{Kazushi}\n\"Look. What do you want? Get whatever you like.\""
+msgstr ""
+
+#: 40104:889
+
+msgid "{Natsume}\n\"......Pineapple.\""
+msgstr ""
+
+#: 40104:890
+
+msgid "{Kazushi}\n\"Hey, pops! A frozen pineapple, please!\""
+msgstr ""
+
+#: 40104:892
+
+msgid "{Grocery Store Worker}\n\"Coming right up! Oh, it's you, Kazushi. What, on a date today?\""
+msgstr ""
+
+#: 40104:893
+
+msgid "The man at the grocery store looked at Natsume-chan, and made a comment. I'd been here a few times before, so we got to know each other."
+msgstr ""
+
+#: 40104:894
+
+msgid "{Kazushi}\n\"Oh, it's nothing like that.\""
+msgstr ""
+
+#: 40104:895
+
+msgid "I paid him, and took the frozen pineapple."
+msgstr ""
+
+#: 40104:896
+
+msgid "{Kazushi}\n\"Here, Natsume-chan. Please forgive me!\""
+msgstr ""
+
+#: 40104:899
+
+msgid "I begged her forgiveness, and offered her the pineapple. Natsume-chan accepted it without saying anything, and..."
+msgstr ""
+
+#: 40104:902
+
+msgid "{Natsume}\n\"Ok, fine.\""
+msgstr ""
+
+#: 40104:903
+
+msgid "She mumbled like that. That released me from her hatred, so I guess she's decided to forgive me."
+msgstr ""
+
+#: 40104:904
+
+msgid "{Grocery Store Worker}\n\"What? Are you trying to make your girlfriend feel better with this cheap stuff? What a worthless man.\""
+msgstr ""
+
+#: 40104:905
+
+msgid "{Kazushi}\n\"Sorry. And she's not my girlfriend.\""
+msgstr ""
+
+#: 40104:906
+
+msgid "{Grocery Store Worker}\n\"Don't you let him trick you with this cheap stuff, lady. You have to make him buy you that melon or something like that.\""
+msgstr ""
+
+#: 40104:907
+
+msgid "The man pointed at a huge, expensive melon in an ornate wooden box. It cost 15,000 yen."
+msgstr ""
+
+#: 40104:908
+
+msgid "{Kazushi}\n\"Geh?! I can't buy that. And you're definitely overcharging for it!\""
+msgstr ""
+
+#: 40104:909
+
+msgid "{Grocery Store Worker}\n\"What are you talking about? See, Miss? I'm sure you want to eat that sweet melon, don't you?\""
+msgstr ""
+
+#: 40104:910
+
+msgid "{Grocery Store Worker}\n\"Mm? What?\""
+msgstr ""
+
+#: 40104:913
+
+msgid "Suddenly, the man stopped talking. He was tilting his head and looking at Natsume-chan."
+msgstr ""
+
+#: 40104:914
+
+msgid "{Kazushi}\n\"What's wrong?\""
+msgstr ""
+
+#: 40104:915
+
+msgid "{Grocery Store Worker}\n\"Well, uhh...\""
+msgstr ""
+
+#: 40104:916
+
+msgid "{Natsume}\n\"...... I'm going to look at the ocean.\""
+msgstr ""
+
+#: 40104:921
+
+msgid "Natsume-chan ran to the waterfront to avoid the man's rude stares."
+msgstr ""
+
+#: 40104:922
+
+msgid "{Kazushi}\n\"Hey, don't go too close to the edge! Be careful not to slip off the cliff!\""
+msgstr ""
+
+#: 40104:923
+
+msgid "{Kazushi}\n\"Hey, what are you doing, man? She got upset again and ran away.\""
+msgstr ""
+
+#: 40104:924
+
+msgid "{Grocery Store Worker}\n\"Sorry about that, but I thought I'd seen her before...\""
+msgstr ""
+
+#: 40104:925
+
+msgid "{Kazushi}\n\"What? You know her?\""
+msgstr ""
+
+#: 40104:926
+
+msgid "I didn't know anything about Natsume-chan at that point, including how she showed up like that, where she came from, and why she was here now..."
+msgstr ""
+
+#: 40104:927
+
+msgid "And then there was her father..."
+msgstr ""
+
+#: 40104:928
+
+msgid "We didn't know anything, and nobody was willing to tell us about her. Natsume-chan wasn't saying anything, and she always dodged the issue, so we weren't asking her, either."
+msgstr ""
+
+#: 40104:929
+
+msgid "But this guy might know something about her?"
+msgstr ""
+
+#: 40104:930
+
+msgid "{Grocery Store Worker}\n\"Oh, yeah. There was a girl who said she was looking for her father, must've been a few years ago. She looks like that girl.\""
+msgstr ""
+
+#: 40104:931
+
+msgid "{Kazushi}\n\"Her father?\""
+msgstr ""
+
+#: 40104:932
+
+msgid "It was few years ago? But Natsume-chan's supposed to be a freshman. It must be someone who looked like her?"
+msgstr ""
+
+#: 40104:933
+
+msgid "{Grocery Store Worker}\n\"It was a few years back, so I'm not so sure. But your girlfriend sure is a cutie.\""
+msgstr ""
+
+#: 40104:934
+
+msgid "{Kazushi}\n\"I'm telling you, it's not like that!\""
+msgstr ""
+
+#: 40104:935
+
+msgid "A few years ago... I was sure he couldn't have been talking about her, but I couldn't forget his story."
+msgstr ""
+
+#: 40104:942
+
+msgid "{Appo}\n\"And so you came back without buying anything at all?\""
+msgstr ""
+
+#: 40104:943
+
+msgid "{Kazushi}\n\"Well, Miya-san wasn't there.\""
+msgstr ""
+
+#: 40104:944
+
+msgid "I called for him a few times, but he wasn't home. He must've been out somewhere."
+msgstr ""
+
+#: 40104:945
+
+msgid "{Appo}\n\"I didn't think he ever closed the store. I go all the time with Kazuko, and he's never been closed.\""
+msgstr ""
+
+#: 40104:946
+
+msgid "{Kazushi}\n\"Maybe it's for summer break, or maybe it's for the Bon Festival.\""
+msgstr ""
+
+#: 40104:949
+
+msgid "{Appo}\n\"Well, maybe it's for the better. You can go by yourself to buy them, and then give 'em to her as a gift. What do you think?\""
+msgstr ""
+
+#: 40104:950
+
+msgid "...every once in a while, Appo actually says something good."
+msgstr ""
+
+#: 40104:951
+
+msgid "{Kazushi}\n\"Wow, that's a great idea! Do you think Natsume-chan would like that?\""
+msgstr ""
+
+#: 40104:954
+
+msgid "{Appo}\n\"Definitely. All girls like surprises.\""
+msgstr ""
+
+#: 40104:955
+
+msgid "{Kazushi}\n\"OK! I'll go by myself tomorrow to get them!\""
+msgstr ""
+
+#: 40104:956
+
+msgid "As I imagined Natsume-chan's happy surprise, I couldn't wait for tomorrow. I hope it comes soon."
+msgstr ""
+

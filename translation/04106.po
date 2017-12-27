@@ -1,0 +1,558 @@
+# Comments for '04106'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 04106:9
+
+msgid "{Daigo}\n\"Anything good happen today?\""
+msgstr ""
+
+#: 04106:10
+
+msgid "{Kazushi}\n\"Nothing much.\""
+msgstr ""
+
+#: 04106:15
+
+msgid "{Appo}\n\"What're you guys doing? Summer break will be over before you know it!\""
+msgstr ""
+
+#: 04106:16
+
+msgid "The winner speaks. We didn't need him to tell us that, but nothing dramatic was going to happen all of a sudden."
+msgstr ""
+
+#: 04106:21
+
+msgid "{Pierre}\n\"Can you help peel the skin off my back?\""
+msgstr ""
+
+#: 04106:22
+
+msgid "Pierre took off his shirt and turned his naked back to me."
+msgstr ""
+
+#: 04106:23
+
+msgid "{Kazushi}\n\"Sure, I'll peel it neatly for you.\""
+msgstr ""
+
+#: 04106:24
+
+msgid "One portion of his shoulder was already peeling off, and it gave me an idea of where to start from."
+msgstr ""
+
+#: 04106:30
+
+msgid "{Appo}\n\"If you handle it just right, it'll come off great.\""
+msgstr ""
+
+#: 04106:33
+
+msgid "{Daigo}\n\"Let's see how big a piece you can get off at once.\""
+msgstr ""
+
+#: 04106:38
+
+msgid "{Pierre}\n\"Yeah, try it, Kazushi. If it's big enough, maybe we can show it to the girls!\""
+msgstr ""
+
+#: 04106:39
+
+msgid "{Kazushi}\n\"Your skin? Won't they just be disgusted again?\""
+msgstr ""
+
+#: 04106:42
+
+msgid "{Pierre}\n\"It doesn't matter what the topic of conversation is. My smooth talking skills will handle the rest.\""
+msgstr ""
+
+#: 04106:43
+
+msgid "{Kazushi}\n\"I see.\nNow I got it.\""
+msgstr ""
+
+#: 04106:45
+
+msgid "I carefully pinched where the skin was starting to peel back."
+msgstr ""
+
+#: 04106:48
+
+msgid "{Daigo}\n\"Be careful.\""
+msgstr ""
+
+#: 04106:49
+
+msgid "{Kazushi}\n\"I know.\""
+msgstr ""
+
+#: 04106:51
+
+msgid "I pulled on it very slowly."
+msgstr ""
+
+#: 04106:52
+
+msgid "*peel*"
+msgstr ""
+
+#: 04106:53
+
+msgid "It's going well."
+msgstr ""
+
+#: 04106:56
+
+msgid "{Appo}\n\"Yeah! You're peeling it nicely!\""
+msgstr ""
+
+#: 04106:57
+
+msgid "His skin was still in one piece, getting cleanly peeled off."
+msgstr ""
+
+#: 04106:62
+
+msgid "{Daigo}\n\"That must feel great. Let me try it too.\""
+msgstr ""
+
+#: 04106:63
+
+msgid "Daigo was good with his hands, despite his size."
+msgstr ""
+
+#: 04106:64
+
+msgid "{Kazushi}\n\"Alright. Make sure you do a good job.\""
+msgstr ""
+
+#: 04106:68
+
+msgid "{Daigo}\n\"I will.\""
+msgstr ""
+
+#: 04106:69
+
+msgid "Daigo took over."
+msgstr ""
+
+#: 04106:71
+
+msgid "*Peel*"
+msgstr ""
+
+#: 04106:74
+
+msgid "{Pierre}\n\"Wow, I can feel it coming off! Is it still in one piece?\""
+msgstr ""
+
+#: 04106:78
+
+msgid "{Appo}\n\"Yes, it is. At this rate, your whole back could be peeled off in one piece.\""
+msgstr ""
+
+#: 04106:82
+
+msgid "{Pierre}\n\"Seriously!?\""
+msgstr ""
+
+#: 04106:84
+
+msgid "Appo wasn't exaggerating."
+msgstr ""
+
+#: 04106:85
+
+msgid "{Kazushi}\n\"Daigo! Be careful!\""
+msgstr ""
+
+#: 04106:88
+
+msgid "{Daigo}\n\"Got it.\""
+msgstr ""
+
+#: 04106:90
+
+msgid "His thick fingers were moving delicately. It was like watching an experienced chef peeling the thin skin off a big daikon."
+msgstr ""
+
+#: 04106:93
+
+msgid "{Pierre}\n\"Hey, guys, haven't you almost made it to the middle part of my back? Is it still really in one piece?\""
+msgstr ""
+
+#: 04106:94
+
+msgid "{Kazushi}\n\"Yes it is!\nKeep it going, Daigo!\""
+msgstr ""
+
+#: 04106:98
+
+msgid "{Daigo}\n\"I won't screw this up.\""
+msgstr ""
+
+#: 04106:100
+
+msgid "*Peel*"
+msgstr ""
+
+#: 04106:101
+
+msgid "We reached his waist.\nI think this is some kind of new record."
+msgstr ""
+
+#: 04106:102
+
+msgid "*Peel*"
+msgstr ""
+
+#: 04106:105
+
+msgid "{Daigo}\n\"......got it!!\""
+msgstr ""
+
+#: 04106:106
+
+msgid "We did it!\nWe peeled off his entire back skin in one piece!!"
+msgstr ""
+
+#: 04106:111
+
+msgid "{Pierre}\n\"Show it to me!!\""
+msgstr ""
+
+#: 04106:118
+
+msgid "{Appo}\n\"I've never seen anything like this before!\""
+msgstr ""
+
+#: 04106:119
+
+msgid "{Pierre}\n\"It's huge!\""
+msgstr ""
+
+#: 04106:120
+
+msgid "It was, of course, as big as his entire back. It was truly impressive."
+msgstr ""
+
+#: 04106:121
+
+msgid "{Kazushi}\n\"I didn't think we could do it!\nDaigo, you're awesome!!\""
+msgstr ""
+
+#: 04106:122
+
+msgid "{Daigo}\n\"Give credit to Pierre for burning himself so evenly.\""
+msgstr ""
+
+#: 04106:125
+
+msgid "{Pierre}\n\"It's not me.\nDaigo, you should get all the credit!\""
+msgstr ""
+
+#: 04106:126
+
+msgid "{Daigo}\n\"Thanks......\""
+msgstr ""
+
+#: 04106:129
+
+msgid "{Appo}\n\"Well......\""
+msgstr ""
+
+#: 04106:130
+
+msgid "Appo was staring at the layer of skin.\nHe usually came up with some weird ideas when he was like this."
+msgstr ""
+
+#: 04106:131
+
+msgid "{Appo}\n\"You think...... we can eat this?\""
+msgstr ""
+
+#: 04106:138
+
+msgid "{Boys}\n\"What?\""
+msgstr ""
+
+#: 04106:141
+
+msgid "{Appo}\n\"The texture reminds me of a crepe.\""
+msgstr ""
+
+#: 04106:144
+
+msgid "{Pierre}\n\"Oh, you're right! It looks thin and fluffy, just like a fresh made crepe!\""
+msgstr ""
+
+#: 04106:147
+
+msgid "{Appo}\n\"You know, girls love sweets. And here we are with a special, sweet looking crepe-like skin. The dots are connecting, aren't they, Pierre-kun.\""
+msgstr ""
+
+#: 04106:148
+
+msgid "{Kazushi}\n\"Are you guys perhaps thinking...\""
+msgstr ""
+
+#: 04106:151
+
+msgid "{Pierre}\n\"Girls do similar things, right? They put some hair from the boy they like inside their pillow so they can fall in love with him.\""
+msgstr ""
+
+#: 04106:154
+
+msgid "{Daigo}\n\"What!? Are you trying to make a girl...?!\""
+msgstr ""
+
+#: 04106:155
+
+msgid "{Kazushi}\n\"Don't do that! Remember what kind of hell we went through last year?\""
+msgstr ""
+
+#: 04106:160
+
+msgid "At our last school, Appo was absent from school for a week. We got worried and went to visit his house."
+msgstr ""
+
+#: 04106:161
+
+msgid "When we got there he was fine, and even invited us in for dinner. Then, after we had all had our fill, he told us the reason he was absent..."
+msgstr ""
+
+#: 04106:164
+
+msgid "{Appo}\n\"I had my circumcision. In preparation for the coming crusade!\""
+msgstr ""
+
+#: 04106:165
+
+msgid "We were laughing until he continued."
+msgstr ""
+
+#: 04106:168
+
+msgid "{Appo}\n\"I thought I brought back some of it with me as a memory. I seem to have lost it somewhere.\""
+msgstr ""
+
+#: 04106:169
+
+msgid "......the hot pot dinner he treated us that night was of vegetables and offal."
+msgstr ""
+
+#: 04106:170
+
+msgid "We all got mentally sick from 'what if' and had to miss school for a week."
+msgstr ""
+
+#: 04106:171
+
+msgid "We named this 'The Appo Skin Incident'."
+msgstr ""
+
+#: 04106:180
+
+msgid "{Appo}\n\"Don't stop me, Kazushi! I have a feeling that everything will be fine this time!\""
+msgstr ""
+
+#: 04106:183
+
+msgid "{Daigo}\n\"There are millions of reasons why it won't be fine.\""
+msgstr ""
+
+#: 04106:184
+
+msgid "{Kazushi}\n\"What does it bring us, even if it did work well?!\""
+msgstr ""
+
+#: 04106:190
+
+msgid "{Appo}\n\"What? Oh my! You made this, Pierre-kun? It looks so delicious...!\""
+msgstr ""
+
+#: 04106:191
+
+msgid "{Pierre}\n\"Thanks. I'm actually studying to be a confectioner. A patented one.\""
+msgstr ""
+
+#: 04106:196
+
+msgid "{Daigo}\n\"The confectioner's one stickler about copyrights.\""
+msgstr ""
+
+#: 04106:202
+
+msgid "{Appo}\n\"That's great! We didn't know you had such a dream!\""
+msgstr ""
+
+#: 04106:203
+
+msgid "{Pierre}\n\"Ah, but a confectioner is artist! I add decoration to soft, squishy sponge cakes with my fresh creme!\""
+msgstr ""
+
+#: 04106:208
+
+msgid "{Kazushi}\n\"I never knew he was such an idiot.\""
+msgstr ""
+
+#: 04106:209
+
+msgid "{Daigo}\n\"Me neither.\""
+msgstr ""
+
+#: 04106:215
+
+msgid "{Pierre}\n\"And...... I wanna be the creme to decorate you......\""
+msgstr ""
+
+#: 04106:216
+
+msgid "{Appo}\n\"Oh no! You're making me wet! Now that I'm wet, color me with nightly decoration!\""
+msgstr ""
+
+#: 04106:219
+
+msgid "{Pierre}\n\"Oui monsieur! Tres Bien! France Pan! Champs Elysees Story!\""
+msgstr ""
+
+#: 04106:220
+
+msgid "{Appo}\n\"I-I-I see it! The Arc de Triumph! The Arc de Triumph!\""
+msgstr ""
+
+#: 04106:221
+
+msgid "{Pierre}\n\"Bonjour! Bonjour! Mademoiselle!\""
+msgstr ""
+
+#: 04106:222
+
+msgid "{Appo}\n\"Ahaahn! Pierre's Effiel Tower! It's growing taller and taller!\""
+msgstr ""
+
+#: 04106:225
+
+msgid "{Pierre}\n\"Or so that's about what we expect.\""
+msgstr ""
+
+#: 04106:228
+
+msgid "{Appo}\n\"You heard him.\""
+msgstr ""
+
+#: 04106:233
+
+msgid "{Boys}\n\"What do you think?\""
+msgstr ""
+
+#: 04106:234
+
+msgid "{Kazushi}\n\"Are you out of your mind? Are you guys stupid!?\""
+msgstr ""
+
+#: 04106:237
+
+msgid "{Appo}\n\"Excuse us. We're off to grab some honey from the cafeteria.\""
+msgstr ""
+
+#: 04106:240
+
+msgid "{Pierre}\n\"Arc de Triumph!\""
+msgstr ""
+
+#: 04106:248
+
+msgid "{Kazushi}\n\"Should we leave them alone? I have a feeling they'll get us into trouble again if we go with them.\""
+msgstr ""
+
+#: 04106:251
+
+msgid "{Daigo}\n\"It should be all right. Why don't we go take a shower?\""
+msgstr ""
+
+#: 04106:252
+
+msgid "{Kazushi}\n\"How can you be so calm......?\""
+msgstr ""
+
+#: 04106:261
+
+msgid "{Appo}\n\"......\""
+msgstr ""
+
+#: 04106:262
+
+msgid "{Pierre}\n\"......\""
+msgstr ""
+
+#: 04106:263
+
+msgid "{Kazushi}\n\"What happened to you guys!?\""
+msgstr ""
+
+#: 04106:270
+
+msgid "{Daigo}\n\"Panchu-sempai did it, didn't he?\""
+msgstr ""
+
+#: 04106:271
+
+msgid "{Kazushi}\n\"Why did he do that!?\""
+msgstr ""
+
+#: 04106:272
+
+msgid "{Daigo}\n\"Around this time of day he's usually in the kitchen baking bread. He probably made them tell the truth and took care of them.\""
+msgstr ""
+
+#: 04106:273
+
+msgid "{Appo}\n\"Why didn't you tell us he'd be in there?\""
+msgstr ""
+
+#: 04106:274
+
+msgid "{Pierre}\n\"He almost put us in the oven!!\""
+msgstr ""
+
+#: 04106:275
+
+msgid "{Kazushi}\n\"You didn't make him eat it or anything, right?\""
+msgstr ""
+
+#: 04106:276
+
+msgid "{Appo}\n\"No, apparently he really hates European sweets like crepes.\""
+msgstr ""
+
+#: 04106:277
+
+msgid "{Pierre}\n\"He started going crazy as soon as he saw the skin.\""
+msgstr ""
+
+#: 04106:278
+
+msgid "{Kazushi}\n\"I don't understand anything that's happened today.\""
+msgstr ""
+
+#: 04106:281
+
+msgid "{Daigo}\n\"Think of it as divine punishment.\""
+msgstr ""
+
+#: 04106:282
+
+msgid "{Pierre}\n\"Our skin of dreams is in pieces!\""
+msgstr ""
+

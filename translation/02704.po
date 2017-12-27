@@ -1,0 +1,423 @@
+# Comments for '02704'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 02704:7
+
+msgid "{Kazushi}\n\"I forgot to ask what her room number was...\""
+msgstr ""
+
+#: 02704:8
+
+msgid "It would be too risky to sneak in and search around until I found her room."
+msgstr ""
+
+#: 02704:11
+
+msgid "{Miya}\n\"Haruma-kun?\""
+msgstr ""
+
+#: 02704:12
+
+msgid "{Kazushi}\n\"...huh?\""
+msgstr ""
+
+#: 02704:13
+
+msgid "I heard a familiar voice and was surprised to find someone standing next to me."
+msgstr ""
+
+#: 02704:14
+
+msgid "{Kazushi}\n\"G-good evening, Miya-san!\""
+msgstr ""
+
+#: 02704:15
+
+msgid "What's he doing here?\nMaybe he's here to peep at the girls?"
+msgstr ""
+
+#: 02704:18
+
+msgid "{Miya}\n\"I hope you're not coming to some misunderstanding.\""
+msgstr ""
+
+#: 02704:19
+
+msgid "{Kazushi}\n\"Umm...so why are you here tonight?\""
+msgstr ""
+
+#: 02704:20
+
+msgid "He's very suspicious. I thought he was a good guy, but maybe he's a pervert."
+msgstr ""
+
+#: 02704:23
+
+msgid "{Miya}\n\"Now your face is clearly telling me that there's been a misunderstanding. I'm just here to deliver daily supplies to the new student.\""
+msgstr ""
+
+#: 02704:24
+
+msgid "{Kazushi}\n\"Oh, that's what I thought.\""
+msgstr ""
+
+#: 02704:27
+
+msgid "{Miya}\n\"Did you really?\""
+msgstr ""
+
+#: 02704:28
+
+msgid "Oh yeah. His store carries all sorts of general goods. He must be here to get Natsume-chan set up."
+msgstr ""
+
+#: 02704:29
+
+msgid "{Kazushi}\n\"Where's your delivery?\""
+msgstr ""
+
+#: 02704:30
+
+msgid "His hands were empty."
+msgstr ""
+
+#: 02704:33
+
+msgid "{Miya}\n\"I turned it over to Mei-sensei. Now I'm heading home.\""
+msgstr ""
+
+#: 02704:34
+
+msgid "{Kazushi}\n\"I thought so too. Honestly.\""
+msgstr ""
+
+#: 02704:35
+
+msgid "{Miya}\n\"Oh, brother. Ahaha... I guess I should get going before I'm suspected any further.\""
+msgstr ""
+
+#: 02704:39
+
+msgid "He left, scratching his head."
+msgstr ""
+
+#: 02704:40
+
+msgid "{Kazushi}\n\"Thank you and good bye.\""
+msgstr ""
+
+#: 02704:41
+
+msgid "He looked tired. I felt bad for suspecting him."
+msgstr ""
+
+#: 02704:42
+
+msgid "{Kazushi}\n\"Wait a minute......\""
+msgstr ""
+
+#: 02704:43
+
+msgid "He must have been standing there for a while, as I didn't seem him at the entrance."
+msgstr ""
+
+#: 02704:44
+
+msgid "He came here, delivered the goods, and instead of heading straight home, he stood here watching the girls' dorm."
+msgstr ""
+
+#: 02704:45
+
+msgid "{Kazushi}\n\"I wonder what he was doing here.\""
+msgstr ""
+
+#: 02704:46
+
+msgid "Oh well, maybe he was just having a quick smoke."
+msgstr ""
+
+#: 02704:47
+
+msgid "{Kazushi}\n\"Oh shit! I should've asked him where Natsume-chan's room is.\""
+msgstr ""
+
+#: 02704:48
+
+msgid "Where could it be?\n...Ah!"
+msgstr ""
+
+#: 02704:49
+
+msgid "One of the windows popped open. Natsume-chan's face hung out from over the sill."
+msgstr ""
+
+#: 02704:50
+
+msgid "{Kazushi}\n\"Hey, I wanted to pay you a visit, but I don't know what room you're in.\""
+msgstr ""
+
+#: 02704:51
+
+msgid "{Natsume}\n\"Haruma! Hurry and get up here!\""
+msgstr ""
+
+#: 02704:52
+
+msgid "She seemed to be having an emergency."
+msgstr ""
+
+#: 02704:53
+
+msgid "{Kazushi}\n\"What's wrong?\""
+msgstr ""
+
+#: 02704:54
+
+msgid "{Natsume}\n\"Just hurry! There's a demon in my room!\""
+msgstr ""
+
+#: 02704:55
+
+msgid "{Kazushi}\n\"A demon?\""
+msgstr ""
+
+#: 02704:60
+
+msgid "It was just a cockroach."
+msgstr ""
+
+#: 02704:61
+
+msgid "{Kazushi}\n\"You can come in now.\""
+msgstr ""
+
+#: 02704:65
+
+msgid "{Natsume}\n\"Did you get it?\""
+msgstr ""
+
+#: 02704:66
+
+msgid "She opened the door and cautiously peered inside."
+msgstr ""
+
+#: 02704:67
+
+msgid "{Kazushi}\n\"Don't worry, see?\""
+msgstr ""
+
+#: 02704:70
+
+msgid "{Natsume}\n\"You don't need to show it to me!\""
+msgstr ""
+
+#: 02704:71
+
+msgid "{Kazushi}\n\"Oops. Sorry.\""
+msgstr ""
+
+#: 02704:72
+
+msgid "I wrapped it up in a tissue and was about to throw it into the bin..."
+msgstr ""
+
+#: 02704:73
+
+msgid "{Natsume}\n\"Not in the room! Throw it away outside!\""
+msgstr ""
+
+#: 02704:74
+
+msgid "{Kazushi}\n\"It's already dead.\""
+msgstr ""
+
+#: 02704:77
+
+msgid "{Natsume}\n\"So what!?\""
+msgstr ""
+
+#: 02704:78
+
+msgid "{Kazushi}\n\"Never mind.\""
+msgstr ""
+
+#: 02704:79
+
+msgid "Fine. I guess I'll just go and flush it."
+msgstr ""
+
+#: 02704:87
+
+msgid "{Natsume}\n\"That's the only one? Are you absolutely sure?\""
+msgstr ""
+
+#: 02704:88
+
+msgid "She's still scared."
+msgstr ""
+
+#: 02704:89
+
+msgid "{Kazushi}\n\"It should be fine for now, but they say that if you find one, there must be thirty more hidden in the walls.\""
+msgstr ""
+
+#: 02704:92
+
+msgid "{Natsume}\n\"Thirty....................................\""
+msgstr ""
+
+#: 02704:93
+
+msgid "She was in shock."
+msgstr ""
+
+#: 02704:96
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 02704:97
+
+msgid "She sat on the bed, hugging her knees and gazing out into the distance."
+msgstr ""
+
+#: 02704:98
+
+msgid "{Kazushi}\n\"What are you looking at?\""
+msgstr ""
+
+#: 02704:101
+
+msgid "{Natsume}\n\"A giraffe drowning in debt?\""
+msgstr ""
+
+#: 02704:102
+
+msgid "She was talking about a stain on the wall. I think she's trying to escape from reality."
+msgstr ""
+
+#: 02704:103
+
+msgid "{Kazushi}\n\"You have this room to yourself? And you're using the upper bunk?\""
+msgstr ""
+
+#: 02704:104
+
+msgid "She was choosing to use the top bunk. I know that feeling."
+msgstr ""
+
+#: 02704:105
+
+msgid "{Kazushi}\n\"It's more fun being on top than on the lower one.\""
+msgstr ""
+
+#: 02704:108
+
+msgid "{Natsume}\n\"............\""
+msgstr ""
+
+#: 02704:109
+
+msgid "We thought surprisingly alike."
+msgstr ""
+
+#: 02704:110
+
+msgid "{Natsume}\n\"Haruma, you are......\""
+msgstr ""
+
+#: 02704:111
+
+msgid "{Kazushi}\n\"Oh hey, how do you know my name?\""
+msgstr ""
+
+#: 02704:112
+
+msgid "{Natsume}\n\"You were my wet-nurse in a prior life.\""
+msgstr ""
+
+#: 02704:113
+
+msgid "{Kazushi}\n\"My prior life!?\nI was a woman?\nI guess that makes sense...\""
+msgstr ""
+
+#: 02704:116
+
+msgid "{Natsume}\n\"What do you mean with 'makes sense'? What can you understand? You're scaring me.\""
+msgstr ""
+
+#: 02704:117
+
+msgid "Wait, I must have had the same name then for her to know what mine is now. That's weird."
+msgstr ""
+
+#: 02704:118
+
+msgid "{Kazushi}\n\"We both know each other from a previous life? It feels like destiny.\""
+msgstr ""
+
+#: 02704:121
+
+msgid "{Natsume}\n\"You're such a fool. I just made that up, of course.\""
+msgstr ""
+
+#: 02704:122
+
+msgid "{Kazushi}\n\"You made it up? All that stuff about the previous life thing you were just talking about?\""
+msgstr ""
+
+#: 02704:123
+
+msgid "{Natsume}\n\"How would I know anything about your previous life?\""
+msgstr ""
+
+#: 02704:124
+
+msgid "{Kazushi}\n\"All right......\""
+msgstr ""
+
+#: 02704:125
+
+msgid "{Kazushi}\n\"...wait. Then how do you know my name?\""
+msgstr ""
+
+#: 02704:128
+
+msgid "{Natsume}\n\"I don't know. Stop asking so many questions.\""
+msgstr ""
+
+#: 02704:129
+
+msgid "{Kazushi}\n\"Sorry.\""
+msgstr ""
+
+#: 02704:132
+
+msgid "{Natsume}\n\"That's enough. I'm going to bed.\""
+msgstr ""
+
+#: 02704:133
+
+msgid "{Kazushi}\n\"Fine.\""
+msgstr ""
+
+#: 02704:134
+
+msgid "And just like that she became a grouch. She's a difficult girl, but something about her makes me yearn for a past I can't remember."
+msgstr ""
+
+#: 02704:135
+
+msgid "I'm sure I've never been to this island before we started school here, but I feel like I know it from my past. I don't know why I feel like this."
+msgstr ""
+

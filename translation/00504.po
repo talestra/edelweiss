@@ -1,0 +1,788 @@
+# Comments for '00504'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 00504:11
+
+msgid "I feel bad either way. If I share Haruka's bento or borrow money, I'll have to do the same thing again tomorrow."
+msgstr ""
+
+#: 00504:12
+
+msgid "It looks like I'll be on a tight budget for a while, so I should get used to it now."
+msgstr ""
+
+#: 00504:13
+
+msgid "{Kazushi}\n\"Thanks for the offer, both of you. I'll be fine just getting something from the vending machine for today.\""
+msgstr ""
+
+#: 00504:18
+
+msgid "They must think I'm a stubborn guy. Both of them looked at each other and heaved a sigh."
+msgstr ""
+
+#: 00504:19
+
+msgid "{Haruka}\n\"You really don't have to think anything of it, you know?\""
+msgstr ""
+
+#: 00504:20
+
+msgid "{Mei}\n\"Are you sure bread will be enough? You're young and hungry, aren't you?\""
+msgstr ""
+
+#: 00504:21
+
+msgid "{Kazushi}\n\"I'll manage. I'll be sure to eat a lot tonight. We're also free to ask for seconds on breakfast, right?\""
+msgstr ""
+
+#: 00504:22
+
+msgid "{Mei}\n\"Yes, you are, but...\""
+msgstr ""
+
+#: 00504:23
+
+msgid "{Haruka}\n\"Can you last until dinner?\""
+msgstr ""
+
+#: 00504:24
+
+msgid "{Kazushi}\n\"I'll be fine.\""
+msgstr ""
+
+#: 00504:25
+
+msgid "Tonight I'll make sure to fill up on rice, but for now, I should head to the machine and be frugal with my money."
+msgstr ""
+
+#: 00504:33
+
+msgid "It didn't take long for me to finish my bread and a milk carton. Of course, it wasn't enough at all."
+msgstr ""
+
+#: 00504:34
+
+msgid "{Kazushi}\n\"I'm so hungry. I should have taken her lunch or the money.\""
+msgstr ""
+
+#: 00504:35
+
+msgid "Regretting it now won't get me anywhere. I need to conserve my energy. There's a long afternoon ahead of me."
+msgstr ""
+
+#: 00504:36
+
+msgid "{Kazushi}\n\"I'll just sit still and keep my breathing calm, conserving as much energy as possible. I will become like a monk who lives off of mist.\""
+msgstr ""
+
+#: 00504:37
+
+msgid "I took several deep breaths and my angry stomach rumbled in protest, telling me it needed more than air to fill it."
+msgstr ""
+
+#: 00504:38
+
+msgid "{Kazushi}\n\"I guess your stomach really does talk when it's got something to say.\""
+msgstr ""
+
+#: 00504:39
+
+msgid "Like, \"Oh? And who thought THAT was a good idea?\""
+msgstr ""
+
+#: 00504:41
+
+msgid "\"I've got news for you, that won't do us a damn bit of good.\""
+msgstr ""
+
+#: 00504:42
+
+msgid "{Kazushi}\n\"I'm hungry...\""
+msgstr ""
+
+#: 00504:46
+
+msgid "I found a tree and lay down in the shade, clutching my stomach as it continued its loud protest."
+msgstr ""
+
+#: 00504:51
+
+msgid "I felt like I was going to faint from hunger."
+msgstr ""
+
+#: 00504:52
+
+msgid "{Kazushi}\n\"......?\""
+msgstr ""
+
+#: 00504:53
+
+msgid "I felt somebody right next to me."
+msgstr ""
+
+#: 00504:56
+
+msgid "It was Natsume-chan, eating some bread with her back leaned up against the tree trunk."
+msgstr ""
+
+#: 00504:57
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 00504:58
+
+msgid "She was looking straight ahead, but I don't think she noticed me."
+msgstr ""
+
+#: 00504:59
+
+msgid "I wanted to talk to her, but I refrained from doing so because of our prior argument."
+msgstr ""
+
+#: 00504:60
+
+msgid "{Kazushi}\n\"Uhh... Ahem.\""
+msgstr ""
+
+#: 00504:61
+
+msgid "I coughed a couple of times on purpose."
+msgstr ""
+
+#: 00504:63
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 00504:64
+
+msgid "She glanced over at me with the bread still in her mouth."
+msgstr ""
+
+#: 00504:65
+
+msgid "We made eye contact."
+msgstr ""
+
+#: 00504:66
+
+msgid "{Kazushi}\n\"Hi.\""
+msgstr ""
+
+#: 00504:67
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 00504:68
+
+msgid "She didn't answer, she just kept staring at me rudely, without restraint."
+msgstr ""
+
+#: 00504:69
+
+msgid "Even I can read between a few lines. I'm pretty sure she doesn't like me. Considering what happened, I guess that's highly likely."
+msgstr ""
+
+#: 00504:70
+
+msgid "{Kazushi}\n\"Are you annoyed with me?\""
+msgstr ""
+
+#: 00504:71
+
+msgid "That's what her eyes were saying to me."
+msgstr ""
+
+#: 00504:72
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 00504:73
+
+msgid "She still wouldn't answer, and she kept staring at me just as rudely. It didn't look like she was ignoring me, though."
+msgstr ""
+
+#: 00504:74
+
+msgid "{Kazushi}\n\"Umm...are you eating lunch?\""
+msgstr ""
+
+#: 00504:76
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 00504:77
+
+msgid "She nodded slightly while holding the bread in her hands. She didn't look away. I was reflected in her charming eyes."
+msgstr ""
+
+#: 00504:78
+
+msgid "{Kazushi}\n\"Do you, um, blink? You'll dry your eyes out.\""
+msgstr ""
+
+#: 00504:80
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 00504:81
+
+msgid "She blinked once and continued to look at me, like a dog waiting for its master to issue a command."
+msgstr ""
+
+#: 00504:82
+
+msgid "It left me obligated to say something."
+msgstr ""
+
+#: 00504:83
+
+msgid "{Kazushi}\n\"Um... I bought the same kind of bread for lunch. It's good, isn't it?\""
+msgstr ""
+
+#: 00504:84
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 00504:85
+
+msgid "She nodded. Good, at least she's not ignoring me. If I talk to her, she'll at least answer me."
+msgstr ""
+
+#: 00504:86
+
+msgid "But it's not like we were having a real conversation either."
+msgstr ""
+
+#: 00504:87
+
+msgid "{Kazushi}\n\"Will you finish eating? That way we can talk properly.\""
+msgstr ""
+
+#: 00504:89
+
+msgid "{Natsume}\n\"............\""
+msgstr ""
+
+#: 00504:90
+
+msgid "She started eating like a squirrel."
+msgstr ""
+
+#: 00504:91
+
+msgid "{Kazushi}\n\"Do you always eat it in little bites like that? Isn't it better if you take a nice big bite out of it?\""
+msgstr ""
+
+#: 00504:93
+
+msgid "{Natsume}\n\"......!\""
+msgstr ""
+
+#: 00504:94
+
+msgid "She glared at me! Or was that a threat?"
+msgstr ""
+
+#: 00504:95
+
+msgid "{Natsume}\n\"......Shoo.\""
+msgstr ""
+
+#: 00504:96
+
+msgid "It was a threat!"
+msgstr ""
+
+#: 00504:97
+
+msgid "{Kazushi}\n\"...Sorry. Eat it however you want.\""
+msgstr ""
+
+#: 00504:99
+
+msgid "{Natsume}\n\"............\""
+msgstr ""
+
+#: 00504:100
+
+msgid "She's weird."
+msgstr ""
+
+#: 00504:102
+
+msgid "{Natsume}\n\"............\""
+msgstr ""
+
+#: 00504:103
+
+msgid "She stared at me again. What did she want?"
+msgstr ""
+
+#: 00504:104
+
+msgid "{Kazushi}\n\"Am I that handsome?\""
+msgstr ""
+
+#: 00504:105
+
+msgid "I said so jokingly, but after that accident, maybe she's fallen for me?"
+msgstr ""
+
+#: 00504:107
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 00504:108
+
+msgid "She didn't think so at all. Oh well."
+msgstr ""
+
+#: 00504:109
+
+msgid "{Kazushi}\n\"Women aren't attracted by a pretty face anyways, right?\""
+msgstr ""
+
+#: 00504:110
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 00504:111
+
+msgid "She rejected me flat out! So it is about looks? Looks are all that matter?!"
+msgstr ""
+
+#: 00504:112
+
+msgid "So if I'm not handsome to her, then that means I don't mean a thing to her. But then why does she keep staring at me?"
+msgstr ""
+
+#: 00504:113
+
+msgid "{Kazushi}\n\"Is my face funny?\""
+msgstr ""
+
+#: 00504:115
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 00504:116
+
+msgid "She gave me a big nod. That was easy to understand."
+msgstr ""
+
+#: 00504:117
+
+msgid "{Kazushi}\n\"I see. I have a funny face. Is that why you keep looking at me?\""
+msgstr ""
+
+#: 00504:118
+
+msgid "{Natsume}\n\"............\""
+msgstr ""
+
+#: 00504:119
+
+msgid "{Kazushi}\n\"I see. It's that funny looking.\""
+msgstr ""
+
+#: 00504:120
+
+msgid "{Natsume}\n\"............\""
+msgstr ""
+
+#: 00504:121
+
+msgid "She gave me a few nods this time."
+msgstr ""
+
+#: 00504:122
+
+msgid "{Kazushi}\n\"Thanks......\""
+msgstr ""
+
+#: 00504:123
+
+msgid "{Natsume}\n\"???\""
+msgstr ""
+
+#: 00504:125
+
+msgid "Well, at least my face is funny instead of being scary or creepy. It was still a shock, though. Now both my stomach and my heart were empty."
+msgstr ""
+
+#: 00504:126
+
+msgid "*Poke poke.*"
+msgstr ""
+
+#: 00504:129
+
+msgid "I looked up as she poked me. I found her peering down at me."
+msgstr ""
+
+#: 00504:130
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 00504:131
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 00504:132
+
+msgid "She tore her bread in half and offered me one of the pieces."
+msgstr ""
+
+#: 00504:133
+
+msgid "{Kazushi}\n\"Huh? For me? You're giving it to me?\""
+msgstr ""
+
+#: 00504:136
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 00504:137
+
+msgid "It seems so."
+msgstr ""
+
+#: 00504:138
+
+msgid "{Kazushi}\n\"Are you sure I can have this?\""
+msgstr ""
+
+#: 00504:141
+
+msgid "{Natsume}\n\"............\""
+msgstr ""
+
+#: 00504:142
+
+msgid "It seems I could. As I hesitated to take it, she pushed one half against me."
+msgstr ""
+
+#: 00504:143
+
+msgid "{Kazushi}\n\"Hey, this is the side you were eating, Natsume-chan. It's damp.\""
+msgstr ""
+
+#: 00504:146
+
+msgid "{Natsume}\n\"So what?\""
+msgstr ""
+
+#: 00504:147
+
+msgid "That's true. Although it was an accident, we'd already kissed. What did eating her bread matter now?"
+msgstr ""
+
+#: 00504:148
+
+msgid "{Natsume}\n\"Don't worry. I don't have any strange cooties.\""
+msgstr ""
+
+#: 00504:149
+
+msgid "{Kazushi}\n\"I'm not worried about that. I don't care if you don't mind.\""
+msgstr ""
+
+#: 00504:152
+
+msgid "{Natsume}\n\"It's better than letting you kiss me.\""
+msgstr ""
+
+#: 00504:153
+
+msgid "{Kazushi}\n\"I said I'm sorry. I didn't know you such a persistent girl.\""
+msgstr ""
+
+#: 00504:156
+
+msgid "{Natsume}\n\"Turning defiant?\""
+msgstr ""
+
+#: 00504:157
+
+msgid "{Kazushi}\n\"No, I'm not trying to be. Alright, I appreciate your offer.\""
+msgstr ""
+
+#: 00504:160
+
+msgid "{Natsume}\n\"............\""
+msgstr ""
+
+#: 00504:161
+
+msgid "It's hard to eat when she's staring at me. Not to mention, the bread's damp from her mouth."
+msgstr ""
+
+#: 00504:164
+
+msgid "{Natsume}\n\"......\""
+msgstr ""
+
+#: 00504:165
+
+msgid "{Kazushi}\n\"I'll eat it, OK?\""
+msgstr ""
+
+#: 00504:166
+
+msgid "Urged on by her eyes, I took a big bite out of the bread. I felt the dampness left by her lips spread inside my mouth."
+msgstr ""
+
+#: 00504:167
+
+msgid "It was kind of sweet."
+msgstr ""
+
+#: 00504:170
+
+msgid "{Natsume}\n\"Did you eat it?\""
+msgstr ""
+
+#: 00504:171
+
+msgid "{Kazushi}\n\"Yes......\""
+msgstr ""
+
+#: 00504:174
+
+msgid "{Natsume}\n\"Good.\""
+msgstr ""
+
+#: 00504:176
+
+msgid "Satisfied with that, she bit back into her own half of the bread. Meanwhile, I swallowed the rest of mine down."
+msgstr ""
+
+#: 00504:177
+
+msgid "{Kazushi}\n\"Thanks. That was delicious.\""
+msgstr ""
+
+#: 00504:180
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 00504:181
+
+msgid "Natsume-chan was still nibbling away at her bread. Her expression hadn't changed at all."
+msgstr ""
+
+#: 00504:182
+
+msgid "{Kazushi}\n\"Thanks.\""
+msgstr ""
+
+#: 00504:185
+
+msgid "{Natsume}\n\"No worries.\""
+msgstr ""
+
+#: 00504:186
+
+msgid "She was cold and curt, but she was kind so there had to be more to her than just that. It was hard to tell what she was like."
+msgstr ""
+
+#: 00504:187
+
+msgid "{Kazushi}\n\"Do you always eat by yourself? What about your friends?\""
+msgstr ""
+
+#: 00504:190
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 00504:191
+
+msgid "{Kazushi}\n\"You always eat alone? If you'd like, why don't we eat together next time?\""
+msgstr ""
+
+#: 00504:192
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 00504:193
+
+msgid "No response."
+msgstr ""
+
+#: 00504:194
+
+msgid "{Kazushi}\n\"Will you talk to me?\""
+msgstr ""
+
+#: 00504:197
+
+msgid "{Natsume}\n\"I won't.\""
+msgstr ""
+
+#: 00504:198
+
+msgid "{Kazushi}\n\"All right.\""
+msgstr ""
+
+#: 00504:200
+
+msgid "I lied down on the grass again. The grass felt relaxing against my back."
+msgstr ""
+
+#: 00504:201
+
+msgid "It was soft, and just warm enough to make me forget my hunger and feel sleepy."
+msgstr ""
+
+#: 00504:202
+
+msgid "{Kazushi}\n\"Yawwwwwn...\""
+msgstr ""
+
+#: 00504:205
+
+msgid "{Natsume}\n\"Oh, taking a nap?\""
+msgstr ""
+
+#: 00504:206
+
+msgid "I sensed a hint of disappointment in her tone."
+msgstr ""
+
+#: 00504:207
+
+msgid "{Kazushi}\n\"You said you wouldn't talk to me, right?\""
+msgstr ""
+
+#: 00504:210
+
+msgid "{Natsume}\n\"No, I won't.\""
+msgstr ""
+
+#: 00504:211
+
+msgid "Haha, we're already talking, but she doesn't realize it."
+msgstr ""
+
+#: 00504:212
+
+msgid "{Kazushi}\n\"I'm not going to sleep. I'm just lying down.\""
+msgstr ""
+
+#: 00504:215
+
+msgid "{Natsume}\n\"Liar. You'll definitely fall asleep. Don't sleep, Haruma.\""
+msgstr ""
+
+#: 00504:216
+
+msgid "{Kazushi}\n\"I won't sleep. Don't worry... *Yaaaawwn*\""
+msgstr ""
+
+#: 00504:217
+
+msgid "{Natsume}\n\"I knew it. I'm disappointed. Disappointed in you, Haruma.\""
+msgstr ""
+
+#: 00504:218
+
+msgid "{Kazushi}\n\"I told you I won't fall asleep......\""
+msgstr ""
+
+#: 00504:219
+
+msgid "Actually I'm already about to fall asleep."
+msgstr ""
+
+#: 00504:220
+
+msgid "My eyelids grew so heavy they fell shut."
+msgstr ""
+
+#: 00504:222
+
+msgid "{Natsume}\n\"See, you're falling asleep.\""
+msgstr ""
+
+#: 00504:223
+
+msgid "I thought I heard Natsume-chan sounding irritated."
+msgstr ""
+
+#: 00504:224
+
+msgid "{Kazushi}\n\"Just a few minutes. Just for a few minutes, so...\""
+msgstr ""
+
+#: 00504:225
+
+msgid "I tried to say that, but I was mumbling."
+msgstr ""
+
+#: 00504:226
+
+msgid "{Kazushi}\n\"......?\""
+msgstr ""
+
+#: 00504:233
+
+msgid "I was woken up by the afternoon class bell."
+msgstr ""
+
+#: 00504:234
+
+msgid "{Kazushi}\n\"I slept through my first lunch break.\""
+msgstr ""
+
+#: 00504:236
+
+msgid "Whether there were pretty girls around me or not, the way I spent my lunch break was the same no matter what."
+msgstr ""
+
+#: 00504:237
+
+msgid "{Kazushi}\n\"Well, we have a lunch break every day. I'll just have to do better next time.\""
+msgstr ""
+
+#: 00504:238
+
+msgid "I should head back to the classroom before the next class starts. If I keep being late, the girls will have an even worse impression of me."
+msgstr ""
+
+#: 00504:239
+
+msgid "{Kazushi}\n\"My next class... is with Yagami-sensei.\""
+msgstr ""
+
+#: 00504:240
+
+msgid "I shuddered as I recalled that punch we took on our first day here and hurried off to the classroom."
+msgstr ""
+

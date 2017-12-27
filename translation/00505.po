@@ -1,0 +1,763 @@
+# Comments for '00505'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 00505:11
+
+msgid "Mei-sensei is our teacher. I don't like being in debt to people, but it's not a problem if I just pay her back."
+msgstr ""
+
+#: 00505:12
+
+msgid "{Kazushi}\n\"Then I guess I'll borrow some money. Are you sure it's alright?\""
+msgstr ""
+
+#: 00505:16
+
+msgid "{Mei}\n\"Yes, of course.\""
+msgstr ""
+
+#: 00505:17
+
+msgid "With a kind smile, sensei pulled a bill out of her wallet and handed it to me. My eyes nearly popped out when I saw it."
+msgstr ""
+
+#: 00505:18
+
+msgid "{Kazushi}\n\"Mei-sensei, this is 10,000 yen!\""
+msgstr ""
+
+#: 00505:21
+
+msgid "{Mei}\n\"That should be enough, right?\""
+msgstr ""
+
+#: 00505:22
+
+msgid "{Kazushi}\n\"Enough? You're kidding, right? I can't borrow this much...\""
+msgstr ""
+
+#: 00505:23
+
+msgid "I'm not used to carrying around so much money in my wallet."
+msgstr ""
+
+#: 00505:26
+
+msgid "{Mei}\n\"Oh? Won't you be in trouble without it? Today isn't the only day you're eating lunch. You have the whole month to go.\""
+msgstr ""
+
+#: 00505:27
+
+msgid "{Kazushi}\n\"That's true......\""
+msgstr ""
+
+#: 00505:28
+
+msgid "She's right. I need money for lunch every day."
+msgstr ""
+
+#: 00505:29
+
+msgid "{Kazushi}\n\"But I feel bad for taking this much. I was only going to ask to borrow around 1,000 yen.\""
+msgstr ""
+
+#: 00505:32
+
+msgid "{Mei}\n\"Then just pay me back later. Oh, don't worry, I won't charge interest. I won't suddenly demand to have it back either.\""
+msgstr ""
+
+#: 00505:33
+
+msgid "{Kazushi}\n\"Thanks, but...\nAre you really sure?\""
+msgstr ""
+
+#: 00505:36
+
+msgid "{Mei}\n\"Of course I'm sure.\nBesides, there's really not much to spend money on when you live on this island.\""
+msgstr ""
+
+#: 00505:37
+
+msgid "Sensei's an attractive young woman, but she's so unselfish. She's so beautiful, but isn't she interested in buying new clothes and dressing to impress?"
+msgstr ""
+
+#: 00505:38
+
+msgid "I didn't press the issue, though, because I really needed the money."
+msgstr ""
+
+#: 00505:39
+
+msgid "{Kazushi}\n\"Thank you, Mei-sensei. I'll make sure to pay you back when my allowance comes in next month.\""
+msgstr ""
+
+#: 00505:42
+
+msgid "{Mei}\n\"No problem.\""
+msgstr ""
+
+#: 00505:43
+
+msgid "And so 10,000 yen fell into my hands. Wow, it's actually a lot of pressure to borrow so much money."
+msgstr ""
+
+#: 00505:47
+
+msgid "{Appo}\n\"Kazushi!\nYou shouldn't need to borrow money from a woman. Act like a man!\""
+msgstr ""
+
+#: 00505:48
+
+msgid "{Kazushi}\n\"Shut up! I'm well aware of that!\""
+msgstr ""
+
+#: 00505:53
+
+msgid "{Pierre}\n\"But if you think about it, Kazushi's come up with a good strategy. It may be due to money, but now he has a special bond with sensei.\""
+msgstr ""
+
+#: 00505:56
+
+msgid "{Appo}\n\"Do what?!\""
+msgstr ""
+
+#: 00505:63
+
+msgid "{Daigo}\n\"He's right. Until he returns the money, they're more than just a teacher and her student.\""
+msgstr ""
+
+#: 00505:64
+
+msgid "{Kazushi}\n\"Y-you guys make it sound kind of dirty.\""
+msgstr ""
+
+#: 00505:65
+
+msgid "{Appo}\n\"Kazushi....\nYou were planning this all along, weren't you?\""
+msgstr ""
+
+#: 00505:66
+
+msgid "{Kazushi}\n\"O-of course not!\""
+msgstr ""
+
+#: 00505:69
+
+msgid "{Pierre}\n\"Let's do the same thing!\""
+msgstr ""
+
+#: 00505:72
+
+msgid "{Appo}\n\"I want a special bond with Mei, too!\""
+msgstr ""
+
+#: 00505:73
+
+msgid "Appo and Pierre started taking the money from their wallets and...."
+msgstr ""
+
+#: 00505:79
+
+msgid "{Kazushi}\n\"What are you guys--?\""
+msgstr ""
+
+#: 00505:81
+
+msgid "Appo started tearing up his notes."
+msgstr ""
+
+#: 00505:85
+
+msgid "{Pierre}\n*Crunch, crunch, gulp!*"
+msgstr ""
+
+#: 00505:86
+
+msgid "Pierre swallowed down his money. I couldn't believe it. They were crazy..."
+msgstr ""
+
+#: 00505:87
+
+msgid "{Kazushi}\n\"What are you guys doing?\""
+msgstr ""
+
+#: 00505:91
+
+msgid "{Appo}\n\"I don't have any money, either!\""
+msgstr ""
+
+#: 00505:96
+
+msgid "{Pierre}\n\"Me neither!\nPlease lend us some money!\""
+msgstr ""
+
+#: 00505:97
+
+msgid "{Kazushi}\n\"Idiots.\""
+msgstr ""
+
+#: 00505:98
+
+msgid "Everyone was watching them with a gaze of hopelessness except for Mei-sensei. She was looking at them like a strict disciplinarian."
+msgstr ""
+
+#: 00505:103
+
+msgid "{Mei}\n\"You should never treat money like that.\nI don't lend money to those who don't appreciate its value.\""
+msgstr ""
+
+#: 00505:110
+
+msgid "{Appo}\n\"No......\""
+msgstr ""
+
+#: 00505:117
+
+msgid "{Daigo}\n\"Of course she wouldn't. Use your head.\""
+msgstr ""
+
+#: 00505:120
+
+msgid "{Pierre}\n\"Hurk high, come back, money!\""
+msgstr ""
+
+#: 00505:123
+
+msgid "{Appo}\n\"If I tape it back together I can still use it, right?\""
+msgstr ""
+
+#: 00505:124
+
+msgid "Appo was crawling on the floor and Pierre was shoving his fingers down his throat."
+msgstr ""
+
+#: 00505:125
+
+msgid "There are times in my life when I stop and think. Every time I do, I wonder if I should have done a better job of choosing my friends."
+msgstr ""
+
+#: 00505:126
+
+msgid "Anyways, I need to eat."
+msgstr ""
+
+#: 00505:130
+
+msgid "{Kazushi}\n\"Thanks again. I'll make sure to be careful with this.\""
+msgstr ""
+
+#: 00505:133
+
+msgid "{Mei}\n\"Wait. I'll go with you.\""
+msgstr ""
+
+#: 00505:134
+
+msgid "Mei-sensei followed me to the cafeteria."
+msgstr ""
+
+#: 00505:135
+
+msgid "{Kazushi}\n\"I thought you already finished your lunch.\""
+msgstr ""
+
+#: 00505:136
+
+msgid "I remembered that I saw her eating earlier."
+msgstr ""
+
+#: 00505:137
+
+msgid "{Kazushi}\n\"Oh, you must be going for dessert! Am I right?\""
+msgstr ""
+
+#: 00505:138
+
+msgid "I'd heard that every girls' school had a good dessert menu."
+msgstr ""
+
+#: 00505:141
+
+msgid "{Mei}\n\"No, I'll be getting dessert later. What meal should I eat next?\""
+msgstr ""
+
+#: 00505:142
+
+msgid "She started looking over the menu again. She was looking at the lunch menu, not the desert menu, fully intending to eat another lunch."
+msgstr ""
+
+#: 00505:143
+
+msgid "{Kazushi}\n\"Are you really eating a second lunch?\""
+msgstr ""
+
+#: 00505:146
+
+msgid "{Mei}\n\"What? I'm human too. I get hungry just like you guys.\""
+msgstr ""
+
+#: 00505:147
+
+msgid "{Kazushi}\n\"It's just odd seeing as how you just ate.\""
+msgstr ""
+
+#: 00505:150
+
+msgid "{Mei}\n\"True, but I'm still hungry. If you don't eat until you're full, what's the point?\""
+msgstr ""
+
+#: 00505:151
+
+msgid "{Kazushi}\n\"No point? But they say you should only eat until you're 80% full?\""
+msgstr ""
+
+#: 00505:154
+
+msgid "{Mei}\n\"And right now, I'm about 30%.\""
+msgstr ""
+
+#: 00505:155
+
+msgid "{Kazushi}\n\"30%......\""
+msgstr ""
+
+#: 00505:156
+
+msgid "But sensei just ate a donburi, right? I'm pretty sure it was a fair-sized one. Greasy food like that should hold you for a while."
+msgstr ""
+
+#: 00505:157
+
+msgid "But that's only 30% for her?"
+msgstr ""
+
+#: 00505:160
+
+msgid "{Mei}\n\"Next I'll have... Yeah, I'll have another Meidon. One more Meidon, please!\""
+msgstr ""
+
+#: 00505:161
+
+msgid "{Cafeteria Lady}\n\"All right. You sure eat a lot, Mei-chan.\""
+msgstr ""
+
+#: 00505:162
+
+msgid "They were already in on the fact that Mei-sensei is a big eater."
+msgstr ""
+
+#: 00505:163
+
+msgid "{Mei}\n\"You make it sound like I'm a glutton.\""
+msgstr ""
+
+#: 00505:164
+
+msgid "She doesn't realize that she is for a woman."
+msgstr ""
+
+#: 00505:165
+
+msgid "{Kazushi}\n\"What's in a Meidon anyways?\""
+msgstr ""
+
+#: 00505:168
+
+msgid "{Mei}\n\"Oh, Haruma-kun, you don't know about the Meidon?\""
+msgstr ""
+
+#: 00505:169
+
+msgid "Mei-sensei looked surprised. I guess it's famous around here?"
+msgstr ""
+
+#: 00505:170
+
+msgid "{Kazushi}\n\"It's my first day eating here. The Mei in Meidon comes from your name, right sensei?\""
+msgstr ""
+
+#: 00505:173
+
+msgid "{Cafeteria Lady}\n\"Mei-chan came up with it herself. It's the daily special turned into a hearty donburi with a heaping portion size.\""
+msgstr ""
+
+#: 00505:174
+
+msgid "{Kazushi}\n\"That doesn't sound very ladylike.\""
+msgstr ""
+
+#: 00505:177
+
+msgid "{Mei}\n\"Hey, that's rude. I'm very careful to maintain my proportions.\""
+msgstr ""
+
+#: 00505:178
+
+msgid "True, she's not fat at all. In fact, she has perfect style, just like a model."
+msgstr ""
+
+#: 00505:179
+
+msgid "{Cafeteria Lady}\n\"Here you go, one order of Meidon.\""
+msgstr ""
+
+#: 00505:181
+
+msgid "It was huge. It was packed so full that there were pieces of meat and vegetables about to fall over the side."
+msgstr ""
+
+#: 00505:182
+
+msgid "{Kazushi}\n\"Can you actually finish that?\""
+msgstr ""
+
+#: 00505:185
+
+msgid "{Mei}\n\"Of course.\nYou should get this too. Just pay an extra 50 yen and she'll give you the same amount as me.\""
+msgstr ""
+
+#: 00505:186
+
+msgid "I wonder where she's got room to store all this food in that thin sexy body of hers."
+msgstr ""
+
+#: 00505:187
+
+msgid "{Kazushi}\n\"I'll have the same, please.\""
+msgstr ""
+
+#: 00505:188
+
+msgid "I'll think later, right now I'm starving."
+msgstr ""
+
+#: 00505:193
+
+msgid "{Mei}\n\"Today's Meidon has great spices! It's delicious!\""
+msgstr ""
+
+#: 00505:194
+
+msgid "Mei-sensei devoured her Meidon, leveling the mountain of food. It didn't seem like she was rushing, but the mountain was steadily disappearing."
+msgstr ""
+
+#: 00505:195
+
+msgid "It was like watching an eating contest in full frenzy."
+msgstr ""
+
+#: 00505:196
+
+msgid "{Appo}\n\"You sure eat a lot, Mei-chan.\""
+msgstr ""
+
+#: 00505:197
+
+msgid "{Pierre}\n\"Where does all that food go in your tiny body?\""
+msgstr ""
+
+#: 00505:198
+
+msgid "They were in awe of her appetite."
+msgstr ""
+
+#: 00505:199
+
+msgid "{Daigo}\n\"............beautiful.\""
+msgstr ""
+
+#: 00505:200
+
+msgid "One guy even thought it was beautiful that she eats a lot."
+msgstr ""
+
+#: 00505:201
+
+msgid "{Mei}\n\"There's not much fun to do on this lonely island besides eating.\""
+msgstr ""
+
+#: 00505:202
+
+msgid "{Rin}\n\"That's true, but...the way she eats that much and doesn't get fat isn't fair.\""
+msgstr ""
+
+#: 00505:203
+
+msgid "{Sakura}\n\"Rin watches her diet like a supermodel. That's why she has such a great body, guys.\""
+msgstr ""
+
+#: 00505:204
+
+msgid "{Rin}\n\"Stop it, Sakura!\""
+msgstr ""
+
+#: 00505:205
+
+msgid "{Sakura}\n\"Mei-sensei, you have to tell us your secret to staying in shape.\""
+msgstr ""
+
+#: 00505:206
+
+msgid "{Rin}\n\"Please......\""
+msgstr ""
+
+#: 00505:207
+
+msgid "Both girls leaned forward to listen. They were serious. Girls sure do love to talk about that."
+msgstr ""
+
+#: 00505:208
+
+msgid "{Mei}\n\"My secret... I guess it's that you need to make sure you exercise.\""
+msgstr ""
+
+#: 00505:209
+
+msgid "She gave them a simple answer."
+msgstr ""
+
+#: 00505:210
+
+msgid "{Mei}\n\"It's obvious that you'll get fat if you don't burn off all the calories you take in.\""
+msgstr ""
+
+#: 00505:211
+
+msgid "{Sakura}\n\"Mei-chan, do you actually exercise?\""
+msgstr ""
+
+#: 00505:212
+
+msgid "{Mei}\n\"Believe it or not, I'm very busy with teaching. It's manual labor.\""
+msgstr ""
+
+#: 00505:213
+
+msgid "{Pierre}\n\"So you don't need to go to the gym or anything...\""
+msgstr ""
+
+#: 00505:214
+
+msgid "{Rin}\n\"See? It's not fair!\nI gain weight really easily...\""
+msgstr ""
+
+#: 00505:215
+
+msgid "Rin pinched her belly to show how much fat she had."
+msgstr ""
+
+#: 00505:216
+
+msgid "{Sakura}\n\"Rin's good at eating as well as cooking.\""
+msgstr ""
+
+#: 00505:217
+
+msgid "{Rin}\n\"I'm not proud of the eating part, though.\""
+msgstr ""
+
+#: 00505:218
+
+msgid "{Mei}\n\"You're still young so that much is fine. You all eat so little. You should eat more while you're young.\""
+msgstr ""
+
+#: 00505:220
+
+msgid "She kept packing it away as she spoke. She really does eat a lot."
+msgstr ""
+
+#: 00505:221
+
+msgid "{Kazushi}\n\"How about you, Mei-sensei? How much did you eat when you were young?\""
+msgstr ""
+
+#: 00505:222
+
+msgid "Since she says it's better to eat more while we're young, I wonder how much she used to eat."
+msgstr ""
+
+#: 00505:223
+
+msgid "{Mei}\n\"Hey.\""
+msgstr ""
+
+#: 00505:224
+
+msgid "Sensei gave me a sharp glance. I felt a sudden chill."
+msgstr ""
+
+#: 00505:225
+
+msgid "{Pierre}\n\"Kazushi, you idiot.\""
+msgstr ""
+
+#: 00505:226
+
+msgid "{Kazushi}\n\"Did I say something wrong?\""
+msgstr ""
+
+#: 00505:227
+
+msgid "{Mei}\n\"Who knows? But the way you said that makes it sound like I'm not young anymore?\""
+msgstr ""
+
+#: 00505:228
+
+msgid "{Kazushi}\n\"......I absolutely didn't mean that......\""
+msgstr ""
+
+#: 00505:229
+
+msgid "{Pierre}\n\"Kazushi, you never talk about age with women.\""
+msgstr ""
+
+#: 00505:230
+
+msgid "{Appo}\n\"Especially with a woman at that borderline age like Mei-chan.\""
+msgstr ""
+
+#: 00505:231
+
+msgid "{Mei}\n\"Oh? What do you mean by borderline?\""
+msgstr ""
+
+#: 00505:232
+
+msgid "{Appo}\n\"Oops. I said that out loud.\""
+msgstr ""
+
+#: 00505:233
+
+msgid "{Mei}\n\"All you boys need to learn some manners.\nI'm still young, and I can eat whatever and however much I want.\""
+msgstr ""
+
+#: 00505:234
+
+msgid "{Mei}\n\"When I was younger, I ate when I was hungry and got sleepy. I felt sleepy every day, so I slept a lot and don't remember much of my younger days.\""
+msgstr ""
+
+#: 00505:235
+
+msgid "{Sakura}\n\"Ahaha, you're kidding us, right?\""
+msgstr ""
+
+#: 00505:236
+
+msgid "{Mei}\n\"I'm serious. You all should be sure to treasure each day. Now, time for another one.\""
+msgstr ""
+
+#: 00505:237
+
+msgid "{Appo}\n\"You're still hungry!?\""
+msgstr ""
+
+#: 00505:239
+
+msgid "{Mei}\n\"It's so delicious.\""
+msgstr ""
+
+#: 00505:240
+
+msgid "This is her...\nHow many bowls had it been? They were piled up so high..."
+msgstr ""
+
+#: 00505:241
+
+msgid "{Pierre}\n\"Hold on, this is just way too much. Does she eat this much every day?\""
+msgstr ""
+
+#: 00505:242
+
+msgid "{Sakura}\n\"Yes, Mei-chan always does. I can't help but watch her eat.\""
+msgstr ""
+
+#: 00505:243
+
+msgid "{Kazushi}\n\"You're right. It's hard to take your eyes off of it.\""
+msgstr ""
+
+#: 00505:244
+
+msgid "Just looking at those piles made me nervous. I was getting full just by watching her."
+msgstr ""
+
+#: 00505:245
+
+msgid "{Daigo}\n\"Beautiful......\""
+msgstr ""
+
+#: 00505:246
+
+msgid "One guy even found it beautiful."
+msgstr ""
+
+#: 00505:247
+
+msgid "{Rin}\n\"Honestly, where does all that food go?\""
+msgstr ""
+
+#: 00505:248
+
+msgid "{Appo}\n\"I know, Mei-chan doesn't shit either.\""
+msgstr ""
+
+#: 00505:249
+
+msgid "{Rin}\n\"S-stop it, don't talk about that during lunch.\""
+msgstr ""
+
+#: 00505:250
+
+msgid "{Mei}\n\"Chomp chomp chomp... Hah, now I'm stuffed.\""
+msgstr ""
+
+#: 00505:251
+
+msgid "Sensei finally set her chopsticks down and thanked the ladies for her lunch. Her long meal was finally at an end."
+msgstr ""
+
+#: 00505:255
+
+msgid "{Mei}\n\"I'm full. I'm going back to my room to get some rest.\""
+msgstr ""
+
+#: 00505:256
+
+msgid "{Kazushi}\n\"......are you going to take a nap?\""
+msgstr ""
+
+#: 00505:260
+
+msgid "{Sakura}\n\"Mei-chan does this every day. She has lunch and a nap as a set.\""
+msgstr ""
+
+#: 00505:265
+
+msgid "{Pierre}\n\"She's not burning any calories like how she said earlier.\""
+msgstr ""
+
+#: 00505:272
+
+msgid "{Rin}\n\"She must get really poor calorie mileage.\""
+msgstr ""
+
+#: 00505:278
+
+msgid "{Mei}\n\"I'm so satisfied. I think I'm going to have a good dream.\""
+msgstr ""
+
+#: 00505:279
+
+msgid "I can't believe she maintains her tight figure with that much food. Mei-sensei is full of mysteries."
+msgstr ""
+

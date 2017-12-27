@@ -1,0 +1,1993 @@
+# Comments for '20432'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 20432:7
+
+msgid "{Natsume}\n\"That's why you cannot come in.\""
+msgstr ""
+
+#: 20432:10
+
+msgid "{Principal}\n\"Heh. Fine. Let's see how long all of you can last in there.\""
+msgstr ""
+
+#: 20432:15
+
+msgid "Night fell as we remained barricaded in."
+msgstr ""
+
+#: 20432:18
+
+msgid "{Appo}\n\"I'm so hungry.\""
+msgstr ""
+
+#: 20432:23
+
+msgid "{Daigo}\n\"After all that, we couldn't find anything in here. Are you sure it's here?\""
+msgstr ""
+
+#: 20432:27
+
+msgid "{Ran}\n\"There's so much stuff it's hard to tell, plus there's tons of empty rooms...\""
+msgstr ""
+
+#: 20432:31
+
+msgid "{Haruka}\n\"Sorry, everyone. I've only got a few clues.\""
+msgstr ""
+
+#: 20432:32
+
+msgid "{Kazushi}\n\"Hey, this is just the first day. We've seized the building, so we can take our time.\""
+msgstr ""
+
+#: 20432:36
+
+msgid "{Pierre}\n\"For now, dinner!\""
+msgstr ""
+
+#: 20432:41
+
+msgid "{Rin}\n\"Here we are!\""
+msgstr ""
+
+#: 20432:42
+
+msgid "Just at that moment, Fujisaki-san brought in our meals."
+msgstr ""
+
+#: 20432:45
+
+msgid "{Rin}\n\"I only made onigiri tonight because I didn't have much time.\""
+msgstr ""
+
+#: 20432:46
+
+msgid "She said it apologetically."
+msgstr ""
+
+#: 20432:47
+
+msgid "{Kazushi}\n\"This is great. Thank you.\""
+msgstr ""
+
+#: 20432:50
+
+msgid "{Rin}\n\"Okay. From the right, you've got salmon, plum, kelp, seaweed, and tuna...and we also have miso soup.\""
+msgstr ""
+
+#: 20432:55
+
+msgid "{Ran}\n\"I'll have tuna!\""
+msgstr ""
+
+#: 20432:59
+
+msgid "{Daigo}\n\"I'll have salmon, plum, kelp, seaweed, and tuna.\""
+msgstr ""
+
+#: 20432:63
+
+msgid "{Pierre}\n\"That's everything, man! Why didn't you just say \"everything\"? And dude, don't eat everything!\""
+msgstr ""
+
+#: 20432:66
+
+msgid "{Daigo}\n\"I didn't say everything because I knew you'd say that.\""
+msgstr ""
+
+#: 20432:71
+
+msgid "{Rin}\n\"There's a lot, so don't worry. Take a couple more, Daigo.\""
+msgstr ""
+
+#: 20432:76
+
+msgid "{Appo}\n\"Rin-chan really is everyone's #1 bride.\""
+msgstr ""
+
+#: 20432:79
+
+msgid "{Rin}\n\"Bride? Is that the character I'm labeled as?\""
+msgstr ""
+
+#: 20432:80
+
+msgid "Fujisaki-san looked flattered."
+msgstr ""
+
+#: 20432:84
+
+msgid "{Sakura}\n\"And every night she's some guy's comfort woman, right?\""
+msgstr ""
+
+#: 20432:87
+
+msgid "{Rin}\n\"What?\""
+msgstr ""
+
+#: 20432:88
+
+msgid "And then Sakura had to go and ruin Rin's blissful moment."
+msgstr ""
+
+#: 20432:92
+
+msgid "{Ran}\n\"Oh, go through me first, okay? You're not allowed to touch the stripper without permission.\""
+msgstr ""
+
+#: 20432:93
+
+msgid "{Rin}\n\"Stripper? I'm not a bride... huh?\""
+msgstr ""
+
+#: 20432:100
+
+msgid "It felt like a regular, peaceful meal in the cafeteria. Mizuki looked happy as she watched us."
+msgstr ""
+
+#: 20432:105
+
+msgid "{Mizuki}\n\"How long are we gonna barricade ourselves in here?\""
+msgstr ""
+
+#: 20432:106
+
+msgid "{Kazushi}\n\"Until we find the stone, of course. Or until the principal gives up and helps us out.\""
+msgstr ""
+
+#: 20432:107
+
+msgid "{Mizuki}\n\"But I'm not sure if the principal will keep quiet.\""
+msgstr ""
+
+#: 20432:108
+
+msgid "{Kazushi}\n\"I just hope she doesn't try anything behind our backs...\""
+msgstr ""
+
+#: 20432:109
+
+msgid "Something may happen at night. We can't relax too much."
+msgstr ""
+
+#: 20432:114
+
+msgid "{Kazushi}\n\"Morning, huh?\""
+msgstr ""
+
+#: 20432:115
+
+msgid "The next day came uneventfully."
+msgstr ""
+
+#: 20432:116
+
+msgid "{Kazushi}\n\"She didn't do anything, huh?\""
+msgstr ""
+
+#: 20432:117
+
+msgid "It was a surprise. I thought she might take some action during the night."
+msgstr ""
+
+#: 20432:118
+
+msgid "{Kazushi}\n\"Quite disappointing...\""
+msgstr ""
+
+#: 20432:123
+
+msgid "{Kazushi}\n\"Uwah?!\""
+msgstr ""
+
+#: 20432:124
+
+msgid "It happened right as I dropped my guard."
+msgstr ""
+
+#: 20432:125
+
+msgid "{Kazushi}\n\"Wh-when did she?!\""
+msgstr ""
+
+#: 20432:126
+
+msgid "How did she get in here? The door was locked from the inside."
+msgstr ""
+
+#: 20432:131
+
+msgid "{Kazushi}\n\"Natsume-chan?\""
+msgstr ""
+
+#: 20432:132
+
+msgid "Again, Natsume-chan stood in the principal's way."
+msgstr ""
+
+#: 20432:133
+
+msgid "{Kazushi}\n\"Natsume-chan, look out!!\""
+msgstr ""
+
+#: 20432:134
+
+msgid "{Natsume}\n\"You're an eyesore.\""
+msgstr ""
+
+#: 20432:135
+
+msgid "Speaking in a hushed tone, Natsume-chan bit her finger until it started to bleed."
+msgstr ""
+
+#: 20432:137
+
+msgid "Fww!"
+msgstr ""
+
+#: 20432:138
+
+msgid "Natsume-chan swung her arm and a few drops of her blood flew towards the principal."
+msgstr ""
+
+#: 20432:139
+
+msgid "{Principal}\n\"Heh.\""
+msgstr ""
+
+#: 20432:143
+
+msgid "{Kazushi}\n\"Huh... She disappeared.\""
+msgstr ""
+
+#: 20432:144
+
+msgid "The principal was just gone. No footsteps, no hairs, nothing."
+msgstr ""
+
+#: 20432:145
+
+msgid "{Kazushi}\n\"What that hell was that?\""
+msgstr ""
+
+#: 20432:148
+
+msgid "{Natsume}\n\"That was just an illusion. She can't really come in, so she's pestering us.\""
+msgstr ""
+
+#: 20432:149
+
+msgid "{Kazushi}\n\"An illusion?\""
+msgstr ""
+
+#: 20432:150
+
+msgid "What a clear illusion that was! Is that what alchemy does too?"
+msgstr ""
+
+#: 20432:151
+
+msgid "{Kazushi}\n\"Damn, she can do tricks like that? We really can't let ourselves be caught off guard.\""
+msgstr ""
+
+#: 20432:152
+
+msgid "We don't know what she's capable of doing."
+msgstr ""
+
+#: 20432:155
+
+msgid "{Natsume}\n\"No worries. I won't let Hisae in. Ao's here too.\""
+msgstr ""
+
+#: 20432:156
+
+msgid "{Kazushi}\n\"Ao...? Oh, Haruka. Yeah, Haruka's dependable.\""
+msgstr ""
+
+#: 20432:159
+
+msgid "{Natsume}\n\"Haruma, you keep looking for the stone. We'll take care of the complicated parts.\""
+msgstr ""
+
+#: 20432:160
+
+msgid "Natsume-chan looked very reliable."
+msgstr ""
+
+#: 20432:161
+
+msgid "{Kazushi}\n\"Thanks.\""
+msgstr ""
+
+#: 20432:162
+
+msgid "I naturally reached my hand out to her head."
+msgstr ""
+
+#: 20432:163
+
+msgid "{Kazushi}\n\"Someday I'll repay the favor. I'll help you whenever you're in trouble, Natsume-chan.\""
+msgstr ""
+
+#: 20432:166
+
+msgid "I patted her on the head and Natsume-chan shrugged her shoulders a bit."
+msgstr ""
+
+#: 20432:167
+
+msgid "{Natsume}\n\"Hold that promise until everything is done.\""
+msgstr ""
+
+#: 20432:168
+
+msgid "{Kazushi}\n\"Yeah, you're right.\""
+msgstr ""
+
+#: 20432:173
+
+msgid "Again, no major movements...and another night came."
+msgstr ""
+
+#: 20432:176
+
+msgid "{Rin}\n\"I made sukiyaki tonight.\""
+msgstr ""
+
+#: 20432:178
+
+msgid "The ingredients in the pot were simmering inside the furnace. The great smell traveled across the room, whetting everyone's appetite."
+msgstr ""
+
+#: 20432:182
+
+msgid "{Pierre}\n\"Is it me or are we eating better food than usual? Is this okay?\""
+msgstr ""
+
+#: 20432:187
+
+msgid "{Daigo}\n\"They say you can't fight on an empty stomach.\""
+msgstr ""
+
+#: 20432:192
+
+msgid "{Haruka}\n\"Who wants eggs?\""
+msgstr ""
+
+#: 20432:193
+
+msgid "{Kazushi}\n\"I do! Give me two! How about you, Mizuki?\""
+msgstr ""
+
+#: 20432:198
+
+msgid "{Mizuki}\n\"..................\""
+msgstr ""
+
+#: 20432:200
+
+msgid "Mizuki was spacing out."
+msgstr ""
+
+#: 20432:201
+
+msgid "{Kazushi}\n\"Mizuki? Are you okay? Do you want an egg?\""
+msgstr ""
+
+#: 20432:202
+
+msgid "Mizuki looked at me as I asked her again."
+msgstr ""
+
+#: 20432:205
+
+msgid "{Mizuki}\n\"Oh, I do, I do. Even Stallone drinks raw eggs.\""
+msgstr ""
+
+#: 20432:206
+
+msgid "{Kazushi}\n\"Don't drink it, put it on your meat. Here, have some meat.\""
+msgstr ""
+
+#: 20432:207
+
+msgid "I broke an egg over her bowl and poured it on her meat."
+msgstr ""
+
+#: 20432:210
+
+msgid "{Mizuki}\n\"Ahaha, that's a lot of meat. Thanks.\""
+msgstr ""
+
+#: 20432:212
+
+msgid "Mizuki grabbed part of the pile of meat and brought it up, but stopped halfway."
+msgstr ""
+
+#: 20432:213
+
+msgid "{Kazushi}\n\"What's wrong?\""
+msgstr ""
+
+#: 20432:216
+
+msgid "{Mizuki}\n\"Yeah...\""
+msgstr ""
+
+#: 20432:217
+
+msgid "Mizuki was behaving strangely. Everyone noticed something wrong with her."
+msgstr ""
+
+#: 20432:218
+
+msgid "{Kazushi}\n\"What's wrong, Mizuki? Not feeling well?\""
+msgstr ""
+
+#: 20432:221
+
+msgid "{Mizuki}\n\"Oh, sorry, it's not like that.\""
+msgstr ""
+
+#: 20432:222
+
+msgid "She smiled to try and keep us from worrying, but tears welled up in her eyes."
+msgstr ""
+
+#: 20432:223
+
+msgid "{Kazushi}\n\"Mizuki?\""
+msgstr ""
+
+#: 20432:228
+
+msgid "{Mizuki}\n\"This may sound a bit strange to you all, but I'm finding this fun.\""
+msgstr ""
+
+#: 20432:229
+
+msgid "{Kazushi}\n\"Fun?\""
+msgstr ""
+
+#: 20432:230
+
+msgid "It was the total opposite of what I was expecting her to say. Mizuki looked around with a beam of satisfaction."
+msgstr ""
+
+#: 20432:233
+
+msgid "{Mizuki}\n\"I am so grateful for what you guys are doing for me. This is just like camping. And if this could go on forever, I don't think I'd mind being this way.\""
+msgstr ""
+
+#: 20432:236
+
+msgid "Everyone stopped eating and looked at Mizuki."
+msgstr ""
+
+#: 20432:239
+
+msgid "{Ran}\n\"What're you talking about, Mizuki? We've come this far for you, so you are going to swim again.\""
+msgstr ""
+
+#: 20432:244
+
+msgid "{Fuusen}\n\"That's right. I want to swim with the dolphins too, so you have to teach me how. Okay?\""
+msgstr ""
+
+#: 20432:248
+
+msgid "{Haruka}\n\"Me too! Me too!\""
+msgstr ""
+
+#: 20432:251
+
+msgid "{Ran}\n\"That sounds like a good business. 'Mizuki's Swimming Class'. I can charge 10,000 yen per person for half a day with Mizuki and dolphins.\""
+msgstr ""
+
+#: 20432:252
+
+msgid "Ran sounded scary with how seriously she thought about that. She wasn't joking either, though it could be fun..."
+msgstr ""
+
+#: 20432:257
+
+msgid "{Rin}\n\"I'm having fun too. I'm not cooking for people I don't know. I'm cooking for friends whose likes I know, so I can put more effort in than usual.\""
+msgstr ""
+
+#: 20432:258
+
+msgid "Fujisaki-san really did resemble a newlywed. Even in this situation, we were all having a good time."
+msgstr ""
+
+#: 20432:262
+
+msgid "{Ran}\n\"Maybe I should put together a tour and rake in tourists? Eiden Island: Swim with a hot instructor and the dolphins. 4 days and 3 nights for 56,000 yen.\""
+msgstr ""
+
+#: 20432:267
+
+msgid "{Fuusen}\n\"That's enough, Ran.\""
+msgstr ""
+
+#: 20432:272
+
+msgid "{Sakura}\n\"We can all take a bath together again, and I can try and wash Mizuki's back, and then Mizuki'll run away, swimming through the bath.\""
+msgstr ""
+
+#: 20432:275
+
+msgid "{Mizuki}\n\"That's because you started feeling up my breasts, Sakura.\""
+msgstr ""
+
+#: 20432:279
+
+msgid "{Rin}\n\"I want to go to the beach with everyone again. Summer's already over this year, but how about next year?\""
+msgstr ""
+
+#: 20432:280
+
+msgid "{Kazushi}\n\"We'll have to cure her body first for that. Don't worry, you'll be fine. We're all here for you.\""
+msgstr ""
+
+#: 20432:281
+
+msgid "Everyone looked at Mizuki with a warm gaze, and her shoulders started to tremble."
+msgstr ""
+
+#: 20432:285
+
+msgid "{Mizuki}\n\"Yeah... thank you. I won't give up.\""
+msgstr ""
+
+#: 20432:286
+
+msgid "Something sparkled in Mizuki's eyes. It was a drop that glimmered like a diamond and trailed down her cheek."
+msgstr ""
+
+#: 20432:287
+
+msgid "{Mizuki}\n\"Ahaha... Oh, jeez...\""
+msgstr ""
+
+#: 20432:288
+
+msgid "With a grin of embarrassment, Mizuki wiped her tears with her hand."
+msgstr ""
+
+#: 20432:289
+
+msgid "{Kazushi}\n\"Hey.\""
+msgstr ""
+
+#: 20432:290
+
+msgid "I also wiped her tears away with my fingers."
+msgstr ""
+
+#: 20432:291
+
+msgid "{Kazushi}\n\"Don't cry. Eat your meat!\""
+msgstr ""
+
+#: 20432:294
+
+msgid "{Haruka}\n\"Right! Let's eat!\""
+msgstr ""
+
+#: 20432:299
+
+msgid "{Pierre}\n\"Alright! Let's eat too, guys!\""
+msgstr ""
+
+#: 20432:300
+
+msgid "We all began to enjoy your dinner."
+msgstr ""
+
+#: 20432:305
+
+msgid "{Kazushi}\n\"Mizuki, go ahead and eat and get better soon.\""
+msgstr ""
+
+#: 20432:306
+
+msgid "{Mizuki}\n\"Yes.\""
+msgstr ""
+
+#: 20432:311
+
+msgid "{Ran}\n\"Hmm?\""
+msgstr ""
+
+#: 20432:314
+
+msgid "Ran fell flat on her face."
+msgstr ""
+
+#: 20432:317
+
+msgid "{Kazushi}\n\"Hey! What happened!\""
+msgstr ""
+
+#: 20432:318
+
+msgid "{Appo}\n\"Ugh...\""
+msgstr ""
+
+#: 20432:320
+
+msgid "{Daigo}\n\"Ugh...\""
+msgstr ""
+
+#: 20432:322
+
+msgid "Appo and Daigo also fell on the floor. Then, everyone else eating began to collapse one after the other."
+msgstr ""
+
+#: 20432:323
+
+msgid "{Mizuki}\n\"H-huh? What happened to everyone?\""
+msgstr ""
+
+#: 20432:324
+
+msgid "{Kazushi}\n\"Poison?\""
+msgstr ""
+
+#: 20432:325
+
+msgid "I felt the blood draining from my face."
+msgstr ""
+
+#: 20432:326
+
+msgid "{Sakura}\n\"Zzz...zzz...\""
+msgstr ""
+
+#: 20432:327
+
+msgid "But everyone who fell down was snoring."
+msgstr ""
+
+#: 20432:328
+
+msgid "{Mizuki}\n\"They're just sleeping?\""
+msgstr ""
+
+#: 20432:331
+
+msgid "{Natsume}\n\"Sleeping pills...\""
+msgstr ""
+
+#: 20432:332
+
+msgid "{Kazushi}\n\"The principal - she must have done this. But how?\""
+msgstr ""
+
+#: 20432:333
+
+msgid "{Natsume}\n\"She spiked the water.\""
+msgstr ""
+
+#: 20432:334
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 20432:335
+
+msgid "We cooked using tap water. I guess she put the drugs in our water supply before we started cooking."
+msgstr ""
+
+#: 20432:344
+
+msgid "{Kazushi}\n\"Ugh...!?\""
+msgstr ""
+
+#: 20432:345
+
+msgid "Within a split second, I lost my sight amidst a dazzling light."
+msgstr ""
+
+#: 20432:346
+
+msgid "{Natsume}\n\"No, don't...\""
+msgstr ""
+
+#: 20432:348
+
+msgid "Natsume-chan cried out in panic and the wind blew a twister through the room!"
+msgstr ""
+
+#: 20432:351
+
+msgid "{Mizuki}\n\"Aahhh...!\""
+msgstr ""
+
+#: 20432:352
+
+msgid "There was an intense, miniature tornado in our room, throwing things through the air."
+msgstr ""
+
+#: 20432:353
+
+msgid "{Kazushi}\n\"What is this?\""
+msgstr ""
+
+#: 20432:360
+
+msgid "As the twister dwindled away, someone appeared from its core: The principal."
+msgstr ""
+
+#: 20432:361
+
+msgid "{Principal}\n\"I'm finally in.\""
+msgstr ""
+
+#: 20432:362
+
+msgid "{Kazushi}\n\"Principal!!\""
+msgstr ""
+
+#: 20432:363
+
+msgid "The principal slowly approached us with a twisted grin on her face. Though small in size, she seemed large and intimidating."
+msgstr ""
+
+#: 20432:366
+
+msgid "{Principal}\n\"Have you found the stone?\""
+msgstr ""
+
+#: 20432:367
+
+msgid "She asked us this sarcastically, knowing full well that we still didn't have it."
+msgstr ""
+
+#: 20432:372
+
+msgid "{Natsume}\n\"She always looks at us condescendingly. That's why I hate her.\""
+msgstr ""
+
+#: 20432:375
+
+msgid "{Principal}\n\"Play time is over. You children are no longer on summer break.\""
+msgstr ""
+
+#: 20432:376
+
+msgid "She slinked ever closer like a predator closing in on its prey."
+msgstr ""
+
+#: 20432:381
+
+msgid "{Kazushi}\n\"Damn...!\""
+msgstr ""
+
+#: 20432:382
+
+msgid "There's no way out! Should we just abandon the building? But if I do, then we won't be able to achieve anything."
+msgstr ""
+
+#: 20432:385
+
+msgid "{Principal}\n\"If you apologize nicely, I will forgive you. If you resist, then I will deal with you appropriately.\""
+msgstr ""
+
+#: 20432:386
+
+msgid "A fearsome light shone beneath her eyes. That unknown pressure nearly made my knees give in, but I wasn't about to kneel down now."
+msgstr ""
+
+#: 20432:387
+
+msgid "{Kazushi}\n\"Please! Principal! Help us!\""
+msgstr ""
+
+#: 20432:390
+
+msgid "I bowed my head. The principal looked stunned a bit."
+msgstr ""
+
+#: 20432:391
+
+msgid "{Principal}\n\"You're still spouting that nonsense? You brats have barricaded yourselves inside my laboratory and now you're asking me for help? Why won't you just give up?\""
+msgstr ""
+
+#: 20432:392
+
+msgid "{Kazushi}\n\"No, I can't. We have no choice but to use the power of the stone.\""
+msgstr ""
+
+#: 20432:393
+
+msgid "{Kazushi}\n\"Please! Help us!!\""
+msgstr ""
+
+#: 20432:396
+
+msgid "{Principal}\n\"You're persistent.\""
+msgstr ""
+
+#: 20432:401
+
+msgid "The principal closed the remaining gap all at once."
+msgstr ""
+
+#: 20432:402
+
+msgid "{Kazushi}\n\"Ugh...Ahhh!\""
+msgstr ""
+
+#: 20432:405
+
+msgid "My body flew through the air, slammed against the wall, and hung there pressed against it."
+msgstr ""
+
+#: 20432:406
+
+msgid "{Mizuki}\n\"Kazushi!!\""
+msgstr ""
+
+#: 20432:407
+
+msgid "{Kazushi}\n\"I'm okay... But I just can't move.\""
+msgstr ""
+
+#: 20432:410
+
+msgid "The principal chuckled as she kept me adhered to the wall. It was hard to believe she had such power."
+msgstr ""
+
+#: 20432:411
+
+msgid "{Kazushi}\n\"Please! Help us!!\""
+msgstr ""
+
+#: 20432:412
+
+msgid "{Principal}\n\"How dare you say you need my help! I know you guys are looking for an almighty stone, but such a stone doesn't exist!\""
+msgstr ""
+
+#: 20432:413
+
+msgid "{Kazushi}\n\"What? But...\""
+msgstr ""
+
+#: 20432:416
+
+msgid "{Principal}\n\"Do you really think that you can cure her legs if you use the stone? Is that what you were promised? Nothing that convenient exists in this world!\""
+msgstr ""
+
+#: 20432:417
+
+msgid "The principal yelled at me through a face full of rage."
+msgstr ""
+
+#: 20432:420
+
+msgid "{Principal}\n\"Even if you did find the stone, you wouldn't be able to use it anyways because you lack the ability and commitment!\""
+msgstr ""
+
+#: 20432:421
+
+msgid "{Principal}\n\"Even with the stone, it could take your entire life to learn to succeed at recreating one!\""
+msgstr ""
+
+#: 20432:424
+
+msgid "{Principal}\n\"I have already made the commitment to accomplish my mission at the cost of my life. How about you? Are you ready to die for her?\""
+msgstr ""
+
+#: 20432:425
+
+msgid "{Kazushi}\n\"Yes, I am.\""
+msgstr ""
+
+#: 20432:428
+
+msgid "I replied right away, which surprised the principal a bit."
+msgstr ""
+
+#: 20432:429
+
+msgid "{Principal}\n\"A quick answer, huh? You didn't even think about it, did you?\""
+msgstr ""
+
+#: 20432:430
+
+msgid "{Kazushi}\n\"I didn't have to think about it. Mizuki is more important to me than anything, and that won't change.\""
+msgstr ""
+
+#: 20432:431
+
+msgid "{Kazushi}\n\"If I can get Mizuki's legs back, I would even give up my own.\""
+msgstr ""
+
+#: 20432:432
+
+msgid "{Mizuki}\n\"Wait, Kazushi!\""
+msgstr ""
+
+#: 20432:433
+
+msgid "I just saw a light in the principal's eye."
+msgstr ""
+
+#: 20432:436
+
+msgid "{Principal}\n\"Are you sure about that?\""
+msgstr ""
+
+#: 20432:437
+
+msgid "{Kazushi}\n\"Yes, I am.\""
+msgstr ""
+
+#: 20432:438
+
+msgid "I'd already thought about it many times. I know about the principal of equivalent exchange as well."
+msgstr ""
+
+#: 20432:439
+
+msgid "However, no one - even God, could grant my wish."
+msgstr ""
+
+#: 20432:440
+
+msgid "{Principal}\n\"Okay, then. I will check and see if you are really sure.\""
+msgstr ""
+
+#: 20432:441
+
+msgid "Before I knew it, there was a gigantic hatchet in the principal's hand."
+msgstr ""
+
+#: 20432:442
+
+msgid "With glaring eyes, the principal swung the hatchet up."
+msgstr ""
+
+#: 20432:443
+
+msgid "{Mizuki}\n\"What are you doing!?\""
+msgstr ""
+
+#: 20432:444
+
+msgid "{Principal}\n\"If you are truly ready for this, then I promise I will help you!\""
+msgstr ""
+
+#: 20432:445
+
+msgid "{Kazushi}\n\"You promise?\""
+msgstr ""
+
+#: 20432:448
+
+msgid "{Principal}\n\"I will do everything in my power.\""
+msgstr ""
+
+#: 20432:449
+
+msgid "Then that was fine. Using the principal's methods were more certain than recklessly struggling."
+msgstr ""
+
+#: 20432:451
+
+msgid "I closed my eyes."
+msgstr ""
+
+#: 20432:452
+
+msgid "{Mizuki}\n\"Wait!\""
+msgstr ""
+
+#: 20432:454
+
+msgid "Fwwwwmm!!"
+msgstr ""
+
+#: 20432:455
+
+msgid "I heard a whoosh with no hesitation."
+msgstr ""
+
+#: 20432:456
+
+msgid "{Mizuki}\n\"Nooooooo!!\""
+msgstr ""
+
+#: 20432:457
+
+msgid "I heard Mizuki's scream and felt something something touching against my legs."
+msgstr ""
+
+#: 20432:460
+
+msgid "Ding!!"
+msgstr ""
+
+#: 20432:461
+
+msgid "I heard a high-pitched noise and saw a small burst of light in the corner of my eyes."
+msgstr ""
+
+#: 20432:462
+
+msgid "{Kazushi}\n\"What's that?\""
+msgstr ""
+
+#: 20432:466
+
+msgid "I saw Mizuki holding my legs and the hatchet blade stopping a few centimeters from her neck."
+msgstr ""
+
+#: 20432:467
+
+msgid "If the hatchet had stopped any later..."
+msgstr ""
+
+#: 20432:468
+
+msgid "{Kazushi}\n\"Mizuki! Are you crazy? What are you doing!? Are you okay?\""
+msgstr ""
+
+#: 20432:469
+
+msgid "Mizuki stared at me hard."
+msgstr ""
+
+#: 20432:471
+
+msgid "{Mizuki}\n\"You're the crazy one, Kazushi! Why do you have to give up your legs for me?! Do you think I'd be happy if you did that?!\""
+msgstr ""
+
+#: 20432:472
+
+msgid "With tears in her eyes, Mizuki shouted at me in anger. To me, she was much scarier than the hatchet."
+msgstr ""
+
+#: 20432:473
+
+msgid "{Kazushi}\n\"So-sorry. But you could have been killed yourself, Mizuki.\""
+msgstr ""
+
+#: 20432:474
+
+msgid "{Mizuki}\n\"I'm okay...oh.\""
+msgstr ""
+
+#: 20432:475
+
+msgid "Mizuki tried to feel her neck. Her necklace at slid around to her back along with the pendant I bought her from Miya-san's store."
+msgstr ""
+
+#: 20432:476
+
+msgid "The stone in the pendant was gone. It was broken in half and lying on the floor. The hatchet much have directly hit the stone."
+msgstr ""
+
+#: 20432:477
+
+msgid "{Mizuki}\n\"It broke...\""
+msgstr ""
+
+#: 20432:478
+
+msgid "{Kazushi}\n\"It saved your life, though.\""
+msgstr ""
+
+#: 20432:479
+
+msgid "Maybe that little stone had a power we hadn't seen. It took such a hard blow."
+msgstr ""
+
+#: 20432:480
+
+msgid "{Mizuki}\n\"This really is a lucky charm.\""
+msgstr ""
+
+#: 20432:481
+
+msgid "Mizuki tenderly wrapped the broken stone with her hands."
+msgstr ""
+
+#: 20432:482
+
+msgid "{Mizuki}\n\"I'm sorry, and thank you for protecting me.\""
+msgstr ""
+
+#: 20432:483
+
+msgid "{Principal}\n\"*Sigh*\""
+msgstr ""
+
+#: 20432:484
+
+msgid "I recalled the principal was here at her sigh. She looked down at Mizuki as if whatever had possessed her had been dispelled."
+msgstr ""
+
+#: 20432:485
+
+msgid "{Principal}\n\"You, Hinata-san. Weren't you scared of the hatchet?\""
+msgstr ""
+
+#: 20432:486
+
+msgid "{Mizuki}\n\"I am now, but I didn't think about it.\""
+msgstr ""
+
+#: 20432:487
+
+msgid "{Principal}\n\"You would throw away your life for his legs?\""
+msgstr ""
+
+#: 20432:488
+
+msgid "{Mizuki}\n\"No, I wouldn't do that - I want us to live together. Neither one can be missing.\""
+msgstr ""
+
+#: 20432:489
+
+msgid "{Mizuki}\n\"But... if I had died, then so long as Kazushi survived, I would live on inside of him.\""
+msgstr ""
+
+#: 20432:490
+
+msgid "Mizuki stared fixedly at the principal, who opened her eyes in surprise."
+msgstr ""
+
+#: 20432:491
+
+msgid "{Principal}\n\"Ohhh!\""
+msgstr ""
+
+#: 20432:492
+
+msgid "The principal moaned and turned her eyes to the sky. Her eyes closed and she froze like a statue."
+msgstr ""
+
+#: 20432:493
+
+msgid "{Kazushi}\n\"Principal...?\""
+msgstr ""
+
+#: 20432:494
+
+msgid "The principal just looked up. She seemed to be crying, and I was at a loss for words."
+msgstr ""
+
+#: 20432:495
+
+msgid "Was she really the same person? She was swinging a hatchet just a moment ago and now she's crying...?"
+msgstr ""
+
+#: 20432:496
+
+msgid "{Mizuki}\n\"Principal...?\""
+msgstr ""
+
+#: 20432:498
+
+msgid "*Clang*..."
+msgstr ""
+
+#: 20432:499
+
+msgid "The hatchet dropped from the principal's hand."
+msgstr ""
+
+#: 20432:500
+
+msgid "{Principal}\n\"How did I forget that all this time? We people are very forgetful creatures.\""
+msgstr ""
+
+#: 20432:501
+
+msgid "Warm drops fell from her eyes, glittering as they trailed down her cheeks. Tears?......No."
+msgstr ""
+
+#: 20432:502
+
+msgid "They clattered on the floor. They weren't liquid, they were solid like stones."
+msgstr ""
+
+#: 20432:503
+
+msgid "Those pebbles rolled across the floor, growing bigger as they rolled until they were the size of eggs."
+msgstr ""
+
+#: 20432:504
+
+msgid "{Mizuki}\n\"Wh-what...?\""
+msgstr ""
+
+#: 20432:505
+
+msgid "A strange phenomenon was transpiring before my eyes. I cautiously picked one of them up."
+msgstr ""
+
+#: 20432:506
+
+msgid "{Kazushi}\n\"A stone?\""
+msgstr ""
+
+#: 20432:507
+
+msgid "It was firm, yet soft. It wasn't alive, but had warmth like a living thing. Was it really a stone?"
+msgstr ""
+
+#: 20432:511
+
+msgid "{Principal}\n\"Did they come from inside of me?\""
+msgstr ""
+
+#: 20432:512
+
+msgid "{Kazushi}\n\"Yes... your tears...\""
+msgstr ""
+
+#: 20432:513
+
+msgid "{Principal}\n\"I see. I was crying?\""
+msgstr ""
+
+#: 20432:514
+
+msgid "The principal muttered, all her tears now gone. In their place remained a warm, gentle smile directed at Mizuki."
+msgstr ""
+
+#: 20432:517
+
+msgid "{Principal}\n\"What you said just reminded me of something very important.\""
+msgstr ""
+
+#: 20432:518
+
+msgid "The principal kept smiling at us. Neither of us was sure of what's going on."
+msgstr ""
+
+#: 20432:521
+
+msgid "{Principal}\n\"Hinata-san, I'm sorry I tried to hurt your loved one.\""
+msgstr ""
+
+#: 20432:522
+
+msgid "The principal bowed to apologize. I can't believe this! And yet Mizuki was still staring her down!"
+msgstr ""
+
+#: 20432:527
+
+msgid "{Mizuki}\n\"I shouldn't forgive you... But if you promise you will never, ever try it again, I will.\""
+msgstr ""
+
+#: 20432:528
+
+msgid "Unlike me, who was left feeling bewildered, Mizuki showed her strength in her words. Then principal silently nodded several times in agreement."
+msgstr ""
+
+#: 20432:531
+
+msgid "{Principal}\n\"Thank you.\""
+msgstr ""
+
+#: 20432:532
+
+msgid "The golden egg-sized stone emitted a golden light in my hand."
+msgstr ""
+
+#: 20432:536
+
+msgid "{Principal}\n\"..................\""
+msgstr ""
+
+#: 20432:537
+
+msgid "The principal looked quietly at the stone. She looked like she was praying in silence."
+msgstr ""
+
+#: 20432:538
+
+msgid "{Principal}\n\"Good bye...\""
+msgstr ""
+
+#: 20432:539
+
+msgid "And she muttered something under her breath. I didn't hear it well, but it sounded like she said good bye to someone."
+msgstr ""
+
+#: 20432:542
+
+msgid "{Principal}\n\"Haruma-kun, that stone is the one I... you were looking for.\""
+msgstr ""
+
+#: 20432:543
+
+msgid "{Kazushi}\n\"What? This!?\""
+msgstr ""
+
+#: 20432:544
+
+msgid "{Principal}\n\"I'll leave that stone in your hands.\""
+msgstr ""
+
+#: 20432:545
+
+msgid "{Kazushi}\n\"What? Really?\""
+msgstr ""
+
+#: 20432:548
+
+msgid "{Principal}\n\"You may use it as you wish. But in exchange... please be sure to use it to make someone smile.\""
+msgstr ""
+
+#: 20432:549
+
+msgid "{Principal}\n\"So that no one ever has to cry anymore.\""
+msgstr ""
+
+#: 20432:550
+
+msgid "I was unsure of what lay behind her words, but the feelings she entrusted to me hit home."
+msgstr ""
+
+#: 20432:551
+
+msgid "{Kazushi}\n\"Yes. Absolutely.\""
+msgstr ""
+
+#: 20432:555
+
+msgid "I drew Mizuki closer to my side, holding her tightly as she laid her body upon me."
+msgstr ""
+
+#: 20432:556
+
+msgid "It may take a long time to cure Mizuki's legs, but I won't give up."
+msgstr ""
+
+#: 20432:557
+
+msgid "I gripped the stone entrusted to me, and sensed that the thoughts and feelings of many resided in that stone."
+msgstr ""
+
+#: 20432:560
+
+msgid "Miya was waiting for Hisae to come out of the experiment ward."
+msgstr ""
+
+#: 20432:563
+
+msgid "{Principal}\n\"Oh, you're here.\""
+msgstr ""
+
+#: 20432:564
+
+msgid "Hisae looked surprised."
+msgstr ""
+
+#: 20432:569
+
+msgid "{Miya}\n\"Are you okay?\""
+msgstr ""
+
+#: 20432:572
+
+msgid "{Principal}\n\"A bit tired.\""
+msgstr ""
+
+#: 20432:573
+
+msgid "Hisae smiled feebly and staggered a little. Miya quickly held her up, and Hisae smiled as she took advantage of his support."
+msgstr ""
+
+#: 20432:576
+
+msgid "{Principal}\n\"You were watching us, weren't you?\""
+msgstr ""
+
+#: 20432:577
+
+msgid "Miya didn't respond, but she knew that silence meant yes."
+msgstr ""
+
+#: 20432:580
+
+msgid "{Miya}\n\"I was a bit worried because you looked so serious with the hatchet.\""
+msgstr ""
+
+#: 20432:581
+
+msgid "Hisae smiled wryly."
+msgstr ""
+
+#: 20432:584
+
+msgid "{Principal}\n\"I may have been more serious than you think.\""
+msgstr ""
+
+#: 20432:587
+
+msgid "{Miya}\n\"Huh?\""
+msgstr ""
+
+#: 20432:588
+
+msgid "Miya looked at her in disbelief and Hisae returned a vague smile.\nMiya heaved a sigh."
+msgstr ""
+
+#: 20432:591
+
+msgid "{Miya}\n\"I'm surprised you relinquished that stone after you finally found it.\""
+msgstr ""
+
+#: 20432:592
+
+msgid "So Miya had been watching, and knew everything. Hisae wore a thin smile."
+msgstr ""
+
+#: 20432:595
+
+msgid "{Principal}\n\"I'm getting old. I remembered the past.\""
+msgstr ""
+
+#: 20432:596
+
+msgid "Hisae was recalling an event a long, long time ago. She still remembered it vividly, just like it was yesterday."
+msgstr ""
+
+#: 20432:597
+
+msgid "And yet she had completely forgotten those words - the words Hinata Mizuki clearly told her."
+msgstr ""
+
+#: 20432:598
+
+msgid "Hisae was told the exact same thing a long time ago."
+msgstr ""
+
+#: 20432:599
+
+msgid "{Principal}\n\"The stone would not have appeared had she not reminded me of that saying. So, the stone is hers.\""
+msgstr ""
+
+#: 20432:602
+
+msgid "{Miya}\n\"Yes. That's good.\""
+msgstr ""
+
+#: 20432:603
+
+msgid "Miya didn't respond clearly, but it seemed Miya was happy with the fact that Hisae gave up the stone."
+msgstr ""
+
+#: 20432:605
+
+msgid "{Principal}\n\"Even when we swear to never forget, we people still forget things one by one.\""
+msgstr ""
+
+#: 20432:606
+
+msgid "{Miya}\n\"People can not live if they don't forget.\""
+msgstr ""
+
+#: 20432:607
+
+msgid "{Principal}\n\"Am I still considered a person?\""
+msgstr ""
+
+#: 20432:608
+
+msgid "{Miya}\n\"Yes, of course.\""
+msgstr ""
+
+#: 20432:609
+
+msgid "Hisae bashfully looked up at the sky at Miya's unhesitant words. The end of summer sky was just as vast as it was years ago."
+msgstr ""
+
+#: 20432:616
+
+msgid "I finally reached the beach with Mizuki on my back."
+msgstr ""
+
+#: 20432:617
+
+msgid "{Kazushi}\n\"Let's go to where the waves lap against the shore.\""
+msgstr ""
+
+#: 20432:620
+
+msgid "{Haruka}\n\"Have fun!\""
+msgstr ""
+
+#: 20432:623
+
+msgid "{Mizuki}\n\"What? You guys aren't coming?\""
+msgstr ""
+
+#: 20432:628
+
+msgid "{Fuusen}\n\"We'll watch you from here, so go ahead, you two.\""
+msgstr ""
+
+#: 20432:631
+
+msgid "{Mizuki}\n\"You sure? Then I'll be back. Kazushi, go!\""
+msgstr ""
+
+#: 20432:632
+
+msgid "{Kazushi}\n\"Okay.\""
+msgstr ""
+
+#: 20432:636
+
+msgid "......"
+msgstr ""
+
+#: 20432:637
+
+msgid "..."
+msgstr ""
+
+#: 20432:640
+
+msgid "{Ran}\n\"Well, they're gone now.\""
+msgstr ""
+
+#: 20432:645
+
+msgid "{Pierre}\n\"But it still failed.\""
+msgstr ""
+
+#: 20432:649
+
+msgid "{Haruka}\n\"Yeah. I think she's only gonna have about ten minutes or so.\""
+msgstr ""
+
+#: 20432:653
+
+msgid "{Rin}\n\"To only have so little time... She's finally able to walk, but...\""
+msgstr ""
+
+#: 20432:657
+
+msgid "{Sakura}\n\"They don't show it, but they must be really disappointed.\""
+msgstr ""
+
+#: 20432:658
+
+msgid "{Rin}\n\"Especially after they got their hopes up so much. They must be shocked.\""
+msgstr ""
+
+#: 20432:662
+
+msgid "{Appo}\n\"Those two'll be fine.\""
+msgstr ""
+
+#: 20432:666
+
+msgid "{Fuusen}\n\"Yes, I'm sure they will.\""
+msgstr ""
+
+#: 20432:670
+
+msgid "{Haruka}\n\"Yes. They're both...\""
+msgstr ""
+
+#: 20432:672
+
+msgid "......"
+msgstr ""
+
+#: 20432:673
+
+msgid "..."
+msgstr ""
+
+#: 20432:677
+
+msgid "I walked slowly so I wouldn't lose my balance in the waves and we finally reached the edge."
+msgstr ""
+
+#: 20432:678
+
+msgid "{Kazushi}\n\"I'm setting you down? Can you stand?\""
+msgstr ""
+
+#: 20432:681
+
+msgid "{Mizuki}\n\"Yes. Let me down slowly.\""
+msgstr ""
+
+#: 20432:682
+
+msgid "Mizuki quietly nodded. Given when she drank the solution, it should start working around now."
+msgstr ""
+
+#: 20432:683
+
+msgid "I knelt down and slowly let go of Mizuki. Her toes landed on the sand. It had been a while since she last felt the sand on her feet."
+msgstr ""
+
+#: 20432:684
+
+msgid "{Kazushi}\n\"Slowly.\""
+msgstr ""
+
+#: 20432:685
+
+msgid "{Mizuki}\n\"Yeah...\""
+msgstr ""
+
+#: 20432:686
+
+msgid "Mizuki was very calm. I might've been more nervous than she was."
+msgstr ""
+
+#: 20432:689
+
+msgid "{Mizuki}\n\"Here I go.\""
+msgstr ""
+
+#: 20432:692
+
+msgid "Mizuki let go of my back. She kept her hand on my shoulder to steady herself as she stood on her own two feet."
+msgstr ""
+
+#: 20432:695
+
+msgid "{Mizuki}\n\"Oh... Yes! I did it!! I did it!!\""
+msgstr ""
+
+#: 20432:696
+
+msgid "Mizuki jumped a couple inches. And then she jumped up again, this time higher."
+msgstr ""
+
+#: 20432:699
+
+msgid "{Mizuki}\n\"Wow!! Great!! They feel like my legs.\""
+msgstr ""
+
+#: 20432:700
+
+msgid "{Kazushi}\n\"They are your legs.\""
+msgstr ""
+
+#: 20432:703
+
+msgid "{Mizuki}\n\"Oh, that's right. It's been a while since I could move them, so I forgot.\""
+msgstr ""
+
+#: 20432:704
+
+msgid "Mizuki took her socks and shoes off and stood barefoot on the beach."
+msgstr ""
+
+#: 20432:707
+
+msgid "{Mizuki}\n\"The sand...it feels so good.\""
+msgstr ""
+
+#: 20432:708
+
+msgid "Mizuki leaned on me as she played in the sand with her feet."
+msgstr ""
+
+#: 20432:709
+
+msgid "{Kazushi}\n\"Why don't you go for a swim? You miss feeling the water too, don't you?\""
+msgstr ""
+
+#: 20432:712
+
+msgid "{Mizuki}\n\"But I didn't bring my swimsuit...\""
+msgstr ""
+
+#: 20432:713
+
+msgid "{Kazushi}\n\"So? You used to swim naked all the time.\""
+msgstr ""
+
+#: 20432:716
+
+msgid "{Mizuki}\n\"Ah! Don't remind me! Pervert!!\""
+msgstr ""
+
+#: 20432:718
+
+msgid "Mizuki stuck her tongue out at me and twirled around me. She hopped around, frolicking on the beach."
+msgstr ""
+
+#: 20432:719
+
+msgid "We only had a short a period of time to have fun."
+msgstr ""
+
+#: 20432:720
+
+msgid "The principal said that the stone wouldn't solve all of our problems. Now I fully understood what she meant."
+msgstr ""
+
+#: 20432:721
+
+msgid "{Kazushi}\n\"Hey, aren't you gonna swim?\""
+msgstr ""
+
+#: 20432:724
+
+msgid "{Mizuki}\n\"Do you want to see me naked that badly? Well, I guess it has been a long time.\""
+msgstr ""
+
+#: 20432:725
+
+msgid "{Kazushi}\n\"I didn't say that.\""
+msgstr ""
+
+#: 20432:728
+
+msgid "{Mizuki}\n\"I don't need to today. You're gonna fix my legs permanently someday, right?\""
+msgstr ""
+
+#: 20432:729
+
+msgid "Mizuki looked at me. She believed in me - or maybe she was trying to believe in me."
+msgstr ""
+
+#: 20432:730
+
+msgid "{Kazushi}\n\"Yes, of course.\""
+msgstr ""
+
+#: 20432:731
+
+msgid "I haven't given up hope. Someday, I will get her legs back to normal...\nSomeday."
+msgstr ""
+
+#: 20432:732
+
+msgid "{Mizuki}\n\"Then I won't swim today.\""
+msgstr ""
+
+#: 20432:735
+
+msgid "After quietly muttering that, Mizuki returned to my side. We were all discouraged that it hadn't gone as well as we'd hoped."
+msgstr ""
+
+#: 20432:736
+
+msgid "We were concerned about what was going to happen in a few minutes, when the potion wore off. Mizuki's legs would probably stop moving again."
+msgstr ""
+
+#: 20432:737
+
+msgid "Mizuki and I will feel down after tasting a few fleeting moments of joy and freedom. However, we will keep on trying, together."
+msgstr ""
+
+#: 20432:740
+
+msgid "As I watched Mizuki standing on the beach with the evening sun in the backdrop, I saw water splashing in the distance: the dolphins!!"
+msgstr ""
+
+#: 20432:743
+
+msgid "{Mizuki}\n\"Those guys came too.\""
+msgstr ""
+
+#: 20432:744
+
+msgid "{Dolphins}\n *SKREE*"
+msgstr ""
+
+#: 20432:745
+
+msgid "The two dolphins flipped through the water as if to welcome Mizuki back. She looked at them, blinking in the bright sun."
+msgstr ""
+
+#: 20432:746
+
+msgid "{Kazushi}\n\"Are you sure you don't want to swim?\""
+msgstr ""
+
+#: 20432:749
+
+msgid "{Mizuki}\n\"Yes. I'm fine. I want to spend this little, yet important time doing what I really want to do.\""
+msgstr ""
+
+#: 20432:750
+
+msgid "{Kazushi}\n\"What you really want to do......don't you mean swimming?\""
+msgstr ""
+
+#: 20432:753
+
+msgid "{Mizuki}\n\"..................\""
+msgstr ""
+
+#: 20432:754
+
+msgid "Mizuki just looked out at the sea without answering. As she gazed upon it, she found my hand and held it tight."
+msgstr ""
+
+#: 20432:757
+
+msgid "{Mizuki}\n\"I can swim once I'm really cured. I will be, right?\""
+msgstr ""
+
+#: 20432:758
+
+msgid "{Kazushi}\n\"Of course you will. I promised to fix your legs, and I will - even if I have to spend the rest of my life on it.\""
+msgstr ""
+
+#: 20432:761
+
+msgid "{Mizuki}\n\"The rest of your life? Are you sure about saying that so easily?\""
+msgstr ""
+
+#: 20432:762
+
+msgid "{Kazushi}\n\"I'm not saying it easily. This is a symbol of my vow.\""
+msgstr ""
+
+#: 20432:763
+
+msgid "I was going to give this to her when she was completely cured."
+msgstr ""
+
+#: 20432:764
+
+msgid "But on second thought, I decided to give it to her now as proof of my promise to her."
+msgstr ""
+
+#: 20432:767
+
+msgid "{Mizuki}\n\"Ah...this stone...\""
+msgstr ""
+
+#: 20432:768
+
+msgid "The mermaid's tear. I asked Miya-san to make a ring out of the broken stone."
+msgstr ""
+
+#: 20432:771
+
+msgid "{Mizuki}\n\"For me?\""
+msgstr ""
+
+#: 20432:772
+
+msgid "Mizuki looked nervous. I took her left hand and placed the ring on her finger."
+msgstr ""
+
+#: 20432:773
+
+msgid "Mizuki squints at her ring finger."
+msgstr ""
+
+#: 20432:774
+
+msgid "{Mizuki}\n\"Wow, you're really gonna stay with me for the rest of your life?\""
+msgstr ""
+
+#: 20432:775
+
+msgid "{Kazushi}\n\"Even though you'll tell me no.\""
+msgstr ""
+
+#: 20432:778
+
+msgid "{Mizuki}\n\"But I may burden you for the rest of your life...?\""
+msgstr ""
+
+#: 20432:779
+
+msgid "{Kazushi}\n\"I won't let you do that. I will get you to walk on your own.\""
+msgstr ""
+
+#: 20432:780
+
+msgid "That's right. I haven't given up. Our true battle has just begun."
+msgstr ""
+
+#: 20432:781
+
+msgid "Today is only a short time, but some day... I will make it for good."
+msgstr ""
+
+#: 20432:784
+
+msgid "{Mizuki}\n\"Hey, Kazushi.\""
+msgstr ""
+
+#: 20432:785
+
+msgid "Mizuki called for me."
+msgstr ""
+
+#: 20432:786
+
+msgid "{Kazushi}\n\"Yeah? What is it?\""
+msgstr ""
+
+#: 20432:787
+
+msgid "As we watched the dolphins dancing in the sea, Mizuki nestled up to me with her hand around my arm."
+msgstr ""
+
+#: 20432:790
+
+msgid "{Mizuki}\n\"I love you.\""
+msgstr ""
+
+#: 20432:791
+
+msgid "Mizuki said, as though she had to choke out the middle word. She tightly held my arm."
+msgstr ""
+
+#: 20432:792
+
+msgid "{Kazushi}\n\"I know. I love you too.\""
+msgstr ""
+
+#: 20432:793
+
+msgid "{Mizuki}\n\"I know.\""
+msgstr ""
+
+#: 20432:795
+
+msgid "Then we kissed each other. During the limited time given to us, we spent most of it kissing each other for a long, long time."
+msgstr ""
+
+#: 20432:796
+
+msgid "This is the furthest we could come today. But someday soon, she will swim with the dolphins again."
+msgstr ""
+
+#: 20432:797
+
+msgid "And on that occasion, I will swim with her."
+msgstr ""
+
+#: 20432:798
+
+msgid "And someday, she and I will swim together in the ocean forever."
+msgstr ""
+

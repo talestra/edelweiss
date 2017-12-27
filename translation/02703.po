@@ -1,0 +1,478 @@
+# Comments for '02703'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 02703:8
+
+msgid "{Kazushi}\n\"Where could Ran be?\""
+msgstr ""
+
+#: 02703:9
+
+msgid "I went by her dorm, but she wasn't in her room.\nI wonder where she is so late at night?"
+msgstr ""
+
+#: 02703:10
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 02703:12
+
+msgid "I sensed someone in the dark."
+msgstr ""
+
+#: 02703:13
+
+msgid "I saw shadows in the corner of the quad."
+msgstr ""
+
+#: 02703:16
+
+msgid "{Ran}\n\"Why do you need me so late at night?\""
+msgstr ""
+
+#: 02703:17
+
+msgid "{Kazushi}\n\"That's Ran's voice.\""
+msgstr ""
+
+#: 02703:18
+
+msgid "I could tell it was her voice.\nThere was someone else with her - a guy I didn't recognize."
+msgstr ""
+
+#: 02703:19
+
+msgid "{Kazushi}\n\"What are they doing here so late?\""
+msgstr ""
+
+#: 02703:20
+
+msgid "I don't know why, but I couldn't help hiding behind a bush and watching them."
+msgstr ""
+
+#: 02703:21
+
+msgid "{Guy}\n\"Umm...are you going out with anyone right now?\""
+msgstr ""
+
+#: 02703:22
+
+msgid "Wow......!!\nIs he asking her out?"
+msgstr ""
+
+#: 02703:25
+
+msgid "{Ran}\n\"What? Sure I am.\""
+msgstr ""
+
+#: 02703:26
+
+msgid "{Kazushi}\n\"What!?\""
+msgstr ""
+
+#: 02703:28
+
+msgid "Ack, I need to stay quiet.\n...wait, did she just say \"yes\"?"
+msgstr ""
+
+#: 02703:29
+
+msgid "{Kazushi}\n\"Who is she talking about?\""
+msgstr ""
+
+#: 02703:30
+
+msgid "I didn't know that Ran had a boyfriend.\nI mean, she didn't have to tell me, but I wonder who he is."
+msgstr ""
+
+#: 02703:31
+
+msgid "{Kazushi}\n\"What is this feeling?\""
+msgstr ""
+
+#: 02703:34
+
+msgid "{Guy}\n\"Who's your boyfriend?\""
+msgstr ""
+
+#: 02703:35
+
+msgid "That's right. Ask her. I need to know."
+msgstr ""
+
+#: 02703:38
+
+msgid "{Ran}\n\"What's it to you? If you plan on taking much longer, I'll start charging by the hour.\""
+msgstr ""
+
+#: 02703:39
+
+msgid "{Guy}\n\"You're gonna charge me?\""
+msgstr ""
+
+#: 02703:40
+
+msgid "I don't blame him for being surprised. Who'd want to pay to get a chance at asking a girl out?"
+msgstr ""
+
+#: 02703:41
+
+msgid "{Guy}\n\"All right! I'll pay 1000 yen! At least tell me who you're going out with!\""
+msgstr ""
+
+#: 02703:42
+
+msgid "He's actually paying her!? That guy is seriously paying Ran 1000 yen just to find out who her boyfriend is?"
+msgstr ""
+
+#: 02703:45
+
+msgid "{Ran}\n\"1000 yen?\nAll right, deal. Give it to me.\""
+msgstr ""
+
+#: 02703:48
+
+msgid "The guy handed Ran 1,000 yen and she was all smiles. This is so wrong."
+msgstr ""
+
+#: 02703:49
+
+msgid "{Ran}\n\"Thank you, come again! Now, lend me your ear.\""
+msgstr ""
+
+#: 02703:51
+
+msgid "She whispered into his ear. Shit! I can't hear it."
+msgstr ""
+
+#: 02703:52
+
+msgid "{Guy}\n\"I knew it! I knew you two were more than just friends.\""
+msgstr ""
+
+#: 02703:55
+
+msgid "{Ran}\n\"Well, that's how it is, so give up on me. In exchange, I'll introduce you to another girl. There's this cute first year - wanna see her picture?\""
+msgstr ""
+
+#: 02703:56
+
+msgid "{Guy}\n\"Wow! She's pretty? You've gotta introduce us!\""
+msgstr ""
+
+#: 02703:57
+
+msgid "He wants Ran to introduce him to another girl? What kind of man asks the girl who just rejected him to arrange a hookup with someone else?"
+msgstr ""
+
+#: 02703:60
+
+msgid "{Ran}\n\"That'll be 3000 yen for the introduction. I can set you up with a date for 5980 yen.\""
+msgstr ""
+
+#: 02703:61
+
+msgid "She's charging him again. A pretty high rate too."
+msgstr ""
+
+#: 02703:62
+
+msgid "{Guy}\n\"I want a date, please!\""
+msgstr ""
+
+#: 02703:63
+
+msgid "He placed an order."
+msgstr ""
+
+#: 02703:66
+
+msgid "{Ran}\n\"Thank you, come again. I'll introduce you to her tomorrow during lunch.\""
+msgstr ""
+
+#: 02703:67
+
+msgid "{Guy}\n\"Yes! I'm gonna score a home run!\""
+msgstr ""
+
+#: 02703:69
+
+msgid "That guy went home so happy that even I felt ashamed. What the hell did he come here for."
+msgstr ""
+
+#: 02703:71
+
+msgid "{Ran}\n\"It feels good to help people.\""
+msgstr ""
+
+#: 02703:72
+
+msgid "{Kazushi}\n\"You call that \"helping people\"?\""
+msgstr ""
+
+#: 02703:73
+
+msgid "I couldn't help wanting to lecture her."
+msgstr ""
+
+#: 02703:78
+
+msgid "{Ran}\n\"Oh, hey Kazushi. What's up?\""
+msgstr ""
+
+#: 02703:79
+
+msgid "She didn't seem to have any guilty feelings whatsoever."
+msgstr ""
+
+#: 02703:80
+
+msgid "{Kazushi}\n\"I was watching the whole thing.\""
+msgstr ""
+
+#: 02703:83
+
+msgid "{Ran}\n\"You were? Don't worry, I rejected him.\""
+msgstr ""
+
+#: 02703:84
+
+msgid "She doesn't look like she just broke someone's heart."
+msgstr ""
+
+#: 02703:85
+
+msgid "{Kazushi}\n\"You are such a terrible person.\nHow could you introduce another girl to someone you just rejected AND charge them for it?\""
+msgstr ""
+
+#: 02703:88
+
+msgid "{Ran}\n\"Why is that so bad? My customer went home happy.\""
+msgstr ""
+
+#: 02703:89
+
+msgid "In her mind, he's only a customer."
+msgstr ""
+
+#: 02703:90
+
+msgid "{Ran}\n\"I can't go out with him, and he didn't care who it was - he just wanted a girlfriend to spend summer with. Leading him to his next chance is better than leaving him dumped.\""
+msgstr ""
+
+#: 02703:91
+
+msgid "{Kazushi}\n\"Well, I see your point.\""
+msgstr ""
+
+#: 02703:92
+
+msgid "Maybe she really did act with an altruistic purpose."
+msgstr ""
+
+#: 02703:93
+
+msgid "{Kazushi}\n\"By the way, who's the guy you're seeing?\""
+msgstr ""
+
+#: 02703:94
+
+msgid "{Ran}\n\"The guy I'm seeing?\""
+msgstr ""
+
+#: 02703:95
+
+msgid "She responded like she had no idea what I was talking about."
+msgstr ""
+
+#: 02703:96
+
+msgid "{Kazushi}\n\"You know, you just charged that poor guy 1000 yen to find out who your boyfriend was.\""
+msgstr ""
+
+#: 02703:99
+
+msgid "{Ran}\n\"Oh, that? I was talking about you, Kazushi.\""
+msgstr ""
+
+#: 02703:100
+
+msgid "{Kazushi}\n\"What? Me?\""
+msgstr ""
+
+#: 02703:101
+
+msgid "I see. That means she's going out with me."
+msgstr ""
+
+#: 02703:102
+
+msgid "{Kazushi}\n\"Wait a minute, are we going out?\""
+msgstr ""
+
+#: 02703:105
+
+msgid "{Ran}\n\"Kind of.\""
+msgstr ""
+
+#: 02703:106
+
+msgid "{Kazushi}\n\"Kind of?\""
+msgstr ""
+
+#: 02703:107
+
+msgid "{Ran}\n\"Telling them you've already got a boyfriend is the quickest way to make guys give up. It also helps lead them into things like just now.\""
+msgstr ""
+
+#: 02703:108
+
+msgid "{Kazushi}\n\"So you're using my name to make some quick cash.\""
+msgstr ""
+
+#: 02703:111
+
+msgid "{Ran}\n\"Don't get so upset about it. Besides, I really do like you.\""
+msgstr ""
+
+#: 02703:112
+
+msgid "{Kazushi}\n\"I'm not sure if I should be happy about that or not.\""
+msgstr ""
+
+#: 02703:113
+
+msgid "According to Ran, she had to reject guys all the time. I didn't know she was so popular..."
+msgstr ""
+
+#: 02703:114
+
+msgid "But then, she doesn't seem to have any interest in going out with the boys either. Maybe she's actually a lesbian?"
+msgstr ""
+
+#: 02703:117
+
+msgid "{Ran}\n\"What are you thinking so hard about? Loosen up and take a walk with me.\""
+msgstr ""
+
+#: 02703:120
+
+msgid "She looped her arm around mine and held my hand.\nI could feel her breasts squishing against my arms."
+msgstr ""
+
+#: 02703:123
+
+msgid "{Ran}\n\"You should feel honoured. You're the only guy I don't charge for this.\""
+msgstr ""
+
+#: 02703:124
+
+msgid "{Kazushi}\n\"I'm still not sure if I should be happy about this or not.\""
+msgstr ""
+
+#: 02703:125
+
+msgid "With Ran, I don't even get turned on when we're this close and going for a walk. But that's also probably why I feel so relaxed around her."
+msgstr ""
+
+#: 02703:126
+
+msgid "However, I definitely want a girlfriend before summer break."
+msgstr ""
+
+#: 02703:127
+
+msgid "{Kazushi}\n\"Oh, hey, would you introduce me to some girls, too?\""
+msgstr ""
+
+#: 02703:130
+
+msgid "{Ran}\n\"What? Why?\""
+msgstr ""
+
+#: 02703:131
+
+msgid "{Kazushi}\n\"You wanted 3000 yen, right? I don't mind paying that...\""
+msgstr ""
+
+#: 02703:132
+
+msgid "I checked inside my wallet.\nMy budget is pretty tight right now."
+msgstr ""
+
+#: 02703:133
+
+msgid "{Ran}\n\"What? You want a girlfriend?\""
+msgstr ""
+
+#: 02703:134
+
+msgid "{Kazushi}\n\"Why's that such a surprise?\nWhy do you think we all came to this island? All of us wanted to meet girls.\""
+msgstr ""
+
+#: 02703:137
+
+msgid "{Ran}\n\"I see. I didn't know you were such a normal guy.\""
+msgstr ""
+
+#: 02703:138
+
+msgid "For some reason she sounded disappointed."
+msgstr ""
+
+#: 02703:139
+
+msgid "{Ran}\n\"You shouldn't worry about finding a girlfriend so much. I can see you falling for the wrong girl and letting her soak you for all your cash.\""
+msgstr ""
+
+#: 02703:140
+
+msgid "{Kazushi}\n\"I can't believe a business oriented girl like you is saying things like that. Just show me some of the pictures... I prefer first years, by the way.\""
+msgstr ""
+
+#: 02703:143
+
+msgid "{Ran}\n\"No. No, no, no. This is not a service for someone like you.\""
+msgstr ""
+
+#: 02703:144
+
+msgid "{Kazushi}\n\"Why not? Do you want me to be a loser forever?\""
+msgstr ""
+
+#: 02703:147
+
+msgid "{Ran}\n\"Don't worry. I'll make you happy.\""
+msgstr ""
+
+#: 02703:148
+
+msgid "{Kazushi}\n\"That sounds like it's out of my price range.\""
+msgstr ""
+
+#: 02703:149
+
+msgid "{Ran}\n\"Maybe you should start saving while you've got the chance.\""
+msgstr ""
+
+#: 02703:150
+
+msgid "I was really looking forward to her introducing me to some pretty girls."
+msgstr ""
+
+#: 02703:151
+
+msgid "Oh well.\nI'm happy enough for now."
+msgstr ""
+

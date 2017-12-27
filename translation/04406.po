@@ -1,0 +1,63 @@
+# Comments for '04406'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 04406:7
+
+msgid "When I got back from the bath, Appo and the others were having an argument with each other."
+msgstr ""
+
+#: 04406:10
+
+msgid "{Appo}\n\"Hey, Kazushi! You picked just the right time to come back.\""
+msgstr ""
+
+#: 04406:15
+
+msgid "{Pierre}\n\"Oh yeah! Why don't we ask his opinion?\""
+msgstr ""
+
+#: 04406:16
+
+msgid "{Kazushi}\n\"What are you guys arguing about?\""
+msgstr ""
+
+#: 04406:23
+
+msgid "{Daigo}\n\"Which part of a girl's body turns you on the most?\""
+msgstr ""
+
+#: 04406:24
+
+msgid "{Kazushi}\n\"You guys skipped dinner and bath time just for that?\""
+msgstr ""
+
+#: 04406:25
+
+msgid "{Appo}\n\"That's right. It's been a few hours by now.\""
+msgstr ""
+
+#: 04406:26
+
+msgid "{Kazushi}\n\"You guys are idiots.\""
+msgstr ""
+
+#: 04406:29
+
+msgid "{Pierre}\n\"So? So? So? Which part turns you on?\""
+msgstr ""
+
+#: 04406:30
+
+msgid "{Kazushi}\n\"Me? Let's see......\""
+msgstr ""
+

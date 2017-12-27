@@ -1,0 +1,553 @@
+# Comments for '007e6'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 007e6:8
+
+msgid "{Kazushi}\n\"It shouldn't be too hard to find Mei-sensei...\""
+msgstr ""
+
+#: 007e6:9
+
+msgid "She's such a sexy, beautiful adult that she stands out."
+msgstr ""
+
+#: 007e6:10
+
+msgid "{Kazushi}\n\"There she is!\""
+msgstr ""
+
+#: 007e6:11
+
+msgid "It was totally easy, just like I expected."
+msgstr ""
+
+#: 007e6:14
+
+msgid "{Mei}\n\"Um......\""
+msgstr ""
+
+#: 007e6:15
+
+msgid "{Kazushi}\n\"Huh...?\""
+msgstr ""
+
+#: 007e6:16
+
+msgid "I'm surprised that I found her so easily. She was completely on her own. No one was within three meters of her."
+msgstr ""
+
+#: 007e6:17
+
+msgid "She's so popular I thought she'd be having a blast with everyone by now."
+msgstr ""
+
+#: 007e6:18
+
+msgid "{Kazushi}\n\"Um......\""
+msgstr ""
+
+#: 007e6:19
+
+msgid "I hesitated to call out to her. It seemed like it was best not to talk to her."
+msgstr ""
+
+#: 007e6:22
+
+msgid "{Mei}\n\"Ah!!\""
+msgstr ""
+
+#: 007e6:24
+
+msgid "She spotted me and started walking towards me."
+msgstr ""
+
+#: 007e6:30
+
+msgid "{Mei}\n\"Hyaruma-kun! Hyaruma-kun!\""
+msgstr ""
+
+#: 007e6:31
+
+msgid "{Kazushi}\n\"...Hyaruma-kun?\""
+msgstr ""
+
+#: 007e6:32
+
+msgid "Something wasn't right. Her speech was slurred."
+msgstr ""
+
+#: 007e6:33
+
+msgid "{Kazushi}\n\"Sensei, are you drunk?\""
+msgstr ""
+
+#: 007e6:36
+
+msgid "{Mei}\n\"Hyaruma-kun, awe you dwinking too?\""
+msgstr ""
+
+#: 007e6:37
+
+msgid "Her words were badly slurred and her cheeks were red. It did look kind of sexy, but..."
+msgstr ""
+
+#: 007e6:38
+
+msgid "{Kazushi}\n\"Sensei, you're quite drunk, aren't you?\""
+msgstr ""
+
+#: 007e6:41
+
+msgid "{Mei}\n\"I'wve been dwinkin's so o' couwse I'm dwunk!\""
+msgstr ""
+
+#: 007e6:42
+
+msgid "It hasn't been long since the party started and she's already this bad. She looks like she's a bad drunk too..."
+msgstr ""
+
+#: 007e6:43
+
+msgid "{Mei}\n\"G'won, Hyaruma-kun! Dwink mowe!\""
+msgstr ""
+
+#: 007e6:44
+
+msgid "{Kazushi}\n\"Yes, I am drinking. You don't need to...\""
+msgstr ""
+
+#: 007e6:47
+
+msgid "{Mei}\n\"Shuwwup!\""
+msgstr ""
+
+#: 007e6:48
+
+msgid "Ffpp!"
+msgstr ""
+
+#: 007e6:49
+
+msgid "She forced a bottle into my mouth!"
+msgstr ""
+
+#: 007e6:50
+
+msgid "{Kazushi}\n\"Mmmmffff!!?\""
+msgstr ""
+
+#: 007e6:51
+
+msgid "C-can't breathe!"
+msgstr ""
+
+#: 007e6:55
+
+msgid "{Mei}\n\"C'won, dwink wif me! Dwink wif me!\""
+msgstr ""
+
+#: 007e6:56
+
+msgid "{Kazushi}\n\"Gulp, gulp...gulp...\""
+msgstr ""
+
+#: 007e6:57
+
+msgid "I-I'll die! I somehow managed to push it out."
+msgstr ""
+
+#: 007e6:60
+
+msgid "{Kazushi}\n\"Fwaah! Y-you almost killed me!!\""
+msgstr ""
+
+#: 007e6:63
+
+msgid "{Mei}\n\"Wha's fhat?! Nwoo! You wan't wommif phuicide!! You'we goin' baff to Yapan wif me!\""
+msgstr ""
+
+#: 007e6:64
+
+msgid "{Kazushi}\n\"Sensei, this is Japan. I think you need to get some rest.\""
+msgstr ""
+
+#: 007e6:67
+
+msgid "{Mei}\n\"*chug chug chug*\""
+msgstr ""
+
+#: 007e6:68
+
+msgid "Wah! She's drinking more! And straight from the bottle!"
+msgstr ""
+
+#: 007e6:69
+
+msgid "{Kazushi}\n\"Look, you need to stop!\""
+msgstr ""
+
+#: 007e6:72
+
+msgid "{Mei}\n\"Whaf!?\""
+msgstr ""
+
+#: 007e6:73
+
+msgid "The bottle I took from her said \"vodka\" on the label. Yeah, drinking that from the bottle would get a person drunk."
+msgstr ""
+
+#: 007e6:74
+
+msgid "{Mei}\n\"Whaf awe you doing?! Gif it back to meee!\""
+msgstr ""
+
+#: 007e6:75
+
+msgid "{Kazushi}\n\"No vodka for you!\""
+msgstr ""
+
+#: 007e6:76
+
+msgid "{Mei}\n\"Hahn? Whaf's that? Awe you comMeinding Mei-chan?\""
+msgstr ""
+
+#: 007e6:77
+
+msgid "{Kazushi}\n\"You can still make lame puns while this drunk?!\""
+msgstr ""
+
+#: 007e6:80
+
+msgid "{Mei}\n\"Now, a wop wuiz!\nWho am I?\""
+msgstr ""
+
+#: 007e6:81
+
+msgid "Mei-sensei started dancing like some air-headed pop idol after she asked that question."
+msgstr ""
+
+#: 007e6:82
+
+msgid "{Kazushi}\n\"You are Mei-sensei. Ibuki Mei. Get it together!\""
+msgstr ""
+
+#: 007e6:85
+
+msgid "{Mei}\n\"Bzzt! I'm actwually a dump twuck!\""
+msgstr ""
+
+#: 007e6:86
+
+msgid "{Kazushi}\n\"What?! A dump truck?!\""
+msgstr ""
+
+#: 007e6:89
+
+msgid "{Mei}\n\"I cawwy it evewy weekend. I can't kweep it up if I won't dwink! Uh-hu-hu-hu-hu...\""
+msgstr ""
+
+#: 007e6:90
+
+msgid "She was having fun complaining. She guzzled down more liquor as she chuckled."
+msgstr ""
+
+#: 007e6:91
+
+msgid "{Kazushi}\n\"Oh man, that's a lot of booze......\""
+msgstr ""
+
+#: 007e6:92
+
+msgid "{Mei}\n\"Pwah! Umm. Hey, how manwi tiwes does a dump twuck haf?\""
+msgstr ""
+
+#: 007e6:93
+
+msgid "{Kazushi}\n\"I dunno.\nI think four?\""
+msgstr ""
+
+#: 007e6:96
+
+msgid "{Mei}\n\"Whaf!?\nThwen maybe I'm not a dump twuck...\""
+msgstr ""
+
+#: 007e6:97
+
+msgid "{Kazushi}\n\"Why not!?\""
+msgstr ""
+
+#: 007e6:98
+
+msgid "Well, there's no way she was one. Damn, I didn't know sensei was such a bad drunk."
+msgstr ""
+
+#: 007e6:99
+
+msgid "{Kazushi}\n\"What am I going to do with her?\""
+msgstr ""
+
+#: 007e6:105
+
+msgid "{Haruka}\n\"Oh, no!\nIs she drunk again?!\""
+msgstr ""
+
+#: 007e6:106
+
+msgid "Thank god, Ran and Haruka showed up to help me."
+msgstr ""
+
+#: 007e6:107
+
+msgid "{Ran}\n\"Ho boy, this is bad. Should we just make her drink until she passes out?\""
+msgstr ""
+
+#: 007e6:110
+
+msgid "{Haruka}\n\"Ah! No, don't! Mei-chan never passes out! She just gets worse and worse until she starts crying.\""
+msgstr ""
+
+#: 007e6:111
+
+msgid "{Kazushi}\n\"That's terrible!\""
+msgstr ""
+
+#: 007e6:114
+
+msgid "{Ran}\n\"Why does she like drinking so much?\""
+msgstr ""
+
+#: 007e6:118
+
+msgid "{Mei}\n\"Oh yeah...\""
+msgstr ""
+
+#: 007e6:119
+
+msgid "Sensei patted her hand as she remembered something and stared at Haruka."
+msgstr ""
+
+#: 007e6:122
+
+msgid "{Mei}\n\"Haruka-chan! I challenge you!\""
+msgstr ""
+
+#: 007e6:123
+
+msgid "She said it like she was throwing down for a wrestling match."
+msgstr ""
+
+#: 007e6:124
+
+msgid "{Kazushi}\n\"What's that supposed to mean?\""
+msgstr ""
+
+#: 007e6:127
+
+msgid "{Haruka}\n\"I don't know. She does it every time she gets drunk, though!\nIt really pisses me off - any chance I can just punch her?\""
+msgstr ""
+
+#: 007e6:131
+
+msgid "{Ran}\n\"Now, now, calm down. Come on, Mei-chan, you too.\""
+msgstr ""
+
+#: 007e6:135
+
+msgid "{Mei}\n\"Ina bow-wow! Bow-wow!\""
+msgstr ""
+
+#: 007e6:136
+
+msgid "{Haruka}\n\"I wanna knock her out!\""
+msgstr ""
+
+#: 007e6:137
+
+msgid "{Kazushi}\n\"Ahh! Stop! Stop!\nMei-sensei, you need to take a break!\""
+msgstr ""
+
+#: 007e6:142
+
+msgid "{Mei}\n\"Wheeeaah?\""
+msgstr ""
+
+#: 007e6:143
+
+msgid "As she put on flirtatious airs, I pulled her arm and sat her into a chair."
+msgstr ""
+
+#: 007e6:146
+
+msgid "{Mei}\n\"Whah? Jus wittle ol me? Haruman, sit.\""
+msgstr ""
+
+#: 007e6:147
+
+msgid "{Kazushi}\n\"Haruman?\""
+msgstr ""
+
+#: 007e6:148
+
+msgid "{Mei}\n\"Sit wif me!!\""
+msgstr ""
+
+#: 007e6:149
+
+msgid "{Kazushi}\n\"Alright, alright.\""
+msgstr ""
+
+#: 007e6:152
+
+msgid "She yanked on my arm to make me sit down."
+msgstr ""
+
+#: 007e6:153
+
+msgid "{Mei}\n\"Haruma, you'we younger than me, so you haf to do whahevew I say.\""
+msgstr ""
+
+#: 007e6:154
+
+msgid "{Kazushi}\n\"Are you the boss of the playground now?\""
+msgstr ""
+
+#: 007e6:155
+
+msgid "{Mei}\n\"Be my pillow!\""
+msgstr ""
+
+#: 007e6:157
+
+msgid "She leaned her head against my shoulder."
+msgstr ""
+
+#: 007e6:158
+
+msgid "{Kazushi}\n\"Is this what you want?\""
+msgstr ""
+
+#: 007e6:159
+
+msgid "{Mei}\n\"Zzz......Zzz...\""
+msgstr ""
+
+#: 007e6:160
+
+msgid "{Kazushi}\n\"Huh? She's asleep?\""
+msgstr ""
+
+#: 007e6:161
+
+msgid "Sure enough, she fell asleep in seconds."
+msgstr ""
+
+#: 007e6:166
+
+msgid "{Haruka}\n\"Good job.\nShe won't cause any more trouble now.\""
+msgstr ""
+
+#: 007e6:167
+
+msgid "{Ran}\n\"She must really like your shoulder. Can I give it a try next time?\""
+msgstr ""
+
+#: 007e6:168
+
+msgid "{Kazushi}\n\"Sure, but what should I do now?\""
+msgstr ""
+
+#: 007e6:171
+
+msgid "{Haruka}\n\"Just let her sleep there for a while. She'll be back to normal when she wakes up.\""
+msgstr ""
+
+#: 007e6:172
+
+msgid "{Kazushi}\n\"Normal, huh...\""
+msgstr ""
+
+#: 007e6:173
+
+msgid "{Mei}\n\"Zzz... Zzz...\""
+msgstr ""
+
+#: 007e6:174
+
+msgid "We sure have one heck of a teacher."
+msgstr ""
+
+#: 007e6:177
+
+msgid "{Ran}\n\"Well, I'm going to go eat some more.\""
+msgstr ""
+
+#: 007e6:178
+
+msgid "{Haruka}\n\"I'm going to get my dessert. Do you want me to bring you anything, Kazushi-kun?\""
+msgstr ""
+
+#: 007e6:179
+
+msgid "{Kazushi}\n\"No, I'm fine. I shouldn't move anyways.\""
+msgstr ""
+
+#: 007e6:182
+
+msgid "{Haruka}\n\"Good point. Take care of sensei!\""
+msgstr ""
+
+#: 007e6:185
+
+msgid "{Ran}\n\"Don't feel her up!\""
+msgstr ""
+
+#: 007e6:186
+
+msgid "{Kazushi}\n\"Of course not!\""
+msgstr ""
+
+#: 007e6:189
+
+msgid "They left to get more food."
+msgstr ""
+
+#: 007e6:190
+
+msgid "{Kazushi}\n\"That was exhausting.\""
+msgstr ""
+
+#: 007e6:191
+
+msgid "Although, this is pretty good. There's a nice soft, comfortable weight against my shoulders. Sensei smells nice too."
+msgstr ""
+
+#: 007e6:192
+
+msgid "{Kazushi}\n\"I wonder if it's perfume?\""
+msgstr ""
+
+#: 007e6:193
+
+msgid "{Mei}\n\"Zzz...Zzz...\""
+msgstr ""
+
+#: 007e6:194
+
+msgid "{Kazushi}\n\"She's sound asleep.\""
+msgstr ""
+
+#: 007e6:195
+
+msgid "I'll let her sleep as much as she wants."
+msgstr ""
+

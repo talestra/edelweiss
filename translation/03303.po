@@ -1,0 +1,1833 @@
+# Comments for '03303'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 03303:7
+
+msgid "{Kazushi}\n\"What do you guys wanna do today?\""
+msgstr ""
+
+#: 03303:8
+
+msgid "We were trying to figure out what to do as we ate breakfast. This was the best part of summer break: having the entire day wide open to do whatever we want."
+msgstr ""
+
+#: 03303:11
+
+msgid "{Pierre}\n\"Let's go out and have fun with the girls again. I'll definitely make a move this time.\""
+msgstr ""
+
+#: 03303:16
+
+msgid "{Daigo}\n\"I want to go collect some bugs. I need to send my relative some stag beetles.\""
+msgstr ""
+
+#: 03303:23
+
+msgid "{Appo}\n\"I'm going fishing with Fuu-chan today. She's never been before.\""
+msgstr ""
+
+#: 03303:24
+
+msgid "{Appo}\n\"She said she can't touch the bugs used for bait, so I have to put them on for her. Girls are so cute.\""
+msgstr ""
+
+#: 03303:25
+
+msgid "{Kazushi}\n\"Fishing sounds fun.\nShould we go, too?\""
+msgstr ""
+
+#: 03303:26
+
+msgid "When I thought about it, it would've been a waste not to go fishing, given that we were on an island. I still remembered the mountain of tuna we saw on our arrival."
+msgstr ""
+
+#: 03303:27
+
+msgid "{Kazushi}\n\"Isn't this island an ideal place to fish, too?\nRemember those huge tuna? Let's go catch something fresh for dinner.\""
+msgstr ""
+
+#: 03303:28
+
+msgid "It was our turn to cook, so we're in charge of tonight's dinner.\nI wanted to surprise everybody."
+msgstr ""
+
+#: 03303:29
+
+msgid "{Daigo}\n\"If we cooked up fish we caught ourselves, wouldn't that reel in the points?\""
+msgstr ""
+
+#: 03303:30
+
+msgid "{Kazushi}\n\"Exactly! Let's fish up a big one and slice and dice it in front of everyone!\""
+msgstr ""
+
+#: 03303:33
+
+msgid "{Appo}\n\"A dissection show, huh? I heard on TV that some sushi restaurants actually do that.\""
+msgstr ""
+
+#: 03303:36
+
+msgid "{Daigo}\n\"Sushi...yeah. It's not very hard to make sushi rolls.\""
+msgstr ""
+
+#: 03303:37
+
+msgid "{Kazushi}\n\"And if we set it up so everyone rolls their own, it's easier for us. Alright! Tonight it's make-it-yourself sushi! Let's go hook those fish!\""
+msgstr ""
+
+#: 03303:40
+
+msgid "{Pierre}\n\"Why don't we ask some of the girls to come with us! If Fuu-chan's never been fishing, I bet there's others who haven't as well.\""
+msgstr ""
+
+#: 03303:43
+
+msgid "{Appo}\n\"Fuusen was telling me how girls find men who are in tune with nature and boast survival skills very attractive.\""
+msgstr ""
+
+#: 03303:44
+
+msgid "{Pierre}\n\"The outdoor boom isn't over yet! And if we teach those girls who know nothing, we'll score even more points!\""
+msgstr ""
+
+#: 03303:45
+
+msgid "{Daigo}\n\"Guys, forget what I said earlier about hunting for beetles.\""
+msgstr ""
+
+#: 03303:46
+
+msgid "{Appo}\n\"We can rent whatever we need from the fishermen by the beach.\""
+msgstr ""
+
+#: 03303:47
+
+msgid "{Kazushi}\n\"Let me take care of renting the gear.\nPierre, why don't you go ask the girls?\""
+msgstr ""
+
+#: 03303:48
+
+msgid "{Pierre}\n\"Okay! I'll round 'em up!\""
+msgstr ""
+
+#: 03303:49
+
+msgid "Our minds were already filled with thoughts of clear blue ocean waves and pretty girls."
+msgstr ""
+
+#: 03303:54
+
+msgid "When I got back from the gear rental, the girls were already waiting."
+msgstr ""
+
+#: 03303:57
+
+msgid "{Mizuki}\n\"We don't have any supplies, though.\""
+msgstr ""
+
+#: 03303:58
+
+msgid "{Kazushi}\n\"Here you go. I just got back from the rental shop.\""
+msgstr ""
+
+#: 03303:64
+
+msgid "{Andou}\n\"Wow, you guys are well prepared.\""
+msgstr ""
+
+#: 03303:65
+
+msgid "{Fuusen}\n\"Good job, boys.\""
+msgstr ""
+
+#: 03303:66
+
+msgid "Fuusen and Andou seemed to be looking forward to this.\nAlso..."
+msgstr ""
+
+#: 03303:71
+
+msgid "{Ran}\n\"Hey, hey, how much do you think the fish will go for? Where can we get the expensive ones?\""
+msgstr ""
+
+#: 03303:72
+
+msgid "There was one girl with a yen for a yen."
+msgstr ""
+
+#: 03303:73
+
+msgid "{Kazushi}\n\"Can't you be a bit more romantic about this? We're not fishermen; we're going to eat everything we catch today.\""
+msgstr ""
+
+#: 03303:76
+
+msgid "{Ran}\n\"What are you talking about? How are we going to make any money if we do that?\""
+msgstr ""
+
+#: 03303:77
+
+msgid "{Kazushi}\n\"We're not going fishing today just to make money. If you trawl the line with thoughts like that, you won't get any.\""
+msgstr ""
+
+#: 03303:80
+
+msgid "{Ran}\n\"Cut the chat, just guide me to where we can fish for expensive ones.\""
+msgstr ""
+
+#: 03303:81
+
+msgid "She fully intends on fishing up a big one and selling it off for big profit. Well, as long as she has fun..."
+msgstr ""
+
+#: 03303:82
+
+msgid "{Kazushi}\n\"I talked to the local fishermen and got the right bait. I even had them tell me some good spots. The only the thing we'll need is patience.\""
+msgstr ""
+
+#: 03303:85
+
+msgid "{Ran}\n\"Patience?\""
+msgstr ""
+
+#: 03303:86
+
+msgid "{Kazushi}\n\"Even if you're not catching any, you can't carry on or the fish will run away more. You'll have to quietly leave the line out.\""
+msgstr ""
+
+#: 03303:87
+
+msgid "I'd never actually seen Ran be anything even remotely resembling patient. Maybe she wouldn't enjoy fishing very much after all..."
+msgstr ""
+
+#: 03303:90
+
+msgid "{Ran}\n\"Believe it or not, I'm confident in my concentration. I'll pull in everything out there, even the ocean depths.\""
+msgstr ""
+
+#: 03303:91
+
+msgid "{Kazushi}\n\"I'm not sure if you can call that fishing...\""
+msgstr ""
+
+#: 03303:92
+
+msgid "{Ran}\n\"I'm gonna surprise the hell out of all those fishermen! I'll catch so much that the market price will double by the end of the day.\""
+msgstr ""
+
+#: 03303:96
+
+msgid "Our fishing spot was at the rocks by the cliff. It seems it's best to fish there at full tide, but we could still fish a decent amount at low tide."
+msgstr ""
+
+#: 03303:97
+
+msgid "We set up the rods for the girls and help them cast their lines."
+msgstr ""
+
+#: 03303:100
+
+msgid "{Andou}\n\"Hey, do something about this!\""
+msgstr ""
+
+#: 03303:101
+
+msgid "{Kazushi}\n\"What is it?\nHave you caught something already?\""
+msgstr ""
+
+#: 03303:102
+
+msgid "{Andou}\n\"The fish hook caught on my skirt. Take it out, take it out!\""
+msgstr ""
+
+#: 03303:103
+
+msgid "{Kazushi}\n\"Oh, that's too bad. I thought you might have already got a fish on your line.\""
+msgstr ""
+
+#: 03303:104
+
+msgid "It had only been five minutes. It was way too soon for anybody to get lucky."
+msgstr ""
+
+#: 03303:105
+
+msgid "{Andou}\n\"Can someone help me out?\nACK! My skirt!\""
+msgstr ""
+
+#: 03303:106
+
+msgid "{Kazushi}\n\"Just stay calm. Nobody wants to see that!\""
+msgstr ""
+
+#: 03303:107
+
+msgid "I could see her wearing black ones today. It reminded me of the pair I accidentally put on my head when we first arrived on the island."
+msgstr ""
+
+#: 03303:110
+
+msgid "{Andou}\n\"Hey!\nDon't go looking up my skirt!\""
+msgstr ""
+
+#: 03303:111
+
+msgid "{Kazushi}\n\"I swear on my life that I will never look up your skirt.\""
+msgstr ""
+
+#: 03303:112
+
+msgid "{Andou}\n\"That sounds rude.\""
+msgstr ""
+
+#: 03303:116
+
+msgid "{Ran}\n\"You're being way too loose, Kazushi. I know you're young and it's gonna happen, but at least pick a decent girl.\""
+msgstr ""
+
+#: 03303:117
+
+msgid "She was whispering, but that was too rude."
+msgstr ""
+
+#: 03303:118
+
+msgid "{Kazushi}\n\"If she heard that, you'd be in Davy Jones' locker.\""
+msgstr ""
+
+#: 03303:121
+
+msgid "{Ran}\n\"By the way, if you want to see some underwear, how about mine?\""
+msgstr ""
+
+#: 03303:122
+
+msgid "She gave me a friendly wink, but I knew what she wanted."
+msgstr ""
+
+#: 03303:123
+
+msgid "{Kazushi}\n\"But you're charging, right? No deal.\""
+msgstr ""
+
+#: 03303:126
+
+msgid "{Ran}\n\"Ahaha, you knew.\""
+msgstr ""
+
+#: 03303:127
+
+msgid "{Kazushi}\n\"Look, you're a young girl. You shouldn't be trying to make money off that.\""
+msgstr ""
+
+#: 03303:132
+
+msgid "{Pierre}\n\"Kazushi, you're so stiff. How about I take that deal?\""
+msgstr ""
+
+#: 03303:133
+
+msgid "He may sound like he's joking, but he's being serious."
+msgstr ""
+
+#: 03303:134
+
+msgid "{Kazushi}\n\"I thought you weren't interested in panties.\""
+msgstr ""
+
+#: 03303:137
+
+msgid "{Pierre}\n\"There's a difference between panties and panties when they're still on the girl.\""
+msgstr ""
+
+#: 03303:138
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 03303:139
+
+msgid "That makes sense.\nHe's a genius."
+msgstr ""
+
+#: 03303:142
+
+msgid "{Pierre}\n\"So, how much are you going to charge me?\""
+msgstr ""
+
+#: 03303:143
+
+msgid "He sounded happier than ever."
+msgstr ""
+
+#: 03303:146
+
+msgid "{Ran}\n\"Sorry, deal's closed.\""
+msgstr ""
+
+#: 03303:147
+
+msgid "Ran quickly withdrew the offer. Pierre was seriously disappointed."
+msgstr ""
+
+#: 03303:150
+
+msgid "{Pierre}\n\"Why? I promise I'll pay.\""
+msgstr ""
+
+#: 03303:151
+
+msgid "{Ran}\n\"That offer was only for Kazushi.\""
+msgstr ""
+
+#: 03303:154
+
+msgid "{Pierre}\n\"Whaddaya mean?\nYou aren't offering that to anybody besides Kazushi?\""
+msgstr ""
+
+#: 03303:155
+
+msgid "{Kazushi}\n\"What? Just for me?\""
+msgstr ""
+
+#: 03303:158
+
+msgid "{Ran}\n\"Umm......\""
+msgstr ""
+
+#: 03303:159
+
+msgid "The person who was shocked the most by that statement was actually Ran herself. I tilted my head in confusion and looked at Pierre."
+msgstr ""
+
+#: 03303:162
+
+msgid "{Ran}\n\"I didn't mean that Kazushi is more special than anybody else.\""
+msgstr ""
+
+#: 03303:163
+
+msgid "{Pierre}\n\"But that's how it is? You'll show him, but no one else?\""
+msgstr ""
+
+#: 03303:164
+
+msgid "{Ran}\n\"I don't know why either.\nI just feel so comfortable with him.\""
+msgstr ""
+
+#: 03303:165
+
+msgid "{Kazushi}\n\"What do you mean?\nAre you saying I'm one of the girls?\""
+msgstr ""
+
+#: 03303:168
+
+msgid "{Ran}\n\"Ahaha, nice one! I bet you'd look good in drag!\""
+msgstr ""
+
+#: 03303:169
+
+msgid "{Kazushi}\n\"That's not what I was asking.\""
+msgstr ""
+
+#: 03303:172
+
+msgid "{Pierre}\n\"I think she's changing the subject.\""
+msgstr ""
+
+#: 03303:174
+
+msgid "Pierre shrugged his shoulders and stepped away. He looked even more disappointed."
+msgstr ""
+
+#: 03303:177
+
+msgid "{Kazushi}\n\"Look what you did to Pierre. Don't offer something if you can't make good on it.\""
+msgstr ""
+
+#: 03303:180
+
+msgid "{Ran}\n\"But I couldn't actually show him. Kazushi, would it be all right with you if I showed other guys my panties?\""
+msgstr ""
+
+#: 03303:181
+
+msgid "{Kazushi}\n\"Why are you asking me that?\""
+msgstr ""
+
+#: 03303:182
+
+msgid "I tried to imagine her showing her underwear to Pierre."
+msgstr ""
+
+#: 03303:183
+
+msgid "Ran lifting her skirt up as Pierre watched with a really happy grin, leaning in so close his nose nearly touched."
+msgstr ""
+
+#: 03303:184
+
+msgid "{Kazushi}\n\"......\""
+msgstr ""
+
+#: 03303:187
+
+msgid "{Ran}\n\"What do you think?\""
+msgstr ""
+
+#: 03303:188
+
+msgid "{Kazushi}\n\"......I don't like it.\""
+msgstr ""
+
+#: 03303:189
+
+msgid "{Ran}\n\"What exactly do you mean by \"you don't like it\"?\""
+msgstr ""
+
+#: 03303:190
+
+msgid "It was hard for me to answer. I didn't know."
+msgstr ""
+
+#: 03303:191
+
+msgid "{Kazushi}\n\"I don't know why, but I don't want you doing that. You shouldn't go trying to make money that way.\""
+msgstr ""
+
+#: 03303:192
+
+msgid "{Ran}\n\"That's why I'm not doing it!\""
+msgstr ""
+
+#: 03303:193
+
+msgid "I didn't even know why we were arguing."
+msgstr ""
+
+#: 03303:197
+
+msgid "{Mizuki}\n\"OMIGODYOUGUYS!\""
+msgstr ""
+
+#: 03303:198
+
+msgid "All of a sudden, Mizuki screamed."
+msgstr ""
+
+#: 03303:205
+
+msgid "{Mizuki}\n\"K-Kazushi! Kazushi! Wh-why is this rod moving?\""
+msgstr ""
+
+#: 03303:206
+
+msgid "Mizuki's rod was bending like a large bow. She was trying to use all her weight to stabilise her fishing pole."
+msgstr ""
+
+#: 03303:207
+
+msgid "{Kazushi}\n\"You've caught a big one!\""
+msgstr ""
+
+#: 03303:212
+
+msgid "{Pierre}\n\"Yes! It must be a big one.\""
+msgstr ""
+
+#: 03303:213
+
+msgid "{Mizuki}\n\"Huh? What? You mean I hooked one? Wh-what do I do?\""
+msgstr ""
+
+#: 03303:214
+
+msgid "{Kazushi}\n\"Just hang in there!\""
+msgstr ""
+
+#: 03303:217
+
+msgid "I ran over and grabbed onto her rod from behind."
+msgstr ""
+
+#: 03303:220
+
+msgid "{Mizuki}\n\"What are you doing!?\""
+msgstr ""
+
+#: 03303:221
+
+msgid "Mizuki voice cracked. Probably because I had my arms around her from behind."
+msgstr ""
+
+#: 03303:222
+
+msgid "I have to press her body into mine just so that we could keep the fish on the line."
+msgstr ""
+
+#: 03303:223
+
+msgid "{Kazushi}\n\"Just deal with it for a second!\""
+msgstr ""
+
+#: 03303:226
+
+msgid "{Mizuki}\n\"All right!\""
+msgstr ""
+
+#: 03303:227
+
+msgid "I tried reeling in her fishing pole and it went crazy."
+msgstr ""
+
+#: 03303:235
+
+msgid "{Daigo}\n\"It's really big. Be careful that the line doesn't break.\""
+msgstr ""
+
+#: 03303:236
+
+msgid "{Andou}\n\"Go, Mizuki-chan!!\""
+msgstr ""
+
+#: 03303:237
+
+msgid "{Fuusen}\n\"Go Mizuki-chan! Go Haruma-kun!\""
+msgstr ""
+
+#: 03303:243
+
+msgid "{Mizuki}\n\"I'm doing my best!\nWhy does it have to be me!?\""
+msgstr ""
+
+#: 03303:244
+
+msgid "{Kazushi}\n\"It means the ocean loves you, Mizuki!\""
+msgstr ""
+
+#: 03303:247
+
+msgid "{Mizuki}\n\"You think so?\""
+msgstr ""
+
+#: 03303:252
+
+msgid "{Ran}\n\"Stop acting cool, Kazushi.\""
+msgstr ""
+
+#: 03303:253
+
+msgid "I didn't have time to reply to Ran's complaints."
+msgstr ""
+
+#: 03303:258
+
+msgid "{Pierre}\n\"Hang in there, you two!\""
+msgstr ""
+
+#: 03303:262
+
+msgid "{Haruka}\n\"Hey, Kazushi-kun.\""
+msgstr ""
+
+#: 03303:263
+
+msgid "Haruka was all excited."
+msgstr ""
+
+#: 03303:264
+
+msgid "{Haruka}\n\"Should I start getting that ready?\""
+msgstr ""
+
+#: 03303:265
+
+msgid "{Kazushi}\n\"What is it?\""
+msgstr ""
+
+#: 03303:268
+
+msgid "{Haruka}\n\"I'm talking about ink, of course. Do you want some?\""
+msgstr ""
+
+#: 03303:269
+
+msgid "{Kazushi}\n\"Ink? Why would I need that?\""
+msgstr ""
+
+#: 03303:272
+
+msgid "{Haruka}\n\"Don't fishermen keep records of the fish they've caught by using ink to show how big they are on paper?\""
+msgstr ""
+
+#: 03303:273
+
+msgid "I think she's talking about fishing prints. I'm surprised that she knows about those."
+msgstr ""
+
+#: 03303:274
+
+msgid "{Kazushi}\n\"All right.\nHaruka, I'll leave the ink to you. It's an important job, so be careful.\""
+msgstr ""
+
+#: 03303:277
+
+msgid "{Haruka}\n\"Got it! I'm a third-degree in calligraphy.\""
+msgstr ""
+
+#: 03303:278
+
+msgid "To be honest, I only asked her in order to keep her busy and away from where she might bother me."
+msgstr ""
+
+#: 03303:282
+
+msgid "{Mizuki}\n\"It's pulling me so hard!\""
+msgstr ""
+
+#: 03303:283
+
+msgid "{Kazushi}\n\"Shit! It's a strong one!\""
+msgstr ""
+
+#: 03303:284
+
+msgid "I felt like I was trying to pull up the entire Earth itself."
+msgstr ""
+
+#: 03303:290
+
+msgid "{Appo}\n\"What if after all this excitement it's just a log?\""
+msgstr ""
+
+#: 03303:291
+
+msgid "{Daigo}\n\"It can't be. It's moving.\""
+msgstr ""
+
+#: 03303:296
+
+msgid "{Mizuki}\n\"I can't keep going anymore!\""
+msgstr ""
+
+#: 03303:297
+
+msgid "{Kazushi}\n\"Just a little longer!\nHe's getting tired, too!\""
+msgstr ""
+
+#: 03303:298
+
+msgid "It was just as strong as ever, but it was moving more slowly."
+msgstr ""
+
+#: 03303:299
+
+msgid "It had been whipping about trying to shake us off, but now it was calming down."
+msgstr ""
+
+#: 03303:303
+
+msgid "{Daigo}\n\"Here it comes!\""
+msgstr ""
+
+#: 03303:304
+
+msgid "All of a sudden, the fishing pole felt lighter. We pulled the line into the air."
+msgstr ""
+
+#: 03303:308
+
+msgid "{Mizuki}\n\"Wow......!?\""
+msgstr ""
+
+#: 03303:314
+
+msgid "The ocean surface swelled up, and then out jumped a giant fish."
+msgstr ""
+
+#: 03303:321
+
+msgid "{Appo}\n\"So huge!\""
+msgstr ""
+
+#: 03303:322
+
+msgid "{Pierre}\n\"Unreal......\""
+msgstr ""
+
+#: 03303:323
+
+msgid "We couldn't believe what we saw.\nIt was so huge......"
+msgstr ""
+
+#: 03303:330
+
+msgid "{Ran}\n\"Wh-what was that? Was that a fish?\""
+msgstr ""
+
+#: 03303:331
+
+msgid "{Fuusen}\n\"It's a miracle that the fishing pole hasn't broken!\""
+msgstr ""
+
+#: 03303:335
+
+msgid "{Haruka}\n\"Hold on! Let me make your fishing pole and line stronger!\""
+msgstr ""
+
+#: 03303:343
+
+msgid "Haruka poured some kind of solution on the pole and it shone for a moment."
+msgstr ""
+
+#: 03303:344
+
+msgid "{Haruka}\n\"It should be stronger now!\""
+msgstr ""
+
+#: 03303:348
+
+msgid "{Andou}\n\"Then we can pull as hard as we want, right? Everyone, let's pull it together!\""
+msgstr ""
+
+#: 03303:356
+
+msgid "Andou and Daigo joined us in our efforts to reel in the fish."
+msgstr ""
+
+#: 03303:357
+
+msgid "{Kazushi}\n\"OH YEAH!\""
+msgstr ""
+
+#: 03303:358
+
+msgid "The fishing line was sounded like it was being stretched to its limits. It could snap at any second."
+msgstr ""
+
+#: 03303:364
+
+msgid "{Haruka}\n\"Don't worry guys, it's not going to snap!\""
+msgstr ""
+
+#: 03303:372
+
+msgid "{Kazushi}\n\"Hoooooooooh!\""
+msgstr ""
+
+#: 03303:373
+
+msgid "{Daigo}\n\"Hoooooooooooh!\""
+msgstr ""
+
+#: 03303:374
+
+msgid "{Mizuki}\n\"Here it is!!\""
+msgstr ""
+
+#: 03303:375
+
+msgid "The monster showed its huge body above the surface once again."
+msgstr ""
+
+#: 03303:384
+
+msgid "{Appo}\n\"It's out!\""
+msgstr ""
+
+#: 03303:385
+
+msgid "The huge creature flew high up into the air and started falling. Andou dashed into the shallows to catch it."
+msgstr ""
+
+#: 03303:389
+
+msgid "{Andou}\n\"Bring it!\""
+msgstr ""
+
+#: 03303:391
+
+msgid "Andou caught the beast in her massive arms."
+msgstr ""
+
+#: 03303:395
+
+msgid "{Haruka}\n\"Yes!\""
+msgstr ""
+
+#: 03303:396
+
+msgid "{Kazushi}\n\"We did it!!\""
+msgstr ""
+
+#: 03303:400
+
+msgid "{Mizuki}\n\"I did it? I did it? Yes!!\""
+msgstr ""
+
+#: 03303:401
+
+msgid "Mizuki got so excited, she couldn't help hugging me."
+msgstr ""
+
+#: 03303:402
+
+msgid "{Mizuki}\n\"I can't believe I caught such a huge fish!!\""
+msgstr ""
+
+#: 03303:403
+
+msgid "{Kazushi}\n\"Mizuki, I know you're happy, but I can't breathe...\""
+msgstr ""
+
+#: 03303:404
+
+msgid "And I could feel her soft and squishy bits..."
+msgstr ""
+
+#: 03303:411
+
+msgid "{Ran}\n *AHEM*"
+msgstr ""
+
+#: 03303:412
+
+msgid "Ran gave an obvious cough and stared at me."
+msgstr ""
+
+#: 03303:416
+
+msgid "{Mizuki}\n\"Oops.\""
+msgstr ""
+
+#: 03303:418
+
+msgid "Mizuki hid herself behind me to avoid Ran's wrath."
+msgstr ""
+
+#: 03303:421
+
+msgid "{Kazushi}\n\"Why are you staring at me like that?\""
+msgstr ""
+
+#: 03303:422
+
+msgid "{Ran}\n\"Is this what you were talking about when you said I'd need to be patient today?\""
+msgstr ""
+
+#: 03303:423
+
+msgid "Ran mumbled her disapproval."
+msgstr ""
+
+#: 03303:424
+
+msgid "{Kazushi}\n\"What do you mean?\""
+msgstr ""
+
+#: 03303:427
+
+msgid "{Ran}\n\"I'm saying that I don't get why I have to put up with watching you like that.\""
+msgstr ""
+
+#: 03303:428
+
+msgid "Ran huffed and swung her rod. I don't know why she's upset."
+msgstr ""
+
+#: 03303:431
+
+msgid "{Ran}\n\"Why am I so upset?\nI can't control my feelings......\""
+msgstr ""
+
+#: 03303:432
+
+msgid "Ran steadied herself and stared at me again."
+msgstr ""
+
+#: 03303:433
+
+msgid "{Kazushi}\n\"What is it?\""
+msgstr ""
+
+#: 03303:436
+
+msgid "{Ran}\n\"Umm......?\""
+msgstr ""
+
+#: 03303:437
+
+msgid "She continued to stare at me and tilted her head."
+msgstr ""
+
+#: 03303:438
+
+msgid "{Kazushi}\n\"Are you all right?\""
+msgstr ""
+
+#: 03303:439
+
+msgid "{Ran}\n\"I'm kinda feeling woozy...\""
+msgstr ""
+
+#: 03303:440
+
+msgid "{Kazushi}\n\"You're feeling dizzy? You're not getting heatstroke, are you?\""
+msgstr ""
+
+#: 03303:441
+
+msgid "I put my hand on her forehead. It felt a bit too hot for normal."
+msgstr ""
+
+#: 03303:444
+
+msgid "{Ran}\n\"I'll be fine.\nI don't get sick very often.\""
+msgstr ""
+
+#: 03303:445
+
+msgid "{Kazushi}\n\"Even the healthiest person can get sunstroke. You should rest up somewhere cool before it gets worse.\""
+msgstr ""
+
+#: 03303:446
+
+msgid "I grabbed her hand and dragged her somewhere shady."
+msgstr ""
+
+#: 03303:449
+
+msgid "{Ran}\n\"Ah!\""
+msgstr ""
+
+#: 03303:450
+
+msgid "She was unexpectedly obedient.\nI made her sit down and rest under the shade, handing her a water bottle."
+msgstr ""
+
+#: 03303:454
+
+msgid "{Kazushi}\n\"Here, drink some water. Pushing yourself when you think you're okay is your greatest risk.\""
+msgstr ""
+
+#: 03303:455
+
+msgid "{Ran}\n\"I'm sure I'll be fine.\""
+msgstr ""
+
+#: 03303:456
+
+msgid "She was still mumbling, but the fact that was so obedient was unusual."
+msgstr ""
+
+#: 03303:457
+
+msgid "{Kazushi}\n\"Let me sit down here, too.\""
+msgstr ""
+
+#: 03303:458
+
+msgid "I didn't want to leave her alone."
+msgstr ""
+
+#: 03303:459
+
+msgid "{Ran}\n\"Don't you wanna go back to where everyone else is?\""
+msgstr ""
+
+#: 03303:460
+
+msgid "{Kazushi}\n\"I'll stay here and make sure you don't fall into the water.\""
+msgstr ""
+
+#: 03303:461
+
+msgid "{Ran}\n\"How would I do that?\nYou're so overprotective.\""
+msgstr ""
+
+#: 03303:462
+
+msgid "{Kazushi}\n\"Actually, I wouldn't be able to help you if you did fall in the ocean because I sink like a rock.\""
+msgstr ""
+
+#: 03303:463
+
+msgid "{Ran}\n\"Are you serious?\nShame on you.\""
+msgstr ""
+
+#: 03303:464
+
+msgid "She was laughing hard. She must have been feeling a bit better now."
+msgstr ""
+
+#: 03303:465
+
+msgid "{Ran}\n\"That's hilarious. You can't even swim, but you transferred to a school where there's nothing to do but go to the beach!\""
+msgstr ""
+
+#: 03303:466
+
+msgid "{Kazushi}\n\"Oh, there's lots of other things to do here. Think about it, I transferred to a co-ed school for a reason.\""
+msgstr ""
+
+#: 03303:467
+
+msgid "{Ran}\n\"You're that happy about transferring to a co-ed school?\""
+msgstr ""
+
+#: 03303:468
+
+msgid "{Kazushi}\n\"If there's an all girls' boarding school, a man has to go. Summer, the beach, and an academy full of women... It'd be stranger if nothing happened.\""
+msgstr ""
+
+#: 03303:469
+
+msgid "{Ran}\n\"Any progress so far?\""
+msgstr ""
+
+#: 03303:470
+
+msgid "{Kazushi}\n\"......\""
+msgstr ""
+
+#: 03303:471
+
+msgid "I didn't know how to answer that question. Sure, a lot of things may have happened in the last month, but I don't know if I could call any of that progress."
+msgstr ""
+
+#: 03303:472
+
+msgid "What does that mean by \"progress\", anyways?"
+msgstr ""
+
+#: 03303:473
+
+msgid "{Ran}\n\"Well, have you found anybody you like?\""
+msgstr ""
+
+#: 03303:474
+
+msgid "Ran may have asked me the question, but now she was looking away."
+msgstr ""
+
+#: 03303:475
+
+msgid "{Kazushi}\n\"Umm, let's see......\""
+msgstr ""
+
+#: 03303:476
+
+msgid "There've been so many things happening in just one month that I guess I was too busy to think about finding \"the one\" girl for me."
+msgstr ""
+
+#: 03303:477
+
+msgid "By the way, it feels weird talking about this with Ran."
+msgstr ""
+
+#: 03303:478
+
+msgid "{Kazushi}\n\"I don't remember having this kind of conversation with you before.\""
+msgstr ""
+
+#: 03303:479
+
+msgid "{Ran}\n\"Haven't we?\""
+msgstr ""
+
+#: 03303:480
+
+msgid "{Kazushi}\n\"No, we haven't. You always talk about money.\""
+msgstr ""
+
+#: 03303:481
+
+msgid "{Ran}\n\"Ahaha, maybe you're right. Kazushi, do you hate girls like that?\""
+msgstr ""
+
+#: 03303:482
+
+msgid "{Kazushi}\n\"What kind of question is that?\""
+msgstr ""
+
+#: 03303:483
+
+msgid "{Ran}\n\"Why? Is it funny?\""
+msgstr ""
+
+#: 03303:484
+
+msgid "It is funny. She's being very careful about what words she uses to phrase her questions today."
+msgstr ""
+
+#: 03303:485
+
+msgid "She's usually blunt and inconsiderate and not very good at being delicate with her choice of expression."
+msgstr ""
+
+#: 03303:486
+
+msgid "{Kazushi}\n\"I don't dislike girls like you.\nIf I did, I wouldn't be your friend.\""
+msgstr ""
+
+#: 03303:487
+
+msgid "{Ran}\n\"Are we friends?\""
+msgstr ""
+
+#: 03303:488
+
+msgid "{Kazushi}\n\"Why not? I think we're friends.\""
+msgstr ""
+
+#: 03303:489
+
+msgid "{Ran}\n\"...am I a more special friend than Haruka or Mizuki?\""
+msgstr ""
+
+#: 03303:490
+
+msgid "{Kazushi}\n\"...huh?\""
+msgstr ""
+
+#: 03303:491
+
+msgid "Why is she asking me this?\nShe's being weird today..."
+msgstr ""
+
+#: 03303:492
+
+msgid "{Kazushi}\n\"Hey, Ran, are you OK?\""
+msgstr ""
+
+#: 03303:493
+
+msgid "Speaking of which, she looked like she was thinking about something. She tilted her head after mumbling."
+msgstr ""
+
+#: 03303:494
+
+msgid "{Ran}\n\"I feel weird here.\""
+msgstr ""
+
+#: 03303:495
+
+msgid "She pointed at her heart."
+msgstr ""
+
+#: 03303:496
+
+msgid "{Kazushi}\n\"You're having a heart attack?\""
+msgstr ""
+
+#: 03303:497
+
+msgid "{Ran}\n\"I don't think I'm that old yet.\nI don't know why I feel weird.\""
+msgstr ""
+
+#: 03303:498
+
+msgid "She scratched her chest. I started to feel kind of weird watching her."
+msgstr ""
+
+#: 03303:499
+
+msgid "{Kazushi}\n\"Hmm...\""
+msgstr ""
+
+#: 03303:500
+
+msgid "{Ran}\n\"What's wrong?\""
+msgstr ""
+
+#: 03303:501
+
+msgid "{Kazushi}\n\"I'm starting to feel weird in the same place.\""
+msgstr ""
+
+#: 03303:502
+
+msgid "{Ran}\n\"You know what I mean?\nWhat's wrong with us?\""
+msgstr ""
+
+#: 03303:503
+
+msgid "{Kazushi}\n\"I don't know......\""
+msgstr ""
+
+#: 03303:504
+
+msgid "I've never felt like this before."
+msgstr ""
+
+#: 03303:509
+
+msgid "{Kazushi}\n\"Eat! Everyone, eat!!\""
+msgstr ""
+
+#: 03303:510
+
+msgid "Everybody liked my idea of making their own sushi rolls. They all chatted as they rolled up the ones they wanted."
+msgstr ""
+
+#: 03303:513
+
+msgid "{Mei}\n\"This is a great idea.\""
+msgstr ""
+
+#: 03303:514
+
+msgid "Mei-sensei seemed impressed."
+msgstr ""
+
+#: 03303:515
+
+msgid "{Kazushi}\n\"We've got rice, sliced fish, and seaweed. This is fun and convenient, right?\""
+msgstr ""
+
+#: 03303:516
+
+msgid "Pierre and Daigo were busy running around demonstrating and helping out the girls who didn't know how to roll sushi."
+msgstr ""
+
+#: 03303:517
+
+msgid "{Kazushi}\n\"I'm surprised there are so many girls here who can't make their own sushi rolls.\""
+msgstr ""
+
+#: 03303:518
+
+msgid "They must be from rich families who either go to sushi restaurants or buy it from the grocery but never make it themselves."
+msgstr ""
+
+#: 03303:519
+
+msgid "{Mei}\n\"Actually, this is my first time making sushi.\""
+msgstr ""
+
+#: 03303:520
+
+msgid "{Kazushi}\n\"Really? Are you from a rich family?\""
+msgstr ""
+
+#: 03303:523
+
+msgid "{Mei}\n\"I thought sushi was supposed to go around and come to you...\""
+msgstr ""
+
+#: 03303:524
+
+msgid "Nope, middle class."
+msgstr ""
+
+#: 03303:525
+
+msgid "{Kazushi}\n\"I'm glad you're here with me.\""
+msgstr ""
+
+#: 03303:526
+
+msgid "I felt close to her. Mei-sensei was a beauty, but she wasn't hard to approach either. She felt like the girl-next-door."
+msgstr ""
+
+#: 03303:527
+
+msgid "{Kazushi}\n\"Oh, then have you not had one yet?\""
+msgstr ""
+
+#: 03303:530
+
+msgid "{Mei}\n\"No, I went around observing everyone, so I was just planning to make one.\""
+msgstr ""
+
+#: 03303:531
+
+msgid "{Kazushi}\n\"Come on, I'll help.\""
+msgstr ""
+
+#: 03303:534
+
+msgid "{Mei}\n\"You will?\nThanks!\""
+msgstr ""
+
+#: 03303:535
+
+msgid "{Kazushi}\n\"Then tell me which fish you want.\""
+msgstr ""
+
+#: 03303:536
+
+msgid "{Mei}\n\"Let's see......\""
+msgstr ""
+
+#: 03303:537
+
+msgid "She pointed at every fish on the table.\nI forgot her massive appetite."
+msgstr ""
+
+#: 03303:538
+
+msgid "{Kazushi}\n\"You've got yourself a huge roll.\""
+msgstr ""
+
+#: 03303:541
+
+msgid "{Mei}\n\"It looks delicious.\nCan I start?\""
+msgstr ""
+
+#: 03303:542
+
+msgid "{Kazushi}\n\"Go right ahead.\""
+msgstr ""
+
+#: 03303:545
+
+msgid "{Mei}\n\"Thank you.\""
+msgstr ""
+
+#: 03303:546
+
+msgid "She got her teeth into the special roll."
+msgstr ""
+
+#: 03303:547
+
+msgid "{Mei}\n\"This is so delicious! I can tell how fresh the fish is!\""
+msgstr ""
+
+#: 03303:548
+
+msgid "{Kazushi}\n\"We just caught the tuna today.\""
+msgstr ""
+
+#: 03303:552
+
+msgid "{Sakura}\n\"Hey, is it true that you just caught it today?!\""
+msgstr ""
+
+#: 03303:553
+
+msgid "I could see Sakura and Mizuki enjoying their sushi from the other side of the cafeteria."
+msgstr ""
+
+#: 03303:558
+
+msgid "{Mizuki}\n\"I'm telling you the truth! I caught a bunch of it this afternoon!\""
+msgstr ""
+
+#: 03303:562
+
+msgid "{Rin}\n\"There's no way a beginner could reel in such a big tuna?\""
+msgstr ""
+
+#: 03303:563
+
+msgid "{Mizuki}\n\"I'm not lying!\nKazushi! Tell her I'm not lying!!\""
+msgstr ""
+
+#: 03303:564
+
+msgid "Mizuki shouted at me for help."
+msgstr ""
+
+#: 03303:565
+
+msgid "{Kazushi}\n\"She's right. She caught a huge fish on her first cast.\""
+msgstr ""
+
+#: 03303:569
+
+msgid "{Sakura}\n\"She really did!? I can't believe it! You sure are a girl of the sea.\""
+msgstr ""
+
+#: 03303:572
+
+msgid "{Mizuki}\n\"Well, Kazushi helped me out of course.\""
+msgstr ""
+
+#: 03303:573
+
+msgid "{Sakura}\n\"You guys caught it together? A collaboration?\""
+msgstr ""
+
+#: 03303:576
+
+msgid "{Mizuki}\n\"Hey, it's not like we're getting married.\""
+msgstr ""
+
+#: 03303:577
+
+msgid "{Sakura}\n\"Ahaha, you're blushing! You're such a shy girl!\""
+msgstr ""
+
+#: 03303:581
+
+msgid "{Rin}\n\"That's why Sakura teases you all the time.\""
+msgstr ""
+
+#: 03303:582
+
+msgid "{Mizuki}\n\"I can't help it......\""
+msgstr ""
+
+#: 03303:586
+
+msgid "{Sakura}\n\"Come over here, Harucchi. Let me take a picture of you and Mizuki!\""
+msgstr ""
+
+#: 03303:587
+
+msgid "{Mizuki}\n\"Why are you doing this?\nI'm too shy for that.\""
+msgstr ""
+
+#: 03303:588
+
+msgid "{Kazushi}\n\"What? A picture?\""
+msgstr ""
+
+#: 03303:592
+
+msgid "{Sakura}\n\"Just get over here.\""
+msgstr ""
+
+#: 03303:593
+
+msgid "Sakura pulled my arm."
+msgstr ""
+
+#: 03303:597
+
+msgid "{Ran}\n\"Wait a minute.\""
+msgstr ""
+
+#: 03303:598
+
+msgid "Ran got in between us in order to pull me away."
+msgstr ""
+
+#: 03303:599
+
+msgid "{Ran}\n\"..................\""
+msgstr ""
+
+#: 03303:600
+
+msgid "Her eyes were scary. She seemed upset."
+msgstr ""
+
+#: 03303:603
+
+msgid "{Ran}\n\"Hey, Kazushi......\""
+msgstr ""
+
+#: 03303:604
+
+msgid "All of a sudden, she broke out in a smile."
+msgstr ""
+
+#: 03303:605
+
+msgid "{Ran}\n\"Will you make me a sushi roll, too?\""
+msgstr ""
+
+#: 03303:606
+
+msgid "{Kazushi}\n\"A sushi roll? Sure...\""
+msgstr ""
+
+#: 03303:607
+
+msgid "But she already had some sushi in her hand."
+msgstr ""
+
+#: 03303:608
+
+msgid "{Kazushi}\n\"You've already got one. Why do you need my help?\""
+msgstr ""
+
+#: 03303:616
+
+msgid "{Sakura}\n\"He's busy! We're just about to take a picture...\""
+msgstr ""
+
+#: 03303:619
+
+msgid "{Mizuki}\n\"...ack!\""
+msgstr ""
+
+#: 03303:625
+
+msgid "{Rin}\n\"Ah, Mizuki-chan ran off!\""
+msgstr ""
+
+#: 03303:628
+
+msgid "{Sakura}\n\"Ah, hold on! After her!\""
+msgstr ""
+
+#: 03303:633
+
+msgid "Sakura and Fujisaki-san went after Mizuki."
+msgstr ""
+
+#: 03303:636
+
+msgid "{Ran}\n\"Make me a sushi roll, Kazushi.\""
+msgstr ""
+
+#: 03303:637
+
+msgid "Ran was being unusually persistent."
+msgstr ""
+
+#: 03303:638
+
+msgid "{Kazushi}\n\"Fine, but why me?\""
+msgstr ""
+
+#: 03303:641
+
+msgid "{Ran}\n\"......it's tiring.\""
+msgstr ""
+
+#: 03303:642
+
+msgid "She was being selfish.\nWhat's wrong with her?"
+msgstr ""
+
+#: 03303:643
+
+msgid "{Kazushi}\n\"Making your own roll is the fun part, you know?\""
+msgstr ""
+
+#: 03303:648
+
+msgid "{Mei}\n\"Yes. Haruma-kun's right. Handmade sushi is meant to be enjoyed in the making, not just eating.\""
+msgstr ""
+
+#: 03303:649
+
+msgid "{Kazushi}\n\"It's fun.\nTry......\""
+msgstr ""
+
+#: 03303:650
+
+msgid "{Ran}\n\"Just make me one.\nYou made one for her.\""
+msgstr ""
+
+#: 03303:651
+
+msgid "{Kazushi}\n\"What's the matter with you?\nFine, I guess I can make you one, but tell me what you want.\""
+msgstr ""
+
+#: 03303:654
+
+msgid "{Ran}\n\"Let's see...\nThis! And this!\""
+msgstr ""
+
+#: 03303:655
+
+msgid "And suddenly she became all cheerful."
+msgstr ""
+
+#: 03303:658
+
+msgid "{Mei}\n\"Oh my.\""
+msgstr ""
+
+#: 03303:659
+
+msgid "Mei-sensei shrugged her shoulders in jest as she watched us."
+msgstr ""
+
+#: 03303:660
+
+msgid "There was a protective smile on her lips."
+msgstr ""
+
+#: 03303:661
+
+msgid "{Kazushi}\n\"What is it, Mei-sensei?\""
+msgstr ""
+
+#: 03303:662
+
+msgid "{Mei}\n\"Nothing. I just never knew you two are so close. I've never seen Kamoike-san act so spoiled in front of someone before.\""
+msgstr ""
+
+#: 03303:665
+
+msgid "{Ran}\n\"...I'm not fawning over Kazushi.\""
+msgstr ""
+
+#: 03303:666
+
+msgid "{Kazushi}\n\"Yes you are. You're making me prepare a sushi roll for you.\""
+msgstr ""
+
+#: 03303:669
+
+msgid "{Ran}\n\"???\nDo you really call that fawning over someone?\""
+msgstr ""
+
+#: 03303:670
+
+msgid "{Kazushi}\n\"Yes, I do.\""
+msgstr ""
+
+#: 03303:673
+
+msgid "{Mei}\n\"I would.\""
+msgstr ""
+
+#: 03303:674
+
+msgid "{Ran}\n\"Hmm...\""
+msgstr ""
+
+#: 03303:675
+
+msgid "She didn't realize it herself?\nRan's been acting weird around me lately. I wonder what's gotten into her."
+msgstr ""
+
+#: 03303:679
+
+msgid "{Ran}\n\"Hey, Kazushi......\""
+msgstr ""
+
+#: 03303:680
+
+msgid "Ran tugged on my shirt sleeve."
+msgstr ""
+
+#: 03303:681
+
+msgid "{Ran}\n\"Follow me outside for a sec.\""
+msgstr ""
+
+#: 03303:682
+
+msgid "{Kazushi}\n\"What is it?\""
+msgstr ""
+
+#: 03303:685
+
+msgid "{Ran}\n\"......I need to ask you something. Can you come with me for just a sec?\""
+msgstr ""
+
+#: 03303:686
+
+msgid "{Kazushi}\n\"What do you need?\""
+msgstr ""
+
+#: 03303:687
+
+msgid "I wonder what it is. Ran's never asked me for help before."
+msgstr ""
+
+#: 03303:692
+
+msgid "{Kazushi}\n\"What did you need to tell me?\""
+msgstr ""
+
+#: 03303:695
+
+msgid "{Ran}\n\"Umm......\""
+msgstr ""
+
+#: 03303:696
+
+msgid "She's looking down. It must be something difficult to say."
+msgstr ""
+
+#: 03303:697
+
+msgid "{Kazushi}\n\"Is it something difficult to discuss?\""
+msgstr ""
+
+#: 03303:698
+
+msgid "{Ran}\n\"Well......\""
+msgstr ""
+
+#: 03303:699
+
+msgid "She rocked her body uncomfortably, twirled her fingers, stuttered as she tried to say it, and then finally let it out."
+msgstr ""
+
+#: 03303:702
+
+msgid "{Ran}\n\"Please lend me some money!!\""
+msgstr ""
+
+#: 03303:703
+
+msgid "{Kazushi}\n\"What? Money?\nHow much do you need?\""
+msgstr ""
+
+#: 03303:704
+
+msgid "Of course, I don't actually have any money. And when I say that, I don't mean \"oh I don't have any money with me at school.\" I mean \"I literally have no money.\""
+msgstr ""
+
+#: 03303:707
+
+msgid "{Ran}\n\"Well...... How much money do you have?\""
+msgstr ""
+
+#: 03303:708
+
+msgid "She asked me back.\nI didn't know."
+msgstr ""
+
+#: 03303:709
+
+msgid "{Kazushi}\n\"What do you mean \"how much do I have\"?\nYou're the who's asking a favor.\""
+msgstr ""
+
+#: 03303:710
+
+msgid "{Ran}\n\"I see.\nMaybe...1,000,000 yen?\""
+msgstr ""
+
+#: 03303:711
+
+msgid "{Kazushi}\n\"1,000,000 yen!? No way!\""
+msgstr ""
+
+#: 03303:712
+
+msgid "Of course I didn't have it.\nWhat kind of student has that kind of money?"
+msgstr ""
+
+#: 03303:713
+
+msgid "{Ran}\n\"No?\nWhat about 100,000 yen?\""
+msgstr ""
+
+#: 03303:714
+
+msgid "{Kazushi}\n\"I think I might have 100,000 yen...\""
+msgstr ""
+
+#: 03303:715
+
+msgid "No, I don't have 100,000. What should I do?"
+msgstr ""
+
+#: 03303:716
+
+msgid "What should I do..."
+msgstr ""
+

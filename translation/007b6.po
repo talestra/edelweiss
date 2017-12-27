@@ -1,0 +1,528 @@
+# Comments for '007b6'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 007b6:8
+
+msgid "Hinata-san, huh? I'd like to get to know her better. We do sit next to each other in class."
+msgstr ""
+
+#: 007b6:9
+
+msgid "{Kazushi}\n\"Where's Hinata-san?\""
+msgstr ""
+
+#: 007b6:10
+
+msgid "There were a lot of people here, but I didn't see her anywhere I looked."
+msgstr ""
+
+#: 007b6:11
+
+msgid "{Kazushi}\n\"I wonder if she's...\""
+msgstr ""
+
+#: 007b6:12
+
+msgid "I had a feeling that she'd be outside."
+msgstr ""
+
+#: 007b6:20
+
+msgid "{Kazushi}\n\"Knew it.\""
+msgstr ""
+
+#: 007b6:21
+
+msgid "She was sitting there outside, all by herself."
+msgstr ""
+
+#: 007b6:23
+
+msgid "{Mizuki}\n\"Ah!......\""
+msgstr ""
+
+#: 007b6:24
+
+msgid "She recognized me and turned her head away. I ignored that and kept walking towards her."
+msgstr ""
+
+#: 007b6:27
+
+msgid "{Kazushi}\n\"What are you doing here?\""
+msgstr ""
+
+#: 007b6:28
+
+msgid "{Mizuki}\n\"......resting.\""
+msgstr ""
+
+#: 007b6:29
+
+msgid "Her response was curt. I suddenly had a thought: maybe she was just awkward around people."
+msgstr ""
+
+#: 007b6:30
+
+msgid "{Kazushi}\n\"Are you drunk?\""
+msgstr ""
+
+#: 007b6:31
+
+msgid "{Mizuki}\n\"I didn't drink.\""
+msgstr ""
+
+#: 007b6:32
+
+msgid "{Kazushi}\n\"You sure? Because your face sure is red.\""
+msgstr ""
+
+#: 007b6:35
+
+msgid "{Mizuki}\n\"I-it's the sunset.\""
+msgstr ""
+
+#: 007b6:38
+
+msgid "She turned her head away again. She might just be awkward, not a bad person."
+msgstr ""
+
+#: 007b6:39
+
+msgid "{Mizuki}\n\"..................\""
+msgstr ""
+
+#: 007b6:40
+
+msgid "{Kazushi}\n\"Oh, right. I'm sorry about this afternoon.\""
+msgstr ""
+
+#: 007b6:43
+
+msgid "{Mizuki}\n\"Huh? What now?\""
+msgstr ""
+
+#: 007b6:44
+
+msgid "{Kazushi}\n\"Remember? I called you a lesbian?\""
+msgstr ""
+
+#: 007b6:45
+
+msgid "Just having to explain that turned my cheeks red. What on Earth was wrong with me when I said that to her face?"
+msgstr ""
+
+#: 007b6:48
+
+msgid "{Mizuki}\n\"That really was horrible. Would you normally say that? Especially to someone's face?\""
+msgstr ""
+
+#: 007b6:49
+
+msgid "Shit. I didn't mean to get her angry again."
+msgstr ""
+
+#: 007b6:50
+
+msgid "{Kazushi}\n\"S-sorry.\nI guess I had the wrong preconception of an all-girls' school. My imagination went wild.\""
+msgstr ""
+
+#: 007b6:53
+
+msgid "{Mizuki}\n\"Your imagination? Oh come on! What the heck were you imagining?\""
+msgstr ""
+
+#: 007b6:54
+
+msgid "{Kazushi}\n\"Well, it's embarrassing to say, but... I imagined two girls ****ing each other, ****ing their *****, and it was pretty realistic too.\""
+msgstr ""
+
+#: 007b6:57
+
+msgid "{Mizuki}\n\"Stop! Stop! I wasn't asking you go into that much detail!\""
+msgstr ""
+
+#: 007b6:58
+
+msgid "{Kazushi}\n\"Huh? Oh, you weren't?\""
+msgstr ""
+
+#: 007b6:59
+
+msgid "Oops. I made her even angrier. Why do I always end up making her angry? Are we incompatible?"
+msgstr ""
+
+#: 007b6:60
+
+msgid "{Kazushi}\n\"Hinata-san, are you upset that we boys enrolled at this school?\""
+msgstr ""
+
+#: 007b6:61
+
+msgid "I wondered if that was the reason she was so grumpy. It was the only reason I could think of."
+msgstr ""
+
+#: 007b6:64
+
+msgid "{Mizuki}\n\"Not really...\""
+msgstr ""
+
+#: 007b6:65
+
+msgid "{Kazushi}\n\"No? But you're always grumpy? Oh, are you on your period?\""
+msgstr ""
+
+#: 007b6:68
+
+msgid "{Mizuki}\n\"............!\""
+msgstr ""
+
+#: 007b6:69
+
+msgid "{Kazushi}\n\"Er, no, nothing.\""
+msgstr ""
+
+#: 007b6:70
+
+msgid "I really think I should just shut up."
+msgstr ""
+
+#: 007b6:73
+
+msgid "{Mizuki}\n\"Can we not talk about that? I hate periods. It's because I can't swim.\""
+msgstr ""
+
+#: 007b6:74
+
+msgid "{Kazushi}\n\"Oh, yeah...\""
+msgstr ""
+
+#: 007b6:75
+
+msgid "I guess I was pretty close?"
+msgstr ""
+
+#: 007b6:78
+
+msgid "{Mizuki}\n\"I haven't been able to swim as much as I want to for a long time.\""
+msgstr ""
+
+#: 007b6:79
+
+msgid "She stretched out like she really hadn't worked her body in a while. Maybe she's just frustrated?"
+msgstr ""
+
+#: 007b6:80
+
+msgid "{Kazushi}\n\"Why can't you swim? Oh, because your period came?\""
+msgstr ""
+
+#: 007b6:83
+
+msgid "{Mizuki}\n\"You're wrong! It's because you boys came!\""
+msgstr ""
+
+#: 007b6:84
+
+msgid "{Kazushi}\n\"Huh? Us? Why can't you swim because of us?\""
+msgstr ""
+
+#: 007b6:85
+
+msgid "It had to be a false accusation, right? When I asked her, Hinata puffed out her cheeks. She looked just like an angry kid."
+msgstr ""
+
+#: 007b6:86
+
+msgid "I almost started laughing."
+msgstr ""
+
+#: 007b6:89
+
+msgid "{Mizuki}\n\"Until now, I could swim wherever, whenever without worrying about it. The ocean is all around us after all.\""
+msgstr ""
+
+#: 007b6:90
+
+msgid "{Kazushi}\n\"That's true.\""
+msgstr ""
+
+#: 007b6:91
+
+msgid "This was the perfect place for swimming. To put it differently, the ocean was all we had for fun here."
+msgstr ""
+
+#: 007b6:93
+
+msgid "{Mizuki}\n\"And well, there were only girls on this island, so I could readily swim without worrying about my outfit. I could just change wherever.\""
+msgstr ""
+
+#: 007b6:96
+
+msgid "{Mizuki}\n\"Now that you boys are here, I can't do that. I have to be more careful about a lot of things.\""
+msgstr ""
+
+#: 007b6:97
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 007b6:98
+
+msgid "She didn't have to worry earlier because it was an all girls academy, but she had to now that we were here."
+msgstr ""
+
+#: 007b6:99
+
+msgid "{Kazushi}\n\"I guess it is our fault then. I didn't know we were taking away your hobby. ...Sorry.\""
+msgstr ""
+
+#: 007b6:102
+
+msgid "{Mizuki}\n\"You don't have to be that bothered by it. I'm not blaming you all, okay? But the fact that I can't swim is so fru~stra~ting!\""
+msgstr ""
+
+#: 007b6:103
+
+msgid "I see. So that's why she's always in a bad mood."
+msgstr ""
+
+#: 007b6:104
+
+msgid "{Kazushi}\n\"So you like swimming, then.\""
+msgstr ""
+
+#: 007b6:107
+
+msgid "{Mizuki}\n\"I love swimming!\""
+msgstr ""
+
+#: 007b6:108
+
+msgid "Hinata-san's smile was so fascinating it blew away all of her grumpy faces."
+msgstr ""
+
+#: 007b6:109
+
+msgid "{Kazushi}\n\"Ah!......\""
+msgstr ""
+
+#: 007b6:116
+
+msgid "We heard a clap of thunder and it started raining. It was an evening shower."
+msgstr ""
+
+#: 007b6:117
+
+msgid "Then rain picked up force in no time."
+msgstr ""
+
+#: 007b6:118
+
+msgid "{Kazushi}\n\"Gah! Look at the rain! Let's get back inside!\""
+msgstr ""
+
+#: 007b6:121
+
+msgid "But Mizuki refused to budge. She looked up at the sky and basked in the buckets of rain pouring down on her."
+msgstr ""
+
+#: 007b6:122
+
+msgid "{Kazushi}\n\"Hey? Hinata-san?\""
+msgstr ""
+
+#: 007b6:123
+
+msgid "We were both soaked in no time. Our shirts, our underwear, even the insides of our shoes were wet. And yet..."
+msgstr ""
+
+#: 007b6:124
+
+msgid "{Mizuki}\n\"Mmmmmmm!! This feels great!!\""
+msgstr ""
+
+#: 007b6:125
+
+msgid "Hinata-san stretched out wide and screamed with joy."
+msgstr ""
+
+#: 007b6:126
+
+msgid "{Kazushi}\n\"Feels great? You're soaking wet!\""
+msgstr ""
+
+#: 007b6:127
+
+msgid "{Mizuki}\n\"So what if I get wet? Rain is nothing but water.\""
+msgstr ""
+
+#: 007b6:128
+
+msgid "{Kazushi}\n\"I know, but...\""
+msgstr ""
+
+#: 007b6:129
+
+msgid "Nothing but water. That's why getting wet was nothing. She had a point."
+msgstr ""
+
+#: 007b6:130
+
+msgid "{Mizuki}\n\"That and it's too late now. We're not getting any wetter than we already are.\""
+msgstr ""
+
+#: 007b6:131
+
+msgid "She cast a glance up at the sky."
+msgstr ""
+
+#: 007b6:132
+
+msgid "{Mizuki}\n\"Heeeeeey! Pour hardeeer!!\""
+msgstr ""
+
+#: 007b6:134
+
+msgid "Sure enough, the rain got harder."
+msgstr ""
+
+#: 007b6:135
+
+msgid "{Mizuki}\n\"Ahahahaha! It actually listened!\""
+msgstr ""
+
+#: 007b6:136
+
+msgid "She was so happy from the rain that she was smiling from the bottom of her heart. Maybe this is the real Hinata-san."
+msgstr ""
+
+#: 007b6:137
+
+msgid "{Mizuki}\n\"Haruma-kun, come over here and get wetter!\""
+msgstr ""
+
+#: 007b6:138
+
+msgid "{Kazushi}\n\"I've never had a girl ask me to get wet before.\""
+msgstr ""
+
+#: 007b6:139
+
+msgid "{Mizuki}\n\"Men shouldn't worry about little things! Come on over here!\""
+msgstr ""
+
+#: 007b6:140
+
+msgid "She pulled me out from under the tree and heavy rain beat against me."
+msgstr ""
+
+#: 007b6:141
+
+msgid "{Kazushi}\n\"Wow......\""
+msgstr ""
+
+#: 007b6:142
+
+msgid "Countless raindrops pelted my skin. It felt like each drop brought new life to me. It was incredible."
+msgstr ""
+
+#: 007b6:143
+
+msgid "{Mizuki}\n\"How is it for you!?\""
+msgstr ""
+
+#: 007b6:144
+
+msgid "She spoke proudly, as if it was her doing. That childlike innocence was also quite charming."
+msgstr ""
+
+#: 007b6:149
+
+msgid "{Kazushi}\n\"Ah......\""
+msgstr ""
+
+#: 007b6:150
+
+msgid "The rain quickly began to ease up, the clouds started to roll by, and in no time the rain had stopped."
+msgstr ""
+
+#: 007b6:153
+
+msgid "{Mizuki}\n\"Awww, that's it?\""
+msgstr ""
+
+#: 007b6:154
+
+msgid "She looked like a child being told to put her toys away. However, she still looked more satisfied than she was before."
+msgstr ""
+
+#: 007b6:155
+
+msgid "{Kazushi}\n\"That's a shame.\""
+msgstr ""
+
+#: 007b6:158
+
+msgid "{Mizuki}\n\"Well-\nI think I had enough for one day.\""
+msgstr ""
+
+#: 007b6:159
+
+msgid "She was drenched, but she put on a bright smile."
+msgstr ""
+
+#: 007b6:160
+
+msgid "{Kazushi}\n\"That's right. You certainly have.\""
+msgstr ""
+
+#: 007b6:161
+
+msgid "I flashed a smile in response to hers."
+msgstr ""
+
+#: 007b6:164
+
+msgid "{Mizuki}\n\"Ah!......\""
+msgstr ""
+
+#: 007b6:165
+
+msgid "She finally realised that she was smiling at me and turned away."
+msgstr ""
+
+#: 007b6:166
+
+msgid "{Kazushi}\n\"You don't have to hide it.\""
+msgstr ""
+
+#: 007b6:167
+
+msgid "{Mizuki}\n\"I-I'm not!\""
+msgstr ""
+
+#: 007b6:168
+
+msgid "As the sound of the heavy rain disappeared, we hear a joyful ruckus coming from the cafeteria."
+msgstr ""
+
+#: 007b6:169
+
+msgid "{Kazushi}\n\"So, shall we head back?\""
+msgstr ""
+
+#: 007b6:172
+
+msgid "{Mizuki}\n\"Yeah, we should.\""
+msgstr ""
+

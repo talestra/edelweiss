@@ -1,0 +1,33 @@
+# Comments for '03414'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 03414:8
+
+msgid "{Kazushi}\n\"Maybe I should help.\""
+msgstr ""
+
+#: 03414:9
+
+msgid "I stood up. I certainly wasn't sleepy anymore."
+msgstr ""
+
+#: 03414:10
+
+msgid "{Kazushi}\n\"Now, where could she be?\""
+msgstr ""
+
+#: 03414:11
+
+msgid "Mizuki and Sakura went to the village to look for her, so I'll see if I can find her anywhere around the school."
+msgstr ""
+

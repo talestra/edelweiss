@@ -1,0 +1,138 @@
+# Comments for '00736'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 00736:10
+
+msgid "I'm not sure why I'm bothering with this. I already know what she's going to say."
+msgstr ""
+
+#: 00736:11
+
+msgid "{Kazushi}\n\"Can I ask you something?\""
+msgstr ""
+
+#: 00736:14
+
+msgid "{Ran}\n\"Me?\nIs there something you want to know about me?\""
+msgstr ""
+
+#: 00736:15
+
+msgid "{Kazushi}\n\"Huh? Well, kind of I guess?\""
+msgstr ""
+
+#: 00736:16
+
+msgid "It's a little different, though."
+msgstr ""
+
+#: 00736:19
+
+msgid "{Ran}\n\"All right, well I guess I don't mind sharing a few of my secrets with you, Kazushi.\""
+msgstr ""
+
+#: 00736:20
+
+msgid "{Kazushi}\n\"Secrets?\""
+msgstr ""
+
+#: 00736:21
+
+msgid "What secrets?"
+msgstr ""
+
+#: 00736:22
+
+msgid "Ran's secrets? That sounded kind of naughty."
+msgstr ""
+
+#: 00736:23
+
+msgid "{Ran}\n\"So what do you want to know about me? Did you want to know that? Or maybe that other thing?\""
+msgstr ""
+
+#: 00736:24
+
+msgid "{Kazushi}\n\"What's \"that\"?\nWhat kind of naughty secret do you have?\""
+msgstr ""
+
+#: 00736:27
+
+msgid "{Ran}\n\"What? There's nothing naughty about it.\""
+msgstr ""
+
+#: 00736:28
+
+msgid "{Kazushi}\n\"Oh, it's not? Sorry! I just assumed!\""
+msgstr ""
+
+#: 00736:31
+
+msgid "She wasn't upset at all. In fact, she was grinning like some corrupt judge."
+msgstr ""
+
+#: 00736:32
+
+msgid "{Ran}\n\"I see. Do you want to get to know my naughty side? I don't blame you - we ARE adolescents, after all.\""
+msgstr ""
+
+#: 00736:33
+
+msgid "{Kazushi}\n\"Thanks for understanding.\""
+msgstr ""
+
+#: 00736:34
+
+msgid "She's a very understanding girl. I like that part of her."
+msgstr ""
+
+#: 00736:35
+
+msgid "{Kazushi}\n\"Is there anything you really want?\""
+msgstr ""
+
+#: 00736:38
+
+msgid "{Ran}\n\"Money.\""
+msgstr ""
+
+#: 00736:39
+
+msgid "That was a quick answer."
+msgstr ""
+
+#: 00736:40
+
+msgid "{Kazushi}\n\"I thought so.\""
+msgstr ""
+
+#: 00736:41
+
+msgid "I knew that answer was coming. Asking her was a waste of time."
+msgstr ""
+
+#: 00736:44
+
+msgid "{Ran}\n\"Are you going to give me some?\""
+msgstr ""
+
+#: 00736:45
+
+msgid "{Kazushi}\n\"No, sorry.\""
+msgstr ""
+
+#: 00736:46
+
+msgid "I think I should ask someone else."
+msgstr ""
+

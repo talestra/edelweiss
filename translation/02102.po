@@ -1,0 +1,308 @@
+# Comments for '02102'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 02102:9
+
+msgid "{Kazushi}\n\"So where was this place you wanted to go?\""
+msgstr ""
+
+#: 02102:12
+
+msgid "{Mizuki}\n\"..................\""
+msgstr ""
+
+#: 02102:13
+
+msgid "She walked at a brisk pace in absolute silence. Was it just my imagination, or was she angry?"
+msgstr ""
+
+#: 02102:14
+
+msgid "{Kazushi}\n\"Where are we going? Is there something interesting this way?\""
+msgstr ""
+
+#: 02102:15
+
+msgid "{Mizuki}\n\"..................\""
+msgstr ""
+
+#: 02102:18
+
+msgid "She stopped and turned around in silence. She sure looked upset."
+msgstr ""
+
+#: 02102:21
+
+msgid "{Mizuki}\n\"Why are you following me?\""
+msgstr ""
+
+#: 02102:22
+
+msgid "{Kazushi}\n\"What do you mean, \"why\"?\""
+msgstr ""
+
+#: 02102:23
+
+msgid "{Mizuki}\n\"Why are you following me? I just said that I needed to stop somewhere on the way back.\""
+msgstr ""
+
+#: 02102:24
+
+msgid "{Kazushi}\n\"Is it bad if I do? Is there something you're trying to hide from me?\""
+msgstr ""
+
+#: 02102:27
+
+msgid "{Mizuki}\n\"It's nothing like that......\""
+msgstr ""
+
+#: 02102:28
+
+msgid "{Kazushi}\n\"Then, what's the problem?\""
+msgstr ""
+
+#: 02102:31
+
+msgid "{Mizuki}\n\"..................\""
+msgstr ""
+
+#: 02102:33
+
+msgid "We started walking side by side again. She kept staring at her own feet, though. She looked rather tense from the side."
+msgstr ""
+
+#: 02102:35
+
+msgid "{Kazushi}\n\"Why are you so nervous?\""
+msgstr ""
+
+#: 02102:38
+
+msgid "{Mizuki}\n\"I'm not nervous. Look, Kazuko and Appo-kun...\""
+msgstr ""
+
+#: 02102:39
+
+msgid "{Kazushi}\n\"I'm glad they became a couple.\""
+msgstr ""
+
+#: 02102:42
+
+msgid "{Mizuki}\n\"Huh? Oh, yeah......sure.\""
+msgstr ""
+
+#: 02102:45
+
+msgid "After acting surprised, she hung her head again."
+msgstr ""
+
+#: 02102:46
+
+msgid "{Kazushi}\n\"Hey, are you perhaps......\""
+msgstr ""
+
+#: 02102:49
+
+msgid "{Mizuki}\n\"What?\""
+msgstr ""
+
+#: 02102:50
+
+msgid "{Kazushi}\n\"You like Appo, don't you?\""
+msgstr ""
+
+#: 02102:51
+
+msgid "{Mizuki}\n\"Huh? Appo-kun? No, no! No way!\""
+msgstr ""
+
+#: 02102:52
+
+msgid "Her disgust was obvious. I felt kind of bad as his friend."
+msgstr ""
+
+#: 02102:53
+
+msgid "{Kazushi}\n\"Appo's actually a pretty good guy.\""
+msgstr ""
+
+#: 02102:56
+
+msgid "{Mizuki}\n\"Maybe he is, but why do me and Appo have to?\""
+msgstr ""
+
+#: 02102:57
+
+msgid "{Kazushi}\n\"Why? You don't need a reason to fall in love.\""
+msgstr ""
+
+#: 02102:60
+
+msgid "{Mizuki}\n\"Who cares about boys, anyways.\""
+msgstr ""
+
+#: 02102:61
+
+msgid "She spat out in disgust."
+msgstr ""
+
+#: 02102:62
+
+msgid "{Kazushi}\n\"Aren't you interested in guys, Mizuki? Or love?\""
+msgstr ""
+
+#: 02102:63
+
+msgid "{Mizuki}\n\"I wouldn't have come to an all-girls school if I was.\""
+msgstr ""
+
+#: 02102:64
+
+msgid "{Kazushi}\n\"That's not true.\""
+msgstr ""
+
+#: 02102:65
+
+msgid "Fuusen's going out with Appo. Sakura and Rin were very much interested in boys."
+msgstr ""
+
+#: 02102:66
+
+msgid "{Mizuki}\n\"Ahh, I finally came to an all-girls school, so why does it have to turn coed halfway through?\""
+msgstr ""
+
+#: 02102:69
+
+msgid "{Mizuki}\n\"I came all this way to a remote island, so I could swim freely without worrying about the eyes of others. I wish they wouldn't just change their policies.\""
+msgstr ""
+
+#: 02102:70
+
+msgid "{Mizuki}\n\"Now I can't swim naked anymore.\""
+msgstr ""
+
+#: 02102:71
+
+msgid "{Kazushi}\n\"Well, just wear a swimsuit.\""
+msgstr ""
+
+#: 02102:72
+
+msgid "{Mizuki}\n\"But...there are times when I forget to bring my swimsuit, right? I might even suddenly feel the need.\""
+msgstr ""
+
+#: 02102:73
+
+msgid "{Kazushi}\n\"It's not like a toilet.\""
+msgstr ""
+
+#: 02102:74
+
+msgid "Suddenly feel the need?"
+msgstr ""
+
+#: 02102:75
+
+msgid "{Mizuki}\n\"I can't exactly bring my swimsuit with me all the time, either.\""
+msgstr ""
+
+#: 02102:76
+
+msgid "She sent me a meaningful glance. Not that I know why she's squirming."
+msgstr ""
+
+#: 02102:77
+
+msgid "{Kazushi}\n\"Where are we headed anyways?\""
+msgstr ""
+
+#: 02102:78
+
+msgid "I followed after Mizuki, but had no idea where we were going..."
+msgstr ""
+
+#: 02102:79
+
+msgid "All of a sudden, I saw the stairs leading down to the beach."
+msgstr ""
+
+#: 02102:80
+
+msgid "{Kazushi}\n\"Are you perhaps going to......\""
+msgstr ""
+
+#: 02102:85
+
+msgid "{Mizuki}\n\"And sometimes there are times when I'd like to sneak away and swim alone, because I forget it, but some boy who can't read between the lines follows after me.\""
+msgstr ""
+
+#: 02102:86
+
+msgid "{Kazushi}\n\"Oh, now I get it.\""
+msgstr ""
+
+#: 02102:87
+
+msgid "So that's why."
+msgstr ""
+
+#: 02102:88
+
+msgid "{Kazushi}\n\"All right, I get it. I'll go home from here.\""
+msgstr ""
+
+#: 02102:91
+
+msgid "{Mizuki}\n\"Forget it. You might peep on me again.\""
+msgstr ""
+
+#: 02102:92
+
+msgid "{Kazushi}\n\"I'm telling you, that was an accident!\""
+msgstr ""
+
+#: 02102:93
+
+msgid "It was an accident, but now you're making me recall it."
+msgstr ""
+
+#: 02102:96
+
+msgid "{Mizuki}\n\"W-why is your face getting red?! You're not thinking anything dirty are you?!\""
+msgstr ""
+
+#: 02102:97
+
+msgid "{Kazushi}\n\"No, not at all...\""
+msgstr ""
+
+#: 02102:98
+
+msgid "{Mizuki}\n\"W-why are you pulling your hips back? Why are you bent over like that?!\""
+msgstr ""
+
+#: 02102:99
+
+msgid "{Kazushi}\n\"Well, this is, you know......!?\""
+msgstr ""
+
+#: 02102:100
+
+msgid "I got hard from the memories..."
+msgstr ""
+
+#: 02102:103
+
+msgid "{Mizuki}\n\"Argh!! This is why I hate you boys!!\""
+msgstr ""
+

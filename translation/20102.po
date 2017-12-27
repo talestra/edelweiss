@@ -1,0 +1,3723 @@
+# Comments for '20102'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 20102:9
+
+msgid "{Haruka}\n\"Thanks, guys. We'll be fine from here.\""
+msgstr ""
+
+#: 20102:14
+
+msgid "{Pierre}\n\"You're welcome.\""
+msgstr ""
+
+#: 20102:15
+
+msgid "In the end, we all walked the girls home together."
+msgstr ""
+
+#: 20102:19
+
+msgid "{Andou}\n\"Good job, guys. Now go back to your dorm.\""
+msgstr ""
+
+#: 20102:22
+
+msgid "{Pierre}\n\"I know, I know. We're going.\""
+msgstr ""
+
+#: 20102:26
+
+msgid "{Sakura}\n\"Thanks, guys.\""
+msgstr ""
+
+#: 20102:30
+
+msgid "{Rin}\n\"Bye-bye, everybody.\""
+msgstr ""
+
+#: 20102:34
+
+msgid "{Appo}\n\"Good night.\""
+msgstr ""
+
+#: 20102:37
+
+msgid "The girls all split off and returned to their dorm."
+msgstr ""
+
+#: 20102:40
+
+msgid "Yet Mizuki alone lingered, not heading back to the dorm. She kept glancing back at me."
+msgstr ""
+
+#: 20102:45
+
+msgid "{Pierre}\n\"All right. Let's go home, guys.\""
+msgstr ""
+
+#: 20102:46
+
+msgid "{Kazushi}\n\"Yeah.\""
+msgstr ""
+
+#: 20102:47
+
+msgid "{Mizuki}\n\"Uh...\""
+msgstr ""
+
+#: 20102:48
+
+msgid "Obviously she wanted to say something, but something else was holding her back. There must be something she wants to tell me."
+msgstr ""
+
+#: 20102:49
+
+msgid "{Kazushi}\n\"You guys go on ahead, I'll catch up.\""
+msgstr ""
+
+#: 20102:53
+
+msgid "{Appo}\n\"Huh?\""
+msgstr ""
+
+#: 20102:54
+
+msgid "Appo and Pierre exchanged a look and chuckled with a leer."
+msgstr ""
+
+#: 20102:59
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 20102:60
+
+msgid "{Pierre}\n\"Nothing. Take your time.\""
+msgstr ""
+
+#: 20102:61
+
+msgid "{Appo}\n\"I'm going to sleep, so be quiet when you come home.\""
+msgstr ""
+
+#: 20102:62
+
+msgid "{Kazushi}\n\"Okay.\""
+msgstr ""
+
+#: 20102:65
+
+msgid "{Pierre}\n\"See you later. Good night, Mizuki-chan.\""
+msgstr ""
+
+#: 20102:70
+
+msgid "{Mizuki}\n\"Oh, okay. Good night.\""
+msgstr ""
+
+#: 20102:71
+
+msgid "Pierre and Appo left us alone."
+msgstr ""
+
+#: 20102:72
+
+msgid "{Mizuki}\n\"Uh...\""
+msgstr ""
+
+#: 20102:73
+
+msgid "{Kazushi}\n\"You want to walk for a bit?\""
+msgstr ""
+
+#: 20102:74
+
+msgid "{Mizuki}\n\"Yes.\""
+msgstr ""
+
+#: 20102:79
+
+msgid "Because there aren't any tall buildings or street lights on this island, and because the sea is clear and vast, you can see innumerable stars in the sky."
+msgstr ""
+
+#: 20102:80
+
+msgid "All we could see was the vastness of the heavens above. I felt like were walking amongst the stars themselves."
+msgstr ""
+
+#: 20102:81
+
+msgid "{Kazushi}\n\"It's amazing. I didn't know you could see so many stars here.\""
+msgstr ""
+
+#: 20102:84
+
+msgid "{Mizuki}\n\"Yeah. I was blown away when I first came here and saw them.\""
+msgstr ""
+
+#: 20102:85
+
+msgid "{Kazushi}\n\"Tell me about it.\""
+msgstr ""
+
+#: 20102:87
+
+msgid "We looked like a real couple as we walked along the path, looking up at the night sky together."
+msgstr ""
+
+#: 20102:90
+
+msgid "{Mizuki}\n\"Th-thanks, for earlier.\""
+msgstr ""
+
+#: 20102:91
+
+msgid "Mizuki said in an excited voice while looking up at the sky."
+msgstr ""
+
+#: 20102:92
+
+msgid "{Kazushi}\n\"No problem. It's not a big deal.\""
+msgstr ""
+
+#: 20102:95
+
+msgid "{Mizuki}\n\"I guess you must find that rumor pretty annoying though. After all, this may ruin your relationship with someone special...\""
+msgstr ""
+
+#: 20102:96
+
+msgid "{Kazushi}\n\"Someone special?\""
+msgstr ""
+
+#: 20102:99
+
+msgid "{Mizuki}\n\"Yeah. If there's someone special in your life right now, you wouldn't want her to get the wrong idea about you, right?\""
+msgstr ""
+
+#: 20102:100
+
+msgid "{Kazushi}\n\"Yeah, but only if there is one...\""
+msgstr ""
+
+#: 20102:101
+
+msgid "If there's someone I liked, I might be able to use the high-class technique of making her feel jealous through this rumor."
+msgstr ""
+
+#: 20102:102
+
+msgid "But I also knew that such a trick usually turned around to bite one in the rear."
+msgstr ""
+
+#: 20102:103
+
+msgid "{Mizuki}\n\"Is there a girl that you're serious about right now?\""
+msgstr ""
+
+#: 20102:104
+
+msgid "{Kazushi}\n\"Not really. At least not at the moment.\""
+msgstr ""
+
+#: 20102:105
+
+msgid "{Mizuki}\n\"Hmm, I thought you were always thinking of girls.\""
+msgstr ""
+
+#: 20102:106
+
+msgid "{Kazushi}\n\"Get out! How about you, Mizuki? What's the truth?\""
+msgstr ""
+
+#: 20102:109
+
+msgid "{Mizuki}\n\"I'm not a lesbian!\""
+msgstr ""
+
+#: 20102:110
+
+msgid "She looked mad. It was clear how much she hated it when people called her a lesbian."
+msgstr ""
+
+#: 20102:111
+
+msgid "She didn't have to take it so personally, though. However, the truth is, I felt kinda relieved about that."
+msgstr ""
+
+#: 20102:112
+
+msgid "{Kazushi}\n\"No one really thinks you like girls more than boys, including me. What I meant, was do you have someone special in your life?\""
+msgstr ""
+
+#: 20102:115
+
+msgid "{Mizuki}\n\"No...\nNot really. Is that bad?\""
+msgstr ""
+
+#: 20102:116
+
+msgid "{Kazushi}\n\"Not at all. What it means is that whatever everyone else thinks about us, it's not going to hurt anybody else, at least for now.\""
+msgstr ""
+
+#: 20102:119
+
+msgid "{Mizuki}\n\"You're right. And everyone'll forget all about this by the end of summer.\""
+msgstr ""
+
+#: 20102:120
+
+msgid "{Kazushi}\n\"So just let them think whatever they want to think about us.\""
+msgstr ""
+
+#: 20102:121
+
+msgid "{Mizuki}\n\"It won't do us any harm, so why not? And for me, it's better than being called a lesbian.\""
+msgstr ""
+
+#: 20102:124
+
+msgid "Mizuki started in on me anyways."
+msgstr ""
+
+#: 20102:125
+
+msgid "{Mizuki}\n\"Just to make sure, this is only a pretense, okay? Just pretend.\""
+msgstr ""
+
+#: 20102:126
+
+msgid "{Kazushi}\n\"I know.\""
+msgstr ""
+
+#: 20102:127
+
+msgid "Even so, it sounded exciting. I could feel that something thrilling would happen this summer."
+msgstr ""
+
+#: 20102:133
+
+msgid "{Kazushi}\n\"Happy birthday, Daigo!!\""
+msgstr ""
+
+#: 20102:135
+
+msgid "Kampai!! With my toast, everybody shouted in unison. Today is July 29th - Daigo's birthday."
+msgstr ""
+
+#: 20102:138
+
+msgid "{Daigo}\n\"Th-th-th-th-thank you!!\""
+msgstr ""
+
+#: 20102:143
+
+msgid "{Ran}\n\"So you've now turned 48, Kudou-kun?\""
+msgstr ""
+
+#: 20102:147
+
+msgid "{Pierre}\n\"Yeah, right.\""
+msgstr ""
+
+#: 20102:152
+
+msgid "{Haruka}\n\"I didn't know that... You're still in school at that age? What a passion for learning!\""
+msgstr ""
+
+#: 20102:153
+
+msgid "{Kazushi}\n\"Haruka, don't take her seriously.\""
+msgstr ""
+
+#: 20102:155
+
+msgid "However, Daigo seemed so overwhelmed that he didn't even hear our conversation."
+msgstr ""
+
+#: 20102:158
+
+msgid "{Daigo}\n\"Oh... Thank you. Thank you...\""
+msgstr ""
+
+#: 20102:159
+
+msgid "He was crying in joy."
+msgstr ""
+
+#: 20102:164
+
+msgid "{Pierre}\n\"Come on. This is just a party. Don't cry.\""
+msgstr ""
+
+#: 20102:165
+
+msgid "{Kazushi}\n\"He's just not used to being treated kindly.\""
+msgstr ""
+
+#: 20102:166
+
+msgid "{Daigo}\n\"I-I've never had a birthday party for myself.\""
+msgstr ""
+
+#: 20102:170
+
+msgid "{Haruka}\n\"Oh, poor Daigo.\""
+msgstr ""
+
+#: 20102:174
+
+msgid "{Rin}\n\"Didn't your family ever do that for you?\""
+msgstr ""
+
+#: 20102:175
+
+msgid "{Daigo}\n\"My-my parents both work, so they've always been too busy...\""
+msgstr ""
+
+#: 20102:179
+
+msgid "{Mei}\n\"Then Meike sure you have a lot of fun with everyone today.\""
+msgstr ""
+
+#: 20102:182
+
+msgid "{Daigo}\n\"Yeah... Yeaaah!!\""
+msgstr ""
+
+#: 20102:186
+
+msgid "{Pierre}\n\"Oh yeah, when is your birthday, Mei-chan?\""
+msgstr ""
+
+#: 20102:187
+
+msgid "Pierre made a smooth move. Good job! There's so much I should learn from him."
+msgstr ""
+
+#: 20102:190
+
+msgid "{Mei}\n\"You're not supposed to ask women their age.\""
+msgstr ""
+
+#: 20102:191
+
+msgid "Maybe not this time... The move didn't work with Mei-sensei."
+msgstr ""
+
+#: 20102:194
+
+msgid "{Pierre}\n\"I was only asking your birthday, not your age.\""
+msgstr ""
+
+#: 20102:199
+
+msgid "{Daigo}\n\"Thank you, everybody! Thank you very much! *Snort... Snort*\""
+msgstr ""
+
+#: 20102:200
+
+msgid "{Kazushi}\n\"Whoa! Blow your nose! Here, have a tissue!\""
+msgstr ""
+
+#: 20102:203
+
+msgid "{Daigo}\n\"Bbbbbfffffffffffttttttt!\""
+msgstr ""
+
+#: 20102:208
+
+msgid "{Pierre}\n\"Hey, hey! Don't blow your brains out! You'll tear the tissue!\""
+msgstr ""
+
+#: 20102:211
+
+msgid "{Daigo}\n\"I-I-I'm so happy to be alive!!\""
+msgstr ""
+
+#: 20102:212
+
+msgid "Suddenly, Daigo got up and started chugging his beer."
+msgstr ""
+
+#: 20102:215
+
+msgid "{Daigo}\n\"Phaaaahh!!\""
+msgstr ""
+
+#: 20102:216
+
+msgid "{Kazushi}\n\"Hey, easy. Are you okay?\""
+msgstr ""
+
+#: 20102:219
+
+msgid "{Daigo}\n\"I'm okay. I'm okay.\""
+msgstr ""
+
+#: 20102:220
+
+msgid "Daigo thumped his chest, but he was already staggering. He didn't look fine at all."
+msgstr ""
+
+#: 20102:223
+
+msgid "{Pierre}\n\"It would be perfect if he got a nice girlfriend or something.\""
+msgstr ""
+
+#: 20102:224
+
+msgid "{Daigo}\n\"Oh, that would be asking for too much, Pierre. I'm already too happy from this - and I've used up all my luck getting this far.\""
+msgstr ""
+
+#: 20102:228
+
+msgid "{Rin}\n\"Wow, you're so humble, Kudou-kun.\""
+msgstr ""
+
+#: 20102:229
+
+msgid "{Kazushi}\n\"He's not very used to a lot of happy things happening all at once, so it's left him kinda scared.\""
+msgstr ""
+
+#: 20102:233
+
+msgid "{Pierre}\n\"I'll have to be more proactive this summer. Especially since it seems like I've fallen behind Kazushi now.\""
+msgstr ""
+
+#: 20102:234
+
+msgid "Pierre gave me a suggestive smile."
+msgstr ""
+
+#: 20102:235
+
+msgid "I twitched. I thought it meant he already knew about me and Mizuki."
+msgstr ""
+
+#: 20102:236
+
+msgid "And the worst part is, he also knows that we're just pretending to see each other. He's going to enjoy watching how far we can go with this."
+msgstr ""
+
+#: 20102:241
+
+msgid "{Daigo}\n\"You've found bliss now too, huh, Kazushi? So it's true that you're going out with Hinata?\""
+msgstr ""
+
+#: 20102:242
+
+msgid "Since he wasn't there that time, Daigo must have heard the rumour. That or he's leaping to his own conclusions."
+msgstr ""
+
+#: 20102:247
+
+msgid "{Mizuki}\n\"Come on, this isn't the time or the place. We're here to celebrate Kudou-kun's birthday.\""
+msgstr ""
+
+#: 20102:248
+
+msgid "To help change the subject, Mizuki poured a fresh round of beer into Daigo's glass."
+msgstr ""
+
+#: 20102:253
+
+msgid "{Haruka}\n\"This is so fun! Let's have another birthday party!\""
+msgstr ""
+
+#: 20102:258
+
+msgid "{Ran}\n\"Whose birthday comes next?\""
+msgstr ""
+
+#: 20102:262
+
+msgid "{Sakura}\n\"I don't think anyone has one until a fair time from now?\""
+msgstr ""
+
+#: 20102:267
+
+msgid "{Pierre}\n\"So Mei-chan, please tell us when your birthday is!\""
+msgstr ""
+
+#: 20102:272
+
+msgid "{Mei}\n\"Umm...... mine's a ways off. Sorry.\""
+msgstr ""
+
+#: 20102:275
+
+msgid "It didn't look like there was anyone else. I guess there aren't that many people born in summer. Oh yeah, I wonder when Mizuki's birthday is?"
+msgstr ""
+
+#: 20102:276
+
+msgid "{Kazushi}\n\"Hey, Mizuki...\""
+msgstr ""
+
+#: 20102:277
+
+msgid "{Kazushi}\n\"Hmm?\""
+msgstr ""
+
+#: 20102:278
+
+msgid "When did Mizuki disappear? I only took my eyes off her for a second."
+msgstr ""
+
+#: 20102:279
+
+msgid "{Kazushi}\n\"Have you seen Mizuki anywhere?\""
+msgstr ""
+
+#: 20102:282
+
+msgid "{Rin}\n\"I just saw her leaving. Maybe she went to the bathroom.\""
+msgstr ""
+
+#: 20102:283
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 20102:287
+
+msgid "{Pierre}\n\"Hmm? I don't see Appo either.\""
+msgstr ""
+
+#: 20102:288
+
+msgid "{Kazushi}\n\"Yeah, I haven't seen him around. Wasn't he absent from the beginning?\""
+msgstr ""
+
+#: 20102:289
+
+msgid "{Pierre}\n\"What a heartless guy. Where did he run off to on his best friend's birthday party?\""
+msgstr ""
+
+#: 20102:294
+
+msgid "{Daigo}\n\"Execution! Appo gets the death penalty!!\""
+msgstr ""
+
+#: 20102:295
+
+msgid "Daigo kept at it with the beer. It's just a matter of time before he passes out, so we don't really need to worry - we all need to blow off steam every once in a while."
+msgstr ""
+
+#: 20102:300
+
+msgid "{Rin}\n\"Hey, look.\""
+msgstr ""
+
+#: 20102:301
+
+msgid "Fujisaki-san tugged on my shirt with a grin."
+msgstr ""
+
+#: 20102:302
+
+msgid "{Rin}\n\"You know, Mizuki-chan may be waiting for you outside.\""
+msgstr ""
+
+#: 20102:303
+
+msgid "Oh no, not again. Why does Fujisaki-san have to keep bringing that back up?"
+msgstr ""
+
+#: 20102:304
+
+msgid "{Kazushi}\n\"Why would Mizuki be? She's probably in the bathroom.\""
+msgstr ""
+
+#: 20102:305
+
+msgid "{Rin}\n\"Come on, maybe she snuck outside because she wants to be alone with you?\""
+msgstr ""
+
+#: 20102:306
+
+msgid "I don't get it."
+msgstr ""
+
+#: 20102:307
+
+msgid "{Kazushi}\n\"If that's true, then how come she didn't ask me to go with her? What's the point in stepping out by yourself?\""
+msgstr ""
+
+#: 20102:310
+
+msgid "{Rin}\n\"You really don't get it, do you? She's testing you to see whether you'd notice and come after her if she didn't tell you.\""
+msgstr ""
+
+#: 20102:311
+
+msgid "{Kazushi}\n\"Huh? Testing me?\""
+msgstr ""
+
+#: 20102:312
+
+msgid "{Rin}\n\"If you truly love her, you ought to be looking at her all the time. Then you'd have known that she left.\""
+msgstr ""
+
+#: 20102:313
+
+msgid "{Rin}\n\"So I bet Mizuki's waiting outside right now for you to come after her.\""
+msgstr ""
+
+#: 20102:314
+
+msgid "{Kazushi}\n\"I'm still not sure.\""
+msgstr ""
+
+#: 20102:315
+
+msgid "After hearing that, I started to think she might be right. Is Mizuki waiting for me outside? She's more adorable than I thought."
+msgstr ""
+
+#: 20102:318
+
+msgid "{Rin}\n\"So go on. You can't make her worried.\""
+msgstr ""
+
+#: 20102:319
+
+msgid "{Kazushi}\n\"Yeah, alright. Thanks, Fujisaki-san.\""
+msgstr ""
+
+#: 20102:320
+
+msgid "{Rin}\n\"Good luck, guys!\""
+msgstr ""
+
+#: 20102:328
+
+msgid "{Kazushi}\n\"Huh? She's not here.\""
+msgstr ""
+
+#: 20102:329
+
+msgid "I thought she'd be waiting just outside the cafeteria, but she wasn't there. I started wandering around looking for her."
+msgstr ""
+
+#: 20102:332
+
+msgid "{Mizuki}\n\".........\""
+msgstr ""
+
+#: 20102:333
+
+msgid "There you are."
+msgstr ""
+
+#: 20102:334
+
+msgid "{Kazushi}\n\"Mizuki.\""
+msgstr ""
+
+#: 20102:337
+
+msgid "{Mizuki}\n\"Yes?!\""
+msgstr ""
+
+#: 20102:338
+
+msgid "I startled her. She jumped up in surprise."
+msgstr ""
+
+#: 20102:341
+
+msgid "{Mizuki}\n\"Oh, Kazushi. It's you.\""
+msgstr ""
+
+#: 20102:342
+
+msgid "She looked surprised to see me. This meant she wasn't waiting for me.\n...of course she wasn't."
+msgstr ""
+
+#: 20102:343
+
+msgid "Fujisaki-san may have said that, but we're just pretending to date. There's no way Mizuki would test me."
+msgstr ""
+
+#: 20102:344
+
+msgid "{Kazushi}\n\"What are you doing here all by yourself?\""
+msgstr ""
+
+#: 20102:347
+
+msgid "{Mizuki}\n\"Huh? Oh, I just needed to get some fresh air. To sober up, you know.\""
+msgstr ""
+
+#: 20102:348
+
+msgid "Made sense to me - she looked rather flushed. I sat down next to her."
+msgstr ""
+
+#: 20102:351
+
+msgid "{Mizuki}\n\"How about you? What are you doing here?\""
+msgstr ""
+
+#: 20102:352
+
+msgid "{Kazushi}\n\"Same as you. Need to sober myself up.\""
+msgstr ""
+
+#: 20102:353
+
+msgid "{Mizuki}\n\"Hmm...\""
+msgstr ""
+
+#: 20102:354
+
+msgid "How could I say \"I was looking for you because I thought you were waiting for me\"?"
+msgstr ""
+
+#: 20102:355
+
+msgid "It would be so embarrassing to admit it. What the hell was I expecting, anyways?"
+msgstr ""
+
+#: 20102:358
+
+msgid "{Mizuki}\n\"I thought you'd come looking for me.\""
+msgstr ""
+
+#: 20102:359
+
+msgid "Mizuki muttered something under her breath. What did I just hear?"
+msgstr ""
+
+#: 20102:360
+
+msgid "{Kazushi}\n\"What? What did you just say?\""
+msgstr ""
+
+#: 20102:363
+
+msgid "{Mizuki}\n\"Ahahaha, no way, right? Because there's no reason whatsoever for you to have come looking for me.\""
+msgstr ""
+
+#: 20102:364
+
+msgid "She glanced at me while attempting to laugh. Suddenly we lapsed into an awkward silence."
+msgstr ""
+
+#: 20102:365
+
+msgid "{Kazushi}\n\"Actually...\""
+msgstr ""
+
+#: 20102:366
+
+msgid "Fuck! What do I say now? Should I just tell her the truth? But we aren't really..."
+msgstr ""
+
+#: 20102:367
+
+msgid "{Daigo}\n\"Are you happyyyyyy?\""
+msgstr ""
+
+#: 20102:368
+
+msgid "We could hear Daigo screaming from the cafeteria."
+msgstr ""
+
+#: 20102:369
+
+msgid "It seemed like the party was now in full swing. I heard people shouting with excitement."
+msgstr ""
+
+#: 20102:370
+
+msgid "{Kazushi}\n\"Daigo's feeling pretty high, huh? He must be so damn happy.\""
+msgstr ""
+
+#: 20102:373
+
+msgid "{Mizuki}\n\"I guess so.\""
+msgstr ""
+
+#: 20102:374
+
+msgid "Her answer's not very enthusiastic. Is it because I didn't give her the right answer earlier? Maybe... Maybe not..."
+msgstr ""
+
+#: 20102:375
+
+msgid "I've been thinking about Mizuki all the time since yesterday. Maybe I'm just wasting my time and energy.\n......Hey, this sounds like I really am in love?"
+msgstr ""
+
+#: 20102:376
+
+msgid "{Mizuki}\n\".........\""
+msgstr ""
+
+#: 20102:377
+
+msgid "The awkward silence continued oppressing us."
+msgstr ""
+
+#: 20102:378
+
+msgid "{Kazushi}\n\"Oh yeah, when's your birthday?\""
+msgstr ""
+
+#: 20102:381
+
+msgid "{Mizuki}\n\"What's this all of a sudden?\""
+msgstr ""
+
+#: 20102:382
+
+msgid "She sounded a bit confused."
+msgstr ""
+
+#: 20102:383
+
+msgid "{Kazushi}\n\"We were all just talking about everyone's birthdays at the party. So I was wondering when yours is.\""
+msgstr ""
+
+#: 20102:386
+
+msgid "{Mizuki}\n\"No, that's okay...\""
+msgstr ""
+
+#: 20102:387
+
+msgid "{Kazushi}\n\"What do you mean, that's okay? Just tell me.\""
+msgstr ""
+
+#: 20102:390
+
+msgid "{Mizuki}\n\"No...\""
+msgstr ""
+
+#: 20102:391
+
+msgid "She resisted stubbornly."
+msgstr ""
+
+#: 20102:392
+
+msgid "{Kazushi}\n\"Why? It's just your birthday...\""
+msgstr ""
+
+#: 20102:393
+
+msgid "Then, at that moment--"
+msgstr ""
+
+#: 20102:394
+
+msgid "{???}\n\"Hoooooooooohnn!\""
+msgstr ""
+
+#: 20102:397
+
+msgid "{Mizuki}\n\"Huh?\""
+msgstr ""
+
+#: 20102:398
+
+msgid "There was a groaning, creepy voice coming from the forest. It sounded like it originated in the deepest pits of hell."
+msgstr ""
+
+#: 20102:399
+
+msgid "{Kazushi}\n\"What the hell was that horrible voice?\""
+msgstr ""
+
+#: 20102:402
+
+msgid "{Mizuki}\n\"I-I heard it from that bush over there.\""
+msgstr ""
+
+#: 20102:403
+
+msgid "She pointed at a bush in the corner of the schoolyard. It's pretty dark out here when the lights aren't on..."
+msgstr ""
+
+#: 20102:404
+
+msgid "{???}\n\"Uhoo! Oooooooh... Mmm!\""
+msgstr ""
+
+#: 20102:405
+
+msgid "{Kazushi}\n\"Again...!\""
+msgstr ""
+
+#: 20102:406
+
+msgid "{Mizuki}\n\"Is there something in there? A wild animal?\""
+msgstr ""
+
+#: 20102:407
+
+msgid "{Kazushi}\n\"Maybe. Is there anything like that on this island?\""
+msgstr ""
+
+#: 20102:408
+
+msgid "{Mizuki}\n\"Like what?\""
+msgstr ""
+
+#: 20102:409
+
+msgid "{Kazushi}\n\"Like...a wolf?\""
+msgstr ""
+
+#: 20102:412
+
+msgid "{Mizuki}\n\"A wolf? There aren't any wolves in Japan.\""
+msgstr ""
+
+#: 20102:413
+
+msgid "{Kazushi}\n\"Really?\""
+msgstr ""
+
+#: 20102:414
+
+msgid "{???}\n\"Ngh... Oooooooooooh... Mmm...!!\""
+msgstr ""
+
+#: 20102:415
+
+msgid "Wait, there's something wrong with this. That groan is starting to sound more human."
+msgstr ""
+
+#: 20102:416
+
+msgid "{Mizuki}\n\"What is it, then? Is there somebody out there?\""
+msgstr ""
+
+#: 20102:417
+
+msgid "Mizuki pulled on my shirt, clinging to it as she looked scared. Those voices weren't ordinary for humans - they were more like the death throes of a man in agony."
+msgstr ""
+
+#: 20102:418
+
+msgid "Something is happening out there."
+msgstr ""
+
+#: 20102:419
+
+msgid "{Kazushi}\n\"I'm going to go take a look.\""
+msgstr ""
+
+#: 20102:422
+
+msgid "{Mizuki}\n\"No. Stop! It's too dangerous!\""
+msgstr ""
+
+#: 20102:423
+
+msgid "{Kazushi}\n\"I'm fine. I've got to help if there's been an accident.\""
+msgstr ""
+
+#: 20102:426
+
+msgid "{Mizuki}\n\"Yeah, but...\""
+msgstr ""
+
+#: 20102:427
+
+msgid "{Kazushi}\n\"You just stay back.\""
+msgstr ""
+
+#: 20102:428
+
+msgid "{Mizuki}\n\"Hey, wait...!\""
+msgstr ""
+
+#: 20102:429
+
+msgid "{Kazushi}\n\"I'll be right back.\""
+msgstr ""
+
+#: 20102:432
+
+msgid "Leaving Mizuki alone, I walked into the bushes."
+msgstr ""
+
+#: 20102:434
+
+msgid "Rustle, rustle, rustle..."
+msgstr ""
+
+#: 20102:435
+
+msgid "{Kazushi}\n\"Must be over there...\""
+msgstr ""
+
+#: 20102:437
+
+msgid "Some parts of the bushes were shaking with noise and motion. There was somebody in there. I slowly trod through the bushes and tried to look into them."
+msgstr ""
+
+#: 20102:438
+
+msgid "{Mizuki}\n\"Kazushi...\""
+msgstr ""
+
+#: 20102:439
+
+msgid "I heard Mizuki's thin voice from behind."
+msgstr ""
+
+#: 20102:440
+
+msgid "{Kazushi}\n\"What the hell are you doing here?\""
+msgstr ""
+
+#: 20102:443
+
+msgid "{Mizuki}\n\"Because I felt scared by myself...\""
+msgstr ""
+
+#: 20102:444
+
+msgid "{Kazushi}\n\"Felt scared? That's not like you.\""
+msgstr ""
+
+#: 20102:447
+
+msgid "{Mizuki}\n\"S-sorry!\""
+msgstr ""
+
+#: 20102:448
+
+msgid "{Kazushi}\n\"Shh! Keep your voice down!\""
+msgstr ""
+
+#: 20102:451
+
+msgid "{Mizuki}\n\"Hmm... Hmm...!!\""
+msgstr ""
+
+#: 20102:453
+
+msgid "I covered her mouth with my hand as we peeped through the back of the bushes. It was dead silent."
+msgstr ""
+
+#: 20102:454
+
+msgid "{Kazushi}\n(Don't say a word.)"
+msgstr ""
+
+#: 20102:455
+
+msgid "I let go of my hand."
+msgstr ""
+
+#: 20102:458
+
+msgid "{Mizuki}\n(Where? Is it close?)"
+msgstr ""
+
+#: 20102:459
+
+msgid "{Kazushi}\n(There's somebody in that bush.)"
+msgstr ""
+
+#: 20102:462
+
+msgid "{Mizuki}\n(Re-really?)"
+msgstr ""
+
+#: 20102:464
+
+msgid "We kept quiet and held our breaths for a while. I didn't see or hear anything from there. It seemed that whoever was over there also wanted to keep quiet."
+msgstr ""
+
+#: 20102:465
+
+msgid "Does that mean they know we're here?"
+msgstr ""
+
+#: 20102:466
+
+msgid "{Kazushi}\n\".........\""
+msgstr ""
+
+#: 20102:467
+
+msgid "Over a minute passed... Then..."
+msgstr ""
+
+#: 20102:468
+
+msgid "{Appo}\n\"Maybe it's just my imagination...\""
+msgstr ""
+
+#: 20102:469
+
+msgid "We hear a familiar voice from the bush."
+msgstr ""
+
+#: 20102:470
+
+msgid "{Kazushi}\n(Huh? Appo?)"
+msgstr ""
+
+#: 20102:472
+
+msgid "{Fuusen}\n\"No one is going to come to a place like this. Now come on, keep going!\""
+msgstr ""
+
+#: 20102:475
+
+msgid "{Mizuki}\n(What? Kazuko?)"
+msgstr ""
+
+#: 20102:476
+
+msgid "If that's Appo and her, then that voice was..."
+msgstr ""
+
+#: 20102:477
+
+msgid "{Mizuki}\n\"Hey, Kazushi.\""
+msgstr ""
+
+#: 20102:478
+
+msgid "{Kazushi}\n\".........\""
+msgstr ""
+
+#: 20102:479
+
+msgid "We walked further into the bush and peeped in there."
+msgstr ""
+
+#: 20102:484
+
+msgid "There we saw the two of them going at it doggy style beneath the stars."
+msgstr ""
+
+#: 20102:485
+
+msgid "From their silhouette they looked just like a four-legged beast about the size of two people."
+msgstr ""
+
+#: 20102:486
+
+msgid "{Fuusen}\n\"Hh, hhh, yesssssssss! Thrust more! Give me more of your burly lance, Ah-chan!\""
+msgstr ""
+
+#: 20102:487
+
+msgid "{Mizuki}\n(Wh-what the hell are they doing in here!?)"
+msgstr ""
+
+#: 20102:488
+
+msgid "After catching a glance of those two, Mizuki turned so red I thought she'd catch on fire."
+msgstr ""
+
+#: 20102:489
+
+msgid "{Fuusen}\n\"Oooh! Oooooooohhh!! Oh, yes! Oh, yessss!!\""
+msgstr ""
+
+#: 20102:490
+
+msgid "That pained howling was just Fuusen moaning!"
+msgstr ""
+
+#: 20102:491
+
+msgid "{Kazushi}\n\"Jeez, talk about misleading.\""
+msgstr ""
+
+#: 20102:492
+
+msgid "{Mizuki}\n\"How can you be so calm? Stop them! Go and stop them!\""
+msgstr ""
+
+#: 20102:493
+
+msgid "{Kazushi}\n\"Why? We can't just tell them to stop. They're not doing anything wrong...\""
+msgstr ""
+
+#: 20102:494
+
+msgid "Though there is a problem with where."
+msgstr ""
+
+#: 20102:495
+
+msgid "{Mizuki}\n\"But they can't do that out here! I know there's some kind of law against it...\""
+msgstr ""
+
+#: 20102:496
+
+msgid "{Kazushi}\n\"I know, but...\""
+msgstr ""
+
+#: 20102:497
+
+msgid "{Fuusen}\n\"AHHHHH!! You're killing me! I'm going to die of pleasure!!\""
+msgstr ""
+
+#: 20102:498
+
+msgid "{Mizuki}\n\"H-hey...\""
+msgstr ""
+
+#: 20102:499
+
+msgid "Mizuki fell more and more silent. At first she only stole glances, but soon her eyes were glued to them."
+msgstr ""
+
+#: 20102:500
+
+msgid "In the end, we just kept our mouths shut and watched them both fuck."
+msgstr ""
+
+#: 20102:501
+
+msgid "{Mizuki}\n\"H-hey...\""
+msgstr ""
+
+#: 20102:502
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 20102:503
+
+msgid "{Mizuki}\n\"Um... Do men's...things...usually become that big?\""
+msgstr ""
+
+#: 20102:504
+
+msgid "Mizuki stared at where the two were making contact. Appo's large, greasy cock was illuminated by the moonlight."
+msgstr ""
+
+#: 20102:505
+
+msgid "{Kazushi}\n\"Yeah. They do...during sex.\""
+msgstr ""
+
+#: 20102:506
+
+msgid "{Mizuki}\n\"I-I see. ......I can't believe such a big thing can go inside...\""
+msgstr ""
+
+#: 20102:507
+
+msgid "With a surprised look, Mizuki kept looking at the point of penetration."
+msgstr ""
+
+#: 20102:508
+
+msgid "{Appo}\n\"Like this? Do you like it?\""
+msgstr ""
+
+#: 20102:510
+
+msgid "Appo started moving faster. He shook his hips like a beast. His pounding sounds echoed all over the campus."
+msgstr ""
+
+#: 20102:511
+
+msgid "{Fuusen}\n\"AH-CHAN! YES! YES! OOOOOOHH!\""
+msgstr ""
+
+#: 20102:512
+
+msgid "{Mizuki}\n\"Hey, is sex usually this intense?\""
+msgstr ""
+
+#: 20102:513
+
+msgid "{Kazushi}\n\"Uh, this is pretty intense...\""
+msgstr ""
+
+#: 20102:514
+
+msgid "{Mizuki}\n\".........\""
+msgstr ""
+
+#: 20102:515
+
+msgid "Mizuki was struck dumb. In truth, their sex wasn't what I'd call erotically exciting."
+msgstr ""
+
+#: 20102:516
+
+msgid "I didn't know what to do in this situation with Mizuki so close to me."
+msgstr ""
+
+#: 20102:517
+
+msgid "{Mizuki}\n\".........\""
+msgstr ""
+
+#: 20102:518
+
+msgid "While Mizuki sat on the ground, I didn't know where to turn my eyes, since the nape of her neck and a hint of her thigh peeking out of her skirt came into my sight."
+msgstr ""
+
+#: 20102:519
+
+msgid "{Fuusen}\n\"I'm coming! I'm coming, I'm coming, I'm coming, I'm Coming!!\""
+msgstr ""
+
+#: 20102:520
+
+msgid "{Mizuki}\n\"Hhh?!\""
+msgstr ""
+
+#: 20102:521
+
+msgid "{Kazushi}\n\"Mizuki. Let's go!\""
+msgstr ""
+
+#: 20102:522
+
+msgid "I took her hand."
+msgstr ""
+
+#: 20102:523
+
+msgid "{Mizuki}\n\"Ah...\""
+msgstr ""
+
+#: 20102:524
+
+msgid "I left that spot pulling Mizuki's hand behind me."
+msgstr ""
+
+#: 20102:525
+
+msgid "{Fuusen}\n\"E-ec! Ecs! Ecstasyyyyyyyyyyyy!\""
+msgstr ""
+
+#: 20102:533
+
+msgid "{Daigo}\n\"Kazushiiiii!\""
+msgstr ""
+
+#: 20102:535
+
+msgid "Daigo jumped up and hugged me tight as I returned to the cafeteria somewhat tired."
+msgstr ""
+
+#: 20102:536
+
+msgid "{Kazushi}\n\"Whoa! Hey, stop it! That's disgusting!!\""
+msgstr ""
+
+#: 20102:537
+
+msgid "{Daigo}\n\"Where the hell have you been? Come on! Celebrate my birthday! Entertain me more! I'm so lonely.\""
+msgstr ""
+
+#: 20102:538
+
+msgid "{Kazushi}\n\"Okay. Okay. Let go!\""
+msgstr ""
+
+#: 20102:542
+
+msgid "{Haruka}\n\"Ahahahaha! Kiss him! Kiss!\""
+msgstr ""
+
+#: 20102:543
+
+msgid "The party had become rather chaotic."
+msgstr ""
+
+#: 20102:547
+
+msgid "{Mizuki}\n\".........\""
+msgstr ""
+
+#: 20102:548
+
+msgid "Slightly flushed, Mizuki was still looking down behind my back."
+msgstr ""
+
+#: 20102:553
+
+msgid "{Rin}\n\"Mizuki, are you okay? Feeling sick?\""
+msgstr ""
+
+#: 20102:554
+
+msgid "Fujisaki-san asked her in a concerned voice."
+msgstr ""
+
+#: 20102:557
+
+msgid "{Mizuki}\n\"No, I'm fine... I'm just a little tipsy.\""
+msgstr ""
+
+#: 20102:558
+
+msgid "{Rin}\n\"Would you like me to bring you some water?\""
+msgstr ""
+
+#: 20102:559
+
+msgid "{Mizuki}\n\"Yes, please.\""
+msgstr ""
+
+#: 20102:561
+
+msgid "Fujisaki-san left us to get the water and Sakura came over."
+msgstr ""
+
+#: 20102:564
+
+msgid "{Sakura}\n\"Where have you guys been?\""
+msgstr ""
+
+#: 20102:565
+
+msgid "She knew we'd left the party. She was asking us in a teasing tone."
+msgstr ""
+
+#: 20102:568
+
+msgid "{Mizuki}\n\"Where?\""
+msgstr ""
+
+#: 20102:569
+
+msgid "{Kazushi}\n\"Just outside. We needed some fresh air.\""
+msgstr ""
+
+#: 20102:572
+
+msgid "{Sakura}\n\"Hmm...\""
+msgstr ""
+
+#: 20102:573
+
+msgid "Sakura sensed something from our awkward behavior."
+msgstr ""
+
+#: 20102:577
+
+msgid "{Rin}\n\"Here's your water.\""
+msgstr ""
+
+#: 20102:579
+
+msgid "Fujisaki-san passed Mizuki a glass of water. She picked it up and started to take a drink when..."
+msgstr ""
+
+#: 20102:583
+
+msgid "{Sakura}\n\"You two just had sex, didn't you?\""
+msgstr ""
+
+#: 20102:587
+
+msgid "{Mizuki}\n *PFFFTTTTTTTTTTTTTTT*"
+msgstr ""
+
+#: 20102:588
+
+msgid "Mizuki did a spit-take with her water, drenching Sakura."
+msgstr ""
+
+#: 20102:591
+
+msgid "{Sakura}\n\"... ... ...It's cold... I'm soaking wet!\""
+msgstr ""
+
+#: 20102:594
+
+msgid "{Mizuki}\n\"B-but you're the one who just said such nonsense!\""
+msgstr ""
+
+#: 20102:597
+
+msgid "{Sakura}\n\"Because Rin told me she heard voices.\""
+msgstr ""
+
+#: 20102:598
+
+msgid "{Kazushi}\n\"Voices? Fujisaki-san?\""
+msgstr ""
+
+#: 20102:603
+
+msgid "{Rin}\n\"I-I'm sorry! I was worried about you two, so I went outside. That's when I heard moaning from the bushes...\""
+msgstr ""
+
+#: 20102:608
+
+msgid "{Mizuki}\n\"H-hey, wait!\""
+msgstr ""
+
+#: 20102:609
+
+msgid "That's Fuusen. I guess Rin chased after me, heard Fuusen's voice, panicked, and ran back into the cafeteria."
+msgstr ""
+
+#: 20102:610
+
+msgid "Thinking that voice was ours."
+msgstr ""
+
+#: 20102:614
+
+msgid "{Sakura}\n\"She said you guys were wild. Honestly, I didn't know you two had gone that far. I'm sorry for calling you a lesbian, Mizuki.\""
+msgstr ""
+
+#: 20102:617
+
+msgid "{Mizuki}\n\"Huh? That's okay, but...\""
+msgstr ""
+
+#: 20102:618
+
+msgid "Mizuki must be really confused. She's cleared of being a lesbian, but now they think she's having wild sex with me."
+msgstr ""
+
+#: 20102:622
+
+msgid "{Mizuki}\n(Hey, what should we do? Things are getting really out of hand...)"
+msgstr ""
+
+#: 20102:623
+
+msgid "{Kazushi}\n(I don't know...)"
+msgstr ""
+
+#: 20102:629
+
+msgid "{Sakura}\n\"But you guys just started going out recently, right? That's amazing.\""
+msgstr ""
+
+#: 20102:630
+
+msgid "{Rin}\n\"I guess one's voice comes out that much during it? Does it happen on its own?\""
+msgstr ""
+
+#: 20102:634
+
+msgid "{Mizuki}\n\"Uh... That's...\""
+msgstr ""
+
+#: 20102:635
+
+msgid "Mizuki was absolutely in trouble. She wasn't good with this topic to begin with, and they were asking her things she didn't even know."
+msgstr ""
+
+#: 20102:639
+
+msgid "{Sakura}\n\"How many times do you guys have sex in a week?\""
+msgstr ""
+
+#: 20102:642
+
+msgid "Thump!"
+msgstr ""
+
+#: 20102:647
+
+msgid "{Sakura}\n\"Ouch!!\""
+msgstr ""
+
+#: 20102:648
+
+msgid "She crossed the line, so I tapped Sakura on the head with my fist."
+msgstr ""
+
+#: 20102:649
+
+msgid "{Kazushi}\n\"Hey, stop it. You're bothering Mizuki.\""
+msgstr ""
+
+#: 20102:650
+
+msgid "I glared at Sakura, but she jokingly chuckled."
+msgstr ""
+
+#: 20102:653
+
+msgid "{Sakura}\n\"That's remarkably manly for you, Harucchi. Trying to protect your girl?\""
+msgstr ""
+
+#: 20102:654
+
+msgid "{Kazushi}\n\"...sort of.\nLook, I'll be keeping my eye on her, so don't bother Mizuki.\""
+msgstr ""
+
+#: 20102:658
+
+msgid "{Mizuki}\n\"Huh? Hey, Kazushi?\""
+msgstr ""
+
+#: 20102:663
+
+msgid "{Rin}\n\"Wow! Like a knight in shining armor! Boyfriends are so nice.\""
+msgstr ""
+
+#: 20102:664
+
+msgid "{Kazushi}\n\"I'm sure you will get yourself a cool guy soon. So excuse us.\""
+msgstr ""
+
+#: 20102:665
+
+msgid "{Rin}\n\"Okay. Sorry for disturbing you two. Enjoy yourselves.\""
+msgstr ""
+
+#: 20102:669
+
+msgid "{Sakura}\n\"Sorry to pester you, Mizuki. See you later.\""
+msgstr ""
+
+#: 20102:674
+
+msgid "Sakura and Fujisaki-san left us alone without any further trouble."
+msgstr ""
+
+#: 20102:675
+
+msgid "{Mizuki}\n\"Hmm? They just left like that?\""
+msgstr ""
+
+#: 20102:676
+
+msgid "{Kazushi}\n\"Maybe I should act like your boyfriend more often. Then they won't bother us.\""
+msgstr ""
+
+#: 20102:679
+
+msgid "{Mizuki}\n\"I-is that how it works?\""
+msgstr ""
+
+#: 20102:680
+
+msgid "{Kazushi}\n\"Anything you try to keep a secret can be used to tease you, I guess. I don't really know since I'm not experienced either.\""
+msgstr ""
+
+#: 20102:683
+
+msgid "{Mizuki}\n\"You may be right. If we're open about this, there won't be any reason for them to try and make jokes about it.\""
+msgstr ""
+
+#: 20102:684
+
+msgid "{Kazushi}\n\"See?\""
+msgstr ""
+
+#: 20102:685
+
+msgid "So if you don't want them to make a fuss over this, just act natural."
+msgstr ""
+
+#: 20102:689
+
+msgid "{Pierre}\n\"Hey, you two. Are you drinking?\""
+msgstr ""
+
+#: 20102:690
+
+msgid "A drunken Pierre came up to us. He was pretty far gone already, and going around the room with a bottle of liquor in his hand."
+msgstr ""
+
+#: 20102:691
+
+msgid "{Pierre}\n\"Mizuki-chan! You're not drinking! Have a round on me!\""
+msgstr ""
+
+#: 20102:696
+
+msgid "{Mizuki}\n\"Oh, no, I've had enough already.\""
+msgstr ""
+
+#: 20102:699
+
+msgid "{Pierre}\n\"Come on. Just a little more...\""
+msgstr ""
+
+#: 20102:702
+
+msgid "{Mizuki}\n\"I mean it. I'm fine. ...ah.\""
+msgstr ""
+
+#: 20102:703
+
+msgid "Pierre insisted she keep drinking. Typical for a drunk."
+msgstr ""
+
+#: 20102:704
+
+msgid "{Kazushi}\n\"Pierre.\""
+msgstr ""
+
+#: 20102:705
+
+msgid "Suddenly Pierre stopped and laughed with a quizzical look on his face."
+msgstr ""
+
+#: 20102:709
+
+msgid "{Pierre}\n\"Oh, sorry. I forgot that Mizuki-chan's your girl. I don't wanna cause any problems.\""
+msgstr ""
+
+#: 20102:710
+
+msgid "{Kazushi}\n\"You better not or I'll get really pissed off! I'll beat the crap outta you!\""
+msgstr ""
+
+#: 20102:713
+
+msgid "{Pierre}\n\"Ahaha, just kidding, buddy. Sorry, Mizuki-chan.\""
+msgstr ""
+
+#: 20102:717
+
+msgid "{Mizuki}\n\"Uh...okay...\""
+msgstr ""
+
+#: 20102:718
+
+msgid "Pierred laughed it off as he went off and headed over to some other girl. Mizuki looked surprised again."
+msgstr ""
+
+#: 20102:721
+
+msgid "{Mizuki}\n\"So I don't have to do anything, huh?\""
+msgstr ""
+
+#: 20102:722
+
+msgid "{Kazushi}\n\"Guys always back off when a girl says she has a boyfriend.\""
+msgstr ""
+
+#: 20102:723
+
+msgid "{Mizuki}\n\"Hmm... it sounds like a boyfriend is rather convenient.\""
+msgstr ""
+
+#: 20102:724
+
+msgid "{Kazushi}\n\"I'm not sure how I feel about being called convenient...\""
+msgstr ""
+
+#: 20102:727
+
+msgid "{Mizuki}\n\"You're so convenient, Kazushi.\""
+msgstr ""
+
+#: 20102:728
+
+msgid "{Kazushi}\n\"You're saying that on purpose, aren't you?\""
+msgstr ""
+
+#: 20102:729
+
+msgid "Mizuki and I chuckled together."
+msgstr ""
+
+#: 20102:730
+
+msgid "{Mizuki}\n\"Hey, Kazushi. I want to drink some juice.\""
+msgstr ""
+
+#: 20102:731
+
+msgid "{Kazushi}\n\"Don't tell me that.\""
+msgstr ""
+
+#: 20102:734
+
+msgid "{Mizuki}\n\"Come on, aren't you a convenient man? You can go and get it for me, can't you?\""
+msgstr ""
+
+#: 20102:735
+
+msgid "{Kazushi}\n\"And you can go and get it yourself, can't you?\""
+msgstr ""
+
+#: 20102:738
+
+msgid "{Mizuki}\n\"Come on, don't be so stingy. If you're a boyfriend, then quit complaining and get it.\""
+msgstr ""
+
+#: 20102:739
+
+msgid "{Kazushi}\n\"I think you're misunderstanding something. When it comes to this, a girlfriend should...\""
+msgstr ""
+
+#: 20102:745
+
+msgid "{Haruka}\n\"Hee-hee...\""
+msgstr ""
+
+#: 20102:746
+
+msgid "{Kazushi}\n\"Ah...\""
+msgstr ""
+
+#: 20102:747
+
+msgid "Haruka and Ran were watching us."
+msgstr ""
+
+#: 20102:748
+
+msgid "{Haruka}\n\"You two are getting along well.\""
+msgstr ""
+
+#: 20102:752
+
+msgid "{Mizuki}\n\"No... this is only...\""
+msgstr ""
+
+#: 20102:756
+
+msgid "{Ran}\n\"You're making me jealous. But oh well.\""
+msgstr ""
+
+#: 20102:757
+
+msgid "{Kazushi}\n\"Oh well, what?\""
+msgstr ""
+
+#: 20102:758
+
+msgid "{Haruka}\n\"I'm jealous too, so I'm gonna grab some more food. Later!\""
+msgstr ""
+
+#: 20102:759
+
+msgid "{Ran}\n\"Oh yeah. I brought a tub to take some home.\""
+msgstr ""
+
+#: 20102:762
+
+msgid "They left us alone again. They didn't want to bother us, huh?"
+msgstr ""
+
+#: 20102:765
+
+msgid "{Mizuki}\n\"......pff.\""
+msgstr ""
+
+#: 20102:766
+
+msgid "{Kazushi}\n\"...haha.\""
+msgstr ""
+
+#: 20102:767
+
+msgid "We looked at each other and both laughed bashfully. It felt kind of odd, kind of embarrassing, and yet kind of nice."
+msgstr ""
+
+#: 20102:770
+
+msgid "{Mizuki}\n\"What do they mean that we're \"getting along well\"?\""
+msgstr ""
+
+#: 20102:771
+
+msgid "{Kazushi}\n\"No idea.\""
+msgstr ""
+
+#: 20102:772
+
+msgid "{Mizuki}\n\"Me neither.\""
+msgstr ""
+
+#: 20102:773
+
+msgid "Small talk prevailed, but that was enough for us."
+msgstr ""
+
+#: 20102:774
+
+msgid "Is this really just a pretense?\nNo... I think I really like Mizuki."
+msgstr ""
+
+#: 20102:777
+
+msgid "{Mizuki}\n\"Ahahaha.\""
+msgstr ""
+
+#: 20102:778
+
+msgid "But what about her? Playing make-believe is fun and all, but it could be a lot more so if we really started going out together."
+msgstr ""
+
+#: 20102:779
+
+msgid "I'm beginning to think about stuff like that."
+msgstr ""
+
+#: 20102:785
+
+msgid "The next morning I saw Sakura and Fujisaki-san in the laundry room."
+msgstr ""
+
+#: 20102:786
+
+msgid "{Kazushi}\n\"Morning!\""
+msgstr ""
+
+#: 20102:791
+
+msgid "My greeting seemed to be a bit too loud. Sakura squatted down with her hands over her ears."
+msgstr ""
+
+#: 20102:792
+
+msgid "{Sakura}\n\"Harucchi, please don't shout.\""
+msgstr ""
+
+#: 20102:793
+
+msgid "{Kazushi}\n\"Are you OK? Got a headache?\""
+msgstr ""
+
+#: 20102:794
+
+msgid "{Sakura}\n\"Yes. Major headache.\""
+msgstr ""
+
+#: 20102:795
+
+msgid "{Rin}\n\"Sakura had too much to drink last night.\""
+msgstr ""
+
+#: 20102:796
+
+msgid "{Kazushi}\n\"Oh, I see. Sakura's got a hangover, huh?\""
+msgstr ""
+
+#: 20102:799
+
+msgid "{Sakura}\n\"I'll never drink again!\""
+msgstr ""
+
+#: 20102:800
+
+msgid "{Kazushi}\n\"People with hangovers always say that. I don't think we're going to have another party like that soon, anyways.\""
+msgstr ""
+
+#: 20102:801
+
+msgid "We only got permission because it was a birthday party. Otherwise, we're usually not allowed to drink."
+msgstr ""
+
+#: 20102:804
+
+msgid "{Rin}\n\"Oh, now I remember.\""
+msgstr ""
+
+#: 20102:805
+
+msgid "Fujisaki-san spurt that out all of a sudden."
+msgstr ""
+
+#: 20102:806
+
+msgid "{Kazushi}\n\"Remember what?\""
+msgstr ""
+
+#: 20102:809
+
+msgid "{Rin}\n\"Someone else has a birthday coming up pretty soon. It's on August 1st.\""
+msgstr ""
+
+#: 20102:810
+
+msgid "{Kazushi}\n\"August 1st? That's the day after tomorrow!\""
+msgstr ""
+
+#: 20102:811
+
+msgid "A birthday in two days! But I can't recall anyone at the party who said their birthday was coming up that soon."
+msgstr ""
+
+#: 20102:812
+
+msgid "{Kazushi}\n\"Whose birthday could it be?\""
+msgstr ""
+
+#: 20102:815
+
+msgid "{Sakura}\n\"Oh, I remember, too. That's Mizuki's isn't it?\""
+msgstr ""
+
+#: 20102:816
+
+msgid "Sakura chimed in while kneading her temples with her hands."
+msgstr ""
+
+#: 20102:817
+
+msgid "{Kazushi}\n\"Mizuki? Her birthday is the day after tomorrow? Are you sure?\""
+msgstr ""
+
+#: 20102:818
+
+msgid "{Sakura}\n\"Yeah, I'm positive, because she said to knock it off when I tried to remember it as Yaoi Day.\""
+msgstr ""
+
+#: 20102:819
+
+msgid "{Kazushi}\n\"I'd say the same thing.\""
+msgstr ""
+
+#: 20102:820
+
+msgid "{Rin}\n\"I wonder why she didn't say anything about it last night?\""
+msgstr ""
+
+#: 20102:823
+
+msgid "{Sakura}\n\"It must have been difficult for her to bring that up. She is kind of shy, you know.\""
+msgstr ""
+
+#: 20102:824
+
+msgid "{Kazushi}\n\"Yeah, she really is.\""
+msgstr ""
+
+#: 20102:825
+
+msgid "I think she wants us to celebrate her birthday, but doesn't know how to ask..."
+msgstr ""
+
+#: 20102:826
+
+msgid "{Kazushi}\n\"She really is such a pain like that.\""
+msgstr ""
+
+#: 20102:829
+
+msgid "{Rin}\n\"A pain?\""
+msgstr ""
+
+#: 20102:830
+
+msgid "{Kazushi}\n\"Oh, nothing. I was talking to myself. Should we throw a party for her?\""
+msgstr ""
+
+#: 20102:837
+
+msgid "{Kazushi}\n\"So there you have it.\""
+msgstr ""
+
+#: 20102:838
+
+msgid "I grabbed a few key people and told them about organizing a surprise party for Mizuki."
+msgstr ""
+
+#: 20102:843
+
+msgid "{Haruka}\n\"I didn't know her birthday was coming so soon.\""
+msgstr ""
+
+#: 20102:844
+
+msgid "{Ran}\n\"Neither did I. We didn't do anything for her last year.\""
+msgstr ""
+
+#: 20102:848
+
+msgid "{Fuusen}\n\"She's not the kind of girl who'd request something like that herself, now is she?\""
+msgstr ""
+
+#: 20102:853
+
+msgid "{Pierre}\n\"Another party! Great!! I wish we could have a party every day!\""
+msgstr ""
+
+#: 20102:858
+
+msgid "{Daigo}\n\"I thought I was the one who deserved to celebrate their birthday. I feel jealous!\""
+msgstr ""
+
+#: 20102:859
+
+msgid "Daigo squeezed a dishrag with a chagrined look."
+msgstr ""
+
+#: 20102:863
+
+msgid "{Appo}\n\"You really had a good time, huh? Don't worry, we'll do it again for you next year.\""
+msgstr ""
+
+#: 20102:864
+
+msgid "{Pierre}\n\"Of course.\""
+msgstr ""
+
+#: 20102:865
+
+msgid "{Kazushi}\n\"I know you wanted to have a happy occasion all to yourself, but sharing the pleasure with others could be even more joyful, don't you think?\""
+msgstr ""
+
+#: 20102:869
+
+msgid "{Daigo}\n\"Yeah. You may be right. I will celebrate her birthday at the cost of my life!\""
+msgstr ""
+
+#: 20102:873
+
+msgid "{Rin}\n\"We can make another birthday cake and some food today!\""
+msgstr ""
+
+#: 20102:877
+
+msgid "{Sakura}\n\"What about a present? If we all chip in, we can get her something nice.\""
+msgstr ""
+
+#: 20102:880
+
+msgid "{Daigo}\n\"Present? I didn't get a present...\""
+msgstr ""
+
+#: 20102:881
+
+msgid "He's right. There was a lot of food at the party last night, but no presents for Daigo..."
+msgstr ""
+
+#: 20102:886
+
+msgid "{Ran}\n\"We haven't known you long enough to get you anything, Daigo. Anyways, let's chip in 1000 yen each for Mizuki's present. I'll collect it from everybody.\""
+msgstr ""
+
+#: 20102:891
+
+msgid "{Fuusen}\n\"No way! Don't let Ran handle this or it'll all end up in her purse. Also, 500 yen each should be plenty.\""
+msgstr ""
+
+#: 20102:894
+
+msgid "{Ran}\n\"No way... I won't be able to pocket anything at that rate...\""
+msgstr ""
+
+#: 20102:895
+
+msgid "{Fuusen}\n\"See? 500 yen each.\""
+msgstr ""
+
+#: 20102:896
+
+msgid "{Kazushi}\n\"Right. Girls, you do the cooking and buy the present. Guys, we'll set up the venue. That good for everybody?\""
+msgstr ""
+
+#: 20102:900
+
+msgid "{Pierre}\n\"We've got the hang of it after yesterday. Let's make the day after tomorrow even more wild!\""
+msgstr ""
+
+#: 20102:904
+
+msgid "{Daigo}\n\"Sounds like this is going to be more fun and exciting than for me...\""
+msgstr ""
+
+#: 20102:908
+
+msgid "{Appo}\n\"That's because it's no fun getting worked up over celebrating a guy's birthday.\""
+msgstr ""
+
+#: 20102:912
+
+msgid "{Sakura}\n\"Ahaha, that was blunt.\""
+msgstr ""
+
+#: 20102:916
+
+msgid "{Haruka}\n\"By the way, we've gotta make sure Mizuki doesn't find out before the party.\""
+msgstr ""
+
+#: 20102:920
+
+msgid "{Rin}\n\"This is going to be a surprise party!\""
+msgstr ""
+
+#: 20102:924
+
+msgid "{Pierre}\n\"Kazushi, you've got take Mizuki out on a date that day. In the meantime, we'll get everything prepped.\""
+msgstr ""
+
+#: 20102:925
+
+msgid "{Kazushi}\n\"I bet Mizuki's going to be really surprised when she comes back to a birthday party!\""
+msgstr ""
+
+#: 20102:926
+
+msgid "After imagining Mizuki's surprise, I couldn't wait. I was really looking forward to the day after tomorrow."
+msgstr ""
+
+#: 20102:931
+
+msgid "Then, on August 1st..."
+msgstr ""
+
+#: 20102:932
+
+msgid "{Kazushi}\n\"This way. This way.\""
+msgstr ""
+
+#: 20102:935
+
+msgid "{Mizuki}\n\"What? Where are we going?\""
+msgstr ""
+
+#: 20102:936
+
+msgid "{Kazushi}\n\"Don't worry about it.\""
+msgstr ""
+
+#: 20102:937
+
+msgid "The mission assigned to me was to keep Mizuki away from the cafeteria all day while the party prep was under way."
+msgstr ""
+
+#: 20102:938
+
+msgid "{Mizuki}\n\"Hey, what about lunch?\""
+msgstr ""
+
+#: 20102:946
+
+msgid "{Mizuki}\n\"That was delicious! Are you sure you don't want to split the bill?\""
+msgstr ""
+
+#: 20102:947
+
+msgid "{Kazushi}\n\"Oh, yeah. I'm fine.\""
+msgstr ""
+
+#: 20102:948
+
+msgid "I bought her lunch in the village and we had a picnic."
+msgstr ""
+
+#: 20102:949
+
+msgid "Since it was so sudden, it's going to take until nightfall. I need to keep her as far away as possible until things are done, so this constitutes a necessary investment."
+msgstr ""
+
+#: 20102:950
+
+msgid "I put in for her present too, so I'm getting sort on cash."
+msgstr ""
+
+#: 20102:953
+
+msgid "{Mizuki}\n\"What are we going to do now? Heading back?\""
+msgstr ""
+
+#: 20102:954
+
+msgid "{Kazushi}\n\"No!! That's not a good idea.\""
+msgstr ""
+
+#: 20102:957
+
+msgid "{Mizuki}\n\"Not a good idea?\""
+msgstr ""
+
+#: 20102:958
+
+msgid "Shit. If she catches on I'll be in big trouble."
+msgstr ""
+
+#: 20102:959
+
+msgid "{Kazushi}\n\"Well, would you want to walk around here for a bit? We don't come down to the village very often together, right?\""
+msgstr ""
+
+#: 20102:960
+
+msgid "{Mizuki}\n\"Sure, that works...\""
+msgstr ""
+
+#: 20102:961
+
+msgid "Then she stared at me. Shit! Has she noted something suspicious?"
+msgstr ""
+
+#: 20102:962
+
+msgid "{Kazushi}\n\"Ummm... Do you want dessert or something? What should I get you?\""
+msgstr ""
+
+#: 20102:965
+
+msgid "{Mizuki}\n\"Dessert?! I want some shaved ice!!\""
+msgstr ""
+
+#: 20102:966
+
+msgid "{Kazushi}\n\"Do they sell shaved ice here?\""
+msgstr ""
+
+#: 20102:969
+
+msgid "{Mizuki}\n\"I hear they've started selling them at the fish shop. They use a lot of ice, you know.\""
+msgstr ""
+
+#: 20102:970
+
+msgid "{Kazushi}\n\"Alright, let's get shaved ice!\""
+msgstr ""
+
+#: 20102:973
+
+msgid "{Mizuki}\n\"I always wanted to try the Tuna Frappe flavor! I'll get the strawberry flavor, so Kazushi, you get the tuna one.\""
+msgstr ""
+
+#: 20102:974
+
+msgid "{Kazushi}\n\"What? Me? Get a tuna flavored shaved ice? That sounds nasty.\""
+msgstr ""
+
+#: 20102:977
+
+msgid "{Mizuki}\n\"But let me taste a bit of it. Okay?\""
+msgstr ""
+
+#: 20102:978
+
+msgid "No pain, no gain. I have to keep her attention at all costs..."
+msgstr ""
+
+#: 20102:979
+
+msgid "{Kazushi}\n\"Uh... Okay. Let's go!\""
+msgstr ""
+
+#: 20102:983
+
+msgid "{Kazushi}\n\"Blecch... Ptt.\""
+msgstr ""
+
+#: 20102:986
+
+msgid "{Mizuki}\n\"Ugh... Tuna Frappe, what a strong flavor.\""
+msgstr ""
+
+#: 20102:987
+
+msgid "It was nauseating. It was like they used the liquid that comes out of rotten fish and put on top of the shaved ice."
+msgstr ""
+
+#: 20102:990
+
+msgid "{Mizuki}\n\"Are you okay, Kazushi? I told you not to eat it all.\""
+msgstr ""
+
+#: 20102:991
+
+msgid "{Kazushi}\n\"I didn't want to waste it... Blech.\""
+msgstr ""
+
+#: 20102:992
+
+msgid "{Mizuki}\n\"I feel bad, Kazushi. I'm sorry I got you to order that.\""
+msgstr ""
+
+#: 20102:993
+
+msgid "{Kazushi}\n\"You ate a lot of it too. You pushed yourself, didn't you?\""
+msgstr ""
+
+#: 20102:996
+
+msgid "{Mizuki}\n\"I felt like I had to take responsibility... but I guess I couldn't match up. You wound up eating most of it.\""
+msgstr ""
+
+#: 20102:997
+
+msgid "Obviously we were both trying to let the other person eat less of it, but in the end, we both ate our fair share."
+msgstr ""
+
+#: 20102:1000
+
+msgid "{Mizuki}\n\"You're looking kinda pale, Kazushi. We'd better get back.\""
+msgstr ""
+
+#: 20102:1001
+
+msgid "{Kazushi}\n\"Wha...\""
+msgstr ""
+
+#: 20102:1002
+
+msgid "No way! We still have about three more hours to kill."
+msgstr ""
+
+#: 20102:1003
+
+msgid "{Kazushi}\n\"I'm fine! I'll pop into the general store and get a drink. That should help.\""
+msgstr ""
+
+#: 20102:1006
+
+msgid "{Mizuki}\n\"Wait. I'm coming too.\""
+msgstr ""
+
+#: 20102:1010
+
+msgid "{Kazushi}\n\"Hello.\""
+msgstr ""
+
+#: 20102:1013
+
+msgid "{Mizuki}\n\"Miya-san, can we get something to drink? Something to clear the head and an upset stomach.\""
+msgstr ""
+
+#: 20102:1018
+
+msgid "{Miya}\n\"Welco...... What's wrong? You two don't look good.\""
+msgstr ""
+
+#: 20102:1019
+
+msgid "{Mizuki}\n\"Miya-san, could you please tell the guy at the fish shop to stop selling Tuna Frappe snowballs for us?\""
+msgstr ""
+
+#: 20102:1020
+
+msgid "{Miya}\n\"Y... you two actually ate that? Hold on, I've got some good herbal tea that I can bring for you.\""
+msgstr ""
+
+#: 20102:1021
+
+msgid "{Kazushi}\n\"Thank you, Miya-san.\""
+msgstr ""
+
+#: 20102:1025
+
+msgid "Miya-san went back inside the back room. Mizuki was feeling slightly better, so she looked around the store."
+msgstr ""
+
+#: 20102:1028
+
+msgid "{Mizuki}\n\"Ooh!\""
+msgstr ""
+
+#: 20102:1029
+
+msgid "And something on the shelf caught her eyes."
+msgstr ""
+
+#: 20102:1032
+
+msgid "{Mizuki}\n\"So cute...\""
+msgstr ""
+
+#: 20102:1033
+
+msgid "It looks like a pendant with a small stone dangling on it. The pendant looks like a dewdrop."
+msgstr ""
+
+#: 20102:1034
+
+msgid "{Kazushi}\n\"Do you like cute stuff?\""
+msgstr ""
+
+#: 20102:1037
+
+msgid "{Mizuki}\n\"Of course I do. I am a girl, you know.\""
+msgstr ""
+
+#: 20102:1038
+
+msgid "She was a little upset at my statement, but her attention was fixed on the pendant."
+msgstr ""
+
+#: 20102:1041
+
+msgid "{Mizuki}\n\"How nice. I want to buy it.\""
+msgstr ""
+
+#: 20102:1042
+
+msgid "I looked at the price tag. It was quite expensive."
+msgstr ""
+
+#: 20102:1045
+
+msgid "{Mizuki}\n\"Urk... Quite pricey. It's over my budget.\""
+msgstr ""
+
+#: 20102:1046
+
+msgid "{Miya}\n\"Do you like that?\""
+msgstr ""
+
+#: 20102:1051
+
+msgid "Miya-san returns with two cups of tea in his hands."
+msgstr ""
+
+#: 20102:1052
+
+msgid "{Miya}\n\"Drink this. You'll feel better.\""
+msgstr ""
+
+#: 20102:1053
+
+msgid "{Kazushi}\n\"Whoa! This has got to be working!\""
+msgstr ""
+
+#: 20102:1054
+
+msgid "This surely looks and smells like herbal tea. We began to sip on it with gratitude."
+msgstr ""
+
+#: 20102:1057
+
+msgid "{Mizuki}\n\"It's so bitter! ...It'd better be working.\""
+msgstr ""
+
+#: 20102:1058
+
+msgid "{Kazushi}\n\"Hmm. I'm kinda getting used to this tea's bitterness.\""
+msgstr ""
+
+#: 20102:1059
+
+msgid "We both sipped on the bitter tea. Our stomachs started to feel warm, and we both felt a lot better."
+msgstr ""
+
+#: 20102:1062
+
+msgid "{Mizuki}\n\"I feel better now.\""
+msgstr ""
+
+#: 20102:1065
+
+msgid "{Miya}\n\"That's good.\""
+msgstr ""
+
+#: 20102:1066
+
+msgid "Miya-san picked up the pendant Mizuki was looking at."
+msgstr ""
+
+#: 20102:1069
+
+msgid "{Miya}\n\"This pendant is made from a stone found exclusively on this island. It's a natural stone we don't gather very often, which is why it's a bit expensive.\""
+msgstr ""
+
+#: 20102:1070
+
+msgid "{Mizuki}\n\"I see. I guess this may be too much of luxury for me now.\""
+msgstr ""
+
+#: 20102:1071
+
+msgid "{Kazushi}\n\"So you're not buying it?\""
+msgstr ""
+
+#: 20102:1074
+
+msgid "{Mizuki}\n\"I want to, but I can't. It's a bit too much for me.\""
+msgstr ""
+
+#: 20102:1075
+
+msgid "Mizuki looks a bit sad but seems to give up for now. She continues to sip on the tea. She's quite a sport."
+msgstr ""
+
+#: 20102:1076
+
+msgid "{Miya}\n\"So, are you two on a date?\""
+msgstr ""
+
+#: 20102:1079
+
+msgid "{Mizuki}\n *PTTTTTBBBBBTTTTTT*"
+msgstr ""
+
+#: 20102:1082
+
+msgid "She did it again. This time she did it on Miya-san."
+msgstr ""
+
+#: 20102:1083
+
+msgid "{Mizuki}\n\"Ahh! Miya-san. I'm terribly sorry.\""
+msgstr ""
+
+#: 20102:1084
+
+msgid "{Miya}\n\"That's okay. Did I say something wrong?\""
+msgstr ""
+
+#: 20102:1085
+
+msgid "{Kazushi}\n\"Do we look like we're on a date?\""
+msgstr ""
+
+#: 20102:1088
+
+msgid "{Miya}\n\"Yes. You two look good together.\""
+msgstr ""
+
+#: 20102:1089
+
+msgid "{Kazushi}\n\"Really?\""
+msgstr ""
+
+#: 20102:1092
+
+msgid "{Mizuki}\n\"Don't take that so seriously. Miya-san's a merchant so he has to be a good talker. This is how he sells things.\""
+msgstr ""
+
+#: 20102:1093
+
+msgid "{Miya}\n\"Oh, no. I really think you two look like a nice couple.\""
+msgstr ""
+
+#: 20102:1096
+
+msgid "{Mizuki}\n\"Some nice shop talk, Miya-san.\""
+msgstr ""
+
+#: 20102:1099
+
+msgid "{Miya}\n\"Oh, Mizuki-chan. You are a shy girl, huh?\""
+msgstr ""
+
+#: 20102:1102
+
+msgid "{Mizuki}\n\"Wha?! ...Argh! Let's go, Kazushi!\""
+msgstr ""
+
+#: 20102:1106
+
+msgid "Flushed with embarrassment, Mizuki dashed out of the store."
+msgstr ""
+
+#: 20102:1110
+
+msgid "{Miya}\n\"Did I say something wrong?\""
+msgstr ""
+
+#: 20102:1111
+
+msgid "For my sake, it's a good thing that Mizuki left the store first."
+msgstr ""
+
+#: 20102:1112
+
+msgid "{Kazushi}\n\"Miya-san, I have a favor to ask you...\""
+msgstr ""
+
+#: 20102:1115
+
+msgid "{Miya}\n\"Hmm? What?\""
+msgstr ""
+
+#: 20102:1121
+
+msgid "{Mizuki}\n\"Kazushi, you kept me waiting! What on Earth were you doing in there?\""
+msgstr ""
+
+#: 20102:1122
+
+msgid "{Kazushi}\n\"I was just talking with Miya-san. That's all.\""
+msgstr ""
+
+#: 20102:1125
+
+msgid "{Mizuki}\n\"So, what are we going to do now?\""
+msgstr ""
+
+#: 20102:1126
+
+msgid "{Kazushi}\n\"Well...\""
+msgstr ""
+
+#: 20102:1127
+
+msgid "We still have some time..."
+msgstr ""
+
+#: 20102:1128
+
+msgid "{Kazushi}\n\"Let's go to the inlet!\""
+msgstr ""
+
+#: 20102:1136
+
+msgid "{Mizuki}\n\"I should have brought my swimsuit if we were heading to the beach.\""
+msgstr ""
+
+#: 20102:1137
+
+msgid "{Kazushi}\n\"You were swimming naked before.\""
+msgstr ""
+
+#: 20102:1140
+
+msgid "{Mizuki}\n\"You promised not to bring that up!\""
+msgstr ""
+
+#: 20102:1141
+
+msgid "{Kazushi}\n\"Okay, okay...\""
+msgstr ""
+
+#: 20102:1143
+
+msgid "Mizuki walked barefoot on the beach toward the water. While running on tiptoe, she played with the waves lapping on the beach."
+msgstr ""
+
+#: 20102:1144
+
+msgid "She looked a little sad, but not too bothered that she couldn't go swimming now."
+msgstr ""
+
+#: 20102:1145
+
+msgid "{Kazushi}\n\"You really like the water, don't you?\""
+msgstr ""
+
+#: 20102:1148
+
+msgid "{Mizuki}\n\"I wouldn't even mind if I had to live in the sea.\""
+msgstr ""
+
+#: 20102:1149
+
+msgid "{Kazushi}\n\"You used to be on the swim team, right? I heard you placed in nationals during junior high.\""
+msgstr ""
+
+#: 20102:1150
+
+msgid "I heard she was even in a magazine and drew a lot of attention."
+msgstr ""
+
+#: 20102:1153
+
+msgid "{Mizuki}\n\"I didn't want to do it, but they forced me to.\""
+msgstr ""
+
+#: 20102:1154
+
+msgid "Mizuki replies with no interest in that particular subject."
+msgstr ""
+
+#: 20102:1155
+
+msgid "{Kazushi}\n\"It's kind of wasting your talents like this, don't you think? You could have gone to the Olympics.\""
+msgstr ""
+
+#: 20102:1158
+
+msgid "{Mizuki}\n\"Give me a break. I don't want to swim for competitions any more. That was hard - incredibly hard for me.\""
+msgstr ""
+
+#: 20102:1159
+
+msgid "Mizuki looks sad and upset."
+msgstr ""
+
+#: 20102:1160
+
+msgid "{Kazushi}\n\"Hard training? How long did they make you swim for you to hate it?\""
+msgstr ""
+
+#: 20102:1161
+
+msgid "{Mizuki}\n\"It's not that training was so hard. It's just...\""
+msgstr ""
+
+#: 20102:1162
+
+msgid "{Kazushi}\n\"What was hard then?\""
+msgstr ""
+
+#: 20102:1165
+
+msgid "{Mizuki}\n\"It was...\""
+msgstr ""
+
+#: 20102:1166
+
+msgid "Flushing slightly, Mizuki hesitated to continue talking."
+msgstr ""
+
+#: 20102:1167
+
+msgid "{Kazushi}\n\"What is it? Don't leave me hanging. Did you get physically abused?\""
+msgstr ""
+
+#: 20102:1170
+
+msgid "{Mizuki}\n\"What? Abused?\""
+msgstr ""
+
+#: 20102:1171
+
+msgid "{Kazushi}\n\"Oh!! Was it sexual harassment?! Did your horny coach touch you?\""
+msgstr ""
+
+#: 20102:1172
+
+msgid "{Mizuki}\n\"Sexual harassment? No! Nothing like that!\""
+msgstr ""
+
+#: 20102:1173
+
+msgid "{Kazushi}\n\"No? Are you sure? What is it then?\""
+msgstr ""
+
+#: 20102:1176
+
+msgid "{Mizuki}\n\"No, nothing like that happened. It was...\""
+msgstr ""
+
+#: 20102:1177
+
+msgid "Mizuki looks down, sticking her index fingers up together."
+msgstr ""
+
+#: 20102:1178
+
+msgid "{Mizuki}\n\"I just couldn't deal with the boys' competition speedos.\""
+msgstr ""
+
+#: 20102:1179
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 20102:1180
+
+msgid "Boys' swimsuits? I have no clue what Mizuki is talking about."
+msgstr ""
+
+#: 20102:1183
+
+msgid "{Mizuki}\n\"I'm talking about men's competition swimsuits! Swimsuits! Don't you think those are horrible?!\""
+msgstr ""
+
+#: 20102:1184
+
+msgid "Mizuki leaned towards me, demanding my agreement."
+msgstr ""
+
+#: 20102:1185
+
+msgid "{Kazushi}\n\"Well, I don't know. What do you think?\""
+msgstr ""
+
+#: 20102:1188
+
+msgid "{Mizuki}\n\"Don't you think those things are way too small? They're so tight, and...\""
+msgstr ""
+
+#: 20102:1189
+
+msgid "Mizuki, again, looks flushed. She may be picturing that thing packed in tight trunks."
+msgstr ""
+
+#: 20102:1192
+
+msgid "{Mizuki}\n\"Being in the pool with those things - it was torture for me. I put up with it for three years!\""
+msgstr ""
+
+#: 20102:1193
+
+msgid "{Kazushi}\n\"Is that the reason why you gave up on swimming?\""
+msgstr ""
+
+#: 20102:1196
+
+msgid "{Mizuki}\n\"You bet!\""
+msgstr ""
+
+#: 20102:1197
+
+msgid "I guess it's true. She's not kidding, is she? This is way out of my league."
+msgstr ""
+
+#: 20102:1200
+
+msgid "{Mizuki}\n\"It doesn't matter now, though, because I just want to swim for me. That's why I came to this island.\""
+msgstr ""
+
+#: 20102:1201
+
+msgid "{Kazushi}\n\"If that's okay with you, that's okay with me.\""
+msgstr ""
+
+#: 20102:1202
+
+msgid "But I still kind of feel like she's wasting her talent."
+msgstr ""
+
+#: 20102:1203
+
+msgid "{Mizuki}\n\"This island suits me perfectly. I can swim all year and I never have to see a man's improper speedo.\""
+msgstr ""
+
+#: 20102:1204
+
+msgid "{Kazushi}\n\"This school used to only be for girls, huh?\""
+msgstr ""
+
+#: 20102:1205
+
+msgid "So this is why Mizuki chose this school. She didn't want to see men in speedos."
+msgstr ""
+
+#: 20102:1206
+
+msgid "{Kazushi}\n\"Why did you join the swimming club in the first place?\""
+msgstr ""
+
+#: 20102:1209
+
+msgid "{Mizuki}\n\"I was asked to join rather forcefully, and that was the quickest, easiest way to swim every day. There wasn't an ocean or river near us.\""
+msgstr ""
+
+#: 20102:1212
+
+msgid "{Mizuki}\n\"The best we had nearby was a pool, so I joined a team in elementary school, but I never realized that the boy's swimwear in junior high would look that different.\""
+msgstr ""
+
+#: 20102:1213
+
+msgid "Mizuki shuddered as she visualized it in her mind. It seemed to be a big deal for her."
+msgstr ""
+
+#: 20102:1216
+
+msgid "{Mizuki}\n\"Signing up for a gym or a private pool would have been too expensive, so I had no choice but to put up with going to my school's club.\""
+msgstr ""
+
+#: 20102:1217
+
+msgid "{Kazushi}\n\"I guess I get the picture now.\""
+msgstr ""
+
+#: 20102:1218
+
+msgid "But one question."
+msgstr ""
+
+#: 20102:1219
+
+msgid "{Kazushi}\n\"But that means you hadn't learned to swim since you were born or anything right? So what made you like swimming so much?\""
+msgstr ""
+
+#: 20102:1220
+
+msgid "I know you don't need a reason to like something, but there's usually some kind of motivation at the front. I wonder what it was for Mizuki."
+msgstr ""
+
+#: 20102:1221
+
+msgid "{Mizuki}\n\"My motivator was dolphins.\""
+msgstr ""
+
+#: 20102:1222
+
+msgid "{Kazushi}\n\"Dolphins?\""
+msgstr ""
+
+#: 20102:1223
+
+msgid "{Mizuki}\n\"When I was in the third grade, my family took me to see a dolphin show.\""
+msgstr ""
+
+#: 20102:1226
+
+msgid "{Mizuki}\n\"The dolphins were all adorable. I liked them instantly. Then, later on, I found out that you could swim with them in the sea too.\""
+msgstr ""
+
+#: 20102:1227
+
+msgid "{Mizuki}\n\"On TV, I saw foreigners swimming with a dolphin. They looked like they were having so much fun that I got jealous.\""
+msgstr ""
+
+#: 20102:1228
+
+msgid "{Mizuki}\n\"Then I said, \"I want to do that too!\".\""
+msgstr ""
+
+#: 20102:1229
+
+msgid "Mizuki looks out at the horizon with her sparkling eyes."
+msgstr ""
+
+#: 20102:1232
+
+msgid "{Mizuki}\n\"I also saw a movie based on the story of this guy. He could dive 100 meters deep without scuba gear on. I was stunned, thinking 'Wow, how could people do that?'\""
+msgstr ""
+
+#: 20102:1233
+
+msgid "{Mizuki}\n\"Then I wondered if you had to swim that well to swim with dolphins. So I thought I needed to become a good swimmer to swim with them... That's what got me started.\""
+msgstr ""
+
+#: 20102:1234
+
+msgid "Mizuki said that she started showing her natural talent for swimming immediately. But in fact, that wasn't what she really wanted to do."
+msgstr ""
+
+#: 20102:1237
+
+msgid "{Mizuki}\n\"But the boys, showing everything in their trunks! What the hell's up with that? I didn't want to swim together with those things!\""
+msgstr ""
+
+#: 20102:1238
+
+msgid "She looks pretty upset. It must have been a majorly traumatic experience for her."
+msgstr ""
+
+#: 20102:1241
+
+msgid "{Mizuki}\n\"All I want is to swim with the dolphins in the sea. The emerald green sea, the deep blue ocean, any of the world's beautiful waters!\""
+msgstr ""
+
+#: 20102:1244
+
+msgid "{Mizuki}\n\"That's my dream.\""
+msgstr ""
+
+#: 20102:1245
+
+msgid "Mizuki was full of life when she talked about her dream. She looked more beautiful than usual, which made me hooked on her."
+msgstr ""
+
+#: 20102:1248
+
+msgid "{Mizuki}\n\"Uh... You don't really care about this, do you?\""
+msgstr ""
+
+#: 20102:1249
+
+msgid "Suddenly Mizuki became quiet. Maybe she mistook my silence for indifference."
+msgstr ""
+
+#: 20102:1250
+
+msgid "{Kazushi}\n\"You kidding? I'm impressed. That's a wonderful dream.\""
+msgstr ""
+
+#: 20102:1253
+
+msgid "{Mizuki}\n\"You really think so?\""
+msgstr ""
+
+#: 20102:1254
+
+msgid "{Kazushi}\n\"Yeah. I do.\""
+msgstr ""
+
+#: 20102:1255
+
+msgid "Swimming with the dolphins. It was a perfect picture for Mizuki. She fits right in there."
+msgstr ""
+
+#: 20102:1256
+
+msgid "{Kazushi}\n\"Any dolphins in this sea around here?\""
+msgstr ""
+
+#: 20102:1259
+
+msgid "{Mizuki}\n\"The fishermen have seen some dolphins stuck in the bay before, but I've never seen them for myself.\""
+msgstr ""
+
+#: 20102:1260
+
+msgid "{Kazushi}\n\"It would be great if you could swim with them.\""
+msgstr ""
+
+#: 20102:1263
+
+msgid "{Mizuki}\n\"When I do, you have to swim with me, Kazushi!\""
+msgstr ""
+
+#: 20102:1264
+
+msgid "{Kazushi}\n\"Me? No... not me.\""
+msgstr ""
+
+#: 20102:1267
+
+msgid "{Mizuki}\n\"You'll be fine, you'll be fine. I'll make sure you can swim better. And I'll hold your hand too.\""
+msgstr ""
+
+#: 20102:1268
+
+msgid "{Kazushi}\n\"I'm not a kid, you know.\""
+msgstr ""
+
+#: 20102:1269
+
+msgid "{Mizuki}\n\"Yes, you are... as far as I'm concerned.\""
+msgstr ""
+
+#: 20102:1270
+
+msgid "Swimming with the dolphins. That would be fun - I'd love to do it then, sharing in Mizuki's dream."
+msgstr ""
+
+#: 20102:1271
+
+msgid "{Kazushi}\n\"Then I have to practice swimming more first.\""
+msgstr ""
+
+#: 20102:1272
+
+msgid "{Mizuki}\n\"That's right. I have to train you.\""
+msgstr ""
+
+#: 20102:1273
+
+msgid "{Kazushi}\n\"Ugh... Sob... Oh, right.\""
+msgstr ""
+
+#: 20102:1274
+
+msgid "I recalled it as I was about to cry and took it out of my pocket."
+msgstr ""
+
+#: 20102:1277
+
+msgid "{Kazushi}\n\"Here you go...\""
+msgstr ""
+
+#: 20102:1278
+
+msgid "It is a little paper bag - something I got from Miya-san's store."
+msgstr ""
+
+#: 20102:1281
+
+msgid "{Mizuki}\n\"What's this?\""
+msgstr ""
+
+#: 20102:1282
+
+msgid "Given the size of the bag, Mizuki could already guess what was in it."
+msgstr ""
+
+#: 20102:1285
+
+msgid "{Mizuki}\n\"For me? Can I open it?\""
+msgstr ""
+
+#: 20102:1286
+
+msgid "{Kazushi}\n\"Go ahead.\""
+msgstr ""
+
+#: 20102:1288
+
+msgid "She opens the bag and as expected, finds the pendant inside."
+msgstr ""
+
+#: 20102:1289
+
+msgid "{Mizuki}\n\"How did you get this?\""
+msgstr ""
+
+#: 20102:1290
+
+msgid "{Kazushi}\n\"I didn't steal it. I bought it.\""
+msgstr ""
+
+#: 20102:1293
+
+msgid "{Mizuki}\n\"You bought it? But it was expensive.\""
+msgstr ""
+
+#: 20102:1294
+
+msgid "{Kazushi}\n\"I talked the price down with Miya-san.\""
+msgstr ""
+
+#: 20102:1295
+
+msgid "And yet it was still pricy for me. In fact, I couldn't pay for it all at once, so now I've got to pay it off in installments."
+msgstr ""
+
+#: 20102:1296
+
+msgid "I owe Miya-san a massive favor."
+msgstr ""
+
+#: 20102:1297
+
+msgid "{Kazushi}\n\"Miya-san said that little stone hanging there is a charm called a 'Mermaid's Tear'.\""
+msgstr ""
+
+#: 20102:1300
+
+msgid "{Mizuki}\n\"A mermaid's tear?\""
+msgstr ""
+
+#: 20102:1301
+
+msgid "The truth is, it was the name that pushed me to actually buy the pendant for Mizuki - because a mermaid was my first impression of her."
+msgstr ""
+
+#: 20102:1302
+
+msgid "So I begged him to let me have it."
+msgstr ""
+
+#: 20102:1303
+
+msgid "{Kazushi}\n\"I thought this pendant is a perfect fit for you.\""
+msgstr ""
+
+#: 20102:1306
+
+msgid "{Mizuki}\n\"But I can't take something so expensive.\""
+msgstr ""
+
+#: 20102:1307
+
+msgid "{Kazushi}\n\"Please take it. It's not like I can wear it, you know?\""
+msgstr ""
+
+#: 20102:1310
+
+msgid "{Mizuki}\n\"But...\""
+msgstr ""
+
+#: 20102:1311
+
+msgid "Mizuki looked stunned and a few tears welled up in her eyes. The pendant worked brilliantly as a surprise gift."
+msgstr ""
+
+#: 20102:1312
+
+msgid "{Kazushi}\n\"I'll feel bad if you don't take it - it wouldn't look right on a guy anyways. Here, let me do it.\""
+msgstr ""
+
+#: 20102:1313
+
+msgid "I took the necklace form her hand and fastened it around her neck."
+msgstr ""
+
+#: 20102:1314
+
+msgid "{Kazushi}\n\"Good!! I told you! It looks perfect on you!\""
+msgstr ""
+
+#: 20102:1317
+
+msgid "{Mizuki}\n\"You think so?\""
+msgstr ""
+
+#: 20102:1318
+
+msgid "{Kazushi}\n\"Yes, So take it. Please?\""
+msgstr ""
+
+#: 20102:1319
+
+msgid "{Mizuki}\n\"Okay... In that case, thank you.\""
+msgstr ""
+
+#: 20102:1320
+
+msgid "{Kazushi}\n\"My pleasure.\""
+msgstr ""
+
+#: 20102:1321
+
+msgid "Mizuki carefully wrapped the pendant with her hands and glanced at me."
+msgstr ""
+
+#: 20102:1324
+
+msgid "{Mizuki}\n\"Why are you so nice to me today? Buying me lunch and the present...\""
+msgstr ""
+
+#: 20102:1325
+
+msgid "{Kazushi}\n\"Why?...\""
+msgstr ""
+
+#: 20102:1326
+
+msgid "I have to keep Mizuki away from school until things are ready for the party. That's why..."
+msgstr ""
+
+#: 20102:1327
+
+msgid "The present wasn't part of the plan, though. Present?"
+msgstr ""
+
+#: 20102:1328
+
+msgid "{Mizuki}\n\"Do you know about today, by any chance?\""
+msgstr ""
+
+#: 20102:1329
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 20102:1330
+
+msgid "Today... The reason I'd been keeping her away."
+msgstr ""
+
+#: 20102:1331
+
+msgid "Today is Mizuki's birthday. Everyone is now preparing to throw a surprise birthday party for her."
+msgstr ""
+
+#: 20102:1332
+
+msgid "By now, everything must be ready with food and presents."
+msgstr ""
+
+#: 20102:1335
+
+msgid "{Mizuki}\n\"Is this my birthday present?\""
+msgstr ""
+
+#: 20102:1336
+
+msgid "{Kazushi}\n\"Uh...\""
+msgstr ""
+
+#: 20102:1337
+
+msgid "No...it's not your birthday present.\nI just saw how you longingly gazed at it."
+msgstr ""
+
+#: 20102:1338
+
+msgid "Your real present should be sorted and ready at the party."
+msgstr ""
+
+#: 20102:1339
+
+msgid "{Mizuki}\n\"You knew it, huh? That's why you asked me out on a date?\""
+msgstr ""
+
+#: 20102:1340
+
+msgid "{Kazushi}\n\"A date...?\""
+msgstr ""
+
+#: 20102:1341
+
+msgid "What have I done? I asked her out rather forcibly. We ate and strolled around together. Then I gave her a present."
+msgstr ""
+
+#: 20102:1342
+
+msgid "Good Lord! I'm already covering all the birthday events!"
+msgstr ""
+
+#: 20102:1343
+
+msgid "And I did all this alone!"
+msgstr ""
+
+#: 20102:1344
+
+msgid "{Kazushi}\n\"Uh...\""
+msgstr ""
+
+#: 20102:1345
+
+msgid "{Kazushi}\n\"Happy birthday!!\""
+msgstr ""
+
+#: 20102:1346
+
+msgid "Sorry, everyone. I got there first."
+msgstr ""
+
+#: 20102:1349
+
+msgid "{Mizuki}\n\"No wonder. I found the whole thing very strange.\""
+msgstr ""
+
+#: 20102:1350
+
+msgid "{Kazushi}\n\"I just wanted to surprise you.\""
+msgstr ""
+
+#: 20102:1353
+
+msgid "{Mizuki}\n\"I was. Thank you. I feel so happy.\""
+msgstr ""
+
+#: 20102:1356
+
+msgid "{Mizuki}\n\"I feel touched.\""
+msgstr ""
+
+#: 20102:1357
+
+msgid "I saw a wet drop glitter in the corner of her eye. I was astonished by her tear. I never expected her to cry."
+msgstr ""
+
+#: 20102:1360
+
+msgid "{Mizuki}\n\"I'll treasure this.\""
+msgstr ""
+
+#: 20102:1361
+
+msgid "{Kazushi}\n\"Yeah.\""
+msgstr ""
+
+#: 20102:1362
+
+msgid "I felt so embarrassed. Everything I did today would make me look extremely snobby."
+msgstr ""
+
+#: 20102:1365
+
+msgid "{Mizuki}\n\".........\""
+msgstr ""
+
+#: 20102:1366
+
+msgid "Nonetheless, we ended up with a nice situation. The two of us alone on her birthday and she's happy with my present."
+msgstr ""
+
+#: 20102:1367
+
+msgid "What would a real couple do next?"
+msgstr ""
+
+#: 20102:1370
+
+msgid "{Mizuki}\n\"Oh...\""
+msgstr ""
+
+#: 20102:1372
+
+msgid "Our arms accidentally brushed each other, and Mizuki jerked back away. I guess she was acting more conscious of me."
+msgstr ""
+
+#: 20102:1373
+
+msgid "{Kazushi}\n\"Uh... Mizuki.\""
+msgstr ""
+
+#: 20102:1376
+
+msgid "{Mizuki}\n\"Y-yes!? What can I do for you!?\""
+msgstr ""
+
+#: 20102:1377
+
+msgid "Politeness? She was extremely stiff."
+msgstr ""
+
+#: 20102:1378
+
+msgid "{Kazushi}\n\"We are just, uh, pretending to be a couple, right?\""
+msgstr ""
+
+#: 20102:1381
+
+msgid "{Mizuki}\n\"Y-Yes... D-Do you not want to do it anymore?\""
+msgstr ""
+
+#: 20102:1382
+
+msgid "Mizuki looks puzzled. I shake my head."
+msgstr ""
+
+#: 20102:1383
+
+msgid "{Kazushi}\n\"N-no, no! The other way around!\""
+msgstr ""
+
+#: 20102:1386
+
+msgid "{Mizuki}\n\"The other way around?\""
+msgstr ""
+
+#: 20102:1387
+
+msgid "{Kazushi}\n\"I mean. You and I...\""
+msgstr ""
+
+#: 20102:1388
+
+msgid "{Mizuki}\n\"Me and you...?\""
+msgstr ""
+
+#: 20102:1389
+
+msgid "{Kazushi}\n\"I mean. Can you...\""
+msgstr ""
+
+#: 20102:1391
+
+msgid "*BANG!*"
+msgstr ""
+
+#: 20102:1394
+
+msgid "{Mizuki}\n\"Wah! W-what's that?\""
+msgstr ""
+
+#: 20102:1395
+
+msgid "A huge firework sparkled in the sky above the school."
+msgstr ""
+
+#: 20102:1396
+
+msgid "{Kazushi}\n\"Oh...\""
+msgstr ""
+
+#: 20102:1397
+
+msgid "It was the signal that preparations were done. We'd decided to signal it by fireworks since no one knew where we'd be at the time."
+msgstr ""
+
+#: 20102:1398
+
+msgid "And..."
+msgstr ""
+
+#: 20102:1399
+
+msgid "{Mizuki}\n\"What's that? Has a war broken out?\""
+msgstr ""
+
+#: 20102:1400
+
+msgid "{Kazushi}\n\"No, it's just... oh, look.\""
+msgstr ""
+
+#: 20102:1401
+
+msgid "*SCREEEEEEEEE*"
+msgstr ""
+
+#: 20102:1402
+
+msgid "Another firework goes up in the sky."
+msgstr ""
+
+#: 20102:1404
+
+msgid "*BANG*"
+msgstr ""
+
+#: 20102:1405
+
+msgid "This time, the firework didn't make a flower shape."
+msgstr ""
+
+#: 20102:1406
+
+msgid "{Mizuki}\n\"Huh?\""
+msgstr ""
+
+#: 20102:1407
+
+msgid "Instead, this made a message saying..."
+msgstr ""
+
+#: 20102:1408
+
+msgid "Happy Birthday!!"
+msgstr ""
+
+#: 20102:1409
+
+msgid "It was a message-firework, created with alchemy."
+msgstr ""
+
+#: 20102:1410
+
+msgid "{Mizuki}\n\"Did you make that too?\""
+msgstr ""
+
+#: 20102:1411
+
+msgid "{Kazushi}\n\"No, that's from everybody else. They've been preparing a surprise party for you since this morning.\""
+msgstr ""
+
+#: 20102:1412
+
+msgid "{Mizuki}\n\"What? A party? For me?\""
+msgstr ""
+
+#: 20102:1413
+
+msgid "{Kazushi}\n\"Everything's set up now, so let's go back. Tonight, everyone's going to be celebrating your birthday.\""
+msgstr ""
+
+#: 20102:1416
+
+msgid "{Mizuki}\n\"Everyone...for me...\""
+msgstr ""
+
+#: 20102:1417
+
+msgid "It seems the whole thing left Mizuki speechless with emotion and surprise. I took hold of her hand."
+msgstr ""
+
+#: 20102:1418
+
+msgid "{Kazushi}\n\"Let's go home. All our friends are waiting.\""
+msgstr ""
+
+#: 20102:1421
+
+msgid "{Mizuki}\n\"Yes!\""
+msgstr ""
+
+#: 20102:1423
+
+msgid "Holding hands together, we set out to walk back to school. Tonight was going to be a lot of fun."
+msgstr ""
+
+#: 20102:1424
+
+msgid "And a memorable night for Mizuki..."
+msgstr ""
+
+#: 20102:1425
+
+msgid "........."
+msgstr ""
+
+#: 20102:1426
+
+msgid "By the way, talk about timing for an interruption."
+msgstr ""
+

@@ -1,0 +1,513 @@
+# Comments for '00956'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 00956:9
+
+msgid "{Principal}\n\"Let me try it with you this time.\""
+msgstr ""
+
+#: 00956:10
+
+msgid "The principal sat down next to me."
+msgstr ""
+
+#: 00956:11
+
+msgid "{Kazushi}\n\"Try it with you?\""
+msgstr ""
+
+#: 00956:14
+
+msgid "{Principal}\n\"Yes.\""
+msgstr ""
+
+#: 00956:15
+
+msgid "She gave me a gentle smile. She seems kind, but she makes me uncomfortable. Now I'm nervous too."
+msgstr ""
+
+#: 00956:18
+
+msgid "{Principal}\n\"Just follow the same steps as you learned before.\""
+msgstr ""
+
+#: 00956:19
+
+msgid "{Kazushi}\n\"Yes, ma'am.\""
+msgstr ""
+
+#: 00956:21
+
+msgid "I went through the same steps one more time. I put the ingredients in and lit the flame."
+msgstr ""
+
+#: 00956:22
+
+msgid "{Kazushi}\n\"Like this?\""
+msgstr ""
+
+#: 00956:24
+
+msgid "The liquid inside the flask began to boil. Bubbles shook the surface of the water as if they were reflecting my tension."
+msgstr ""
+
+#: 00956:25
+
+msgid "{Principal}\n\"You need to relax more. If you're too tense, it will be harder to fuse the ingredients.\""
+msgstr ""
+
+#: 00956:26
+
+msgid "{Kazushi}\n\"Yes, ma'am.\""
+msgstr ""
+
+#: 00956:27
+
+msgid "I took a few big breaths. Deep breaths. Deep breaths are what I needed."
+msgstr ""
+
+#: 00956:28
+
+msgid "{Kazushi}\n\"Ahhh, uhhhn.\""
+msgstr ""
+
+#: 00956:31
+
+msgid "I smelled something pretty as I inhaled."
+msgstr ""
+
+#: 00956:32
+
+msgid "It was the flowers."
+msgstr ""
+
+#: 00956:35
+
+msgid "{Principal}\n\"Very good. You're doing much better now.\""
+msgstr ""
+
+#: 00956:36
+
+msgid "The principal looked into the flask and smiled. The liquid inside displayed signs of intense convection, but only gentle waves appeared on the surface."
+msgstr ""
+
+#: 00956:39
+
+msgid "{Principal}\n\"The two ingredients we used hold 'shadow' and 'light', or 'male' and 'female' properties. In alchemy we call this 'King' and 'Queen'.\""
+msgstr ""
+
+#: 00956:40
+
+msgid "{Kazushi}\n\"'King' and 'Queen'?\""
+msgstr ""
+
+#: 00956:41
+
+msgid "The name comes from people? That's an interesting way to name them, but I can see where they get it from."
+msgstr ""
+
+#: 00956:44
+
+msgid "{Principal}\n\"This goes in next.\""
+msgstr ""
+
+#: 00956:45
+
+msgid "It's the flowers. I made it this far last time, too."
+msgstr ""
+
+#: 00956:46
+
+msgid "{Kazushi}\n\"Here goes.\""
+msgstr ""
+
+#: 00956:47
+
+msgid "I grabbed the flower."
+msgstr ""
+
+#: 00956:48
+
+msgid "{Kazushi}\n\"Ow...\""
+msgstr ""
+
+#: 00956:49
+
+msgid "I felt a shock, like static electricity, in my fingertips."
+msgstr ""
+
+#: 00956:50
+
+msgid "I nearly stopped myself, but I felt the principal's eyes on me so I put it in."
+msgstr ""
+
+#: 00956:51
+
+msgid "The solution was turning black inside the flask."
+msgstr ""
+
+#: 00956:54
+
+msgid "{Principal}\n\"This is the stage where the substances each meet their death.\""
+msgstr ""
+
+#: 00956:55
+
+msgid "{Kazushi}\n\"Death...\""
+msgstr ""
+
+#: 00956:56
+
+msgid "{Principal}\n\"Yes, death. The substances die inside this flask, and then...\""
+msgstr ""
+
+#: 00956:57
+
+msgid "I watched the solution change color like watching a video on fast forward."
+msgstr ""
+
+#: 00956:58
+
+msgid "{Principal}\n\"They are born anew.\""
+msgstr ""
+
+#: 00956:59
+
+msgid "Its turning white, now.\nIt's the perfect image of life and death."
+msgstr ""
+
+#: 00956:60
+
+msgid "Born anew from the colour of a funeral."
+msgstr ""
+
+#: 00956:61
+
+msgid "{Principal}\n\"The King and Queen die and are rise again. This is the stage at which they melt and blend together to create a new life.\""
+msgstr ""
+
+#: 00956:62
+
+msgid "{Principal}\n\"We call this stage the philosophical marriage of the King and Queen.\""
+msgstr ""
+
+#: 00956:63
+
+msgid "{Kazushi}\n\"Marriage? The terms are quite romantic.\""
+msgstr ""
+
+#: 00956:66
+
+msgid "{Principal}\n\"Yes they are. Alchemy is full of romance.\""
+msgstr ""
+
+#: 00956:67
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 00956:68
+
+msgid "I'm impressed."
+msgstr ""
+
+#: 00956:69
+
+msgid "As matter of a fact, changing lead into gold is kind of romantic."
+msgstr ""
+
+#: 00956:70
+
+msgid "{Principal}\n\"And so the new life that they create will be able to shine on its own.\""
+msgstr ""
+
+#: 00956:71
+
+msgid "The liquid inside began to turn red, like the dawning sky. At the center of the liquid, a gold sun began to appear."
+msgstr ""
+
+#: 00956:72
+
+msgid "{Kazushi}\n\"Something's been solidified.\""
+msgstr ""
+
+#: 00956:73
+
+msgid "It was like a little rock. The liquid glowed a transparent red, but it was more golden closer to the center."
+msgstr ""
+
+#: 00956:76
+
+msgid "{Principal}\n\"Now, it is complete.\""
+msgstr ""
+
+#: 00956:79
+
+msgid "The principal turned off the flame.\nShe stuck her fingers into the flask and picked up the golden rock."
+msgstr ""
+
+#: 00956:80
+
+msgid "{Kazushi}\n\"Isn't it hot?\""
+msgstr ""
+
+#: 00956:83
+
+msgid "{Principal}\n\"Go ahead and touch it.\""
+msgstr ""
+
+#: 00956:84
+
+msgid "She held it out in the palm of her hand."
+msgstr ""
+
+#: 00956:85
+
+msgid "{Kazushi}\n\"All right......\""
+msgstr ""
+
+#: 00956:86
+
+msgid "I carefully touched it."
+msgstr ""
+
+#: 00956:87
+
+msgid "{Kazushi}\n\"It's not hot at all.\""
+msgstr ""
+
+#: 00956:88
+
+msgid "Not only was it cool, but it wasn't hard as a rock, either. It was neither soft, nor hard, and held a living warmth."
+msgstr ""
+
+#: 00956:95
+
+msgid "{Haruka}\n\"Amazing, Kazushi-kun. It's a great success!\""
+msgstr ""
+
+#: 00956:96
+
+msgid "{Kazushi}\n\"This is the result?\""
+msgstr ""
+
+#: 00956:97
+
+msgid "I didn't know what the outcome of the experiment was supposed to be."
+msgstr ""
+
+#: 00956:98
+
+msgid "{Kazushi}\n\"By the way...what is this?\""
+msgstr ""
+
+#: 00956:99
+
+msgid "It appeared to be golden, but it sure wasn't gold."
+msgstr ""
+
+#: 00956:103
+
+msgid "{Mei}\n\"Here you go, Principal.\""
+msgstr ""
+
+#: 00956:104
+
+msgid "Mei-sensei brought over a pot. There was no flower in it; only dirt."
+msgstr ""
+
+#: 00956:105
+
+msgid "The principal planted the golden orb in the dirt."
+msgstr ""
+
+#: 00956:109
+
+msgid "{Principal}\n\"This is......\""
+msgstr ""
+
+#: 00956:110
+
+msgid "She poured some water in the pot as she continued her explanation.\nBefore she could finish, we saw a plant begin to sprout."
+msgstr ""
+
+#: 00956:111
+
+msgid "{Kazushi}\n\"Wow!\""
+msgstr ""
+
+#: 00956:112
+
+msgid "It was like watching magic. But then that orb is..."
+msgstr ""
+
+#: 00956:113
+
+msgid "{Kazushi}\n\"A seed?\""
+msgstr ""
+
+#: 00956:116
+
+msgid "{Principal}\n\"That's exactly what it is.\nEverybody's assignment is to synthesize these and sow them in the garden.\""
+msgstr ""
+
+#: 00956:117
+
+msgid "{Kazushi}\n\"I see.\""
+msgstr ""
+
+#: 00956:118
+
+msgid "We're going to sow new seeds in the garden we ruined."
+msgstr ""
+
+#: 00956:119
+
+msgid "{Principal}\n\"I doubt they'll bloom soon, but if everyone wishes for it, then I'm sure they'll bloom again one day.\""
+msgstr ""
+
+#: 00956:120
+
+msgid "{Kazushi}\n\"They will?\""
+msgstr ""
+
+#: 00956:121
+
+msgid "Then we can make that garden full of blooming flowers once again."
+msgstr ""
+
+#: 00956:129
+
+msgid "{Pierre}\n\"We're going to make a lot of seeds!\""
+msgstr ""
+
+#: 00956:130
+
+msgid "{Daigo}\n\"But, can we really make them?\""
+msgstr ""
+
+#: 00956:131
+
+msgid "{Appo}\n\"If at first you don't succeed...\""
+msgstr ""
+
+#: 00956:141
+
+msgid "{Haruka}\n\"I'll help you guys.\""
+msgstr ""
+
+#: 00956:142
+
+msgid "{Mizuki}\n\"I guess I have to.\""
+msgstr ""
+
+#: 00956:143
+
+msgid "{Fuusen}\n\"Well, it is for class.\""
+msgstr ""
+
+#: 00956:144
+
+msgid "Whether by choice or force, the girls were going to help us out."
+msgstr ""
+
+#: 00956:145
+
+msgid "{Kazushi}\n\"Thanks, girls!\nLet's do it!\""
+msgstr ""
+
+#: 00956:150
+
+msgid "{Kazushi}\n\"Is this all?\""
+msgstr ""
+
+#: 00956:151
+
+msgid "After school, we all sowed the seeds we made together."
+msgstr ""
+
+#: 00956:154
+
+msgid "{Daigo}\n\"Do you think that's enough?\""
+msgstr ""
+
+#: 00956:155
+
+msgid "We couldn't make hundreds of them, only about one per person in the class."
+msgstr ""
+
+#: 00956:160
+
+msgid "{Haruka}\n\"It'll be alright.\""
+msgstr ""
+
+#: 00956:161
+
+msgid "{Kazushi}\n\"Really?\""
+msgstr ""
+
+#: 00956:162
+
+msgid "{Haruka}\n\"Those flowers don't actually have seeds. They just grow up straight out of the ground. We don't really know how they do it.\""
+msgstr ""
+
+#: 00956:169
+
+msgid "{Pierre}\n\"Then what did we just sow in the ground? Weren't those seeds?\""
+msgstr ""
+
+#: 00956:170
+
+msgid "{Haruka}\n\"Those orbs aren't seeds; they're actually something of a fertilizer. They fertilize the soil and make it easier for the flowers to bloom.\""
+msgstr ""
+
+#: 00956:171
+
+msgid "{Haruka}\n\"The flowers tend to grow near places where alchemical power gathers.\""
+msgstr ""
+
+#: 00956:172
+
+msgid "{Kazushi}\n\"Huh, that's a weird flower.\""
+msgstr ""
+
+#: 00956:175
+
+msgid "{Haruka}\n\"It's alright. I'm sure they'll bloom again.\""
+msgstr ""
+
+#: 00956:176
+
+msgid "I looked over the neatly patted garden. I can't wait to see this place covered in flowers again."
+msgstr ""
+
+#: 00956:179
+
+msgid "{Daigo}\n\"I will make some more and sow them whenever I have free time.\""
+msgstr ""
+
+#: 00956:180
+
+msgid "{Kazushi}\n\"Good idea.\""
+msgstr ""
+
+#: 00956:181
+
+msgid "{Haruka}\n\"I'll help you guys, too!\""
+msgstr ""
+
+#: 00956:182
+
+msgid "It's probably going to be our will more than anything else which will ultimately bring the flowers back into bloom."
+msgstr ""
+

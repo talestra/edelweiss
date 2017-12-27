@@ -1,0 +1,488 @@
+# Comments for '30243'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 30243:7
+
+msgid "One day we went to the cafeteria and there was a big commotion."
+msgstr ""
+
+#: 30243:10
+
+msgid "{Haruka}\n\"Wow! Amazing! Kazuko and Appo-kun did this together!?\""
+msgstr ""
+
+#: 30243:15
+
+msgid "{Fuusen}\n\"It's not a big deal.\""
+msgstr ""
+
+#: 30243:20
+
+msgid "{Appo}\n\"It's like the fruit of our love for each other.\""
+msgstr ""
+
+#: 30243:21
+
+msgid "Everyone was surrounding Appo and Fuusen."
+msgstr ""
+
+#: 30243:22
+
+msgid "{Kazushi}\n\"What's going on?\""
+msgstr ""
+
+#: 30243:23
+
+msgid "I asked Pierre."
+msgstr ""
+
+#: 30243:28
+
+msgid "{Pierre}\n\"Appo and Fuusen made silver together in a joint alchemy experiment.\""
+msgstr ""
+
+#: 30243:29
+
+msgid "{Kazushi}\n\"Silver? You mean that silver?\""
+msgstr ""
+
+#: 30243:34
+
+msgid "{Rin}\n\"The silver in gold, silver, and pearls, right?\""
+msgstr ""
+
+#: 30243:38
+
+msgid "{Sakura}\n\"Rin, that example's for...\""
+msgstr ""
+
+#: 30243:42
+
+msgid "{Fuusen}\n\"We weren't able to make gold, but I think we did quite a good job.\""
+msgstr ""
+
+#: 30243:45
+
+msgid "Fuusen answered humbly with a beam of satisfaction. Well, they certainly deserved our praise."
+msgstr ""
+
+#: 30243:48
+
+msgid "{Kazushi}\n\"You did a great job, Appo.\""
+msgstr ""
+
+#: 30243:49
+
+msgid "{Appo}\n\"I'm just happy to be done with my summer homework.\""
+msgstr ""
+
+#: 30243:54
+
+msgid "{Pierre}\n\"Oh yeah, we had homework from Mei-chan! I haven't even thought of anything yet.\""
+msgstr ""
+
+#: 30243:58
+
+msgid "{Daigo}\n\"You may have a real talent for this, Appo.\""
+msgstr ""
+
+#: 30243:59
+
+msgid "{Appo}\n\"Yeah, maybe. I always believed that I was born with some kind of gift.\""
+msgstr ""
+
+#: 30243:60
+
+msgid "Appo kept on talking with pride. Well, he did deserve the praise for making silver - it was an unprecedented success."
+msgstr ""
+
+#: 30243:64
+
+msgid "{Haruka}\n\"Hey, hey, how did you do it? What was your trick?\""
+msgstr ""
+
+#: 30243:68
+
+msgid "{Fuusen}\n\"Well... In fact...\""
+msgstr ""
+
+#: 30243:69
+
+msgid "The girls were talking quietly, but Fuusen's voice was loud enough for all of us to hear."
+msgstr ""
+
+#: 30243:70
+
+msgid "{Fuusen}\n\"We were having sex while doing the experiment, and Ah-chan's semen accidentally got shot in...\""
+msgstr ""
+
+#: 30243:71
+
+msgid "What a shocking confession!"
+msgstr ""
+
+#: 30243:75
+
+msgid "{Mizuki}\n\"What?! Be gone!!\""
+msgstr ""
+
+#: 30243:80
+
+msgid "Suddenly, all the girls jumped over two meters away in surprise from Fuusen."
+msgstr ""
+
+#: 30243:86
+
+msgid "{Rin}\n\"S-se...what?\""
+msgstr ""
+
+#: 30243:91
+
+msgid "{Ran}\n\"What? What do you mean?\""
+msgstr ""
+
+#: 30243:92
+
+msgid "Ran was totally getting into this. Get a precious metal involved in the subject and she was hooked."
+msgstr ""
+
+#: 30243:96
+
+msgid "{Fuusen}\n\"You need to have the right materials and compatibility with the alchemist, right? Maybe it just means Ah-chan's seed has perfect chemistry with me.\""
+msgstr ""
+
+#: 30243:100
+
+msgid "{Haruka}\n\"That makes sense. I wish I had a boyfriend.\""
+msgstr ""
+
+#: 30243:104
+
+msgid "{Ran}\n\"The chemistry...\""
+msgstr ""
+
+#: 30243:108
+
+msgid "{Fuusen}\n\"Why don't you try, Ran? Even though you haven't succeeded once before, it might go well for you?\""
+msgstr ""
+
+#: 30243:111
+
+msgid "{Ran}\n\"You think so?\""
+msgstr ""
+
+#: 30243:114
+
+msgid "{Fuusen}\n\"You've got to have the right chemistry, you know? I don't think anyone can beat us there, though.\""
+msgstr ""
+
+#: 30243:117
+
+msgid "{Ran}\n\"Grr...\""
+msgstr ""
+
+#: 30243:118
+
+msgid "Huh? Ran seems upset..."
+msgstr ""
+
+#: 30243:119
+
+msgid "{Ran}\n\"Yeah, no one can beat you two.\""
+msgstr ""
+
+#: 30243:120
+
+msgid "But her face lightened up a bit with an evil smile.\nShe's really upset, isn't she?"
+msgstr ""
+
+#: 30243:127
+
+msgid "{Ran}\n\"I'm going to face the challenge of refining gold one more time!\""
+msgstr ""
+
+#: 30243:128
+
+msgid "Ran dragged me behind the school gym and told me with newfound determination."
+msgstr ""
+
+#: 30243:129
+
+msgid "{Kazushi}\n\"Making gold? Ran, you've never even succeeded at normal refinements.\""
+msgstr ""
+
+#: 30243:130
+
+msgid "I'd almost thought that she'd given up on alchemy because she was untalented... so what changed her mind?"
+msgstr ""
+
+#: 30243:131
+
+msgid "{Ran}\n\"That was in the past. This is now, and you don't know until you've tried. It may work this time, you know?\""
+msgstr ""
+
+#: 30243:134
+
+msgid "{Ran}\n\"Besides, I've been feeling lucky lately.\""
+msgstr ""
+
+#: 30243:135
+
+msgid "{Kazushi}\n\"Lucky? Well, I don't see anything wrong with trying...\""
+msgstr ""
+
+#: 30243:136
+
+msgid "We're still young and she's right, it's way too early to give up at our age. If Ran wants to try something, I should be the one supporting her most."
+msgstr ""
+
+#: 30243:137
+
+msgid "{Kazushi}\n\"Okay! I got it! I'll help you out!!\""
+msgstr ""
+
+#: 30243:138
+
+msgid "{Ran}\n\"I knew you would! That's my Kazushi!\""
+msgstr ""
+
+#: 30243:139
+
+msgid "{Kazushi}\n\"Nothing is impossible! Let's try and succeed this time so we can rake in hordes of that money you love, Ran!\""
+msgstr ""
+
+#: 30243:142
+
+msgid "{Ran}\n\"Yes! Right on!! That's right, Kazushi!\""
+msgstr ""
+
+#: 30243:143
+
+msgid "Ran happily pounced on me and kissed me on the cheek."
+msgstr ""
+
+#: 30243:146
+
+msgid "{Ran}\n\"Oh, I love you.\""
+msgstr ""
+
+#: 30243:147
+
+msgid "{Kazushi}\n\"Love me...?\""
+msgstr ""
+
+#: 30243:148
+
+msgid "I knew she was half joking, but it made me blush to hear that. And with her this close..."
+msgstr ""
+
+#: 30243:150
+
+msgid "Then we heard someone approaching."
+msgstr ""
+
+#: 30243:153
+
+msgid "{Ran}\n\"Someone's coming! Kazushi, over here!!\""
+msgstr ""
+
+#: 30243:154
+
+msgid "Ran pulled me by the hand."
+msgstr ""
+
+#: 30243:155
+
+msgid "{Kazushi}\n\"Hey, what are you doing?\""
+msgstr ""
+
+#: 30243:156
+
+msgid "{Ran}\n\"We'd better hide.\""
+msgstr ""
+
+#: 30243:157
+
+msgid "{Kazushi}\n\"Hide? Where?\""
+msgstr ""
+
+#: 30243:158
+
+msgid "{Ran}\n\"Uh...here!!\""
+msgstr ""
+
+#: 30243:159
+
+msgid "{Kazushi}\n\"Here? Hey...\""
+msgstr ""
+
+#: 30243:164
+
+msgid "It was completely dark inside, but probably because my eyes hadn't adjusted. There was light filtering in through a gap."
+msgstr ""
+
+#: 30243:165
+
+msgid "Ran dragged me inside a vaulting box."
+msgstr ""
+
+#: 30243:166
+
+msgid "{Kazushi}\n\"There's no need for us to hide in here?\""
+msgstr ""
+
+#: 30243:167
+
+msgid "{Ran}\n\"Hahaha... I was a little carried away, huh?\""
+msgstr ""
+
+#: 30243:168
+
+msgid "{Kazushi}\n\"Come on. Let's get out of here.\""
+msgstr ""
+
+#: 30243:169
+
+msgid "{Ran}\n\"No! We should stay here. It'll be more suspicious if we leave now.\""
+msgstr ""
+
+#: 30243:170
+
+msgid "There was still someone out there. I wonder who?"
+msgstr ""
+
+#: 30243:171
+
+msgid "{Appo}\n\"I thought it saw it coming in here...\""
+msgstr ""
+
+#: 30243:172
+
+msgid "{Kazushi}\n\"Appo?\""
+msgstr ""
+
+#: 30243:173
+
+msgid "I peeked through the gap and saw Appo looking for something."
+msgstr ""
+
+#: 30243:174
+
+msgid "{Ran}\n\"What's he looking for?\nDammit, we're gonna be stuck here for ages.\""
+msgstr ""
+
+#: 30243:175
+
+msgid "{Kazushi}\n\"I can explain to Appo...\""
+msgstr ""
+
+#: 30243:176
+
+msgid "{Ran}\n\"What kinda explanation are you gonna make like this?\""
+msgstr ""
+
+#: 30243:177
+
+msgid "She grabbed a hold of my crotch."
+msgstr ""
+
+#: 30243:178
+
+msgid "{Kazushi}\n\"Whoah...h-hey...?\""
+msgstr ""
+
+#: 30243:179
+
+msgid "Something's off. I thought it felt odd when she grabbed my crotch, and it looked like I was hard."
+msgstr ""
+
+#: 30243:180
+
+msgid "{Ran}\n\"See? You're still like this. Any explanation you give him is just going to come off as an excuse.\""
+msgstr ""
+
+#: 30243:181
+
+msgid "{Kazushi}\n\"True.\""
+msgstr ""
+
+#: 30243:182
+
+msgid "But it wasn't going down soon. No wonder - Ran was pressed up against me like this."
+msgstr ""
+
+#: 30243:183
+
+msgid "{Ran}\n\"Ah, hey... don't press it against me or you'll start turning me on.\""
+msgstr ""
+
+#: 30243:184
+
+msgid "Ran's voice cracked. Right, I was pressed up against her too. She was getting off too."
+msgstr ""
+
+#: 30243:185
+
+msgid "{Ran}\n\"Hey, Kazushi, can't you calm it down?\""
+msgstr ""
+
+#: 30243:186
+
+msgid "She poked at my crotch."
+msgstr ""
+
+#: 30243:187
+
+msgid "{Kazushi}\n\"That makes it worse!\""
+msgstr ""
+
+#: 30243:188
+
+msgid "{Ran}\n\"Then how do make it calm down?\""
+msgstr ""
+
+#: 30243:189
+
+msgid "{Kazushi}\n\"Make it come...\""
+msgstr ""
+
+#: 30243:190
+
+msgid "{Ran}\n\"Make it come?\""
+msgstr ""
+
+#: 30243:191
+
+msgid "Ran gulped and then quickly reached for my pants."
+msgstr ""
+
+#: 30243:192
+
+msgid "{Ran}\n\"How much have you got on you?\""
+msgstr ""
+
+#: 30243:193
+
+msgid "{Kazushi}\n\"How much...? Don't tell me... Are you planning on doing it here?\""
+msgstr ""
+
+#: 30243:194
+
+msgid "Oh, come on..."
+msgstr ""
+
+#: 30243:195
+
+msgid "{Kazushi}\n\"How much, then?\""
+msgstr ""
+

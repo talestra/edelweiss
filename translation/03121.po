@@ -1,0 +1,33 @@
+# Comments for '03121'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 03121:5
+
+msgid "It isn't good to eavesdrop - that and the principal's in there too. I'm sure I'd be exposed in no time."
+msgstr ""
+
+#: 03121:6
+
+msgid "{Kazushi}\n\"I'll ask Haruka about this next time I see her.\""
+msgstr ""
+
+#: 03121:7
+
+msgid "Well, if I can remember to."
+msgstr ""
+
+#: 03121:8
+
+msgid "{Kazushi}\n\"I should go get my stuff now.\""
+msgstr ""
+

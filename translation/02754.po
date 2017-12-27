@@ -1,0 +1,853 @@
+# Comments for '02754'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 02754:12
+
+msgid "{Pierre}\n\"Man, I'm starving.\""
+msgstr ""
+
+#: 02754:13
+
+msgid "{Kazushi}\n\"What's on the menu for today?\""
+msgstr ""
+
+#: 02754:14
+
+msgid "I clutched my stomach and took a close look at what was on offer for lunch."
+msgstr ""
+
+#: 02754:19
+
+msgid "{Natsume}\n\"Haruma! Haruma!\""
+msgstr ""
+
+#: 02754:20
+
+msgid "Natsume-chan started calling out to me just as I'd narrowed my lunch down to either the daily combo or the butadon."
+msgstr ""
+
+#: 02754:21
+
+msgid "{Natsume}\n\"Haruma! Over here!\""
+msgstr ""
+
+#: 02754:22
+
+msgid "And there was Natsume-chan, jumping up and down in front of the cashier. I don't think she realized that everybody else was staring at her."
+msgstr ""
+
+#: 02754:23
+
+msgid "She's got something that attracted everybody's maternal instincts though."
+msgstr ""
+
+#: 02754:31
+
+msgid "{Appo}\n\"She sure is attached to you. Hey, Kazushi, are you sure you haven't met her before?\""
+msgstr ""
+
+#: 02754:32
+
+msgid "Appo kept asking me the same question every time we saw her."
+msgstr ""
+
+#: 02754:33
+
+msgid "I don't blame him. Even I have to wonder."
+msgstr ""
+
+#: 02754:34
+
+msgid "{Kazushi}\n\"I really don't remember meeting her before.\""
+msgstr ""
+
+#: 02754:37
+
+msgid "{Daigo}\n\"You've got a memory like a sieve. Maybe this is just another case of in one ear and out the other.\""
+msgstr ""
+
+#: 02754:40
+
+msgid "{Pierre}\n\"That's very possible. On the other hand, such a failing will never happen for me.\""
+msgstr ""
+
+#: 02754:41
+
+msgid "Pierre has the uncanny ability to never forget a girl's name or face."
+msgstr ""
+
+#: 02754:47
+
+msgid "{Natsume}\n\"Haruma! Haruma!\""
+msgstr ""
+
+#: 02754:48
+
+msgid "I could tell that she was starting to get irritated. I should go and sit by her."
+msgstr ""
+
+#: 02754:49
+
+msgid "{Kazushi}\n\"I'll be right over! Go ahead and start without me!\""
+msgstr ""
+
+#: 02754:51
+
+msgid "I told the guys I had to go. I feel like I'm her butler or something."
+msgstr ""
+
+#: 02754:54
+
+msgid "{Natsume}\n\"Haruma! Hurry up!\""
+msgstr ""
+
+#: 02754:55
+
+msgid "{Kazushi}\n\"What is it? What's wrong?\""
+msgstr ""
+
+#: 02754:58
+
+msgid "{Natsume}\n\"I want spaghetti. Order it for me.\""
+msgstr ""
+
+#: 02754:59
+
+msgid "{Kazushi}\n\"What? Is that why you needed me?\""
+msgstr ""
+
+#: 02754:60
+
+msgid "{Natsume}\n\"............\""
+msgstr ""
+
+#: 02754:61
+
+msgid "{Kazushi}\n\"Why didn't you order it by yourself?\""
+msgstr ""
+
+#: 02754:64
+
+msgid "{Natsume}\n\"Just order one for me.\""
+msgstr ""
+
+#: 02754:65
+
+msgid "She tugged on my shirt."
+msgstr ""
+
+#: 02754:66
+
+msgid "{Kazushi}\n\"All right, fine.\""
+msgstr ""
+
+#: 02754:69
+
+msgid "{Kazushi}\n\"One spaghetti, please!\""
+msgstr ""
+
+#: 02754:70
+
+msgid "{Cafeteria Lady}\n\"Got it.\""
+msgstr ""
+
+#: 02754:71
+
+msgid "Done."
+msgstr ""
+
+#: 02754:72
+
+msgid "{Kazushi}\n\"There you go.\""
+msgstr ""
+
+#: 02754:75
+
+msgid "{Natsume}\n\"Wow......\""
+msgstr ""
+
+#: 02754:76
+
+msgid "She looked at me all impressed. Her eyes were sparkling."
+msgstr ""
+
+#: 02754:77
+
+msgid "{Natsume}\n\"I didn't know you had it in you.\""
+msgstr ""
+
+#: 02754:78
+
+msgid "Apparently I managed to impress her somehow."
+msgstr ""
+
+#: 02754:79
+
+msgid "{Kazushi}\n\"I didn't do anything special. I just ordered your spaghetti.\""
+msgstr ""
+
+#: 02754:82
+
+msgid "{Natsume}\n\"Let's do it again.\""
+msgstr ""
+
+#: 02754:83
+
+msgid "{Kazushi}\n\"Again?\""
+msgstr ""
+
+#: 02754:86
+
+msgid "{Natsume}\n\"Yeah, again.\""
+msgstr ""
+
+#: 02754:87
+
+msgid "She tugged my shirt again."
+msgstr ""
+
+#: 02754:88
+
+msgid "{Kazushi}\n\"All right, fine.\""
+msgstr ""
+
+#: 02754:89
+
+msgid "I haven't even ordered my lunch yet. I wonder what's impressed her so much about ordering lunch?"
+msgstr ""
+
+#: 02754:92
+
+msgid "{Kazushi}\n\"Wasn't today's special European curry?\""
+msgstr ""
+
+#: 02754:93
+
+msgid "I don't even know what that is. Oh well, can't hurt to try it."
+msgstr ""
+
+#: 02754:94
+
+msgid "{Kazushi}\n\"Today's special, please.\""
+msgstr ""
+
+#: 02754:95
+
+msgid "{Cafeteria Lady}\n\"Got it. You want that in extra large?\""
+msgstr ""
+
+#: 02754:96
+
+msgid "{Kazushi}\n\"I want it as big as I can get without having to pay extra.\""
+msgstr ""
+
+#: 02754:97
+
+msgid "{Cafeteria Lady}\n\"All right.\""
+msgstr ""
+
+#: 02754:98
+
+msgid "An extra large is only 50 yen extra, but I'm trying to save some money."
+msgstr ""
+
+#: 02754:101
+
+msgid "{Natsume}\n\"Wow, so many orders. Haruma, you're so mature.\""
+msgstr ""
+
+#: 02754:102
+
+msgid "She was looking at me differently now. I didn't feel so bad about it."
+msgstr ""
+
+#: 02754:105
+
+msgid "{Cafeteria Lady}\n\"Here's your spaghetti. And here's the special.\""
+msgstr ""
+
+#: 02754:106
+
+msgid "Our meals were finished at the same time."
+msgstr ""
+
+#: 02754:107
+
+msgid "{Kazushi}\n\"This is for mine.\""
+msgstr ""
+
+#: 02754:110
+
+msgid "I paid for my lunch. Natsume-chan just watched as I got my change."
+msgstr ""
+
+#: 02754:111
+
+msgid "{Kazushi}\n\"Huh?\nYou need to pay too, Natsume-chan.\""
+msgstr ""
+
+#: 02754:112
+
+msgid "{Natsume}\n\"I don't have any money.\""
+msgstr ""
+
+#: 02754:113
+
+msgid "{Kazushi}\n\"What!? You don't have any money?\""
+msgstr ""
+
+#: 02754:114
+
+msgid "Well that just wiped the normally large and friendly smile from the cashier's face."
+msgstr ""
+
+#: 02754:115
+
+msgid "{Kazushi}\n\"What are you going to do?\""
+msgstr ""
+
+#: 02754:116
+
+msgid "{Natsume}\n\"I'll be fine. Haruma's an adult.\""
+msgstr ""
+
+#: 02754:117
+
+msgid "{Kazushi}\n\"I knew it.\""
+msgstr ""
+
+#: 02754:118
+
+msgid "I had a feeling that she didn't have any money, so I'm not too surprised."
+msgstr ""
+
+#: 02754:120
+
+msgid "{Cafeteria Lady}\n\"So who's paying for the spaghetti?\""
+msgstr ""
+
+#: 02754:121
+
+msgid "She couldn't stay silent any longer."
+msgstr ""
+
+#: 02754:122
+
+msgid "{Kazushi}\n\"Here you go.\""
+msgstr ""
+
+#: 02754:123
+
+msgid "I didn't have a choice.\nThere goes my money."
+msgstr ""
+
+#: 02754:126
+
+msgid "{Natsume}\n\"Thanks, Haruma!\""
+msgstr ""
+
+#: 02754:127
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 02754:128
+
+msgid "Well that was a pleasant surprise. I didn't expect her to thank me."
+msgstr ""
+
+#: 02754:131
+
+msgid "{Natsume}\n\"Aren't we going to eat?\""
+msgstr ""
+
+#: 02754:132
+
+msgid "{Kazushi}\n\"Of course we are. Let's tuck in before it gets cold. Come on.\""
+msgstr ""
+
+#: 02754:133
+
+msgid "{Natsume}\n\"Let's go.\""
+msgstr ""
+
+#: 02754:144
+
+msgid "{Pierre}\n\"Natsume-chan is so cute.\nShe looks like a pretty doll.\""
+msgstr ""
+
+#: 02754:145
+
+msgid "{Daigo}\n\"She's made everybody at this table happy just by sitting here.\""
+msgstr ""
+
+#: 02754:146
+
+msgid "My friends surrounded her instantly."
+msgstr ""
+
+#: 02754:147
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 02754:148
+
+msgid "Natsume-chan seemed to be a bit annoyed, but everyone wanted to interact with her."
+msgstr ""
+
+#: 02754:152
+
+msgid "{Appo}\n\"So, Natsume-chan, who's your type?\""
+msgstr ""
+
+#: 02754:153
+
+msgid "{Kazushi}\n\"Hey, don't try and seduce her already.\""
+msgstr ""
+
+#: 02754:158
+
+msgid "{Natsume}\n\"I hate boys.\""
+msgstr ""
+
+#: 02754:159
+
+msgid "Her reply was curt and ice cold as she wrapped the spaghetti around her fork."
+msgstr ""
+
+#: 02754:164
+
+msgid "{Pierre}\n\"Huh?\nYou hate boys?\""
+msgstr ""
+
+#: 02754:167
+
+msgid "{Natsume}\n\"That's right. So you guys go away.\""
+msgstr ""
+
+#: 02754:168
+
+msgid "She made \"shoo\"-ing motions with her hands, as if dealing with a herd of cats."
+msgstr ""
+
+#: 02754:171
+
+msgid "{Pierre}\n\"Ahaha. It actually feels great for her to abuse us! Do it some more!\""
+msgstr ""
+
+#: 02754:174
+
+msgid "{Natsume}\n\"...you a pervert?\""
+msgstr ""
+
+#: 02754:175
+
+msgid "{Kazushi}\n\"Yes, he is. Stay away from him.\""
+msgstr ""
+
+#: 02754:178
+
+msgid "{Natsume}\n\"I see. Haruma, you should be more careful when choosing your friends.\""
+msgstr ""
+
+#: 02754:181
+
+msgid "{Pierre}\n\"Hey, could you toss this water on my head while you shout 'You trash!'?\""
+msgstr ""
+
+#: 02754:182
+
+msgid "{Kazushi}\n\"...I see what you mean. From now on, I'll make sure that I'm more careful when making new friends.\""
+msgstr ""
+
+#: 02754:183
+
+msgid "{Natsume}\n\"You definitely should.\""
+msgstr ""
+
+#: 02754:190
+
+msgid "{Sakura}\n\"Hey, Natsume-chan! Over here!!\""
+msgstr ""
+
+#: 02754:191
+
+msgid "Sakura waved at us, breaking the stagnant air. Fujisaki-san was with her too."
+msgstr ""
+
+#: 02754:198
+
+msgid "{Sakura}\n\"Do you know my name yet?\""
+msgstr ""
+
+#: 02754:201
+
+msgid "{Rin}\n\"Ooh, how about me?\""
+msgstr ""
+
+#: 02754:202
+
+msgid "{Natsume}\n\"...Umeko and Suzu?\""
+msgstr ""
+
+#: 02754:203
+
+msgid "Natsume-chan took a few quick looks at their faces and spit out some random names."
+msgstr ""
+
+#: 02754:206
+
+msgid "{Rin}\n\"Ahaha, so close.\""
+msgstr ""
+
+#: 02754:209
+
+msgid "{Sakura}\n\"By the way, my name's Sakura, not Umeko.\""
+msgstr ""
+
+#: 02754:212
+
+msgid "{Natsume}\n\"...huh.\""
+msgstr ""
+
+#: 02754:213
+
+msgid "She seemed entirely disinterested."
+msgstr ""
+
+#: 02754:216
+
+msgid "{Rin}\n\"What are you eating?\""
+msgstr ""
+
+#: 02754:217
+
+msgid "Fujisaki-san tried to lighten the mood."
+msgstr ""
+
+#: 02754:220
+
+msgid "{Natsume}\n\"Can't you see? Are those eyes in your head made out of glass?\""
+msgstr ""
+
+#: 02754:223
+
+msgid "{Rin}\n\"Oh, umm, I'm sorry......\""
+msgstr ""
+
+#: 02754:226
+
+msgid "{Sakura}\n\"Ahaha, Natsume-chan, you're so cute. Can we eat with you?\""
+msgstr ""
+
+#: 02754:229
+
+msgid "{Natsume}\n\"You guys are like flies. Shoo, shoo.\""
+msgstr ""
+
+#: 02754:230
+
+msgid "{Sakura}\n\"Oh my god, you're adorable! That's settled, we're having our lunch with you.\""
+msgstr ""
+
+#: 02754:234
+
+msgid "Sakura seemed oblivious to how nastily Natsume-chan was treating them. Fujisaki-san sat down next to Sakura."
+msgstr ""
+
+#: 02754:237
+
+msgid "{Natsume}\n\"How come these girls don't mind me being so rude to them?\""
+msgstr ""
+
+#: 02754:238
+
+msgid "{Kazushi}\n\"I don't know either.\""
+msgstr ""
+
+#: 02754:240
+
+msgid "I wasn't going to tell her that it's because her attacks are weak. Everything she says just comes out cute."
+msgstr ""
+
+#: 02754:247
+
+msgid "{Rin}\n\"Since Natsume-chan's having spaghetti, I think I'll have the same.\""
+msgstr ""
+
+#: 02754:248
+
+msgid "{Natsume}\n\"This is kinda oily, you know. I don't mind, but what about you, Suzu? You look like you already have a little extra meat on you.\""
+msgstr ""
+
+#: 02754:251
+
+msgid "{Rin}\n\"...what? I-I look like have extra m-meat on me?!\""
+msgstr ""
+
+#: 02754:252
+
+msgid "{Natsume}\n\"You do.\""
+msgstr ""
+
+#: 02754:253
+
+msgid "Natsume's reply was immediate. The colour drained from Fujisaki-san's face as it hit the table."
+msgstr ""
+
+#: 02754:254
+
+msgid "{Rin}\n\"Oh no... I think my precious summer is over...\""
+msgstr ""
+
+#: 02754:255
+
+msgid "According to Fujisaki-san, her summer was finished before it had even begun."
+msgstr ""
+
+#: 02754:258
+
+msgid "{Sakura}\n\"Rin, you may be a little squishy, but that's just perfect!\""
+msgstr ""
+
+#: 02754:261
+
+msgid "{Rin}\n\"Not for me...\""
+msgstr ""
+
+#: 02754:262
+
+msgid "{Natsume}\n\"Stay strong. Good things will happen.\""
+msgstr ""
+
+#: 02754:269
+
+msgid "{Appo}\n\"That's so true, Natsume-chan!\""
+msgstr ""
+
+#: 02754:270
+
+msgid "{Pierre}\n\"Too little too late. I don't think she'll be able to get over it.\""
+msgstr ""
+
+#: 02754:273
+
+msgid "{Rin}\n\"I wish a meteor would hit and take back everything.\""
+msgstr ""
+
+#: 02754:274
+
+msgid "Her mind had already entered self-destruction mode."
+msgstr ""
+
+#: 02754:282
+
+msgid "{Haruka}\n\"Hey Natsume-chan!\""
+msgstr ""
+
+#: 02754:283
+
+msgid "{Mizuki}\n\"Why is this table so popular?\""
+msgstr ""
+
+#: 02754:284
+
+msgid "And here come more people. It's really getting crowded over here."
+msgstr ""
+
+#: 02754:285
+
+msgid "{Kazushi}\n\"Everybody wants to talk to Natsume-chan.\""
+msgstr ""
+
+#: 02754:290
+
+msgid "{Natsume}\n*OMNOMNOMNOMNOMNOMNOM*"
+msgstr ""
+
+#: 02754:291
+
+msgid "Natsume-chan seemed oblivious to the fact that she's the reason why our table's so crowded."
+msgstr ""
+
+#: 02754:294
+
+msgid "{Natsume}\n\"Blech. Haruma, eat my bell peppers for me.\""
+msgstr ""
+
+#: 02754:295
+
+msgid "She put all of her bell peppers to the side of her plate."
+msgstr ""
+
+#: 02754:296
+
+msgid "{Kazushi}\n\"Those are good for you. You need to eat them.\""
+msgstr ""
+
+#: 02754:299
+
+msgid "{Natsume}\n\"Boo. Boo.\""
+msgstr ""
+
+#: 02754:300
+
+msgid "{Kazushi}\n\"Are you a cow?\""
+msgstr ""
+
+#: 02754:301
+
+msgid "This conversation reminded me of how it was with my sister......"
+msgstr ""
+
+#: 02754:306
+
+msgid "{Pierre}\n\"Don't be so strict with her, Kazushi. Everybody has foods they like and hate, and if you won't help her...\""
+msgstr ""
+
+#: 02754:307
+
+msgid "*NOM*"
+msgstr ""
+
+#: 02754:310
+
+msgid "{Natsume}\n\"ACK!\""
+msgstr ""
+
+#: 02754:311
+
+msgid "Pierre gobbled down Natsume-chan's bell peppers in a second and a half."
+msgstr ""
+
+#: 02754:314
+
+msgid "{Pierre}\n\"Mmmmm, yummy. I can taste you on them. They smell like hay dried in the winds of Southern France.\""
+msgstr ""
+
+#: 02754:321
+
+msgid "{Rin}\n\"Umm...\""
+msgstr ""
+
+#: 02754:324
+
+msgid "{Mizuki}\n\"Let me just start by saying that was creepy.\""
+msgstr ""
+
+#: 02754:331
+
+msgid "{Pierre}\n\"Huh? You're backing away? Did I do something wrong?\""
+msgstr ""
+
+#: 02754:332
+
+msgid "{Daigo}\n\"Everything you said was wrong.\""
+msgstr ""
+
+#: 02754:337
+
+msgid "{Natsume}\n\"Why are you eating my food, Thomas?\""
+msgstr ""
+
+#: 02754:342
+
+msgid "{Pierre}\n\"Huh? Thomas?\""
+msgstr ""
+
+#: 02754:343
+
+msgid "{Natsume}\n\"I wanted Haruma to eat it for me.\""
+msgstr ""
+
+#: 02754:344
+
+msgid "{Kazushi}\n\"Does it matter? You just wanted to get rid of them, right?\""
+msgstr ""
+
+#: 02754:347
+
+msgid "{Natsume}\n\"..................fine!\""
+msgstr ""
+
+#: 02754:348
+
+msgid "She didn't sound fine at all. I wonder why she was focused on having me eat them so much?"
+msgstr ""
+
+#: 02754:355
+
+msgid "{Haruka}\n\"Hey, Kazushi-kun, are you sure you and Natsume-chan don't already know each other?\""
+msgstr ""
+
+#: 02754:356
+
+msgid "{Mizuki}\n\"I know.\nYou guys don't look like you haven't met before.\""
+msgstr ""
+
+#: 02754:357
+
+msgid "{Kazushi}\n\"I've been telling everybody the same thing. We just met the other day.\""
+msgstr ""
+
+#: 02754:360
+
+msgid "But then how did Natsume-chan know my name?"
+msgstr ""
+
+#: 02754:363
+
+msgid "{Mei}\n\"This table sure is busy.\""
+msgstr ""
+
+#: 02754:364
+
+msgid "Now Mei-sensei was joining us as well. Natsume-chan was becoming super popular."
+msgstr ""
+
+#: 02754:370
+
+msgid "{Sakura}\n\"Let me ask you a question, Natsume-chan. What is this teacher's name?\""
+msgstr ""
+
+#: 02754:371
+
+msgid "{Natsume}\n\"Yagi-sensei.\""
+msgstr ""
+
+#: 02754:372
+
+msgid "She replied instantly and incorrectly."
+msgstr ""
+
+#: 02754:377
+
+msgid "{Mei}\n\"What? Why \"Yagi\"?\""
+msgstr ""
+
+#: 02754:382
+
+msgid "{Haruka}\n\"Oh, I get it! Because your first name sounds like a goat's bleat!\""
+msgstr ""
+
+#: 02754:385
+
+msgid "{Mei}\n\"I see...you're good at this...\""
+msgstr ""
+
+#: 02754:386
+
+msgid "Mei-sensei was feeling a sense of rivalry, but I think Natsume-chan simply messed up again."
+msgstr ""
+

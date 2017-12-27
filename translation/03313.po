@@ -1,0 +1,388 @@
+# Comments for '03313'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 03313:8
+
+msgid "Hey, are you sure?\nBut Ran's in trouble. I can't just leave her be."
+msgstr ""
+
+#: 03313:9
+
+msgid "{Kazushi}\n\"Can you give me some time to get it together?\""
+msgstr ""
+
+#: 03313:10
+
+msgid "Maybe I can come up with a way to get it, given time."
+msgstr ""
+
+#: 03313:13
+
+msgid "{Ran}\n\"Huh? You'll lend it to me? But it's 100,000 yen? How are you going to get it?\""
+msgstr ""
+
+#: 03313:14
+
+msgid "She thinks I can't help her, even though she's the one who asked me for it in the first place."
+msgstr ""
+
+#: 03313:16
+
+msgid "{Kazushi}\n\"Well, you need it, right?\nI'll try somehow.\""
+msgstr ""
+
+#: 03313:18
+
+msgid "{Ran}\n\"But how......?\""
+msgstr ""
+
+#: 03313:19
+
+msgid "She's right. I've got no idea how I can do it. What can I do to make 100,000 yen? Well, I'll try to do what I can."
+msgstr ""
+
+#: 03313:20
+
+msgid "{Kazushi}\n\"Give me a few days, OK?\""
+msgstr ""
+
+#: 03313:21
+
+msgid "{Ran}\n\"Sure......\""
+msgstr ""
+
+#: 03313:22
+
+msgid "{Kazushi}\n\"Trust me. I'll get it.\""
+msgstr ""
+
+#: 03313:23
+
+msgid "{Ran}\n\"All right......\""
+msgstr ""
+
+#: 03313:24
+
+msgid "Are there any part-time jobs around that could pay that much in a few days? Maybe I could borrow it from somebody...\nI have to find a way..."
+msgstr ""
+
+#: 03313:29
+
+msgid "{Kazushi}\n\"Well, you guys heard me.\""
+msgstr ""
+
+#: 03313:30
+
+msgid "I started out by asking my buds for help."
+msgstr ""
+
+#: 03313:33
+
+msgid "{Appo}\n\"Can it GET any hotter in here? I wanna fuck.\""
+msgstr ""
+
+#: 03313:34
+
+msgid "I don't think they're listening to me..."
+msgstr ""
+
+#: 03313:39
+
+msgid "{Pierre}\n\"Hey, Appo, it's not like you're any better than us now just because you've got a girlfriend...\""
+msgstr ""
+
+#: 03313:46
+
+msgid "{Daigo}\n\"It's only Fuusen, anyways...\""
+msgstr ""
+
+#: 03313:49
+
+msgid "{Appo}\n\"What's that supposed to mean!? \nHey, Kazushi, you can see how sexy she is, right?\""
+msgstr ""
+
+#: 03313:50
+
+msgid "{Kazushi}\n\"Sorry, Appo, I really can't.\nAnyways, were you guys listening to my story?\""
+msgstr ""
+
+#: 03313:53
+
+msgid "{Daigo}\n\"Eh? How long have you been here, Kazushi?\""
+msgstr ""
+
+#: 03313:56
+
+msgid "{Pierre}\n\"Kazushi, you suck at asserting yourself. You have to appeal yourself more.\""
+msgstr ""
+
+#: 03313:57
+
+msgid "They didn't even realize I was here. Maybe I need to be more insistent instead."
+msgstr ""
+
+#: 03313:58
+
+msgid "Here it goes."
+msgstr ""
+
+#: 03313:59
+
+msgid "{Kazushi}\n\"Shut up and lend me 100,000 yen.\""
+msgstr ""
+
+#: 03313:64
+
+msgid "{Appo}\n\"Fuck off!\""
+msgstr ""
+
+#: 03313:65
+
+msgid "Fail."
+msgstr ""
+
+#: 03313:68
+
+msgid "{Appo}\n\"Where was I?\nOh yeah, did you guys know Fuusen loves to cook and......\""
+msgstr ""
+
+#: 03313:73
+
+msgid "{Pierre}\n\"Enough already! If you want her so badly, just go and see her! She's not far away.\""
+msgstr ""
+
+#: 03313:74
+
+msgid "{Appo}\n\"Heh, heh, heh. That's a good idea. Maybe I will. What do you guys think?\""
+msgstr ""
+
+#: 03313:75
+
+msgid "{Kazushi}\n\"I couldn't care less. But if you give me 100,000 yen I'll give my professional opinion.\""
+msgstr ""
+
+#: 03313:80
+
+msgid "{Daigo}\n\"Oh yeah, what do you need the 100,000 yen for?\""
+msgstr ""
+
+#: 03313:81
+
+msgid "They finally started listening to me..."
+msgstr ""
+
+#: 03313:82
+
+msgid "{Kazushi}\n\"It's Ran......\""
+msgstr ""
+
+#: 03313:84
+
+msgid "I stopped there. She might have a reason why she doesn't want anybody else to know."
+msgstr ""
+
+#: 03313:85
+
+msgid "And then she snuck up on me quietly."
+msgstr ""
+
+#: 03313:88
+
+msgid "{Fuusen}\n\"What's this about Ran?\""
+msgstr ""
+
+#: 03313:89
+
+msgid "{Kazushi}\n\"Fuusen!? How long have you been here??\""
+msgstr ""
+
+#: 03313:90
+
+msgid "She was in our room before we knew it."
+msgstr ""
+
+#: 03313:95
+
+msgid "{Appo}\n\"Fuuuuuuuuuu-chan!!!!\nWhy are you here?\""
+msgstr ""
+
+#: 03313:98
+
+msgid "{Fuusen}\n\"I received your 'wanna see you' signals. I can feel whatever you're thinking about me.\""
+msgstr ""
+
+#: 03313:101
+
+msgid "{Appo}\n\"This is a miracle of love!\""
+msgstr ""
+
+#: 03313:106
+
+msgid "{Pierre}\n\"Whatever.\""
+msgstr ""
+
+#: 03313:107
+
+msgid "{Kazushi}\n\"Guys, please. I'm in a hurry.\""
+msgstr ""
+
+#: 03313:111
+
+msgid "I needed to come up with some way to gather 100,000 yen in just a few days. Fuusen gave me a serious look."
+msgstr ""
+
+#: 03313:112
+
+msgid "{Fuusen}\n\"You need a hundred grand? That's not an IMPOSSIBLE amount to raise.\""
+msgstr ""
+
+#: 03313:113
+
+msgid "For some reason, she looked forceful."
+msgstr ""
+
+#: 03313:114
+
+msgid "{Kazushi}\n\"What's that look for?\""
+msgstr ""
+
+#: 03313:115
+
+msgid "{Fuusen}\n\"...are you going to use that money for something evil?\""
+msgstr ""
+
+#: 03313:116
+
+msgid "{Kazushi}\n\"What do you mean?\""
+msgstr ""
+
+#: 03313:121
+
+msgid "{Pierre}\n\"She's right. Needing that much this quick is suspicious.\""
+msgstr ""
+
+#: 03313:122
+
+msgid "{Fuusen}\n\"Why do you need to get 100,000 yen together for Ran? That sounds so suspicious.\""
+msgstr ""
+
+#: 03313:123
+
+msgid "{Kazushi}\n\"I don't have any reason to feel guilty about it.\""
+msgstr ""
+
+#: 03313:124
+
+msgid "{Fuusen}\n\"Then why do you need so much money?\""
+msgstr ""
+
+#: 03313:125
+
+msgid "{Kazushi}\n\"I need it for a good cause.\""
+msgstr ""
+
+#: 03313:126
+
+msgid "...I didn't know why she needed it either. I didn't ask, and I didn't know what to tell these people."
+msgstr ""
+
+#: 03313:127
+
+msgid "I really should have found out what the reason was. Am I honestly that stupid?"
+msgstr ""
+
+#: 03313:131
+
+msgid "{Daigo}\n\"We can't understand your problem. I don't think anyone's going to help you out if you can't share your reason with us.\""
+msgstr ""
+
+#: 03313:134
+
+msgid "{Pierre}\n\"100,000 yen isn't exactly spare change. I don't think any of the boys have that kind of cash on hand.\""
+msgstr ""
+
+#: 03313:138
+
+msgid "{Fuusen}\n\"I don't think any of the girls would either. As you guys know, it's not like this island is a shopper's paradise.\""
+msgstr ""
+
+#: 03313:139
+
+msgid "{Kazushi}\n\"You're right. Maybe I should give up......\""
+msgstr ""
+
+#: 03313:140
+
+msgid "Well, I didn't expect too much from these guys anyways, but I still didn't know who else I couldn't turn to for help."
+msgstr ""
+
+#: 03313:141
+
+msgid "{Fuusen}\n\"Some of the teachers might have that much. Only other option is to work and earn it, or try and pawn something off for it...\""
+msgstr ""
+
+#: 03313:142
+
+msgid "{Kazushi}\n\"Let's see......\""
+msgstr ""
+
+#: 03313:143
+
+msgid "I didn't bring any more than the bare essentials with me to the island. I don't think I can find a part time job here, either."
+msgstr ""
+
+#: 03313:147
+
+msgid "{Fuusen}\n\"Hey...are you sure you're not using the money for something bad? Don't tell me you're going to use it to buy her...?\""
+msgstr ""
+
+#: 03313:148
+
+msgid "She said something serious before pretending like it didn't happen."
+msgstr ""
+
+#: 03313:149
+
+msgid "{Kazushi}\n\"What did you say?\""
+msgstr ""
+
+#: 03313:152
+
+msgid "{Fuusen}\n\"Nothing.\""
+msgstr ""
+
+#: 03313:153
+
+msgid "{Kazushi}\n\"Could you repeat that? It's bothering me.\""
+msgstr ""
+
+#: 03313:158
+
+msgid "{Appo}\n\"That's enough. Can you clean out my ear wax, Fuu-chan?\""
+msgstr ""
+
+#: 03313:161
+
+msgid "{Fuusen}\n\"You are such a big baby.\""
+msgstr ""
+
+#: 03313:166
+
+msgid "{Pierre}\n\"Go do that somewhere else. It's already hot enough in here.\""
+msgstr ""
+
+#: 03313:167
+
+msgid "Well, now what? Where and how am I going to get 100,000 yen?"
+msgstr ""
+

@@ -1,0 +1,298 @@
+# Comments for '02906'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 02906:6
+
+msgid "{Principal}\n\"OK, everybody, please make your summer break a meaningful and enjoyable one. And remember, stay safe.\""
+msgstr ""
+
+#: 02906:10
+
+msgid "Our marks were given to us after the end of semester ceremony."
+msgstr ""
+
+#: 02906:13
+
+msgid "{Pierre}\n\"Well, it could've been worse.\""
+msgstr ""
+
+#: 02906:18
+
+msgid "{Daigo}\n\"I got all 'please try a little harder'.\""
+msgstr ""
+
+#: 02906:25
+
+msgid "{Appo}\n\"Me too. If only I'd tried a bit harder.\""
+msgstr ""
+
+#: 02906:26
+
+msgid "{Kazushi}\n\"Our old school used a 5 letter system, but these phrases are much gentler.\""
+msgstr ""
+
+#: 02906:27
+
+msgid "Us boys were discussing each others' marks."
+msgstr ""
+
+#: 02906:33
+
+msgid "{Mizuki}\n\"Let me see what you guys got!\""
+msgstr ""
+
+#: 02906:38
+
+msgid "{Pierre}\n\"No! Boys only!\""
+msgstr ""
+
+#: 02906:39
+
+msgid "Everybody cooperated to block Mizuki from peeking."
+msgstr ""
+
+#: 02906:42
+
+msgid "{Mizuki}\n\"Why not? You guys were showing them to each other no problem.\""
+msgstr ""
+
+#: 02906:46
+
+msgid "{Daigo}\n\"This is just between us boys.\""
+msgstr ""
+
+#: 02906:49
+
+msgid "{Mizuki}\n\"Why are you acting important for? Whatever.\""
+msgstr ""
+
+#: 02906:54
+
+msgid "{Mei}\n\"You boys transferred in during the middle of the semester, so I took your grades from your previous school into consideration.\""
+msgstr ""
+
+#: 02906:59
+
+msgid "{Pierre}\n\"You mean you called our previous school?\""
+msgstr ""
+
+#: 02906:62
+
+msgid "{Mei}\n\"Yes, I did.\""
+msgstr ""
+
+#: 02906:65
+
+msgid "She didn't hesitate to show us how bitter the experience was."
+msgstr ""
+
+#: 02906:66
+
+msgid "{Mei}\n\"You grades sure were something.\""
+msgstr ""
+
+#: 02906:67
+
+msgid "{Kazushi}\n\"For example?\""
+msgstr ""
+
+#: 02906:68
+
+msgid "{Mei}\n\"It was like an old poultry farm.\""
+msgstr ""
+
+#: 02906:72
+
+msgid "{Appo}\n\"What do you mean?\""
+msgstr ""
+
+#: 02906:75
+
+msgid "{Mei}\n\"It means you had a lot of goose eggs.\""
+msgstr ""
+
+#: 02906:78
+
+msgid "{Kazushi}\n\"......\""
+msgstr ""
+
+#: 02906:83
+
+msgid "{Mizuki}\n\"Ahaha, that bad?\""
+msgstr ""
+
+#: 02906:84
+
+msgid "Mizuki started laughing at us, meaning hers must be bad too. I swear, I'll find out what her marks were later."
+msgstr ""
+
+#: 02906:88
+
+msgid "{Mei}\n\"I believe every class has assigned you summer homework, so make sure to do it steadily before August comes. If you just play around, you'll have a hard time later.\""
+msgstr ""
+
+#: 02906:89
+
+msgid "{Everybody}\n\"We got it!\""
+msgstr ""
+
+#: 02906:90
+
+msgid "Perfect answers."
+msgstr ""
+
+#: 02906:93
+
+msgid "{Mei}\n\"You guys only give verbal responses......\""
+msgstr ""
+
+#: 02906:97
+
+msgid "The bell rang. As soon as Mei-sensei says class is over, the semester is finished."
+msgstr ""
+
+#: 02906:98
+
+msgid "We were all anxiously awaiting her to announce the beginning of our summer."
+msgstr ""
+
+#: 02906:101
+
+msgid "{Mei}\n\"Be patient, everyone. Class is now over, but make sure you all get back to your dorms safely first.\""
+msgstr ""
+
+#: 02906:102
+
+msgid "{Mei}\n\"Don't go wild as soon as you leave class, OK?\""
+msgstr ""
+
+#: 02906:103
+
+msgid "{Everybody}\n\"Yes, sensei!\""
+msgstr ""
+
+#: 02906:107
+
+msgid "{Mei}\n\"All right. That's it, then.\""
+msgstr ""
+
+#: 02906:112
+
+msgid "{Kazushi}\n\"It's over!!\""
+msgstr ""
+
+#: 02906:113
+
+msgid "I could feel the warm glow of freedom wrapping itself around my body. This is the beginning of the summer break we've been waiting for."
+msgstr ""
+
+#: 02906:116
+
+msgid "{Haruka}\n\"Ah, Kazushi-kun!\""
+msgstr ""
+
+#: 02906:117
+
+msgid "The class in the next room must have just finished as well. I could see Haruka holding her report card."
+msgstr ""
+
+#: 02906:120
+
+msgid "{Haruka}\n\"Did you get your report? Can I see your marks?\""
+msgstr ""
+
+#: 02906:125
+
+msgid "{Mizuki}\n\"There's no chance, Haruka. They're never gonna show you their--\""
+msgstr ""
+
+#: 02906:133
+
+msgid "{Haruka}\n\"Ahaha, they're all 'try a little harder'!\""
+msgstr ""
+
+#: 02906:134
+
+msgid "{Pierre}\n\"Wow, you did really well!\""
+msgstr ""
+
+#: 02906:140
+
+msgid "{Mizuki}\n\"What!? How come she gets to see it? You guys wouldn't let me have a look!\""
+msgstr ""
+
+#: 02906:141
+
+msgid "{Kazushi}\n\"All right, then. Let's see yours!\""
+msgstr ""
+
+#: 02906:143
+
+msgid "I snatched her report card from out of her bag."
+msgstr ""
+
+#: 02906:146
+
+msgid "{Mizuki}\n\"Hey! What's with that hand job?! Give it back to me!!\""
+msgstr ""
+
+#: 02906:147
+
+msgid "{Kazushi}\n\"Let's see...\nHahaha! You've got almost all 'try a little harder's too!\""
+msgstr ""
+
+#: 02906:152
+
+msgid "{Appo}\n\"You're just as stupid as we are!\""
+msgstr ""
+
+#: 02906:155
+
+msgid "{Mizuki}\n\"Stop!! Don't look!\""
+msgstr ""
+
+#: 02906:162
+
+msgid "{Ran}\n\"What's going on? Is it time for teasing Mizuki?\""
+msgstr ""
+
+#: 02906:165
+
+msgid "{Mizuki}\n\"I'm not the character who gets teased! That's Rin's role!\""
+msgstr ""
+
+#: 02906:169
+
+msgid "{Rin}\n\"What? What about me?\""
+msgstr ""
+
+#: 02906:176
+
+msgid "{Sakura}\n\"I think we're about to have fun teasing you all summer!\""
+msgstr ""
+
+#: 02906:179
+
+msgid "{Rin}\n\"That's not fun for me.\""
+msgstr ""
+
+#: 02906:180
+
+msgid "{Kazushi}\n\"You don't think so? Of course it'll be fun!\""
+msgstr ""
+
+#: 02906:181
+
+msgid "One thing was clear: Nobody could wait to enjoy their summer break. We're going to be free every day! We're gonna have a lot of fun!"
+msgstr ""
+

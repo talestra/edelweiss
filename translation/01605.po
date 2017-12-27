@@ -1,0 +1,893 @@
+# Comments for '01605'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 01605:7
+
+msgid "{Kazushi}\n\"I can't believe how lucky I am!\""
+msgstr ""
+
+#: 01605:8
+
+msgid "So many things I never thought would happen are happening now, and my life is much more interesting. There's still a whole lot I don't know, too."
+msgstr ""
+
+#: 01605:9
+
+msgid "{Kazushi}\n\"Ah, hah, hah! Hooray for life!\""
+msgstr ""
+
+#: 01605:10
+
+msgid "{Kazushi}\n\"Maybe I should stop laughing now.\""
+msgstr ""
+
+#: 01605:11
+
+msgid "I need to resolve this situation."
+msgstr ""
+
+#: 01605:14
+
+msgid "{Kazushi}\n\"......huh?\""
+msgstr ""
+
+#: 01605:20
+
+msgid "{Daigo}\n\"Hey, have you seen Kazushi?\""
+msgstr ""
+
+#: 01605:25
+
+msgid "{Mizuki}\n\"He said he needed to use the restroom. Is he not back yet?\""
+msgstr ""
+
+#: 01605:32
+
+msgid "{Yagami}\n\"OK, everybody, take your seats and let's get started.\""
+msgstr ""
+
+#: 01605:36
+
+msgid "{Mizuki}\n\"Class is starting!\""
+msgstr ""
+
+#: 01605:40
+
+msgid "{Yagami}\n\"...Hmm? Where's Kazushi?\""
+msgstr ""
+
+#: 01605:45
+
+msgid "{Ran}\n\"I think he's ditched class!\""
+msgstr ""
+
+#: 01605:48
+
+msgid "{Yagami}\n\"What!?\""
+msgstr ""
+
+#: 01605:52
+
+msgid "{Mizuki}\n\"Where'd he go?\""
+msgstr ""
+
+#: 01605:59
+
+msgid "{Kazushi}\n\"I can't believe I got lost in my own school.\""
+msgstr ""
+
+#: 01605:60
+
+msgid "I just stepped out to use the restroom, but now class has already started."
+msgstr ""
+
+#: 01605:61
+
+msgid "{Kazushi}\n\"Shit!! It's Yagami-sensei's class next......\""
+msgstr ""
+
+#: 01605:62
+
+msgid "I don't know what he'll do to me if I miss it..."
+msgstr ""
+
+#: 01605:63
+
+msgid "{Kazushi}\n\"..................Brrr!\""
+msgstr ""
+
+#: 01605:64
+
+msgid "I was already starting to shiver. I need to get back ASAP!"
+msgstr ""
+
+#: 01605:71
+
+msgid "{Kazushi}\n\"I'm even more lost now.\""
+msgstr ""
+
+#: 01605:72
+
+msgid "As I walked around without any direction, I found myself further away from familiar sights. I never knew this school was so huge."
+msgstr ""
+
+#: 01605:73
+
+msgid "{Kazushi}\n\"Shit......I'm definitely late now.\""
+msgstr ""
+
+#: 01605:74
+
+msgid "At this point, I think I'm better off not going back at all. If I went back now, I'd become blood on the walls in front of everyone."
+msgstr ""
+
+#: 01605:75
+
+msgid "He'd probably make me cry. Right in front of the whole class."
+msgstr ""
+
+#: 01605:76
+
+msgid "{Kazushi}\n\"...............Guess I'll ditch.\""
+msgstr ""
+
+#: 01605:77
+
+msgid "Now that I'm skipping, it's suddenly fun. Might as well take this chance and explore the school. If I can get lost, there must be plenty of places I don't know yet."
+msgstr ""
+
+#: 01605:78
+
+msgid "{Kazushi}\n\"I'm pretty quick at changing mindsets. This is Harumaism.\""
+msgstr ""
+
+#: 01605:79
+
+msgid "I started wandering around to wherever my legs took me."
+msgstr ""
+
+#: 01605:85
+
+msgid "Eventually, I reached what looked like a library."
+msgstr ""
+
+#: 01605:86
+
+msgid "{Kazushi}\n\"This is a really nice library.\""
+msgstr ""
+
+#: 01605:87
+
+msgid "It was filled with books, but I guess that's natural for a library."
+msgstr ""
+
+#: 01605:88
+
+msgid "{Kazushi}\n\"I wonder if they've got manga...\""
+msgstr ""
+
+#: 01605:89
+
+msgid "If not, maybe they've at least got some magazines. I'll just kill some time before heading back."
+msgstr ""
+
+#: 01605:90
+
+msgid "{Kazushi}\n\"I wonder if I'll ever find my way back, though...\""
+msgstr ""
+
+#: 01605:91
+
+msgid "Well, no use worrying about it. Maybe someone will come here once class is over."
+msgstr ""
+
+#: 01605:92
+
+msgid "{Kazushi}\n\"Now, where's the manga? Or better yet, porno books...\""
+msgstr ""
+
+#: 01605:95
+
+msgid "{Mei}\n\"Is that you, Haruma-kun?\""
+msgstr ""
+
+#: 01605:96
+
+msgid "{Kazushi}\n\"Wow!?\""
+msgstr ""
+
+#: 01605:99
+
+msgid "{Mei}\n\"Hey!?\""
+msgstr ""
+
+#: 01605:100
+
+msgid "My voice echoed through the empty library, surprising even me."
+msgstr ""
+
+#: 01605:101
+
+msgid "I turned around to find Mei-sensei looking tensed up as well."
+msgstr ""
+
+#: 01605:104
+
+msgid "{Kazushi}\n\"Mei-sensei?\""
+msgstr ""
+
+#: 01605:107
+
+msgid "{Mei}\n\"You surprised me! Don't be so loud. I thought my heart stopped for a second.\""
+msgstr ""
+
+#: 01605:108
+
+msgid "{Kazushi}\n\"Are you okay? Is your heart still beating?\""
+msgstr ""
+
+#: 01605:111
+
+msgid "{Mei}\n\"Yes, I think so. Do you want to feel?\""
+msgstr ""
+
+#: 01605:112
+
+msgid "{Kazushi}\n\"......what!?\""
+msgstr ""
+
+#: 01605:115
+
+msgid "My eyes went straight to her chest. I could tell her breasts were big from the bulge in her clothes which moved up and down with each breath of hers."
+msgstr ""
+
+#: 01605:116
+
+msgid "{Kazushi}\n\"Can I really?\""
+msgstr ""
+
+#: 01605:120
+
+msgid "{Mei}\n\"Oh, no, you thought I was serious? I only meant it as a crass joke.\""
+msgstr ""
+
+#: 01605:121
+
+msgid "{Kazushi}\n\"What?! You were joking?! Y-you were toying with the pure feelings of a young man?!\""
+msgstr ""
+
+#: 01605:124
+
+msgid "{Mei}\n\"Oh, don't say such weird things. It's odder to take that seriously. I guess you don't get jokes very well.\""
+msgstr ""
+
+#: 01605:127
+
+msgid "{Mei}\n\"I'm so disMEIed.\""
+msgstr ""
+
+#: 01605:128
+
+msgid "{Kazushi}\n\"..................\""
+msgstr ""
+
+#: 01605:131
+
+msgid "{Mei}\n\"Oh dear. You really don't get jokes.\""
+msgstr ""
+
+#: 01605:132
+
+msgid "Sensei's bad pun cooled down my anger in an instant. Her Mei-jokes are fearsome..."
+msgstr ""
+
+#: 01605:133
+
+msgid "{Kazushi}\n\"Hahh, whatever.\""
+msgstr ""
+
+#: 01605:136
+
+msgid "{Mei}\n\"What's with that attitude? You'll hurt my feelings...\""
+msgstr ""
+
+#: 01605:137
+
+msgid "{Kazushi}\n\"By the way, what are you doing here? I was surprised when you called me.\""
+msgstr ""
+
+#: 01605:140
+
+msgid "{Mei}\n\"That's what I want to know. I'm the bibliothecary, so it's only natural for me to be here.\""
+msgstr ""
+
+#: 01605:141
+
+msgid "{Kazushi}\n\"Bibliothecary?\""
+msgstr ""
+
+#: 01605:142
+
+msgid "What's a bibliothecary? I'm embarrassed to ask..."
+msgstr ""
+
+#: 01605:145
+
+msgid "{Mei}\n\"Haruma-kun, why are you here? Aren't you supposed to be in class right now?\""
+msgstr ""
+
+#: 01605:146
+
+msgid "{Kazushi}\n\"I should be.\""
+msgstr ""
+
+#: 01605:147
+
+msgid "Now that I think about it, it wasn't such good timing to see her here. I was caught ditching by a teacher."
+msgstr ""
+
+#: 01605:150
+
+msgid "{Mei}\n\"Could you be cutting class? I must say, I don't approve.\""
+msgstr ""
+
+#: 01605:151
+
+msgid "{Kazushi}\n\"There's not much I can say against that, but I do have a reason.\""
+msgstr ""
+
+#: 01605:154
+
+msgid "{Mei}\n\"Then I'll listen to it.\""
+msgstr ""
+
+#: 01605:155
+
+msgid "I told her all about how I got lost. It was pretty embarrassing for a guy my age."
+msgstr ""
+
+#: 01605:156
+
+msgid "But I dealt with the shame and told her the truth."
+msgstr ""
+
+#: 01605:159
+
+msgid "{Mei}\n\"Oh my, you got lost? That is a problem. Tee-hee...\""
+msgstr ""
+
+#: 01605:160
+
+msgid "See? I knew she'd laugh at me. It was embarrassing, but it was better than being yelled at, and it didn't sound mean either."
+msgstr ""
+
+#: 01605:161
+
+msgid "She looked even younger than usual with her hand covering her mouth as she laughed. I didn't know she laughed like that."
+msgstr ""
+
+#: 01605:164
+
+msgid "{Mei}\n\"Well, I don't blame you. You're still new here.\""
+msgstr ""
+
+#: 01605:165
+
+msgid "{Kazushi}\n\"How could I get lost just going to and from the boys' room?\""
+msgstr ""
+
+#: 01605:166
+
+msgid "That's what I'd like to know."
+msgstr ""
+
+#: 01605:169
+
+msgid "{Mei}\n\"You know, at this school, time and space sometimes get jumbled up. Sometimes even those who are used to it get lost.\""
+msgstr ""
+
+#: 01605:170
+
+msgid "{Kazushi}\n\"What? Time and space get mixed up?\""
+msgstr ""
+
+#: 01605:171
+
+msgid "I was about to sigh, when my mouth fell open. I didn't understand a word of what she was saying."
+msgstr ""
+
+#: 01605:174
+
+msgid "{Mei}\n\"Well, we practice alchemy here, right? I think that's the reason why strange things occasionally occur.\""
+msgstr ""
+
+#: 01605:175
+
+msgid "{Kazushi}\n\"I see... is that how it is?\""
+msgstr ""
+
+#: 01605:177
+
+msgid "That's true. There have been a lot of strange things since we got here. Grass and branches are growing all around us. A living signpost and streetlight..."
+msgstr ""
+
+#: 01605:178
+
+msgid "We were already getting used to it, but alchemy itself is pretty strange."
+msgstr ""
+
+#: 01605:181
+
+msgid "{Mei}\n\"It's still not good to cut class, though. Here, let me lead you back.\""
+msgstr ""
+
+#: 01605:182
+
+msgid "{Kazushi}\n\"Please wait a minute.\""
+msgstr ""
+
+#: 01605:183
+
+msgid "I begged her to stop."
+msgstr ""
+
+#: 01605:184
+
+msgid "{Mei}\n\"What is it? This period has already started.\""
+msgstr ""
+
+#: 01605:185
+
+msgid "{Kazushi}\n\"Can I stay here until this hour's over?\""
+msgstr ""
+
+#: 01605:188
+
+msgid "{Mei}\n\"You're asking me to let you off for ditching class? In case you've forgotten, I'm also a teacher, you know.\""
+msgstr ""
+
+#: 01605:189
+
+msgid "{Kazushi}\n\"I'm sorry... It's just that this period is Yagami-sensei's class. If I went back now, well...you know.\""
+msgstr ""
+
+#: 01605:192
+
+msgid "{Mei}\n\"Oh, it's Yagami-sensei's?\""
+msgstr ""
+
+#: 01605:193
+
+msgid "I'm glad she understood what I meant by bringing up his name. Her gentle expression became quite stern, though."
+msgstr ""
+
+#: 01605:194
+
+msgid "{Mei}\n\"He'd knock you about for this, wouldn't he?\""
+msgstr ""
+
+#: 01605:195
+
+msgid "{Kazushi}\n\"I think so. Though it might only be a punch.\""
+msgstr ""
+
+#: 01605:196
+
+msgid "His punches hurt so much, though."
+msgstr ""
+
+#: 01605:199
+
+msgid "{Mei}\n\"All right. You can stay here until end of this period.\""
+msgstr ""
+
+#: 01605:200
+
+msgid "{Kazushi}\n\"Really?\""
+msgstr ""
+
+#: 01605:203
+
+msgid "{Mei}\n\"I can't make you go back to the classroom knowing that you'll get physically punished.\""
+msgstr ""
+
+#: 01605:204
+
+msgid "Sensei clenched her fist and glared off into space. She really must not get along with Yagami-sensei's ideas."
+msgstr ""
+
+#: 01605:205
+
+msgid "{Kazushi}\n\"It's not as barbarous as you think, though.\""
+msgstr ""
+
+#: 01605:208
+
+msgid "{Mei}\n\"But, he's going to punch you, right?\""
+msgstr ""
+
+#: 01605:209
+
+msgid "{Kazushi}\n\"Yes, but...... It's not like he's going to punch me for no reason.\""
+msgstr ""
+
+#: 01605:212
+
+msgid "{Mei}\n\"Of course not. That would be plain assault, not punishment.\""
+msgstr ""
+
+#: 01605:213
+
+msgid "Mei-sensei was absolutely opposed to corporal punishment. No wonder she didn't agree with Yagami-sensei."
+msgstr ""
+
+#: 01605:214
+
+msgid "{Mei}\n\"Has he always been like this? What was it like at your previous school? Didn't the other teachers say anything to him?\""
+msgstr ""
+
+#: 01605:215
+
+msgid "{Kazushi}\n\"Actually, most of the teachers at our last school were like him.\""
+msgstr ""
+
+#: 01605:218
+
+msgid "{Mei}\n\"Are you serious?\""
+msgstr ""
+
+#: 01605:221
+
+msgid "She raised her eyebrows as if it was preposterous. Sensei was still beautiful when she was angry, but..."
+msgstr ""
+
+#: 01605:222
+
+msgid "{Kazushi}\n\"You don't believe in corporal punishment, right?\""
+msgstr ""
+
+#: 01605:223
+
+msgid "{Mei}\n\"Of course not. The idea that you can hit someone and make them listen is just barbaric!\""
+msgstr ""
+
+#: 01605:224
+
+msgid "{Kazushi}\n\"Maybe...\""
+msgstr ""
+
+#: 01605:225
+
+msgid "I couldn't quite agree though, for some reason."
+msgstr ""
+
+#: 01605:228
+
+msgid "{Mei}\n\"It seems like you think it's right.\""
+msgstr ""
+
+#: 01605:229
+
+msgid "Her expression softened as she looked me, and oddly enough, I felt like I could talk to her honestly."
+msgstr ""
+
+#: 01605:230
+
+msgid "{Kazushi}\n\"There's a significant difference between taking a few blows as a punishment and random violence.\""
+msgstr ""
+
+#: 01605:233
+
+msgid "{Mei}\n\"Aren't they the same?\""
+msgstr ""
+
+#: 01605:234
+
+msgid "{Kazushi}\n\"We've never felt like victims. We actually feel like we're being treated fairly...\""
+msgstr ""
+
+#: 01605:235
+
+msgid "{Mei}\n\"By getting punched?\""
+msgstr ""
+
+#: 01605:236
+
+msgid "{Kazushi}\n\"We let him punch us because we know we've done something wrong. If we didn't think we were wrong, we wouldn't just sit there quietly and let him do that.\""
+msgstr ""
+
+#: 01605:237
+
+msgid "{Kazushi}\n\"And at times like that, he listens to what he have to say about it. Though we're usually still in the wrong anyways...\""
+msgstr ""
+
+#: 01605:240
+
+msgid "{Mei}\n\"Still......violence is a crime.\""
+msgstr ""
+
+#: 01605:241
+
+msgid "{Kazushi}\n\"You know, when he punches us, it's not where he hits us that hurts:\nIt's our hearts...\""
+msgstr ""
+
+#: 01605:244
+
+msgid "{Mei}\n\"But......\""
+msgstr ""
+
+#: 01605:245
+
+msgid "She couldn't believe what she was hearing as I protected Yagami-sensei."
+msgstr ""
+
+#: 01605:246
+
+msgid "I'm glad she was listening to me seriously."
+msgstr ""
+
+#: 01605:247
+
+msgid "In a way, this makes Mei-sensei and Yagami-sensei very similar."
+msgstr ""
+
+#: 01605:250
+
+msgid "{Mei}\n\"I understand.\""
+msgstr ""
+
+#: 01605:251
+
+msgid "She finally opened her mouth after thinking a while, looking much more relieved."
+msgstr ""
+
+#: 01605:252
+
+msgid "{Kazushi}\n\"You understand how we feel?\""
+msgstr ""
+
+#: 01605:255
+
+msgid "{Mei}\n\"Sorry, I still don't.\""
+msgstr ""
+
+#: 01605:256
+
+msgid "{Kazushi}\n\"You don't?\""
+msgstr ""
+
+#: 01605:259
+
+msgid "{Mei}\n\"That's why I'm going to try getting punched by Yagami-sensei.\""
+msgstr ""
+
+#: 01605:260
+
+msgid "{Kazushi}\n\"What are you talking about?\""
+msgstr ""
+
+#: 01605:261
+
+msgid "Where did that come from? What does she mean, she's going to get punched by Yagami-sensei?"
+msgstr ""
+
+#: 01605:264
+
+msgid "{Mei}\n\"As your teacher, I want to experience what you guys are going through in order to understand what it really feels like.\""
+msgstr ""
+
+#: 01605:265
+
+msgid "{Kazushi}\n\"I don't think you have to go that far...\""
+msgstr ""
+
+#: 01605:268
+
+msgid "{Mei}\n\"No. This is my duty as a teacher, and also a matter of my pride. Come, let's go.\""
+msgstr ""
+
+#: 01605:270
+
+msgid "{Kazushi}\n\"Mei-sensei......\""
+msgstr ""
+
+#: 01605:279
+
+msgid "{Yagami}\n\"What? You want me to punch you?\""
+msgstr ""
+
+#: 01605:280
+
+msgid "{Mei}\n\"Yes.\""
+msgstr ""
+
+#: 01605:281
+
+msgid "Come on, are you serious? Even Yagami-sensei is dumbfounded."
+msgstr ""
+
+#: 01605:284
+
+msgid "{Yagami}\n\"You bring our lazy Kazushi back, and now you're saying such crazy things?\""
+msgstr ""
+
+#: 01605:285
+
+msgid "Yagami-sensei was astonished by Mei-sensei's idea."
+msgstr ""
+
+#: 01605:288
+
+msgid "{Mei}\n\"I need to do this to understand my students. Now, please give it to me just like you do them.\""
+msgstr ""
+
+#: 01605:291
+
+msgid "{Yagami}\n\"Well, huh. Hey, Kazushi, I don't have any idea why she's acting like this. Do you know what's going on?\""
+msgstr ""
+
+#: 01605:292
+
+msgid "{Kazushi}\n\"I have no idea......\""
+msgstr ""
+
+#: 01605:295
+
+msgid "{Mei}\n\"Please go ahead.\""
+msgstr ""
+
+#: 01605:296
+
+msgid "She looked at Yagami-sensei earnestly, and closed her eyes to let him know she was ready. He just heaved a troubled sigh."
+msgstr ""
+
+#: 01605:299
+
+msgid "{Yagami}\n\"All right, I'll do it.\""
+msgstr ""
+
+#: 01605:300
+
+msgid "{Kazushi}\n\"Wait, sensei!\""
+msgstr ""
+
+#: 01605:305
+
+msgid "{Kazushi}\n(Are you really going to hit a woman?)"
+msgstr ""
+
+#: 01605:306
+
+msgid "{Yagami}\n(What else can I do to get out of this?)"
+msgstr ""
+
+#: 01605:307
+
+msgid "He's right."
+msgstr ""
+
+#: 01605:312
+
+msgid "{Mei}\n\"Hurry up and hit me!\""
+msgstr ""
+
+#: 01605:315
+
+msgid "{Yagami}\n\"Hahh... All right, ready?\""
+msgstr ""
+
+#: 01605:318
+
+msgid "{Mei}\n\"Please.\""
+msgstr ""
+
+#: 01605:321
+
+msgid "She replied with firm resolution, and closed her eyes."
+msgstr ""
+
+#: 01605:326
+
+msgid "{Kazushi}\n(Sensei, wait!)"
+msgstr ""
+
+#: 01605:329
+
+msgid "{Yagami}\n(I know. Of course I'll go easy on her.)"
+msgstr ""
+
+#: 01605:334
+
+msgid "He whispered, raising his fist. Then he swung down at Mei-sensei."
+msgstr ""
+
+#: 01605:341
+
+msgid "{Mei}\n\"OW!!\""
+msgstr ""
+
+#: 01605:343
+
+msgid "She held her head in her hands and didn't move."
+msgstr ""
+
+#: 01605:344
+
+msgid "Is she all right? It sounded pretty painful."
+msgstr ""
+
+#: 01605:345
+
+msgid "{Mei}\n\"#$&*#$@!\""
+msgstr ""
+
+#: 01605:346
+
+msgid "She started crying as she held onto her head."
+msgstr ""
+
+#: 01605:349
+
+msgid "{Mei}\n\"That hurts......\""
+msgstr ""
+
+#: 01605:350
+
+msgid "She looked at me with tears welling up in her eyes."
+msgstr ""
+
+#: 01605:351
+
+msgid "{Mei}\n\"You lied to me. It really hurts.\""
+msgstr ""
+
+#: 01605:352
+
+msgid "{Kazushi}\n\"I didn't say it doesn't hurt. I told you to not do it.\""
+msgstr ""
+
+#: 01605:353
+
+msgid "{Mei}\n\"This is indeed nothing more than violence.\nI can't approve of this.\""
+msgstr ""
+
+#: 01605:354
+
+msgid "She protested the violence in our lives through her tears."
+msgstr ""
+
+#: 01605:360
+
+msgid "{Appo}\n\"Yagami-sensei is making my Mei-chan cry!\""
+msgstr ""
+
+#: 01605:361
+
+msgid "{Pierre}\n\"You're such a violent teacher!\""
+msgstr ""
+
+#: 01605:365
+
+msgid "{Yagami}\n\"Hey, this isn't my fault!\""
+msgstr ""
+
+#: 01605:370
+
+msgid "{Mei}\n\"I'm strongly against this!\""
+msgstr ""
+
+#: 01605:371
+
+msgid "I felt bad to say it, but it was kind of cute seeing her cry and protest and the same time."
+msgstr ""
+

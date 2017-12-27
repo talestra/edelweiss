@@ -1,0 +1,363 @@
+# Comments for '02502'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 02502:7
+
+msgid "{Kazushi}\n\"Ahh! Ahhh! H-help me!!\""
+msgstr ""
+
+#: 02502:8
+
+msgid "I remember Mizuki saying that she would teach me how to swim."
+msgstr ""
+
+#: 02502:9
+
+msgid "And having completely forgotten about it, Mizuki managed to catch me today."
+msgstr ""
+
+#: 02502:10
+
+msgid "{Kazushi}\n\"Ack!!\""
+msgstr ""
+
+#: 02502:13
+
+msgid "{Mizuki}\n\"You can do better than that!!\""
+msgstr ""
+
+#: 02502:14
+
+msgid "{Kazushi}\n\"I-I'm... blrblrb...trying...blrblrb...\""
+msgstr ""
+
+#: 02502:15
+
+msgid "Water entered my mouth as I tried to speak. Why did I keep sinking when I was moving my limbs so much?!"
+msgstr ""
+
+#: 02502:18
+
+msgid "{Mizuki}\n\"I didn't tell you to dive! Just crawl! Start with a crawl!\""
+msgstr ""
+
+#: 02502:19
+
+msgid "{Kazushi}\n\"You don't need to...bblrgglrrg...tell me...bbllrgglrlg.\""
+msgstr ""
+
+#: 02502:20
+
+msgid "She was a Spartan coach. Here I was in such trouble, and she wouldn't even lend a hand."
+msgstr ""
+
+#: 02502:22
+
+msgid "I kept sinking..."
+msgstr ""
+
+#: 02502:23
+
+msgid "{Kazushi}\n\"............\""
+msgstr ""
+
+#: 02502:26
+
+msgid "{Mizuki}\n\"Hey, Kazushi! Don't dive! Are you listening to me?!\""
+msgstr ""
+
+#: 02502:27
+
+msgid ".................."
+msgstr ""
+
+#: 02502:28
+
+msgid ".................."
+msgstr ""
+
+#: 02502:29
+
+msgid "{Mizuki}\n\"Huh? Kazushi? Ka-zu-shi?!!\""
+msgstr ""
+
+#: 02502:30
+
+msgid ".................."
+msgstr ""
+
+#: 02502:33
+
+msgid "{Mizuki}\n\"...Ahh! You're drowning!!\""
+msgstr ""
+
+#: 02502:38
+
+msgid "{Kazushi}\n\"My dead grandfather told me not to cross the river...\""
+msgstr ""
+
+#: 02502:41
+
+msgid "{Mizuki}\n\"Phew......That was close.\""
+msgstr ""
+
+#: 02502:42
+
+msgid "Just as I was about to drown, Mizuki saved me in the nick of time."
+msgstr ""
+
+#: 02502:45
+
+msgid "{Mizuki}\n\"This is why I told you! Why can't you listen to me?\""
+msgstr ""
+
+#: 02502:46
+
+msgid "{Kazushi}\n\"Telling someone who can't swim to swim isn't going to work. You have to teach me step by step.\""
+msgstr ""
+
+#: 02502:47
+
+msgid "{Mizuki}\n\"Really? But doesn't everyone start to swim to keep from dying when they're tossed in water?\""
+msgstr ""
+
+#: 02502:50
+
+msgid "{Mizuki}\n\"It's instinctual, isn't it?\""
+msgstr ""
+
+#: 02502:51
+
+msgid "{Kazushi}\n\"Unless you fix that idea, I'm going to keep dying...\""
+msgstr ""
+
+#: 02502:54
+
+msgid "{Mizuki}\n\"You're scaring me...\""
+msgstr ""
+
+#: 02502:55
+
+msgid "No, she's scaring me."
+msgstr ""
+
+#: 02502:58
+
+msgid "{Mizuki}\n\"Well this isn't good. At this rate, you'll never be able to swim.\""
+msgstr ""
+
+#: 02502:59
+
+msgid "{Kazushi}\n\"My thoughts exactly.\""
+msgstr ""
+
+#: 02502:62
+
+msgid "{Mizuki}\n\"All right, one more time!\""
+msgstr ""
+
+#: 02502:65
+
+msgid "Fwwmp!"
+msgstr ""
+
+#: 02502:66
+
+msgid "{Kazushi}\n\"Hey!!\""
+msgstr ""
+
+#: 02502:68
+
+msgid "*SPLASH SPLASH*"
+msgstr ""
+
+#: 02502:72
+
+msgid "{Mizuki}\n\"All right, float!\""
+msgstr ""
+
+#: 02502:73
+
+msgid "{Kazushi}\n\"Ubblb...D-don't just toss me in!\""
+msgstr ""
+
+#: 02502:74
+
+msgid "Is she trying to kill me?"
+msgstr ""
+
+#: 02502:79
+
+msgid "{Sakura}\n\"Hey, are you teaching Harucchi how to swim?\""
+msgstr ""
+
+#: 02502:84
+
+msgid "{Rin}\n\"Looks more like Haruma-kun's drowning...\""
+msgstr ""
+
+#: 02502:85
+
+msgid "It was Sakura and Rin."
+msgstr ""
+
+#: 02502:89
+
+msgid "{Mizuki}\n\"Listen girls, he's hopeless.\nHe doesn't even know how to float!\""
+msgstr ""
+
+#: 02502:92
+
+msgid "{Rin}\n\"Of course he doesn't. He can't swim.\""
+msgstr ""
+
+#: 02502:93
+
+msgid "Fujisaki-san was so nice. My battered heart was touched by her kind, embracing words."
+msgstr ""
+
+#: 02502:96
+
+msgid "{Mizuki}\n\"Why are you siding with him? Floating isn't even swimming, it's a natural ability every human has.\""
+msgstr ""
+
+#: 02502:97
+
+msgid "{Kazushi}\n\"She is definitely going to kill me......\""
+msgstr ""
+
+#: 02502:101
+
+msgid "{Sakura}\n\"Someone with talent like you can't understand how it is for average people.\""
+msgstr ""
+
+#: 02502:105
+
+msgid "{Rin}\n\"They do say the ability to teach is a separate talent.\""
+msgstr ""
+
+#: 02502:109
+
+msgid "{Mizuki}\n\"I'm not as talented as you guys are saying.\""
+msgstr ""
+
+#: 02502:112
+
+msgid "{Sakura}\n\"Yes you are. You hardly had any coaching, and yet you came in second at nationals.\""
+msgstr ""
+
+#: 02502:113
+
+msgid "{Kazushi}\n\"At nationals?\""
+msgstr ""
+
+#: 02502:117
+
+msgid "{Rin}\n\"Yup. She came in second at the national junior high swimming competition.\""
+msgstr ""
+
+#: 02502:121
+
+msgid "{Mizuki}\n\"That was nothing.\""
+msgstr ""
+
+#: 02502:122
+
+msgid "You have to really be something to call a national event nothing."
+msgstr ""
+
+#: 02502:123
+
+msgid "{Kazushi}\n\"I knew you were a good swimmer, but I didn't know you were that amazing.\""
+msgstr ""
+
+#: 02502:124
+
+msgid "{Mizuki}\n\"I'm not.\""
+msgstr ""
+
+#: 02502:127
+
+msgid "{Sakura}\n\"And being able to sincerely say she's not is another one of her amazing points.\""
+msgstr ""
+
+#: 02502:128
+
+msgid "{Kazushi}\n\"That's true.\""
+msgstr ""
+
+#: 02502:129
+
+msgid "I didn't know she was that amazing. No wonder she'd been getting frustrated at the difference in our level."
+msgstr ""
+
+#: 02502:130
+
+msgid "{Kazushi}\n\"I don't think I deserve a good coach like you.\""
+msgstr ""
+
+#: 02502:134
+
+msgid "{Mizuki}\n\"Are you quitting?\""
+msgstr ""
+
+#: 02502:135
+
+msgid "{Kazushi}\n\"I just feel bad for you.\""
+msgstr ""
+
+#: 02502:136
+
+msgid "{Mizuki}\n\"I don't.\""
+msgstr ""
+
+#: 02502:137
+
+msgid "She seemed upset that I was trying to quit. I guess teaching me wasn't just for fun to her."
+msgstr ""
+
+#: 02502:138
+
+msgid "{Kazushi}\n\"Are you sure......?\""
+msgstr ""
+
+#: 02502:139
+
+msgid "{Mizuki}\n\"Just listen to what I tell you.\nI'll make sure that you learn how to swim.\""
+msgstr ""
+
+#: 02502:140
+
+msgid "{Kazushi}\n\"All right. I appreciate the offer.\""
+msgstr ""
+
+#: 02502:143
+
+msgid "{Mizuki}\n\"Good, that's the spirt. Then we'll call it a day. We'll start again tomorrow after our Alchemy assignment.\""
+msgstr ""
+
+#: 02502:144
+
+msgid "{Kazushi}\n\"Right, that's tomorrow.\""
+msgstr ""
+
+#: 02502:145
+
+msgid "That's right. After the test theft incident, the principal assigned us a different task to complete. That's tomorrow."
+msgstr ""
+
+#: 02502:146
+
+msgid "I don't know what they're going to have us do, but I should make sure to save my energy."
+msgstr ""
+

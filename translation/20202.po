@@ -1,0 +1,743 @@
+# Comments for '20202'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 20202:9
+
+msgid "{Mizuki}\n\"Wow, the sun's so bright!\""
+msgstr ""
+
+#: 20202:10
+
+msgid "The ocean sparkled in the morning sunlight, which was too bright for my eyes after staying up all night."
+msgstr ""
+
+#: 20202:11
+
+msgid "Mizuki's riotous party lasted until it was nearly dawn, so we decided to stay up and come watch the sunrise together."
+msgstr ""
+
+#: 20202:12
+
+msgid "{Kazushi}\n\"We didn't get to sleep at all, huh?\""
+msgstr ""
+
+#: 20202:15
+
+msgid "{Mizuki}\n\"Everyone else fell asleep, though.\""
+msgstr ""
+
+#: 20202:16
+
+msgid "All our friends passed out in the cafeteria. Mizuki and I were the only ones that stayed awake through the end, so we decided to go outside and take a walk."
+msgstr ""
+
+#: 20202:19
+
+msgid "{Mizuki}\n\"Thank you, Kazushi. I really had a good time.\""
+msgstr ""
+
+#: 20202:20
+
+msgid "I felt a little shy hearing Mizuki thank me so honestly for once. Did she do that just because she's a year older now?\nThe sun seems kind of brighter than normal today..."
+msgstr ""
+
+#: 20202:23
+
+msgid "{Mizuki}\n\"This is the first time I've ever had a birthday party like that thrown for me.\""
+msgstr ""
+
+#: 20202:24
+
+msgid "{Kazushi}\n\"Really? Well, I guess people do stop having them less as they get older. But you had plenty as a kid, right?\""
+msgstr ""
+
+#: 20202:25
+
+msgid "{Mizuki}\n\"In my case, it was always on a bad day. I mean, August 1st is in the middle of summer break, right?\""
+msgstr ""
+
+#: 20202:26
+
+msgid "{Kazushi}\n\"Oh...you're right.\""
+msgstr ""
+
+#: 20202:27
+
+msgid "It reminded me that summer vacation was still going on. I almost forgot about it because we were all together just like usual."
+msgstr ""
+
+#: 20202:28
+
+msgid "{Mizuki}\n\"I know how Kudou-kun felt when he said he'd never had his own birthday party before. During summer break, no one except your family's around to celebrate your birthday.\""
+msgstr ""
+
+#: 20202:29
+
+msgid "{Kazushi}\n\"There's no school, and everyone likes to go on family trips too.\""
+msgstr ""
+
+#: 20202:30
+
+msgid "When I was a kid, I was never home during the summer."
+msgstr ""
+
+#: 20202:31
+
+msgid "I would always do all kinds of activities like going off to summer camps, visiting my grandparents, taking family holidays..."
+msgstr ""
+
+#: 20202:32
+
+msgid "I'd spend almost the entire summer playing my head off."
+msgstr ""
+
+#: 20202:35
+
+msgid "{Mizuki}\n\"That's why I never got to have a party with my friends. But last night was a lot of fun.\""
+msgstr ""
+
+#: 20202:36
+
+msgid "Mizuki gave me a humble, yet beaming smile. Up to the crack of dawn, she was romping around with everyone else at the party."
+msgstr ""
+
+#: 20202:37
+
+msgid "I wish I could have had more time to prepare a bigger party for her."
+msgstr ""
+
+#: 20202:38
+
+msgid "{Kazushi}\n\"We'll have to throw an even bigger party for you next year.\""
+msgstr ""
+
+#: 20202:39
+
+msgid "Next year will be my comeback performance. I'll surprise her even more than this year."
+msgstr ""
+
+#: 20202:42
+
+msgid "{Mizuki}\n\"What? Are we doing it again next year?\""
+msgstr ""
+
+#: 20202:43
+
+msgid "{Kazushi}\n\"Of course. Next year, and the year after that...as you get older.\""
+msgstr ""
+
+#: 20202:46
+
+msgid "{Mizuki}\n\"Year after next? You know, we'll be graduating by then.\""
+msgstr ""
+
+#: 20202:47
+
+msgid "{Kazushi}\n\"Oh, that's right.\""
+msgstr ""
+
+#: 20202:48
+
+msgid "I never thought of graduation. Gee, I won't be here in two years?"
+msgstr ""
+
+#: 20202:49
+
+msgid "{Kazushi}\n\"Graduation, huh?\""
+msgstr ""
+
+#: 20202:50
+
+msgid "It's funny. I just came to this island a month ago, but I can already feel how much I'm going to miss it."
+msgstr ""
+
+#: 20202:53
+
+msgid "{Mizuki}\n\"Hmm? What's wrong with you, reminiscing at dawn?\""
+msgstr ""
+
+#: 20202:54
+
+msgid "Mizuki peered into my eyes as I contemplated it. Then I noticed her gaze, and we twitched as our eyes met."
+msgstr ""
+
+#: 20202:57
+
+msgid "{Mizuki}\n\"S-sorry.\""
+msgstr ""
+
+#: 20202:59
+
+msgid "Flushing slightly, she turned her head away."
+msgstr ""
+
+#: 20202:62
+
+msgid "{Mizuki}\n\"Ahaha, this is strange.\""
+msgstr ""
+
+#: 20202:64
+
+msgid "She ran off towards the water while scratching her head in embarrassment."
+msgstr ""
+
+#: 20202:65
+
+msgid "{Kazushi}\n\"Hey, where are you going?\""
+msgstr ""
+
+#: 20202:66
+
+msgid "{Mizuki}\n\"No! Don't come here!!\""
+msgstr ""
+
+#: 20202:67
+
+msgid "Her panicked voice. What's she doing?"
+msgstr ""
+
+#: 20202:69
+
+msgid "*SPLASH*"
+msgstr ""
+
+#: 20202:71
+
+msgid "I heard a splash from the ocean echoing against the rocks. It must be Mizuki jumping in."
+msgstr ""
+
+#: 20202:72
+
+msgid "{Kazushi}\n\"Hey, Mizuki. Are you okay? You didn't get any sleep, you know?\""
+msgstr ""
+
+#: 20202:73
+
+msgid "Mizuki came straight here with me after drinking and making merry at the party all night. This could be too dangerous, even for her."
+msgstr ""
+
+#: 20202:74
+
+msgid "{Mizuki}\n\"Mmmmmm! It feels so good!\""
+msgstr ""
+
+#: 20202:75
+
+msgid "Despite my concerns, Mizuki was swimming around pleasantly."
+msgstr ""
+
+#: 20202:76
+
+msgid "{Kazushi}\n\"Are you okay?\""
+msgstr ""
+
+#: 20202:77
+
+msgid "{Mizuki}\n\"I'm more than okay! Who do you think I am?\""
+msgstr ""
+
+#: 20202:78
+
+msgid "Well, I was worried for nothing then."
+msgstr ""
+
+#: 20202:79
+
+msgid "{Kazushi}\n\"You are pretty tough, huh?\""
+msgstr ""
+
+#: 20202:80
+
+msgid "{Mizuki}\n\"Yeah, I kind of am, but so are you, Kazushi.\""
+msgstr ""
+
+#: 20202:81
+
+msgid "{Kazushi}\n\"That's right. I'm much tougher than you are.\""
+msgstr ""
+
+#: 20202:82
+
+msgid "{Mizuki}\n\"Oh, you said it. Then let's race! One lap around the island!\""
+msgstr ""
+
+#: 20202:83
+
+msgid "Mizuki began to swim with great vigor."
+msgstr ""
+
+#: 20202:84
+
+msgid "{Kazushi}\n\"Hey, I didn't say I would.\""
+msgstr ""
+
+#: 20202:85
+
+msgid "{Mizuki}\n\"I win by default then!\""
+msgstr ""
+
+#: 20202:87
+
+msgid "Damn..."
+msgstr ""
+
+#: 20202:88
+
+msgid "I hate to lose, but I know I'm not gonna win - I'm still not at swimming."
+msgstr ""
+
+#: 20202:89
+
+msgid "{Kazushi}\n\"Besides, aren't you still drunk? It's not safe to swim under the influence, especially with your clothes still on...\""
+msgstr ""
+
+#: 20202:90
+
+msgid "{Kazushi}\n\"Hmm?\""
+msgstr ""
+
+#: 20202:91
+
+msgid "Then, something dotting the rocky path caught my eye. They looked like clothes."
+msgstr ""
+
+#: 20202:92
+
+msgid "{Kazushi}\n\"Hey, these are your clothes!\""
+msgstr ""
+
+#: 20202:93
+
+msgid "I picked them up and recognized them as hers. I guess she took all her clothes off before getting in the water."
+msgstr ""
+
+#: 20202:94
+
+msgid "{Mizuki}\n\"Hehe. I made sure to strip off my clothes!\""
+msgstr ""
+
+#: 20202:95
+
+msgid "{Kazushi}\n\"When did you...\""
+msgstr ""
+
+#: 20202:96
+
+msgid "That means she's naked under the water... Ggh, just imagining that was seductive to my mind and body, already excited by the all-night party."
+msgstr ""
+
+#: 20202:97
+
+msgid "{Kazushi}\n\"No. No. No...\""
+msgstr ""
+
+#: 20202:98
+
+msgid "Just thinking about it was nearly making me hard so I tried to distract myself by folding her clothes."
+msgstr ""
+
+#: 20202:99
+
+msgid "{Kazushi}\n\"Oh...\""
+msgstr ""
+
+#: 20202:100
+
+msgid "If she stripped down to swim, that means she stripped off her underwear too. I could see her panties mixed in with the rest of her clothes."
+msgstr ""
+
+#: 20202:101
+
+msgid "{Kazushi}\n\".........\""
+msgstr ""
+
+#: 20202:102
+
+msgid "I picked them up. They were still warm."
+msgstr ""
+
+#: 20202:103
+
+msgid "{Kazushi}\n\"So warm...\""
+msgstr ""
+
+#: 20202:104
+
+msgid "I stretched them out. Why does doing something perverted like this always get me so damn turned on?"
+msgstr ""
+
+#: 20202:105
+
+msgid "{Kazushi}\n\"Wooooooo!!\""
+msgstr ""
+
+#: 20202:106
+
+msgid "Since we pulled an all-nighter, she must have been wearing these all day yesterday."
+msgstr ""
+
+#: 20202:107
+
+msgid "I saw some stains in the center, indicating that it was true..."
+msgstr ""
+
+#: 20202:108
+
+msgid "{Mizuki}\n\"Gyaaaaaaah!! H-hey! What the hell are you spreading and looking at, you idiot?!!\""
+msgstr ""
+
+#: 20202:109
+
+msgid "{Kazushi}\n\"Oh, shit...\""
+msgstr ""
+
+#: 20202:110
+
+msgid "{Mizuki}\n\"You pervert! Lunatic!\""
+msgstr ""
+
+#: 20202:111
+
+msgid "{Kazushi}\n\"What!?\""
+msgstr ""
+
+#: 20202:112
+
+msgid "OK, if you're going to play it that way, I'll do exactly what a pervert does."
+msgstr ""
+
+#: 20202:113
+
+msgid "{Kazushi}\n\"Oh, I see. Then this is Mizuki's..... Ooooh, I think I see a little hair in here...\""
+msgstr ""
+
+#: 20202:114
+
+msgid "{Mizuki}\n\"Why youuuuuuuu!!!\""
+msgstr ""
+
+#: 20202:117
+
+msgid "{Mizuki}\n\"Ah...\""
+msgstr ""
+
+#: 20202:118
+
+msgid "I think this is what they called deja vu. The sight was rather nostalgic."
+msgstr ""
+
+#: 20202:122
+
+msgid "{Mizuki}\n\"KYAAAAAAAAAAAAAAAAAAAAAAAAA!!\""
+msgstr ""
+
+#: 20202:126
+
+msgid "But it wasn't nostalgic for Mizuki. She hid in the rock's shadows."
+msgstr ""
+
+#: 20202:127
+
+msgid "{Mizuki}\n\"Ooh... He saw me again...\""
+msgstr ""
+
+#: 20202:128
+
+msgid "{Kazushi}\n\"I'm impressed - you look so different from yesterday. Your body's finally another year older, and it looks more mature too.\""
+msgstr ""
+
+#: 20202:129
+
+msgid "{Mizuki}\n\"Nothing's going to change in just a day! Ohhh, why does Kazushi keep seeing me when I'm naked? It really bugs me.\""
+msgstr ""
+
+#: 20202:130
+
+msgid "{Kazushi}\n\"All I can say is sorry.\""
+msgstr ""
+
+#: 20202:131
+
+msgid "I don't do it on purpose, so it's not really my fault, and Mizuki knows it too."
+msgstr ""
+
+#: 20202:132
+
+msgid "{Kazushi}\n\"I can only say that we were burn under such stars. Surely, it's destiny.\""
+msgstr ""
+
+#: 20202:133
+
+msgid "{Mizuki}\n\"I don't want that destiny!\""
+msgstr ""
+
+#: 20202:134
+
+msgid "Mizuki screamed out to the blue morning sky. But for some reason, she looked happy doing it."
+msgstr ""
+
+#: 20202:135
+
+msgid "{Kazushi}\n\"Does it really bother you?\""
+msgstr ""
+
+#: 20202:136
+
+msgid "{Mizuki}\n\"Of course it does! How could I... let such places be seen. I'm sure... no one will want to take me as a bride now.\""
+msgstr ""
+
+#: 20202:137
+
+msgid "{Kazushi}\n\"Then... what if I said I would?\""
+msgstr ""
+
+#: 20202:138
+
+msgid "I surprised myself at how easily I said that."
+msgstr ""
+
+#: 20202:143
+
+msgid "{Mizuki}\n\"What?\""
+msgstr ""
+
+#: 20202:144
+
+msgid "Mizuki looks vacant and flushed."
+msgstr ""
+
+#: 20202:145
+
+msgid "{Mizuki}\n\"K-Kazushi, look, do you really know what you are saying?\""
+msgstr ""
+
+#: 20202:146
+
+msgid "{Kazushi}\n\"Y-yeah! I said I'll take you in.\""
+msgstr ""
+
+#: 20202:147
+
+msgid "{Mizuki}\n\"Take me in... I'm not a dog or a cat. What do you plan on doing if you take me?\""
+msgstr ""
+
+#: 20202:148
+
+msgid "{Kazushi}\n\"Well... I'd make you happy.\""
+msgstr ""
+
+#: 20202:149
+
+msgid "{Mizuki}\n\".........\""
+msgstr ""
+
+#: 20202:151
+
+msgid "For a moment, we heard nothing but the waves lapping up against the shore.\nNo... I can hear someone's heart beating.\nWait, it's mine."
+msgstr ""
+
+#: 20202:153
+
+msgid "{Mizuki}\n\"A-aren't you embarrassed, s-saying something like that?\""
+msgstr ""
+
+#: 20202:154
+
+msgid "{Kazushi}\n\"V-very much so.\""
+msgstr ""
+
+#: 20202:155
+
+msgid "{Mizuki}\n\"Right? I'd be too...\""
+msgstr ""
+
+#: 20202:156
+
+msgid "{Kazushi}\n\"But I mean it.\""
+msgstr ""
+
+#: 20202:157
+
+msgid "{Mizuki}\n\"What? You mean it?\""
+msgstr ""
+
+#: 20202:158
+
+msgid "{Kazushi}\n\"I mean it.\""
+msgstr ""
+
+#: 20202:159
+
+msgid "{Mizuki}\n\".........\""
+msgstr ""
+
+#: 20202:160
+
+msgid "Mizuki remained silent. We could hear the waves."
+msgstr ""
+
+#: 20202:161
+
+msgid "I finally said something decisive. But now that I have, there's no turning back."
+msgstr ""
+
+#: 20202:162
+
+msgid "{Kazushi}\n\"Hey, Mizuki...\""
+msgstr ""
+
+#: 20202:163
+
+msgid "{Mizuki}\n\"W-what is it?\""
+msgstr ""
+
+#: 20202:164
+
+msgid "{Kazushi}\n\"Umm, would you g-go out with me?\""
+msgstr ""
+
+#: 20202:165
+
+msgid "Damn! I said it! My heart nearly exploded."
+msgstr ""
+
+#: 20202:166
+
+msgid "{Mizuki}\n\".........\""
+msgstr ""
+
+#: 20202:167
+
+msgid "Mizuki kept quiet and turns around."
+msgstr ""
+
+#: 20202:168
+
+msgid "{Mizuki}\n\"Weren't we already going out?\""
+msgstr ""
+
+#: 20202:169
+
+msgid "She whispered that to me as she faced away. Does that mean yes?"
+msgstr ""
+
+#: 20202:170
+
+msgid "{Kazushi}\n\"Oh, yeah. Right, we are already...\""
+msgstr ""
+
+#: 20202:171
+
+msgid "{Mizuki}\n\"Yeah, that's right.\""
+msgstr ""
+
+#: 20202:172
+
+msgid "Mizuki sounded very calm while keeping her back to me, standing shoulder deep in the water."
+msgstr ""
+
+#: 20202:173
+
+msgid "Her back was turned, yet I knew all of her focus was on me."
+msgstr ""
+
+#: 20202:174
+
+msgid "{Kazushi}\n\"Can I come over there?\""
+msgstr ""
+
+#: 20202:175
+
+msgid "{Mizuki}\n\"Huh? Wh-why?\""
+msgstr ""
+
+#: 20202:176
+
+msgid "She sounded a bit confused, but she already knew what I was going to ask, and..."
+msgstr ""
+
+#: 20202:177
+
+msgid "She was probably certain about what I wanted. For someone not good with dirty jokes, she's awfully sharp."
+msgstr ""
+
+#: 20202:178
+
+msgid "{Kazushi}\n\"You don't want me to?\""
+msgstr ""
+
+#: 20202:179
+
+msgid "{Mizuki}\n\"It's okay.\""
+msgstr ""
+
+#: 20202:180
+
+msgid "She gave me the green light."
+msgstr ""
+
+#: 20202:181
+
+msgid "{Kazushi}\n\"I'm coming over, then.\""
+msgstr ""
+
+#: 20202:182
+
+msgid "{Mizuki}\n\"Yes...\""
+msgstr ""
+
+#: 20202:184
+
+msgid "I walked over to the rocky stretch where Mizuki was."
+msgstr ""
+
+#: 20202:185
+
+msgid "{Mizuki}\n\".........\""
+msgstr ""
+
+#: 20202:186
+
+msgid "I could see Mizuki's back. I could reach out and touch her from here. She still wasn't moving."
+msgstr ""
+
+#: 20202:187
+
+msgid "{Kazushi}\n\"Mizuki, are you... sure about this?\""
+msgstr ""
+
+#: 20202:188
+
+msgid "She knows what I mean. Her shoulders trembled slightly as proof."
+msgstr ""
+
+#: 20202:189
+
+msgid "{Mizuki}\n\"Are you sure you're alright with me?\""
+msgstr ""
+
+#: 20202:190
+
+msgid "What a silly question."
+msgstr ""
+
+#: 20202:191
+
+msgid "{Kazushi}\n\"I want you, Mizuki.\""
+msgstr ""
+
+#: 20202:192
+
+msgid "{Mizuki}\n\"......what an oddball.\""
+msgstr ""
+

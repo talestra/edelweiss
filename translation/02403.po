@@ -1,0 +1,688 @@
+# Comments for '02403'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 02403:7
+
+msgid "Lunchtime."
+msgstr ""
+
+#: 02403:8
+
+msgid "{Kazushi}\n\"What the...\""
+msgstr ""
+
+#: 02403:9
+
+msgid "When I got back from eating in the cafeteria, I noticed my ass felt funny."
+msgstr ""
+
+#: 02403:12
+
+msgid "{Appo}\n\"What's wrong?\""
+msgstr ""
+
+#: 02403:17
+
+msgid "{Mizuki}\n\"Why are you feeling up your butt?\""
+msgstr ""
+
+#: 02403:18
+
+msgid "{Kazushi}\n\"I'm not feeling up my butt.\nI don't feel my wallet in my back pocket.\""
+msgstr ""
+
+#: 02403:19
+
+msgid "It's not in my back pocket. It's not in my front pocket. I couldn't have put it anywhere else."
+msgstr ""
+
+#: 02403:26
+
+msgid "{Daigo}\n\"But you bought lunch at the cafeteria?\""
+msgstr ""
+
+#: 02403:27
+
+msgid "{Kazushi}\n\"So I must have brought it with me...\""
+msgstr ""
+
+#: 02403:31
+
+msgid "{Pierre}\n\"Then it's simple. It must have fallen out on your way here.\""
+msgstr ""
+
+#: 02403:32
+
+msgid "{Kazushi}\n\"It must have...\""
+msgstr ""
+
+#: 02403:36
+
+msgid "{Mizuki}\n\"You should go and look for it now before it gets stolen.\""
+msgstr ""
+
+#: 02403:38
+
+msgid "That's when we heard the bell. Lunchtime was over."
+msgstr ""
+
+#: 02403:39
+
+msgid "{Kazushi}\n\"What should I do?\""
+msgstr ""
+
+#: 02403:43
+
+msgid "{Ran}\n\"What? What? Are you guys talking about money? What is it?\""
+msgstr ""
+
+#: 02403:45
+
+msgid "Ran came straight for us when she entered the room. She's sharp. She must be able to smell money."
+msgstr ""
+
+#: 02403:46
+
+msgid "Though we were talking about losing money."
+msgstr ""
+
+#: 02403:47
+
+msgid "{Mizuki}\n\"Kazushi lost his wallet.\""
+msgstr ""
+
+#: 02403:54
+
+msgid "{Ran}\n\"WHAT!?\nYOU LOST YOUR WALLET!?\""
+msgstr ""
+
+#: 02403:55
+
+msgid "Ran screamed loud enough for our entire class to hear her."
+msgstr ""
+
+#: 02403:58
+
+msgid "{Ran}\n\"Oh my god!!\""
+msgstr ""
+
+#: 02403:59
+
+msgid "She sounded like a village elder who just heard the seal on a cursed shrine was removed."
+msgstr ""
+
+#: 02403:60
+
+msgid "{Kazushi}\n\"What's so drastic about that?\""
+msgstr ""
+
+#: 02403:63
+
+msgid "{Ran}\n\"Why the hell are you still here!?\nGO FIND IT!\""
+msgstr ""
+
+#: 02403:64
+
+msgid "{Kazushi}\n\"Well, the bell just rang. I can do it later......\""
+msgstr ""
+
+#: 02403:67
+
+msgid "{Ran}\n\"MORON!\""
+msgstr ""
+
+#: 02403:68
+
+msgid "Her scream shook the windows and the class covered their ears."
+msgstr ""
+
+#: 02403:74
+
+msgid "{Appo}\n *plug*"
+msgstr ""
+
+#: 02403:75
+
+msgid "{Daigo}\n\"She's gonna break our eardrums...\""
+msgstr ""
+
+#: 02403:76
+
+msgid "{Kazushi}\n\"Quit screaming. You're scaring everybody like that...\""
+msgstr ""
+
+#: 02403:81
+
+msgid "{Ran}\n\"And you're the one who's scaring me! Come on, let's go!\""
+msgstr ""
+
+#: 02403:82
+
+msgid "She dragged me off to go find my wallet."
+msgstr ""
+
+#: 02403:83
+
+msgid "{Kazushi}\n\"Where are we going?\""
+msgstr ""
+
+#: 02403:84
+
+msgid "{Ran}\n\"We're going to find your wallet, of course! Quit being dense!\""
+msgstr ""
+
+#: 02403:85
+
+msgid "{Kazushi}\n\"Dense?\""
+msgstr ""
+
+#: 02403:91
+
+msgid "{Mei}\n\"Please be seated, everybody!\""
+msgstr ""
+
+#: 02403:92
+
+msgid "Mei-sensei came into our classroom to start her lecture. Oh yeah, our afternoon class was on the theory of alchemy."
+msgstr ""
+
+#: 02403:93
+
+msgid "{Mei}\n\"Hey, you two, where are you going?\""
+msgstr ""
+
+#: 02403:94
+
+msgid "Ran was so focused that she couldn't hear Mei-sensei addressing us."
+msgstr ""
+
+#: 02403:99
+
+msgid "{Ran}\n\"Sorry, Mei-chan, we have important business to take care of, so we're ditching!\""
+msgstr ""
+
+#: 02403:100
+
+msgid "She declared the fact that she was ditching Mei-sensei's class in front of everybody!"
+msgstr ""
+
+#: 02403:105
+
+msgid "{Mei}\n\"Ditch? Hey, wait a minute!\""
+msgstr ""
+
+#: 02403:106
+
+msgid "{Kazushi}\n\"Sorry, Mei-sensei!! Please let us go!\""
+msgstr ""
+
+#: 02403:114
+
+msgid "{Ran}\n\"......not here.\""
+msgstr ""
+
+#: 02403:115
+
+msgid "Ran was down on her hands and knees searching everywhere for my wallet, even under tables and vending machines."
+msgstr ""
+
+#: 02403:116
+
+msgid "The cafeteria floor was filthy after lunch break."
+msgstr ""
+
+#: 02403:117
+
+msgid "{Kazushi}\n\"You don't have to get down on the floor. Come on, you'll get dirty.\""
+msgstr ""
+
+#: 02403:120
+
+msgid "{Ran}\n\"How can you be so calm?! Shut up and search as if your life depended on it!\""
+msgstr ""
+
+#: 02403:121
+
+msgid "{Kazushi}\n\"Aren't you exaggerating a little bit? It'd hurt if I couldn't find it, but not that bad.\""
+msgstr ""
+
+#: 02403:124
+
+msgid "{Ran}\n\"Of course it'd hurt. Losing your wallet is almost as bad as losing your heart!\""
+msgstr ""
+
+#: 02403:125
+
+msgid "{Kazushi}\n\"Now you really are exaggerating...\""
+msgstr ""
+
+#: 02403:126
+
+msgid "Though maybe it meant that for hers. I never expected her to be so caring about someone else's."
+msgstr ""
+
+#: 02403:129
+
+msgid "{Ran}\n\"Are you sure you didn't go anywhere else?\""
+msgstr ""
+
+#: 02403:130
+
+msgid "She was even rummaging through the rubbish bin. Did I go anywhere else?"
+msgstr ""
+
+#: 02403:131
+
+msgid "{Kazushi}\n\"Oh yeah, I went to the bathroom.\""
+msgstr ""
+
+#: 02403:134
+
+msgid "{Ran}\n\"Let's go!!\""
+msgstr ""
+
+#: 02403:136
+
+msgid "{Kazushi}\n\"This is the boys' bathroom.\""
+msgstr ""
+
+#: 02403:142
+
+msgid "{Ran}\n\"Do you see it anywhere?\""
+msgstr ""
+
+#: 02403:143
+
+msgid "{Kazushi}\n\"Hey, this is the boys' room...\""
+msgstr ""
+
+#: 02403:144
+
+msgid "She didn't care."
+msgstr ""
+
+#: 02403:147
+
+msgid "{Ran}\n\"Did you look under the sink?\""
+msgstr ""
+
+#: 02403:148
+
+msgid "{Kazushi}\n\"Hey, don't get down on the floor near the toilets! It's filthy!\""
+msgstr ""
+
+#: 02403:151
+
+msgid "{Ran}\n\"A girl's gotta do what a girl's gotta do!\""
+msgstr ""
+
+#: 02403:152
+
+msgid "{Kazushi}\n\"Let me look for it!\nJust wait for me outside.\""
+msgstr ""
+
+#: 02403:153
+
+msgid "I searched every corner, but I couldn't find it in the bathroom."
+msgstr ""
+
+#: 02403:156
+
+msgid "{Ran}\n\"It wasn't there!? Then where else...?\""
+msgstr ""
+
+#: 02403:157
+
+msgid "She looked like she was about to cry. It wasn't even her wallet."
+msgstr ""
+
+#: 02403:158
+
+msgid "{Kazushi}\n\"Don't cry. I'll find it eventually.\""
+msgstr ""
+
+#: 02403:161
+
+msgid "{Ran}\n\"You better!\""
+msgstr ""
+
+#: 02403:162
+
+msgid "{Kazushi}\n\"I will!\""
+msgstr ""
+
+#: 02403:163
+
+msgid "It started to feel like I was looking for her wallet instead."
+msgstr ""
+
+#: 02403:168
+
+msgid "{Ran}\n\"You came all the way out here during your lunch break?\""
+msgstr ""
+
+#: 02403:169
+
+msgid "{Kazushi}\n\"No, but somebody might have thrown it out by mistake.\""
+msgstr ""
+
+#: 02403:170
+
+msgid "We headed to the incinerator. They'd already carried this afternoon's trash out here, and I thought it might have gotten mixed in."
+msgstr ""
+
+#: 02403:173
+
+msgid "{Ran}\n\"Look at the smoke......\""
+msgstr ""
+
+#: 02403:174
+
+msgid "Thin black trails of smoke rose from the incinerator. The fire was burning inside."
+msgstr ""
+
+#: 02403:177
+
+msgid "{Ran}\n\"This is bad! If it's there, they'll burn it!\""
+msgstr ""
+
+#: 02403:178
+
+msgid "{Kazushi}\n\"I'll go and take a look!\""
+msgstr ""
+
+#: 02403:180
+
+msgid "I ran towards the incinerator. Ran was right behind me."
+msgstr ""
+
+#: 02403:184
+
+msgid "I opened the heavy iron door. It looks like they'd just lit the flame."
+msgstr ""
+
+#: 02403:185
+
+msgid "{Ran}\n\"Is it in there?!\""
+msgstr ""
+
+#: 02403:186
+
+msgid "{Kazushi}\n\"Uhh...I-it is!\""
+msgstr ""
+
+#: 02403:189
+
+msgid "{Ran}\n\"Really?! Grab it!!\""
+msgstr ""
+
+#: 02403:190
+
+msgid "{Kazushi}\n\"But the fire... Owow!\""
+msgstr ""
+
+#: 02403:193
+
+msgid "{Ran}\n\"Argh! Where is it!!\""
+msgstr ""
+
+#: 02403:194
+
+msgid "{Kazushi}\n\"Right there! Ah! It's on fire!\""
+msgstr ""
+
+#: 02403:195
+
+msgid "{Ran}\n\"Move!!\""
+msgstr ""
+
+#: 02403:197
+
+msgid "*SHOVE*"
+msgstr ""
+
+#: 02403:199
+
+msgid "Ran knocked me to the side, and stuck her arm into the fire without hesitating."
+msgstr ""
+
+#: 02403:200
+
+msgid "{Kazushi}\n\"Watch out!\""
+msgstr ""
+
+#: 02403:201
+
+msgid "She felt around in order to find it."
+msgstr ""
+
+#: 02403:204
+
+msgid "{Ran}\n\"Got it!!\""
+msgstr ""
+
+#: 02403:205
+
+msgid "She pulled her arm back.\nHer hand emerged from the fire with my wallet intact."
+msgstr ""
+
+#: 02403:210
+
+msgid "{Ran}\n\"I-I-I got it!!\""
+msgstr ""
+
+#: 02403:211
+
+msgid "{Kazushi}\n\"It's on fire!!\""
+msgstr ""
+
+#: 02403:212
+
+msgid "My wallet was burning!!"
+msgstr ""
+
+#: 02403:213
+
+msgid "{Ran}\n\"Water! Water!\""
+msgstr ""
+
+#: 02403:214
+
+msgid "{Kazushi}\n\"Wait for me here!\""
+msgstr ""
+
+#: 02403:215
+
+msgid "I found a fire safety bucket with water in it."
+msgstr ""
+
+#: 02403:216
+
+msgid "{Kazushi}\n\"Go out!\""
+msgstr ""
+
+#: 02403:219
+
+msgid "I poured the water right on Ran."
+msgstr ""
+
+#: 02403:220
+
+msgid "{Ran}\n\"Wahff!\""
+msgstr ""
+
+#: 02403:221
+
+msgid "{Kazushi}\n\"It's out...\""
+msgstr ""
+
+#: 02403:222
+
+msgid "{Ran}\n\"How about your money!?\""
+msgstr ""
+
+#: 02403:223
+
+msgid "She checked my wallet before herself. She quickly smiled."
+msgstr ""
+
+#: 02403:226
+
+msgid "{Ran}\n\"It's safe! Your money's alright!\""
+msgstr ""
+
+#: 02403:227
+
+msgid "She showed me the happiest smile she had. She looked really cute with it."
+msgstr ""
+
+#: 02403:234
+
+msgid "{Ran}\n\"I feel so much better now.\""
+msgstr ""
+
+#: 02403:235
+
+msgid "I asked her to change her clothes before going back to class as she was soaking wet."
+msgstr ""
+
+#: 02403:236
+
+msgid "{Kazushi}\n\"Thanks a ton - I owe you one.\nBut you shouldn't have done that - I don't want you to get hurt!\""
+msgstr ""
+
+#: 02403:239
+
+msgid "{Ran}\n\"But money is important.\""
+msgstr ""
+
+#: 02403:240
+
+msgid "{Kazushi}\n\"Yes, but...\""
+msgstr ""
+
+#: 02403:241
+
+msgid "Would you go that far for it? Especially for someone else?"
+msgstr ""
+
+#: 02403:244
+
+msgid "{Ran}\n\"I didn't wanna see you go broke.\""
+msgstr ""
+
+#: 02403:245
+
+msgid "{Kazushi}\n\"But why would you go so far?\""
+msgstr ""
+
+#: 02403:246
+
+msgid "Ran went overboard today, and I really wanted to know why."
+msgstr ""
+
+#: 02403:249
+
+msgid "{Ran}\n\"There was a time I lost my wallet once. In fourth grade, I think. While we were on vacation.\""
+msgstr ""
+
+#: 02403:250
+
+msgid "{Kazushi}\n\"Fourth grade? Then your parents were there, right?\""
+msgstr ""
+
+#: 02403:251
+
+msgid "{Ran}\n\"I'd strayed away from them. There was a festival that day. And in the crowd, you know?\""
+msgstr ""
+
+#: 02403:252
+
+msgid "{Kazushi}\n\"A festival? Yeah, I can see how that'd happen.\""
+msgstr ""
+
+#: 02403:253
+
+msgid "If they really got separated, it would've been hard to find each other. And being alone in that kind of crowd is frightening for a child."
+msgstr ""
+
+#: 02403:256
+
+msgid "{Ran}\n\"I never felt so lonely in my entire life. No matter how hard I searched, I couldn't find them. I didn't know where they went, and there were people everywhere.\""
+msgstr ""
+
+#: 02403:257
+
+msgid "{Ran}\n\"Even if I wanted to go back to the hotel, I didn't know how since we came by taxi. And I wasn't young enough to go crying to an adult for help either.\""
+msgstr ""
+
+#: 02403:260
+
+msgid "{Ran}\n\"That's when I happened to find ten yen on the street. I used that to call my parents' cell phone. They were there in five minutes.\""
+msgstr ""
+
+#: 02403:261
+
+msgid "{Ran}\n\"It was only ten yen. I was amazed at the power of money. And I chose to cherish money for the rest of my life.\""
+msgstr ""
+
+#: 02403:262
+
+msgid "She looked happy talking about her past."
+msgstr ""
+
+#: 02403:263
+
+msgid "{Kazushi}\n\"So since that incident you've been obsessed with money?\""
+msgstr ""
+
+#: 02403:266
+
+msgid "{Ran}\n\"Yep.\""
+msgstr ""
+
+#: 02403:267
+
+msgid "Her reason wasn't as drastic as I'd expected. It must have been a major event to Ran at the time though, especially for it to influence her personality this much."
+msgstr ""
+
+#: 02403:270
+
+msgid "{Ran}\n\"I didn't want you to have to go through what I did on that day.\""
+msgstr ""
+
+#: 02403:271
+
+msgid "She really was worrying about me. It felt kind of heart-warming, kind of nice to have her care about me."
+msgstr ""
+
+#: 02403:274
+
+msgid "{Ran}\n\"Well, if you ever need a loan, just ask. I'll only charge 10% every 10 days.\""
+msgstr ""
+
+#: 02403:275
+
+msgid "{Kazushi}\n\"That's expensive!!\""
+msgstr ""
+
+#: 02403:276
+
+msgid "{Ran}\n\"Ahahahaha!\""
+msgstr ""
+
+#: 02403:277
+
+msgid "I got to see an unexpected side of Ran today."
+msgstr ""
+

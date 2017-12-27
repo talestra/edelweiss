@@ -1,0 +1,318 @@
+# Comments for '02304'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 02304:8
+
+msgid "{Kazushi}\n *Uhhh huhhhh uhhhhh huhhhhhh*"
+msgstr ""
+
+#: 02304:9
+
+msgid "I ran off, but I don't know where I'm going."
+msgstr ""
+
+#: 02304:10
+
+msgid "{Kazushi}\n\"It's not like I had any goal in mind.\""
+msgstr ""
+
+#: 02304:12
+
+msgid "I stopped dead."
+msgstr ""
+
+#: 02304:13
+
+msgid "Why didn't I just go after Haruka or Mizuki?"
+msgstr ""
+
+#: 02304:14
+
+msgid "Am I cursed?"
+msgstr ""
+
+#: 02304:15
+
+msgid "Or am I just not interested in picking up chicks?"
+msgstr ""
+
+#: 02304:16
+
+msgid "{Kazushi}\n\"Maybe that's it. Maybe I've been single for so long that I've lost interest in girls.\""
+msgstr ""
+
+#: 02304:17
+
+msgid "I felt dizzy."
+msgstr ""
+
+#: 02304:18
+
+msgid "{Kazushi}\n\"I can't see straight...\""
+msgstr ""
+
+#: 02304:19
+
+msgid "I was just a little disoriented, so I laid down under the shade of a tree."
+msgstr ""
+
+#: 02304:20
+
+msgid "{Kazushi}\n\"It's another boiling hot day...\""
+msgstr ""
+
+#: 02304:21
+
+msgid "I should take a nap."
+msgstr ""
+
+#: 02304:24
+
+msgid "*poke poke*"
+msgstr ""
+
+#: 02304:25
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 02304:28
+
+msgid "Somebody woke me up just when I was falling asleep."
+msgstr ""
+
+#: 02304:31
+
+msgid "{Natsume}\n\"Oh, it's you.\""
+msgstr ""
+
+#: 02304:32
+
+msgid "{Kazushi}\n\"Oh, hey Natsume-chan.\""
+msgstr ""
+
+#: 02304:33
+
+msgid "{Natsume}\n\"So you weren't...a corpse.\""
+msgstr ""
+
+#: 02304:34
+
+msgid "This is just like when we first met. She thought I was dead then, too."
+msgstr ""
+
+#: 02304:35
+
+msgid "{Kazushi}\n\"You don't usually find dead people under trees.\""
+msgstr ""
+
+#: 02304:38
+
+msgid "{Natsume}\n\"It's not my fault you're always falling asleep in public. It's suspicious.\""
+msgstr ""
+
+#: 02304:39
+
+msgid "{Kazushi}\n\"You've got a point.\""
+msgstr ""
+
+#: 02304:40
+
+msgid "She's right. Falling asleep here isn't appropriate, and it doesn't look much better than when young street rats crouch on the street."
+msgstr ""
+
+#: 02304:41
+
+msgid "{Kazushi}\n\"I'll be sure to behave myself from now on.\""
+msgstr ""
+
+#: 02304:44
+
+msgid "{Natsume}\n\"You do that.\""
+msgstr ""
+
+#: 02304:45
+
+msgid "She nodded in satisfaction and sat down next to me. She really does look like a doll."
+msgstr ""
+
+#: 02304:48
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 02304:49
+
+msgid "{Kazushi}\n\"You're really quiet today.\""
+msgstr ""
+
+#: 02304:50
+
+msgid "{Natsume}\n\"I'm always quiet.\""
+msgstr ""
+
+#: 02304:51
+
+msgid "{Kazushi}\n\"You're right.\""
+msgstr ""
+
+#: 02304:52
+
+msgid "But today she actually seemed quiet."
+msgstr ""
+
+#: 02304:55
+
+msgid "{Natsume}\n\"So...how've you been?\""
+msgstr ""
+
+#: 02304:56
+
+msgid "It's unusual for her to start a conversation like this. Maybe she's finally opening up to me. It was touching."
+msgstr ""
+
+#: 02304:57
+
+msgid "{Kazushi}\n\"I actually got into serious trouble with the principal. We have to do some kind of alternative task instead of taking our finals.\""
+msgstr ""
+
+#: 02304:60
+
+msgid "{Natsume}\n\"The principal--\""
+msgstr ""
+
+#: 02304:61
+
+msgid "For some reason, she reacted sharply when I mentioned the principal."
+msgstr ""
+
+#: 02304:62
+
+msgid "{Kazushi}\n\"What is it?\""
+msgstr ""
+
+#: 02304:65
+
+msgid "{Natsume}\n\"Watch yourself around Hisae.\""
+msgstr ""
+
+#: 02304:66
+
+msgid "{Kazushi}\n\"Who's Hisae?\""
+msgstr ""
+
+#: 02304:67
+
+msgid "I thought we were talking about the principal?"
+msgstr ""
+
+#: 02304:68
+
+msgid "{Kazushi}\n\"Oh, is that her name?\""
+msgstr ""
+
+#: 02304:71
+
+msgid "{Natsume}\n\"I don't like that woman.\nIf she tries to do something to you, I'll come and help you.\""
+msgstr ""
+
+#: 02304:72
+
+msgid "{Kazushi}\n\"Umm, thank you.\""
+msgstr ""
+
+#: 02304:73
+
+msgid "She seems to be rather antagonistic towards the principal."
+msgstr ""
+
+#: 02304:74
+
+msgid "{Natsume}\n\"If she ever tries to hurt you, I promise that I will make her miserable.\""
+msgstr ""
+
+#: 02304:75
+
+msgid "{Kazushi}\n\"Wow, you're dependable.\""
+msgstr ""
+
+#: 02304:76
+
+msgid "But she seemed to be physically very weak."
+msgstr ""
+
+#: 02304:79
+
+msgid "{Natsume}\n\"You don't believe me? I'll show you the Natsume Beam.\""
+msgstr ""
+
+#: 02304:80
+
+msgid "{Kazushi}\n\"Natsume Beam?\""
+msgstr ""
+
+#: 02304:81
+
+msgid "She winds up her fist."
+msgstr ""
+
+#: 02304:84
+
+msgid "{Natsume}\n\"Meow!!\""
+msgstr ""
+
+#: 02304:85
+
+msgid "A cat's meow? But her hand moved sharply."
+msgstr ""
+
+#: 02304:88
+
+msgid "Fwoon!"
+msgstr ""
+
+#: 02304:89
+
+msgid "Something flew straight into my face with a whoosh."
+msgstr ""
+
+#: 02304:94
+
+msgid "{Kazushi}\n\"Ouch!\""
+msgstr ""
+
+#: 02304:95
+
+msgid "Something rock hard hit my face. Her beam...no, actually, it was a rock."
+msgstr ""
+
+#: 02304:98
+
+msgid "{Natsume}\n\"Oops... It slipped.\""
+msgstr ""
+
+#: 02304:99
+
+msgid "{Kazushi}\n\"It slipped? ...What happened to your beam?\""
+msgstr ""
+
+#: 02304:100
+
+msgid "I'm sure nobody can avoid that."
+msgstr ""
+
+#: 02304:103
+
+msgid "{Natsume}\n\"Haruma? Haruma? ......Run!\""
+msgstr ""
+

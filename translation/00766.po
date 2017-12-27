@@ -1,0 +1,333 @@
+# Comments for '00766'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 00766:7
+
+msgid "{Kazushi}\n\"She didn't give me any good ideas.\""
+msgstr ""
+
+#: 00766:10
+
+msgid "{Appo}\n\"You're useless.\""
+msgstr ""
+
+#: 00766:11
+
+msgid "{Kazushi}\n\"Sorry, guys.\""
+msgstr ""
+
+#: 00766:14
+
+msgid "{Appo}\n\"Daigo, get to work. Designer bags. With your skill, we expect some Louis Vittons or Pradas.\""
+msgstr ""
+
+#: 00766:19
+
+msgid "{Daigo}\n\"Impossible.\""
+msgstr ""
+
+#: 00766:26
+
+msgid "{Pierre}\n\"What's something girls will love...Oh, that's it! How about flowers?\""
+msgstr ""
+
+#: 00766:29
+
+msgid "{Appo}\n\"Flowers? You think girls their age'll like flowers?\""
+msgstr ""
+
+#: 00766:30
+
+msgid "{Kazushi}\n\"That's a great idea!\nThink about it. Whenever you watch a TV drama, they always give the woman flowers.\""
+msgstr ""
+
+#: 00766:33
+
+msgid "{Daigo}\n\"We can pick some flowers from just about anywhere on the island, right?\""
+msgstr ""
+
+#: 00766:34
+
+msgid "{Kazushi}\n\"Flowers...flowers...Oh yeah!\""
+msgstr ""
+
+#: 00766:41
+
+msgid "I finally remembered. That place was loaded with flowers in bloom. Heck, that's when they first bloomed."
+msgstr ""
+
+#: 00766:42
+
+msgid "The flowers were mysterious, but they were beautiful."
+msgstr ""
+
+#: 00766:53
+
+msgid "{Kazushi}\n\"I know a good spot! They're pretty rare flowers. I'm positive the girls will love them.\""
+msgstr ""
+
+#: 00766:56
+
+msgid "{Appo}\n\"Alright! Then let's go picking!\""
+msgstr ""
+
+#: 00766:57
+
+msgid "{Pierre}\n\"Hold on, it's late at night. I don't know where they're blooming, but it's dangerous to wander around this island.\""
+msgstr ""
+
+#: 00766:58
+
+msgid "{Daigo}\n\"Besides, if we pick them tonight, they might wither by tomorrow.\""
+msgstr ""
+
+#: 00766:61
+
+msgid "{Appo}\n\"Then let's go tomorrow right before the party starts!\""
+msgstr ""
+
+#: 00766:64
+
+msgid "{Pierre}\n\"Are you sure there are enough for all of the girls? I'd feel bad if there were any girls who didn't receive any.\""
+msgstr ""
+
+#: 00766:65
+
+msgid "{Kazushi}\n\"Don't worry, they were everywhere. Though if we're going to pick enough flowers for all the girls, we'll need tools.\""
+msgstr ""
+
+#: 00766:68
+
+msgid "{Appo}\n\"Let's knock those girls off their feet tomorrow! I bet they'll never be expecting a surprise like this!\""
+msgstr ""
+
+#: 00766:69
+
+msgid "{Pierre}\n\"Guys, we can't tell anyone about this until we reveal the surprise tomorrow night, OK?\""
+msgstr ""
+
+#: 00766:70
+
+msgid "Everyone nodded in agreement as their eyes lit up with excitement. I can't wait for tomorrow!"
+msgstr ""
+
+#: 00766:77
+
+msgid "{Principal}\n\"Today, we are here to host a humble welcoming party for all of our new friends!\""
+msgstr ""
+
+#: 00766:78
+
+msgid "The principal began her welcome speech. The area was suitably decorated with folded paper accents."
+msgstr ""
+
+#: 00766:81
+
+msgid "{Principal}\n\"There's plenty of food and drink, so eat up and enjoy yourselves. There are some alcoholic beverages as well, but keep it in moderation, OK?\""
+msgstr ""
+
+#: 00766:85
+
+msgid "{Kazushi}\n\"Does she mean liquor?\""
+msgstr ""
+
+#: 00766:86
+
+msgid "{Pierre}\n\"I think so.\""
+msgstr ""
+
+#: 00766:87
+
+msgid "The girls took this at face value. It seemed like it wasn't unusual for students to drink alcohol here."
+msgstr ""
+
+#: 00766:93
+
+msgid "{Appo}\n\"Wow. They serve alcohol at a school party?\""
+msgstr ""
+
+#: 00766:94
+
+msgid "{Daigo}\n\"Is it alright to drink liquor at school?\""
+msgstr ""
+
+#: 00766:99
+
+msgid "{Mei}\n\"This is an alchemy school. They say the process of brewing distilled liquor began from the refining process used in alchemy.\""
+msgstr ""
+
+#: 00766:100
+
+msgid "Mei-sensei gave us that lesson as she stood with the other teachers."
+msgstr ""
+
+#: 00766:101
+
+msgid "{Mei}\n\"Alchemy and alcohol are inseparable. One could say that an alchemist needs to at least be able to control alcohol.\""
+msgstr ""
+
+#: 00766:102
+
+msgid "{Kazushi}\n\"Oh, that's why.\""
+msgstr ""
+
+#: 00766:108
+
+msgid "{Pierre}\n\"Well, we should feel free to drink, then. That looks like the pricey booze over there.\""
+msgstr ""
+
+#: 00766:109
+
+msgid "{Daigo}\n\"Don't drink too much. You're all horrible drunks.\""
+msgstr ""
+
+#: 00766:110
+
+msgid "{Kazushi}\n\"Same to you, Daigo. We can't control you once you get loaded.\""
+msgstr ""
+
+#: 00766:113
+
+msgid "Everyone held a glass in anticipation of the toast. Most of the girls had juice, but we had liquor. The presence of liquor alone helped make things fun."
+msgstr ""
+
+#: 00766:116
+
+msgid "{Principal}\n\"From this day onward, may we all work together and become good friends. Cheers!\""
+msgstr ""
+
+#: 00766:119
+
+msgid "{Everybody}\n\"Cheers!\""
+msgstr ""
+
+#: 00766:120
+
+msgid "Everybody clinked each other's glasses."
+msgstr ""
+
+#: 00766:124
+
+msgid "{Pierre}\n\"Cheers! Hey, you're a cutie!\""
+msgstr ""
+
+#: 00766:125
+
+msgid "{Girl A}\n\"Ahaha, oh you. Cheers!\""
+msgstr ""
+
+#: 00766:127
+
+msgid "It was odd how at times like these, even girls who didn't tend to talk much became more open."
+msgstr ""
+
+#: 00766:132
+
+msgid "{Andou}\n\"Hmph! Look at them getting carried away.\""
+msgstr ""
+
+#: 00766:133
+
+msgid "{Fuusen}\n\"We'll leave them alone for today. This is the principal's party.\""
+msgstr ""
+
+#: 00766:134
+
+msgid "Even the mean girls aren't causing trouble for us with the principal on watch."
+msgstr ""
+
+#: 00766:141
+
+msgid "{Appo}\n\"While they're keeping quiet, I'm gonna go meet the other girls!\""
+msgstr ""
+
+#: 00766:142
+
+msgid "{Pierre}\n\"I'm going to go check out the girls from the next class. I'll tell you guys if I find any good ones!\""
+msgstr ""
+
+#: 00766:145
+
+msgid "{Appo}\n\"I'm gonna go ask two or three out.\""
+msgstr ""
+
+#: 00766:148
+
+msgid "Pierre and Appo are off to a good start."
+msgstr ""
+
+#: 00766:149
+
+msgid "{Kazushi}\n\"Are you going anywhere, Daigo?\""
+msgstr ""
+
+#: 00766:152
+
+msgid "{Daigo}\n\"I- I need to get myself a little more ready.\""
+msgstr ""
+
+#: 00766:153
+
+msgid "There were several empty glasses of brandy lined up. He was also looking a little green. The glass in his hand was shaking, too."
+msgstr ""
+
+#: 00766:154
+
+msgid "Daigo's not an alcoholic, he was just that nervous. His body may be big, but he had little courage."
+msgstr ""
+
+#: 00766:155
+
+msgid "{Kazushi}\n\"Just don't drink too much, okay? Once you start going wild, it's dangerous for us to try and stop you.\""
+msgstr ""
+
+#: 00766:156
+
+msgid "{Daigo}\n\"I-I k-k-k-know......\""
+msgstr ""
+
+#: 00766:157
+
+msgid "{Kazushi}\n\"Are you sure you're OK??\""
+msgstr ""
+
+#: 00766:159
+
+msgid "{Kazushi}\n\"Well, what should I do?\""
+msgstr ""
+
+#: 00766:160
+
+msgid "I looked around."
+msgstr ""
+
+#: 00766:161
+
+msgid "{Kazushi}\n\"Wow......\""
+msgstr ""
+
+#: 00766:162
+
+msgid "I was surprised to see that most of the boys were doing a good job of mingling with the girls. There were even a few who liked they were about to pair off and leave together."
+msgstr ""
+
+#: 00766:163
+
+msgid "{Kazushi}\n\"Alright! I'm not letting myself fall behind!\""
+msgstr ""
+
+#: 00766:164
+
+msgid "I need to find a girl to talk to me."
+msgstr ""
+

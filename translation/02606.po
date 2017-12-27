@@ -1,0 +1,3408 @@
+# Comments for '02606'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 02606:9
+
+msgid "{Mei}\n\"Since our final exams were invalidated due to that little incident, you guys are going to be tested in a different way this semester.\""
+msgstr ""
+
+#: 02606:10
+
+msgid "Everybody involved in the incident was called together. We were all fairly nervous, wondering what they were going to make us do."
+msgstr ""
+
+#: 02606:17
+
+msgid "{Andou}\n\"I'm really sorry, everybody.\""
+msgstr ""
+
+#: 02606:18
+
+msgid "{Fuusen}\n\"Hey, what's done is done.\nIt's behind us now.\""
+msgstr ""
+
+#: 02606:21
+
+msgid "{Andou}\n\"But......\""
+msgstr ""
+
+#: 02606:22
+
+msgid "She still seemed sorry about it."
+msgstr ""
+
+#: 02606:23
+
+msgid "{Kazushi}\n\"Oh well. At least now we don't have to take our finals. I'm not sure what they'll make us do, but let's listen.\""
+msgstr ""
+
+#: 02606:30
+
+msgid "{Pierre}\n\"Mei-chan, what are you going to have us do?\""
+msgstr ""
+
+#: 02606:33
+
+msgid "{Mei}\n\"It's quite easy, actually. You're going to watch over the flames in this furnace.\""
+msgstr ""
+
+#: 02606:35
+
+msgid "Mei-sensei pointed to a proper furnace, much larger than the burner we used in our experiments. The flames were already burning strong."
+msgstr ""
+
+#: 02606:39
+
+msgid "{Mizuki}\n\"What's this?\""
+msgstr ""
+
+#: 02606:40
+
+msgid "{Mei}\n\"This is the principal's furnace. You're under strict instruction to make sure the fire stays lit all day and night.\""
+msgstr ""
+
+#: 02606:44
+
+msgid "{Fuusen}\n\"All day and night? She just wants us to watch the fire?\""
+msgstr ""
+
+#: 02606:47
+
+msgid "{Mei}\n\"Correct. I know it's hot in here, but this is the task the Principal has assigned you in place of your exams.\""
+msgstr ""
+
+#: 02606:48
+
+msgid "{Kazushi}\n\"Make sure it keeps burning all day...\""
+msgstr ""
+
+#: 02606:49
+
+msgid "If all we have to do is tend the fire, it MEI...er...may take a while, but that's a lot easier."
+msgstr ""
+
+#: 02606:53
+
+msgid "{Mei}\n\"You can't just stare at it, though. You have to take care of it should anything happen.\""
+msgstr ""
+
+#: 02606:61
+
+msgid "{Sakura}\n\"It's the principal's, right? That sounds difficult.\""
+msgstr ""
+
+#: 02606:64
+
+msgid "{Ran}\n\"I don't think I'll be much use here. Can I just go back to sleep?\""
+msgstr ""
+
+#: 02606:67
+
+msgid "{Rin}\n\"No. We have to do this together.\""
+msgstr ""
+
+#: 02606:73
+
+msgid "{Andou}\n\"Umm...if it's just watching the furnace, I can do it by myself.\""
+msgstr ""
+
+#: 02606:74
+
+msgid "Big Andou stood up and told us that she didn't need our help."
+msgstr ""
+
+#: 02606:75
+
+msgid "I could tell that she still felt responsible for making us go through all this."
+msgstr ""
+
+#: 02606:80
+
+msgid "{Mizuki}\n\"You never know what might happen.\nYou shouldn't face this on your own.\""
+msgstr ""
+
+#: 02606:84
+
+msgid "{Rin}\n\"She's right. And we have to watch it at night too, so you wouldn't be able to sleep if you were alone.\""
+msgstr ""
+
+#: 02606:88
+
+msgid "{Fuusen}\n\"Well, I'll stay with her.\nI'm also responsible for this mess.\""
+msgstr ""
+
+#: 02606:92
+
+msgid "{Andou}\n\"Kazuko-chan...\""
+msgstr ""
+
+#: 02606:97
+
+msgid "{Appo}\n\"Why don't we all just stick together? No one's against it, right?\""
+msgstr ""
+
+#: 02606:98
+
+msgid "Everyone agreed with Appo."
+msgstr ""
+
+#: 02606:101
+
+msgid "{Appo}\n\"All right, then.\""
+msgstr ""
+
+#: 02606:106
+
+msgid "{Fuusen}\n\"Thanks, Ah-chan.\""
+msgstr ""
+
+#: 02606:107
+
+msgid "Their relationship seemed to be doing just fine."
+msgstr ""
+
+#: 02606:112
+
+msgid "{Haruka}\n\"Let's do it!\""
+msgstr ""
+
+#: 02606:113
+
+msgid "{Kazushi}\n\"Yeah!\n...wait a second...\""
+msgstr ""
+
+#: 02606:115
+
+msgid "Something's not right here."
+msgstr ""
+
+#: 02606:118
+
+msgid "{Mizuki}\n\"Hey, Haruka. What are you doing here?\""
+msgstr ""
+
+#: 02606:125
+
+msgid "{Haruka}\n\"Um......\""
+msgstr ""
+
+#: 02606:126
+
+msgid "{Kazushi}\n\"I don't recall you being a part of this.\""
+msgstr ""
+
+#: 02606:127
+
+msgid "She had nothing to do with it, right? This time it was our problem, and she hadn't even been there during the theft."
+msgstr ""
+
+#: 02606:130
+
+msgid "{Haruka}\n\"What's wrong, everybody?\""
+msgstr ""
+
+#: 02606:131
+
+msgid "{Kazushi}\n\"We're all wondering what you're doing here.\""
+msgstr ""
+
+#: 02606:135
+
+msgid "{Mei}\n\"Aozora-san, you're being too brazen.\""
+msgstr ""
+
+#: 02606:138
+
+msgid "{Haruka}\n\"Huh? What's with this mood? Am I at an away game?\""
+msgstr ""
+
+#: 02606:139
+
+msgid "She doesn't seem to understand why everyone was focused on her."
+msgstr ""
+
+#: 02606:140
+
+msgid "{Mei}\n\"Aren't you supposed to be in your own homeroom right now? You should get back before Yagami-sensei gets angry.\""
+msgstr ""
+
+#: 02606:143
+
+msgid "{Haruka}\n\"You don't have to worry about that!\nI placed a big puppet that looks just like me at my desk. Please continue.\""
+msgstr ""
+
+#: 02606:148
+
+msgid "{Daigo}\n\"A puppet?\""
+msgstr ""
+
+#: 02606:149
+
+msgid "{Kazushi}\n\"What is she thinking?\""
+msgstr ""
+
+#: 02606:155
+
+msgid "{Sakura}\n\"Harunyan's always so spontaneous. She brightens up our day.\""
+msgstr ""
+
+#: 02606:156
+
+msgid "{Pierre}\n\"I guess that's one way to look at it.\""
+msgstr ""
+
+#: 02606:161
+
+msgid "{Haruka}\n\"How come you guys didn't tell me what happened? I thought you were my friends!\""
+msgstr ""
+
+#: 02606:166
+
+msgid "{Andou}\n\"We didn't want to cause you problems too, Haruka-chan.\""
+msgstr ""
+
+#: 02606:167
+
+msgid "{Haruka}\n\"That's what friends are for. Kazushi-kun, please tell me I can help you guys.\""
+msgstr ""
+
+#: 02606:171
+
+msgid "She looked at me with puppy-dog eyes."
+msgstr ""
+
+#: 02606:172
+
+msgid "{Kazushi}\n\"Why are you asking me?\nI can't decide what you're supposed to do.\""
+msgstr ""
+
+#: 02606:173
+
+msgid "{Haruka}\n\"You guys know how hard it is to keep that fire burning, right?\nYou have to react instantly when it changes.\""
+msgstr ""
+
+#: 02606:176
+
+msgid "{Haruka}\n\"See, my grandma's had me doing this ever since I was a little kid, so I know what to do. I could be a big help to you guys.\""
+msgstr ""
+
+#: 02606:177
+
+msgid "That was pretty persuasive. Everybody in our class knew that she was the best alchemy student at the academy. She'd definitely be a big help for us."
+msgstr ""
+
+#: 02606:183
+
+msgid "{Fuusen}\n\"It'd be great if we could have you helping us out.\nThis is one task we can't risk failing.\""
+msgstr ""
+
+#: 02606:186
+
+msgid "{Mizuki}\n\"We'd definitely appreciate your help.\nBut are you sure you can skive off your own exams?\""
+msgstr ""
+
+#: 02606:191
+
+msgid "{Haruka}\n\"Don't worry!\nI'm the principal's granddaughter!\""
+msgstr ""
+
+#: 02606:196
+
+msgid "{Pierre}\n\"Oh, there it is. Her abuse of power!\""
+msgstr ""
+
+#: 02606:199
+
+msgid "{Haruka}\n\"Please let me help them, Mei-chan.\""
+msgstr ""
+
+#: 02606:203
+
+msgid "{Mei}\n\"......all right.\""
+msgstr ""
+
+#: 02606:206
+
+msgid "Mei-sensei let out a big sigh and gave up."
+msgstr ""
+
+#: 02606:212
+
+msgid "*burncracklecrackle*"
+msgstr ""
+
+#: 02606:213
+
+msgid "We've all kept an ear out for the crackling of the fire. It's been a few hours since we started, but nothing's happened so far."
+msgstr ""
+
+#: 02606:222
+
+msgid "{Ran}\n\"Nothing's happening. Have we failed already?\""
+msgstr ""
+
+#: 02606:223
+
+msgid "{Rin}\n\"I don't think anything will happen so soon. After all, they told us to watch it all day.\""
+msgstr ""
+
+#: 02606:226
+
+msgid "{Mizuki}\n\"It's only been three hours, hasn't it? This is going to be a long day.\""
+msgstr ""
+
+#: 02606:234
+
+msgid "{Haruka}\n\"Let's play a word game.\""
+msgstr ""
+
+#: 02606:235
+
+msgid "{Sakura}\n\"We did that in the beginning.\""
+msgstr ""
+
+#: 02606:236
+
+msgid "At first we all chatted and had a good time, but the conversation had slowed down and was nearly gone now. Everyone was already bored."
+msgstr ""
+
+#: 02606:239
+
+msgid "Many of our classmates were spacing out. On top of boredom setting in, it was very hot in the classroom."
+msgstr ""
+
+#: 02606:242
+
+msgid "{Haruka}\n\"Huh...?\""
+msgstr ""
+
+#: 02606:243
+
+msgid "Haruka's voice broke the silence and everyone looked at her."
+msgstr ""
+
+#: 02606:248
+
+msgid "{Mizuki}\n\"What's wrong?\""
+msgstr ""
+
+#: 02606:251
+
+msgid "{Haruka}\n\"There's something wrong with my eyes.\""
+msgstr ""
+
+#: 02606:252
+
+msgid "Haruka rubbed at her eyelids as if her vision was foggy."
+msgstr ""
+
+#: 02606:256
+
+msgid "{Rin}\n\"You shouldn't rub them too much. Why don't you go wash them out?\""
+msgstr ""
+
+#: 02606:259
+
+msgid "{Haruka}\n\"Good idea. Maybe I should.\""
+msgstr ""
+
+#: 02606:260
+
+msgid "{Kazushi}\n\"Maybe you're tired. Are you getting enough sleep?\""
+msgstr ""
+
+#: 02606:261
+
+msgid "{Haruka}\n\"No, I don't think that's it...\""
+msgstr ""
+
+#: 02606:262
+
+msgid "I wondered what else it could be, but I forgot to ask."
+msgstr ""
+
+#: 02606:265
+
+msgid "*taptap*"
+msgstr ""
+
+#: 02606:266
+
+msgid "{Kazushi}\n\"Eh?\""
+msgstr ""
+
+#: 02606:267
+
+msgid "Somebody tapped my shoulder."
+msgstr ""
+
+#: 02606:268
+
+msgid "{Kazushi}\n\"Huh? Who was that?\""
+msgstr ""
+
+#: 02606:269
+
+msgid "There wasn't anybody between me and the wall. There wasn't even room for someone to sneak by."
+msgstr ""
+
+#: 02606:272
+
+msgid "{Mizuki}\n\"What's wrong?\""
+msgstr ""
+
+#: 02606:273
+
+msgid "The only person next to me is Mizuki. Is she trying to tease me?"
+msgstr ""
+
+#: 02606:274
+
+msgid "{Kazushi}\n\"...you tapped my back just now, right?\""
+msgstr ""
+
+#: 02606:277
+
+msgid "{Mizuki}\n\"Huh? Why would I do that?\""
+msgstr ""
+
+#: 02606:278
+
+msgid "{Kazushi}\n\"It wasn't you?\nThen who was it?\""
+msgstr ""
+
+#: 02606:283
+
+msgid "{Ran}\n\"What? Is Mizuki making a move on Kazushi?\""
+msgstr ""
+
+#: 02606:286
+
+msgid "{Mizuki}\n\"No, I'm not!\""
+msgstr ""
+
+#: 02606:293
+
+msgid "{Rin}\n\"You're always quick to get angry. That's why people tease you.\""
+msgstr ""
+
+#: 02606:296
+
+msgid "{Mizuki}\n\"Are you teasing me?\""
+msgstr ""
+
+#: 02606:299
+
+msgid "{Ran}\n\"Don't go pulling your moves on my Kazushi!\""
+msgstr ""
+
+#: 02606:300
+
+msgid "{Kazushi}\n\"'Your' Kazushi?\""
+msgstr ""
+
+#: 02606:304
+
+msgid "{Haruka}\n\"'Your' Kazushi?\nWhat's that supposed to mean?\""
+msgstr ""
+
+#: 02606:307
+
+msgid "{Ran}\n\"Nothing, really.\""
+msgstr ""
+
+#: 02606:315
+
+msgid "{Sakura}\n\"Sounds suspicious.\""
+msgstr ""
+
+#: 02606:316
+
+msgid "{Fuusen}\n\"Hey, are Ran and Haruma-kun...\""
+msgstr ""
+
+#: 02606:317
+
+msgid "The girls broke into their everyday gossip and chitchat."
+msgstr ""
+
+#: 02606:320
+
+msgid "*taptap*"
+msgstr ""
+
+#: 02606:323
+
+msgid "It happened again.\nThis time, though, it was Appo."
+msgstr ""
+
+#: 02606:324
+
+msgid "{Kazushi}\n\"Hey! Was it you who did that last time, too?\""
+msgstr ""
+
+#: 02606:325
+
+msgid "{Appo}\n\"Whaddaya mean, last time?\nHey, so which is it?\""
+msgstr ""
+
+#: 02606:326
+
+msgid "{Kazushi}\n\"What do you mean?\""
+msgstr ""
+
+#: 02606:331
+
+msgid "{Pierre}\n\"He means which girl, of course. Which one are you gunning for? You've already got your targets set, right?\""
+msgstr ""
+
+#: 02606:332
+
+msgid "{Kazushi}\n\"Huh? What targets?\""
+msgstr ""
+
+#: 02606:339
+
+msgid "{Daigo}\n\"You know summer break's coming up, right?\""
+msgstr ""
+
+#: 02606:342
+
+msgid "{Pierre}\n\"I know. You need to decide now, or you won't be able to have a meaningful summer.\""
+msgstr ""
+
+#: 02606:343
+
+msgid "{Appo}\n\"And what's the point of coming to this island academy if you don't?\""
+msgstr ""
+
+#: 02606:344
+
+msgid "{Kazushi}\n\"You think? Summer, huh? Well...\""
+msgstr ""
+
+#: 02606:345
+
+msgid "I kind of do need to find a girlfriend if I want to make any summer memories. I don't have much time left to make that happen either..."
+msgstr ""
+
+#: 02606:348
+
+msgid "{Pierre}\n\"At least tell us which one you're interested in.\""
+msgstr ""
+
+#: 02606:349
+
+msgid "{Kazushi}\n\"Which one I'm interested in, huh? It's kind of sudden...\""
+msgstr ""
+
+#: 02606:350
+
+msgid "To tell you the truth, I was happy enough just being surrounded by pretty girls every day after moving to the island."
+msgstr ""
+
+#: 02606:353
+
+msgid "{Appo}\n\"Well, you take your time and get it right. Just make sure you don't regret your decision later on.\""
+msgstr ""
+
+#: 02606:354
+
+msgid "{Kazushi}\n\"I will.\""
+msgstr ""
+
+#: 02606:358
+
+msgid "It's been a lot of fun just carrying on with everyone as is, but I guess it'd be more fun with a girlfriend."
+msgstr ""
+
+#: 02606:359
+
+msgid "But I'd sure like to take the next step towards becoming a man."
+msgstr ""
+
+#: 02606:362
+
+msgid "Next thing I knew, Haruka was standing right in front of me. Staring at me."
+msgstr ""
+
+#: 02606:363
+
+msgid "{Kazushi}\n\"Hey......\""
+msgstr ""
+
+#: 02606:364
+
+msgid "{Haruka}\n\"You piss me off, Haruma.\""
+msgstr ""
+
+#: 02606:365
+
+msgid "{Kazushi}\n\"What......?\""
+msgstr ""
+
+#: 02606:366
+
+msgid "I piss her off? Why?"
+msgstr ""
+
+#: 02606:367
+
+msgid "{Kazushi}\n\"Hey, Haruka...\""
+msgstr ""
+
+#: 02606:368
+
+msgid "Is this really Haruka?\nShe sure looks like Haruka...\nBut..."
+msgstr ""
+
+#: 02606:373
+
+msgid "{Pierre}\n\"What's wrong, Haruka-chan?\""
+msgstr ""
+
+#: 02606:376
+
+msgid "{Haruka}\n\"...huh? What am I doing?\""
+msgstr ""
+
+#: 02606:377
+
+msgid "Haruka looked around as if she just snapped back to herself."
+msgstr ""
+
+#: 02606:381
+
+msgid "{Daigo}\n\"You said that Kazushi pissed you off.\""
+msgstr ""
+
+#: 02606:384
+
+msgid "{Haruka}\n\"Huh? I never said that!\""
+msgstr ""
+
+#: 02606:388
+
+msgid "{Appo}\n\"Yes, you did. You said, 'You piss me off, you fuck-less virgin. You reek of cum.'\""
+msgstr ""
+
+#: 02606:391
+
+msgid "{Haruka}\n\"N-no way...\""
+msgstr ""
+
+#: 02606:392
+
+msgid "{Kazushi}\n\"He's lying. There's no way you'd say that.\""
+msgstr ""
+
+#: 02606:393
+
+msgid "But that wasn't like her at all.\nInstead she sounded like somebody else I knew..."
+msgstr ""
+
+#: 02606:394
+
+msgid "{Kazushi}\n\"I can't remember who she resembled just then...\""
+msgstr ""
+
+#: 02606:398
+
+msgid "{Haruka}\n\"I must have blacked out for a moment. What's wrong with me?\""
+msgstr ""
+
+#: 02606:399
+
+msgid "Haruka tilted her head in confusion. Thinking back on it now, this is probably when things started becoming odd."
+msgstr ""
+
+#: 02606:400
+
+msgid "{Haruka}\n\"Something is definitely wrong with me.\""
+msgstr ""
+
+#: 02606:401
+
+msgid "{Kazushi}\n\"I feel the same way.\nDo you have any idea what it might be?\""
+msgstr ""
+
+#: 02606:402
+
+msgid "{Haruka}\n\"Hmm, I can't explain it. I'm not quite sure...\""
+msgstr ""
+
+#: 02606:403
+
+msgid "Haruka could tell something was odd, but she was worried by not being able to identify it."
+msgstr ""
+
+#: 02606:410
+
+msgid "{Mizuki}\n\"It's finally getting dark.\""
+msgstr ""
+
+#: 02606:411
+
+msgid "The first half was finally over. There had been several odd occurrences, but no accidents so far."
+msgstr ""
+
+#: 02606:415
+
+msgid "{Ran}\n\"Hey, sitting around like this is making me sleepy. Someone tell an eye-opening story.\""
+msgstr ""
+
+#: 02606:416
+
+msgid "Ran's running low on energy."
+msgstr ""
+
+#: 02606:417
+
+msgid "{Kazushi}\n\"An eye-opening story, huh?\""
+msgstr ""
+
+#: 02606:423
+
+msgid "{Haruka}\n\"Hey, Kazuko, Appo-kun, what did you two like about each other?\""
+msgstr ""
+
+#: 02606:426
+
+msgid "{Pierre}\n\"That's supposed to be eye-opening?\""
+msgstr ""
+
+#: 02606:433
+
+msgid "{Appo}\n\"That's boring. It's a very short story. I love everything about Fuu-chan.\""
+msgstr ""
+
+#: 02606:438
+
+msgid "Appo winked at Fuusen.\nFuusen gave him a shy smile in return."
+msgstr ""
+
+#: 02606:443
+
+msgid "{Sakura}\n\"That sure forced my eyes open...\""
+msgstr ""
+
+#: 02606:449
+
+msgid "{Fuusen}\n\"From my point of view, I can't help but wonder why the rest of you haven't fallen in love yet.\""
+msgstr ""
+
+#: 02606:452
+
+msgid "{Mizuki}\n\"There's no reason in particular. I'm just not interested...\""
+msgstr ""
+
+#: 02606:456
+
+msgid "{Rin}\n\"I'm interested. I just can't find a partner.\""
+msgstr ""
+
+#: 02606:460
+
+msgid "{Pierre}\n\"Pick me!\nI'll be your partner!\""
+msgstr ""
+
+#: 02606:463
+
+msgid "{Rin}\n\"Huh? ...That would be troublesome.\""
+msgstr ""
+
+#: 02606:466
+
+msgid "{Pierre}\n\"It'd be troublesome...\""
+msgstr ""
+
+#: 02606:470
+
+msgid "{Daigo}\n\"It's OK, Pierre, we've all been there. Once, a long time ago, a girl told me to stop looking at her because it made her feel itchy.\""
+msgstr ""
+
+#: 02606:473
+
+msgid "{Pierre}\n\"No, that's not the same! That's not the same at all!\""
+msgstr ""
+
+#: 02606:480
+
+msgid "{Appo}\n\"You guys should take advantage of how we've been fated to meet on this island and love each other.\""
+msgstr ""
+
+#: 02606:481
+
+msgid "{Fuusen}\n\"When I'm being loved by Ah-chan, I really feel the pleasure of being a woman. I wonder why no one else is doing such a great thing?\""
+msgstr ""
+
+#: 02606:486
+
+msgid "{Mizuki}\n\"Argh, jeez! You're talking about doing it, aren't you?!\""
+msgstr ""
+
+#: 02606:487
+
+msgid "{Kazushi}\n\"You know, I'm not sure?\""
+msgstr ""
+
+#: 02606:491
+
+msgid "{Andou}\n\"Sharing love with a man...\""
+msgstr ""
+
+#: 02606:492
+
+msgid "Andou's sexy gaze creeped up my spine."
+msgstr ""
+
+#: 02606:495
+
+msgid "{Andou}\n\"Does such a man exist who can satisfy me?\""
+msgstr ""
+
+#: 02606:500
+
+msgid "{Daigo}\n\"No way. It's impossible.\""
+msgstr ""
+
+#: 02606:507
+
+msgid "{Pierre}\n\"I'd rather be with Rin-chan...\""
+msgstr ""
+
+#: 02606:510
+
+msgid "{Rin}\n\"Huh? That'd be troublesome.\""
+msgstr ""
+
+#: 02606:517
+
+msgid "{Ran}\n\"Rejected!\""
+msgstr ""
+
+#: 02606:518
+
+msgid "{Rin}\n\"I didn't mean to hurt him......\""
+msgstr ""
+
+#: 02606:524
+
+msgid "{Sakura}\n\"Gotcha!\""
+msgstr ""
+
+#: 02606:527
+
+msgid "*FLIP!*"
+msgstr ""
+
+#: 02606:530
+
+msgid "{Rin}\n\"AH!\""
+msgstr ""
+
+#: 02606:532
+
+msgid "Sakura made a sudden move to flip up Fujisaki-san's skirt. Rin's sexy panties were exposed for all to see."
+msgstr ""
+
+#: 02606:533
+
+msgid "{Kazushi}\n\"......wow!\""
+msgstr ""
+
+#: 02606:538
+
+msgid "{Rin}\n\"What are you doing!?\""
+msgstr ""
+
+#: 02606:541
+
+msgid "{Sakura}\n\"Well, it seemed like the right mood for it.\""
+msgstr ""
+
+#: 02606:542
+
+msgid "{Rin}\n\"There was no such mood. Sakura, you're too impulsive!\""
+msgstr ""
+
+#: 02606:547
+
+msgid "{Ran}\n\"I'm about to hit my limit.\nHow should we handle sleeping tonight?\""
+msgstr ""
+
+#: 02606:548
+
+msgid "Somebody has to stay awake to keep watch over the fire. We need to come up with a schedule."
+msgstr ""
+
+#: 02606:552
+
+msgid "{Sakura}\n\"We're sleeping in shifts, right? But what about the order?\""
+msgstr ""
+
+#: 02606:556
+
+msgid "{Ran}\n\"How about we break it down by girls and boys?\nGirls first.\""
+msgstr ""
+
+#: 02606:558
+
+msgid "As soon as the words left Ran's mouth, she covered herself up with a towel and fell asleep."
+msgstr ""
+
+#: 02606:559
+
+msgid "{Kazushi}\n\"I don't mind.\""
+msgstr ""
+
+#: 02606:562
+
+msgid "{Haruka}\n\"Okay, then we'll have the girls nap first? Is a three hour shift good?\""
+msgstr ""
+
+#: 02606:566
+
+msgid "{Pierre}\n\"Sounds good to us. We shouldn't have a problem staying up for three more hours.\""
+msgstr ""
+
+#: 02606:567
+
+msgid "{Kazushi}\n\"All right. You girls go ahead and sleep. We'll wake you up in three hours.\""
+msgstr ""
+
+#: 02606:568
+
+msgid "{Ran}\n\"Zzz......zzz...\""
+msgstr ""
+
+#: 02606:569
+
+msgid "One was already sleeping."
+msgstr ""
+
+#: 02606:575
+
+msgid "{Mizuki}\n\"But......\""
+msgstr ""
+
+#: 02606:576
+
+msgid "Mizuki had something to say."
+msgstr ""
+
+#: 02606:577
+
+msgid "{Sakura}\n\"What is it?\""
+msgstr ""
+
+#: 02606:578
+
+msgid "{Mizuki}\n\"I don't feel so comfortable......\""
+msgstr ""
+
+#: 02606:579
+
+msgid "She doesn't feel comfortable sleeping in front of us boys."
+msgstr ""
+
+#: 02606:583
+
+msgid "{Rin}\n\"Ah, you're right. It's a little disconcerting. It would be embarrassing if they watched us sleep...\""
+msgstr ""
+
+#: 02606:587
+
+msgid "{Sakura}\n\"That and they might try and rape us in our sleep too.\""
+msgstr ""
+
+#: 02606:590
+
+msgid "{Mizuki}\n\"I didn't say that...\""
+msgstr ""
+
+#: 02606:591
+
+msgid "That was probably her real fear, though. Knowing these guys, I couldn't blame her at all."
+msgstr ""
+
+#: 02606:593
+
+msgid "{Kazushi}\n\"How about we split it half and half between the girls and guys?\nThat way half of you can stay awake and keep your eyes on us?\""
+msgstr ""
+
+#: 02606:599
+
+msgid "{Pierre}\n\"We're still so not trusted!\""
+msgstr ""
+
+#: 02606:603
+
+msgid "{Mizuki}\n\"I'm sorry. It's not that we're doubting you; it's just that it's our first time doing it.\""
+msgstr ""
+
+#: 02606:604
+
+msgid "{Kazushi}\n\"No worries. You guys go ahead and split into two groups.\""
+msgstr ""
+
+#: 02606:608
+
+msgid "{Haruka}\n\"How about......\""
+msgstr ""
+
+#: 02606:610
+
+msgid "The girls formed a huddle and discussed the arrangements amongst themselves. For the boys, Daigo and Appo were going to sleep first."
+msgstr ""
+
+#: 02606:611
+
+msgid "Since Appo was going to sleep first, it was only natural that Fuusen would go to sleep as well for the girls. The rest of the teams were decided fairly easily after that."
+msgstr ""
+
+#: 02606:614
+
+msgid "{Haruka}\n\"All right, you guys go ahead and sleep.\""
+msgstr ""
+
+#: 02606:615
+
+msgid "Haruka, Mizuki, Sakura, and Rin were assigned to stay awake for the first shift. Ran, Fuusen, and Andou were going to sleep first."
+msgstr ""
+
+#: 02606:621
+
+msgid "{Fuusen}\n\"Good night. Ah-chan, come sleep with me.\""
+msgstr ""
+
+#: 02606:624
+
+msgid "{Appo}\n\"Sure! I'm not going to let you sleep tonight!\""
+msgstr ""
+
+#: 02606:629
+
+msgid "{Pierre}\n\"Then what's the point?! You two better not dare try and do something here.\""
+msgstr ""
+
+#: 02606:635
+
+msgid "{Fuusen}\n\"Ahhn! Ah-chan. Slide over there a little.\""
+msgstr ""
+
+#: 02606:638
+
+msgid "{Appo}\n\"Heh, heh, heh...\""
+msgstr ""
+
+#: 02606:643
+
+msgid "{Daigo}\n\"I don't trust them.\""
+msgstr ""
+
+#: 02606:644
+
+msgid "We should keep our eyes on them."
+msgstr ""
+
+#: 02606:648
+
+msgid "{Andou}\n\"I'm a light sleeper. I'll find out if you even try anything.\""
+msgstr ""
+
+#: 02606:649
+
+msgid "Her statement made it clear that she wasn't going to lower her guard, even when she was asleep."
+msgstr ""
+
+#: 02606:654
+
+msgid "{Pierre}\n\"We won't. It'll never happen. I swear to god, so please rest peacefully.\""
+msgstr ""
+
+#: 02606:657
+
+msgid "{Andou}\n\"That's so rude.\""
+msgstr ""
+
+#: 02606:660
+
+msgid "As the first group prepared for bed, those of us in the second group formed a circle around the furnace. It had gotten colder as night fell, so the flames weren't too bad."
+msgstr ""
+
+#: 02606:663
+
+msgid "{Rin}\n\"Oh, right. I should put on some coffee. You all want some, right?\""
+msgstr ""
+
+#: 02606:665
+
+msgid "Fujisaki-san offered to make some coffee for us. Pierre stood up to go help her."
+msgstr ""
+
+#: 02606:668
+
+msgid "{Pierre}\n\"Let me help you.\nI'm good at making coffee.\""
+msgstr ""
+
+#: 02606:670
+
+msgid "They started boiling some water in front of us using a small burner. The rest of us watched them working together alongside the big furnace."
+msgstr ""
+
+#: 02606:673
+
+msgid "{Haruka}\n\"This is so romantic. It's like we've all gone camping in here.\""
+msgstr ""
+
+#: 02606:674
+
+msgid "We could see our shadows dancing on the walls as the fire flickered in the darkness. Our shadows were moving so much, it was as if they became living creatures."
+msgstr ""
+
+#: 02606:678
+
+msgid "{Sakura}\n\"Oh hey, why don't we go camping during summer break?\""
+msgstr ""
+
+#: 02606:679
+
+msgid "{Kazushi}\n\"That's right! It's almost break time, isn't it?\""
+msgstr ""
+
+#: 02606:680
+
+msgid "We've got a month long break on an island surrounded by the ocean."
+msgstr ""
+
+#: 02606:684
+
+msgid "{Pierre}\n\"I wanna go to the beach!\""
+msgstr ""
+
+#: 02606:685
+
+msgid "Pierre couldn't help but get excited as he poured hot water into the percolator."
+msgstr ""
+
+#: 02606:688
+
+msgid "{Pierre}\n(We need to make them wear bikinis.)"
+msgstr ""
+
+#: 02606:689
+
+msgid "We could read each other's lips.\nI couldn't have agreed with him more."
+msgstr ""
+
+#: 02606:691
+
+msgid "{Kazushi}\n\"The beach sounds great. Why don't we all go?\""
+msgstr ""
+
+#: 02606:696
+
+msgid "{Mizuki}\n\"I'm down for that! There's no better way to spend your summer than swimming at the beach.\""
+msgstr ""
+
+#: 02606:699
+
+msgid "{Sakura}\n\"You go swimming all year round anyways. But I'm down for it, too! I already ordered a new swimsuit and everything.\""
+msgstr ""
+
+#: 02606:703
+
+msgid "{Rin}\n\"You did? When?\""
+msgstr ""
+
+#: 02606:707
+
+msgid "{Haruka}\n\"What should I do? I've only got my school swimsuit.\""
+msgstr ""
+
+#: 02606:712
+
+msgid "{Boys}\n\"We like school swimsuits!\""
+msgstr ""
+
+#: 02606:713
+
+msgid "We didn't mean to reply in unison. The girls gave us cold looks."
+msgstr ""
+
+#: 02606:717
+
+msgid "{Mizuki}\n\"What was that? You like school swimsuits that much? You perverts.\""
+msgstr ""
+
+#: 02606:722
+
+msgid "{Pierre}\n\"We just like how they're a model of elegant simplicity.\""
+msgstr ""
+
+#: 02606:726
+
+msgid "{Rin}\n\"I've only got last year's swimsuit too. It's getting a bit tight around my breasts...\""
+msgstr ""
+
+#: 02606:731
+
+msgid "{Boys}\n\"That's even better!\""
+msgstr ""
+
+#: 02606:733
+
+msgid "Oops we did it again. The girls gave us cold looks."
+msgstr ""
+
+#: 02606:736
+
+msgid "{Mizuki}\n\"Should we call it off? I'm starting to feel scared about what they'll do if we go to the beach with them.\""
+msgstr ""
+
+#: 02606:737
+
+msgid "{Kazushi}\n\"You're killing us...\""
+msgstr ""
+
+#: 02606:742
+
+msgid "{Pierre}\n\"Come on, it's summer break!\nI promise it'll be fun!\""
+msgstr ""
+
+#: 02606:746
+
+msgid "{Sakura}\n\"I'm not sure.\""
+msgstr ""
+
+#: 02606:749
+
+msgid "I knew they weren't being serious about calling it off, but we even made a show of getting down on our knees and apologizing."
+msgstr ""
+
+#: 02606:750
+
+msgid "It was a very peaceful time around the furnace."
+msgstr ""
+
+#: 02606:753
+
+msgid "{Rin}\n\"Who needs milk and sugar?\""
+msgstr ""
+
+#: 02606:754
+
+msgid "We could smell the fragrant aroma of freshly brewed coffee. Steam was rising from several cups."
+msgstr ""
+
+#: 02606:759
+
+msgid "{Pierre}\n\"Let me go and fetch them.\""
+msgstr ""
+
+#: 02606:760
+
+msgid "Pierre flew away to get everything we were missing for the coffee."
+msgstr ""
+
+#: 02606:767
+
+msgid "{Sakura}\n\"He's such a gentleman.\""
+msgstr ""
+
+#: 02606:768
+
+msgid "{Mizuki}\n\"I'm sure he's got an ulterior motive.\""
+msgstr ""
+
+#: 02606:769
+
+msgid "{Kazushi}\n\"Hey, aren't there one too many cups here?\""
+msgstr ""
+
+#: 02606:770
+
+msgid "There were seven cups, but only six of us were awake."
+msgstr ""
+
+#: 02606:775
+
+msgid "{Rin}\n\"There are?\nWhy'd I do that?\""
+msgstr ""
+
+#: 02606:781
+
+msgid "{Haruka}\n\"This is turning into one of those ghost stories!\""
+msgstr ""
+
+#: 02606:782
+
+msgid "{Mizuki}\n\"Stop it......\""
+msgstr ""
+
+#: 02606:786
+
+msgid "{Pierre}\n\"It's fine! I'm going to have two cups, so don't mind getting your freak on.\""
+msgstr ""
+
+#: 02606:790
+
+msgid "{Sakura}\n\"I think you mixed your expressions up there.\""
+msgstr ""
+
+#: 02606:793
+
+msgid "*SLURP*"
+msgstr ""
+
+#: 02606:794
+
+msgid "The sound of us sipping coffee quietly echoed."
+msgstr ""
+
+#: 02606:795
+
+msgid "{Ran}\n\"Zzz...Zzz...\""
+msgstr ""
+
+#: 02606:796
+
+msgid "We could hear everyone else snoring as well as the chirping of the insects. Nothing was louder than a whisper, making for a very quiet night."
+msgstr ""
+
+#: 02606:798
+
+msgid "*FWOOM* *CRACKLE*"
+msgstr ""
+
+#: 02606:800
+
+msgid "The fire flared in the wind."
+msgstr ""
+
+#: 02606:801
+
+msgid "{Kazushi}\n\"Huh? Look at the fire!\""
+msgstr ""
+
+#: 02606:802
+
+msgid "The window had flown open. We thought it must have been because of the wind."
+msgstr ""
+
+#: 02606:803
+
+msgid "*FWOOM* *CRACKLE*"
+msgstr ""
+
+#: 02606:808
+
+msgid "{Haruka}\n\"Was that the wind?\""
+msgstr ""
+
+#: 02606:809
+
+msgid "{Sakura}\n\"You're right...\""
+msgstr ""
+
+#: 02606:810
+
+msgid "Everyone noticed it now. The fire in the furnace was growing stronger, and shaking like a living creature."
+msgstr ""
+
+#: 02606:813
+
+msgid "Our shadows were growing larger and continued flickering in the light. It looked somewhat terrifying."
+msgstr ""
+
+#: 02606:818
+
+msgid "{Rin}\n\"What's happening......?\""
+msgstr ""
+
+#: 02606:819
+
+msgid "Pierre and Fujisaki-san returned and joined us. We all stood frozen, watching the flames in the furnace."
+msgstr ""
+
+#: 02606:823
+
+msgid "{Sakura}\n\"It's not going to explode or anything, right?\""
+msgstr ""
+
+#: 02606:828
+
+msgid "Haruka was the one to ask about alchemy. We all gave her pleading glances and she thought for a moment."
+msgstr ""
+
+#: 02606:831
+
+msgid "{Haruka}\n\"I think it's progressing to the next stage.\""
+msgstr ""
+
+#: 02606:832
+
+msgid "Haruka carefully peered into the furnace and heaved a sigh of relief. I guess the refinement moved onto the next stage."
+msgstr ""
+
+#: 02606:833
+
+msgid "{Kazushi}\n\"Then we don't have to run away or make a quick escape, do we?\""
+msgstr ""
+
+#: 02606:836
+
+msgid "{Haruka}\n\"Umm, no......I don't think so.\""
+msgstr ""
+
+#: 02606:837
+
+msgid "She didn't sound very confident.\nFor some reason, she looked a little scared too."
+msgstr ""
+
+#: 02606:841
+
+msgid "{Rin}\n\"Is there something wrong?\""
+msgstr ""
+
+#: 02606:845
+
+msgid "{Haruka}\n\"No, there's nothing wrong...\nIt's just that this experiment...\""
+msgstr ""
+
+#: 02606:846
+
+msgid "Now she definitely looked scared. I wondered what the principal was trying to produce from this exercise?"
+msgstr ""
+
+#: 02606:852
+
+msgid "{Sakura}\n\"What? Are you saying we should run?\""
+msgstr ""
+
+#: 02606:853
+
+msgid "Sakura was already in position to make a quick dash. If she took off the shirt Mizuki had a hold of, she could fly right out of here."
+msgstr ""
+
+#: 02606:854
+
+msgid "{Mizuki}\n\"We have to stay and keep the fire going, remember?\""
+msgstr ""
+
+#: 02606:858
+
+msgid "{Rin}\n\"...but it's scary...\""
+msgstr ""
+
+#: 02606:859
+
+msgid "Haruka's anxiety was extremely contagious."
+msgstr ""
+
+#: 02606:864
+
+msgid "{Pierre}\n\"H-h-hey! Look!\""
+msgstr ""
+
+#: 02606:865
+
+msgid "That's why everybody freaked out, even by Pierre's squeaks."
+msgstr ""
+
+#: 02606:866
+
+msgid "{Kazushi}\n\"What now?\""
+msgstr ""
+
+#: 02606:867
+
+msgid "Pierre was staring at the back corner of the room. It was too far back for the fire's light to reach."
+msgstr ""
+
+#: 02606:870
+
+msgid "{Pierre}\n\"Over there......\""
+msgstr ""
+
+#: 02606:875
+
+msgid "{Mizuki}\n\"What is it?\""
+msgstr ""
+
+#: 02606:876
+
+msgid "{Pierre}\n\"I think I saw something walking over there.\""
+msgstr ""
+
+#: 02606:877
+
+msgid "Time froze around us for a split second."
+msgstr ""
+
+#: 02606:880
+
+msgid "{Mizuki}\n\"What!?\nWhy are you trying to freak us out?\""
+msgstr ""
+
+#: 02606:881
+
+msgid "Everyone's attention was focused on the back corner of the room. Shadows were dancing along the walls, and any of them could be mistaken for a person."
+msgstr ""
+
+#: 02606:885
+
+msgid "{Sakura}\n\"I don't see anything. You probably just saw your shadow or something.\""
+msgstr ""
+
+#: 02606:886
+
+msgid "{Kazushi}\n\"She's right. It was probably just your shadow.\""
+msgstr ""
+
+#: 02606:887
+
+msgid "{Pierre}\n\"No, that's not right... I'm sure I saw a small, expressionless girl with long hair walk by.\""
+msgstr ""
+
+#: 02606:891
+
+msgid "{Haruka}\n\"That's very specific. A small girl with long hair...\""
+msgstr ""
+
+#: 02606:896
+
+msgid "Now everyone was paying attention to Fujisaki-san. She was the only person in the room with long hair."
+msgstr ""
+
+#: 02606:899
+
+msgid "But Rin was the one who was most surprised."
+msgstr ""
+
+#: 02606:900
+
+msgid "{Rin}\n\"It wasn't me. You guys know I've been here the whole time.\""
+msgstr ""
+
+#: 02606:905
+
+msgid "{Sakura}\n\"You're right. You've been next to me all night.\""
+msgstr ""
+
+#: 02606:910
+
+msgid "{Pierre}\n\"Hey...does this school have a reputation for people seeing ghosts?\""
+msgstr ""
+
+#: 02606:911
+
+msgid "We felt the room's temperature plummet when Pierre mentioned the word \"ghost\"."
+msgstr ""
+
+#: 02606:912
+
+msgid "Everyone got quiet."
+msgstr ""
+
+#: 02606:918
+
+msgid "{Haruka}\n\"Well, there are a lot of stories, given this academy... but Alchemy and ghosts aren't the same.\""
+msgstr ""
+
+#: 02606:919
+
+msgid "{Mizuki}\n\"Could we PLEASE change the subject? It's late.\""
+msgstr ""
+
+#: 02606:922
+
+msgid "I guess Mizuki couldn't stand ghost stories in addition to dirty jokes."
+msgstr ""
+
+#: 02606:923
+
+msgid "She had a surprising amount of weaknesses."
+msgstr ""
+
+#: 02606:928
+
+msgid "{Mizuki}\n\"Rin, will you please come with me to the restroom?\""
+msgstr ""
+
+#: 02606:929
+
+msgid "Mizuki pulled Fujisaki-san by the arm."
+msgstr ""
+
+#: 02606:933
+
+msgid "{Sakura}\n\"Mizuki, are you trying to escape?\""
+msgstr ""
+
+#: 02606:936
+
+msgid "{Mizuki}\n\"No, I just really need to use the bathroom.\""
+msgstr ""
+
+#: 02606:940
+
+msgid "{Rin}\n\"Are you all right? You're shaking.\""
+msgstr ""
+
+#: 02606:941
+
+msgid "{Mizuki}\n\"I need to go to the restroom. Please.\""
+msgstr ""
+
+#: 02606:942
+
+msgid "{Rin}\n\"W-wait a second.\""
+msgstr ""
+
+#: 02606:946
+
+msgid "{Rin}\n\"Huh? It won't open?\""
+msgstr ""
+
+#: 02606:948
+
+msgid "She tried to open the door again, but the lab's heavy door wouldn't open for her."
+msgstr ""
+
+#: 02606:949
+
+msgid "{Mizuki}\n\"Why won't it open? Did someone lock the door?\""
+msgstr ""
+
+#: 02606:954
+
+msgid "{Haruka}\n\"That's impossible.\nYou can't lock these doors from the inside.\""
+msgstr ""
+
+#: 02606:958
+
+msgid "{Pierre}\n\"Then why won't it open?\""
+msgstr ""
+
+#: 02606:961
+
+msgid "{Haruka}\n\"I don't know......\""
+msgstr ""
+
+#: 02606:965
+
+msgid "Everybody was in shock. We all knew that something was definitely going terribly wrong."
+msgstr ""
+
+#: 02606:966
+
+msgid "But nobody had a solid enough grip on the situation to know what was going on..."
+msgstr ""
+
+#: 02606:969
+
+msgid "{Kazushi}\n\"It's so hot in here......\""
+msgstr ""
+
+#: 02606:970
+
+msgid "I broke out into a massive sweat. My shirt felt wet and clung to my chest, feeling disgusting."
+msgstr ""
+
+#: 02606:975
+
+msgid "{Sakura}\n\"It's gotten so hot all of a sudden.\""
+msgstr ""
+
+#: 02606:976
+
+msgid "{Rin}\n\"It has...\""
+msgstr ""
+
+#: 02606:977
+
+msgid "It wasn't just me. The room's temperature had definitely gone upwards in no time at all."
+msgstr ""
+
+#: 02606:978
+
+msgid "{Kazushi}\n\"Let's wake everyone up for now. We can think of what to do afterwards.\""
+msgstr ""
+
+#: 02606:983
+
+msgid "{Haruka}\n\"Yeah, that's a good idea.\""
+msgstr ""
+
+#: 02606:987
+
+msgid "{Pierre}\n\"Hey, Appo! Daigo! Wake up!\""
+msgstr ""
+
+#: 02606:991
+
+msgid "{Rin}\n\"Ran-chan! Kazuko-chan! Rei-chan! You need to wake up! Something's not right!\""
+msgstr ""
+
+#: 02606:993
+
+msgid "We yelled at the people sleeping in the back of the room. However, nobody seemed to get up."
+msgstr ""
+
+#: 02606:994
+
+msgid "{Kazushi}\n\"Hey guys! Wake up!\""
+msgstr ""
+
+#: 02606:995
+
+msgid "Something's wrong. I got the feeling there wasn't anybody back there to wake up."
+msgstr ""
+
+#: 02606:996
+
+msgid "I stood on tip-toe to look over to them."
+msgstr ""
+
+#: 02606:997
+
+msgid "{Fuusen}\n\"Ah, ahhn! Hahh, Ah-channnn...\""
+msgstr ""
+
+#: 02606:998
+
+msgid "{Kazushi}\n\"......what?\""
+msgstr ""
+
+#: 02606:999
+
+msgid "Who's moaning? It sounds like Fuusen..."
+msgstr ""
+
+#: 02606:1000
+
+msgid "Was her voice always this sexy?"
+msgstr ""
+
+#: 02606:1001
+
+msgid "{Fuusen}\n\"Hnn, not there...It's too good!\""
+msgstr ""
+
+#: 02606:1002
+
+msgid "She's getting louder. I could clearly see two shadows getting busy behind the work bench."
+msgstr ""
+
+#: 02606:1003
+
+msgid "{Kazushi}\n\"What are you guys doing!? We told you not to do it in here!\""
+msgstr ""
+
+#: 02606:1004
+
+msgid "I couldn't help turning my back on them."
+msgstr ""
+
+#: 02606:1005
+
+msgid "{Kazushi}\n\"What the--?\""
+msgstr ""
+
+#: 02606:1006
+
+msgid "The girls were prowling towards me. They had a strange look in their eyes."
+msgstr ""
+
+#: 02606:1009
+
+msgid "{Haruka}\n\"Kazushi-kun, let's do it.\""
+msgstr ""
+
+#: 02606:1010
+
+msgid "Haruka wrapped her thin arms around my neck. Her nice, sweet scent filled my nose."
+msgstr ""
+
+#: 02606:1011
+
+msgid "Wait a minute."
+msgstr ""
+
+#: 02606:1012
+
+msgid "\"Let's do it\"?"
+msgstr ""
+
+#: 02606:1013
+
+msgid "{Kazushi}\n\"H-Haruka!?\""
+msgstr ""
+
+#: 02606:1018
+
+msgid "{Ran}\n\"Hold on! I get it first!\""
+msgstr ""
+
+#: 02606:1019
+
+msgid "{Kazushi}\n\"You first? ...Ran, what's gotten into you all?\""
+msgstr ""
+
+#: 02606:1026
+
+msgid "{Mizuki}\n\"You need to take your clothes off. How can you swim with them on?\""
+msgstr ""
+
+#: 02606:1027
+
+msgid "Mizuki started undressing me. What's happened to them?"
+msgstr ""
+
+#: 02606:1028
+
+msgid "{Kazushi}\n\"Hey! Pierre! Daigo!\""
+msgstr ""
+
+#: 02606:1029
+
+msgid "Where did they go......"
+msgstr ""
+
+#: 02606:1033
+
+msgid "{Pierre}\n\"S-stop, stop... Aahhhhhhhhh!!! Mama! Help, Mama!\""
+msgstr ""
+
+#: 02606:1034
+
+msgid "{Daigo}\n\"Hnnngh! Hnnnngh!\""
+msgstr ""
+
+#: 02606:1035
+
+msgid "{Kazushi}\n\"..................\""
+msgstr ""
+
+#: 02606:1036
+
+msgid "I decided it was best to pretend I never heard anything."
+msgstr ""
+
+#: 02606:1037
+
+msgid "Appo and Fuusen sounded a whole lot more proper."
+msgstr ""
+
+#: 02606:1038
+
+msgid "A man with a woman is the natural way to do it."
+msgstr ""
+
+#: 02606:1045
+
+msgid "{Haruka}\n\"That's right. It's natural. So, come on.\""
+msgstr ""
+
+#: 02606:1046
+
+msgid "{Ran}\n\"Kazushi, give me 1000 yen! Then I'll give it to you!\""
+msgstr ""
+
+#: 02606:1047
+
+msgid "{Kazushi}\n\"It? You mean...\""
+msgstr ""
+
+#: 02606:1048
+
+msgid "{Mizuki}\n\"Hurry up and take your clothes off! You can't swim with them on. There's so many things we can do in the water.\""
+msgstr ""
+
+#: 02606:1049
+
+msgid "{Kazushi}\n\"So many things?\""
+msgstr ""
+
+#: 02606:1050
+
+msgid "I'm starting to feel strangely good about all this. Who knew I'd have so much fun by going to a coed school?"
+msgstr ""
+
+#: 02606:1051
+
+msgid "{Kazushi}\n\"All right! Tonight we hustle!\""
+msgstr ""
+
+#: 02606:1058
+
+msgid "{Kazushi}\n\"Ouch!!\""
+msgstr ""
+
+#: 02606:1059
+
+msgid "Somebody smacked me hard on the back of my head."
+msgstr ""
+
+#: 02606:1060
+
+msgid "{Kazushi}\n\"What did you do that for!?\""
+msgstr ""
+
+#: 02606:1063
+
+msgid "{Rin}\n\"Haruma-kun, you're pissing me off.\""
+msgstr ""
+
+#: 02606:1064
+
+msgid "{Kazushi}\n\"What......?\""
+msgstr ""
+
+#: 02606:1065
+
+msgid "Something's wrong with Fujisaki-san. Since when did she call me by my last name with no honorific?"
+msgstr ""
+
+#: 02606:1066
+
+msgid "{Rin}\n\"You behave yourself.\""
+msgstr ""
+
+#: 02606:1069
+
+msgid "She whacked me with the steel bar used for stirring the flames."
+msgstr ""
+
+#: 02606:1071
+
+msgid "{Kazushi}\n\"Ouch! What are you doing!?\""
+msgstr ""
+
+#: 02606:1072
+
+msgid "{Rin}\n\"Haruma-kun, you're pissing me off.\""
+msgstr ""
+
+#: 02606:1073
+
+msgid "{Kazushi}\n\"Hey! Don't beat me like that! You're not acting right, Fujisaki-san?\""
+msgstr ""
+
+#: 02606:1074
+
+msgid "{Rin}\n\"Seems you have plenty of spare energy. Are you always doing this? What are students these days thinking?\""
+msgstr ""
+
+#: 02606:1075
+
+msgid "{Kazushi}\n\"I don't know why you're so mad at me!\nHey! You left a lump on my head!\""
+msgstr ""
+
+#: 02606:1076
+
+msgid "{Rin}\n\"Damn Hisae......\""
+msgstr ""
+
+#: 02606:1077
+
+msgid "{Kazushi}\n\"Huh...?\""
+msgstr ""
+
+#: 02606:1078
+
+msgid "Hisae was the principal's first name, right?"
+msgstr ""
+
+#: 02606:1079
+
+msgid "{Rin}\n\"Hmph...\""
+msgstr ""
+
+#: 02606:1080
+
+msgid "Fujisaki-san wound up the fire stirrer. She was aiming right for the furnace. If she swung straight down..."
+msgstr ""
+
+#: 02606:1081
+
+msgid "{Kazushi}\n\"Hey! What are you doing!?\""
+msgstr ""
+
+#: 02606:1082
+
+msgid "{Rin}\n\"Ha......!!\""
+msgstr ""
+
+#: 02606:1083
+
+msgid "She swung the bar down hard."
+msgstr ""
+
+#: 02606:1090
+
+msgid "Right before the fire stirrer struck it, the furnace unleashed a bright flash of light."
+msgstr ""
+
+#: 02606:1091
+
+msgid "{Kazushi}\n\"Wow!\nWhat's going on!!?\""
+msgstr ""
+
+#: 02606:1092
+
+msgid "It was so bright that I couldn't help covering my eyes."
+msgstr ""
+
+#: 02606:1093
+
+msgid "{Rin}\n\"Haruma-kun, I need your head.\""
+msgstr ""
+
+#: 02606:1094
+
+msgid "{Kazushi}\n\"Huh?\""
+msgstr ""
+
+#: 02606:1096
+
+msgid "*YANK!*"
+msgstr ""
+
+#: 02606:1097
+
+msgid "{Kazushi}\n\"Ouch, my hair!\""
+msgstr ""
+
+#: 02606:1098
+
+msgid "That was painful.\nShe pulled out my hair."
+msgstr ""
+
+#: 02606:1099
+
+msgid "{Rin}\n\"Ow!\""
+msgstr ""
+
+#: 02606:1100
+
+msgid "Rin pulled out a few strands of her own hair. Her hair was so long that it almost touched the floor. Despite the differences in length, Rin tied our hair together."
+msgstr ""
+
+#: 02606:1101
+
+msgid "{Rin}\n\"......there.\""
+msgstr ""
+
+#: 02606:1102
+
+msgid "She threw the hair knot into the bright glowing furnace. It quickly vanished into the light."
+msgstr ""
+
+#: 02606:1104
+
+msgid "*SIZZLE*"
+msgstr ""
+
+#: 02606:1105
+
+msgid "I could smell the acrid odor of burnt hair.\nAnd then..."
+msgstr ""
+
+#: 02606:1110
+
+msgid "The bright light disappeared."
+msgstr ""
+
+#: 02606:1111
+
+msgid "{Kazushi}\n\"Huh? ...What?\""
+msgstr ""
+
+#: 02606:1112
+
+msgid "Quiet returned to the night, as if it had never left. My entire body was dripping wet with how much I'd sweat."
+msgstr ""
+
+#: 02606:1113
+
+msgid "{Kazushi}\n\"Fujisaki-san...huh?\""
+msgstr ""
+
+#: 02606:1114
+
+msgid "She was unconscious on the floor. No, not just her. Everyone was on the floor."
+msgstr ""
+
+#: 02606:1115
+
+msgid "Everybody seemed to have passed out."
+msgstr ""
+
+#: 02606:1116
+
+msgid "{Kazushi}\n\"Is this a dream?\""
+msgstr ""
+
+#: 02606:1117
+
+msgid "Am I dreaming......?"
+msgstr ""
+
+#: 02606:1118
+
+msgid "{Haruka}\n\"Nnm...\""
+msgstr ""
+
+#: 02606:1119
+
+msgid "It was Haruka. She was on her belly, face down against the ground."
+msgstr ""
+
+#: 02606:1120
+
+msgid "{Kazushi}\n\"Hey, are you all right?\""
+msgstr ""
+
+#: 02606:1121
+
+msgid "I lifted her up."
+msgstr ""
+
+#: 02606:1124
+
+msgid "{Haruka}\n\"...where am I?\nAre you trying to rape me?\""
+msgstr ""
+
+#: 02606:1125
+
+msgid "Haruka was looking up at me in my arms, like she'd just rolled out of bed."
+msgstr ""
+
+#: 02606:1126
+
+msgid "{Kazushi}\n\"Are you all right? Are you hurt?\""
+msgstr ""
+
+#: 02606:1129
+
+msgid "{Haruka}\n\"I'm all right.\nWhat was I doing?\""
+msgstr ""
+
+#: 02606:1130
+
+msgid "{Kazushi}\n\"That's what I want to know.\""
+msgstr ""
+
+#: 02606:1134
+
+msgid "*fsssshhhhhh*"
+msgstr ""
+
+#: 02606:1135
+
+msgid "The fire in the pot was going out.\nNow it's as small as my little finger.\nAnd finally..."
+msgstr ""
+
+#: 02606:1136
+
+msgid "The fire went out completely."
+msgstr ""
+
+#: 02606:1139
+
+msgid "{Kazushi}\n\"Hey, the fire just went out! Isn't that bad?\""
+msgstr ""
+
+#: 02606:1140
+
+msgid "I thought that our only reason for being here was to keep it burning."
+msgstr ""
+
+#: 02606:1143
+
+msgid "{Haruka}\n\"It's OK. We've done our time.\""
+msgstr ""
+
+#: 02606:1144
+
+msgid "Haruka pointed to an hourglass in the corner. All of the sand had fallen from the top, showing that we had indeed served our time."
+msgstr ""
+
+#: 02606:1145
+
+msgid "{Kazushi}\n\"I see. It's over.\""
+msgstr ""
+
+#: 02606:1146
+
+msgid "Everyone felt so relieved.\nRight at that moment......"
+msgstr ""
+
+#: 02606:1149
+
+msgid "{Haruka}\n\"What's that?\""
+msgstr ""
+
+#: 02606:1150
+
+msgid "The atmosphere regained its intensity."
+msgstr ""
+
+#: 02606:1151
+
+msgid "{Kazushi}\n\"What is it this time?\""
+msgstr ""
+
+#: 02606:1154
+
+msgid "{Haruka}\n\"T-t-that!\""
+msgstr ""
+
+#: 02606:1155
+
+msgid "Haruka's voice was shaking. Her eyes were as wide as saucers yet she focused on one tiny point."
+msgstr ""
+
+#: 02606:1156
+
+msgid "{Kazushi}\n\"What the... WOW!\""
+msgstr ""
+
+#: 02606:1160
+
+msgid "There was a little girl inside the glass flask over the furnace."
+msgstr ""
+
+#: 02606:1161
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 02606:1162
+
+msgid "She was looking at us with the most unhappy face imaginable.\nShe's..."
+msgstr ""
+
+#: 02606:1163
+
+msgid "{Kazushi}\n\"Who's that?\""
+msgstr ""
+
+#: 02606:1164
+
+msgid "{Sakura}\n\"Wow, a girl in a bottle?\""
+msgstr ""
+
+#: 02606:1165
+
+msgid "Sakura was sitting up from the floor and staring in disbelief. Nobody, including myself, could find anything to say."
+msgstr ""
+
+#: 02606:1166
+
+msgid "{Ran}\n\"What in the world have we created?\""
+msgstr ""
+
+#: 02606:1167
+
+msgid "{Fuusen}\n\"What's that?\nWho's the pedo?\""
+msgstr ""
+
+#: 02606:1168
+
+msgid "{Rin}\n\"Huh? The fire's out?\""
+msgstr ""
+
+#: 02606:1169
+
+msgid "Everybody started regaining consciousness one by one. They took a closer look at what emerged from the fire."
+msgstr ""
+
+#: 02606:1170
+
+msgid "{Pierre}\n\"What happened to us?\""
+msgstr ""
+
+#: 02606:1171
+
+msgid "{Sakura}\n\"We must have fallen asleep. But how?\""
+msgstr ""
+
+#: 02606:1172
+
+msgid "{Mizuki}\n\"Are we done? What on earth is that?\""
+msgstr ""
+
+#: 02606:1173
+
+msgid "{Natsume}\n\"..................Haruma. Haruma.\""
+msgstr ""
+
+#: 02606:1174
+
+msgid "{Kazushi}\n\"What? Me?\""
+msgstr ""
+
+#: 02606:1175
+
+msgid "The little girl in the bottle was calling to me.\nHow does she know my name?"
+msgstr ""
+
+#: 02606:1176
+
+msgid "{Natsume}\n\"Let me out! Quick!\""
+msgstr ""
+
+#: 02606:1177
+
+msgid "{Kazushi}\n\"Oh, sorry.\""
+msgstr ""
+
+#: 02606:1178
+
+msgid "It looked very tight inside the bottle. We should let her out of the flask at least."
+msgstr ""
+
+#: 02606:1179
+
+msgid "{Ran}\n\"Who is it? Do you know her?\""
+msgstr ""
+
+#: 02606:1180
+
+msgid "{Kazushi}\n\"No, I don't.\""
+msgstr ""
+
+#: 02606:1181
+
+msgid "{Mizuki}\n\"Then, how come she knows your name?\""
+msgstr ""
+
+#: 02606:1182
+
+msgid "{Pierre}\n\"You must have hit on her somewhere before.\""
+msgstr ""
+
+#: 02606:1183
+
+msgid "{Daigo}\n\"You were so persistent, she had to hit you and you lost your memory or something.\""
+msgstr ""
+
+#: 02606:1184
+
+msgid "{Haruka}\n\"Kazushi-kun, are you that persistent?\""
+msgstr ""
+
+#: 02606:1185
+
+msgid "{Kazushi}\n\"Don't believe them.\""
+msgstr ""
+
+#: 02606:1186
+
+msgid "{Kazushi}\n\"I don't know what's going on either, but right now, we should let her out from there.\""
+msgstr ""
+
+#: 02606:1187
+
+msgid "{Natsume}\n\"Haruma, hurry up.\""
+msgstr ""
+
+#: 02606:1188
+
+msgid "{Kazushi}\n\"I'm on it.\""
+msgstr ""
+
+#: 02606:1189
+
+msgid "I guess I have no choice but to break the bottle.\""
+msgstr ""
+
+#: 02606:1193
+
+msgid "{Haruka}\n\"Sure. Go ahead and break it.\""
+msgstr ""
+
+#: 02606:1195
+
+msgid "After Haruka caught my hesitation and urged me on, I carefully broke the huge flask."
+msgstr ""
+
+#: 02606:1199
+
+msgid "From the cracks, her arms and legs unfolded as she reached for me."
+msgstr ""
+
+#: 02606:1202
+
+msgid "{Natsume}\n\"Pull.\""
+msgstr ""
+
+#: 02606:1203
+
+msgid "{Kazushi}\n\"Sure.\""
+msgstr ""
+
+#: 02606:1204
+
+msgid "I grabbed her tiny hands and pulled her from the wreckage. She was as light as a fairy."
+msgstr ""
+
+#: 02606:1207
+
+msgid "{Natsume}\n\"Phew... I messed up a bit.\""
+msgstr ""
+
+#: 02606:1208
+
+msgid "She stretched out and looked around."
+msgstr ""
+
+#: 02606:1213
+
+msgid "{Haruka}\n\"Umm, who are you?\""
+msgstr ""
+
+#: 02606:1214
+
+msgid "Haruka went up to greet her.\nThe girl looked over at Haruka."
+msgstr ""
+
+#: 02606:1217
+
+msgid "{Haruka}\n\"Umm...?\""
+msgstr ""
+
+#: 02606:1218
+
+msgid "{Natsume}\n\"Are you Hisae's granddaughter?\""
+msgstr ""
+
+#: 02606:1221
+
+msgid "{Haruka}\n\"What? You know my grandma?\""
+msgstr ""
+
+#: 02606:1224
+
+msgid "{Natsume}\n\"Tell her I said she's an ugly bitch!\""
+msgstr ""
+
+#: 02606:1225
+
+msgid "{Haruka}\n\"What? Ugly?\""
+msgstr ""
+
+#: 02606:1226
+
+msgid "She's got a foul mouth, even though she looks like a cute little girl."
+msgstr ""
+
+#: 02606:1231
+
+msgid "{Ran}\n\"Hey, guys, are we done with our assignment?\""
+msgstr ""
+
+#: 02606:1232
+
+msgid "{Kazushi}\n\"Yeah, are we?\""
+msgstr ""
+
+#: 02606:1236
+
+msgid "{Natsume}\n\"Yes, you are. You guys are free to go.\nHaruma, come with me.\""
+msgstr ""
+
+#: 02606:1237
+
+msgid "She pulled my arm."
+msgstr ""
+
+#: 02606:1238
+
+msgid "{Kazushi}\n\"Huh? S-sure... Hey, how do you know my name?\""
+msgstr ""
+
+#: 02606:1244
+
+msgid "{Daigo}\n\"Kazushi's quick to get along with little girls.\""
+msgstr ""
+
+#: 02606:1245
+
+msgid "{Appo}\n\"'Cause he's a lolicon.\""
+msgstr ""
+
+#: 02606:1249
+
+msgid "{Haruka}\n\"Huh?! No way?!\""
+msgstr ""
+
+#: 02606:1253
+
+msgid "{Mizuki}\n\"Wait, really? That's creepy.\""
+msgstr ""
+
+#: 02606:1254
+
+msgid "{Kazushi}\n\"They're joking. Please don't believe them.\""
+msgstr ""
+
+#: 02606:1259
+
+msgid "{Natsume}\n\"Come on, hurry up.\""
+msgstr ""
+
+#: 02606:1260
+
+msgid "{Kazushi}\n\"All right, all right. Don't pull me so hard.\""
+msgstr ""
+
+#: 02606:1261
+
+msgid "I'd really like to know who this girl is."
+msgstr ""
+
+#: 02606:1268
+
+msgid "{Principal}\n\"Good work, everyone.\""
+msgstr ""
+
+#: 02606:1269
+
+msgid "We were all summoned to the principal's office."
+msgstr ""
+
+#: 02606:1273
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 02606:1274
+
+msgid "The girl from the bottle was there with us too. Again she was wearing an unhappy face."
+msgstr ""
+
+#: 02606:1279
+
+msgid "{Principal}\n\"I never expected you to come out and bother us.\""
+msgstr ""
+
+#: 02606:1280
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 02606:1281
+
+msgid "She's ignoring the principal.\nWas she even listening to her to begin with?"
+msgstr ""
+
+#: 02606:1282
+
+msgid "{Kazushi}\n\"Hey you.\nDo you know the principal is talking to you?\""
+msgstr ""
+
+#: 02606:1285
+
+msgid "She glared back at me."
+msgstr ""
+
+#: 02606:1288
+
+msgid "{Natsume}\n\"Haruma, give her my answer for me. I have nothing to say to that woman.\""
+msgstr ""
+
+#: 02606:1289
+
+msgid "{Kazushi}\n\"That woman......\""
+msgstr ""
+
+#: 02606:1290
+
+msgid "Who does this girl think she is, calling the principal 'that woman'? And why does she know my name?"
+msgstr ""
+
+#: 02606:1291
+
+msgid "I don't think we've met before..."
+msgstr ""
+
+#: 02606:1294
+
+msgid "{Natsume}\n\"Hmph...\""
+msgstr ""
+
+#: 02606:1295
+
+msgid "I felt her hostility towards me as well..."
+msgstr ""
+
+#: 02606:1296
+
+msgid "Did I do something wrong to her?"
+msgstr ""
+
+#: 02606:1299
+
+msgid "{Principal}\n\"This is Amamiya Natsume-san. She's a first year. Everyone, please be nice to her.\""
+msgstr ""
+
+#: 02606:1302
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 02606:1305
+
+msgid "Natsume-chan looked away as the principal introduced her to us. The principal smiled bitterly."
+msgstr ""
+
+#: 02606:1306
+
+msgid "{Principal}\n\"Don't worry. I'll think of how to handle her later.\""
+msgstr ""
+
+#: 02606:1307
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 02606:1308
+
+msgid "Who is this girl, and what is she to the principal? How did she appear here?"
+msgstr ""
+
+#: 02606:1311
+
+msgid "{Principal}\n\"Good job, everybody. You accomplished your task splendidly. As I promised, there will be no further penalties regarding last week's incident.\""
+msgstr ""
+
+#: 02606:1315
+
+msgid "{Andou}\n\"Really?\""
+msgstr ""
+
+#: 02606:1318
+
+msgid "{Principal}\n\"Absolutely. After all, that was the promise.\""
+msgstr ""
+
+#: 02606:1322
+
+msgid "{Fuusen}\n\"Did you hear that, Rei?\""
+msgstr ""
+
+#: 02606:1323
+
+msgid "{Andou}\n\"Thank you, guys. It's all thanks to your help.\""
+msgstr ""
+
+#: 02606:1324
+
+msgid "Andou's sensitive tears belied her huge body."
+msgstr ""
+
+#: 02606:1329
+
+msgid "{Natsume}\n\"Look at the giantess crying.\""
+msgstr ""
+
+#: 02606:1330
+
+msgid "This must have been quite an interesting scene for her to witness. Amamiya Natsume-chan, huh? What a strange girl."
+msgstr ""
+
+#: 02606:1331
+
+msgid "Even though we saved ourselves from getting kicked out of school again, I didn't feel like we'd managed to accomplish anything."
+msgstr ""
+
+#: 02606:1332
+
+msgid "I'm sure I'm not the only one who feels that way either."
+msgstr ""
+
+#: 02606:1343
+
+msgid "{Pierre}\n\"Hi, Natsume-chan! You're very pretty! It's nice to meet you!\""
+msgstr ""
+
+#: 02606:1346
+
+msgid "{Rin}\n\"You're adorable.\nI want to be your big sister.\""
+msgstr ""
+
+#: 02606:1347
+
+msgid "Everybody gathered around Natsume-chan as soon as we left the principal's office."
+msgstr ""
+
+#: 02606:1351
+
+msgid "{Ran}\n\"Do your parents happen to be rich?\""
+msgstr ""
+
+#: 02606:1352
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 02606:1353
+
+msgid "She looked at us with confusion in her eyes as we greeted her."
+msgstr ""
+
+#: 02606:1358
+
+msgid "{Natsume}\n\"Haruma.\""
+msgstr ""
+
+#: 02606:1359
+
+msgid "Natsume-chan left the circle and hid behind me."
+msgstr ""
+
+#: 02606:1360
+
+msgid "{Kazushi}\n\"What's wrong?\""
+msgstr ""
+
+#: 02606:1363
+
+msgid "{Natsume}\n\"I want you to beat them up for me, Haruma.\""
+msgstr ""
+
+#: 02606:1364
+
+msgid "{Kazushi}\n\"What? Why?\""
+msgstr ""
+
+#: 02606:1367
+
+msgid "{Natsume}\n\"It's not that I'm scared.\""
+msgstr ""
+
+#: 02606:1368
+
+msgid "She was shaking a bit. I guess she was afraid. Maybe she's not used to people?"
+msgstr ""
+
+#: 02606:1369
+
+msgid "She seemed arrogant, but maybe she's just extra shy?"
+msgstr ""
+
+#: 02606:1373
+
+msgid "{Ran}\n\"What's wrong? Are we scaring you?\""
+msgstr ""
+
+#: 02606:1374
+
+msgid "{Kazushi}\n\"This is your fault, Ran. Who brings up money as soon as she meets somebody?\""
+msgstr ""
+
+#: 02606:1377
+
+msgid "{Ran}\n\"You're saying that I've creeped her out? No way. It's only natural to enquire about assets when choosing your friends.\""
+msgstr ""
+
+#: 02606:1382
+
+msgid "{Mizuki}\n\"No it's not.\""
+msgstr ""
+
+#: 02606:1389
+
+msgid "{Rin}\n\"Look at her, she's so delicate.\nShe's peering out at us from behind Haruma-kun.\""
+msgstr ""
+
+#: 02606:1392
+
+msgid "{Natsume}\n\"Keep watching me and you'll be cursed.\""
+msgstr ""
+
+#: 02606:1395
+
+msgid "{Rin}\n\"What!? Why?\""
+msgstr ""
+
+#: 02606:1396
+
+msgid "Natsume-chan almost made Fujisaki-san cry. Yeah, despite her appearance, Natsume-chan is just extremely shy."
+msgstr ""
+
+#: 02606:1401
+
+msgid "{Mei}\n\"Hey guys, that's enough.\nYou need to get back to class - you've still got exams today.\""
+msgstr ""
+
+#: 02606:1402
+
+msgid "Mei-sensei's words froze us in our tracks."
+msgstr ""
+
+#: 02606:1410
+
+msgid "{Appo}\n\"What? We've still got exams today?\""
+msgstr ""
+
+#: 02606:1411
+
+msgid "{Mizuki}\n\"Without any chance to rest?\""
+msgstr ""
+
+#: 02606:1412
+
+msgid "{Pierre}\n\"I'm really tired. We hardly slept last night.\""
+msgstr ""
+
+#: 02606:1413
+
+msgid "{Kazushi}\n\"I didn't even study!\""
+msgstr ""
+
+#: 02606:1417
+
+msgid "Everyone here couldn't wait to go back to the dorm to sleep."
+msgstr ""
+
+#: 02606:1420
+
+msgid "{Mei}\n\"I'm sorry about this, too, but last night was only your penalty. You're young though, so just work hard for one day.\""
+msgstr ""
+
+#: 02606:1424
+
+msgid "{Haruka}\n\"Oh no! It's going to be a long day.\""
+msgstr ""
+
+#: 02606:1425
+
+msgid "Everybody's exhaustion was catching up with them. I can't believe we have to keep taking our exams now."
+msgstr ""
+
+#: 02606:1431
+
+msgid "{Mei}\n\"Amamiya-san, you stay here. I'm going to show you to your dorm.\""
+msgstr ""
+
+#: 02606:1434
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 02606:1437
+
+msgid "{Mei}\n\"Amamiya-san?\""
+msgstr ""
+
+#: 02606:1438
+
+msgid "Natsume-chan seemed to have a habit of staring directly into peoples' faces."
+msgstr ""
+
+#: 02606:1439
+
+msgid "Right now, she's staring at Mei-sensei and perplexing her."
+msgstr ""
+
+#: 02606:1442
+
+msgid "{Natsume}\n\"Interesting.\""
+msgstr ""
+
+#: 02606:1445
+
+msgid "{Mei}\n\"What?\nWhat's so interesting about my face?\""
+msgstr ""
+
+#: 02606:1448
+
+msgid "{Natsume}\n\"It's a secret.\""
+msgstr ""
+
+#: 02606:1451
+
+msgid "{Mei}\n\"What is it...?\""
+msgstr ""
+
+#: 02606:1452
+
+msgid "Mei-sensei's face was scrunched up in annoyance."
+msgstr ""
+
+#: 02606:1453
+
+msgid "Wow, she's even got the power to disturb the teachers."
+msgstr ""
+
+#: 02606:1457
+
+msgid "{Natsume}\n\"Haruma, come visit my room later on.\""
+msgstr ""
+
+#: 02606:1458
+
+msgid "{Kazushi}\n\"Me? You want me to come to your room?\""
+msgstr ""
+
+#: 02606:1459
+
+msgid "{Natsume}\n\"Sure.\""
+msgstr ""
+
+#: 02606:1460
+
+msgid "She's already inviting me to her room!"
+msgstr ""
+
+#: 02606:1465
+
+msgid "{Mei}\n\"Of course he's not coming to your room! Boys aren't permitted to enter the girls' dorm.\""
+msgstr ""
+
+#: 02606:1466
+
+msgid "{Kazushi}\n\"Of course. That's what I thought.\""
+msgstr ""
+
+#: 02606:1467
+
+msgid "{Natsume}\n\"That's fine. You can come.\""
+msgstr ""
+
+#: 02606:1470
+
+msgid "{Mei}\n\"That's not going to happen. Here, let's go.\""
+msgstr ""
+
+#: 02606:1473
+
+msgid "{Natsume}\n\"Hey, don't you pull my arm like that! It'll stretch!\""
+msgstr ""
+
+#: 02606:1476
+
+msgid "Mei-sensei escorted Natsume-chan into the dorm like a prisoner under a policeman's guard."
+msgstr ""
+
+#: 02606:1483
+
+msgid "{Rin}\n\"She's so cute!\""
+msgstr ""
+
+#: 02606:1484
+
+msgid "{Sakura}\n\"I wanna abduct her so we can take our baths together!\""
+msgstr ""
+
+#: 02606:1487
+
+msgid "{Mizuki}\n\"You need to choose your words more carefully before you speak.\""
+msgstr ""
+
+#: 02606:1491
+
+msgid "{Haruka}\n\"Kazushi-kun, are you SURE you haven't met her before?\""
+msgstr ""
+
+#: 02606:1492
+
+msgid "{Kazushi}\n\"I don't think so...\""
+msgstr ""
+
+#: 02606:1496
+
+msgid "{Ran}\n\"But she's already become awfully attached to you.\""
+msgstr ""
+
+#: 02606:1504
+
+msgid "{Pierre}\n\"That's 'cause Kazushi emits an aura that just makes lolis swoon.\""
+msgstr ""
+
+#: 02606:1505
+
+msgid "{Appo}\n\"Oh yeah! Hey, remember the time...\""
+msgstr ""
+
+#: 02606:1506
+
+msgid "{Kazushi}\n\"No, no, no, there is no such aura. And can you please stop saying things that might lead to trouble in these times?!\""
+msgstr ""
+
+#: 02606:1511
+
+msgid "{Mizuki}\n\"..................\""
+msgstr ""
+
+#: 02606:1512
+
+msgid "{Kazushi}\n\"Don't look at me like I'm a criminal!\""
+msgstr ""
+
+#: 02606:1513
+
+msgid "I still can't figure out how she knows my name."
+msgstr ""
+
+#: 02606:1519
+
+msgid "{Daigo}\n\"It's the bell. Let's go.\""
+msgstr ""
+
+#: 02606:1520
+
+msgid "{Kazushi}\n\"Get ready for a long day.\""
+msgstr ""
+
+#: 02606:1521
+
+msgid "It's going to be one hell of a long day."
+msgstr ""
+
+#: 02606:1529
+
+msgid "{Appo}\n\"I'm dog tired.\""
+msgstr ""
+
+#: 02606:1530
+
+msgid "Our long day was finally coming to a close."
+msgstr ""
+
+#: 02606:1531
+
+msgid "We took our baths, came back to the dorm, and collapsed on our beds."
+msgstr ""
+
+#: 02606:1532
+
+msgid "{Appo}\n\"I'm so sleepy after that all-nighter.\""
+msgstr ""
+
+#: 02606:1533
+
+msgid "{Kazushi}\n\"What are you talking about? You got to sleep last night! I'm actually feeling kind of awake though.\""
+msgstr ""
+
+#: 02606:1536
+
+msgid "{Appo}\n\"I can't believe how tough you are.\""
+msgstr ""
+
+#: 02606:1537
+
+msgid "{Kazushi}\n\"Anybody want to play a round of UNO?\""
+msgstr ""
+
+#: 02606:1540
+
+msgid "{Appo}\n\"Not tonight, man...\""
+msgstr ""
+
+#: 02606:1542
+
+msgid "Appo was truly wiped out. He didn't even move an inch."
+msgstr ""
+
+#: 02606:1543
+
+msgid "{Kazushi}\n\"Hey stay up, don't leave me alone!\""
+msgstr ""
+
+#: 02606:1546
+
+msgid "{Appo}\n\"Are you a kid? Stupid brats who throw a tantrum and wake you when you're trying to sleep really do exist.\""
+msgstr ""
+
+#: 02606:1547
+
+msgid "{Kazushi}\n\"Well, sorry.\""
+msgstr ""
+
+#: 02606:1550
+
+msgid "{Kazushi}\n\"See? I've got a visitor! It could be Pierre and Daigo!\""
+msgstr ""
+
+#: 02606:1551
+
+msgid "{Appo}\n\"Good for you. Go play with them.\""
+msgstr ""
+
+#: 02606:1557
+
+msgid "{Fuusen}\n\"Good evening, Kazushi. Is my Ah-chan here?\""
+msgstr ""
+
+#: 02606:1558
+
+msgid "It was Fuusen."
+msgstr ""
+
+#: 02606:1563
+
+msgid "{Appo}\n\"Oh, hey Fuu-chan.\""
+msgstr ""
+
+#: 02606:1564
+
+msgid "Appo waved at her from under the covers. Fuusen came inside."
+msgstr ""
+
+#: 02606:1567
+
+msgid "{Fuusen}\n\"You're like a giant baby sometimes.\""
+msgstr ""
+
+#: 02606:1568
+
+msgid "She sounded like a kind mother as she knelt next to Appo."
+msgstr ""
+
+#: 02606:1571
+
+msgid "{Fuusen}\n\"You must be exhausted.\nYou're already half-asleep, aren't you?\""
+msgstr ""
+
+#: 02606:1572
+
+msgid "{Appo}\n\"I am, Fuu-chan, let me sleep on your lap.\""
+msgstr ""
+
+#: 02606:1575
+
+msgid "{Fuusen}\n\"You're so cute, but I can't do that. Haruma-kun's here too.\""
+msgstr ""
+
+#: 02606:1576
+
+msgid "{Kazushi}\n\"Me?\""
+msgstr ""
+
+#: 02606:1579
+
+msgid "They both gave me a look. It was hard to stay here."
+msgstr ""
+
+#: 02606:1580
+
+msgid "{Kazushi}\n\"Am I bothering you guys?\""
+msgstr ""
+
+#: 02606:1583
+
+msgid "{Fuusen}\n\"Not at all. This is your room. Use it as you please.\""
+msgstr ""
+
+#: 02606:1584
+
+msgid "{Kazushi}\n\"Are you sure......?\""
+msgstr ""
+
+#: 02606:1585
+
+msgid "It definitely wasn't that kind of mood at all. I could hear voices from the audience all over the world shouting, \"Get the hell out right now!\""
+msgstr ""
+
+#: 02606:1586
+
+msgid "{Kazushi}\n\"I... think I'm going to take a walk.\""
+msgstr ""
+
+#: 02606:1589
+
+msgid "{Appo}\n\"Really? Well, take your time and enjoy the night air!\""
+msgstr ""
+
+#: 02606:1592
+
+msgid "{Fuusen}\n\"Please do. I read a fortune that says good things will happen tomorrow if you walk for at least two hours.\""
+msgstr ""
+
+#: 02606:1593
+
+msgid "Two hours!?\nDon't tell me they're going to have sex here!?"
+msgstr ""
+
+#: 02606:1594
+
+msgid "{Kazushi}\n\"...I'll see you guys later.\""
+msgstr ""
+
+#: 02606:1599
+
+msgid "{Appo & Fuusen}\n\"Have fun!\""
+msgstr ""
+
+#: 02606:1603
+
+msgid "{Kazushi}\n\"I can't believe those two......Ah!\""
+msgstr ""
+
+#: 02606:1605
+
+msgid "The lights went out as soon as I left our room."
+msgstr ""
+
+#: 02606:1606
+
+msgid "{Kazushi}\n\"Don't tell me they're actually...Brrr!\""
+msgstr ""
+
+#: 02606:1607
+
+msgid "I nearly pictured the two of them doing it, and shivers raced down my spine. I'll stop thinking about it."
+msgstr ""
+
+#: 02606:1608
+
+msgid "{Kazushi}\n\"I'm such a loser.\""
+msgstr ""
+
+#: 02606:1609
+
+msgid "I'm actually envious of Appo.\nHe's the only one with a girlfriend."
+msgstr ""
+
+#: 02606:1610
+
+msgid "{Kazushi}\n\"I don't know what to do by myself now...\""
+msgstr ""
+
+#: 02606:1611
+
+msgid "Maybe I should see how Daigo and Pierre are doing. Then again, I don't want them to know that I've been sexiled by Appo and Fuusen."
+msgstr ""
+
+#: 02606:1612
+
+msgid "{Kazushi}\n\"Oh man, I wish there was someone to comfort me...\""
+msgstr ""
+
+#: 02606:1613
+
+msgid "I wonder if there's a girl who'd be willing to talk to me..."
+msgstr ""
+
+#: 02606:1614
+
+msgid "{Kazushi}\n\"Oh yeah!\nAt times like this...\""
+msgstr ""
+
+#: 02606:1624
+
+msgid "Haruka, huh? I don't have to worry much around her after all."
+msgstr ""
+
+#: 02606:1625
+
+msgid "{Kazushi}\n\"Alright, I'll go see Haruka.\""
+msgstr ""
+
+#: 02606:1628
+
+msgid "Mizuki, huh? I thought she hated me at first, but now that our little misunderstanding has been cleared up, we're good friends."
+msgstr ""
+
+#: 02606:1629
+
+msgid "Once I got to know her, she was pretty laid-back, and easy to get along with."
+msgstr ""
+
+#: 02606:1630
+
+msgid "{Kazushi}\n\"And with Mizuki, it won't turn into a sexy mood either.\""
+msgstr ""
+
+#: 02606:1631
+
+msgid "It's kind of lacking, but thanks to that, we could talk casually."
+msgstr ""
+
+#: 02606:1632
+
+msgid "{Kazushi}\n\"Alright, I'll have Mizuki help me kill some time.\""
+msgstr ""
+
+#: 02606:1635
+
+msgid "{Kazushi}\n\"Well, that's probably suitable.\""
+msgstr ""
+
+#: 02606:1636
+
+msgid "I can easily talk to Ran, and she'll probably welcome it."
+msgstr ""
+
+#: 02606:1637
+
+msgid "{Kazushi}\n\"Wait, considering the time, she might try and charge late night fees.\""
+msgstr ""
+
+#: 02606:1638
+
+msgid ".....................Whatever, might as well go."
+msgstr ""
+
+#: 02606:1641
+
+msgid "{Kazushi}\n\"...Really?\""
+msgstr ""
+
+#: 02606:1642
+
+msgid "Why Natsume-chan? I hardly know anything about her."
+msgstr ""
+
+#: 02606:1643
+
+msgid "{Kazushi}\n\"I wonder why?\""
+msgstr ""
+
+#: 02606:1644
+
+msgid "I was curious about her. Since she made an appearance like that, it's only natural to be curious."
+msgstr ""
+
+#: 02606:1645
+
+msgid "That's not just it..."
+msgstr ""
+
+#: 02606:1646
+
+msgid "{Kazushi}\n\"Well, I might find out if I talk to her myself.\""
+msgstr ""
+
+#: 02606:1647
+
+msgid "Besides, Natsume-chan did tell me to come to her room. Mei-sensei said no, but I guess I'll sneak in."
+msgstr ""
+
+#: 02606:1650
+
+msgid "{Kazushi}\n\"If I see Mei-sensei, I'm sure she'll accompany me for a while.\""
+msgstr ""
+
+#: 02606:1651
+
+msgid "At the very least she won't be cruel, which is reassuring."
+msgstr ""
+

@@ -1,0 +1,218 @@
+# Comments for '01834'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 01834:5
+
+msgid "She jumped to a conclusion about me!"
+msgstr ""
+
+#: 01834:6
+
+msgid "{Kazushi}\n\"Yeah, well, I know I'm stupid, but you don't have to tell me directly.\""
+msgstr ""
+
+#: 01834:9
+
+msgid "{Natsume}\n\"I see. You're starting to look cute, Haruma.\""
+msgstr ""
+
+#: 01834:10
+
+msgid "Is it because I'm stupid? It made me feel pitiful when she treated me like a kid."
+msgstr ""
+
+#: 01834:11
+
+msgid "{Kazushi}\n\"Don't treat me like a kid in front of everyone else, OK?\""
+msgstr ""
+
+#: 01834:14
+
+msgid "{Natsume}\n\"You don't want to be treated like a kid? Did your parents treat you like a kid?\""
+msgstr ""
+
+#: 01834:15
+
+msgid "{Kazushi}\n\"Well, yeah, back when I WAS a kid. How about your parents...\""
+msgstr ""
+
+#: 01834:16
+
+msgid "I was going to say something, but I remembered how we just had this conversation about Natsume-chan's father."
+msgstr ""
+
+#: 01834:17
+
+msgid "{Kazushi}\n\"Where's your Papa now, then?\""
+msgstr ""
+
+#: 01834:18
+
+msgid "Where could that damn man be? Leaving his cute daughter all alone on an island like this..."
+msgstr ""
+
+#: 01834:19
+
+msgid "{Natsume}\n\"He's on this island.\""
+msgstr ""
+
+#: 01834:20
+
+msgid "{Kazushi}\n\"What? You mean he's here on the island?\""
+msgstr ""
+
+#: 01834:21
+
+msgid "That was an unexpected answer. That meant there shouldn't be any problems, right?"
+msgstr ""
+
+#: 01834:22
+
+msgid "{Kazushi}\n\"Then you should be able to see him any time you want, right?\""
+msgstr ""
+
+#: 01834:23
+
+msgid "It's a small island and hell, they both live here. Given how often Natsume-chan and I bump into each other it should be easy for those two to see each other."
+msgstr ""
+
+#: 01834:26
+
+msgid "{Natsume}\n\"He wouldn't see me if I tried to visit.\""
+msgstr ""
+
+#: 01834:27
+
+msgid "{Kazushi}\n\"What? Why? You went to go see him, right?\""
+msgstr ""
+
+#: 01834:28
+
+msgid "{Natsume}\n\"I did, but he ran away from me.\""
+msgstr ""
+
+#: 01834:29
+
+msgid "{Kazushi}\n\"Why would he run away? Isn't he your father?\""
+msgstr ""
+
+#: 01834:32
+
+msgid "{Natsume}\n\"I don't know. Maybe he just hates me.\""
+msgstr ""
+
+#: 01834:33
+
+msgid "Natsume-chan started pouting. She wasn't acting like her usual aloof self; she was just an ordinary girl right now."
+msgstr ""
+
+#: 01834:36
+
+msgid "{Natsume}\n\"Papa hates me. That's why he disappeared from me. That's why he won't see me.\""
+msgstr ""
+
+#: 01834:37
+
+msgid "{Kazushi}\n\"That's not true.\""
+msgstr ""
+
+#: 01834:38
+
+msgid "I didn't know what kind of problems they had between them, but I had to say that."
+msgstr ""
+
+#: 01834:41
+
+msgid "{Natsume}\n\"What do you know, Haruma?\""
+msgstr ""
+
+#: 01834:42
+
+msgid "{Kazushi}\n\"Maybe I don't, but he's your only father. There isn't a father on Earth that doesn't care about his own child.\""
+msgstr ""
+
+#: 01834:45
+
+msgid "{Natsume}\n\"Then why won't he see me? Why would he leave me?\""
+msgstr ""
+
+#: 01834:46
+
+msgid "It was like we were regressing through the years because Natsume-chan was acting like a little girl."
+msgstr ""
+
+#: 01834:47
+
+msgid "{Kazushi}\n\"I wouldn't know that either, but all I can say is that your father loves you.\""
+msgstr ""
+
+#: 01834:48
+
+msgid "{Natsume}\n\"......that's a lie.\""
+msgstr ""
+
+#: 01834:49
+
+msgid "{Kazushi}\n\"Seriously, I mean it. Let's give your father one last chance. I'll go with you to see him this time.\""
+msgstr ""
+
+#: 01834:52
+
+msgid "{Natsume}\n\"You're going too, Haruma?\""
+msgstr ""
+
+#: 01834:53
+
+msgid "{Kazushi}\n\"Yeah. I'll go with you this time, and I'll make sure he doesn't run away so you can see each other.\""
+msgstr ""
+
+#: 01834:57
+
+msgid "{Natsume}\n\"..................\""
+msgstr ""
+
+#: 01834:58
+
+msgid "Natsume-chan thought for a moment. I thought that she was scared her father might run away and never look at her again."
+msgstr ""
+
+#: 01834:59
+
+msgid "{Kazushi}\n\"Don't worry! Believe in me.\""
+msgstr ""
+
+#: 01834:62
+
+msgid "{Natsume}\n\"Um...okay...this time you're going with me to meet my father too, Haruma.\""
+msgstr ""
+
+#: 01834:63
+
+msgid "{Kazushi}\n\"Right. Got it.\""
+msgstr ""
+
+#: 01834:64
+
+msgid "I don't know what kind of parent this guy is, but if he's some nasty jerk, I'll give him a piece of my mind."
+msgstr ""
+
+#: 01834:65
+
+msgid "But, I just can't think this guy is a villain because he's Natsume-chan's beloved father."
+msgstr ""
+
+#: 01834:66
+
+msgid "I really want to help them."
+msgstr ""
+

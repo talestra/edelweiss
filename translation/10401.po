@@ -1,0 +1,2963 @@
+# Comments for '10401'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 10401:7
+
+msgid "{Kazushi}\n\".........\""
+msgstr ""
+
+#: 10401:11
+
+msgid "{Mizuki}\n\"How is he?\""
+msgstr ""
+
+#: 10401:16
+
+msgid "{Rin}\n\"He's asleep. Or at least he's lying down with his eyes closed?\""
+msgstr ""
+
+#: 10401:23
+
+msgid "{Ran}\n\"He's not going to follow after her, is he?\""
+msgstr ""
+
+#: 10401:26
+
+msgid "{Rin}\n\"What? H-he should be alright...\""
+msgstr ""
+
+#: 10401:32
+
+msgid "{Daigo}\n\"He ate dinner, so he should be fine.\""
+msgstr ""
+
+#: 10401:37
+
+msgid "{Pierre}\n\"He's going to be all right. Especially after how much he cried.\""
+msgstr ""
+
+#: 10401:42
+
+msgid "{Fuusen}\n\"Yeah, but he just accepted Haruka's death at last today. The real pain's going to start from now on.\""
+msgstr ""
+
+#: 10401:47
+
+msgid "{Appo}\n\"He'll be okay. We're here for him.\""
+msgstr ""
+
+#: 10401:52
+
+msgid "{Natsume}\n\"I'll keep my eye on him.\""
+msgstr ""
+
+#: 10401:55
+
+msgid "I could hear everything they were whispering. I know they were trying to hide and peek in on me, but it was plain to see."
+msgstr ""
+
+#: 10401:56
+
+msgid "Still it felt good. It made me feel at ease to listen to them and know that they were watching over me."
+msgstr ""
+
+#: 10401:57
+
+msgid "{Kazushi}\n\"Haruka...\""
+msgstr ""
+
+#: 10401:58
+
+msgid "I cried like an idiot and felt better, but I also felt depressed again."
+msgstr ""
+
+#: 10401:59
+
+msgid "The fact that Haruka was gone still hadn't changed."
+msgstr ""
+
+#: 10401:60
+
+msgid "{Kazushi}\n\"............\""
+msgstr ""
+
+#: 10401:61
+
+msgid "There was still a faint trace of Haruka's scent left on her bed. It was so faint that I doubt anyone else would notice it."
+msgstr ""
+
+#: 10401:62
+
+msgid "And this faint scent too will disappear soon."
+msgstr ""
+
+#: 10401:63
+
+msgid "I haven't gotten much sleep lately, so it shouldn't be difficult for me to fall asleep with my eyes closed. But for some reason, I can't sleep at all."
+msgstr ""
+
+#: 10401:64
+
+msgid "I'm afraid of sleeping. If I go to sleep, I'll have to wake up to a world where Haruka's not around."
+msgstr ""
+
+#: 10401:65
+
+msgid "When I woke, that would be the first thing I realized, and I'd be in despair again. I wouldn't want to wake up anymore. And that scared me."
+msgstr ""
+
+#: 10401:66
+
+msgid "{Kazushi}\n\"Haruka...\""
+msgstr ""
+
+#: 10401:67
+
+msgid "I called her dear name."
+msgstr ""
+
+#: 10401:70
+
+msgid "{Kazushi}\n\"Ahh, Haruka...\""
+msgstr ""
+
+#: 10401:72
+
+msgid "Haruka had melted away. It must have been an illusion my nearly-crazy mind created."
+msgstr ""
+
+#: 10401:73
+
+msgid "But this is how things should be: A world without Haruka."
+msgstr ""
+
+#: 10401:74
+
+msgid "{Kazushi}\n\"I guess you won't stay by my side, will you Haruka?\""
+msgstr ""
+
+#: 10401:75
+
+msgid "I was becoming enveloped in despair. It felt like I was falling into a deep, bottomless pit, and I was terrified."
+msgstr ""
+
+#: 10401:76
+
+msgid "But I'm not falling anymore. Everyone else is here, supporting me."
+msgstr ""
+
+#: 10401:77
+
+msgid "{Kazushi}\n\"Haruka...\""
+msgstr ""
+
+#: 10401:79
+
+msgid "That night, I fell into a deep sleep. And I had a dream."
+msgstr ""
+
+#: 10401:85
+
+msgid "{Haruka}\n\"Are you gonna go right after graduation?\""
+msgstr ""
+
+#: 10401:86
+
+msgid "I'm not sure what she's asking."
+msgstr ""
+
+#: 10401:87
+
+msgid "{Kazushi}\n\"Go where?\""
+msgstr ""
+
+#: 10401:88
+
+msgid "{Haruka}\n\"Abroad. You said you wanted to go, right?\""
+msgstr ""
+
+#: 10401:89
+
+msgid "{Kazushi}\n\"Oh...\""
+msgstr ""
+
+#: 10401:90
+
+msgid "I promised I'd go with her, that I would take Haruka off of this island and we would travel the broad world together."
+msgstr ""
+
+#: 10401:91
+
+msgid "{Kazushi}\n\"We need to earn some money first. Then once I have my driver's license, and we have more money stored up, then...\""
+msgstr ""
+
+#: 10401:92
+
+msgid "I felt like there was still a lot to prepare. I only had a vague idea before, but after meeting Haruka, it's grown more tangible."
+msgstr ""
+
+#: 10401:93
+
+msgid "Yet that only made it seem more unrealistic in my mind. I didn't even have a good idea of what else needed to be prepared."
+msgstr ""
+
+#: 10401:94
+
+msgid "{Kazushi}\n\"It looks like it's going to take some time.\""
+msgstr ""
+
+#: 10401:97
+
+msgid "{Haruka}\n\"I see. It will take a lot of money, won't it? But if we both work hard, it won't take long.\""
+msgstr ""
+
+#: 10401:98
+
+msgid "Haruka was skipping with excitement, even though all we did was reaffirm our distant goal."
+msgstr ""
+
+#: 10401:99
+
+msgid "{Kazushi}\n\"You look so happy, Haruka.\""
+msgstr ""
+
+#: 10401:102
+
+msgid "{Haruka}\n\"Yes, I am. Because now I have a goal to achieve. No, it's more of a dream.\""
+msgstr ""
+
+#: 10401:103
+
+msgid "{Kazushi}\n\"A dream? You make it sound like you've never had one before.\""
+msgstr ""
+
+#: 10401:104
+
+msgid "{Haruka}\n\"Well, no. I haven't, really.\""
+msgstr ""
+
+#: 10401:105
+
+msgid "{Kazushi}\n\"Really? What about becoming an alchemist, like the principal?\""
+msgstr ""
+
+#: 10401:106
+
+msgid "{Haruka}\n\"That was more real than a dream I guess. I studied every day, and it was just the result of that. So it didn't really feel like a dream.\""
+msgstr ""
+
+#: 10401:107
+
+msgid "{Kazushi}\n\"Oh, yeah?\""
+msgstr ""
+
+#: 10401:110
+
+msgid "{Haruka}\n\"Oh, yes. And...\""
+msgstr ""
+
+#: 10401:111
+
+msgid "Suddenly, Haruka's tone fell."
+msgstr ""
+
+#: 10401:114
+
+msgid "{Haruka}\n\"It was all more, 'I have to do this,' rather than 'it would be nice to do this.' It was the same with my grandma.\""
+msgstr ""
+
+#: 10401:117
+
+msgid "{Haruka}\n\"But then I met you, Kazushi-kun, and I finally though 'it would be nice to do this someday.' That's why every day is so much fun.\""
+msgstr ""
+
+#: 10401:118
+
+msgid "{Kazushi}\n\"It's fun for me too.\""
+msgstr ""
+
+#: 10401:119
+
+msgid "I never really thought about the fact that every day was fun before I met Haruka. That's all different now, though."
+msgstr ""
+
+#: 10401:120
+
+msgid "{Haruka}\n\"I'm happy today, and looking forward to tomorrow too. Because today, tomorrow, and the day after will all lead to that 'someday'.\""
+msgstr ""
+
+#: 10401:123
+
+msgid "{Haruka}\n\"You're the one who showed me that dream, Kazushi-kun. No, you've become my dream.\""
+msgstr ""
+
+#: 10401:124
+
+msgid "Her shining eyes looked straight at me.\nWhat beautiful, bright eyes they are!"
+msgstr ""
+
+#: 10401:125
+
+msgid "{Kazushi}\n\"You're embarrassing me!\""
+msgstr ""
+
+#: 10401:128
+
+msgid "{Haruka}\n\"Ahaha. Sorry. I'm embarrassed too.\""
+msgstr ""
+
+#: 10401:129
+
+msgid "Haruka fidgeted, her cheeks flushed, and I blushed too. The sea breeze gently caressed our warm cheeks."
+msgstr ""
+
+#: 10401:132
+
+msgid "{Haruka}\n\"Let's go some day. You and me. Promise?\""
+msgstr ""
+
+#: 10401:133
+
+msgid "{Kazushi}\n\"Sure. Promise. I will take you there, no matter what.\""
+msgstr ""
+
+#: 10401:134
+
+msgid "{Haruka}\n\"Thanks.\""
+msgstr ""
+
+#: 10401:135
+
+msgid "Holding hands together, we watched the ocean for a long time while imagining the world beyond the horizon."
+msgstr ""
+
+#: 10401:141
+
+msgid ".................."
+msgstr ""
+
+#: 10401:142
+
+msgid "............"
+msgstr ""
+
+#: 10401:143
+
+msgid "I woke up with a hint of Haruka's sweet scent in my nose."
+msgstr ""
+
+#: 10401:144
+
+msgid "{Kazushi}\n\"...............A dream, huh?\""
+msgstr ""
+
+#: 10401:145
+
+msgid "A dream about just one month ago, when we were happy. Every day was fun, and we couldn't wait for tomorrow. A complete 180 from today."
+msgstr ""
+
+#: 10401:146
+
+msgid "{Kazushi}\n\"Our promise, huh...\""
+msgstr ""
+
+#: 10401:147
+
+msgid "I'll take you off this island. I'll introduce you to my family. We'll go on a journey together......"
+msgstr ""
+
+#: 10401:148
+
+msgid "Haruka had been looking forward to all of that, and yet I couldn't make her dream come true."
+msgstr ""
+
+#: 10401:149
+
+msgid "Is it impossible to fulfill my promises to her now? What can I even do for her now?"
+msgstr ""
+
+#: 10401:154
+
+msgid "{Kazushi}\n\"So beautiful.\""
+msgstr ""
+
+#: 10401:155
+
+msgid "With all of those white flowers blooming at once, it looked like a pure white carpet. The flowers that rarely bloom were blooming everywhere, just like when I first met Haruka."
+msgstr ""
+
+#: 10401:156
+
+msgid "{Principal}\n\"This is so amazing, isn't it?\""
+msgstr ""
+
+#: 10401:157
+
+msgid "I heard someone's softly surprised voice."
+msgstr ""
+
+#: 10401:160
+
+msgid "{Kazushi}\n\"Sensei.\""
+msgstr ""
+
+#: 10401:161
+
+msgid "It was the principal. She walked through the flowers to come towards me."
+msgstr ""
+
+#: 10401:162
+
+msgid "{Principal}\n\"They are very special flowers. It's not easy to get them bloom like this, even when you try to make them. But your friends did it quite simply.\""
+msgstr ""
+
+#: 10401:163
+
+msgid "Haruka also said these white flowers were very special."
+msgstr ""
+
+#: 10401:164
+
+msgid "{Kazushi}\n\"They're all incredible guys.\""
+msgstr ""
+
+#: 10401:165
+
+msgid "While I wandered through the darkness, they made sure to protect the flowers Haruka cherished. And they even pulled me back off the wrong path."
+msgstr ""
+
+#: 10401:166
+
+msgid "I have so much respect for them."
+msgstr ""
+
+#: 10401:169
+
+msgid "{Principal}\n\"By seeing these flowers, I can tell how much and how earnestly they love you and Haruka.\""
+msgstr ""
+
+#: 10401:170
+
+msgid "{Principal}\n\"Haruka was a very lucky girl to have friends like them.\""
+msgstr ""
+
+#: 10401:171
+
+msgid "The principal quietly stared at the blooming flowers, her eyes full of regret for the things she never noticed before."
+msgstr ""
+
+#: 10401:174
+
+msgid "{Principal}\n\"I should have paid more attention to her. My eyes were completely clouded.\""
+msgstr ""
+
+#: 10401:175
+
+msgid "The principal chuckled a bit. I knew she was blaming herself."
+msgstr ""
+
+#: 10401:176
+
+msgid "{Kazushi}\n\"Please don't blame yourself.\""
+msgstr ""
+
+#: 10401:177
+
+msgid "I knew how the principal felt. I would have continued on the same path as hers had I been alone."
+msgstr ""
+
+#: 10401:178
+
+msgid "However, my friends were there for me, just as Haruka had been there for the principal."
+msgstr ""
+
+#: 10401:179
+
+msgid "But now Haruka was gone."
+msgstr ""
+
+#: 10401:182
+
+msgid "{Principal}\n\"I'm okay......It's just started sinking in that I'm now completely alone.\""
+msgstr ""
+
+#: 10401:183
+
+msgid "The principal smiled warmly, yet sadly. I never knew that she could smile like that, and my heart ached to see such a gentle smile on her exhausted face."
+msgstr ""
+
+#: 10401:184
+
+msgid "{Kazushi}\n\"But you have a son, right?\""
+msgstr ""
+
+#: 10401:185
+
+msgid "Her son - Haruka's father. He must have come to the funeral, but I didn't get to see him since I couldn't bring myself to go to the ceremony."
+msgstr ""
+
+#: 10401:188
+
+msgid "{Principal}\n\"I fear that I have lost contact with him completely after this tragedy. He's never liked alchemy to begin with. Maybe he genuinely hates it now.\""
+msgstr ""
+
+#: 10401:189
+
+msgid "{Kazushi}\n\"I'm sorry to hear that...\""
+msgstr ""
+
+#: 10401:190
+
+msgid "He'd reluctantly let Haruka come to this academy because it was Haruka's only wish to learn alchemy. But when this was the result, who would blame him."
+msgstr ""
+
+#: 10401:191
+
+msgid "{Principal}\n\"Everyone in my family has left me. Maybe this is a punishment from god.\""
+msgstr ""
+
+#: 10401:192
+
+msgid "{Kazushi}\n\"No, please don't say that.\""
+msgstr ""
+
+#: 10401:193
+
+msgid "{Principal}\n\"Well, being alone may not be as bad as I think. Besides, there's nobody left in my family to lose.\""
+msgstr ""
+
+#: 10401:194
+
+msgid "Her eyes told me that the principal had given up on everything. Haruka wouldn't have wanted to see her grandma like this. I couldn't just leave her alone..."
+msgstr ""
+
+#: 10401:195
+
+msgid "{Kazushi}\n\"Then...\nI will become your grandson!\""
+msgstr ""
+
+#: 10401:198
+
+msgid "{Principal}\n\"What? You...my grandson?\""
+msgstr ""
+
+#: 10401:199
+
+msgid "{Kazushi}\n\"Why not? I was planning to be, anyways. I was very serious about being with Haruka.\""
+msgstr ""
+
+#: 10401:200
+
+msgid "{Principal}\n\"No, that's crazy.\""
+msgstr ""
+
+#: 10401:201
+
+msgid "The principal was speechless in surprise, but I was dead serious."
+msgstr ""
+
+#: 10401:202
+
+msgid "{Kazushi}\n\"Yes, it may sound crazy. But so what? Can you just think of me as your real grandson?\""
+msgstr ""
+
+#: 10401:203
+
+msgid "I couldn't leave the principal by herself to wallow in her loneliness. That's not what Haruka wanted."
+msgstr ""
+
+#: 10401:206
+
+msgid "{Principal}\n\"...pft.\""
+msgstr ""
+
+#: 10401:207
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 10401:208
+
+msgid "What's so funny? The principal was trying to suppress her laughter."
+msgstr ""
+
+#: 10401:209
+
+msgid "{Kazushi}\n\"Excuse me, principal... Can I be...your grandson...?\""
+msgstr ""
+
+#: 10401:210
+
+msgid "{Principal}\n\"Oh, I'm sorry. I couldn't help myself. I can see why Haruka liked you so much.\""
+msgstr ""
+
+#: 10401:211
+
+msgid "{Kazushi}\n\"Oh, yeah...?\""
+msgstr ""
+
+#: 10401:212
+
+msgid "But is it really that funny?"
+msgstr ""
+
+#: 10401:213
+
+msgid "{Principal}\n\"I wish I was ten years younger...\""
+msgstr ""
+
+#: 10401:214
+
+msgid "{Kazushi}\n\"Ten years younger?\""
+msgstr ""
+
+#: 10401:215
+
+msgid "The principal chuckled mischievously. Is she teasing me? Is this really the same principal?"
+msgstr ""
+
+#: 10401:216
+
+msgid "{Principal}\n\"Thank you, Haruma-kun. I really mean it. Your kindness really touches me. I'm happy just to have those sentiments.\""
+msgstr ""
+
+#: 10401:217
+
+msgid "{Kazushi}\n\"Why just the sentiments? Regardless of what you say, I will be your grandson eventually.\""
+msgstr ""
+
+#: 10401:220
+
+msgid "{Principal}\n\"You will be?\""
+msgstr ""
+
+#: 10401:223
+
+msgid "{Kazushi}\n\"I haven't given up on Haruka yet.\""
+msgstr ""
+
+#: 10401:224
+
+msgid "{Principal}\n\"What? But that's...\""
+msgstr ""
+
+#: 10401:225
+
+msgid "{Kazushi}\n\"So please, I want to be your apprentice!\""
+msgstr ""
+
+#: 10401:226
+
+msgid "{Principal}\n\"My apprentice?\""
+msgstr ""
+
+#: 10401:227
+
+msgid "The principal looked surprised and confused."
+msgstr ""
+
+#: 10401:230
+
+msgid "{Principal}\n\"My apprentice? Do you mean you want to become an alchemist?\""
+msgstr ""
+
+#: 10401:231
+
+msgid "{Kazushi}\n\"I didn't say I wanted to become your grandson on a whim. I have decided to study alchemy for the rest of my life.\""
+msgstr ""
+
+#: 10401:232
+
+msgid "{Principal}\n\"But...\""
+msgstr ""
+
+#: 10401:233
+
+msgid "{Kazushi}\n\"Please!\""
+msgstr ""
+
+#: 10401:234
+
+msgid "I bowed deeply. The principal looked perplexed."
+msgstr ""
+
+#: 10401:235
+
+msgid "{Principal}\n\"Please raise your head.\""
+msgstr ""
+
+#: 10401:236
+
+msgid "The principal lowered her head to look directly into my face."
+msgstr ""
+
+#: 10401:237
+
+msgid "{Principal}\n\"Are you trying to take Haruka's place?\""
+msgstr ""
+
+#: 10401:238
+
+msgid "She asked me with a gentle voice."
+msgstr ""
+
+#: 10401:239
+
+msgid "{Principal}\n\"I know you're worried about me, but you don't have to take the entire burden on yourself, Kazushi.\""
+msgstr ""
+
+#: 10401:240
+
+msgid "{Kazushi}\n\"No, that's not the reason. I'm asking this because it's what I want to do.\""
+msgstr ""
+
+#: 10401:241
+
+msgid "{Principal}\n\"Are you sure?\""
+msgstr ""
+
+#: 10401:242
+
+msgid "{Kazushi}\n\"Haruka always said that alchemy existed to make people happy. I want to study the alchemy that Haruka loved.\""
+msgstr ""
+
+#: 10401:243
+
+msgid "{Kazushi}\n\"I will take all the classes and study as hard as possible, so please teach me alchemy.\""
+msgstr ""
+
+#: 10401:244
+
+msgid "I've never asked anyone to teach me something so desperately. But now, I simply want to know more about alchemy, the subject Haruka dedicated her life to."
+msgstr ""
+
+#: 10401:245
+
+msgid "The principal sighed deeply and smiled a bit."
+msgstr ""
+
+#: 10401:248
+
+msgid "{Principal}\n\"In that case, I will gladly teach you.\""
+msgstr ""
+
+#: 10401:249
+
+msgid "{Kazushi}\n\"Really!?\""
+msgstr ""
+
+#: 10401:252
+
+msgid "{Principal}\n\"Of course. Though teaching may be a misnomer - studying together may be closer to the truth.\""
+msgstr ""
+
+#: 10401:253
+
+msgid "The principal gazed out and took in the carpet of flowers in full bloom."
+msgstr ""
+
+#: 10401:256
+
+msgid "{Principal}\n\"For a long time, I'd forgotten how to enjoy alchemy. Yet you and Haruka have reminded me of it.\""
+msgstr ""
+
+#: 10401:257
+
+msgid "{Principal}\n\"I studied so hard in order to catch up with my husband. I loved what I was doing and enjoyed myself very much, but I forgot about those feelings for a long time.\""
+msgstr ""
+
+#: 10401:260
+
+msgid "The principal looked as though she were reminiscing about the good old days. She smiled happily."
+msgstr ""
+
+#: 10401:261
+
+msgid "{Principal}\n\"I know how you feel about studying alchemy. I felt the same way. I want to get those feelings back.\""
+msgstr ""
+
+#: 10401:262
+
+msgid "{Principal}\n\"So I won't say that I'm going to be teaching you. Rather, I want to study together with you, Haruma-kun. Is that okay?\""
+msgstr ""
+
+#: 10401:263
+
+msgid "{Kazushi}\n\"Yes, of course!\""
+msgstr ""
+
+#: 10401:264
+
+msgid "Studying alchemy will help me understand more about Haruka. That's why I want to learn about it."
+msgstr ""
+
+#: 10401:267
+
+msgid "{Principal}\n\"Since Haruka is gone, I had almost given up on finding a successor.\""
+msgstr ""
+
+#: 10401:268
+
+msgid "The principal squinting at the carpet of white flowers."
+msgstr ""
+
+#: 10401:269
+
+msgid "{Principal}\n\"Looking on them now, I remember when I first came to this island...\""
+msgstr ""
+
+#: 10401:270
+
+msgid "A wide grin spread across her face as she gazed in recollection. I felt the exact same way."
+msgstr ""
+
+#: 10401:271
+
+msgid "{Kazushi}\n\"I remember when I first met Haruka.\""
+msgstr ""
+
+#: 10401:273
+
+msgid "It was like this, in the middle of these blooming flowers, that I met Haruka for the first time."
+msgstr ""
+
+#: 10401:274
+
+msgid "I remembered it clearly. We just stared at each other with no awareness for the passing of time. It seemed as if everything was for all eternity."
+msgstr ""
+
+#: 10401:277
+
+msgid "{Kazushi}\n\"Haruka...\""
+msgstr ""
+
+#: 10401:280
+
+msgid "The Haruka of my illusions smiled."
+msgstr ""
+
+#: 10401:281
+
+msgid "{Principal}\n\"I feel like everything started from here. And also, that something new will take its first step from here.\""
+msgstr ""
+
+#: 10401:282
+
+msgid "The principal must have seen her husband in her eyes. The flowers murmured as she smiled, and the white garden began to shine."
+msgstr ""
+
+#: 10401:285
+
+msgid "{Kazushi}\n\"Is this...?\""
+msgstr ""
+
+#: 10401:286
+
+msgid "{Principal}\n\"Seibe-san, I was happy to be loved by you. Thank you.\""
+msgstr ""
+
+#: 10401:287
+
+msgid "The light grew stronger. At first, I thought it was another illusion, but it wasn't. The illusion of Haruka faded in the shining light."
+msgstr ""
+
+#: 10401:288
+
+msgid "Our vision was filled with the pure, glowing light."
+msgstr ""
+
+#: 10401:290
+
+msgid "{Kazushi}\n\"Wh-what is this?\""
+msgstr ""
+
+#: 10401:291
+
+msgid "It was there, deep down inside my heart. I didn't even know these feelings were there, and I wasn't able to see or feel them before."
+msgstr ""
+
+#: 10401:292
+
+msgid "It was just like how you can't see the depths of the ocean when the water churns. That's why I never noticed before."
+msgstr ""
+
+#: 10401:294
+
+msgid "With my eyes closed, I could still see the light in the dark. The light glowed gently, and I felt a feeling of deja vu."
+msgstr ""
+
+#: 10401:295
+
+msgid "The light illuminated the inner part of my soul and my entire being. Why did it feel so nostalgic and dear?"
+msgstr ""
+
+#: 10401:296
+
+msgid "Wait..."
+msgstr ""
+
+#: 10401:297
+
+msgid "{Kazushi}\n\"Haruka...?\""
+msgstr ""
+
+#: 10401:298
+
+msgid "Is this Haruka?\nYes, I can feel her.\nDoes this feeling lead me towards Haruka?"
+msgstr ""
+
+#: 10401:299
+
+msgid "When I made love with her, I felt we were connected at a deeper level. And now I have the same feeling."
+msgstr ""
+
+#: 10401:300
+
+msgid "Is this just some kind of remnant of that feeling? Like a phantom pain you might get after having your leg amputated?"
+msgstr ""
+
+#: 10401:301
+
+msgid "{Kazushi}\n\".........\""
+msgstr ""
+
+#: 10401:302
+
+msgid "I carefully drew in a series of tiny threads like a spider reclaiming its web. I could feel something strong on the other end."
+msgstr ""
+
+#: 10401:303
+
+msgid "{Kazushi}\n\"I'm still connected...?\""
+msgstr ""
+
+#: 10401:304
+
+msgid "I haven't lost it? We're still connected? Where?"
+msgstr ""
+
+#: 10401:305
+
+msgid "{Kazushi}\n\"Haruka...are you there?\""
+msgstr ""
+
+#: 10401:306
+
+msgid "I feel like I'm flying through the air.\nNo...I'm in free-fall."
+msgstr ""
+
+#: 10401:307
+
+msgid "I can sense myself falling deeper and deeper."
+msgstr ""
+
+#: 10401:314
+
+msgid "{Kazushi}\n(What? Where am I?)"
+msgstr ""
+
+#: 10401:315
+
+msgid "This is the basement at school. And that horrible memory has returned."
+msgstr ""
+
+#: 10401:316
+
+msgid "{Kazushi}\n(Hmm...?)"
+msgstr ""
+
+#: 10401:317
+
+msgid "I can't move. It feels like I'm lying on the cold hard ground."
+msgstr ""
+
+#: 10401:318
+
+msgid "It's dark. And I see the collapsed rocks around me."
+msgstr ""
+
+#: 10401:319
+
+msgid "{Kazushi}\n(This is...?)"
+msgstr ""
+
+#: 10401:321
+
+msgid "{???}\n *sniff* *sob* *sob*"
+msgstr ""
+
+#: 10401:322
+
+msgid "I can hear someone crying. Is it Haruka? No... it's the principal, but when she was younger."
+msgstr ""
+
+#: 10401:323
+
+msgid "{???}\n\"Sensei...*sob*...\""
+msgstr ""
+
+#: 10401:324
+
+msgid "Her sobbing dwindled down and the young principal left in tears. So who am I?"
+msgstr ""
+
+#: 10401:325
+
+msgid "{Kazushi}\n(Am I her husband?)"
+msgstr ""
+
+#: 10401:326
+
+msgid "This must be another dream. I'm having another nightmare about that accident."
+msgstr ""
+
+#: 10401:327
+
+msgid "I had no feeling in my legs. I must have been injured."
+msgstr ""
+
+#: 10401:328
+
+msgid "{Kazushi}\n(There is no way I can move like this.)"
+msgstr ""
+
+#: 10401:329
+
+msgid "I had already grown too weak to speak. I couldn't get my body to move. But above all that, I felt a deep, bottomless fear."
+msgstr ""
+
+#: 10401:330
+
+msgid "The source of all fear is death. And it's the creeping shadow of death that's scaring me - I mean Seibe-sensei."
+msgstr ""
+
+#: 10401:332
+
+msgid "I have no idea how good of an alchemist Haruka's grandpa was, but watching death creep up for the very first time made even such a powerful alchemist as frightened as a child."
+msgstr ""
+
+#: 10401:334
+
+msgid "{Kazushi}\n(Ugh...!)"
+msgstr ""
+
+#: 10401:337
+
+msgid "My eyesight was diminishing. The blurry images of my surroundings were growing harder to see."
+msgstr ""
+
+#: 10401:338
+
+msgid "I was alone. I was terrified at the fact that I was alone. The thought of dying alone was far heavier than I had imagined."
+msgstr ""
+
+#: 10401:339
+
+msgid "{Kazushi}\n(Somebody...)"
+msgstr ""
+
+#: 10401:341
+
+msgid "I would scream out for help if my voice were still capable of leaving my mouth. I cried out in my mind...\nSomebody! Help me!"
+msgstr ""
+
+#: 10401:345
+
+msgid "I was going mad from the fear of death. I thought I had been prepared to die, but here I was panicking."
+msgstr ""
+
+#: 10401:346
+
+msgid "While one part of me felt it all objectively and found it ridiculous, another part of me was crying in fear like a little child."
+msgstr ""
+
+#: 10401:351
+
+msgid "Finally, my sight was gone. I was enveloped in complete darkness. Death was darkness."
+msgstr ""
+
+#: 10401:352
+
+msgid "{Kazushi}\n(Somebody...Help me!!)"
+msgstr ""
+
+#: 10401:353
+
+msgid "I prayed desperately."
+msgstr ""
+
+#: 10401:357
+
+msgid "Then, a dazzling light shined into my lost vision."
+msgstr ""
+
+#: 10401:358
+
+msgid "{Kazushi}\n(......!!)"
+msgstr ""
+
+#: 10401:360
+
+msgid "The dazzling light burned my eyeballs, even as I shut my eyes. Amidst the light, a red dot with a yellowish tinge appeared. It shone brighter than the light and began to fill my vision."
+msgstr ""
+
+#: 10401:362
+
+msgid "{Kazushi}\n(What is this!?)"
+msgstr ""
+
+#: 10401:363
+
+msgid "In no time, the red light became large enough to embrace my entire body."
+msgstr ""
+
+#: 10401:365
+
+msgid "{Kazushi}\n\"What the--?\""
+msgstr ""
+
+#: 10401:366
+
+msgid "I was in that flower garden. The one where Haruka and I met."
+msgstr ""
+
+#: 10401:367
+
+msgid "{Kazushi}\n\"No...it is not.\""
+msgstr ""
+
+#: 10401:368
+
+msgid "It looked similar, but I'm not on Eiden Island."
+msgstr ""
+
+#: 10401:369
+
+msgid "{Kazushi}\n\"What is this place?\""
+msgstr ""
+
+#: 10401:370
+
+msgid "I had no idea. The only thing I knew is that this world was born together along with that light."
+msgstr ""
+
+#: 10401:371
+
+msgid "The world that enveloped me and Seibe-sensei as it was born."
+msgstr ""
+
+#: 10401:372
+
+msgid "{Kazushi}\n\"Ah...\""
+msgstr ""
+
+#: 10401:373
+
+msgid "There was a gentleman standing before me. Since when has he been here?"
+msgstr ""
+
+#: 10401:376
+
+msgid "{Seibe}\n\"We meet at last.\""
+msgstr ""
+
+#: 10401:377
+
+msgid "{Kazushi}\n\"Are you Seibe-san?\""
+msgstr ""
+
+#: 10401:378
+
+msgid "This was the first time I'd ever met him in person, but I could recognize him because I was him in my dreams."
+msgstr ""
+
+#: 10401:379
+
+msgid "{Seibe}\n\"I've been waiting for you for a long time, but I knew you would make it eventually because Haruka loved you.\""
+msgstr ""
+
+#: 10401:380
+
+msgid "{Kazushi}\n\"You know about us?\""
+msgstr ""
+
+#: 10401:381
+
+msgid "It was a total surprise that he knew about Haruka and me. I thought I was just having a one-way dream about someone from the past."
+msgstr ""
+
+#: 10401:382
+
+msgid "Seibe chuckled as he saw my reaction."
+msgstr ""
+
+#: 10401:383
+
+msgid "{Seibe}\n\"I knew that long before you two did. I witnessed the fact that it was one future out of the many possibly futures awaiting you.\""
+msgstr ""
+
+#: 10401:384
+
+msgid "{Seibe}\n\"The stone has such a power as well.\""
+msgstr ""
+
+#: 10401:385
+
+msgid "He smiled calmly. The stone?"
+msgstr ""
+
+#: 10401:386
+
+msgid "{Kazushi}\n\"Umm...What is this place?\""
+msgstr ""
+
+#: 10401:387
+
+msgid "Am I really talking with the principal's husband who died so many years ago? Am I in my dreams again?"
+msgstr ""
+
+#: 10401:388
+
+msgid "{Seibe}\n\"This is the world Hisae created after my death.\""
+msgstr ""
+
+#: 10401:389
+
+msgid "{Kazushi}\n\"Huh? Hisae?\""
+msgstr ""
+
+#: 10401:390
+
+msgid "That's the principal's name. Then she created this world? I looked around..."
+msgstr ""
+
+#: 10401:391
+
+msgid "{Seibe}\n\"This is a world Hisae created, and that's why it resembles Eiden Island. This is a world where I, who should have died, can live on.\""
+msgstr ""
+
+#: 10401:392
+
+msgid "{Kazushi}\n\"Are you?\""
+msgstr ""
+
+#: 10401:393
+
+msgid "{Seibe}\n\"Hisae couldn't forgive herself for not being able to save me. That's why she wished so strongly.\""
+msgstr ""
+
+#: 10401:394
+
+msgid "{Seibe}\n\"She wished for a world in which I didn't die, and even though that was probably done subconsciously, her wish was too strong to ignore.\""
+msgstr ""
+
+#: 10401:395
+
+msgid "{Kazushi}\n\"Who couldn't ignore it?\""
+msgstr ""
+
+#: 10401:396
+
+msgid "{Seibe}\n\"This stone.\""
+msgstr ""
+
+#: 10401:397
+
+msgid "A soft light appeared in the air. It was a stone giving off a faint glow."
+msgstr ""
+
+#: 10401:398
+
+msgid "That is the stone which was buried in my dream. The stone that the principal and Seibe-san were studying."
+msgstr ""
+
+#: 10401:399
+
+msgid "It was about as big as a chicken egg, and had a smooth surface. The shell didn't look hard, though, but rather soft and elastic."
+msgstr ""
+
+#: 10401:400
+
+msgid "The surface was red with a yellowish tinge. The closer to the center, the more golden it looked. Was this really a stone?"
+msgstr ""
+
+#: 10401:401
+
+msgid "{Kazushi}\n\"It's like the stone is alive.\""
+msgstr ""
+
+#: 10401:402
+
+msgid "The stone had a soothing effect as it emanated warmth. The light it gave pulsed like a heartbeat."
+msgstr ""
+
+#: 10401:403
+
+msgid "{Kazushi}\n\"Is this the island's...?\""
+msgstr ""
+
+#: 10401:404
+
+msgid "{Seibe}\n\"That's right. This stone is the answer to the mystery of the island and the source of all its power. It's this stone which made Hisae's subconscious wish come true.\""
+msgstr ""
+
+#: 10401:405
+
+msgid "{Kazushi}\n\"The principal's wish...\""
+msgstr ""
+
+#: 10401:406
+
+msgid "Her wish was probably not to let Seibe-san die. It must have been so strong and intense."
+msgstr ""
+
+#: 10401:407
+
+msgid "And Seibe-san, too, wished at his very last moment that he wouldn't die. And when both of their wishes matched, this world was born."
+msgstr ""
+
+#: 10401:408
+
+msgid "This explains why I saw what I saw."
+msgstr ""
+
+#: 10401:409
+
+msgid "{Seibe}\n\"I am the final vestige of Seibe's consciousness. The world Hisae created was able to take me in and provide me with a temporary life.\""
+msgstr ""
+
+#: 10401:410
+
+msgid "{Kazushi}\n\"Did that stone work because of the principal's wish?\""
+msgstr ""
+
+#: 10401:411
+
+msgid "Her strong wish kept Seibe-san's consciousness from dying. Her wish created this parallel world."
+msgstr ""
+
+#: 10401:412
+
+msgid "{Seibe}\n\"This world is what Hisae sees inside her mind's eye. Therefore I guess you could say that I've lived on inside of her heart.\""
+msgstr ""
+
+#: 10401:413
+
+msgid "For the sake of the principal's peace of mind, Seibe-san consented to live on in her heart."
+msgstr ""
+
+#: 10401:414
+
+msgid "However, he had no idea at the time that it would turn into an alternate reality."
+msgstr ""
+
+#: 10401:415
+
+msgid "{Kazushi}\n\"Does the principal know about this parallel world?\""
+msgstr ""
+
+#: 10401:416
+
+msgid "{Seibe}\n\"No, she doesn't. Her wish was fulfilled, but she never knew it. It's pretty ironic, isn't it?\""
+msgstr ""
+
+#: 10401:417
+
+msgid "{Kazushi}\n\"Why don't we just tell her?\""
+msgstr ""
+
+#: 10401:418
+
+msgid "If the two of them could be reunited again, then I'm sure Haruka would be happy. However, Seibe-san firmly shook his head."
+msgstr ""
+
+#: 10401:419
+
+msgid "{Seibe}\n\"My existence is a warped one which can only exist in this world. That's why I haven't been able to tell Hisae about me.\""
+msgstr ""
+
+#: 10401:420
+
+msgid "Does that mean he's trapped here for good?"
+msgstr ""
+
+#: 10401:421
+
+msgid "{Kazushi}\n\"Then, it's like you're imprisoned in a cage...\""
+msgstr ""
+
+#: 10401:422
+
+msgid "Seibe-san smiled gently, as if to affirm that I was right."
+msgstr ""
+
+#: 10401:423
+
+msgid "He's been stranded on this world - truly caught between life and death, unable to do either."
+msgstr ""
+
+#: 10401:424
+
+msgid "{Seibe}\n\"I wouldn't mind being like this, if only I could bring peace and comfort to Hisae. But Hisae doesn't even know I'm here.\""
+msgstr ""
+
+#: 10401:425
+
+msgid "{Seibe}\n\"However, that's almost over. This world will also end soon.\""
+msgstr ""
+
+#: 10401:426
+
+msgid "{Kazushi}\n\"End? You mean it'll disappear? Why? What's gonna happen to you?\""
+msgstr ""
+
+#: 10401:427
+
+msgid "If Seibe-san can only live in this parallel existence, then what'll happen to him when it vanishes?"
+msgstr ""
+
+#: 10401:428
+
+msgid "{Seibe}\n\"It is only natural that this happens.\""
+msgstr ""
+
+#: 10401:429
+
+msgid "Instead of answering my question, Seibe-san spoke in riddles. Or was that his answer? He wore a gentle smile, as if he had prepared himself for this long ago."
+msgstr ""
+
+#: 10401:430
+
+msgid "It may only be natural, but before that..."
+msgstr ""
+
+#: 10401:431
+
+msgid "{Seibe}\n\"Before that happens, I have something I must do.\""
+msgstr ""
+
+#: 10401:432
+
+msgid "Seibe-san and I shared the same thought. Because I've seen the past through his eyes, it probably made him feel very close to me."
+msgstr ""
+
+#: 10401:433
+
+msgid "{Seibe}\n\"I want to make one last, selfish desire of mine come true. That's why I've been waiting for you.\""
+msgstr ""
+
+#: 10401:434
+
+msgid "{Kazushi}\n\"What? For me?\""
+msgstr ""
+
+#: 10401:436
+
+msgid "{Seibe}\n\"When this world was created, I glimpsed the stone's 'will'. All the principles founding our world are packed within the stone. By taking a glimpse at that, I was able to witness the future.\""
+msgstr ""
+
+#: 10401:438
+
+msgid "{Kazushi}\n\"You witnessed the future... Then, you knew what was going to happen?\""
+msgstr ""
+
+#: 10401:439
+
+msgid "{Seibe}\n\"I knew you were coming to this island. And that you would fall from that rope bridge. That's why I saved you.\""
+msgstr ""
+
+#: 10401:440
+
+msgid "{Kazushi}\n\"What?...Rope bridge?\""
+msgstr ""
+
+#: 10401:441
+
+msgid "He must be talking about when we first arrived on the island. Yeah, I fell from the bridge...\nBut that was..."
+msgstr ""
+
+#: 10401:442
+
+msgid "{Kazushi}\n\"............oh.\""
+msgstr ""
+
+#: 10401:447
+
+msgid "{Kazushi}\n\"Aahhhhh.........!!\""
+msgstr ""
+
+#: 10401:448
+
+msgid "I was plummeting towards the ground at an incredible speed."
+msgstr ""
+
+#: 10401:449
+
+msgid "When I looked up, I saw the rope bridge. Below lay the dense forest. And the forest was drawing closer."
+msgstr ""
+
+#: 10401:450
+
+msgid "{Kazushi}\n\"I-I don't want to die...!!\""
+msgstr ""
+
+#: 10401:451
+
+msgid "I don't want to die a virgin! I want a girlfriend!"
+msgstr ""
+
+#: 10401:452
+
+msgid "{???}\n\"Take care of Haruka.\""
+msgstr ""
+
+#: 10401:453
+
+msgid "{Kazushi}\n\"What...?\""
+msgstr ""
+
+#: 10401:457
+
+msgid "At that moment, I was engulfed in a dazzling light."
+msgstr ""
+
+#: 10401:458
+
+msgid "{Kazushi}\n\"Ugh...!!\""
+msgstr ""
+
+#: 10401:459
+
+msgid "It felt like being cradled in a parent's arms."
+msgstr ""
+
+#: 10401:465
+
+msgid "{Kazushi}\n\"Urgh...\""
+msgstr ""
+
+#: 10401:466
+
+msgid "I found myself lying on the cold dirt. Then I got up."
+msgstr ""
+
+#: 10401:467
+
+msgid "{Kazushi}\n\"Where am I?\""
+msgstr ""
+
+#: 10401:468
+
+msgid "I felt confused - I thought I was in my room waking up from a bad dream. However, my memories returned instantly."
+msgstr ""
+
+#: 10401:469
+
+msgid "{Kazushi}\n\"That's right, I fell from the bridge.\""
+msgstr ""
+
+#: 10401:470
+
+msgid "At that time, I hadn't thought much about it. I looked up at the rope bridge and wondered just how high up it was."
+msgstr ""
+
+#: 10401:471
+
+msgid "{Kazushi}\n\"Wow, I'm alive! I'm awesome!\""
+msgstr ""
+
+#: 10401:472
+
+msgid "I thought it was a miracle that I fell from such a height without being injured. I thought I was the luckiest man alive."
+msgstr ""
+
+#: 10401:473
+
+msgid "But I guess that wasn't the case at all. I didn't miraculously survive, I was rescued."
+msgstr ""
+
+#: 10401:478
+
+msgid "{Seibe}\n\"Now do you remember?\""
+msgstr ""
+
+#: 10401:479
+
+msgid "{Kazushi}\n\"Yes. But why me?\""
+msgstr ""
+
+#: 10401:480
+
+msgid "{Kazushi}\n\"Can't you just talk to your wife like you're doing with me now?\""
+msgstr ""
+
+#: 10401:481
+
+msgid "{Seibe}\n\"Unfortunately, no, I can't. I can only exist on this side of the world and nowhere else.\""
+msgstr ""
+
+#: 10401:482
+
+msgid "{Kazushi}\n\"Then why me?\""
+msgstr ""
+
+#: 10401:483
+
+msgid "You can talk to me and even saved my life."
+msgstr ""
+
+#: 10401:484
+
+msgid "{Seibe}\n\"That's because you were about to die. In life and death situations, your soul becomes so pure that I can try to physically reach out to it.\""
+msgstr ""
+
+#: 10401:485
+
+msgid "{Seibe}\n\"Many years ago, I tried to save one of this academy's girls, but it didn't work that time. I was unable to save her, the poor thing.\""
+msgstr ""
+
+#: 10401:486
+
+msgid "{Kazushi}\n\"Does that mean it only worked through sheer luck?\""
+msgstr ""
+
+#: 10401:487
+
+msgid "{Seibe}\n\"Haruma-kun, don't you remember what I told you? I knew you'd be coming to the island, so I was prepared. And now we've finally met.\""
+msgstr ""
+
+#: 10401:488
+
+msgid "{Kazushi}\n\"What do you want me to do?\""
+msgstr ""
+
+#: 10401:489
+
+msgid "I figured that Seibe-san needs my help, but I have no idea what he's trying to request."
+msgstr ""
+
+#: 10401:490
+
+msgid "{Kazushi}\n\"I want to help you. Tell me what I can do.\""
+msgstr ""
+
+#: 10401:491
+
+msgid "Haruka would help her grandparents in any way possible, so this is going to be for Haruka too."
+msgstr ""
+
+#: 10401:492
+
+msgid "{Seibe}\n\"Thank you. There is one thing I want you to do for me.\""
+msgstr ""
+
+#: 10401:493
+
+msgid "{Kazushi}\n\"Yes. If I can.\""
+msgstr ""
+
+#: 10401:494
+
+msgid "{Seibe}\n\"I know you can. I want you to take me out of this place.\""
+msgstr ""
+
+#: 10401:501
+
+msgid "{Kazushi}\n\"Nngh...\""
+msgstr ""
+
+#: 10401:503
+
+msgid "{Principal}\n\"Haruma-kun! Haruma-kun!\""
+msgstr ""
+
+#: 10401:504
+
+msgid "When I woke up, I heard the principal calling to me. However, it felt far away, as if I was looking up at the sky from underneath the water."
+msgstr ""
+
+#: 10401:505
+
+msgid "{Principal}\n\"Haruma-kun! Are you okay?\""
+msgstr ""
+
+#: 10401:506
+
+msgid "Again, somebody shook my body. And the sun's rays, too, ran through me."
+msgstr ""
+
+#: 10401:507
+
+msgid "I felt like a strength was gathering up inside me as I lay under the warm sunlight."
+msgstr ""
+
+#: 10401:508
+
+msgid "The time has come. Something inside of me has awoken."
+msgstr ""
+
+#: 10401:509
+
+msgid "{Kazushi}\n\"Hisae......\""
+msgstr ""
+
+#: 10401:510
+
+msgid "Seibe-san was using my body to speak to his wife."
+msgstr ""
+
+#: 10401:513
+
+msgid "{Principal}\n\"Excuse me?\""
+msgstr ""
+
+#: 10401:514
+
+msgid "The principal seemed a bit shocked at being called by her first name. She didn't know what was going on yet."
+msgstr ""
+
+#: 10401:515
+
+msgid "{Kazushi}\n\"Hisae, it's me.\""
+msgstr ""
+
+#: 10401:516
+
+msgid "{Principal}\n\"Me?\""
+msgstr ""
+
+#: 10401:517
+
+msgid "The principal tilted her head, but then her eyes were flung wide open as realized it."
+msgstr ""
+
+#: 10401:522
+
+msgid "{Principal}\n\"Seibe-san......is that you?\""
+msgstr ""
+
+#: 10401:528
+
+msgid "Surprise pierced her eyes as tears streamed down her face. The principal's face was flushed with joy, just like a young girl's. She travelled back in her memories to the time they first met."
+msgstr ""
+
+#: 10401:530
+
+msgid "{Principal}\n\"Seibe-san, why?\""
+msgstr ""
+
+#: 10401:531
+
+msgid "{Seibe}\n\"Hisae...\nI've kept you waiting for too long, haven't I?\""
+msgstr ""
+
+#: 10401:534
+
+msgid "{Principal}\n\"You've returned?\""
+msgstr ""
+
+#: 10401:535
+
+msgid "The principal clung to my body as the tears rolled down her cheeks. Seibe-san smiled softly back and slowly shook his head."
+msgstr ""
+
+#: 10401:536
+
+msgid "{Seibe}\n\"No, I must go now.\""
+msgstr ""
+
+#: 10401:539
+
+msgid "{Principal}\n\"What?\""
+msgstr ""
+
+#: 10401:540
+
+msgid "The principal's smile froze."
+msgstr ""
+
+#: 10401:541
+
+msgid "{Principal}\n\"Is that...so...\""
+msgstr ""
+
+#: 10401:542
+
+msgid "The principal quietly accepted what he said. It was clear that she was no longer a woman driven by a single desire. She even showed him a small, loving smile."
+msgstr ""
+
+#: 10401:545
+
+msgid "{Principal}\n\"Yes, this is only natural, isn't it? I understand that now.\""
+msgstr ""
+
+#: 10401:546
+
+msgid "Tears continued to pour down her smiling face. Seibe-san wiped them away with his finger."
+msgstr ""
+
+#: 10401:547
+
+msgid "{Seibe}\n\"Yes, this is the natural way of things.\""
+msgstr ""
+
+#: 10401:548
+
+msgid "{Principal}\n\"I will see you soon enough. I'm getting old myself - I'm a grandma now, you know.\""
+msgstr ""
+
+#: 10401:549
+
+msgid "{Seibe}\n\"You haven't changed a bit, Hisae. You're just as beautiful as you were years ago.\""
+msgstr ""
+
+#: 10401:550
+
+msgid "{Principal}\n\"You're embarrassing me...\""
+msgstr ""
+
+#: 10401:551
+
+msgid "The principal flushed slightly."
+msgstr ""
+
+#: 10401:552
+
+msgid "{Seibe}\n\"This place looks the same as before. There were so many flowers in full bloom just like this, when we first came here.\""
+msgstr ""
+
+#: 10401:553
+
+msgid "{Principal}\n\"I remember the flowers started to bloom immediately after we stepped onto the island.\""
+msgstr ""
+
+#: 10401:554
+
+msgid "{Seibe}\n\"Yeah. I remember that.\""
+msgstr ""
+
+#: 10401:555
+
+msgid "I finally got it. That's why the principal had her eye on me from the start. It was the exact same when Haruka and I first met."
+msgstr ""
+
+#: 10401:556
+
+msgid "And the principal was right. Before I knew it, I was saved by Seibe and influenced by his existence."
+msgstr ""
+
+#: 10401:557
+
+msgid "{Seibe}\n\"Since then, neither you nor this place have changed at all, and my feelings for you are the same. I love you even now, just as I always have.\""
+msgstr ""
+
+#: 10401:560
+
+msgid "{Principal}\n\"Ahh...\""
+msgstr ""
+
+#: 10401:561
+
+msgid "The principal caught her breath and began crying again."
+msgstr ""
+
+#: 10401:562
+
+msgid "{Seibe}\n\"I have always wanted to tell you that once again.\""
+msgstr ""
+
+#: 10401:563
+
+msgid "{Principal}\n\"I-I-I love you just the same, too.\""
+msgstr ""
+
+#: 10401:564
+
+msgid "They pledged themselves to each other again in the flower garden amidst a full bloom like a young couple vowing eternal love at the wedding."
+msgstr ""
+
+#: 10401:565
+
+msgid "{Principal}\n\"I swear, for all eternity...\""
+msgstr ""
+
+#: 10401:568
+
+msgid "The principal reached out to me, and the two reunited lovers kissed."
+msgstr ""
+
+#: 10401:569
+
+msgid "As the white flower petals danced with each other in the breeze, the two continued to kiss for a long, long time."
+msgstr ""
+
+#: 10401:574
+
+msgid "{Seibe}\n\"Now, it's time to say goodbye.\""
+msgstr ""
+
+#: 10401:575
+
+msgid "The statement was made with finality. The principal nodded calmly."
+msgstr ""
+
+#: 10401:576
+
+msgid "{Principal}\n\"Yes. See you soon.\""
+msgstr ""
+
+#: 10401:577
+
+msgid "The principal fought hard to smile through her tears. She wanted to send her most beloved off with a happy face."
+msgstr ""
+
+#: 10401:581
+
+msgid "{Seibe}\n\"Thank you, Haruma-kun. Thanks to you, I was able to tell my beloved I love her once more.\""
+msgstr ""
+
+#: 10401:582
+
+msgid "{Kazushi}\n\"This is the least I could do.\""
+msgstr ""
+
+#: 10401:583
+
+msgid "I felt Seibe-san leaving my body."
+msgstr ""
+
+#: 10401:584
+
+msgid "{Seibe}\n\"Thank you, Haruma-kun. Now the world Hisae created will vanish.\""
+msgstr ""
+
+#: 10401:585
+
+msgid "{Kazushi}\n\"I see. Then you are...\""
+msgstr ""
+
+#: 10401:586
+
+msgid "Seibe-san gave me a gentle smile. He would finally be able to rest in peace."
+msgstr ""
+
+#: 10401:587
+
+msgid "{Seibe}\n\"I leave the rest in your hands, Haruma-kun.\""
+msgstr ""
+
+#: 10401:588
+
+msgid "{Kazushi}\n\"What? The rest?\""
+msgstr ""
+
+#: 10401:589
+
+msgid "{Seibe}\n\"The greater portion of the stone's power was being used to maintain that world. But now it will be free of that duty.\""
+msgstr ""
+
+#: 10401:590
+
+msgid "{Seibe}\n\"You can do it... No, you're the only one I can ask to do it.\""
+msgstr ""
+
+#: 10401:591
+
+msgid "{Kazushi}\n\"Umm, ask me to do what...?\""
+msgstr ""
+
+#: 10401:592
+
+msgid "Seibe-san was fading away."
+msgstr ""
+
+#: 10401:593
+
+msgid "{Seibe}\n\"Take care of Hisae...and Haruka.\""
+msgstr ""
+
+#: 10401:594
+
+msgid "{Kazushi}\n\"What? Haruka?! Seibe-san, wait!\""
+msgstr ""
+
+#: 10401:596
+
+msgid "Seibe-san was gone."
+msgstr ""
+
+#: 10401:597
+
+msgid "And he left the red stone in my hands."
+msgstr ""
+
+#: 10401:598
+
+msgid "{Kazushi}\n\"The stone...\""
+msgstr ""
+
+#: 10401:599
+
+msgid "The stone looked red from one angle and gold from another. From my side, the principal stared into the glowing rock."
+msgstr ""
+
+#: 10401:602
+
+msgid "{Principal}\n\"This is what I've been looking for my entire life. The magical stone at the island's core: the treasure that is the source of this island's power.\""
+msgstr ""
+
+#: 10401:603
+
+msgid "This stone is also what gave birth to the world Seibe-san was in. This is source of power for this island's alchemy."
+msgstr ""
+
+#: 10401:604
+
+msgid "{Principal}\n\"He's bequeathed the stone to you.\""
+msgstr ""
+
+#: 10401:605
+
+msgid "{Kazushi}\n\"It seems like it.\""
+msgstr ""
+
+#: 10401:606
+
+msgid "The stone felt alive in my hands. The reddish-gold object pulsated like a beating heart."
+msgstr ""
+
+#: 10401:607
+
+msgid "{Kazushi}\n\"What am I going to do with it? ...Seibe-san is relying on me.\""
+msgstr ""
+
+#: 10401:608
+
+msgid "{Principal}\n\"He is?\""
+msgstr ""
+
+#: 10401:609
+
+msgid "The world created by the principal, where Seibe-san lived, was now gone. The world created by the Principal?\n\"I leave the rest in your hands\"...?"
+msgstr ""
+
+#: 10401:610
+
+msgid "Does that mean..."
+msgstr ""
+
+#: 10401:611
+
+msgid "{Kazushi}\n\".........\""
+msgstr ""
+
+#: 10401:612
+
+msgid "An idea flashed through my head. I couldn't give a reason why, but I knew that was the answer."
+msgstr ""
+
+#: 10401:615
+
+msgid "{Principal}\n\"What's the matter, Haruma-kun?\""
+msgstr ""
+
+#: 10401:616
+
+msgid "The stone that fulfilled the principal's wish is here in my hands. So he's telling me to do the same? Can I do it too?"
+msgstr ""
+
+#: 10401:617
+
+msgid "{Principal}\n\"Haruma-kun?\""
+msgstr ""
+
+#: 10401:618
+
+msgid "{Kazushi}\n\"Principal...how did you create that world?\""
+msgstr ""
+
+#: 10401:619
+
+msgid "{Principal}\n\"What world?\""
+msgstr ""
+
+#: 10401:620
+
+msgid "That's right. The principal didn't know about it. She'd created it subconsciously. All she did was make a wish with all her heart."
+msgstr ""
+
+#: 10401:621
+
+msgid "Which means there's no proper technique to do it. So..."
+msgstr ""
+
+#: 10401:622
+
+msgid "{Kazushi}\n\"Maybe I can do it after all...\""
+msgstr ""
+
+#: 10401:623
+
+msgid "I have to do it."
+msgstr ""
+
+#: 10401:624
+
+msgid "{Principal}\n\"Do what? Haruma-kun, what's going on?\""
+msgstr ""
+
+#: 10401:625
+
+msgid "{Kazushi}\n\"We might still be able to make it.\""
+msgstr ""
+
+#: 10401:627
+
+msgid "Seibe-san entrusted the task to me. This has to be the task he meant."
+msgstr ""
+
+#: 10401:628
+
+msgid "But I'm not really sure if I can pull this off or not. Even so, I have to do it. I have to try and remember what Haruka taught me."
+msgstr ""
+
+#: 10401:629
+
+msgid "{Kazushi}\n\"The process should be the same as alchemical refinement.\""
+msgstr ""
+
+#: 10401:630
+
+msgid "I know the procedures. Until just recently, I'd been shut in the lab endlessly refining away."
+msgstr ""
+
+#: 10401:631
+
+msgid "I should be pretty good at it by now."
+msgstr ""
+
+#: 10401:632
+
+msgid "{Kazushi}\n\"Hey, Haruka.\""
+msgstr ""
+
+#: 10401:633
+
+msgid "Now I need to visualize. I need to visualize the process that will make it happen."
+msgstr ""
+
+#: 10401:634
+
+msgid "I began to concentrate, and felt my mind growing sharper. I pictured Haruka strongly in my mind."
+msgstr ""
+
+#: 10401:636
+
+msgid "I closed my eyes and stared into the darkness. Finally, a small light began to appear."
+msgstr ""
+
+#: 10401:639
+
+msgid "It was a tiny point of light, smaller than a pinhead, but I sensed that everything would begin from there."
+msgstr ""
+
+#: 10401:640
+
+msgid "As they say, the universe began with a tiny atom exploding into everything."
+msgstr ""
+
+#: 10401:641
+
+msgid "That's it, explode! I began pouring energy into that tiny dot. I visualized all my strength, even my soul pouring into it."
+msgstr ""
+
+#: 10401:642
+
+msgid "This step was like raising the heat on the burner. Just as the water boils more quickly over a higher flame, the dot of light began to writhe."
+msgstr ""
+
+#: 10401:643
+
+msgid "It was like a living creature. The light shimmered and pulsated as it grew stronger."
+msgstr ""
+
+#: 10401:644
+
+msgid "{Kazushi}\n(More...More...)"
+msgstr ""
+
+#: 10401:645
+
+msgid "I started pouring my entire self into it from head to toe. I don't care if I've got nothing left. I don't care if I burn out the flame of my life."
+msgstr ""
+
+#: 10401:646
+
+msgid "More... Power..."
+msgstr ""
+
+#: 10401:651
+
+msgid "At that moment, I felt something exploding inside of me."
+msgstr ""
+
+#: 10401:656
+
+msgid "There was a bright white space. I found myself in there with nothing else. Did I fail?"
+msgstr ""
+
+#: 10401:657
+
+msgid "{Kazushi}\n\"Haruka.\""
+msgstr ""
+
+#: 10401:658
+
+msgid "Something appeared from the empty space. The silhouette clouded in white steadily became clearer."
+msgstr ""
+
+#: 10401:661
+
+msgid "{Haruka}\n\"You're amazing, Kazushi-kun.\""
+msgstr ""
+
+#: 10401:662
+
+msgid "{Kazushi}\n\"Haruka!!\""
+msgstr ""
+
+#: 10401:663
+
+msgid "The woman I loved was right before my eyes with a gentle smile as if she were chiding a mischievous boy."
+msgstr ""
+
+#: 10401:664
+
+msgid "{Haruka}\n\"You finally made it all the way here. I never knew you could be so persistent.\""
+msgstr ""
+
+#: 10401:665
+
+msgid "{Kazushi}\n\"Yeah, they always used to say I was a poor loser. I guess we've still got plenty left to find out about each other.\""
+msgstr ""
+
+#: 10401:666
+
+msgid "I felt overwhelmed, talking to the one I loved, who I once thought was dead. But nothing's finished yet."
+msgstr ""
+
+#: 10401:669
+
+msgid "{Haruka}\n\"I see. There's still a lot I don't know about you, Kazushi-kun, but it's too late.\""
+msgstr ""
+
+#: 10401:670
+
+msgid "{Kazushi}\n\"No, Haruka, it's not too late. I'm here to bring you back.\""
+msgstr ""
+
+#: 10401:671
+
+msgid "I reached out my hand to her. I will hold her hand tight and lead her back."
+msgstr ""
+
+#: 10401:674
+
+msgid "{Haruka}\n\"Sorry, I can't.\""
+msgstr ""
+
+#: 10401:675
+
+msgid "However, Haruka wouldn't take my hand."
+msgstr ""
+
+#: 10401:676
+
+msgid "{Kazushi}\n\"Why not? Don't you want to come with me?\""
+msgstr ""
+
+#: 10401:677
+
+msgid "{Haruka}\n\"I'm already dead. I know that grandpa's gone, too.\""
+msgstr ""
+
+#: 10401:678
+
+msgid "{Kazushi}\n\"And Seibe-san told me to take care of you.\""
+msgstr ""
+
+#: 10401:681
+
+msgid "{Haruka}\n\"Grandma's subconscious kept grandpa tied down, didn't it? Using the power of that stone.\""
+msgstr ""
+
+#: 10401:684
+
+msgid "{Haruka}\n\"But that was a unique circumstance. Grandpa's soul was frozen and preserved right before he died.\""
+msgstr ""
+
+#: 10401:685
+
+msgid "{Haruka}\n\"However, souls are meant to cycle onwards. It's about time for me to go too...\""
+msgstr ""
+
+#: 10401:686
+
+msgid "Haruka sadly closed her eyes."
+msgstr ""
+
+#: 10401:687
+
+msgid "{Kazushi}\n\"Where are you going?\""
+msgstr ""
+
+#: 10401:688
+
+msgid "Instinctively I felt a sudden fear:\nThe fear that Haruka might go somewhere far away from me again."
+msgstr ""
+
+#: 10401:691
+
+msgid "{Haruka}\n\"I don't know. There may be a place where all dead people go...\""
+msgstr ""
+
+#: 10401:692
+
+msgid "{Kazushi}\n\"No way...\""
+msgstr ""
+
+#: 10401:693
+
+msgid "Am I really too late? I've come this far..."
+msgstr ""
+
+#: 10401:696
+
+msgid "{Haruka}\n\"Please don't give me that look. You're amazing - you've even created this place.\""
+msgstr ""
+
+#: 10401:697
+
+msgid "It's just a white space: a plain, empty room.\nHaruka looked around wistfully."
+msgstr ""
+
+#: 10401:700
+
+msgid "{Haruka}\n\"They say that if you master alchemy, you can use it to create a miniature universe of your own. I think this is it. You did it, even though you're just a beginner.\""
+msgstr ""
+
+#: 10401:701
+
+msgid "{Kazushi}\n\"I borrowed the stone's power. Even so, all I got was this white space.\""
+msgstr ""
+
+#: 10401:702
+
+msgid "To me, this is far from advanced. That's why, I believe, Haruka said it was too late."
+msgstr ""
+
+#: 10401:705
+
+msgid "{Haruka}\n\"That's still amazing. I think you've got what it takes to be a great alchemist. And someday, you will be outstanding.\""
+msgstr ""
+
+#: 10401:706
+
+msgid "{Kazushi}\n\"I can't do it all by myself. If you really think it's possible, then please, come and help me.\""
+msgstr ""
+
+#: 10401:709
+
+msgid "{Haruka}\n\"That isn't possible.\nI'm sorry.\""
+msgstr ""
+
+#: 10401:710
+
+msgid "She rejected my offer, pushing me towards despair."
+msgstr ""
+
+#: 10401:711
+
+msgid "{Haruka}\n\"It's time for me to go. I can feel it. I'm beginning to fade away.\""
+msgstr ""
+
+#: 10401:712
+
+msgid "Haruka was leaving. Fear, instead of sorrow, came over me. Haruka's face started to distort."
+msgstr ""
+
+#: 10401:715
+
+msgid "{Haruka}\n\"I'm sorry to make you sad. I spent years taking care of grandma, so I know how hard it is to be the one left behind.\""
+msgstr ""
+
+#: 10401:716
+
+msgid "Haruka twisted her face in pain, implying that it was also hard for the people leaving."
+msgstr ""
+
+#: 10401:717
+
+msgid "{Kazushi}\n\"I'll do something, okay! So just stay with me forever...\""
+msgstr ""
+
+#: 10401:718
+
+msgid "I couldn't help but moan and sob, even though I knew it would make Haruka even sadder."
+msgstr ""
+
+#: 10401:721
+
+msgid "{Haruka}\n\"I want to be with you as well. I don't want to leave you, but I'm not allowed to stay...\""
+msgstr ""
+
+#: 10401:722
+
+msgid "{Kazushi}\n\"Who cares if you're allowed to or not.\""
+msgstr ""
+
+#: 10401:725
+
+msgid "{Haruka}\n\"What?\""
+msgstr ""
+
+#: 10401:726
+
+msgid "{Kazushi}\n\"I don't care if anyone lets us, or if it causes us to turn the entire world against us.\""
+msgstr ""
+
+#: 10401:727
+
+msgid "{Kazushi}\n\"I don't care if it invokes God's wrath and he tries to strike us down with divine punishment!\""
+msgstr ""
+
+#: 10401:728
+
+msgid "{Kazushi}\n\"If that's all it takes for me to be together with you, then I'll take whatever he throws at me. So please, stay with me!\""
+msgstr ""
+
+#: 10401:729
+
+msgid "I can no longer lift my head. With my face hanging down, it was all I could do to thrust out my hand."
+msgstr ""
+
+#: 10401:732
+
+msgid "{Haruka}\n\"You really are a poor loser.\""
+msgstr ""
+
+#: 10401:733
+
+msgid "Haruka smiled softly and finally reached her hand over to me. Her fingers touched mine."
+msgstr ""
+
+#: 10401:734
+
+msgid "Then suddenly..."
+msgstr ""
+
+#: 10401:735
+
+msgid "{Kazushi}\n\"Ahh...\""
+msgstr ""
+
+#: 10401:736
+
+msgid "Haruka's fingertips began to vanish."
+msgstr ""
+
+#: 10401:737
+
+msgid "{Kazushi}\n\"Haruka...!!\""
+msgstr ""
+
+#: 10401:738
+
+msgid "Her fingers, elbows, and shoulders...\nHaruka was fading away with a smile."
+msgstr ""
+
+#: 10401:741
+
+msgid "{Haruka}\n\"Thank you, Kazushi-kun. I was so touched when you said you don't care if the entire world becomes your enemy for me.\""
+msgstr ""
+
+#: 10401:744
+
+msgid "{Haruka}\n\"But I'm sorry, it looks like I'm out of time.\""
+msgstr ""
+
+#: 10401:745
+
+msgid "{Kazushi}\n\"No...Haruka!!\""
+msgstr ""
+
+#: 10401:748
+
+msgid "{Haruka}\n\"I was so happy to see you one last time, Kazushi-kun. I was so happy to have met you.\""
+msgstr ""
+
+#: 10401:749
+
+msgid "Haruka was fading away. The person I loved with all my heart was disappearing."
+msgstr ""
+
+#: 10401:750
+
+msgid "{Kazushi}\n\"Wait!! Haruka!!\""
+msgstr ""
+
+#: 10401:751
+
+msgid "This is exactly the same as before when I couldn't help Haruka in the fire.\nI'm losing her again..."
+msgstr ""
+
+#: 10401:752
+
+msgid "{Kazushi}\n\"Haruka...!!\""
+msgstr ""
+
+#: 10401:753
+
+msgid "I tried to reach my hand out as far as I could. Then I grabbed her and pulled her as tightly against me as I could."
+msgstr ""
+
+#: 10401:754
+
+msgid "{Haruka}\n\"Kazushi-kun...\""
+msgstr ""
+
+#: 10401:755
+
+msgid "Haruka looked up at me in despair. I held her tight, but couldn't stop her from disappearing."
+msgstr ""
+
+#: 10401:756
+
+msgid "{Kazushi}\n\"Haruka......\""
+msgstr ""
+
+#: 10401:757
+
+msgid "She smiled quietly in my arms, like she'd already accepted her destiny."
+msgstr ""
+
+#: 10401:760
+
+msgid "{Haruka}\n\"If I could have just one more wish come true... then I want to be with you again in our next life too. And then, I want to become your wife.\""
+msgstr ""
+
+#: 10401:761
+
+msgid "{Haruka}\n\"Will you take me as your bride then?\""
+msgstr ""
+
+#: 10401:762
+
+msgid "{Kazushi}\n\"Of course.\""
+msgstr ""
+
+#: 10401:763
+
+msgid "{Haruka}\n\"Really? Thank you.\""
+msgstr ""
+
+#: 10401:764
+
+msgid "Haruka continued fading away. This time, she's really leaving me for good."
+msgstr ""
+
+#: 10401:765
+
+msgid "Is there nothing I can do? Nothing at all?"
+msgstr ""
+
+#: 10401:766
+
+msgid "{Kazushi}\n\"Can I also make a wish?\""
+msgstr ""
+
+#: 10401:769
+
+msgid "{Haruka}\n\"What?\""
+msgstr ""
+
+#: 10401:770
+
+msgid "{Kazushi}\n\"Will you marry me now?\""
+msgstr ""
+
+#: 10401:773
+
+msgid "{Haruka}\n\"What?\""
+msgstr ""
+
+#: 10401:777
+
+msgid "Haruka looked perplexed, but I held her tight and kissed her budding lips."
+msgstr ""
+
+#: 10401:778
+
+msgid "{Haruka}\n\"Ah, mm...mmm...\""
+msgstr ""
+
+#: 10401:779
+
+msgid "With our lips together, I cleared my mind and began to concentrate."
+msgstr ""
+
+#: 10401:780
+
+msgid "What we need now is a burning flame and a flask."
+msgstr ""
+
+#: 10401:781
+
+msgid "The container is this space I created."
+msgstr ""
+
+#: 10401:782
+
+msgid "And we're the ingredients for refinement."
+msgstr ""
+
+#: 10401:783
+
+msgid "Our ingredients are the male and female principles. Two substances with opposing properties."
+msgstr ""
+
+#: 10401:784
+
+msgid "{Haruka}\n\"Kazushi...n...\""
+msgstr ""
+
+#: 10401:785
+
+msgid "Our bodies felt hot together. So hot we could melt and mix together."
+msgstr ""
+
+#: 10401:786
+
+msgid "{Haruka}\n\"Ka, zushi...n...\""
+msgstr ""
+
+#: 10401:788
+
+msgid "Our bodies grew hotter still and we started to glow. We were two lights blending together."
+msgstr ""
+
+#: 10401:790
+
+msgid "We were now joined together by the marriage of our souls. Haruka's soul and mine were melting and blurring into one."
+msgstr ""
+
+#: 10401:791
+
+msgid "Just a little bit more..."
+msgstr ""
+
+#: 10401:792
+
+msgid "A little more..."
+msgstr ""
+
+#: 10401:793
+
+msgid "We can get there..."
+msgstr ""
+
+#: 10401:798
+
+msgid "{Kazushi}\n\"Ahh...............\""
+msgstr ""
+
+#: 10401:800
+
+msgid "I found myself back in the garden. Haruka was..."
+msgstr ""
+
+#: 10401:801
+
+msgid "{Kazushi}\n\"She's gone...\""
+msgstr ""
+
+#: 10401:802
+
+msgid "Haruka had vanished from my arms. I thought we made it. ...Did I fail?"
+msgstr ""
+
+#: 10401:805
+
+msgid "{Principal}\n\"Haruma-kun!\""
+msgstr ""
+
+#: 10401:806
+
+msgid "I turned around as I heard the principal calling me."
+msgstr ""
+
+#: 10401:808
+
+msgid "{Kazushi}\n\"Ah...\""
+msgstr ""
+
+#: 10401:809
+
+msgid "I saw the stone lying on the ground, but it didn't look like a stone anymore. It was opening up, as though it were about to tremble and laugh with joy."
+msgstr ""
+
+#: 10401:810
+
+msgid "{Principal}\n\"This is...\""
+msgstr ""
+
+#: 10401:811
+
+msgid "The principal and I stared at it. The stone began shedding layers, one by one."
+msgstr ""
+
+#: 10401:812
+
+msgid "{Kazushi}\n\"Is this a flower?\""
+msgstr ""
+
+#: 10401:815
+
+msgid "{Principal}\n\"Has it been a bud this whole time, then?\""
+msgstr ""
+
+#: 10401:817
+
+msgid "And it has flowered into bloom. It's full of life and glowing."
+msgstr ""
+
+#: 10401:818
+
+msgid "{Principal}\n\"Is this what the stone really looks like? Is this the one that can grant eternal life and revive the dead?\""
+msgstr ""
+
+#: 10401:819
+
+msgid "{Kazushi}\n\"Then, with this, Haruka can--?\""
+msgstr ""
+
+#: 10401:820
+
+msgid "{Principal}\n\"That's right! That's right! Bring Haruka's body here now!\""
+msgstr ""
+
+#: 10401:824
+
+msgid "Haruka lied amongst the flowers, her body restored by alchemy."
+msgstr ""
+
+#: 10401:825
+
+msgid "She looked as though she were sleeping, but there was nothing inside the shell."
+msgstr ""
+
+#: 10401:826
+
+msgid "{Kazushi}\n\"It's time to wake you up, Haruka.\""
+msgstr ""
+
+#: 10401:827
+
+msgid "There was one, single flower shining brighter that all the white flowers in the garden. It had bright, glowing golden petals. A gold so pure it was nearly white."
+msgstr ""
+
+#: 10401:828
+
+msgid "Under the natural light, that golden flower glistened as if were moist. Well, actually it was. Inside the bowl of its open petals rested a pool of water."
+msgstr ""
+
+#: 10401:829
+
+msgid "{Principal}\n\"Give that water to Haruka.\""
+msgstr ""
+
+#: 10401:830
+
+msgid "{Kazushi}\n\"Yes, ma'am.\""
+msgstr ""
+
+#: 10401:831
+
+msgid "I hesitated briefly, then I uprooted the flower and poured the water into my mouth."
+msgstr ""
+
+#: 10401:832
+
+msgid "{Kazushi}\n\".........\""
+msgstr ""
+
+#: 10401:833
+
+msgid "I kissed Haruka as she lay still, leading the water from my mouth to hers as if I were breathing life into her."
+msgstr ""
+
+#: 10401:837
+
+msgid "*Twitch*"
+msgstr ""
+
+#: 10401:838
+
+msgid "Haruka's eyebrows flickered slightly."
+msgstr ""
+
+#: 10401:839
+
+msgid "{Principal}\n\"Haruka...?\""
+msgstr ""
+
+#: 10401:840
+
+msgid "While the principal gasped, Haruka's skin began to turn pink and her face started to flush."
+msgstr ""
+
+#: 10401:841
+
+msgid "Her long eyebrows twitched again.\nAnd then..."
+msgstr ""
+
+#: 10401:843
+
+msgid "{Haruka}\n\"Nnn......\""
+msgstr ""
+
+#: 10401:844
+
+msgid "A nostalgic voice came from those rosy lips - the voice I never thought I'd hear again."
+msgstr ""
+
+#: 10401:845
+
+msgid "{Kazushi}\n\"Haruka... Haruka...\""
+msgstr ""
+
+#: 10401:846
+
+msgid "I called her name. Her eyebrows and eyelids began moving rapidly, and her eyes shot open."
+msgstr ""
+
+#: 10401:851
+
+msgid "{Haruka}\n\"...Hmm? Kazushi-kun?\""
+msgstr ""
+
+#: 10401:852
+
+msgid "Haruka looked up at me with a vacant look. I missed this look so much."
+msgstr ""
+
+#: 10401:853
+
+msgid "{Kazushi}\n\"Haruka......\""
+msgstr ""
+
+#: 10401:854
+
+msgid "I've been waiting for this moment. Now that my love is right here, I hugged her tightly to my chest with both arms."
+msgstr ""
+
+#: 10401:855
+
+msgid "{Haruka}\n\"Kazushi-kun...\nIt hurts...\""
+msgstr ""
+
+#: 10401:856
+
+msgid "She complained with a sweet, loving voice, but I refused to loosen my arms from around her."
+msgstr ""
+
+#: 10401:857
+
+msgid "{Haruka}\n\"I mean it. It hurts.\""
+msgstr ""
+
+#: 10401:858
+
+msgid "Then Haruka returned the embrace with one just as tight as mine."
+msgstr ""
+
+#: 10401:859
+
+msgid "{Haruka}\n\"It feels like I've been living in a dream.\""
+msgstr ""
+
+#: 10401:860
+
+msgid "Haruka muttered, blinking her sleepy eyes."
+msgstr ""
+
+#: 10401:861
+
+msgid "{Kazushi}\n\"Haruka, you have been asleep for a long, long time.\""
+msgstr ""
+
+#: 10401:862
+
+msgid "{Haruka}\n\"Oh. I guess I overslept, huh?\""
+msgstr ""
+
+#: 10401:863
+
+msgid "{Kazushi}\n\"Overslept isn't the half of it.\""
+msgstr ""
+
+#: 10401:864
+
+msgid "{Haruka}\n\"Sorry.\""
+msgstr ""
+
+#: 10401:865
+
+msgid "I continued holding her in a tight embrace. At the same time, I buried my face into her hair and deeply inhaled her sweet scent."
+msgstr ""
+
+#: 10401:867
+
+msgid "{Haruka}\n\"Did you miss me?\""
+msgstr ""
+
+#: 10401:868
+
+msgid "{Kazushi}\n\"Yes. I missed you so much that I thought I would die.\""
+msgstr ""
+
+#: 10401:869
+
+msgid "{Haruka}\n\"Sorry. I'll never make you sad again.\""
+msgstr ""
+
+#: 10401:870
+
+msgid "{Kazushi}\n\"I'm not gonna let you go away from me anymore.\""
+msgstr ""
+
+#: 10401:871
+
+msgid "{Haruka}\n\"I'm not going away any more.\""
+msgstr ""
+
+#: 10401:873
+
+msgid "The sun rose over the horizon and shined down upon us, lighting up the garden. It was the dawn of a new day."
+msgstr ""
+
+#: 10401:874
+
+msgid "Bathed in the morning sunlight, Haruka and I kissed each other, vowing that we would never spend another day apart."
+msgstr ""
+

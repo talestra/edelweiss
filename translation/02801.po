@@ -1,0 +1,1078 @@
+# Comments for '02801'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 02801:9
+
+msgid "{Haruka}\n\"Kazushi-kun, Kazushi-kun!!\""
+msgstr ""
+
+#: 02801:11
+
+msgid "Haruka came bolting towards me as I was walking down the corridor. She sounded like it was an emergency."
+msgstr ""
+
+#: 02801:15
+
+msgid "{Appo}\n\"What kind of trouble is she in this time?\""
+msgstr ""
+
+#: 02801:16
+
+msgid "{Kazushi}\n\"Let's find out.\""
+msgstr ""
+
+#: 02801:21
+
+msgid "{Haruka}\n\"Ka-Kazushi-kun, Ka, hah, hahh, hahh...\""
+msgstr ""
+
+#: 02801:22
+
+msgid "She gasped for breath as she leaned against a window. She's in a massive rush."
+msgstr ""
+
+#: 02801:23
+
+msgid "{Kazushi}\n\"Calm down. Take a deep breath.\""
+msgstr ""
+
+#: 02801:24
+
+msgid "{Haruka}\n\"All right......\""
+msgstr ""
+
+#: 02801:25
+
+msgid "{Kazushi}\n*inhale* *exhale*"
+msgstr ""
+
+#: 02801:26
+
+msgid "I joined her in taking some deep breaths. I could tell that she was calming down."
+msgstr ""
+
+#: 02801:30
+
+msgid "{Pierre}\n\"And what happened this time?\""
+msgstr ""
+
+#: 02801:35
+
+msgid "{Haruka}\n\"Ummm...have you seen me running around anywhere?\""
+msgstr ""
+
+#: 02801:36
+
+msgid "{Kazushi}\n\"Um... Haruka? That's rather obvious...\""
+msgstr ""
+
+#: 02801:40
+
+msgid "{Daigo}\n\"Of course we have.\""
+msgstr ""
+
+#: 02801:41
+
+msgid "{Haruka}\n\"Where!?\""
+msgstr ""
+
+#: 02801:49
+
+msgid "{Boys}\n *STARE*"
+msgstr ""
+
+#: 02801:50
+
+msgid "We all pointed at Haruka. She shook her head back and forth in a vigorous \"no.\""
+msgstr ""
+
+#: 02801:56
+
+msgid "{Haruka}\n\"I'm not talking about me!!\""
+msgstr ""
+
+#: 02801:57
+
+msgid "{Kazushi}\n\"You've just asked us if we've seen you.\""
+msgstr ""
+
+#: 02801:58
+
+msgid "{Haruka}\n\"I'm talking about another me! Have you seen her or not?\""
+msgstr ""
+
+#: 02801:59
+
+msgid "Has she lost her mind?"
+msgstr ""
+
+#: 02801:64
+
+msgid "{Appo}\n\"Do you have a twin sister?\""
+msgstr ""
+
+#: 02801:67
+
+msgid "{Haruka}\n\"Do you think I do!?\""
+msgstr ""
+
+#: 02801:70
+
+msgid "{Appo}\n\"I don't think so...\nBut what do you mean another you?\""
+msgstr ""
+
+#: 02801:71
+
+msgid "{Kazushi}\n\"Anyways, we haven't seen you until just now.\""
+msgstr ""
+
+#: 02801:72
+
+msgid "This was getting complicated. Haruka let out a big sigh."
+msgstr ""
+
+#: 02801:75
+
+msgid "{Haruka}\n\"I see. She must have gone somewhere else, then. Thanks, boys!\""
+msgstr ""
+
+#: 02801:79
+
+msgid "Haruka took off somewhere like the wind."
+msgstr ""
+
+#: 02801:83
+
+msgid "{Daigo}\n\"Maybe she's starting to lose it after years of living in this heat every day...\""
+msgstr ""
+
+#: 02801:87
+
+msgid "{Pierre}\n\"We should still stay good friends with her even if she does go completely off her rocker.\n...um...guys? What's that?\""
+msgstr ""
+
+#: 02801:88
+
+msgid "Pierre looked down the corridor with an air of confusion. We could all tell why."
+msgstr ""
+
+#: 02801:96
+
+msgid "{Haruka}\n\"Kazushi-kun! Kazushi-kun!\""
+msgstr ""
+
+#: 02801:97
+
+msgid "Haruka was running towards us again. And not from the same direction she just departed in."
+msgstr ""
+
+#: 02801:98
+
+msgid "In fact, Haruka was coming at us from the opposite direction."
+msgstr ""
+
+#: 02801:99
+
+msgid "We felt like we were watching a rewound video tape."
+msgstr ""
+
+#: 02801:106
+
+msgid "{Pierre}\n\"Umm......\""
+msgstr ""
+
+#: 02801:107
+
+msgid "{Daigo}\n\"That's Haruka-chan, right?\""
+msgstr ""
+
+#: 02801:108
+
+msgid "{Kazushi}\n\"I think so.\""
+msgstr ""
+
+#: 02801:113
+
+msgid "This Haruka seemed to be in anything but a hurry."
+msgstr ""
+
+#: 02801:116
+
+msgid "{Haruka}\n\"Hi, boys! Another hot day, isn't it?\""
+msgstr ""
+
+#: 02801:117
+
+msgid "This one felt a lot more like the Haruka we knew."
+msgstr ""
+
+#: 02801:122
+
+msgid "{Pierre}\n\"This one looks a lot more like the normal Haruka, don't you think, boys?\""
+msgstr ""
+
+#: 02801:123
+
+msgid "{Kazushi}\n\"I agree. Then that means the one we saw before was the fake Haruka?\""
+msgstr ""
+
+#: 02801:126
+
+msgid "{Haruka}\n\"What are you guys whispering to each other about?\""
+msgstr ""
+
+#: 02801:130
+
+msgid "{Appo}\n\"This may sound weird, but we just met up with you a minute ago.\""
+msgstr ""
+
+#: 02801:133
+
+msgid "{Haruka}\n\"Oh, you did? Which way did I go?\""
+msgstr ""
+
+#: 02801:134
+
+msgid "She didn't look surprised at all."
+msgstr ""
+
+#: 02801:135
+
+msgid "{Kazushi}\n\"That way. You seemed to be in a big hurry.\""
+msgstr ""
+
+#: 02801:136
+
+msgid "{Haruka}\n\"Oh, I see. Yeah, I'm supposed to be all scatterbrained, aren't I? Sometimes it's exhausting to act like that, though.\""
+msgstr ""
+
+#: 02801:137
+
+msgid "It sounded so normal that we nearly let it pass, but those words were anything but."
+msgstr ""
+
+#: 02801:141
+
+msgid "{Pierre}\n\"Act like that? What are you talking about?\""
+msgstr ""
+
+#: 02801:145
+
+msgid "{Daigo}\n\"You are Haruka-chan, right?\""
+msgstr ""
+
+#: 02801:146
+
+msgid "She sounded like an actress who was stepping into the role of Haruka."
+msgstr ""
+
+#: 02801:151
+
+msgid "{Haruka}\n\"Well, the other one is also Haruka. I'm just her scapegoat.\""
+msgstr ""
+
+#: 02801:152
+
+msgid "{Kazushi}\n\"Her scapegoat?\""
+msgstr ""
+
+#: 02801:156
+
+msgid "{Daigo}\n\"Hey, guys, remember when we had to supervise the principal's experiment? Haruka said she left a puppet in the classroom to fill in for her.\""
+msgstr ""
+
+#: 02801:161
+
+msgid "{Pierre}\n\"Oh yeah, I remember her saying that.\""
+msgstr ""
+
+#: 02801:168
+
+msgid "{Appo}\n\"So are you the puppet she left behind?\""
+msgstr ""
+
+#: 02801:174
+
+msgid "{Haruka}\n\"Yes, I am.\""
+msgstr ""
+
+#: 02801:182
+
+msgid "{Kazushi}\n\"Wow, you nailed it, Daigo.\""
+msgstr ""
+
+#: 02801:185
+
+msgid "{Pierre}\n\"But you don't look like a fake at all. How do we know that you're not the original Haruka?\""
+msgstr ""
+
+#: 02801:189
+
+msgid "{Haruka Doll}\n\"If you could tell us apart so easily, there wouldn't be any point to my existence.\""
+msgstr ""
+
+#: 02801:190
+
+msgid "{Daigo}\n\"By the way, what are you doing here all by yourself?\""
+msgstr ""
+
+#: 02801:191
+
+msgid "That's right. Haruka must be looking for her scapegoat."
+msgstr ""
+
+#: 02801:192
+
+msgid "{Kazushi}\n\"Could this mean you ran away?\""
+msgstr ""
+
+#: 02801:193
+
+msgid "It was just a random guess, but it seemed that I guessed right."
+msgstr ""
+
+#: 02801:196
+
+msgid "{Haruka Doll}\n\"You don't believe what she's trying to do to me! She wants to dispose of me!\""
+msgstr ""
+
+#: 02801:199
+
+msgid "{Haruka Doll}\n\"She thinks I'm disposable! She's so evil! Don't let that devilishly cute face of hers fool you, boys. She's a jinxed cunt.\""
+msgstr ""
+
+#: 02801:200
+
+msgid "This doll was cutting Haruka to shreds with her words."
+msgstr ""
+
+#: 02801:206
+
+msgid "{Pierre}\n\"A jinxed cunt... Really? Haruka-chan is... That's a shock.\""
+msgstr ""
+
+#: 02801:207
+
+msgid "{Appo}\n\"She never looked like one to me. I guess appearances can be deceiving.\""
+msgstr ""
+
+#: 02801:210
+
+msgid "All of us were feeling disappointed. Only the doll was happy to see Haruka's reputation fall."
+msgstr ""
+
+#: 02801:211
+
+msgid "{Haruka Doll}\n\"Anyways, can you guys hide me somewhere safe?\""
+msgstr ""
+
+#: 02801:212
+
+msgid "{Kazushi}\n\"I don't know.......\""
+msgstr ""
+
+#: 02801:215
+
+msgid "{Appo}\n\"Well, how about......\""
+msgstr ""
+
+#: 02801:222
+
+msgid "We ended up taking her to our dorm."
+msgstr ""
+
+#: 02801:223
+
+msgid "{Kazushi}\n\"What are we going to do now?\""
+msgstr ""
+
+#: 02801:225
+
+msgid "We heard the bell ring for the start of afternoon classes."
+msgstr ""
+
+#: 02801:229
+
+msgid "{Daigo}\n\"Oh no, class is starting up again.\""
+msgstr ""
+
+#: 02801:230
+
+msgid "{Kazushi}\n\"Oh yeah, we've still got lessons to finish.\""
+msgstr ""
+
+#: 02801:236
+
+msgid "{Pierre}\n\"Who cares, the last class before break is just winding things down. And if classes are going on, then no one will come here. It's perfect.\""
+msgstr ""
+
+#: 02801:237
+
+msgid "{Kazushi}\n\"What do you mean 'it's perfect'?\""
+msgstr ""
+
+#: 02801:241
+
+msgid "{Appo}\n\"Boys, huddle up!\""
+msgstr ""
+
+#: 02801:248
+
+msgid "On Appo and Pierre's signal, we all huddled our heads close together."
+msgstr ""
+
+#: 02801:249
+
+msgid "{Kazushi}\n\"What is it? What are you planning?\""
+msgstr ""
+
+#: 02801:252
+
+msgid "{Appo}\n\"Think about it, you guys. That's a doll. A doll that's identical to the original Haruka.\""
+msgstr ""
+
+#: 02801:253
+
+msgid "{Kazushi}\n\"Eh? So what?\""
+msgstr ""
+
+#: 02801:254
+
+msgid "{Pierre}\n\"D-does that mean that what's underneath her clothes must be identical too?\""
+msgstr ""
+
+#: 02801:255
+
+msgid "Pierre's voice was shaking with excitement.\nNow I know exactly what they have in mind."
+msgstr ""
+
+#: 02801:256
+
+msgid "{Kazushi}\n\"You guys aren't planning to...\""
+msgstr ""
+
+#: 02801:259
+
+msgid "{Daigo}\n *GULP*"
+msgstr ""
+
+#: 02801:260
+
+msgid "That was the loudest sound I have ever heard from someone swallowing his own spit."
+msgstr ""
+
+#: 02801:266
+
+msgid "{Haruka Doll}\n\"What was that noise?\""
+msgstr ""
+
+#: 02801:268
+
+msgid "She has no idea what we're talking about. She's as unguarded as a lamb surrounded by a pack of wolves."
+msgstr ""
+
+#: 02801:273
+
+msgid "{Pierre}\n\"It's nothing! Just give us another minute!\""
+msgstr ""
+
+#: 02801:274
+
+msgid "{Haruka Doll}\n\"Huh? Sure...\""
+msgstr ""
+
+#: 02801:282
+
+msgid "{Kazushi}\n\"What are we going to do?\""
+msgstr ""
+
+#: 02801:285
+
+msgid "{Appo}\n\"I say we just ask her to let us.\""
+msgstr ""
+
+#: 02801:286
+
+msgid "{Kazushi}\n\"Let us!? Listen to yourself - that's Haruka!\""
+msgstr ""
+
+#: 02801:289
+
+msgid "{Pierre}\n\"That's just a puppet. We can do this, can't we?\""
+msgstr ""
+
+#: 02801:290
+
+msgid "{Kazushi}\n\"I know she's a puppet...\nBut, well, that's still Haruka on the surface.\""
+msgstr ""
+
+#: 02801:293
+
+msgid "{Appo}\n\"That's what makes this so great. This is the perfect opportunity.\""
+msgstr ""
+
+#: 02801:294
+
+msgid "{Kazushi}\n\"You're right...But I don't know...\""
+msgstr ""
+
+#: 02801:295
+
+msgid "{Daigo}\n\"Why don't we start by asking her?\""
+msgstr ""
+
+#: 02801:298
+
+msgid "{Appo}\n\"Kazushi, will you ask her for us?\""
+msgstr ""
+
+#: 02801:299
+
+msgid "{Kazushi}\n\"No way! I can't ask her that! Why me?\""
+msgstr ""
+
+#: 02801:302
+
+msgid "{Pierre}\n\"Why don't we all ask together?\""
+msgstr ""
+
+#: 02801:303
+
+msgid "{Kazushi}\n\"Together? All of us?\""
+msgstr ""
+
+#: 02801:304
+
+msgid "{Appo}\n\"One, two...\""
+msgstr ""
+
+#: 02801:310
+
+msgid "{Kazushi}\n\"Please let me have sex with you!!\""
+msgstr ""
+
+#: 02801:312
+
+msgid "{Kazushi}\n\"......what?\""
+msgstr ""
+
+#: 02801:314
+
+msgid "I only heard my voice."
+msgstr ""
+
+#: 02801:322
+
+msgid "{Daigo}\n\"He really did say it.\""
+msgstr ""
+
+#: 02801:323
+
+msgid "{Pierre}\n\"That's my man.\""
+msgstr ""
+
+#: 02801:324
+
+msgid "{Kazushi}\n\"You guys betrayed me!!\""
+msgstr ""
+
+#: 02801:325
+
+msgid "I can't believe I just said that.\nI asked Haruka to have sex with me..."
+msgstr ""
+
+#: 02801:331
+
+msgid "{Haruka Doll}\n\"Sure.\""
+msgstr ""
+
+#: 02801:332
+
+msgid "{Kazushi}\n\"What?\""
+msgstr ""
+
+#: 02801:335
+
+msgid "{Haruka Doll}\n\"You want to have sex with me, right Kazushi? I'll let you.\""
+msgstr ""
+
+#: 02801:338
+
+msgid "{Kazushi}\n\"Really?\""
+msgstr ""
+
+#: 02801:339
+
+msgid "That was unexpectedly easy. Haruka's scapegoat doll turned out to be very open minded."
+msgstr ""
+
+#: 02801:347
+
+msgid "{Appo}\n\"Wow, she's really going to let him have sex with her.\""
+msgstr ""
+
+#: 02801:348
+
+msgid "{Pierre}\n\"You'll let me have sex with you too, right?\""
+msgstr ""
+
+#: 02801:349
+
+msgid "{Kazushi}\n\"Guys! You guys don't deserve......\""
+msgstr ""
+
+#: 02801:355
+
+msgid "{Haruka Doll}\n\"Sure.\""
+msgstr ""
+
+#: 02801:356
+
+msgid "...saywha!?"
+msgstr ""
+
+#: 02801:357
+
+msgid "{Kazushi}\n\"Loose! Too loose! You're being far too open-minded, Haruka!!\""
+msgstr ""
+
+#: 02801:361
+
+msgid "{Pierre}\n\"Remember, Kazushi, she's a puppet, not Haruka.\""
+msgstr ""
+
+#: 02801:362
+
+msgid "{Kazushi}\n\"I know......but......\""
+msgstr ""
+
+#: 02801:363
+
+msgid "She looked identical to Haruka.\nI couldn't just treat her like a doll..."
+msgstr ""
+
+#: 02801:368
+
+msgid "{Daigo}\n\"This is great. We'll be cum brothers.\""
+msgstr ""
+
+#: 02801:369
+
+msgid "We looked at each other dumbfounded after Daigo's comment."
+msgstr ""
+
+#: 02801:370
+
+msgid "{Kazushi}\n\"Brothers...sorta?\""
+msgstr ""
+
+#: 02801:377
+
+msgid "{Appo}\n\"I guess Daigo's right. In a sense, this is a pledge between brothers!\""
+msgstr ""
+
+#: 02801:378
+
+msgid "{Pierre}\n\"Appo's right! I didn't suggest this idea for any naughty reasons!\""
+msgstr ""
+
+#: 02801:379
+
+msgid "{Kazushi}\n\"I didn't know that...\""
+msgstr ""
+
+#: 02801:380
+
+msgid "This was a ritual for us to deepen our connection to each other. This had to be done for the sake of our brotherhood."
+msgstr ""
+
+#: 02801:381
+
+msgid "{Kazushi}\n\"...wait a minute. Can I really trust you guys after all that?\""
+msgstr ""
+
+#: 02801:384
+
+msgid "{Appo}\n\"Don't think! Just feel!\""
+msgstr ""
+
+#: 02801:387
+
+msgid "{Pierre}\n\"Don't you want to do her?\""
+msgstr ""
+
+#: 02801:388
+
+msgid "{Kazushi}\n\"......I do.\""
+msgstr ""
+
+#: 02801:389
+
+msgid "Of course I want to do her."
+msgstr ""
+
+#: 02801:392
+
+msgid "{Appo}\n\"Well then, let's do it! Let's be men!\""
+msgstr ""
+
+#: 02801:393
+
+msgid "{Kazushi}\n\"Let's be brothers!\""
+msgstr ""
+
+#: 02801:394
+
+msgid "{Daigo}\n\"Who's going first?\""
+msgstr ""
+
+#: 02801:401
+
+msgid "{Boys}\n\"Me!!!\""
+msgstr ""
+
+#: 02801:408
+
+msgid "Everybody raised their hands at once. Everybody stared each other down."
+msgstr ""
+
+#: 02801:413
+
+msgid "{Pierre}\n\"We all think the same. I say we go from the oldest to the youngest.\""
+msgstr ""
+
+#: 02801:414
+
+msgid "If we followed Pierre's suggestion, the order would be Pierre, Me, Daigo, and then Appo."
+msgstr ""
+
+#: 02801:415
+
+msgid "We're all in the same grade, of course, so the difference was just a few months on either end."
+msgstr ""
+
+#: 02801:419
+
+msgid "{Daigo}\n\"Since you guys have already done this, you can go after me and Kazushi.\""
+msgstr ""
+
+#: 02801:420
+
+msgid "Daigo made an uncharacteristically bold statement. That showed just how much he wanted this."
+msgstr ""
+
+#: 02801:421
+
+msgid "{Kazushi}\n\"He's right. You aren't a virgin, are you Pierre? And you're always doing Fuusen, so you don't matter, Appo.\""
+msgstr ""
+
+#: 02801:426
+
+msgid "{Pierre}\n\"I haven't gotten lucky for a couple years...\""
+msgstr ""
+
+#: 02801:433
+
+msgid "{Appo}\n\"I've only done it with one person. Don't you think I should do it with someone else in order to realise how great my Fuusen is?\""
+msgstr ""
+
+#: 02801:434
+
+msgid "{Appo}\n\"I need to know someone else's touch to confirm my girlfriend's abilities.\""
+msgstr ""
+
+#: 02801:435
+
+msgid "{Daigo}\n\"If that's the reason, you'll have no problem going after us, right?\""
+msgstr ""
+
+#: 02801:438
+
+msgid "{Pierre}\n\"Wait a minute, guys. I still think going by age is the best idea.\""
+msgstr ""
+
+#: 02801:441
+
+msgid "{Appo}\n\"Shut up, you idiot! Go away, old man!\""
+msgstr ""
+
+#: 02801:444
+
+msgid "{Daigo}\n\"Let's go by class rank! I'm 35th!\""
+msgstr ""
+
+#: 02801:447
+
+msgid "{Pierre}\n\"Daigo! You know you're the only one exceeding the class average!\""
+msgstr ""
+
+#: 02801:448
+
+msgid "{Appo}\n\"Don't you look down on us just because you have good grades.\""
+msgstr ""
+
+#: 02801:452
+
+msgid "*SMACK*"
+msgstr ""
+
+#: 02801:453
+
+msgid "Appo's short temper had run out, and he hit Daigo on the head."
+msgstr ""
+
+#: 02801:454
+
+msgid "{Daigo}\n\"What did you do that for!?\""
+msgstr ""
+
+#: 02801:457
+
+msgid "Bang!!"
+msgstr ""
+
+#: 02801:458
+
+msgid "{Appo}\n\"Ugggah!\""
+msgstr ""
+
+#: 02801:462
+
+msgid "And of course, he got hit back and their little squabble started."
+msgstr ""
+
+#: 02801:468
+
+msgid "{Pierre}\n\"Screw it, I'm first!\""
+msgstr ""
+
+#: 02801:475
+
+msgid "{Daigo}\n\"Rooooooar!\""
+msgstr ""
+
+#: 02801:480
+
+msgid "{Kazushi}\n\"Umm...guys? Are we really going to have to decide this with violence? I thought we were supposed to be engaged in a brotherhood of men...\""
+msgstr ""
+
+#: 02801:481
+
+msgid "I think the only thing getting deeper is our ditch, not our bonds. They're beating each other up."
+msgstr ""
+
+#: 02801:486
+
+msgid "{Appo}\n\"Me! Me!\""
+msgstr ""
+
+#: 02801:493
+
+msgid "{Daigo}\n\"You stay out of this, Appo. I don't want to have to hurt you.\""
+msgstr ""
+
+#: 02801:498
+
+msgid "{Haruka Doll}\n\"Wow, this is awesome! Everybody's fighting over me!\""
+msgstr ""
+
+#: 02801:501
+
+msgid "*Slide*"
+msgstr ""
+
+#: 02801:502
+
+msgid "That's when the window was opened."
+msgstr ""
+
+#: 02801:507
+
+msgid "{Haruka}\n\"What are you guys making so much noise for...Ah!!\""
+msgstr ""
+
+#: 02801:508
+
+msgid "It was Haruka - the real Haruka. She leapt into the room as she spotted her puppet."
+msgstr ""
+
+#: 02801:513
+
+msgid "{Haruka}\n\"Gotcha!\""
+msgstr ""
+
+#: 02801:515
+
+msgid "Haruka captured the scapegoat puppet."
+msgstr ""
+
+#: 02801:519
+
+msgid "{Haruka Doll}\n\"Oh no. She got me.\""
+msgstr ""
+
+#: 02801:520
+
+msgid "{Kazushi}\n\"Ah...\""
+msgstr ""
+
+#: 02801:525
+
+msgid "{Pierre}\n\"Shit...\""
+msgstr ""
+
+#: 02801:526
+
+msgid "Everything stopped. Well, that chapter's over. What were we doing?"
+msgstr ""
+
+#: 02801:532
+
+msgid "{Haruka}\n\"You guys found her for me. Thanks for keep your eyes on her!\""
+msgstr ""
+
+#: 02801:533
+
+msgid "Thank goodness for small miracles - Haruka didn't catch what we were up to."
+msgstr ""
+
+#: 02801:534
+
+msgid "{Pierre}\n\"Ahaha, yeah, we were.\""
+msgstr ""
+
+#: 02801:541
+
+msgid "{Daigo}\n\"I'm glad we found her for you............\""
+msgstr ""
+
+#: 02801:544
+
+msgid "{Haruka}\n\"Why are you guys so disappointed?\""
+msgstr ""
+
+#: 02801:545
+
+msgid "{Kazushi}\n\"It's nothing. No big deal......\""
+msgstr ""
+
+#: 02801:549
+
+msgid "*poke poke*"
+msgstr ""
+
+#: 02801:552
+
+msgid "{Appo}\n\"Hey, Kazushi.\""
+msgstr ""
+
+#: 02801:553
+
+msgid "Appo whispered to me."
+msgstr ""
+
+#: 02801:554
+
+msgid "{Appo}\n\"Can you try asking her one more time?\""
+msgstr ""
+
+#: 02801:555
+
+msgid "Appo was having a hard time giving up the opportunity we had in front of us."
+msgstr ""
+
+#: 02801:556
+
+msgid "{Kazushi}\n\"Are you stupid? That's the real Haruka.\""
+msgstr ""
+
+#: 02801:559
+
+msgid "{Appo}\n\"How about asking her for it in return for capturing the doll?\""
+msgstr ""
+
+#: 02801:564
+
+msgid "{Pierre}\n\"You're such a brute, Appo.\""
+msgstr ""
+
+#: 02801:567
+
+msgid "{Appo}\n\"That's what we need to be. We need to be more forceful in order to get what we want.\""
+msgstr ""
+
+#: 02801:571
+
+msgid "{Daigo}\n\"I kind of understand what he's saying. We are being too elegant.\""
+msgstr ""
+
+#: 02801:572
+
+msgid "{Kazushi}\n\"We are? We need to act more barbarously?\""
+msgstr ""
+
+#: 02801:575
+
+msgid "{Appo}\n\"Hey guys......\""
+msgstr ""
+
+#: 02801:580
+
+msgid "{Haruka}\n\"Why are you guys whispering to each other?\""
+msgstr ""
+
+#: 02801:588
+
+msgid "We made up our mind. Our heart is bonded as one."
+msgstr ""
+
+#: 02801:589
+
+msgid "{Pierre}\n\"This time we'll say it together.\""
+msgstr ""
+
+#: 02801:590
+
+msgid "{Kazushi}\n\"Don't you guys go betraying me again, got it?\""
+msgstr ""
+
+#: 02801:593
+
+msgid "{Appo}\n\"All right......one, two!\""
+msgstr ""
+
+#: 02801:604
+
+msgid "{Kazushi}\n\"Like hell I'm saying it!\""
+msgstr ""
+
+#: 02801:605
+
+msgid "{Appo}\n\"That's why you're not getting laid.\""
+msgstr ""
+
+#: 02801:606
+
+msgid "{Daigo}\n\"Another virgin summer...\""
+msgstr ""
+
+#: 02801:608
+
+msgid "*Slide*"
+msgstr ""
+
+#: 02801:614
+
+msgid "{Ran}\n\"It's dinner time, boys!\n...why do you all look like you're at a wake?\""
+msgstr ""
+

@@ -1,0 +1,413 @@
+# Comments for '03202'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 03202:7
+
+msgid "{Kazushi}\n\"I think we've done a good job.\""
+msgstr ""
+
+#: 03202:10
+
+msgid "{Pierre}\n\"Yeah, we've done enough.\""
+msgstr ""
+
+#: 03202:11
+
+msgid "In a few more minutes, the date would change. The reason we were here this late was because we were getting the cafeteria decorated for Daigo's birthday party."
+msgstr ""
+
+#: 03202:17
+
+msgid "{Haruka}\n\"Do you think Daigo-kun will like what we've done?\""
+msgstr ""
+
+#: 03202:18
+
+msgid "{Ran}\n\"We're keeping this a secret, right?\""
+msgstr ""
+
+#: 03202:22
+
+msgid "{Appo}\n\"Yep, I made sure he's been sound asleep all night. I mixed some sleeping pills into his lunch.\""
+msgstr ""
+
+#: 03202:26
+
+msgid "{Rin}\n\"Wow, you boys go that far?\""
+msgstr ""
+
+#: 03202:30
+
+msgid "{Mizuki}\n\"Did you really have to go to such extremes? We're doing this to make him happy.\""
+msgstr ""
+
+#: 03202:31
+
+msgid "{Kazushi}\n\"Don't worry, he's gonna have a good time tomorrow.\""
+msgstr ""
+
+#: 03202:38
+
+msgid "{Appo}\n\"It's getting late. Let's wrap it up.\""
+msgstr ""
+
+#: 03202:39
+
+msgid "{Pierre}\n\"It's late. Should we walk you girls back to the dorm?\""
+msgstr ""
+
+#: 03202:43
+
+msgid "{Andou}\n\"The wolves say they're going to lead us back.\""
+msgstr ""
+
+#: 03202:46
+
+msgid "{Pierre}\n\"The day we did that to you, Andou, is they day we'd all be led to hell.\""
+msgstr ""
+
+#: 03202:50
+
+msgid "{Haruka}\n\"Why don't we have a late night snack together before going back?\""
+msgstr ""
+
+#: 03202:54
+
+msgid "{Rin}\n\"I'll make us all some tea.\""
+msgstr ""
+
+#: 03202:57
+
+msgid "Fujisaki-san offered us all some freshly made tea from the kitchen. She'd been in there for ages baking Daigo a cake."
+msgstr ""
+
+#: 03202:58
+
+msgid "{Kazushi}\n\"Fujisaki-san really comes across as feminine. She's so kind and considerate.\""
+msgstr ""
+
+#: 03202:61
+
+msgid "{Pierre}\n\"I agree. I feel so relaxed when I talk to her.\""
+msgstr ""
+
+#: 03202:66
+
+msgid "{Haruka}\n\"I knew that she's the most popular among you boys.\""
+msgstr ""
+
+#: 03202:70
+
+msgid "{Sakura}\n\"Of course she is. Even I'd marry her in an instant. I've got a feeling that she's good in bed, too.\""
+msgstr ""
+
+#: 03202:71
+
+msgid "{Kazushi}\n\"What are you talking about?\""
+msgstr ""
+
+#: 03202:74
+
+msgid "{Sakura}\n\"I'm talking about the many ways she can please a man.\""
+msgstr ""
+
+#: 03202:78
+
+msgid "{Pierre}\n\"Are you serious? Her?\""
+msgstr ""
+
+#: 03202:82
+
+msgid "{Fuusen}\n\"Yeah, Rin does wear some incredible underwear. Mine can't compare.\""
+msgstr ""
+
+#: 03202:86
+
+msgid "{Appo}\n\"If Fuu-chan's can't compare, they must be amazing. She must be sexier in them than her naked.\""
+msgstr ""
+
+#: 03202:87
+
+msgid "{Kazushi}\n\"Sexier than when she's naked......\""
+msgstr ""
+
+#: 03202:90
+
+msgid "I tried imagining that, but unfortunately I didn't have enough information to complete the picture."
+msgstr ""
+
+#: 03202:93
+
+msgid "{Mizuki}\n\"Hey, hey! Can you keep such crude discussions for when I'm not around?\""
+msgstr ""
+
+#: 03202:94
+
+msgid "Mizuki couldn't handle this kind of discussion well. Her cheeks were already beet red."
+msgstr ""
+
+#: 03202:99
+
+msgid "{Fuusen}\n\"You are so innocent. That's so rare these days.\""
+msgstr ""
+
+#: 03202:102
+
+msgid "{Mizuki}\n\"Shut up. You're all just too perverted.\""
+msgstr ""
+
+#: 03202:106
+
+msgid "{Andou}\n\"How are you ever going to land a boyfriend if you're like this?\""
+msgstr ""
+
+#: 03202:109
+
+msgid "{Mizuki}\n\"I don't want a boyfriend!\""
+msgstr ""
+
+#: 03202:110
+
+msgid "Mizuki issued that statement obstinately, pursing her lips."
+msgstr ""
+
+#: 03202:114
+
+msgid "{Haruka}\n\"You don't want a boyfriend? That's a waste for someone as cute as you are.\""
+msgstr ""
+
+#: 03202:118
+
+msgid "{Sakura}\n\"Haruka's right. No wonder people get the wrong idea about you.\""
+msgstr ""
+
+#: 03202:121
+
+msgid "{Mizuki}\n\"What are you talking about?\""
+msgstr ""
+
+#: 03202:125
+
+msgid "{Rin}\n\"Tea's ready. I made barley tea since it's hot.\""
+msgstr ""
+
+#: 03202:126
+
+msgid "Fujisaki-san came in with tea for everyone."
+msgstr ""
+
+#: 03202:130
+
+msgid "{Rin}\n\"Here's your tea. What were you guys talking about?\""
+msgstr ""
+
+#: 03202:131
+
+msgid "Rin asked us after setting down the tea cups and looking at Mizuki's frown."
+msgstr ""
+
+#: 03202:137
+
+msgid "{Mizuki}\n\"What's this wrong idea?\""
+msgstr ""
+
+#: 03202:138
+
+msgid "Mizuki continued to frown as she sipped her tea."
+msgstr ""
+
+#: 03202:141
+
+msgid "{Sakura}\n\"...that you're a raging dyke.\""
+msgstr ""
+
+#: 03202:145
+
+msgid "{Mizuki}\n\"Pfffffffffffffffffffft?!\""
+msgstr ""
+
+#: 03202:146
+
+msgid "Mizuki spit out everything she just drank."
+msgstr ""
+
+#: 03202:150
+
+msgid "{Rin}\n\"..................\""
+msgstr ""
+
+#: 03202:151
+
+msgid "...and splattered it all over Fujisaki-san."
+msgstr ""
+
+#: 03202:156
+
+msgid "{Sakura}\n\"Wow, Rin's so wet. I want to tease her too!\""
+msgstr ""
+
+#: 03202:157
+
+msgid "{Rin}\n\"Stop it. I'll be really mad if you do so right now.\""
+msgstr ""
+
+#: 03202:164
+
+msgid "{Mizuki}\n\"Sorry, Rin!\nIt's all your fault, Sakura!\""
+msgstr ""
+
+#: 03202:165
+
+msgid "{Sakura}\n\"I'm just telling you the truth.\""
+msgstr ""
+
+#: 03202:166
+
+msgid "{Mizuki}\n\"Hold on a second? Who's saying I'm a lesbian?! Who would say such a thing.\""
+msgstr ""
+
+#: 03202:169
+
+msgid "{Rin}\n\"I've heard that, too.\""
+msgstr ""
+
+#: 03202:173
+
+msgid "{Fuusen}\n\"Everyone thinks you are a lesbian.\""
+msgstr ""
+
+#: 03202:177
+
+msgid "{Andou}\n\"Some of the girls even think you're taking advantage of the naive freshmen in your fan club.\""
+msgstr ""
+
+#: 03202:178
+
+msgid "{Mizuki}\n\"That's ridiculous! I'm not doing anything to them!\""
+msgstr ""
+
+#: 03202:182
+
+msgid "{Sakura}\n\"But you don't show any interests in boys.\""
+msgstr ""
+
+#: 03202:186
+
+msgid "{Ran}\n\"You didn't show any interest in it even when I offered to introduce you to some.\""
+msgstr ""
+
+#: 03202:189
+
+msgid "{Mizuki}\n\"I just wasn't interested in financing your business! I am interested in boys!\""
+msgstr ""
+
+#: 03202:190
+
+msgid "{Sakura}\n\"Huh? I thought you said earlier that you weren't interested in boys.\""
+msgstr ""
+
+#: 03202:191
+
+msgid "{Mizuki}\n\"I am now!\""
+msgstr ""
+
+#: 03202:195
+
+msgid "{Pierre}\n\"Oh, you've said it!\""
+msgstr ""
+
+#: 03202:199
+
+msgid "{Fuusen}\n\"Then you've already got someone in mind?\""
+msgstr ""
+
+#: 03202:200
+
+msgid "Fuusen asked the exact question us boys had on our minds."
+msgstr ""
+
+#: 03202:203
+
+msgid "{Mizuki}\n\"W-well...... yes I do.\""
+msgstr ""
+
+#: 03202:204
+
+msgid "Mizuki was under pressure and replied defiantly."
+msgstr ""
+
+#: 03202:208
+
+msgid "{Haruka}\n\"What? Wow! You do! Who is it?\""
+msgstr ""
+
+#: 03202:209
+
+msgid "{Mizuki}\n\"I-it's......\""
+msgstr ""
+
+#: 03202:210
+
+msgid "Mizuki was in trouble. That was definitely a lie. She only said she had someone in mind because she couldn't take it anymore."
+msgstr ""
+
+#: 03202:211
+
+msgid "I'd done that before."
+msgstr ""
+
+#: 03202:215
+
+msgid "{Sakura}\n\"You're lying, right? We won't get mad; just tell us the truth.\""
+msgstr ""
+
+#: 03202:218
+
+msgid "{Mizuki}\n\"...I'm not lying.\nAs a matter of fact, we're already going out.\""
+msgstr ""
+
+#: 03202:219
+
+msgid "Oh no, now she's done it. She's definitely lying."
+msgstr ""
+
+#: 03202:223
+
+msgid "{Rin}\n\"We? Mizuki-chan, you already have a boyfriend? Who is he? Someone in our class?\""
+msgstr ""
+
+#: 03202:226
+
+msgid "{Mizuki}\n\"He is......\""
+msgstr ""
+
+#: 03202:227
+
+msgid "Ouch... Nothing's more painful to watch than someone who continues to lie when everyone knows they are."
+msgstr ""
+
+#: 03202:231
+
+msgid "{Ran}\n\"Who is it? Tell us.\""
+msgstr ""
+
+#: 03202:232
+
+msgid "{Mizuki}\n\"Umm......\""
+msgstr ""
+
+#: 03202:233
+
+msgid "She was glancing around.\nI can't watch this anymore......"
+msgstr ""
+

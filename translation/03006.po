@@ -1,0 +1,2368 @@
+# Comments for '03006'
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0 \n"
+"Content-Type: text/plain; charset=utf-8 \n"
+"Content-Transfer-Encoding: 8bit \n"
+"Language: es\n"
+
+#: 03006:7
+
+msgid "{Kazushi}\n\"Mmmmmmmhhhhhh!\""
+msgstr ""
+
+#: 03006:8
+
+msgid "I woke up feeling alive and full of energy."
+msgstr ""
+
+#: 03006:9
+
+msgid "It's our first day of summer break! I can't laze away in bed!"
+msgstr ""
+
+#: 03006:10
+
+msgid "I've already got plans for today."
+msgstr ""
+
+#: 03006:11
+
+msgid "{Kazushi}\n\"Oh what a beautiful morning!\""
+msgstr ""
+
+#: 03006:12
+
+msgid "It was just past 8AM. The sky outside is bright and clear. It's going to be a nice hot day today."
+msgstr ""
+
+#: 03006:13
+
+msgid "{Appo}\n *SNRXK*"
+msgstr ""
+
+#: 03006:14
+
+msgid "Appo was still snoring away."
+msgstr ""
+
+#: 03006:15
+
+msgid "{Kazushi}\n\"Wake up, Appo!!\""
+msgstr ""
+
+#: 03006:16
+
+msgid "I had to kick him a few times to wake him up."
+msgstr ""
+
+#: 03006:19
+
+msgid "{Appo}\n\"Ouch......what did you do that for!?\""
+msgstr ""
+
+#: 03006:20
+
+msgid "He finally woke up and glared at me in protest as he rubbed his head."
+msgstr ""
+
+#: 03006:21
+
+msgid "{Kazushi}\n\"It's because you kept sleeping like an idiot. Have you already forgotten what day it is today?\""
+msgstr ""
+
+#: 03006:24
+
+msgid "{Appo}\n\"Of course I haven't. It's the first day of summer break. I was so excited I could barely fall asleep.\""
+msgstr ""
+
+#: 03006:25
+
+msgid "{Kazushi}\n\"Then quit sleeping and get ready!\""
+msgstr ""
+
+#: 03006:28
+
+msgid "{Appo}\n\"You don't have to worry about me.\nI went to bed in my swimming trunks.\""
+msgstr ""
+
+#: 03006:29
+
+msgid "Appo showed me what he was wearing underneath his trousers."
+msgstr ""
+
+#: 03006:30
+
+msgid "{Kazushi}\n\"Wow, now that's being proactive!\""
+msgstr ""
+
+#: 03006:33
+
+msgid "{Appo}\n\"Aren't you ready yet? I'll leave you behind.\""
+msgstr ""
+
+#: 03006:37
+
+msgid "Appo bolted for the outside. It's hard to believe he was sleeping like a rock until ten seconds ago."
+msgstr ""
+
+#: 03006:39
+
+msgid "{Kazushi}\n\"Wait! Wait for me!\""
+msgstr ""
+
+#: 03006:49
+
+msgid "{Haruka}\n\"There they are!\""
+msgstr ""
+
+#: 03006:52
+
+msgid "{Fuusen}\n\"Ah-chan!\nHurry!\""
+msgstr ""
+
+#: 03006:53
+
+msgid "The girls were already waiting for us."
+msgstr ""
+
+#: 03006:58
+
+msgid "{Pierre}\n\"You guys look great......\""
+msgstr ""
+
+#: 03006:66
+
+msgid "We'd seen them in their springtime uniforms every day, but they sure looked special this morning."
+msgstr ""
+
+#: 03006:67
+
+msgid "This must be the magic of summer."
+msgstr ""
+
+#: 03006:68
+
+msgid "{Kazushi}\n\"Sorry! Did we make you wait!?\""
+msgstr ""
+
+#: 03006:74
+
+msgid "{Pierre}\n\"Should he get down on the floor and apologize?\""
+msgstr ""
+
+#: 03006:75
+
+msgid "{Kazushi}\n\"Me!?\""
+msgstr ""
+
+#: 03006:76
+
+msgid "{Kazushi}\n\"I'm sorry!!\""
+msgstr ""
+
+#: 03006:77
+
+msgid "I did it immediately."
+msgstr ""
+
+#: 03006:83
+
+msgid "{Ran}\n\"Hahaha! He really did!\""
+msgstr ""
+
+#: 03006:86
+
+msgid "{Rin}\n\"Wow, I've never seen anybody actually do that before.\""
+msgstr ""
+
+#: 03006:91
+
+msgid "{Appo}\n\"We're sorry that he's so stupid.\""
+msgstr ""
+
+#: 03006:92
+
+msgid "{Kazushi}\n\"Am I the only stupid one?\""
+msgstr ""
+
+#: 03006:93
+
+msgid "It wasn't worth it to play the fool."
+msgstr ""
+
+#: 03006:97
+
+msgid "{Mizuki}\n\"Don't worry. We just got here, too.\""
+msgstr ""
+
+#: 03006:98
+
+msgid "Everyone seems to be so generous today. They all had smiles as bright as the sun."
+msgstr ""
+
+#: 03006:102
+
+msgid "{Andou}\n\"Besides, it's summer.\""
+msgstr ""
+
+#: 03006:103
+
+msgid "Even Andou just muttered something and accepted it."
+msgstr ""
+
+#: 03006:108
+
+msgid "{Haruka}\n\"That's right. It's summer.\""
+msgstr ""
+
+#: 03006:113
+
+msgid "{Pierre}\n\"Shall we go? Does everyone have everything?\""
+msgstr ""
+
+#: 03006:114
+
+msgid "Everybody nodded with sparkling eyes. We turned our gazes towards the distance where the vast, glittering ocean awaited us."
+msgstr ""
+
+#: 03006:119
+
+msgid "{Appo}\n\"This is great!\""
+msgstr ""
+
+#: 03006:121
+
+msgid "It was like a private beach! Sure, it was a bit small, but we had the entire place to ourselves - perfect for a secret getaway."
+msgstr ""
+
+#: 03006:124
+
+msgid "{Pierre}\n\"Okay, let's set our luggage together and hit the water!\""
+msgstr ""
+
+#: 03006:125
+
+msgid "{Kazushi}\n\"Is there anywhere you girls can change?\""
+msgstr ""
+
+#: 03006:126
+
+msgid "They were all still in their school uniforms."
+msgstr ""
+
+#: 03006:130
+
+msgid "{Mizuki}\n\"Are you thinking something naughty again? We're already wearing our swimsuits underneath.\""
+msgstr ""
+
+#: 03006:131
+
+msgid "{Kazushi}\n\"You girls, too?\""
+msgstr ""
+
+#: 03006:136
+
+msgid "{Haruka}\n\"Yes, we are.\""
+msgstr ""
+
+#: 03006:143
+
+msgid "{Ran}\n\"Of course!\""
+msgstr ""
+
+#: 03006:149
+
+msgid "{Daigo}\n\"Darn...\""
+msgstr ""
+
+#: 03006:153
+
+msgid "{Andou}\n\"Sorry for getting your hopes up, boys.\""
+msgstr ""
+
+#: 03006:158
+
+msgid "{Pierre}\n\"Oh, we weren't hoping for anything hopeful from you, Andou.\""
+msgstr ""
+
+#: 03006:159
+
+msgid "{Kazushi}\n\"You guys came well prepared.\""
+msgstr ""
+
+#: 03006:160
+
+msgid "That meant I was the only one who had to find somewhere to changed."
+msgstr ""
+
+#: 03006:164
+
+msgid "{Kazushi}\n\"Wonderful......!!\nThis is exactly what I was waiting for!\""
+msgstr ""
+
+#: 03006:165
+
+msgid "The blazing sun, a pristine white beach, and pretty classmates in tight swimsuits."
+msgstr ""
+
+#: 03006:166
+
+msgid "{Kazushi}\n\"Don't they just look terrific?\""
+msgstr ""
+
+#: 03006:167
+
+msgid "It was nothing like the beach we hit last year. No longer were we just sitting on the sides twiddling our thumbs as we watched unfamiliar girls."
+msgstr ""
+
+#: 03006:168
+
+msgid "{Pierre}\n\"Hurry up and get changed!\""
+msgstr ""
+
+#: 03006:169
+
+msgid "{Kazushi}\n\"Alright, already! I'll be right back.\""
+msgstr ""
+
+#: 03006:170
+
+msgid "I was the only one who hadn't had the foresight to wear his swimsuit underneath his clothes. I ducked behind the rocks and changed."
+msgstr ""
+
+#: 03006:171
+
+msgid "{Kazushi}\n\"Be patient, Kazushi!\nYou're putting both legs in one hole!\""
+msgstr ""
+
+#: 03006:172
+
+msgid "{Pierre}\n\"Take this!!\""
+msgstr ""
+
+#: 03006:175
+
+msgid "{Haruka}\n\"Waa! It's so cold!\""
+msgstr ""
+
+#: 03006:176
+
+msgid "{Ran}\n\"Haruka!\nDo it back to him!!\""
+msgstr ""
+
+#: 03006:178
+
+msgid "{Pierre}\n\"Oh!\""
+msgstr ""
+
+#: 03006:179
+
+msgid "{Appo}\n\"It's boys vs. girls!\""
+msgstr ""
+
+#: 03006:180
+
+msgid "They're all paired up and having fun.\nWhat am I doing here?"
+msgstr ""
+
+#: 03006:181
+
+msgid "{Fuusen}\n\"No! I can't bear to fight against you, Ah-chan!\""
+msgstr ""
+
+#: 03006:182
+
+msgid "{Appo}\n\"Fuu-chan!\""
+msgstr ""
+
+#: 03006:183
+
+msgid "{Fuusen}\n\"Ah, no!\""
+msgstr ""
+
+#: 03006:184
+
+msgid "{Mizuki}\n\"Look, you two! There's no sexytime in here! Don't you dare soil my ocean!\""
+msgstr ""
+
+#: 03006:185
+
+msgid "{Andou}\n\"My best friend is taken......\nNO!!\""
+msgstr ""
+
+#: 03006:186
+
+msgid "{Pierre}\n\"Calm down, Andou! The waves are coming!\""
+msgstr ""
+
+#: 03006:187
+
+msgid "{Rin}\n\"Sakura! Don't slip under the confusion and pull my swimsuit!!\""
+msgstr ""
+
+#: 03006:188
+
+msgid "{Sakura}\n\"Just a little bit!!\""
+msgstr ""
+
+#: 03006:189
+
+msgid "S-swimsuit?! I want to see! I want to see quick!"
+msgstr ""
+
+#: 03006:190
+
+msgid "{Kazushi}\n\"I'm still putting both my legs through the same side!\""
+msgstr ""
+
+#: 03006:191
+
+msgid "I'm such an idiot!"
+msgstr ""
+
+#: 03006:192
+
+msgid "{Haruka}\n\"Kazushi-kun! Come on over!\""
+msgstr ""
+
+#: 03006:193
+
+msgid "{Andou}\n\"What's taking you so long!?\""
+msgstr ""
+
+#: 03006:194
+
+msgid "{Fuusen}\n\"You should never make your girlfriends wait!\""
+msgstr ""
+
+#: 03006:195
+
+msgid "{Appo}\n\"He's always slow.\""
+msgstr ""
+
+#: 03006:196
+
+msgid "Everybody was calling for me."
+msgstr ""
+
+#: 03006:197
+
+msgid "{Kazushi}\n\"I'll be right there!!\""
+msgstr ""
+
+#: 03006:198
+
+msgid "I finally got myself changed and leapt out from behind the rocks. The blazing sun was setting fire to my body and heart. I'm gonna play all day!"
+msgstr ""
+
+#: 03006:210
+
+msgid "{Appo}\n\"Ouch! My back!\""
+msgstr ""
+
+#: 03006:211
+
+msgid "{Daigo}\n\"I told you to wear sunscreen.\""
+msgstr ""
+
+#: 03006:212
+
+msgid "{Pierre}\n\"This is part of summer.\nOuch! Rubbing against the sheets hurts!\""
+msgstr ""
+
+#: 03006:213
+
+msgid "{Kazushi}\n\"Look, you guys, don't get the futons all messed up. And quit rubbing your back on my futon.\""
+msgstr ""
+
+#: 03006:217
+
+msgid "We came back to the dorm, took our baths, ate our dinner, and once we went to sleep, our first day of summer would be over. But we were still so excited about today."
+msgstr ""
+
+#: 03006:218
+
+msgid "We weren't ready to sleep at all. Neither were Pierre and Daigo, so they were still here in our room."
+msgstr ""
+
+#: 03006:221
+
+msgid "{Appo}\n\"You guys aren't going back to your room? Do you wanna go out or something?\""
+msgstr ""
+
+#: 03006:222
+
+msgid "{Kazushi}\n\"Where can we go? We already took a shower...\""
+msgstr ""
+
+#: 03006:227
+
+msgid "{Pierre}\n\"There's only one place boys want to go this late!\""
+msgstr ""
+
+#: 03006:234
+
+msgid "{Daigo}\n\"Are you saying......\""
+msgstr ""
+
+#: 03006:237
+
+msgid "{Appo}\n\"Of course! It's the girls' dorm.\nAre you guys up for it?\""
+msgstr ""
+
+#: 03006:240
+
+msgid "{Pierre}\n\"I am! I am! I wanna have some more fun.\""
+msgstr ""
+
+#: 03006:243
+
+msgid "{Daigo}\n\"It's too risky. Remember how Yagami-sensei was telling us to behave?\""
+msgstr ""
+
+#: 03006:248
+
+msgid "{Pierre}\n\"Are you telling us that you're gonna skip out on night classes?\""
+msgstr ""
+
+#: 03006:251
+
+msgid "{Daigo}\n\"Night classes?\""
+msgstr ""
+
+#: 03006:252
+
+msgid "{Kazushi}\n\"It sounds interesting. What exactly what are we going to do?\""
+msgstr ""
+
+#: 03006:255
+
+msgid "{Pierre}\n\"We had a lot of fun this afternoon, right? I'm sure the girls feel the same as us. So tell me, how do you feel right now?\""
+msgstr ""
+
+#: 03006:258
+
+msgid "{Daigo}\n\"My sunburn aches.\""
+msgstr ""
+
+#: 03006:259
+
+msgid "{Kazushi}\n\"I know. My body's so hot. And even though I'm nice and tired, I'm wide awake.\""
+msgstr ""
+
+#: 03006:262
+
+msgid "{Pierre}\n\"Right? The girls are feeling the same way.\""
+msgstr ""
+
+#: 03006:268
+
+msgid "{Appo}\n\"'My body's so hot. I'm aching all over... I'm afraid of what's going to happen to me!'\""
+msgstr ""
+
+#: 03006:269
+
+msgid "{Pierre}\n\"'Somebody please quell this heat! Ease my aching body! Insert something thick into this throbbing hole!'\""
+msgstr ""
+
+#: 03006:274
+
+msgid "{Daigo}\n\"Gulp!\""
+msgstr ""
+
+#: 03006:280
+
+msgid "{Appo}\n\"That's what they're saying as they writhe in their rooms, waiting for us. I know it. How do I know? Because I'm not a virgin.\""
+msgstr ""
+
+#: 03006:281
+
+msgid "{Pierre}\n\"I know it, too.\""
+msgstr ""
+
+#: 03006:282
+
+msgid "{Kazushi}\n\"Whoah??\""
+msgstr ""
+
+#: 03006:283
+
+msgid "Do you come to understand that much more once you lose your virginity?! I was amazed at both of them."
+msgstr ""
+
+#: 03006:284
+
+msgid "{Kazushi}\n\"I want to follow in your footsteps! I want to get laid too!\""
+msgstr ""
+
+#: 03006:289
+
+msgid "{Daigo}\n\"Me too!\""
+msgstr ""
+
+#: 03006:290
+
+msgid "Daigo's logic and sense of responsibility were nothing before the chance of a summer fling."
+msgstr ""
+
+#: 03006:295
+
+msgid "{Appo}\n\"All right! You guys follow me!\""
+msgstr ""
+
+#: 03006:296
+
+msgid "{Pierre}\n\"We have a man here who knows how to sneak into girls' dorm better than anybody.\""
+msgstr ""
+
+#: 03006:297
+
+msgid "That's true.\nAppo was sneaking into Fuusen's room every night."
+msgstr ""
+
+#: 03006:302
+
+msgid "{Appo}\n\"Are we ready? Let's......\""
+msgstr ""
+
+#: 03006:308
+
+msgid "{Mizuki}\n\"WAAAAH!\""
+msgstr ""
+
+#: 03006:316
+
+msgid "{Boys}\n\"AHHHHHHH!?\""
+msgstr ""
+
+#: 03006:317
+
+msgid "We all jumped in fright at the sudden shout. After all, we'd just finished plotting out our crimes."
+msgstr ""
+
+#: 03006:320
+
+msgid "{Appo}\n\"Who's there!?\""
+msgstr ""
+
+#: 03006:328
+
+msgid "{Mizuki}\n\"So, this is where you guys live? It's like an old abandoned shack by the beach.\""
+msgstr ""
+
+#: 03006:329
+
+msgid "{Kazushi}\n\"Is that you, Mizuki?\""
+msgstr ""
+
+#: 03006:330
+
+msgid "We didn't even recognize her since Mizuki was standing at the door in side profile.\nAnd she hadn't come alone."
+msgstr ""
+
+#: 03006:335
+
+msgid "{Haruka}\n\"Your room looks much better than how it was when you guys first moved in.\""
+msgstr ""
+
+#: 03006:342
+
+msgid "{Sakura}\n\"This room is totally empty! Come on, where are you guys hiding your porn?\""
+msgstr ""
+
+#: 03006:343
+
+msgid "Haruka, Sakura, Fuusen, and Fujisaki-san had come along with her."
+msgstr ""
+
+#: 03006:349
+
+msgid "{Appo}\n\"You're here too, Fuu-chan?\""
+msgstr ""
+
+#: 03006:354
+
+msgid "{Fuusen}\n\"Hee, hee. I came!\""
+msgstr ""
+
+#: 03006:355
+
+msgid "That line would have struck each one of us as anything but good if it hadn't come from Fuusen. As it stood, only one person enjoyed it."
+msgstr ""
+
+#: 03006:358
+
+msgid "{Appo}\n\"Darling, you're too cute! Hey guys! This pretty lady is my girlfriend and don't you forget it!\""
+msgstr ""
+
+#: 03006:361
+
+msgid "{Fuusen}\n\"Stop it, honey! Now everybody's looking at us.\nBoys, I'm sorry for being so distractingly pretty.\""
+msgstr ""
+
+#: 03006:362
+
+msgid "We couldn't stand watching those two rub their cheeks together."
+msgstr ""
+
+#: 03006:369
+
+msgid "{Daigo}\n\"It's disgusting.\""
+msgstr ""
+
+#: 03006:370
+
+msgid "{Kazushi}\n\"I know.\""
+msgstr ""
+
+#: 03006:373
+
+msgid "{Pierre}\n\"So, what are you guys doing here?\""
+msgstr ""
+
+#: 03006:374
+
+msgid "Pierre did a good job of changing the subject."
+msgstr ""
+
+#: 03006:383
+
+msgid "{Haruka}\n\"Like what you guys were about to do! We came here to attack you guys!\""
+msgstr ""
+
+#: 03006:386
+
+msgid "{Mizuki}\n\"We still wanted to have fun.\""
+msgstr ""
+
+#: 03006:389
+
+msgid "{Sakura}\n\"Can we come in?\""
+msgstr ""
+
+#: 03006:390
+
+msgid "She was already taking her shoes off before we could say yes."
+msgstr ""
+
+#: 03006:391
+
+msgid "{Kazushi}\n\"I don't mind, but can you all fit in here?\""
+msgstr ""
+
+#: 03006:399
+
+msgid "{Pierre}\n\"Sure they can. Just get in here before you get caught.\""
+msgstr ""
+
+#: 03006:402
+
+msgid "{Appo}\n\"It's not your room, Pierre.\nFuu-chan, grab my hand.\""
+msgstr ""
+
+#: 03006:405
+
+msgid "The girls quickly filed in."
+msgstr ""
+
+#: 03006:408
+
+msgid "{Fuusen}\n\"Here comes a surprise inspection of your belongings!!\n...huh? Who's porno mag is this!?\""
+msgstr ""
+
+#: 03006:409
+
+msgid "Fuusen found Appo's porn. She was quick as lightning."
+msgstr ""
+
+#: 03006:413
+
+msgid "{Appo}\n\"Oh, that's Kazushi's! Jeez, virgins...\""
+msgstr ""
+
+#: 03006:414
+
+msgid "{Kazushi}\n\"What?!\""
+msgstr ""
+
+#: 03006:417
+
+msgid "He was trying to foist it off on me. He made begging signals behind Fuusen's back."
+msgstr ""
+
+#: 03006:423
+
+msgid "{Haruka}\n\"Kazushi-kun, what amazing tastes you have...\""
+msgstr ""
+
+#: 03006:424
+
+msgid "{Mizuki}\n\"That's disgusting.\""
+msgstr ""
+
+#: 03006:425
+
+msgid "Everybody stared at me with looks of filth and disgust...except for Fuusen, who glared at Appo."
+msgstr ""
+
+#: 03006:430
+
+msgid "{Fuusen}\n\"No, this isn't Haruma-kun's, this is Ah-chan's tastes! 'Writhing Big Boobed Teacher Machiko's Sexy Extracurricular Lesson' is right up Ah-chan's alley!\""
+msgstr ""
+
+#: 03006:434
+
+msgid "{Appo}\n\"Ggh...she found out...!!\""
+msgstr ""
+
+#: 03006:440
+
+msgid "{Daigo}\n\"Wow, she has a perfect understanding of Appo's tastes.\""
+msgstr ""
+
+#: 03006:443
+
+msgid "{Pierre}\n\"And yet she still accepts him. She's a very open-minded girl.\""
+msgstr ""
+
+#: 03006:444
+
+msgid "{Kazushi}\n\"You guys truly understand each other. You two are really an ideal couple.\""
+msgstr ""
+
+#: 03006:447
+
+msgid "{Pierre}\n\"I'm not jealous.\""
+msgstr ""
+
+#: 03006:448
+
+msgid "Pierre meant that honestly. I wasn't envious either."
+msgstr ""
+
+#: 03006:455
+
+msgid "{Fuusen}\n\"I'll be punishing you for this later.\""
+msgstr ""
+
+#: 03006:458
+
+msgid "{Appo}\n\"Oh, I know! I can't wait!\""
+msgstr ""
+
+#: 03006:459
+
+msgid "Why's he so excited? I still don't get what goes on in the mind of a guy with a girlfriend."
+msgstr ""
+
+#: 03006:464
+
+msgid "{Sakura}\n\"Hey, you've got futons out!\""
+msgstr ""
+
+#: 03006:469
+
+msgid "{Rin}\n\"Oh yeah. How funny.\""
+msgstr ""
+
+#: 03006:470
+
+msgid "For some reason, they were interested in our futons."
+msgstr ""
+
+#: 03006:477
+
+msgid "{Pierre}\n\"That's right, you guys have western style beds.\""
+msgstr ""
+
+#: 03006:480
+
+msgid "{Haruka}\n\"I've never slept on a futon before!\nLet me sleep here!\""
+msgstr ""
+
+#: 03006:484
+
+msgid "Haruka plopped down onto one of them."
+msgstr ""
+
+#: 03006:485
+
+msgid "{Haruka}\n\"Wow! It's pretty hard! Is this what they call a sembei futon?\""
+msgstr ""
+
+#: 03006:488
+
+msgid "{Rin}\n\"Oh, Haruka-chan...\""
+msgstr ""
+
+#: 03006:489
+
+msgid "{Kazushi}\n\"The futon you're messing around on is mine, Haruka.\""
+msgstr ""
+
+#: 03006:490
+
+msgid "I'd just fixed them up after Pierre messed them up..."
+msgstr ""
+
+#: 03006:494
+
+msgid "{Mizuki}\n\"You've never slept on a futon before, Haruka? You're such an uptown girl.\""
+msgstr ""
+
+#: 03006:499
+
+msgid "{Rin}\n\"I haven't either. I grew up sleeping on beds.\""
+msgstr ""
+
+#: 03006:502
+
+msgid "{Mizuki}\n\"Wait, am I the only one here who's actually middle class?\""
+msgstr ""
+
+#: 03006:506
+
+msgid "{Sakura}\n\"I like sleeping on futons better. In a bed, I usually fall out at least once a night.\""
+msgstr ""
+
+#: 03006:507
+
+msgid "Sakura must keep up her high energy levels even when she sleeps."
+msgstr ""
+
+#: 03006:512
+
+msgid "{Haruka}\n\"Hey everyone, why don't we all sleep together here on the futons?\""
+msgstr ""
+
+#: 03006:513
+
+msgid "Haruka had proposed a remarkably bold suggestion."
+msgstr ""
+
+#: 03006:514
+
+msgid "{Kazushi}\n\"Wait, hold on. I don't think that's such a good idea...\""
+msgstr ""
+
+#: 03006:518
+
+msgid "{Pierre}\n\"Why not? It'll be fun!\""
+msgstr ""
+
+#: 03006:524
+
+msgid "{Rin}\n\"All of us sleep here? We can't. The teachers'll get very mad if they catch us sleeping in a boy's room.\""
+msgstr ""
+
+#: 03006:525
+
+msgid "{Daigo}\n\"The teachers were telling us to behave ourselves.\""
+msgstr ""
+
+#: 03006:526
+
+msgid "Fujisaki-san and Daigo were sounding like the class representatives. Maybe we should nominate them for it next semester."
+msgstr ""
+
+#: 03006:531
+
+msgid "{Fuusen}\n\"There's no way we'll get caught.\nIt's not like a field trip where they come around and check every single room.\""
+msgstr ""
+
+#: 03006:536
+
+msgid "{Mizuki}\n\"I don't want to sleep on a boy's futon.\""
+msgstr ""
+
+#: 03006:540
+
+msgid "{Ran}\n\"Come on, it'll be fun... But it is crowed in here. This room's already full as it is.\""
+msgstr ""
+
+#: 03006:543
+
+msgid "She was right. Daigo had to fold his legs in and hold them tight just so we could all sit down."
+msgstr ""
+
+#: 03006:546
+
+msgid "{Pierre}\n\"Things are just getting exciting. I don't want to send you girls back disappointed.\""
+msgstr ""
+
+#: 03006:551
+
+msgid "{Sakura}\n\"You're right. We'll get lonely on our way back and we'd have to go on our own.\""
+msgstr ""
+
+#: 03006:558
+
+msgid "{Haruka}\n\"I wanna sleep on a futon for a change!\""
+msgstr ""
+
+#: 03006:559
+
+msgid "The girls seemed reluctant to leave. Everybody must have had a great time at the beach, and none of us wanted to just let the day end."
+msgstr ""
+
+#: 03006:560
+
+msgid "{Kazushi}\n\"All right...\nWhy don't we go somewhere else, then?\""
+msgstr ""
+
+#: 03006:563
+
+msgid "{Haruka}\n\"Where else is there?\""
+msgstr ""
+
+#: 03006:564
+
+msgid "{Kazushi}\n\"I know someplace big enough for all of us.\""
+msgstr ""
+
+#: 03006:570
+
+msgid "{Kazushi}\n\"Don't turn on the light or we'll get caught!\""
+msgstr ""
+
+#: 03006:571
+
+msgid "We snuck into our classroom. The moonlight was bright enough for us to find our way around."
+msgstr ""
+
+#: 03006:578
+
+msgid "{Ran}\n\"I never thought I'd enter a classroom during summer break.\""
+msgstr ""
+
+#: 03006:581
+
+msgid "{Rin}\n\"I've never been in the classroom at night.\""
+msgstr ""
+
+#: 03006:584
+
+msgid "{Mizuki}\n\"Me neither. It looks so different than during the daytime.\""
+msgstr ""
+
+#: 03006:585
+
+msgid "We were all getting a thrill just from being in the classroom at night, even though we'd spent so many days in here and knew it inside and out."
+msgstr ""
+
+#: 03006:591
+
+msgid "{Haruka}\n\"Let's move the desks against the wall and then we can lay down the futons.\""
+msgstr ""
+
+#: 03006:595
+
+msgid "{Fuusen}\n\"Ah-chan, what are we doing with the futons? Sleeping on the floor might be a little rough for me, having gotten used to your soft, squishy body, Darling.\""
+msgstr ""
+
+#: 03006:600
+
+msgid "{Pierre}\n\"Thanks for the terrible, shocking information.\""
+msgstr ""
+
+#: 03006:604
+
+msgid "{Appo}\n\"We can solve that problem easily!\nGuys, follow me.\""
+msgstr ""
+
+#: 03006:605
+
+msgid "Appo was brimming with energy for some reason. He was probably trying to make up for the porn magazine that Fuusen found."
+msgstr ""
+
+#: 03006:606
+
+msgid "{Kazushi}\n\"All right. Let's go. We just need one for everyone, right?\""
+msgstr ""
+
+#: 03006:611
+
+msgid "{Haruka}\n\"Where are you bringing them from?\""
+msgstr ""
+
+#: 03006:616
+
+msgid "{Pierre}\n\"We're going to go and swipe some more futons from the other boys' rooms. I'm sure we can get a few dozen in no time.\""
+msgstr ""
+
+#: 03006:617
+
+msgid "{Kazushi}\n\"Can you guys finish moving the desks while we do the futon run?\""
+msgstr ""
+
+#: 03006:621
+
+msgid "{Mizuki}\n\"Do they have any to spare? All the boys sleep on futons, right?\""
+msgstr ""
+
+#: 03006:625
+
+msgid "{Appo}\n\"Don't worry. We'll get them even if we have to fight for them.\""
+msgstr ""
+
+#: 03006:629
+
+msgid "{Rin}\n\"No, don't do that...\""
+msgstr ""
+
+#: 03006:633
+
+msgid "{Daigo}\n\"Don't worry. I'm with him.\""
+msgstr ""
+
+#: 03006:637
+
+msgid "{Appo}\n\"See you guys soon.\""
+msgstr ""
+
+#: 03006:638
+
+msgid "{Kazushi}\n\"We'll be right back.\""
+msgstr ""
+
+#: 03006:640
+
+msgid "15 minutes later."
+msgstr ""
+
+#: 03006:650
+
+msgid "We came back with bunch of futons."
+msgstr ""
+
+#: 03006:653
+
+msgid "{Appo}\n\"This should do it.\""
+msgstr ""
+
+#: 03006:658
+
+msgid "{Haruka}\n\"You guys really did steal them. You're such thieves!\""
+msgstr ""
+
+#: 03006:662
+
+msgid "{Pierre}\n\"Oh, how right you are, sweet lady. I'll steal your heart as well.\""
+msgstr ""
+
+#: 03006:665
+
+msgid "{Haruka}\n\"Nice try.\""
+msgstr ""
+
+#: 03006:668
+
+msgid "{Pierre}\n\"Nice try...\nI see...\""
+msgstr ""
+
+#: 03006:669
+
+msgid "The girls were in awe of how many futons we brought back with us."
+msgstr ""
+
+#: 03006:674
+
+msgid "{Mizuki}\n\"Isn't this a bit much? We don't need so many, do we?\""
+msgstr ""
+
+#: 03006:675
+
+msgid "{Kazushi}\n\"Don't you want to try something interesting? We're going to turn the entire floor into one big futon.\""
+msgstr ""
+
+#: 03006:679
+
+msgid "{Haruka}\n\"That's right! There's enough here to cover everything! We'll turn the whole floor into a futon!\""
+msgstr ""
+
+#: 03006:680
+
+msgid "{Kazushi}\n\"Let's do it! Let's do it!\""
+msgstr ""
+
+#: 03006:681
+
+msgid "Everybody worked together, and we did indeed cover the entire floor."
+msgstr ""
+
+#: 03006:685
+
+msgid "{Rin}\n\"Wow... They're everywhere!\""
+msgstr ""
+
+#: 03006:686
+
+msgid "{Sakura}\n\"This is great! Now I can roll around as much as I want while I'm sleeping!\""
+msgstr ""
+
+#: 03006:687
+
+msgid "{Ran}\n\"This is really fun! Oh! That's it! I wonder if I can profit off renting out the classroom...\""
+msgstr ""
+
+#: 03006:688
+
+msgid "{Kazushi}\n\"I don't think so.\""
+msgstr ""
+
+#: 03006:689
+
+msgid "The classroom was half covered in futons. Everybody started lying down wherever they felt like."
+msgstr ""
+
+#: 03006:690
+
+msgid "{Mizuki}\n\"This is like an ocean made of futons. I feel like I could swim here.\""
+msgstr ""
+
+#: 03006:691
+
+msgid "Mizuki tried a few freestyle strokes on the futons. They were already getting messed up."
+msgstr ""
+
+#: 03006:692
+
+msgid "{Ran}\n\"Mizuki, stop it. Look what you're doing to my futon!\""
+msgstr ""
+
+#: 03006:693
+
+msgid "{Fuusen}\n\"You don't need to claim your territory. You can go anywhere you'd like.\""
+msgstr ""
+
+#: 03006:694
+
+msgid "{Rin}\n\"She's right, but you need to calm down, Mizuki-chan.\""
+msgstr ""
+
+#: 03006:695
+
+msgid "{Mizuki}\n\"Ahaha, sorry.\""
+msgstr ""
+
+#: 03006:696
+
+msgid "{Sakura}\n\"Rin, lay down next to me so we can sleep together!\""
+msgstr ""
+
+#: 03006:697
+
+msgid "Sakura hugged Fujisaki-san from behind."
+msgstr ""
+
+#: 03006:698
+
+msgid "{Rin}\n\"Kyah! Sakura!! Where are you touching me!?\""
+msgstr ""
+
+#: 03006:699
+
+msgid "Sakura's hands were moving seductively over Fujisaki-san's breasts."
+msgstr ""
+
+#: 03006:700
+
+msgid "{Sakura}\n\"Wow! Have your breasts grown bigger again?\""
+msgstr ""
+
+#: 03006:701
+
+msgid "{Rin}\n\"No, they haven't...Ahhhn!\""
+msgstr ""
+
+#: 03006:702
+
+msgid "Because the girls were standing there stunned and us boys were watching intently, Fujisaki-san's sexy voice echoed in the quiet classroom."
+msgstr ""
+
+#: 03006:703
+
+msgid "{Kazushi}\n\"Fujisaki-san......I love your sexy voice......\""
+msgstr ""
+
+#: 03006:704
+
+msgid "{Pierre}\n\"It rocks your world... I'm already dizzy...\""
+msgstr ""
+
+#: 03006:705
+
+msgid "{Rin}\n\"Ah! Ahhhhhn!\""
+msgstr ""
+
+#: 03006:706
+
+msgid "Coming from such a meek, proper student as Fujisaki-san, that sexy cry nearly blew away our minds."
+msgstr ""
+
+#: 03006:707
+
+msgid "{Appo}\n\"And we're in the classroom, too!\""
+msgstr ""
+
+#: 03006:708
+
+msgid "{Daigo}\n\"N-no way... Girl on girl is... *gulp*\""
+msgstr ""
+
+#: 03006:709
+
+msgid "{Appo}\n\"No...Girl on girl is great!\""
+msgstr ""
+
+#: 03006:710
+
+msgid "{Sakura}\n\"Here, take it.\""
+msgstr ""
+
+#: 03006:711
+
+msgid "{Rin}\n\"No, mmm... Nooooo...\""
+msgstr ""
+
+#: 03006:712
+
+msgid "{Mizuki}\n\"That's enough, Sakura! Don't forget the boys are here too.\""
+msgstr ""
+
+#: 03006:713
+
+msgid "{Rin}\n\"Ah, ahhn......S-stop, aahhhhn!\""
+msgstr ""
+
+#: 03006:714
+
+msgid "{Haruka}\n\"R-Rin-chan's in trouble! Sakura-chan, you should really stop!\""
+msgstr ""
+
+#: 03006:715
+
+msgid "Haruka unwittingly went in to stop them, but that's when Sakura's eyes gleamed."
+msgstr ""
+
+#: 03006:716
+
+msgid "{Sakura}\n\"The chance has come!\""
+msgstr ""
+
+#: 03006:717
+
+msgid "Sakura let go of Fujisaki-san and leapt onto Haruka."
+msgstr ""
+
+#: 03006:718
+
+msgid "{Haruka}\n\"Hyaaaaaah!? W-what?! Whaaaat?!\""
+msgstr ""
+
+#: 03006:719
+
+msgid "Haruka fell down as Sakura latched onto her. She tried to escape, but Sakura held on tightly from behind."
+msgstr ""
+
+#: 03006:720
+
+msgid "{Haruka}\n\"Ah, hold i-, where... Hyaah!? ...grope...!!\""
+msgstr ""
+
+#: 03006:721
+
+msgid "{Kazushi}\n\"Grope? ...She's groping?\""
+msgstr ""
+
+#: 03006:722
+
+msgid "{Pierre}\n\"Haruka-chan's being groped...\""
+msgstr ""
+
+#: 03006:723
+
+msgid "{Sakura}\n\"Haruka-chan, no bra! It feels so good!\""
+msgstr ""
+
+#: 03006:724
+
+msgid "{Kazushi}\n\"No bra!!\""
+msgstr ""
+
+#: 03006:725
+
+msgid "{Ran}\n\"Is that something unusual?\""
+msgstr ""
+
+#: 03006:726
+
+msgid "{Haruka}\n\"Hey, stop... Ahhhhhh!\""
+msgstr ""
+
+#: 03006:727
+
+msgid "{Sakura}\n\"Mmm, Harunyan, you feel so good.\""
+msgstr ""
+
+#: 03006:728
+
+msgid "{Andou}\n\"That's enough.\""
+msgstr ""
+
+#: 03006:732
+
+msgid "{Sakura}\n\"Ouch!?\""
+msgstr ""
+
+#: 03006:733
+
+msgid "Andou dropped her big hand over Sakura's head."
+msgstr ""
+
+#: 03006:734
+
+msgid "{Sakura}\n\"Ouch! You didn't have to hit me!\""
+msgstr ""
+
+#: 03006:735
+
+msgid "{Rin}\n\"You deserved it, Sakura.\""
+msgstr ""
+
+#: 03006:736
+
+msgid "{Sakura}\n\"You don't know how much Rei-chan's fist can hurt!\""
+msgstr ""
+
+#: 03006:737
+
+msgid "Sakura was genuinely crying from the pain. You reap what you sow, though. Haruka still lay collapsed on the futons."
+msgstr ""
+
+#: 03006:741
+
+msgid "{Haruka}\n\"K-Kazushi-kun, I feel so used! I've never been in love and now I'm ruined for marriage...\""
+msgstr ""
+
+#: 03006:742
+
+msgid "Haruka was crying too."
+msgstr ""
+
+#: 03006:747
+
+msgid "{Pierre}\n\"What? You've never been in love?\""
+msgstr ""
+
+#: 03006:750
+
+msgid "{Haruka}\n\"Not yet. Is that weird?\""
+msgstr ""
+
+#: 03006:751
+
+msgid "{Pierre}\n\"It's not weird, just surprising. You're pretty, and I thought you'd be popular.\""
+msgstr ""
+
+#: 03006:755
+
+msgid "{Andou}\n\"Haruka-chan's never left this island.\""
+msgstr ""
+
+#: 03006:758
+
+msgid "{Haruka}\n\"There weren't any boys around who were my age. I never had a chance to fall in love. I could only admire and wonder what love was.\""
+msgstr ""
+
+#: 03006:762
+
+msgid "{Fuusen}\n\"You'll find someone just like how I met my Ah-chan. I'm sure you'll meet your destined love one day.\""
+msgstr ""
+
+#: 03006:765
+
+msgid "{Haruka}\n\"Ahaha, I hope so.\""
+msgstr ""
+
+#: 03006:768
+
+msgid "Once the conversation hit love stories, it stayed there. Though this was our first time sharing them with girls, so it was completely different."
+msgstr ""
+
+#: 03006:769
+
+msgid "Before tonight, it'd always been guys only."
+msgstr ""
+
+#: 03006:772
+
+msgid "{Andou}\n\"I want to get married as soon as I graduate.\""
+msgstr ""
+
+#: 03006:773
+
+msgid "Despite her manly size, she had a little girl's traditional dreams."
+msgstr ""
+
+#: 03006:778
+
+msgid "{Haruka}\n\"I can see that happening. It's so you.\""
+msgstr ""
+
+#: 03006:782
+
+msgid "{Pierre}\n\"How is it so her?\""
+msgstr ""
+
+#: 03006:786
+
+msgid "{Appo}\n\"Let's just leave it that way.\""
+msgstr ""
+
+#: 03006:790
+
+msgid "{Daigo}\n\"You've matured, Appo.\""
+msgstr ""
+
+#: 03006:797
+
+msgid "{Sakura}\n\"Rin's probably the same type as Rei-chan. I can see you getting married soon. After all, you've got big boobs.\""
+msgstr ""
+
+#: 03006:800
+
+msgid "{Rin}\n\"What's getting married got to do with my breasts? Th-though I would like to get married soon...\""
+msgstr ""
+
+#: 03006:801
+
+msgid "I could see Fujisaki-san getting married soon. Pierre was also nodding in agreement."
+msgstr ""
+
+#: 03006:804
+
+msgid "{Rin}\n\"But I don't have a partner yet......\nHow about you, Sakura? I've never heard you talk about it?\""
+msgstr ""
+
+#: 03006:805
+
+msgid "{Sakura}\n\"I want to work. It'd be nice to be a teacher at a girls' school. And then one day I'll get married there.\""
+msgstr ""
+
+#: 03006:809
+
+msgid "{Mizuki}\n\"What? You want to get married?\""
+msgstr ""
+
+#: 03006:810
+
+msgid "For some reason, Mizuki was surprised by this concept."
+msgstr ""
+
+#: 03006:813
+
+msgid "{Sakura}\n\"Of course I do! Why wouldn't I?\""
+msgstr ""
+
+#: 03006:816
+
+msgid "{Mizuki}\n\"Ummmm...\nI thought you weren't interested in boys...\""
+msgstr ""
+
+#: 03006:817
+
+msgid "Unable to hide her confusion, Mizuki looked at us for agreement."
+msgstr ""
+
+#: 03006:821
+
+msgid "{Pierre}\n\"Well, you are always toying with Rin-chan, but you're never serious, right?\""
+msgstr ""
+
+#: 03006:822
+
+msgid "{Sakura}\n\"Of course not!\nYou didn't really think I was a lesbian, did you Mizuki?\""
+msgstr ""
+
+#: 03006:826
+
+msgid "{Mizuki}\n\"Umm......sorry......\""
+msgstr ""
+
+#: 03006:827
+
+msgid "I guess she did. To tell you the truth, so did I."
+msgstr ""
+
+#: 03006:830
+
+msgid "{Sakura}\n\"I like feeling up girls because we're so soft, but that's it. It's got nothing to do with love or marriage.\""
+msgstr ""
+
+#: 03006:834
+
+msgid "{Andou}\n\"You really don't like talking about sex, Mizuki, but you always misunderstand things that way. The truth is, you're more interested in sex than most people, aren't you?\""
+msgstr ""
+
+#: 03006:837
+
+msgid "{Mizuki}\n\"No, I'm not!\""
+msgstr ""
+
+#: 03006:841
+
+msgid "{Sakura}\n\"Besides, if we're talking lesbians, you're more suspicious, Mizuki. You're quite popular with the girls, aren't you? I hear you even have your own fan club of them.\""
+msgstr ""
+
+#: 03006:842
+
+msgid "{Kazushi}\n\"Seriously? A fan club? Of girls?!\""
+msgstr ""
+
+#: 03006:846
+
+msgid "{Pierre}\n\"Wow! That's so like a girls' school!\""
+msgstr ""
+
+#: 03006:849
+
+msgid "{Mizuki}\n\"Stop it, you guys! It's the first years doing their own thing. I'm not interested in them.\""
+msgstr ""
+
+#: 03006:850
+
+msgid "Mizuki denied everything emphatically."
+msgstr ""
+
+#: 03006:854
+
+msgid "{Ran}\n\"I see. So you like boys.\""
+msgstr ""
+
+#: 03006:857
+
+msgid "{Mizuki}\n\"Hey, what are you writing down? If I had to make a choice, then yes, I'd choose boys!\""
+msgstr ""
+
+#: 03006:860
+
+msgid "{Ran}\n\"Do you want me to arrange a meeting with one for you? I'll cut you a special deal.\""
+msgstr ""
+
+#: 03006:863
+
+msgid "{Mizuki}\n\"No thanks. I'm not that pressed to find one.\""
+msgstr ""
+
+#: 03006:867
+
+msgid "{Fuusen}\n\"Why don't you tell us about yourself, Ran? I can't imagine you falling in love with a boy.\""
+msgstr ""
+
+#: 03006:868
+
+msgid "{Kazushi}\n\"I agree with that one.\""
+msgstr ""
+
+#: 03006:869
+
+msgid "It wasn't just me - everyone else was nodding their heads in agreement. Still, Ran kept a big grin on her face."
+msgstr ""
+
+#: 03006:872
+
+msgid "{Ran}\n\"Of course I'll get married eventually...\""
+msgstr ""
+
+#: 03006:873
+
+msgid "Gasps of awe escaped everyone's lips. It was that shocking of a confession."
+msgstr ""
+
+#: 03006:876
+
+msgid "{Fuusen}\n\"I didn't know that you had a sense of romance in you.\""
+msgstr ""
+
+#: 03006:879
+
+msgid "{Ran}\n\"Same as most. I'm still just an everyday, average, ordinary girl after all.\""
+msgstr ""
+
+#: 03006:880
+
+msgid "Ran held her chest out proudly as she spoke. Though usually someone who has to proclaim themselves normal isn't..."
+msgstr ""
+
+#: 03006:884
+
+msgid "{Haruka}\n\"So? Who's your type?\""
+msgstr ""
+
+#: 03006:888
+
+msgid "{Andou}\n\"That's easy. Someone super rich like an Arabian oil sheik.\""
+msgstr ""
+
+#: 03006:895
+
+msgid "{Pierre}\n\"An oil sheik, huh? That's big scale. But aren't they all old men?\""
+msgstr ""
+
+#: 03006:896
+
+msgid "{Rin}\n\"You wouldn't take an old man just because he had money, would you? You wouldn't do it for their inheritance, right?\""
+msgstr ""
+
+#: 03006:897
+
+msgid "Fujisaki was earnestly concerned."
+msgstr ""
+
+#: 03006:901
+
+msgid "{Ran}\n\"I'd love to take their inheritance, but I'd rather do it without staining my family registry. Besides, there are plenty of other ways to take someone's inheritance.\""
+msgstr ""
+
+#: 03006:902
+
+msgid "{Kazushi}\n\"There are? You sure say some scary things with ease, but that's not very romantic.\""
+msgstr ""
+
+#: 03006:903
+
+msgid "Well, actually, it's just like her."
+msgstr ""
+
+#: 03006:904
+
+msgid "{Ran}\n\"Well, point is, if you've got money, you don't need to marry an old man. You've got to treat money importantly.\""
+msgstr ""
+
+#: 03006:908
+
+msgid "{Haruka}\n\"I can't exactly agree with your point...\""
+msgstr ""
+
+#: 03006:912
+
+msgid "{Sakura}\n\"How about you boys? What are your types?\""
+msgstr ""
+
+#: 03006:913
+
+msgid "Sakura seemed so excited to hear from us. We all glanced at each other."
+msgstr ""
+
+#: 03006:914
+
+msgid "{Kazushi}\n\"I don't know......\""
+msgstr ""
+
+#: 03006:917
+
+msgid "{Haruka}\n\"You guys used to live in the city. Let's hear what your past experiences were like.\""
+msgstr ""
+
+#: 03006:921
+
+msgid "{Daigo}\n\"Pierre's the one to ask that.\""
+msgstr ""
+
+#: 03006:922
+
+msgid "{Kazushi}\n\"That's right. He's always boasting, 'Just ask me anything!' He's also the guy who nearly got caught in a marriage scam at age 15.\""
+msgstr ""
+
+#: 03006:926
+
+msgid "{Ran}\n\"What? You got scammed? How much did you lose?\""
+msgstr ""
+
+#: 03006:930
+
+msgid "{Sakura}\n\"Forget the money, a marriage scam?! Really?!\""
+msgstr ""
+
+#: 03006:934
+
+msgid "{Mizuki}\n\"What? What happened when you were 15?\""
+msgstr ""
+
+#: 03006:938
+
+msgid "{Pierre}\n\"Ahaha, I forgot about that long ago.\""
+msgstr ""
+
+#: 03006:939
+
+msgid "Pierre let out a large, fake laugh in a bad attempt to fool everybody."
+msgstr ""
+
+#: 03006:943
+
+msgid "{Haruka}\n\"Wow! He seemed like such an adult right now! Didn't you see that hint in his smile?!\""
+msgstr ""
+
+#: 03006:947
+
+msgid "{Appo}\n\"You're right, Haruka. And I say that Pierre, Fuu-chan, and myself are the only adults here!\""
+msgstr ""
+
+#: 03006:951
+
+msgid "{Rin}\n\"What...you mean that kind of adult?\""
+msgstr ""
+
+#: 03006:955
+
+msgid "{Fuusen}\n\"Oh? You are too, Horikawa-kun? I guess those sideburns aren't just for show.\""
+msgstr ""
+
+#: 03006:959
+
+msgid "{Sakura}\n\"Wow! You guys are all adults already!!?\""
+msgstr ""
+
+#: 03006:963
+
+msgid "{Haruka}\n\"What kind of girls did you go out with?\""
+msgstr ""
+
+#: 03006:964
+
+msgid "Haruka asked him what all the other girls wanted to know."
+msgstr ""
+
+#: 03006:969
+
+msgid "As Pierre realized that everyone as paying attention, he began to fidget nervously."
+msgstr ""
+
+#: 03006:972
+
+msgid "{Pierre}\n\"It's not the kind of thing that proper ladies such as yourselves want to hear.\""
+msgstr ""
+
+#: 03006:977
+
+msgid "{Andou}\n\"We don't need to know the raunchy details. We just want to know how you started going out with them.\""
+msgstr ""
+
+#: 03006:980
+
+msgid "{Pierre}\n\"Yeah, but......\""
+msgstr ""
+
+#: 03006:984
+
+msgid "{Haruka}\n\"So, what did she look like!?\""
+msgstr ""
+
+#: 03006:985
+
+msgid "Pierre looked like he was going to have a hard time telling the story."
+msgstr ""
+
+#: 03006:986
+
+msgid "{Pierre}\n\"Well...I saw this ad in a telephone booth...\""
+msgstr ""
+
+#: 03006:990
+
+msgid "{Ran}\n\"An ad? What do you mean?\""
+msgstr ""
+
+#: 03006:991
+
+msgid "{Pierre}\n\"And I waited for her in the hotel room......\""
+msgstr ""
+
+#: 03006:995
+
+msgid "{Sakura}\n\"Umm, I don't get it.\""
+msgstr ""
+
+#: 03006:998
+
+msgid "{Ran}\n\"Hey... Is this something we really shouldn't be asking about?\""
+msgstr ""
+
+#: 03006:999
+
+msgid "{Kazushi}\n\"I think so.\""
+msgstr ""
+
+#: 03006:1004
+
+msgid "{Pierre}\n\"Change up! Change! Change!\""
+msgstr ""
+
+#: 03006:1005
+
+msgid "Pierre shouted and broke down in tears."
+msgstr ""
+
+#: 03006:1006
+
+msgid "{Pierre}\n\"Why couldn't I say that one simple word!! Now, I have to bear this cross my whole life...!!\""
+msgstr ""
+
+#: 03006:1007
+
+msgid "Pierre began suffering a panic attack as he remembered his dark past."
+msgstr ""
+
+#: 03006:1008
+
+msgid "{Kazushi}\n\"Calm down, Pierre. Get some sleep.\""
+msgstr ""
+
+#: 03006:1014
+
+msgid "{Appo}\n\"Daigo, hit him.\""
+msgstr ""
+
+#: 03006:1015
+
+msgid "{Daigo}\n\"Got it.\""
+msgstr ""
+
+#: 03006:1023
+
+msgid "{Pierre}\n\"Gehh...\""
+msgstr ""
+
+#: 03006:1025
+
+msgid "Daigo hit him, and Pierre flopped unconscious like a doll."
+msgstr ""
+
+#: 03006:1028
+
+msgid "{Appo}\n\"HAIYA!!\""
+msgstr ""
+
+#: 03006:1029
+
+msgid "Appo jerked Pierre's spine back and brought him back to the living."
+msgstr ""
+
+#: 03006:1033
+
+msgid "{Pierre}\n\"Huh? Did I fall asleep already?\""
+msgstr ""
+
+#: 03006:1034
+
+msgid "{Kazushi}\n\"Yup. Come on, it's too early to go to bed.\""
+msgstr ""
+
+#: 03006:1037
+
+msgid "{Pierre}\n\"Sorry, sorry. Why was I asleep?\""
+msgstr ""
+
+#: 03006:1042
+
+msgid "{Haruka}\n\"Sometimes you just want to sleep and forget everything, right?\""
+msgstr ""
+
+#: 03006:1046
+
+msgid "{Fuusen}\n\"That's right. Every adult has moments like that.\""
+msgstr ""
+
+#: 03006:1050
+
+msgid "{Rin}\n\"I hope that you can overcome your anxieties!\""
+msgstr ""
+
+#: 03006:1053
+
+msgid "{Pierre}\n\"Huh? Why's everyone being so nice to me?\""
+msgstr ""
+
+#: 03006:1054
+
+msgid "Suddenly, he'd woken up in a world where everyone was kind to him."
+msgstr ""
+
+#: 03006:1059
+
+msgid "{Kazushi}\n\"How about you, Daigo? Tell us your plans for the future.\""
+msgstr ""
+
+#: 03006:1060
+
+msgid "I shifted everyone's attention over to Daigo."
+msgstr ""
+
+#: 03006:1063
+
+msgid "{Daigo}\n\"I want a solid job, like a civil servant, and to come home at five every day.\""
+msgstr ""
+
+#: 03006:1068
+
+msgid "{Andou}\n\"You're such a family man!\""
+msgstr ""
+
+#: 03006:1072
+
+msgid "{Ran}\n\"Ahaha, he already looks the part.\""
+msgstr ""
+
+#: 03006:1073
+
+msgid "That was a rude comment."
+msgstr ""
+
+#: 03006:1076
+
+msgid "{Daigo}\n\"Work is important, but family is more important. You work for your family, so if you get lost in work, you're losing sight of what really counts.\""
+msgstr ""
+
+#: 03006:1080
+
+msgid "{Sakura}\n\"Wow, you've actually given this thought.\""
+msgstr ""
+
+#: 03006:1081
+
+msgid "The girls liked how he showed his commitment to his future family. They gave Daigo a new, proud look."
+msgstr ""
+
+#: 03006:1085
+
+msgid "{Haruka}\n\"You're the kind of man who would make his wife very happy.\""
+msgstr ""
+
+#: 03006:1089
+
+msgid "{Ran}\n\"Doesn't sound very interesting to me, but more importantly, I doubt he'd get promoted.\""
+msgstr ""
+
+#: 03006:1096
+
+msgid "{Rin}\n\"Of course I'd want my husband to get promotions, but I'd still want him to put his family first. I think Daigo-kun's way of thought is best.\""
+msgstr ""
+
+#: 03006:1097
+
+msgid "For the first time, Daigo found himself being a favorite amongst the girls."
+msgstr ""
+
+#: 03006:1103
+
+msgid "{Daigo}\n\"Am I getting popular all of a sudden?\""
+msgstr ""
+
+#: 03006:1104
+
+msgid "He was shaking in joy."
+msgstr ""
+
+#: 03006:1105
+
+msgid "{Kazushi}\n\"You sure are! Congratulations, Daigo!\""
+msgstr ""
+
+#: 03006:1108
+
+msgid "{Daigo}\n\"I can now die a happy man.\""
+msgstr ""
+
+#: 03006:1113
+
+msgid "{Appo}\n\"It's too soon. You should enjoy being popular for a bit longer.\""
+msgstr ""
+
+#: 03006:1114
+
+msgid "{Daigo}\n\"I'm already fulfilled. I'm in the prime of my life right now.\""
+msgstr ""
+
+#: 03006:1118
+
+msgid "{Sakura}\n\"Ahaha... I suddenly feel bad for Daigo.\""
+msgstr ""
+
+#: 03006:1123
+
+msgid "{Haruka}\n\"Kazushi-kun! How about you?\""
+msgstr ""
+
+#: 03006:1124
+
+msgid "Haruka showed a big interest in what I wanted."
+msgstr ""
+
+#: 03006:1129
+
+msgid "{Ran}\n\"Yeah, what's your type? I've got a feeling that you like thrifty girls.\""
+msgstr ""
+
+#: 03006:1130
+
+msgid "{Kazushi}\n\"What makes you think that?\nMy type is......\""
+msgstr ""
+
+#: 03006:1131
+
+msgid "My thoughts turned to a vast, broad landscape with plains stretching as far as I could see."
+msgstr ""
+
+#: 03006:1137
+
+msgid "{Kazushi}\n\"If I ever fell in love with a girl, I'd want to go on a journey. I'd get my license, buy a car - even an old, beat up one would do - and take a trip all around Japan or across Eurasia.\""
+msgstr ""
+
+#: 03006:1141
+
+msgid "{Kazushi}\n\"There'd be a dog with me and the girl I loved. And the three of us would live together, travelling all of Japan or the world.\""
+msgstr ""
+
+#: 03006:1142
+
+msgid "I'd always had that dream, but I'd always been too shy to tell anyone else about it. It only slipped because of this situation."
+msgstr ""
+
+#: 03006:1144
+
+msgid "We'd only just come to this island Academy, but in our classroom, in the middle of the night, sleeping together, I felt something special that made me want to share that dream with everyone tonight."
+msgstr ""
+
+#: 03006:1150
+
+msgid "{Pierre}\n\"That's so cheesy, Kazushi!!\""
+msgstr ""
+
+#: 03006:1151
+
+msgid "{Appo}\n\"That cheese is still raw!\""
+msgstr ""
+
+#: 03006:1152
+
+msgid "{Kazushi}\n\"Shut up!\nWhy should you guys care about my dream anyways!?\""
+msgstr ""
+
+#: 03006:1153
+
+msgid "I know it's cheesy. I'm embarrassed."
+msgstr ""
+
+#: 03006:1158
+
+msgid "{Haruka}\n\"I like your dream. I wanna travel and go where I've never been before. I've never even been off this island yet.\""
+msgstr ""
+
+#: 03006:1159
+
+msgid "Haruka looked into the distance. Maybe she was already on a road trip in her mind."
+msgstr ""
+
+#: 03006:1164
+
+msgid "{Rin}\n\"That's so romantic, too. You'd be together with the one you loved all morning, afternoon, and night.\""
+msgstr ""
+
+#: 03006:1168
+
+msgid "{Ran}\n\"I dunno, I might get bored halfway through. Though I guess at that point I'd start collecting currency from all the different countries.\""
+msgstr ""
+
+#: 03006:1172
+
+msgid "{Andou}\n\"You wouldn't get bored. If you did, then it would mean you weren't with the right person.\""
+msgstr ""
+
+#: 03006:1176
+
+msgid "{Sakura}\n\"Ahaha, Rei-chan, you are such a romantic little girl.\""
+msgstr ""
+
+#: 03006:1180
+
+msgid "{Pierre}\n\"I want a car, too. I'm thinking about getting my license as soon as I graduate.\""
+msgstr ""
+
+#: 03006:1184
+
+msgid "{Appo}\n\"Me too. I want to go for a long drive with my Fuu-chan.\""
+msgstr ""
+
+#: 03006:1188
+
+msgid "{Fuusen}\n\"A small... Yes, I want a mini cooper!\""
+msgstr ""
+
+#: 03006:1192
+
+msgid "{Mizuki}\n\"I want a 4-wheel drive. One with the power and strength to go anywhere. I'd like to get my license too.\""
+msgstr ""
+
+#: 03006:1196
+
+msgid "{Rin}\n\"If I were to take a dog on my road trip, I'd want a Maltese.\""
+msgstr ""
+
+#: 03006:1203
+
+msgid "{Pierre}\n\"An indoor dog? No, in a situation like that, you go for a hunting dog like a Beagle.\""
+msgstr ""
+
+#: 03006:1206
+
+msgid "{Mizuki}\n\"I like St. Bernards! They're so huge, I could sleep with one as my pillow!\""
+msgstr ""
+
+#: 03006:1210
+
+msgid "{Haruka}\n\"I want a Chihuahua to cuddle up with!\""
+msgstr ""
+
+#: 03006:1214
+
+msgid "{Andou}\n\"Oh! Me too!\""
+msgstr ""
+
+#: 03006:1218
+
+msgid "{Daigo}\n\"You'd crush it!\""
+msgstr ""
+
+#: 03006:1222
+
+msgid "We were having way too much fun to fall asleep, and kept on talking about random topics."
+msgstr ""
+
+#: 03006:1226
+
+msgid "Before we knew it, the scenery outside was getting brighter and the birds were chirping."
+msgstr ""
+
+#: 03006:1229
+
+msgid "{Ran}\n\"*Yawn* Is it morning already?\""
+msgstr ""
+
+#: 03006:1234
+
+msgid "{Mizuki}\n\"Who's still up?\""
+msgstr ""
+
+#: 03006:1241
+
+msgid "{Haruka}\n\"I'm sorry, I fell asleep for a second!\""
+msgstr ""
+
+#: 03006:1242
+
+msgid "{Kazushi}\n\"No, go ahead and sleep.\""
+msgstr ""
+
+#: 03006:1245
+
+msgid "{Ran}\n\"You did a good job of staying up late with us, considering how you go to bed at ten sharp every night.\""
+msgstr ""
+
+#: 03006:1249
+
+msgid "{Sakura}\n\"I'm sleepy, too. I can barely tell up from down anymore.\""
+msgstr ""
+
+#: 03006:1250
+
+msgid "{Rin}\n\"Zzzzz......Zzzzzz......\""
+msgstr ""
+
+#: 03006:1254
+
+msgid "{Pierre}\n\"Rin-chan's been asleep for ages.\""
+msgstr ""
+
+#: 03006:1258
+
+msgid "{Daigo}\n\"So are Appo and Fuusen.\""
+msgstr ""
+
+#: 03006:1262
+
+msgid "They were sleeping in each other's arms. Andou was asleep right next to Fuusen."
+msgstr ""
+
+#: 03006:1263
+
+msgid "There weren't many survivors left."
+msgstr ""
+
+#: 03006:1264
+
+msgid "{Kazushi}\n\"Should we go to sleep too?\""
+msgstr ""
+
+#: 03006:1267
+
+msgid "{Mizuki}\n\"Will we be alright if we fall asleep here now? I don't think I'll be able to wake up again before noon.\""
+msgstr ""
+
+#: 03006:1272
+
+msgid "{Haruka}\n\"It'll work out. *Yawn* Back to sleep.\""
+msgstr ""
+
+#: 03006:1279
+
+msgid "{Ran}\n\"Me too. Wake me up when we have to leave.\""
+msgstr ""
+
+#: 03006:1283
+
+msgid "One by one, we departed for dreamland. That's when Pierre crawled over next to me."
+msgstr ""
+
+#: 03006:1286
+
+msgid "{Pierre}\n\"What were we doing being such nice boys? We could have done lots of other pervy things!\""
+msgstr ""
+
+#: 03006:1287
+
+msgid "I didn't even realize that we'd had a chance until Pierre told me so."
+msgstr ""
+
+#: 03006:1288
+
+msgid "{Kazushi}\n\"Oh yeah...you're right.\""
+msgstr ""
+
+#: 03006:1293
+
+msgid "{Daigo}\n\"We always make mistakes when it counts the most. That's why we never get laid.\""
+msgstr ""
+
+#: 03006:1294
+
+msgid "{Pierre}\n\"Don't be so hard on yourself.\""
+msgstr ""
+
+#: 03006:1295
+
+msgid "{Kazushi}\n\"Well, this is just the beginning of summer break.\""
+msgstr ""
+
+#: 03006:1298
+
+msgid "I have a feeling that this summer is going to be something special for us. One like we've never had before. I wonder what lies in store."
+msgstr ""
+
