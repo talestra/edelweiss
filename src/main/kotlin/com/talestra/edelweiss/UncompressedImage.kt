@@ -3,6 +3,7 @@ package com.talestra.edelweiss
 import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.color.BGRA
 import com.soywiz.korim.color.ColorFormat24
+import com.soywiz.korim.format.ImageEncodingProps
 import com.soywiz.korim.format.PNG
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.util.extract8
@@ -46,7 +47,7 @@ object UncompressedImage {
             else -> throw(Exception("Unknown bpp"))
         }
 
-        std_file_write(out_file, PNG.encode(bmp))
+        std_file_write(out_file, PNG.encode(bmp, ImageEncodingProps(quality = 0.1)))
         //f.close();
     }
 

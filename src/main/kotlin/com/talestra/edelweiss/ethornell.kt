@@ -1,8 +1,6 @@
 package com.talestra.edelweiss
 
-import com.soywiz.korim.format.defaultImageFormats
-import com.soywiz.korim.format.registerStandard
-import com.soywiz.korim.format.writeTo
+import com.soywiz.korim.format.*
 import com.soywiz.korio.Korio
 import com.soywiz.korio.error.ignoreErrors
 import com.soywiz.korio.lang.ASCII
@@ -27,14 +25,14 @@ object Example2 {
     }
 
     @JvmStatic
-            //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data06000.arc")) }
-            //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data02001.arc")) }
-    //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data02000.arc")) }
+    fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data02000.arc")) }
+    //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data06000.arc")) }
+    //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data02001.arc")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x0", "/Users/soywiz/projects/edelweiss/game/data02000.arc")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x0", "/Users/soywiz/projects/edelweiss/game/data02001.arc")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data06000.arc")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data04000.arc")) }
-    fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/sysgrp.arc.bak")) }
+    //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/sysgrp.arc.bak")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/system.arc")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x0", "/Users/soywiz/projects/edelweiss/game/data02000.arc", "01_dou_tuu_l")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data02000.arc", "01_dou_tuu_l")) }
@@ -300,8 +298,10 @@ suspend fun main_s(args: Array<String>) {
                                     if (std_file_exists(out_png_file)) {
                                         println("Exists")
                                     } else {
-                                        CompressedBg.load(s.readAll()).writeTo(out_png_file.uniVfs)
-                                        println("Ok")
+                                        //val imageBytes = PNG.encode(CompressedBg.load(s.readAll()), ImageEncodingProps(quality = 0.0))
+                                        val imageBytes = PNG.encode(CompressedBg.load(s.readAll()), ImageEncodingProps(quality = 0.5))
+                                        out_png_file.uniVfs.writeBytes(imageBytes)
+                                        //CompressedBg.load(s.readAll()).writeTo(out_png_file.uniVfs, ImageEncodingProps(quality = 0.2))
                                     }
                                 }
                             }

@@ -237,18 +237,18 @@ object CompressedBg {
 
         //for (n in 0 until dst.size) {
         //    var cvalue = defaultValue
-//
+        //
         //    while (nodes[cvalue].isBranch) {
         //        if (mask == 0) {
         //            bits = src.getu(srcPos++)
         //            mask = 0x80
         //        }
-//
+        //
         //        val bit = (bits and mask) != 0
         //        mask = mask ushr 1
         //        cvalue = nodes[cvalue].child(bit)
         //    }
-//
+        //
         //    dst[n] = cvalue.toByte()
         //}
     }

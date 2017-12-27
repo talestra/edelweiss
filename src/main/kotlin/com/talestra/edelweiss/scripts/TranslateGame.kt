@@ -39,20 +39,20 @@ object TranslateGame {
         }
     }
 
-    suspend fun translateImage(patchDir: VfsFile, name: String, data: suspend () -> ByteArray): ByteArray? {
+    suspend fun translateImage(patchDir: VfsFile, name: String, fileCatalog: Set<String>, data: suspend () -> ByteArray): ByteArray? {
         //println(patchDir.absolutePath)
 
         for (ext in listOf("psd", "png")) {
-            val replaceImageFile = patchDir["$name.$ext"]
-            val patchImageFile = patchDir["$name.patch.$ext"]
+            val replaceImageFile = "$name.$ext"
+            val patchImageFile = "$name.patch.$ext"
             when {
-                replaceImageFile.exists() -> {
+                replaceImageFile in fileCatalog -> {
                     println(" - Replaced $name")
-                    return EdelweissImage.save(replaceImageFile.readBitmapNoNative())
+                    return EdelweissImage.save(patchDir[replaceImageFile].readBitmapNoNative())
                 }
-                patchImageFile.exists() -> {
+                patchImageFile in fileCatalog -> {
                     val image = EdelweissImage.load(data()).toBMP32()
-                    image.draw(patchImageFile.readBitmapNoNative().toBMP32(), 0, 0)
+                    image.draw(patchDir[patchImageFile].readBitmapNoNative().toBMP32(), 0, 0)
                     println(" - Patched  $name")
                     return EdelweissImage.save(image)
                 }
@@ -64,10 +64,11 @@ object TranslateGame {
 
     suspend fun translateSysGrp() {
         val patchDir = translationDir["images/sysgrp"].jail()
+        val fileCatalog = patchDir.listNames().toSet()
 
         println("Translating sysgrp.arc...")
         repackArc(gameDir["sysgrp.arc"]) { name, data ->
-            translateImage(patchDir, name) { data } ?: data
+            translateImage(patchDir, name, fileCatalog) { data } ?: data
         }
     }
 
@@ -77,8 +78,12 @@ object TranslateGame {
             val patchDir = translationDir["images/graphic"].jail()
             val outputDir = gameDir["Graphic/CVTD"].apply { mkdirs() }.jail()
             val arc = gameDir[arcName].openAsArc()
+
+            val fileCatalog = patchDir.listNames().toSet()
+
             for (file in arc) {
-                val out = translateImage(patchDir, file.basename) { file.readBytes() }
+                //println(file.basename)
+                val out = translateImage(patchDir, file.basename, fileCatalog) { file.readBytes() }
                 if (out != null) {
                     outputDir[file.basename].writeBytes(out)
                 }
