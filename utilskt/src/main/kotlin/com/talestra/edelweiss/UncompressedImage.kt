@@ -3,9 +3,7 @@ package com.talestra.edelweiss
 import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.color.BGRA
 import com.soywiz.korim.color.ColorFormat24
-import com.soywiz.korim.color.RGBA
 import com.soywiz.korim.format.PNG
-import com.soywiz.korim.format.TGA
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.util.extract8
 import com.soywiz.korio.util.insert8
