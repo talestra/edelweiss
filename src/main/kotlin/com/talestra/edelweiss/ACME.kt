@@ -129,7 +129,7 @@ class ACME {
 
         poe += PO.Entry(
                 "",
-                "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0 \nContent-Type: text/plain; charset=utf-8 \nContent-Transfer-Encoding: 8bit \nLanguage: es \n",
+                "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nLanguage: es\n",
                 listOf(" Comments for '$file'")
         )
         for ((k, t) in entries) {

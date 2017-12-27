@@ -37,4 +37,9 @@ class POTest {
         Assert.assertEquals("""["Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0 \nContent-Type: text/plain; charset=utf-8 \nContent-Transfer-Encoding: 8bit \nLanguage: es\n", "", ""]""", po.entries.map { it.msgstr.quoted }.toString())
         println(po.save().joinToString("\n"))
     }
+
+    @Test
+    fun name2() {
+        Assert.assertEquals(listOf("007a6:9", "007a6:36"), PO.Entry("", "", listOf(": 007a6:9 007a6:36")).references)
+    }
 }

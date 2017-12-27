@@ -14,7 +14,10 @@ class PO(val entries: List<Entry>) {
             val comments: List<String>
     ) {
         val references by lazy {
-            comments.filter { it.trim().startsWith(':') }.map { it.trim().substr(1).trim() }
+            comments
+                    .filter { it.trim().startsWith(':') }
+                    .map { it.trim().substr(1).trim() }
+                    .flatMap { it.split(Regex("\\s+")) }
         }
 
         private fun String.split2(char: Char): List<String> {

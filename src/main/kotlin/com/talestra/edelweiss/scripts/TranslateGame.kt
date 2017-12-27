@@ -22,6 +22,7 @@ object TranslateGame {
         translateSysGrp()
         translateGraphic()
         translateScript()
+        println("Done!")
     }
 
     suspend fun VfsFile.getBak(): VfsFile {
@@ -46,13 +47,13 @@ object TranslateGame {
 
         return when {
             replaceImageFile.exists() -> {
-                println("Patched $name")
+                println(" - Replaced $name")
                 EdelweissImage.save(replaceImageFile.readBitmapNoNative())
             }
             patchImageFile.exists() -> {
                 val image = EdelweissImage.load(data()).toBMP32()
                 image.draw(patchImageFile.readBitmapNoNative().toBMP32(), 0, 0)
-                println("Patched $name")
+                println(" - Patched  $name")
                 EdelweissImage.save(image)
             }
             else -> null
@@ -69,15 +70,16 @@ object TranslateGame {
     }
 
     suspend fun translateGraphic() {
-        println("Translating data02001.arc...")
-        val patchDir = translationDir["images/graphic"].jail()
-        val outputDir = gameDir["Graphic/CVTD"].apply { mkdirs() }.jail()
-        val arc = gameDir["data02001.arc"].openAsArc()
-        for (file in arc) {
-            val out = translateImage(patchDir, file.basename) { file.readBytes() }
-            if (out != null) {
-                println(file.basename)
-                outputDir[file.basename].writeBytes(out)
+        for (arcName in listOf("data02000.arc", "data02001.arc")) {
+            println("Translating $arcName...")
+            val patchDir = translationDir["images/graphic"].jail()
+            val outputDir = gameDir["Graphic/CVTD"].apply { mkdirs() }.jail()
+            val arc = gameDir[arcName].openAsArc()
+            for (file in arc) {
+                val out = translateImage(patchDir, file.basename) { file.readBytes() }
+                if (out != null) {
+                    outputDir[file.basename].writeBytes(out)
+                }
             }
         }
     }
@@ -87,7 +89,7 @@ object TranslateGame {
         val outputDir = gameDir["Script/CVTD"].apply { mkdirs() }.jail()
         val arc = gameDir["data01000.arc"].openAsArc()
         for (file in arc) {
-            println(" - $file")
+            print(" - Translating ${file.basename}...")
             val scriptBytes = DSC.decompressIfRequired(file.readAll())
             val scriptOps = BSS.load(scriptBytes)
             val po = PO.load(translationDir["${file.basename}.po"].readString().lines())
@@ -98,6 +100,7 @@ object TranslateGame {
             //val translatedOps = scriptOps
             val translatedScriptBytes = BSS.save(translatedOps)
             outputDir[file.basename].writeBytes(translatedScriptBytes)
+            println("Ok")
         }
     }
 }

@@ -6,10 +6,11 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"MIME-Version: 1.0 \n"
-"Content-Type: text/plain; charset=utf-8 \n"
-"Content-Transfer-Encoding: 8bit \n"
-"Language: es \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 2.0.5\n"
 
 #: 00106:253
 msgid ""
@@ -23,7 +24,7 @@ msgid ""
 "\"Wake up!! Kazushi!!\""
 msgstr ""
 
-#: 00106:255
+#: 00106:255 00106:2241
 msgid ".................."
 msgstr ""
 
@@ -86,13 +87,16 @@ msgid ""
 msgstr ""
 
 #: 00106:289
-msgid "The first thing I saw when I opened my eyes was Appo vomiting all over the boat. His face was green and Pierre was nervously trying to help him."
+msgid ""
+"The first thing I saw when I opened my eyes was Appo vomiting all over the "
+"boat. His face was green and Pierre was nervously trying to help him."
 msgstr ""
 
 #: 00106:294
 msgid ""
 "{Pierre}\n"
-"\"This isn't working! If you're gonna puke, puke here, in this hand-made etiquette bag!\""
+"\"This isn't working! If you're gonna puke, puke here, in this hand-made "
+"etiquette bag!\""
 msgstr ""
 
 #: 00106:298
@@ -114,11 +118,16 @@ msgid ""
 msgstr ""
 
 #: 00106:309
-msgid "I just woke up and I was already about to puke. I turned my eyes up and away from that disgusting sight."
+msgid ""
+"I just woke up and I was already about to puke. I turned my eyes up and away "
+"from that disgusting sight."
 msgstr ""
 
 #: 00106:330
-msgid "The sun shone brightly in the clear blue sky above us. The refreshing smell of the ocean washed over my heart. All around us there was nothing but ocean, ocean and more ocean."
+msgid ""
+"The sun shone brightly in the clear blue sky above us. The refreshing smell "
+"of the ocean washed over my heart. All around us there was nothing but "
+"ocean, ocean and more ocean."
 msgstr ""
 
 #: 00106:331
@@ -126,7 +135,9 @@ msgid "I could feel the strong sunlight giving me a good tan."
 msgstr ""
 
 #: 00106:332
-msgid "That's right, we're cruising on a ship. We left port several hours ago and already lost sight of land. All we could see was the endless ocean."
+msgid ""
+"That's right, we're cruising on a ship. We left port several hours ago and "
+"already lost sight of land. All we could see was the endless ocean."
 msgstr ""
 
 #: 00106:333
@@ -180,11 +191,14 @@ msgstr ""
 #: 00106:386
 msgid ""
 "{Kazushi}\n"
-"\"I can't help it. I've been so excited that I haven't slept for three days.\""
+"\"I can't help it. I've been so excited that I haven't slept for three days."
+"\""
 msgstr ""
 
 #: 00106:387
-msgid "It was true. I'd only slept about five hours total in the last week - that's how much I was looking forward to this trip."
+msgid ""
+"It was true. I'd only slept about five hours total in the last week - that's "
+"how much I was looking forward to this trip."
 msgstr ""
 
 #: 00106:390
@@ -212,13 +226,15 @@ msgid ""
 msgstr ""
 
 #: 00106:400
-msgid "I kindly rubbed my comrade's back as I enjoyed the grandeur of the ocean."
+msgid ""
+"I kindly rubbed my comrade's back as I enjoyed the grandeur of the ocean."
 msgstr ""
 
 #: 00106:401
 msgid ""
 "{Kazushi}\n"
-"\"We've worked so hard for this day. Let's all set foot into paradise together!\""
+"\"We've worked so hard for this day. Let's all set foot into paradise "
+"together!\""
 msgstr ""
 
 #: 00106:404
@@ -252,7 +268,9 @@ msgid ""
 msgstr ""
 
 #: 00106:431
-msgid "We suddenly found ourselves in the shadow of a big man. We stood at attention as a conditioned reflex."
+msgid ""
+"We suddenly found ourselves in the shadow of a big man. We stood at "
+"attention as a conditioned reflex."
 msgstr ""
 
 #: 00106:432
@@ -265,19 +283,26 @@ msgstr ""
 msgid ""
 "{Panchu}\n"
 "\"Don' 'ollu'e 'he o'ean!\n"
-"Don' 'hrow u' 'he 'reakfas' 'our 'others 'ade 'or 'ou. If 'ou're a 'an, the' use 'our 'ill 'o hol' i' in!\""
+"Don' 'hrow u' 'he 'reakfas' 'our 'others 'ade 'or 'ou. If 'ou're a 'an, the' "
+"use 'our 'ill 'o hol' i' in!\""
 msgstr ""
 
 #: 00106:435
-msgid "It's hard to understand what this guy says, but there were several legends about him at our old academy and he commanded the respect of everyone."
+msgid ""
+"It's hard to understand what this guy says, but there were several legends "
+"about him at our old academy and he commanded the respect of everyone."
 msgstr ""
 
 #: 00106:436
-msgid "His unique manner of speech started some rumours like, \"He ate too much bread and it killed his speech centre,\" or \"Maybe he's not actually Japanese?\""
+msgid ""
+"His unique manner of speech started some rumours like, \"He ate too much "
+"bread and it killed his speech centre,\" or \"Maybe he's not actually "
+"Japanese?\""
 msgstr ""
 
 #: 00106:437
-msgid "But after about half a year, I began to understand most of what he said."
+msgid ""
+"But after about half a year, I began to understand most of what he said."
 msgstr ""
 
 #: 00106:438
@@ -297,15 +322,21 @@ msgid ""
 msgstr ""
 
 #: 00106:447
-msgid "He handed Appo a bag full of anpan. For some reason, Panchu always carries bread with him."
+msgid ""
+"He handed Appo a bag full of anpan. For some reason, Panchu always carries "
+"bread with him."
 msgstr ""
 
 #: 00106:448
-msgid "His nickname, Panchu, comes from the way he always carries anpan with him.....I think. Maybe."
+msgid ""
+"His nickname, Panchu, comes from the way he always carries anpan with "
+"him.....I think. Maybe."
 msgstr ""
 
 #: 00106:449
-msgid "I don't think there's a reason other than the anpan he carries, but I never bothered asking."
+msgid ""
+"I don't think there's a reason other than the anpan he carries, but I never "
+"bothered asking."
 msgstr ""
 
 #: 00106:452
@@ -353,7 +384,8 @@ msgid ""
 msgstr ""
 
 #: 00106:472
-msgid "Appo showed us his true guts. He swallowed the bread down in a single gulp."
+msgid ""
+"Appo showed us his true guts. He swallowed the bread down in a single gulp."
 msgstr ""
 
 #: 00106:473
@@ -419,7 +451,8 @@ msgstr ""
 #: 00106:525
 msgid ""
 "{Appo}\n"
-"\"Give me a break! How could I eat that damn bread when I was puking all over the boat?\""
+"\"Give me a break! How could I eat that damn bread when I was puking all "
+"over the boat?\""
 msgstr ""
 
 #: 00106:530
@@ -439,13 +472,16 @@ msgid ""
 msgstr ""
 
 #: 00106:537
-msgid "See? Big fire. Sempai looked terrifying as he grabbed Appo by the collar. Appo's toes came right off the deck."
+msgid ""
+"See? Big fire. Sempai looked terrifying as he grabbed Appo by the collar. "
+"Appo's toes came right off the deck."
 msgstr ""
 
 #: 00106:542
 msgid ""
 "{Panchu}\n"
-"\"Wha' 'he hell 'ere 'ou 'hinkin' 'hrowin' u' 'read 'ade b' 'he Ida Family Bakery!? You 'ayin' our 'rea' isn' 'oo' e'ough 'or 'ou?!\""
+"\"Wha' 'he hell 'ere 'ou 'hinkin' 'hrowin' u' 'read 'ade b' 'he Ida Family "
+"Bakery!? You 'ayin' our 'rea' isn' 'oo' e'ough 'or 'ou?!\""
 msgstr ""
 
 #: 00106:543
@@ -457,19 +493,22 @@ msgstr ""
 #: 00106:544
 msgid ""
 "{Kazushi}\n"
-"\"We're sorry, we're sorry! But he's really on the edge! We'll apologize on his behalf, so please bestow your forgiveness!\""
+"\"We're sorry, we're sorry! But he's really on the edge! We'll apologize on "
+"his behalf, so please bestow your forgiveness!\""
 msgstr ""
 
 #: 00106:545
 msgid ""
 "{Panchu}\n"
-"\"How woul' 'ou 'ow how a 'aker 'eels?! Do 'ou 'ow wha' i's 'ike 'o have a 'assma'e as' 'Do 'ou 'ave frui'a'es in your 'akery?'?!\""
+"\"How woul' 'ou 'ow how a 'aker 'eels?! Do 'ou 'ow wha' i's 'ike 'o have a "
+"'assma'e as' 'Do 'ou 'ave frui'a'es in your 'akery?'?!\""
 msgstr ""
 
 #: 00106:549
 msgid ""
 "{Panchu}\n"
-"\"Do 'ou 'ow wha' i's 'ike 'o ha'e 'hem 'ease 'ou, 'ayin' 'Gross! You' 'akery is 'illed 'ith 'frui'a'es!'?!\""
+"\"Do 'ou 'ow wha' i's 'ike 'o ha'e 'hem 'ease 'ou, 'ayin' 'Gross! You' "
+"'akery is 'illed 'ith 'frui'a'es!'?!\""
 msgstr ""
 
 #: 00106:550
@@ -481,7 +520,8 @@ msgstr ""
 #: 00106:554
 msgid ""
 "{Yagami}\n"
-"\"Well, well, look at this horrible mess. I believe this is what they call 'gruesome'.\""
+"\"Well, well, look at this horrible mess. I believe this is what they call "
+"'gruesome'.\""
 msgstr ""
 
 #: 00106:559
@@ -497,17 +537,22 @@ msgid ""
 msgstr ""
 
 #: 00106:564
-msgid "This was our old homeroom teacher, Yagami-sensei. He's leading this trip for us."
+msgid ""
+"This was our old homeroom teacher, Yagami-sensei. He's leading this trip for "
+"us."
 msgstr ""
 
 #: 00106:567
 msgid ""
 "{Yagami}\n"
-"\"Hey, Ida. I don't know what happened between you two, but I think it's time you forgave them.\""
+"\"Hey, Ida. I don't know what happened between you two, but I think it's "
+"time you forgave them.\""
 msgstr ""
 
 #: 00106:568
-msgid "Sensei turned a warm smile to Panchu. He always wore such a nice smile, though, so that was only normal."
+msgid ""
+"Sensei turned a warm smile to Panchu. He always wore such a nice smile, "
+"though, so that was only normal."
 msgstr ""
 
 #: 00106:573
@@ -527,7 +572,8 @@ msgstr ""
 #: 00106:578
 msgid ""
 "{Yagami}\n"
-"\"Look at how awful this area is, though. You boys make sure to clean it up, okay?\""
+"\"Look at how awful this area is, though. You boys make sure to clean it up, "
+"okay?\""
 msgstr ""
 
 #: 00106:582
@@ -539,7 +585,8 @@ msgstr ""
 #: 00106:583
 msgid ""
 "{Yagami}\n"
-"\"Friends are supposed to look out for friends. Next time you're in trouble, Appo will help you out too.\""
+"\"Friends are supposed to look out for friends. Next time you're in trouble, "
+"Appo will help you out too.\""
 msgstr ""
 
 #: 00106:584
@@ -549,7 +596,9 @@ msgid ""
 msgstr ""
 
 #: 00106:585
-msgid "He was talking to the wind, not us. His eyes squinted as he looked up at the sky, but I didn't see anything up there."
+msgid ""
+"He was talking to the wind, not us. His eyes squinted as he looked up at the "
+"sky, but I didn't see anything up there."
 msgstr ""
 
 #: 00106:589
@@ -565,7 +614,9 @@ msgid ""
 msgstr ""
 
 #: 00106:591
-msgid "Yagami-sensei was a bit of an obscure person. It always seemed hard to grasp what he was thinking about. That's why there were several rumours about him."
+msgid ""
+"Yagami-sensei was a bit of an obscure person. It always seemed hard to grasp "
+"what he was thinking about. That's why there were several rumours about him."
 msgstr ""
 
 #: 00106:592
@@ -579,7 +630,9 @@ msgid "To be honest, we're all terrified of our teacher."
 msgstr ""
 
 #: 00106:594
-msgid "We didn't know why, but he was the one teacher Panchu didn't go against. That was enough reason for us to watch out."
+msgid ""
+"We didn't know why, but he was the one teacher Panchu didn't go against. "
+"That was enough reason for us to watch out."
 msgstr ""
 
 #: 00106:611
@@ -615,7 +668,8 @@ msgstr ""
 #: 00106:620
 msgid ""
 "{Pierre}\n"
-"\"Don't puke where we're cleaning. Think about something fun and hold it in.\""
+"\"Don't puke where we're cleaning. Think about something fun and hold it in."
+"\""
 msgstr ""
 
 #: 00106:621
@@ -633,7 +687,8 @@ msgstr ""
 #: 00106:625
 msgid ""
 "{Appo}\n"
-"\"Who would let themselves fail that test?! ...It's an all-girls boarding school! It's our final chance to be popular...blegh.\""
+"\"Who would let themselves fail that test?! ...It's an all-girls boarding "
+"school! It's our final chance to be popular...blegh.\""
 msgstr ""
 
 #: 00106:626
@@ -687,7 +742,8 @@ msgstr ""
 #: 00106:648
 msgid ""
 "{Pierre}\n"
-"\"I've heard that any man, no matter how ugly, will be popular in an all-girls school.\""
+"\"I've heard that any man, no matter how ugly, will be popular in an all-"
+"girls school.\""
 msgstr ""
 
 #: 00106:649
@@ -711,7 +767,8 @@ msgstr ""
 #: 00106:656
 msgid ""
 "{Kazushi}\n"
-"\"Yeah, if you add one \"handsome\" and divide us in half, we'd be handsome.\""
+"\"Yeah, if you add one \"handsome\" and divide us in half, we'd be handsome."
+"\""
 msgstr ""
 
 #: 00106:659
@@ -723,7 +780,9 @@ msgstr ""
 #: 00106:662
 msgid ""
 "{Appo}\n"
-"\"Shut up!! Look? We, the guys who look okay, are about to enter the land where any ugly man can be popular, right? They'll come. Oh will they come. They'll come sniffing!\""
+"\"Shut up!! Look? We, the guys who look okay, are about to enter the land "
+"where any ugly man can be popular, right? They'll come. Oh will they come. "
+"They'll come sniffing!\""
 msgstr ""
 
 #: 00106:663
@@ -735,7 +794,8 @@ msgstr ""
 #: 00106:666
 msgid ""
 "{Appo}\n"
-"\"Pher-o-mon-es! They'll be mad, crazy for us! The females can smell out the males!!\""
+"\"Pher-o-mon-es! They'll be mad, crazy for us! The females can smell out the "
+"males!!\""
 msgstr ""
 
 #: 00106:672
@@ -808,7 +868,8 @@ msgstr ""
 #: 00106:701
 msgid ""
 "{Appo}\n"
-"\"Just think about it. Girls in puberty isolated on an island. You know what that means, right?\""
+"\"Just think about it. Girls in puberty isolated on an island. You know what "
+"that means, right?\""
 msgstr ""
 
 #: 00106:702
@@ -820,10 +881,11 @@ msgstr ""
 #: 00106:703
 msgid ""
 "{Appo}\n"
-"\"It means that we won't have to do anything to get them. They're gonna come to us.\""
+"\"It means that we won't have to do anything to get them. They're gonna come "
+"to us.\""
 msgstr ""
 
-#: 00106:704
+#: 00106:704 00106:3927
 msgid ""
 "{Kazushi}\n"
 "\"I see.\""
@@ -832,25 +894,29 @@ msgstr ""
 #: 00106:707
 msgid ""
 "{Appo}\n"
-"\"We've made so many mistakes trying, trying to make ourselves popular, but this time, they're coming after us!\""
+"\"We've made so many mistakes trying, trying to make ourselves popular, but "
+"this time, they're coming after us!\""
 msgstr ""
 
 #: 00106:710
 msgid ""
 "{Pierre}\n"
-"\"Yeah, Appo was reported to the police when he tried to return the girl he crushed over's commuter pass to her.\""
+"\"Yeah, Appo was reported to the police when he tried to return the girl he "
+"crushed over's commuter pass to her.\""
 msgstr ""
 
 #: 00106:713
 msgid ""
 "{Daigo}\n"
-"\"Hey Appo, remember when you wore cologne for the first time and that girl told you to take a shower?\""
+"\"Hey Appo, remember when you wore cologne for the first time and that girl "
+"told you to take a shower?\""
 msgstr ""
 
 #: 00106:716
 msgid ""
 "{Appo}\n"
-"\"Enough about my past! There's a treasure chest of memories waiting for us, so drop it!\""
+"\"Enough about my past! There's a treasure chest of memories waiting for us, "
+"so drop it!\""
 msgstr ""
 
 #: 00106:719
@@ -868,7 +934,8 @@ msgstr ""
 #: 00106:723
 msgid ""
 "{Pierre}\n"
-"\"Girls at a girls' school bursting with sexual desire have only two roads to take. Either they comfort themselves alone, or they join the lily tribe.\""
+"\"Girls at a girls' school bursting with sexual desire have only two roads "
+"to take. Either they comfort themselves alone, or they join the lily tribe.\""
 msgstr ""
 
 #: 00106:726
@@ -880,7 +947,9 @@ msgstr ""
 #: 00106:729
 msgid ""
 "{Pierre}\n"
-"\"It means lesbians. I just saw this in a magazine, but the survey said that 40% of the girls at a girl's school are lesbians. In boarding schools, it was 60% lesbian.\""
+"\"It means lesbians. I just saw this in a magazine, but the survey said that "
+"40% of the girls at a girl's school are lesbians. In boarding schools, it "
+"was 60% lesbian.\""
 msgstr ""
 
 #: 00106:730
@@ -898,19 +967,22 @@ msgstr ""
 #: 00106:736
 msgid ""
 "{Pierre}\n"
-"\"Yeah. I remember that the article was written by some Dr. somebody or another.\""
+"\"Yeah. I remember that the article was written by some Dr. somebody or "
+"another.\""
 msgstr ""
 
 #: 00106:737
 msgid ""
 "{Kazushi}\n"
-"\"Isn't it bad for us if they're all lesbians? Won't they just ignore us guys?\""
+"\"Isn't it bad for us if they're all lesbians? Won't they just ignore us "
+"guys?\""
 msgstr ""
 
 #: 00106:740
 msgid ""
 "{Appo}\n"
-"\"You're naive! You're naive, Haruma-kun! They say that only 10% of them are truly lesbians. Most of them just don't have any other option.\""
+"\"You're naive! You're naive, Haruma-kun! They say that only 10% of them are "
+"truly lesbians. Most of them just don't have any other option.\""
 msgstr ""
 
 #: 00106:741
@@ -922,19 +994,23 @@ msgstr ""
 #: 00106:744
 msgid ""
 "{Pierre}\n"
-"\"Yes! Exactly! It's such a waste for young girls to lie with each other and comfort each other just because they have no other option! It is blasphemy upon God!\""
+"\"Yes! Exactly! It's such a waste for young girls to lie with each other and "
+"comfort each other just because they have no other option! It is blasphemy "
+"upon God!\""
 msgstr ""
 
 #: 00106:747
 msgid ""
 "{Appo}\n"
-"\"Our mission, should we choose to accept it, is to rescue those girls from their crooked ways!\""
+"\"Our mission, should we choose to accept it, is to rescue those girls from "
+"their crooked ways!\""
 msgstr ""
 
 #: 00106:748
 msgid ""
 "{Pierre}\n"
-"\"We shall fill the holes in their hearts and bodies! Their holes! Their holes!\""
+"\"We shall fill the holes in their hearts and bodies! Their holes! Their "
+"holes!\""
 msgstr ""
 
 #: 00106:749
@@ -946,13 +1022,15 @@ msgstr ""
 #: 00106:755
 msgid ""
 "{Daigo}\n"
-"\"I've only seen their holes in porn. I'm a little worried that I won't be able to find them.\""
+"\"I've only seen their holes in porn. I'm a little worried that I won't be "
+"able to find them.\""
 msgstr ""
 
 #: 00106:756
 msgid ""
 "{Pierre}\n"
-"\"Don't dream it, feel it! Let your instincts guide your hips! Then their hole shall open before you!\""
+"\"Don't dream it, feel it! Let your instincts guide your hips! Then their "
+"hole shall open before you!\""
 msgstr ""
 
 #: 00106:759
@@ -988,7 +1066,8 @@ msgstr ""
 #: 00106:770
 msgid ""
 "{Kazushi}\n"
-"\"If it's that difficult, and if we hesitate when the time comes, won't they leave us? I refuse to miss my chance!\""
+"\"If it's that difficult, and if we hesitate when the time comes, won't they "
+"leave us? I refuse to miss my chance!\""
 msgstr ""
 
 #: 00106:773
@@ -1017,7 +1096,9 @@ msgid ""
 msgstr ""
 
 #: 00106:779
-msgid "I stopped thinking and got on the deck on all fours. I felt like something that could never be undone was about to happen."
+msgid ""
+"I stopped thinking and got on the deck on all fours. I felt like something "
+"that could never be undone was about to happen."
 msgstr ""
 
 #: 00106:782
@@ -1052,7 +1133,7 @@ msgid ""
 "\"Gah! T-that's not it! The butt! That's the butt!\""
 msgstr ""
 
-#: 00106:794
+#: 00106:794 00106:802
 msgid ""
 "{Daigo}\n"
 "\"Like this? Is this good?\""
@@ -1067,17 +1148,12 @@ msgstr ""
 #: 00106:798
 msgid ""
 "{Kazushi}\n"
-"\"Wait, wait, wait!! This is definitely wrong! I know I wasn't born to be doing this!!\""
+"\"Wait, wait, wait!! This is definitely wrong! I know I wasn't born to be "
+"doing this!!\""
 msgstr ""
 
 #: 00106:799
 msgid "I felt like I needed to say, \"Mom, I'm sorry.\""
-msgstr ""
-
-#: 00106:802
-msgid ""
-"{Daigo}\n"
-"\"Like this? Is this good?\""
 msgstr ""
 
 #: 00106:803
@@ -1089,7 +1165,8 @@ msgstr ""
 #: 00106:806
 msgid ""
 "{Pierre}\n"
-"\"...yeah, I think we might break Kazushi if we go any further, so let's leave the joke at that.\""
+"\"...yeah, I think we might break Kazushi if we go any further, so let's "
+"leave the joke at that.\""
 msgstr ""
 
 #: 00106:811
@@ -1099,7 +1176,8 @@ msgstr ""
 #: 00106:812
 msgid ""
 "{Kazushi}\n"
-"\"Ugh, that was awful... I was about to bite my own tongue off. That was a bad joke.\""
+"\"Ugh, that was awful... I was about to bite my own tongue off. That was a "
+"bad joke.\""
 msgstr ""
 
 #: 00106:817
@@ -1115,7 +1193,8 @@ msgstr ""
 #: 00106:824
 msgid ""
 "{Yagami}\n"
-"\"I realize you're excited and want to have fun, but please behave yourselves. After all, we're heading to...\""
+"\"I realize you're excited and want to have fun, but please behave "
+"yourselves. After all, we're heading to...\""
 msgstr ""
 
 #: 00106:829
@@ -1135,7 +1214,8 @@ msgstr ""
 #: 00106:879
 msgid ""
 "{Yagami}\n"
-"\"Now remember, we're heading to a boarding school for girls... Is anybody listening to me?\""
+"\"Now remember, we're heading to a boarding school for girls... Is anybody "
+"listening to me?\""
 msgstr ""
 
 #: 00106:883
@@ -1151,11 +1231,14 @@ msgstr ""
 #: 00106:888
 msgid ""
 "{Yagami}\n"
-"\"I'm glad to see such earnest eyes. Now if only you'd put that passion into something else. Hmph.\""
+"\"I'm glad to see such earnest eyes. Now if only you'd put that passion into "
+"something else. Hmph.\""
 msgstr ""
 
 #: 00106:890
-msgid "Sensei forced a smile as he lit a cigarette and the salty breeze carried away the smoke."
+msgid ""
+"Sensei forced a smile as he lit a cigarette and the salty breeze carried "
+"away the smoke."
 msgstr ""
 
 #: 00106:900
@@ -1167,7 +1250,8 @@ msgstr ""
 #: 00106:901
 msgid ""
 "{Kazushi}\n"
-"\"Stop throwing up. Act straight!! If you still look that green, they'll hate you on first sight.\""
+"\"Stop throwing up. Act straight!! If you still look that green, they'll "
+"hate you on first sight.\""
 msgstr ""
 
 #: 00106:904
@@ -1179,7 +1263,8 @@ msgstr ""
 #: 00106:910
 msgid ""
 "{Yagami}\n"
-"\"You guys really do have a lot of energy. Why don't you use that for a club or something?\""
+"\"You guys really do have a lot of energy. Why don't you use that for a club "
+"or something?\""
 msgstr ""
 
 #: 00106:911
@@ -1189,7 +1274,9 @@ msgid ""
 msgstr ""
 
 #: 00106:913
-msgid "Maybe that could work. Our destination is a garden of women, a girls boarding school with a proud history."
+msgid ""
+"Maybe that could work. Our destination is a garden of women, a girls "
+"boarding school with a proud history."
 msgstr ""
 
 #: 00106:914
@@ -1213,11 +1300,15 @@ msgid ""
 msgstr ""
 
 #: 00106:924
-msgid "All of us must think the same way, really. Our academy was threatened with closure when this all girls' school started enrolling boys."
+msgid ""
+"All of us must think the same way, really. Our academy was threatened with "
+"closure when this all girls' school started enrolling boys."
 msgstr ""
 
 #: 00106:925
-msgid "I don't know why an all girls' school suddenly decided to enrol men, but apparently they changed their policy. It was perfect timing."
+msgid ""
+"I don't know why an all girls' school suddenly decided to enrol men, but "
+"apparently they changed their policy. It was perfect timing."
 msgstr ""
 
 #: 00106:926
@@ -1231,13 +1322,16 @@ msgid ""
 msgstr ""
 
 #: 00106:933
-msgid "Our boat entered the port. There were a lot of fishermen here. It looked like a pretty lively island."
+msgid ""
+"Our boat entered the port. There were a lot of fishermen here. It looked "
+"like a pretty lively island."
 msgstr ""
 
 #: 00106:934
 msgid ""
 "{Fisherman A}\n"
-"\"Today was the one day I didn't want to be late, so I pushed her hard, and now look at her. She's a piece of junk!\""
+"\"Today was the one day I didn't want to be late, so I pushed her hard, and "
+"now look at her. She's a piece of junk!\""
 msgstr ""
 
 #: 00106:935
@@ -1249,11 +1343,14 @@ msgstr ""
 #: 00106:936
 msgid ""
 "{Fisherman A}\n"
-"\"You're right. Being late to dinner and getting yelled at by the wife is one thing, but we can't be late on 'the day'.\""
+"\"You're right. Being late to dinner and getting yelled at by the wife is "
+"one thing, but we can't be late on 'the day'.\""
 msgstr ""
 
 #: 00106:937
-msgid "I kept overhearing people saying \"the day.\" I wonder what's going on that's so special?"
+msgid ""
+"I kept overhearing people saying \"the day.\" I wonder what's going on "
+"that's so special?"
 msgstr ""
 
 #: 00106:938
@@ -1263,13 +1360,16 @@ msgid ""
 msgstr ""
 
 #: 00106:939
-msgid "That's a chug boat, right? The smokestack was putting out poisonous looking smoke."
+msgid ""
+"That's a chug boat, right? The smokestack was putting out poisonous looking "
+"smoke."
 msgstr ""
 
 #: 00106:940
 msgid ""
 "{Pierre}\n"
-"\"You won't find an engine that old anywhere except in the boonies like here.\""
+"\"You won't find an engine that old anywhere except in the boonies like here."
+"\""
 msgstr ""
 
 #: 00106:941
@@ -1289,11 +1389,14 @@ msgid ""
 msgstr ""
 
 #: 00106:944
-msgid "The seagulls were flocking around the boat. They weren't avoiding the smoke, they were enjoying it."
+msgid ""
+"The seagulls were flocking around the boat. They weren't avoiding the smoke, "
+"they were enjoying it."
 msgstr ""
 
 #: 00106:945
-msgid "Perhaps that smoke smells good to them? Either way, I guess it's not harmful."
+msgid ""
+"Perhaps that smoke smells good to them? Either way, I guess it's not harmful."
 msgstr ""
 
 #: 00106:946
@@ -1303,17 +1406,22 @@ msgid ""
 msgstr ""
 
 #: 00106:952
-msgid "After a little bump, our boat came to a stop. We were right alongside the pier. One of the crew hopped out and secured the boat with rope."
+msgid ""
+"After a little bump, our boat came to a stop. We were right alongside the "
+"pier. One of the crew hopped out and secured the boat with rope."
 msgstr ""
 
 #: 00106:953
 msgid ""
 "{Yagami}\n"
-"\"Everyone, we're here! Don't push, and step off the boat in an orderly fashion!\""
+"\"Everyone, we're here! Don't push, and step off the boat in an orderly "
+"fashion!\""
 msgstr ""
 
 #: 00106:954
-msgid "No one listened to his instructions as we all rushed to get off. We cut in line too."
+msgid ""
+"No one listened to his instructions as we all rushed to get off. We cut in "
+"line too."
 msgstr ""
 
 #: 00106:961
@@ -1372,11 +1480,15 @@ msgid ""
 msgstr ""
 
 #: 00106:1004
-msgid "The brilliant sun shone down on us. Part of the island rose before us, as if it was stretching out towards the sky."
+msgid ""
+"The brilliant sun shone down on us. Part of the island rose before us, as if "
+"it was stretching out towards the sky."
 msgstr ""
 
 #: 00106:1005
-msgid "On top of that peak stood a building that was probably our new school. It looked just like a foreign castle."
+msgid ""
+"On top of that peak stood a building that was probably our new school. It "
+"looked just like a foreign castle."
 msgstr ""
 
 #: 00106:1006
@@ -1404,7 +1516,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1023
-msgid "It was almost like we'd entered a different country. Everything we saw looked so new to us."
+msgid ""
+"It was almost like we'd entered a different country. Everything we saw "
+"looked so new to us."
 msgstr ""
 
 #: 00106:1024
@@ -1477,23 +1591,29 @@ msgid ""
 msgstr ""
 
 #: 00106:1053
-msgid "I don't know why, but those eyes made me feel uncomfortable. I averted my gaze."
+msgid ""
+"I don't know why, but those eyes made me feel uncomfortable. I averted my "
+"gaze."
 msgstr ""
 
 #: 00106:1058
 msgid ""
 "{Yagami}\n"
-"\"It's a pleasure to meet you. My name is Yagami, I'm in charge of these boys. The students and I are looking forward to working with you.\""
+"\"It's a pleasure to meet you. My name is Yagami, I'm in charge of these "
+"boys. The students and I are looking forward to working with you.\""
 msgstr ""
 
 #: 00106:1059
-msgid "The way that Yagami-sensei introduced himself told us that she was a higher ranked teacher than him."
+msgid ""
+"The way that Yagami-sensei introduced himself told us that she was a higher "
+"ranked teacher than him."
 msgstr ""
 
 #: 00106:1062
 msgid ""
 "{Yagami}\n"
-"\"This is Principal Aozora Hisae, head of this academy. Say hello, everyone.\""
+"\"This is Principal Aozora Hisae, head of this academy. Say hello, everyone."
+"\""
 msgstr ""
 
 #: 00106:1063
@@ -1503,7 +1623,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1064
-msgid "Our greeting echoed over the island. The principle put on an elegant smile and laughed like a little girl."
+msgid ""
+"Our greeting echoed over the island. The principle put on an elegant smile "
+"and laughed like a little girl."
 msgstr ""
 
 #: 00106:1069
@@ -1519,7 +1641,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1071
-msgid "The guys all heaved deep sighs at her elegant greeting. We had never been greeted so kindly before."
+msgid ""
+"The guys all heaved deep sighs at her elegant greeting. We had never been "
+"greeted so kindly before."
 msgstr ""
 
 #: 00106:1072
@@ -1553,7 +1677,8 @@ msgstr ""
 #: 00106:1088
 msgid ""
 "We got quiet after Mr. Yagami told us off.\n"
-"Still, we couldn't help but whisper about what was going to happen from now on."
+"Still, we couldn't help but whisper about what was going to happen from now "
+"on."
 msgstr ""
 
 #: 00106:1095
@@ -1581,19 +1706,23 @@ msgid ""
 msgstr ""
 
 #: 00106:1102
-msgid "We had to plan our strategy carefully while the Principal and Mr. Yagami were talking."
+msgid ""
+"We had to plan our strategy carefully while the Principal and Mr. Yagami "
+"were talking."
 msgstr ""
 
 #: 00106:1105
 msgid ""
 "{Appo}\n"
-"(I can't wait any longer. They're introducing us to the girls after this, right?)"
+"(I can't wait any longer. They're introducing us to the girls after this, "
+"right?)"
 msgstr ""
 
 #: 00106:1108
 msgid ""
 "{Appo}\n"
-"(Look at all the guys with us. If we behave and watch out for Yagami, we'll just get buried in the crowd.)"
+"(Look at all the guys with us. If we behave and watch out for Yagami, we'll "
+"just get buried in the crowd.)"
 msgstr ""
 
 #: 00106:1109
@@ -1638,11 +1767,15 @@ msgstr ""
 #: 00106:1128
 msgid ""
 "{Principal}\n"
-"\"Now, allow me to give you a tour of the academy. It's a bit of walk, but please try not to get separated. There are some dangerous places on this island.\""
+"\"Now, allow me to give you a tour of the academy. It's a bit of walk, but "
+"please try not to get separated. There are some dangerous places on this "
+"island.\""
 msgstr ""
 
 #: 00106:1129
-msgid "They were about to start moving. The whole group was brimming with excitement. If we're ditching them, now's the time."
+msgid ""
+"They were about to start moving. The whole group was brimming with "
+"excitement. If we're ditching them, now's the time."
 msgstr ""
 
 #: 00106:1133
@@ -1674,7 +1807,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1153
-msgid "That was my first impression. There were plenty of stores, and even traffic lights too. The cars were strange, but they were there."
+msgid ""
+"That was my first impression. There were plenty of stores, and even traffic "
+"lights too. The cars were strange, but they were there."
 msgstr ""
 
 #: 00106:1158
@@ -1696,7 +1831,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1163
-msgid "Even though it said \"environmentally friendly\" on the body, it put out a lot of green and pink fumes, just like the boat we had seen in the port."
+msgid ""
+"Even though it said \"environmentally friendly\" on the body, it put out a "
+"lot of green and pink fumes, just like the boat we had seen in the port."
 msgstr ""
 
 #: 00106:1166
@@ -1706,13 +1843,17 @@ msgid ""
 msgstr ""
 
 #: 00106:1168
-msgid "There was a huge pile of tuna on the back of that strange three-wheeled truck waiting for the stoplight. They looked like they were ready to fall out."
+msgid ""
+"There was a huge pile of tuna on the back of that strange three-wheeled "
+"truck waiting for the stoplight. They looked like they were ready to fall "
+"out."
 msgstr ""
 
 #: 00106:1175
 msgid ""
 "{Pierre}\n"
-"\"They can catch tuna on this island? I can't wait to see our lunches. I bet we can eat a ton of fresh fish!\""
+"\"They can catch tuna on this island? I can't wait to see our lunches. I bet "
+"we can eat a ton of fresh fish!\""
 msgstr ""
 
 #: 00106:1178
@@ -1726,7 +1867,10 @@ msgid "We saw tons of fresh fruits and vegetables in the store."
 msgstr ""
 
 #: 00106:1181
-msgid "The onions were the size of a person's head. Beneath the blossoms of some hydroponic tulips there were some ripe cucumbers and other strange fresh vegetables."
+msgid ""
+"The onions were the size of a person's head. Beneath the blossoms of some "
+"hydroponic tulips there were some ripe cucumbers and other strange fresh "
+"vegetables."
 msgstr ""
 
 #: 00106:1182
@@ -1739,7 +1883,8 @@ msgstr ""
 #: 00106:1185
 msgid ""
 "{Pierre}\n"
-"\"Now this is an isolated island in the distant seas! They catch strange things to eat. I haven't even seen most of these.\""
+"\"Now this is an isolated island in the distant seas! They catch strange "
+"things to eat. I haven't even seen most of these.\""
 msgstr ""
 
 #: 00106:1187
@@ -1766,7 +1911,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1197
-msgid "He tossed us some huge bulbs of garlic. They were as big as watermelons. They hit our chests with a heavy thud."
+msgid ""
+"He tossed us some huge bulbs of garlic. They were as big as watermelons. "
+"They hit our chests with a heavy thud."
 msgstr ""
 
 #: 00106:1200
@@ -1784,7 +1931,8 @@ msgstr ""
 #: 00106:1202
 msgid ""
 "{Grocery Store Worker}\n"
-"\"That school's what helps my produce grow so well. Eat that for some energy so you can study hard.\""
+"\"That school's what helps my produce grow so well. Eat that for some energy "
+"so you can study hard.\""
 msgstr ""
 
 #: 00106:1203
@@ -1860,11 +2008,14 @@ msgstr ""
 msgid ""
 "{Grocery Store Worker}\n"
 "\"Her granddaughter goes to that school, too.\n"
-"Give that girl a bit of time, and I bet she'll look as beautiful as Hisae-san did.\""
+"Give that girl a bit of time, and I bet she'll look as beautiful as Hisae-"
+"san did.\""
 msgstr ""
 
 #: 00106:1231
-msgid "He stared off into the distance. I think the principal must have been really beautiful back in their day."
+msgid ""
+"He stared off into the distance. I think the principal must have been really "
+"beautiful back in their day."
 msgstr ""
 
 #: 00106:1238
@@ -1888,7 +2039,8 @@ msgstr ""
 #: 00106:1241
 msgid ""
 "{Grocery Store Worker}\n"
-"\"Sure. She's only been out of college for a few years. She used to be a student at this academy, but she came back to teach.\""
+"\"Sure. She's only been out of college for a few years. She used to be a "
+"student at this academy, but she came back to teach.\""
 msgstr ""
 
 #: 00106:1242
@@ -1918,7 +2070,8 @@ msgstr ""
 #: 00106:1252
 msgid ""
 "{Appo}\n"
-"\"Wow! Watermelons! Watermelons! Watermelons! Watermelons! Melons! Melons! Thank you very much!\""
+"\"Wow! Watermelons! Watermelons! Watermelons! Watermelons! Melons! Melons! "
+"Thank you very much!\""
 msgstr ""
 
 #: 00106:1253
@@ -1968,7 +2121,8 @@ msgstr ""
 #: 00106:1271
 msgid ""
 "{Grocery Store Worker}\n"
-"\"Don't worry about it! That's how healthy boys should be! It might take you a while to get used to this place, but good luck!\""
+"\"Don't worry about it! That's how healthy boys should be! It might take you "
+"a while to get used to this place, but good luck!\""
 msgstr ""
 
 #: 00106:1274
@@ -1978,7 +2132,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1275
-msgid "The people here are nice and there's lots of hot girls. I think I'm gonna like it here."
+msgid ""
+"The people here are nice and there's lots of hot girls. I think I'm gonna "
+"like it here."
 msgstr ""
 
 #: 00106:1282
@@ -2038,7 +2194,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1306
-msgid "Daigo pointed to the castle-like building at the peak of this mountain. It was a long ways above us."
+msgid ""
+"Daigo pointed to the castle-like building at the peak of this mountain. It "
+"was a long ways above us."
 msgstr ""
 
 #: 00106:1311
@@ -2086,7 +2244,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1337
-msgid "Daigo was right. Our school remained a good walk from where we were. The gate, meanwhile, had some weird marks written on it. It was very suspicious."
+msgid ""
+"Daigo was right. Our school remained a good walk from where we were. The "
+"gate, meanwhile, had some weird marks written on it. It was very suspicious."
 msgstr ""
 
 #: 00106:1342
@@ -2190,7 +2350,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1381
-msgid "Appo rushed off with agile movements, like his limiter had been released, until we started to lose sight of him."
+msgid ""
+"Appo rushed off with agile movements, like his limiter had been released, "
+"until we started to lose sight of him."
 msgstr ""
 
 #: 00106:1385
@@ -2228,7 +2390,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1410
-msgid "Daigo peered through the bushes down the cliff. We were shocked by what we found."
+msgid ""
+"Daigo peered through the bushes down the cliff. We were shocked by what we "
+"found."
 msgstr ""
 
 #: 00106:1411
@@ -2239,7 +2403,8 @@ msgid ""
 msgstr ""
 
 #: 00106:1412
-msgid "They stairs continued down so far that we couldn't see where they ended."
+msgid ""
+"They stairs continued down so far that we couldn't see where they ended."
 msgstr ""
 
 #: 00106:1417
@@ -2285,7 +2450,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1439
-msgid "They both started carrying Appo over. Appo was small enough for Daigo to easily carry him by himself."
+msgid ""
+"They both started carrying Appo over. Appo was small enough for Daigo to "
+"easily carry him by himself."
 msgstr ""
 
 #: 00106:1440
@@ -2306,14 +2473,16 @@ msgid ""
 "\"Ah!\""
 msgstr ""
 
-#: 00106:1443
+#: 00106:1443 00106:2275
 msgid ""
 "{Kazushi}\n"
 "\"Huh?\""
 msgstr ""
 
 #: 00106:1444
-msgid "I thought I was dreaming. There was a rocky area jutting out nearby. A mermaid was actually sitting on the rocks."
+msgid ""
+"I thought I was dreaming. There was a rocky area jutting out nearby. A "
+"mermaid was actually sitting on the rocks."
 msgstr ""
 
 #: 00106:1448
@@ -2335,11 +2504,15 @@ msgid ""
 msgstr ""
 
 #: 00106:1452
-msgid "She was NAKED. I mean, look at those boobs! Those boobs! Bare breasts beneath the bright sun!"
+msgid ""
+"She was NAKED. I mean, look at those boobs! Those boobs! Bare breasts "
+"beneath the bright sun!"
 msgstr ""
 
 #: 00106:1453
-msgid "Don't mermaids use seashells or something?! I could see her nipples! Wow, is it alright to see so much!?"
+msgid ""
+"Don't mermaids use seashells or something?! I could see her nipples! Wow, is "
+"it alright to see so much!?"
 msgstr ""
 
 #: 00106:1454
@@ -2447,13 +2620,15 @@ msgstr ""
 #: 00106:1503
 msgid ""
 "{Pierre}\n"
-"\"Are you sure? You didn't mistake something else for a mermaid did you? You know, what's that...\""
+"\"Are you sure? You didn't mistake something else for a mermaid did you? You "
+"know, what's that...\""
 msgstr ""
 
 #: 00106:1506
 msgid ""
 "{Appo}\n"
-"\"You mean a sea lion? You've got to be pretty stupid to mistake that for a mermaid.\""
+"\"You mean a sea lion? You've got to be pretty stupid to mistake that for a "
+"mermaid.\""
 msgstr ""
 
 #: 00106:1507
@@ -2505,7 +2680,8 @@ msgstr ""
 #: 00106:1521
 msgid ""
 "{Pierre}\n"
-"\"Then she's got to surface sooner or later. No human can hold their breath that long.\""
+"\"Then she's got to surface sooner or later. No human can hold their breath "
+"that long.\""
 msgstr ""
 
 #: 00106:1524
@@ -2620,7 +2796,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1569
-msgid "I turned around as I was about to take my clothes off, and let out a cry. That was a shock!"
+msgid ""
+"I turned around as I was about to take my clothes off, and let out a cry. "
+"That was a shock!"
 msgstr ""
 
 #: 00106:1575
@@ -2664,7 +2842,8 @@ msgid ""
 msgstr ""
 
 #: 00106:1601
-msgid "The signpost was closing in on us. Why the hell is a signpost after us?!"
+msgid ""
+"The signpost was closing in on us. Why the hell is a signpost after us?!"
 msgstr ""
 
 #: 00106:1607
@@ -2709,7 +2888,7 @@ msgstr ""
 msgid "Fear got the best of me and I beat it. I ran as fast as I could."
 msgstr ""
 
-#: 00106:1638
+#: 00106:1638 00106:1647 00106:1673
 msgid ""
 "{Signpost}\n"
 "\"Halt! Halt!\""
@@ -2746,7 +2925,8 @@ msgstr ""
 #: 00106:1644
 msgid ""
 "{Appo}\n"
-"\"Definitely! A mermaid sounds a lot more realistic than a living sign board!\""
+"\"Definitely! A mermaid sounds a lot more realistic than a living sign board!"
+"\""
 msgstr ""
 
 #: 00106:1645
@@ -2759,12 +2939,6 @@ msgstr ""
 msgid ""
 "{Kazushi}\n"
 "\"I'm going this way!\""
-msgstr ""
-
-#: 00106:1647
-msgid ""
-"{Signpost}\n"
-"\"Halt! Halt!\""
 msgstr ""
 
 #: 00106:1648
@@ -2833,12 +3007,6 @@ msgid ""
 "\"SHIT! It is!\""
 msgstr ""
 
-#: 00106:1673
-msgid ""
-"{Signpost}\n"
-"\"Halt! Halt!\""
-msgstr ""
-
 #: 00106:1674
 msgid ""
 "{Kazushi}\n"
@@ -2846,10 +3014,12 @@ msgid ""
 msgstr ""
 
 #: 00106:1675
-msgid "I don't know what it'll do to me if I stop! I can't let myself stop! I'm not going to lose a contest of stamina!"
+msgid ""
+"I don't know what it'll do to me if I stop! I can't let myself stop! I'm not "
+"going to lose a contest of stamina!"
 msgstr ""
 
-#: 00106:1682
+#: 00106:1682 00106:1738
 msgid ""
 "{Signpost}\n"
 "\"Halt. Halt.\""
@@ -2874,7 +3044,8 @@ msgid ""
 msgstr ""
 
 #: 00106:1687
-msgid "And of course this was all uphill. Even a marathon runner would slow down."
+msgid ""
+"And of course this was all uphill. Even a marathon runner would slow down."
 msgstr ""
 
 #: 00106:1690
@@ -2951,7 +3122,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1706
-msgid "It was a girl. She was wearing a uniform I hadn't seen before. Was it Eiden Academy's uniform?"
+msgid ""
+"It was a girl. She was wearing a uniform I hadn't seen before. Was it Eiden "
+"Academy's uniform?"
 msgstr ""
 
 #: 00106:1707
@@ -2971,7 +3144,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1710
-msgid "I desperately grabbed onto the tree and shimmied up the trunk. A hand was held out before me. I grabbed it."
+msgid ""
+"I desperately grabbed onto the tree and shimmied up the trunk. A hand was "
+"held out before me. I grabbed it."
 msgstr ""
 
 #: 00106:1711
@@ -3033,7 +3208,8 @@ msgstr ""
 #: 00106:1732
 msgid ""
 "{Girl in the Tree}\n"
-"\"That's not what I'm asking for. You would've died without my help, you know.\""
+"\"That's not what I'm asking for. You would've died without my help, you "
+"know.\""
 msgstr ""
 
 #: 00106:1733
@@ -3045,7 +3221,8 @@ msgstr ""
 #: 00106:1736
 msgid ""
 "{Girl in the Tree}\n"
-"\"Yeah it would've. It's a killing machine designed by this academy to eliminate any and all intruders.\""
+"\"Yeah it would've. It's a killing machine designed by this academy to "
+"eliminate any and all intruders.\""
 msgstr ""
 
 #: 00106:1737
@@ -3054,14 +3231,10 @@ msgid ""
 "\"That thing's a killing machine?!\""
 msgstr ""
 
-#: 00106:1738
-msgid ""
-"{Signpost}\n"
-"\"Halt. Halt.\""
-msgstr ""
-
 #: 00106:1739
-msgid "It was staring up at us from the tree's roots. Looks like she was right; it couldn't climb up here."
+msgid ""
+"It was staring up at us from the tree's roots. Looks like she was right; it "
+"couldn't climb up here."
 msgstr ""
 
 #: 00106:1740
@@ -3120,7 +3293,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1757
-msgid "Why am I giving an extended introduction right now? Ran was laughing and enjoying herself, though."
+msgid ""
+"Why am I giving an extended introduction right now? Ran was laughing and "
+"enjoying herself, though."
 msgstr ""
 
 #: 00106:1758
@@ -3177,7 +3352,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1775
-msgid "I didn't want to know something like that! Why do I have to get wrapped up in some big conspiracy?!"
+msgid ""
+"I didn't want to know something like that! Why do I have to get wrapped up "
+"in some big conspiracy?!"
 msgstr ""
 
 #: 00106:1778
@@ -3187,7 +3364,8 @@ msgid ""
 msgstr ""
 
 #: 00106:1781
-msgid "She pulled out her purse and opened her wallet. The money rattled inside."
+msgid ""
+"She pulled out her purse and opened her wallet. The money rattled inside."
 msgstr ""
 
 #: 00106:1782
@@ -3197,7 +3375,8 @@ msgstr ""
 #: 00106:1785
 msgid ""
 "{Ran}\n"
-"\"Come on, money, money. Hush money. I won't tell anyone that you know about our government's deadly secret.\""
+"\"Come on, money, money. Hush money. I won't tell anyone that you know about "
+"our government's deadly secret.\""
 msgstr ""
 
 #: 00106:1786
@@ -3213,7 +3392,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1788
-msgid "What's the going rate for hush money? Anyways, I pulled out my wallet and opened the change pouch. There was a fair amount of coins in there."
+msgid ""
+"What's the going rate for hush money? Anyways, I pulled out my wallet and "
+"opened the change pouch. There was a fair amount of coins in there."
 msgstr ""
 
 #: 00106:1791
@@ -3223,7 +3404,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1792
-msgid "Ran's voice took on a sugary tone. Her finger pointed to the pouch with bills."
+msgid ""
+"Ran's voice took on a sugary tone. Her finger pointed to the pouch with "
+"bills."
 msgstr ""
 
 #: 00106:1793
@@ -3240,7 +3423,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1797
-msgid "Oh well. I gave her one of my bills. Who would've thought the money I got as a farewell gift would be spent here."
+msgid ""
+"Oh well. I gave her one of my bills. Who would've thought the money I got as "
+"a farewell gift would be spent here."
 msgstr ""
 
 #: 00106:1800
@@ -3283,7 +3468,9 @@ msgid "If money can buy my life. I will be happy to pay."
 msgstr ""
 
 #: 00106:1811
-msgid "Ran took the two bills and happily shoved them down the frog's mouth. I leaned over to peek in."
+msgid ""
+"Ran took the two bills and happily shoved them down the frog's mouth. I "
+"leaned over to peek in."
 msgstr ""
 
 #: 00106:1812
@@ -3325,7 +3512,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1826
-msgid "She gave the sign board a massive drop kick as she jumped to the ground. The Killing Machine was obviously in a great deal of pain."
+msgid ""
+"She gave the sign board a massive drop kick as she jumped to the ground. The "
+"Killing Machine was obviously in a great deal of pain."
 msgstr ""
 
 #: 00106:1829
@@ -3420,7 +3609,8 @@ msgid ""
 msgstr ""
 
 #: 00106:1871
-msgid "It rammed into the thick tree and made it shake. It was really powerful."
+msgid ""
+"It rammed into the thick tree and made it shake. It was really powerful."
 msgstr ""
 
 #: 00106:1876
@@ -3466,7 +3656,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1894
-msgid "The killing machine bent its body and looked like it was ready to jump. This was bad!"
+msgid ""
+"The killing machine bent its body and looked like it was ready to jump. This "
+"was bad!"
 msgstr ""
 
 #: 00106:1896
@@ -3476,7 +3668,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1897
-msgid "I jumped down from the tree before I could think about it and landed between Ran and the killing machine."
+msgid ""
+"I jumped down from the tree before I could think about it and landed between "
+"Ran and the killing machine."
 msgstr ""
 
 #: 00106:1904
@@ -3504,7 +3698,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1908
-msgid "My knees were shaking, but who wouldn't be scared? The killing machine was right in front of me."
+msgid ""
+"My knees were shaking, but who wouldn't be scared? The killing machine was "
+"right in front of me."
 msgstr ""
 
 #: 00106:1909
@@ -3516,13 +3712,15 @@ msgstr ""
 #: 00106:1910
 msgid ""
 "{Kazushi}\n"
-"\"W-what you're doing is wrong! War isn't the answer! If your mother knew you'd become an instrument of death, she'd be crying!\""
+"\"W-what you're doing is wrong! War isn't the answer! If your mother knew "
+"you'd become an instrument of death, she'd be crying!\""
 msgstr ""
 
 #: 00106:1913
 msgid ""
 "{Ran}\n"
-"\"I don't think a guilt trip's going to stop it. He doesn't understand language anymore.\""
+"\"I don't think a guilt trip's going to stop it. He doesn't understand "
+"language anymore.\""
 msgstr ""
 
 #: 00106:1914
@@ -3544,7 +3742,9 @@ msgid ""
 msgstr ""
 
 #: 00106:1917
-msgid "My words were unable to stop the killing machine. Do I have no other choice but to fight?!"
+msgid ""
+"My words were unable to stop the killing machine. Do I have no other choice "
+"but to fight?!"
 msgstr ""
 
 #: 00106:1918
@@ -3601,7 +3801,8 @@ msgstr ""
 #: 00106:1951
 msgid ""
 "{Pierre}\n"
-"\"I don't understand how you can like that stuff. It's what's inside that counts.\""
+"\"I don't understand how you can like that stuff. It's what's inside that "
+"counts.\""
 msgstr ""
 
 #: 00106:1954
@@ -3613,7 +3814,8 @@ msgstr ""
 #: 00106:1957
 msgid ""
 "{Appo}\n"
-"\"It has the air of a crowd of caged ladies. Exactly what you'd expect from a garden of women. And what's this smell?\""
+"\"It has the air of a crowd of caged ladies. Exactly what you'd expect from "
+"a garden of women. And what's this smell?\""
 msgstr ""
 
 #: 00106:1960
@@ -3631,7 +3833,8 @@ msgstr ""
 #: 00106:1966
 msgid ""
 "{Appo}\n"
-"\"You mean you don't know?! You can't tell what this unique, sweet and bitter fragrance is?!\""
+"\"You mean you don't know?! You can't tell what this unique, sweet and "
+"bitter fragrance is?!\""
 msgstr ""
 
 #: 00106:1967
@@ -3655,7 +3858,8 @@ msgstr ""
 #: 00106:1972
 msgid ""
 "{Appo}\n"
-"\"Look, I know you want to smell the girls, but why are you opening your mouth?\""
+"\"Look, I know you want to smell the girls, but why are you opening your "
+"mouth?\""
 msgstr ""
 
 #: 00106:1973
@@ -3679,7 +3883,8 @@ msgstr ""
 #: 00106:1980
 msgid ""
 "{Pierre}\n"
-"\"If you had a bag sitting around then why didn't you use it on the boat, earlier?\""
+"\"If you had a bag sitting around then why didn't you use it on the boat, "
+"earlier?\""
 msgstr ""
 
 #: 00106:1987
@@ -3801,7 +4006,8 @@ msgstr ""
 msgid ""
 "{A Girl}\n"
 "\"Oh, I see. Yeah, the heat'll do that to you.\n"
-"Don't worry, you'll be able to think straight again when it cools down at night.\""
+"Don't worry, you'll be able to think straight again when it cools down at "
+"night.\""
 msgstr ""
 
 #: 00106:2068
@@ -3869,7 +4075,8 @@ msgstr ""
 #: 00106:2103
 msgid ""
 "{Appo}\n"
-"\"Oh, really? I nearly panicked to think he had gotten that far ahead of us at the starting line.\""
+"\"Oh, really? I nearly panicked to think he had gotten that far ahead of us "
+"at the starting line.\""
 msgstr ""
 
 #: 00106:2104
@@ -3971,7 +4178,8 @@ msgstr ""
 #: 00106:2142
 msgid ""
 "{Mizuki}\n"
-"\"There's nothing going on between us. I'd prefer you not to get any strange ideas.\""
+"\"There's nothing going on between us. I'd prefer you not to get any strange "
+"ideas.\""
 msgstr ""
 
 #: 00106:2145
@@ -4005,7 +4213,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2158
-msgid "We were trapped on a suspension bridge held with ropes. There was no where left to run."
+msgid ""
+"We were trapped on a suspension bridge held with ropes. There was no where "
+"left to run."
 msgstr ""
 
 #: 00106:2161
@@ -4027,7 +4237,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2168
-msgid "The killing machine steadily closed in on us. Behind us was more bridge. Below, the forest. It was a long way down."
+msgid ""
+"The killing machine steadily closed in on us. Behind us was more bridge. "
+"Below, the forest. It was a long way down."
 msgstr ""
 
 #: 00106:2169
@@ -4070,7 +4282,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2176
-msgid "Ran clung even tighter to me. I was right up against a girl! My heart was pounding like crazy."
+msgid ""
+"Ran clung even tighter to me. I was right up against a girl! My heart was "
+"pounding like crazy."
 msgstr ""
 
 #: 00106:2177
@@ -4120,7 +4334,9 @@ msgstr ""
 #: 00106:2186
 msgid ""
 "{Ran}\n"
-"\"When a man and a woman are both together in a dangerous situation, like being on a suspension bridge, they mistake their sense of danger for love, and fall in love with each other.\""
+"\"When a man and a woman are both together in a dangerous situation, like "
+"being on a suspension bridge, they mistake their sense of danger for love, "
+"and fall in love with each other.\""
 msgstr ""
 
 #: 00106:2188
@@ -4132,7 +4348,8 @@ msgstr ""
 #: 00106:2189
 msgid ""
 "{Ran}\n"
-"\"This is that exact situation isn't it? We're on a suspension bridge, and danger is right in front of us.\""
+"\"This is that exact situation isn't it? We're on a suspension bridge, and "
+"danger is right in front of us.\""
 msgstr ""
 
 #: 00106:2190
@@ -4154,7 +4371,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2193
-msgid "I turned around and her face was directly up against mine. My heart skipped a few beats."
+msgid ""
+"I turned around and her face was directly up against mine. My heart skipped "
+"a few beats."
 msgstr ""
 
 #: 00106:2194
@@ -4170,7 +4389,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2199
-msgid "When I turned my head back around, I saw the machine in the air trying to get us."
+msgid ""
+"When I turned my head back around, I saw the machine in the air trying to "
+"get us."
 msgstr ""
 
 #: 00106:2200
@@ -4198,7 +4419,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2210
-msgid "A tomoe nage! Use their strength as they push forward, roll back and fling them behind you!"
+msgid ""
+"A tomoe nage! Use their strength as they push forward, roll back and fling "
+"them behind you!"
 msgstr ""
 
 #: 00106:2211
@@ -4220,7 +4443,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2215
-msgid "It was a perfectly executed tomoe nage. I threw the machine over the bridge and it fell all the way to the bottom."
+msgid ""
+"It was a perfectly executed tomoe nage. I threw the machine over the bridge "
+"and it fell all the way to the bottom."
 msgstr ""
 
 #: 00106:2219
@@ -4236,7 +4461,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2221
-msgid "I couldn't stop my body from spinning backwards. I felt a bad feeling run up my spine as I spun."
+msgid ""
+"I couldn't stop my body from spinning backwards. I felt a bad feeling run up "
+"my spine as I spun."
 msgstr ""
 
 #: 00106:2222
@@ -4262,11 +4489,8 @@ msgstr ""
 #: 00106:2238
 msgid ""
 "{Ran}\n"
-"\"No way... Kazushi died? ...I just met a guy, and it's already farewell?! That's too fast!\""
-msgstr ""
-
-#: 00106:2241
-msgid ".................."
+"\"No way... Kazushi died? ...I just met a guy, and it's already farewell?! "
+"That's too fast!\""
 msgstr ""
 
 #: 00106:2242
@@ -4312,7 +4536,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2254
-msgid "This must be the forest I saw from on the bridge. Broken branches were everywhere after cushioning my fall."
+msgid ""
+"This must be the forest I saw from on the bridge. Broken branches were "
+"everywhere after cushioning my fall."
 msgstr ""
 
 #: 00106:2255
@@ -4332,7 +4558,8 @@ msgid ""
 msgstr ""
 
 #: 00106:2258
-msgid "No broken bones, no bruises, and no bleeding though. Talk about a miracle."
+msgid ""
+"No broken bones, no bruises, and no bleeding though. Talk about a miracle."
 msgstr ""
 
 #: 00106:2259
@@ -4342,7 +4569,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2260
-msgid "I could barely see the mountain peak through the thick canopy. I better head that way."
+msgid ""
+"I could barely see the mountain peak through the thick canopy. I better head "
+"that way."
 msgstr ""
 
 #: 00106:2261
@@ -4358,7 +4587,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2266
-msgid "I had walked for a while, but I was still stuck in the forest. I didn't know it was so big."
+msgid ""
+"I had walked for a while, but I was still stuck in the forest. I didn't know "
+"it was so big."
 msgstr ""
 
 #: 00106:2267
@@ -4368,7 +4599,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2268
-msgid "Is this one of those places where you lose all sense of direction? Will I be stuck here, unable to reach the academy, until I rot?"
+msgid ""
+"Is this one of those places where you lose all sense of direction? Will I be "
+"stuck here, unable to reach the academy, until I rot?"
 msgstr ""
 
 #: 00106:2269
@@ -4388,17 +4621,13 @@ msgid ""
 msgstr ""
 
 #: 00106:2272
-msgid "I quickened my pace. Everything looked the same no matter where I went. I hoped I wasn't walking in a circle."
+msgid ""
+"I quickened my pace. Everything looked the same no matter where I went. I "
+"hoped I wasn't walking in a circle."
 msgstr ""
 
 #: 00106:2273
 msgid "This is like a maze."
-msgstr ""
-
-#: 00106:2275
-msgid ""
-"{Kazushi}\n"
-"\"Huh?\""
 msgstr ""
 
 #: 00106:2276
@@ -4422,7 +4651,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2284
-msgid "I wound up right in the middle of a huge flower bed. Small white flowers were growing everywhere. They were all still buds."
+msgid ""
+"I wound up right in the middle of a huge flower bed. Small white flowers "
+"were growing everywhere. They were all still buds."
 msgstr ""
 
 #: 00106:2285
@@ -4432,7 +4663,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2286
-msgid "They were a pristine shade of white, and their petals reminded me of snow. They looked so pure I hesitated to touch them."
+msgid ""
+"They were a pristine shade of white, and their petals reminded me of snow. "
+"They looked so pure I hesitated to touch them."
 msgstr ""
 
 #: 00106:2287
@@ -4446,7 +4679,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2289
-msgid "At that moment, I heard the faint sound of someone's voice breaking the quiet."
+msgid ""
+"At that moment, I heard the faint sound of someone's voice breaking the "
+"quiet."
 msgstr ""
 
 #: 00106:2290
@@ -4464,7 +4699,9 @@ msgid "...there?"
 msgstr ""
 
 #: 00106:2294
-msgid "I saw the owner of the voice I heard. It was such a shocking to sight to behold I was speechless."
+msgid ""
+"I saw the owner of the voice I heard. It was such a shocking to sight to "
+"behold I was speechless."
 msgstr ""
 
 #: 00106:2295
@@ -4472,17 +4709,20 @@ msgid "She was naked. Stark naked. In her birthday suit."
 msgstr ""
 
 #: 00106:2296
-msgid "Be it a mermaid, or this girl, this island was full of naked girls. Is this secretly some kind of nudist beach? What a liberal island."
+msgid ""
+"Be it a mermaid, or this girl, this island was full of naked girls. Is this "
+"secretly some kind of nudist beach? What a liberal island."
 msgstr ""
 
-#: 00106:2297
+#: 00106:2297 00106:3597
 msgid ""
 "{Kazushi}\n"
 "\"..................\""
 msgstr ""
 
 #: 00106:2298
-msgid "For some reason, it wasn't erotic at all. It was more like she looked divine."
+msgid ""
+"For some reason, it wasn't erotic at all. It was more like she looked divine."
 msgstr ""
 
 #: 00106:2299
@@ -4496,11 +4736,15 @@ msgid ""
 msgstr ""
 
 #: 00106:2301
-msgid "She was radiating a heavenly light from her body. Even the ground beneath her and the air around her was shining."
+msgid ""
+"She was radiating a heavenly light from her body. Even the ground beneath "
+"her and the air around her was shining."
 msgstr ""
 
 #: 00106:2302
-msgid "Even though there was no wind, her hair trailed through the air as if she were flying."
+msgid ""
+"Even though there was no wind, her hair trailed through the air as if she "
+"were flying."
 msgstr ""
 
 #: 00106:2303
@@ -4531,15 +4775,20 @@ msgstr ""
 #: 00106:2311
 msgid ""
 "{Naked Girl}\n"
-"\"I need to head back soon too. I guess my job will be getting harder to do now. Oh well, I doubt any boys will wander in here.\""
+"\"I need to head back soon too. I guess my job will be getting harder to do "
+"now. Oh well, I doubt any boys will wander in here.\""
 msgstr ""
 
 #: 00106:2313
-msgid "I'm sorry, but I'm already here, miss. Is all right for you to stay naked in front of me?"
+msgid ""
+"I'm sorry, but I'm already here, miss. Is all right for you to stay naked in "
+"front of me?"
 msgstr ""
 
 #: 00106:2315
-msgid "I don't think she could hear the voice in my head, but she whipped around and spotted me."
+msgid ""
+"I don't think she could hear the voice in my head, but she whipped around "
+"and spotted me."
 msgstr ""
 
 #: 00106:2316
@@ -4555,7 +4804,8 @@ msgid ""
 msgstr ""
 
 #: 00106:2318
-msgid "Her big eyes were wide open in shock and disbelief. They were beautiful eyes."
+msgid ""
+"Her big eyes were wide open in shock and disbelief. They were beautiful eyes."
 msgstr ""
 
 #: 00106:2319
@@ -4563,7 +4813,9 @@ msgid "Thm-thmp!"
 msgstr ""
 
 #: 00106:2320
-msgid "My heart leapt as she started at me. It felt like the air around us was pulsating with tension."
+msgid ""
+"My heart leapt as she started at me. It felt like the air around us was "
+"pulsating with tension."
 msgstr ""
 
 #: 00106:2321
@@ -4571,7 +4823,9 @@ msgid "I was captivated by that feeling."
 msgstr ""
 
 #: 00106:2322
-msgid "Our gazes intertwined. It felt like we were connected to each other by our gazes."
+msgid ""
+"Our gazes intertwined. It felt like we were connected to each other by our "
+"gazes."
 msgstr ""
 
 #: 00106:2323
@@ -4585,7 +4839,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2325
-msgid "I tried to make an excuse for myself, but I was so nervous that I couldn't talk straight. I couldn't look away from her."
+msgid ""
+"I tried to make an excuse for myself, but I was so nervous that I couldn't "
+"talk straight. I couldn't look away from her."
 msgstr ""
 
 #: 00106:2326
@@ -4685,11 +4941,15 @@ msgid ""
 msgstr ""
 
 #: 00106:2349
-msgid "It was like watching a video on fast forward as every single bud began to blossom around us. It was my first time seeing such a mysterious sight."
+msgid ""
+"It was like watching a video on fast forward as every single bud began to "
+"blossom around us. It was my first time seeing such a mysterious sight."
 msgstr ""
 
 #: 00106:2350
-msgid "The flowers were as white as snow, and sparkled like crystals. I felt like I was standing in a snowfield."
+msgid ""
+"The flowers were as white as snow, and sparkled like crystals. I felt like I "
+"was standing in a snowfield."
 msgstr ""
 
 #: 00106:2351
@@ -4715,7 +4975,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2355
-msgid "She was about to go on, but then she realized I was looking at her body and scrunched up. I quickly averted my gaze."
+msgid ""
+"She was about to go on, but then she realized I was looking at her body and "
+"scrunched up. I quickly averted my gaze."
 msgstr ""
 
 #: 00106:2356
@@ -4741,7 +5003,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2364
-msgid "I could hear the faint sounds of her breath and the rustling of clothes. It was making my imagination run wild."
+msgid ""
+"I could hear the faint sounds of her breath and the rustling of clothes. It "
+"was making my imagination run wild."
 msgstr ""
 
 #: 00106:2365
@@ -4751,7 +5015,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2366
-msgid "As I thought about it, my crotch suddenly grew happy. No! Don't get hard! Stop it, Johnny!"
+msgid ""
+"As I thought about it, my crotch suddenly grew happy. No! Don't get hard! "
+"Stop it, Johnny!"
 msgstr ""
 
 #: 00106:2367
@@ -4761,7 +5027,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2368
-msgid "Just as I couldn't take the silence, she started talking to me. Thank god. The distraction caused my crotch to settle down."
+msgid ""
+"Just as I couldn't take the silence, she started talking to me. Thank god. "
+"The distraction caused my crotch to settle down."
 msgstr ""
 
 #: 00106:2369
@@ -4784,7 +5052,8 @@ msgid ""
 msgstr ""
 
 #: 00106:2372
-msgid "I couldn't blame her for being suspicious. It's not like we'd met before."
+msgid ""
+"I couldn't blame her for being suspicious. It's not like we'd met before."
 msgstr ""
 
 #: 00106:2373
@@ -4835,7 +5104,8 @@ msgstr ""
 #: 00106:2382
 msgid ""
 "{Haruka}\n"
-"\"It's been a while since I've had a chance to talk to a boy my age. Most of the men on this island are a lot older than I am.\""
+"\"It's been a while since I've had a chance to talk to a boy my age. Most of "
+"the men on this island are a lot older than I am.\""
 msgstr ""
 
 #: 00106:2383
@@ -4847,7 +5117,8 @@ msgstr ""
 #: 00106:2384
 msgid ""
 "{Haruka}\n"
-"\"They're all really old. There are not many children on the island, either, which is why we only have one school.\""
+"\"They're all really old. There are not many children on the island, either, "
+"which is why we only have one school.\""
 msgstr ""
 
 #: 00106:2385
@@ -4859,7 +5130,8 @@ msgstr ""
 #: 00106:2386
 msgid ""
 "{Haruka}\n"
-"\"They all go to school on the mainland and leave the island once they get old enough. That's why there's only old people left here.\""
+"\"They all go to school on the mainland and leave the island once they get "
+"old enough. That's why there's only old people left here.\""
 msgstr ""
 
 #: 00106:2387
@@ -4883,13 +5155,15 @@ msgstr ""
 #: 00106:2390
 msgid ""
 "{Kazushi}\n"
-"\"It's OK. It's a sign that you don't think I'm a bad person. I really did get lost and wander into here.\""
+"\"It's OK. It's a sign that you don't think I'm a bad person. I really did "
+"get lost and wander into here.\""
 msgstr ""
 
 #: 00106:2391
 msgid ""
 "{Haruka}\n"
-"\"Oh, yes... I believe you. Even if you were trying to peek at me, you wouldn't have found this place.\""
+"\"Oh, yes... I believe you. Even if you were trying to peek at me, you "
+"wouldn't have found this place.\""
 msgstr ""
 
 #: 00106:2392
@@ -4970,7 +5244,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2417
-msgid "I lied. There's no way I'm ever forgetting that. I already burned it into memory."
+msgid ""
+"I lied. There's no way I'm ever forgetting that. I already burned it into "
+"memory."
 msgstr ""
 
 #: 00106:2420
@@ -5019,7 +5295,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2435
-msgid "Thanks to Haruka, I found my way back to the road. All I had to do now was follow it to the academy."
+msgid ""
+"Thanks to Haruka, I found my way back to the road. All I had to do now was "
+"follow it to the academy."
 msgstr ""
 
 #: 00106:2438
@@ -5041,7 +5319,10 @@ msgid ""
 msgstr ""
 
 #: 00106:2460
-msgid "Haruka was surprised, to say the least. You can't exactly blame her, either. I mean, you don't just see a girl publicly jumping into a guy's arms every day."
+msgid ""
+"Haruka was surprised, to say the least. You can't exactly blame her, either. "
+"I mean, you don't just see a girl publicly jumping into a guy's arms every "
+"day."
 msgstr ""
 
 #: 00106:2464
@@ -5099,7 +5380,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2482
-msgid "Ran looked up and finally realized that Haruka was there with us. She stared at Haruka with a blank look on her face."
+msgid ""
+"Ran looked up and finally realized that Haruka was there with us. She stared "
+"at Haruka with a blank look on her face."
 msgstr ""
 
 #: 00106:2483
@@ -5116,13 +5399,16 @@ msgid ""
 msgstr ""
 
 #: 00106:2485
-msgid "Seemed like they knew each other. They all go to the same boarding school, so I guess it's only natural."
+msgid ""
+"Seemed like they knew each other. They all go to the same boarding school, "
+"so I guess it's only natural."
 msgstr ""
 
 #: 00106:2488
 msgid ""
 "{Ran}\n"
-"\"You won't believe what happened. First, Kazushi, oh, by the way, this is Kazushi, but...\""
+"\"You won't believe what happened. First, Kazushi, oh, by the way, this is "
+"Kazushi, but...\""
 msgstr ""
 
 #: 00106:2491
@@ -5158,7 +5444,8 @@ msgstr ""
 #: 00106:2500
 msgid ""
 "{Kazushi}\n"
-"\"We're being totally serious. I met you after I fell from the bridge and got lost in the forest.\""
+"\"We're being totally serious. I met you after I fell from the bridge and "
+"got lost in the forest.\""
 msgstr ""
 
 #: 00106:2501
@@ -5174,13 +5461,16 @@ msgid ""
 msgstr ""
 
 #: 00106:2503
-msgid "Haruka couldn't believe it. Even I had a hard time believing it now that I looked back on it."
+msgid ""
+"Haruka couldn't believe it. Even I had a hard time believing it now that I "
+"looked back on it."
 msgstr ""
 
 #: 00106:2506
 msgid ""
 "{Ran}\n"
-"\"I'm so glad you're safe! I never imagined I would ever see anyone fall off that bridge. I thought my heart was going to stop.\""
+"\"I'm so glad you're safe! I never imagined I would ever see anyone fall off "
+"that bridge. I thought my heart was going to stop.\""
 msgstr ""
 
 #: 00106:2507
@@ -5207,11 +5497,13 @@ msgstr ""
 #: 00106:2514
 msgid ""
 "{Ran}\n"
-"\"You must be! You must be! If not, then I'll choose you! I'm so glad you're alive!\""
+"\"You must be! You must be! If not, then I'll choose you! I'm so glad you're "
+"alive!\""
 msgstr ""
 
 #: 00106:2515
-msgid "She's really happy that I'm alive - so happy that she still hasn't let me go."
+msgid ""
+"She's really happy that I'm alive - so happy that she still hasn't let me go."
 msgstr ""
 
 #: 00106:2518
@@ -5260,27 +5552,30 @@ msgid ""
 msgstr ""
 
 #: 00106:2532
-msgid "I remembered that the old man at the grocery mentioned something about that."
+msgid ""
+"I remembered that the old man at the grocery mentioned something about that."
 msgstr ""
 
 #: 00106:2533
 msgid ""
 "{Kazushi}\n"
-"\"Of course! You were born and raised here - that's why you know your way around so well!\""
+"\"Of course! You were born and raised here - that's why you know your way "
+"around so well!\""
 msgstr ""
 
 #: 00106:2536
 msgid ""
 "{Haruka}\n"
 "\"That's right!\n"
-"So I'M the one you should look for if you have any questions about the island.\""
+"So I'M the one you should look for if you have any questions about the "
+"island.\""
 msgstr ""
 
 #: 00106:2537
 msgid "Haruka offered to shake my hand again."
 msgstr ""
 
-#: 00106:2538
+#: 00106:2538 00106:3973
 msgid ""
 "{Kazushi}\n"
 "\"Thanks.\""
@@ -5418,7 +5713,8 @@ msgstr ""
 #: 00106:2601
 msgid ""
 "{Ran}\n"
-"\"Okay, then let me introduce Kazushi to you, Mizuki. He's Haruma Kazushi, one of the boys who just transferred here.\""
+"\"Okay, then let me introduce Kazushi to you, Mizuki. He's Haruma Kazushi, "
+"one of the boys who just transferred here.\""
 msgstr ""
 
 #: 00106:2606
@@ -5438,7 +5734,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2609
-msgid "She couldn't have been any more reluctant to meet me, as if she were already upset with me about something."
+msgid ""
+"She couldn't have been any more reluctant to meet me, as if she were already "
+"upset with me about something."
 msgstr ""
 
 #: 00106:2610
@@ -5490,7 +5788,8 @@ msgid ""
 msgstr ""
 
 #: 00106:2627
-msgid "Hinata-san didn't move; she just stared at my hand with a troubled look."
+msgid ""
+"Hinata-san didn't move; she just stared at my hand with a troubled look."
 msgstr ""
 
 #: 00106:2628
@@ -5519,7 +5818,8 @@ msgstr ""
 msgid ""
 "{Appo}\n"
 "\"Hey, Kazushi, you've got some explaining to do.\n"
-"Just when we thought you might be dead, you show up surrounded by pretty girls.\""
+"Just when we thought you might be dead, you show up surrounded by pretty "
+"girls.\""
 msgstr ""
 
 #: 00106:2640
@@ -5579,13 +5879,16 @@ msgstr ""
 #: 00106:2667
 msgid ""
 "{Appo}\n"
-"\"I'm Appo! Back home they call me the black sun. Maybe because I'm kind of like a leader to these guys?\""
+"\"I'm Appo! Back home they call me the black sun. Maybe because I'm kind of "
+"like a leader to these guys?\""
 msgstr ""
 
 #: 00106:2671
 msgid ""
 "{Appo}\n"
-"\"I'm very naughty at times, but I have the heart of an angel. I'm not very good at my studies, but I'll risk my life for love! If you could remember this passionate man, I would be very happy.\""
+"\"I'm very naughty at times, but I have the heart of an angel. I'm not very "
+"good at my studies, but I'll risk my life for love! If you could remember "
+"this passionate man, I would be very happy.\""
 msgstr ""
 
 #: 00106:2678
@@ -5609,13 +5912,15 @@ msgstr ""
 #: 00106:2685
 msgid ""
 "{Appo}\n"
-"\"It's nice to meet you! I'm truly pleased to meet you! I'm honoured to meet you!\""
+"\"It's nice to meet you! I'm truly pleased to meet you! I'm honoured to meet "
+"you!\""
 msgstr ""
 
 #: 00106:2689
 msgid ""
 "{Pierre}\n"
-"\"Next is me... I'm Pierre. A pleasure to meet you. Amongst these men, I am like a fallen angel...\""
+"\"Next is me... I'm Pierre. A pleasure to meet you. Amongst these men, I am "
+"like a fallen angel...\""
 msgstr ""
 
 #: 00106:2695
@@ -5699,7 +6004,8 @@ msgstr ""
 #: 00106:2738
 msgid ""
 "{Pierre}\n"
-"\"You already made your harem didn't you! Are you King already!? Are you King already?!\""
+"\"You already made your harem didn't you! Are you King already!? Are you "
+"King already?!\""
 msgstr ""
 
 #: 00106:2739
@@ -5723,7 +6029,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2752
-msgid "It was built in western architecture and looked like it had some history to it. We were going to a fancy school now, unlike our previous schools."
+msgid ""
+"It was built in western architecture and looked like it had some history to "
+"it. We were going to a fancy school now, unlike our previous schools."
 msgstr ""
 
 #: 00106:2758
@@ -5778,7 +6086,8 @@ msgstr ""
 #: 00106:2784
 msgid ""
 "{Yagami}\n"
-"\"You all broke off from the group didn't you? You've got quite some nerve to play hooky on your first day here.\""
+"\"You all broke off from the group didn't you? You've got quite some nerve "
+"to play hooky on your first day here.\""
 msgstr ""
 
 #: 00106:2785
@@ -5793,14 +6102,16 @@ msgid ""
 "\"That wasn't a compliment! Now line yourselves up!\""
 msgstr ""
 
-#: 00106:2789
+#: 00106:2789 00106:2802
 msgid ""
 "{Kazushi}\n"
 "\"Yes, sir!\""
 msgstr ""
 
 #: 00106:2792
-msgid "We lined up in front of him just as we were told. His eyes were bulging out of their sockets."
+msgid ""
+"We lined up in front of him just as we were told. His eyes were bulging out "
+"of their sockets."
 msgstr ""
 
 #: 00106:2793
@@ -5820,12 +6131,6 @@ msgstr ""
 msgid ""
 "{Yagami}\n"
 "\"Then close your eyes and grit your teeth.\""
-msgstr ""
-
-#: 00106:2802
-msgid ""
-"{Kazushi}\n"
-"\"Yes, sir!\""
 msgstr ""
 
 #: 00106:2803
@@ -5863,7 +6168,8 @@ msgid ""
 msgstr ""
 
 #: 00106:2833
-msgid "We all must have flown about three meters before landing like empty husks."
+msgid ""
+"We all must have flown about three meters before landing like empty husks."
 msgstr ""
 
 #: 00106:2836
@@ -5889,7 +6195,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2845
-msgid "Ran was the only girl who found it entertaining. The other two were frightened. It was too much for this elegant school."
+msgid ""
+"Ran was the only girl who found it entertaining. The other two were "
+"frightened. It was too much for this elegant school."
 msgstr ""
 
 #: 00106:2855
@@ -5907,13 +6215,16 @@ msgstr ""
 #: 00106:2862
 msgid ""
 "{Yagami}\n"
-"\"You think I'll let you get used to it? Now cut it out and learn your lesson already. My fist isn't weak, but I don't want to break it against you.\""
+"\"You think I'll let you get used to it? Now cut it out and learn your "
+"lesson already. My fist isn't weak, but I don't want to break it against you."
+"\""
 msgstr ""
 
 #: 00106:2863
 msgid ""
 "{Kazushi}\n"
-"\"Why don't you hit us a little more softly if you're so worried about your fist?\""
+"\"Why don't you hit us a little more softly if you're so worried about your "
+"fist?\""
 msgstr ""
 
 #: 00106:2866
@@ -5940,7 +6251,7 @@ msgid ""
 "\"Please keep your misbehaviour at the point where I don't lose control.\""
 msgstr ""
 
-#: 00106:2882
+#: 00106:2882 00106:3589
 msgid ""
 "{Kazushi}\n"
 "\"Yes, sir.\""
@@ -5981,7 +6292,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2900
-msgid "The girls looked down in shock at our crumpled bodies. They didn't know what to do."
+msgid ""
+"The girls looked down in shock at our crumpled bodies. They didn't know what "
+"to do."
 msgstr ""
 
 #: 00106:2901
@@ -6027,7 +6340,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2924
-msgid "She looked very pretty, but her voice had authority. She sounded really upset."
+msgid ""
+"She looked very pretty, but her voice had authority. She sounded really "
+"upset."
 msgstr ""
 
 #: 00106:2925
@@ -6065,7 +6380,8 @@ msgstr ""
 #: 00106:2932
 msgid ""
 "{Yagami}\n"
-"\"Well these boys were acting up again, so I just had to punish them a little.\""
+"\"Well these boys were acting up again, so I just had to punish them a "
+"little.\""
 msgstr ""
 
 #: 00106:2933
@@ -6094,13 +6410,15 @@ msgid ""
 msgstr ""
 
 #: 00106:2937
-msgid "She raised her voice. When she was angry she looked strong and attractive."
+msgid ""
+"She raised her voice. When she was angry she looked strong and attractive."
 msgstr ""
 
 #: 00106:2938
 msgid ""
 "{Pierre}\n"
-"\"Hey, guys, isn't she the hot teacher that the old guy from the grocery store mentioned?\""
+"\"Hey, guys, isn't she the hot teacher that the old guy from the grocery "
+"store mentioned?\""
 msgstr ""
 
 #: 00106:2939
@@ -6152,7 +6470,9 @@ msgid ""
 msgstr ""
 
 #: 00106:2948
-msgid "She must have been surprised to see us getting all energetic again so quickly."
+msgid ""
+"She must have been surprised to see us getting all energetic again so "
+"quickly."
 msgstr ""
 
 #: 00106:2954
@@ -6164,7 +6484,8 @@ msgstr ""
 #: 00106:2955
 msgid ""
 "{Mei}\n"
-"\"That doesn't give you a reason for corporal punishment. I don't know about your last school, but please refrain from that here.\""
+"\"That doesn't give you a reason for corporal punishment. I don't know about "
+"your last school, but please refrain from that here.\""
 msgstr ""
 
 #: 00106:2958
@@ -6202,7 +6523,8 @@ msgstr ""
 #: 00106:2972
 msgid ""
 "{Pierre}\n"
-"\"The kind, gentle teacher you adore goes out of her way to trample on you. That's the spirit. I feel you, Daigo!\""
+"\"The kind, gentle teacher you adore goes out of her way to trample on you. "
+"That's the spirit. I feel you, Daigo!\""
 msgstr ""
 
 #: 00106:2973
@@ -6214,7 +6536,8 @@ msgstr ""
 #: 00106:2974
 msgid ""
 "{Appo}\n"
-"\"I want her to verbally abuse me with that lovely voice. I want her to scream, 'You rotten apple!'\""
+"\"I want her to verbally abuse me with that lovely voice. I want her to "
+"scream, 'You rotten apple!'\""
 msgstr ""
 
 #: 00106:2975
@@ -6238,7 +6561,8 @@ msgstr ""
 #: 00106:2987
 msgid ""
 "{Mei}\n"
-"\"That's not true. If you talk to them, they will understand. You must talk to them until they do.\""
+"\"That's not true. If you talk to them, they will understand. You must talk "
+"to them until they do.\""
 msgstr ""
 
 #: 00106:2990
@@ -6256,13 +6580,15 @@ msgstr ""
 #: 00106:2996
 msgid ""
 "{Yagami}\n"
-"\"They understand that if they do something wrong, they'll be hit. Yet they still did something to justify those consequences.\""
+"\"They understand that if they do something wrong, they'll be hit. Yet they "
+"still did something to justify those consequences.\""
 msgstr ""
 
 #: 00106:2997
 msgid ""
 "{Yagami}\n"
-"\"It's like a promise between us. So, fulfilling my promise to hit them is for their sakes as well.\""
+"\"It's like a promise between us. So, fulfilling my promise to hit them is "
+"for their sakes as well.\""
 msgstr ""
 
 #: 00106:2998
@@ -6274,15 +6600,20 @@ msgstr ""
 #: 00106:3001
 msgid ""
 "{Yagami}\n"
-"\"Hah! I wouldn't hit them if they were animals. I hit them because they're people!\""
+"\"Hah! I wouldn't hit them if they were animals. I hit them because they're "
+"people!\""
 msgstr ""
 
 #: 00106:3002
-msgid "Yagami-sensei suddenly stopped being polite. He had a bad habit of becoming rougher with his tone the more he grew sick of something."
+msgid ""
+"Yagami-sensei suddenly stopped being polite. He had a bad habit of becoming "
+"rougher with his tone the more he grew sick of something."
 msgstr ""
 
 #: 00106:3005
-msgid "The two of them were staring each other down. It looked like sparks were flying between their eyes."
+msgid ""
+"The two of them were staring each other down. It looked like sparks were "
+"flying between their eyes."
 msgstr ""
 
 #: 00106:3006
@@ -6325,7 +6656,9 @@ msgid "She ignored Yagami-sensei and held her hand out to us."
 msgstr ""
 
 #: 00106:3020
-msgid "When I grabbed her hand, I caught a whiff of a pleasant smell that must have been her perfume."
+msgid ""
+"When I grabbed her hand, I caught a whiff of a pleasant smell that must have "
+"been her perfume."
 msgstr ""
 
 #: 00106:3021
@@ -6359,13 +6692,16 @@ msgid ""
 msgstr ""
 
 #: 00106:3048
-msgid "Even the nurse's office was nicer than at our old school. It was clean and calming. I guess this is how they're supposed to be."
+msgid ""
+"Even the nurse's office was nicer than at our old school. It was clean and "
+"calming. I guess this is how they're supposed to be."
 msgstr ""
 
 #: 00106:3051
 msgid ""
 "{Pierre}\n"
-"\"You know, I think the only time I ever imagined going to the nurse's office was for a nap.\""
+"\"You know, I think the only time I ever imagined going to the nurse's "
+"office was for a nap.\""
 msgstr ""
 
 #: 00106:3056
@@ -6375,7 +6711,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3057
-msgid "Appo suddenly dived onto the bed. He was panting as he rubbed his face into the pillow."
+msgid ""
+"Appo suddenly dived onto the bed. He was panting as he rubbed his face into "
+"the pillow."
 msgstr ""
 
 #: 00106:3058
@@ -6391,13 +6729,15 @@ msgstr ""
 #: 00106:3066
 msgid ""
 "{Mei}\n"
-"\"Okay, we'll treat you, so please sit down. I think all we can do is put ice on it though.\""
+"\"Okay, we'll treat you, so please sit down. I think all we can do is put "
+"ice on it though.\""
 msgstr ""
 
 #: 00106:3067
 msgid ""
 "{Haruka}\n"
-"\"The icepacks should be over there. I think we only have two, so we'll have to put some ice in bags for them.\""
+"\"The icepacks should be over there. I think we only have two, so we'll have "
+"to put some ice in bags for them.\""
 msgstr ""
 
 #: 00106:3074
@@ -6411,7 +6751,9 @@ msgid "Another girl entered the nurse's office."
 msgstr ""
 
 #: 00106:3076
-msgid "From the neck down, she had a great body, but her face looked funny, and not in the laughing sense. She was glaring at us too."
+msgid ""
+"From the neck down, she had a great body, but her face looked funny, and not "
+"in the laughing sense. She was glaring at us too."
 msgstr ""
 
 #: 00106:3081
@@ -6459,7 +6801,8 @@ msgstr ""
 #: 00106:3101
 msgid ""
 "{Mei}\n"
-"\"Sorry, boys, but I have to take care of this. I'll be right back, OK? Cool it off with some ice while I'm gone.\""
+"\"Sorry, boys, but I have to take care of this. I'll be right back, OK? Cool "
+"it off with some ice while I'm gone.\""
 msgstr ""
 
 #: 00106:3102
@@ -6483,7 +6826,8 @@ msgstr ""
 #: 00106:3114
 msgid ""
 "{Mei}\n"
-"\"I promise I'll be back as soon as possible. Aozora-san, please take care of them.\""
+"\"I promise I'll be back as soon as possible. Aozora-san, please take care "
+"of them.\""
 msgstr ""
 
 #: 00106:3118
@@ -6495,7 +6839,8 @@ msgstr ""
 #: 00106:3123
 msgid ""
 "{Fuusen}\n"
-"\"Hold on. Haruka-chan, you girls should come too. I think it might have to do with you too.\""
+"\"Hold on. Haruka-chan, you girls should come too. I think it might have to "
+"do with you too.\""
 msgstr ""
 
 #: 00106:3130
@@ -6539,7 +6884,8 @@ msgstr ""
 #: 00106:3162
 msgid ""
 "{Appo}\n"
-"\"What the hell was that? Was that thing on the same side as the sign chasing us earlier?\""
+"\"What the hell was that? Was that thing on the same side as the sign "
+"chasing us earlier?\""
 msgstr ""
 
 #: 00106:3163
@@ -6567,13 +6913,15 @@ msgstr ""
 #: 00106:3167
 msgid ""
 "{Kazushi}\n"
-"\"She must be from the same planet as you are, Appo. You're both just as round.\""
+"\"She must be from the same planet as you are, Appo. You're both just as "
+"round.\""
 msgstr ""
 
 #: 00106:3170
 msgid ""
 "{Appo}\n"
-"\"Don't even joke about that. I certainly didn't come all this way to spend time with someone like her!\""
+"\"Don't even joke about that. I certainly didn't come all this way to spend "
+"time with someone like her!\""
 msgstr ""
 
 #: 00106:3171
@@ -6591,7 +6939,8 @@ msgstr ""
 #: 00106:3175
 msgid ""
 "{Kazushi}\n"
-"\"Ibuki-sensei, huh? She certainly does have a mature charm. She really smells good too.\""
+"\"Ibuki-sensei, huh? She certainly does have a mature charm. She really "
+"smells good too.\""
 msgstr ""
 
 #: 00106:3180
@@ -6614,7 +6963,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3185
-msgid "He took out a pair of women's underwear from his pocket. They were a really sexy pair too."
+msgid ""
+"He took out a pair of women's underwear from his pocket. They were a really "
+"sexy pair too."
 msgstr ""
 
 #: 00106:3186
@@ -6636,13 +6987,16 @@ msgid ""
 msgstr ""
 
 #: 00106:3196
-msgid "I glared at Pierre and Daigo, but they both shook their heads in disagreement."
+msgid ""
+"I glared at Pierre and Daigo, but they both shook their heads in "
+"disagreement."
 msgstr ""
 
 #: 00106:3197
 msgid ""
 "{Pierre}\n"
-"\"You know I'm not interested in clean underwear. On the girl is the way to go.\""
+"\"You know I'm not interested in clean underwear. On the girl is the way to "
+"go.\""
 msgstr ""
 
 #: 00106:3198
@@ -6654,7 +7008,8 @@ msgstr ""
 #: 00106:3202
 msgid ""
 "{Appo}\n"
-"\"Or so he says, but I know you slipped a pair of knee socks into your pockets!\""
+"\"Or so he says, but I know you slipped a pair of knee socks into your "
+"pockets!\""
 msgstr ""
 
 #: 00106:3205
@@ -6673,7 +7028,8 @@ msgstr ""
 #: 00106:3209
 msgid ""
 "{Daigo}\n"
-"\"They were so small, and really cute. The one-point strawberry set them off, and the slight stain behind the knee...\""
+"\"They were so small, and really cute. The one-point strawberry set them "
+"off, and the slight stain behind the knee...\""
 msgstr ""
 
 #: 00106:3213
@@ -6682,7 +7038,7 @@ msgid ""
 "\"Hey, hey, keep your perversion to normal fetishes.\""
 msgstr ""
 
-#: 00106:3218
+#: 00106:3218 00106:3221
 msgid ""
 "{Appo}\n"
 "\"Mei!\n"
@@ -6690,7 +7046,8 @@ msgid ""
 msgstr ""
 
 #: 00106:3219
-msgid "Appo was writhing on the bed as he pressed the panties against his mouth."
+msgid ""
+"Appo was writhing on the bed as he pressed the panties against his mouth."
 msgstr ""
 
 #: 00106:3220
@@ -6700,15 +7057,10 @@ msgid ""
 "You're gonna get caught!\""
 msgstr ""
 
-#: 00106:3221
-msgid ""
-"{Appo}\n"
-"\"Mei!\n"
-"Mei!!\""
-msgstr ""
-
 #: 00106:3222
-msgid "Appo had the panties to his nose and was too intoxicated with them to listen to me."
+msgid ""
+"Appo had the panties to his nose and was too intoxicated with them to listen "
+"to me."
 msgstr ""
 
 #: 00106:3223
@@ -6731,7 +7083,8 @@ msgstr ""
 #: 00106:3232
 msgid ""
 "{Kazushi}\n"
-"\"Don't do that to me! Now, cut it out! We look like total perverts right now!\""
+"\"Don't do that to me! Now, cut it out! We look like total perverts right "
+"now!\""
 msgstr ""
 
 #: 00106:3237
@@ -6769,7 +7122,9 @@ msgid "It was too late. The door swung open and the girls poured in."
 msgstr ""
 
 #: 00106:3253
-msgid "Their eyes fell right on Appo, happily toying with his panties on the bed, and me, with the pair over my head."
+msgid ""
+"Their eyes fell right on Appo, happily toying with his panties on the bed, "
+"and me, with the pair over my head."
 msgstr ""
 
 #: 00106:3254
@@ -6909,7 +7264,9 @@ msgid "Her scream-or should I say war cry?-rang throughout the entire school."
 msgstr ""
 
 #: 00106:3329
-msgid "The other students would report finding dead birds on the streets for days afterwards."
+msgid ""
+"The other students would report finding dead birds on the streets for days "
+"afterwards."
 msgstr ""
 
 #: 00106:3336
@@ -6935,7 +7292,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3346
-msgid "Pierre bolted to cover Appo's mouth. We didn't want to find out how much worse this could get if we let him finish."
+msgid ""
+"Pierre bolted to cover Appo's mouth. We didn't want to find out how much "
+"worse this could get if we let him finish."
 msgstr ""
 
 #: 00106:3350
@@ -6964,13 +7323,15 @@ msgid ""
 msgstr ""
 
 #: 00106:3357
-msgid "I took them off my head as fast as possible. It was already too late, though."
+msgid ""
+"I took them off my head as fast as possible. It was already too late, though."
 msgstr ""
 
 #: 00106:3362
 msgid ""
 "{Fuusen}\n"
-"\"I can't believe you'd put a girl's panties on your head! What kind of sick thoughts are going through your mind, pervert?!\""
+"\"I can't believe you'd put a girl's panties on your head! What kind of sick "
+"thoughts are going through your mind, pervert?!\""
 msgstr ""
 
 #: 00106:3363
@@ -6982,7 +7343,8 @@ msgstr ""
 #: 00106:3366
 msgid ""
 "{Fuusen}\n"
-"\"Of course we won't believe you! Sensei, I told you it was them! Say something to them!\""
+"\"Of course we won't believe you! Sensei, I told you it was them! Say "
+"something to them!\""
 msgstr ""
 
 #: 00106:3370
@@ -6998,7 +7360,8 @@ msgstr ""
 #: 00106:3375
 msgid ""
 "{Mei}\n"
-"\"Haruma-kun, was it? Listen, underwear's designed to be worn around your waist, not on your head.\""
+"\"Haruma-kun, was it? Listen, underwear's designed to be worn around your "
+"waist, not on your head.\""
 msgstr ""
 
 #: 00106:3380
@@ -7010,7 +7373,8 @@ msgstr ""
 #: 00106:3384
 msgid ""
 "{Appo}\n"
-"\"She's lying! She has to be lying!! These panties are yours? How the hell can you fit into this tiny strip of cloth?\""
+"\"She's lying! She has to be lying!! These panties are yours? How the hell "
+"can you fit into this tiny strip of cloth?\""
 msgstr ""
 
 #: 00106:3385
@@ -7020,7 +7384,8 @@ msgstr ""
 #: 00106:3386
 msgid ""
 "{Fuusen}\n"
-"\"Those are hers, no mistake! Every lady wants a sexy pair to wear on a date!\""
+"\"Those are hers, no mistake! Every lady wants a sexy pair to wear on a date!"
+"\""
 msgstr ""
 
 #: 00106:3387
@@ -7038,7 +7403,8 @@ msgstr ""
 #: 00106:3391
 msgid ""
 "{Fuusen}\n"
-"\"Ahh! Rei, don't cry! I know a pervert had your panties in his mouth, but--!\""
+"\"Ahh! Rei, don't cry! I know a pervert had your panties in his mouth, but--!"
+"\""
 msgstr ""
 
 #: 00106:3396
@@ -7072,7 +7438,8 @@ msgstr ""
 #: 00106:3415
 msgid ""
 "{Appo}\n"
-"\"You liar! Don't pull that shit! What do you need date underwear for?! When would you wear these? Karate? Judo? Wrestling?!\""
+"\"You liar! Don't pull that shit! What do you need date underwear for?! When "
+"would you wear these? Karate? Judo? Wrestling?!\""
 msgstr ""
 
 #: 00106:3416
@@ -7090,7 +7457,8 @@ msgstr ""
 #: 00106:3422
 msgid ""
 "She was in tears.\n"
-"Unlike her looks, she was a really sensitive girl. I think we're complete bad guys here."
+"Unlike her looks, she was a really sensitive girl. I think we're complete "
+"bad guys here."
 msgstr ""
 
 #: 00106:3425
@@ -7128,7 +7496,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3443
-msgid "Appo gave the big girl back her underwear. She took one look at the underwear and started streaming tears again."
+msgid ""
+"Appo gave the big girl back her underwear. She took one look at the "
+"underwear and started streaming tears again."
 msgstr ""
 
 #: 00106:3447
@@ -7146,7 +7516,8 @@ msgstr ""
 #: 00106:3456
 msgid ""
 "{Fuusen}\n"
-"\"What did you do?! What did you do to Rei's panties?! Y-you didn't possibly wrap these around and jerk...\""
+"\"What did you do?! What did you do to Rei's panties?! Y-you didn't possibly "
+"wrap these around and jerk...\""
 msgstr ""
 
 #: 00106:3459
@@ -7182,7 +7553,8 @@ msgstr ""
 #: 00106:3473
 msgid ""
 "{Appo}\n"
-"\"S-screw that! If I'd known they were yours, I wouldn't have done anything to them!\""
+"\"S-screw that! If I'd known they were yours, I wouldn't have done anything "
+"to them!\""
 msgstr ""
 
 #: 00106:3474
@@ -7217,11 +7589,14 @@ msgstr ""
 msgid ""
 "{Big Girl}\n"
 "\"Noooooooooo!\n"
-"I've never been more embarrassed in my entire life! And by complete strangers!\""
+"I've never been more embarrassed in my entire life! And by complete "
+"strangers!\""
 msgstr ""
 
 #: 00106:3495
-msgid "She went feral, rampaging like an upset mother bear tearing apart her own panties."
+msgid ""
+"She went feral, rampaging like an upset mother bear tearing apart her own "
+"panties."
 msgstr ""
 
 #: 00106:3496
@@ -7247,7 +7622,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3500
-msgid "The glass in the windows shook. The girls all covered their ears as she screamed."
+msgid ""
+"The glass in the windows shook. The girls all covered their ears as she "
+"screamed."
 msgstr ""
 
 #: 00106:3501
@@ -7269,7 +7646,7 @@ msgid ""
 "\"Nice try, Appo.\""
 msgstr ""
 
-#: 00106:3504
+#: 00106:3504 00106:3513
 msgid ""
 "{Big Girl}\n"
 "\"Hraaaaaaaaaagh!!\""
@@ -7286,12 +7663,6 @@ msgid ""
 "{Pierre}\n"
 "\"Wow!\n"
 "She sent Appo flying!\""
-msgstr ""
-
-#: 00106:3513
-msgid ""
-"{Big Girl}\n"
-"\"Hraaaaaaaaaagh!!\""
 msgstr ""
 
 #: 00106:3517
@@ -7373,10 +7744,11 @@ msgstr ""
 #: 00106:3566
 msgid ""
 "{Kazushi}\n"
-"\"It's all right, you don't have to say anything. We feel terrible already this time.\""
+"\"It's all right, you don't have to say anything. We feel terrible already "
+"this time.\""
 msgstr ""
 
-#: 00106:3571
+#: 00106:3571 00106:4069
 msgid ""
 "{Appo}\n"
 "\"I'm sorry.\""
@@ -7409,13 +7781,8 @@ msgstr ""
 #: 00106:3588
 msgid ""
 "{Yagami}\n"
-"\"You guys better be back here later with apology letters. And be thankful that's all you face.\""
-msgstr ""
-
-#: 00106:3589
-msgid ""
-"{Kazushi}\n"
-"\"Yes, sir.\""
+"\"You guys better be back here later with apology letters. And be thankful "
+"that's all you face.\""
 msgstr ""
 
 #: 00106:3590
@@ -7423,7 +7790,9 @@ msgid "No dinner...... That's rough..."
 msgstr ""
 
 #: 00106:3593
-msgid "This is what they call social punishment. All the girls kept their distance and whispered as we passed by through the corridors."
+msgid ""
+"This is what they call social punishment. All the girls kept their distance "
+"and whispered as we passed by through the corridors."
 msgstr ""
 
 #: 00106:3594
@@ -7444,16 +7813,11 @@ msgid ""
 "\"That's so perverted.\""
 msgstr ""
 
-#: 00106:3597
-msgid ""
-"{Kazushi}\n"
-"\"..................\""
-msgstr ""
-
 #: 00106:3598
 msgid ""
 "{Girl D}\n"
-"\"We've got to be careful. They might try and sneak into our rooms at night.\""
+"\"We've got to be careful. They might try and sneak into our rooms at night."
+"\""
 msgstr ""
 
 #: 00106:3599
@@ -7479,7 +7843,9 @@ msgid "He was right. His voice was so hollow."
 msgstr ""
 
 #: 00106:3612
-msgid "They say that rumors grow, but this one spread like wildfire and grew even worse."
+msgid ""
+"They say that rumors grow, but this one spread like wildfire and grew even "
+"worse."
 msgstr ""
 
 #: 00106:3613
@@ -7499,7 +7865,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3620
-msgid "They often ignored us. Most of them ran away from us. They seemed to think just talking to us would get them pregnant."
+msgid ""
+"They often ignored us. Most of them ran away from us. They seemed to think "
+"just talking to us would get them pregnant."
 msgstr ""
 
 #: 00106:3623
@@ -7515,7 +7883,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3625
-msgid "The girls looked at me like I was filth when I just walked down the hall. I finally understood what it felt like to be the kid everybody picks on."
+msgid ""
+"The girls looked at me like I was filth when I just walked down the hall. I "
+"finally understood what it felt like to be the kid everybody picks on."
 msgstr ""
 
 #: 00106:3629
@@ -7527,7 +7897,8 @@ msgstr ""
 #: 00106:3630
 msgid ""
 "Daigo's voice was full of anxiety.\n"
-"He's actually a very sensitive guy. He was already worrying about his life here."
+"He's actually a very sensitive guy. He was already worrying about his life "
+"here."
 msgstr ""
 
 #: 00106:3631
@@ -7540,7 +7911,8 @@ msgstr ""
 #: 00106:3638
 msgid ""
 "{Appo}\n"
-"\"Yeah, that's true. Things couldn't have gotten any worse than that, but we pulled through somehow.\""
+"\"Yeah, that's true. Things couldn't have gotten any worse than that, but we "
+"pulled through somehow.\""
 msgstr ""
 
 #: 00106:3639
@@ -7577,7 +7949,8 @@ msgstr ""
 #: 00106:3650
 msgid ""
 "{Kazushi}\n"
-"\"Right. It might be really extravagant too. Speaking of our dorm...where is it?\""
+"\"Right. It might be really extravagant too. Speaking of our dorm...where is "
+"it?\""
 msgstr ""
 
 #: 00106:3651
@@ -7607,7 +7980,8 @@ msgid ""
 msgstr ""
 
 #: 00106:3665
-msgid "Appo flipped her off. The girls gave him even sharper looks than before."
+msgid ""
+"Appo flipped her off. The girls gave him even sharper looks than before."
 msgstr ""
 
 #: 00106:3670
@@ -7629,7 +8003,8 @@ msgstr ""
 #: 00106:3685
 msgid ""
 "{Daigo}\n"
-"\"I knew it! It won't work here! We should have never transferred to a girls' school!\""
+"\"I knew it! It won't work here! We should have never transferred to a "
+"girls' school!\""
 msgstr ""
 
 #: 00106:3687
@@ -7660,7 +8035,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3698
-msgid "Haruka stood in front of us and glared accusingly at the students. She was just like a hero of justice."
+msgid ""
+"Haruka stood in front of us and glared accusingly at the students. She was "
+"just like a hero of justice."
 msgstr ""
 
 #: 00106:3699
@@ -7690,13 +8067,15 @@ msgstr ""
 #: 00106:3717
 msgid ""
 "{Pierre}\n"
-"\"Ooh, those girls are pretty cute too. Girls' schools are full of pretty women!\""
+"\"Ooh, those girls are pretty cute too. Girls' schools are full of pretty "
+"women!\""
 msgstr ""
 
 #: 00106:3718
 msgid ""
 "{Appo}\n"
-"\"You sure? I think they're lacking a little something. Breasts to be specific.\""
+"\"You sure? I think they're lacking a little something. Breasts to be "
+"specific.\""
 msgstr ""
 
 #: 00106:3719
@@ -7706,7 +8085,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3727
-msgid "No, they weren't super beauties, but they were pretty enough, just the type of girls who would be popular with the guys."
+msgid ""
+"No, they weren't super beauties, but they were pretty enough, just the type "
+"of girls who would be popular with the guys."
 msgstr ""
 
 #: 00106:3729
@@ -7718,7 +8099,8 @@ msgstr ""
 #: 00106:3730
 msgid ""
 "{Rin}\n"
-"\"Y-yes. I understand your feelings, but not all of the boys are perverts, right?\""
+"\"Y-yes. I understand your feelings, but not all of the boys are perverts, "
+"right?\""
 msgstr ""
 
 #: 00106:3731
@@ -7734,7 +8116,8 @@ msgid ""
 msgstr ""
 
 #: 00106:3737
-msgid "For an instant, everything froze. Then they suddenly erupted in chatter."
+msgid ""
+"For an instant, everything froze. Then they suddenly erupted in chatter."
 msgstr ""
 
 #: 00106:3740
@@ -7763,17 +8146,21 @@ msgstr ""
 msgid ""
 "{Haruka}\n"
 "\"Anyways!\n"
-"I know you're all unsure about the sudden changes, but no more speaking behind each other's backs, OK?\""
+"I know you're all unsure about the sudden changes, but no more speaking "
+"behind each other's backs, OK?\""
 msgstr ""
 
 #: 00106:3756
 msgid ""
 "{Haruka}\n"
-"\"If you have any worries, or anything you'd like to say, then let me know. I'm here to listen.\""
+"\"If you have any worries, or anything you'd like to say, then let me know. "
+"I'm here to listen.\""
 msgstr ""
 
 #: 00106:3757
-msgid "Her tone was kind and gentle. Everyone there began to relax. The crowd dispersed before we knew it."
+msgid ""
+"Her tone was kind and gentle. Everyone there began to relax. The crowd "
+"dispersed before we knew it."
 msgstr ""
 
 #: 00106:3761
@@ -7793,7 +8180,9 @@ msgid "Sakura was very friendly, and talking to us."
 msgstr ""
 
 #: 00106:3769
-msgid "The other girl, Rin, was still hiding behind Sakura. She was bigger than Sakura, though, so she wasn't hidden at all."
+msgid ""
+"The other girl, Rin, was still hiding behind Sakura. She was bigger than "
+"Sakura, though, so she wasn't hidden at all."
 msgstr ""
 
 #: 00106:3770
@@ -7871,7 +8260,8 @@ msgstr ""
 #: 00106:3806
 msgid ""
 "{Pierre}\n"
-"\"But now no one will even talk to us. We don't even know where our dorm is.\""
+"\"But now no one will even talk to us. We don't even know where our dorm is."
+"\""
 msgstr ""
 
 #: 00106:3809
@@ -7889,7 +8279,8 @@ msgstr ""
 #: 00106:3814
 msgid ""
 "{Kazushi}\n"
-"\"Are you sure that's alright? They won't start bullying you for helping us, will they?\""
+"\"Are you sure that's alright? They won't start bullying you for helping us, "
+"will they?\""
 msgstr ""
 
 #: 00106:3818
@@ -7907,7 +8298,8 @@ msgstr ""
 #: 00106:3826
 msgid ""
 "{Haruka}\n"
-"\"I don't know about that, but the principal did ask me to show you guys around.\""
+"\"I don't know about that, but the principal did ask me to show you guys "
+"around.\""
 msgstr ""
 
 #: 00106:3829
@@ -7923,7 +8315,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3831
-msgid "Then that means we can count on her? Haruka gave us a reassuring smile as if she guessed what was on my mind."
+msgid ""
+"Then that means we can count on her? Haruka gave us a reassuring smile as if "
+"she guessed what was on my mind."
 msgstr ""
 
 #: 00106:3835
@@ -7957,7 +8351,8 @@ msgstr ""
 #: 00106:3844
 msgid ""
 "{Haruka}\n"
-"\"That's the girls' dorm. It has heating, air conditioning, and tight security. It's really nice.\""
+"\"That's the girls' dorm. It has heating, air conditioning, and tight "
+"security. It's really nice.\""
 msgstr ""
 
 #: 00106:3852
@@ -8010,7 +8405,8 @@ msgid ""
 msgstr ""
 
 #: 00106:3887
-msgid "We ran straight ahead for a while, but only thing we saw was an old shack."
+msgid ""
+"We ran straight ahead for a while, but only thing we saw was an old shack."
 msgstr ""
 
 #: 00106:3888
@@ -8039,7 +8435,8 @@ msgid ""
 msgstr ""
 
 #: 00106:3906
-msgid "Our expectations had rocketed sky high and now plunged like a lead balloon."
+msgid ""
+"Our expectations had rocketed sky high and now plunged like a lead balloon."
 msgstr ""
 
 #: 00106:3915
@@ -8073,19 +8470,15 @@ msgstr ""
 #: 00106:3926
 msgid ""
 "{Haruka}\n"
-"\"Sorry, it doesn't. They said a heater and an air conditioner wouldn't help in there.\""
-msgstr ""
-
-#: 00106:3927
-msgid ""
-"{Kazushi}\n"
-"\"I see.\""
+"\"Sorry, it doesn't. They said a heater and an air conditioner wouldn't help "
+"in there.\""
 msgstr ""
 
 #: 00106:3931
 msgid ""
 "{Appo}\n"
-"\"But look at the different between this and their dorm! We carried ourselves all the way to this remote island to get this awful reception?!\""
+"\"But look at the different between this and their dorm! We carried "
+"ourselves all the way to this remote island to get this awful reception?!\""
 msgstr ""
 
 #: 00106:3934
@@ -8107,13 +8500,16 @@ msgid ""
 msgstr ""
 
 #: 00106:3942
-msgid "We shouldn't have seen the girls' dorm first. The difference in scale is what was bringing us down."
+msgid ""
+"We shouldn't have seen the girls' dorm first. The difference in scale is "
+"what was bringing us down."
 msgstr ""
 
 #: 00106:3949
 msgid ""
 "{Daigo}\n"
-"\"Suddenly I'm not so sure that it was a good idea to move to this island anymore...\""
+"\"Suddenly I'm not so sure that it was a good idea to move to this island "
+"anymore...\""
 msgstr ""
 
 #: 00106:3950
@@ -8129,13 +8525,16 @@ msgid ""
 msgstr ""
 
 #: 00106:3952
-msgid "I wanted to think we'd manage, but there was such a let down between the ideal and our reality that I didn't have much confidence."
+msgid ""
+"I wanted to think we'd manage, but there was such a let down between the "
+"ideal and our reality that I didn't have much confidence."
 msgstr ""
 
 #: 00106:3958
 msgid ""
 "{Haruka}\n"
-"\"Um... I'm really sorry. Let me know if you have any trouble. I'll try to get the principal to do what we can.\""
+"\"Um... I'm really sorry. Let me know if you have any trouble. I'll try to "
+"get the principal to do what we can.\""
 msgstr ""
 
 #: 00106:3959
@@ -8151,11 +8550,15 @@ msgid ""
 msgstr ""
 
 #: 00106:3963
-msgid "She tapped her head and stuck out her tongue as she smiled, but it was a restrained smile."
+msgid ""
+"She tapped her head and stuck out her tongue as she smiled, but it was a "
+"restrained smile."
 msgstr ""
 
 #: 00106:3964
-msgid "I had to say something to lighten the mood, but didn't know what to talk about."
+msgid ""
+"I had to say something to lighten the mood, but didn't know what to talk "
+"about."
 msgstr ""
 
 #: 00106:3967
@@ -8171,23 +8574,21 @@ msgstr ""
 #: 00106:3969
 msgid ""
 "{Kazushi}\n"
-"\"Hey, guys, let's just drop our stuff for now and rest. We can ask her to come back after a break.\""
+"\"Hey, guys, let's just drop our stuff for now and rest. We can ask her to "
+"come back after a break.\""
 msgstr ""
 
 #: 00106:3972
 msgid ""
 "{Haruka}\n"
-"\"Yeah, that's a good idea. I'll be heading back, then, but if you need anything, just let me know.\""
-msgstr ""
-
-#: 00106:3973
-msgid ""
-"{Kazushi}\n"
-"\"Thanks.\""
+"\"Yeah, that's a good idea. I'll be heading back, then, but if you need "
+"anything, just let me know.\""
 msgstr ""
 
 #: 00106:3978
-msgid "Haruka waved as she left. Once we lost sight of her, we felt like a pack of abandoned dogs."
+msgid ""
+"Haruka waved as she left. Once we lost sight of her, we felt like a pack of "
+"abandoned dogs."
 msgstr ""
 
 #: 00106:3985
@@ -8197,7 +8598,9 @@ msgid ""
 msgstr ""
 
 #: 00106:3986
-msgid "Everyone glanced at the shack with disgust. That was our new home? It had been our final hope, so the shock was severe."
+msgid ""
+"Everyone glanced at the shack with disgust. That was our new home? It had "
+"been our final hope, so the shock was severe."
 msgstr ""
 
 #: 00106:3987
@@ -8225,7 +8628,8 @@ msgstr ""
 #: 00106:4000
 msgid ""
 "{Appo}\n"
-"\"What the fuck?! It's a sauna in there!! You can't live in a place like that!!\""
+"\"What the fuck?! It's a sauna in there!! You can't live in a place like "
+"that!!\""
 msgstr ""
 
 #: 00106:4007
@@ -8237,7 +8641,8 @@ msgstr ""
 #: 00106:4008
 msgid ""
 "{Daigo}\n"
-"\"The roof's just a sheet of iron, right? That's going to turn it into a hothouse in the afternoon.\""
+"\"The roof's just a sheet of iron, right? That's going to turn it into a "
+"hothouse in the afternoon.\""
 msgstr ""
 
 #: 00106:4009
@@ -8247,10 +8652,12 @@ msgid ""
 msgstr ""
 
 #: 00106:4013
-msgid "Okay, both were equally big problems. If we kept standing here, we'd wind up with heat stroke. For now, we wandered over to the shade."
+msgid ""
+"Okay, both were equally big problems. If we kept standing here, we'd wind up "
+"with heat stroke. For now, we wandered over to the shade."
 msgstr ""
 
-#: 00106:4020
+#: 00106:4020 00106:4035
 msgid ""
 "{Daigo}\n"
 "\"I'm hungry...\""
@@ -8281,7 +8688,8 @@ msgstr ""
 #: 00106:4033
 msgid ""
 "{Pierre}\n"
-"\"Are we allowed to walk around? I thought we were supposed to be confined to our rooms.\""
+"\"Are we allowed to walk around? I thought we were supposed to be confined "
+"to our rooms.\""
 msgstr ""
 
 #: 00106:4034
@@ -8290,16 +8698,11 @@ msgid ""
 "\"I'm just trying to lighten the mood.\""
 msgstr ""
 
-#: 00106:4035
-msgid ""
-"{Daigo}\n"
-"\"I'm hungry...\""
-msgstr ""
-
 #: 00106:4036
 msgid ""
 "{Appo}\n"
-"\"Neither our normal nor our sexual appetites have any outlet. I feel like we've had 90% of our youth stolen from us.\""
+"\"Neither our normal nor our sexual appetites have any outlet. I feel like "
+"we've had 90% of our youth stolen from us.\""
 msgstr ""
 
 #: 00106:4037
@@ -8307,7 +8710,9 @@ msgid "I know we brought part of this on ourselves, but we were finished."
 msgstr ""
 
 #: 00106:4042
-msgid "Even the ocean breeze which felt so good when we arrived now feels like an annoying mockery of our situation."
+msgid ""
+"Even the ocean breeze which felt so good when we arrived now feels like an "
+"annoying mockery of our situation."
 msgstr ""
 
 #: 00106:4043
@@ -8327,15 +8732,21 @@ msgid ""
 msgstr ""
 
 #: 00106:4058
-msgid "We couldn't have imagined how quiet it got at night. It felt like magic had been cast on the island."
+msgid ""
+"We couldn't have imagined how quiet it got at night. It felt like magic had "
+"been cast on the island."
 msgstr ""
 
 #: 00106:4059
-msgid "We looked down at the port and reflected on all of our dreams that had already been crushed by this island."
+msgid ""
+"We looked down at the port and reflected on all of our dreams that had "
+"already been crushed by this island."
 msgstr ""
 
 #: 00106:4060
-msgid "No one said a word. No one moved an inch. No one knew what to do from here on."
+msgid ""
+"No one said a word. No one moved an inch. No one knew what to do from here "
+"on."
 msgstr ""
 
 #: 00106:4061
@@ -8351,7 +8762,8 @@ msgstr ""
 #: 00106:4063
 msgid ""
 "{Pierre}\n"
-"\"I thought I'd be popular without having to say anything at an all girls' school.\""
+"\"I thought I'd be popular without having to say anything at an all girls' "
+"school.\""
 msgstr ""
 
 #: 00106:4064
@@ -8375,7 +8787,8 @@ msgstr ""
 #: 00106:4067
 msgid ""
 "{Pierre}\n"
-"\"Tripping up at the starting line sure hurt us bad. They stay away from us like we're perverts now.\""
+"\"Tripping up at the starting line sure hurt us bad. They stay away from us "
+"like we're perverts now.\""
 msgstr ""
 
 #: 00106:4068
@@ -8384,22 +8797,21 @@ msgid ""
 "\"Honestly, I think that was a big mistake. Those rumors spread in no time.\""
 msgstr ""
 
-#: 00106:4069
-msgid ""
-"{Appo}\n"
-"\"I'm sorry.\""
-msgstr ""
-
 #: 00106:4070
-msgid "It was shocking to see Appo being so honest. He really must be feeling weak."
+msgid ""
+"It was shocking to see Appo being so honest. He really must be feeling weak."
 msgstr ""
 
 #: 00106:4071
-msgid "Actually...it wasn't just Appo. We were all weak. The girls weren't talking to us. Our room was a shack."
+msgid ""
+"Actually...it wasn't just Appo. We were all weak. The girls weren't talking "
+"to us. Our room was a shack."
 msgstr ""
 
 #: 00106:4072
-msgid "We thought that everything would go great for us if we came here, but that was all just an empty dream."
+msgid ""
+"We thought that everything would go great for us if we came here, but that "
+"was all just an empty dream."
 msgstr ""
 
 #: 00106:4073
@@ -8463,11 +8875,16 @@ msgid ""
 msgstr ""
 
 #: 00106:4097
-msgid "We were all filled with a sense of despair. The sky was blue, the clouds were white, green forest was everywhere, and the blue ocean was all around us."
+msgid ""
+"We were all filled with a sense of despair. The sky was blue, the clouds "
+"were white, green forest was everywhere, and the blue ocean was all around "
+"us."
 msgstr ""
 
 #: 00106:4098
-msgid "This was supposed to be the perfect summer - yet our hopes were completely dashed."
+msgid ""
+"This was supposed to be the perfect summer - yet our hopes were completely "
+"dashed."
 msgstr ""
 
 #: 00106:4099
@@ -8481,7 +8898,9 @@ msgid "I took a few deep breaths so that I could clear my head."
 msgstr ""
 
 #: 00106:4101
-msgid "This kind of thing happens sometimes. There were some crazy moments, but there were some pretty cute girls. Maybe this was a great island."
+msgid ""
+"This kind of thing happens sometimes. There were some crazy moments, but "
+"there were some pretty cute girls. Maybe this was a great island."
 msgstr ""
 
 #: 00106:4102
@@ -8525,7 +8944,9 @@ msgstr ""
 #: 00106:4116
 msgid ""
 "{Pierre}\n"
-"\"You sure? We all studied so hard to pass the entrance exams. I know we're in bad right now, but there's nothing but girls here. If we keep at it, maybe we'll get at least one chance...\""
+"\"You sure? We all studied so hard to pass the entrance exams. I know we're "
+"in bad right now, but there's nothing but girls here. If we keep at it, "
+"maybe we'll get at least one chance...\""
 msgstr ""
 
 #: 00106:4118
@@ -8536,13 +8957,15 @@ msgstr ""
 msgid ""
 "{Pierre}\n"
 "\"Whatever.\n"
-"I don't care any more. It's impossible to do anything when you feel this down.\""
+"I don't care any more. It's impossible to do anything when you feel this "
+"down.\""
 msgstr ""
 
 #: 00106:4122
 msgid ""
 "{Kazushi}\n"
-"\"Right?! So let's do something really crazy. Let's steal a boat and sail home!!\""
+"\"Right?! So let's do something really crazy. Let's steal a boat and sail "
+"home!!\""
 msgstr ""
 
 #: 00106:4125
@@ -8566,7 +8989,8 @@ msgstr ""
 #: 00106:4130
 msgid ""
 "{Kazushi}\n"
-"\"We'll figure it out somehow! I have my motorcyclist's license! The boat said Mayaha on the engine, so I bet it runs the same!\""
+"\"We'll figure it out somehow! I have my motorcyclist's license! The boat "
+"said Mayaha on the engine, so I bet it runs the same!\""
 msgstr ""
 
 #: 00106:4133
@@ -8595,7 +9019,9 @@ msgid ""
 msgstr ""
 
 #: 00106:4141
-msgid "That's right. If we fail once, just start over and try again! Our possibilities are still as countless as the stars!"
+msgid ""
+"That's right. If we fail once, just start over and try again! Our "
+"possibilities are still as countless as the stars!"
 msgstr ""
 
 #: 00106:4145
@@ -8606,7 +9032,9 @@ msgid ""
 msgstr ""
 
 #: 00106:4151
-msgid "We ran with our luggage in tow. The bustling harbor from this morning was now dead quiet."
+msgid ""
+"We ran with our luggage in tow. The bustling harbor from this morning was "
+"now dead quiet."
 msgstr ""
 
 #: 00106:4152
@@ -8622,13 +9050,15 @@ msgstr ""
 #: 00106:4165
 msgid ""
 "{Pierre}\n"
-"\"Fishermen have to go to bed super early. I bet they're already home and finished drinking.\""
+"\"Fishermen have to go to bed super early. I bet they're already home and "
+"finished drinking.\""
 msgstr ""
 
 #: 00106:4166
 msgid ""
 "{Appo}\n"
-"\"Which makes our job super easy! Let's steal a boat now and quickly make our way home.\""
+"\"Which makes our job super easy! Let's steal a boat now and quickly make "
+"our way home.\""
 msgstr ""
 
 #: 00106:4167
@@ -8654,7 +9084,9 @@ msgid "We spotted an awesome looking boat and dashed towards it."
 msgstr ""
 
 #: 00106:4190
-msgid "All of a sudden, we heard the sound of the earth shaking and the calm ocean surface began to bubble."
+msgid ""
+"All of a sudden, we heard the sound of the earth shaking and the calm ocean "
+"surface began to bubble."
 msgstr ""
 
 #: 00106:4191
@@ -8664,7 +9096,9 @@ msgid ""
 msgstr ""
 
 #: 00106:4199
-msgid "The sound grew louder and the ocean waves grew bigger. It looked like something might leap out of the water at any minute."
+msgid ""
+"The sound grew louder and the ocean waves grew bigger. It looked like "
+"something might leap out of the water at any minute."
 msgstr ""
 
 #: 00106:4204
@@ -8697,7 +9131,9 @@ msgid ""
 msgstr ""
 
 #: 00106:4226
-msgid "The surface of the water drifted farther down. Or was the island rising higher? I couldn't tell."
+msgid ""
+"The surface of the water drifted farther down. Or was the island rising "
+"higher? I couldn't tell."
 msgstr ""
 
 #: 00106:4227
