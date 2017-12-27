@@ -29,13 +29,16 @@ object UncompressedImage {
         }
     }
 
-    fun check_image(i: UncompressedImage.ImageHeader): Boolean =
+    fun check(data: ByteArray): Boolean = check(ImageHeader.read(data.openSync()))
+
+    fun check(i: ImageHeader): Boolean =
             ((i.bpp % 8) == 0) && (i.bpp > 0) && (i.bpp <= 32) &&
                     (i.width > 0) && (i.height > 0) &&
                     (i.width < 8096) && (i.height < 8096) &&
                     (i.zpad0 == 0) && (i.zpad1 == 0)
 
-    fun write_image(ih: UncompressedImage.ImageHeader, out_file: String, data: ByteArray) {
+    @Deprecated("Use load instead")
+    fun write_image(ih: ImageHeader, out_file: String, data: ByteArray) {
         //val f = BufferedFile(out_file, FileMode.OutNew);
         val bmp = when (ih.bpp) {
             32 -> BGRA.decodeToBitmap32(ih.width.toInt(), ih.height.toInt(), data)
@@ -45,6 +48,17 @@ object UncompressedImage {
 
         std_file_write(out_file, PNG.encode(bmp))
         //f.close();
+    }
+
+    fun load(data: ByteArray): Bitmap32 {
+        val ih = ImageHeader.read(data.openSync())
+        //val f = BufferedFile(out_file, FileMode.OutNew);
+        val bmp = when (ih.bpp) {
+            32 -> BGRA.decodeToBitmap32(ih.width.toInt(), ih.height.toInt(), data)
+            24 -> BGR.decodeToBitmap32(ih.width.toInt(), ih.height.toInt(), data)
+            else -> throw(Exception("Unknown bpp ${ih.bpp}"))
+        }
+        return bmp
     }
 
     fun save(bmp: Bitmap32): ByteArray {

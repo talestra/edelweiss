@@ -13,12 +13,12 @@ import kotlin.math.max
 import kotlin.math.min
 
 object DSC {
-    fun alreadyCompressed(data: ByteArray): Boolean {
+    fun isCompressed(data: ByteArray): Boolean {
         return data.readString(0, 0x10, ASCII) == Header.MAGIC
     }
 
     fun decompressIfRequired(data: ByteArray): ByteArray {
-        return if (alreadyCompressed(data)) decompress(data) else data
+        return if (isCompressed(data)) decompress(data) else data
     }
 
     fun decompress(data: ByteArray): ByteArray = decompress(data.openSync())

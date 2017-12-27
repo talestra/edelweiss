@@ -129,7 +129,7 @@ class ARC private constructor() : Iterable<ARC.Entry> {
                     val cdata: ByteArray
                     when {
                         level < 0 -> cdata = data
-                        DSC.alreadyCompressed(data) -> {
+                        DSC.isCompressed(data) -> {
                             // Already compressed.
                             writef("%s...", file_name)
                             cdata = data

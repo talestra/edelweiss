@@ -53,6 +53,15 @@ object CompressedBg {
         }
     }
 
+    fun detect(data: ByteArray): Boolean {
+        return try {
+            Header.read(data.openSync())
+            true
+        } catch (e: Throwable) {
+            false
+        }
+    }
+
     // Node for the Huffman decompression.
     class Node(val vv: IntArray = IntArray(6)) {
         constructor(a: Int, b: Int, c: Int, d: Int, e: Int, f: Int) : this(intArrayOf(a, b, c, d, e, f))

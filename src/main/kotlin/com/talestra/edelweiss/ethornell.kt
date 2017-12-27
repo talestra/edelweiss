@@ -1,9 +1,5 @@
 package com.talestra.edelweiss
 
-import com.soywiz.korim.bitmap.Bitmap32
-import com.soywiz.korim.color.RGB
-import com.soywiz.korim.color.RGBA
-import com.soywiz.korim.format.TGA
 import com.soywiz.korim.format.defaultImageFormats
 import com.soywiz.korim.format.registerStandard
 import com.soywiz.korim.format.writeTo
@@ -278,7 +274,7 @@ suspend fun main_s(args: Array<String>) {
                                         data = DSC.decompress(s.readAll())
                                     }
                                     val ih: UncompressedImage.ImageHeader = UncompressedImage.ImageHeader.read(data.openSync())
-                                    if (UncompressedImage.check_image(ih)) {
+                                    if (UncompressedImage.check(ih)) {
                                         writef("Image...BPP(%d)...", ih.bpp)
                                         out_file += ".png"
                                         if (std_file_exists(out_file)) throw Exception("Exists")
@@ -313,7 +309,7 @@ suspend fun main_s(args: Array<String>) {
                             else -> {
                                 val ss = s.sliceWithStart(6L)
                                 val ih = UncompressedImage.ImageHeader.read(ss)
-                                if (UncompressedImage.check_image(ih)) {
+                                if (UncompressedImage.check(ih)) {
                                     writef("Image...BPP(%d)...", ih.bpp)
                                     out_file += ".png"
                                     if (std_file_exists(out_file)) throw Exception("Exists")
