@@ -22,6 +22,7 @@ object TranslateGame {
         translationDir = localCurrentDirVfs["translation"].jail()
 
         translateSysGrp()
+        translateGraphic()
     }
 
     suspend fun VfsFile.getBak(): VfsFile {
@@ -38,28 +39,46 @@ object TranslateGame {
         }
     }
 
+    suspend fun translateImage(patchDir: VfsFile, name: String, data: suspend () -> ByteArray): ByteArray? {
+        //println(patchDir.absolutePath)
+
+        val replaceImageFile = patchDir["$name.png"]
+        val patchImageFile = patchDir["$name.patch.png"]
+
+        return when {
+            replaceImageFile.exists() -> {
+                println("Patched $name")
+                EdelweissImage.save(replaceImageFile.readBitmapNoNative())
+            }
+            patchImageFile.exists() -> {
+                val image = EdelweissImage.load(data()).toBMP32()
+                image.draw(patchImageFile.readBitmapNoNative().toBMP32(), 0, 0)
+                println("Patched $name")
+                EdelweissImage.save(image)
+            }
+            else -> null
+        }
+    }
+
     suspend fun translateSysGrp() {
         val patchDir = translationDir["images/sysgrp"].jail()
 
         println("Translating sysgrp.arc...")
         repackArc(gameDir["sysgrp.arc"]) { name, data ->
-            //println(patchDir.absolutePath)
+            translateImage(patchDir, name) { data } ?: data
+        }
+    }
 
-            val replaceImageFile = patchDir["$name.png"]
-            val patchImageFile = patchDir["$name.patch.png"]
-
-            when {
-                replaceImageFile.exists() -> {
-                    println("Patched $name")
-                    EdelweissImage.save(replaceImageFile.readBitmapNoNative())
-                }
-                patchImageFile.exists() -> {
-                    val image = EdelweissImage.load(data).toBMP32()
-                    image.draw(patchImageFile.readBitmapNoNative().toBMP32(), 0, 0)
-                    println("Patched $name")
-                    EdelweissImage.save(image)
-                }
-                else -> data
+    suspend fun translateGraphic() {
+        println("Translating data02001.arc...")
+        val patchDir = translationDir["images/graphic"].jail()
+        val outputDir = gameDir["Graphic/CVTD"].ensureParents().jail()
+        val arc = gameDir["data02001.arc"].openAsArc()
+        for (file in arc) {
+            val out = translateImage(patchDir, file.basename) { file.readBytes() }
+            if (out != null) {
+                println(file.basename)
+                outputDir[file.basename].writeBytes(out)
             }
         }
     }
