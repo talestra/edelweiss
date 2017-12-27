@@ -53,7 +53,7 @@ fun extract_all2(game_folder: String, acme_folder: String) {
         for (file in file_list) {
             if (file[0] == '.') continue
             println(file)
-            val ops = BSS.load(script_folder_in + "/" + file)
+            val ops = BSS.load("$script_folder_in/$file")
             val acme = BssTranslation.extract(ops)
             acme.writeForm2("$acme_folder/$file.txt", file)
         }

@@ -1,14 +1,16 @@
 package com.talestra.edelweiss
 
 import com.soywiz.korio.error.invalidOp
-import com.soywiz.korio.lang.UTF8
+import com.soywiz.korio.lang.Charset
+import com.soywiz.korio.lang.LATIN1
 import com.soywiz.korio.lang.toByteArray
 import com.soywiz.korio.stream.*
 import java.io.File
 import kotlin.math.min
 
+open class BSS(var charset: Charset) {
+    companion object : BSS(LATIN1)
 
-object BSS {
     data class Pointer(val addr: Int)
 
     object Opcodes {
@@ -23,7 +25,7 @@ object BSS {
         const val AUDIO = 0x1_80
     }
 
-    class OP(var type: Int, var ori_pos: Int, val args: ArrayList<Any?>) {
+    class OP(var type: Int, var ori_pos: Int, var args: ArrayList<Any?>) {
         val byteSize: Int get() = 4 + args.size * 4
 
         fun int(index: Int) = args[index] as Int
@@ -63,6 +65,8 @@ object BSS {
 
     fun load(name: String) = load(File(name).readBytes().openSync())
 
+    fun load(data: ByteArray): List<OP> = load(data.openSync())
+
     fun load(s: SyncStream): List<OP> {
         val ops = arrayListOf<OP>()
         var end = s.length.toInt()
@@ -81,7 +85,7 @@ object BSS {
                 val pos = read()
                 //writefln("    : %08X", pos);
                 end = min(end, pos) // Delimit opcodes!
-                val v = s.sliceWithStart(pos.toLong()).readStringz()
+                val v = s.sliceWithStart(pos.toLong()).readStringz(charset)
                 //writefln("      '%s'", v);
                 args.add(v)
                 return v
@@ -127,7 +131,6 @@ object BSS {
     }
 
     fun save(ops: List<OP>): ByteArray {
-        val charset = UTF8
         val table = LinkedHashMap<String, Int>()
         val ins = arrayListOf<Int>()
         val strs = ByteArrayBuilder()
@@ -175,3 +178,5 @@ object BSS {
         }
     }
 }
+
+fun List<BSS.OP>.serialize() = BSS.save(this)

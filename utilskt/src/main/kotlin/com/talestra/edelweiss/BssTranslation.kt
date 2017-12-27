@@ -182,8 +182,8 @@ object BssTranslation {
                 }
                 BSS.Opcodes.TEXT_PUT -> {
                     //println("TEXT_WRITE");
-                    val text = sstack.str(0) ?: ""
-                    val title = sstack.str(1)?.trim() ?: ""
+                    val text = sstack.str(sstack.args.size - 1) ?: ""
+                    val title = sstack.str(sstack.args.size - 2)?.trim() ?: ""
                     val r = if (title.isNotEmpty()) "{$title}\n$text" else text
 
                     //println(" ## $title");

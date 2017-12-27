@@ -13,8 +13,12 @@ import kotlin.math.max
 import kotlin.math.min
 
 object DSC {
+    fun alreadyCompressed(data: ByteArray): Boolean {
+        return data.readString(0, 0x10, ASCII) == Header.MAGIC
+    }
+
     fun decompressIfRequired(data: ByteArray): ByteArray {
-        return if (data.readString(0, 0x10, ASCII) == Header.MAGIC) decompress(data) else data
+        return if (alreadyCompressed(data)) decompress(data) else data
     }
 
     fun decompress(data: ByteArray): ByteArray = decompress(data.openSync())
@@ -83,21 +87,21 @@ object DSC {
         val rnodes = Array(0x200) { RNode() }
         val cnodes = Array(0x400) { DSC.Node() }
 
-        extract_levels(freq, levels)
+        extractLevels(freq, levels)
 
         val r = ByteArrayBuilder()
-        val hash_val = IntRef(0x000505D3 + seed)
-        val init_hash_val = hash_val.v
+        val init_hash_val = 0x000505D3 + seed
+        val hash_val = HashUpdater(init_hash_val)
 
         fun ins_int(v: Int) = run { r += ByteArray(4).apply { write32_le(0, v) } }
 
         r += "DSC FORMAT 1.00\u0000".toByteArray(UTF8)
-        ins_int(hash_val.v)
+        ins_int(init_hash_val)
         ins_int(data.length)
         ins_int(blocksValues.length)
         ins_int(0)
 
-        val seedData = ByteArray(0x200) { (levels[it] + (hash_update(hash_val) and 0xFF)).toByte() }
+        val seedData = ByteArray(0x200) { (levels[it] + (hash_val.update() and 0xFF)).toByte() }
         r += seedData
         //println(seedData.toList())
         DSC.CompressionInit(init_hash_val, seedData, cnodes)
@@ -155,13 +159,12 @@ object DSC {
 
     // A node for the huffman tree.
     class Node {
-        var has_childsInt: Int = 0
-        var leaf_value: Int = 0
+        var leafValue: Int = 0
         val childs = IntArray(2)
-        var has_childs: Boolean get() = (has_childsInt != 0); set(value) = run { has_childsInt = value.toInt() }
-        var node_left: Int get() = childs[0]; set(v) = run { childs[0] = v }
-        var node_right: Int get() = childs[1]; set(v) = run { childs[1] = v }
-        override fun toString(): String = format("(childs:%08X, leaf:%08X, L:%08X, R:%08X)", has_childsInt, leaf_value, node_left, node_right)
+        var hasChilds: Boolean = false
+        var nodeLeft: Int get() = childs[0]; set(v) = run { childs[0] = v }
+        var nodeRight: Int get() = childs[1]; set(v) = run { childs[1] = v }
+        override fun toString(): String = format("(childs:%08X, leaf:%08X, L:%08X, R:%08X)", hasChilds.toInt(), leafValue, nodeLeft, nodeRight)
     }
 
     // Check the sizes for the class structs.
@@ -171,7 +174,7 @@ object DSC {
     // Initializes the huffman tree.
     private fun CompressionInit(ihash: Int, src: ByteArray, nodes: Array<Node>) {
         //println("ihash: $ihash")
-        val hash = IntRef(ihash)
+        val hash = HashUpdater(ihash)
         // Input asserts.
         com.soywiz.korio.lang.assert(src.size >= 0x200)
 
@@ -183,7 +186,7 @@ object DSC {
 
         // Decrypt the huffman header.
         for (n in 0 until buffer.size) {
-            val v = (src[n] - (hash_update(hash) and 0xFF)) and 0xFF
+            val v = (src[n] - (hash.update() and 0xFF)) and 0xFF
             //println("N: $n --> $v")
             //src[n] = v;
             if (v != 0) buffer[buffer_len++] = (v shl 16) + n
@@ -212,8 +215,8 @@ object DSC {
             var vector0_ptr = vector0_ptr_init
 
             while (nn == HIWORD(buffer[buffer_cur])) {
-                nodes[v13a[v13]].has_childs = false
-                nodes[v13a[v13]].leaf_value = buffer[buffer_cur + 0] and 0x1FF
+                nodes[v13a[v13]].hasChilds = false
+                nodes[v13a[v13]].leafValue = buffer[buffer_cur + 0] and 0x1FF
                 buffer_cur++
                 v13++
                 group_count++
@@ -224,7 +227,7 @@ object DSC {
                 dec0 = (dec0 - group_count)
                 for (dd in 0 until dec0) {
                     //println("" + v13 + " : " + v13a[v13])
-                    nodes[v13a[v13]].has_childs = true
+                    nodes[v13a[v13]].hasChilds = true
                     for (m in 0 until 2) {
                         nodes[v13a[v13]].childs[m] = value_set
                         vector0[vector0_ptr++] = value_set
@@ -255,7 +258,7 @@ object DSC {
             var nentry = 0
 
             // Look over the tree.
-            while (nodes[nentry].has_childs) {
+            while (nodes[nentry].hasChilds) {
                 // No bits left. Let's extract 8 bits more.
                 if (nbits == 0) {
                     nbits = 8
@@ -269,7 +272,7 @@ object DSC {
             //writefln();
 
             // We are in a leaf.
-            val info = LOWORD(nodes[nentry].leaf_value)
+            val info = LOWORD(nodes[nentry].leafValue)
 
             // Compressed chunk.
             if (HIBYTE(info) == 1) {
@@ -312,7 +315,7 @@ object DSC {
         return dst.copyOf(d)
     }
 
-    private fun extract_levels(freqs: IntArray, levels: IntArray) {
+    private fun extractLevels(freqs: IntArray, levels: IntArray) {
         com.soywiz.korio.lang.assert(freqs.size == levels.size)
 
         var cnodes = arrayListOf<MNode>()
@@ -395,12 +398,12 @@ object DSC {
     data class RNode(var v: Long = 0L, var bits: Int = 0) {
         companion object {
             fun iterate(rnodes: Array<RNode>, nodes: Array<DSC.Node>, cnode: Int = 0, level: Int = 0, vv: Long = 0) {
-                if (nodes[cnode].has_childs) {
+                if (nodes[cnode].hasChilds) {
                     for ((k, ccnode) in nodes[cnode].childs.withIndex()) {
                         iterate(rnodes, nodes, ccnode, level + 1, (vv shl 1) or k.toLong())
                     }
                 } else {
-                    rnodes[nodes[cnode].leaf_value and 0x1FF].apply {
+                    rnodes[nodes[cnode].leafValue and 0x1FF].apply {
                         this.v = vv
                         this.bits = level
                     }
@@ -413,3 +416,6 @@ object DSC {
         }
     }
 }
+
+fun ByteArray.compressDsc(level: Int = 9, seed: Int = 0) = DSC.compress(this, level, seed)
+fun ByteArray.decompressDsc() = DSC.decompress(this)

@@ -1,5 +1,6 @@
 package com.talestra.edelweiss
 
+import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.color.RGB
 import com.soywiz.korim.color.RGBA
 import com.soywiz.korim.format.TGA
@@ -30,8 +31,14 @@ object Example2 {
     }
 
     @JvmStatic
-    fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data06000.arc")) }
+            //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data06000.arc")) }
+            //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data02001.arc")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data02000.arc")) }
+    //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x0", "/Users/soywiz/projects/edelweiss/game/data02000.arc")) }
+    //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x0", "/Users/soywiz/projects/edelweiss/game/data02001.arc")) }
+    //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data06000.arc")) }
+    //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data04000.arc")) }
+    fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/sysgrp.arc.bak")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/system.arc")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x0", "/Users/soywiz/projects/edelweiss/game/data02000.arc", "01_dou_tuu_l")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data02000.arc", "01_dou_tuu_l")) }
@@ -40,21 +47,25 @@ object Example2 {
 // Version of the utility.
 const private val _version = "0.3"
 
-// Utility functin for the decrypting.
-fun hash_update(hash_val: IntRef): Int {
-    var eax: Int
-    var ebx: Int
-    var edx: Int
-    var esi: Int
-    var edi: Int
-    //writefln("V:%08X", hash_val);
-    // @TODO: Check if this multiplication is unsigned?
-    edx = (20021 * LOWORD(hash_val.v))
-    eax = (20021 * HIWORD(hash_val.v)) + (346 * hash_val.v) + HIWORD(edx)
-    hash_val.v = (LOWORD(eax) shl 16) + LOWORD(edx) + 1
-    //writefln("D:%08X", edx);
-    //writefln("A:%08X", eax);
-    return eax and 0x7FFF
+class HashUpdater(val initialValue: Int) {
+    var value: Int = initialValue
+
+    // Utility functin for the decrypting.
+    fun update(): Int {
+        var eax: Int
+        var ebx: Int
+        var edx: Int
+        var esi: Int
+        var edi: Int
+        //writefln("V:%08X", hash_val);
+        // @TODO: Check if this multiplication is unsigned?
+        edx = (20021 * LOWORD(value))
+        eax = (20021 * HIWORD(value)) + (346 * value) + HIWORD(edx)
+        value = (LOWORD(eax) shl 16) + LOWORD(edx) + 1
+        //writefln("D:%08X", edx);
+        //writefln("A:%08X", eax);
+        return eax and 0x7FFF
+    }
 }
 
 //fun RGBA.avg(vararg colors: Int): Int = RGBA.pack(
@@ -169,28 +180,6 @@ class BitWritter(private val data: ByteArrayBuilder = ByteArrayBuilder()) {
     }
 }
 
-
-class ImageHeader(
-        var width: Short = 0,
-        var height: Short = 0,
-        var bpp: Int = 0,
-        var zpad0: Int = 0,
-        var zpad1: Int = 0
-) {
-
-    companion object {
-        fun read(s: SyncStream): ImageHeader = s.run {
-            ImageHeader(
-                    width = readS16_le().toShort(),
-                    height = readS16_le().toShort(),
-                    bpp = readS32_le(),
-                    zpad0 = readS32_le(),
-                    zpad1 = readS32_le()
-            )
-        }
-    }
-}
-
 suspend fun main_s(args: Array<String>) {
     //fun main_s(args: Array<String>) {
     // Shows the help for the usage of the program.
@@ -222,24 +211,6 @@ suspend fun main_s(args: Array<String>) {
         var params = arrayListOf<String>()
         if (args.size > 2) params = ArrayList(args.copyOfRange(2, args.size).toList())
 
-
-        fun check_image(i: ImageHeader): Boolean =
-                ((i.bpp % 8) == 0) && (i.bpp > 0) && (i.bpp <= 32) &&
-                        (i.width > 0) && (i.height > 0) &&
-                        (i.width < 8096) && (i.height < 8096) &&
-                        (i.zpad0 == 0) && (i.zpad1 == 0)
-
-        fun write_image(ih: ImageHeader, out_file: String, data: ByteArray) {
-            //val f = BufferedFile(out_file, FileMode.OutNew);
-            val bmp = when (ih.bpp) {
-                32 -> RGBA.decodeToBitmap32(ih.width.toInt(), ih.height.toInt(), data)
-                24 -> RGB.decodeToBitmap32(ih.width.toInt(), ih.height.toInt(), data)
-                else -> throw(Exception("Unknown bpp"))
-            }
-
-            std_file_write(out_file, TGA.encode(bmp))
-            //f.close();
-        }
 
         when (args[1][0 until 2]) {
         // List.
@@ -306,12 +277,12 @@ suspend fun main_s(args: Array<String>) {
                                     } else {
                                         data = DSC.decompress(s.readAll())
                                     }
-                                    val ih: ImageHeader = ImageHeader.read(data.openSync())
-                                    if (check_image(ih)) {
+                                    val ih: UncompressedImage.ImageHeader = UncompressedImage.ImageHeader.read(data.openSync())
+                                    if (UncompressedImage.check_image(ih)) {
                                         writef("Image...BPP(%d)...", ih.bpp)
-                                        out_file += ".tga"
+                                        out_file += ".png"
                                         if (std_file_exists(out_file)) throw Exception("Exists")
-                                        write_image(ih, out_file, data.copyOfRange(0x10, data.size))
+                                        UncompressedImage.write_image(ih, out_file, data.copyOfRange(0x10, data.size))
                                     } else {
                                         std_file_write(out_file, data)
                                     }
@@ -341,13 +312,13 @@ suspend fun main_s(args: Array<String>) {
                         // Uncompressed/Unknown.
                             else -> {
                                 val ss = s.sliceWithStart(6L)
-                                val ih = ImageHeader.read(ss)
-                                if (check_image(ih)) {
+                                val ih = UncompressedImage.ImageHeader.read(ss)
+                                if (UncompressedImage.check_image(ih)) {
                                     writef("Image...BPP(%d)...", ih.bpp)
-                                    out_file += ".tga"
+                                    out_file += ".png"
                                     if (std_file_exists(out_file)) throw Exception("Exists")
                                     s.position = 0x10
-                                    write_image(ih, out_file, s.readBytes((s.length - s.position).toInt()))
+                                    UncompressedImage.write_image(ih, out_file, s.readBytes((s.length - s.position).toInt()))
                                 } else {
                                     writef("Uncompressed...")
                                     if (std_file_exists(out_file)) throw Exception("Exists")

@@ -4,10 +4,8 @@ import com.soywiz.korio.lang.LATIN1
 import com.soywiz.korio.lang.UTF8
 import com.soywiz.korio.lang.toString
 import com.soywiz.korio.stream.*
-import com.soywiz.korio.util.quote
 import com.soywiz.korio.util.quoted
 import java.io.File
-import javax.imageio.event.IIOWriteProgressListener
 
 class ACME {
     class Entry {

@@ -3,10 +3,8 @@ package com.talestra.edelweiss
 import com.soywiz.korio.async.SuspendingSequence
 import com.soywiz.korio.async.toAsync
 import com.soywiz.korio.error.invalidOp
-import com.soywiz.korio.lang.ASCII
 import com.soywiz.korio.lang.LATIN1
 import com.soywiz.korio.lang.format
-import com.soywiz.korio.lang.toString
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.vfs.*
 import java.io.File
@@ -82,6 +80,7 @@ class ARC private constructor() : Iterable<ARC.Entry> {
 
     // Gets a read-only stream for a entry.
     suspend fun open(e: Entry): SyncStream = sd.sliceWithBounds(e.start.toLong(), (e.start + e.len).toLong()).readAll().openSync()
+
     suspend fun openAsync(e: Entry): AsyncStream = sd.sliceWithBounds(e.start.toLong(), (e.start + e.len).toLong())
 
     // Defines an iterator for this class.
@@ -112,6 +111,10 @@ class ARC private constructor() : Iterable<ARC.Entry> {
             ARC.build(LocalVfs(arc_out), files, level) { file -> folder[file].readAll() }
         }
 
+        suspend fun build(out: VfsFile, files: Map<String, ByteArray>, level: Int = 9) {
+            return build(out, files.map { it.key }, level) { files[it]!! }
+        }
+
         suspend fun build(out: VfsFile, files: List<String>, level: Int, reader: suspend (String) -> ByteArray) {
             val s = out.open(VfsOpenMode.CREATE_OR_TRUNCATE)
             try {
@@ -122,28 +125,37 @@ class ARC private constructor() : Iterable<ARC.Entry> {
                 var pos = 0
 
                 for ((k, file_name) in files.withIndex()) {
-                    writef("%s...", file_name)
                     val data: ByteArray = reader(file_name)
                     val cdata: ByteArray
-                    // Already compressed.
-                    if (data.sliceArray(0 until 0x10).toString(ASCII) == "DSC FORMAT 1.00\u0000") {
-                        cdata = data
-                        writefln("Already compressed")
+                    when {
+                        level < 0 -> cdata = data
+                        DSC.alreadyCompressed(data) -> {
+                            // Already compressed.
+                            writef("%s...", file_name)
+                            cdata = data
+                            writefln("Already compressed")
+                        }
+                        else -> {
+                            // Not compressed.
+                            writef("%s...", file_name)
+                            cdata = DSC.compress(data, level)
+                            writefln("Compressed")
+                        }
                     }
-                    // Not compressed.
-                    else {
-                        cdata = DSC.compress(data, level)
-                        writefln("Compressed")
-                    }
+
                     s.position = (0x10 + count * 0x20 + pos).toLong()
                     s.writeBytes(cdata)
                     s.position = (0x10 + k * 0x20).toLong()
-                    s.writeString(file_name)
-                    while ((s.position % 0x10L) != 0L) s.write8(0)
-                    s.write32_le(pos)
-                    s.write32_le(cdata.size)
-                    s.write32_le(0)
-                    s.write32_le(0)
+
+                    s.writeBytes(MemorySyncStreamToByteArray {
+                        writeString(file_name)
+                        while ((position % 0x10L) != 0L) write8(0)
+                        write32_le(pos)
+                        write32_le(cdata.size)
+                        write32_le(0)
+                        write32_le(0)
+                    })
+
                     pos += cdata.size
                 }
             } finally {
