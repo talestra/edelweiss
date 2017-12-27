@@ -42,22 +42,24 @@ object TranslateGame {
     suspend fun translateImage(patchDir: VfsFile, name: String, data: suspend () -> ByteArray): ByteArray? {
         //println(patchDir.absolutePath)
 
-        val replaceImageFile = patchDir["$name.png"]
-        val patchImageFile = patchDir["$name.patch.png"]
-
-        return when {
-            replaceImageFile.exists() -> {
-                println(" - Replaced $name")
-                EdelweissImage.save(replaceImageFile.readBitmapNoNative())
+        for (ext in listOf("psd", "png")) {
+            val replaceImageFile = patchDir["$name.$ext"]
+            val patchImageFile = patchDir["$name.patch.$ext"]
+            when {
+                replaceImageFile.exists() -> {
+                    println(" - Replaced $name")
+                    return EdelweissImage.save(replaceImageFile.readBitmapNoNative())
+                }
+                patchImageFile.exists() -> {
+                    val image = EdelweissImage.load(data()).toBMP32()
+                    image.draw(patchImageFile.readBitmapNoNative().toBMP32(), 0, 0)
+                    println(" - Patched  $name")
+                    return EdelweissImage.save(image)
+                }
             }
-            patchImageFile.exists() -> {
-                val image = EdelweissImage.load(data()).toBMP32()
-                image.draw(patchImageFile.readBitmapNoNative().toBMP32(), 0, 0)
-                println(" - Patched  $name")
-                EdelweissImage.save(image)
-            }
-            else -> null
         }
+
+        return null
     }
 
     suspend fun translateSysGrp() {
