@@ -213,26 +213,23 @@ object CompressedBg {
     }
 
     private fun uncompress_huffman(src: ByteArray, dst: ByteArray, nodes: Array<Node>, method2_res: Int) {
-        var mask = 0x80
+        var mask = 0
         var s = 0
+        var c = 0
 
         for (n in 0 until dst.size) {
             var cvalue = method2_res
 
-            if (nodes[method2_res].vv[2] == 1) {
-                var c = src.getu(s)
-                do {
-                    val bit = ((c and mask) != 0).toInt()
-                    mask = mask ushr 1
+            while (nodes[cvalue].vv[2] == 1) {
+                if (mask == 0) {
+                    c = src.getu(s++)
+                    mask = 0x80
+                }
 
-                    cvalue = nodes[cvalue].vv[4 + bit]
+                val bit = ((c and mask) != 0).toInt()
+                mask = mask ushr 1
 
-                    if (mask == 0) {
-                        s++
-                        c = src.getu(s)
-                        mask = 0x80
-                    }
-                } while (nodes[cvalue].vv[2] == 1)
+                cvalue = nodes[cvalue].vv[4 + bit]
             }
 
             dst[n] = cvalue.toByte()
