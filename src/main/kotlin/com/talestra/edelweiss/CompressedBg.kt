@@ -206,23 +206,51 @@ object CompressedBg {
         var mask = 0
         var bits = 0
         var srcPos = 0
+        val LEAF_BIT = -2147483648 // 0x80000000
+
+        // Pack node information in a int array for fastest performance
+        val inodes = IntArray(nodes.size) {
+            val node = nodes[it]
+            if (node.isLeaf) {
+                LEAF_BIT or it
+            } else {
+                (node.child(0) shl 0) or (node.child(1) shl 16)
+            }
+        }
 
         for (n in 0 until dst.size) {
-            var cvalue = defaultValue
+            var node = inodes[defaultValue]
 
-            while (nodes[cvalue].isBranch) {
+            while ((node and LEAF_BIT) == 0) {
                 if (mask == 0) {
                     bits = src.getu(srcPos++)
                     mask = 0x80
                 }
 
-                val bit = (bits and mask) != 0
+                val bit = ((bits and mask) != 0).toInt()
                 mask = mask ushr 1
-                cvalue = nodes[cvalue].child(bit)
+                node = inodes[(node ushr (16 * bit)) and 0x7FFF]
             }
 
-            dst[n] = cvalue.toByte()
+            dst[n] = node.toByte()
         }
+
+        //for (n in 0 until dst.size) {
+        //    var cvalue = defaultValue
+//
+        //    while (nodes[cvalue].isBranch) {
+        //        if (mask == 0) {
+        //            bits = src.getu(srcPos++)
+        //            mask = 0x80
+        //        }
+//
+        //        val bit = (bits and mask) != 0
+        //        mask = mask ushr 1
+        //        cvalue = nodes[cvalue].child(bit)
+        //    }
+//
+        //    dst[n] = cvalue.toByte()
+        //}
     }
 
     private fun uncompressZeroRle(src: ByteArray, dst: ByteArray): ByteArray {
