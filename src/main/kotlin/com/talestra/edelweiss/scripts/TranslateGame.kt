@@ -5,6 +5,7 @@ import com.soywiz.korim.format.readBitmapNoNative
 import com.soywiz.korim.format.registerStandard
 import com.soywiz.korio.Korio
 import com.soywiz.korio.async.toList
+import com.soywiz.korio.util.nonNullMap
 import com.soywiz.korio.vfs.VfsFile
 import com.soywiz.korio.vfs.localCurrentDirVfs
 import com.talestra.edelweiss.*
@@ -40,6 +41,10 @@ object TranslateGame {
     }
 
     suspend fun translateImage(patchDir: VfsFile, name: String, fileCatalog: Set<String>, data: suspend () -> ByteArray): ByteArray? {
+        //val compressionLevel = 0
+        val compressionLevel = 9
+        val compressionCheck = true
+
         //println(patchDir.absolutePath)
 
         for (ext in listOf("psd", "png")) {
@@ -48,13 +53,13 @@ object TranslateGame {
             when {
                 replaceImageFile in fileCatalog -> {
                     println(" - Replaced $name")
-                    return EdelweissImage.save(patchDir[replaceImageFile].readBitmapNoNative())
+                    return DSC.compressAndCheck(EdelweissImage.save(patchDir[replaceImageFile].readBitmapNoNative()), level = compressionLevel, check = compressionCheck)
                 }
                 patchImageFile in fileCatalog -> {
                     val image = EdelweissImage.load(data()).toBMP32()
                     image.draw(patchDir[patchImageFile].readBitmapNoNative().toBMP32(), 0, 0)
                     println(" - Patched  $name")
-                    return EdelweissImage.save(image)
+                    return DSC.compressAndCheck(EdelweissImage.save(image), level = compressionLevel, check = compressionCheck)
                 }
             }
         }

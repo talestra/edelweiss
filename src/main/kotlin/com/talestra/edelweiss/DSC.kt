@@ -4,13 +4,8 @@ import com.soywiz.kmem.write32_le
 import com.soywiz.korio.error.invalidOp
 import com.soywiz.korio.lang.*
 import com.soywiz.korio.stream.*
-import com.soywiz.korio.util.getu
-import com.soywiz.korio.util.readString
-import com.soywiz.korio.util.substr
-import com.soywiz.korio.util.toInt
+import com.soywiz.korio.util.*
 import com.soywiz.korma.ds.IntArrayList
-import kotlin.math.max
-import kotlin.math.min
 
 object DSC {
     fun isCompressed(data: ByteArray): Boolean {
@@ -33,11 +28,17 @@ object DSC {
         return CompressionDo(src.copyOfRange(0x200, src.size), ByteArray(header.usize), nodes)
     }
 
+    fun compressAndCheck(data: ByteArray, level: Int = 0, seed: Int = 0, check: Boolean = true): ByteArray {
+        val compressed = compress(data, level, seed)
+        if (check && !data.contentEquals(decompress(compressed))) invalidOp("Invalid compression!")
+        return compressed
+    }
+
     fun compress(data: ByteArray, level: Int = 0, seed: Int = 0): ByteArray {
         val data = UByteArray(data)
         val min_lz_len = 2
-        val max_lz_len = 0x100 + 2
-        val max_lz_pos = 0x1000
+        val max_lz_len = 0xFF + min_lz_len
+        val max_lz_pos = 0xFFF
         val min_lz_pos = 2
 
         val freq = IntArray(0x200)
@@ -46,36 +47,51 @@ object DSC {
         val blocksValues = IntArrayList()
         val blocksPos = IntArrayList()
 
-        val max_lz_len2 = (max_lz_len * level) / 9
-        val max_lz_pos2 = (max_lz_pos * level) / 9
+        //val max_lz_len2 = (max_lz_len * level) / 9
+        //val max_lz_pos2 = (max_lz_pos * level) / 9
 
-        val mresult = LZ.MatchResult()
+        val lz = LZ(nbits = 12)
+        val lzSearch = level > 0
+        val lzResult = lz.result
+        //val mresult = LZ.MatchResult()
         var n = 0
         while (n < data.size) {
-            mresult.pos = 0
-            mresult.len = 0
-            val max_len = min(max_lz_len2, data.size - n)
-            if (level > 0) {
-                LZ.find_variable_match(
-                        data.get(max(0, n - max_lz_pos2) until n + max_len),
-                        data[n until n + max_len],
-                        mresult,
-                        min_lz_pos
-                )
+            if (lzSearch) {
+                lz.findLargest(data.array, n, max_lz_len, min_lz_pos, maxChecks = 30)
+                //val max_len = min(data.size - n, max_lz_len)
+                //val res = LZ2.find_variable_match(
+                //        data[max(0, n - max_lz_pos2) until n + max_len],
+                //        data[n until n + max_len],
+                //        min_lz_pos
+                //)
+                //println("" + lz.dataPos + ",$n : " + lzResult + " : " + res + " : ${data.array.slice(0 until n).toByteArray().hex} : ${data.array.slice(n until n + max_len).toByteArray().hex}")
+                //println((n - lzResult.pos) - 2)
+                //lzResult.pos = res.pos
+                //lzResult.len = res.len
+                lzResult.pos = (n - lzResult.pos) - 2
+            } else {
+                lzResult.pos = 0
+                lzResult.len = 0
             }
 
             // Compress.
             var id = 0
-            if (mresult.len >= min_lz_len) {
-                val encoded_len = mresult.len - min_lz_len
+            if (lzResult.len >= min_lz_len) {
+                if (lzResult.len !in min_lz_len .. max_lz_len) invalidOp("Invalid LZ length $lzResult")
+                if (lzResult.pos !in min_lz_pos .. max_lz_pos) invalidOp("Invalid LZ position $lzResult")
+                //if (lzResult.pos >= n) invalidOp("Invalid LZ position II $lzResult")
+
+                val encoded_len = lzResult.len - min_lz_len
                 id = 0x100 or (encoded_len and 0xFF)
                 blocksValues += id
-                blocksPos += mresult.pos
-                n += mresult.len
+                blocksPos += lzResult.pos
+                if (lzSearch) lz.put(data.array, n, lzResult.len)
+                n += lzResult.len
             } else {
                 id = 0x000 or (data[n] and 0xFF)
                 blocksValues += id
                 blocksPos += 0
+                if (lzSearch) lz.put(data[n].toByte())
                 n++
             }
             freq[id]++

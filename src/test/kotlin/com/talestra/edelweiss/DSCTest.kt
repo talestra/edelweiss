@@ -10,9 +10,9 @@ class DSCTest {
         val compressed = DSC.compress(input, level = level)
         val uncompressed = DSC.decompress(compressed)
         if (!input.contentEquals(uncompressed)) {
-            println("input:" + input.hex)
+            println("input:       " + input.hex)
             println("uncompressed:" + uncompressed.hex)
-            println("compressed:" + compressed.size)
+            println("compressed:  " + compressed.size)
         }
         Assert.assertArrayEquals(input, uncompressed)
     }
