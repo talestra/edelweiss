@@ -55,8 +55,8 @@ object UncompressedImage {
         val ih = ImageHeader.read(data.openSync())
         //val f = BufferedFile(out_file, FileMode.OutNew);
         val bmp = when (ih.bpp) {
-            32 -> BGRA.decodeToBitmap32(ih.width.toInt(), ih.height.toInt(), data)
-            24 -> BGR.decodeToBitmap32(ih.width.toInt(), ih.height.toInt(), data)
+            32 -> BGRA.decodeToBitmap32(ih.width.toInt(), ih.height.toInt(), data, 0x10)
+            24 -> BGR.decodeToBitmap32(ih.width.toInt(), ih.height.toInt(), data, 0x10)
             else -> throw(Exception("Unknown bpp ${ih.bpp}"))
         }
         return bmp
