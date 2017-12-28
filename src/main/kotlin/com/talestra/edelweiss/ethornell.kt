@@ -1,6 +1,8 @@
 package com.talestra.edelweiss
 
-import com.soywiz.korim.format.*
+import com.soywiz.korim.format.ImageEncodingProps
+import com.soywiz.korim.format.PNG
+import com.soywiz.korim.format.writeTo
 import com.soywiz.korio.Korio
 import com.soywiz.korio.error.ignoreErrors
 import com.soywiz.korio.lang.ASCII
@@ -20,10 +22,6 @@ object Example {
 }
 
 object Example2 {
-    init {
-        defaultImageFormats.registerStandard()
-    }
-
     @JvmStatic
     fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data02000.arc")) }
     //fun main(args: Array<String>) = Korio { main_s(arrayOf("ethornell", "-x9", "/Users/soywiz/projects/edelweiss/game/data06000.arc")) }

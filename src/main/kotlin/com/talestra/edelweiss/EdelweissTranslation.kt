@@ -1,10 +1,7 @@
 package com.talestra.edelweiss
 
-import com.soywiz.korim.format.defaultImageFormats
 import com.soywiz.korim.format.readBitmapNoNative
-import com.soywiz.korim.format.registerStandard
 import com.soywiz.korio.Korio
-import com.soywiz.korio.async.map
 import com.soywiz.korio.async.toList
 import com.soywiz.korio.vfs.VfsFile
 import com.soywiz.korio.vfs.uniVfs
@@ -42,8 +39,6 @@ object EdelweissTranslation {
     @JvmStatic
     fun main(args: Array<String>) = Korio {
         val gameFolder = "../game".uniVfs
-
-        defaultImageFormats.registerStandard()
 
         repackArc(gameFolder["sysgrp.arc"]) { name, data ->
             if (name == "SGTitle000000") {

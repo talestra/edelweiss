@@ -1,11 +1,8 @@
 package com.talestra.edelweiss.scripts
 
-import com.soywiz.korim.format.defaultImageFormats
 import com.soywiz.korim.format.readBitmapNoNative
-import com.soywiz.korim.format.registerStandard
 import com.soywiz.korio.Korio
 import com.soywiz.korio.async.toList
-import com.soywiz.korio.util.nonNullMap
 import com.soywiz.korio.vfs.VfsFile
 import com.soywiz.korio.vfs.localCurrentDirVfs
 import com.talestra.edelweiss.*
@@ -16,7 +13,6 @@ object TranslateGame {
 
     @JvmStatic
     fun main(args: Array<String>) = Korio {
-        defaultImageFormats.registerStandard()
         gameDir = localCurrentDirVfs["game"].jail()
         translationDir = localCurrentDirVfs["translation"].jail()
 
