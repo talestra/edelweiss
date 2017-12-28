@@ -35,13 +35,16 @@ object TranslateGame {
     suspend fun repackArc(arc: VfsFile, transform: suspend (name: String, data: ByteArray) -> ByteArray) {
         val arcBak = arc.getBak()
         val files = arcBak.openAsArc()
+        //val arcExt = arc.appendExtension("dgen").apply { mkdirs() }.jail()
         ARC.build(arc, files.list().toList().map { it.basename }, level = -1) {
-            transform(it, files[it].readBytes())
+            val bytes = transform(it, files[it].readBytes())
+            //arcExt[it].writeBytes(bytes)
+            bytes
         }
     }
 
     suspend fun translateImage(patchDir: VfsFile, name: String, fileCatalog: Set<String>, data: suspend () -> ByteArray): ByteArray? {
-        //val compressionLevel = 0
+        //val compressionLevel = -1
         val compressionLevel = 9
         val compressionCheck = true
 

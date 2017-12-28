@@ -4,6 +4,7 @@ import com.soywiz.korio.util.toUnsigned
 import kotlin.math.max
 import kotlin.math.min
 
+// @TODO: HASH 16-bits + adjust searching
 class LZ(val nbits: Int = 12, val minLen: Int = 2) {
     private val SIZE = (1 shl nbits)
     private val MASK = SIZE - 1
@@ -53,7 +54,7 @@ class LZ(val nbits: Int = 12, val minLen: Int = 2) {
         var nchecks = 0
 
         while (ptr >= minPos) {
-            if (ptr < (maxPos - minDist - 1)) {
+            if (ptr < maxPos - minDist) {
                 val len = largestMatch(ptr, check, offset, min(rmaxLen, maxPos - ptr))
                 if (len > foundLen) {
                     foundPos = ptr

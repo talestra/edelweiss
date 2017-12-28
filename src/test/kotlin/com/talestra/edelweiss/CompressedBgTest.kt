@@ -9,10 +9,12 @@ import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.vfs.resourcesVfs
 import org.junit.Assert
 import org.junit.Test
+import java.net.URLClassLoader
 
 class CompressedBgTest {
     @Test
     fun name() = syncTest {
+        for (url in (ClassLoader.getSystemClassLoader() as URLClassLoader).urLs) println(url)
         defaultImageFormats.registerStandard()
         val bmp = CompressedBg.load(resourcesVfs["01_dou_tuu_l"].readAll())
         val expected = resourcesVfs["01_dou_tuu_l.png"].readBitmapNoNative().toBMP32()

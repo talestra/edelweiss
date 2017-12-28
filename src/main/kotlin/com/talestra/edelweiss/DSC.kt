@@ -4,7 +4,10 @@ import com.soywiz.kmem.write32_le
 import com.soywiz.korio.error.invalidOp
 import com.soywiz.korio.lang.*
 import com.soywiz.korio.stream.*
-import com.soywiz.korio.util.*
+import com.soywiz.korio.util.getu
+import com.soywiz.korio.util.readString
+import com.soywiz.korio.util.substr
+import com.soywiz.korio.util.toInt
 import com.soywiz.korma.ds.IntArrayList
 
 object DSC {
@@ -29,6 +32,7 @@ object DSC {
     }
 
     fun compressAndCheck(data: ByteArray, level: Int = 0, seed: Int = 0, check: Boolean = true): ByteArray {
+        if (level < 0) return data
         val compressed = compress(data, level, seed)
         if (check && !data.contentEquals(decompress(compressed))) invalidOp("Invalid compression!")
         return compressed
@@ -57,7 +61,7 @@ object DSC {
         var n = 0
         while (n < data.size) {
             if (lzSearch) {
-                lz.findLargest(data.array, n, max_lz_len, min_lz_pos, maxChecks = 30)
+                lz.findLargest(data.array, n, max_lz_len, min_lz_pos + 1, maxChecks = 30)
                 //val max_len = min(data.size - n, max_lz_len)
                 //val res = LZ2.find_variable_match(
                 //        data[max(0, n - max_lz_pos2) until n + max_len],
@@ -77,8 +81,8 @@ object DSC {
             // Compress.
             var id = 0
             if (lzResult.len >= min_lz_len) {
-                if (lzResult.len !in min_lz_len .. max_lz_len) invalidOp("Invalid LZ length $lzResult")
-                if (lzResult.pos !in min_lz_pos .. max_lz_pos) invalidOp("Invalid LZ position $lzResult")
+                if (lzResult.len !in min_lz_len..max_lz_len) invalidOp("Invalid LZ length $lzResult")
+                if (lzResult.pos !in min_lz_pos..max_lz_pos) invalidOp("Invalid LZ position $lzResult")
                 //if (lzResult.pos >= n) invalidOp("Invalid LZ position II $lzResult")
 
                 val encoded_len = lzResult.len - min_lz_len
