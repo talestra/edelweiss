@@ -8,8 +8,11 @@ import com.soywiz.korio.stream.ByteArrayBuilder
 import com.soywiz.korio.stream.SyncStream
 import com.soywiz.korio.stream.eof
 import com.soywiz.korio.stream.readU8
+import com.soywiz.korio.util.clamp
+import com.soywiz.korio.util.umod
 import java.io.File
 import java.util.*
+import kotlin.math.min
 
 const val __TIMESTAMP__ = "UNKNOWN_DATE"
 
@@ -254,14 +257,9 @@ fun stripslashes(t: String): String {
 }
 
 fun substr(s: String, start: Int, len: Int = 0x7F_FF_FF_FF): String {
-    var st = start
-    var end = s.length
-    if (st < 0) st = s.length - (-st) % s.length
-    if (st > s.length) st = s.length
-    if (len < 0) end -= (-len) % s.length
-    if (len >= 0) end = st + len
-    if (end > s.length) end = s.length
-    return s.substring(st, end)
+    val rstart = if (start < 0) (start umod s.length) else start.clamp(0, s.length)
+    val rend = (rstart + min(len, s.length)).clamp(0, s.length)
+    return s.substring(rstart, rend)
 }
 
 fun explode(delim: String, str: String, length: Int = 0x7FFFFFFF, fill: Boolean = false): List<String> {

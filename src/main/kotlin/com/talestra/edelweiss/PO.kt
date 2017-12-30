@@ -8,7 +8,7 @@ import com.soywiz.korio.util.substr
 import com.soywiz.korio.util.unquote
 
 class PO(val entries: List<Entry>) {
-    class Entry(
+    data class Entry(
             val msgid: String = "",
             val msgstr: String = "",
             val comments: List<String>

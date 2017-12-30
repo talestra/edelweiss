@@ -1,16 +1,17 @@
 package com.talestra.edelweiss
 
 import com.soywiz.korio.error.invalidOp
-import com.soywiz.korio.lang.LATIN1
 import com.soywiz.korio.lang.UTF8
 import com.soywiz.korio.lang.toString
 import com.soywiz.korio.stream.*
-import com.soywiz.korio.util.quoted
+import com.soywiz.korio.util.substr
 import java.io.File
 
 class ACME {
     class Entry {
         var id: Int = 0
+        var original: String = ""
+        var comments = listOf<String>()
         var text: String = ""
         val attribs = LinkedHashMap<String, String>()
         fun header(header: String) {
@@ -33,6 +34,7 @@ class ACME {
         return e
     }
 
+    var documentEntry = Entry()
     val entries = LinkedHashMap<Int, Entry>()
     fun parse(name: String) {
         parse(File(name).readBytes().openSync())
@@ -59,34 +61,41 @@ class ACME {
         }
     }
 
-    fun parseForm2(filename: String, lang: String = "es") {
+    fun parseForm2(filename: String, lang: String = "es") = this.apply {
         val s = File(filename).readBytes().openSync()
         parseForm2(s, lang)
         s.close()
     }
 
-    fun parseForm2(s: SyncStream, lang: String = "es") {
+    fun parseForm2(s: SyncStream, lang: String = "es") = this.apply {
         var id: Int = 0
         entries.clear()
         var e = Entry()
+        documentEntry = e
 
         while (!s.eof) {
-            val line = s.readLine(LATIN1)
+            //val line = s.readLine(LATIN1).trim()
+            val line = s.readLine(com.soywiz.korio.lang.UTF8).trim()
             val c = line.getOrElse(0) { '\u0000' }
             when (c) {
-                '#' -> Unit // Comment
+                '#' -> {
+                    e.comments += line.substr(1)
+                }
                 '@' -> { // ID
                     e = Entry()
-                    e.id = line[1 until line.length].toInt()
+                    e.id = line.substring(1).toIntOrNull() ?: com.soywiz.korio.error.invalidOp("Error parsing line '$line'")
                     e.text = ""
+                    e.original = ""
                     entries[e.id] = e
                 }
                 '<' -> { // Text
                     val add_text = stripslashes(substr(line, 4)).trimEnd()
                     if (substr(line, 0, 4) == "<$lang>") {
                         if (add_text.isNotEmpty()) e.text = add_text
-                    } else if (e.text.isNotEmpty()) {
-                        e.text = add_text
+                    } else if (substr(line, 0, 4) == "<en>") {
+                        if (add_text.isNotEmpty()) e.original = add_text
+                    } else {
+                        kotlin.io.println("------")
                     }
                 }
                 else -> Unit // Ignore.
