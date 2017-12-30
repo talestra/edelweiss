@@ -845,8 +845,8 @@ msgstr ""
 "{Kazushi}\n"
 "\"Acabamos de empezar nuestros viaje.\""
 
-#: 00106:629
 # En japonés dice "leyenda rosa". Posiblemente por todo el tema de las chicas.
+#: 00106:629
 msgid ""
 "{Pierre}\n"
 "\"Yeah, a new beginning. The beginning of our pink legend!\""
@@ -3428,8 +3428,8 @@ msgstr ""
 "{Appo-}\n"
 "\"¡¡Está hablando!!\""
 
-#: 00106:1591
 # fine: multa, peaje?
+#: 00106:1591
 msgid ""
 "{Signpost}\n"
 "\"Pay fine. Pay fine.\""
@@ -4352,8 +4352,8 @@ msgstr ""
 "{Señal}\n"
 "\"¡¡#$%^&*!!\""
 
-#: 00106:1850
 # Doble sentido de señal :P
+#: 00106:1850
 msgid ""
 "The killing machine stood back up.\n"
 "Wasn't that a bad sign?"
@@ -5277,13 +5277,13 @@ msgstr ""
 "{Ran}\n"
 "\"No trato de...\""
 
-#: 00106:2176
 # ¿Su corazón, o el de ella?
+#: 00106:2176
 msgid "Ran clung even tighter to me. I was right up against a girl! My heart was pounding like crazy."
 msgstr "Está muy cerca de mí. Puedo sentir mi corazón latir."
 
-#: 00106:2177
 # "doki doki". Le late el corazón.
+#: 00106:2177
 msgid ""
 "{Ran}\n"
 "\"Kazushi, is your heart racing?\""
@@ -5303,8 +5303,8 @@ msgstr ""
 "{Kazushi}\n"
 "\"Mira dónde estamos ahora...\""
 
-#: 00106:2180
 # "doki doki".
+#: 00106:2180
 msgid ""
 "{Ran}\n"
 "\"Y-you're right. Mine's racing too.\""
@@ -5312,8 +5312,8 @@ msgstr ""
 "{Ran}\n"
 "\"Tienes razón. Yo también estoy algo excitada.\""
 
-#: 00106:2181
 # ¿Gracioso o extraño?
+#: 00106:2181
 msgid ""
 "{Kazushi}\n"
 "\"R-right?\""
@@ -5445,8 +5445,8 @@ msgstr ""
 "{Kazushi}\n"
 "\"¡¡Esta posición es...!!\""
 
-#: 00106:2210
 # Wheel throw? ¿LLave?
+#: 00106:2210
 msgid "A tomoe nage! Use their strength as they push forward, roll back and fling them behind you!"
 msgstr ""
 "¡Una llave!\n"
@@ -5556,8 +5556,8 @@ msgstr ""
 "{Kazushi}\n"
 "\"¿...? ¿Qué me ha pasado...?\""
 
-#: 00106:2250
 # ¿El/un bosque? Luego pregunta dónde está. Queda raro.
+#: 00106:2250
 msgid ""
 "I tried to lift my heavy eyelids.\n"
 "There was a green canopy above me. I must have been in some forest."
@@ -5711,8 +5711,8 @@ msgstr ""
 "{Kazushi}\n"
 "\"Vaya...\""
 
-#: 00106:2284
 # flower bed | Cuadro, Macizo, Reata
+#: 00106:2284
 msgid "I wound up right in the middle of a huge flower bed. Small white flowers were growing everywhere. They were all still buds."
 msgstr "Acabé saliendo a un cuadro floral."
 
@@ -6430,8 +6430,8 @@ msgstr ""
 "{Haruka}\n"
 "\"Puedes llamarme Haruka.\""
 
-#: 00106:2426
 # # Cambio de escena. Salen del bosque.
+#: 00106:2426
 msgid "Haruka's hands were as soft as the white flowers around us."
 msgstr "Las manos de Haruka son tan suaves como las flores blancas que nos rodean."
 
@@ -6833,8 +6833,8 @@ msgstr ""
 "{Kazushi}\n"
 "\"¿YO-SORO-?\""
 
-#: 00106:2544
 # Forzado.
+#: 00106:2544
 msgid ""
 "What does \"YO-SORO\" mean?\n"
 "Anyways, I've already come to like hanging out with Haruka."
@@ -6884,8 +6884,8 @@ msgstr ""
 "Se queja Haruka.\n"
 "Imagino que se refería al cuadro floral."
 
-#: 00106:2556
 # ???
+#: 00106:2556
 msgid ""
 "{Ran}\n"
 "\"Like grandmother, like granddaughter.\n"
@@ -7127,8 +7127,8 @@ msgstr ""
 "\"Oye Kazushi.\n"
 "Nosotros pensando que podrías estar muerto, y te encontramos con un montón de chicas guapas. Nos debes una explicación...\""
 
-#: 00106:2640
 # Pick up. ¿Cautivadas? ¿Recogidas?
+#: 00106:2640
 msgid ""
 "{Pierre}\n"
 "\"Good job, Kazushi. How did you manage to pick them up?\""
@@ -7206,8 +7206,8 @@ msgstr ""
 "{Appo-}\n"
 "\"¡Yo soy Appo-! Soy el líder.\""
 
-#: 00106:2671
 # heartful?
+#: 00106:2671
 msgid ""
 "{Appo}\n"
 "\"I'm very naughty at times, but I have the heart of an angel. I'm not very good at my studies, but I'll risk my life for love! If you could remember this passionate man, I would be very happy.\""
@@ -7359,8 +7359,8 @@ msgstr ""
 "{Appo-}\n"
 "\"Kazushi, ¡¡tu tranquilidad me pone enfermo!!\""
 
-#: 00106:2738
 # Harem. En los juegos H es un final donde un chico acaba con todas las chicas a la vez.
+#: 00106:2738
 msgid ""
 "{Pierre}\n"
 "\"You already made your harem didn't you! Are you King already!? Are you King already?!\""
@@ -7686,8 +7686,8 @@ msgstr ""
 "{Pierre}\n"
 "\"¿Qué tendríamos que hacer para que nos dieses al 100%?\""
 
-#: 00106:2888
 # Crimen sexual/violación.
+#: 00106:2888
 msgid ""
 "{Yagami}\n"
 "\"Please don't commit any sex crimes. I'm serious.\""
@@ -7715,8 +7715,8 @@ msgstr ""
 msgid "I'm going to have to keep an eye on him."
 msgstr "Creo que voy a tener vigilarle de cerca."
 
-#: 00106:2899
 # ¿Singular o plural? En singular queda más dedicado al personaje. Pero no está claro.
+#: 00106:2899
 msgid ""
 "{Haruka}\n"
 "\"Umm, are you alright? Can you get up?\""
@@ -7991,8 +7991,8 @@ msgstr ""
 msgid "Mei-sensei was standing up for us. She was our new goddess."
 msgstr "Nos parecía casi como una Diosa."
 
-#: 00106:2961
 # Dice profesora, pero bah.
+#: 00106:2961
 msgid "We never had such a sexy teacher backing us up before."
 msgstr "Nunca habíamos tenido a semejante tía buena cubríendonos las espaldas."
 
@@ -8036,8 +8036,8 @@ msgstr ""
 "{Appo-}\n"
 "\"A mí me gustaría que abusase verbalmente de mí.\""
 
-#: 00106:2975
 # como una cabra/muy mal.
+#: 00106:2975
 msgid ""
 "{Kazushi}\n"
 "\"You guys are sick.\""
@@ -8189,8 +8189,8 @@ msgstr ""
 "{Mei}\n"
 "\"Vamos.\""
 
-#: 00106:3026
 # ¿Refiriéndose a Mei?
+#: 00106:3026
 msgid ""
 "{Haruka}\n"
 "\"Wait, let me help you!\""
@@ -8442,8 +8442,8 @@ msgstr ""
 "{Haruka}\n"
 "\"Lo siento, Kazushi...\""
 
-#: 00106:3155
 # ¿La chica de la cara chunga?
+#: 00106:3155
 msgid "Everyone left with Fuusen. Only us guys were left here."
 msgstr "La chica de la cara chunga se lleva a nuestras chicas."
 
@@ -8562,8 +8562,8 @@ msgstr ""
 "{Kazushi}\n"
 "\"¿¡De dónde has sacado eso!?\""
 
-#: 00106:3189
 # Cleptómano like a Kender.
+#: 00106:3189
 msgid ""
 "{Appo}\n"
 "\"Destiny delivered it unto my hands.\""
@@ -8583,8 +8583,8 @@ msgstr ""
 msgid "I glared at Pierre and Daigo, but they both shook their heads in disagreement."
 msgstr "Pierre y Daigo agitan la cabeza."
 
-#: 00106:3197
 # Winrar.
+#: 00106:3197
 msgid ""
 "{Pierre}\n"
 "\"You know I'm not interested in clean underwear. On the girl is the way to go.\""
@@ -9543,9 +9543,9 @@ msgstr ""
 "{Appo-}\n"
 "\"Lo siento.\""
 
-#: 00106:3572
 # Hay que ver si era comida o cena. Viendo la hora del día que parece, parece más comida, así que he cambiado todo un poco.
 # 00206@435 aquí se confirman las sospechas.
+#: 00106:3572
 msgid ""
 "{Yagami}\n"
 "\"No dinner for you tonight!\""
@@ -9998,8 +9998,8 @@ msgstr ""
 "{Sakura}\n"
 "\"Eres demasiado honesto.\""
 
-#: 00106:3748
 # ¿Chica rara?
+#: 00106:3748
 msgid "She pointed at me and started laughing. She's a cheerful girl."
 msgstr "Me apuntaba con el dedo y se reía. Es una chica divertida."
 
@@ -10586,7 +10586,7 @@ msgstr ""
 
 #: 00106:3995
 msgid "He was back as soon as he walked inside. He was covered in sweat."
-msgstr ""
+msgstr "Y nada más entrar: salió. Sudando lo que no está escrito."
 
 #: 00106:4000
 msgid ""
@@ -11200,8 +11200,8 @@ msgstr ""
 msgid "We couldn't do anything but watch:"
 msgstr "No pudimos hacer nada con mirar..."
 
-#: 00106:4361
 # TODO: Cambiar yardas a metros. 1 yarda = 0.914 metros.
+#: 00106:4361
 msgid "The water level sank several hundred meters."
 msgstr "La línea de la playa bajó un par de cientos de metro."
 
