@@ -50,3 +50,8 @@ task translate(type: JavaExec) {
     main = "com.talestra.edelweiss.scripts.TranslateGame"
     classpath = sourceSets.main.runtimeClasspath
 }
+
+task report(type: JavaExec) {
+    main = "com.talestra.edelweiss.scripts.ReportTranslation"
+    classpath = sourceSets.main.runtimeClasspath
+}
