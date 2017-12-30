@@ -1,4 +1,8 @@
 # Comments for '01834'
+# Natsume cuenta a Kazushi que su padre no quiere verla.
+# Que no la quiere, que fue a verle y que él huyó.
+# Kazushi le dice que su padre la quiere; que todos los padres quieren a sus hijos.
+# Acaba ofreciéndose a acompañarla a ver a su padre de nuevo de forma que no pueda huir.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -13,220 +17,284 @@ msgstr ""
 
 #: 01834:5
 msgid "She jumped to a conclusion about me!"
-msgstr ""
+msgstr "¡Ha acabado conmigo!"
 
 #: 01834:6
 msgid ""
 "{Kazushi}\n"
 "\"Yeah, well, I know I'm stupid, but you don't have to tell me directly.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vale. Ya sé que soy estúpido, pero no me lo digas a la cara...\""
 
 #: 01834:9
+# REVISAR. <es>{Natsume}\n"Ya veo... Empiezas a parecerme mono."
 msgid ""
 "{Natsume}\n"
 "\"I see. You're starting to look cute, Haruma.\""
 msgstr ""
+"{Natsume}\n"
+"\"Ajá... Estás empezando a parecerme mono, Haruma.\""
 
 #: 01834:10
 msgid "Is it because I'm stupid? It made me feel pitiful when she treated me like a kid."
-msgstr ""
+msgstr "¿Es porque soy estúpido? Me entristezvo un poco cuando me trata como a un niño."
 
 #: 01834:11
 msgid ""
 "{Kazushi}\n"
 "\"Don't treat me like a kid in front of everyone else, OK?\""
 msgstr ""
+"{Kazushi}\n"
+"\"No me trates como a un niño delante de todo el mundo.\""
 
 #: 01834:14
 msgid ""
 "{Natsume}\n"
 "\"You don't want to be treated like a kid? Did your parents treat you like a kid?\""
 msgstr ""
+"{Natsume}\n"
+"\"¿No quieres que te traten como a un niño? ¿Tus padres no te trataban como tal?\""
 
 #: 01834:15
 msgid ""
 "{Kazushi}\n"
 "\"Well, yeah, back when I WAS a kid. How about your parents...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Bueno, claro. Cuando era un niño. ¿Y tus padres...?\""
 
 #: 01834:16
 msgid "I was going to say something, but I remembered how we just had this conversation about Natsume-chan's father."
-msgstr ""
+msgstr "Iba a decir algo, pero he recordado la conversación sobre el padre de Natsume."
 
 #: 01834:17
 msgid ""
 "{Kazushi}\n"
 "\"Where's your Papa now, then?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Dónde está tu padre ahora mismo?\""
 
 #: 01834:18
+# Revisar.
 msgid "Where could that damn man be? Leaving his cute daughter all alone on an island like this..."
-msgstr ""
+msgstr "¿Dónde podría estar este tipo? Dejando a su preciosa hija en esta isla..."
 
 #: 01834:19
 msgid ""
 "{Natsume}\n"
 "\"He's on this island.\""
 msgstr ""
+"{Natsume}\n"
+"\"Está en esta isla.\""
 
 #: 01834:20
 msgid ""
 "{Kazushi}\n"
 "\"What? You mean he's here on the island?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué? ¿Que está en la isla?\""
 
 #: 01834:21
 msgid "That was an unexpected answer. That meant there shouldn't be any problems, right?"
-msgstr ""
+msgstr "Esa ha sido una respuesta bastante inesperada. Entonces no debería haber problema alguno."
 
 #: 01834:22
 msgid ""
 "{Kazushi}\n"
 "\"Then you should be able to see him any time you want, right?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Entonces deberías poder verle en cualquier momento, ¿no?\""
 
 #: 01834:23
 msgid "It's a small island and hell, they both live here. Given how often Natsume-chan and I bump into each other it should be easy for those two to see each other."
-msgstr ""
+msgstr "Joder, es que es una isla pequeña, y ambos viven en ella. Deberían poder verse."
 
 #: 01834:26
+# Revisar. ¿Podría/querría?
 msgid ""
 "{Natsume}\n"
 "\"He wouldn't see me if I tried to visit.\""
 msgstr ""
+"{Natsume}\n"
+"\"Pero... Él no querría verme.\""
 
 #: 01834:27
 msgid ""
 "{Kazushi}\n"
 "\"What? Why? You went to go see him, right?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué? ¿Por qué? Ya has ido a verle, ¿no?\""
 
 #: 01834:28
 msgid ""
 "{Natsume}\n"
 "\"I did, but he ran away from me.\""
 msgstr ""
+"{Natsume}\n"
+"\"Ya lo hice, pero huyó de mí.\""
 
 #: 01834:29
 msgid ""
 "{Kazushi}\n"
 "\"Why would he run away? Isn't he your father?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Por qué iba a huir? ¿Acaso no es tu padre?\""
 
 #: 01834:32
 msgid ""
 "{Natsume}\n"
 "\"I don't know. Maybe he just hates me.\""
 msgstr ""
+"{Natsume}\n"
+"\"No lo sé. Quizá es simplemente que me odia.\""
 
 #: 01834:33
+# REVISAR! (especialmenet la parte de "por encima del hombro")
 msgid "Natsume-chan started pouting. She wasn't acting like her usual aloof self; she was just an ordinary girl right now."
-msgstr ""
+msgstr "Natsume parece resentida. La Natsume de siempre, mira siempre a las personas por encima del hombro, pero la Natsume que veo ahora es como cualquier chica ordinaria."
 
 #: 01834:36
 msgid ""
 "{Natsume}\n"
 "\"Papa hates me. That's why he disappeared from me. That's why he won't see me.\""
 msgstr ""
+"{Natsume}\n"
+"\"Mi padre me odia. Y es por eso por lo que huyó de mí. Y es por eso que no querría verme aunque fuese.\""
 
 #: 01834:37
 msgid ""
 "{Kazushi}\n"
 "\"That's not true.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eso no es verdad.\""
 
 #: 01834:38
 msgid "I didn't know what kind of problems they had between them, but I had to say that."
-msgstr ""
+msgstr "No sé qué problema tendrían entre sí, pero tenía que decirlo."
 
 #: 01834:41
 msgid ""
 "{Natsume}\n"
 "\"What do you know, Haruma?\""
 msgstr ""
+"{Natsume}\n"
+"\"¿Y tú que sabes de mí? Nada. No sabes nada.\""
 
 #: 01834:42
 msgid ""
 "{Kazushi}\n"
 "\"Maybe I don't, but he's your only father. There isn't a father on Earth that doesn't care about his own child.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eso es cierto, pero él es tu único padre. No hay ningún padre en el mundo que no se preocupase por su hija.\""
 
 #: 01834:45
 msgid ""
 "{Natsume}\n"
 "\"Then why won't he see me? Why would he leave me?\""
 msgstr ""
+"{Natsume}\n"
+"\"¿Entonces por qué no quería verme? ¿Por qué huyó?\""
 
 #: 01834:46
+# Revisar.
 msgid "It was like we were regressing through the years because Natsume-chan was acting like a little girl."
-msgstr ""
+msgstr "Era como si estuviésemos viajando al pasado por la forma en la que Natsume actuaba como una niñita."
 
 #: 01834:47
 msgid ""
 "{Kazushi}\n"
 "\"I wouldn't know that either, but all I can say is that your father loves you.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No puedo saber eso tampoco. Pero todo lo que puedo decirte es que tu padre te quiere.\""
 
 #: 01834:48
 msgid ""
 "{Natsume}\n"
 "\"......that's a lie.\""
 msgstr ""
+"{Natsume}\n"
+"\"...Eso es mentira.\""
 
 #: 01834:49
 msgid ""
 "{Kazushi}\n"
 "\"Seriously, I mean it. Let's give your father one last chance. I'll go with you to see him this time.\""
 msgstr ""
+"{Kazushi}\n"
+"\"En serio. Lo creo de verdad. Ves a ver a tu padre una vez más. Esta vez iré contigo.\""
 
 #: 01834:52
+# Otra vez Haruno en vez de Haruma.
 msgid ""
 "{Natsume}\n"
 "\"You're going too, Haruma?\""
 msgstr ""
+"{Natsume}\n"
+"\"...¿Tú también vendrías, Haruma?\""
 
 #: 01834:53
 msgid ""
 "{Kazushi}\n"
 "\"Yeah. I'll go with you this time, and I'll make sure he doesn't run away so you can see each other.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Claro. Iré contigo esta vez y me encargaré de que no huya para que puedas verle.\""
 
 #: 01834:57
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 01834:58
 msgid "Natsume-chan thought for a moment. I thought that she was scared her father might run away and never look at her again."
-msgstr ""
+msgstr "Natsume se quedó quieta durante un rato. Creo que estaba asustada de que su padre no quisiese verla y volviese a huír de ella."
 
 #: 01834:59
 msgid ""
 "{Kazushi}\n"
 "\"Don't worry! Believe in me.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡No te preocupes! Confía en mí.\""
 
 #: 01834:62
+# Revisar.
 msgid ""
 "{Natsume}\n"
 "\"Um...okay...this time you're going with me to meet my father too, Haruma.\""
 msgstr ""
+"{Natsume}\n"
+"\"Um... Vale. Esta vez tú también irás a conocer a mi padre.\""
 
 #: 01834:63
 msgid ""
 "{Kazushi}\n"
 "\"Right. Got it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Claro.\""
 
 #: 01834:64
 msgid "I don't know what kind of parent this guy is, but if he's some nasty jerk, I'll give him a piece of my mind."
-msgstr ""
+msgstr "No sé qué clase de tipo será el padre de Natsume, pero como sea algún capullo, no me callaré."
 
 #: 01834:65
+# Revisar. ¿Qué tiene que ver?
 msgid "But, I just can't think this guy is a villain because he's Natsume-chan's beloved father."
-msgstr ""
+msgstr "Pero me resulta difícil de creer que sea un mal tipo, siendo el único padre de Natsume."
 
 #: 01834:66
 msgid "I really want to help them."
-msgstr ""
+msgstr "Debo ayudarles."

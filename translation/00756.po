@@ -16,44 +16,56 @@ msgid ""
 "{Kazushi}\n"
 "\"Can I ask you a question?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Puedo hacerte una pregunta?\""
 
 #: 00756:13
 msgid ""
 "{Mei}\n"
 "\"Sure. What is it?\""
 msgstr ""
+"{Mei}\n"
+"\"Claro. ¿El qué?\""
 
 #: 00756:14
 msgid ""
 "{Kazushi}\n"
 "\"Is there anything you want?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Hay alguna cosa que quieras ahora?\""
 
 #: 00756:17
 msgid ""
 "{Mei}\n"
 "\"Nothing particularly.\""
 msgstr ""
+"{Mei}\n"
+"\"Nada en particular.\""
 
 #: 00756:18
 msgid "That was fast."
-msgstr ""
+msgstr "Qué rapidez."
 
 #: 00756:19
 msgid ""
 "{Kazushi}\n"
 "\"Nothing?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Nada?\""
 
 #: 00756:20
 msgid ""
 "{Mei}\n"
 "\"I can't think of anything, but why are you asking me this?\""
 msgstr ""
+"{Mei}\n"
+"\"¿Por qué me lo preguntas?\""
 
 #: 00756:21
 msgid "I wasn't expecting that. That answer wouldn't help us at all."
-msgstr ""
+msgstr "Esperaba que nos pudiese dar alguna buena idea."
 
 #: 00756:22
 msgid ""
@@ -66,104 +78,135 @@ msgid ""
 "{Mei}\n"
 "\"I'm not into that kind of stuff.\""
 msgstr ""
+"{Mei}\n"
+"\"No me van esas cosas.\""
 
 #: 00756:26
 msgid ""
 "{Kazushi}\n"
 "\"I see......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo...\""
 
 #: 00756:29
+# Soy una firme creyente de que las cosas materiales nunca satisfacen el corazón.
+# Creo firmemente en que las cosas materiales no pueden satisfacer el corazón.
 msgid ""
 "{Mei}\n"
 "\"I'm a big believer in the philosophy that material goods will never satisfy your heart.\""
 msgstr ""
+"{Mei}\n"
+"\"Creo firmemente en que las cosas materiales no pueden satisfacer el corazón.\""
 
 #: 00756:30
 msgid ""
 "{Kazushi}\n"
 "\"All right......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está bien...\""
 
 #: 00756:31
 msgid "What a selfless person. Maybe she's some kind of goddess?"
-msgstr ""
+msgstr "Podría hacerse monja."
 
 #: 00756:32
 msgid "Oops. I'm here to get some ideas for our gift."
-msgstr ""
+msgstr "Ups. Estoy aquí para conseguir alguna buena idea."
 
 #: 00756:33
 msgid ""
 "{Kazushi}\n"
 "\"It doesn't have to be a material good. It could be spiritual as well.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No tiene por qué ser algo material. Puede ser también algo espiritual.\""
 
 #: 00756:36
 msgid ""
 "{Mei}\n"
 "\"Let's see. If I had to say...\""
 msgstr ""
+"{Mei}\n"
+"\"Veamos...\""
 
 #: 00756:37
 msgid ""
 "{Kazushi}\n"
 "\"If you had to say?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Alguna cosa?\""
 
 #: 00756:38
 msgid ""
 "{Mei}\n"
 "\"..................\""
 msgstr ""
+"{Mei}\n"
+"\"...\""
 
 #: 00756:41
 msgid ""
 "{Mei}\n"
 "\"No, I can't think of anything. At least not something you can receive from anybody.\""
 msgstr ""
+"{Mei}\n"
+"\"Lo siento... No es algo que pueda recibirse de alguien.\""
 
 #: 00756:42
 msgid ""
 "{Kazushi}\n"
 "\"What do you mean by that?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿A qué te refieres con eso?\""
 
 #: 00756:43
 msgid ""
 "{Mei}\n"
 "\"No, it's nothing. I'm sorry I'm just a boring woman.\""
 msgstr ""
+"{Mei}\n"
+"\"No, nada. Siento no poder darte otra cosa que respuestas aburridas.\""
 
 #: 00756:44
 msgid ""
 "{Kazushi}\n"
 "\"No, that's not true at all. Sensei, I think you're terrific.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No... Creo que eres estupenda.\""
 
 #: 00756:47
 msgid ""
 "{Mei}\n"
 "\"Oh, why thank you. You're terrific too, Haruma-kun.\""
 msgstr ""
+"{Mei}\n"
+"\"Gracias,\n"
+"yo también creo que tu eres estupendo.\""
 
 #: 00756:48
 msgid ""
 "{Kazushi}\n"
 "\"Thanks......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Gracias...\""
 
 #: 00756:49
 msgid "Oh, no. I could feel my face turning red."
-msgstr ""
+msgstr "Oh, no. Creo que me he puesto rojo como un tomate."
 
 #: 00756:50
 msgid "Mei-sensei really is a nice, mature, kind, and understanding person."
-msgstr ""
+msgstr "De verdad pienso que es una buena persona."
 
 #: 00756:51
 msgid "But I wonder what she was about to say earlier? She looked like there was something she wanted."
-msgstr ""
+msgstr "Me pregunto a qué se refería con lo de antes."
 
 #: 00756:54
 msgid ""
@@ -171,51 +214,66 @@ msgid ""
 "\"Why are you asking me this?\n"
 "Were you going to give me a present?\""
 msgstr ""
+"{Mei}\n"
+"\"¿Por qué me preguntas eso?\n"
+"¿Ibas a hacerme un regalo?\""
 
 #: 00756:55
 msgid ""
 "{Kazushi}\n"
 "\"Oh, no, I was going to use it as reference.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Voy a usarlo como referencia.\""
 
 #: 00756:58
 msgid ""
 "{Mei}\n"
 "\"Oh, have you found a girl you like? Look at you.\""
 msgstr ""
+"{Mei}\n"
+"\"¿Te has echado novia?\""
 
 #: 00756:59
 msgid ""
 "{Kazushi}\n"
 "\"No! It's nothing like that.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡No! No es eso.\""
 
 #: 00756:62
 msgid ""
 "{Mei}\n"
 "\"Oh, it's not? Well, if you're trying to give someone a present, it's not the present that matters.\""
 msgstr ""
+"{Mei}\n"
+"\"Te diré una cosa: No es lo que recibes lo que te hace feliz.\""
 
 #: 00756:65
 msgid ""
 "{Mei}\n"
 "\"So long as you put your heart into choosing it, I think they'll be happy with anything.\""
 msgstr ""
+"{Mei}\n"
+"\"Sino quién es quien te lo da.\""
 
 #: 00756:66
 msgid ""
 "{Kazushi}\n"
 "\"I see.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo.\""
 
 #: 00756:67
 msgid "I'm sure that's something only Mei-sensei would think, while most others would never be so humble."
-msgstr ""
+msgstr "Solo una buena persona como ella podría pensar así."
 
 #: 00756:68
 msgid "She's truly a good person."
-msgstr ""
+msgstr "Es realmente una buena persna."
 
 #: 00756:69
 msgid "...Although it didn't give me any good ideas."
-msgstr ""
+msgstr "Aunque no me ha dado ninguna buena idea."

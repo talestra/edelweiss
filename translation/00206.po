@@ -1,4 +1,19 @@
 # Comments for '00206'
+# Tras la ascensión de la isla Eiden, los chicos regresan al dormitorio.
+# Acaban odiando a todas las chicas por todo lo que ha pasado.
+# Aunque luego Ran les lleva algo de comer (que no habían comido nada en todo el día por el castigo).
+# Luego también Haruka aparece en el dormitorio preocupada de que se hubiesen marchado de la isla.
+# Aparece empapada porque había estado buscando en el mar a ver si los encontraba. (Qué raro siendo que había 200 metros de distancia hasta el mar :P)
+# Tras esas cosas y con el fresquito nocturno, los chicos, más animados ya ven todo de otra forma.
+# Kazushi, incapaz de dormirse sale al exterior un rato a pasear. Se tumba mirando las estrellas.
+# Aparece Natsume y creyendo que está muerto va a tirarlo al mar. Sin embargo Kazushi se levanta repentinamente y se acaban besando accidentalmente.
+# Tras ese incidente Natsume ataca violentamente al protagonista. Luego al final Kazushi trata de que lo vea como un amigo. Finalmente ella se marcha.
+# Al día siguiente Kazushi se da cuenta de que Pierre y Daigo están en su cama. Porque estaban demasiado cansados para irse a otra habitación.
+# Se van a desayunar. Las chicas de allí hablan muy interesadas al profesor Yagami y a Panchu-.
+# Allí se encuentran con las chicas: Ran, Mizuki y Haruka. Kazushi se entera de que lo que le contó Ran sobre el gobierno era mentira.
+# Por lo visto allí cada grupo de dormitorio se turna diariamente para preparar el desayuno.
+# También se enteran de que en las clases se enseña alquimia.
+# Luego en clase Pierre, Appo- y Mei se presentan.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -13,49 +28,59 @@ msgstr ""
 
 #: 00206:8
 msgid "We sank to the ground by the edge of the cliff, unable to move as the sea breeze blew against us."
-msgstr ""
+msgstr "Estábamos conmocionados por lo que acababa de pasar."
 
 #: 00206:9
 msgid "The entire shoreline had been right before us, but now it was incredibly far below us."
-msgstr ""
+msgstr "La linea costera entera se había retractado doscientos metros en solo unos minutos."
 
 #: 00206:10
 msgid ""
 "{Kazushi}\n"
 "\"That's not fair.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Qué injusto.\""
 
 #: 00206:11
 msgid "We were even failing to cause the mischief we were so professional about."
-msgstr ""
+msgstr "Hasta fallamos en hacer las cosas mal que es dónde somos expertos."
 
 #: 00206:12
 msgid "Nothing we tried to do went well. It's like the teeth of our gears weren't in sync."
-msgstr ""
+msgstr "Eso nos dejó incapaces de hacer nada."
 
 #: 00206:19
 msgid ""
 "{Pierre}\n"
 "\"What should we do now?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Y qué podemos hacer ahora?\""
 
 #: 00206:20
 msgid ""
 "{Appo}\n"
 "\"...We haven't got any choice but to go back to that shack.\""
 msgstr ""
+"{Appo-}\n"
+"\"No nos queda otra que volver a la chabola...\""
 
 #: 00206:21
 msgid ""
 "{Daigo}\n"
 "\"What do you think, Kazushi?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Qué opinas, Kazushi?\""
 
 #: 00206:22
 msgid ""
 "{Kazushi}\n"
 "\"Well, what can we do...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Veamos...\""
 
 #: 00206:23
 msgid "Nothing was going well for us. Floundering about and trying to change the flow didn't help any. What were our remaining options?"
@@ -66,10 +91,12 @@ msgid ""
 "{Kazushi}\n"
 "\"We could always try swimming our way back.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Podríamos volver a casa a nado?\""
 
 #: 00206:25
 msgid "If we kept challenging the impossible, would we finally achieve something? I felt like we had to keep trying to escape."
-msgstr ""
+msgstr "No me gustaría cambiar el objetivo de volver a casa."
 
 #: 00206:26
 msgid ""
@@ -77,328 +104,427 @@ msgid ""
 "\"That's impossible.\n"
 "You know how long it took on the way get here.\""
 msgstr ""
+"{Daigo}\n"
+"\"Eso es imposible.\n"
+"¿No recuerdas lo que nos costó llegar aquí?\""
 
 #: 00206:27
 msgid ""
 "{Appo}\n"
 "\"We were on that boat for so long my stomach turned inside out, remember?\""
 msgstr ""
+"{Appo-}\n"
+"\"Acabé con el estómago fatal por el viaje tan largo.\""
 
 #: 00206:28
 msgid ""
 "{Kazushi}\n"
 "\"I know, but nothing we've done has gone well. Not one single thing.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya lo sé. Solo quiero hacer algo que nos haga sentir mejor.\""
 
 #: 00206:29
 msgid ""
 "{Panchu}\n"
 "\"Wha're 'ou 'uys 'oin' 'ere?\""
 msgstr ""
+"{Panchu-}\n"
+"\"¿Qué estáis haciendo aquí?\""
 
 #: 00206:36
 msgid "We heard a familiar voice from behind us and straightened up. Our conditioned reflex had kicked in."
-msgstr ""
+msgstr "Escuchamos una voz familiar detrás nuestro."
 
 #: 00206:42
 msgid ""
 "{Kazushi}\n"
 "\"Panchu-sempai...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Panchu-...\""
 
 #: 00206:43
 msgid "Panchu-sempai stared at us in silence. He was the last person we wanted to catch us. We felt bad."
-msgstr ""
+msgstr "Es la última persona que nos gustaría que nos pillase."
 
 #: 00206:44
 msgid "We felt like children who got caught pulling a prank."
-msgstr ""
+msgstr "Nos sentimos de repente como niños acabados de ser pillados haciendo algo mal."
 
 #: 00206:45
 msgid ""
 "{Panchu}\n"
 "\"I's 'an'erous 'o 'e 'ere 'uys. I 'on' 'elp if 'ou 'uys 'all.\""
 msgstr ""
+"{Panchu-}\n"
+"\"Es peligroso hacer el tonto por aquí.\""
 
 #: 00206:50
 msgid ""
 "{Pierre}\n"
 "\"What are you doing here, sempai?!\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Que haces aquí?\""
 
 #: 00206:53
 msgid ""
 "{Panchu}\n"
 "\"I 'as 'ryin' 'o 'et away 'rom 'e 'irls.\""
 msgstr ""
+"{Panchu-}\n"
+"\"Alejarme de las chicas.\""
 
 #: 00206:54
 msgid ""
 "{Kazushi}\n"
 "\"What? You ran away from them?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué? ¿Estás aquí por eso?\""
 
 #: 00206:59
 msgid "Sempai sounded really annoyed as he lit his cigarette. He inhaled deeply, and breathed out the smoke."
-msgstr ""
+msgstr "Parecía estar mosqueado."
 
 #: 00206:60
 msgid ""
 "{Panchu}\n"
 "\"...'ey're 'oo imma'ure 'or 'e.\""
 msgstr ""
+"{Panchu-}\n"
+"\"...No me gusta el olor a bebé que tienen.\""
 
 #: 00206:68
 msgid ""
 "{Pierre}\n"
 "\"C...\""
 msgstr ""
+"{Pierre}\n"
+"\"Vaya...\""
 
 #: 00206:69
 msgid ""
 "{Appo}\n"
 "\"Cool......!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Mola...!\""
 
 #: 00206:70
 msgid ""
 "{Daigo}\n"
 "\"I wish I could say that.\""
 msgstr ""
+"{Daigo}\n"
+"\"Me gustaría por decir eso...\""
 
 #: 00206:71
 msgid "We were in awe of sempai as he puffed on his cigarette."
-msgstr ""
+msgstr "Estabamos sobrecogidos por su posición."
 
 #: 00206:77
 msgid ""
 "{Panchu}\n"
 "\"'our 'u'age?\""
 msgstr ""
+"{Panchu-}\n"
+"\"Equipaje.\""
 
 #: 00206:78
 msgid "Panchu was staring at the luggage we'd brought with us."
-msgstr ""
+msgstr "Se estaba preguntando por qué teníamos el equipaje aquí."
 
 #: 00206:79
 msgid ""
 "{Kazushi}\n"
 "\"This isn't...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Es que...\""
 
 #: 00206:84
 msgid ""
 "{Pierre}\n"
 "\"It's nothing. We were just trying to get our stuff in order.\""
 msgstr ""
+"{Pierre}\n"
+"\"No es por nada. Tratábamos de poner las cosas en orden.\""
 
 #: 00206:85
 msgid "Sempai looked at our luggage, then out over the ocean, and finally back at us."
-msgstr ""
+msgstr "Miró al océano y dijo:"
 
 #: 00206:89
 msgid ""
 "{Panchu}\n"
 "\"Ea' 'ome 'read.\""
 msgstr ""
+"{Panchu-}\n"
+"\"Comed panecillos.\""
 
 #: 00206:90
 msgid ""
 "{Kazushi}\n"
 "\"Huh?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué?\""
 
 #: 00206:91
 msgid "The bag rustled as he pulled out some anpan from the Ida Family Bakery."
-msgstr ""
+msgstr "Sacó un trozo de pan para nosotros."
 
 #: 00206:92
 msgid ""
 "{Panchu}\n"
 "\"Ea' it.\""
 msgstr ""
+"{Panchu-}\n"
+"\"Coméoslo.\""
 
 #: 00206:97
 msgid ""
 "{Daigo}\n"
 "\"Are you sure? There's only one?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Estás seguro de que podemos?\""
 
 #: 00206:98
 msgid ""
 "{Panchu}\n"
 "\"Ju' ea' it.\""
 msgstr ""
+"{Panchu-}\n"
+"\"Coméoslo.\""
 
 #: 00206:99
 msgid "He shoved the bread at us."
-msgstr ""
+msgstr "Introduce el pan en la boca de Daigo."
 
 #: 00206:100
 msgid ""
 "{Panchu}\n"
 "\"Ea' it an' 'eel 'rong.\""
 msgstr ""
+"{Panchu-}\n"
+"\"Este pan os hará sentiros fuertes.\""
 
 #: 00206:101
 msgid ""
 "{Kazushi}\n"
 "\"Sempai...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Panchu-...\""
 
 #: 00206:109
 msgid ""
 "{Pierre}\n"
 "\"F-fhanf hou, fir!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡¡Muchas gracias...!!\""
 
 #: 00206:110
 msgid "The four of us ripped apart the anpan and gobbled up our share. We were so hungry it tasted like the most delicious thing we'd ever had."
-msgstr ""
+msgstr "Los cuatro chicos compartimos el pan. Era la cosa mas deliciosa que habíamos probado nunca."
 
 #: 00206:116
 msgid ""
 "{Panchu}\n"
 "\"Hah... Whe' 'ou're 'one, hea' 'ack 'o 'he 'orm.\""
 msgstr ""
+"{Panchu-}\n"
+"\"Eh...\n"
+"Volved al dormitorio cuando os lo hayáis comido, ¿vale?\""
 
 #: 00206:117
 msgid ""
 "{Appo}\n"
 "\"Yes, sir!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¡Sí!!\""
 
 #: 00206:118
 msgid ""
 "{Kazushi}\n"
 "\"Thanks, Panchu!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡Gracias!!\""
 
 #: 00206:122
 msgid "A trail of smoke followed Panchu as left. He looked so strong and manly as he walked away."
-msgstr ""
+msgstr "Se marchó mientras se encendía otro cigarrillo y empezaba a fumar."
 
 #: 00206:129
 msgid ""
 "{Daigo}\n"
 "\"I think I'm falling in love with him.\""
 msgstr ""
+"{Daigo}\n"
+"\"Me estoy enamorando de él.\""
 
 #: 00206:130
 msgid ""
 "{Appo}\n"
 "\"I don't need girls anymore!! I'm going after Panchu-sempai!!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¡Ya no me importan las chicas!!\""
 
 #: 00206:131
+# Añadido lo de rancia.
 msgid ""
 "{Pierre}\n"
 "\"Women're annoying! They're immature!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡¡Huelen a leche rancia!!\""
 
 #: 00206:132
 msgid ""
 "{Kazushi}\n"
 "\"From tomorrow on, we're going for stalwart men!\""
 msgstr ""
+"{Kazushi}\n"
+"\"A partir de mañana, ¡no les prestaremos atención!\""
 
 #: 00206:135
 msgid ""
 "{Daigo}\n"
 "\"Women're immature!\""
 msgstr ""
+"{Daigo}\n"
+"\"¡¡Huelen a leche rancia!!\""
 
 #: 00206:141
 msgid ""
 "{Ran}\n"
 "\"Oh, there you are! Heeey!!\""
 msgstr ""
+"{Ran}\n"
+"\"¡¡Aquí estáis...!!\""
 
 #: 00206:146
 msgid "Ran's small silhouette was running towards us."
-msgstr ""
+msgstr "Era Ran."
 
 #: 00206:154
 msgid ""
 "{Appo}\n"
 "\"Annoying broad...\""
 msgstr ""
+"{Appo-}\n"
+"\"Es molesta...\""
 
 #: 00206:155
 msgid ""
 "{Pierre}\n"
 "\"So immature!\""
 msgstr ""
+"{Pierre}\n"
+"\"Huele a leche rancia.\""
 
 #: 00206:161
 msgid ""
 "{Ran}\n"
 "\"Heeey! I snuck food out for you guys!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Os he traído algo para comer!\""
 
 #: 00206:169
 msgid ""
 "{Daigo}\n"
 "\"What......?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Qué...?\""
 
 #: 00206:170
+# Revisar lo de leche/leche rancia. Aunque posiblemente debería cambiarse por otra cosa que hiciese que todo tuviese sentido.
 msgid ""
 "{Kazushi}\n"
 "\"I bet her food stinks too!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Su comida debe oler a leche.\""
 
 #: 00206:173
 msgid ""
 "{Appo}\n"
 "\"S-seriously?!\""
 msgstr ""
+"{Appo-}\n"
+"\"¿¡En serio!?\""
 
 #: 00206:176
 msgid ""
 "{Pierre}\n"
 "\"Yeeeeees! You're the best, Ran-chan!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Sííí...!\n"
+"Ran, ¡¡eres la mejor!!\""
 
 #: 00206:177
 msgid ""
 "{Kazushi}\n"
 "\"Um, you guys?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eh, ¿chicos?\""
 
 #: 00206:187
 msgid ""
 "{Ran}\n"
 "\"It's just our leftovers, so sorry there's not much. There's rice balls and side dishes. You guys were starving, right?\""
 msgstr ""
+"{Ran}\n"
+"\"Lo siento, estábais castigados. Pero os estáis muriendo de hambre, ¿no?\""
 
 #: 00206:190
 msgid ""
 "{Appo}\n"
 "\"Yeaaaaaaaaaah!! I've never had a girl's handmade food before!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¡Sí!!\n"
+"¡Nunca me ha dado de comer una chica!\""
 
 #: 00206:193
 msgid ""
 "{Pierre}\n"
 "\"You're so nice, so caring. Women are great!\""
 msgstr ""
+"{Pierre}\n"
+"\"Eres tan amable.\n"
+"¡Este mund necesita a las mujeres...!\""
 
 #: 00206:196
 msgid ""
 "{Daigo}\n"
 "\"I love girls.\""
 msgstr ""
+"{Daigo}\n"
+"\"Amo a las mujeres.\""
 
 #: 00206:197
 msgid ""
 "{Kazushi}\n"
 "\"...don't you guys ever think with your brains and not your dicks?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿No teníais ya otra opinión?\""
 
 #: 00206:198
 msgid "I was amazed at how their opinions changed as fast a flip of the hand."
-msgstr ""
+msgstr "Estaba sorprendido de lo rápido que pueden llegar a cambiar su opinión."
 
 #: 00206:201
 msgid ""
@@ -406,6 +532,9 @@ msgid ""
 "\"This looks great!\n"
 "Thanks!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Tiene una pinta estupenda!\n"
+"¡Gracias!\""
 
 #: 00206:205
 msgid "Slap!"
@@ -413,47 +542,59 @@ msgstr ""
 
 #: 00206:206
 msgid "Ran slapped Appo's hand as he reached for the food."
-msgstr ""
+msgstr "Ran abofeteó la mano de Daigo."
 
 #: 00206:213
 msgid ""
 "{Appo}\n"
 "\"Ouch! What'd you do that for?!\""
 msgstr ""
+"{Appo-}\n"
+"\"Au. ¿Por qué has hecho eso?\""
 
 #: 00206:214
 msgid ""
 "{Ran}\n"
 "\"Come on, isn't there something you should do before you eat?\""
 msgstr ""
+"{Ran}\n"
+"\"¿No sabes lo que hay que hacer antes de comer?\""
 
 #: 00206:217
 msgid ""
 "{Appo}\n"
 "\"What is that supposed to be, some kind of riddle?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Qué quieres decir?\""
 
 #: 00206:220
 msgid ""
 "{Ran}\n"
 "\"You know, this.\""
 msgstr ""
+"{Ran}\n"
+"\"Ya sabes, esto.\""
 
 #: 00206:221
 msgid "Ran made the sign for money with her hands."
-msgstr ""
+msgstr "Ran hizo un círculo con los dedos."
 
 #: 00206:228
 msgid ""
 "{Daigo}\n"
 "\"Money?!\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Dinero?\""
 
 #: 00206:231
 msgid ""
 "{Ran}\n"
 "\"Bingo! Correct!!\""
 msgstr ""
+"{Ran}\n"
+"\"¡¡¡Eso es!!!\""
 
 #: 00206:234
 msgid ""
@@ -461,48 +602,67 @@ msgid ""
 "\"What?!\n"
 "You're seriously charging us?\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¿Qué?!\n"
+"¿¡Me estás cobrando!?\""
 
 #: 00206:237
 msgid ""
 "{Ran}\n"
 "\"Of course I am. Why would I want to feed you guys for free?\""
 msgstr ""
+"{Ran}\n"
+"\"Pues claro.\n"
+"¿Por qué iba a tener que prepararte la comida gratis?\""
 
 #: 00206:241
 msgid ""
 "{Pierre}\n"
 "\"Immature broad!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Huele a leche rancia!\""
 
 #: 00206:242
 msgid ""
 "{Ran}\n"
 "\"Look, are you going to eat it or not? If you don't, I'll go feed it to the stray cats.\""
 msgstr ""
+"{Ran}\n"
+"\"¿Queréis o no?\""
 
 #: 00206:245
 msgid ""
 "{Pierre}\n"
 "\"Fine! I'll pay up! How much?!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Está bien!\n"
+"¡¡¿Cuánto?!!\""
 
 #: 00206:248
 msgid ""
 "{Ran}\n"
 "\"1000 yen each.\""
 msgstr ""
+"{Ran}\n"
+"\"1000 yenes por cabeza.\""
 
 #: 00206:251
 msgid ""
 "{Appo}\n"
 "\"That's highway robbery!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Eso es caro!\""
 
 #: 00206:257
 msgid ""
 "{Pierre}\n"
 "\"Damn girls! Damn girls! Chomp chomp chomp!!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Odio a las chicas!\""
 
 #: 00206:263
 msgid ""
@@ -510,6 +670,9 @@ msgid ""
 "\"Wow!\n"
 "You guys were really starving!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Vaya, chicos!\n"
+"¡Sí que os estábais muriendo de hambre!\""
 
 #: 00206:271
 msgid ""
@@ -517,130 +680,164 @@ msgid ""
 "\"Aw hell...\n"
 "It's delicious!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Joder!\n"
+"¡¡Esto está de muerte...!!\""
 
 #: 00206:273
 msgid "*Growl*"
-msgstr ""
+msgstr "[Mi estómago vacío empieza a rugir]"
 
 #: 00206:274
 msgid "I couldn't blame my stomach. I hadn't eaten anything since getting off the boat."
-msgstr ""
+msgstr "Y no le culpo. No he pegado bocado desde que llegué."
 
 #: 00206:280
 msgid ""
 "{Ran}\n"
 "\"Kazushi, you're not eating? If you don't take some soon, it'll all be gone.\""
 msgstr ""
+"{Ran}\n"
+"\"¿Tú no tienes hambre, Kazushi?\""
 
 #: 00206:281
+# ## Cambio de escena. En la habitación.
 msgid ""
 "{Kazushi}\n"
 "\"......I am. I'll eat.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Comeré...\""
 
 #: 00206:282
 msgid "It's better to not have to think about our situation on an empty stomach."
-msgstr ""
+msgstr "Ya pensaré sobre nuestra situación después de comer algo."
 
 #: 00206:291
 msgid ""
 "{Kazushi}\n"
 "\"...So we came back.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Así que hemos vuelto.\""
 
 #: 00206:292
 msgid "We just arrived, so our room was empty. It didn't feel like our room at all yet."
-msgstr ""
+msgstr "Es una habitación vacía."
 
 #: 00206:299
 msgid ""
 "{Pierre}\n"
 "\"Both of the rooms are identical.\""
 msgstr ""
+"{Pierre}\n"
+"\"Las dos habitaciones son iguales.\""
 
 #: 00206:300
 msgid ""
 "Appo and I shared one room.\n"
 "Pierre and Daigo took the one next door."
 msgstr ""
+"Yo y Appo- compartimos la habitación.\n"
+"Mientras que Pierre y Daigo están en la de al lado."
 
 #: 00206:301
 msgid "Yet, the four of us still gathered in one room. We just felt like that right now."
-msgstr ""
+msgstr "Aunque nos gusta verlo como una única habitación que compartimos los 4."
 
 #: 00206:304
 msgid ""
 "{Appo}\n"
 "\"I still can't believe what happened back there.\""
 msgstr ""
+"{Appo-}\n"
+"\"Todavía no puedo creer en lo que he visto.\""
 
 #: 00206:307
 msgid ""
 "{Pierre}\n"
 "\"How can the ocean just drop like that? That's impossible!\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Cómo puede ser que toda la línea costera haya bajado varios cientos de metros en un solo minuto?\""
 
 #: 00206:310
 msgid ""
 "{Daigo}\n"
 "\"I think we're trapped here.\""
 msgstr ""
+"{Daigo}\n"
+"\"Creo que estamos atrapados.\""
 
 #: 00206:311
 msgid ""
 "{Kazushi}\n"
 "\"I think so too.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Yo también lo creo.\""
 
 #: 00206:312
 msgid "This island is crazy. The ocean sinks, the signposts are killing machines that attack..."
 msgstr ""
+"Esta isla es muy extraña.\n"
+"La sirena, la señal viviente... todo."
 
 #: 00206:313
 msgid "Who knows what else there is. I felt like a bird in a cage."
-msgstr ""
+msgstr "Y estoy convencido de que hay un montón más."
 
 #: 00206:314
 msgid ""
 "{Kazushi}\n"
 "\"I don't want anything else to happen to us. Not today.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me gustaría poder decir ¡buenas noches'. Estoy hecho polvo.\""
 
 #: 00206:318
 msgid "I was beat. I just wanted some rest."
-msgstr ""
+msgstr "Quiero descansar."
 
 #: 00206:321
 msgid ""
 "{Pierre}\n"
 "\"Hhh?!\""
 msgstr ""
+"{Pierre}\n"
+"\"¿¡Qué...!?\""
 
 #: 00206:322
 msgid "Just as I was hoping for quiet, Pierre began to scream. His eyes were popping out."
-msgstr ""
+msgstr "Nada más decir eso, Pierre grió por algún motivo."
 
 #: 00206:323
 msgid ""
 "{Kazushi}\n"
 "\"Speak of the devil. What now?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Y ahora qué pasa?\""
 
 #: 00206:324
 msgid ""
 "{Pierre}\n"
 "\"L-look...\""
 msgstr ""
+"{Pierre}\n"
+"\"Mira eso...\""
 
 #: 00206:325
 msgid "His trembling finger pointed behind me."
-msgstr ""
+msgstr "Su tembloroso dedo está apuntando detrás de mí."
 
 #: 00206:330
 msgid ""
 "{Appo}\n"
 "\"What is... Hhhh?!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Dios...!\""
 
 #: 00206:331
 msgid ""
@@ -648,210 +845,273 @@ msgid ""
 "\"Y-you too, Appo?\n"
 "What the hell is going on?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Tu también, Appo-?\n"
+"¿Qué ocurre...?\""
 
 #: 00206:335
 msgid ""
 "{Kazushi}\n"
 "\"Hhhhhh?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Pero qué...!?\""
 
 #: 00206:336
 msgid ""
 "{Daigo}\n"
 "\"I-it's here!\""
 msgstr ""
+"{Daigo}\n"
+"\"¡¡No!!\""
 
 #: 00206:337
 msgid ""
 "{Pierre}\n"
 "\"I-i-it's a ghost!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡¡Un fantasma!!\""
 
 #: 00206:338
 msgid "The dripping spectre of a soaking wet girl was watching our room from the window."
-msgstr ""
+msgstr "¡Una chica empapada está mirando nuestra habitación desde la ventana!"
 
 #: 00206:339
 msgid ""
 "{Haruka}\n"
 "\"Hey, you're in there.\""
 msgstr ""
+"{Haruka}\n"
+"\"Estáis aquí...\""
 
 #: 00206:340
 msgid ""
 "{Kazushi}\n"
 "\"H-huh? Haruka?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Es Haruka...?\""
 
 #: 00206:341
 msgid "It was Haruka? Why was she peeping at us? For that matter, why is she soaking wet?"
 msgstr ""
+"Es Haruka.\n"
+"¿Qué hace empapada?"
 
 #: 00206:342
 msgid "Her hair was plastered to her cheeks, and her resentful expression made her look just like the ghost of a drowned maiden."
-msgstr ""
+msgstr "Parece exáctamente un fantasma."
 
 #: 00206:343
 msgid ""
 "{Haruka}\n"
 "\"If you came back, you should have told me sooner. I was convinced you guys had fallen into the ocean.\""
 msgstr ""
+"{Haruka}\n"
+"\"No sabía que estábais en el dormitorio. Me tuve que meter en el mar para buscaros.\""
 
 #: 00206:344
 msgid ""
 "{Kazushi}\n"
 "\"Huh? S-so wait, you're all wet because of us?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué...?\n"
+"¿Estás empapada por eso?\""
 
 #: 00206:345
 msgid ""
 "{Pierre}\n"
 "\"Did you jump in because you thought we fell in?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Pensaste que nos habíamos caído en el mar?\""
 
 #: 00206:346
 msgid ""
 "{Appo}\n"
 "\"How could she have? That's an insanely long fall.\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Por qué íbamos a hacer eso?\""
 
 #: 00206:347
 msgid ""
 "{Haruka}\n"
 "\"It is, so be careful not to fall. I'm just glad you guys are here and safe.\""
 msgstr ""
+"{Haruka}\n"
+"\"Me alegro mucho de que estéis bien.\""
 
 #: 00206:348
 msgid "The fact she worried about us that much really touched my heart."
-msgstr ""
+msgstr "El hecho de que estuviese tan preocupada por nosotros, me llegó al alma."
 
 #: 00206:349
 msgid ""
 "{Kazushi}\n"
 "\"Haruka, do you really want us to stay on the island?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Haruka, ¿nos queréis en esta isla?\""
 
 #: 00206:350
 msgid "I was starting to get worried that maybe nobody wants us here......"
-msgstr ""
+msgstr "Había empezado a preocuparme de que quizá nadie nos quería aquí..."
 
 #: 00206:351
 msgid ""
 "{Haruka}\n"
 "\"Of course! I don't want you to leave at all, okay?\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Pues claro!\n"
+"Por favor, ¡no os marchéis de la isla tan pronto, ¿vale?!\""
 
 #: 00206:352
 msgid ""
 "{Kazushi}\n"
 "\".........\""
 msgstr ""
+"{Kazushi}\n"
+"\"...\""
 
 #: 00206:353
 msgid "Her answer touched all of our hearts. Here was a girl who actually wanted us to be here."
-msgstr ""
+msgstr "Supongo que no soy el único. Ha llegado al corazón de todos."
 
 #: 00206:354
 msgid ""
 "{Pierre}\n"
 "\"Did you guys hear that?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Habéis oído eso?\""
 
 #: 00206:355
 msgid ""
 "{Daigo}\n"
 "\"......Yep.\""
 msgstr ""
+"{Daigo}\n"
+"\"Sip...\""
 
 #: 00206:356
 msgid ""
 "{Appo}\n"
 "\"Well, if she insists.\""
 msgstr ""
+"{Appo-}\n"
+"\"Bueno, si insiste...\""
 
 #: 00206:357
 msgid ""
 "{Kazushi}\n"
 "\"She's left us no choice.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No nos deja elección.\""
 
 #: 00206:358
 msgid "We're not trapped here. We chose to be here."
-msgstr ""
+msgstr "No estamos encerrados, sino que elegimos permanecer aquí."
 
 #: 00206:359
 msgid ""
 "{Haruka}\n"
 "\"Huh? What's wrong guys? Did I say something strange? Do you... still want to leave?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Os he dicho algo que os haya ofendido...?\""
 
 #: 00206:360
 msgid ""
 "{Kazushi}\n"
 "\"Nope, we're not leaving. Besides, we can't leave now.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No. No nos importa estar aquí.\""
 
 #: 00206:361
 msgid ""
 "{Haruka}\n"
 "\"Ahaha, true. You had me worried though.\""
 msgstr ""
+"{Haruka}\n"
+"\"Además, es un pelín difícil dejar la isla...\""
 
 #: 00206:362
 msgid ""
 "{Kazushi}\n"
 "\"Did you really go searching the waters to try and find us?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿De verdad que te has metido en el mar para buscarnos?\""
 
 #: 00206:363
 msgid ""
 "{Haruka}\n"
 "\"Yep.\""
 msgstr ""
+"{Haruka}\n"
+"\"Sip.\""
 
 #: 00206:364
 msgid ""
 "{Pierre}\n"
 "\"She's soaking wet. I can see her bra.\""
 msgstr ""
+"{Pierre}\n"
+"\"Está realmente empapada. Puedo verle el sujetador.\""
 
 #: 00206:365
 msgid ""
 "{Appo}\n"
 "\"B-bra-brassiere?!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¿En serio?!\""
 
 #: 00206:366
 msgid ""
 "{Kazushi}\n"
 "\"Wow......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vaya...\""
 
 #: 00206:367
 msgid "Just like most girls, she was wearing a fancy bra. We could clearly see the lace fringe of her bra through her wet shirt."
-msgstr ""
+msgstr "Pierre tenía razón. Llevaba un sujetador muy sugerente."
 
 #: 00206:368
 msgid ""
 "{Haruka}\n"
 "\"Huh? ...ACK!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡¿Qué...?! ¡no!\""
 
 #: 00206:370
 msgid "She rushed to cover herself up."
-msgstr ""
+msgstr "Se cubre rápidamente."
 
 #: 00206:371
 msgid ""
 "{Appo}\n"
 "\"Tsk, should've stayed quiet.\""
 msgstr ""
+"{Appo-}\n"
+"\"No deberíamos haberselo dicho.\""
 
 #: 00206:372
 msgid ""
 "{Daigo}\n"
 "\"It's securely saved in my memory.\""
 msgstr ""
+"{Daigo}\n"
+"\"Está guardado con celo en mis recuerdos.\""
 
 #: 00206:373
 msgid ""
@@ -859,54 +1119,74 @@ msgid ""
 "\"Really!?\n"
 "Draw her for me later!\""
 msgstr ""
+"{Pierre}\n"
+"\"¿¡En serio!?\n"
+"¡Sácalo de ahí luego para mí!\""
 
 #: 00206:374
 msgid ""
 "{Haruka}\n"
 "\"You're kidding, right?\""
 msgstr ""
+"{Haruka}\n"
+"\"¡¿Lo decís en broma, no?!\""
 
 #: 00206:375
 msgid ""
 "{Kazushi}\n"
 "\"Of course he is.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Claro que lo dice en broma.\""
 
 #: 00206:376
 msgid ""
 "{Kazushi}\n"
 "(Later, OK?)"
 msgstr ""
+"{Kazushi}\n"
+"(¿Luego, eh?)"
 
 #: 00206:377
 msgid ""
 "{Boys}\n"
 "(Mm, mm.)"
 msgstr ""
+"{Chicos}\n"
+"(Asintiendo con la cabeza.)"
 
 #: 00206:378
 msgid ""
 "{Haruka}\n"
 "\"I don't trust you guys. If you're lying, you'll get expelled, okay? Don't make me exercise my authority as the principal's granddaughter!\""
 msgstr ""
+"{Haruka}\n"
+"\"No os creo.\n"
+"Recordad que mi abuela es la directora.\""
 
 #: 00206:379
 msgid ""
 "{Kazushi}\n"
 "\"Expelled?\""
 msgstr ""
+"{Kazushi}\n"
+"\"No iréis a expulsarnos por eso, ¿no...?\""
 
 #: 00206:380
 msgid ""
 "{Pierre}\n"
 "\"The principal's granddaughter has that kind of authority?\""
 msgstr ""
+"{Pierre}\n"
+"\"Vaya, sí que tienes poder.\""
 
 #: 00206:383
 msgid ""
 "{Haruka}\n"
 "\"Oh, and it looks like there are still some girls holding animosity towards you guys after this afternoon, so don't let your desires get carried away, okay?\""
 msgstr ""
+"{Haruka}\n"
+"\"Y también de ahora en adelante, no más guarradas, ¿vale?\""
 
 #: 00206:385
 msgid ""
@@ -916,19 +1196,23 @@ msgstr ""
 
 #: 00206:386
 msgid "That's right, this is a boarding school. Just as we aren't used to girls, the girls here aren't used to us guys."
-msgstr ""
+msgstr "Tiene razón. Muchas chicas de aquí no son inmunes a la naturaleza de los chicos."
 
 #: 00206:387
 msgid ""
 "{Pierre}\n"
 "\"They're just like us. That means our feelings should be able to reach them.\""
 msgstr ""
+"{Pierre}\n"
+"\"Solo tratábamos de llevarnos bien con ellas.\""
 
 #: 00206:388
 msgid ""
 "{Kazushi}\n"
 "\"We got it. We'll behave ourselves.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Entendido. Nos comportaremos.\""
 
 #: 00206:389
 msgid ""
@@ -936,70 +1220,89 @@ msgid ""
 "\"Please do.\n"
 "Actually, a lot of the girls were excited to have some boys arriving.\""
 msgstr ""
+"{Haruka}\n"
+"\"Hacedlo por favor.\n"
+"La verdad es que había un montón de chicas entusiasmadas por teneros aquí.\""
 
 #: 00206:390
 msgid ""
 "{Haruka}\n"
 "\"Including me.\""
 msgstr ""
+"{Haruka}\n"
+"\"Incluyéndome a mí.\""
 
 #: 00206:391
 msgid ""
 "{Kazushi}\n"
 "\"Really?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿En serio?\""
 
 #: 00206:392
 msgid "I'd never thought of that. I thought they'd consider us nuisances in their garden of women."
-msgstr ""
+msgstr "No podíamos siquiera imaginarnos que estuviesen contentas de tenernos aquí."
 
 #: 00206:393
 msgid ""
 "{Haruka}\n"
 "\"Everyone's excited. We're all hoping something different will happen this summer. So let's all get along and have a good time, okay?\""
 msgstr ""
+"{Haruka}\n"
+"\"Vosotros también queréis llevaros bien con ellas y pasar un buen verano también, ¿no?\""
 
 #: 00206:394
 msgid ""
 "{Kazushi}\n"
 "\"Yeah, of course.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Claro.\""
 
 #: 00206:395
 msgid "All my buddies were nodding at that."
-msgstr ""
+msgstr "Todos mis colegas están asintiendo."
 
 #: 00206:396
 msgid ""
 "{Haruka}\n"
 "\"Good. Then things are going to be just fine.\""
 msgstr ""
+"{Haruka}\n"
+"\"Vale. Todo irá bien entonces.\""
 
 #: 00206:397
 msgid "She gave us a big smile."
-msgstr ""
+msgstr "Nos ofrece una amplia sonrisa."
 
 #: 00206:398
 msgid ""
 "{Haruka}\n"
 "\"Alright, I need to head back now. See you boys tomorrow! Good night!\""
 msgstr ""
+"{Haruka}\n"
+"\"Muy bien. Debería volver ya. Nos vemos mañana, chicos.\""
 
 #: 00206:399
 msgid ""
 "{Kazushi}\n"
 "\"Good night.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Buenas noches.\""
 
 #: 00206:400
 msgid ""
 "{Appo}\n"
 "\"Have a good night!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Buenas noches!\""
 
 #: 00206:401
 msgid "She waved to us as she left."
-msgstr ""
+msgstr "Se despidió con la mano mientras se marchaba."
 
 #: 00206:409
 msgid ""
@@ -1007,288 +1310,349 @@ msgid ""
 "\"'Good night'......\n"
 "What a nice phrase...\""
 msgstr ""
+"{Pierre}\n"
+"\"\"Buenas noches\"...\n"
+"Qué frase mas agradable.\""
 
 #: 00206:410
 msgid ""
 "{Appo}\n"
 "\"I've never had a girl tell me good night before! Good night... Good night... She said good night...\""
 msgstr ""
+"{Appo-}\n"
+"\"Nunca había dicho buenas noches a una chica...\""
 
 #: 00206:413
 msgid ""
 "{Appo}\n"
 "\"AAAAARRRGGGHHH! What should I do!? How should I answer Haruka-chan's feelings?!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Dios...! ¿¡Qué debería hacer!?\""
 
 #: 00206:414
 msgid ""
 "{Kazushi}\n"
 "\"Sleep.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Diría que dormir.\""
 
 #: 00206:415
 msgid ""
 "{Pierre}\n"
 "\"We also got to see something nice. I think this island might be good after all.\""
 msgstr ""
+"{Pierre}\n"
+"\"Acabo de ver algo maravilloso. Me gusta esta isla.\""
 
 #: 00206:416
 msgid ""
 "{Daigo}\n"
 "\".............Heh, heh, heh.\""
 msgstr ""
+"{Daigo}\n"
+"\"Sí...\""
 
 #: 00206:417
 msgid ""
 "{Kazushi}\n"
 "\"Stop picturing her naked. You look eight times more perverted than normal.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Oye Daigo, deja de imaginártela desnuda.\""
 
 #: 00206:420
 msgid ""
 "{Pierre}\n"
 "\"Well, this might be last time we get excited over just that. I bet we'll have more happy accidents in the future. After all, this place is full of girls.\""
 msgstr ""
+"{Pierre}\n"
+"\"Estoy convencido de que vamos a tener un montón de felices accidentes como el de esta noche en el futuro.\""
 
 #: 00206:423
 msgid ""
 "{Appo}\n"
 "\"Soon panty shots and bra shots will be so common place we'll be saying, 'Panty shot? What about it?'\""
 msgstr ""
+"{Appo-}\n"
+"\"Hoy ha sido un sujetador. Quién sabe qué será lo siguiente...\""
 
 #: 00206:426
 msgid ""
 "{Daigo}\n"
 "\"Th-that's so mature!\""
 msgstr ""
+"{Daigo}\n"
+"\"Tienes razón.\""
 
 #: 00206:429
 msgid ""
 "{Pierre}\n"
 "\"I'm glad our escape attempt was foiled! I'm looking forward to tomorrow!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Me alegro de que nuestro intento de escapar fracasase!\""
 
 #: 00206:430
 msgid "Only a few minutes ago, we were depressed, but now we were excited. Being simpletons isn't all bad."
-msgstr ""
+msgstr "Resulta difícil recordar que estábamos pensando en escapar."
 
 #: 00206:431
 msgid "We can forget the bad things and do our best. It's not like we're leaving this island now."
-msgstr ""
+msgstr "Esa debe de ser una de nuestras virtudes."
 
 #: 00206:435
 msgid ""
 "{Kazushi}\n"
 "\"Mmn.....Mmn...\""
 msgstr ""
+"{Kazushi}\n"
+"*Hablando en la cama*"
 
 #: 00206:436
 msgid "Must be the new pillow. For once, I woke up in the middle of the night."
-msgstr ""
+msgstr "Por algún motivo, no podía dormirme."
 
 #: 00206:437
 msgid ""
 "{Kazushi}\n"
 "\"What time is it......?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué hora es...?\""
 
 #: 00206:438
 msgid "It's 2AM."
-msgstr ""
+msgstr "Son las 2 de la madrugada."
 
 #: 00206:439
 msgid ""
 "{Kazushi}\n"
 "\"It's the dead of night. Why'd I wake up at this hour?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Estamos en mitad de la noche.\""
 
 #: 00206:440
 msgid "It felt freezing in our little shack. No, maybe it was just cool. But it was so hot this afternoon I never expected it."
-msgstr ""
+msgstr "Hace frío. Es difícil creerlo con el calorazo que hacía por la tarde."
 
 #: 00206:441
 msgid ""
 "{Kazushi}\n"
 "\"I'm too awake to sleep. I'm going for a walk.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Estoy completamente despierto. Creo que voy a dar una vuelta.\""
 
 #: 00206:444
 msgid ""
 "{Kazushi}\n"
 "\"Brr. It really gets cold here.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Aquí hace más frío todavía.\""
 
 #: 00206:445
 msgid "The island's temperatures fluctuated like a series of plateaus."
-msgstr ""
+msgstr "Los cambios de temperatura de esta isla son como los de una montaña."
 
 #: 00206:447
 msgid "The heavens were filled with stars. There were no lights here, so I saw more stars than I could have believed existed."
-msgstr ""
+msgstr "Puedo ver una cantidad increíble de estrellas desde aquí."
 
 #: 00206:448
 msgid "It was like being thrown out into space."
-msgstr ""
+msgstr "Es como si estuviese en el espacio."
 
 #: 00206:449
 msgid ""
 "{Kazushi}\n"
 "\"This is amazing. Ah, there's a shooting star!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vaya. Creo que acabo de ver una estrella fugaz.\""
 
 #: 00206:450
 msgid "I actually got to see two of them in a really short time."
-msgstr ""
+msgstr "En realidad he llegado a ver dos en un lapso muy pequeño de tiempo."
 
 #: 00206:451
 msgid ""
 "{Kazushi}\n"
 "\"I didn't know shooting stars were this easy to see.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No sabía que hubiese tantas.\""
 
 #: 00206:452
 msgid "The scene was so impressive it might change my outlook on life. I could never get bored watching the stars."
-msgstr ""
+msgstr "Creo que no me cansaría nunca de ver las estrellas."
 
 #: 00206:453
 msgid ""
 "{Kazushi}\n"
 "\"Ouch...... My neck......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Au, mi cuello...\""
 
 #: 00206:454
 msgid "I stood there looking up so long my neck started to hurt. Then I laid down on the ground so I could keep watching."
-msgstr ""
+msgstr "Me tumbé hacia arriba para poder ver las estrellas."
 
 #: 00206:455
 msgid "I couldn't see anything but the stars."
-msgstr ""
+msgstr "No veía otra cosa que no fuesen las estrellas."
 
 #: 00206:456
 msgid ""
 "{Kazushi}\n"
 "\"This is amazing......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Es increíble...\""
 
 #: 00206:457
 msgid "It was so quiet I felt like I could hear the stars. I felt like I was the only one awake in the world right now."
-msgstr ""
+msgstr "Tenía la sensación de que solo estábamos yo y las estrellas en este mundo."
 
 #: 00206:458
 msgid "As I lay here gazing at the starry sky, I could hear my heartbeat. I closed my eyes and listened to it."
-msgstr ""
+msgstr "Tan tranquilo... Podía hasta sentir el latido de mi corazón."
 
 #: 00206:462
 msgid ""
 "{Kazushi}\n"
 "\"Hmm?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡...!! ¿...?\""
 
 #: 00206:463
 msgid "There was a sound in this silent world. It sounded like something with weight treading the earth. It came from near my head."
-msgstr ""
+msgstr "Creo que acabo de oír a alguien acercándose a mí."
 
 #: 00206:464
 msgid ""
 "{???}\n"
 "\"Is it dead?\""
 msgstr ""
+"{???}\n"
+"\"¿Está muerto?\""
 
 #: 00206:465
 msgid "It's a girl!"
-msgstr ""
+msgstr "Es una chica."
 
 #: 00206:466
 msgid ""
 "{???}\n"
 "\"Hmm...\""
 msgstr ""
+"{???}\n"
+"\"Veamos...\""
 
 #: 00206:467
 msgid "I could sense her peering at me from above. I felt her gaze upon me. My skin was itching."
-msgstr ""
+msgstr "Creo que me están mirando la cara desde arriba."
 
 #: 00206:468
 msgid ""
 "{???}\n"
 "\"Yeah, it's a corpse. Who left it here?\""
 msgstr ""
+"{???}\n"
+"\"Está muerto.\""
 
 #: 00206:469
 msgid "She thinks I'm a corpse? Who is it? She sounds young."
-msgstr ""
+msgstr "¿Quién ha dejado un cadáver aquí?"
 
 #: 00206:470
 msgid ""
 "{???}\n"
 "\"Eyesore. I'll toss it in the ocean.\""
 msgstr ""
+"{???}\n"
+"\"Deberíamos tirarlo al mar.\""
 
 #: 00206:471
 msgid "What?"
-msgstr ""
+msgstr "¿Qué?"
 
 #: 00206:472
 msgid "Yoink."
-msgstr ""
+msgstr "*Chica cogiendo los brazos de Kazushi*"
 
 #: 00206:473
 msgid "She was dragging me. Was she really going to do it?"
-msgstr ""
+msgstr "¿Van a tirarme al mar de verdad?"
 
 #: 00206:474
 msgid ""
 "{Kazushi}\n"
 "\"Hey, wait!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Oye, espera...\""
 
 #: 00206:475
 msgid "I had to sit up."
-msgstr ""
+msgstr "Tuve que dejar de fingir..."
 
 #: 00206:477
 msgid "Bump!"
-msgstr ""
+msgstr "*Colisión*"
 
 #: 00206:478
 msgid ""
 "{Kazushi}\n"
 "\"Nmm?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡!?\""
 
 #: 00206:483
 msgid ""
 "{???}\n"
 "\"......!?\""
 msgstr ""
+"{???}\n"
+"\"¿¡...!?\""
 
 #: 00206:484
 msgid "I felt something on my lips. It didn't hurt; it felt warm."
-msgstr ""
+msgstr "Sentí algo en los labios."
 
 #: 00206:485
 msgid "I could tell something was in my face, but it was too close for me to tell what."
-msgstr ""
+msgstr "Estaba demasiado cerca para ver lo que había tocado con los labios."
 
 #: 00206:486
 msgid ""
 "{Kazushi}\n"
 "\"Nmmm?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Qué!?\""
 
 #: 00206:487
 msgid "It was a face. Someone I didn't know. I think it was a girl."
-msgstr ""
+msgstr "Es una cara. La cara de alguien que no conozco."
 
 #: 00206:488
 msgid "That means my lips are touching......"
-msgstr ""
+msgstr "Eso quiere decir que mis labios están tocando..."
 
 #: 00206:489
 msgid ""
 "{Kazushi}\n"
 "\"...Eh!?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Qué...!?\""
 
 #: 00206:490
 msgid "I had to jump away from her."
@@ -1299,260 +1663,316 @@ msgid ""
 "{Kazushi}\n"
 "\"Sorry!!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡Lo siento!!\""
 
 #: 00206:500
 msgid "I k-kissed her! I kissed her! A girl!!"
-msgstr ""
+msgstr "¡¡La he besado por accidente!!"
 
 #: 00206:501
 msgid "Okay, kissing a girl is normal. It would be crazier if I had kissed Daigo. Thank god I kissed a girl."
-msgstr ""
+msgstr "Nunca había besado antes a una chica. ¡¡Ha sido genial!!"
 
 #: 00206:502
 msgid "No, wait. I may be happy, but I doubt she is."
-msgstr ""
+msgstr "¡Espera! Yo estoy contento, pero no tengo claro que ella piense lo mismo."
 
 #: 00206:505
 msgid ""
 "{???}\n"
 "\"..................\""
 msgstr ""
+"{???}\n"
+"\"...\""
 
 #: 00206:506
 msgid "Furthermore, she looked like a delicate girl too. She was probably a student at the academy, but she looked so young."
-msgstr ""
+msgstr "Creo que es una de las estudiantes. Parece muy jóven."
 
 #: 00206:507
 msgid "This lovely girl was stunned from kissing a total stranger."
-msgstr ""
+msgstr "Debe estar conmocionada por haber sido besada por un extraño."
 
 #: 00206:508
 msgid ""
 "{Kazushi}\n"
 "\"U-umm... Are you ok? No way, right...\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Te encuentras bien...?\""
 
 #: 00206:509
 msgid ""
 "{???}\n"
 "\"..................\""
 msgstr ""
+"{???}\n"
+"\"...\""
 
 #: 00206:510
 msgid "Still in shock, she touched her lips. Something red got on her fingertips. It was blood."
-msgstr ""
+msgstr "Me di cuenta de que tenía sangre en mis labios."
 
 #: 00206:511
+# ¿Mordido? ¿Cortado?
 msgid ""
 "{Kazushi}\n"
 "\"Oh, I'm sorry! Did I cut your lip?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Lo siento!\n"
+"¿Te he mordido los labios también?\""
 
 #: 00206:512
 msgid "I touched my lips too. Something red came off of mine as well. It hurt a little too."
-msgstr ""
+msgstr "Me toqué los labios otra vez. Tenía sangre."
 
 #: 00206:513
 msgid "Both of our lips were cut."
-msgstr ""
+msgstr "Nos cortamos labios los dos."
 
 #: 00206:514
 msgid ""
 "{???}\n"
 "\"It hurts.\""
 msgstr ""
+"{???}\n"
+"\"Duele.\""
 
 #: 00206:515
 msgid ""
 "{Kazushi}\n"
 "\"Oh, did you get cut too? We both cut our lips, huh?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Estás bien?\""
 
 #: 00206:516
 msgid "Both of us were bleeding."
-msgstr ""
+msgstr "Los dos estábamos sangrando."
 
 #: 00206:517
 msgid ""
 "{Kazushi}\n"
 "\"I'm truly sorry! I don't how to apologize...\""
 msgstr ""
+"{Kazushi}\n"
+"\"No sé qué decir...\""
 
 #: 00206:518
 msgid "I couldn't think of what to say. Not only had I hurt her, but I k-kissed her too."
-msgstr ""
+msgstr "No sólo le he hecho daño, sino que también le he cortado los labios."
 
 #: 00206:519
 msgid "That might have been her first kiss too. I know it was mine."
-msgstr ""
+msgstr "Solo espero que al menos no fuese su primer beso."
 
 #: 00206:520
 msgid ""
 "{???}\n"
 "\"..................\""
 msgstr ""
+"{???}\n"
+"\"...\""
 
 #: 00206:521
 msgid "She silently took a handkerchief out of her pocket and wiped her mouth. She wiped it over and over."
-msgstr ""
+msgstr "Se sacó un pañuelo del bolsillo y empezó a limpiarse los labios."
 
 #: 00206:522
 msgid ""
 "{Kazushi}\n"
 "\"Ugh... I'm truly sorry! But I don't think you should wipe so hard...\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Lo siento muchísimo...!\n"
+"Pero creo que no deberías limpiarte los labios tan fuerte.\""
 
 #: 00206:523
 msgid "Blood was staining her handkerchief. It wasn't helping her cut either."
-msgstr ""
+msgstr "Su pañuelo se volvió completamente rojo."
 
 #: 00206:526
 msgid ""
 "{???}\n"
 "\"..................\""
 msgstr ""
+"{???}\n"
+"\"...\""
 
 #: 00206:527
 msgid "She stopped wiping and silently picked up a tree branch."
-msgstr ""
+msgstr "Cogió la rama de un árbol sin decir palabra."
 
 #: 00206:528
 msgid ""
 "{???}\n"
 "\"......!!\""
 msgstr ""
+"{???}\n"
+"\"¡¡...!!\""
 
 #: 00206:529
 msgid "Fwoom!!"
-msgstr ""
+msgstr "*La lanza contra Kazushi*"
 
 #: 00206:533
 msgid ""
 "{Kazushi}\n"
 "\"Uwah!?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Pero qué...!?\""
 
 #: 00206:534
 msgid "She silently swung at me!"
-msgstr ""
+msgstr "Empieza a atacarme."
 
 #: 00206:536
 msgid "Fwoom! Fwoom!"
-msgstr ""
+msgstr "*La chica lanza puñetazos*"
 
 #: 00206:540
 msgid ""
 "{Kazushi}\n"
 "\"Wait! Stop! Can't we talk about this?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Espera! ¡Para! ¡Podemos hablar de esto!\""
 
 #: 00206:541
 msgid "What a violent girl. She looked so meek too."
-msgstr ""
+msgstr "Qué chica más violenta."
 
 #: 00206:542
 msgid ""
 "{???}\n"
 "\"That was my first!\""
 msgstr ""
+"{???}\n"
+"\"Ha sido mi primer.\""
 
 #: 00206:543
 msgid "She shook as she held onto the stick."
-msgstr ""
+msgstr "Su cuerpo entero se convulsiona por la ira."
 
 #: 00206:544
 msgid ""
 "{Kazushi}\n"
 "\"Oh, the kiss? I knew it...\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Era tu primero?\""
 
 #: 00206:545
 msgid "I kind of knew."
-msgstr ""
+msgstr "Me lo podía imaginar."
 
 #: 00206:546
 msgid ""
 "{Kazushi}\n"
 "\"I'm really sorry......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento mucho...\""
 
 #: 00206:549
+# TODO: Reestructurar frase.
 msgid ""
 "{???}\n"
 "\"My first kiss tasted of blood. You call that romantic?\""
 msgstr ""
+"{???}\n"
+"\"¿Quién querría tener de recuerdo el primer beso con sabor a sangre?\""
 
 #: 00206:550
 msgid "She was glaring me down. I don't think any answer would satisfy her."
-msgstr ""
+msgstr "Me lanza una mirada de odio."
 
 #: 00206:551
 msgid ""
 "{Kazushi}\n"
 "\"L-let's forget it! Let's just act like it never happened!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Por qué no borras el recuerdo de eso!?\""
 
 #: 00206:552
 msgid ""
 "{Kazushi}\n"
 "\"We have a five second rule at my house, see. It's scientifically proven. This is all how you think about it!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¿Has oído hablar sobre \"la regla de los cinco segundos\"?!\""
 
 #: 00206:555
 msgid ""
 "{???}\n"
 "\"..................\""
 msgstr ""
+"{???}\n"
+"\"...\""
 
 #: 00206:556
 msgid "She silently stared at me, raising the stick up high as I desperately made excuses."
-msgstr ""
+msgstr "Ignoró mi propuesta y empezó a mover su brazo preparando el siguiente ataque."
 
 #: 00206:557
 msgid ""
 "{Kazushi}\n"
 "\"H-hold it! Hold it! J-just think of this as an accident and let it go?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¿Y si te autoengañas pensando que lo de los labios ha sido la mordedura de un perro o algo?!\""
 
 #: 00206:558
 msgid "Fwoom!"
-msgstr ""
+msgstr "*La chica continúa atacando*"
 
 #: 00206:562
 msgid ""
 "{Kazushi}\n"
 "\"Uwah?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Dios...\""
 
 #: 00206:563
 msgid "She flung the stick at me! It was pretty sharp. I only dodged it by hair's breadth and it still grazed my temple."
-msgstr ""
+msgstr "¡Qué golpe más impresionante!"
 
 #: 00206:564
 msgid ""
 "{???}\n"
 "\"Tsk.\""
 msgstr ""
+"{???}\n"
+"\"Mierda.\""
 
 #: 00206:565
 msgid "She clicked her tongue at me? Who is she?"
-msgstr ""
+msgstr "Qué chica más violenta."
 
 #: 00206:566
 msgid ""
 "{Kazushi}\n"
 "\"You shouldn't joke around like this. If you take this joke too far, someone could get hurt.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Creo que te lo estás tomando demasiado en serio para ser una broma.\""
 
 #: 00206:567
 msgid ""
 "{???}\n"
 "\"I'm being serious.\""
 msgstr ""
+"{???}\n"
+"\"Voy en serio.\""
 
 #: 00206:568
 msgid "She was serious? This is worse than I thought."
-msgstr ""
+msgstr "Es de verdad una persona muy peligrosa."
 
 #: 00206:569
 msgid ""
@@ -1560,338 +1980,431 @@ msgid ""
 "\"What's your name, by the way?\n"
 "I'm Haruma Kazushi, one of the new sophomores.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Por cierto, ¿cómo te llamas?\n"
+"Yo me llamo Kazushi. Soy de segundo.\""
 
 #: 00206:572
+# Igual le han hablado de él las otras chicas como el chico más decente, y por eso para.
 msgid ""
 "{???}\n"
 "\"Haruma?\""
 msgstr ""
+"{???}\n"
+"\"¿Kazushi?\""
 
 #: 00206:573
 msgid ""
 "{Kazushi}\n"
 "\"Yep, what's yours?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sí, ¿cómo te llamas tú?\""
 
 #: 00206:576
 msgid ""
 "{???}\n"
 "\"I'm Natsume Amamiya.\""
 msgstr ""
+"{???}\n"
+"\"Yo soy Natsume Amemiya.\""
 
 #: 00206:577
 msgid "I'm glad she answered."
-msgstr ""
+msgstr "Me alegro de que haya contestado."
 
 #: 00206:578
 msgid ""
 "{Kazushi}\n"
 "\"So, Natsume-chan then?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Puedo llamarte Natsume?\""
 
 #: 00206:582
 msgid ""
 "{Natsume}\n"
 "\"Adding 'chan' already? Looking down on me, huh? You're just Haruma.\""
 msgstr ""
+"{Natsume}\n"
+"\"No te tomes tantas confianzas, Kazushi.\""
 
 #: 00206:583
 msgid ""
 "{Kazushi}\n"
 "\"What do you mean by I'm just Haruma?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Tu ya me estás llamando por mi nombre de pila.\""
 
 #: 00206:584
 msgid "And why my last name without any honorific? Maybe she's actually older than me?"
-msgstr ""
+msgstr "Quizá sea mayor que yo."
 
 #: 00206:585
 msgid ""
 "{Kazushi}\n"
 "\"Natsume-cha... Natsume-san, are you a senior?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Eres de segundo?\""
 
 #: 00206:586
 msgid "I made sure to be polite, but Natsume-san shook her head."
-msgstr ""
+msgstr "Agita la cabeza."
 
 #: 00206:589
 msgid ""
 "{Natsume}\n"
 "\"I'm a freshman.\""
 msgstr ""
+"{Natsume}\n"
+"\"Soy de primero.\""
 
 #: 00206:590
 msgid ""
 "{Kazushi}\n"
 "\"Oh, then I'm older, aren't I? So what's wrong with using 'chan'?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Entonces soy yo el mayor.\""
 
 #: 00206:593
 msgid ""
 "{Natsume}\n"
 "\"Pompous man. You're just Haruma.\""
 msgstr ""
+"{Natsume}\n"
+"\"¿Y qué?\""
 
 #: 00206:594
 msgid "She spurned her cheek away from me. She's a difficult girl."
-msgstr ""
+msgstr "Es una chica muy difícil."
 
 #: 00206:595
 msgid "Well, there's a difficult girl her age in my family too, so it's not going to bother me. On the other hand, that does make me concerned for her."
-msgstr ""
+msgstr "Imagino que las chicas de su edad son muy difíciles de tratar."
 
 #: 00206:596
 msgid ""
 "{Kazushi}\n"
 "\"What are you doing out so late all by yourself? Isn't it dangerous to walk around at night?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué hacías fuera tan tarde?\""
 
 #: 00206:599
 msgid ""
 "{Natsume}\n"
 "\"It wasn't dangerous yesterday, but I guess it is now.\""
 msgstr ""
+"{Natsume}\n"
+"\"No era peligroso salir de noche hasta que has aparecido.\""
 
 #: 00206:602
 msgid "She gave me a mean glare. I'm dangerous? She just won't let it drop will she."
-msgstr ""
+msgstr "Me lanza una mirada de odio."
 
 #: 00206:603
 msgid ""
 "{Kazushi}\n"
 "\"I said I was sorry. You've really got a nasty personality - do you even have any friends?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya te he dicho que lo siento. Tienes una personalidad muy fuerte, ¿tienes amigos?\""
 
 #: 00206:606
 msgid ""
 "{Natsume}\n"
 "\"That's none of your business, Haruma. I have friends. Yeah, I have 100 friends.\""
 msgstr ""
+"{Natsume}\n"
+"\"No es asunto tuyo. Y tengo muchos.\""
 
 #: 00206:607
 msgid ""
 "{Kazushi}\n"
 "\"That's good.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eso está bien.\""
 
 #: 00206:608
 msgid "She's definitely lying. Why do girls like her lie and act tough?"
-msgstr ""
+msgstr "Apuesto a que está mintiendo."
 
 #: 00206:609
 msgid ""
 "{Kazushi}\n"
 "\"Then could we be friends?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Entonces, ¿por qué no nos hacemos amigos?\""
 
 #: 00206:612
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00206:613
 msgid "Natsume-chan didn't move. Was I too sudden?"
-msgstr ""
+msgstr "Mi propuesta la dejó de piedra."
 
 #: 00206:614
 msgid ""
 "{Kazushi}\n"
 "\"Natsume-chan?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Natsume?\""
 
 #: 00206:615
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00206:616
 msgid "Ah, she moved. Her eyes blinked."
-msgstr ""
+msgstr "Parece estar algo sorprendida."
 
 #: 00206:619
 msgid ""
 "{Natsume}\n"
 "\"I refuse.\""
 msgstr ""
+"{Natsume}\n"
+"\"No lo creo.\""
 
 #: 00206:620
 msgid "She rejected me."
-msgstr ""
+msgstr "Mi oferta fue rechazada."
 
 #: 00206:621
 msgid ""
 "{Kazushi}\n"
 "\"Why? I'm not good enough?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿No soy lo suficientemente bueno?\""
 
 #: 00206:622
 msgid ""
 "{Natsume}\n"
 "\"Absolutely not.\""
 msgstr ""
+"{Natsume}\n"
+"\"Pues claro que no.\""
 
 #: 00206:623
 msgid ""
 "{Kazushi}\n"
 "\"I-I see...But you shouldn't be so blunt to a person's face. It can be pretty painful.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vale...\n"
+"¿Sabes?, en ocasiones no deberías ser tan honesta.\""
 
 #: 00206:624
 msgid ""
 "{Natsume}\n"
 "\"Besides, I already have enough. I have 100 friends. I can barely remember all their names.\""
 msgstr ""
+"{Natsume}\n"
+"\"Ya te he dicho que tengo un montón de amigos.\""
 
 #: 00206:625
 msgid ""
 "{Kazushi}\n"
 "\"What's my name?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Cómo me llamo?\""
 
 #: 00206:626
 msgid ""
 "{Natsume}\n"
 "\"Haruma.\""
 msgstr ""
+"{Natsume}\n"
+"\"Kazushi.\""
 
 #: 00206:627
 msgid ""
 "{Kazushi}\n"
 "\"Then I think we'll get along. You already memorized my name.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vaya. Me alegro de que te acuerdes de mi nombre.\""
 
 #: 00206:630
 msgid ""
 "{Natsume}\n"
 "\"Ah... That's non-sequitur.\""
 msgstr ""
+"{Natsume}\n"
+"\"¿Adónde quieres llegar...?\""
 
 #: 00206:631
 msgid ""
 "{Kazushi}\n"
 "\"Besides, if you have 100 friends, then what's one or two more?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Simplemente a que añadas un nombre más a tu lista de amigos, ¿vale?\""
 
 #: 00206:632
 msgid ""
 "{Natsume}\n"
 "\"You have a point.\""
 msgstr ""
+"{Natsume}\n"
+"\"Lo pensaré.\""
 
 #: 00206:633
 msgid ""
 "{Kazushi}\n"
 "\"So can we?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Lo harás?\""
 
 #: 00206:636
 msgid ""
 "{Natsume}\n"
 "\"...Do what you will.\""
 msgstr ""
+"{Natsume}\n"
+"\"Está bien...\""
 
 #: 00206:637
 msgid "After her brusque reply, she turned her back to me. I couldn't help but smile."
-msgstr ""
+msgstr "Dio media vuelta."
 
 #: 00206:638
 msgid ""
 "{Kazushi}\n"
 "\"Okay, I will then.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Tu ya estás en la mía.\""
 
 #: 00206:639
 msgid "So now I have one more little friend."
-msgstr ""
+msgstr "Puse su nombre en mi lista."
 
 #: 00206:642
 msgid ""
 "{Natsume}\n"
 "\"Haruma, go home.\""
 msgstr ""
+"{Natsume}\n"
+"\"Debería volver.\""
 
 #: 00206:643
 msgid "After telling me to leave, Natsume-chan started walking away from me."
-msgstr ""
+msgstr "Me lo dijo mientras se marchaba."
 
 #: 00206:644
 msgid ""
 "{Kazushi}\n"
 "\"All right. It is late. See you around.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está bien.\n"
+"Nos vemos.\""
 
 #: 00206:645
 msgid "I called out to her back as she walked away."
-msgstr ""
+msgstr "Le respondí."
 
 #: 00206:648
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00206:649
 msgid "She didn't reply. Well, I'm sure I'll see her around."
-msgstr ""
+msgstr "No hubo respuesta. En fin, supongo que la veré por ahí."
 
 #: 00206:651
+# # ¿De día?
 msgid "Once I lost sight of her small back, I went back to my room, too."
-msgstr ""
+msgstr "Yo también volví a mi habitación."
 
 #: 00206:656
 msgid ""
 "{Kazushi}\n"
 "*Yaaaaaaaaaaaaaaaaaaaaawn*"
 msgstr ""
+"{Kazushi}\n"
+"*Bostezando*"
 
 #: 00206:657
 msgid "I awoke to the sounds of birds singing. It was a nice, crisp morning."
-msgstr ""
+msgstr "Me desperté con el sonido de los pájaros piando."
 
 #: 00206:658
 msgid ""
 "{Kazushi}\n"
 "\"I slept so well.\""
 msgstr ""
+"{Kazushi}\n"
+"\"He dormido muy bien.\""
 
 #: 00206:661
 msgid ""
 "{Appo}\n"
 "\"Good morning......\""
 msgstr ""
+"{Appo-}\n"
+"\"Buenos días...\""
 
 #: 00206:662
 msgid ""
 "{Kazushi}\n"
 "\"Whoa?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Eh!?\""
 
 #: 00206:663
 msgid "I thought Appo was asleep, but he was just lying awake in his futon. He didn't look well either."
-msgstr ""
+msgstr "Estaba muy sorprendido de ver que Appo- ya estaba levantado."
 
 #: 00206:664
 msgid ""
 "{Kazushi}\n"
 "\"You're up early? Couldn't sleep?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Qué pronto.\n"
+"¿Has dormido bien?\""
 
 #: 00206:665
 msgid ""
 "{Appo}\n"
 "\"I couldn't sleep a wink. It happens whenever I change my pillow.\""
 msgstr ""
+"{Appo-}\n"
+"\"No he podido dormir nada. Me pasa siempre al cambiar de almohada.\""
 
 #: 00206:666
+# Hay que cambiar posiblemente todo lo de sensitive/insensitive por algo acorde con la situación.
 msgid "Despite his appearance, he's pretty delicate. Whenever something happens, it affects his stomach."
-msgstr ""
+msgstr "A pesar de su apariencia, es bastante sensible."
 
 #: 00206:667
 msgid "He's probably the most delicate guy I know."
-msgstr ""
+msgstr "Es posiblemente el más sensible del grupo."
 
 #: 00206:668
 msgid ""
@@ -1899,42 +2412,53 @@ msgid ""
 "\"How could you sleep so well?\n"
 "I'm envious of you stoic types.\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Cómo has podido dormir tan bien?\n"
+"Cómo envidio a la gente insensible.\""
 
 #: 00206:671
 msgid ""
 "{Appo}\n"
 "\"This place is going to get hot again this afternoon, isn't it?\""
 msgstr ""
+"{Appo-}\n"
+"\"Creo que va a hacer mucho calor dentro de nada sin aire acondicionado.\""
 
 #: 00206:672
 msgid ""
 "{Kazushi}\n"
 "\"Probably.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Probablemente.\""
 
 #: 00206:673
 msgid "Once our tin roof starts getting hit by direct sunlight, I bet it will turn into a sauna. I doubt we'll be able to come back during the day."
-msgstr ""
+msgstr "Teniendo en cuenta el techo tan fino que tiene el dormitorio, posiblemente tenga razón."
 
 #: 00206:674
 msgid "Besides, it was a bright, clear day outside. It was bound to get hot."
-msgstr ""
+msgstr "Además hace un día estupendo fuera."
 
 #: 00206:675
 msgid ""
 "{Kazushi}\n"
 "\"Hey, let's go eat. It's our first chance to hit the cafeteria right? I wonder what they'll have.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ey chicos, ¡¡vamos a desayunar!!\""
 
 #: 00206:678
 msgid ""
 "{Appo}\n"
 "\"I think I've lost my appetite.\""
 msgstr ""
+"{Appo-}\n"
+"\"Yo no tengo hambre...\""
 
 #: 00206:679
 msgid "Appo spoke in a weak voice as he wobbled."
-msgstr ""
+msgstr "Todavía está tan nervioso que no tiene hambre."
 
 #: 00206:684
 msgid ""
@@ -1942,150 +2466,194 @@ msgid ""
 "\"Huh?\n"
 "Where are we?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Qué...?\n"
+"¿Dónde estamos?\""
 
 #: 00206:685
 msgid "That confused voice came from beside us. Pierre had finally woken up. He couldn't figure out he was in this room."
-msgstr ""
+msgstr "Pierre no logra a acertar a dónde nos hemos ido."
 
 #: 00206:686
 msgid "By the way, his room was next door."
-msgstr ""
+msgstr "Por cierto, su habitación se supone que está al lado."
 
 #: 00206:687
 msgid ""
 "{Pierre}\n"
 "\"Why am I over here?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Qué hago aquí?\""
 
 #: 00206:688
 msgid ""
 "{Kazushi}\n"
 "\"That's what I'd like to know. Why were you sleeping in our room?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eso me gustaría a mí saber, ¿qué haces durmiendo aquí?\""
 
 #: 00206:689
 msgid ""
 "{Daigo}\n"
 "\"Nnnn-......\""
 msgstr ""
+"{Daigo}\n"
+"\"Uhm...\""
 
 #: 00206:690
 msgid ""
 "{Kazushi}\n"
 "\"Huh?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué?\""
 
 #: 00206:691
 msgid "I think I just heard Daigo from between my legs......"
-msgstr ""
+msgstr "Me ha parecido oir a Daigo entre mis piernas..."
 
 #: 00206:696
 msgid ""
 "{Kazushi}\n"
 "\"What the?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Eh!?\""
 
 #: 00206:697
 msgid "Daigo was curled up and sleeping between my legs. Why was such a big a guy curled up there?!"
-msgstr ""
+msgstr "Estaba durmiendo justo debajo de mis piernas."
 
 #: 00206:698
 msgid ""
 "{Kazushi}\n"
 "\"What the hell are you doing?! Where do you think you're sleeping?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Qué estás haciendo!?\n"
+"¡¡¿Qué haces durmiendo ahí?!!\""
 
 #: 00206:699
 msgid "I kicked Daigo until he woke up."
-msgstr ""
+msgstr "Tuve que despertarle e investigar."
 
 #: 00206:700
 msgid ""
 "{Daigo}\n"
 "\"What is this place...... Where am I?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Qué es este sitio...? ¿Dónde estamos?\""
 
 #: 00206:701
 msgid ""
 "{Kazushi}\n"
 "\"What do you mean 'where am I?'?! Why the hell are you sleeping in my futon?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Qué quieres decir con \"¿dónde estamos?\"!\n"
+"¿¡Qué haces en mi cama!?\""
 
 #: 00206:706
 msgid ""
 "{Pierre}\n"
 "\"Now I remember. We were so tired that we couldn't even be bothered to go to the other room and fell asleep here.\""
 msgstr ""
+"{Pierre}\n"
+"\"Ah, ya recuerdo. Estábamos tan rendidos hasta para ir a la otra habitación, que nos quedamos fritos aquí.\""
 
 #: 00206:707
 msgid ""
 "{Kazushi}\n"
 "\"You mean that you guys were here all night?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Habéis estado aquí toda la noche?\""
 
 #: 00206:708
 msgid "I hadn't even noticed them when I'd woken up earlier."
-msgstr ""
+msgstr "No me di cuenta de ese detalle cuando me desperté en mitad de la noche."
 
 #: 00206:711
 msgid ""
 "{Daigo}\n"
 "\"Four men sleeping together in a two-person room? Such debauchery.\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Han dormido cuatro hombres en esta habitación?\""
 
 #: 00206:712
 msgid ""
 "{Kazushi}\n"
 "\"Hold it right there. You're not using that word correctly, okay?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Espera. No hace falta que digas nada más. Solo eso ya suena MUY mal.\""
 
 #: 00206:715
 msgid ""
 "{Daigo}\n"
 "\"I'm not?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Sí?\""
 
 #: 00206:716
 msgid "He was using the word incorrectly, right? I'd like to believe so. I had a sneaking suspicion that Daigo might be..."
-msgstr ""
+msgstr "Tengo la sensación de que Daigo no lo pilla."
 
 #: 00206:717
 msgid "...I'd rather not think about it."
-msgstr ""
+msgstr "Será mejor que no piense ahora sobre eso..."
 
 #: 00206:720
 msgid ""
 "{Pierre}\n"
 "\"Kazushi, it was a chilly dawn. He must have longed for the warmth of another, and drew close to your hot body.\""
 msgstr ""
+"{Pierre}\n"
+"\"Hacía mucho frío.\n"
+"Debe haber querido sentir el calor humano de tu cuerpo.\""
 
 #: 00206:721
 msgid ""
 "{Kazushi}\n"
 "\"No more of that. From tonight on, you two better sleep in your own room.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Shhh.\n"
+"A partir de esta noche, cada uno en su cama.\""
 
 #: 00206:728
 msgid ""
 "{Appo}\n"
 "\"Yeah! I couldn't sleep, and yet you two kept snoring all night.\""
 msgstr ""
+"{Appo-}\n"
+"\"Sois todos una panda de insensibles.\""
 
 #: 00206:731
 msgid ""
 "{Pierre}\n"
 "\"Daigo, you need to quit waking us up to go to the bathroom at night. Grow up, and go on your own.\""
 msgstr ""
+"{Pierre}\n"
+"\"Daigo,\n"
+"deja de ir a por mí por la noche pidiéndome que te acompañe al servicio.\""
 
 #: 00206:734
 msgid ""
 "{Daigo}\n"
 "\"I'm still scared, but I'll try.\""
 msgstr ""
+"{Daigo}\n"
+"\"Lo intentaré.\""
 
 #: 00206:735
 msgid "The morning our new lives were to begin didn't feel any different than usual."
-msgstr ""
+msgstr "Estemos donde estemos, es la misma mañana de siempre."
 
 #: 00206:736
 msgid ""
@@ -2093,214 +2661,272 @@ msgid ""
 "\"I'm starving.\n"
 "Let's go eat.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me estoy muriendo de hambre.\n"
+"Vayamos a tomar algo.\""
 
 #: 00206:739
 msgid ""
 "{Daigo}\n"
 "\"We hardly got to eat anything last night.\""
 msgstr ""
+"{Daigo}\n"
+"\"A penas tomamos nada anoche.\""
 
 #: 00206:740
 msgid "Our only meal last night was onigiri. Sure, it was delicious, but we haven't had any real food on this island yet."
-msgstr ""
+msgstr "No hemos comido nada en condiciones desde que llegamos a la isla."
 
 #: 00206:743
 msgid ""
 "{Appo}\n"
 "\"I heard they had all kinds of tuna last night. There was sashimi, sushi, and steak too.\""
 msgstr ""
+"{Appo-}\n"
+"\"He oído que el menú de anoche fue sushi y filete.\""
 
 #: 00206:744
 msgid ""
 "{Daigo}\n"
 "\"Oh yeah, that truck was carrying a mountain of tuna yesterday.\""
 msgstr ""
+"{Daigo}\n"
+"\"Ah sí, ¿recordáis que vimos montañas de peces apilados en la parte de atrás de aquel camión?\""
 
 #: 00206:747
 msgid ""
 "{Pierre}\n"
 "\"Seriously? We totally missed out last night. So let's make up for it today!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡No me digas que...!\""
 
 #: 00206:748
 msgid ""
 "{Kazushi}\n"
 "\"Yeah! Let's eat up and get ready for our new life!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Está bien!\n"
+"¡Recuperaremos lo que nos perdimos ayer!\""
 
 #: 00206:749
+# Cambio de escena a la cafetería donde están todas las chicas.
 msgid "Today was the beginning of our new life!!"
-msgstr ""
+msgstr "¡¡Es el inicio de nuestra nueva vida en la escuela!"
 
 #: 00206:757
 msgid ""
 "{Kazushi}\n"
 "\"Wow! Check this out!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Vaya! ¡Mirad eso!\""
 
 #: 00206:758
 msgid "This cafeteria was like a restaurant. It wasn't anything like our old cafeteria."
-msgstr ""
+msgstr "Esto no es una cafetería, es casi un restaurante."
 
 #: 00206:761
 msgid ""
 "{Pierre}\n"
 "\"Now this is an all girls' school. I can't wait to see the menu.\""
 msgstr ""
+"{Pierre}\n"
+"\"¡¡Es a eso a lo que me refería!!\""
 
 #: 00206:766
 msgid ""
 "{Appo}\n"
 "\"Hey! Check this out!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Ey, mirad esto!\""
 
 #: 00206:773
 msgid ""
 "{Daigo}\n"
 "\"What is it? Something strange on the menu?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Qué pasa?\""
 
 #: 00206:774
 msgid ""
 "{Appo}\n"
 "\"There's girls eating here.\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¡Las chicas están comiendo!!\""
 
 #: 00206:777
 msgid ""
 "{Pierre}\n"
 "\"That's it, man? Girls have to eat too.\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Y eso que tiene de especial? Claro que lo están.\""
 
 #: 00206:778
 msgid "Still, it was magnificent to see so many girls all eating together."
-msgstr ""
+msgstr "Pero nunca habíamos visto semejante cantidad de chicas comiendo en un mismo sitio."
 
 #: 00206:781
 msgid ""
 "{Appo}\n"
 "\"Ah, I'm so confused. Both my sexual and my normal appetite are being whetted.\""
 msgstr ""
+"{Appo-}\n"
+"\"Estoy muy confundido. ¿Tengo hambre de comida o de chicas?\""
 
 #: 00206:782
 msgid ""
 "{Kazushi}\n"
 "\"Bear with it, and don't pitch a tent in your pants. We don't want them labelling us as perverts again.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Cuidadito. Tenemos que comportarnos, ¿recuerdas?\""
 
 #: 00206:783
 msgid ""
 "{Appo}\n"
 "\"Oh, come on! Look at the way those girls are moving their mouths! How can you watch that and not...\""
 msgstr ""
+"{Appo-}\n"
+"\"Pero mirar lo ocupadas que tienen sus boquitas me pone caliente...\""
 
 #: 00206:784
 msgid "He had his hands over his crotch as he squirmed around."
-msgstr ""
+msgstr "Se está tocando sus partes en público."
 
 #: 00206:785
 msgid ""
 "{Kazushi}\n"
 "\"So what if you watch that? Get a hold of yourself.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Limítate a comportarte, ¿vale?\""
 
 #: 00206:786
 msgid ""
 "{Pierre}\n"
 "\"All I can see are girls. Where are the other boys?\""
 msgstr ""
+"{Pierre}\n"
+"\"Solo veo chicas. ¿Dónde están los chicos que vinieron con nosotros?\""
 
 #: 00206:790
 msgid "We looked around the cafeteria trying to find them."
-msgstr ""
+msgstr "Los localizamos en una esquina de la cafetería..."
 
 #: 00206:791
 msgid "They were grouped up in the corner eating their meals uncomfortably."
-msgstr ""
+msgstr "Parecían muy incómodos."
 
 #: 00206:794
 msgid ""
 "{Appo}\n"
 "\"Come on, you guys! Act like men! Eat alongside everybody else!!\""
 msgstr ""
+"{Appo-}\n"
+"\"Venga. Sed hombres. ¡¡Comed en el centro de la cafetería!!\""
 
 #: 00206:799
 msgid ""
 "{Pierre}\n"
 "\"Hey, guys, is that Panchu-sempai?\""
 msgstr ""
+"{Pierre}\n"
+"\"Eh chicos, ¿no es ese Panchu-?\""
 
 #: 00206:804
 msgid "We saw one guy in the centre of the cafeteria."
-msgstr ""
+msgstr "Vimos a un tipo en mitad de la cafetería."
 
 #: 00206:805
 msgid "He was by himself, eating bread."
-msgstr ""
+msgstr "Se está comiendo sus panecillos."
 
 #: 00206:806
 msgid ""
 "{Daigo}\n"
 "\"The girls are watching him from a distance?\""
 msgstr ""
+"{Daigo}\n"
+"\"Hay algunas chicas con él.\""
 
 #: 00206:807
 msgid "Some girls were whispering from a ways back. They wanted to approach him, but didn't know how."
-msgstr ""
+msgstr "Parecen estar buscando una forma de conocerle."
 
 #: 00206:808
 msgid ""
 "{Pierre}\n"
 "\"He's definitely got an aura of 'don't come near'. It'd be hard for us to approach sempai like that. I'm sure the girls are frightened.\""
 msgstr ""
+"{Pierre}\n"
+"\"Yo no me acercaría a él estando comiendo así.\""
 
 #: 00206:809
 msgid ""
 "{Appo}\n"
 "\"That's our Panchu-sempai! What a relieving sight.\""
 msgstr ""
+"{Appo-}\n"
+"\"Él es 'el hombre'. No hay chica que se le pueda acercar.\""
 
 #: 00206:810
 msgid "Then some of the girls finally steeled up their courage to approach him."
-msgstr ""
+msgstr "Algunas chicas se atrevieron finalmente a acercarse a él."
 
 #: 00206:811
 msgid ""
 "{Pierre}\n"
 "\"They're going to speak to him?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Van a decirle \"hola\"?\""
 
 #: 00206:812
 msgid ""
 "{Kazushi}\n"
 "\"Wow. Those are some brave girls.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Increíble. Venga chicas.\""
 
 #: 00206:813
+# Cambiar reunión por algo más apropiado.
 msgid "After a short huddle, one of the girls stepped forward to talk to him."
-msgstr ""
+msgstr "Tras una breve reunión, una de ellas da un paso para hablarle."
 
 #: 00206:814
 msgid ""
 "{Girl 1}\n"
 "\"Excuse me, sempai? Would it be alright if we ate with you?\""
 msgstr ""
+"{Chica 1}\n"
+"\"Disculpa, ¿te importa si como contigo?\""
 
 #: 00206:817
 msgid ""
 "{Panchu}\n"
 "\"Huh?\""
 msgstr ""
+"{Panchu-}\n"
+"\"¿Qué es lo que quieres?\""
 
 #: 00206:818
 msgid "He gave her a death stare, but rather than being frightened off, it made the girls go wild."
-msgstr ""
+msgstr "La mira mal. Pero en vez de asustarse, las chicas se volvieron locas."
 
 #: 00206:819
 msgid ""
 "{Pierre}\n"
 "\"Aren't they scared?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿No están asustadas?\""
 
 #: 00206:820
 msgid ""
@@ -2329,12 +2955,16 @@ msgid ""
 "{Girl 2}\n"
 "\"That bread you're eating isn't from the cafeteria, right? Where'd you get it?\""
 msgstr ""
+"{Chica 2}\n"
+"\"El pan que te estás tomando no es de aquí, ¿verdad? ¿De dónde lo has sacado?\""
 
 #: 00206:827
 msgid ""
 "{Panchu}\n"
 "\"Oh, 'is? I's 'rom my 'am'ly's 'akery.\""
 msgstr ""
+"{Panchu-}\n"
+"\"Es de mi casa. Mis padres tienen una panadería.\""
 
 #: 00206:828
 msgid "Once bread came up, sempai became a bit gentler. The girls instantly picked up on the change, and kept pressing."
@@ -2351,16 +2981,20 @@ msgid ""
 "{Panchu}\n"
 "\"...I 'uess.\""
 msgstr ""
+"{Panchu-}\n"
+"\"Supongo...\""
 
 #: 00206:831
 msgid ""
 "{Girl 2}\n"
 "\"Wow! That's great!\""
 msgstr ""
+"{Chica 2}\n"
+"\"¡Eso es increíble!\""
 
 #: 00206:832
 msgid "When he answered, the girls went wild again. The circle of women around him grew closer."
-msgstr ""
+msgstr "Diga lo que diga Panchu-, las chicas se vuelven loquitas."
 
 #: 00206:833
 msgid "There were also more girls crowding around him now."
@@ -2371,18 +3005,24 @@ msgid ""
 "{Girl 1}\n"
 "\"Hey, sempai, can you bake bread?\""
 msgstr ""
+"{Chica 1}\n"
+"\"¿Y sabes hornear?\""
 
 #: 00206:835
 msgid ""
 "{Panchu}\n"
 "\"O' 'ourse. I' a 'aker, afte' all.\""
 msgstr ""
+"{Panchu-}\n"
+"\"Claro.\""
 
 #: 00206:836
 msgid ""
 "{Girl 2}\n"
 "\"That's amazing! I love men who can cook!\""
 msgstr ""
+"{Chica 2}\n"
+"\"¡Oh Dios mío! ¡Me encantan los hombres que saben cocinar!\""
 
 #: 00206:837
 msgid "They were getting along better and better with each passing moment."
@@ -2390,7 +3030,7 @@ msgstr ""
 
 #: 00206:838
 msgid "Sempai looked a little annoyed, but he didn't mind talking about bread. He quietly took a bite of his bread."
-msgstr ""
+msgstr "Mientras hablen sobre pan, Panchu- estará contento."
 
 #: 00206:846
 msgid ""
@@ -2404,12 +3044,16 @@ msgid ""
 "{Appo}\n"
 "\"Panchu-sempai would never lay a hand on a girl, though. They're taking advantage of that and carrying on.\""
 msgstr ""
+"{Appo-}\n"
+"\"Además, Panchu- nunca se pondrá violento con las chicas.\""
 
 #: 00206:852
 msgid ""
 "{Daigo}\n"
 "\"Sempai's so popular. I'm jealous.\""
 msgstr ""
+"{Daigo}\n"
+"\"Me gustaría ser como el.\""
 
 #: 00206:853
 msgid ""
@@ -2436,50 +3080,65 @@ msgid ""
 "{Kazushi}\n"
 "\"What is it?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué ocurre?\""
 
 #: 00206:865
 msgid "There was one lively table on the border between the guys and girls. Yagami-sensei was surrounded by girls."
-msgstr ""
+msgstr "Esta vez es el profesor Yagami. También está rodeado de unas cuantas chicas."
 
 #: 00206:866
 msgid ""
 "{Appo}\n"
 "\"One, two, three...six girls are with him!\""
 msgstr ""
+"{Appo-}\n"
+"\"Tiene a 6 chicas alrededor...\""
 
 #: 00206:867
 msgid "Yagami-sensei was having a friendly conversation with the girls as a teacher."
-msgstr ""
+msgstr "Es un profesor. Tiene mucha más experiencia hablando con chicas que nosotros."
 
 #: 00206:868
 msgid ""
 "{Girl 4}\n"
 "\"Hey, sensei, do you have a girlfriend?\""
 msgstr ""
+"{Chica 4}\n"
+"\"¿Y tienes novia?\""
 
 #: 00206:871
 msgid ""
 "{Yagami}\n"
 "\"Yes, I'm happily married.\""
 msgstr ""
+"{Profesor Yagami}\n"
+"\"Estoy felizmente casado.\""
 
 #: 00206:872
 msgid ""
 "{Girl 5}\n"
 "\"What? You're already married?! Oh no!!\""
 msgstr ""
+"{Chica 5}\n"
+"\"¿¡Estás casado...!?\n"
+"¡¡No...!!\""
 
 #: 00206:873
 msgid ""
 "{Girl 6}\n"
 "\"You still look so young! You must have gotten married early.\""
 msgstr ""
+"{Chica 6}\n"
+"\"Todavía pareces joven, debiste casarte muy pronto.\""
 
 #: 00206:876
 msgid ""
 "{Yagami}\n"
 "\"I was 18 when I got married.\""
 msgstr ""
+"{Profesor Yagami}\n"
+"\"Me casé cuando tenía 18 años.\""
 
 #: 00206:877
 msgid ""
@@ -2487,40 +3146,54 @@ msgid ""
 "\"What!?\n"
 "That's super early!?\""
 msgstr ""
+"{Chica 6}\n"
+"\"¿¡Qué!?\n"
+"¡Eso es super pronto!\""
 
 #: 00206:878
 msgid ""
 "{Girl 4}\n"
 "\"18? So you were still a student? Is your wife the same age?\""
 msgstr ""
+"{Chica 4}\n"
+"\"?\n"
+"¿Y cuantos años tenía tu esposa?\""
 
 #: 00206:879
 msgid ""
 "{Yagami}\n"
 "\"My honey was two years older. A few things happened, and she had gotten pregnant...\""
 msgstr ""
+"{Profesor Yagami}\n"
+"\"Ella tenía dos más que yo.\""
 
 #: 00206:880
 msgid ""
 "{All girls}\n"
 "\"A shotgun wedding!!\""
 msgstr ""
+"{Chicas}\n"
+"\"Déjanos adivinar. ¡La dejaste embarazada!\""
 
 #: 00206:881
 msgid "They all spoke in sync. Their eyes were sparkling."
-msgstr ""
+msgstr "A las chicas les encanta este tipo de cosas."
 
 #: 00206:882
 msgid ""
 "{Kazushi}\n"
 "\"Girls like shotgun weddings?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me pregunto si es así como les gustaría acabar casadas.\""
 
 #: 00206:883
 msgid ""
 "{Pierre}\n"
 "\"No, they just love to gossip.\""
 msgstr ""
+"{Pierre}\n"
+"\"Apuesto a que no. Simplemente es que les encantan los cotilleos.\""
 
 #: 00206:884
 msgid ""
@@ -2537,47 +3210,59 @@ msgstr ""
 
 #: 00206:888
 msgid "Yagami-sensei smiled as he pulled the photo out. He carries that picture of his kids everywhere he goes. We've seen it before too."
-msgstr ""
+msgstr "Lleva esa foto de sus niños a todos sitios."
 
 #: 00206:889
 msgid ""
 "{Girl 6}\n"
 "\"Oh, wow! They're so cute!\""
 msgstr ""
+"{Chica 6}\n"
+"\"¡Mirad, son monísimos!\""
 
 #: 00206:890
 msgid ""
 "{Girl 4}\n"
 "\"And you have three of them! Your wife's beautiful too!\""
 msgstr ""
+"{Chica 4}\n"
+"\"Así que tenéis tres... Y tu esposa también es muy guapa.\""
 
 #: 00206:898
 msgid ""
 "{Appo}\n"
 "\"How can they have so much fun just talking about his wife and kids?!\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Cómo pueden estar pasándoselo tan bien simplemente con hablar de su familia?\""
 
 #: 00206:901
 msgid ""
 "{Pierre}\n"
 "\"They're going crazy over a married man! He's off the table - they should be talking to us instead!\""
 msgstr ""
+"{Pierre}\n"
+"\"Están loquitas perdidas con un hombre casado. Eso deberían hacerlo con nosotros.\""
 
 #: 00206:904
 msgid ""
 "{Daigo}\n"
 "\"That's the way this unfair world turns. A loser will always end up last no matter where he goes.\""
 msgstr ""
+"{Daigo}\n"
+"\"Este es un mundo muy injusto. Un perdedor va a perder siempre vaya a donde vaya.\""
 
 #: 00206:905
 msgid ""
 "{Kazushi}\n"
 "\"Don't be so negative.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No seas tan negativo.\""
 
 #: 00206:906
 msgid "We were already depressed. This morning had shown us the severity of our stratified society."
-msgstr ""
+msgstr "No eramos un grupo de chicos muy seguro. Eso por descontado."
 
 #: 00206:907
 msgid ""
@@ -2585,6 +3270,9 @@ msgid ""
 "\"Anyways, let's eat!\n"
 "Good things will happen when we eat! Not that I can back that up!\""
 msgstr ""
+"{Kazushi}\n"
+"\"De todas formas, ¡vamos a comer!\n"
+"¡Ya nos pasarán cosas buenas cuando empecemos a comer!\""
 
 #: 00206:910
 msgid ""
@@ -2592,99 +3280,132 @@ msgid ""
 "\"That's right!\n"
 "We might even get to eat with the girls!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Tienes razón!\n"
+"¡Puede que hasta podamos comer con chicas...!\""
 
 #: 00206:911
 msgid "We looked around for an open seat. We were hoping to sit next to some girls."
-msgstr ""
+msgstr "Tratamos de encontrar un asiento junto a la pila de chicas."
 
 #: 00206:919
+# TODO: Fix pickels.
 msgid ""
 "{Fuusen}\n"
 "\"Hey Rei!\n"
 "Don't steal my pickles!\""
 msgstr ""
+"{Hu-sen}\n"
+"\"¡Ey Rei!\n"
+"¡No me robes mis pickels!\""
 
 #: 00206:920
 msgid ""
 "{Andou}\n"
 "*omnomnomnomnomnomnom*"
 msgstr ""
+"{Rei}\n"
+"[Comiendo como un cerdo]"
 
 #: 00206:921
 msgid ""
 "{Kazushi}\n"
 "\"..................\""
 msgstr ""
+"{Kazushi}\n"
+"\"...\""
 
 #: 00206:922
 msgid "The two girls from our shocking encounter in the nurse's office yesterday were wolfing down their breakfast. The big one was Andou Rei, the other was Fuusen Kazuko."
-msgstr ""
+msgstr "Son las dos chicas que nos encontramos en la enfermería ayer."
 
 #: 00206:923
 msgid ""
 "{Daigo}\n"
 "\"A pig...... There is a pig......\""
 msgstr ""
+"{Daigo}\n"
+"\"Un cerdo... es un cerdo...\""
 
 #: 00206:924
+# Derramarlo/derramarla.
 msgid ""
 "{Fuusen}\n"
 "\"Pass the soy sauce! Ah! You spilled it!\""
 msgstr ""
+"{Hu-sen}\n"
+"\"¿Me pasas esa salsa?\n"
+"Ups, lo siento, ¡no quería derramarlo!\""
 
 #: 00206:925
 msgid "She was screaming with food in her mouth. It was incredibly... ugly."
-msgstr ""
+msgstr "Hemos descubierto que algunas chicas comen como los hombres..."
 
 #: 00206:926
 msgid ""
 "{Appo}\n"
 "\"What the hell is that? That's no woman!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Se supone que las chicas no deberían comer así!\""
 
 #: 00206:929
 msgid ""
 "{Fuusen}\n"
 "\"Hmm?! Someone's watching us?!\""
 msgstr ""
+"{Hu-sen}\n"
+"\"¡¿Quién me está mirando?!\""
 
 #: 00206:930
 msgid "She noticed our glances and turned around to us. Her mouth was so stuffed with food that her cheeks were puffed out."
-msgstr ""
+msgstr "Su boca estaba repleta de todo tipo de cosas."
 
 #: 00206:933
 msgid ""
 "{Fuusen}\n"
 "\"What are you looking at?! Could you please not eye rape us first thing in the morning?\""
 msgstr ""
+"{Hu-sen}\n"
+"\"¿¡Y ahora a qué estáis mirando!?\""
 
 #: 00206:942
 msgid ""
 "{Appo}\n"
 "\"Dumbass! Who would look at you?! Quit showing us how ugly you are!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡No queríamos mirar!\n"
+"¡Y tú! ¡Come como las chicas!\""
 
 #: 00206:943
 msgid ""
 "{Andou}\n"
 "\"Lick, lick, lick.\""
 msgstr ""
+"{Rei}\n"
+"*Chupando platos*"
 
 #: 00206:946
 msgid ""
 "{Daigo}\n"
 "\"She's licking her plate clean.\""
 msgstr ""
+"{Daigo}\n"
+"\"Está chupando los platos...\""
 
 #: 00206:949
 msgid ""
 "{Pierre}\n"
 "\"Those girls are the exceptions. Everything has an exception. Let's go over there, guys.\""
 msgstr ""
+"{Pierre}\n"
+"\"Esa chica es una excepción.\n"
+"Es la excepción que confirma la regla.\""
 
 #: 00206:953
 msgid "We got ourselves together and made our way past their table. Every table was pretty noisy. It certainly wasn't the elegant breakfast we had expected."
-msgstr ""
+msgstr "Nos resultó difícil encontrar una mesa vacía. No pensábamos que el desayuno estuviese así de concurrido..."
 
 #: 00206:954
 msgid "Some of the girls were eating their food still half-asleep, others were using a toothpick after finishing. Certainly not elegant or refined."
@@ -2705,10 +3426,12 @@ msgid ""
 "{Ran}\n"
 "\"Hey, Kazushi!\""
 msgstr ""
+"{Ran}\n"
+"\"Oye, ¡¡Kazushi!!\""
 
 #: 00206:969
 msgid "Ran waved her hand at us from a table by a window. She was eating with several other girls."
-msgstr ""
+msgstr "Rei nos localizó."
 
 #: 00206:970
 msgid ""
@@ -2716,6 +3439,9 @@ msgid ""
 "\"This way-!\n"
 "Let's eat together!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Por aquí!\n"
+"¡Comamos juntos!\""
 
 #: 00206:978
 msgid ""
@@ -2723,12 +3449,18 @@ msgid ""
 "\"Yes!\n"
 "This is finally our chance to get to know some girls!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Sí!\n"
+"¡Al fin tenemos una oportunidad de conocer chicas!\""
 
 #: 00206:979
 msgid ""
 "{Appo}\n"
 "\"Gladly, gladly! And while we're at it, I'd like to eat you too!\""
 msgstr ""
+"{Appo-}\n"
+"\"Sí, ¡comeremos con vosotras chicas!\n"
+"¡Yo también quiero comer con vosotras!\""
 
 #: 00206:982
 msgid ""
@@ -2738,67 +3470,84 @@ msgstr ""
 
 #: 00206:983
 msgid "Ran was with her friends."
-msgstr ""
+msgstr "Ran estaba con sus amigas."
 
 #: 00206:989
 msgid ""
 "{Mizuki}\n"
 "\"Oh...... Morning...\""
 msgstr ""
+"{Mizuki}\n"
+"\"Buenos días...\""
 
 #: 00206:990
 msgid ""
 "{Kazushi}\n"
 "\"Hey!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Ey!\""
 
 #: 00206:991
 msgid ""
 "{Mizuki}\n"
 "\"..................\""
 msgstr ""
+"{Mizuki}\n"
+"\"...\""
 
 #: 00206:992
 msgid "Hinata-san, right? I tried to give her a friendly greeting, but she wasn't very thrilled to see us."
-msgstr ""
+msgstr "Traté de sonar todo lo alegre posible al verla, pero era reticente a contestarme."
 
 #: 00206:993
 msgid "Maybe she's constipated?"
 msgstr ""
 
 #: 00206:998
+# TODO: Cambiar cosas.
 msgid ""
 "{Ran}\n"
 "\"She's not a morning person.\""
 msgstr ""
+"{Ran}\n"
+"\"No suele tener buen despertar.\""
 
 #: 00206:999
 msgid ""
 "{Kazushi}\n"
 "\"Oh, you're not? You're still sleepy in the mornings?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo.\""
 
 #: 00206:1000
 msgid ""
 "{Mizuki}\n"
 "\"Yeah, sorry...\""
 msgstr ""
+"{Mizuki}\n"
+"\"Lo siento...\""
 
 #: 00206:1001
 msgid ""
 "{Kazushi}\n"
 "\"No worry.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡No pasa nada, no te preocupes!\""
 
 #: 00206:1002
 msgid ""
 "{Mizuki}\n"
 "\"..................\""
 msgstr ""
+"{Mizuki}\n"
+"\"...\""
 
 #: 00206:1003
 msgid "She really did look tired and irritated. It was hard to talk to her."
-msgstr ""
+msgstr "Parecía realmente cansada e irritada."
 
 #: 00206:1007
 msgid ""
@@ -2806,115 +3555,154 @@ msgid ""
 "\"Sit down, you guys.\n"
 "Kazushi, you sit next to me!\""
 msgstr ""
+"{Ran}\n"
+"\"Sentaos chicos.\n"
+"Kazushi, ¡siéntate junto a mí!\""
 
 #: 00206:1008
 msgid ""
 "{Kazushi}\n"
 "\"All right......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vale...\""
 
 #: 00206:1009
+# TODO: Hay que ver si aquí también se cambia.
 msgid "On the other hand, Ran seemed to be the epitome of a morning person. I felt like we were longtime friends, even though we'd just met yesterday for the first time."
 msgstr ""
+"Ran en cambio, sí que estaba muy animada.\n"
+"Tenía la sensación como si fuésemos amigos desde hace mucho tiempo pese a haberla conocido ayer."
 
 #: 00206:1010
 msgid "Yesterday was a long day, though. I was nearly murdered."
-msgstr ""
+msgstr "Aunque ayer fue un día muy largo."
 
 #: 00206:1011
 msgid ""
 "{Kazushi}\n"
 "\"Oh, hey.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ah, oye.\""
 
 #: 00206:1012
 msgid "I whispered to Ran."
-msgstr ""
+msgstr "Susurré a Ran."
 
 #: 00206:1013
 msgid ""
 "{Kazushi}\n"
 "\"Are you sure it's OK for me to be here?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Estás segura de que está bien que esté yo aquí?\""
 
 #: 00206:1016
 msgid ""
 "{Ran}\n"
 "\"What're you talking about?\""
 msgstr ""
+"{Ran}\n"
+"\"¿A qué te refieres?\""
 
 #: 00206:1017
+# TODO: Cambiar 'top secrets'.
 msgid ""
 "{Kazushi}\n"
 "\"Remember, I know about the island's secrets. The government's weapons factory...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Recuerda que sé los secretos más profundos de la isla. Lo del gobierno y todo eso...\""
 
 #: 00206:1018
 msgid "I had to be careful to make sure nobody else could hear this. My life could be in danger if I did."
-msgstr ""
+msgstr "Tengo que tener cuidado de que nadie escuche eso."
 
 #: 00206:1021
 msgid ""
 "{Ran}\n"
 "\"What......?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Qué...?\""
 
 #: 00206:1022
 msgid "For a second, Ran gave me a blank look."
-msgstr ""
+msgstr "Por un momento, no sabía muy bien de qué le estaba hablando."
 
 #: 00206:1025
 msgid ""
 "{Ran}\n"
 "\"Ahahahahahaha!\""
 msgstr ""
+"{Ran}\n"
+"*Riéndo a carcajadas*"
 
 #: 00206:1026
 msgid "She started laughing her ass off."
-msgstr ""
+msgstr "Empieza a reirse a carcajadas."
 
 #: 00206:1027
+# He cambiado joke por creerse eso.
 msgid ""
 "{Kazushi}\n"
 "\"What?\n"
 "What's so funny?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué?\n"
+"¿Qué es lo que tiene tanta gracia?\""
 
 #: 00206:1028
 msgid ""
 "{Ran}\n"
 "\"Wow, you really believed that?! Kazushi, come on! Ahahahahahahaha!\""
 msgstr ""
+"{Ran}\n"
+"\"¡No puedo creer que te creyeses eso!\""
 
 #: 00206:1029
 msgid ""
 "{Kazushi}\n"
 "\"W-what do you mean \"do I still believe that\"?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué quieres decir?\n"
+"¿A qué te refieres con \"creemer eso\"?\""
 
 #: 00206:1030
 msgid ""
 "{Ran}\n"
 "\"That was such an obvious lie! Wow, Kazushi, you crack me up! Ahahahaha!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Pues que era una broma!\n"
+"¡Eres muy raro!\""
 
 #: 00206:1031
 msgid ""
 "{Kazushi}\n"
 "\"A lie?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Era una broma?\""
 
 #: 00206:1032
 msgid ""
 "{Kazushi}\n"
 "\"What?! A lie?! You mean that was a lie?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Que estabas de broma!?\""
 
 #: 00206:1035
 msgid ""
 "{Ran}\n"
 "\"Of course it was. How could that have been real?\""
 msgstr ""
+"{Ran}\n"
+"\"Pues claro. ¿Cómo iba a ser eso real?\""
 
 #: 00206:1038
 msgid "She was rolling with laughter. Okay, sure, I was suspicious of it too. Normally, I never would have believed it."
@@ -2922,45 +3710,55 @@ msgstr ""
 
 #: 00206:1039
 msgid "But......"
-msgstr ""
+msgstr "Pero..."
 
 #: 00206:1040
 msgid ""
 "{Kazushi}\n"
 "\"Oh yeah! Then what was that thing chasing us?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Ah, claro! Entonces, ¿qué era esa cosa que nos estuvo siguiendo hasta el puente?\""
 
 #: 00206:1041
 msgid "That thing made me believe her. That wasn't normal."
-msgstr ""
+msgstr "Es por eso que tuve que creerme su historia."
 
 #: 00206:1044
 msgid ""
 "{Ran}\n"
 "\"Oh, that? That's just a signpost.\""
 msgstr ""
+"{Ran}\n"
+"\"Era simplemente una señal.\""
 
 #: 00206:1045
 msgid ""
 "{Kazushi}\n"
 "\"A signpost doesn't walk and talk.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Y cómo iba a poder correr una señal?!\""
 
 #: 00206:1046
 msgid ""
 "{Ran}\n"
 "\"They do on this island.\""
 msgstr ""
+"{Ran}\n"
+"\"En esta isla puede.\""
 
 #: 00206:1051
 msgid ""
 "{Pierre}\n"
 "\"Oh, are you talking about that strange thing?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿De qué estáis hablando?\""
 
 #: 00206:1052
 msgid "Pierre slipped into the seat on the other side of ran as he talked to her."
-msgstr ""
+msgstr "Ha sido eso por el simple hecho de poder sentarse junto a Ran."
 
 #: 00206:1059
 msgid ""
@@ -2968,22 +3766,30 @@ msgid ""
 "\"All right!\n"
 "I'll sit here, then!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Está bien!\n"
+"¡Yo me siento aquí!\""
 
 #: 00206:1062
 msgid ""
 "{Pierre}\n"
 "\"Why don't we sit alternating? Wouldn't that way be more poetic?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Qué tal si nos sentamos mezclados?\n"
+"¡Así nos podremos conocer mas rápido!\""
 
 #: 00206:1065
 msgid ""
 "{Ran}\n"
 "\"You boys are so energetic this morning!\""
 msgstr ""
+"{Ran}\n"
+"\"Si que estáis con energía de buena mañana.\""
 
 #: 00206:1066
 msgid "Appo and Pierre did a good job of making sure we sat boy-girl."
-msgstr ""
+msgstr "Appo- y Pierre hicieron un buen trabajo mezclando chicos y chicas."
 
 #: 00206:1067
 msgid ""
@@ -2996,6 +3802,8 @@ msgid ""
 "{Mizuki}\n"
 "\"A cabaret?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Llamas a esto cabaret...?\""
 
 #: 00206:1078
 msgid ""
@@ -3008,6 +3816,8 @@ msgid ""
 "{Appo}\n"
 "\"Here you are!\""
 msgstr ""
+"{Appo-}\n"
+"\"Sí.\""
 
 #: 00206:1089
 msgid ""
@@ -3020,6 +3830,9 @@ msgid ""
 "{Mizuki}\n"
 "\"Hey, Ran, don't start that this early.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Ey Ran,\n"
+"ya basta.\""
 
 #: 00206:1099
 msgid ""
@@ -3054,12 +3867,16 @@ msgid ""
 "{Kazushi}\n"
 "\"Look, I know you're having a lot of fun, but aren't we supposed to be behaving ourselves?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Chicos. Tenemos que comportarnos.\""
 
 #: 00206:1116
 msgid ""
 "{Appo}\n"
 "\"Oh come one, what's wrong? We're paying them for this. Wight, Mijuki-chwan?\""
 msgstr ""
+"{Appo-}\n"
+"\"No pasa nada, Kazushi, les pagaré.\""
 
 #: 00206:1119
 msgid ""
@@ -3119,20 +3936,24 @@ msgid ""
 "{Kazushi}\n"
 "\"Come on, that's enough. Appo, you need to stop too.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eh, venga. Ya está bien.\""
 
 #: 00206:1144
 msgid "I should really stop them before things get out of hand."
-msgstr ""
+msgstr "Debería pararles antes de que se nos escape de las manos."
 
 #: 00206:1147
 msgid ""
 "{Appo}\n"
 "\"Tsk. Fine.\""
 msgstr ""
+"{Appo-}\n"
+"\"Vaale.\""
 
 #: 00206:1148
 msgid "Appo looked like a child who just had his favourite toys taken away as he stuffed the wad of bills back in his pocket."
-msgstr ""
+msgstr "Appo- parecía como un niño al que le acaban de quitar un juguete."
 
 #: 00206:1151
 msgid ""
@@ -3145,6 +3966,8 @@ msgid ""
 "{Mizuki}\n"
 "\"No thanks, I'd rather not.\""
 msgstr ""
+"{Mizuki}\n"
+"\"No habrá próxima vez.\""
 
 #: 00206:1158
 msgid ""
@@ -3157,16 +3980,20 @@ msgid ""
 "{Mizuki}\n"
 "\"I can't take someone's money for no reason.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Yo no puedo coger el dinero de alguien sin haber algún motivo.\""
 
 #: 00206:1165
 msgid ""
 "{Pierre}\n"
 "\"I'll give you a good reason.\""
 msgstr ""
+"{Pierre}\n"
+"\"Yo te daré un buen motivo.\""
 
 #: 00206:1166
 msgid "Pierre got everyone's attention. After looking back at each of them, he put on a big smile and said his line."
-msgstr ""
+msgstr "Pierre consiguió la atención de todos."
 
 #: 00206:1169
 msgid ""
@@ -3183,12 +4010,16 @@ msgid ""
 "{Mizuki}\n"
 "\"..................\""
 msgstr ""
+"{Mizuki}\n"
+"\"...\""
 
 #: 00206:1176
 msgid ""
 "{Ran}\n"
 "\"So Mizuki's beauty is only worth 1,000 yen? Hear that, Mizuki?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Estás diciendo que su belleza solo vale 1000 yenes?\""
 
 #: 00206:1179
 msgid ""
@@ -3196,6 +4027,9 @@ msgid ""
 "\"No, that's not my point.\n"
 "Her beauty is priceless!\""
 msgstr ""
+"{Pierre}\n"
+"\"No, no me refería a eso.\n"
+"¡Su belleza no tiene precio!\""
 
 #: 00206:1180
 msgid ""
@@ -3213,36 +4047,45 @@ msgid ""
 "\"Sounds like you guys are having a good time.\n"
 "Can I join you?\""
 msgstr ""
+"{Haruka}\n"
+"\"Parece que os lo estáis pasando bien\n"
+"¿puedo unirme a vosotros?\""
 
 #: 00206:1188
 msgid "Just as I heard her bright voice, Haruka joined our group. She turned her friendly, beaming smile to each of us."
-msgstr ""
+msgstr "Haruka apareció y se unió a nosotros. Está sonriendo."
 
 #: 00206:1189
 msgid "Seems like Haruka's a morning person too."
-msgstr ""
+msgstr "Haruka parece tener un buen despertar."
 
 #: 00206:1194
 msgid ""
 "{Ran}\n"
 "\"Of course. Sit anywhere you'd like.\""
 msgstr ""
+"{Ran}\n"
+"\"Claro, siéntate donde quieras.\""
 
 #: 00206:1195
 msgid ""
 "{Haruka}\n"
 "\"Thanks......\""
 msgstr ""
+"{Haruka}\n"
+"\"Gracias...\""
 
 #: 00206:1196
 msgid "She walked straight over towards my seat."
-msgstr ""
+msgstr "Andó directa hasta mi sitio."
 
 #: 00206:1200
 msgid ""
 "{Haruka}\n"
 "\"Can I sit next to you?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Puedo sentarme a tu lado?\""
 
 #: 00206:1201
 msgid ""
@@ -3250,16 +4093,21 @@ msgid ""
 "\"Me?\n"
 "Sure.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿A mi lado?\n"
+"Claro.\""
 
 #: 00206:1202
 msgid ""
 "{Haruka}\n"
 "\"Okay, excuse me.\""
 msgstr ""
+"{Haruka}\n"
+"\"Gracias.\""
 
 #: 00206:1203
 msgid "Ran on my right. Haruka on my left. I'm getting nervous."
-msgstr ""
+msgstr "Ran a la derecha, Haruka a la izquierda. Estoy empezando a ponerme nervioso."
 
 #: 00206:1204
 msgid "I told myself I'm no longer a junior high school kid. Be a man. Stay calm."
@@ -3270,38 +4118,48 @@ msgid ""
 "{Haruka}\n"
 "\"I'm so happy to see you-\""
 msgstr ""
+"{Haruka}\n"
+"\"Me alegro mucho de verte.\""
 
 #: 00206:1208
 msgid ""
 "{Kazushi}\n"
 "\"Don't worry. We won't try to run away again. After all, we can't.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No te preocupes, no volveremos a tratar de escapar.\""
 
 #: 00206:1211
 msgid ""
 "{Haruka}\n"
 "\"Yeah. Oh, but don't push yourselves okay? If you ever need any help, let me know.\""
 msgstr ""
+"{Haruka}\n"
+"\"Recuerda, si tenéis cualqueir duda, venid a verme, ¿vale?\""
 
 #: 00206:1212
 msgid ""
 "{Kazushi}\n"
 "\"I will. But you have to promise me that you won't do anything crazy like you did last night, OK?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya, ya. Pero tienes que prometerme que no volverás a hacer ninguna locura como la de anoche, ¿vale?\""
 
 #: 00206:1213
 msgid "I remembered how soaked Haruka was. And how we saw her underwear. Course, before that, I saw her naked."
-msgstr ""
+msgstr "Recuerdo que acabó empapada por buscarnos. También puedo recordar su cuerpo mojado."
 
 #: 00206:1214
 msgid "That little memory caused me to stare at her breasts."
-msgstr ""
+msgstr "Ese recuerdo me hizo quedarme mirando a sus pechos."
 
 #: 00206:1217
 msgid ""
 "{Haruka}\n"
 "\"Ah!...\""
 msgstr ""
+"{Haruka}\n"
+"\"¿¡...!?\""
 
 #: 00206:1218
 msgid "Haruka yanked her arms together, covering the front of her jacket as she noticed me staring at her chest."
@@ -3312,32 +4170,41 @@ msgid ""
 "{Kazushi}\n"
 "\"Oh, sorry, I...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento...\""
 
 #: 00206:1222
 msgid ""
 "{Haruka}\n"
 "\"N-no, it's okay. You've just caught me at embarrassing moments.\""
 msgstr ""
+"{Haruka}\n"
+"\"No te preocupes. Es que me da vergüenza.\""
 
 #: 00206:1223
 msgid "She blushed as she gave me a friendly smile. I really have caught her at embarrassing moments."
-msgstr ""
+msgstr "Debería alejarme de su vida privada."
 
 #: 00206:1228
 msgid ""
 "{Ran}\n"
 "\"What do you mean embarrassing moments? Kazushi, you didn't go peeping did you?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Vergüenza por qué?\n"
+"Kazushi, ¿es que la has espiado o algo?\""
 
 #: 00206:1235
 msgid ""
 "{Mizuki}\n"
 "\"Huh? Peeping?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Espiar? ¿Quién?\""
 
 #: 00206:1236
 msgid "For some reason, Hinata-san was remarkably sensitive about that word."
-msgstr ""
+msgstr "Mizuki estaba muy sensible a esa palabra por algún motivo."
 
 #: 00206:1244
 msgid ""
@@ -3350,12 +4217,16 @@ msgid ""
 "{Kazushi}\n"
 "\"You don't tell me that at all! I don't peep on people anyways!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eh, que yo no espío a nadie.\""
 
 #: 00206:1246
 msgid ""
 "{Appo}\n"
 "\"Kazushi-kun can be a little too honest with his desires sometimes.\""
 msgstr ""
+"{Appo-}\n"
+"\"En ocasiones eres demasiado honesto para tus deseos.\""
 
 #: 00206:1249
 msgid ""
@@ -3368,30 +4239,36 @@ msgid ""
 "{Kazushi}\n"
 "\"Cut it out, now.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No tiene gracia.\""
 
 #: 00206:1255
 msgid ""
 "{Mizuki}\n"
 "\"..................\""
 msgstr ""
+"{Mizuki}\n"
+"\"...\""
 
 #: 00206:1256
 msgid "Hinata-san, please don't look at me so suspiciously."
-msgstr ""
+msgstr "Mizuki me está mirando sospechosamente."
 
 #: 00206:1262
 msgid ""
 "{Sakura}\n"
 "\"You guys haven't started eating yet?\""
 msgstr ""
+"{Sakura}\n"
+"\"¿No habéis empezado a comer todavía?\""
 
 #: 00206:1263
 msgid "Her name was Sakura, right? The other girl was Rin, I think."
-msgstr ""
+msgstr "Sakura y Rin aparecieron."
 
 #: 00206:1264
 msgid "Those two looked disappointed to see our table for some reason."
-msgstr ""
+msgstr "Ambas parecían decepcionadas al mirar a nuestra mesa por algún motivo."
 
 #: 00206:1267
 msgid ""
@@ -3399,48 +4276,66 @@ msgid ""
 "\"It was our class's turn to serve breakfast this morning.\n"
 "Don't you boys like our cooking?\""
 msgstr ""
+"{Rin}\n"
+"\"Le tocaba a nuestro grupo servir el desayuno esta mañana.\n"
+"¿No os gusta nuestra cocina?\""
 
 #: 00206:1268
 msgid ""
 "{Kazushi}\n"
 "\"The students take turns to cook?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Las estudiantes se turnan para cocinar?\""
 
 #: 00206:1269
 msgid ""
 "{Sakura}\n"
 "\"Yeah, for breakfast at least. We all take turns.\""
 msgstr ""
+"{Sakura}\n"
+"\"Solo en los desayunos.\""
 
 #: 00206:1270
 msgid ""
 "{Rin}\n"
 "\"Umm, could you please try it for us? I didn't know what you boys would like, so I was hoping to hear what you thought of it.\""
 msgstr ""
+"{Rin}\n"
+"\"¿Podéis comer y decirnos qué tal está?\""
 
 #: 00206:1273
 msgid ""
 "{Sakura}\n"
 "\"Rin is dedicated to her cooking. Her food is amazing, though. It's your loss if you don't try it.\""
 msgstr ""
+"{Sakura}\n"
+"\"Rin es muy buena cocinando. Probad lo suyo, os encantará.\""
 
 #: 00206:1280
 msgid ""
 "{Mizuki}\n"
 "\"Yeah, Rin's cooking is my favourite. I wish it was her turn every morning.\""
 msgstr ""
+"{Mizuki}\n"
+"\"A mí me encanta la comida de Rin. Ojalá fuese su turno todos los días.\""
 
 #: 00206:1281
 msgid ""
 "{Rin}\n"
 "\"I wouldn't mind cooking every morning, but wouldn't you get bored with it?\""
 msgstr ""
+"{Rin}\n"
+"\"No me importaría, pero os acabaríais aburriendo.\""
 
 #: 00206:1285
 msgid ""
 "{Haruka}\n"
 "\"No way, no way! Rin-chan's cooking is really delicious. You could call her the mother of Eiden Academy.\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Es imposible cansarse de tu cocina!\n"
+"A mí también me encanta.\""
 
 #: 00206:1288
 msgid ""
@@ -3457,32 +4352,40 @@ msgid ""
 "{Appo}\n"
 "\"I'm getting hungry just hearing about it.\""
 msgstr ""
+"{Appo-}\n"
+"\"Me ha entrado mucha hambre al oír todo eso.\""
 
 #: 00206:1300
 msgid ""
 "{Kazushi}\n"
 "\"All right, let's eat!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está bien, ¡comamos!\""
 
 #: 00206:1301
 msgid ""
 "{Daigo}\n"
 "\"Let's see......\""
 msgstr ""
+"{Daigo}\n"
+"\"Veamos...\""
 
 #: 00206:1306
 msgid "We put our chopsticks to work. With the guys' stomachs in mind, they made big bowls. It was a fresh seafood platter with simple flavouring and an abundance of seafood."
-msgstr ""
+msgstr "Esta mañana había un bol de marisco fresco."
 
 #: 00206:1307
 msgid "There were grated yams and soup to go with it. It was an ample, gorgeous looking breakfast."
-msgstr ""
+msgstr "Qué desayuno más exquisito."
 
 #: 00206:1308
 msgid ""
 "{Kazushi}\n"
 "\"Chomp, chomp, chomp.\""
 msgstr ""
+"{Kazushi}\n"
+"*Comiendo*"
 
 #: 00206:1309
 msgid ""
@@ -3490,12 +4393,17 @@ msgid ""
 "\"......Wow!\n"
 "This is great!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Increíble...!\n"
+"¡¡Está genial!!\""
 
 #: 00206:1310
 msgid ""
 "{Appo}\n"
 "\"Did you really make this, Rin-chan?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Has ehcho tú esto, Rin?\""
 
 #: 00206:1311
 msgid ""
@@ -3508,28 +4416,38 @@ msgid ""
 "{Pierre}\n"
 "\"We haven't heard your last name yet.\""
 msgstr ""
+"{Pierre}\n"
+"\"Porque no sabemos tu apellido.\""
 
 #: 00206:1313
 msgid ""
 "{Sakura}\n"
 "\"Oh yeah. Well, I'm Takase Sakura, and her name is Fujisaki Rin.\""
 msgstr ""
+"{Sakura}\n"
+"\"Ya veo.\n"
+"Yo me apellido Takase.\n"
+"El de Rin es Fujisaki.\""
 
 #: 00206:1314
 msgid ""
 "{Sakura}\n"
 "\"Today's breakfast was made for you by this girl, the mother of Eiden Academy, Fujisaki Rin. So, delicious, right?\""
 msgstr ""
+"{Sakura}\n"
+"\"Y respondiendo a su pregunta, señor Appo-, sí Rin hizo todo esto.\""
 
 #: 00206:1315
 msgid ""
 "{Daigo}\n"
 "\"You're a genius.\""
 msgstr ""
+"{Daigo}\n"
+"\"Eres formidable...\""
 
 #: 00206:1316
 msgid "Daigo was quite impressed. He was usually rather picky about food, so it wasn't common for him to praise someone's cooking like that."
-msgstr ""
+msgstr "Daigo está gratamente sorprendido."
 
 #: 00206:1317
 msgid ""
@@ -3542,6 +4460,8 @@ msgid ""
 "{Rin}\n"
 "\"Stop it, you guys.\""
 msgstr ""
+"{Rin}\n"
+"\"Parad chicos...\""
 
 #: 00206:1319
 msgid ""
@@ -3554,6 +4474,8 @@ msgid ""
 "{Rin}\n"
 "\"Huh? But it only cost 50 yen a person?\""
 msgstr ""
+"{Rin}\n"
+"\"¿En serio? El coste de esto son unos 50 yenes el bol.\""
 
 #: 00206:1321
 msgid ""
@@ -3566,12 +4488,16 @@ msgid ""
 "{Pierre}\n"
 "\"Rin-chan, you're like one of those ideal bride types you don't see anymore. I'd love to have you in my house.\""
 msgstr ""
+"{Pierre}\n"
+"\"Serías una gran ama de casa.\""
 
 #: 00206:1323
 msgid ""
 "{Rin}\n"
 "\"Me... The ideal bride...\""
 msgstr ""
+"{Rin}\n"
+"\"No me halagueis...\""
 
 #: 00206:1324
 msgid ""
@@ -3584,12 +4510,16 @@ msgid ""
 "{Kazushi}\n"
 "\"Oh, how traditional.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Una chica muy tradicional.\""
 
 #: 00206:1326
 msgid ""
 "{Rin}\n"
 "\"Stop it, you don't need to flatter me.\""
 msgstr ""
+"{Rin}\n"
+"\"Gracias.\""
 
 #: 00206:1327
 msgid "As we kept complimenting her, Fujisaki-san blushed and acted shy, just like a newlywed would."
@@ -3622,12 +4552,16 @@ msgid ""
 "{Pierre}\n"
 "\"Why do we have to cook?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿También tenemos que cocinar?\""
 
 #: 00206:1344
 msgid ""
 "{Sakura}\n"
 "\"Like I said, we take turns. Eventually, it'll come around to you guys cooking.\""
 msgstr ""
+"{Sakura}\n"
+"\"Sip. Todas las habitaciones hacen turnos.\""
 
 #: 00206:1345
 msgid ""
@@ -3640,28 +4574,36 @@ msgid ""
 "{Pierre}\n"
 "\"Shit, I never cooked anything in my life.\""
 msgstr ""
+"{Pierre}\n"
+"\"Yo no he cocinado en toda mi vida.\""
 
 #: 00206:1352
 msgid ""
 "{Appo}\n"
 "\"I've made some instant noodles before......\""
 msgstr ""
+"{Appo-}\n"
+"\"Yo he ehcho algunos fideos instantáneos alguna vez...\""
 
 #: 00206:1353
 msgid ""
 "{Kazushi}\n"
 "\"I'm not confident either.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Y yo.\""
 
 #: 00206:1354
 msgid "I only have one item in my repertoire. Will we actually be able to handle our turn?"
-msgstr ""
+msgstr "Eso es lo único que sabemos hacer."
 
 #: 00206:1358
 msgid ""
 "{Sakura}\n"
 "\"Ahaha, I think the boys' turn will be a little scary.\""
 msgstr ""
+"{Sakura}\n"
+"\"Será interesante.\""
 
 #: 00206:1362
 msgid ""
@@ -3670,20 +4612,25 @@ msgid ""
 msgstr ""
 
 #: 00206:1366
+# Hay que ver la palabra correcta para 'stomatch medicine'.
 msgid ""
 "{Ran}\n"
 "\"That day will be my big chance! I better start stocking up on indigestion medicine to sell!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Eso me dará una buena oportunidad de vender medicamentos para el estómago!\""
 
 #: 00206:1367
 msgid ""
 "{Kazushi}\n"
 "\"Grr. I think we're being insulted.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Supongo que nos acabáis de retar.\""
 
 #: 00206:1368
 msgid "Now I felt like making something good to surprise them."
-msgstr ""
+msgstr "Ahora tengo ganas de cocinar. Creo que están infravalorando nuestro talento."
 
 #: 00206:1373
 msgid ""
@@ -3691,16 +4638,21 @@ msgid ""
 "\"We'll be fine.\n"
 "I can cook little bit.\""
 msgstr ""
+"{Daigo}\n"
+"\"No pasará nada.\n"
+"Yo puedo cocinar algo.\""
 
 #: 00206:1374
 msgid ""
 "{Kazushi}\n"
 "\"Oh yeah, we have you, Daigo!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Es cierto, ¡te tenemos a ti, Daigo!\""
 
 #: 00206:1375
 msgid "That curry he fed us was good. He's picky about taste, and pretty skilled too. We'll manage with Daigo on our team."
-msgstr ""
+msgstr "Se le da bien hacer curry."
 
 #: 00206:1380
 msgid ""
@@ -3720,47 +4672,55 @@ msgstr ""
 
 #: 00206:1388
 msgid "After breakfast, we headed back to our dorm, got our stuff, met up with Haruka, and now we're heading to the classroom."
-msgstr ""
+msgstr "Tras el desayuno volvimos a nuestra habitación. Y ahora nos dirigimos a la clase con las chicas."
 
 #: 00206:1389
 msgid "Just walking with the girls made everything feel different today."
-msgstr ""
+msgstr "El mero hecho de andar con las chicas nos hace sentirnos especiales."
 
 #: 00206:1390
 msgid "Our life is now different. We could feel that, but we still held both anxiety and hope."
-msgstr ""
+msgstr "Todavía estamos con una mezcla entre ansiedad y esperanza."
 
 #: 00206:1391
 msgid "I think the girls walking by felt the same way too. They all looked fidgety."
-msgstr ""
+msgstr "Parece que a las chicas también les resulta extraño tener a chicos en la escuela."
 
 #: 00206:1394
 msgid ""
 "{Appo}\n"
 "(Hey, talk to them. The girls are bored, right?)"
 msgstr ""
+"{Appo-}\n"
+"(Ey, habla con ellas. Rompe el hielo.)"
 
 #: 00206:1395
 msgid "Appo whispered to me. Shit, I was so satisfied I didn't realize we weren't chatting."
-msgstr ""
+msgstr "Me susurra Appo-."
 
 #: 00206:1396
 msgid ""
 "{Kazushi}\n"
 "(I know, but I don't know what to talk about.)"
 msgstr ""
+"{Kazushi}\n"
+"(Ya, ya. Pero es que no sé qué decir.)"
 
 #: 00206:1401
 msgid ""
 "{Pierre}\n"
 "(Anything! Don't we have any questions to ask as new students?)"
 msgstr ""
+"{Pierre}\n"
+"(¡Lo uqe sea! ¿Acaso no tenemos preguntas siendo nuevos?)"
 
 #: 00206:1402
 msgid ""
 "Good idea.\n"
 "Let's see. A question......"
 msgstr ""
+"Gran idea.\n"
+"Veamos. Alguna pregunta..."
 
 #: 00206:1403
 msgid ""
@@ -3787,100 +4747,129 @@ msgid ""
 "{Haruka}\n"
 "\"Those roots are where this island's power flows from. I hear that's why they built the academy here.\""
 msgstr ""
+"{Haruka}\n"
+"\"Yo escuché que decidieron hacer la escuela aquí porque vieron los hierbajos, el poder proviene de aquí.\""
 
 #: 00206:1415
 msgid ""
 "{Kazushi}\n"
 "\"???\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¿¿???\""
 
 #: 00206:1416
 msgid "What the hell is she talking about?"
-msgstr ""
+msgstr "¿De qué está hablando?"
 
 #: 00206:1421
 msgid ""
 "{Daigo}\n"
 "\"What power?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Qué poder?\""
 
 #: 00206:1422
 msgid ""
 "{Haruka}\n"
 "\"Alchemical power. This island is a special place where alchemy can be practiced. This academy is located in one of the most important spots for it.\""
 msgstr ""
+"{Haruka}\n"
+"\"Pensaron que esta isla tiene el poder de la alquimia.\""
 
 #: 00206:1423
 msgid ""
 "{Kazushi}\n"
 "\"???\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¿¿???\""
 
 #: 00206:1424
 msgid "I still don't understand."
-msgstr ""
+msgstr "Sigo sin entender."
 
 #: 00206:1428
 msgid ""
 "{Appo}\n"
 "\"What's alchemy?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Qué alquimia?\""
 
 #: 00206:1429
 msgid ""
 "{Daigo}\n"
 "\"Isn't that the power to change lead into gold?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Ese no era el poder de convertir metal en oro?\""
 
 #: 00206:1430
 msgid ""
 "{Kazushi}\n"
 "\"That only exists in manga, right? No academy like that exists.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Estáis de guasa, ¿no?\""
 
 #: 00206:1434
 msgid ""
 "{Haruka}\n"
 "\"Yes it does, right here. This is an academy for the study of alchemy.\""
 msgstr ""
+"{Haruka}\n"
+"\"Nuestra escuela es la escuela de la alquimia.\""
 
 #: 00206:1438
 msgid ""
 "{Ran}\n"
 "\"You didn't know?\""
 msgstr ""
+"{Ran}\n"
+"\"¿No lo sabíais?\""
 
 #: 00206:1439
 msgid ""
 "{Kazushi}\n"
 "\"We didn't.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Pues no.\""
 
 #: 00206:1443
 msgid ""
 "{Appo}\n"
 "\"What's alchemy? Is it erotic like chemistry?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Qué es la alquimia? ¿Es algo erótico?\""
 
 #: 00206:1447
 msgid ""
 "{Mizuki}\n"
 "\"You honestly didn't know? There should have been an explanation.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Dios mío, ¿de verdad que no lo sabéis?.\n"
+"¿No os lo dijo nadie antes de que os matriculáseis?\""
 
 #: 00206:1448
 msgid ""
 "{Kazushi}\n"
 "\"I think our minds probably stopped paying attention after all-girls' boarding school.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Puede que hubiese alguna orientación.\""
 
 #: 00206:1449
 msgid "I doubt we heard anything after that. That was the important part to us."
-msgstr ""
+msgstr "Estábamos demasiado ocupados pensando en que iríamos a la escuela para chicas."
 
 #: 00206:1450
 msgid "We didn't care what kind of all girls' school it was, but we never expected alchemy. Who would've thought it existed?"
-msgstr ""
+msgstr "No nos importaba nada más con tal de que fuese la escuela para chicas."
 
 #: 00206:1455
 msgid ""
@@ -3899,6 +4888,8 @@ msgid ""
 "{Pierre}\n"
 "\"It's like magic, right? It's impossible.\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Es algún tipo de magia?\""
 
 #: 00206:1467
 msgid ""
@@ -3908,41 +4899,52 @@ msgstr ""
 
 #: 00206:1468
 msgid "Haruka glanced at me as she said that. Alchemy, huh? I wonder if I can do it."
-msgstr ""
+msgstr "Resulta difícil de creer."
 
 #: 00206:1474
 msgid ""
 "{Kazushi}\n"
 "\"How lucky can we be!?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡¿Cómo podemos tener tanta suerte?!!\""
 
 #: 00206:1475
 msgid "All four of us were lucky enough to be in the same class."
-msgstr ""
+msgstr "Resulta que nosotros cuatro estamos en la misma clase."
 
 #: 00206:1478
+# TODO: ¿Los secretos? ¿El secreto?
 msgid ""
 "{Pierre}\n"
 "\"It's too well set for luck. This was fate!\""
 msgstr ""
+"{Pierre}\n"
+"\"Lo sé.\""
 
 #: 00206:1483
 msgid ""
 "{Appo}\n"
 "\"We are destined to stay together! I know Kazushi's secret.\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Estamos destinados a permanecer juntos! Sé los secretos de Kazushi.\""
 
 #: 00206:1484
 msgid ""
 "{Kazushi}\n"
 "\"I know yours, too.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Y yo también sé los tuyos.\""
 
 #: 00206:1487
 msgid ""
 "{Pierre}\n"
 "\"We all know each other's secrets.\""
 msgstr ""
+"{Pierre}\n"
+"\"Todos conocemos nuestros secretos.\""
 
 #: 00206:1494
 msgid ""
@@ -3955,6 +4957,8 @@ msgid ""
 "{Kazushi}\n"
 "\"I know. You're a super-shy guy.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya imagino. Eres un chico super vergonzoso.\""
 
 #: 00206:1501
 msgid ""
@@ -3970,35 +4974,43 @@ msgstr ""
 
 #: 00206:1507
 msgid "Ran and Hinata-san are in our class too. Also..."
-msgstr ""
+msgstr "Ran y Mizuki están con nosotros, y..."
 
 #: 00206:1514
 msgid ""
 "{Haruka}\n"
 "\"Wow. This must be destiny.\""
 msgstr ""
+"{Haruka}\n"
+"\"Vaya. Debe ser cosa del destino.\""
 
 #: 00206:1515
 msgid "Haruka is with us, too. It was very reassuring to have so many familiar faces in our new class."
-msgstr ""
+msgstr "Haruka también."
 
 #: 00206:1518
 msgid ""
 "{Haruka}\n"
 "\"Let's all get along and have a great time!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Nos lo pasaremos en grande este semestre!\""
 
 #: 00206:1521
 msgid ""
 "{Ran}\n"
 "\"Wait a minute. I thought you were in the class next to us.\""
 msgstr ""
+"{Ran}\n"
+"\"Espera un momento. Yo creía que estabas en la clase de al lado.\""
 
 #: 00206:1522
 msgid ""
 "{Kazushi}\n"
 "\"Huh? The class next to us?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿No estás con nosotros?\""
 
 #: 00206:1526
 msgid ""
@@ -4017,44 +5029,59 @@ msgid ""
 "{Rin}\n"
 "\"That's funny......\""
 msgstr ""
+"{Rin}\n"
+"\"Qué raro...\""
 
 #: 00206:1540
 msgid ""
 "{Sakura}\n"
 "\"Oh, it's Harunyan. What're you doing here?\""
 msgstr ""
+"{Sakura}\n"
+"\"Ey, Haruka.\n"
+"¿Qué haces aquí?\""
 
 #: 00206:1541
 msgid "Takase and Fujisaki-san were in our class too. They found it strange to see Haruka in this class though."
-msgstr ""
+msgstr "Sakura y Rin no sabían que Haruka estaba en nuestra clase."
 
 #: 00206:1545
 msgid ""
 "{Haruka}\n"
 "\"Oh, hey Sakura! I'm in this class, right?\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Ey Sakura!\n"
+"Yo estaba en esta clase, ¿verdad?\""
 
 #: 00206:1548
 msgid ""
 "{Sakura}\n"
 "\"Huh? Harunyan? Umm...\""
 msgstr ""
+"{Sakura}\n"
+"\"¿Tú? Eh...\""
 
 #: 00206:1551
 msgid ""
 "{Haruka}\n"
 "*stare*"
 msgstr ""
+"{Haruka}\n"
+"*Haruka mirando a Sakura*"
 
 #: 00206:1556
 msgid ""
 "{Sakura}\n"
 "\"Hmm?! I think I'm being sent a signal.\""
 msgstr ""
+"{Sakura}\n"
+"\"¿¡!?\n"
+"¿Me estás tratando de mandar algún mensaje?\""
 
 #: 00206:1557
 msgid "Looked that way to everyone else too. I'm pretty sure Haruka was the sender."
-msgstr ""
+msgstr "La verdad es que parece eso."
 
 #: 00206:1558
 msgid ""
@@ -4067,36 +5094,48 @@ msgid ""
 "{Sakura}\n"
 "\"Umm...... Harunyan was in this class, right?\""
 msgstr ""
+"{Sakura}\n"
+"\"Mmm... Eso creo.\""
 
 #: 00206:1565
 msgid ""
 "{Pierre}\n"
 "\"Signal got through.\""
 msgstr ""
+"{Pierre}\n"
+"\"Mensaje enviado satisfactoriamente.\""
 
 #: 00206:1568
 msgid ""
 "{Haruka}\n"
 "\"See, Sakura knows I'm in this class.\""
 msgstr ""
+"{Haruka}\n"
+"\"Veis, Sakura ya sabía que estaba en esta clase.\""
 
 #: 00206:1572
 msgid ""
 "{Rin}\n"
 "\"What's going on?\""
 msgstr ""
+"{Rin}\n"
+"\"¿Qué está pasando?\""
 
 #: 00206:1576
 msgid ""
 "{Ran}\n"
 "\"It's hard to understand what Haruka says sometimes.\""
 msgstr ""
+"{Ran}\n"
+"\"A veces resulta difícil de saber qué es lo que quiere Haruka.\""
 
 #: 00206:1583
 msgid ""
 "{Mei}\n"
 "\"Hello. Good morning, everyone. Please be seated.\""
 msgstr ""
+"{Mei}\n"
+"\"Buenos días a todos, por favor, sentaos.\""
 
 #: 00206:1586
 msgid "The chatter quickly stopped. The beautiful teacher from yesterday entered the classroom. Appo and Pierre were immediately captivated."
@@ -4108,6 +5147,9 @@ msgid ""
 "\"Mei-sensei's our homeroom teacher! Yes!\n"
 "We are so lucky!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Mei es nuestra profesora! ¡toma ya!\n"
+"¡Menuda suerte!\""
 
 #: 00206:1595
 msgid ""
@@ -4120,6 +5162,8 @@ msgid ""
 "{Daigo}\n"
 "\"What is he talking about?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿De qué está hablando?\""
 
 #: 00206:1605
 msgid ""
@@ -4142,6 +5186,8 @@ msgid ""
 "{Andou}\n"
 "\"Oh no, what is he saying?\""
 msgstr ""
+"{Rei}\n"
+"\"¿Qué está haciendo?\""
 
 #: 00206:1616
 msgid ""
@@ -4160,30 +5206,43 @@ msgid ""
 "{Fuusen}\n"
 "\"This thing is pissing me off. And what's with that stem on it's head?!\""
 msgstr ""
+"{Hu-sen}\n"
+"\"Me pones enferma.\n"
+"¿¡Qué es esa cosa que tienes en la cabeza!?\""
 
 #: 00206:1627
 msgid ""
 "{Appo}\n"
 "\"It's not a stem, it's my hairstyle!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡No es una \"cosa\"!\n"
+"¡¡Es un estilo de pelo!!\""
 
 #: 00206:1630
 msgid ""
 "{Andou}\n"
 "\"He looks like an apple. Apple! Apple!\""
 msgstr ""
+"{Rei}\n"
+"\"Tu pelo parece como una manzana.\""
 
 #: 00206:1631
 msgid ""
 "{Appo}\n"
 "\"Shut up!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡A callar!\""
 
 #: 00206:1634
+# Coña de la manzana de Blancanieves.
 msgid ""
 "{Fuusen}\n"
 "\"I'm known as the 'Snow White' of Eiden Academy. No wonder we'll never get along. Stay away from me, you filthy poisoned apple.\""
 msgstr ""
+"{Hu-sen}\n"
+"\"Por  cierto, la gene me llama \"Blancanieves\". No me extraña que no nos llevemos bien.\""
 
 #: 00206:1636
 msgid ""
@@ -4196,12 +5255,16 @@ msgid ""
 "{Pierre}\n"
 "\"You haven't been quiet at all. Now, calm down, both of you.\""
 msgstr ""
+"{Pierre}\n"
+"\"Tranquilizaos.\""
 
 #: 00206:1644
 msgid ""
 "{Daigo}\n"
 "\"If you get Appo riled up, it'll lead to disaster.\""
 msgstr ""
+"{Daigo}\n"
+"\"Creéme. No querríais enfadar a Appo-.\""
 
 #: 00206:1647
 msgid ""
@@ -4233,28 +5296,37 @@ msgid ""
 "{Haruka}\n"
 "\"Now, now, everybody calm down. Deep breath, deep breath. It's not good to fight on your first day of school.\""
 msgstr ""
+"{Haruka}\n"
+"\"Venga, por favor, que hoy es nuestro primer día de clase.\""
 
 #: 00206:1658
 msgid "Everybody watched Haruka as she tried to stop the fight."
-msgstr ""
+msgstr "Todos miraban a Haruka mientras trataba de parar la pelea."
 
 #: 00206:1661
 msgid ""
 "{Haruka}\n"
 "\"What's wrong, everybody?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Qué pasa con todo el mundo?\""
 
 #: 00206:1668
 msgid ""
 "{Mei}\n"
 "\"Which reminds me, why are you here, Aozora-san? You're in the class next door, aren't you?\""
 msgstr ""
+"{Mei}\n"
+"Por cierto, ¿qué haces aquí, Haruka? Tu estás en la otra clase.\""
 
 #: 00206:1671
 msgid ""
 "{Haruka}\n"
 "\"Oh, umm, well...Ah, yes, uh-huh! I just transferred to this class today! I hope you'll all take good care of me.\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Ah, sí...!\n"
+"¡Me han cambiado a esta!\""
 
 #: 00206:1678
 msgid ""
@@ -4267,24 +5339,35 @@ msgid ""
 "{Ran}\n"
 "\"Nope. Haruka, what are you thinking?\""
 msgstr ""
+"{Ran}\n"
+"\"Claro que no.\n"
+"Haruka, ¿qué estás haciendo?\""
 
 #: 00206:1684
 msgid ""
 "{Haruka}\n"
 "\"Ummmm...\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Eh?\""
 
 #: 00206:1692
 msgid ""
 "{Appo}\n"
 "\"Who cares. The more cute girls, the better!\""
 msgstr ""
+"{Appo-}\n"
+"\"Qué mas da.\n"
+"Todas las clases necesitan una heroina.\""
 
 #: 00206:1693
 msgid ""
 "{Pierre}\n"
 "\"He's right. Let's just have fun and not worry about it.\""
 msgstr ""
+"{Pierre}\n"
+"\"Tiene razón,\n"
+"dejad que se quede en nuestra clase.\""
 
 #: 00206:1696
 msgid ""
@@ -4297,12 +5380,16 @@ msgid ""
 "{Mizuki}\n"
 "\"Huh? She can do this?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Se supone que es así de fácil?\""
 
 #: 00206:1707
 msgid ""
 "{Mei}\n"
 "\"Of course not. Homeroom is starting now. Go back to your proper classroom.\""
 msgstr ""
+"{Mei}\n"
+"\"Claro que no. Tienes que volver a tu clase.\""
 
 #: 00206:1710
 msgid "Haruka drew her lips together and used her final counterattack."
@@ -4313,22 +5400,28 @@ msgid ""
 "{Haruka}\n"
 "\"Umm... I'm the principal's granddaughter, you know?\""
 msgstr ""
+"{Haruka}\n"
+"\"Recuerdas quién es mi abuela, ¿no?\""
 
 #: 00206:1717
 msgid ""
 "{Mei}\n"
 "\"And your point being?\""
 msgstr ""
+"{Mei}\n"
+"\"¿Y qué?\""
 
 #: 00206:1720
 msgid "She was quickly shot down."
-msgstr ""
+msgstr "No ha funcionado."
 
 #: 00206:1721
 msgid ""
 "{Haruka}\n"
 "\"...No, no point. I'll go back. Hah...\""
 msgstr ""
+"{Haruka}\n"
+"\"Está bien...\""
 
 #: 00206:1723
 msgid "Haruka dragged her feet out of the classroom."
@@ -4339,12 +5432,16 @@ msgid ""
 "{Pierre}\n"
 "\"What made her wanna stay so bad?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Por qué quería tanto quedarse?\""
 
 #: 00206:1732
 msgid ""
 "{Ran}\n"
 "\"I don't know-\""
 msgstr ""
+"{Ran}\n"
+"\"No sé.\""
 
 #: 00206:1738
 msgid ""
@@ -4357,46 +5454,62 @@ msgid ""
 "{Everybody}\n"
 "\"Yes, sensei!\""
 msgstr ""
+"{Todos}\n"
+"\"¡Sí!\""
 
 #: 00206:1743
 msgid ""
 "{Mei}\n"
 "\"Now, let's begin homeroom.\""
 msgstr ""
+"{Mei}\n"
+"\"Empecemos la clase.\""
 
 #: 00206:1744
 msgid "Mei-sensei put the incident behind us really fast and got the class to order."
-msgstr ""
+msgstr "Mei dejó estar el incidente rápidamente y empezó la clase."
 
 #: 00206:1745
 msgid ""
 "{Mei}\n"
 "\"You should be seated by your student ID number. If there are any requests to do so, we can rearrange seating later.\""
 msgstr ""
+"{Mei}\n"
+"\"Ahora mismo estáis sentados por orden alfabético, pero ya cambiaremos mas tarde.\""
 
 #: 00206:1749
 msgid ""
 "{Appo}\n"
 "\"Yes! I request! I request! Back here! I would like to sit in front of you, sensei!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Sí!\n"
+"¡¿Puedo sentarme en primera fila para verte mejor?!\""
 
 #: 00206:1754
 msgid ""
 "{Pierre}\n"
 "\"Me too!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Yo también!\""
 
 #: 00206:1759
 msgid ""
 "{Mei}\n"
 "\"Alright, then we'll rearrange seats at a later date. Until then, please bear with it.\""
 msgstr ""
+"{Mei}\n"
+"\"Hoy no. Dadme algo de tiempo.\""
 
 #: 00206:1765
+# TODO: Refactorizar.
 msgid ""
 "{Appo}\n"
 "\"Now that you've told me to bear with it, I'll have to, sensei.\""
 msgstr ""
+"{Appo-}\n"
+"\"Si me pides \"algo de tiempo\", puedes dar por sentado que te lo daré.\""
 
 #: 00206:1766
 msgid ""
@@ -4409,10 +5522,12 @@ msgid ""
 "{Mei}\n"
 "\"What are you talking about?\""
 msgstr ""
+"{Mei}\n"
+"\"¿De qué estáis hablando?\""
 
 #: 00206:1772
 msgid "The girls were giving them looks of revulsion, but I don't think Pierre and Appo saw anyone but the teacher."
-msgstr ""
+msgstr "Las chicas vuelven a mirarlos con asco."
 
 #: 00206:1775
 msgid ""
@@ -4422,13 +5537,15 @@ msgstr ""
 
 #: 00206:1776
 msgid "Right in the middle of the classroom."
-msgstr ""
+msgstr "En mitad de la clase."
 
 #: 00206:1779
 msgid ""
 "{Mizuki}\n"
 "\"Oh...\""
 msgstr ""
+"{Mizuki}\n"
+"\"Ey...\""
 
 #: 00206:1780
 msgid ""
@@ -4447,10 +5564,12 @@ msgid ""
 "{Kazushi}\n"
 "\"Oh, yeah. My last name, Haruma is close to yours.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ah, es cierto. Mi apellido empieza por la letra siguiente al del tuyo.\""
 
 #: 00206:1785
 msgid "I took my seat. Hinata-san seemed stiff sitting next to me. Is she nervous?"
-msgstr ""
+msgstr "Por algún motivo, parece estar un poco nerviosa por sentarse a mi lado."
 
 #: 00206:1786
 msgid ""
@@ -4489,6 +5608,8 @@ msgid ""
 "{Pierre}\n"
 "\"Shit, I'm next to the barbarian.\""
 msgstr ""
+"{Pierre}\n"
+"\"Mierda, tú estás a mi lado.\""
 
 #: 00206:1807
 msgid ""
@@ -4496,6 +5617,9 @@ msgid ""
 "\"What do you mean \"shit!?\"\n"
 "That's how I feel about you!\""
 msgstr ""
+"{Hu-sen}\n"
+"\"¿Qué quieres decir con \"mierda\"?!\n"
+"Eso lo tendría que decir yo.\""
 
 #: 00206:1808
 msgid "They were staring each other down."
@@ -4506,10 +5630,12 @@ msgid ""
 "{Mei}\n"
 "\"Guys!\""
 msgstr ""
+"{Mei}\n"
+"\"¡Chicos!\""
 
 #: 00206:1814
 msgid "Sensei swung her hand down between them as if cutting an invisible thread."
-msgstr ""
+msgstr "Se puso entre los dos."
 
 #: 00206:1821
 msgid ""
@@ -4522,24 +5648,32 @@ msgid ""
 "{Fuusen}\n"
 "\"I don't need any men for anything.\""
 msgstr ""
+"{Hu-sen}\n"
+"\"No tengo necesidad de llevarme bien con los hombres.\""
 
 #: 00206:1831
+# TODO: Quizá "chorreando" sea muy fuerte.
 msgid ""
 "{Appo}\n"
 "\"Liar. You're desperate to get it on with a man.\""
 msgstr ""
+"{Appo-}\n"
+"\"Mentirosa. Estás chorreando por tener a un hombre.\""
 
 #: 00206:1834
 msgid ""
 "{Fuusen}\n"
 "\"Shut up! I'll pluck that stem off!\""
 msgstr ""
+"{Hu-sen}\n"
+"\"¡Cállate!\""
 
 #: 00206:1837
 msgid "They were staring each other down again. They just didn't get along at all."
-msgstr ""
+msgstr "Ahora Mizuki está mirando a Appo-."
 
 #: 00206:1842
+# ¿Menudos críos?
 msgid ""
 "{Mei}\n"
 "\"My, my, this is a mess. Well, let's start with self-introductions so we can get to know each other.\""
@@ -4547,7 +5681,7 @@ msgstr ""
 
 #: 00206:1844
 msgid "She'd come up with a good idea."
-msgstr ""
+msgstr "Ha tenido una buena idea."
 
 #: 00206:1847
 msgid ""
@@ -4560,10 +5694,12 @@ msgid ""
 "{Pierre}\n"
 "\"I wanna introduce myself!!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡¡Yo quiero presentarme!!\""
 
 #: 00206:1853
 msgid "Those two always try to be the center of attention."
-msgstr ""
+msgstr "Esos dos tratan siempre de ser el centro de atención."
 
 #: 00206:1858
 msgid ""
@@ -4579,47 +5715,59 @@ msgstr ""
 
 #: 00206:1863
 msgid "That's right, Appo's real name was Jinnai Toshiaki. No one ever calls him that, though. Even I'd forgotten about it."
-msgstr ""
+msgstr "Hasta yo me olvidé de que se llamaba así."
 
 #: 00206:1866
 msgid ""
 "{Appo}\n"
 "\"My name is Jinnai Toshiaki. My hobby is...\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Me llamo Toshiaki Jin-nai! Y mi hobby es...\""
 
 #: 00206:1870
 msgid ""
 "{Andou}\n"
 "\"Stealing panties!\""
 msgstr ""
+"{Rei}\n"
+"\"Robar braguitas.\""
 
 #: 00206:1874
 msgid ""
 "{Appo}\n"
 "\"Yes, my hobby is stealing panties. I prefer warm, freshly worn ones, but I'll take them washed as well.\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Sí, ese es mi hobby! ¡Prefiero las usadas, pero no me importa que estén limpias!\""
 
 #: 00206:1877
 msgid ""
 "{Appo}\n"
 "\"............Hey!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Ey...!\""
 
 #: 00206:1881
 msgid ""
 "{Pierre}\n"
 "\"He went along with it perfectly.\""
 msgstr ""
+"{Pierre}\n"
+"\"Qué fácil ha sido.\""
 
 #: 00206:1882
 msgid ""
 "{Kazushi}\n"
 "\"Way to completely blow up your first impression.\""
 msgstr ""
+"{Kazushi}\n"
+"\"La acabas de liar parda.\""
 
 #: 00206:1883
 msgid "All the girls were sure to remember him as a pervert."
-msgstr ""
+msgstr "Todas las chicas la verán como un pervertido."
 
 #: 00206:1889
 msgid ""
@@ -4638,6 +5786,8 @@ msgid ""
 "{Pierre}\n"
 "\"No, you sniffed them good.\""
 msgstr ""
+"{Pierre}\n"
+"\"Sí, si que lo estás.\""
 
 #: 00206:1899
 msgid ""
@@ -4657,24 +5807,33 @@ msgid ""
 "{Andou}\n"
 "\"That parachute!? What are you talking about!?\""
 msgstr ""
+"{Rei}\n"
+"\"¿¡Esa cosa enorme!? ¿¡A qué te refieres!?\""
 
 #: 00206:1907
 msgid ""
 "{Appo}\n"
 "\"Yours! Your panties! What was that?! Haaaaahhh....\""
 msgstr ""
+"{Appo-}\n"
+"\"Me refería a tus bragas, por supuesto...\""
 
 #: 00206:1914
 msgid ""
 "{Fuusen}\n"
 "\"What are you sagging your shoulders and sighing for?! Sensei! Can we use this thing as a target for the Archery Club?!\""
 msgstr ""
+"{Hu-sen}\n"
+"\"¡Señorita Ibuki!\n"
+"¿¡Puedo usarlo como diana en mi club de arco!?\""
 
 #: 00206:1917
 msgid ""
 "{Appo}\n"
 "\"I'm not an apple!!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¡No soy una manzana!!\""
 
 #: 00206:1920
 msgid ""
@@ -4684,7 +5843,7 @@ msgstr ""
 
 #: 00206:1921
 msgid "The huge girl started to cry once more."
-msgstr ""
+msgstr "La chica enorme empezó a llorar de nuevo."
 
 #: 00206:1924
 msgid ""
@@ -4697,12 +5856,16 @@ msgid ""
 "{Andou}\n"
 "\"BWAAAAAAAAAAAAAAAAAAAAAAAAAAA!\""
 msgstr ""
+"{Rei}\n"
+"*Llorando intensamente*"
 
 #: 00206:1931
 msgid ""
 "{Mei}\n"
 "\"My, my, what a mess. Moving on, next, Horikawa-kun please.\""
 msgstr ""
+"{Mei}\n"
+"\"Está bien. Siguiente. Horikawa, te toca.\""
 
 #: 00206:1935
 msgid ""
@@ -4710,12 +5873,18 @@ msgid ""
 "\"Me?\n"
 "Now?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Yo?\n"
+"¿ahora?\""
 
 #: 00206:1940
+# TODO: Reescribir.
 msgid ""
 "{Appo}\n"
 "\"Go ahead. I've already warmed them up for you.\""
 msgstr ""
+"{Appo-}\n"
+"\"Adelante. Ya te he preparado el ambiente para ti.\""
 
 #: 00206:1943
 msgid ""
@@ -4725,29 +5894,38 @@ msgstr ""
 
 #: 00206:1947
 msgid "He seemed clueless as to what he could say in this situation."
-msgstr ""
+msgstr "No parece saber qué decir en esta situación."
 
 #: 00206:1950
+# ¿Componer, escribir (letra)?
 msgid ""
 "{Pierre}\n"
 "\"I-I'm Horikawa Masao. My hobby is playing the guitar. I also write songs.\""
 msgstr ""
+"{Pierre}\n"
+"\"Me llamo Masao Horikawa.\n"
+"Mi hobby es tocar la guitarra.\n"
+"También compongo canciones.\""
 
 #: 00206:1954
 msgid ""
 "{Fuusen}\n"
 "\"You think that playing the guitar will make you popular. I've seen it everywhere.\""
 msgstr ""
+"{Hu-sen}\n"
+"\"Muchos chicos tocan la guitarra para atraer a las chicas.\""
 
 #: 00206:1958
 msgid ""
 "{Pierre}\n"
 "\"Ggh...\""
 msgstr ""
+"{Pierre}\n"
+"\"¿¡...!?\""
 
 #: 00206:1959
 msgid "Bull's eye. He wasn't able to continue on anymore."
-msgstr ""
+msgstr "Ha sacado la verdad a relucir."
 
 #: 00206:1964
 msgid ""
@@ -4760,6 +5938,8 @@ msgid ""
 "{Pierre}\n"
 "\"I shampoo my hair every day!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Me lavo la cabeza todos los días!\""
 
 #: 00206:1974
 msgid ""
@@ -4793,7 +5973,7 @@ msgstr ""
 
 #: 00206:1998
 msgid "The entire class fell silent for a moment. Is something really bad about to happen?"
-msgstr ""
+msgstr "La clase entera enmudeció de repente..."
 
 #: 00206:2001
 msgid ""
@@ -4802,14 +5982,17 @@ msgid ""
 msgstr ""
 
 #: 00206:2008
+# Jajaja... xd
 msgid ""
 "{Mei}\n"
 "\"Mei Ibuki, MEIde in Japan.\""
 msgstr ""
+"{Mei}\n"
+"\"Soy Mei Ibuki. Soy producto nacional japonés.\""
 
 #: 00206:2014
 msgid "Silence......"
-msgstr ""
+msgstr "*La clase no le ríe la broma*"
 
 #: 00206:2015
 msgid ""
@@ -4819,23 +6002,29 @@ msgstr ""
 
 #: 00206:2016
 msgid "The air in the room grew cold, the guys were shocked, and the girls were averting their gaze?"
-msgstr ""
+msgstr "Las chicas ni siquiera están escuchándola."
 
 #: 00206:2019
 msgid ""
 "{Mei}\n"
 "\"My father MEI have named me, I'm not sure. But it's convenient. Just remember, Mei in MEI.\""
 msgstr ""
+"{Mei}\n"
+"\"Creo que fue mi padre quién me puso mi nombre.\""
 
 #: 00206:2020
 msgid ""
 "{Kazushi}\n"
 "\"..................\""
 msgstr ""
+"{Kazushi}\n"
+"\"...\""
 
 #: 00206:2021
 msgid "Huh? What? Hey? Something funny's going on. Every time sensei spoke, the room got colder."
 msgstr ""
+"Hay algo extraño.\n"
+"Las estudiantes no están prestándole atención."
 
 #: 00206:2025
 msgid ""
@@ -4852,6 +6041,8 @@ msgid ""
 "{Kazushi}\n"
 "\"Huh? M-me?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Yo?\""
 
 #: 00206:2030
 msgid ""
@@ -4861,7 +6052,7 @@ msgstr ""
 
 #: 00206:2031
 msgid "With a completely overdramatic set of motions, sensei blew me a... kiss?"
-msgstr ""
+msgstr "¿¡Me ha lanzado un beso!?"
 
 #: 00206:2032
 msgid "I don't think I'm supposed to be receiving a kiss from my teacher!"
@@ -4878,34 +6069,44 @@ msgid ""
 "{Kazushi}\n"
 "\"Uh, umm, I think?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Supongo.\""
 
 #: 00206:2039
 msgid ""
 "{Mei}\n"
 "\"Then it truly MEIde an iMWAHct!\""
 msgstr ""
+"{Mei}\n"
+"\"¡Bien!\""
 
 #: 00206:2040
 msgid ""
 "{Kazushi}\n"
 "\"Huh? O-ohh! Puns!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡Estamos en clase, señorita Ibuki!!\""
 
 #: 00206:2043
 msgid ""
 "{Mei}\n"
 "\"Yes, that's right! Haruma-kun, it took you a while to notice. By the way, that last one was a pun on impact and mwah.\""
 msgstr ""
+"{Mei}\n"
+"\"No pasa nada. ¡¡Estoy de buen humor!!\""
 
 #: 00206:2045
 msgid "She was bothering to explain it. The whole classroom was silent."
-msgstr ""
+msgstr "Supongo que todos conocerían esa característica infantil suya y no querrían que empezase."
 
 #: 00206:2048
 msgid ""
 "{Mizuki}\n"
 "\"She'd be a great teacher if not for that.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Es una buena profesora. A excepción de por eso.\""
 
 #: 00206:2049
 msgid "Sensei's puns were able to completely rid us of the energy to fight each other."
@@ -4916,10 +6117,12 @@ msgid ""
 "{Mei}\n"
 "\"Oh, we're out of chime. This marks the end of our homeroom.\""
 msgstr ""
+"{Mei}\n"
+"\"Ah, el tiempo pasa rápido.\""
 
 #: 00206:2056
 msgid "Silence..."
-msgstr ""
+msgstr "*La clase sigue en silencio*"
 
 #: 00206:2057
 msgid "Wow, she managed to ignore that cold chill and keep spouting those puns. Her obliviousness was impressive."
@@ -4932,17 +6135,22 @@ msgid ""
 msgstr ""
 
 #: 00206:2061
+# TODO: O "lo intentaremos". O "lo haremos lo mejor que podamos".
 msgid ""
 "{Kazushi}\n"
 "\"I think she should at least stop explaining them.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Haremos lo que podamos.\""
 
 #: 00206:2062
 msgid "I never knew sensei was like that. I guess everyone has a fault."
-msgstr ""
+msgstr "Ella se está esforzando al máximo. Nosotros deberíamos hacer lo mismo."
 
 #: 00206:2066
 msgid ""
 "{Daigo}\n"
 "\"I didn't even get to introduce myself...\""
 msgstr ""
+"{Daigo}\n"
+"\"Ha estado hablando todo el rato, ni siquiera me ha llegado el turno...\""

@@ -13,129 +13,162 @@ msgstr ""
 
 #: 007b6:8
 msgid "Hinata-san, huh? I'd like to get to know her better. We do sit next to each other in class."
-msgstr ""
+msgstr "Tengo que conocerla mejor. Nos seguiremos sentado juntos algún tiempo más."
 
 #: 007b6:9
 msgid ""
 "{Kazushi}\n"
 "\"Where's Hinata-san?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Dónde está Mizuki...?\""
 
 #: 007b6:10
 msgid "There were a lot of people here, but I didn't see her anywhere I looked."
-msgstr ""
+msgstr "No la veo."
 
 #: 007b6:11
 msgid ""
 "{Kazushi}\n"
 "\"I wonder if she's...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Podría estar...\""
 
 #: 007b6:12
 msgid "I had a feeling that she'd be outside."
-msgstr ""
+msgstr "Tengo el presentimiento de que está fuera."
 
 #: 007b6:20
 msgid ""
 "{Kazushi}\n"
 "\"Knew it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sip.\""
 
 #: 007b6:21
 msgid "She was sitting there outside, all by herself."
-msgstr ""
+msgstr "Estaba sola fuera."
 
 #: 007b6:23
 msgid ""
 "{Mizuki}\n"
 "\"Ah!......\""
 msgstr ""
+"{Mizuki}\n"
+"\"¡¡...!!\""
 
 #: 007b6:24
+# Revisar.
 msgid "She recognized me and turned her head away. I ignored that and kept walking towards her."
-msgstr ""
+msgstr "Me ha reconocido y me ha evadido con la cabeza."
 
 #: 007b6:27
 msgid ""
 "{Kazushi}\n"
 "\"What are you doing here?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué haces aquí?\""
 
 #: 007b6:28
 msgid ""
 "{Mizuki}\n"
 "\"......resting.\""
 msgstr ""
+"{Mizuki}\n"
+"\"...Tomarme un respiro.\""
 
 #: 007b6:29
 msgid "Her response was curt. I suddenly had a thought: maybe she was just awkward around people."
-msgstr ""
+msgstr "Me ha respondido a regañadientes."
 
 #: 007b6:30
 msgid ""
 "{Kazushi}\n"
 "\"Are you drunk?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Estás bebida?\""
 
 #: 007b6:31
+# Hay que ver si se refiere a que no ha bebido antes o a que no bebe.
+# El japonés es muy ambigüo y los traductores al inglés no se esmeraron mucho.
 msgid ""
 "{Mizuki}\n"
 "\"I didn't drink.\""
 msgstr ""
+"{Mizuki}\n"
+"\"No he bebido.\""
 
 #: 007b6:32
 msgid ""
 "{Kazushi}\n"
 "\"You sure? Because your face sure is red.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Ah sí? Es que tienes la cara roja.\""
 
 #: 007b6:35
 msgid ""
 "{Mizuki}\n"
 "\"I-it's the sunset.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Es por el sol.\""
 
 #: 007b6:38
 msgid "She turned her head away again. She might just be awkward, not a bad person."
-msgstr ""
+msgstr "Ha vuelto a girar la cabeza para evitarme."
 
 #: 007b6:39
 msgid ""
 "{Mizuki}\n"
 "\"..................\""
 msgstr ""
+"{Mizuki}\n"
+"\"...\""
 
 #: 007b6:40
 msgid ""
 "{Kazushi}\n"
 "\"Oh, right. I'm sorry about this afternoon.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Oye... Siento lo de antes.\""
 
 #: 007b6:43
 msgid ""
 "{Mizuki}\n"
 "\"Huh? What now?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Qué quieres decir?\""
 
 #: 007b6:44
 msgid ""
 "{Kazushi}\n"
 "\"Remember? I called you a lesbian?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo de que eras lesbiana.\""
 
 #: 007b6:45
 msgid "Just having to explain that turned my cheeks red. What on Earth was wrong with me when I said that to her face?"
-msgstr ""
+msgstr "Debo estar como una cabra por decirle eso."
 
 #: 007b6:48
 msgid ""
 "{Mizuki}\n"
 "\"That really was horrible. Would you normally say that? Especially to someone's face?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Cómo has podido decir algo así?\""
 
 #: 007b6:49
 msgid "Shit. I didn't mean to get her angry again."
-msgstr ""
+msgstr "Ups, no quería hacer que se volviese a enfadar."
 
 #: 007b6:50
 msgid ""
@@ -143,308 +176,389 @@ msgid ""
 "\"S-sorry.\n"
 "I guess I had the wrong preconception of an all-girls' school. My imagination went wild.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento.\n"
+"Había oído que no era algo inusual en la escuela para chicas.\""
 
 #: 007b6:53
 msgid ""
 "{Mizuki}\n"
 "\"Your imagination? Oh come on! What the heck were you imagining?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Dónde has oído eso...?\""
 
 #: 007b6:54
 msgid ""
 "{Kazushi}\n"
 "\"Well, it's embarrassing to say, but... I imagined two girls ****ing each other, ****ing their *****, and it was pretty realistic too.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me habían dicho que las chicas hacían muchas cosas entre ellas...\""
 
 #: 007b6:57
 msgid ""
 "{Mizuki}\n"
 "\"Stop! Stop! I wasn't asking you go into that much detail!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¡Para!\n"
+"¡Ya es suficiente!\""
 
 #: 007b6:58
 msgid ""
 "{Kazushi}\n"
 "\"Huh? Oh, you weren't?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está bien.\""
 
 #: 007b6:59
 msgid "Oops. I made her even angrier. Why do I always end up making her angry? Are we incompatible?"
-msgstr ""
+msgstr "Ups. La he enfadado todavía más."
 
 #: 007b6:60
 msgid ""
 "{Kazushi}\n"
 "\"Hinata-san, are you upset that we boys enrolled at this school?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Estás enfadada porque no querías que ningún chico se apuntase a esta escuela?\""
 
 #: 007b6:61
 msgid "I wondered if that was the reason she was so grumpy. It was the only reason I could think of."
-msgstr ""
+msgstr "Era lo primero que se me había ocurrido de por qué me ignoraba."
 
 #: 007b6:64
 msgid ""
 "{Mizuki}\n"
 "\"Not really...\""
 msgstr ""
+"{Mizuki}\n"
+"\"Eso no me importa...\""
 
 #: 007b6:65
 msgid ""
 "{Kazushi}\n"
 "\"No? But you're always grumpy? Oh, are you on your period?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Estás con la regla?\""
 
 #: 007b6:68
 msgid ""
 "{Mizuki}\n"
 "\"............!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¡...!\""
 
 #: 007b6:69
 msgid ""
 "{Kazushi}\n"
 "\"Er, no, nothing.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No he dicho nada.\""
 
 #: 007b6:70
 msgid "I really think I should just shut up."
-msgstr ""
+msgstr "Creo que debería dejar de intentar hablar con ella."
 
 #: 007b6:73
 msgid ""
 "{Mizuki}\n"
 "\"Can we not talk about that? I hate periods. It's because I can't swim.\""
 msgstr ""
+"{Mizuki}\n"
+"\"No me gusta la regla. No puedo nadar cuando la tengo.\""
 
 #: 007b6:74
 msgid ""
 "{Kazushi}\n"
 "\"Oh, yeah...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo...\""
 
 #: 007b6:75
 msgid "I guess I was pretty close?"
-msgstr ""
+msgstr "Ya imaginaba que estaba enfadada conmigo y que no tenía nada que ver con la regla."
 
 #: 007b6:78
 msgid ""
 "{Mizuki}\n"
 "\"I haven't been able to swim as much as I want to for a long time.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Llevo sin nadar todo lo que me gustaría desde hace bastante tiempo.\""
 
 #: 007b6:79
 msgid "She stretched out like she really hadn't worked her body in a while. Maybe she's just frustrated?"
-msgstr ""
+msgstr "Se estira."
 
 #: 007b6:80
 msgid ""
 "{Kazushi}\n"
 "\"Why can't you swim? Oh, because your period came?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Y cómo es eso?\""
 
 #: 007b6:83
 msgid ""
 "{Mizuki}\n"
 "\"You're wrong! It's because you boys came!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¡Por vosotros!\""
 
 #: 007b6:84
 msgid ""
 "{Kazushi}\n"
 "\"Huh? Us? Why can't you swim because of us?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Nosotros?\n"
+"¿Por qué no puedes nadar por nosotros?\""
 
 #: 007b6:85
 msgid "It had to be a false accusation, right? When I asked her, Hinata puffed out her cheeks. She looked just like an angry kid."
-msgstr ""
+msgstr "Pone una cara de enfado como en los dibujos."
 
 #: 007b6:86
+# Revisar.
 msgid "I almost started laughing."
-msgstr ""
+msgstr "Hace que me entre la risa tonta."
 
 #: 007b6:89
 msgid ""
 "{Mizuki}\n"
 "\"Until now, I could swim wherever, whenever without worrying about it. The ocean is all around us after all.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Solíamos poder nadar siempre que quisiésemos.\""
 
 #: 007b6:90
 msgid ""
 "{Kazushi}\n"
 "\"That's true.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Y?\""
 
 #: 007b6:91
 msgid "This was the perfect place for swimming. To put it differently, the ocean was all we had for fun here."
-msgstr ""
+msgstr "Esta isla es un lugar ideal para disfrutar nadando."
 
 #: 007b6:93
 msgid ""
 "{Mizuki}\n"
 "\"And well, there were only girls on this island, so I could readily swim without worrying about my outfit. I could just change wherever.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Nos podíamos poner el bañador en cualquier parte de la playa.\""
 
 #: 007b6:96
 msgid ""
 "{Mizuki}\n"
 "\"Now that you boys are here, I can't do that. I have to be more careful about a lot of things.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Ahora hay chicos por aquí.\""
 
 #: 007b6:97
 msgid ""
 "{Kazushi}\n"
 "\"I see.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo.\""
 
 #: 007b6:98
 msgid "She didn't have to worry earlier because it was an all girls academy, but she had to now that we were here."
-msgstr ""
+msgstr "Ahora la entiendo."
 
 #: 007b6:99
 msgid ""
 "{Kazushi}\n"
 "\"I guess it is our fault then. I didn't know we were taking away your hobby. ...Sorry.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No éramos conscientes de que te hubiésemos fastidiado el hobby.\""
 
 #: 007b6:102
 msgid ""
 "{Mizuki}\n"
 "\"You don't have to be that bothered by it. I'm not blaming you all, okay? But the fact that I can't swim is so fru~stra~ting!\""
 msgstr ""
+"{Mizuki}\n"
+"\"No estoy realmente enfadada, ¿sabes?\n"
+"Tan solo es que me gustaría poder nadar más amenudo...\""
 
 #: 007b6:103
 msgid "I see. So that's why she's always in a bad mood."
-msgstr ""
+msgstr "Quizá estaba enfadada por eso."
 
 #: 007b6:104
 msgid ""
 "{Kazushi}\n"
 "\"So you like swimming, then.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Te gusta nadar.\""
 
 #: 007b6:107
 msgid ""
 "{Mizuki}\n"
 "\"I love swimming!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¡Me encanta nadar!\""
 
 #: 007b6:108
 msgid "Hinata-san's smile was so fascinating it blew away all of her grumpy faces."
-msgstr ""
+msgstr "Al final me ha mostrado una sonrisa."
 
 #: 007b6:109
 msgid ""
 "{Kazushi}\n"
 "\"Ah!......\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡...!!\""
 
 #: 007b6:116
 msgid "We heard a clap of thunder and it started raining. It was an evening shower."
-msgstr ""
+msgstr "Oímos un trueno. La lluvia empezó a caer."
 
 #: 007b6:117
 msgid "Then rain picked up force in no time."
-msgstr ""
+msgstr "Es una lluvia densa."
 
 #: 007b6:118
 msgid ""
 "{Kazushi}\n"
 "\"Gah! Look at the rain! Let's get back inside!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Volvamos dentro!\""
 
 #: 007b6:121
 msgid "But Mizuki refused to budge. She looked up at the sky and basked in the buckets of rain pouring down on her."
-msgstr ""
+msgstr "Se negó a moverse."
 
 #: 007b6:122
 msgid ""
 "{Kazushi}\n"
 "\"Hey? Hinata-san?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Vienes?\""
 
 #: 007b6:123
 msgid "We were both soaked in no time. Our shirts, our underwear, even the insides of our shoes were wet. And yet..."
-msgstr ""
+msgstr "Nos empapamos completamente."
 
 #: 007b6:124
 msgid ""
 "{Mizuki}\n"
 "\"Mmmmmmm!! This feels great!!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¡Se siente genial...!\""
 
 #: 007b6:125
 msgid "Hinata-san stretched out wide and screamed with joy."
-msgstr ""
+msgstr "Gritó."
 
 #: 007b6:126
 msgid ""
 "{Kazushi}\n"
 "\"Feels great? You're soaking wet!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Pero si estás empapada!\""
 
 #: 007b6:127
 msgid ""
 "{Mizuki}\n"
 "\"So what if I get wet? Rain is nothing but water.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Solo es lluvia.\""
 
 #: 007b6:128
 msgid ""
 "{Kazushi}\n"
 "\"I know, but...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya lo sé, pero...\""
 
 #: 007b6:129
 msgid "Nothing but water. That's why getting wet was nothing. She had a point."
-msgstr ""
+msgstr "Tiene razón. Nos mojamos cuando nadamos."
 
 #: 007b6:130
 msgid ""
 "{Mizuki}\n"
 "\"That and it's too late now. We're not getting any wetter than we already are.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Ya estamos completamente empapados. Ya no nos podemos mojar más.\""
 
 #: 007b6:131
 msgid "She cast a glance up at the sky."
-msgstr ""
+msgstr "Mira al cielo."
 
 #: 007b6:132
 msgid ""
 "{Mizuki}\n"
 "\"Heeeeeey! Pour hardeeer!!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¡¡Con más fuerza...!!\""
 
 #: 007b6:134
 msgid "Sure enough, the rain got harder."
-msgstr ""
+msgstr "Y empezó a llover con más intensidad."
 
 #: 007b6:135
 msgid ""
 "{Mizuki}\n"
 "\"Ahahahaha! It actually listened!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿¡Ves!? ¡Me ha escuchado!\""
 
 #: 007b6:136
 msgid "She was so happy from the rain that she was smiling from the bottom of her heart. Maybe this is the real Hinata-san."
-msgstr ""
+msgstr "Sonríe y disfruta."
 
 #: 007b6:137
 msgid ""
 "{Mizuki}\n"
 "\"Haruma-kun, come over here and get wetter!\""
 msgstr ""
+"{Mizuki}\n"
+"\"Kazushi, ¡mojémosnos más!\""
 
 #: 007b6:138
 msgid ""
 "{Kazushi}\n"
 "\"I've never had a girl ask me to get wet before.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Nunca me había pedido una chica que me mojase.\""
 
 #: 007b6:139
 msgid ""
 "{Mizuki}\n"
 "\"Men shouldn't worry about little things! Come on over here!\""
 msgstr ""
+"{Mizuki}\n"
+"\"Venga, ¡¿o es que no eres un hombre?!\""
 
 #: 007b6:140
 msgid "She pulled me out from under the tree and heavy rain beat against me."
@@ -455,46 +569,56 @@ msgid ""
 "{Kazushi}\n"
 "\"Wow......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Guau...\""
 
 #: 007b6:142
 msgid "Countless raindrops pelted my skin. It felt like each drop brought new life to me. It was incredible."
-msgstr ""
+msgstr "Es como pegarse una ducha. Hace que me sienta muy bien."
 
 #: 007b6:143
 msgid ""
 "{Mizuki}\n"
 "\"How is it for you!?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿¡Qué tal!?\""
 
 #: 007b6:144
 msgid "She spoke proudly, as if it was her doing. That childlike innocence was also quite charming."
-msgstr ""
+msgstr "Su tono me está diciendo: \"¡te lo dije!\"."
 
 #: 007b6:149
 msgid ""
 "{Kazushi}\n"
 "\"Ah......\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡...!!\""
 
 #: 007b6:150
 msgid "The rain quickly began to ease up, the clouds started to roll by, and in no time the rain had stopped."
-msgstr ""
+msgstr "La lluvia amaina con presteza."
 
 #: 007b6:153
 msgid ""
 "{Mizuki}\n"
 "\"Awww, that's it?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Qué? ¿Ya?\""
 
 #: 007b6:154
 msgid "She looked like a child being told to put her toys away. However, she still looked more satisfied than she was before."
-msgstr ""
+msgstr "Lo dice como un niño que no ha tenido suficiente entretenimiento."
 
 #: 007b6:155
 msgid ""
 "{Kazushi}\n"
 "\"That's a shame.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento.\""
 
 #: 007b6:158
 msgid ""
@@ -502,10 +626,13 @@ msgid ""
 "\"Well-\n"
 "I think I had enough for one day.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Bueno.\n"
+"Con eso ha sido suficiente.\""
 
 #: 007b6:159
 msgid "She was drenched, but she put on a bright smile."
-msgstr ""
+msgstr "Sigue mojada y sonriendo."
 
 #: 007b6:160
 msgid ""
@@ -515,42 +642,52 @@ msgstr ""
 
 #: 007b6:161
 msgid "I flashed a smile in response to hers."
-msgstr ""
+msgstr "Respondí a su sonrisa con otra sonrisa."
 
 #: 007b6:164
 msgid ""
 "{Mizuki}\n"
 "\"Ah!......\""
 msgstr ""
+"{Mizuki}\n"
+"\"¡¡...!!\""
 
 #: 007b6:165
 msgid "She finally realised that she was smiling at me and turned away."
-msgstr ""
+msgstr "Al final se ha dado cuenta de que me estaba sonriendo y se gira."
 
 #: 007b6:166
 msgid ""
 "{Kazushi}\n"
 "\"You don't have to hide it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No tienes por qué girarte.\""
 
 #: 007b6:167
 msgid ""
 "{Mizuki}\n"
 "\"I-I'm not!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¡No te estoy sonriendo!\""
 
 #: 007b6:168
 msgid "As the sound of the heavy rain disappeared, we hear a joyful ruckus coming from the cafeteria."
-msgstr ""
+msgstr "Oíamos de fondo el alboroto de la cafetería."
 
 #: 007b6:169
 msgid ""
 "{Kazushi}\n"
 "\"So, shall we head back?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Volvamos dentro.\""
 
 #: 007b6:172
 msgid ""
 "{Mizuki}\n"
 "\"Yeah, we should.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Está bien.\""

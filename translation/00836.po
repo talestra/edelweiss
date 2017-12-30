@@ -13,25 +13,31 @@ msgstr ""
 
 #: 00836:7
 msgid "I think I'll pick Ran. She's easy to talk to."
-msgstr ""
+msgstr "Creo que elegiré a Ran. Me resulta fácil hablar con ella."
 
 #: 00836:8
 msgid ""
 "{Kazushi}\n"
 "\"Will you be my partner, Ran?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ran, ¿puedes ser mi compañera?\""
 
 #: 00836:11
 msgid ""
 "{Ran}\n"
 "\"Me? I don't mind, but you know I'm no good at alchemy, right?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Yo? No me importa. Pero ya sabes que no se me da nada bien la Alquimia, ¿no?\""
 
 #: 00836:12
 msgid ""
 "{Kazushi}\n"
 "\"At least you know more about it than I do.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Al menos sabes más que yo.\""
 
 #: 00836:15
 msgid ""
@@ -46,12 +52,18 @@ msgid ""
 "\"Don't worry.\n"
 "We'll help out each other.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No te preocupes.\n"
+"Nos ayudaremos mútuamente.\""
 
 #: 00836:19
 msgid ""
 "{Ran}\n"
 "\"Well, if you're sure, then I can do it with you.\""
 msgstr ""
+"{Ran}\n"
+"\"Está bien.\n"
+"¿Por qué no?\""
 
 #: 00836:23
 msgid ""
@@ -61,39 +73,48 @@ msgstr ""
 
 #: 00836:25
 msgid "I went through the procedures just like last time. I poured the ingredients in and lit the burner. It was nothing."
-msgstr ""
+msgstr "Como la última vez."
 
 #: 00836:29
 msgid ""
 "{Ran}\n"
 "\"Oh, way to go. You're already better than me. You don't need me anymore.\""
 msgstr ""
+"{Ran}\n"
+"\"Buen trabajo. Ya no me necesitas.\""
 
 #: 00836:30
 msgid ""
 "{Kazushi}\n"
 "\"I just put these things in and lit the fire.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Acabo de hacer esto hace diez minutos.\""
 
 #: 00836:33
 msgid ""
 "{Ran}\n"
 "\"Don't be modest. You don't need me now, so wake me up later...\""
 msgstr ""
+"{Ran}\n"
+"\"Y has recordado cómo va.\n"
+"Bien hecho. Recuerda despertarme cuando termines...\""
 
 #: 00836:34
 msgid ""
 "{Kazushi}\n"
 "\"Hey, don't go to sleep!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Oye, ¡despierta!\""
 
 #: 00836:36
 msgid "I can't believe she's trying to sleep in front of the principal."
-msgstr ""
+msgstr "No puedo creer que trate de dormirse delante de la directora."
 
 #: 00836:39
 msgid "For some reason the principal's smiling that evil smile of hers."
-msgstr ""
+msgstr "Por algún motivo, la directora está sonriendo."
 
 #: 00836:40
 msgid "It's hard to work when you're being watched."
@@ -104,30 +125,40 @@ msgid ""
 "{Ran}\n"
 "\"So what do we do again?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Qué iba luego?\""
 
 #: 00836:45
 msgid ""
 "{Kazushi}\n"
 "\"You've got absolutely no interest in any of this.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No tienes ningún interés en hacer esto...\""
 
 #: 00836:46
 msgid ""
 "{Ran}\n"
 "\"No complaints now. Didn't I tell you that when you asked me to be your partner?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Y qué es lo que te dije cuando me elegiste?\""
 
 #: 00836:47
 msgid ""
 "{Kazushi}\n"
 "\"Didn't I say we'd help each other out?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿No dije que nos ayudaríamos mútuamente?\""
 
 #: 00836:50
 msgid ""
 "{Ran}\n"
 "\"I'll do the thinking, you do the doing.\""
 msgstr ""
+"{Ran}\n"
+"\"Yo pensaré. Tú haz el resto.\""
 
 #: 00836:51
 msgid "This is a lone battle now."
@@ -138,20 +169,24 @@ msgid ""
 "{Kazushi}\n"
 "\"Next, I should adjust the flame...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ahora, debo encender el fuego...\""
 
 #: 00836:55
 msgid "*sparkspark*"
-msgstr ""
+msgstr "*Kazushi encendiendo el fuego*"
 
 #: 00836:56
 msgid ""
 "{Kazushi}\n"
 "\"Hot!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Ups!\""
 
 #: 00836:57
 msgid "I almost knocked over the burner."
-msgstr ""
+msgstr "Casi tumbo el fogón."
 
 #: 00836:60
 msgid ""
@@ -165,44 +200,58 @@ msgid ""
 "{Kazushi}\n"
 "\"So don't make me do it alone. Please help me out, Ran.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Por favor, ayúdame, Ran.\""
 
 #: 00836:64
+# Revisar.
 msgid ""
 "{Ran}\n"
 "\"All right. I didn't think there was anyone more dangerous than I am.\""
 msgstr ""
+"{Ran}\n"
+"\"Está bien.\n"
+"Me resultaba difícil de creer que alguien puediese ser menos de fiar que yo misma.\""
 
 #: 00836:65
 msgid "She finally agreed to help me out."
-msgstr ""
+msgstr "Finalmente accedió a ayudarme."
 
 #: 00836:68
 msgid ""
 "{Ran}\n"
 "\"Since I'm helping, let's go down with a bang.\""
 msgstr ""
+"{Ran}\n"
+"\"No tengo claro que realmente quieras mi ayuda.\""
 
 #: 00836:69
 msgid ""
 "{Kazushi}\n"
 "\"With a bang?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Vas a causar alguna explosión o algo como hicimos nosotros?\""
 
 #: 00836:72
 msgid ""
 "{Ran}\n"
 "\"Here, add this for me.\""
 msgstr ""
+"{Ran}\n"
+"\"Mete esto ahí por mí.\""
 
 #: 00836:73
 msgid "Ran grabbed a bottle of some chemical and handed it to me. The label read: \"Danger. Do not add.\""
-msgstr ""
+msgstr "Me pasó una botella. En la etiqueta ponía \"No mezclar esto\"."
 
 #: 00836:74
 msgid ""
 "{Kazushi}\n"
 "\"Doesn't this say not to add it?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿No pone claramente en la etiqueta que no se debe mezclar con nada?\""
 
 #: 00836:75
 msgid ""
@@ -210,40 +259,53 @@ msgid ""
 "\"Who cares?\n"
 "This kind of stuff should be done by following your guts!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Qué más da!\n"
+"¡Estas cosas se deben hacer por instinto!\""
 
 #: 00836:76
 msgid ""
 "{Kazushi}\n"
 "\"Are you sure? It's specifically saying not to add it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Estás segura? Pone explícitamente \"no mezclar\".\""
 
 #: 00836:79
 msgid ""
 "{Ran}\n"
 "\"What do you do when the light's just about to turn? If you hesitate, you'll get hit either way. Hesitation is your worst enemy, so go!\""
 msgstr ""
+"{Ran}\n"
+"\"¡La duda es tu peor enemigo! Limítate a meterlo.\""
 
 #: 00836:80
 msgid ""
 "{Kazushi}\n"
 "\"I see. You have a point.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está bien.\""
 
 #: 00836:81
 msgid "I threw away my hesitation and dumped the bottle's contents into the flask."
-msgstr ""
+msgstr "Abrí la botella y vertí el contenido en el frasco."
 
 #: 00836:84
 msgid ""
 "{Ran}\n"
 "\"There you go, dump it in. The trick is decisiveness. If you hesitate, you won't succeed.\""
 msgstr ""
+"{Ran}\n"
+"\"Allá vamos.\""
 
 #: 00836:85
 msgid ""
 "{Kazushi}\n"
 "\"All right.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Venga.\""
 
 #: 00836:86
 msgid "Now that's alchemy. Your mental state can affect the outcome. Time for positive thinking."
@@ -254,22 +316,28 @@ msgid ""
 "{Kazushi}\n"
 "\"Alright, it's all in. Next?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Y ahora qué?\""
 
 #: 00836:90
 msgid ""
 "{Ran}\n"
 "\"The flame. Turn it up and fuse what we just poured in.\""
 msgstr ""
+"{Ran}\n"
+"\"Haremos que llegue el apunto de ebullición.\""
 
 #: 00836:91
 msgid ""
 "{Kazushi}\n"
 "\"OK.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vale.\""
 
 #: 00836:92
 msgid "I turned up the heat. I kept my eyes on the flame as I adjusted it bit by bit."
-msgstr ""
+msgstr "Encendí el fuego."
 
 #: 00836:95
 msgid ""
@@ -277,16 +345,21 @@ msgid ""
 "\"What are you doing?\n"
 "When I say turn up the heat, I mean TURN IT UP! I hate doing things halfway.\""
 msgstr ""
+"{Ran}\n"
+"\"¿Qué estás haciendo?\n"
+"Cuando digo que lo enciendas. ¡Me refiero a que lo ENCIENDAS!\""
 
 #: 00836:96
 msgid ""
 "{Kazushi}\n"
 "\"Got it!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Entendido!\""
 
 #: 00836:98
 msgid "I'm a man! So I flipped the fire up to a manly maximum. I could hear the flame roaring."
-msgstr ""
+msgstr "Giré la rueda al máximo."
 
 #: 00836:101
 msgid ""
@@ -300,62 +373,81 @@ msgid ""
 "\"This is so like you, Ran.\n"
 "Let's burn it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Es tan propio de ti, Ran.\n"
+"¡Que se queme!\""
 
 #: 00836:103
 msgid ""
 "{Ran}\n"
 "\"Yes, we'll burn it!\""
 msgstr ""
+"{Ran}\n"
+"\"Sí, ¡lo quemaremos!\""
 
 #: 00836:105
 msgid "With the burner going at full blast, the liquid inside the flask reached a hard boil."
-msgstr ""
+msgstr "Con el fogón al máximo, el líquido de dentro está hirviendo con fuerza."
 
 #: 00836:106
 msgid ""
 "{Kazushi}\n"
 "\"It's boiling well.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está hirviendo bien.\""
 
 #: 00836:107
 msgid ""
 "{Ran}\n"
 "\"Yep.\""
 msgstr ""
+"{Ran}\n"
+"\"Sip.\""
 
 #: 00836:108
 msgid ""
 "{Kazushi}\n"
 "\"What's next?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Y qué es lo siguiente?\""
 
 #: 00836:111
 msgid ""
 "{Ran}\n"
 "\"There's nothing else for us to do.\""
 msgstr ""
+"{Ran}\n"
+"\"Ya no hay siguiente.\""
 
 #: 00836:112
 msgid ""
 "{Kazushi}\n"
 "\"Just watch it? That's it?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Mirar? ¿Y ya?\""
 
 #: 00836:113
 msgid ""
 "{Ran}\n"
 "\"That's right. Just watch it.\""
 msgstr ""
+"{Ran}\n"
+"\"Así es. Eso es.\""
 
 #: 00836:117
 msgid ""
 "{Mei}\n"
 "\"Stop right there, you guys!\""
 msgstr ""
+"{Mei}\n"
+"\"¡Parad inmediatamente!\""
 
 #: 00836:118
 msgid "When we turned around, we saw Mei-sensei standing behind us with both hands on her hips."
-msgstr ""
+msgstr "Nos giramos y nos encontramos a la señorita Ibuki de pie muy enfadada."
 
 #: 00836:123
 msgid ""
@@ -374,6 +466,9 @@ msgid ""
 "{Mei}\n"
 "\"I always tell you that adjusting the heat is the most important part of alchemy. So why are you turning it all the way up and 'just watching'?\""
 msgstr ""
+"{Mei}\n"
+"\"Ajustar el fuego es la parte más importante.\n"
+"En Alquimia no hay un \"limitarse a mirar el resto\".\""
 
 #: 00836:130
 msgid ""
@@ -386,10 +481,12 @@ msgid ""
 "{Kazushi}\n"
 "\"So there was more to do.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Así que sí había algo que hacer.\""
 
 #: 00836:132
 msgid "Though I'm not surprised that was her reason. However, this wasn't the way to do it."
-msgstr ""
+msgstr "No debería haberme creído todo lo que decía."
 
 #: 00836:135
 msgid ""
@@ -402,12 +499,17 @@ msgid ""
 "{Ran}\n"
 "\"My personality isn't suited to this kind of precision work. I'm better at loud and flashy stuff.\""
 msgstr ""
+"{Ran}\n"
+"\"Mi personalidad no encaja para este tipo de cosas.\""
 
 #: 00836:141
+# ¿Nunca lo consigues en esta clase?
 msgid ""
 "{Mei}\n"
 "\"And that's why you always fail. You could do it if you just tried properly.\""
 msgstr ""
+"{Mei}\n"
+"\"Eso es por lo que siempre suspendes esta asignatura. Tienes que ser más paciente.\""
 
 #: 00836:142
 msgid "Mei-sensei was making some pretty harsh comments towards Ran. She sounded like she was scolding a stubborn child."
@@ -418,6 +520,8 @@ msgid ""
 "{Ran}\n"
 "\"Oh yeah? But I don't smell any money coming out of this experiment.\""
 msgstr ""
+"{Ran}\n"
+"\"No me veo haciéndome rica dominando la Alquimia.\""
 
 #: 00836:144
 msgid "She was like a dog following the scent of money."
@@ -428,6 +532,8 @@ msgid ""
 "{Ran}\n"
 "\"You said it can turn lead into gold, but I've never seen it once. Can you even do it?\""
 msgstr ""
+"{Ran}\n"
+"\"¿De verdad que vamos a poder convertir plomo en oro dominando esto?\""
 
 #: 00836:150
 msgid ""
@@ -435,50 +541,65 @@ msgid ""
 "\"It's not as easy as you're hoping.\n"
 "That's one of the hardest techniques in alchemy.\""
 msgstr ""
+"{Mei}\n"
+"\"La cosa no es tan sencilla.\n"
+"Es una de las técnicas más difíciles de la Alquimia.\""
 
 #: 00836:151
 msgid ""
 "{Ran}\n"
 "\"I don't care about any other techniques. I only want to learn that one.\""
 msgstr ""
+"{Ran}\n"
+"\"Me dan igual el resto de técnicas. Yo solo quiero aprender eso.\""
 
 #: 00836:154
 msgid ""
 "{Mei}\n"
 "\"If you don't start from the basics and take them seriously, you'll never be able to do anything. Please, do it right.\""
 msgstr ""
+"{Mei}\n"
+"\"Tienes que aprender paso a paso para ser capaz de hacer eso.\""
 
 #: 00836:155
 msgid "Mei-sensei was begging Ran to study alchemy harder."
-msgstr ""
+msgstr "La señorita Ibuki está rogando a Ran que estudie más la Alquimia."
 
 #: 00836:158
 msgid ""
 "{Ran}\n"
 "\"Well, if you're going that far, Mei-chan, I guess I'll do what I can.\""
 msgstr ""
+"{Ran}\n"
+"\"Está bien. Lo haré lo mejor que pueda.\""
 
 #: 00836:159
 msgid ""
 "{Kazushi}\n"
 "\"Aren't we full of ourselves...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vaya. Te tratan de forma especial.\""
 
 #: 00836:160
 msgid ""
 "{Mei}\n"
 "\"Please, Ran.\""
 msgstr ""
+"{Mei}\n"
+"\"Por favor, Ran.\""
 
 #: 00836:162
 msgid "Mei-sensei made one last plea and left."
-msgstr ""
+msgstr "La señorita Ibuki le rogó una vez más antes de marcharse."
 
 #: 00836:165
 msgid ""
 "{Ran}\n"
 "\"So now to adjust the heat. Hmm.\""
 msgstr ""
+"{Ran}\n"
+"\"Ajustar la temperatura...\""
 
 #: 00836:166
 msgid "Ran crossed her arms in thought as she watched the fire burn. This was going nowhere."
@@ -499,13 +620,15 @@ msgstr ""
 
 #: 00836:171
 msgid "But adjusting the heat, huh? That seemed to be the key point, and I didn't have a clue what to do."
-msgstr ""
+msgstr "No sé nada sobre el ajuste de la temperatura."
 
 #: 00836:173
 msgid ""
 "{Kazushi}\n"
 "\"Mei-sensei...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Señorita Ibuki...\""
 
 #: 00836:176
 msgid ""
@@ -516,49 +639,60 @@ msgstr ""
 
 #: 00836:177
 msgid "She's busy helping other groups."
-msgstr ""
+msgstr "Está ocupada ayudando a otros grupos."
 
 #: 00836:181
 msgid ""
 "{Principal}\n"
 "\"Turn the fire down a little bit.\""
 msgstr ""
+"{Directora}\n"
+"\"Baja la temperatura un poco.\""
 
 #: 00836:182
 msgid ""
 "{Kazushi}\n"
 "\"Yes, ma'am.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sí.\""
 
 #: 00836:186
 msgid "I was surprised. The principal came over and gave us some help. I quickly did as she said."
-msgstr ""
+msgstr "La directora vino y nos dió un consejo."
 
 #: 00836:187
 msgid "The principal rarely ever talked, so I was shocked and hesitated. I'm really not comfortable around her."
-msgstr ""
+msgstr "Estaba realmente sorprendido de que fuese a ayudarme."
 
 #: 00836:188
 msgid ""
 "{Principal}\n"
 "\"Yes, that should do it. Now relax. Your mental state can affect the result.\""
 msgstr ""
+"{Directora}\n"
+"\"Ya está casi.\n"
+"Tienes que concentrarte.\""
 
 #: 00836:189
 msgid ""
 "{Kazushi}\n"
 "\"Mental state? You mean my feelings change it?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿La concentración cambia el resultado?\""
 
 #: 00836:192
 msgid ""
 "{Principal}\n"
 "\"That's one way of putting it.\""
 msgstr ""
+"{Principal}\n"
+"\"Así es.\""
 
 #: 00836:193
 msgid "My feelings will change the results of the experiment? I thought alchemy was like chemistry, but that's suspicious."
-msgstr ""
+msgstr "Soy incapaz de imaginar cómo puede ser que mi concentración vaya a afectar al resultado."
 
 #: 00836:198
 msgid ""
@@ -568,123 +702,155 @@ msgstr ""
 
 #: 00836:199
 msgid "Ran whispered to me."
-msgstr ""
+msgstr "Me susurra Ran."
 
 #: 00836:200
 msgid ""
 "{Kazushi}\n"
 "(Not at all.)"
 msgstr ""
+"{Kazushi}\n"
+"(Para nada.)"
 
 #: 00836:203
 msgid ""
 "{Ran}\n"
 "(Then why's she helping you out? I've never seen her give anyone hints before.)"
 msgstr ""
+"{Ran}\n"
+"(¿Entonces por qué te está aconsejando? Nunca la había visto dar un consejo a nadie.)"
 
 #: 00836:204
 msgid ""
 "{Kazushi}\n"
 "(Oh yeah?)"
 msgstr ""
+"{Kazushi}\n"
+"(¿Ah sí?)"
 
 #: 00836:205
 msgid "But I didn't know why. Maybe she's nice to guys?"
-msgstr ""
+msgstr "No sé por qué es tan amable conmigo."
 
 #: 00836:206
 msgid ""
 "{Kazushi}\n"
 "(Oh, that's it. Maybe she likes young boys.)"
 msgstr ""
+"{Kazushi}\n"
+"(Quizá le gusten los jovenzuelos.)"
 
 #: 00836:209
 msgid ""
 "{Ran}\n"
 "(Huh? At her age?)"
 msgstr ""
+"{Ran}\n"
+"(Podría ser tu abuela.)"
 
 #: 00836:210
 msgid "That can't be. She's Haruka's grandma."
-msgstr ""
+msgstr "Ran tiene razón. No creo que sea por eso."
 
 #: 00836:214
 msgid ""
 "{Principal}\n"
 "\"Look, it's begun to dissolve.\""
 msgstr ""
+"{Directora}\n"
+"\"Presta atención.\""
 
 #: 00836:215
 msgid "The items in the flask began to melt and the color began to change. All the colors melted into a solid black."
-msgstr ""
+msgstr "El líquido dentro del frasco está cambiando de color."
 
 #: 00836:220
 msgid ""
 "{Ran}\n"
 "\"Kazushi! Turn down the heat!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Kazushi! ¡Ajusta el fuego!\""
 
 #: 00836:221
 msgid "Ran gave me an order instead of doing it herself."
-msgstr ""
+msgstr "Me ordena Ran en vez de hacerlo ella misma."
 
 #: 00836:222
 msgid ""
 "{Kazushi}\n"
 "\"I know, I know......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo sé, lo sé...\""
 
 #: 00836:223
 msgid "Adjust the flame. Ran was getting anxious over the slight adjustments, but I ignored her in front of the principal."
-msgstr ""
+msgstr "Traté de ajustar el fuego pese a que apenas sé lo que estoy haciendo."
 
 #: 00836:224
 msgid ""
 "{Kazushi}\n"
 "\"This reminds me of cooking rice over a campfire.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Esto me recuerda a cuando hacía arroz en el campamento.\""
 
 #: 00836:227
 msgid ""
 "{Principal}\n"
 "\"Hu hu, yes. That's a good comparison. You boys' ideas are quite unique.\""
 msgstr ""
+"{Directora}\n"
+"\"Así es.\n"
+"Tienes que hacer exáctamente lo mismo aquí.\""
 
 #: 00836:228
 msgid "She smiled and nodded. Did I just get praised?"
 msgstr ""
+"Sonrió.\n"
+"Quizá lo esté haciendo hasta bien."
 
 #: 00836:229
 msgid ""
 "{Ran}\n"
 "\"Hey, it's turning white now!!\""
 msgstr ""
+"{Ran}\n"
+"\"Ey, ¡¡se está volviendo blanco ahora!!\""
 
 #: 00836:230
+# Alterada. Agitada. Emocionada.
 msgid "Ran was growing loud and excited."
-msgstr ""
+msgstr "Ran está realmente excitada."
 
 #: 00836:231
 msgid ""
 "{Kazushi}\n"
 "\"Is it that amazing?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Es una buena señal?\""
 
 #: 00836:232
 msgid ""
 "{Ran}\n"
 "\"I've never gotten this far before!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Nunca había llegado tan lejos antes!\""
 
 #: 00836:233
 msgid ""
 "{Kazushi}\n"
 "\"You haven't?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿En serio?\""
 
 #: 00836:234
 msgid "Ran always failed beforehand. We had managed to get it to turn white once already. She must be really crap at this."
-msgstr ""
+msgstr "Nunca había conseguido que nada se volviese blanco. La he superado en mi primera vez."
 
 #: 00836:237
 msgid ""
@@ -692,22 +858,29 @@ msgid ""
 "\"We might be just fine!\n"
 "What if it turns out to be money!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Debemos ir por el buen camino!\n"
+"¡¿Y si se convierte en dinero?!\""
 
 #: 00836:238
 msgid ""
 "{Kazushi}\n"
 "\"Money? Seriously?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿En dinero? ¿En serio?\""
 
 #: 00836:239
 msgid "I looked at the principal. She still wore a peaceful smile."
-msgstr ""
+msgstr "Miré a la directora. Sigue sonriendo."
 
 #: 00836:240
 msgid ""
 "{Principal}\n"
 "\"We'll find out soon enough.\""
 msgstr ""
+"{Directora}\n"
+"\"Ya lo veremos.\""
 
 #: 00836:243
 msgid ""
@@ -715,110 +888,139 @@ msgid ""
 "\"I've got a good feeling about this!\n"
 "I think you and I may have great chemistry.\""
 msgstr ""
+"{Ran}\n"
+"\"¡Tengo un buen presentimiento de todo esto!\n"
+"¡Creo que entre nosotros hay química!\""
 
 #: 00836:244
 msgid ""
 "{Kazushi}\n"
 "\"Does our chemistry even matter?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Y eso importa?\""
 
 #: 00836:247
 msgid ""
 "{Principal}\n"
 "\"Yes it does. The ingredients chosen, the pair who performs it, and even the instruments used have good or bad compatibility with each other.\""
 msgstr ""
+"{Directora}\n"
+"\"Sí, importa.\n"
+"Todo importa.\""
 
 #: 00836:248
 msgid ""
 "{Kazushi}\n"
 "\"Everything?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Todo?\""
 
 #: 00836:249
 msgid "That means that even if we all used the same materials and techniques, we could still get different outcomes. No wonder it's so difficult."
-msgstr ""
+msgstr "¿Eso quiere decir que aunque usemos todos los mismos materiales, el resultado será diferente?"
 
 #: 00836:253
 msgid ""
 "{Ran}\n"
 "\"R! R! R!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Ey! ¡Ey!\""
 
 #: 00836:254
 msgid "Ran raised her voice."
-msgstr ""
+msgstr "Ran alzó la voz."
 
 #: 00836:255
 msgid ""
 "{Ran}\n"
 "\"R-re-red! It's turning red!\""
 msgstr ""
+"{Ran}\n"
+"\"¡¡Se está volviendo rojo!!\""
 
 #: 00836:256
 msgid "This was my first time seeing Ran get so excited."
-msgstr ""
+msgstr "Es la primera vez que veo a Ran así de emocionada."
 
 #: 00836:259
 msgid ""
 "{Ran}\n"
 "\"What's it going to be?! Money?! E-even split, remember!\""
 msgstr ""
+"{Ran}\n"
+"\"¿¡Qué saldrá!?\n"
+"¡¡Si es dinero, lo compartimos, ¿recuerdas?!!\""
 
 #: 00836:260
 msgid ""
 "{Kazushi}\n"
 "\"We don't know what it's going to be yet.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Todavía no lo sabemos.\""
 
 #: 00836:265
 msgid ""
 "{Principal}\n"
 "\"Watch the temperature.\""
 msgstr ""
+"{Directora}\n"
+"\"Vigila la temperatura.\""
 
 #: 00836:266
 msgid ""
 "{Ran}\n"
 "\"That's right!!\""
 msgstr ""
+"{Ran}\n"
+"\"¡¡Es cierto!!\""
 
 #: 00836:267
 msgid "Ran was so excited that decided to do it herself instead of leaving it to me."
-msgstr ""
+msgstr "Esta vez, en vez de ordenármelo, lo está haciendo ella misma."
 
 #: 00836:268
 msgid "And......"
-msgstr ""
+msgstr "Y..."
 
 #: 00836:272
 msgid ""
 "{Ran}\n"
 "\"Oops...\""
 msgstr ""
+"{Ran}\n"
+"\"Ups...\""
 
 #: 00836:275
 msgid "*Crash*"
-msgstr ""
+msgstr "*Ran tumba el fogón*"
 
 #: 00836:276
 msgid "Ran knocked the burner over."
-msgstr ""
+msgstr "Ran tumba el fogón."
 
 #: 00836:279
 msgid ""
 "{Ran}\n"
 "\"No!!!\""
 msgstr ""
+"{Ran}\n"
+"\"¡¡¡Nooooooo...!!!\""
 
 #: 00836:280
 msgid "The flash shattered, and the liquid spilled out. It all evaporated in no time."
-msgstr ""
+msgstr "El frasco se ha roto y el contenido evaporado."
 
 #: 00836:283
 msgid ""
 "{Ran}\n"
 "\"My money......\""
 msgstr ""
+"{Ran}\n"
+"\"Mi dinero...\""
 
 #: 00836:284
 msgid ""
@@ -838,13 +1040,18 @@ msgid ""
 "\"I can't help it.\n"
 "This is my personality.\""
 msgstr ""
+"{Ran}\n"
+"\"No puedo evitarlo.\n"
+"Está inherente en mi personalidad.\""
 
 #: 00836:291
 msgid ""
 "{Kazushi}\n"
 "\"You really need to be patient, Ran.\""
 msgstr ""
+"{Kazushi}\n"
+"\"De verdad que tienes que ser paciente, Ran.\""
 
 #: 00836:292
 msgid "If patience can be considered a talent, then I can see why Ran has no talent for alchemy."
-msgstr ""
+msgstr "Ahora ya entiendo por qué no tiene talento con la Alquimia."

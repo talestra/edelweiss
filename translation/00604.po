@@ -13,79 +13,101 @@ msgstr ""
 
 #: 00604:7
 msgid "It happened one night."
-msgstr ""
+msgstr "Eso ocurrió una noche."
 
 #: 00604:10
 msgid ""
 "{Appo}\n"
 "\"Hey, Kazushi.\""
 msgstr ""
+"{Appo-}\n"
+"\"Oye, Kazushi.\""
 
 #: 00604:11
 msgid "After dinner one night, Appo spoke to me like he was in some kind of trouble."
-msgstr ""
+msgstr "Parece como si tuviese algún problema."
 
 #: 00604:12
 msgid ""
 "{Kazushi}\n"
 "\"What's up?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué pasa?\""
 
 #: 00604:15
+# 'mamar alguna teta', 'chupar alguna teta', 'morder algunos pezones'
 msgid ""
 "{Appo}\n"
 "\"Do you want to go suck on some tits?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿No te gustaría mamar alguna teta?\""
 
 #: 00604:16
 msgid ""
 "{Kazushi}\n"
 "\"......What!?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Qué...!?\""
 
 #: 00604:17
 msgid ""
 "{Appo}\n"
 "\"Aren't you dying to suck a pair of tits?\""
 msgstr ""
+"{Appo-}\n"
+"\"Yo me muero por hacerlo.\""
 
 #: 00604:18
 msgid "What the hell is he talking about? I've been friends with Appo ages, but he still manages to say the weirdest things every now and then."
-msgstr ""
+msgstr "¿De qué está hablando?"
 
 #: 00604:21
 msgid ""
 "{Appo}\n"
 "\"Tits, man, tits! Ever since we got here, we've been surrounded by tits every single day, but all we can do is look?!\""
 msgstr ""
+"{Appo-}\n"
+"\"Estoy harto de limitarme a mirarlas desde que llegamos.\""
 
 #: 00604:22
 msgid ""
 "{Kazushi}\n"
 "\"Well, of course. Hold on...I don't like that look in your eyes?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Has perdido la cabeza...?\""
 
 #: 00604:25
 msgid ""
 "{Appo}\n"
 "\"I can't take it anymore! I want to suck some tits! Tits! Tits!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Ya no puedo aguantarlo más!\n"
+"¡Quiero tetas!\""
 
 #: 00604:26
 msgid "He was lying on the floor kicking his arms and legs like a spoiled child. Is he going to be okay?"
-msgstr ""
+msgstr "Es como un niño mimado en una juguetería."
 
 #: 00604:27
 msgid ""
 "{Kazushi}\n"
 "\"Calm down! Don't lose control of yourself!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Tranquilízate!\""
 
 #: 00604:30
 msgid ""
 "{Appo}\n"
 "\"We're roomies, right?\""
 msgstr ""
+"{Appo-}\n"
+"\"Somos compañeros de habitación, ¿no?\""
 
 #: 00604:31
 msgid "He leaned his head up towards me from where he was curled up on the floor."
@@ -96,68 +118,89 @@ msgid ""
 "{Kazushi}\n"
 "\"And your point is?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Y qué?\""
 
 #: 00604:35
 msgid ""
 "{Appo}\n"
 "\"Let me suck your tits.\""
 msgstr ""
+"{Appo-}\n"
+"\"Enséñame tus tetas.\""
 
 #: 00604:36
 msgid ""
 "{Kazushi}\n"
 "\"...the fuck?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué...?\""
 
 #: 00604:37
 msgid ""
 "{Appo}\n"
 "\"..................\""
 msgstr ""
+"{Appo-}\n"
+"\"...\""
 
 #: 00604:38
 msgid "He was dead serious, and I was frightened."
-msgstr ""
+msgstr "Está empezando a asustarme."
 
 #: 00604:39
 msgid ""
 "{Kazushi}\n"
 "\"Hey, calm down man? Appo, I don't have the kind of tits you're looking for.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Yo no tengo tetas. Soy un tío.\""
 
 #: 00604:42
 msgid ""
 "{Appo}\n"
 "\"........................Yeah, you're right.\""
 msgstr ""
+"{Appo-}\n"
+"\"Ya veo...\n"
+"Tienes razón.\""
 
 #: 00604:43
 msgid ""
 "{Kazushi}\n"
 "\"Phew...are you back to normal now?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Ya has vuelto...?\""
 
 #: 00604:44
 msgid ""
 "{Appo}\n"
 "\"I'm gonna go suck Daigo's.\""
 msgstr ""
+"{Appo-}\n"
+"\"Voy a pedírselo a Daigo.\""
 
 #: 00604:45
 msgid ""
 "{Kazushi}\n"
 "\"What?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué?\""
 
 #: 00604:48
 msgid "He dragged himself up off the floor and hobbled over to the other room."
-msgstr ""
+msgstr "Se levantó y se dirigió a la habitación de al lado."
 
 #: 00604:50
 msgid ""
 "{Kazushi}\n"
 "\"Is he serious?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Lo dice en serio?\""
 
 #: 00604:51
 msgid ""
@@ -165,26 +208,33 @@ msgid ""
 "\"Hey, what's up, Appo?\n"
 "......AAAAHHHHH!!! WHAT ARE YOU DOING!?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿¡Qué pasa Appo-!?\n"
+"¿¡Qué estás haciendo!?\""
 
 #: 00604:52
 msgid "I heard Daigo screaming."
-msgstr ""
+msgstr "Oí a Daigo gritar."
 
 #: 00604:53
 msgid ""
 "{Kazushi}\n"
 "\"This is hell.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Estoy en el infierno.\""
 
 #: 00604:54
 msgid "I put my hands over my ears and hid under my bed covers. It's almost nine o'clock; still too early to sleep."
-msgstr ""
+msgstr "Me tapé los oídos y me metí en la cama."
 
 #: 00604:55
 msgid ""
 "{Kazushi}\n"
 " *yawn*"
 msgstr ""
+"{Kazushi}\n"
+"*Bostezando*"
 
 #: 00604:56
 msgid "I stretched myself out. Every since I got here, I feel like I've been sleepy every day."
@@ -195,68 +245,80 @@ msgid ""
 "{Kazushi}\n"
 "\"Maybe I'm just tired.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Quizá esté cansado.\""
 
 #: 00604:58
 msgid "Mentally. Maybe spending every day surrounded by women like this is forcing me to be more nervous than ever."
-msgstr ""
+msgstr "Creo que estoy agotado por el esfuerzo de acostumbrarme al nuevo entorno."
 
 #: 00604:59
 msgid ""
 "{Kazushi}\n"
 "\"I should go to bed early tonight.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Hoy debería acostarme temprano.\""
 
 #: 00604:62
 msgid "I closed my eyes."
-msgstr ""
+msgstr "Cerré los ojos."
 
 #: 00604:66
 msgid ""
 "{Kazushi}\n"
 "\"Huh?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡!?\""
 
 #: 00604:67
 msgid "I think I hear footsteps outside the dorm."
-msgstr ""
+msgstr "Me ha parecido oír pasos afuera."
 
 #: 00604:68
 msgid "Somebody's outside."
-msgstr ""
+msgstr "Hay alguien fiera."
 
 #: 00604:69
 msgid "It wasn't that late, so it wouldn't be odd, but for some reason those footsteps made me curious."
-msgstr ""
+msgstr "Todavía no es muy tarde, pero el sonido hace que me pregunte quién es."
 
 #: 00604:70
 msgid ""
 "{Kazushi}\n"
 "\"Who could that be?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Quién podría ser?\""
 
 #: 00604:71
 msgid "I looked outside through the window and saw a tiny, familiar silhouette."
-msgstr ""
+msgstr "Miré al exterior por la ventana."
 
 #: 00604:72
 msgid ""
 "{Kazushi}\n"
 "\"That's......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Es...\""
 
 #: 00604:73
 msgid "What is she doing out there at this time again? My drowsiness quickly went away."
-msgstr ""
+msgstr "¿Qué está haciendo por aquí otra vez?"
 
 #: 00604:77
 msgid ""
 "{Kazushi}\n"
 "\"Natsume-chan?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Natsume?\""
 
 #: 00604:80
 msgid "When I called out to her, she turned around with her usual expressionless face."
-msgstr ""
+msgstr "Fui fuera a ver qué estaba haciendo."
 
 #: 00604:83
 msgid ""
@@ -264,22 +326,29 @@ msgid ""
 "\"Oh, it's you, Haruma.\n"
 "I'm tired of seeing your face.\""
 msgstr ""
+"{Natsume}\n"
+"\"Eres tú otra vez.\n"
+"Estoy cansada de verte la cara.\""
 
 #: 00604:84
 msgid "She was already fed up with me."
-msgstr ""
+msgstr "Eso fue lo primero que dijo."
 
 #: 00604:85
 msgid ""
 "{Kazushi}\n"
 "\"Already? We've only seen each other a few times.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Ya? Si solo nos hemos visto en contadas ocasiones.\""
 
 #: 00604:86
 msgid ""
 "{Natsume}\n"
 "\"And I'm already sick of you.\""
 msgstr ""
+"{Natsume}\n"
+"\"Las suficientes para cansarme de ti.\""
 
 #: 00604:87
 msgid ""
@@ -289,101 +358,123 @@ msgstr ""
 
 #: 00604:88
 msgid "That was all she had to say, and then she seemed to lose interest in me. She kept her eyes on her feet as she started walking away."
-msgstr ""
+msgstr "Eso es todo lo que me dijo antes de continuar su andadura nocturna."
 
 #: 00604:89
 msgid ""
 "{Kazushi}\n"
 "\"Why are you taking a walk at this time of night, anyways?\""
 msgstr ""
+"{Kazushi}\n"
+"\"De todas formas, ¿qué haces paseando a esta hora del día?\""
 
 #: 00604:90
 msgid ""
 "{Natsume}\n"
 "\"No reason.\""
 msgstr ""
+"{Natsume}\n"
+"\"No hay motivo.\""
 
 #: 00604:91
 msgid ""
 "{Kazushi}\n"
 "\"There's got to be a reason.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Tiene que haber algún motivo.\""
 
 #: 00604:94
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00604:95
 msgid "She ignored me. She must think I'm nagging her. Oh well, I'm used to the cold shoulder."
-msgstr ""
+msgstr "Continúa ignorándome."
 
 #: 00604:96
 msgid ""
 "{Kazushi}\n"
 "\"You're sure a night-owl, Natsume-chan. Didn't I meet you for the first time around this time of night? Are you able to get up OK in the morning?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Era sobre esta hora cuando te conocí. ¿No te cuesta levantarte por las mañanas?\""
 
 #: 00604:97
 msgid "She turned around."
-msgstr ""
+msgstr "Se giró."
 
 #: 00604:100
 msgid ""
 "{Natsume}\n"
 "\"Shut up, Haruma.\""
 msgstr ""
+"{Natsume}\n"
+"\"Cállate, Kazushi.\""
 
 #: 00604:101
 msgid "She scolded me. I guess she didn't want to be lectured."
-msgstr ""
+msgstr "Supongo que no quieren que le den ningún sermón."
 
 #: 00604:102
 msgid ""
 "{Kazushi}\n"
 "\"Could it be that you're looking for something?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Quizá es que estás buscando algo?\""
 
 #: 00604:103
 msgid "That's the only thing I could think she was doing."
-msgstr ""
+msgstr "Es lo único que se me ocurre que pueda estar haciendo."
 
 #: 00604:104
 msgid ""
 "{Kazushi}\n"
 "\"If you're looking for something, I'll help. Is it something important?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Quieres que te ayude?\""
 
 #: 00604:107
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00604:108
 msgid "She stopped and looked at me."
-msgstr ""
+msgstr "Se paró y me miró."
 
 #: 00604:111
 msgid "...and took a big sigh."
-msgstr ""
+msgstr "Y exhaló un largo suspiro..."
 
 #: 00604:112
 msgid ""
 "{Kazushi}\n"
 "\"I don't remember doing anything to make you sigh.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No creo haber hecho nada para que suspires.\""
 
 #: 00604:113
 msgid ""
 "{Natsume}\n"
 "\"And that's one reason why you're stupid, Haruma.\""
 msgstr ""
+"{Natsume}\n"
+"\"Es por eso por lo que eres tan estúpido.\""
 
 #: 00604:114
 msgid "She nodded her head."
-msgstr ""
+msgstr "Está asintiendo con la cabeza."
 
 #: 00604:115
 msgid ""
@@ -391,56 +482,69 @@ msgid ""
 "\"Stop talking to me like that!\n"
 "I'm your sempai, so show me some respect!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Deja de hablarme así!\n"
+"Soy más mayor que tú, ¡muestra algo de respeto!\""
 
 #: 00604:118
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00604:119
 msgid "Oops, I think I said that too loud."
-msgstr ""
+msgstr "No pretendía alzar la voz."
 
 #: 00604:122
 msgid ""
 "{Natsume}\n"
 "\".........sniff.\""
 msgstr ""
+"{Natsume}\n"
+"\"¿¡...!?\""
 
 #: 00604:123
 msgid "She started shaking."
-msgstr ""
+msgstr "Ha empezado a temblar."
 
 #: 00604:124
 msgid ""
 "{Natsume}\n"
 "\"Hh......sniff.\""
 msgstr ""
+"{Natsume}\n"
+"*A punto de llorar*"
 
 #: 00604:125
 msgid "Then her eyes started to get watery. This makes it look I'm bullying her."
-msgstr ""
+msgstr "Oh, no... Está a punto de llorar."
 
 #: 00604:126
 msgid ""
 "{Kazushi}\n"
 "\"Don't cry, okay?\""
 msgstr ""
+"{Kazushi}\n"
+"\"No vas a llorar, ¿no?\""
 
 #: 00604:127
 msgid ""
 "{Natsume}\n"
 "\"I'm not......crying......\""
 msgstr ""
+"{Natsume}\n"
+"\"No estoy... llorando...\""
 
 #: 00604:128
 msgid "She's already half crying."
-msgstr ""
+msgstr "Ya está medio llorando."
 
 #: 00604:129
 msgid "I hope no one's watching this."
-msgstr ""
+msgstr "Espero que nadie esté presenciando esto."
 
 #: 00604:130
 msgid ""
@@ -448,139 +552,170 @@ msgid ""
 "\"Please don't cry.\n"
 "I promise I won't raise my voice again.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Por favor, no llores.\n"
+"Te prometo que no volveré a levantarte la voz.\""
 
 #: 00604:131
 msgid ""
 "{Natsume}\n"
 "\"I'm not crying......don't treat me like a kid......stupid......\""
 msgstr ""
+"{Natsume}\n"
+"\"No estoy llorando... No me trates como a un niño... estúpido...\""
 
 #: 00604:132
 msgid "She rubbed her eyes as she insulted me. The tip of her nose was getting red. She was clearly crying."
-msgstr ""
+msgstr "Está llorando un montón, tiene los ojos rojos."
 
 #: 00604:133
 msgid ""
 "{Kazushi}\n"
 "\"I'm sorry.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento.\""
 
 #: 00604:134
 msgid ""
 "{Natsume}\n"
 "\"Don't apologize! I didn't cry so, why are you apologizing?\""
 msgstr ""
+"{Natsume}\n"
+"\"No te disculpes, porque no he llorado.\""
 
 #: 00604:135
 msgid "She refused to admit she was crying. What a stubborn girl. I'm glad she has yet to realize that tears are a woman's weapon."
-msgstr ""
+msgstr "Menuda niña más cabezota."
 
 #: 00604:136
 msgid ""
 "{Kazushi}\n"
 "\"Here, let me help you look for it as penance.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Venga, deja que te ayude a encontrar lo que estás buscando.\""
 
 #: 00604:137
 msgid "I didn't know what she was looking for but I started looking around. I should be able to find it if she dropped something."
-msgstr ""
+msgstr "No sé lo que está buscando, pero empiezo a buscar por los alrededores."
 
 #: 00604:138
 msgid ""
 "{Kazushi}\n"
 "\"Hey, could you tell me what you dropped? It's hard to look if I don't know.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Oye. Me tendrías que decir al menos lo que se te ha caído.\""
 
 #: 00604:141
 msgid "She gave me another big sigh at my persistence."
-msgstr ""
+msgstr "Vuelve a exhalar un largo suspiro."
 
 #: 00604:142
 msgid ""
 "{Natsume}\n"
 "\"If you really want to help me......\""
 msgstr ""
+"{Natsume}\n"
+"\"Si de verdad quieres ayudarme...\""
 
 #: 00604:145
 msgid "Her pure eyes caught my eyes."
-msgstr ""
+msgstr "Sus ojos puros cautivan los míos."
 
 #: 00604:146
 msgid ""
 "{Natsume}\n"
 "\"Find me.\""
 msgstr ""
+"{Natsume}\n"
+"\"Encuéntrame.\""
 
 #: 00604:147
 msgid "I didn't understand what she meant, but her eyes were telling me she was serious."
-msgstr ""
+msgstr "No entendí lo que quería decir, pero sus ojos me decían que lo decía en serio."
 
 #: 00604:148
 msgid "What did she mean by \"find me\"?"
-msgstr ""
+msgstr "¿Qué quieres decir con \"encuéntrame\"?"
 
 #: 00604:149
 msgid ""
 "{Kazushi}\n"
 "\"Find you what?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Encontrarte el qué?\""
 
 #: 00604:152
 msgid ""
 "{Natsume}\n"
 "\"Find. Me. What else?\""
 msgstr ""
+"{Natsume}\n"
+"\"A mí. Qué si no.\""
 
 #: 00604:153
 msgid ""
 "{Kazushi}\n"
 "\"But Natsume-chan, you're...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Bueno. Ahí estás...\""
 
 #: 00604:154
 msgid "She was right in front of me."
-msgstr ""
+msgstr "Está justo delante de mí."
 
 #: 00604:155
 msgid "I didn't say it, because I realized she'd tell me that thought was stupid. Maybe it's some kind of metaphor?"
-msgstr ""
+msgstr "No lo dije, porque pensé que se refería a algún tipo de metáfora."
 
 #: 00604:158
 msgid ""
 "{Natsume}\n"
 "\"If you can't understand what I mean then don't bother. It's impossible for you, Haruma.\""
 msgstr ""
+"{Natsume}\n"
+"\"Si no puedes comprender a lo que me refiero, no te molestes.\""
 
 #: 00604:159
 msgid "Natsume-chan looked dejected. Her voice was quiet too."
-msgstr ""
+msgstr "Parece decepcionada."
 
 #: 00604:160
 msgid "But I didn't understand what Natsume-chan meant. What part of Natsume-chan am I supposed to find?"
-msgstr ""
+msgstr "Pero no entendí a lo que se refería."
 
 #: 00604:161
 msgid ""
 "{Kazushi}\n"
 "\"All right.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está bien.\""
 
 #: 00604:162
 msgid "I don't know what she means, but I'll remember this."
-msgstr ""
+msgstr "Ya lo averiguaré más adelante."
 
 #: 00604:165
 msgid ""
 "{Natsume}\n"
 "\"You can forget about it.\""
 msgstr ""
+"{Natsume}\n"
+"\"Puedes olvidarlo.\""
 
 #: 00604:166
 msgid ""
 "{Kazushi}\n"
 "\"No, I'll be sure to remember it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No. Averiguaré lo que querías decir.\""
 
 #: 00604:167
 msgid "I may not understand now, but there will come a day when I do. I'll remember what she said tonight so I can be ready when it comes."
-msgstr ""
+msgstr "Algún día entender'a lo que se refería."

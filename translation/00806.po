@@ -1,4 +1,5 @@
 # Comments for '00806'
+# http://es.wikipedia.org/wiki/Alquimia
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -19,13 +20,15 @@ msgstr ""
 
 #: 00806:9
 msgid "It's our first Alchemy class."
-msgstr ""
+msgstr "Nuestra primera clase de Alquímia."
 
 #: 00806:10
 msgid ""
 "{Kazushi}\n"
 "\"I'm getting nervous.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me estoy poniendo nervioso.\""
 
 #: 00806:13
 msgid ""
@@ -35,53 +38,67 @@ msgstr ""
 
 #: 00806:14
 msgid "It was a surprise to see Hinata-san of all people encouraging us."
-msgstr ""
+msgstr "Me sorprendió que Mizuki me animase."
 
 #: 00806:15
 msgid ""
 "{Kazushi}\n"
 "\"The principal is going to be watching us, you know.\""
 msgstr ""
+"{Kazushi}\n"
+"\"La directora va a observarnos, ya sabes.\""
 
 #: 00806:16
 msgid ""
 "{Mizuki}\n"
 "\"You'll be okay as long as you take it seriously. She probably plans to forgive you regardless.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Basta con que prestéis atención a clase, y os irá todo bien.\""
 
 #: 00806:17
 msgid ""
 "{Kazushi}\n"
 "\"I hope so.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eso espero.\""
 
 #: 00806:27
 msgid ""
 "{Pierre}\n"
 "\"Let's go, Kazushi!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Vamos, Kazushi!\""
 
 #: 00806:28
 msgid "Pierre and the others came over. The class was being held in one of the lab rooms."
-msgstr ""
+msgstr "La clase se dará en el laboratorio."
 
 #: 00806:29
 msgid ""
 "{Appo}\n"
 "\"What should we bring?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Qué tenemos que llevar?\""
 
 #: 00806:30
 msgid ""
 "{Daigo}\n"
 "\"We weren't provided any books, right?\""
 msgstr ""
+"{Daigo}\n"
+"\"No nos han dado ningún libro, ¿no?\""
 
 #: 00806:36
 msgid ""
 "{Mizuki}\n"
 "\"I don't think you guys need to bring anything. The textbooks will be provided later.\""
 msgstr ""
+"{Mizuki}\n"
+"\"El libro os lo darán más adelante.\""
 
 #: 00806:37
 msgid ""
@@ -92,11 +109,11 @@ msgstr ""
 
 #: 00806:38
 msgid "We were the only ones left in our classroom. We didn't know what was going to happen, so we headed to the laboratory in excitement."
-msgstr ""
+msgstr "Nos dirigimos al laboratorio."
 
 #: 00806:44
 msgid "The room looked just like any other chemistry lab. The instruments lying out, the flasks, the test tubes, and the burners all looked the same as chemistry equipment."
-msgstr ""
+msgstr "El laboratorio se parecía bastante al que teníamos en nuestra vieja escuela."
 
 #: 00806:49
 msgid ""
@@ -109,56 +126,73 @@ msgid ""
 "{Appo}\n"
 "\"Where should we sit?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Dónde nos sentamos?\""
 
 #: 00806:54
 msgid ""
 "{Mizuki}\n"
 "\"Anywhere you want.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Donde queráis.\""
 
 #: 00806:58
+# Revisar: Siéntate/Sentaos
 msgid ""
 "{Ran}\n"
 "\"The girls have already formed their groups, so Kazushi, you can sit with me.\""
 msgstr ""
+"{Ran}\n"
+"\"Siéntate conmigo.\""
 
 #: 00806:59
 msgid "Just as Ran said, most of the girls were already sitting in their groups, so we took our seats beside her."
-msgstr ""
+msgstr "Nos creamos nuestro propio grupo de asientos y nos sentamos."
 
 #: 00806:63
 msgid ""
 "{Ran}\n"
 "\"Okay, the rest is up to you.\""
 msgstr ""
+"{Ran}\n"
+"\"Pues nada. Buena suerte.\""
 
 #: 00806:65
 msgid "And with that, Ran leaned over on the desk. She was intending to sleep through class."
-msgstr ""
+msgstr "Ran empieza a dormirse."
 
 #: 00806:66
 msgid ""
 "{Kazushi}\n"
 "\"Hey, Ran, we don't know heads or tails from this stuff, so we're counting on you to help.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ey, ¡no te duermas! Tienes que permanecer despierta para ayudarnos.\""
 
 #: 00806:69
 msgid ""
 "{Pierre}\n"
 "\"Not only that, the principal's coming to watch us today. We have to show her our good side.\""
 msgstr ""
+"{Pierre}\n"
+"\"Tenemos que demostrar a la directora que estamos aquí para estudiar. Necesitamos tu ayuda.\""
 
 #: 00806:74
 msgid ""
 "{Ran}\n"
 "\"Oh yeah, she is. That means I can't sleep!\""
 msgstr ""
+"{Ran}\n"
+"\"Está bien, está bien. Permaneceré despierta por vosotros, chicos.\""
 
 #: 00806:75
 msgid ""
 "{Kazushi}\n"
 "\"Don't sleep - show us how to do it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Por favor, enseñanos.\""
 
 #: 00806:78
 msgid ""
@@ -171,176 +205,230 @@ msgid ""
 "{Kazushi}\n"
 "\"......seriously?\""
 msgstr ""
+"{Kazushi}\n"
+"\"... ¿En serio?\""
 
 #: 00806:82
 msgid ""
 "{Ran}\n"
 "\"It's true. I can't get a single experiment to go right.\""
 msgstr ""
+"{Ran}\n"
+"\"Nunca he tenido éxito alguno en esta clase.\""
 
 #: 00806:86
 msgid ""
 "{Appo}\n"
 "\"I think we picked the wrong girl to partner with?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Deberíamos cambiarnos de tutor?\""
 
 #: 00806:87
 msgid ""
 "{Pierre}\n"
 "\"Maybe we did.\""
 msgstr ""
+"{Pierre}\n"
+"\"Quizá.\""
 
 #: 00806:88
 msgid ""
 "{Kazushi}\n"
 "\"But didn't Haruka say that anyone could do it with practice?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Pero Haruka me dijo que no debería ser demasiado difícil.\""
 
 #: 00806:92
 msgid ""
 "{Ran}\n"
 "\"I'm especially untalented, I guess. Well, most people manage to get some reaction or another, but me? None at all.\""
 msgstr ""
+"{Ran}\n"
+"\"Yo soy una excepción.\n"
+"Tengo talento cero con la Alquímia.\""
 
 #: 00806:95
 msgid ""
 "{Ran}\n"
 "\"That's why I hate this class. You could even say I loathe it.\""
 msgstr ""
+"{Ran}\n"
+"\"Y de hecho, odio esta clase.\""
 
 #: 00806:96
 msgid "She clenched her fist in hatred. She must really suck at this."
-msgstr ""
+msgstr "Ahora estamos realmente convencidos de que hemos elegido a la compañera equivocada."
 
 #: 00806:100
 msgid ""
 "{Appo}\n"
 "\"I think this girl's no good to us. Who else can we partner up with...?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Quién más podría ayudarnos...?\""
 
 #: 00806:103
 msgid "We looked around the room, but all of the girls were chatting and acting like we weren't even there."
-msgstr ""
+msgstr "Miramos alrededor, pero no encontramos a nadie que fuese a ayudarnos."
 
 #: 00806:106
 msgid ""
 "{Pierre}\n"
 "\"Hey, Rin-chan, do want to do the experiment with us?\""
 msgstr ""
+"{Pierre}\n"
+"\"Oye Rin. ¿Te gustaría sentarte con nosotros?\""
 
 #: 00806:112
 msgid ""
 "{Rin}\n"
 "\"Huh? M-me? Uhh...\""
 msgstr ""
+"{Rin}\n"
+"\"¿Yo...?\""
 
 #: 00806:113
 msgid ""
 "{Sakura}\n"
 "\"Sorry, guys. The principal is coming today, right? Rin gets stage fright, so she won't be of much help.\""
 msgstr ""
+"{Sakura}\n"
+"\"Lo siento chicos, Rin se pone muy nerviosa delante de la directora. No creo que fuese de mucha ayuda.\""
 
 #: 00806:114
 msgid "We were the ones under major pressure to show off our good side today."
-msgstr ""
+msgstr "Estamos bajo una gran presión."
 
 #: 00806:115
 msgid ""
 "{Kazushi}\n"
 "\"Don't worry about it, then. This is our problem to deal with.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No os preocupéis, chicas. Es problema nuestro.\""
 
 #: 00806:120
 msgid ""
 "{Pierre}\n"
 "\"He's right. Maybe next time?\""
 msgstr ""
+"{Pierre}\n"
+"\"Es cierto. Gracias de todas formas.\""
 
 #: 00806:124
 msgid ""
 "{Rin}\n"
 "\"I'm sorry. Let's do it next time?\""
 msgstr ""
+"{Rin}\n"
+"\"Lo siento. La próxima vez.\""
 
 #: 00806:128
 msgid ""
 "{Pierre}\n"
 "\"'Let's do it next time'...She's so cute!\""
 msgstr ""
+"{Pierre}\n"
+"\"\"La próxima vez\".\n"
+"Es TAN mona...\""
 
 #: 00806:133
 msgid ""
 "{Appo}\n"
 "\"If you say something like that, it makes me wanna do more and more... Deh-heh.\""
 msgstr ""
+"{Appo-}\n"
+"\"Hace que me entren ganas de hablar más con ella.\""
 
 #: 00806:140
 msgid ""
 "{Rin}\n"
 "\"Hhh?!!\""
 msgstr ""
+"{Rin}\n"
+"\"¿¡¡...!!?\""
 
 #: 00806:141
 msgid ""
 "{Sakura}\n"
 "\"What's wrong?\""
 msgstr ""
+"{Sakura}\n"
+"\"¿Qué ocurre?\""
 
 #: 00806:142
 msgid ""
 "{Rin}\n"
 "\"I felt a chill running up my spine...I wonder if it was the wind?\""
 msgstr ""
+"{Rin}\n"
+"\"He notado algo espeluznante...\""
 
 #: 00806:146
 msgid ""
 "{Appo}\n"
 "\"Deh-heh, deh-heh!\""
 msgstr ""
+"{Appo-}\n"
+"*Enamorado de Rin*"
 
 #: 00806:147
 msgid ""
 "{Kazushi}\n"
 "\"Stop undressing her with your eyes!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Deja de desvestirla con los ojos.\""
 
 #: 00806:154
 msgid ""
 "{Daigo}\n"
 "\"Appo always starts doing that if we take our eyes off him.\""
 msgstr ""
+"{Daigo}\n"
+"\"Siempre lo estás haciendo.\""
 
 #: 00806:155
 msgid ""
 "{Pierre}\n"
 "\"But I really don't think there are any other girls who will pair with us.\""
 msgstr ""
+"{Pierre}\n"
+"\"Chicos, creo que estamos solos.\""
 
 #: 00806:156
 msgid ""
 "{Kazushi}\n"
 "\"Looks like it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eso parece.\""
 
 #: 00806:157
 msgid "We should thank Ran just for being here with us."
-msgstr ""
+msgstr "Deberíamos agradecer a Ran por estar aquí con nosotros."
 
 #: 00806:160
 msgid ""
 "{Ran}\n"
 " *zzzzzzzzzzzzzzzzzzzzzzz*"
 msgstr ""
+"{Ran}\n"
+"*Durmiendo*"
 
 #: 00806:161
 msgid "Even if she's asleep."
-msgstr ""
+msgstr "Aunque esté durmiendo..."
 
 #: 00806:162
 msgid ""
 "{Kazushi}\n"
 "\"Oi, Ran, at least try and stay awake, OK?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Oye Ran. Venga, mantente despierta, por favor.\""
 
 #: 00806:165
 msgid ""
@@ -348,60 +436,79 @@ msgid ""
 "\"What......?\n"
 "Sorry, sorry.\""
 msgstr ""
+"{Ran}\n"
+"\"¿Eh...?\n"
+"Ah. Lo siento, lo siento.\""
 
 #: 00806:166
 msgid ""
 "{Kazushi}\n"
 "\"Are you really that bad at this class? Maybe it's genuinely difficult.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Se supone que será fácil como dijo Haruka?\""
 
 #: 00806:170
 msgid ""
 "{Pierre}\n"
 "\"Of course it's difficult. It's similar to magic, right? Is it something that can even be taught?\""
 msgstr ""
+"{Pierre}\n"
+"\"La verdad, no lo creo. Es como aprender magia, ¿no?\""
 
 #: 00806:171
 msgid "He's got a point. Magic always seems like it would be impossible without already pos-sessing some kind of strange power."
-msgstr ""
+msgstr "Soy incapaz de imaginar que se nos diese bien algo así."
 
 #: 00806:175
 msgid ""
 "{Ran}\n"
 "\"Oh, don't worry about that. Alchemy isn't magic or some superpower, it's just another type of science.\""
 msgstr ""
+"{Ran}\n"
+"\"Pues pensáis demasiado.\n"
+"La Alquímia no tiene nada que ver con la magia. Es más parecido a la tecnología.\""
 
 #: 00806:176
 msgid ""
 "{Kazushi}\n"
 "\"So you don't need to be from a pureblood wizarding family or anything?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Eso quiere decir que no se necesita ningún tipo de talento?\""
 
 #: 00806:177
 msgid ""
 "{Ran}\n"
 "\"I don't think so. As long as you follow the proper procedures, anyone can use it to some extent.\""
 msgstr ""
+"{Ran}\n"
+"\"No creo. Cuanto más estudias, más mejoras.\""
 
 #: 00806:180
 msgid ""
 "{Ran}\n"
 "\"Not that it's done me any good, though!\""
 msgstr ""
+"{Ran}\n"
+"\"Aunque yo no he tenido mucho éxito con ello.\""
 
 #: 00806:181
 msgid "Even though she's laughing on the outside, I'm sure that deep inside she's wishing that she was good at it."
-msgstr ""
+msgstr "Aunque se está riendo, estoy seguro que por dentro, desearía que se le diese bien."
 
 #: 00806:182
+# Revisar.
 msgid "If she had any talent for alchemy, she'd probably be using it to synthesise money."
-msgstr ""
+msgstr "Estoy seguro de que si tuviese talento en la Alquímia lo usaría para fabricar dinero."
 
 #: 00806:188
 msgid ""
 "{Appo}\n"
 "\"I still think it sounds hard. Do you think we have a chance?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Crees que podremos dominarla?\""
 
 #: 00806:189
 msgid ""
@@ -414,102 +521,137 @@ msgid ""
 "{Ran}\n"
 "\"Oh, no, no, you guys'll be fine. The only one who's never succeeded in this class is me. I've seen everyone else do great.\""
 msgstr ""
+"{Ran}\n"
+"\"Os irá bien. Yo soy la única de la clase a la que se le da mal.\""
 
 #: 00806:196
 msgid ""
 "{Pierre}\n"
 "\"Seriously? Then we can turn lead into gold?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿En serio?\n"
+"Entonces, ¿si se nos diese bien podríamos usarlo para fabricar montañas de dinero?\""
 
 #: 00806:199
 msgid ""
 "{Ran}\n"
 "\"Oh, don't get your hopes up or you'll be let down. That's not an easy thing to do. Besides, the alchemy here is...\""
 msgstr ""
+"{Ran}\n"
+"\"La Alquímia que se enseña en esta escuela probablemente no sea lo que os esperaríais...\""
 
 #: 00806:200
 msgid ""
 "{Haruka}\n"
 "\"Used to transform an object one step closer to its ideal form.\""
 msgstr ""
+"{Haruka}\n"
+"\"La finalidad del estudio es la de perfeccionar a una sustancia al límite.\""
 
 #: 00806:201
 msgid "Haruka finished the description instead of Ran."
-msgstr ""
+msgstr "Haruka respondió en lugar de Ran."
 
 #: 00806:208
 msgid ""
 "{Kazushi}\n"
 "\"Huh? It's Haruka.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Haruka, ¿qué estás haciendo aquí?\""
 
 #: 00806:211
 msgid ""
 "{Haruka}\n"
 "\"Tee-hee, I came again.\""
 msgstr ""
+"{Haruka}\n"
+"\"Os echaba de menos.\""
 
 #: 00806:212
 msgid "Haruka stuck her tongue out. This girl never learns."
-msgstr ""
+msgstr "Sabe que la señorita Ibuki no la aceptará aquí."
 
 #: 00806:217
+# Con estar / con venir
 msgid ""
 "{Ran}\n"
 "\"Why are you so obsessed with being in our class? This never happened before.\""
 msgstr ""
+"{Ran}\n"
+"\"¿Por qué estás tan obsesionada con venir en nuestra clase?\""
 
 #: 00806:220
 msgid ""
 "{Haruka}\n"
 "\"Oh, you know. But today's special. Grandm...The principal is coming to observe, right?\""
 msgstr ""
+"{Haruka}\n"
+"\"Hoy es una excepción.\n"
+"La directora ha venido a observar, ¿no?\""
 
 #: 00806:224
 msgid ""
 "{Appo}\n"
 "\"That's why we're so nervous! So please go on a date with us!!\""
 msgstr ""
+"{Appo-}\n"
+"\"Por eso mismo es por lo que estamos tan nerviosos.\n"
+"¡¡Por favor, sal conmigo!!\""
 
 #: 00806:227
+# No entiendo lo que quieres decir. No he entendido lo que has dicho.
 msgid ""
 "{Haruka}\n"
 "\"What? I don't get what you're talking about.\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Qué? No sé a qué te refieres.\""
 
 #: 00806:231
 msgid ""
 "{Pierre}\n"
 "\"Ignore him. He doesn't make sense half the time anyways.\""
 msgstr ""
+"{Pierre}\n"
+"\"No te preocupes por lo que dice. Hay veces que se le va la pinza.\""
 
 #: 00806:235
 msgid ""
 "{Daigo}\n"
 "\"It's a rather common disease.\""
 msgstr ""
+"{Daigo}\n"
+"\"Tiene problemas mentales, ¿sabías?\""
 
 #: 00806:238
 msgid ""
 "{Haruka}\n"
 "\"Shouldn't you be seeing someone about that?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿No deberías ir a ver a un médico?\""
 
 #: 00806:242
 msgid "Haruka sat down next to Ran, joining our group."
-msgstr ""
+msgstr "Se sentó junto a nosotros."
 
 #: 00806:243
 msgid ""
 "{Haruka}\n"
 "\"Can I join you guys?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Puedo sentarme con vosotros, chicos?\""
 
 #: 00806:248
 msgid ""
 "{Pierre}\n"
 "\"But of course, madame. You are more than welcome!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Eres más que bienvenida!\""
 
 #: 00806:252
 msgid ""
@@ -517,6 +659,9 @@ msgid ""
 "\"Four boys and two girls.\n"
 "We need two more girls to balance out the group.\""
 msgstr ""
+"{Daigo}\n"
+"\"Cuatro chicos y dos chicas.\n"
+"Necesitamos dos chicas más para equilibrarlo.\""
 
 #: 00806:257
 msgid ""
@@ -524,32 +669,41 @@ msgid ""
 "\"Let's see...\n"
 "Hey, Mizuki-chan! Come join us!\""
 msgstr ""
+"{Haruka}\n"
+"\"Veamos...\n"
+"Ey Mizuki, vente aquí con nosotros.\""
 
 #: 00806:258
 msgid "Haruka took a look around and spotted Hinata-san."
-msgstr ""
+msgstr "Haruka divisó a Mizuki y le pidió que se uniese a nosotros."
 
 #: 00806:263
 msgid ""
 "{Mizuki}\n"
 "\"Me?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Yo?\""
 
 #: 00806:266
 msgid ""
 "{Haruka}\n"
 "\"We need more girls to balance out the group.\""
 msgstr ""
+"{Haruka}\n"
+"\"Necesitamos dos chicas más para equlibrarlo.\""
 
 #: 00806:267
 msgid ""
 "{Mizuki}\n"
 "\"Do I have to?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Y tengo que ser yo?\""
 
 #: 00806:268
 msgid "Hinata-san just doesn't seem to want to be with us."
-msgstr ""
+msgstr "No creo que Mizuki quiera estar en nuestro grupo."
 
 #: 00806:271
 msgid ""
@@ -557,70 +711,92 @@ msgid ""
 "\"Don't act like that.\n"
 "You're more than welcome here!\""
 msgstr ""
+"{Haruka}\n"
+"\"No te preocupes.\n"
+"¡Eres más que bienvenia!\""
 
 #: 00806:274
 msgid ""
 "{Mizuki}\n"
 "\"It's not a question of being welcomed...\""
 msgstr ""
+"{Mizuki}\n"
+"\"No me preocupa que los chicos me quieran o no en el grupo...\""
 
 #: 00806:275
 msgid ""
 "{Haruka}\n"
 "\"Come join us!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Venga, vente!\""
 
 #: 00806:278
 msgid "Haruka actually went and dragged Hinata-san over to where we were sitting."
-msgstr ""
+msgstr "Al final Haruka ha acabado arrastrando a Mizuki a nuestros asientos."
 
 #: 00806:283
 msgid ""
 "{Haruka}\n"
 "\"Mizuki-chan is a bit of a shy girl, so be nice to her, boys.\""
 msgstr ""
+"{Haruka}\n"
+"\"Chicos, tratadla bien, ¿vale?\""
 
 #: 00806:284
+# Revisar.
 msgid ""
 "{Mizuki}\n"
 "\"This isn't a dating service!\""
 msgstr ""
+"{Mizuki}\n"
+"\"No tengo intención de llevarme bien con ellos.\""
 
 #: 00806:288
 msgid ""
 "{Ran}\n"
 "\"Mizuki, you know it's no use trying to make Haruka understand. Now we have three girls, and while I'm useless, we have Haruka with us.\""
 msgstr ""
+"{Ran}\n"
+"\"Mizuki. Es inútil hacer que Haruka entre en razón, ya lo sabes.\""
 
 #: 00806:291
 msgid ""
 "{Mizuki}\n"
 "\"Fine. It's a lot easier to do it with Haruka.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Está bien. En cualquier caso es fácil estudiar con Haruka.\""
 
 #: 00806:292
 msgid "They were both relying on Haruka. Was Haruka that good at alchemy?"
-msgstr ""
+msgstr "Según lo que acaba de decir Mizuki, Haruka parece ser buena con la Alquímia."
 
 #: 00806:295
 msgid ""
 "{Kazushi}\n"
 "\"Oh yeah. As we were saying...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ah, sí.\""
 
 #: 00806:296
 msgid "What was it Haruka said? Bring an object one step closer to its ideal form?"
 msgstr ""
+"¿Qué es lo que dijo Haruka antes sobre la Alquímia?\n"
+"¿Algo sobre perfeccionar una substancia...?"
 
 #: 00806:297
 msgid "I'd never heard anything like that."
-msgstr ""
+msgstr "Nunca había escuchado algo así."
 
 #: 00806:300
 msgid ""
 "{Ran}\n"
 "\"Haruka, these guys don't know the first letter of alchemy, so teach them.\""
 msgstr ""
+"{Ran}\n"
+"\"Haruka, explícales qué es la Alquímia.\""
 
 #: 00806:306
 msgid ""
@@ -639,78 +815,96 @@ msgid ""
 "{Ran}\n"
 "\"The older, the wiser.\""
 msgstr ""
+"{Ran}\n"
+"\"Al menos yo ya lo había intentado antes.\""
 
 #: 00806:315
 msgid ""
 "{Haruka}\n"
 "\"It's your first time, so just relax and try to enjoy it.\""
 msgstr ""
+"{Haruka}\n"
+"\"Relajaos y tratad de disfrutarlo.\""
 
 #: 00806:316
 msgid ""
 "{Kazushi}\n"
 "\"We can do that.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Podemos hacerlo.\""
 
 #: 00806:318
 msgid ""
 "{Haruka}\n"
 "\"Here comes the teacher.\""
 msgstr ""
+"{Haruka}\n"
+"\"Ahí viene la profesora.\""
 
 #: 00806:326
 msgid "It's Mei-sensei! I didn't know she taught alchemy!"
-msgstr ""
+msgstr "Es la señorita Ibuki. No sabía que fuese también profesora de Alquímia."
 
 #: 00806:332
 msgid "...and here comes the principal."
-msgstr ""
+msgstr "Y ahí viene la directora."
 
 #: 00806:339
 msgid ""
 "{Appo}\n"
 "\"There she is. She didn't have to come.\""
 msgstr ""
+"{Appo-}\n"
+"\"Ahí está.\""
 
 #: 00806:340
 msgid ""
 "{Daigo}\n"
 "\"She's already got her eye on us!\""
 msgstr ""
+"{Daigo}\n"
+"\"Ya está mirándonos.\""
 
 #: 00806:345
 msgid "She peered around the classroom, eager to spot us like a hawk seeking its prey."
-msgstr ""
+msgstr "Estuvo ojeando por la clase para localizarnos."
 
 #: 00806:346
 msgid ""
 "{Principal}\n"
 "\"..................\""
 msgstr ""
+"{Directora}\n"
+"\"...\""
 
 #: 00806:347
 msgid ""
 "{Kazushi}\n"
 "\"Ack!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡...!?\""
 
 #: 00806:348
 msgid "I hate it when she stares at me. I can't calm down at all."
-msgstr ""
+msgstr "No me gusta cuando se me queda mirando."
 
 #: 00806:349
 msgid "And why's she so focused on me anyways?"
-msgstr ""
+msgstr "Y de todas formas, ¿por qué me está mirando a mí?"
 
 #: 00806:353
 msgid ""
 "{Haruka}\n"
 "\"..................\""
 msgstr ""
+"{Haruka}\n"
+"\"...\""
 
 #: 00806:354
 msgid "Maybe she's actually looking at Haruka. Yeah, she doesn't know about me anyways."
-msgstr ""
+msgstr "Quizá esté mirando a Haruka."
 
 #: 00806:358
 msgid ""
@@ -724,42 +918,58 @@ msgid ""
 "{Kazushi}\n"
 "\"I thought you already lay claim to her.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Pensaba que era tu mujer.\""
 
 #: 00806:362
+# Revisar.
 msgid ""
 "{Appo}\n"
 "\"I gave up. Winning her away from you would be too much work. Lucky you, Kazushi.\""
 msgstr ""
+"{Appo-}\n"
+"\"Yo ya me rendí. No creo que pueda ganar sobre ti.\""
 
 #: 00806:363
+# Revisar.
 msgid ""
 "{Kazushi}\n"
 "\"Oh no, no, no. I could never compete against you, Appo.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Y yo tampoco creo que pueda ganar sobre ti, Appo-.\""
 
 #: 00806:364
 msgid ""
 "{Appo}\n"
 "\"Please, don't mind me. I'm all about Mei-chan now. Oh yeah, Daigo, you like older women, right?\""
 msgstr ""
+"{Appo-}\n"
+"\"Yo ya cambié mi objetivo a Mei. Oye Daigo, pensaba que te gustaban las maduritas.\""
 
 #: 00806:369
 msgid ""
 "{Daigo}\n"
 "\"Too old.\""
 msgstr ""
+"{Daigo}\n"
+"\"Ella es demasiado mayor.\""
 
 #: 00806:374
 msgid ""
 "{Mei}\n"
 "\"All right, everybody, let's get started. Now, as you know, the principal has decided to observe our class today, so everybody needs to do their best, OK?\""
 msgstr ""
+"{Mei}\n"
+"\"Está bien. Empecemos. Como ya sabéis todos, la directora estará observando hoy, así que hacedlo lo mejor que podáis, ¿vale?\""
 
 #: 00806:378
 msgid ""
 "{Principal}\n"
 "\"There's no need to put in that much extra effort. Just treat this like any normal day, class.\""
 msgstr ""
+"{Directora}\n"
+"\"Limitaos a hacerlo como siempre.\""
 
 #: 00806:379
 msgid "She focused her attention on us."
@@ -776,6 +986,8 @@ msgid ""
 "{Boys}\n"
 "\"Yes, Ma'am!\""
 msgstr ""
+"{Chicos}\n"
+"\"¡Sí!\""
 
 #: 00806:387
 msgid ""
@@ -794,36 +1006,48 @@ msgid ""
 "{Daigo}\n"
 "\"We can use alchemy to make money?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Podemos fabricar dinero?\""
 
 #: 00806:398
 msgid ""
 "{Haruka}\n"
 "\"Not today. We're doing something different first.\""
 msgstr ""
+"{Haruka}\n"
+"\"Hoy no. Hoy hacemos algo diferente.\""
 
 #: 00806:402
 msgid ""
 "{Appo}\n"
 "\"Oh yeah?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Ah, sí?\""
 
 #: 00806:405
 msgid ""
 "{Daigo}\n"
 "\"It's the first class of the semester, Appo.\""
 msgstr ""
+"{Daigo}\n"
+"\"Es la primera clase del semestre, Appo-.\""
 
 #: 00806:410
 msgid ""
 "{Mei}\n"
 "\"Right, then, let's begin. As I'm sure you've all heard already, this class is about alchemy.\""
 msgstr ""
+"{Mei}\n"
+"\"Empecemos la clase.\""
 
 #: 00806:411
 msgid ""
 "{Mei}\n"
 "\"Since the boys haven't studied alchemy before, let me give you all a brief synopsis.\""
 msgstr ""
+"{Mei}\n"
+"\"Permitidme volver a explicar para los chicos, qué estudiaremos en esta clase.\""
 
 #: 00806:412
 msgid "So far this is no different from anything else we've studied."
@@ -831,13 +1055,15 @@ msgstr ""
 
 #: 00806:415
 msgid "Mei-sensei wrote \"Alchemy\" on the chalkboard."
-msgstr ""
+msgstr "Escribió Alquímia en la pizarra."
 
 #: 00806:420
 msgid ""
 "{Mei}\n"
 "\"I'm sure you've all heard of alchemy before. It's most commonly recognized as a method of turning lead into gold.\""
 msgstr ""
+"{Mei}\n"
+"\"Estoy segura de que todos habéis oído hablar de la \"Alquimia\". Empezó como un estudio para transmutar el plomo en oro.\""
 
 #: 00806:421
 msgid "The class rang out with a surprised reaction from the boys."
@@ -845,29 +1071,37 @@ msgstr ""
 
 #: 00806:422
 msgid "Of course they would. We were going to learn how to turn lead into gold."
-msgstr ""
+msgstr "Nos sonaba muy extraño."
 
 #: 00806:426
 msgid ""
 "{Mei}\n"
 "\"This is because alchemy's original aim was to transform base metals into gold. However, there are now several different branches of alchemy, and the science has become specialized.\""
 msgstr ""
+"{Mei}\n"
+"\"Pero con los años, hemos cambiado su propósito para diversos usos.\""
 
 #: 00806:432
 msgid ""
 "{Appo}\n"
 "\"Excuse me! That was too difficult for me to understand!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Disculpa!\n"
+"¡No he entendido lo que acabas de decir!\""
 
 #: 00806:433
 msgid "Appo raised his hand and spoke up. He had courage."
-msgstr ""
+msgstr "Appo- se levantó y habló con honestidad."
 
 #: 00806:437
 msgid ""
 "{Andou}\n"
 "\"What is he doing? Exposing his stupidity?\""
 msgstr ""
+"{Rei}\n"
+"\"¿Qué está haciendo?\n"
+"Es estúpido.\""
 
 #: 00806:438
 msgid ""
@@ -880,28 +1114,37 @@ msgid "The girls looked at him in shock, but Appo didn't care. Mei-sensei was th
 msgstr ""
 
 #: 00806:443
+# Revisar.
 msgid ""
 "{Mei}\n"
 "\"Alright. In other words, rather than remaining a technology exclusively for turning lead into gold, alchemy has become a science adapted for many other purposes.\""
 msgstr ""
+"{Mei}\n"
+"\"Está bien... En otras palabras, tratamos de usar la misma fórmula para no únicamente convertir el plomo en oro, sino para otros diversos usos.\""
 
 #: 00806:447
 msgid ""
 "{Pierre}\n"
 "\"Like what?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Como qué?\""
 
 #: 00806:449
 msgid ""
 "{Mei}\n"
 "\"The alchemy we study at this school is a technology used for improving our daily lives. We have adapted it for various fields, and even use it to create manufactured goods.\""
 msgstr ""
+"{Mei}\n"
+"\"En nuestra escuela, tratamos de usar la Alquimia para mejorar nuestra vida diaria.\""
 
 #: 00806:454
 msgid ""
 "{Daigo}\n"
 "\"Manufactured goods? You sell things?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Mejorar la vida diaria?\""
 
 #: 00806:458
 msgid ""
@@ -909,22 +1152,29 @@ msgid ""
 "\"Have you seen the produce stands across the island?\n"
 "All of the fruits and vegetables for sale are the product of our alchemy.\""
 msgstr ""
+"{Mei}\n"
+"\"¿Habéis echado un vistazo a alguna tienda de la isla?\n"
+"Toda esa verdura es producto de nuestra Alquimia.\""
 
 #: 00806:461
 msgid ""
 "{Mei}\n"
 "\"That's why the vegetables are able to be so big while retaining their natural flavour.\""
 msgstr ""
+"{Mei}\n"
+"\"Por eso nuestras verduras son grandes y frescas.\""
 
 #: 00806:465
 msgid ""
 "{Daigo}\n"
 "\"Oh yeah, I remember.\""
 msgstr ""
+"{Daigo}\n"
+"\"Ah sí, lo recuerdo.\""
 
 #: 00806:466
 msgid "I remembered the grocer's we saw that day too. There were onions as big as my head. I didn't know those were made with alchemy."
-msgstr ""
+msgstr "Recuerdo las cebollas que eran tan grandes como mi cabeza."
 
 #: 00806:470
 msgid ""
@@ -934,23 +1184,27 @@ msgstr ""
 
 #: 00806:472
 msgid "Mei-sensei took out a flask with some strange liquid and an ordinary tomato-not one of the huge tomato's at the grocers."
-msgstr ""
+msgstr "Sacó un frasco y un tomate normal y corriente."
 
 #: 00806:473
 msgid ""
 "{Mei}\n"
 "\"This solution is like... yes, like a medicine that we alchemically refined to alter the properties of a substance. When you pour it on this tomato...\""
 msgstr ""
+"{Mei}\n"
+"\"Si vertís este líquido sobre este tomate...\""
 
 #: 00806:474
 msgid "She tipped the flask and the liquid dripped out onto the tomato."
-msgstr ""
+msgstr "Hace exáctamente lo que dice."
 
 #: 00806:482
 msgid ""
 "{Appo}\n"
 "\"Hhhh?!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Dios mío!\""
 
 #: 00806:483
 msgid "There was a flash of light like a tiny explosion. Appo's voice cracked as he screamed and the girls gave him mocking looks."
@@ -961,40 +1215,55 @@ msgid ""
 "{Fuusen}\n"
 "\"Wow, how pathetic. He doesn't have any balls. I bet he doesn't have a dick either.\""
 msgstr ""
+"{Hu-sen}\n"
+"\"Menudo cobarde.\n"
+"Me pregunto si tendrá pene.\""
 
 #: 00806:492
 msgid ""
 "{Andou}\n"
 "\"Probably a tiny one.\""
 msgstr ""
+"{Rei}\n"
+"\"Probablemente uno muy pequeño.\""
 
 #: 00806:493
 msgid ""
 "{Fuusen}\n"
 "\"A true drill dick.\""
 msgstr ""
+"{Hu-sen}\n"
+"\"Puedo imaginármelo.\""
 
 #: 00806:498
 msgid ""
 "{Appo}\n"
 "\"Bah! Y-you're wrong! You want me to prove it to you?!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Tengo uno bien hermoso!\n"
+"¡¡¿Queréis verlo?!!\""
 
 #: 00806:499
 msgid "Appo started taking off his clothes."
-msgstr ""
+msgstr "Appo- empieza a bajarse los pantalones."
 
 #: 00806:503
 msgid ""
 "{Mizuki}\n"
 "\"Kyah! Stop it!!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿¡Que estás haciendo!?\n"
+"¡¡Para!!\""
 
 #: 00806:507
 msgid ""
 "{Appo}\n"
 "\"I need to defend the honour of my manhood!!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¡He de demostrar mi virilidad!!\""
 
 #: 00806:512
 msgid ""
@@ -1002,42 +1271,58 @@ msgid ""
 "\"Dude, it's hanging out in the open!\n"
 "Everyone can see it!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Oye, que está fuera!\n"
+"¡Te la podemos ver!\""
 
 #: 00806:519
 msgid ""
 "{Haruka}\n"
 "\"Kyah!\""
 msgstr ""
+"{Haruka}\n"
+"\"¿¡No!?\""
 
 #: 00806:520
+# Graciosos o raros.
 msgid ""
 "{Ran}\n"
 "\"Ahaha, you still wear white briefs?!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Qué calzoncillos más graciosos!\""
 
 #: 00806:524
 msgid ""
 "{Fuusen}\n"
 "\"Why don't you ask Mei-chan for that liquid? You could use it as a penis enhancer.\""
 msgstr ""
+"{Hu-sen}\n"
+"\"¡Tu pene es por lo que hace falta la Alquimia!\""
 
 #: 00806:528
 msgid ""
 "{Appo}\n"
 "\"Shut up!!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¡Cállate!!\""
 
 #: 00806:532
 msgid ""
 "{Pierre}\n"
 "\"Don't cry.\""
 msgstr ""
+"{Pierre}\n"
+"\"No llores.\""
 
 #: 00806:536
 msgid ""
 "{Daigo}\n"
 "\"Getting upset just makes them seem right.\""
 msgstr ""
+"{Daigo}\n"
+"\"Te entendemos.\""
 
 #: 00806:539
 msgid ""
@@ -1045,34 +1330,46 @@ msgid ""
 "\"I hate that girl!\n"
 "Mei-sensei, can we use alchemy to change her into a pig?\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Odio a esa chica!\n"
+"¿¡La podemos convertir en un cerdo con la Alquimia!?\""
 
 #: 00806:542
 msgid ""
 "{Daigo}\n"
 "\"Just put your pants back on already.\""
 msgstr ""
+"{Daigo}\n"
+"\"Ponte los pantalones.\""
 
 #: 00806:546
 msgid ""
 "{Mizuki}\n"
 "\"Ugh, stop this. I can't believe you just did that...\""
 msgstr ""
+"{Mizuki}\n"
+"\"No puedo creer lo que acabas de hacer...\""
 
 #: 00806:547
 msgid "Hinata-san seemed to be bad with dirty jokes like this. Her face was bright red."
-msgstr ""
+msgstr "Mizuki no parece estar acostumbrada a este tipo de cosas."
 
 #: 00806:552
 msgid ""
 "{Mei}\n"
 "\"Quiet down, everyone! It's immature to make fun of a person's physical defects. You should watch over him kindly.\""
 msgstr ""
+"{Mei}\n"
+"\"¡Callaos todos!\n"
+"Es muy grosero reírse con lo que uno ha nacido, ¿vale?\""
 
 #: 00806:553
 msgid ""
 "{Mei}\n"
 "\"Getting back to the tomato...\""
 msgstr ""
+"{Mei}\n"
+"\"Y volviendo a este tomate...\""
 
 #: 00806:554
 msgid "She ended the discussion with her casually spoken cruel remark and drew our attention to the tomato. We were all surprised by what we saw."
@@ -1084,58 +1381,78 @@ msgid ""
 "\"Wow!\n"
 "Look at it!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Increíble!\n"
+"¡¡Mirad ese tomate!!\""
 
 #: 00806:557
 msgid "The tomato was huge, just like what we'd seen in the shops. With a drop of the liquid, it grew in an instant. It was almost like magic."
-msgstr ""
+msgstr "Es tan grande como los que vimos en la verdulería aquella."
 
 #: 00806:558
 msgid ""
 "{Mei}\n"
 "\"In practice, we usually apply this to the seeds. Seeds which have been improved by alchemy produce incredibly large and delicious fruits and vegetables.\""
 msgstr ""
+"{Mei}\n"
+"\"Y así es como podemos usar la Alquimia para mejorar nuestras vidas.\""
 
 #: 00806:562
 msgid ""
 "{Haruka}\n"
 "\"All the fruits and vegetables in our town are improved by alchemy. Some are even sold wholesale to top class restaurants in the city.\""
 msgstr ""
+"{Haruka}\n"
+"\"Todas las verduras y frutas son muy grandes y jugosas. Se venden muy caras fuera de la isla.\""
 
 #: 00806:563
 msgid ""
 "{Kazushi}\n"
 "\"Wow! To restaurants? That's awesome!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Eso es increíble!\""
 
 #: 00806:568
 msgid ""
 "{Ran}\n"
 "\"So that's how we can use alchemy to make money!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Así podemos sacar dinero!\""
 
 #: 00806:571
 msgid ""
 "{Haruka}\n"
 "\"I suppose that's true. Do you have ANY interests besides money?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Te interesa algo más a parte del dinero?\""
 
 #: 00806:574
 msgid ""
 "{Ran}\n"
 "\"But that's what started this whole alchemy thing in the first place, right?\""
 msgstr ""
+"{Ran}\n"
+"\"Pero así es como comenzó la Alquimia, ¿no?\""
 
 #: 00806:577
 msgid ""
 "{Haruka}\n"
 "\"But that's just scratching the surface...\""
 msgstr ""
+"{Haruka}\n"
+"\"Lo sé, pero...\""
 
 #: 00806:582
+# Revisar. ¿Medicina del amor? ¿Elixir amoroso? ¿Drogas del amor?
 msgid ""
 "{Pierre}\n"
 "\"Can we make love potions?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Y se pueden fabricar elixir del amor?\""
 
 #: 00806:583
 msgid ""
@@ -1143,72 +1460,95 @@ msgid ""
 "\"Good idea!\n"
 "...I mean shut it Pierre, there's girls around.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡Buena idea!!\n"
+"... Quiero decir... Hay chicas aquí, Pierre, ¿sabías?\""
 
 #: 00806:589
 msgid "The girls must have overheard us. They gave us looks of \"You're disgusting\"."
-msgstr ""
+msgstr "Las chicas deben habernos mirado. Nos están mirando con cara de asco."
 
 #: 00806:590
 msgid ""
 "{Andou}\n"
 "\"Men are just horrible.\""
 msgstr ""
+"{Rei}\n"
+"\"Los hombres son horribles.\""
 
 #: 00806:591
 msgid ""
 "{Ran}\n"
 "\"I'm not putting anything you guys touch into my mouth.\""
 msgstr ""
+"{Ran}\n"
+"\"No pienso comerme nada que hagáis.\""
 
 #: 00806:596
 msgid ""
 "{Appo}\n"
 "\"I wonder if alchemy can make x-ray specs.\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Y gafas que permitan ver a través de la ropa?\""
 
 #: 00806:597
 msgid ""
 "{Kazushi}\n"
 "\"Save the ideas for another time, Appo.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Guárdate las ideas, Appo-.\""
 
 #: 00806:603
 msgid ""
 "{Daigo}\n"
 "\"Sorry, girls. They're not really bad guys, you know.\""
 msgstr ""
+"{Daigo}\n"
+"\"Lo siento chicas. No son malos chicos, de verdad.\""
 
 #: 00806:604
 msgid ""
 "{Haruka}\n"
 "\"Ahaha...\""
 msgstr ""
+"{Haruka}\n"
+"*Riendo*"
 
 #: 00806:605
 msgid "Haruka and Ran were the only two laughing. All the other girls were looking at us with horror. It made my stomach ache."
-msgstr ""
+msgstr "Haruka es la única chica a la que le resulta gracioso."
 
 #: 00806:610
 msgid ""
 "{Mei}\n"
 "\"Everyone, quiet! Just so you know, this is only a technique for enhancing the substance's basic properties.\""
 msgstr ""
+"{Mei}\n"
+"\"¡Callaos!\n"
+"Ahora voy a explicar cómo no funciona.\""
 
 #: 00806:612
+# Revisar.
 msgid ""
 "{Mei}\n"
 "\"Everything in nature has its own properties, and if you try to change something in a way that doesn't suit the object or its properties, then your refinement will fail, so pay close attention.\""
 msgstr ""
+"{Mei}\n"
+"\"Cada sustancia tiene sus características y, si tratáis de cambiar algo en contra de eso, no funcionará.\""
 
 #: 00806:614
 msgid ""
 "{Mei}\n"
 "\"If you try to force a transformation the results can literally be explosive. You have to be careful, OK?\""
 msgstr ""
+"{Mei}\n"
+"\"Si tratáis de forzarlo, en ocasiones os acabará explotando. Tenéis que ir con cuidado, ¿vale?\""
 
 #: 00806:617
 msgid "I'm sure that last part was directed at us. Mei-sensei was looking at us with concern."
-msgstr ""
+msgstr "Estoy convencido de que eso último lo ha dicho especialmente por Appo-."
 
 #: 00806:618
 msgid ""
@@ -1221,28 +1561,36 @@ msgid ""
 "{Appo}\n"
 "\"I will, OK? I promise.\""
 msgstr ""
+"{Appo-}\n"
+"\"Prometo que lo tendré.\""
 
 #: 00806:627
 msgid ""
 "{Ran}\n"
 "\"Well, it won't succeed that easily, anyways.\""
 msgstr ""
+"{Ran}\n"
+"\"No te preocupes. No va a ser tan fácil.\""
 
 #: 00806:631
 msgid ""
 "{Mizuki}\n"
 "\"You won't be doing anything drastic as beginners. At most you'll start with changing colours or something simple like that.\""
 msgstr ""
+"{Mizuki}\n"
+"\"No habrán cosas extraordinarias al empezar. Como mucho, veréis cambios de color y cosas por el estilo.\""
 
 #: 00806:632
 msgid ""
 "{Kazushi}\n"
 "\"It sounds fun, though. I wanna get started!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Pero suena divertido! Me gustaría empezar.\""
 
 #: 00806:633
 msgid "I'm getting excited about having a new challenge."
-msgstr ""
+msgstr "Me estoy emocionando por el nuevo reto."
 
 #: 00806:638
 msgid ""
@@ -1250,232 +1598,299 @@ msgid ""
 "\"You like it already?\n"
 "I'm glad.\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Ya te está empezando a gustar?\n"
+"Me alegro.\""
 
 #: 00806:639
 msgid ""
 "{Kazushi}\n"
 "\"Sure! It sounds like fun, so I want to give it a try.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Desde luego divertido suena.\n"
+"Voy a intentarlo.\""
 
 #: 00806:642
 msgid ""
 "{Haruka}\n"
 "\"You might find it complicated at the beginning, but I'm sure you'll get the hang of it. I'm sure you will, Kazushi-kun.\""
 msgstr ""
+"{Haruka}\n"
+"\"Puede que resulte complicado al principio, pero estoy segura de que se te acabará dando bien.\""
 
 #: 00806:643
 msgid ""
 "{Kazushi}\n"
 "\"You think? I still don't know anything.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eso espero yo también.\""
 
 #: 00806:645
 msgid "I couldn't wait to try something. I can't believe a mysterious thing like alchemy exists in this world."
-msgstr ""
+msgstr "Estoy impaciente por probar algo."
 
 #: 00806:646
 msgid "It's been a while since I've had to face a challenge like this."
-msgstr ""
+msgstr "Ha pasado ya bastante tiempo desde que afronté algún nuevo reto."
 
 #: 00806:647
 msgid "It reminded me of my first day at elementary school. Unfortunately, I couldn't keep up with class and soon fell behind."
-msgstr ""
+msgstr "Me recuerda a mi primer día en el colegio."
 
 #: 00806:650
 msgid ""
 "{Mei}\n"
 "\"Since this is their first day, let's perform a simple group experiment. Girls, please partner up with a boy and help him out.\""
 msgstr ""
+"{Mei}\n"
+"\"Hoy hagamos experimentos en grupo.\n"
+"Chicas, por favor, ayudad a los chicos.\""
 
 #: 00806:651
 msgid ""
 "{Kazushi}\n"
 "\"Let's do it!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Venga!\""
 
 #: 00806:653
 msgid "Every group was given their materials for the experiment. We received a flask and a gas burner, like most chemistry experiments."
-msgstr ""
+msgstr "A cada grupo le dieron un fasco y un fogón."
 
 #: 00806:654
 msgid "And a fresh-cut flower for some reason."
-msgstr ""
+msgstr "Y una flor cortada por algún motivo."
 
 #: 00806:655
 msgid ""
 "{Kazushi}\n"
 "\"What's the flower for?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Para qué es la flor cortada?\""
 
 #: 00806:656
 msgid "The color was different, but it looked like the flowers we picked the other day."
-msgstr ""
+msgstr "Se parecen a las flores que cogimos el otro día."
 
 #: 00806:659
 msgid ""
 "{Haruka}\n"
 "\"That flower is our academy's secret for successful alchemy.\""
 msgstr ""
+"{Haruka}\n"
+"\"Esa flor cortada es el secreto del éxito de la Alquimia.\""
 
 #: 00806:664
 msgid ""
 "{Pierre}\n"
 "\"The secret?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Secreto?\""
 
 #: 00806:669
 msgid ""
 "{Mei}\n"
 "\"Let me explain.\""
 msgstr ""
+"{Mei}\n"
+"\"Permitid que os lo explique.\""
 
 #: 00806:670
 msgid "Mei-sensei sounded like this was something very important."
-msgstr ""
+msgstr "Tal y como lo dijo la señorita Ibuki parecía algo muy importante."
 
 #: 00806:671
 msgid ""
 "{Mei}\n"
 "\"The fundamental methodology for alchemy is to mix two substances such as sulphur and mercury, apply heat, and give birth to a brand new substance.\""
 msgstr ""
+"{Mei}\n"
+"\"Básicamente, en la Alquimia se juntan dos sustancias diferentes para crear una nueva.\""
 
 #: 00806:672
 msgid ""
 "{Mei}\n"
 "\"At our academy, we use this flower as a catalyst for the synthesis reaction.\""
 msgstr ""
+"{Mei}\n"
+"\"Pero en nuestra escuela nos dimos cuenta de que añadiendo esa flor como tercera sustancia, hacía que mejorase drásticamente el resultado.\""
 
 #: 00806:677
 msgid ""
 "{Daigo}\n"
 "\"So it's like glue?\""
 msgstr ""
+"{Daigo}\n"
+"\"Así que sirve para mezclar las otras dos mejor.\""
 
 #: 00806:681
 msgid ""
 "{Rin}\n"
 "\"Oh, and that's how it connects to the process of cooking?\""
 msgstr ""
+"{Rin}\n"
+"\"Funciona como si fuese pegamento.\""
 
 #: 00806:685
 msgid ""
 "{Mei}\n"
 "\"That's a good example.\""
 msgstr ""
+"{Mei}\n"
+"\"Es un buen ejemplo, sí.\""
 
 #: 00806:689
 msgid ""
 "{Mei}\n"
 "\"However, we still have yet to understand why this flower acts as a catalyst to improve the reaction. All we know is that it does help.\""
 msgstr ""
+"{Mei}\n"
+"\"Pero todavía no hemos averigüado el por qué.\""
 
 #: 00806:693
 msgid ""
 "{Principal}\n"
 "\"We believe this flower's presence is what allowed alchemy to evolve on this island.\""
 msgstr ""
+"{Directora}\n"
+"\"Cremos que esta flor es la razón por la que la Alquimia ha evolucionado en esta isla.\""
 
 #: 00806:694
 msgid "The principal opened her mouth for the first time since the start of class. Her words reached my ears and snuck their way into my brain."
-msgstr ""
+msgstr "La directora abrió la boca por primera vez desde hace un buen rato."
 
 #: 00806:695
 msgid ""
 "{Principal}\n"
 "\"By using this flower to enhance the reaction, the time required for refinements is shortened, and we are able to mass produce alchemic products.\""
 msgstr ""
+"{Directora}\n"
+"\"De todas formas, usando esa flor, somos capaces de tener una producción en masa.\""
 
 #: 00806:699
 msgid ""
 "{Haruka}\n"
 "\"Those flowers are the reason we're able to churn out enough seeds for commercial agriculture. Alchemic refinement requires a massive amount of time otherwise.\""
 msgstr ""
+"{Haruka}\n"
+"\"Sin estas flores, la Alquimia requiere mucho tiempo para un efecto muy pequeño.\""
 
 #: 00806:700
 msgid ""
 "{Kazushi}\n"
 "\"I see......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo...\""
 
 #: 00806:701
 msgid "Now we understood why the flowers were so important."
-msgstr ""
+msgstr "Hemos comprendido la importancia de esa flor."
 
 #: 00806:705
 msgid ""
 "{Pierre}\n"
 "\"So if we use these flowers, then even amateurs like us are able to perform alchemy?\""
 msgstr ""
+"{Pierre}\n"
+"\"Ya veo. Esas flores hace qu sea todo mucho mas fácil para nosotros los novatos.\""
 
 #: 00806:710
 msgid ""
 "{Mei}\n"
 "\"You still need a degree of training. If you study hard, you'll soon be able to succeed.\""
 msgstr ""
+"{Mei}\n"
+"\"Pero aún así tenéis que estudiar y practicar mucho.\""
 
 #: 00806:714
 msgid ""
 "{Appo}\n"
 "\"Wow, amazing! Then hurry up and teach us something!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Por favor, enséñanos algo!\""
 
 #: 00806:718
 msgid ""
 "{Mei}\n"
 "\"Let's begin by taking on an easy refinement today. Place the ingredients you have into the flask and begin heating them.\""
 msgstr ""
+"{Mei}\n"
+"\"Empecemos con algo muy sencillo por hoy. Empezad todos a trabajar con lo que tenéis en la mesa.\""
 
 #: 00806:719
 msgid ""
 "{Kazushi}\n"
 "\"What's the end result supposed to be?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué es lo que vamos a hacer hoy?\""
 
 #: 00806:722
 msgid ""
 "{Mei}\n"
 "\"It's a surprise. You'll find out if you get it right.\""
 msgstr ""
+"{Mei}\n"
+"\"Es una sorprensa. Si lo hacéis bien, lo averiguaréis.\""
 
 #: 00806:723
 msgid ""
 "{Kazushi}\n"
 "\"All right!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Entendido!\""
 
 #: 00806:729
 msgid ""
 "{Appo}\n"
 "\"I wonder what we'll get? I wonder what we'll get? It's like a happy meal prize!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Estoy impaciente por ver el resultado!\""
 
 #: 00806:730
 msgid ""
 "{Daigo}\n"
 "\"Put these in here?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Poner estas aquí?\""
 
 #: 00806:734
 msgid ""
 "{Haruka}\n"
 "\"Yep, that's it. Mix those two chemicals in the flask.\""
 msgstr ""
+"{Haruka}\n"
+"\"Sip, mézclalos en el recipiente.\""
 
 #: 00806:738
 msgid ""
 "{Pierre}\n"
 "\"What do we do with the flower?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Y qué hacemos con la flor?\""
 
 #: 00806:739
 msgid "They said the flower was the catalyst."
-msgstr ""
+msgstr "Es la flor que funciona como pegamento."
 
 #: 00806:743
 msgid ""
 "{Mizuki}\n"
 "\"Don't add that yet. You have to put it in at just the right time.\""
 msgstr ""
+"{Mizuki}\n"
+"\"No la vamos a usar todavía. Hay que colocarla en el momento oportuno.\""
 
 #: 00806:744
 msgid ""
@@ -1501,12 +1916,16 @@ msgid ""
 "{Daigo}\n"
 "\"...that sounds scary.\""
 msgstr ""
+"{Daigo}\n"
+"\"Eso suena peliagudo.\""
 
 #: 00806:760
 msgid ""
 "{Pierre}\n"
 "\"I like playing with fire too, but I'd rather set fire to a girl's heart!\""
 msgstr ""
+"{Pierre}\n"
+"\"A mí me gusta encender la llama del corazón de una chica.\""
 
 #: 00806:764
 msgid ""
@@ -1521,6 +1940,8 @@ msgid ""
 "{Kazushi}\n"
 "\"Just hurry up and light it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Rápido, chicos.\""
 
 #: 00806:770
 msgid "They finally got the burner lit."
@@ -1531,10 +1952,12 @@ msgid ""
 "{Haruka}\n"
 "\"It needs to be just a little bit stronger. Use that knob to adjust it.\""
 msgstr ""
+"{Haruka}\n"
+"\"Un poco más fuerte.\""
 
 #: 00806:775
 msgid "The magical liquid inside the flask started boiling."
-msgstr ""
+msgstr "El líquido mágico del interior del recipiente está hirviendo."
 
 #: 00806:780
 msgid ""
@@ -1547,88 +1970,113 @@ msgid ""
 "{Haruka}\n"
 "\"Time to add the flower.\""
 msgstr ""
+"{Haruka}\n"
+"\"Introduzcamos la flor.\""
 
 #: 00806:782
 msgid "I picked up the flower and dropped it into the flask for us. It was a red flower, so the liquid turned pink."
-msgstr ""
+msgstr "Recogí la flor y la introduje en el recipiente."
 
 #: 00806:787
 msgid ""
 "{Mei}\n"
 "\"There are three stages to the refinement. Black, White, and Red, each indicated by the color of the contents.\""
 msgstr ""
+"{Mei}\n"
+"\"Veréis tres estados de cambio. Lo sabréis por el cambio de color.\""
 
 #: 00806:788
 msgid "Everyone watched their flasks as Mei-sensei gave her explanation."
-msgstr ""
+msgstr "Todos están atentos al recipiente mientras la señorita Ibuki lo explica."
 
 #: 00806:792
 msgid ""
 "{Daigo}\n"
 "\"Look!\""
 msgstr ""
+"{Daigo}\n"
+"\"Oh...\""
 
 #: 00806:793
 msgid "The liquid in the flask began to turn a shade of black. The faint pink liquid quickly became opaque."
-msgstr ""
+msgstr "El líquido rosa empieza a hacerse negro."
 
 #: 00806:797
 msgid ""
 "{Mei}\n"
 "\"Now listen up. This is when adjusting the temperature is most important. As the reaction stage progresses, you'll need to adjust the flame.\""
 msgstr ""
+"{Mei}\n"
+"\"Ahora prestad atención. Ahí es cuando tenéis que ajustar la temperatura.\""
 
 #: 00806:798
 msgid "According to her explanation, the liquid will go from black, to white, to red. We'll have to adjust the burner each time it changes."
-msgstr ""
+msgstr "Tenemos que cambiar la temperatura conforme veamos los cambios de color."
 
 #: 00806:800
 msgid ""
 "{Mei}\n"
 "\"Even if you think you're done once you've combined the proper ingredients, you'll produce a completely different result if the refinement process stops anywhere along this period.\""
 msgstr ""
+"{Mei}\n"
+"\"Un pequeño error puede alterar por completo el resultado, ¡así que prestad todos atención!\""
 
 #: 00806:802
 msgid ""
 "{Mei}\n"
 "\"For every combination whose refinement we know, there are many combinations we don't. A change in the process can also cause something entirely new to be refined.\""
 msgstr ""
+"{Mei}\n"
+"\"Cada vez que hacemos un experimento, existe la posibilidad de hacer un descubrimiento nuevo.\""
 
 #: 00806:808
 msgid ""
 "{Pierre}\n"
 "\"That's cool. I wonder if we can make anything valuable?\""
 msgstr ""
+"{Pierre}\n"
+"\"Qué emocionante.\n"
+"Hasta podríamos acabar descubriendo algo nuevo.\""
 
 #: 00806:809
 msgid ""
 "{Ran}\n"
 "\"I keep my eyes on the pharmaceutical industry too. If we get lucky, we could develop a cure for cancer and make a killing!\""
 msgstr ""
+"{Ran}\n"
+"\"¿Y si descubrimos la cura para el cancer? ¡Nos haríamos ricos!\""
 
 #: 00806:813
 msgid ""
 "{Mizuki}\n"
 "\"There she goes about money again.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Ya estamos otra vez con el dinero.\""
 
 #: 00806:817
 msgid ""
 "{Appo}\n"
 "\"Let her, let her. It's her dream.\""
 msgstr ""
+"{Appo-}\n"
+"\"Es su sueño.\""
 
 #: 00806:821
 msgid ""
 "{Daigo}\n"
 "\"But Mei-sensei already knows what we're going to make, right? So long as we use the ingredients they gave us and follow their directions.\""
 msgstr ""
+"{Daigo}\n"
+"\"Pero la señorita Ibuki ya sabe lo que estamos haciendo, ¿n?\""
 
 #: 00806:822
 msgid ""
 "{Kazushi}\n"
 "\"Well, this is our first time. She had to make it easy.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Bueno, esta es nuestra primera vez, tiene que ponérnoslo fácil.\""
 
 #: 00806:825
 msgid ""
@@ -1636,46 +2084,63 @@ msgid ""
 "\"Well that's no fun.\n"
 "Why don't we try adding something extra?\""
 msgstr ""
+"{Appo-}\n"
+"\"Eso no es divertido.\n"
+"¿Por qué no le ponemos algún extra?\""
 
 #: 00806:828
 msgid "Appo started whispering to us."
-msgstr ""
+msgstr "Nos susurra Appo-."
 
 #: 00806:829
 msgid ""
 "{Daigo}\n"
 "\"We shouldn't mess around today.\""
 msgstr ""
+"{Daigo}\n"
+"\"No deberíamos liarla hoy.\""
 
 #: 00806:833
 msgid ""
 "{Pierre}\n"
 "\"Idiot, men are adventurers! If you stick to well worn path, you'll never be a good man.\""
 msgstr ""
+"{Pierre}\n"
+"\"\"Los chicos son ambiciosos\" ¿no?\n"
+"Venga chicos, ¡hagámoslo!\""
 
 #: 00806:834
 msgid ""
 "{Appo}\n"
 "\"In other words, you'll never be popular.\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Seamos hombres!\""
 
 #: 00806:838
 msgid ""
 "{Daigo}\n"
 "\"Th-that wouldn't be good. I want to lose my virginity by the end of this year!\""
 msgstr ""
+"{Daigo}\n"
+"\"Sí. Tengo que ser un hombre. Me gustaría acabar con mi virginidad antes de que acabe el año.\""
 
 #: 00806:839
 msgid ""
 "{Kazushi}\n"
 "\"...me too. What do we do?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Y yo.\""
 
 #: 00806:843
 msgid ""
 "{Pierre}\n"
 "\"The answer is simple. We simply derail our train. We become outlaws!\""
 msgstr ""
+"{Pierre}\n"
+"\"Eso es fácil.\n"
+"Limitemonos a no escuchar lo que dicen.\""
 
 #: 00806:844
 msgid ""
@@ -1688,6 +2153,8 @@ msgid ""
 "{Kazushi}\n"
 "\"That's so true.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Una verdad como un templo.\""
 
 #: 00806:849
 msgid ""
@@ -1700,18 +2167,24 @@ msgid ""
 "{Pierre}\n"
 "\"I think you're about to stray onto a path you shouldn't.\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Esos son mis chicos!\""
 
 #: 00806:854
 msgid ""
 "{Kazushi}\n"
 "\"So what do we do? Add something crazy to the mix?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué deberíamos mezclar?\""
 
 #: 00806:855
 msgid ""
 "{Appo}\n"
 "\"What do we have?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Qué es lo que tenemos?\""
 
 #: 00806:858
 msgid "We looked around, but all we had were pens, pencils, paper, etc. It'd be hard to mix those in."
@@ -1722,62 +2195,81 @@ msgid ""
 "{Ran}\n"
 "\"Why are you guys whispering to each other?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Por qué estáis susurrando cosas entre vosotros?\""
 
 #: 00806:862
 msgid ""
 "{Kazushi}\n"
 "\"No reason...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Nada...\""
 
 #: 00806:867
 msgid ""
 "{Mizuki}\n"
 "\"Are you guys starting trouble again?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Ya estáis otra vez buscandoos problemas?\""
 
 #: 00806:871
 msgid ""
 "{Pierre}\n"
 "\"Of course not. We are good boys.\""
 msgstr ""
+"{Pierre}\n"
+"\"Claro que no.\n"
+"Somos unos buenos chicos.\""
 
 #: 00806:876
 msgid ""
 "{Haruka}\n"
 "\"Hey, it's changing colour again. We need to adjust the heat.\""
 msgstr ""
+"{Haruka}\n"
+"\"Ey, está volviendo a cambiar de color. Tenemos que reajustar la temperatura.\""
 
 #: 00806:877
 msgid ""
 "{Kazushi}\n"
 "\"I got it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Entendido.\""
 
 #: 00806:878
 msgid "Now the solution's turning white."
-msgstr ""
+msgstr "Ahora el líquido se está volviendo blanco."
 
 #: 00806:883
 msgid ""
 "{Pierre}\n"
 "(Pretend you're adjusting the flame and throw something in.)"
 msgstr ""
+"{Pierre}\n"
+"(Finje estar ajustando la temperatura y aprovecha para tirar algo.)"
 
 #: 00806:884
 msgid ""
 "{Kazushi}\n"
 "(Got it.)"
 msgstr ""
+"{Kazushi}\n"
+"(Lo sé.)"
 
 #: 00806:885
 msgid "But what should I add?"
-msgstr ""
+msgstr "Pero, ¿qué debería tirar dentro?"
 
 #: 00806:889
 msgid ""
 "{Haruka}\n"
 "\"Okay, now!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Ahora!\""
 
 #: 00806:890
 msgid ""
@@ -1785,136 +2277,177 @@ msgid ""
 "\"What? Oh yeah!\n"
 "Got it!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué? ¡Ah, sí!\n"
+"¡Entendido!\""
 
 #: 00806:895
 msgid ""
 "{Appo}\n"
 "(Here, Kazushi, add this!)"
 msgstr ""
+"{Appo-}\n"
+"(Kazushi, toma, ¡tira esto!)"
 
 #: 00806:896
 msgid "Appo handed me something looks like a string."
-msgstr ""
+msgstr "Appo- me pasó algo que parecía como una especie de cuerda."
 
 #: 00806:897
 msgid ""
 "{Kazushi}\n"
 "(Thanks!)"
 msgstr ""
+"{Kazushi}\n"
+"(¡Gracias!)"
 
 #: 00806:900
 msgid "I pretended to adjust the heat and dropped it in without taking a close look at it."
-msgstr ""
+msgstr "Sin examinarlo más detenidamente, lo introduje en el frasco."
 
 #: 00806:906
 msgid ""
 "{Kazushi}\n"
 "\"What the--!?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Pero qué...!?\""
 
 #: 00806:912
 msgid "*BOOM!*"
-msgstr ""
+msgstr "*Explosión*"
 
 #: 00806:921
 msgid ""
 "{Appo}\n"
 "\"Why'd it explode?!\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Qué ha pasado?\""
 
 #: 00806:922
 msgid ""
 "{Kazushi}\n"
 "\"I thought I died.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Pensaba que había muerto.\""
 
 #: 00806:924
 msgid "The blazing column leapt straight towards the ceiling and left a circular scorch mark. Luckily, it didn't spread anywhere else."
-msgstr ""
+msgstr "La explosión llegó al techo y dejó una marca negra en él."
 
 #: 00806:929
 msgid ""
 "{Ran}\n"
 "\"Wow! Alchemy is scary.\""
 msgstr ""
+"{Ran}\n"
+"\"Guau. La Alquimia es espeluznante.\""
 
 #: 00806:930
 msgid ""
 "{Mizuki}\n"
 "\"I've never seen that before. What did you guys do!?\""
 msgstr ""
+"{Mizuki}\n"
+"\"Nunca había visto algo así, ¿qué habéis hecho?\""
 
 #: 00806:931
 msgid "I'm nearly 100% positive that what we added did it."
-msgstr ""
+msgstr "Desde luego tiene que haber sido lo que hemos puesto."
 
 #: 00806:932
 msgid ""
 "{Kazushi}\n"
 "\"What did you give me?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué es lo que me has pasado?\""
 
 #: 00806:936
+# Hay that me lol.
+# Pelo de mis cojones.
+# Pelo de mis pelotas.
+# Pelo de los huevos.
 msgid ""
 "{Appo}\n"
 "\"One of my pubic hairs.\""
 msgstr ""
+"{Appo-}\n"
+"\"Pelo de mis cojones.\""
 
 #: 00806:937
 msgid ""
 "{Mizuki}\n"
 "\"Egggh?!!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿¡Pero qué...!?\""
 
 #: 00806:940
 msgid "The other girls apparently heard us and took a few more steps away."
-msgstr ""
+msgstr "Parece que las chicas han llegado a escuchar lo que he dicho."
 
 #: 00806:945
 msgid ""
 "{Mei}\n"
 "\"You guys......\""
 msgstr ""
+"{Mei}\n"
+"\"Vosotros...\""
 
 #: 00806:946
 msgid ""
 "{Ran}\n"
 "\"That's disgusting.\""
 msgstr ""
+"{Ran}\n"
+"\"Qué desagradable.\""
 
 #: 00806:947
 msgid ""
 "{Kazushi}\n"
 "\"You gave me one of your pubic hairs!? I had to touch that!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Me has colocado pelo de los cojones en las manos!?\""
 
 #: 00806:952
 msgid ""
 "{Daigo}\n"
 "\"You should sterilize your hands.\""
 msgstr ""
+"{Daigo}\n"
+"\"Deberías ir a lavártelas.\""
 
 #: 00806:953
 msgid ""
 "{Kazushi}\n"
 "\"I'm going to the infirmary...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Voy al servicio...\""
 
 #: 00806:965
 msgid ""
 "{Appo}\n"
 "\"You don't need to actually go. ......You're hurting me.\""
 msgstr ""
+"{Appo-}\n"
+"\"No tienes por qué lavarte las manos solo por haber tocado mi pelo de ahí...\""
 
 #: 00806:966
 msgid ""
 "{Kazushi}\n"
 "\"Be hurt! I can't believe you made me touch that!\""
 msgstr ""
+"{Kazushi}\n"
+"\"No puedo creer que me hayas hecho coger pelo de ahí.\""
 
 #: 00806:968
 msgid "I washed my hands until my fingerprints had melted off and the air around me reeked of disinfectant."
-msgstr ""
+msgstr "Me lavé violentamente las manos hasta que olían casi como jabón."
 
 #: 00806:971
 msgid ""
@@ -1927,18 +2460,25 @@ msgid ""
 "{Boys}\n"
 "\"Thank you!\""
 msgstr ""
+"{Chicos}\n"
+"\"¡Gracias!\""
 
 #: 00806:985
+# Por lo que se ve luego lo debieron interpretar mal.
 msgid ""
 "{Principal}\n"
 "\"This time, form pairs of one boy and one girl each.\""
 msgstr ""
+"{Directora}\n"
+"\"Esta vez, haz grupos de 2 personas, un chico y una chica.\""
 
 #: 00806:986
 msgid ""
 "{Kazushi}\n"
 "\"What?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué...?\""
 
 #: 00806:987
 msgid "I was surprised to hear the principal speak. So was Mei-sensei."
@@ -1949,24 +2489,33 @@ msgid ""
 "{Mei}\n"
 "\"You want them to pair up?\""
 msgstr ""
+"{Mei}\n"
+"\"¿Quieres ver cómo trabajan juntos las chicas y los chicos?\""
 
 #: 00806:995
+# ¿Compañera? ¿Compañeros?
 msgid ""
 "{Principal}\n"
 "\"Yes, starting with you. Haruma-kun, give it a try.\""
 msgstr ""
+"{Directora}\n"
+"\"Haruma, ¿Por qué no eliges a tu compañera?\""
 
 #: 00806:996
 msgid ""
 "{Kazushi}\n"
 "\"Me?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Yo?\""
 
 #: 00806:997
 msgid ""
 "{Principal}\n"
 "\"You're free to choose your pairs. However, compatibility is important to keep in mind. Consider the beginning of your experiment to be the act of selecting your partner.\""
 msgstr ""
+"{Principal}\n"
+"\"Elige a alguien con quien creas que tienes suficiente afinidad.\""
 
 #: 00806:998
 msgid "The principal spoke to me, but why was I chosen? Was there some reason to it?"
@@ -1977,13 +2526,17 @@ msgid ""
 "{Mei}\n"
 "\"Choose somebody, Haruma-kun.\""
 msgstr ""
+"{Mei}\n"
+"\"Elije a alguien, Haruma.\""
 
 #: 00806:1003
 msgid ""
 "{Kazushi}\n"
 "\"Yes, Ma'am.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sí.\""
 
 #: 00806:1005
 msgid "Anyways, I've been designated, so I have to do it. They said it's important to choose my partner, but who should I pick?"
-msgstr ""
+msgstr "Está bien. Veamos."

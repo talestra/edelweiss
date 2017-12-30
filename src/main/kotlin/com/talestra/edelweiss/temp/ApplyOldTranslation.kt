@@ -30,16 +30,6 @@ object ApplyOldTranslation {
             })
 
             poFile.writeString(PO.save(translatedPo).joinToString("\n"), UTF8)
-
-            //println(translatedPo.entries)
-
-            //println(acmeFile)
-            //println(poFile)
-            //break
         }
-        //val acme = ACME().parseForm2("old_texts/00106.txt")
-        //for (e in acme.entries) {
-        //    println(e)
-        //}
     }
 }

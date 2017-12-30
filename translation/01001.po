@@ -17,6 +17,9 @@ msgid ""
 "\"Noooo!\n"
 "Somebody help me!!\""
 msgstr ""
+"{Sakura}\n"
+"\"¡No...!\n"
+"¡¡Que alguien me ayude!!\""
 
 #: 01001:14
 msgid ""
@@ -39,58 +42,72 @@ msgid ""
 "After-school cleaning time.\n"
 "Fujisaki-san's the only one who's actually making an effort."
 msgstr ""
+"Hora de la limpieza de después de clases.\n"
+"Rin es la única que está haciendo bien el trabajo."
 
 #: 01001:29
 msgid ""
 "{Sakura}\n"
 "\"No! Help! Somebody help!!\""
 msgstr ""
+"{Sakura}\n"
+"\"¡¡Que alguien me ayude!!\""
 
 #: 01001:32
 msgid ""
 "{Pierre}\n"
 "\"Scream all you want, no one's coming. Now give in and become mine!\""
 msgstr ""
+"{Pierre}\n"
+"\"Nadie puede oírte. ¡Ríndete y sé mía!\""
 
 #: 01001:33
 msgid ""
 "{Sakura}\n"
 "\"Help!!\""
 msgstr ""
+"{Sakura}\n"
+"\"¡¡Ayuda...!!\""
 
 #: 01001:37
 msgid ""
 "{???}\n"
 "\"Hold it right there!!\""
 msgstr ""
+"{???}\n"
+"\"¡¡Déjala tranquila!!\""
 
 #: 01001:38
 msgid "A valiant voice responded to Sakura's scream for help."
-msgstr ""
+msgstr "Alguien respondió al grito de Sakura."
 
 #: 01001:41
 msgid ""
 "{Pierre}\n"
 "\"Who is it!?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿¡Quién es!?\""
 
 #: 01001:43
 msgid ""
 "{???}\n"
 "\"Here I come!!\""
 msgstr ""
+"{???}\n"
+"\"¡¡Allá voy!!\""
 
 #: 01001:46
 msgid "Appo came somersaulting onto the scene."
-msgstr ""
+msgstr "Era Appo-."
 
 #: 01001:48
 msgid "*roll roll roll roll*"
-msgstr ""
+msgstr "*Appo- rodando por el suelo*"
 
 #: 01001:49
 msgid "He rolled a few extra spins across the floor."
-msgstr ""
+msgstr "Está rodando por el suelo."
 
 #: 01001:53
 msgid ""
@@ -103,6 +120,8 @@ msgid ""
 "{Daigo}\n"
 "\"Keep it together.\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Estás bien?\""
 
 #: 01001:62
 msgid "Daigo helped Appo to get up."
@@ -113,44 +132,60 @@ msgid ""
 "{Kazushi}\n"
 "\"You suck, Appo.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eres penoso, Appo-.\""
 
 #: 01001:66
 msgid ""
 "{Appo}\n"
 "\"Shut up!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡A callar!\""
 
 #: 01001:70
 msgid ""
 "{Pierre}\n"
 "\"Hey, who are you!\""
 msgstr ""
+"{Pierre}\n"
+"\"¿¡Quién eres tú!?\""
 
 #: 01001:75
 msgid "Pierre and Appo squared off."
-msgstr ""
+msgstr "Pierre y Appo- se encaran."
 
 #: 01001:78
+# El hombre de la alquimia.
+# ¿El hombre alquímico? ¿Alquémico?
 msgid ""
 "{Appo}\n"
 "\"I am the defender of justice, Alchemy Man!\""
 msgstr ""
+"{Appo-}\n"
+"\"Soy...\n"
+"¡El hombre alquémico!\""
 
 #: 01001:82
 msgid "He made a fighting pose with his hands together above his head. I think he was going for the character for 'gold'."
-msgstr ""
+msgstr "En esta ocasión hasta ha puesto una pose de batalla."
 
 #: 01001:85
 msgid ""
 "{Pierre}\n"
 "\"You're the legendary Alchemy Man?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿¡Eres tú el legendario hombre alquémico!?\""
 
 #: 01001:88
 msgid ""
 "{Appo}\n"
 "\"Yes, I am! I'm here to vanquish you with my alchemy! Alchemy Charge!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Sí, soy yo!\n"
+"¡¡Y estoy aquí para salvar el mundo!!\""
 
 #: 01001:90
 msgid "Shakiiiin!"
@@ -161,6 +196,8 @@ msgid ""
 "{Appo}\n"
 "\"Gold La Esperma!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¡Rayo dorado!!\""
 
 #: 01001:96
 msgid "Kaboom!"
@@ -168,71 +205,88 @@ msgstr ""
 
 #: 01001:98
 msgid "An invisible laser shot from Appo's extended palms."
-msgstr ""
+msgstr "El rayo se supone que salía de sus manos."
 
 #: 01001:104
 msgid ""
 "{Pierre}\n"
 "\"Gaaah!!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡¡No...!!\""
 
 #: 01001:107
 msgid "Pierre died."
-msgstr ""
+msgstr "Pierre murió."
 
 #: 01001:110
 msgid ""
 "{Appo}\n"
 "\"Evil has been vanquished. You're safe now, little girl!\""
 msgstr ""
+"{Appo-}\n"
+"\"He erradicado el mal.\n"
+"Pequeña, ¡ya estás a salvo!\""
 
 #: 01001:115
 msgid ""
 "{Sakura}\n"
 "\"...Little girl?\""
 msgstr ""
+"{Sakura}\n"
+"\"¿Pequeña?\""
 
 #: 01001:116
 msgid ""
 "{Appo}\n"
 "\"Alchemy Man is a defender of little girls!!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡¡El hombre alquémico!!\""
 
 #: 01001:122
 msgid ""
 "{Rin}\n"
 "\"Please everyone, let's clean.\""
 msgstr ""
+"{Rin}\n"
+"\"Venga... Limpiad, por favor...\""
 
 #: 01001:123
 msgid "Fujisaki-san was about to cry."
-msgstr ""
+msgstr "Rin estaba ya casi llorando."
 
 #: 01001:130
 msgid ""
 "{Haruka}\n"
 "\"What are you guys doing?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Qué estáis haciendo?\""
 
 #: 01001:131
 msgid "Haruka had been watching the whole thing from the doorway, but she was too overwhelmed by our curious show to enter."
-msgstr ""
+msgstr "Haruka estaba mirando el espectáculo junto a la puerta."
 
 #: 01001:132
 msgid ""
 "{Kazushi}\n"
 "\"It's alright to come in. Evil has been vanquished.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Pasa, Haruka.\""
 
 #: 01001:133
 msgid ""
 "{Haruka}\n"
 "\"Huh? Well, thanks I guess.\""
 msgstr ""
+"{Haruka}\n"
+"\"Gracias.\""
 
 #: 01001:134
 msgid "Haruka is visiting us again."
-msgstr ""
+msgstr "Haruka ha venido a visitarnos otra vez."
 
 #: 01001:139
 msgid ""
@@ -240,28 +294,38 @@ msgid ""
 "\"Harunyan!\n"
 "Do you wanna play Alchemy Man with us?\""
 msgstr ""
+"{Sakura}\n"
+"\"¡Haruka!\n"
+"¡¿Juegas con nosotros al hombre alquémico?!\""
 
 #: 01001:142
 msgid ""
 "{Haruka}\n"
 "\"What's Alchemy Man?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Qué es eso del 'hombre alquémico'?\""
 
 #: 01001:149
 msgid ""
 "{Daigo}\n"
 "\"A hero of justice who uses alchemy to save the world! ...At least that's the setting.\""
 msgstr ""
+"{Daigo}\n"
+"\"Un héroe que usa la alquimia para salvar el mundo...\""
 
 #: 01001:152
+# Suena bien.
 msgid ""
 "{Haruka}\n"
 "\"Wow, you're using alchemy to fight evil? That sounds cool!\""
 msgstr ""
+"{Haruka}\n"
+"\"Suena guay.\""
 
 #: 01001:153
 msgid "I can't believe she's showing genuine interest in this..."
-msgstr ""
+msgstr "No puedo creer que le haya llamado la atención."
 
 #: 01001:154
 msgid ""
@@ -275,6 +339,9 @@ msgid ""
 "\"Really!?\n"
 "You guys liked it?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿¡De verdad!?\n"
+"¿Os gusta?\""
 
 #: 01001:160
 msgid ""
@@ -282,6 +349,9 @@ msgid ""
 "\"Sure.\n"
 "It's cool. Just like magic.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Claro.\n"
+"Mola. Es como la magia.\""
 
 #: 01001:161
 msgid ""
@@ -289,6 +359,9 @@ msgid ""
 "\"Well, it's not really magic.\n"
 "But I'm still glad you guys liked it.\""
 msgstr ""
+"{Haruka}\n"
+"\"Bueno. No es exáctamente como la magia,\n"
+"pero aún así me alegro de que os guste.\""
 
 #: 01001:166
 msgid ""
@@ -308,6 +381,8 @@ msgid ""
 "{Andou}\n"
 "\"A defender of justice who speaks like that? How low.\""
 msgstr ""
+"{Rei}\n"
+"\"Un héroe nunca diría algo así.\""
 
 #: 01001:175
 msgid ""
@@ -324,11 +399,11 @@ msgstr ""
 
 #: 01001:182
 msgid "Big Rei stood up to fight Alchemy Man."
-msgstr ""
+msgstr "La Gran Rei se levantó para luchar al hombre alquémico."
 
 #: 01001:183
 msgid "She's huge. I could barely stand."
-msgstr ""
+msgstr "Es enorme."
 
 #: 01001:188
 msgid ""
@@ -336,6 +411,9 @@ msgid ""
 "\"Don't fight!\n"
 "Come on, let's all join in and play Alchemy Man.\""
 msgstr ""
+"{Haruka}\n"
+"\"¡No luchéis!\n"
+"¡Juguemos todos al hombre alquémico!\""
 
 #: 01001:192
 msgid ""
@@ -343,6 +421,9 @@ msgid ""
 "\"Us too?\n"
 "No way!\""
 msgstr ""
+"{Hu-sen}\n"
+"\"¿Nosotras también?\n"
+"Ni hablar.\""
 
 #: 01001:195
 msgid ""
@@ -356,56 +437,74 @@ msgid ""
 "{Appo}\n"
 "\"What!?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿¡Qué!?\""
 
 #: 01001:206
 msgid ""
 "{Pierre}\n"
 "\"That's a bit rough.\""
 msgstr ""
+"{Pierre}\n"
+"\"No funcionaría.\""
 
 #: 01001:207
+# "The only one" que comentan en el opening.
 msgid ""
 "{Haruka}\n"
 "\"It'll be fine. Kazuko's perfect for the role. She's like a princess!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Ella es la única!\n"
+"¡Es como una princesa!\""
 
 #: 01001:211
 msgid ""
 "{Daigo}\n"
 "\"A princess......\""
 msgstr ""
+"{Daigo}\n"
+"\"Una princesa...\""
 
 #: 01001:212
 msgid ""
 "{Pierre}\n"
 "\"Are you insane?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Estás de guasa?\""
 
 #: 01001:213
 msgid "At first, I thought Haruka was making fun of Fuusen."
-msgstr ""
+msgstr "Al principio pensaba que Haruka estaba tomándole el pelo a Hu-sen."
 
 #: 01001:219
 msgid ""
 "{Ran}\n"
 "\"The fact that she can honestly say that is part of what makes Haruka amazing.\""
 msgstr ""
+"{Ran}\n"
+"\"Haruka parece decirlo en serio.\""
 
 #: 01001:220
 msgid ""
 "{Kazushi}\n"
 "\"I agree.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Pues sí.\""
 
 #: 01001:221
 msgid "Indeed, for some reason, Haruka saw Fuusen as extremely princess-like."
-msgstr ""
+msgstr "De hecho, parece que por algún motivo Haruka ve a Hu-sen como alguna especie de princesa."
 
 #: 01001:226
 msgid ""
 "{Mizuki}\n"
 "\"See? Kazuko doesn't seem to mind either.\""
 msgstr ""
+"{Mizuki}\n"
+"\"A Hu-sen parece que no le importa.\""
 
 #: 01001:231
 msgid ""
@@ -422,22 +521,30 @@ msgid ""
 "{Andou}\n"
 "\"Hey, Villain, hurry up and kidnap Kazuko-chan.\""
 msgstr ""
+"{Rei}\n"
+"\"Ey, malotes.\n"
+"Capturad a la princesa Hu-sen.\""
 
 #: 01001:238
 msgid ""
 "{Kazushi}\n"
 "\"Huh? Me, the villain?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Yo? ¿'Malote'?\""
 
 #: 01001:239
 msgid "Why do I have to kidnap Fuusen?"
-msgstr ""
+msgstr "¿Por qué me han metido en el grupo de los malos?"
 
 #: 01001:246
 msgid ""
 "{Haruka}\n"
 "\"Then I'll be a villain along with Kazushi-kun! Kazushi-kun, I'm going to kidnap Kazuko-chan!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Yo también quiero ser de las malas!\n"
+"¡Voy a secuestrar a Hu-sen!\""
 
 #: 01001:247
 msgid ""
@@ -456,18 +563,24 @@ msgid ""
 "{Haruka}\n"
 "\"Kazuko-chan, I'm coming after you!!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡¡Hu-sen, voy a atraparte!!\""
 
 #: 01001:256
 msgid ""
 "{Haruka}\n"
 "\"Ah, hey, Appo-kun, hurry, save Kazuko-chan.\""
 msgstr ""
+"{Haruka}\n"
+"\"Venga Appo-, se supone que tienes que salvar a la princesa Hu-sen.\""
 
 #: 01001:257
 msgid ""
 "{Appo}\n"
 "\"S-sure!\""
 msgstr ""
+"{Appo-}\n"
+"\"S-Sí.\""
 
 #: 01001:258
 msgid "Appo set off to reluctantly save the princess."
@@ -478,16 +591,20 @@ msgid ""
 "{Rin}\n"
 "\"Please, everyone, help clean...\""
 msgstr ""
+"{Rin}\n"
+"\"¿Y qué pasa con la limpieza de la clase?\""
 
 #: 01001:265
 msgid "We ended up not doing our afternoon cleaning."
-msgstr ""
+msgstr "Al final acabamos por no limpiar nada."
 
 #: 01001:273
 msgid ""
 "{Haruka}\n"
 "\"I had so much fun.\""
 msgstr ""
+"{Haruka}\n"
+"\"Me lo he pasado muy bien.\""
 
 #: 01001:274
 msgid "I'm escorting Haruka back to the dorm."
@@ -498,62 +615,81 @@ msgid ""
 "{Kazushi}\n"
 "\"I feel bad for Fujisaki-san.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me sabe mal por Rin.\""
 
 #: 01001:278
 msgid ""
 "{Haruka}\n"
 "\"That's true.\""
 msgstr ""
+"{Haruka}\n"
+"\"Es verdad.\""
 
 #: 01001:279
+# ¿Rei o Rin?
 msgid "Since we refused to listen no matter how often she asked, Fujisaki-san ended up doing all the cleaning by herself."
-msgstr ""
+msgstr "Rei acabó limpiando todo ella sola."
 
 #: 01001:280
 msgid ""
 "{Haruka}\n"
 "\"She should've joined us.\""
 msgstr ""
+"{Haruka}\n"
+"\"Debería haber jugado con nosotros.\""
 
 #: 01001:281
 msgid ""
 "{Kazushi}\n"
 "\"That's true.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Es cierto.\""
 
 #: 01001:284
 msgid ""
 "{Haruka}\n"
 "\"By the way, I'm truly happy that you guys liked alchemy class so much. It takes a load off my mind.\""
 msgstr ""
+"{Haruka}\n"
+"\"Por cierto. De verdad que estoy muy contenta de que os haya gustado la alquimia.\""
 
 #: 01001:285
 msgid "I could see how relieved she was."
-msgstr ""
+msgstr "Parece aliviada."
 
 #: 01001:286
 msgid ""
 "{Kazushi}\n"
 "\"I didn't know you were so worried about it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No sabía que te preocupase tanto.\""
 
 #: 01001:289
 msgid ""
 "{Haruka}\n"
 "\"Well, I had no idea what sort of thing big city boys would like. All city people play internet or match-making site, right?\""
 msgstr ""
+"{Haruka}\n"
+"\"Porque no tenía ni idea de cómo serían los chicos de la gran ciudad.\""
 
 #: 01001:290
 msgid ""
 "{Kazushi}\n"
 "\"Do you even know what those are?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Pensabas que no iba a interesarnos la alquimia?\""
 
 #: 01001:293
 msgid ""
 "{Haruka}\n"
 "\"Of course not. I was born and raised on this island. That's why I was worried you might find alchemy boring and old-fashioned.\""
 msgstr ""
+"{Haruka}\n"
+"\"Me preocupaba que a los chicos de la gran ciudad la alquimia les resultase arcaica, sosa y aburrida.\""
 
 #: 01001:294
 msgid ""
@@ -561,71 +697,90 @@ msgid ""
 "\"I see.\n"
 "But I guess you worried too much. We all liked it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo.\n"
+"Pero creo que te has preocupado demasiado. Nos ha gustado a toos.\""
 
 #: 01001:297
 msgid ""
 "{Haruka}\n"
 "\"I'm glad you all liked it. I'm glad you took an interest in it too, Kazushi-kun.\""
 msgstr ""
+"{Haruka}\n"
+"\"Y yo me alegro de que te gustase.\""
 
 #: 01001:298
 msgid ""
 "{Kazushi}\n"
 "\"Me?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿A mí?\""
 
 #: 01001:299
 msgid ""
 "I think she's starting to look at me as more than just a friend.\n"
 "...Does that mean she has feelings for me?"
-msgstr ""
+msgstr "Creo que me ve como algo más que un simple amigo... ¿Siente algo por mí?"
 
 #: 01001:300
 msgid "......Maybe I'm dreaming."
-msgstr ""
+msgstr "Quizá esté soñando..."
 
 #: 01001:303
 msgid ""
 "{Haruka}\n"
 "\"Hey, how come you didn't get to be Alchemy Man?\""
 msgstr ""
+"{Haruka}\n"
+"\"Oye, ¿y cómo es que no hiciste tú de hombre alquémico?\""
 
 #: 01001:304
 msgid ""
 "{Kazushi}\n"
 "\"I was always told to be a bad guy.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Siempre hacía de chico malo.\""
 
 #: 01001:305
 msgid "Appo and Pierre always make sure they're the lead."
-msgstr ""
+msgstr "Y Appo- y Pierre siempre hacían de buenos."
 
 #: 01001:308
+# Ay that me lol.
 msgid ""
 "{Haruka}\n"
 "\"Will you be Alchemy Man for me if I need help?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Y tú serás mi hombre alquémico cuando necesite ayuda?\""
 
 #: 01001:309
 msgid "I wonder... is she just being nice, or is she serious?"
-msgstr ""
+msgstr "Me pregunto si lo ha dicho simplemente por ser amable, o si le gusto."
 
 #: 01001:310
 msgid "Either way, it was strange how she made me feel like doing it."
-msgstr ""
+msgstr "Sea como fuere, me alegro de ahora que seamos buenos amigos."
 
 #: 01001:311
 msgid ""
 "{Kazushi}\n"
 "\"Yeah, you can count on me.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Claro.\""
 
 #: 01001:312
 msgid ""
 "{Haruka}\n"
 "\"Okay, I will.\""
 msgstr ""
+"{Haruka}\n"
+"\"Ven a rescatarme.\""
 
 #: 01001:313
+# Desearía ser/Ojalá pueda|pudiera/Me encantaría ser tu héroe.
 msgid "Alchemy Man, huh? I wonder if even I can ever be somebody's hero."
-msgstr ""
+msgstr "Me encantaría ser tu héroe."

@@ -13,13 +13,15 @@ msgstr ""
 
 #: 00736:10
 msgid "I'm not sure why I'm bothering with this. I already know what she's going to say."
-msgstr ""
+msgstr "Creo que ya me puedo imaginar lo que dirá."
 
 #: 00736:11
 msgid ""
 "{Kazushi}\n"
 "\"Can I ask you something?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Puedo preguntarte algo?\""
 
 #: 00736:14
 msgid ""
@@ -27,120 +29,155 @@ msgid ""
 "\"Me?\n"
 "Is there something you want to know about me?\""
 msgstr ""
+"{Ran}\n"
+"\"¿A mí?\n"
+"¿Quieres saber algo sobre mí?\""
 
 #: 00736:15
 msgid ""
 "{Kazushi}\n"
 "\"Huh? Well, kind of I guess?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Algo así.\""
 
 #: 00736:16
 msgid "It's a little different, though."
-msgstr ""
+msgstr "Aunque es un poco diferente."
 
 #: 00736:19
 msgid ""
 "{Ran}\n"
 "\"All right, well I guess I don't mind sharing a few of my secrets with you, Kazushi.\""
 msgstr ""
+"{Ran}\n"
+"\"Está bien. Te contaré mi secreto.\""
 
 #: 00736:20
 msgid ""
 "{Kazushi}\n"
 "\"Secrets?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Tu secreto?\""
 
 #: 00736:21
 msgid "What secrets?"
-msgstr ""
+msgstr "¿Cuál es su secreto?"
 
 #: 00736:22
 msgid "Ran's secrets? That sounded kind of naughty."
-msgstr ""
+msgstr "Lo ha dicho con un tono algo lascivo."
 
 #: 00736:23
 msgid ""
 "{Ran}\n"
 "\"So what do you want to know about me? Did you want to know that? Or maybe that other thing?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Qué es lo que quieres saber sobre mí?\n"
+"¿O es \"eso\"?\""
 
 #: 00736:24
+# Revisar secreto travieso. ¿Obsceno? ¿Lascivo?
 msgid ""
 "{Kazushi}\n"
 "\"What's \"that\"?\n"
 "What kind of naughty secret do you have?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué es \"eso\"?\n"
+"¿Qué clase de secreto lascivo tienes?\""
 
 #: 00736:27
 msgid ""
 "{Ran}\n"
 "\"What? There's nothing naughty about it.\""
 msgstr ""
+"{Ran}\n"
+"\"¿Qué? No tiene nada de lascivo.\""
 
 #: 00736:28
 msgid ""
 "{Kazushi}\n"
 "\"Oh, it's not? Sorry! I just assumed!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Ah sí?\n"
+"...¡Lo siento!\""
 
 #: 00736:31
 msgid "She wasn't upset at all. In fact, she was grinning like some corrupt judge."
-msgstr ""
+msgstr "No estaba enfadada."
 
 #: 00736:32
 msgid ""
 "{Ran}\n"
 "\"I see. Do you want to get to know my naughty side? I don't blame you - we ARE adolescents, after all.\""
 msgstr ""
+"{Ran}\n"
+"\"Ya veo. ¿Quieres saber alguna obscenidad sobre mí? No te culpo. Estamos en la pubertad.\""
 
 #: 00736:33
 msgid ""
 "{Kazushi}\n"
 "\"Thanks for understanding.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Gracias por tu compresión.\""
 
 #: 00736:34
 msgid "She's a very understanding girl. I like that part of her."
-msgstr ""
+msgstr "Es una chica muy comprensiva."
 
 #: 00736:35
 msgid ""
 "{Kazushi}\n"
 "\"Is there anything you really want?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Hay algo que te gustaría tener?\""
 
 #: 00736:38
 msgid ""
 "{Ran}\n"
 "\"Money.\""
 msgstr ""
+"{Ran}\n"
+"\"Dinero.\""
 
 #: 00736:39
 msgid "That was a quick answer."
-msgstr ""
+msgstr "Lo sabía."
 
 #: 00736:40
 msgid ""
 "{Kazushi}\n"
 "\"I thought so.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eso pensaba.\""
 
 #: 00736:41
 msgid "I knew that answer was coming. Asking her was a waste of time."
-msgstr ""
+msgstr "Era una pérdida de tiempo."
 
 #: 00736:44
 msgid ""
 "{Ran}\n"
 "\"Are you going to give me some?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Me vas a dar dinero?\""
 
 #: 00736:45
 msgid ""
 "{Kazushi}\n"
 "\"No, sorry.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento.\""
 
 #: 00736:46
 msgid "I think I should ask someone else."
-msgstr ""
+msgstr "Creo que debería preguntarle a otra persona."

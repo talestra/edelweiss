@@ -13,67 +13,84 @@ msgstr ""
 
 #: 00826:7
 msgid "Maybe I could use this opportunity to patch things up with Hinata-san."
-msgstr ""
+msgstr "Quizá sea una buena oportunidad de llevarme mejor con Mizuki."
 
 #: 00826:8
 msgid ""
 "{Kazushi}\n"
 "\"Will you be my partner, Hinata-san?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Puedes ser mi compañera, Mizuki?\""
 
 #: 00826:11
 msgid ""
 "{Mizuki}\n"
 "\"Huh? M-me?!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿¡Yo!?\""
 
 #: 00826:12
 msgid "Hinata-san seemed really surprised. I wonder if she'll refuse?"
-msgstr ""
+msgstr "Parece muy sorprendida."
 
 #: 00826:15
 msgid ""
 "{Mizuki}\n"
 "\"I guess......\""
 msgstr ""
+"{Mizuki}\n"
+"\"Supongo...\""
 
 #: 00826:16
 msgid ""
 "{Kazushi}\n"
 "\"Yes!!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡Sí!!\""
 
 #: 00826:17
+# Entiendo que se refiere a chocar el puño con la mano en plan: ¡Lo he conseguido!
 msgid "Before I knew it I started pumping my first in the air."
-msgstr ""
+msgstr "Antes de ser consciente, ya estaba chocando el puño."
 
 #: 00826:22
 msgid ""
 "{Ran}\n"
 "\"Wow, you're happy.\""
 msgstr ""
+"{Ran}\n"
+"\"Vaya, si que estás contento.\""
 
 #: 00826:23
 msgid ""
 "{Kazushi}\n"
 "\"I thought she was going to turn me down.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Pensaba que iba a rechazarme.\""
 
 #: 00826:30
 msgid ""
 "{Haruka}\n"
 "\"What made you think that?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Qué te hace pensar eso?\""
 
 #: 00826:34
 msgid ""
 "{Pierre}\n"
 "\"What did you do to her?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Qué es lo que le hiciste?\""
 
 #: 00826:35
 msgid "Everyone thinks I did something to upset her."
-msgstr ""
+msgstr "Todos se piensan que le hice algo malo."
 
 #: 00826:38
 msgid ""
@@ -81,70 +98,96 @@ msgid ""
 "\"There's nothing between us.\n"
 "We've hardly even talked before.\""
 msgstr ""
+"{Mizuki}\n"
+"\"No hay nada entre nosotros.\n"
+"Apenas hemos hablado antes.\""
 
 #: 00826:45
 msgid ""
 "{Ran}\n"
 "\"That's the thing. You guys sit next to each other everyday and you guys don't talk at all.\""
 msgstr ""
+"{Ran}\n"
+"\"Ese es el problema. Os sentáis juntos todos los días y no os habláis para nada.\""
 
 #: 00826:52
 msgid ""
 "{Appo}\n"
 "\"Kazushi, you didn't suddenly try to go after Mizuki-chan, did you?\""
 msgstr ""
+"{Appo-}\n"
+"\"Kazushi, ¿la has agredido o algo?\""
 
 #: 00826:53
 msgid ""
 "{Kazushi}\n"
 "\"Are you guys crazy?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Estáis locos?\""
 
 #: 00826:57
 msgid ""
 "{Pierre}\n"
 "\"But still, it's clear there's something between you two. Mizuki-chan pays extra attention to you.\""
 msgstr ""
+"{Pierre}\n"
+"\"Pero es obvio que Mizuki que trata de forma diferente.\""
 
 #: 00826:61
+# ¿Es? ¿Está?
 msgid ""
 "{Haruka}\n"
 "\"She is......?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Ella está...?\""
 
 #: 00826:65
 msgid ""
 "{Ran}\n"
 "\"You are, Mizuki?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Lo estás, Mizuki?\""
 
 #: 00826:68
 msgid ""
 "{Mizuki}\n"
 "\"I'm not, I'm not! Why do I have to pay any attention to Haruma-kun?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¡Claro que no!\n"
+"No hay absolutamente nada entre nosotros, ¿vale?\""
 
 #: 00826:69
+# No hace falta que me rechaces con tanta energía...
 msgid ""
 "{Kazushi}\n"
 "\"You don't have to deny it so forcefully...\""
 msgstr ""
+"{Kazushi}\n"
+"\"No hace falta que lo niegues tan enérgicamente...\""
 
 #: 00826:70
 msgid "It hurt to hear her deny it so clearly."
-msgstr ""
+msgstr "Ha sonado como si estuviese enfadada conmigo."
 
 #: 00826:76
 msgid ""
 "{Pierre}\n"
 "\"Don't be so disappointed, Kazushi.\""
 msgstr ""
+"{Pierre}\n"
+"\"No estés tan decepcionado, Kazushi.\""
 
 #: 00826:81
 msgid ""
 "{Appo}\n"
 "\"She dumped you, Kazushi. It's nothing to be that upset over, though.\""
 msgstr ""
+"{Appo-}\n"
+"\"Buen intento Kazushi, pero parece que no tiene absolutamente ningún interés por ti.\""
 
 #: 00826:82
 msgid ""
@@ -157,6 +200,8 @@ msgid ""
 "{Mizuki}\n"
 "\"I didn't say anything...\""
 msgstr ""
+"{Mizuki}\n"
+"\"Yo tampoco he dicho eso...\""
 
 #: 00826:90
 msgid ""
@@ -164,6 +209,9 @@ msgid ""
 "\"You're fine.\n"
 "It's best to just say \"no\" when you're not interested.\""
 msgstr ""
+"{Appo-}\n"
+"\"Si lo has hecho bien.\n"
+"Es mejor decir que \"no\" cuando no estás interesada.\""
 
 #: 00826:91
 msgid ""
@@ -171,6 +219,9 @@ msgid ""
 "\"Don't worry about me!\n"
 "I'm used to being rejected!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡No te preocupes por mí!\n"
+"¡Ya estoy acostumbrado a que me rechacen!\""
 
 #: 00826:97
 msgid ""
@@ -178,6 +229,9 @@ msgid ""
 "\"He's used to getting rejected......\n"
 "Poor Kazushi-kun.\""
 msgstr ""
+"{Haruka}\n"
+"\"Acostumbrado a que le rechacen...\n"
+"Pobre Kazushi.\""
 
 #: 00826:102
 msgid ""
@@ -185,6 +239,9 @@ msgid ""
 "\"Don't worry, Haruka.\n"
 "Kazushi has me.\""
 msgstr ""
+"{Ran}\n"
+"\"No te preocupes, Haruka.\n"
+"Kazushi me tiene a mí.\""
 
 #: 00826:105
 msgid ""
@@ -192,12 +249,18 @@ msgid ""
 "\"What?\n"
 "You guys are......?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Qué?\n"
+"¿Estáis...?\""
 
 #: 00826:112
 msgid ""
 "{Appo}\n"
 "\"What? You're already two-timing?!\""
 msgstr ""
+"{Appo-}\n"
+"\"¿¡Qué!?\n"
+"¿¡Desde cuando!?\""
 
 #: 00826:113
 msgid ""
@@ -205,18 +268,26 @@ msgid ""
 "\"That's not true!\n"
 "I don't know anything about what she just...\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Eso no es verdad!\n"
+"No sé que está diciendo...\""
 
 #: 00826:116
 msgid ""
 "{Ran}\n"
 "\"It's fine. A man has to be a bit of a player in order to feel like a big-shot.\""
 msgstr ""
+"{Ran}\n"
+"\"No pasa nada Kazushi.\n"
+"Puedes contarlo.\""
 
 #: 00826:120
 msgid ""
 "{Pierre}\n"
 "\"Wow, Ran-chan, how understanding! You're a good woman!\""
 msgstr ""
+"{Pierre}\n"
+"\"Vaya Ran. Vas muy directa.\""
 
 #: 00826:124
 msgid ""
@@ -230,20 +301,24 @@ msgid ""
 "{Kazushi}\n"
 "\"Calm down, you guys.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Tranquilizaos.\""
 
 #: 00826:126
 msgid "This joke is getting out of hands."
-msgstr ""
+msgstr "La broma se está desbocando."
 
 #: 00826:132
 msgid ""
 "{Mizuki}\n"
 "\"..................\""
 msgstr ""
+"{Mizuki}\n"
+"\"...\""
 
 #: 00826:133
 msgid "Hinata-san was getting upset for being left out."
-msgstr ""
+msgstr "Mizuki ha acabado mosqueada por esperar a que terminásemos de hablar."
 
 #: 00826:136
 msgid ""
@@ -251,10 +326,13 @@ msgid ""
 "\"Hey, Kazushi!\n"
 "Are we going to start working or what?\""
 msgstr ""
+"{Mizuki}\n"
+"\"Eh, Kazushi,\n"
+"¿Vamos a hacerlo o no?\""
 
 #: 00826:137
 msgid "She sounded seriously annoyed."
-msgstr ""
+msgstr "Parece realmente mosqueada."
 
 #: 00826:138
 msgid ""
@@ -262,6 +340,9 @@ msgid ""
 "\"Yes, we are!\n"
 "Please!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sí, ¡claro!\n"
+"¡Por favor!\""
 
 #: 00826:139
 msgid ""
@@ -269,16 +350,21 @@ msgid ""
 "\"Well, then, why don't we get started?\n"
 "I don't like those who dawdle and can't make up their minds.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Bueno pues, ¿qué tal si empezamos?\n"
+"No me gusta estar haciendo la tonta.\""
 
 #: 00826:140
 msgid ""
 "{Kazushi}\n"
 "\"Yes!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Sí!\""
 
 #: 00826:141
 msgid "I think I just gave her another reason to get annoyed at me."
-msgstr ""
+msgstr "Creo que acabo de darle otro motivo para estar enfadada conmigo."
 
 #: 00826:145
 msgid ""
@@ -291,84 +377,105 @@ msgid ""
 "{Kazushi}\n"
 "\"I'm sorry...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento...\""
 
 #: 00826:148
 msgid "I got scolded by the teacher. Now I need to put some effort into this and create a good result."
-msgstr ""
+msgstr "No solo Mizuki, también la señorita Ibuki está enfada."
 
 #: 00826:151
 msgid ""
 "{Principal}\n"
 "\"Hu-hu......\""
 msgstr ""
+"{Directora}\n"
+"*Sonriendo*"
 
 #: 00826:152
 msgid "The principal was the only one who was smiling. Well, I'll do my best!"
-msgstr ""
+msgstr "La directora era la única sonriendo. Está bien, ¡lo haré lo mejor que pueda!"
 
 #: 00826:156
 msgid ""
 "{Kazushi}\n"
 "\"The procedure is the same as last time, right?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Como la última vez, ¿vale?\""
 
 #: 00826:159
 msgid ""
 "{Mizuki}\n"
 "\"That's right. This in the flask, then light the burner.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Está bien.\n"
+"Pon el frasco la fuego.\""
 
 #: 00826:161
 msgid ""
 "{Kazushi}\n"
 "\"Got it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Entendido.\""
 
 #: 00826:162
 msgid ""
 "Just put the supplies in the flask and turn on the flame.\n"
 "A child can do this."
 msgstr ""
+"Ponr los materiales en el frasco y encender el fuego.\n"
+"Hasta un niño podría hacerlo."
 
 #: 00826:163
 msgid ""
 "{Mizuki}\n"
 "\"Remember, controlling the heat is the most important part, so watch it closely, OK?\""
 msgstr ""
+"{Mizuki}\n"
+"\"Y recuerda, ajustar el fuego es la parte más importante, ¿entendido?\""
 
 #: 00826:164
 msgid ""
 "{Kazushi}\n"
 "\"All right.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Entendido.\""
 
 #: 00826:165
 msgid "She was telling me what to do, but sounded rather cold and distant. I need to show her my good side too."
-msgstr ""
+msgstr "Me dice lo que tengo que hacer, aunque noto su tono algo frío."
 
 #: 00826:166
 msgid "I think the flame was set about this high..."
-msgstr ""
+msgstr "Creo que la temperatura debería llegar hasta aquí."
 
 #: 00826:169
 msgid ""
 "{Mizuki}\n"
 "\"..................\""
 msgstr ""
+"{Mizuki}\n"
+"\"...\""
 
 #: 00826:170
 msgid "I guess this is good. Hinata-san's upset, so I'm afraid to ask."
-msgstr ""
+msgstr "No dice nada. Espero que eso signifique que está bien."
 
 #: 00826:174
 msgid ""
 "{Haruka}\n"
 "\"Turn the heat up a little bit.\""
 msgstr ""
+"{Haruka}\n"
+"\"Sube un poco la temperatura.\""
 
 #: 00826:175
 msgid "Haruka helped me out from the sidelines."
-msgstr ""
+msgstr "Haruka vino a ayudarme."
 
 #: 00826:176
 msgid ""
@@ -376,10 +483,13 @@ msgid ""
 "\"A bit higher?\n"
 "Like this?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Un poco más?\n"
+"¿Así?\""
 
 #: 00826:178
 msgid "I turned the flame up a bit."
-msgstr ""
+msgstr "Subí el fuego un poco más."
 
 #: 00826:179
 msgid ""
@@ -395,13 +505,16 @@ msgstr ""
 
 #: 00826:181
 msgid "The ingredients were starting to combine and turn black."
-msgstr ""
+msgstr "Los ingredientes se están mezclando y convirtiéndose en una masa negra."
 
 #: 00826:184
 msgid ""
 "{Haruka}\n"
 "\"Yeah, looks like you're doing good. You have to adjust it as the color keeps changing. If it doesn't go smoothly, there's a high chance of failure.\""
 msgstr ""
+"{Haruka}\n"
+"\"Así es.\n"
+"Debería cambiar el color un par de veces más.\""
 
 #: 00826:185
 msgid ""
@@ -414,38 +527,48 @@ msgid ""
 "{Haruka}\n"
 "\"Thanks. I grew up learning this. Oh, turn up the heat.\""
 msgstr ""
+"{Haruka}\n"
+"\"Gracias. Crecí aprendiéndolo.\""
 
 #: 00826:189
 msgid ""
 "{Kazushi}\n"
 "\"Oh!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Ah!\""
 
 #: 00826:191
 msgid "I adjusted the heat and the color changed again. I was always bad at chemistry and found it boring, but this is kind of fun."
-msgstr ""
+msgstr "Ha vuelto a cambiar de color."
 
 #: 00826:195
 msgid ""
 "{Mizuki}\n"
 "\"..................\""
 msgstr ""
+"{Mizuki}\n"
+"\"...\""
 
 #: 00826:196
 msgid ""
 "Oops.\n"
 "I forgot that Hinata-san was my partner, not Haruka."
 msgstr ""
+"Ups.\n"
+"Me he olvidado de que mi compañera era Mizuki y no Haruka."
 
 #: 00826:197
 msgid ""
 "{Kazushi}\n"
 "\"Umm...A-are we doing okay so far?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Lo estamos haciendo bien por ahora?\""
 
 #: 00826:198
 msgid "I tried talking to her."
-msgstr ""
+msgstr "Traté de hablar con ella."
 
 #: 00826:201
 msgid ""
@@ -453,64 +576,81 @@ msgid ""
 "\"I don't know.\n"
 "Why don't you ask Haruka.\""
 msgstr ""
+"{Mizuki}\n"
+"\"No sé.\n"
+"¿Por qué no le preguntas a Haruka?\""
 
 #: 00826:203
 msgid ""
 "Ouch.\n"
 "I think she's upset. Shit."
 msgstr ""
+"Ups...\n"
+"Parece que está mosca."
 
 #: 00826:206
 msgid ""
 "{Haruka}\n"
 "\"Oh no!\""
 msgstr ""
+"{Haruka}\n"
+"\"Ohm no...\""
 
 #: 00826:207
 msgid "Haruka's eyes reflected her disappointment as she looked at the flask."
-msgstr ""
+msgstr "Haruka mira al frasco decepcionada."
 
 #: 00826:209
 msgid ""
 "{Kazushi}\n"
 "\"What......?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué...?\""
 
 #: 00826:211
 msgid "Crack..."
-msgstr ""
+msgstr "*Frasco derritiéndose*"
 
 #: 00826:214
 msgid ""
 "{Mizuki}\n"
 "\"No......\""
 msgstr ""
+"{Mizuki}\n"
+"\"No...\""
 
 #: 00826:217
 msgid "The flask began to crack, and the liquid inside started spilling out."
-msgstr ""
+msgstr "El frasco se ha roto y el líquio de dentro se ha acabado desparramando por toda la mesa."
 
 #: 00826:218
 msgid ""
 "{Kazushi}\n"
 "\"I guess this means we failed?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Hemos fallado?\""
 
 #: 00826:219
 msgid ""
 "{Mizuki}\n"
 "\"Looks like it.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Pinta tiene.\""
 
 #: 00826:220
 msgid "It was over quickly."
-msgstr ""
+msgstr "Ha terminado enseguida."
 
 #: 00826:221
 msgid ""
 "{Kazushi}\n"
 "\"Why did that happen?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Cómo ha pasado?\""
 
 #: 00826:226
 msgid ""
@@ -518,31 +658,43 @@ msgid ""
 "\"The god of alchemy is actually a goddess.\n"
 "If you make the girl you work with upset then the alchemy will fail.\""
 msgstr ""
+"{Directora}\n"
+"\"El Dios de la Alquimia es en realidad una diosa.\n"
+"Si enfadas a tu compañera, no funcionará.\""
 
 #: 00826:227
 msgid ""
 "{Kazushi}\n"
 "\"Huh? Is that so... The goddess of alchemy?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo...\""
 
 #: 00826:230
 msgid ""
 "The principal was still smiling.\n"
 "I'm not sure if she just had a jab at my failure or if she's serious about the goddess effect."
 msgstr ""
+"La directora sigue sonriendo.\n"
+"No estoy seguro si está mofando de mi fracaso o si decía en serio lo del efecto de la diosa."
 
 #: 00826:231
 msgid ""
 "{Kazushi}\n"
 "\"I failed because I made Hinata-san upset?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿El motivo del fracaso fue enfadar a Mizuki...?\""
 
 #: 00826:234
 msgid ""
 "{Mizuki}\n"
 "\"What? It's not my fault.\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Qué quieres decir?\n"
+"No es culpa mía.\""
 
 #: 00826:235
 msgid "I made her angry again. I still lack discipline."
-msgstr ""
+msgstr "Sigo enfadándola."

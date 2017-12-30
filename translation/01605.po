@@ -16,96 +16,126 @@ msgid ""
 "{Kazushi}\n"
 "\"I can't believe how lucky I am!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡No puedo creer la suerte que tengo!\""
 
 #: 01605:8
 msgid "So many things I never thought would happen are happening now, and my life is much more interesting. There's still a whole lot I don't know, too."
-msgstr ""
+msgstr "La vida es tan interesante..."
 
 #: 01605:9
 msgid ""
 "{Kazushi}\n"
 "\"Ah, hah, hah! Hooray for life!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡La vida es buena!\""
 
 #: 01605:10
 msgid ""
 "{Kazushi}\n"
 "\"Maybe I should stop laughing now.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Quizá ya debería dejar de reirme.\""
 
 #: 01605:11
 msgid "I need to resolve this situation."
-msgstr ""
+msgstr "Tengo que solucionar esta situación."
 
 #: 01605:14
 msgid ""
 "{Kazushi}\n"
 "\"......huh?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡...!!\""
 
 #: 01605:20
 msgid ""
 "{Daigo}\n"
 "\"Hey, have you seen Kazushi?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Dónde está Kazushi?\""
 
 #: 01605:25
 msgid ""
 "{Mizuki}\n"
 "\"He said he needed to use the restroom. Is he not back yet?\""
 msgstr ""
+"{Mizuki}\n"
+"\"Ha dicho que iba al servicio.\""
 
 #: 01605:32
 msgid ""
 "{Yagami}\n"
 "\"OK, everybody, take your seats and let's get started.\""
 msgstr ""
+"{Profesor Yagami}\n"
+"\"Empecemos. ¡Sentaos todos!\""
 
 #: 01605:36
 msgid ""
 "{Mizuki}\n"
 "\"Class is starting!\""
 msgstr ""
+"{Mizuki}\n"
+"\"La clase acaba de empezar.\""
 
 #: 01605:40
 msgid ""
 "{Yagami}\n"
 "\"...Hmm? Where's Kazushi?\""
 msgstr ""
+"{Profesor Yagami}\n"
+"\"¿...?\n"
+"¿Dónde está Kazushi?\""
 
 #: 01605:45
 msgid ""
 "{Ran}\n"
 "\"I think he's ditched class!\""
 msgstr ""
+"{Ran}\n"
+"\"Creo que se ha saltado la clase...\""
 
 #: 01605:48
 msgid ""
 "{Yagami}\n"
 "\"What!?\""
 msgstr ""
+"{Profesor Yagami}\n"
+"\"¿¡Qué!?\""
 
 #: 01605:52
 msgid ""
 "{Mizuki}\n"
 "\"Where'd he go?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿A dónde ha ido?\""
 
 #: 01605:59
 msgid ""
 "{Kazushi}\n"
 "\"I can't believe I got lost in my own school.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me resulta increíble que haya sido capaz de perderme en mi propia escuela.\""
 
 #: 01605:60
 msgid "I just stepped out to use the restroom, but now class has already started."
-msgstr ""
+msgstr "Acababa de salir de clase para ir al servicio."
 
 #: 01605:61
 msgid ""
 "{Kazushi}\n"
 "\"Shit!! It's Yagami-sensei's class next......\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡Joder!!\n"
+"Y la siguiente clase la da el profesor Yagami...\""
 
 #: 01605:62
 msgid "I don't know what he'll do to me if I miss it..."
@@ -116,44 +146,56 @@ msgid ""
 "{Kazushi}\n"
 "\"..................Brrr!\""
 msgstr ""
+"{Kazushi}\n"
+"\"... ¡Joder!\""
 
 #: 01605:64
 msgid "I was already starting to shiver. I need to get back ASAP!"
-msgstr ""
+msgstr "Tengo que llegar cuanto antes."
 
 #: 01605:71
 msgid ""
 "{Kazushi}\n"
 "\"I'm even more lost now.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Y ahora estoy hasta más perdido.\""
 
 #: 01605:72
 msgid "As I walked around without any direction, I found myself further away from familiar sights. I never knew this school was so huge."
-msgstr ""
+msgstr "No sabía que esta escuela fuese tan grande."
 
 #: 01605:73
 msgid ""
 "{Kazushi}\n"
 "\"Shit......I'm definitely late now.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Mierda...\n"
+"Ya llego tarde seguro.\""
 
 #: 01605:74
 msgid "At this point, I think I'm better off not going back at all. If I went back now, I'd become blood on the walls in front of everyone."
-msgstr ""
+msgstr "Llegados a este punto, creo que será mejor no volver. No sé lo que me haría el profesor Yagami delante de todos."
 
 #: 01605:75
 msgid "He'd probably make me cry. Right in front of the whole class."
-msgstr ""
+msgstr "Hará que me ponga a llorar delante de toda la clase."
 
 #: 01605:76
+# Me pelaré la clase.
+# Haré campana.
+# Me saltaré la clase.
 msgid ""
 "{Kazushi}\n"
 "\"...............Guess I'll ditch.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me saltaré la clase...\""
 
 #: 01605:77
 msgid "Now that I'm skipping, it's suddenly fun. Might as well take this chance and explore the school. If I can get lost, there must be plenty of places I don't know yet."
-msgstr ""
+msgstr "Ya que voy a escaquearme, podría aprovechar el tiempo para explorar un poco la escuela."
 
 #: 01605:78
 msgid ""
@@ -163,31 +205,35 @@ msgstr ""
 
 #: 01605:79
 msgid "I started wandering around to wherever my legs took me."
-msgstr ""
+msgstr "Empecé a vagar por la escuela."
 
 #: 01605:85
 msgid "Eventually, I reached what looked like a library."
-msgstr ""
+msgstr "Aquí parece que hay una biblioteca."
 
 #: 01605:86
 msgid ""
 "{Kazushi}\n"
 "\"This is a really nice library.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Es un buen edificio.\""
 
 #: 01605:87
 msgid "It was filled with books, but I guess that's natural for a library."
-msgstr ""
+msgstr "Sip. Y tiene un montón de libros."
 
 #: 01605:88
 msgid ""
 "{Kazushi}\n"
 "\"I wonder if they've got manga...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me pregunto si tendrán comics.\""
 
 #: 01605:89
 msgid "If not, maybe they've at least got some magazines. I'll just kill some time before heading back."
-msgstr ""
+msgstr "Si no, igual puedo encontrar al menos revistas."
 
 #: 01605:90
 msgid ""
@@ -204,28 +250,37 @@ msgid ""
 "{Kazushi}\n"
 "\"Now, where's the manga? Or better yet, porno books...\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Dónde están los comics?\n"
+"Y tampoco estaría mal un poco de porno...\""
 
 #: 01605:95
 msgid ""
 "{Mei}\n"
 "\"Is that you, Haruma-kun?\""
 msgstr ""
+"{Mei}\n"
+"\"¿Eres tú, Kazushi?\""
 
 #: 01605:96
 msgid ""
 "{Kazushi}\n"
 "\"Wow!?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Guau!?\""
 
 #: 01605:99
 msgid ""
 "{Mei}\n"
 "\"Hey!?\""
 msgstr ""
+"{Mei}\n"
+"\"¿¡Ey!?\""
 
 #: 01605:100
 msgid "My voice echoed through the empty library, surprising even me."
-msgstr ""
+msgstr "Mi voz resonó en la vacía biblioteca."
 
 #: 01605:101
 msgid "I turned around to find Mei-sensei looking tensed up as well."
@@ -236,6 +291,8 @@ msgid ""
 "{Kazushi}\n"
 "\"Mei-sensei?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Señorita Ibuki?\""
 
 #: 01605:107
 msgid ""
@@ -254,12 +311,17 @@ msgid ""
 "{Mei}\n"
 "\"Yes, I think so. Do you want to feel?\""
 msgstr ""
+"{Mei}\n"
+"\"Eso creo.\n"
+"¿Quieres tocar para comprobarlo?\""
 
 #: 01605:112
 msgid ""
 "{Kazushi}\n"
 "\"......what!?\""
 msgstr ""
+"{Kazushi}\n"
+"\"... ¿¡Qué!?\""
 
 #: 01605:115
 msgid "My eyes went straight to her chest. I could tell her breasts were big from the bulge in her clothes which moved up and down with each breath of hers."
@@ -270,92 +332,121 @@ msgid ""
 "{Kazushi}\n"
 "\"Can I really?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿De verdad que puedo tocarlo?\""
 
 #: 01605:120
 msgid ""
 "{Mei}\n"
 "\"Oh, no, you thought I was serious? I only meant it as a crass joke.\""
 msgstr ""
+"{Mei}\n"
+"\"No creerás que lo decía en serio, ¿no?\""
 
 #: 01605:121
 msgid ""
 "{Kazushi}\n"
 "\"What?! You were joking?! Y-you were toying with the pure feelings of a young man?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Así que era una broma!?\n"
+"¡Has hundido mis esperanzas!\""
 
 #: 01605:124
 msgid ""
 "{Mei}\n"
 "\"Oh, don't say such weird things. It's odder to take that seriously. I guess you don't get jokes very well.\""
 msgstr ""
+"{Mei}\n"
+"\"No te pongas tan dramático. Supongo que no debería bromear contigo.\""
 
 #: 01605:127
 msgid ""
 "{Mei}\n"
 "\"I'm so disMEIed.\""
 msgstr ""
+"{Mei}\n"
+"\"Eres muy difícil.\""
 
 #: 01605:128
 msgid ""
 "{Kazushi}\n"
 "\"..................\""
 msgstr ""
+"{Kazushi}\n"
+"\"...\""
 
 #: 01605:131
 msgid ""
 "{Mei}\n"
 "\"Oh dear. You really don't get jokes.\""
 msgstr ""
+"{Mei}\n"
+"\"Eres realmente difícil.\""
 
 #: 01605:132
 msgid "Sensei's bad pun cooled down my anger in an instant. Her Mei-jokes are fearsome..."
-msgstr ""
+msgstr "Estaba muy desilusionado. Me quedé sin habla durante un rato."
 
 #: 01605:133
 msgid ""
 "{Kazushi}\n"
 "\"Hahh, whatever.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está bien.\""
 
 #: 01605:136
 msgid ""
 "{Mei}\n"
 "\"What's with that attitude? You'll hurt my feelings...\""
 msgstr ""
+"{Mei}\n"
+"\"Venga, no seas tan ingenuo...\""
 
 #: 01605:137
 msgid ""
 "{Kazushi}\n"
 "\"By the way, what are you doing here? I was surprised when you called me.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Por cierto. ¿Qué haces aquí?\""
 
 #: 01605:140
 msgid ""
 "{Mei}\n"
 "\"That's what I want to know. I'm the bibliothecary, so it's only natural for me to be here.\""
 msgstr ""
+"{Mei}\n"
+"\"Eso era lo mismo que iba a preguntarte. Por cierto, soy la bibliotecaria.\""
 
 #: 01605:141
 msgid ""
 "{Kazushi}\n"
 "\"Bibliothecary?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Que eres qué?\""
 
 #: 01605:142
 msgid "What's a bibliothecary? I'm embarrassed to ask..."
-msgstr ""
+msgstr "¿Qué es una 'bibliotecaria'? Me da vergüenza preguntarle."
 
 #: 01605:145
 msgid ""
 "{Mei}\n"
 "\"Haruma-kun, why are you here? Aren't you supposed to be in class right now?\""
 msgstr ""
+"{Mei}\n"
+"\"¿No se supone que deberías estar en clase?\""
 
 #: 01605:146
 msgid ""
 "{Kazushi}\n"
 "\"I should be.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Debería.\""
 
 #: 01605:147
 msgid "Now that I think about it, it wasn't such good timing to see her here. I was caught ditching by a teacher."
@@ -366,198 +457,259 @@ msgid ""
 "{Mei}\n"
 "\"Could you be cutting class? I must say, I don't approve.\""
 msgstr ""
+"{Mei}\n"
+"\"¿Acaso estás saltándote la clase?\""
 
 #: 01605:151
 msgid ""
 "{Kazushi}\n"
 "\"There's not much I can say against that, but I do have a reason.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Puedo explicarlo.\""
 
 #: 01605:154
 msgid ""
 "{Mei}\n"
 "\"Then I'll listen to it.\""
 msgstr ""
+"{Mei}\n"
+"\"Adelante.\""
 
 #: 01605:155
 msgid "I told her all about how I got lost. It was pretty embarrassing for a guy my age."
-msgstr ""
+msgstr "Le conté con honestidad que me había perdido."
 
 #: 01605:156
 msgid "But I dealt with the shame and told her the truth."
-msgstr ""
+msgstr "Fue muy bochornoso."
 
 #: 01605:159
 msgid ""
 "{Mei}\n"
 "\"Oh my, you got lost? That is a problem. Tee-hee...\""
 msgstr ""
+"{Mei}\n"
+"\"¿Qué te has perdido?\n"
+"Qué divertido...\""
 
 #: 01605:160
 msgid "See? I knew she'd laugh at me. It was embarrassing, but it was better than being yelled at, and it didn't sound mean either."
-msgstr ""
+msgstr "¿Ves? Sabía que se reiría de mí."
 
 #: 01605:161
 msgid "She looked even younger than usual with her hand covering her mouth as she laughed. I didn't know she laughed like that."
-msgstr ""
+msgstr "Se rió de mí como una niñita."
 
 #: 01605:164
 msgid ""
 "{Mei}\n"
 "\"Well, I don't blame you. You're still new here.\""
 msgstr ""
+"{Mei}\n"
+"\"Bueno, no te culpo. Todavía eres nuevo.\""
 
 #: 01605:165
 msgid ""
 "{Kazushi}\n"
 "\"How could I get lost just going to and from the boys' room?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Cómo he podido perderme yendo al servicio?\""
 
 #: 01605:166
 msgid "That's what I'd like to know."
-msgstr ""
+msgstr "Eso es lo que me gustaría saber."
 
 #: 01605:169
+# Revisar.
 msgid ""
 "{Mei}\n"
 "\"You know, at this school, time and space sometimes get jumbled up. Sometimes even those who are used to it get lost.\""
 msgstr ""
+"{Mei}\n"
+"\"Verás. En esta escuela a veces el espacio y el tiempo se entremezclan.\""
 
 #: 01605:170
+# Revisar.
 msgid ""
 "{Kazushi}\n"
 "\"What? Time and space get mixed up?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué? ¿Qué el espacio y el tiempo qué?\""
 
 #: 01605:171
 msgid "I was about to sigh, when my mouth fell open. I didn't understand a word of what she was saying."
-msgstr ""
+msgstr "No entiendo una palabra de lo que me está diciendo."
 
 #: 01605:174
+# Revisar. "O con el hecho de que estudimos aquí."
 msgid ""
 "{Mei}\n"
 "\"Well, we practice alchemy here, right? I think that's the reason why strange things occasionally occur.\""
 msgstr ""
+"{Mei}\n"
+"\"Diría que tiene bastante que ver con la forma en la que estudiamos Alquimia aquí.\""
 
 #: 01605:175
 msgid ""
 "{Kazushi}\n"
 "\"I see... is that how it is?\""
 msgstr ""
+"{Kazushi}\n"
+"\"... ¿Sí?\""
 
 #: 01605:177
 msgid "That's true. There have been a lot of strange things since we got here. Grass and branches are growing all around us. A living signpost and streetlight..."
-msgstr ""
+msgstr "Tiene razón. Desde que llevo aquí, he visto muchas cosas mágicas."
 
 #: 01605:178
 msgid "We were already getting used to it, but alchemy itself is pretty strange."
-msgstr ""
+msgstr "Y pensando en cosas mágicas... La alquimia en sí, ya es bastante mágica."
 
 #: 01605:181
 msgid ""
 "{Mei}\n"
 "\"It's still not good to cut class, though. Here, let me lead you back.\""
 msgstr ""
+"{Mei}\n"
+"\"Creo que deberías volver a clase. Venga, te acompañaré.\""
 
 #: 01605:182
 msgid ""
 "{Kazushi}\n"
 "\"Please wait a minute.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Por favor, espera un momento.\""
 
 #: 01605:183
 msgid "I begged her to stop."
-msgstr ""
+msgstr "Le rogué que se esperase."
 
 #: 01605:184
 msgid ""
 "{Mei}\n"
 "\"What is it? This period has already started.\""
 msgstr ""
+"{Mei}\n"
+"\"¿Qué ocurre?\n"
+"Tu clase ya debería haber empezado.\""
 
 #: 01605:185
 msgid ""
 "{Kazushi}\n"
 "\"Can I stay here until this hour's over?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿No puedo quedarme aquí hasta que termine?\""
 
 #: 01605:188
 msgid ""
 "{Mei}\n"
 "\"You're asking me to let you off for ditching class? In case you've forgotten, I'm also a teacher, you know.\""
 msgstr ""
+"{Mei}\n"
+"\"¿Me estás pidiendo que te deje saltarte una clase?\n"
+"No sé si ya lo has olvidado, pero soy una profesora, ¿recuerdas?\""
 
 #: 01605:189
 msgid ""
 "{Kazushi}\n"
 "\"I'm sorry... It's just that this period is Yagami-sensei's class. If I went back now, well...you know.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento...\n"
+"Pero no quiero que me averguence delante de mis compañeros... Ahora toca clase con el profesor Yagami.\""
 
 #: 01605:192
 msgid ""
 "{Mei}\n"
 "\"Oh, it's Yagami-sensei's?\""
 msgstr ""
+"{Mei}\n"
+"\"Ya veo.\""
 
 #: 01605:193
 msgid "I'm glad she understood what I meant by bringing up his name. Her gentle expression became quite stern, though."
-msgstr ""
+msgstr "Me alegro de que haya entendido a lo que me refería al mencionar al profesor Yagami."
 
 #: 01605:194
 msgid ""
 "{Mei}\n"
 "\"He'd knock you about for this, wouldn't he?\""
 msgstr ""
+"{Mei}\n"
+"\"Te va a castigar físicamente, ¿no?\""
 
 #: 01605:195
 msgid ""
 "{Kazushi}\n"
 "\"I think so. Though it might only be a punch.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eso creo.\""
 
 #: 01605:196
 msgid "His punches hurt so much, though."
-msgstr ""
+msgstr "Sus puñetazos son de todo menos agradables precisamente."
 
 #: 01605:199
 msgid ""
 "{Mei}\n"
 "\"All right. You can stay here until end of this period.\""
 msgstr ""
+"{Mei}\n"
+"\"Está bien.\n"
+"Puedes quedarte aquí hasta que termine la clase.\""
 
 #: 01605:200
 msgid ""
 "{Kazushi}\n"
 "\"Really?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿De verdad?\""
 
 #: 01605:203
+# O 'que te van a agredir.'
 msgid ""
 "{Mei}\n"
 "\"I can't make you go back to the classroom knowing that you'll get physically punished.\""
 msgstr ""
+"{Mei}\n"
+"\"Sería incapaz de hacerte volver a clase sabiendo que te van a castigar físicamente.\""
 
 #: 01605:204
 msgid "Sensei clenched her fist and glared off into space. She really must not get along with Yagami-sensei's ideas."
-msgstr ""
+msgstr "Sé que está en contra de cómo nos educa el señor Yagami."
 
 #: 01605:205
+# ¿Se refiere al profesor Yagami en sí o a los castigos físicos?
 msgid ""
 "{Kazushi}\n"
 "\"It's not as barbarous as you think, though.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No es tan bestia como piensas.\""
 
 #: 01605:208
 msgid ""
 "{Mei}\n"
 "\"But, he's going to punch you, right?\""
 msgstr ""
+"{Mei}\n"
+"\"Pero... Te iba a dar un puñetazo, ¿no?\""
 
 #: 01605:209
 msgid ""
 "{Kazushi}\n"
 "\"Yes, but...... It's not like he's going to punch me for no reason.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sí, pero...\n"
+"No es que me fuese a agredir sin ningún motivo.\""
 
 #: 01605:212
 msgid ""
@@ -567,103 +719,134 @@ msgstr ""
 
 #: 01605:213
 msgid "Mei-sensei was absolutely opposed to corporal punishment. No wonder she didn't agree with Yagami-sensei."
-msgstr ""
+msgstr "Me alegro de que no crea en el castigo físico."
 
 #: 01605:214
 msgid ""
 "{Mei}\n"
 "\"Has he always been like this? What was it like at your previous school? Didn't the other teachers say anything to him?\""
 msgstr ""
+"{Mei}\n"
+"\"¿Ha sido siempre así?\n"
+"¿Y en la anterior escuela, no le decían nada los otros profesores?\""
 
 #: 01605:215
 msgid ""
 "{Kazushi}\n"
 "\"Actually, most of the teachers at our last school were like him.\""
 msgstr ""
+"{Kazushi}\n"
+"\"La verdad es que en nuestra antigua escuela, casi todos los profesores eran como él.\""
 
 #: 01605:218
 msgid ""
 "{Mei}\n"
 "\"Are you serious?\""
 msgstr ""
+"{Mei}\n"
+"\"¿Lo dices en serio?\""
 
 #: 01605:221
 msgid "She raised her eyebrows as if it was preposterous. Sensei was still beautiful when she was angry, but..."
-msgstr ""
+msgstr "Alza las cejas como si fuese incapaz de controlar la furia..."
 
 #: 01605:222
 msgid ""
 "{Kazushi}\n"
 "\"You don't believe in corporal punishment, right?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Tú no crees en el castigo físico, ¿verdad?\""
 
 #: 01605:223
 msgid ""
 "{Mei}\n"
 "\"Of course not. The idea that you can hit someone and make them listen is just barbaric!\""
 msgstr ""
+"{Mei}\n"
+"\"Claro que no.\n"
+"Es muy primitivo.\""
 
 #: 01605:224
 msgid ""
 "{Kazushi}\n"
 "\"Maybe...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo...\""
 
 #: 01605:225
 msgid "I couldn't quite agree though, for some reason."
-msgstr ""
+msgstr "La verdad es que yo sí creo."
 
 #: 01605:228
 msgid ""
 "{Mei}\n"
 "\"It seems like you think it's right.\""
 msgstr ""
+"{Mei}\n"
+"\"Parece que tú sí crees en él.\""
 
 #: 01605:229
 msgid "Her expression softened as she looked me, and oddly enough, I felt like I could talk to her honestly."
-msgstr ""
+msgstr "Tengo la necesidad de ser honesto con ella."
 
 #: 01605:230
 msgid ""
 "{Kazushi}\n"
 "\"There's a significant difference between taking a few blows as a punishment and random violence.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Hay una diferencia fundamental entre el castigo físico y la violencia.\""
 
 #: 01605:233
 msgid ""
 "{Mei}\n"
 "\"Aren't they the same?\""
 msgstr ""
+"{Mei}\n"
+"\"¡Son lo mismo!\""
 
 #: 01605:234
 msgid ""
 "{Kazushi}\n"
 "\"We've never felt like victims. We actually feel like we're being treated fairly...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Nunca nos hemos sentido como víctimas.\n"
+"Siempre hemos tenido la sensación de tener un trato justo...\""
 
 #: 01605:235
 msgid ""
 "{Mei}\n"
 "\"By getting punched?\""
 msgstr ""
+"{Mei}\n"
+"\"¿Siendo agredidos?\""
 
 #: 01605:236
 msgid ""
 "{Kazushi}\n"
 "\"We let him punch us because we know we've done something wrong. If we didn't think we were wrong, we wouldn't just sit there quietly and let him do that.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Le dejamos que nos pegue, porque sabemos que hemos hecho algo mal...\""
 
 #: 01605:237
 msgid ""
 "{Kazushi}\n"
 "\"And at times like that, he listens to what he have to say about it. Though we're usually still in the wrong anyways...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Y siempre nos escucha cuando necesitamos hablar con él...\""
 
 #: 01605:240
 msgid ""
 "{Mei}\n"
 "\"Still......violence is a crime.\""
 msgstr ""
+"{Mei}\n"
+"\"Aún así... La violencia es un crimen.\""
 
 #: 01605:241
 msgid ""
@@ -677,46 +860,57 @@ msgid ""
 "{Mei}\n"
 "\"But......\""
 msgstr ""
+"{Mei}\n"
+"\"Pero...\""
 
 #: 01605:245
+# Parece no comprender que pueda defender la actitud del señor Yagami.
 msgid "She couldn't believe what she was hearing as I protected Yagami-sensei."
-msgstr ""
+msgstr "Parece no comprender que pueda defender al señor Yagami."
 
 #: 01605:246
 msgid "I'm glad she was listening to me seriously."
-msgstr ""
+msgstr "Me alegro de que me esté escuchando en serio."
 
 #: 01605:247
 msgid "In a way, this makes Mei-sensei and Yagami-sensei very similar."
-msgstr ""
+msgstr "En cierta medida, la señorita Ibuki y el profesor Yagami son iguales."
 
 #: 01605:250
 msgid ""
 "{Mei}\n"
 "\"I understand.\""
 msgstr ""
+"{Mei}\n"
+"\"Lo comprendo.\""
 
 #: 01605:251
 msgid "She finally opened her mouth after thinking a while, looking much more relieved."
-msgstr ""
+msgstr "Tras un rato, finalmente abrió la boca."
 
 #: 01605:252
 msgid ""
 "{Kazushi}\n"
 "\"You understand how we feel?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Comprendes lo que pensamos sobre el profesor Yagami?\""
 
 #: 01605:255
 msgid ""
 "{Mei}\n"
 "\"Sorry, I still don't.\""
 msgstr ""
+"{Mei}\n"
+"\"Lo siento, lo sigo sin entender.\""
 
 #: 01605:256
 msgid ""
 "{Kazushi}\n"
 "\"You don't?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿No?\""
 
 #: 01605:259
 msgid ""
@@ -729,84 +923,109 @@ msgid ""
 "{Kazushi}\n"
 "\"What are you talking about?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Pero qué estás diciendo?\""
 
 #: 01605:261
 msgid "Where did that come from? What does she mean, she's going to get punched by Yagami-sensei?"
-msgstr ""
+msgstr "Llegó a una conclusión muy chunga."
 
 #: 01605:264
 msgid ""
 "{Mei}\n"
 "\"As your teacher, I want to experience what you guys are going through in order to understand what it really feels like.\""
 msgstr ""
+"{Mei}\n"
+"\"Como profesora, quiero experimentar por lo que pasáis para comprender cómo se siente en realidad.\""
 
 #: 01605:265
 msgid ""
 "{Kazushi}\n"
 "\"I don't think you have to go that far...\""
 msgstr ""
+"{Kazushi}\n"
+"\"No creo que tengas que llegar tan lejos...\""
 
 #: 01605:268
 msgid ""
 "{Mei}\n"
 "\"No. This is my duty as a teacher, and also a matter of my pride. Come, let's go.\""
 msgstr ""
+"{Mei}\n"
+"\"No. Es mi misión como profesora.\""
 
 #: 01605:270
 msgid ""
 "{Kazushi}\n"
 "\"Mei-sensei......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Señorita Ibuki...\""
 
 #: 01605:279
 msgid ""
 "{Yagami}\n"
 "\"What? You want me to punch you?\""
 msgstr ""
+"{Profesor Yagami}\n"
+"\"¿Qué? ¿Que quieres que te pegue?\""
 
 #: 01605:280
 msgid ""
 "{Mei}\n"
 "\"Yes.\""
 msgstr ""
+"{Mei}\n"
+"\"Sí.\""
 
 #: 01605:281
 msgid "Come on, are you serious? Even Yagami-sensei is dumbfounded."
-msgstr ""
+msgstr "¿Va en serio?"
 
 #: 01605:284
 msgid ""
 "{Yagami}\n"
 "\"You bring our lazy Kazushi back, and now you're saying such crazy things?\""
 msgstr ""
+"{Profesor Yagami}\n"
+"\"¿Por qué demonios has dicho semejante locura?\""
 
 #: 01605:285
 msgid "Yagami-sensei was astonished by Mei-sensei's idea."
-msgstr ""
+msgstr "El profesor Yagami está estupefacto con la idea de la señorita Ibuki."
 
 #: 01605:288
 msgid ""
 "{Mei}\n"
 "\"I need to do this to understand my students. Now, please give it to me just like you do them.\""
 msgstr ""
+"{Mei}\n"
+"\"Debo hacerlo para comprender a mis estudiantes.\""
 
 #: 01605:291
+# {Profesor Yagami}\n"Oye Kazushi. ¿Por qué está actuando así?"
 msgid ""
 "{Yagami}\n"
 "\"Well, huh. Hey, Kazushi, I don't have any idea why she's acting like this. Do you know what's going on?\""
 msgstr ""
+"{Profesor Yagami}\n"
+"\"Oye Kazushi. ¿Por qué dice esas cosas?\""
 
 #: 01605:292
 msgid ""
 "{Kazushi}\n"
 "\"I have no idea......\""
 msgstr ""
+"{Kazushi}\n"
+"\"No tengo ni idea...\""
 
 #: 01605:295
 msgid ""
 "{Mei}\n"
 "\"Please go ahead.\""
 msgstr ""
+"{Mei}\n"
+"\"Por favor, adelante.\""
 
 #: 01605:296
 msgid "She looked at Yagami-sensei earnestly, and closed her eyes to let him know she was ready. He just heaved a troubled sigh."
@@ -829,6 +1048,8 @@ msgid ""
 "{Kazushi}\n"
 "(Are you really going to hit a woman?)"
 msgstr ""
+"{Kazushi}\n"
+"(¿Vas a golpear de verdad a una señorita?)"
 
 #: 01605:306
 msgid ""
@@ -838,13 +1059,15 @@ msgstr ""
 
 #: 01605:307
 msgid "He's right."
-msgstr ""
+msgstr "Tiene razón."
 
 #: 01605:312
 msgid ""
 "{Mei}\n"
 "\"Hurry up and hit me!\""
 msgstr ""
+"{Mei}\n"
+"\"¡Rápido!\""
 
 #: 01605:315
 msgid ""
@@ -857,16 +1080,20 @@ msgid ""
 "{Mei}\n"
 "\"Please.\""
 msgstr ""
+"{Mei}\n"
+"\"Por favor.\""
 
 #: 01605:321
 msgid "She replied with firm resolution, and closed her eyes."
-msgstr ""
+msgstr "Tiene una voluntad de hierro."
 
 #: 01605:326
 msgid ""
 "{Kazushi}\n"
 "(Sensei, wait!)"
 msgstr ""
+"{Kazush}\n"
+"(Profesor Yagami, ¡espera!)"
 
 #: 01605:329
 msgid ""
@@ -876,7 +1103,7 @@ msgstr ""
 
 #: 01605:334
 msgid "He whispered, raising his fist. Then he swung down at Mei-sensei."
-msgstr ""
+msgstr "Alza su puño."
 
 #: 01605:341
 msgid ""
@@ -907,6 +1134,8 @@ msgid ""
 "{Mei}\n"
 "\"That hurts......\""
 msgstr ""
+"{Mei}\n"
+"\"Auu...\""
 
 #: 01605:350
 msgid "She looked at me with tears welling up in her eyes."
@@ -917,12 +1146,17 @@ msgid ""
 "{Mei}\n"
 "\"You lied to me. It really hurts.\""
 msgstr ""
+"{Mei}\n"
+"\"Me mentiste...\n"
+"Duele.\""
 
 #: 01605:352
 msgid ""
 "{Kazushi}\n"
 "\"I didn't say it doesn't hurt. I told you to not do it.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Yo no dije que no doliese. Y te dije que no lo hicieras.\""
 
 #: 01605:353
 msgid ""
@@ -930,16 +1164,21 @@ msgid ""
 "\"This is indeed nothing more than violence.\n"
 "I can't approve of this.\""
 msgstr ""
+"{Mei}\n"
+"\"Esto es violencia.\n"
+"No puedo aprobarlo.\""
 
 #: 01605:354
 msgid "She protested the violence in our lives through her tears."
-msgstr ""
+msgstr "Protestó contra la violencia física mientras todavía estaba llorando."
 
 #: 01605:360
 msgid ""
 "{Appo}\n"
 "\"Yagami-sensei is making my Mei-chan cry!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡El señor Yagami a hecho llorar a Mei!\""
 
 #: 01605:361
 msgid ""
@@ -952,13 +1191,18 @@ msgid ""
 "{Yagami}\n"
 "\"Hey, this isn't my fault!\""
 msgstr ""
+"{Profesor Yagami}\n"
+"\"No es culpa mía.\""
 
 #: 01605:370
 msgid ""
 "{Mei}\n"
 "\"I'm strongly against this!\""
 msgstr ""
+"{Mei}\n"
+"\"¡Estoy completamente en contra de esto!\""
 
 #: 01605:371
+# <es>Tenía su morbo verla llorar y protestar al mismo tiempo.
 msgid "I felt bad to say it, but it was kind of cute seeing her cry and protest and the same time."
-msgstr ""
+msgstr "Tenía cierto morbo verla llorar y protestar al mismo tiempo."

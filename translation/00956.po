@@ -16,146 +16,180 @@ msgid ""
 "{Principal}\n"
 "\"Let me try it with you this time.\""
 msgstr ""
+"{Directora}\n"
+"\"Déjame intentarlo ahora contigo.\""
 
 #: 00956:10
 msgid "The principal sat down next to me."
-msgstr ""
+msgstr "La directora se sentó junto a mí."
 
 #: 00956:11
 msgid ""
 "{Kazushi}\n"
 "\"Try it with you?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Conmigo?\""
 
 #: 00956:14
 msgid ""
 "{Principal}\n"
 "\"Yes.\""
 msgstr ""
+"{Directora}\n"
+"\"Sí.\""
 
 #: 00956:15
 msgid "She gave me a gentle smile. She seems kind, but she makes me uncomfortable. Now I'm nervous too."
-msgstr ""
+msgstr "Pese a que esté sonriendo, me está poniendo realmente nervioso."
 
 #: 00956:18
 msgid ""
 "{Principal}\n"
 "\"Just follow the same steps as you learned before.\""
 msgstr ""
+"{Directora}\n"
+"\"Limítate a seguir los pasos que acabas de aprender.\""
 
 #: 00956:19
 msgid ""
 "{Kazushi}\n"
 "\"Yes, ma'am.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vale.\""
 
 #: 00956:21
 msgid "I went through the same steps one more time. I put the ingredients in and lit the flame."
-msgstr ""
+msgstr "Creo que podré conseguirlo."
 
 #: 00956:22
 msgid ""
 "{Kazushi}\n"
 "\"Like this?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Así?\""
 
 #: 00956:24
 msgid "The liquid inside the flask began to boil. Bubbles shook the surface of the water as if they were reflecting my tension."
-msgstr ""
+msgstr "El líquido del interior del frasco está empezando a hervir."
 
 #: 00956:25
 msgid ""
 "{Principal}\n"
 "\"You need to relax more. If you're too tense, it will be harder to fuse the ingredients.\""
 msgstr ""
+"{Directora}\n"
+"\"Tienes que relajarte.\n"
+"Si estás tenso, el resultado no podrá ser bueno.\""
 
 #: 00956:26
 msgid ""
 "{Kazushi}\n"
 "\"Yes, ma'am.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vale.\""
 
 #: 00956:27
 msgid "I took a few big breaths. Deep breaths. Deep breaths are what I needed."
-msgstr ""
+msgstr "Respiro hondo varias veces."
 
 #: 00956:28
 msgid ""
 "{Kazushi}\n"
 "\"Ahhh, uhhhn.\""
 msgstr ""
+"{Kazushi}\n"
+"*Respirando hondo*"
 
 #: 00956:31
 msgid "I smelled something pretty as I inhaled."
-msgstr ""
+msgstr "Al inhalar, olí algo muy bueno."
 
 #: 00956:32
 msgid "It was the flowers."
-msgstr ""
+msgstr "Son las flores."
 
 #: 00956:35
 msgid ""
 "{Principal}\n"
 "\"Very good. You're doing much better now.\""
 msgstr ""
+"{Directora}\n"
+"\"Muy bien.\n"
+"Ahora estás mucho mejor.\""
 
 #: 00956:36
 msgid "The principal looked into the flask and smiled. The liquid inside displayed signs of intense convection, but only gentle waves appeared on the surface."
-msgstr ""
+msgstr "La directora miró al frasco y sonrió."
 
 #: 00956:39
 msgid ""
 "{Principal}\n"
 "\"The two ingredients we used hold 'shadow' and 'light', or 'male' and 'female' properties. In alchemy we call this 'King' and 'Queen'.\""
 msgstr ""
+"{Principal}\n"
+"\"Las dos sustancias que estamos intentando mezclar se llaman \"rey\" y \"reina\".\""
 
 #: 00956:40
 msgid ""
 "{Kazushi}\n"
 "\"'King' and 'Queen'?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿\"Rey\" y \"reina\"?\""
 
 #: 00956:41
 msgid "The name comes from people? That's an interesting way to name them, but I can see where they get it from."
 msgstr ""
+"¿Los llaman \"rey\" y \"reina\"?\n"
+"La alquimia es muy romántica."
 
 #: 00956:44
 msgid ""
 "{Principal}\n"
 "\"This goes in next.\""
 msgstr ""
+"{Directora}\n"
+"\"Esto es lo siguiente.\""
 
 #: 00956:45
 msgid "It's the flowers. I made it this far last time, too."
-msgstr ""
+msgstr "La flor. Antes también había llegado a este punto."
 
 #: 00956:46
 msgid ""
 "{Kazushi}\n"
 "\"Here goes.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Allá vamos.\""
 
 #: 00956:47
 msgid "I grabbed the flower."
-msgstr ""
+msgstr "Cogí la flor."
 
 #: 00956:48
 msgid ""
 "{Kazushi}\n"
 "\"Ow...\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡...!?\""
 
 #: 00956:49
 msgid "I felt a shock, like static electricity, in my fingertips."
-msgstr ""
+msgstr "Sentí un dolor intenso en la yema de los dedos."
 
 #: 00956:50
 msgid "I nearly stopped myself, but I felt the principal's eyes on me so I put it in."
-msgstr ""
+msgstr "No quería parar el experimento, así que no se lo dije a nadie."
 
 #: 00956:51
 msgid "The solution was turning black inside the flask."
-msgstr ""
+msgstr "El interior del frasco se está volviendo negro."
 
 #: 00956:54
 msgid ""
@@ -168,6 +202,8 @@ msgid ""
 "{Kazushi}\n"
 "\"Death...\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Muriendo...?\""
 
 #: 00956:56
 msgid ""
@@ -177,7 +213,7 @@ msgstr ""
 
 #: 00956:57
 msgid "I watched the solution change color like watching a video on fast forward."
-msgstr ""
+msgstr "El líquido está cambiando de color de nuevo."
 
 #: 00956:58
 msgid ""
@@ -190,6 +226,8 @@ msgid ""
 "Its turning white, now.\n"
 "It's the perfect image of life and death."
 msgstr ""
+"Está cambiando a blanco ahora.\n"
+"Es una imagen perfecta sobre la vida y la muerte."
 
 #: 00956:60
 msgid "Born anew from the colour of a funeral."
@@ -227,11 +265,11 @@ msgstr ""
 
 #: 00956:68
 msgid "I'm impressed."
-msgstr ""
+msgstr "Estoy impresionado."
 
 #: 00956:69
 msgid "As matter of a fact, changing lead into gold is kind of romantic."
-msgstr ""
+msgstr "La verdad es que transmutar el plomo en oro es bastante romántico."
 
 #: 00956:70
 msgid ""
@@ -263,23 +301,27 @@ msgstr ""
 msgid ""
 "The principal turned off the flame.\n"
 "She stuck her fingers into the flask and picked up the golden rock."
-msgstr ""
+msgstr "La directora apagó el fuego y sacó la roca dorada del interior con la mano."
 
 #: 00956:80
 msgid ""
 "{Kazushi}\n"
 "\"Isn't it hot?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿No quema?\""
 
 #: 00956:83
 msgid ""
 "{Principal}\n"
 "\"Go ahead and touch it.\""
 msgstr ""
+"{Directora}\n"
+"\"Adelante, tócalo.\""
 
 #: 00956:84
 msgid "She held it out in the palm of her hand."
-msgstr ""
+msgstr "Me ofreció tocar la roca."
 
 #: 00956:85
 msgid ""
@@ -289,13 +331,15 @@ msgstr ""
 
 #: 00956:86
 msgid "I carefully touched it."
-msgstr ""
+msgstr "Esperaba que estuviese quemando."
 
 #: 00956:87
 msgid ""
 "{Kazushi}\n"
 "\"It's not hot at all.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No está para nada caliente.\""
 
 #: 00956:88
 msgid "Not only was it cool, but it wasn't hard as a rock, either. It was neither soft, nor hard, and held a living warmth."
@@ -306,26 +350,32 @@ msgid ""
 "{Haruka}\n"
 "\"Amazing, Kazushi-kun. It's a great success!\""
 msgstr ""
+"{Haruka}\n"
+"\"Bien hecho, Kazushi. Lo has conseguido.\""
 
 #: 00956:96
 msgid ""
 "{Kazushi}\n"
 "\"This is the result?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Este es el estado completo?\""
 
 #: 00956:97
 msgid "I didn't know what the outcome of the experiment was supposed to be."
-msgstr ""
+msgstr "No sabía cual era la última parte del experimento."
 
 #: 00956:98
 msgid ""
 "{Kazushi}\n"
 "\"By the way...what is this?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Y por cierto, ¿qué es eso?\""
 
 #: 00956:99
 msgid "It appeared to be golden, but it sure wasn't gold."
-msgstr ""
+msgstr "Está brillando, pero desde luego oro no es."
 
 #: 00956:103
 msgid ""
@@ -346,6 +396,8 @@ msgid ""
 "{Principal}\n"
 "\"This is......\""
 msgstr ""
+"{Directora}\n"
+"\"Esto es...\""
 
 #: 00956:110
 msgid ""
@@ -361,13 +413,15 @@ msgstr ""
 
 #: 00956:112
 msgid "It was like watching magic. But then that orb is..."
-msgstr ""
+msgstr "Era casi como magia..."
 
 #: 00956:113
 msgid ""
 "{Kazushi}\n"
 "\"A seed?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Una semilla?\""
 
 #: 00956:116
 msgid ""
@@ -384,7 +438,7 @@ msgstr ""
 
 #: 00956:118
 msgid "We're going to sow new seeds in the garden we ruined."
-msgstr ""
+msgstr "Podemos arreglar el cuadro floral."
 
 #: 00956:119
 msgid ""
@@ -400,19 +454,23 @@ msgstr ""
 
 #: 00956:121
 msgid "Then we can make that garden full of blooming flowers once again."
-msgstr ""
+msgstr "Podemos corregir nuestro error."
 
 #: 00956:129
 msgid ""
 "{Pierre}\n"
 "\"We're going to make a lot of seeds!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Vamos a hacer un montón de semillas!\""
 
 #: 00956:130
 msgid ""
 "{Daigo}\n"
 "\"But, can we really make them?\""
 msgstr ""
+"{Daigo}\n"
+"\"Pero, ¿de verdad que podemos hacerlas?\""
 
 #: 00956:131
 msgid ""
@@ -425,6 +483,8 @@ msgid ""
 "{Haruka}\n"
 "\"I'll help you guys.\""
 msgstr ""
+"{Haruka}\n"
+"\"Yo os ayudaré, chicos.\""
 
 #: 00956:142
 msgid ""
@@ -467,31 +527,39 @@ msgstr ""
 
 #: 00956:155
 msgid "We couldn't make hundreds of them, only about one per person in the class."
-msgstr ""
+msgstr "No pudimos hacer todas las que me hubiese gustado."
 
 #: 00956:160
 msgid ""
 "{Haruka}\n"
 "\"It'll be alright.\""
 msgstr ""
+"{Haruka}\n"
+"\"Con eso debería bastar.\""
 
 #: 00956:161
 msgid ""
 "{Kazushi}\n"
 "\"Really?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿En serio?\""
 
 #: 00956:162
 msgid ""
 "{Haruka}\n"
 "\"Those flowers don't actually have seeds. They just grow up straight out of the ground. We don't really know how they do it.\""
 msgstr ""
+"{Haruka}\n"
+"\"En realidad no son semillas.\""
 
 #: 00956:169
 msgid ""
 "{Pierre}\n"
 "\"Then what did we just sow in the ground? Weren't those seeds?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Entonces por qué las estamos plantando?\""
 
 #: 00956:170
 msgid ""
@@ -516,10 +584,12 @@ msgid ""
 "{Haruka}\n"
 "\"It's alright. I'm sure they'll bloom again.\""
 msgstr ""
+"{Haruka}\n"
+"\"Estoy convencida de que podremos ver un montón de flores muy pronto.\""
 
 #: 00956:176
 msgid "I looked over the neatly patted garden. I can't wait to see this place covered in flowers again."
-msgstr ""
+msgstr "Estoy deseando ver de nuevo este lugar repleto de flores."
 
 #: 00956:179
 msgid ""
@@ -538,7 +608,10 @@ msgid ""
 "{Haruka}\n"
 "\"I'll help you guys, too!\""
 msgstr ""
+"{Haruka}\n"
+"\"Yo también os ayudaré.\""
 
 #: 00956:182
+# Revisar.
 msgid "It's probably going to be our will more than anything else which will ultimately bring the flowers back into bloom."
-msgstr ""
+msgstr "Probablemente sea nuestro deseo y no otra cosa lo que hará que las flores florezcan al final."

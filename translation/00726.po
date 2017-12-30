@@ -13,101 +13,127 @@ msgstr ""
 
 #: 00726:10
 msgid "Hinata-san, huh? It's so hard to talk to her."
-msgstr ""
+msgstr "Es tan difícil hablar con ella."
 
 #: 00726:11
 msgid ""
 "{Kazushi}\n"
 "\"Umm, Hinata-san?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Hola, Mizuki,\""
 
 #: 00726:14
 msgid ""
 "{Mizuki}\n"
 "\"H-huh?!\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿¡...!?\""
 
 #: 00726:15
 msgid "Hinata-san's eyes spun in surprise when I talked to her. She didn't need to be THAT shocked."
-msgstr ""
+msgstr "Me pregunto por qué se sorprende tanto por el mero hecho de hablarle."
 
 #: 00726:16
 msgid ""
 "{Kazushi}\n"
 "\"Do you mind? I'd like to ask you a question?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Puedo preguntarte algo?\""
 
 #: 00726:19
 msgid ""
 "{Mizuki}\n"
 "\"What do you want?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Qué es lo que quieres...?\""
 
 #: 00726:20
 msgid "She seemed really upset at me. Oh yeah, I should apologize for calling her a lesbian."
-msgstr ""
+msgstr "Parece molesta. Quizá aún esté enfadada conmigo por llamarla lesbiana."
 
 #: 00726:21
 msgid ""
 "{Kazushi}\n"
 "\"But before I do... I'm sorry about earlier...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Siento si te he ofendido antes...\""
 
 #: 00726:24
 msgid ""
 "{Mizuki}\n"
 "\"Earlier?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Antes?\""
 
 #: 00726:25
 msgid ""
 "{Kazushi}\n"
 "\"You know, about saying you liked girls.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Cuando dije lo de que te gustaban las chicas.\""
 
 #: 00726:26
 msgid "Hinata-san scowled again."
-msgstr ""
+msgstr "Ahora está enfadada por eso."
 
 #: 00726:29
 msgid ""
 "{Mizuki}\n"
 "\"I'm not a lesbian.\""
 msgstr ""
+"{Mizuki}\n"
+"\"No soy lesbiana.\""
 
 #: 00726:30
 msgid ""
 "{Kazushi}\n"
 "\"I know. I'm really sorry.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya lo sé. Lo sé.\""
 
 #: 00726:31
 msgid ""
 "{Mizuki}\n"
 "\"So long as you understand. Now don't ever say that again.\""
 msgstr ""
+"{Mizuki}\n"
+"\"No me vuelvas a llamar así.\""
 
 #: 00726:32
 msgid ""
 "{Kazushi}\n"
 "\"Oh, of course not! Hinata-san likes boys! Good job!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Claro que no! ¡Te gustan los chicos!\""
 
 #: 00726:35
 msgid ""
 "{Mizuki}\n"
 "\"I don't think that's a good way to put it, either. Look, you don't have to celebrate it, so just leave me alone.\""
 msgstr ""
+"{Mizuki}\n"
+"\"Déjame tranquila.\""
 
 #: 00726:36
 msgid ""
 "{Kazushi}\n"
 "\"Sorry......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento...\""
 
 #: 00726:37
 msgid "Now she seemed really annoyed at me."
-msgstr ""
+msgstr "Ahora parece realmente enfadada conmigo."
 
 #: 00726:38
 msgid ""
@@ -115,6 +141,9 @@ msgid ""
 "\"Is that all you need?\n"
 "I need to go.\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Era eso lo que querías?\n"
+"Tengo que irme.\""
 
 #: 00726:39
 msgid ""
@@ -122,18 +151,25 @@ msgid ""
 "\"Wait a second!\n"
 "I haven't asked it yet. I wanted to ask you if there was anything you wanted?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Espera, espera!\n"
+"Quería preguntarte si querías algo.\""
 
 #: 00726:42
 msgid ""
 "{Mizuki}\n"
 "\"Anything I wanted? Why?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Que si quería algo? ¿Por qué?\""
 
 #: 00726:43
 msgid ""
 "{Kazushi}\n"
 "\"No particular reason.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Por nada en concreto.\""
 
 #: 00726:46
 msgid ""
@@ -141,31 +177,42 @@ msgid ""
 "\"What is it?\n"
 "Just tell me. You're making me sick.\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿El qué?\n"
+"Dímelo. Me pones enferma.\""
 
 #: 00726:47
 msgid ""
 "{Kazushi}\n"
 "\"Making you sick......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ponerte enferma...\""
 
 #: 00726:48
 msgid "I didn't know I made her sick. No wonder she always looked at me with such disgust."
-msgstr ""
+msgstr "Sabía que no le gustaba."
 
 #: 00726:49
 msgid ""
 "{Kazushi}\n"
 "\"I see......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo...\""
 
 #: 00726:52
 msgid ""
 "{Mizuki}\n"
 "\"Why are you so disappointed?\""
 msgstr ""
+"{Mizuki}\n"
+"\"¿Por qué estás tan decepcionado?\""
 
 #: 00726:53
 msgid ""
 "{Kazushi}\n"
 "\"It's nothing. Sorry to bother you.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No, nada. Siento haberte molestado.\""

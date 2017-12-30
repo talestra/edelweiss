@@ -13,73 +13,87 @@ msgstr ""
 
 #: 007a6:8
 msgid "If I was with Haruka, I bet the time would fly right by."
-msgstr ""
+msgstr "Me gustaría hablar con Haruka."
 
 #: 007a6:9
 msgid ""
 "{Kazushi}\n"
 "\"I wonder where she is?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me pregunto dónde estará...\""
 
 #: 007a6:10
 msgid "I looked around the campus, and found her talking to the principal."
-msgstr ""
+msgstr "Miré por ahí y la encontré hablando con la directora."
 
 #: 007a6:11
 msgid ""
 "{Kazushi}\n"
 "\"She's with the principal. I shouldn't bother them.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está con la directora. No debería molestarles.\""
 
 #: 007a6:12
 msgid "But then she saw me."
-msgstr ""
+msgstr "Pero me vio."
 
 #: 007a6:17
 msgid ""
 "{Haruka}\n"
 "\"Ah!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡¡...!!\""
 
 #: 007a6:18
 msgid "We made eye contact."
-msgstr ""
+msgstr "Hubo contacto visual."
 
 #: 007a6:21
 msgid ""
 "{Haruka}\n"
 "\"Hey, Kazushi-kun!\""
 msgstr ""
+"{Haruka}\n"
+"\"Anda, ¡Kazushi!\""
 
 #: 007a6:22
 msgid "She started jumping up and down and waving at me. She's always energetic."
-msgstr ""
+msgstr "Daba saltitos mientras agitaba el brazo saludándome."
 
 #: 007a6:23
 msgid "She gave me a big smile as I waved back at her."
-msgstr ""
+msgstr "Me ofreció una radiante sonrisa cuando le devolví el saludo."
 
 #: 007a6:26
 msgid ""
 "{Principal}\n"
 "\"Oh, is he your friend?\""
 msgstr ""
+"{Directora}\n"
+"\"¿Amigo tuyo?\""
 
 #: 007a6:29
 msgid ""
 "{Haruka}\n"
 "\"Yes, he is. See...\""
 msgstr ""
+"{Haruka}\n"
+"\"Él es...\""
 
 #: 007a6:32
 msgid "Haruka whispered something to the principal."
-msgstr ""
+msgstr "Haruka susurró algo a la directora."
 
 #: 007a6:33
 msgid ""
 "{Kazushi}\n"
 "\"Hi......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Hola...\""
 
 #: 007a6:36
 msgid "I knew she wasn't able to hear me, but I bowed to her anyways. The principal put on an elegant smile, said something to Haruka, and urged her towards me."
@@ -87,19 +101,23 @@ msgstr ""
 
 #: 007a6:39
 msgid "Haruka made her way through the crowd towards me."
-msgstr ""
+msgstr "Haruka andó hacia mí."
 
 #: 007a6:42
 msgid ""
 "{Haruka}\n"
 "\"Hah, I finally made it. There're so many people here!\""
 msgstr ""
+"{Haruka}\n"
+"\"Hay demasiada gente.\""
 
 #: 007a6:43
 msgid ""
 "{Kazushi}\n"
 "\"Is it OK to leave her alone?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿No pasa nada por dejarla sola?\""
 
 #: 007a6:44
 msgid ""
@@ -113,12 +131,17 @@ msgid ""
 "\"Really?\n"
 "The Principal did?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿En serio?\n"
+"¿La directora?\""
 
 #: 007a6:48
 msgid ""
 "{Haruka}\n"
 "\"I think my grandma likes you.\""
 msgstr ""
+"{Haruka}\n"
+"\"Creo que le gustas a mi abuelita.\""
 
 #: 007a6:49
 msgid ""
@@ -126,99 +149,132 @@ msgid ""
 "\"Huh? How could she?\n"
 "I've hardly ever spoken to her. She shouldn't even know me.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Sí?\n"
+"Pero si apenas he hablado con ella.\""
 
 #: 007a6:52
 msgid ""
 "{Haruka}\n"
 "\"Doesn't seem that way. Grandma sure remembers you from something.\""
 msgstr ""
+"{Haruka}\n"
+"\"¿En serio? Pues parece haberte recordado.\""
 
 #: 007a6:53
 msgid ""
 "{Kazushi}\n"
 "\"Seriously? So she's already keeping an eye on me, huh? ......Wait a minute?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿En serio? Quizá me recuerde por las cosas malas que habrá oído de mí.\n"
+"¿Un momento...?\""
 
 #: 007a6:54
 msgid "Haruka is calling her \"grandma\" in front of me."
-msgstr ""
+msgstr "Haruka la está llamando \"abuelita\" delante de mí."
 
 #: 007a6:55
 msgid ""
 "{Kazushi}\n"
 "\"So she's 'grandma' today?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Hoy la estás llamando \"abuelita\".\""
 
 #: 007a6:58
 msgid ""
 "{Haruka}\n"
 "\"Oh, did I say 'grandma'?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿En serio?\""
 
 #: 007a6:59
 msgid ""
 "{Kazushi}\n"
 "\"You didn't notice?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿No te habías dado cuenta?\""
 
 #: 007a6:62
 msgid ""
 "{Haruka}\n"
 "\"She gets mad at me if I don't call her 'Principal' at school. I try my best to be careful, but this mouth of mine...\""
 msgstr ""
+"{Haruka}\n"
+"\"Intento con todas mis fuerzas no llamarla así en la escuela.\""
 
 #: 007a6:63
 msgid "She pinched her lips. I guess Haruka calls the principal 'grandma' outside of school."
-msgstr ""
+msgstr "Se muerde los labios."
 
 #: 007a6:64
 msgid "I'm sure it's only natural for them, but the idea seemed charming to me."
-msgstr ""
+msgstr "Me da un poco de lástima que tenga que distanciarse de la directora en la escuela."
 
 #: 007a6:65
 msgid ""
 "{Kazushi}\n"
 "\"I bet you can get away with it today. It is a party, and we do have alcohol.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No creo que pase nada por llamarla \"abuelita\" hoy, teniendo en cuenta que estamos en una fiesta.\""
 
 #: 007a6:68
 msgid ""
 "{Haruka}\n"
 "\"Oh, that's true. So you drink, Kazushi-kun? Maybe I should have one with you.\""
 msgstr ""
+"{Haruka}\n"
+"\"Es cierto.\n"
+"¿Quieres beber conmigo?\""
 
 #: 007a6:69
 msgid "She was drinking orange juice."
-msgstr ""
+msgstr "Estaba bebiendo un zumo de naranja."
 
 #: 007a6:70
 msgid ""
 "{Kazushi}\n"
 "\"Okay, then here you go.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Claro.\""
 
 #: 007a6:72
+# Hay que ver si realmente es una bebida alcoholica, o en la traducción al inglés
+# lo cambiaron para que pareciesen más "adultos".
 msgid "I brought her an empty glass and poured some liquor into it."
-msgstr ""
+msgstr "Le traje un vaso vacío y vertí una bebida alcoholica en él."
 
 #: 007a6:75
+# Quizá convenga mantener la obscenidad en la frase.
 msgid ""
 "{Haruka}\n"
 "\"Wow!\n"
 "I'm having a man pour me a drink. Does this make me a delinquent?\""
 msgstr ""
+"{Haruka}\n"
+"\"Guau...\n"
+"Me siento especial de que un hombre esté virtiendo una bebida en mi vaso.\""
 
 #: 007a6:77
 msgid ""
 "{Kazushi}\n"
 "\"A delinquent...?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Te sientes especial...\""
 
 #: 007a6:80
 msgid ""
 "{Haruka}\n"
 "\"This is romantic.\""
 msgstr ""
+"{Haruka}\n"
+"\"Es romántico.\""
 
 #: 007a6:81
 msgid "She's already in a good mood and she hasn't even had a sip yet! What a strange girl."
@@ -229,96 +285,125 @@ msgid ""
 "{Haruka}\n"
 "\"Oh, maybe Grandma would be happy if you poured her one too?\""
 msgstr ""
+"{Haruka}\n"
+"\"Mi abuelita se alegraría si le llevases una bebida.\""
 
 #: 007a6:85
 msgid ""
 "{Kazushi}\n"
 "\"Me? Pour one for the principal?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Yo? ¿Llevándole alcohol a la directora?\""
 
 #: 007a6:86
 msgid ""
 "{Haruka}\n"
 "\"Sure! Follow me!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Claro, sígueme!\""
 
 #: 007a6:87
 msgid ""
 "{Kazushi}\n"
 "\"H...Hey...!\""
 msgstr ""
+"{Kazushi}\n"
+"\"O-Oye...\""
 
 #: 007a6:89
 msgid "She started dragging me towards the principal before I had a chance to reply."
-msgstr ""
+msgstr "Me está tirando hasta la directora antes de que me diese tiempo a replicar."
 
 #: 007a6:94
 msgid ""
 "{Principal}\n"
 "\"Oh, hello. What's the matter?\""
 msgstr ""
+"{Directora}\n"
+"\"Hola a los dos.\""
 
 #: 007a6:95
 msgid ""
 "{Haruka}\n"
 "\"Kazushi-kun said he'll pour you a drink!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Kazushi te vertirá una bebida!\""
 
 #: 007a6:98
+# He añadido el Kazushi porque luego hace referencia a que ha recordado su nombre.
+# Hay que ver si lo menciona en esta frase o en la anterior.
 msgid ""
 "{Principal}\n"
 "\"You will, Haruma-kun?\""
 msgstr ""
+"{Directora}\n"
+"\"¿Lo harás, Kazushi?\""
 
 #: 007a6:99
 msgid ""
 "{Kazushi}\n"
 "\"Su-, uh, yes...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sí...\""
 
 #: 007a6:100
 msgid ""
 "She already remembered my name.\n"
 "She had a kind, graceful smile, but something felt wrong."
-msgstr ""
+msgstr "Se ha acordado de mi nombre."
 
 #: 007a6:103
 msgid ""
 "{Haruka}\n"
 "\"Here, Kazushi-kun!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Toma, Kazushi!\""
 
 #: 007a6:104
+# ¿Copa o vaso?
 msgid "Haruka handed me an empty glass and a bottle of liquor. I prepared for the worst and handed the glass to the Principal."
-msgstr ""
+msgstr "Haruka me da una copa vacía y una botella de licor."
 
 #: 007a6:105
 msgid ""
 "{Kazushi}\n"
 "\"Here you go, ma'am.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Aquí tiene.\""
 
 #: 007a6:108
 msgid ""
 "{Principal}\n"
 "\"Why, thank you very much.\""
 msgstr ""
+"{Directora}\n"
+"\"Muchas gracias.\""
 
 #: 007a6:110
 msgid "I was nervous as I tried to pour it without spilling any. I glanced up and saw the Principal blushing like a young girl."
-msgstr ""
+msgstr "Se lo vertí en la copa tratando de no derramarlo."
 
 #: 007a6:113
 msgid ""
 "{Principal}\n"
 "\"I feel so embarrassed. You remind me of him.\""
 msgstr ""
+"{Directora}\n"
+"\"Me has recordado a él.\""
 
 #: 007a6:115
 msgid ""
 "{Kazushi}\n"
 "\"Him?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿\"Él\"?\""
 
 #: 007a6:118
 msgid ""
@@ -326,48 +411,61 @@ msgid ""
 "\"My grandpa.\n"
 "He passed away a long time ago.\""
 msgstr ""
+"{Haruka}\n"
+"\"Mi abuelito.\n"
+"Falleció hace mucho tiempo.\""
 
 #: 007a6:119
 msgid ""
 "{Kazushi}\n"
 "\"Oh. I'm sorry...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento...\""
 
 #: 007a6:120
 msgid "So the principal is a widow. I guess they did mention that there weren't any male teachers at this academy."
-msgstr ""
+msgstr "La directora es viuda."
 
 #: 007a6:121
 msgid "I wish I knew what to say at times like these."
-msgstr ""
+msgstr "No sabía qué decir."
 
 #: 007a6:124
 msgid ""
 "{Principal}\n"
 "\"Don't trouble yourself. It happened many long years ago.\""
 msgstr ""
+"{Directora}\n"
+"\"Ha pasado ya mucho tiempo.\""
 
 #: 007a6:125
 msgid ""
 "{Haruka}\n"
 "\"I never knew my grandpa either. He passed away before I was born.\""
 msgstr ""
+"{Haruka}\n"
+"\"Falleció antes de que yo naciera.\""
 
 #: 007a6:126
 msgid ""
 "{Kazushi}\n"
 "\"I see. In my case, I never knew my grandma.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo. Bueno, mi abuela también falleció antes de que no naciera.\""
 
 #: 007a6:127
 msgid "My grandma was already gone by the time I was born. I heard that she had died from an illness when she was young."
-msgstr ""
+msgstr "Escuché que murió jóven."
 
 #: 007a6:128
 msgid ""
 "{Kazushi}\n"
 "\"My grandpa used to talk about her all the time.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Mi abuelo solía hablar de ella todo el tiempo.\""
 
 #: 007a6:131
 msgid ""
@@ -375,6 +473,9 @@ msgid ""
 "\"It's the same in my family!\n"
 "Grandma talks about grandpa all the time!\""
 msgstr ""
+"{Haruka}\n"
+"\"Lo mismo pasa en mi familia\n"
+"La abuelita hablaba del abuelito todo el tiempo.\""
 
 #: 007a6:132
 msgid ""
@@ -382,48 +483,61 @@ msgid ""
 "\"Haruka,\n"
 "you need to call me \"Principal\" here.\""
 msgstr ""
+"{Principal}\n"
+"\"Haruka,\n"
+"aquí tienes que llamarme \"directora\".\""
 
 #: 007a6:135
 msgid ""
 "{Haruka}\n"
 "\"Oh, shoot! See?\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Ups!\""
 
 #: 007a6:138
 msgid "Haruka winked at me. We had just talked about it, but the principal was slightly confused."
-msgstr ""
+msgstr "Los ojos de Haruka me transmiten un \"¿ves?\"."
 
 #: 007a6:139
 msgid ""
 "{Principal}\n"
 "\"It looks like you're getting along well with Haruma-kun. I'm glad you've made a good friend.\""
 msgstr ""
+"{Directora}\n"
+"\"Haruka, me alegra de que hayas hecho un buen amigo como él.\""
 
 #: 007a6:140
 msgid "When she said that, the principal's face went back to being grandma."
-msgstr ""
+msgstr "Tras decir eso, su cara vuelve a ser la de la \"abuelita\"."
 
 #: 007a6:143
 msgid ""
 "{Haruka}\n"
 "\"I wasn't sure if I'd be able to get along with the boys, but luckily there are those like Kazushi-kun.\""
 msgstr ""
+"{Haruka}\n"
+"\"A decir verdad, no tenía claro que fuese a llevarme bien con vosotros, chicos. Estoy muy contenta.\""
 
 #: 007a6:144
 msgid "Putting it that way made me blush. The principal watched us with the proud smile of a grandmother."
-msgstr ""
+msgstr "La directora mira a Haruka orgullosa."
 
 #: 007a6:147
 msgid ""
 "{Principal}\n"
 "\"Well, I better be going now. Thank you very much for the drink, Haruma-kun. You've made me feel young again.\""
 msgstr ""
+"{Directora}\n"
+"\"Tengo que marcharme. Muchas gracias por la bebida, Kazushi.\""
 
 #: 007a6:148
 msgid ""
 "{Kazushi}\n"
 "\"You're welcome.\""
 msgstr ""
+"{Kazushi}\n"
+"\"De nada.\""
 
 #: 007a6:151
 msgid "After giving us another graceful smile, she finally left. The tension finally drained from my shoulders."
@@ -434,42 +548,54 @@ msgid ""
 "{Haruka}\n"
 "\"She seemed really happy. Thank you.\""
 msgstr ""
+"{Haruka}\n"
+"\"Parecía realmente contenta. Muchas gracias, Kazushi.\""
 
 #: 007a6:155
 msgid ""
 "{Kazushi}\n"
 "\"No, don't mention it. All I did was pour a drink. Anyways, your grandma looks pretty young.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Tu abuela es realmente jóven.\""
 
 #: 007a6:156
+# Revisar.
 msgid "I didn't know how old she was, but her skin was still radiant."
-msgstr ""
+msgstr "No sé cuantos años tendrá, pero su piel sigue radiante."
 
 #: 007a6:159
 msgid ""
 "{Haruka}\n"
 "\"It's just because you talked to her, Kazushi-kun. She said you made her feel young.\""
 msgstr ""
+"{Haruka}\n"
+"\"Debe sentirse rejuvenecida hablando contigo.\""
 
 #: 007a6:160
 msgid ""
 "{Kazushi}\n"
 "\"Really?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿En serio?\""
 
 #: 007a6:161
+# Revisar.
 msgid "Did she just drain my youth?"
-msgstr ""
+msgstr "¿La he rejuvenecido yo?"
 
 #: 007a6:164
 msgid ""
 "{Haruka}\n"
 "\"Grandma is still in love with grandpa.\""
 msgstr ""
+"{Haruka}\n"
+"\"La abuelita sigue enamorada de mi abuelo.\""
 
 #: 007a6:165
 msgid "I thought I heard the tone of her voice drop, and I looked over to find a sad smile on her face."
-msgstr ""
+msgstr "Por algún motivo, he notado un tono de tristeza en su voz."
 
 #: 007a6:166
 msgid ""
@@ -477,68 +603,87 @@ msgid ""
 "\"Hey, Kazushi-kun.\n"
 "What would you do if your lover died?\""
 msgstr ""
+"{Haruka}\n"
+"\"Oye Kazushi,\n"
+"¿qué harías tú si tu amada falleciese?\""
 
 #: 007a6:167
 msgid ""
 "{Kazushi}\n"
 "\"If my lover died?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Si mi amada falleciese?\""
 
 #: 007a6:168
+# Revisar.
 msgid "That was a rather serious question all of a sudden."
-msgstr ""
+msgstr "Es una pregunta muy seria para ser así de sopetón..."
 
 #: 007a6:169
 msgid "I didn't know why she asked, nor how to answer."
-msgstr ""
+msgstr "No sé qué decir."
 
 #: 007a6:172
 msgid ""
 "{Haruka}\n"
 "\"I'm sorry. Was that a weird question?\""
 msgstr ""
+"{Haruka}\n"
+"\"Lo siento. Era una pregunta muy rara.\""
 
 #: 007a6:173
+# Revisar.
 msgid "She noticed I was having trouble answering, so she tried to play it off with a smile."
-msgstr ""
+msgstr "Le di pena por no saber qué decir."
 
 #: 007a6:174
 msgid ""
 "{Kazushi}\n"
 "\"It's OK, but why did you ask?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Por qué me has preguntado eso?\""
 
 #: 007a6:177
 msgid ""
 "{Haruka}\n"
 "\"Well, sometimes when I look at grandma, I think about how she can't forget about grandpa. I'm sure she's lonely.\""
 msgstr ""
+"{Haruka}\n"
+"\"Me entristece pensar en lo sola que debe sentirse mi abuelita a veces.\""
 
 #: 007a6:180
 msgid ""
 "{Haruka}\n"
 "\"I've been told that they struggled so much to get married.\""
 msgstr ""
+"{Haruka}\n"
+"\"He oído que lucharon mucho para poder casarse.\""
 
 #: 007a6:181
 msgid ""
 "{Kazushi}\n"
 "\"The principal did? Wow, I didn't know...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo...\""
 
 #: 007a6:182
 msgid "It was hard to imagine that from the strict image the principal had now."
-msgstr ""
+msgstr "Resulta difícil de imaginarlo viendo a la directora ahora."
 
 #: 007a6:183
 msgid "But I guess it's not surprising. They say she was really pretty when she was young. Such a romance would only be natural for her."
-msgstr ""
+msgstr "Todo el mundo ha tenido romances de jóven."
 
 #: 007a6:186
 msgid ""
 "{Haruka}\n"
 "\"But, grandpa died in an accident only a year after they got married.\""
 msgstr ""
+"{Haruka}\n"
+"\"Pero el abuelo murió solo un año después de que se casaran.\""
 
 #: 007a6:187
 msgid ""
@@ -546,12 +691,17 @@ msgid ""
 "\"That soon?\n"
 "That is sad... She's been alone ever since?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Tan pronto...\n"
+"¿Ha estado sola desde entonces?\""
 
 #: 007a6:190
 msgid ""
 "{Haruka}\n"
 "\"Yes, she has. I'm sure she's never been able to forget about him.\""
 msgstr ""
+"{Haruka}\n"
+"\"Supongo que es incapaz de olvidarle.\""
 
 #: 007a6:191
 msgid ""
@@ -559,156 +709,199 @@ msgid ""
 "\"I see.\n"
 "She must have really loved him.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo...\n"
+"Debió quererle mucho.\""
 
 #: 007a6:194
+# Revisar.
 msgid ""
 "{Haruka}\n"
 "\"She did.\n"
 "I dream about being in a relationship like that.\""
 msgstr ""
+"{Haruka}\n"
+"\"Sí.\n"
+"Yo sueño con tener una relación como la suya.\""
 
 #: 007a6:195
+# "que sueña con acabar con un príncipe azul."
 msgid "She looked little girl in love with romance as she told me about her sweet dream. Haruka in love, huh? I wonder what kind of guy she likes."
-msgstr ""
+msgstr "Parecía como una chiquilla que sueña con tener un tierno romance."
 
 #: 007a6:196
 msgid ""
 "{Kazushi}\n"
 "\"Have you ever fallen in love with somebody?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Te has enamorado alguna vez de alguien?\""
 
 #: 007a6:199
 msgid ""
 "{Haruka}\n"
 "\"What?! Of course not!\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Qué? ¡Pues claro que no!\""
 
 #: 007a6:200
 msgid "She shook her head in surprise."
-msgstr ""
+msgstr "Parecía muy sorprendida."
 
 #: 007a6:201
 msgid ""
 "{Kazushi}\n"
 "\"Never?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Nunca?\""
 
 #: 007a6:202
+# Me resulta -> ¿Me resulta"ba"? ¿pasado? Quizá no le gustaría recalcar que ahora sí.
 msgid ""
 "{Haruka}\n"
 "\"There aren't any boys my age on this island. How could I have met or fallen in love with anyone?\""
 msgstr ""
+"{Haruka}\n"
+"\"Como puedes ver. Me resulta un pelín difícil conocer a chicos en esta isla.\""
 
 #: 007a6:203
 msgid ""
 "{Kazushi}\n"
 "\"Well, I suppose that's true...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Es verdad...\""
 
 #: 007a6:204
 msgid "Of course, there weren't any boys likely to have gone after Haruka before."
-msgstr ""
+msgstr "A las chicas les resulta difícil encontrarse chicos por aquí de la misma edad en la isla."
 
 #: 007a6:207
 msgid ""
 "{Haruka}\n"
 "\"I always worried I might grow old without ever getting to fall in love. Hey, Kazushi-kun, have you ever been in love?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Y tú? ¿Te has enamorado alguna vez de alguien?\""
 
 #: 007a6:208
 msgid ""
 "{Kazushi}\n"
 "\"Only as much as everyone else.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sí. Como cualquier otro chico.\""
 
 #: 007a6:211
 msgid ""
 "{Haruka}\n"
 "\"Wow, how nice. People our age should already be in love, shouldn't they? Hah...\""
 msgstr ""
+"{Haruka}\n"
+"\"Tienes razón... La gente de nuestra edad debería haber tenido ya alguna experiencia de ese tipo.\""
 
 #: 007a6:212
 msgid "She heaved a deep sigh. I kind of felt bad for her."
-msgstr ""
+msgstr "Exhala un largo suspiro."
 
 #: 007a6:215
 msgid ""
 "{Haruka}\n"
 "\"So, what's it like to fall in love?\""
 msgstr ""
+"{Haruka}\n"
+"\"Y... ¿Cómo se siente al enamorarse?\""
 
 #: 007a6:216
 msgid "She leaned forward as she asked me. Her eyes were sparkling. She was so innocent."
-msgstr ""
+msgstr "Sus ojos me dicen que está desesperada por oírlo."
 
 #: 007a6:217
 msgid ""
 "{Kazushi}\n"
 "\"It's like......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Es como...\""
 
 #: 007a6:221
 msgid "I recalled a few of my previous encounters. There was the time I got slapped hard as the sun set on the park, the time one girl called me a pervert and stepped on me..."
-msgstr ""
+msgstr "La verdad es que todos mis recuerdos acabaron fatal..."
 
 #: 007a6:225
 msgid ""
 "{Haruka}\n"
 "\"Huh? Why are you crying?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Por qué estás llorando?\""
 
 #: 007a6:226
 msgid ""
 "{Kazushi}\n"
 "\"All my heartbreaking memories...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Recuerdos...\""
 
 #: 007a6:229
 msgid ""
 "{Haruka}\n"
 "\"I see. Love is so touching it brings tears.\""
 msgstr ""
+"{Haruka}\n"
+"\"Ya veo. Es muy bonito.\""
 
 #: 007a6:230
 msgid "She missed the real meaning behind my words, and looked up the sky with glittering eyes."
-msgstr ""
+msgstr "Me ha malentendido por completo."
 
 #: 007a6:231
 msgid ""
 "{Haruka}\n"
 "\"I want to fall in love too. I wonder how I can make that happen?\""
 msgstr ""
+"{Haruka}\n"
+"\"A mí también me gustaría enamorarme.\""
 
 #: 007a6:232
 msgid "She looked just like a dreamy-eyed girl. She looked so pure and bright that I wanted to cheer her on."
-msgstr ""
+msgstr "Es como una niña pequeña. Es tan pura..."
 
 #: 007a6:233
 msgid ""
 "{Kazushi}\n"
 "\"I hope that one day you'll have a romance just like your grandparents had. You have my support.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Espero que algún día puedas tener un romance como el que tuvieron tus abuelos.\""
 
 #: 007a6:236
 msgid ""
 "{Haruka}\n"
 "\"Really? Thank you!\""
 msgstr ""
+"{Haruka}\n"
+"\"Gracias\""
 
 #: 007a6:237
 msgid "She happily took my hand in hers. Her hands felt so soft. Their warmth ran through me like a bolt of electricity."
-msgstr ""
+msgstr "Me sujeta de la mano. Sus manos son tan suaves."
 
 #: 007a6:238
 msgid "Oh, no. I think I'm falling in love."
-msgstr ""
+msgstr "Maldición. Creo que me estoy enamorando."
 
 #: 007a6:241
 msgid ""
 "{Haruka}\n"
 "\"Love, huh? It's so nice. I wonder how I can start a relationship?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Cómo se puede empezar un romance?\""
 
 #: 007a6:242
 msgid "My loves had been too simple. They all led to terrible things too. I need to be a bit more prudent."
-msgstr ""
+msgstr "Creo que está preguntando a la persona equivocada. Mi última relación empezó de una forma muy fácil."

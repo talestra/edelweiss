@@ -1,4 +1,6 @@
 # Comments for '00504'
+# Kazushi se encuentra a Natsume y se come el bocadillo comprado en la máquina expendedora
+# con ella. Sigue reticente a hablar.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -13,85 +15,103 @@ msgstr ""
 
 #: 00504:11
 msgid "I feel bad either way. If I share Haruka's bento or borrow money, I'll have to do the same thing again tomorrow."
-msgstr ""
+msgstr "No debería tomar prestado dinero. Aunque me ayudase hoy, a partir de mañana también necesitaría."
 
 #: 00504:12
 msgid "It looks like I'll be on a tight budget for a while, so I should get used to it now."
-msgstr ""
+msgstr "Es mejor que me acostumbre a una dieta pobre."
 
 #: 00504:13
 msgid ""
 "{Kazushi}\n"
 "\"Thanks for the offer, both of you. I'll be fine just getting something from the vending machine for today.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Os agradezco a las dos el ofrecimiento. Pero creo que hoy debería comprar algo en la máquina expendedora.\""
 
 #: 00504:18
 msgid "They must think I'm a stubborn guy. Both of them looked at each other and heaved a sigh."
-msgstr ""
+msgstr "Deben pensar que soy un cabezota."
 
 #: 00504:19
 msgid ""
 "{Haruka}\n"
 "\"You really don't have to think anything of it, you know?\""
 msgstr ""
+"{Haruka}\n"
+"\"No deberías pensar tanto, ¿sabías?\""
 
 #: 00504:20
 msgid ""
 "{Mei}\n"
 "\"Are you sure bread will be enough? You're young and hungry, aren't you?\""
 msgstr ""
+"{Mei}\n"
+"\"No vas a poder aguantar todo el día con solo un sandwich.\""
 
 #: 00504:21
 msgid ""
 "{Kazushi}\n"
 "\"I'll manage. I'll be sure to eat a lot tonight. We're also free to ask for seconds on breakfast, right?\""
 msgstr ""
+"{Kazushi}\n"
+"\"No te preocupes, ya me pondré las botas esta noche.\""
 
 #: 00504:22
 msgid ""
 "{Mei}\n"
 "\"Yes, you are, but...\""
 msgstr ""
+"{Mei}\n"
+"\"Está bien.\""
 
 #: 00504:23
 msgid ""
 "{Haruka}\n"
 "\"Can you last until dinner?\""
 msgstr ""
+"{Haruka}\n"
+"\"¿Podrás aguantar hasta la cena?\""
 
 #: 00504:24
 msgid ""
 "{Kazushi}\n"
 "\"I'll be fine.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Claro, tranquila.\""
 
 #: 00504:25
 msgid "Tonight I'll make sure to fill up on rice, but for now, I should head to the machine and be frugal with my money."
-msgstr ""
+msgstr "Tomaré un montón de arroz esta noche, porque volver a llenar el bol es gratis."
 
 #: 00504:33
 msgid "It didn't take long for me to finish my bread and a milk carton. Of course, it wasn't enough at all."
-msgstr ""
+msgstr "Un bocadillo y leche. Por descontado, esto no es ni de lejos suficiente para mí."
 
 #: 00504:34
 msgid ""
 "{Kazushi}\n"
 "\"I'm so hungry. I should have taken her lunch or the money.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sigo con hambre. Quizá debería haber tomado prestado el dinero.\""
 
 #: 00504:35
 msgid "Regretting it now won't get me anywhere. I need to conserve my energy. There's a long afternoon ahead of me."
-msgstr ""
+msgstr "Ahora es demasiado tarde."
 
 #: 00504:36
 msgid ""
 "{Kazushi}\n"
 "\"I'll just sit still and keep my breathing calm, conserving as much energy as possible. I will become like a monk who lives off of mist.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Quizá lo mejor sea permanecer inmóvil como un monje para ahorrar energía.\""
 
 #: 00504:37
 msgid "I took several deep breaths and my angry stomach rumbled in protest, telling me it needed more than air to fill it."
-msgstr ""
+msgstr "Mi resentido estómago está haciendo los típicos gruñidos causados por el hambre."
 
 #: 00504:38
 msgid ""
@@ -100,228 +120,275 @@ msgid ""
 msgstr ""
 
 #: 00504:39
+# alimentarme/te
 msgid "Like, \"Oh? And who thought THAT was a good idea?\""
-msgstr ""
+msgstr "En plan: ¡¡tienes que alimentarme!!"
 
 #: 00504:41
 msgid "\"I've got news for you, that won't do us a damn bit of good.\""
-msgstr ""
+msgstr "Cuanto más lo pienso, más hambre me da."
 
 #: 00504:42
 msgid ""
 "{Kazushi}\n"
 "\"I'm hungry...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Hambre...\""
 
 #: 00504:46
 msgid "I found a tree and lay down in the shade, clutching my stomach as it continued its loud protest."
-msgstr ""
+msgstr "Encuentro una sombra y me tumbo."
 
 #: 00504:51
 msgid "I felt like I was going to faint from hunger."
-msgstr ""
+msgstr "Siento como si estuviese perdiendo la consciencia."
 
 #: 00504:52
 msgid ""
 "{Kazushi}\n"
 "\"......?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿...?\""
 
 #: 00504:53
 msgid "I felt somebody right next to me."
-msgstr ""
+msgstr "Siento la presencia de alguien junto a mí."
 
 #: 00504:56
 msgid "It was Natsume-chan, eating some bread with her back leaned up against the tree trunk."
-msgstr ""
+msgstr "Era Natsume, comiéndose un bocadillo."
 
 #: 00504:57
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:58
 msgid "She was looking straight ahead, but I don't think she noticed me."
-msgstr ""
+msgstr "Está mirando al frente."
 
 #: 00504:59
+# Revisar.
 msgid "I wanted to talk to her, but I refrained from doing so because of our prior argument."
-msgstr ""
+msgstr "Quería hablar con ella, pero me retracté por la charla que tuvimos la otra vez."
 
 #: 00504:60
 msgid ""
 "{Kazushi}\n"
 "\"Uhh... Ahem.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Mmm...\""
 
 #: 00504:61
 msgid "I coughed a couple of times on purpose."
-msgstr ""
+msgstr "Tosí un par de veces a propósito."
 
 #: 00504:63
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:64
 msgid "She glanced over at me with the bread still in her mouth."
-msgstr ""
+msgstr "La veo cómo se da cuenta de mi presencia."
 
 #: 00504:65
 msgid "We made eye contact."
-msgstr ""
+msgstr "Hubo contacto visual."
 
 #: 00504:66
 msgid ""
 "{Kazushi}\n"
 "\"Hi.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Oye.\""
 
 #: 00504:67
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:68
 msgid "She didn't answer, she just kept staring at me rudely, without restraint."
-msgstr ""
+msgstr "No deja de mirarme."
 
 #: 00504:69
 msgid "Even I can read between a few lines. I'm pretty sure she doesn't like me. Considering what happened, I guess that's highly likely."
-msgstr ""
+msgstr "Estoy bastante seguro de que no le gusto."
 
 #: 00504:70
 msgid ""
 "{Kazushi}\n"
 "\"Are you annoyed with me?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Te molesto?\""
 
 #: 00504:71
 msgid "That's what her eyes were saying to me."
-msgstr ""
+msgstr "Eso es lo que dicen sus ojos."
 
 #: 00504:72
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:73
 msgid "She still wouldn't answer, and she kept staring at me just as rudely. It didn't look like she was ignoring me, though."
-msgstr ""
+msgstr "Sigue mirándome sin decir una palabra."
 
 #: 00504:74
 msgid ""
 "{Kazushi}\n"
 "\"Umm...are you eating lunch?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué tal está tu comida...?\""
 
 #: 00504:76
 msgid ""
 "{Natsume}\n"
 "\"......\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:77
 msgid "She nodded slightly while holding the bread in her hands. She didn't look away. I was reflected in her charming eyes."
-msgstr ""
+msgstr "Sigue sin decirme una palabra."
 
 #: 00504:78
 msgid ""
 "{Kazushi}\n"
 "\"Do you, um, blink? You'll dry your eyes out.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Deberías pestañear o se te secarán los ojos.\""
 
 #: 00504:80
 msgid ""
 "{Natsume}\n"
 "\"......\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:81
 msgid "She blinked once and continued to look at me, like a dog waiting for its master to issue a command."
-msgstr ""
+msgstr "Pestañea una vez y espera a mi siguiente frase."
 
 #: 00504:82
 msgid "It left me obligated to say something."
-msgstr ""
+msgstr "Lo que me obliga a decir algo."
 
 #: 00504:83
 msgid ""
 "{Kazushi}\n"
 "\"Um... I bought the same kind of bread for lunch. It's good, isn't it?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Anda, yo he comprado ese mismo bocadillo. Está bueno.\""
 
 #: 00504:84
 msgid ""
 "{Natsume}\n"
 "\"......\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:85
 msgid "She nodded. Good, at least she's not ignoring me. If I talk to her, she'll at least answer me."
-msgstr ""
+msgstr "Me alegro de que al menos haya asentido. Al menos no me está ignorando."
 
 #: 00504:86
 msgid "But it's not like we were having a real conversation either."
-msgstr ""
+msgstr "Pero tampoco estamos teniendo una conversación."
 
 #: 00504:87
 msgid ""
 "{Kazushi}\n"
 "\"Will you finish eating? That way we can talk properly.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Terminas de comer y hablamos un rato?\""
 
 #: 00504:89
 msgid ""
 "{Natsume}\n"
 "\"............\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:90
 msgid "She started eating like a squirrel."
-msgstr ""
+msgstr "Empieza a comer como una ardilla."
 
 #: 00504:91
 msgid ""
 "{Kazushi}\n"
 "\"Do you always eat it in little bites like that? Isn't it better if you take a nice big bite out of it?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Deberías dar bocados más grandes.\n"
+"Los bocadillos saben mejor así.\""
 
 #: 00504:93
 msgid ""
 "{Natsume}\n"
 "\"......!\""
 msgstr ""
+"{Natsume}\n"
+"\"¡...!\""
 
 #: 00504:94
 msgid "She glared at me! Or was that a threat?"
-msgstr ""
+msgstr "¿Es una mirada de odio?"
 
 #: 00504:95
 msgid ""
 "{Natsume}\n"
 "\"......Shoo.\""
 msgstr ""
+"{Natsume}\n"
+"\"Cállate...\""
 
 #: 00504:96
 msgid "It was a threat!"
-msgstr ""
+msgstr "¡La he enfadado!"
 
 #: 00504:97
 msgid ""
 "{Kazushi}\n"
 "\"...Sorry. Eat it however you want.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento. Cómetelo como prefieras.\""
 
 #: 00504:99
 msgid ""
 "{Natsume}\n"
 "\"............\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:100
 msgid "She's weird."
@@ -332,26 +399,32 @@ msgid ""
 "{Natsume}\n"
 "\"............\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:103
 msgid "She stared at me again. What did she want?"
-msgstr ""
+msgstr "Me vuelve a mirar. ¿Qué es lo que quiere?"
 
 #: 00504:104
 msgid ""
 "{Kazushi}\n"
 "\"Am I that handsome?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Tan guapo soy?\""
 
 #: 00504:105
 msgid "I said so jokingly, but after that accident, maybe she's fallen for me?"
-msgstr ""
+msgstr "Salgo con una broma. Para romper el hielo."
 
 #: 00504:107
 msgid ""
 "{Natsume}\n"
 "\"......\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:108
 msgid "She didn't think so at all. Oh well."
@@ -362,32 +435,40 @@ msgid ""
 "{Kazushi}\n"
 "\"Women aren't attracted by a pretty face anyways, right?\""
 msgstr ""
+"{Kazushi}\n"
+"\"No es la cara lo que atrae a las mujeres, ¿no?\""
 
 #: 00504:110
 msgid ""
 "{Natsume}\n"
 "\"......\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:111
 msgid "She rejected me flat out! So it is about looks? Looks are all that matter?!"
-msgstr ""
+msgstr "No ha respondido. ¡Quizá sea precisamente la cara lo que atrae a las mujeres!"
 
 #: 00504:112
 msgid "So if I'm not handsome to her, then that means I don't mean a thing to her. But then why does she keep staring at me?"
-msgstr ""
+msgstr "De todas formas... ¿por qué me está mirando?"
 
 #: 00504:113
 msgid ""
 "{Kazushi}\n"
 "\"Is my face funny?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Te resulta graciosa mi cara?\""
 
 #: 00504:115
 msgid ""
 "{Natsume}\n"
 "\"......\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:116
 msgid "She gave me a big nod. That was easy to understand."
@@ -398,44 +479,57 @@ msgid ""
 "{Kazushi}\n"
 "\"I see. I have a funny face. Is that why you keep looking at me?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Me estás mirando por eso?\""
 
 #: 00504:118
 msgid ""
 "{Natsume}\n"
 "\"............\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:119
+# Graciosa/Rara (por lo que se dice después entiendo que graciosa).
 msgid ""
 "{Kazushi}\n"
 "\"I see. It's that funny looking.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya veo... Tengo una cara graciosa.\""
 
 #: 00504:120
 msgid ""
 "{Natsume}\n"
 "\"............\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:121
 msgid "She gave me a few nods this time."
-msgstr ""
+msgstr "Asiente varias veces en esta ocasión."
 
 #: 00504:122
 msgid ""
 "{Kazushi}\n"
 "\"Thanks......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Gracias...\""
 
 #: 00504:123
 msgid ""
 "{Natsume}\n"
 "\"???\""
 msgstr ""
+"{Natsume}\n"
+"\"¿¿¿???\""
 
 #: 00504:125
 msgid "Well, at least my face is funny instead of being scary or creepy. It was still a shock, though. Now both my stomach and my heart were empty."
-msgstr ""
+msgstr "Al menos tengo una cara graciosa. No es que asuste, sea grotesca o algo así, ¿no?"
 
 #: 00504:126
 msgid "*Poke poke.*"
@@ -450,230 +544,295 @@ msgid ""
 "{Kazushi}\n"
 "\"What?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué?\""
 
 #: 00504:131
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:132
 msgid "She tore her bread in half and offered me one of the pieces."
-msgstr ""
+msgstr "Parte su pan en dos y me lo ofrece."
 
 #: 00504:133
 msgid ""
 "{Kazushi}\n"
 "\"Huh? For me? You're giving it to me?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Para mí?\""
 
 #: 00504:136
 msgid ""
 "{Natsume}\n"
 "\"......\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:137
 msgid "It seems so."
-msgstr ""
+msgstr "Eso parece."
 
 #: 00504:138
+# cogiese -> tomase (más neutro).
 msgid ""
 "{Kazushi}\n"
 "\"Are you sure I can have this?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Estás segura de que lo puedo tomar?\""
 
 #: 00504:141
 msgid ""
 "{Natsume}\n"
 "\"............\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:142
 msgid "It seems I could. As I hesitated to take it, she pushed one half against me."
-msgstr ""
+msgstr "Insiste en que lo tomase."
 
 #: 00504:143
 msgid ""
 "{Kazushi}\n"
 "\"Hey, this is the side you were eating, Natsume-chan. It's damp.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Este es el lado que estabas mordiendo.\""
 
 #: 00504:146
 msgid ""
 "{Natsume}\n"
 "\"So what?\""
 msgstr ""
+"{Natsume}\n"
+"\"¿Y qué?\""
 
 #: 00504:147
 msgid "That's true. Although it was an accident, we'd already kissed. What did eating her bread matter now?"
-msgstr ""
+msgstr "Ya nos habíamos besado antes aunque hubiese sido por accidente."
 
 #: 00504:148
+# Revisar. ¿Clean? ¿No estoy enferma? ¿No tengo nada? Imagino que será una sentencia corta.
 msgid ""
 "{Natsume}\n"
 "\"Don't worry. I don't have any strange cooties.\""
 msgstr ""
+"{Natsume}\n"
+"\"No te preocupes. No estoy enferma.\""
 
 #: 00504:149
 msgid ""
 "{Kazushi}\n"
 "\"I'm not worried about that. I don't care if you don't mind.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No me preocupa eso. No me importa si a ti no te importa.\""
 
 #: 00504:152
 msgid ""
 "{Natsume}\n"
 "\"It's better than letting you kiss me.\""
 msgstr ""
+"{Natsume}\n"
+"\"Es mejor que que me beses.\""
 
 #: 00504:153
 msgid ""
 "{Kazushi}\n"
 "\"I said I'm sorry. I didn't know you such a persistent girl.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya te dije que fue un accidente.\""
 
 #: 00504:156
+# Revisar: ?
 msgid ""
 "{Natsume}\n"
 "\"Turning defiant?\""
 msgstr ""
+"{Natsume}\n"
+"\"Deberías disculparte antes.\""
 
 #: 00504:157
 msgid ""
 "{Kazushi}\n"
 "\"No, I'm not trying to be. Alright, I appreciate your offer.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento, ¿vale? Y gracias por el bocadillo.\""
 
 #: 00504:160
 msgid ""
 "{Natsume}\n"
 "\"............\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:161
 msgid "It's hard to eat when she's staring at me. Not to mention, the bread's damp from her mouth."
-msgstr ""
+msgstr "Tengo que comer donde está húmero por su mordisco."
 
 #: 00504:164
 msgid ""
 "{Natsume}\n"
 "\"......\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:165
 msgid ""
 "{Kazushi}\n"
 "\"I'll eat it, OK?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Me lo comeré, ¿vale?\""
 
 #: 00504:166
 msgid "Urged on by her eyes, I took a big bite out of the bread. I felt the dampness left by her lips spread inside my mouth."
-msgstr ""
+msgstr "Cerré los ojos y le di un bocado. Pude sentir la humedad de su mordisco."
 
 #: 00504:167
 msgid "It was kind of sweet."
-msgstr ""
+msgstr "De alguna forma era una sensación dulce."
 
 #: 00504:170
 msgid ""
 "{Natsume}\n"
 "\"Did you eat it?\""
 msgstr ""
+"{Natsume}\n"
+"\"¿Te lo has comido?\""
 
 #: 00504:171
 msgid ""
 "{Kazushi}\n"
 "\"Yes......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sí...\""
 
 #: 00504:174
 msgid ""
 "{Natsume}\n"
 "\"Good.\""
 msgstr ""
+"{Natsume}\n"
+"\"Bien.\""
 
 #: 00504:176
 msgid "Satisfied with that, she bit back into her own half of the bread. Meanwhile, I swallowed the rest of mine down."
-msgstr ""
+msgstr "La verdad es que no me lo he comido. Me lo he tragado."
 
 #: 00504:177
 msgid ""
 "{Kazushi}\n"
 "\"Thanks. That was delicious.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Gracias. Estaba delicioso.\""
 
 #: 00504:180
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:181
 msgid "Natsume-chan was still nibbling away at her bread. Her expression hadn't changed at all."
-msgstr ""
+msgstr "No muestra ninguna expresión facial."
 
 #: 00504:182
 msgid ""
 "{Kazushi}\n"
 "\"Thanks.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Gracias.\""
 
 #: 00504:185
 msgid ""
 "{Natsume}\n"
 "\"No worries.\""
 msgstr ""
+"{Natsume}\n"
+"\"No te preocupes.\""
 
 #: 00504:186
 msgid "She was cold and curt, but she was kind so there had to be more to her than just that. It was hard to tell what she was like."
-msgstr ""
+msgstr "Resulta difícil de comprender quién es."
 
 #: 00504:187
 msgid ""
 "{Kazushi}\n"
 "\"Do you always eat by yourself? What about your friends?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Siempre comes sola?\""
 
 #: 00504:190
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:191
 msgid ""
 "{Kazushi}\n"
 "\"You always eat alone? If you'd like, why don't we eat together next time?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Si quieres podemos comer juntos la próxima vez.\""
 
 #: 00504:192
 msgid ""
 "{Natsume}\n"
 "\"..................\""
 msgstr ""
+"{Natsume}\n"
+"\"...\""
 
 #: 00504:193
 msgid "No response."
-msgstr ""
+msgstr "Sin respuesta."
 
 #: 00504:194
 msgid ""
 "{Kazushi}\n"
 "\"Will you talk to me?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Podemos hablar?\""
 
 #: 00504:197
 msgid ""
 "{Natsume}\n"
 "\"I won't.\""
 msgstr ""
+"{Natsume}\n"
+"\"No, gracias.\""
 
 #: 00504:198
 msgid ""
 "{Kazushi}\n"
 "\"All right.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está bien.\""
 
 #: 00504:200
 msgid "I lied down on the grass again. The grass felt relaxing against my back."
@@ -694,32 +853,40 @@ msgid ""
 "{Natsume}\n"
 "\"Oh, taking a nap?\""
 msgstr ""
+"{Natsume}\n"
+"\"¿Vas a echarte una siesta?\""
 
 #: 00504:206
 msgid "I sensed a hint of disappointment in her tone."
-msgstr ""
+msgstr "Sentí un poco de tristeza en su tono."
 
 #: 00504:207
 msgid ""
 "{Kazushi}\n"
 "\"You said you wouldn't talk to me, right?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Pensaba que no querías hablar conmigo.\""
 
 #: 00504:210
 msgid ""
 "{Natsume}\n"
 "\"No, I won't.\""
 msgstr ""
+"{Natsume}\n"
+"\"Y así es, no quiero.\""
 
 #: 00504:211
 msgid "Haha, we're already talking, but she doesn't realize it."
-msgstr ""
+msgstr "No se da cuenta de que ya estamos hablando."
 
 #: 00504:212
 msgid ""
 "{Kazushi}\n"
 "\"I'm not going to sleep. I'm just lying down.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No me voy a dormir. Simplemente estoy tumbado.\""
 
 #: 00504:215
 msgid ""
@@ -732,56 +899,68 @@ msgid ""
 "{Kazushi}\n"
 "\"I won't sleep. Don't worry... *Yaaaawwn*\""
 msgstr ""
+"{Kazushi}\n"
+"\"No...\""
 
 #: 00504:217
 msgid ""
 "{Natsume}\n"
 "\"I knew it. I'm disappointed. Disappointed in you, Haruma.\""
 msgstr ""
+"{Natsume}\n"
+"\"No dejas de decepcionarme.\""
 
 #: 00504:218
 msgid ""
 "{Kazushi}\n"
 "\"I told you I won't fall asleep......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya te he dicho que no me voy a quedar dormido...\""
 
 #: 00504:219
 msgid "Actually I'm already about to fall asleep."
-msgstr ""
+msgstr "La verdad es que me estoy quedando frito..."
 
 #: 00504:220
 msgid "My eyelids grew so heavy they fell shut."
-msgstr ""
+msgstr "Mis párpados están empezando a pesar cada vez más."
 
 #: 00504:222
 msgid ""
 "{Natsume}\n"
 "\"See, you're falling asleep.\""
 msgstr ""
+"{Natsume}\n"
+"\"¿Ves?, te estás quedando dormido.\""
 
 #: 00504:223
 msgid "I thought I heard Natsume-chan sounding irritated."
-msgstr ""
+msgstr "Suena irritada."
 
 #: 00504:224
 msgid ""
 "{Kazushi}\n"
 "\"Just a few minutes. Just for a few minutes, so...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Solo durante unos pocos minutos...\""
 
 #: 00504:225
 msgid "I tried to say that, but I was mumbling."
-msgstr ""
+msgstr "Traté de decir eso, pero estaba mascullando."
 
 #: 00504:226
 msgid ""
 "{Kazushi}\n"
 "\"......?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿...?\""
 
 #: 00504:233
 msgid "I was woken up by the afternoon class bell."
-msgstr ""
+msgstr "Me desperté por la campana."
 
 #: 00504:234
 msgid ""
@@ -791,7 +970,7 @@ msgstr ""
 
 #: 00504:236
 msgid "Whether there were pretty girls around me or not, the way I spent my lunch break was the same no matter what."
-msgstr ""
+msgstr "Esté rodeado de chicas o no, mi forma de terminar el descanso de la comida es siempre la misma."
 
 #: 00504:237
 msgid ""

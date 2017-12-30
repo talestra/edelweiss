@@ -16,18 +16,24 @@ msgid ""
 "{Kazushi}\n"
 "\"She didn't give me any good ideas.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No me ha dado ninguna buena idea.\""
 
 #: 00766:10
 msgid ""
 "{Appo}\n"
 "\"You're useless.\""
 msgstr ""
+"{Appo-}\n"
+"\"¿En serio?\""
 
 #: 00766:11
 msgid ""
 "{Kazushi}\n"
 "\"Sorry, guys.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo siento chicos.\""
 
 #: 00766:14
 msgid ""
@@ -40,18 +46,24 @@ msgid ""
 "{Daigo}\n"
 "\"Impossible.\""
 msgstr ""
+"{Daigo}\n"
+"\"Imposible.\""
 
 #: 00766:26
 msgid ""
 "{Pierre}\n"
 "\"What's something girls will love...Oh, that's it! How about flowers?\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Y flores...?\""
 
 #: 00766:29
 msgid ""
 "{Appo}\n"
 "\"Flowers? You think girls their age'll like flowers?\""
 msgstr ""
+"{Appo-}\n"
+"\"¿Flores? ¿Creéis que les gustarían flores?\""
 
 #: 00766:30
 msgid ""
@@ -59,156 +71,202 @@ msgid ""
 "\"That's a great idea!\n"
 "Think about it. Whenever you watch a TV drama, they always give the woman flowers.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Es una buena idea!\n"
+"¡En los doramas de la tele, siempre les dan flores!\""
 
 #: 00766:33
 msgid ""
 "{Daigo}\n"
 "\"We can pick some flowers from just about anywhere on the island, right?\""
 msgstr ""
+"{Daigo}\n"
+"\"Las podemos coger de cualquier sitio, ¿no?\""
 
 #: 00766:34
 msgid ""
 "{Kazushi}\n"
 "\"Flowers...flowers...Oh yeah!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Flores... ¡Pues claro!\""
 
 #: 00766:41
 msgid "I finally remembered. That place was loaded with flowers in bloom. Heck, that's when they first bloomed."
-msgstr ""
+msgstr "Sé dónde podemos conseguir flores bonitas."
 
 #: 00766:42
 msgid "The flowers were mysterious, but they were beautiful."
-msgstr ""
+msgstr "Donde conocí a Haruka."
 
 #: 00766:53
 msgid ""
 "{Kazushi}\n"
 "\"I know a good spot! They're pretty rare flowers. I'm positive the girls will love them.\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Sé un buen sitio!\n"
+"Eran preciosas. Estoy convencido de que les encantarían a todas las chicas.\""
 
 #: 00766:56
 msgid ""
 "{Appo}\n"
 "\"Alright! Then let's go picking!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Enséñanos el lugar!\""
 
 #: 00766:57
 msgid ""
 "{Pierre}\n"
 "\"Hold on, it's late at night. I don't know where they're blooming, but it's dangerous to wander around this island.\""
 msgstr ""
+"{Pierre}\n"
+"\"Esperad. Es ya de noche, y muy tarde. No me gustaría ir por esta isla de noche.\""
 
 #: 00766:58
 msgid ""
 "{Daigo}\n"
 "\"Besides, if we pick them tonight, they might wither by tomorrow.\""
 msgstr ""
+"{Daigo}\n"
+"\"Además, no se mantendrían frescas hasta mañana.\""
 
 #: 00766:61
 msgid ""
 "{Appo}\n"
 "\"Then let's go tomorrow right before the party starts!\""
 msgstr ""
+"{Appo-}\n"
+"\"Entonces, ¡vayamos mañana antes de que empiece la fiesta!\""
 
 #: 00766:64
 msgid ""
 "{Pierre}\n"
 "\"Are you sure there are enough for all of the girls? I'd feel bad if there were any girls who didn't receive any.\""
 msgstr ""
+"{Pierre}\n"
+"\"¿Creéis que será suficiente para todas las chicas?\""
 
 #: 00766:65
 msgid ""
 "{Kazushi}\n"
 "\"Don't worry, they were everywhere. Though if we're going to pick enough flowers for all the girls, we'll need tools.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No tienes que preocuparte por eso.\""
 
 #: 00766:68
 msgid ""
 "{Appo}\n"
 "\"Let's knock those girls off their feet tomorrow! I bet they'll never be expecting a surprise like this!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡No puedo esperar a ver cuánto lo apreciarán las chicas!\""
 
 #: 00766:69
 msgid ""
 "{Pierre}\n"
 "\"Guys, we can't tell anyone about this until we reveal the surprise tomorrow night, OK?\""
 msgstr ""
+"{Pierre}\n"
+"\"Chicos. No se lo podemos contar a nadie hasta mañana, ¿¡vale?!\""
 
 #: 00766:70
 msgid "Everyone nodded in agreement as their eyes lit up with excitement. I can't wait for tomorrow!"
-msgstr ""
+msgstr "Todos asienten emocionados."
 
 #: 00766:77
 msgid ""
 "{Principal}\n"
 "\"Today, we are here to host a humble welcoming party for all of our new friends!\""
 msgstr ""
+"{Directora}\n"
+"\"¡Estamos aquí todos presentes para celebrar una fiesta de bienvenida a nuestros nuevos amigos!\""
 
 #: 00766:78
 msgid "The principal began her welcome speech. The area was suitably decorated with folded paper accents."
-msgstr ""
+msgstr "Nuestra directora da comienzo a la fiesta con un discurso de bienvenida."
 
 #: 00766:81
 msgid ""
 "{Principal}\n"
 "\"There's plenty of food and drink, so eat up and enjoy yourselves. There are some alcoholic beverages as well, but keep it in moderation, OK?\""
 msgstr ""
+"{Directora}\n"
+"\"Hay comida y bebidas en abundancia. También hay bebidas alcoholicas, pero no bebáis mucho, ¿vale?\""
 
 #: 00766:85
 msgid ""
 "{Kazushi}\n"
 "\"Does she mean liquor?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Se refiere a licor?\""
 
 #: 00766:86
 msgid ""
 "{Pierre}\n"
 "\"I think so.\""
 msgstr ""
+"{Pierre}\n"
+"\"Eso parece.\""
 
 #: 00766:87
 msgid "The girls took this at face value. It seemed like it wasn't unusual for students to drink alcohol here."
-msgstr ""
+msgstr "Las chicas permanecen impasivas. Parece que no es algo extraño por aquí que los estudiantes tomen alcohol."
 
 #: 00766:93
 msgid ""
 "{Appo}\n"
 "\"Wow. They serve alcohol at a school party?\""
 msgstr ""
+"{Appo-}\n"
+"\"Guau. ¿Beben alcohol en las fiestas de la escuela?\""
 
 #: 00766:94
 msgid ""
 "{Daigo}\n"
 "\"Is it alright to drink liquor at school?\""
 msgstr ""
+"{Daigo}\n"
+"\"¿Y es legal?\""
 
 #: 00766:99
 msgid ""
 "{Mei}\n"
 "\"This is an alchemy school. They say the process of brewing distilled liquor began from the refining process used in alchemy.\""
 msgstr ""
+"{Mei}\n"
+"\"Esta es una escuela de alquimia, no una escuela normal.\""
 
 #: 00766:100
 msgid "Mei-sensei gave us that lesson as she stood with the other teachers."
-msgstr ""
+msgstr "La señorita Ibuki piensa que está bien."
 
 #: 00766:101
 msgid ""
 "{Mei}\n"
 "\"Alchemy and alcohol are inseparable. One could say that an alchemist needs to at least be able to control alcohol.\""
 msgstr ""
+"{Mei}\n"
+"\"El proceso de fabricación de las bebidas acoholicas es similar al de la alquimia.\""
 
 #: 00766:102
 msgid ""
 "{Kazushi}\n"
 "\"Oh, that's why.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ah, así que es por eso.\""
 
 #: 00766:108
 msgid ""
 "{Pierre}\n"
 "\"Well, we should feel free to drink, then. That looks like the pricey booze over there.\""
 msgstr ""
+"{Pierre}\n"
+"\"Entonces podemos sentirnos libres de beber...\""
 
 #: 00766:109
 msgid ""
@@ -221,42 +279,52 @@ msgid ""
 "{Kazushi}\n"
 "\"Same to you, Daigo. We can't control you once you get loaded.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Yo estoy más preocupado por ti, Daigo. Tienes un hábito bebedor bastante chungo.\""
 
 #: 00766:113
 msgid "Everyone held a glass in anticipation of the toast. Most of the girls had juice, but we had liquor. The presence of liquor alone helped make things fun."
-msgstr ""
+msgstr "Todos están con las copas en las manos preparándose para un brindis."
 
 #: 00766:116
 msgid ""
 "{Principal}\n"
 "\"From this day onward, may we all work together and become good friends. Cheers!\""
 msgstr ""
+"{Directora}\n"
+"\"¡Brindemos todos!\""
 
 #: 00766:119
 msgid ""
 "{Everybody}\n"
 "\"Cheers!\""
 msgstr ""
+"{Todos}\n"
+"\"¡Salud!\""
 
 #: 00766:120
 msgid "Everybody clinked each other's glasses."
-msgstr ""
+msgstr "Todos entrechocan las copas de los demás."
 
 #: 00766:124
 msgid ""
 "{Pierre}\n"
 "\"Cheers! Hey, you're a cutie!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Salud, preciosa!\""
 
 #: 00766:125
 msgid ""
 "{Girl A}\n"
 "\"Ahaha, oh you. Cheers!\""
 msgstr ""
+"{Chica A}\n"
+"\"¡Salud!\""
 
 #: 00766:127
 msgid "It was odd how at times like these, even girls who didn't tend to talk much became more open."
-msgstr ""
+msgstr "Los brindis tienen el poder de romper el hielo hasta con extraños."
 
 #: 00766:132
 msgid ""
@@ -269,97 +337,122 @@ msgid ""
 "{Fuusen}\n"
 "\"We'll leave them alone for today. This is the principal's party.\""
 msgstr ""
+"{Hu-sen}\n"
+"\"Les dejaremos estar por hoy.\""
 
 #: 00766:134
 msgid "Even the mean girls aren't causing trouble for us with the principal on watch."
-msgstr ""
+msgstr "Hasta las chicas malas nos dejan tranquilos porque está la directora."
 
 #: 00766:141
 msgid ""
 "{Appo}\n"
 "\"While they're keeping quiet, I'm gonna go meet the other girls!\""
 msgstr ""
+"{Appo-}\n"
+"\"¡Voy a saludar a las chicas!\""
 
 #: 00766:142
 msgid ""
 "{Pierre}\n"
 "\"I'm going to go check out the girls from the next class. I'll tell you guys if I find any good ones!\""
 msgstr ""
+"{Pierre}\n"
+"\"¡Voy a ver a la chica de la otra clase!\""
 
 #: 00766:145
 msgid ""
 "{Appo}\n"
 "\"I'm gonna go ask two or three out.\""
 msgstr ""
+"{Appo-}\n"
+"\"Nos vemos luego chicos.\""
 
 #: 00766:148
 msgid "Pierre and Appo are off to a good start."
-msgstr ""
+msgstr "Pierre y Appo- se han ido a tener un buen comienzo."
 
 #: 00766:149
 msgid ""
 "{Kazushi}\n"
 "\"Are you going anywhere, Daigo?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Te quedas aquí, Daigo?\""
 
 #: 00766:152
+# Revisar.
 msgid ""
 "{Daigo}\n"
 "\"I- I need to get myself a little more ready.\""
 msgstr ""
+"{Daigo}\n"
+"\"Tengo que beber un poco y ponerme a tono antes de hacer ningún movimiento.\""
 
 #: 00766:153
 msgid "There were several empty glasses of brandy lined up. He was also looking a little green. The glass in his hand was shaking, too."
-msgstr ""
+msgstr "Pues a mí ya me parece bastante borracho."
 
 #: 00766:154
 msgid "Daigo's not an alcoholic, he was just that nervous. His body may be big, but he had little courage."
-msgstr ""
+msgstr "Pese a su cuerpo grande, es muy vergonzoso. Tiene que estar borracho para ser capaz de hablar con una chica."
 
 #: 00766:155
 msgid ""
 "{Kazushi}\n"
 "\"Just don't drink too much, okay? Once you start going wild, it's dangerous for us to try and stop you.\""
 msgstr ""
+"{Kazushi}\n"
+"\"No bebas demasiado, ¿vale? Resulta difícil pararte cuando te pones cafre por la borrachera.\""
 
 #: 00766:156
 msgid ""
 "{Daigo}\n"
 "\"I-I k-k-k-know......\""
 msgstr ""
+"{Daigo}\n"
+"\"Y-Ya seeee...\""
 
 #: 00766:157
 msgid ""
 "{Kazushi}\n"
 "\"Are you sure you're OK??\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¿Estás seguro de que estás bien??\""
 
 #: 00766:159
 msgid ""
 "{Kazushi}\n"
 "\"Well, what should I do?\""
 msgstr ""
+"{Kazushi}\n"
+"\"En fin. ¿Qué debería hacer?\""
 
 #: 00766:160
 msgid "I looked around."
-msgstr ""
+msgstr "Eché un vistazo."
 
 #: 00766:161
 msgid ""
 "{Kazushi}\n"
 "\"Wow......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Guau...\""
 
 #: 00766:162
 msgid "I was surprised to see that most of the boys were doing a good job of mingling with the girls. There were even a few who liked they were about to pair off and leave together."
-msgstr ""
+msgstr "Me sorprendía ver que los chicos están haciendo un buen trabajo hablando con las chicas."
 
 #: 00766:163
 msgid ""
 "{Kazushi}\n"
 "\"Alright! I'm not letting myself fall behind!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Estoy plantando raíces aquí!\""
 
 #: 00766:164
 msgid "I need to find a girl to talk to me."
-msgstr ""
+msgstr "Tengo que encontrar a una chica que vaya a hablarme."

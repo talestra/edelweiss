@@ -16,22 +16,28 @@ msgid ""
 "{Kazushi}\n"
 "\"Because I'm worried and just can't leave you alone, Natsume-chan.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Porque me preocupo por ti, Natsume.\""
 
 #: 01814:8
 msgid "She scrunched up her face to look upset when I said it."
-msgstr ""
+msgstr "Al decirlo, una expresión de enfado se trazó sobre su cara."
 
 #: 01814:9
 msgid ""
 "{Natsume}\n"
 "\"Argh... Are you treating me like a kid, Haruma?\""
 msgstr ""
+"{Natsume}\n"
+"\"Uhmm... Me estrás tratando como a una cría, Haruma.\""
 
 #: 01814:10
 msgid ""
 "{Kazushi}\n"
 "\"Did I say something wrong?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿He dicho algo malo?\""
 
 #: 01814:11
 msgid ""
@@ -48,9 +54,13 @@ msgid ""
 "{Natsume}\n"
 "\"Well, I guess it's okay since you're an idiot, Haruma.\""
 msgstr ""
+"{Natsume}\n"
+"\"Bueno, no pasa nada, porque eres un tonto, Haruma.\""
 
 #: 01814:16
 msgid ""
 "{Kazushi}\n"
 "\"Wow, thanks a lot.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Vaya. Muchas gracias.\""

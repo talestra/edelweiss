@@ -16,60 +16,72 @@ msgid ""
 "{Kazushi}\n"
 "\"It shouldn't be too hard to find Mei-sensei...\""
 msgstr ""
+"{Kazushi}\n"
+"\"No debería resultarme muy difícil encontrar a la señorita Ibuki.\""
 
 #: 007e6:9
 msgid "She's such a sexy, beautiful adult that she stands out."
-msgstr ""
+msgstr "Porque destaca hasta en la multitud."
 
 #: 007e6:10
 msgid ""
 "{Kazushi}\n"
 "\"There she is!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ahí está.\""
 
 #: 007e6:11
 msgid "It was totally easy, just like I expected."
-msgstr ""
+msgstr "Tan fácil como imaginaba."
 
 #: 007e6:14
 msgid ""
 "{Mei}\n"
 "\"Um......\""
 msgstr ""
+"{Mei}\n"
+"\"Ummm...\""
 
 #: 007e6:15
 msgid ""
 "{Kazushi}\n"
 "\"Huh...?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿...?\""
 
 #: 007e6:16
 msgid "I'm surprised that I found her so easily. She was completely on her own. No one was within three meters of her."
-msgstr ""
+msgstr "Estaba completamente sola."
 
 #: 007e6:17
 msgid "She's so popular I thought she'd be having a blast with everyone by now."
-msgstr ""
+msgstr "De lo popular que es, es raro verla sola."
 
 #: 007e6:18
 msgid ""
 "{Kazushi}\n"
 "\"Um......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Um...\""
 
 #: 007e6:19
 msgid "I hesitated to call out to her. It seemed like it was best not to talk to her."
-msgstr ""
+msgstr "Por algún motivo, dudo en llamarla."
 
 #: 007e6:22
 msgid ""
 "{Mei}\n"
 "\"Ah!!\""
 msgstr ""
+"{Mei}\n"
+"\"¡¡Ey!!\""
 
 #: 007e6:24
 msgid "She spotted me and started walking towards me."
-msgstr ""
+msgstr "Me divisó y empezó a caminar hacia mí."
 
 #: 007e6:30
 msgid ""
@@ -82,22 +94,28 @@ msgid ""
 "{Kazushi}\n"
 "\"...Hyaruma-kun?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Hyaruma?\""
 
 #: 007e6:32
 msgid "Something wasn't right. Her speech was slurred."
-msgstr ""
+msgstr "Creo que está borracha."
 
 #: 007e6:33
 msgid ""
 "{Kazushi}\n"
 "\"Sensei, are you drunk?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Estás borracha?\""
 
 #: 007e6:36
 msgid ""
 "{Mei}\n"
 "\"Hyaruma-kun, awe you dwinking too?\""
 msgstr ""
+"{Mei}\n"
+"\"Hyaruma, ¿te lo estás pasando bien?\""
 
 #: 007e6:37
 msgid "Her words were badly slurred and her cheeks were red. It did look kind of sexy, but..."
@@ -114,6 +132,8 @@ msgid ""
 "{Mei}\n"
 "\"I'wve been dwinkin's so o' couwse I'm dwunk!\""
 msgstr ""
+"{Mei}\n"
+"\"Me lo estoy pasando en grande.\""
 
 #: 007e6:42
 msgid "It hasn't been long since the party started and she's already this bad. She looks like she's a bad drunk too..."
@@ -130,52 +150,64 @@ msgid ""
 "{Kazushi}\n"
 "\"Yes, I am drinking. You don't need to...\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ya estoy bebiendo...\""
 
 #: 007e6:47
 msgid ""
 "{Mei}\n"
 "\"Shuwwup!\""
 msgstr ""
+"{Mei}\n"
+"\"¡Cálla y bebe más!\""
 
 #: 007e6:48
 msgid "Ffpp!"
-msgstr ""
+msgstr "*Mei llevando una botella de licor a la boca de Kazushi*"
 
 #: 007e6:49
 msgid "She forced a bottle into my mouth!"
-msgstr ""
+msgstr "¡Me está metiendo la botella entera en la boca!"
 
 #: 007e6:50
 msgid ""
 "{Kazushi}\n"
 "\"Mmmmffff!!?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡¡@#$%&...!!?\""
 
 #: 007e6:51
 msgid "C-can't breathe!"
-msgstr ""
+msgstr "¡¡Me está asfixiando!!"
 
 #: 007e6:55
 msgid ""
 "{Mei}\n"
 "\"C'won, dwink wif me! Dwink wif me!\""
 msgstr ""
+"{Mei}\n"
+"\"Bebe conmigo...\""
 
 #: 007e6:56
 msgid ""
 "{Kazushi}\n"
 "\"Gulp, gulp...gulp...\""
 msgstr ""
+"{Kazushi}\n"
+"*Kazushi bebiendo*"
 
 #: 007e6:57
 msgid "I-I'll die! I somehow managed to push it out."
-msgstr ""
+msgstr "Va a matarme."
 
 #: 007e6:60
 msgid ""
 "{Kazushi}\n"
 "\"Fwaah! Y-you almost killed me!!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡¡Casi me matas!!\""
 
 #: 007e6:63
 msgid ""
@@ -188,56 +220,72 @@ msgid ""
 "{Kazushi}\n"
 "\"Sensei, this is Japan. I think you need to get some rest.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Tienes que relajarte un poco.\""
 
 #: 007e6:67
 msgid ""
 "{Mei}\n"
 "\"*chug chug chug*\""
 msgstr ""
+"{Mei}\n"
+"*Bebiendo más*"
 
 #: 007e6:68
 msgid "Wah! She's drinking more! And straight from the bottle!"
-msgstr ""
+msgstr "¡Va a por más!"
 
 #: 007e6:69
 msgid ""
 "{Kazushi}\n"
 "\"Look, you need to stop!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Tienes que parar!\""
 
 #: 007e6:72
 msgid ""
 "{Mei}\n"
 "\"Whaf!?\""
 msgstr ""
+"{Mei}\n"
+"\"¿¡Qué!?\""
 
 #: 007e6:73
 msgid "The bottle I took from her said \"vodka\" on the label. Yeah, drinking that from the bottle would get a person drunk."
-msgstr ""
+msgstr "Estaba a punto de finiquitar una botella de vodka."
 
 #: 007e6:74
 msgid ""
 "{Mei}\n"
 "\"Whaf awe you doing?! Gif it back to meee!\""
 msgstr ""
+"{Mei}\n"
+"\"¡¡Devuélvemelo...!!\""
 
 #: 007e6:75
 msgid ""
 "{Kazushi}\n"
 "\"No vodka for you!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡Ya no hay más para ti!\""
 
 #: 007e6:76
 msgid ""
 "{Mei}\n"
 "\"Hahn? Whaf's that? Awe you comMeinding Mei-chan?\""
 msgstr ""
+"{Mei}\n"
+"\"¿Me estás dando una orden...?\""
 
 #: 007e6:77
 msgid ""
 "{Kazushi}\n"
 "\"You can still make lame puns while this drunk?!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Está bien!?\""
 
 #: 007e6:80
 msgid ""
@@ -248,13 +296,15 @@ msgstr ""
 
 #: 007e6:81
 msgid "Mei-sensei started dancing like some air-headed pop idol after she asked that question."
-msgstr ""
+msgstr "Empieza a bailar."
 
 #: 007e6:82
 msgid ""
 "{Kazushi}\n"
 "\"You are Mei-sensei. Ibuki Mei. Get it together!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eres mi profesora, la señorita Ibuki.\""
 
 #: 007e6:85
 msgid ""
@@ -276,13 +326,15 @@ msgstr ""
 
 #: 007e6:90
 msgid "She was having fun complaining. She guzzled down more liquor as she chuckled."
-msgstr ""
+msgstr "Está bebiendo más."
 
 #: 007e6:91
 msgid ""
 "{Kazushi}\n"
 "\"Oh man, that's a lot of booze......\""
 msgstr ""
+"{Kazushi}\n"
+"\"Oh no. Eso es demasiado...\""
 
 #: 007e6:92
 msgid ""
@@ -296,6 +348,9 @@ msgid ""
 "\"I dunno.\n"
 "I think four?\""
 msgstr ""
+"{Kazushi}\n"
+"\"No sé.\n"
+"¿Cuatro quizá?\""
 
 #: 007e6:96
 msgid ""
@@ -309,16 +364,20 @@ msgid ""
 "{Kazushi}\n"
 "\"Why not!?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿¡Qué quieres decir!?\""
 
 #: 007e6:98
 msgid "Well, there's no way she was one. Damn, I didn't know sensei was such a bad drunk."
-msgstr ""
+msgstr "No sabía que fuese alcohólica."
 
 #: 007e6:99
 msgid ""
 "{Kazushi}\n"
 "\"What am I going to do with her?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Qué debería hacer co nella?\""
 
 #: 007e6:105
 msgid ""
@@ -326,50 +385,65 @@ msgid ""
 "\"Oh, no!\n"
 "Is she drunk again?!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡No...!\n"
+"¿Ya vuelve a estar borracha?\""
 
 #: 007e6:106
 msgid "Thank god, Ran and Haruka showed up to help me."
-msgstr ""
+msgstr "Gracias a Dios Ran y Haruka aparecieron para ayudarme."
 
 #: 007e6:107
 msgid ""
 "{Ran}\n"
 "\"Ho boy, this is bad. Should we just make her drink until she passes out?\""
 msgstr ""
+"{Ran}\n"
+"\"Creo que ahora lo mejor es hacer que beba hasta que se desmaye.\""
 
 #: 007e6:110
 msgid ""
 "{Haruka}\n"
 "\"Ah! No, don't! Mei-chan never passes out! She just gets worse and worse until she starts crying.\""
 msgstr ""
+"{Haruka}\n"
+"\"No. ¿Recuerdas? Empieza a llorar antes de desmayarse.\""
 
 #: 007e6:111
 msgid ""
 "{Kazushi}\n"
 "\"That's terrible!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Eso es terrible.\""
 
 #: 007e6:114
 msgid ""
 "{Ran}\n"
 "\"Why does she like drinking so much?\""
 msgstr ""
+"{Ran}\n"
+"\"¿Por qué bebe tanto?\""
 
 #: 007e6:118
 msgid ""
 "{Mei}\n"
 "\"Oh yeah...\""
 msgstr ""
+"{Mei}\n"
+"\"Ah, sí.\""
 
 #: 007e6:119
 msgid "Sensei patted her hand as she remembered something and stared at Haruka."
-msgstr ""
+msgstr "Ha recordado algo."
 
 #: 007e6:122
 msgid ""
 "{Mei}\n"
 "\"Haruka-chan! I challenge you!\""
 msgstr ""
+"{Mei}\n"
+"\"¡Haruka! ¡Te desafío!\""
 
 #: 007e6:123
 msgid "She said it like she was throwing down for a wrestling match."
@@ -380,6 +454,8 @@ msgid ""
 "{Kazushi}\n"
 "\"What's that supposed to mean?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿A qué se refiere con eso?\""
 
 #: 007e6:127
 msgid ""
@@ -387,24 +463,33 @@ msgid ""
 "\"I don't know. She does it every time she gets drunk, though!\n"
 "It really pisses me off - any chance I can just punch her?\""
 msgstr ""
+"{Haruka}\n"
+"\"No lo sé. ¡Lo dice siempre que acaba borracha!\n"
+"Y me cabrea. ¿Le puedo pegar un puñetazo?\""
 
 #: 007e6:131
 msgid ""
 "{Ran}\n"
 "\"Now, now, calm down. Come on, Mei-chan, you too.\""
 msgstr ""
+"{Ran}\n"
+"\"Tranquilízate, Haruka.\""
 
 #: 007e6:135
 msgid ""
 "{Mei}\n"
 "\"Ina bow-wow! Bow-wow!\""
 msgstr ""
+"{Mei}\n"
+"\"¡@#$%^&*!\""
 
 #: 007e6:136
 msgid ""
 "{Haruka}\n"
 "\"I wanna knock her out!\""
 msgstr ""
+"{Haruka}\n"
+"\"¡Quiero darle un puñetazo!\""
 
 #: 007e6:137
 msgid ""
@@ -412,88 +497,114 @@ msgid ""
 "\"Ahh! Stop! Stop!\n"
 "Mei-sensei, you need to take a break!\""
 msgstr ""
+"{Kazushi}\n"
+"\"¡No, para!\n"
+"Señorita Ibuki, ¡tienes que descansar!\""
 
 #: 007e6:142
 msgid ""
 "{Mei}\n"
 "\"Wheeeaah?\""
 msgstr ""
+"{Mei}\n"
+"\"¿Qué...?\""
 
 #: 007e6:143
 msgid "As she put on flirtatious airs, I pulled her arm and sat her into a chair."
-msgstr ""
+msgstr "Hice que se sentara."
 
 #: 007e6:146
 msgid ""
 "{Mei}\n"
 "\"Whah? Jus wittle ol me? Haruman, sit.\""
 msgstr ""
+"{Mei}\n"
+"\"¿Por qué solo yo?\n"
+"Siéntate tú también.\""
 
 #: 007e6:147
 msgid ""
 "{Kazushi}\n"
 "\"Haruman?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está bien...\""
 
 #: 007e6:148
 msgid ""
 "{Mei}\n"
 "\"Sit wif me!!\""
 msgstr ""
+"{Mei}\n"
+"\"¡¡Siéntate conmigo...!!\""
 
 #: 007e6:149
 msgid ""
 "{Kazushi}\n"
 "\"Alright, alright.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Sí, sí.\""
 
 #: 007e6:152
 msgid "She yanked on my arm to make me sit down."
-msgstr ""
+msgstr "Me estiró del brazo par ahacer que me sentara."
 
 #: 007e6:153
 msgid ""
 "{Mei}\n"
 "\"Haruma, you'we younger than me, so you haf to do whahevew I say.\""
 msgstr ""
+"{Mei}\n"
+"\"¡Tienes que atender a mis órdenes!\""
 
 #: 007e6:154
 msgid ""
 "{Kazushi}\n"
 "\"Are you the boss of the playground now?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Lo dices como un general.\""
 
 #: 007e6:155
 msgid ""
 "{Mei}\n"
 "\"Be my pillow!\""
 msgstr ""
+"{Mei}\n"
+"\"¡Hazme de almohada!\""
 
 #: 007e6:157
 msgid "She leaned her head against my shoulder."
-msgstr ""
+msgstr "Se recuesta sobre mi hombro."
 
 #: 007e6:158
 msgid ""
 "{Kazushi}\n"
 "\"Is this what you want?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Es eso lo que quieres?\""
 
 #: 007e6:159
 msgid ""
 "{Mei}\n"
 "\"Zzz......Zzz...\""
 msgstr ""
+"{Mei}\n"
+"*Durmiendo*"
 
 #: 007e6:160
 msgid ""
 "{Kazushi}\n"
 "\"Huh? She's asleep?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Te estás quedando adormecida?\""
 
 #: 007e6:161
 msgid "Sure enough, she fell asleep in seconds."
-msgstr ""
+msgstr "Se quedó dormida en unos pocos segundos."
 
 #: 007e6:166
 msgid ""
@@ -501,46 +612,61 @@ msgid ""
 "\"Good job.\n"
 "She won't cause any more trouble now.\""
 msgstr ""
+"{Haruka}\n"
+"\"Bien hecho.\n"
+"Ya no habrá más problemas.\""
 
 #: 007e6:167
 msgid ""
 "{Ran}\n"
 "\"She must really like your shoulder. Can I give it a try next time?\""
 msgstr ""
+"{Ran}\n"
+"\"Le debe gustar tu hombro. ¿Puedo usarlo yo la próxima vez?\""
 
 #: 007e6:168
 msgid ""
 "{Kazushi}\n"
 "\"Sure, but what should I do now?\""
 msgstr ""
+"{Kazushi}\n"
+"\"Ey, chicas. ¿Y ahora qué hago?\""
 
 #: 007e6:171
 msgid ""
 "{Haruka}\n"
 "\"Just let her sleep there for a while. She'll be back to normal when she wakes up.\""
 msgstr ""
+"{Haruka}\n"
+"\"Déjala dormir un rato.\""
 
 #: 007e6:172
 msgid ""
 "{Kazushi}\n"
 "\"Normal, huh...\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Creéis que estará bien cuando se despierte...?\""
 
 #: 007e6:173
 msgid ""
 "{Mei}\n"
 "\"Zzz... Zzz...\""
 msgstr ""
+"{Mei}\n"
+"*Durmiend*"
 
 #: 007e6:174
 msgid "We sure have one heck of a teacher."
-msgstr ""
+msgstr "Tenemos a un demonio de profesora."
 
 #: 007e6:177
 msgid ""
 "{Ran}\n"
 "\"Well, I'm going to go eat some more.\""
 msgstr ""
+"{Ran}\n"
+"\"Me voy a comer un poco más.\""
 
 #: 007e6:178
 msgid ""
@@ -559,51 +685,66 @@ msgid ""
 "{Haruka}\n"
 "\"Good point. Take care of sensei!\""
 msgstr ""
+"{Haruka}\n"
+"\"Tienes razón.\""
 
 #: 007e6:185
 msgid ""
 "{Ran}\n"
 "\"Don't feel her up!\""
 msgstr ""
+"{Ran}\n"
+"\"¡Y no la toques!\""
 
 #: 007e6:186
 msgid ""
 "{Kazushi}\n"
 "\"Of course not!\""
 msgstr ""
+"{Kazushi}\n"
+"\"Descuida.\""
 
 #: 007e6:189
 msgid "They left to get more food."
-msgstr ""
+msgstr "Se fueron a por más comida."
 
 #: 007e6:190
+# Revisar.
 msgid ""
 "{Kazushi}\n"
 "\"That was exhausting.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Qué estrés.\""
 
 #: 007e6:191
 msgid "Although, this is pretty good. There's a nice soft, comfortable weight against my shoulders. Sensei smells nice too."
-msgstr ""
+msgstr "La verdad es que se está bastante agustito cuidando de ella. Su cabello huele bien."
 
 #: 007e6:192
 msgid ""
 "{Kazushi}\n"
 "\"I wonder if it's perfume?\""
 msgstr ""
+"{Kazushi}\n"
+"\"¿Es champú?\""
 
 #: 007e6:193
 msgid ""
 "{Mei}\n"
 "\"Zzz...Zzz...\""
 msgstr ""
+"{Mei}\n"
+"*Durmiendo*"
 
 #: 007e6:194
 msgid ""
 "{Kazushi}\n"
 "\"She's sound asleep.\""
 msgstr ""
+"{Kazushi}\n"
+"\"Está durmiendo profundamente.\""
 
 #: 007e6:195
 msgid "I'll let her sleep as much as she wants."
-msgstr ""
+msgstr "Dejaré que duerma todo lo que quiera."
