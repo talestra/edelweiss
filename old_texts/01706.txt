@@ -1691,7 +1691,7 @@
 @1080
 # TODO: Hay que ver si se puede poner {Kazushi} o si se rompería el juego.
 <en>{Kazushi}\n *sniff*
-<es>Kazushi\t*Llorando*
+<es>{Kazushi}\n*Llorando*
 
 @1081
 <en>{Ran}\n"Wow.\nAre you crying too, Kazushi?"

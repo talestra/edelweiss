@@ -2906,7 +2906,7 @@ msgstr "No sé por qué, pero esta vista hace que me entren ganas de llorar."
 msgid ""
 "{Kazushi}\n"
 " *sniff*"
-msgstr "Kazushi\t*Llorando*"
+msgstr "{Kazushi}\n*Llorando*"
 
 #: 01706:1081
 msgid ""
